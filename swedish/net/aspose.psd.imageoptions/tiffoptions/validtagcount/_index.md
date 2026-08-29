@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Får det giltiga taggantalet. Detta är inte det totala antalet taggar utan antalet taggar som kan bevaras.
+title: "TiffOptions.ValidTagCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar antalet giltiga taggar. Detta är inte det totala antalet taggar utan antalet taggar som kan bevaras."
 type: docs
-weight: 570
+weight: 580
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
-Får det giltiga taggantalet. Detta är inte det totala antalet taggar utan antalet taggar som kan bevaras.
+Hämtar det giltiga antalet taggar. Detta är inte det totala antalet taggar utan antalet taggar som kan bevaras.
 
 ```csharp
 public int ValidTagCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Det giltiga taggantalet.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

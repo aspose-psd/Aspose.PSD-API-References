@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics fast egendom. Hämtar eller ställer in en kopia av den geometriska världsomvandlingen för dettaGraphics .
+title: "Graphics.Transform"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-egenskap. Hämtar eller anger en kopia av den geometriska världstransformationen för detta Graphics"
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-Hämtar eller ställer in en kopia av den geometriska världsomvandlingen för detta[`Graphics`](../) .
+Hämtar eller anger en kopia av den geometriska världstransformationen för detta [`Graphics`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En kopia av[`Matrix`](../../matrix/) som representerar den geometriska världsomvandlingen för detta[`Graphics`](../) .
+En kopia av [`Matrix`](../../matrix/) som representerar den geometriska världstransformationen för detta [`Graphics`](../).
 
 ### Se även
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Enum StringDigitSubstitute
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.StringDigitSubstitute uppräkning. Uppräkningen anger hur man byter ut siffror i en sträng enligt en användares språk eller språk.
+title: "Enum StringDigitSubstitute"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.StringDigitSubstitute enum. Uppräkningen specificerar hur man ersätter siffror i en sträng enligt en användares lokala inställning eller språk"
 type: docs
-weight: 5660
+weight: 6160
 url: /sv/net/aspose.psd/stringdigitsubstitute/
 ---
+{{< psd/tize >}}
 ## StringDigitSubstitute enumeration
 
-Uppräkningen anger hur man byter ut siffror i en sträng enligt en användares språk eller språk.
+Enumeringen anger hur siffror i en sträng ska ersättas enligt en användares språk eller lokala inställning.
 
 ```csharp
 public enum StringDigitSubstitute
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| User | `0` | Anger ett användardefinierat ersättningsschema. |
-| None | `1` | Anger att inaktivera ersättningar. |
-| National | `2` | Anger ersättningssiffror som motsvarar det officiella nationella språket för användarens språk. |
-| Traditional | `3` | Anger ersättningssiffror som motsvarar användarens ursprungliga skript eller språk, som kan skilja sig från det officiella nationella språket för användarens språk. |
+| User | `0` | Specificerar ett användardefinierat ersättningsschema. |
+| None | `1` | Specificerar att inaktivera ersättningar. |
+| National | `2` | Specificerar ersättningssiffror som motsvarar det officiella nationella språket för användarens lokala inställning. |
+| Traditional | `3` | Specificerar ersättningssiffror som motsvarar användarens inhemska skriftsystem eller språk, vilket kan skilja sig från det officiella nationella språket för användarens lokala inställning. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

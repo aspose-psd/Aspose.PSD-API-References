@@ -1,11 +1,12 @@
 ---
-title: Class XmpResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.XmpResource klass. Representerar XMPmetadataresursen.
+title: "Klass XmpResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.XmpResource klass. Representerar XMP-metadataresursen"
 type: docs
-weight: 3990
+weight: 4460
 url: /sv/net/aspose.psd.fileformats.psd.resources/xmpresource/
 ---
+{{< psd/tize >}}
 ## XmpResource class
 
 Representerar XMP-metadataresursen.
@@ -16,25 +17,25 @@ public sealed class XmpResource : ResourceBlock
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XmpResource](xmpresource/)() | Default_Constructor |
+| [XmpResource](xmpresource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/xmpresource/datasize/) { get; } | Hämtar resursdatastorleken i byte. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller ställer in den unika identifieraren för resursen. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/xmpresource/minimalversion/) { get; } | Får den minsta nödvändiga psd-versionen. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller ställer in resursnamnet. Pascal-sträng, vadderad för att göra storleken jämn (ett nollnamn består av två byte på 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resurssignaturen. Bör alltid vara '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockstorleken i byte inklusive dess data. |
-| [XmpData](../../aspose.psd.fileformats.psd.resources/xmpresource/xmpdata/) { get; set; } | Hämta eller ställ in XMP-databehållare |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/xmpresource/datasize/) { get; } | Hämtar resursens datastorlek i byte. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller anger den unika identifieraren för resursen. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/xmpresource/minimalversion/) { get; } | Hämtar den minsta erforderliga PSD-versionen. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller anger resursnamnet. Pascal-sträng, utfylld för att göra storleken jämn (ett nullnamn består av två nollbyte). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resursens signatur. Ska alltid vara '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockets storlek i byte inklusive dess data. |
+| [XmpData](../../aspose.psd.fileformats.psd.resources/xmpresource/xmpdata/) { get; set; } | Hämta eller ange XMP-datakontainer |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Sparar resursblocket till den angivna strömmen. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Validerar resursvärdena. |
@@ -42,7 +43,7 @@ public sealed class XmpResource : ResourceBlock
 ### Se även
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

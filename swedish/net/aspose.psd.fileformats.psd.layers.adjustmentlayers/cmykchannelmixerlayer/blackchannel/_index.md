@@ -1,20 +1,21 @@
 ---
-title: CmykChannelMixerLayer.BlackChannel
-second_title: Aspose.PSD för .NET API-referens
-description: CmykChannelMixerLayer fast egendom. Får den svarta kanalen.
+title: "CmykChannelMixerLayer.BlackChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykChannelMixerLayer-egenskap. Hämtar den svarta kanalen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/blackchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.BlackChannel property
 
-Får den svarta kanalen.
+Hämtar den svarta kanalen.
 
 ```csharp
 public CmykMixerChannel BlackChannel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den svarta kanalen.
 
@@ -22,7 +23,7 @@ Den svarta kanalen.
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

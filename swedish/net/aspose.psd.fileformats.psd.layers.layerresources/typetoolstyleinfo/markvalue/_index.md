@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.MarkValue
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolStyleInfo fast egendom. Hämtar eller ställer in märkesvärdet.
+title: "TypeToolStyleInfo.MarkValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolStyleInfo egenskap. Hämtar eller anger markvärdet"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.MarkValue property
 
-Hämtar eller ställer in märkesvärdet.
+Hämtar eller anger markvärdet.
 
 ```csharp
 public short MarkValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Märkevärdet.
+Markvärdet.
 
 ### Se även
 
 * class [TypeToolStyleInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

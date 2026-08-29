@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.CoreExceptions.ImageFormats
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller undantag från ett av filformaten som stöds.
+title: "Aspose.PSD.CoreExceptions.ImageFormats"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller undantag som kastas av ett av de stödda filformaten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.coreexceptions.imageformats/
 ---
-Namnutrymmet innehåller undantag från ett av filformaten som stöds.
+{{< psd/tize >}}
+Namnområdet innehåller undantag som kastas av ett av de stödda filformaten.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [BmpImageException](./bmpimageexception/) | Undantaget för bmp-bild. |
-| [GifImageException](./gifimageexception/) | Undantaget för Gif-bild. |
-| [Jpeg2000Exception](./jpeg2000exception/) | Undantag för Jpeg-filer |
-| [JpegException](./jpegexception/) | Undantag för Jpeg-filer |
-| [JpegLoadException](./jpegloadexception/) | Representerar undantaget för JPEG-bildladdning. |
-| [PngImageException](./pngimageexception/) | Undantaget för png-bilden. |
-| [PsdImageArgumentException](./psdimageargumentexception/) | Undantaget för psd-bildargumentet. |
-| [PsdImageException](./psdimageexception/) | Undantaget för psd-bilden. |
-| [PsdImageResourceException](./psdimageresourceexception/) | Undantaget för psd-bildresursen. |
-| [TiffImageException](./tiffimageexception/) | Undantaget för Tiff-bilden |
+| [BmpImageException](./bmpimageexception/) | Bmp-bildundantaget. |
+| [GifImageException](./gifimageexception/) | Gif-bildundantaget. |
+| [Jpeg2000Exception](./jpeg2000exception/) | Undantag för JPEG-filer |
+| [JpegException](./jpegexception/) | Undantag för JPEG-filer |
+| [JpegLoadException](./jpegloadexception/) | Representerar JPEG-bildladdningsundantaget. |
+| [PngImageException](./pngimageexception/) | Png-bildundantaget. |
+| [PsdImageArgumentException](./psdimageargumentexception/) | Psd-bildargumentundantaget. |
+| [PsdImageException](./psdimageexception/) | Psd-bildundantaget. |
+| [PsdImageResourceException](./psdimageresourceexception/) | Psd-bildresursundantaget. |
+| [TiffImageException](./tiffimageexception/) | Tiff-bildundantaget |
 
 

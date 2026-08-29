@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSupplementalCategories
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Anger kompletterande kategorier.
+title: "PhotoshopPackage.SetSupplementalCategories"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in kompletterande kategorier"
 type: docs
 weight: 180
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSupplementalCategories method
 
 Anger kompletterande kategorier.
@@ -21,7 +22,7 @@ public void SetSupplementalCategories(string[] supplementalCategories)
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

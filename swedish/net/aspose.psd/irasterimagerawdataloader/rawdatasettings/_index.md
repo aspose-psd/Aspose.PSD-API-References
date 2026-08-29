@@ -1,20 +1,21 @@
 ---
-title: IRasterImageRawDataLoader.RawDataSettings
-second_title: Aspose.PSD för .NET API-referens
-description: IRasterImageRawDataLoader fast egendom. Hämtar aktuella rådatainställningar. Observera att när du använder dessa inställningar laddas data utan konvertering.
+title: "IRasterImageRawDataLoader.RawDataSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IRasterImageRawDataLoader-egenskapen. Hämtar de aktuella inställningarna för rådata. Observera att när dessa inställningar används laddas data utan konvertering"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/irasterimagerawdataloader/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.RawDataSettings property
 
-Hämtar aktuella rådatainställningar. Observera att när du använder dessa inställningar laddas data utan konvertering.
+Hämtar de aktuella rådatainställningarna. Observera att när dessa inställningar används laddas data utan konvertering.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De aktuella rådatainställningarna.
 
@@ -22,7 +23,7 @@ De aktuella rådatainställningarna.
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* namnutrymme [Aspose.PSD](../../irasterimagerawdataloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum TiffFileStandards
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards uppräkning. Anger standarder för TIFFfilformat.
+title: "Enum TiffFileStandards"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards enum. Anger TIFF-filformatstandarderna"
 type: docs
-weight: 4080
+weight: 4550
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
+{{< psd/tize >}}
 ## TiffFileStandards enumeration
 
-Anger standarder för TIFF-filformat.
+Anger TIFF-filformatstandarderna.
 
 ```csharp
 public enum TiffFileStandards : ushort
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Baseline | `0` | Baseline TIFF 6.0-filstandarden. Denna standard är formellt känd som TIFF 6.0, del 1: Baseline TIFF. |
-| Extended | `1` | Filstandarden Extended TIFF 6.0. Denna standard är formellt känd som Extended TIFF 6.0, Del 2: TIFF Extensions. |
+| Baseline | `0` | Baseline TIFF 6.0-filstandarden. Denna standard är formellt känd som TIFF 6.0, Del 1: Baseline TIFF. |
+| Extended | `1` | Extended TIFF 6.0-filstandarden. Denna standard är formellt känd som Extended TIFF 6.0, Del 2: TIFF Extensions. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

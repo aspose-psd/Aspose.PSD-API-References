@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.IsLinkedWithLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PtFlResource fast egendom. Hämtar eller ställer in ett värde som anger om denna instans är länkad med lager.
+title: "PtFlResource.IsLinkedWithLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PtFlResource egenskap. Hämtar eller anger ett värde som indikerar om detta objekt är länkat till lager"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.IsLinkedWithLayer property
 
-Hämtar eller ställer in ett värde som anger om denna instans är länkad med lager.
+Hämtar eller anger ett värde som indikerar om denna instans är länkad med lager.
 
 ```csharp
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är länkad till lager; annat,`falsk` .
+`true` om detta objekt är länkat till lager; annars, `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för att ladda och redigera en PtFlResource-resurs.
+Följande exempel demonstrerar stöd för inläsning och redigering av en PtFlResource-resurs.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // Läser
+                    // Läsning
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Vi har inte mönsterdata i PattResource, så vi kan lägga till det.
+                    // Vi har ingen mönsterdata i PattResource, så vi kan lägga till den.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -89,7 +90,7 @@ using (im)
 ### Se även
 
 * class [PtFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Keys
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackage fast egendom. Hämtar nycklarna i XMPpaketet.
+title: "XmpPackage.Keys"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackage-egenskap. Hämtar nycklarna i XMP-paketet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp/xmppackage/keys/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Keys property
 
 Hämtar nycklarna i XMP-paketet.
@@ -14,14 +15,14 @@ Hämtar nycklarna i XMP-paketet.
 public virtual KeyCollection<string, object> Keys { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nycklarna i XMP-paketet.
 
 ### Se även
 
 * class [XmpPackage](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

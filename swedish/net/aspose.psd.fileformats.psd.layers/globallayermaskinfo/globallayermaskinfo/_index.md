@@ -1,14 +1,15 @@
 ---
-title: GlobalLayerMaskInfo.GlobalLayerMaskInfo
-second_title: Aspose.PSD för .NET API-referens
-description: GlobalLayerMaskInfo byggare. Default_Constructor
+title: "GlobalLayerMaskInfo.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GlobalLayerMaskInfo konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public GlobalLayerMaskInfo()
@@ -17,7 +18,7 @@ public GlobalLayerMaskInfo()
 ### Se även
 
 * class [GlobalLayerMaskInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

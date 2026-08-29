@@ -1,27 +1,28 @@
 ---
-title: Image.AutoAdjustPalette
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. Hämtar eller ställer in ett värde som anger om paletten för automatisk justering.
+title: "Image.AutoAdjustPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-egenskap. Hämtar eller anger ett värde som indikerar om automatisk justering av palett"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/image/autoadjustpalette/
 ---
+{{< psd/tize >}}
 ## Image.AutoAdjustPalette property
 
-Hämtar eller ställer in ett värde som anger om paletten för automatisk justering.
+Hämtar eller anger ett värde som indikerar om paletten justeras automatiskt.
 
 ```csharp
 public bool AutoAdjustPalette { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om aktivera palett för automatisk justering; annat,`falsk` .
+`true` om automatisk justering av palett är aktiverad; annars `false`.
 
 ### Se även
 
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

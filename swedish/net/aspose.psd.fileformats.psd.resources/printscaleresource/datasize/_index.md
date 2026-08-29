@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.DataSize
-second_title: Aspose.PSD för .NET API-referens
-description: PrintScaleResource fast egendom. Hämtar resursdatastorleken i byte.
+title: "PrintScaleResource.DataSize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PrintScaleResource egenskap. Hämtar resursens datastorlek i byte"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.resources/printscaleresource/datasize/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.DataSize property
 
-Hämtar resursdatastorleken i byte.
+Hämtar resursens datastorlek i byte.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Resursdatastorleken.
+Resursens datastorlek.
 
 ### Se även
 
 * class [PrintScaleResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

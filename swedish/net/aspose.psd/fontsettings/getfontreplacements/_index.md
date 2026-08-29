@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Hämtar teckensnittsersättningsmatrisen med teckensnittet name
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metod. Hämtar arrayen med teckensnittsersättningar via teckensnittets namn."
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-Hämtar teckensnittsersättningsmatrisen med teckensnittet name
+Hämtar teckensnittsersättningsarrayen via teckensnittsnamnet
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
@@ -16,15 +17,15 @@ public static string[] GetFontReplacements(string fontName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | Typsnittets namn. |
+| fontName | String | Teckensnittets namn. |
 
 ### Returvärde
 
-En rad namn på ersättningar för medföljande typsnitt
+Array av namn på ersättningar för angivna teckensnitt.
 
-### Exempel
+## Exempel
 
-Följande kod demonstrerar förmågan att programmässigt begränsa teckensnitt med hjälp av.
+Följande kod demonstrerar möjligheten att programatiskt begränsa teckensnitt med hjälp av.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

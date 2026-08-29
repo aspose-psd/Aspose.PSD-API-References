@@ -1,26 +1,27 @@
 ---
-title: LiFeDataSource.FileName
-second_title: Aspose.PSD för .NET API-referens
-description: LiFeDataSource fast egendom. Hämtar eller ställer in namnet på den externa eller inbäddade filen i PSDlänkresursen .
+title: "LiFeDataSource.FileName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LiFeDataSource-egenskap. Hämtar eller anger namnet på den externa eller inbäddade filen i PSD-länkretsursen."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.FileName property
 
-Hämtar eller ställer in namnet på den externa eller inbäddade filen i PSD-länkresursen .
+Hämtar eller anger namnet på den externa eller inbäddade filen i PSD‑länkretsursen.
 
 ```csharp
 public string FileName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på den externa eller inbäddade filen.
 
-### Exempel
+## Exempel
 
-Det här exemplet visar hur man hämtar och ställer in egenskaper för Psd LnkE-resursen.
+Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkE-resursen.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för Psd LnkE-resursen som innehåller information om en extern länkad fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkE-resursen som innehåller information om en extern länkad fil.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -111,7 +112,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Det här exemplet visar hur man får och ställer in egenskaper för Psd LnkeResource som innehåller information om extern länkad JPEG-fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkeResource som innehåller information om en extern länkad JPEG-fil.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -130,7 +131,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för PSD LnkeResource som innehåller information om en extern länkad PNG-fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD LnkeResource som innehåller information om en extern länkad PNG-fil.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -149,7 +150,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för PSD LnkeResource som innehåller information om två externt länkade PNG- och PSD-filer.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD LnkeResource som innehåller information om två externa länkade PNG- och PSD-filer.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -168,7 +169,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för Photoshop Psd LnkeResource som innehåller information om en extern länkad CC Libraries Asset.
+// Detta exempel visar hur man hämtar och anger egenskaper för Photoshop Psd LnkeResource som innehåller information om en extern länkad CC Libraries‑tillgång.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -188,7 +189,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-Följande kod visar stödet för LnkeResource-resursen.
+Följande kod demonstrerar stöd för LnkeResource-resursen.
 
 ```csharp
 [C#]
@@ -413,7 +414,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### Se även
 
 * class [LiFeDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

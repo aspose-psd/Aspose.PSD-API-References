@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Smooth
-second_title: Aspose.PSD för .NET API-referens
-description: MotionWienerFilterOptions fast egendom. Får eller ställer in den jämna.
+title: "MotionWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MotionWienerFilterOptions egenskap. Hämtar eller anger den släta"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Smooth property
 
-Får eller ställer in den jämna.
+Hämtar eller anger smooth.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den släta.
+Utjämningen.
 
 ### Se även
 
 * class [MotionWienerFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

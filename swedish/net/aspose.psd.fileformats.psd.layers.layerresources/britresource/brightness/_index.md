@@ -1,27 +1,28 @@
 ---
-title: BritResource.Brightness
-second_title: Aspose.PSD för .NET API-referens
-description: BritResource fast egendom. Hämtar eller ställer in ljusstyrkan.
+title: "BritResource.Brightness"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BritResource-egenskap. Hämtar eller anger ljusstyrkan"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness/
 ---
+{{< psd/tize >}}
 ## BritResource.Brightness property
 
-Hämtar eller ställer in ljusstyrkan.
+Hämtar eller anger ljusstyrkan.
 
 ```csharp
 public short Brightness { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Ljusstyrkan.
 
 ### Se även
 
 * class [BritResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

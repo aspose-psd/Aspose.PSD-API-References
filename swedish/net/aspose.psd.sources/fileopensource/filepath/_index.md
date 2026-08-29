@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FilePath
-second_title: Aspose.PSD för .NET API-referens
-description: FileOpenSource fast egendom. Får filsökvägen att öppna.
+title: "FileOpenSource.FilePath"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FileOpenSource egenskap. Hämtar filvägen att öppna"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
-Får filsökvägen att öppna.
+Hämtar filsökvägen för öppning.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Filsökvägen som ska öppnas.
+Filvägen att öppna.
 
 ### Se även
 
 * class [FileOpenSource](../)
-* namnutrymme [Aspose.PSD.Sources](../../fileopensource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

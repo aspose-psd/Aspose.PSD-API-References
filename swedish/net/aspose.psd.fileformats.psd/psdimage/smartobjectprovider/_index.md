@@ -1,28 +1,29 @@
 ---
-title: PsdImage.SmartObjectProvider
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Får leverantören av smarta objekt.
+title: "PsdImage.SmartObjectProvider"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar leverantören av smarta objekt"
 type: docs
 weight: 240
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## PsdImage.SmartObjectProvider property
 
-Får leverantören av smarta objekt.
+Hämtar den smarta objektleverantören.
 
 ```csharp
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Leverantören av smarta objekt.
+Smartobjektleverantören.
 
 ### Se även
 
 * class [SmartObjectProvider](../../smartobjectprovider/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpRightsManagementPackage.SetCertificate
-second_title: Aspose.PSD för .NET API-referens
-description: XmpRightsManagementPackage metod. Ställer in certifikatet.
+title: "XmpRightsManagementPackage.SetCertificate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpRightsManagementPackage metod. Sätter certifikatet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetCertificate method
 
-Ställer in certifikatet.
+Anger certifikatet.
 
 ```csharp
 public void SetCertificate(string certificate)
@@ -21,7 +22,7 @@ public void SetCertificate(string certificate)
 ### Se även
 
 * class [XmpRightsManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

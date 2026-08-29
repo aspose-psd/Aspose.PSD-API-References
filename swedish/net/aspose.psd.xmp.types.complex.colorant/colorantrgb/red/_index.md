@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Red
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantRgb fast egendom. Hämtar eller ställer in det röda komponentvärdet.
+title: "ColorantRgb.Red"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantRgb egenskap. Hämtar eller anger värdet för den röda komponenten"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/red/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Red property
 
-Hämtar eller ställer in det röda komponentvärdet.
+Hämtar eller anger röd-komponentvärdet.
 
 ```csharp
 public byte Red { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det röda komponentvärdet.
+Värdet för den röda komponenten.
 
 ### Se även
 
 * class [ColorantRgb](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PathStructure.PathStructure
-second_title: Aspose.PSD för .NET API-referens
-description: PathStructure byggare. Initierar en ny instans avPathStructure class.
+title: "PathStructure.PathStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PathStructure-konstruktor. Initierar en ny instans av klassen PathStructure"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
+{{< psd/tize >}}
 ## PathStructure constructor
 
-Initierar en ny instans av[`PathStructure`](../) class.
+Initierar en ny instans av klassen [`PathStructure`](../).
 
 ```csharp
 public PathStructure(ClassID keyName)
@@ -16,11 +17,11 @@ public PathStructure(ClassID keyName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keyName | ClassID | Nyckelns namn. |
+| keyName | ClassID | Nyckelnamnet. |
 
-### Exempel
+## Exempel
 
-Följande kod visar förmågan att ladda fil med PathStructure-struktur.
+Följande kod demonstrerar förmågan att läsa in en fil med PathStructure-struktur.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PathStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

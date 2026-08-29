@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.IsStreamDisposedOnClose
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer fast egendom. Får ett värde som indikerar om den här strömmen slängs vid stängning.
+title: "StreamContainer.IsStreamDisposedOnClose"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer egenskap. Hämtar ett värde som indikerar om denna ström avyttras vid stängning."
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/streamcontainer/isstreamdisposedonclose/
 ---
+{{< psd/tize >}}
 ## StreamContainer.IsStreamDisposedOnClose property
 
-Får ett värde som indikerar om den här strömmen slängs vid stängning.
+Hämtar ett värde som indikerar om denna ström avyttras vid stängning.
 
 ```csharp
 public virtual bool IsStreamDisposedOnClose { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om strömmen kastas på nära håll; annat,`falsk`.
+`true` om strömmen avyttras vid stängning; annars, `false`.
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

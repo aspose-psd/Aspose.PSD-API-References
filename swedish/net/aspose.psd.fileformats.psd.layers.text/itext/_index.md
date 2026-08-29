@@ -1,11 +1,12 @@
 ---
-title: Interface IText
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText gränssnitt. Gränssnitt för textredigering för textlager
+title: "Gränssnitt IText"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.IText interface. Gränssnitt för textredigering för textlager"
 type: docs
-weight: 3510
+weight: 3930
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
+{{< psd/tize >}}
 ## IText interface
 
 Gränssnitt för textredigering för textlager
@@ -16,26 +17,26 @@ public interface IText
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | Hämtar föremålen. |
+| [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | Hämtar objekten. |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | Hämtar texten. |
-| [TextOrientation](../../aspose.psd.fileformats.psd.layers.text/itext/textorientation/) { get; set; } | Hämtar eller ställer in textorienteringen. |
+| [TextOrientation](../../aspose.psd.fileformats.psd.layers.text/itext/textorientation/) { get; set; } | Hämtar eller anger textorienteringen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Lägger till delen av texten till slutet |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Infogar[`ITextPortion`](../itextportion/) till angiven position |
-| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Producerar den nya delen med standardparametrar |
-| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Producerar de nya delarna med indata eller standardparametrar. |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Tar bort delen i specificerad index |
-| [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | Uppdaterar lagerdata. |
+| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Lägger till textdelen i slutet |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Infogar [`ITextPortion`](../itextportion/) på angiven position |
+| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Skapar den nya delen med standardparametrar |
+| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Skapar de nya delarna med angivna eller standardparametrar. |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Tar bort delen på angivet index |
+| [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | Uppdaterar lagrets data. |
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar redigeringstextdelarna och deras textstil.
+Följande kodexempel demonstrerar redigering av textdelar och deras textstil.
 
 ```csharp
 [C#]
@@ -67,8 +68,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Kontrollera styckedata
-            // Stycken har olika motivering
+            // Kontrollerar styckens data
+            // Stycken har olika justering
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -78,7 +79,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Alla andra egenskaper i första och andra stycket är lika
+            // Alla andra egenskaper för första och andra stycket är lika
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -165,18 +166,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exempel på stycke- och stilredigering för delar
-            // Ställ in rätt motivering
+            // Exempel på redigering av stycke och stil för textdelar
+            // Ställ in högerriktad justering
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Olika färger för varje stil. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika färger för varje stil. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Annat typsnitt. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika typsnitt. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -193,7 +194,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

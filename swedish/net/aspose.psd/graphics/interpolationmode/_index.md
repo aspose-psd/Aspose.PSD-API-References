@@ -1,20 +1,21 @@
 ---
-title: Graphics.InterpolationMode
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics fast egendom. Hämtar eller ställer in interpolationsläget.
+title: "Graphics.InterpolationMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-egenskap. Hämtar eller anger interpolationsläget."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/graphics/interpolationmode/
 ---
+{{< psd/tize >}}
 ## Graphics.InterpolationMode property
 
-Hämtar eller ställer in interpolationsläget.
+Hämtar eller anger interpolationsläget.
 
 ```csharp
 public InterpolationMode InterpolationMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Interpolationsläget.
 
@@ -22,7 +23,7 @@ Interpolationsläget.
 
 * enum [InterpolationMode](../../interpolationmode/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

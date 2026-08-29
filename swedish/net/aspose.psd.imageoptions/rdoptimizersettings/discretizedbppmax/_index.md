@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.DiscretizedBppMax
-second_title: Aspose.PSD för .NET API-referens
-description: RdOptimizerSettings fast egendom. Får det maximala Rvärdet för övervägande.
+title: "RdOptimizerSettings.DiscretizedBppMax"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RdOptimizerSettings property. Hämtar det maximala R‑värdet för övervägning"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.DiscretizedBppMax property
 
-Får det maximala R-värdet för övervägande.
+Hämtar det maximala R‑värdet för övervägning.
 
 ```csharp
 public int DiscretizedBppMax { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det maximala R-värdet för övervägande.
+Det maximala R‑värdet för övervägning.
 
 ### Se även
 
 * class [RdOptimizerSettings](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum ExifColorSpace
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifColorSpace uppräkning. exif färgrymd enum.
+title: "Enum ExifColorSpace"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace‑enum. exif color space‑enum"
 type: docs
-weight: 800
+weight: 810
 url: /sv/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
 exif färgrymd enum.
@@ -14,17 +15,17 @@ exif färgrymd enum.
 public enum ExifColorSpace
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| SRgb | `1` | SRGB färgrymd. |
-| AdobeRgb | `2` | Adobe rgb färgrymd. |
+| SRgb | `1` | SRGB‑färgrymd. |
+| AdobeRgb | `2` | Adobe RGB‑färgrymd. |
 | Uncalibrated | `65535` | Okalibrerad färgrymd. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

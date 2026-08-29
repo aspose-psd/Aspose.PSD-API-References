@@ -1,34 +1,35 @@
 ---
-title: Pen.LineJoin
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Hämtar eller ställer in kopplingsstilen för ändarna av två på varandra följande linjer ritade med dettaPen .
+title: "Pen.LineJoin"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger sammanslagningsstilen för ändarna på två på varandra följande linjer som ritas med denna Pen."
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/pen/linejoin/
 ---
+{{< psd/tize >}}
 ## Pen.LineJoin property
 
-Hämtar eller ställer in kopplingsstilen för ändarna av två på varandra följande linjer ritade med detta[`Pen`](../) .
+Hämtar eller anger sammanslagningsstilen för ändarna på två på varandra följande linjer som ritas med denna [`Pen`](../).
 
 ```csharp
 public LineJoin LineJoin { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A`LineJoin` som representerar sammanfogningsstilen för ändarna av två på varandra följande linjer ritade med detta[`Pen`](../).
+En `LineJoin` som representerar sammanslagningsstilen för ändarna på två på varandra följande linjer som ritas med denna [`Pen`](../).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`LineJoin` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | `LineJoin`-egenskapen sätts på en oföränderlig [`Pen`](../), såsom de som returneras av klassen [`Pen`](../). |
 
 ### Se även
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

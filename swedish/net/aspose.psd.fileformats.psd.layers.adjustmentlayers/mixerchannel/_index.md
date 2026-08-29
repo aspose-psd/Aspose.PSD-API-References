@@ -1,14 +1,15 @@
 ---
-title: Class MixerChannel
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel klass. MixerChannel. Det är omslag för kanalrådata. Används i MixrResource
+title: "Klass MixerChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel klass. MixerChannel. Dess omslag för kanalens rådata. Används i MixrResource"
 type: docs
-weight: 1780
+weight: 1850
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
+{{< psd/tize >}}
 ## MixerChannel class
 
-MixerChannel. Det är omslag för kanalrådata. Används i MixrResource
+MixerChannel. Det är ett omslag för kanalens rådata. Används i MixrResource.
 
 ```csharp
 public abstract class MixerChannel
@@ -16,19 +17,19 @@ public abstract class MixerChannel
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Hämtar eller ställer in konstanten för kanalen. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Hämtar eller anger konstanten för kanalen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Hämtar rådata. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

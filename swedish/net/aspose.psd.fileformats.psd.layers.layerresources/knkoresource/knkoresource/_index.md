@@ -1,14 +1,15 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Aspose.PSD för .NET API-referens
-description: KnkoResource byggare. Initierar en ny instans avKnkoResource class.
+title: "KnkoResource.KnkoResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "KnkoResource-konstruktör. Initierar en ny instans av klassen KnkoResource"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-Initierar en ny instans av[`KnkoResource`](../) class.
+Initierar en ny instans av klassen [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource(bool knockout)
@@ -16,19 +17,19 @@ public KnkoResource(bool knockout)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| knockout | Boolean | om inställt på`Sann` [bland inredningselement]. |
+| knockout | Boolean | om inställd på `true` [blanda inre element]. |
 
 ### Se även
 
 * class [KnkoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-Initierar en ny instans av[`KnkoResource`](../) class.
+Initierar en ny instans av klassen [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource()
@@ -37,14 +38,14 @@ public KnkoResource()
 ### Se även
 
 * class [KnkoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-Initierar en ny instans av[`KnkoResource`](../) class. Med anpassat eller okänt värde
+Initierar en ny instans av klassen [`KnkoResource`](../). Med anpassat eller okänt värde
 
 ```csharp
 public KnkoResource(byte[] data)
@@ -56,14 +57,14 @@ public KnkoResource(byte[] data)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Ogiltigt Knko-resursvärde |
+| ArgumentException | Ogiltigt Knko Resource‑värde |
 
 ### Se även
 
 * class [KnkoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

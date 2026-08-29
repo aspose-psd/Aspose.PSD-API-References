@@ -1,14 +1,15 @@
 ---
-title: XmpArray.Values
-second_title: Aspose.PSD för .NET API-referens
-description: XmpArray fast egendom. Får array av värden inutiXmpArray .
+title: "XmpArray.Values"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpArray egenskap. Hämtar en array av värden i XmpArray"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp/xmparray/values/
 ---
+{{< psd/tize >}}
 ## XmpArray.Values property
 
-Får array av värden inuti[`XmpArray`](../) .
+Hämtar en array av värden i [`XmpArray`](../).
 
 ```csharp
 public string[] Values { get; }
@@ -17,7 +18,7 @@ public string[] Values { get; }
 ### Se även
 
 * class [XmpArray](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmparray/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillRectangles
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Fyller det inre av en serie rektanglar som anges avRectangle strukturer.
+title: "Graphics.FillRectangles"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Fyller innanmålen av en serie rektanglar som anges av Rectangle-strukturer"
 type: docs
-weight: 400
+weight: 410
 url: /sv/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-Fyller det inre av en serie rektanglar som anges av[`Rectangle`](../../rectangle/) strukturer.
+Fyller innanmålen av en serie rektanglar som anges av [`Rectangle`](../../rectangle/) strukturer.
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
@@ -16,28 +17,28 @@ public void FillRectangles(Brush brush, Rectangle[] rects)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| rects | Rectangle[] | Uppsättning av[`Rectangle`](../../rectangle/) strukturer som representerar rektanglarna som ska fyllas. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| rects | Rectangle[] | Array av [`Rectangle`](../../rectangle/) strukturer som representerar rektanglarna att fylla. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är null eller*rects* är inget. |
+| ArgumentNullException | *brush* är null eller *rects* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-Fyller det inre av en serie rektanglar som anges av[`RectangleF`](../../rectanglef/) strukturer.
+Fyller innanmålen av en serie rektanglar som anges av [`RectangleF`](../../rectanglef/) strukturer.
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
@@ -45,21 +46,21 @@ public void FillRectangles(Brush brush, RectangleF[] rects)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| rects | RectangleF[] | Uppsättning av[`Rectangle`](../../rectangle/) strukturer som representerar rektanglarna som ska fyllas. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| rects | RectangleF[] | Array av [`Rectangle`](../../rectangle/) strukturer som representerar rektanglarna att fylla. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är null eller*rects* är inget. |
+| ArgumentNullException | *brush* är null eller *rects* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

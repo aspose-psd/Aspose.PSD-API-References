@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetRgbIndexed
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat metod. Får BGRAindexerad färg med ett specificerat antal bitar per sampel.
+title: "PixelDataFormat.GetRgbIndexed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat-metod. Hämtar BGRA-indexerad färg med ett specificerat antal bitar per prov."
 type: docs
 weight: 270
 url: /sv/net/aspose.psd/pixeldataformat/getrgbindexed/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetRgbIndexed method
 
-Får BGRA-indexerad färg med ett specificerat antal bitar per sampel.
+Hämtar BGRA-indexerad färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetRgbIndexed(int bitsPerSample)
@@ -16,16 +17,16 @@ public static PixelDataFormat GetRgbIndexed(int bitsPerSample)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Antalet bitar per sampel. |
+| bitsPerSample | Int32 | Antalet bitar per prov. |
 
 ### Returvärde
 
-BGRA-färgen.
+Den BGRA-färgen.
 
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

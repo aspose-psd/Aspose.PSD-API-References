@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Width
-second_title: Aspose.PSD för .NET API-referens
-description: AiRasterImageSection fast egendom. Får bredden.
+title: "AiRasterImageSection.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiRasterImageSection property. Hämtar bredden"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Width property
 
-Får bredden.
+Hämtar bredden.
 
 ```csharp
 public double Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Bredden.
 
 ### Se även
 
 * class [AiRasterImageSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

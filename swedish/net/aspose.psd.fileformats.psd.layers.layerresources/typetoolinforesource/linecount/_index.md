@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Får radantalet.
+title: "TypeToolInfoResource.LineCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar radantalet"
 type: docs
-weight: 130
+weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
-Får radantalet.
+Hämtar radantalet.
 
 ```csharp
 public short LineCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Radantalet.
 
 ### Se även
 
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.BezierKnotRecordsCount
-second_title: Aspose.PSD för .NET API-referens
-description: LengthRecord fast egendom. Får eller ställer in antalet bezierknutrekord.
+title: "LengthRecord.BezierKnotRecordsCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LengthRecord egenskap. Hämtar eller anger antalet Bezier-knutregister"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/
 ---
+{{< psd/tize >}}
 ## LengthRecord.BezierKnotRecordsCount property
 
-Får eller ställer in antalet bezier-knutrekord.
+Hämtar eller anger antalet bezier knot-poster.
 
 ```csharp
 public int BezierKnotRecordsCount { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar stöd för nya LengthRecord-egenskaper, PathOperations (booleska operationer), ShapeIndex och BezierKnotRecordsCount.
+Följande kodexempel demonstrerar stödet för nya LengthRecord‑egenskaper, PathOperations (boolska operationer), ShapeIndex och BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [LengthRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Enum LayerFlags
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerFlags uppräkning. Lagret flaggor
+title: "Enum LayerFlags"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerFlags enum. Lagerflaggorna"
 type: docs
-weight: 2210
+weight: 2410
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
+{{< psd/tize >}}
 ## LayerFlags enumeration
 
-Lagret flaggor
+Lagerflaggor
 
 ```csharp
 [Flags]
 public enum LayerFlags : byte
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| TransparencyProtected | `1` | Transparensen skyddad |
+| TransparencyProtected | `1` | Det transparensskyddade |
 | Visible | `2` | Den synliga flaggan |
 | Obsolete | `4` | Den föråldrade flaggan |
-| HasUsefulInformation | `8` | 1 för Photoshop 5.0 och senare, talar om om bit 4 har användbar information |
-| PixelDataIrrelevantToAppearenceInDocument | `10` | Pixeldata som är irrelevanta för förekomsten i document |
+| HasUsefulInformation | `8` | 1 för Photoshop 5.0 och senare, anger om bit 4 har användbar information |
+| PixelDataIrrelevantToAppearenceInDocument | `10` | Pixeldata som är irrelevant för dokumentets utseende |
 | Undocumented | `20` | Den odokumenterade flaggan |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

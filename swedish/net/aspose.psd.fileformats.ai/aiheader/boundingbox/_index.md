@@ -1,28 +1,29 @@
 ---
-title: AiHeader.BoundingBox
-second_title: Aspose.PSD för .NET API-referens
-description: AiHeader fast egendom. Hämtar eller ställer in begränsningsramen.
+title: "AiHeader.BoundingBox"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiHeader egenskap. Hämtar eller anger bounding box"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 ---
+{{< psd/tize >}}
 ## AiHeader.BoundingBox property
 
-Hämtar eller ställer in begränsningsramen.
+Hämtar eller anger begränsningsrutan.
 
 ```csharp
 public Rectangle BoundingBox { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Begränsningsrutan.
+Bounding boxen.
 
 ### Se även
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

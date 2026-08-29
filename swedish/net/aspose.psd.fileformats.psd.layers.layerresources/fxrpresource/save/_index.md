@@ -1,14 +1,15 @@
 ---
-title: FxrpResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: FxrpResource metod. Sparar i den angivna strömbehållaren.
+title: "FxrpResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FxrpResource metod. Sparar till den angivna strömbehållaren"
 type: docs
-weight: 80
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Save method
 
-Sparar i den angivna strömbehållaren.
+Sparar till den angivna strömbehållaren.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FxrpResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

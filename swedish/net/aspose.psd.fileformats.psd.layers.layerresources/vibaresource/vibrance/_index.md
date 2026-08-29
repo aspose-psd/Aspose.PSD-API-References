@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Vibrance
-second_title: Aspose.PSD för .NET API-referens
-description: VibAResource fast egendom. Får eller ställer in vibransvärde
+title: "VibAResource.Vibrance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VibAResource egenskap. Hämtar eller anger vibransvärde"
 type: docs
-weight: 60
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/
 ---
+{{< psd/tize >}}
 ## VibAResource.Vibrance property
 
-Får eller ställer in vibransvärde
+Hämtar eller anger vibransvärde
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Exempel
+## Exempel
 
 Följande kodexempel visar stödet för VibAResource-resursen.
 
 ```csharp
 [C#]
 
-// Exempel på stöd för läs- och skrivvibrationsresurs vid körning.
+// Exempel på stöd för läsning och skrivning av Vibrationsresurs vid körning.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * class [VibAResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Data
-second_title: Aspose.PSD för .NET API-referens
-description: UnknownResource fast egendom. Hämtar resursdata.
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UnknownResource egenskap. Hämtar resursdata"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
 Hämtar resursdata.
@@ -14,14 +15,14 @@ Hämtar resursdata.
 public byte[] Data { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Resursdata.
 
 ### Se även
 
 * class [UnknownResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

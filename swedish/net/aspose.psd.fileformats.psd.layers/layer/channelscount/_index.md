@@ -1,27 +1,28 @@
 ---
-title: Layer.ChannelsCount
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar lagrets kanaler.
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer property. Hämtar lagrets kanalantal"
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
-Hämtar lagrets kanaler.
+Hämtar lagrets kanalantal.
 
 ```csharp
 public ushort ChannelsCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Lagrets kanaler räknas.
+Lagrets kanalantal.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

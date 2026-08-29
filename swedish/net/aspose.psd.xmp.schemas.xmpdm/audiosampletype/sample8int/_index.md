@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.Sample8Int
-second_title: Aspose.PSD för .NET API-referens
-description: AudioSampleType fast egendom. Representerar 8Int ljudprov.
+title: "AudioSampleType.Sample8Int"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AudioSampleType egenskap. Representerar 8Int-ljudprov"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample8Int property
 
-Representerar 8Int ljudprov.
+Representerar 8Int-ljudprov.
 
 ```csharp
 public static AudioSampleType Sample8Int { get; }
@@ -17,7 +18,7 @@ public static AudioSampleType Sample8Int { get; }
 ### Se även
 
 * class [AudioSampleType](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

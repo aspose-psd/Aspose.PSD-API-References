@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetCmyk
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat metod. Får CMYKfärg med ett specificerat antal bitar per sampel.
+title: "PixelDataFormat.GetCmyk"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat metod. Hämtar CMYK-färg med ett angivet antal bitar per prov."
 type: docs
 weight: 210
 url: /sv/net/aspose.psd/pixeldataformat/getcmyk/
 ---
+{{< psd/tize >}}
 ## GetCmyk(int) {#getcmyk}
 
-Får CMYK-färg med ett specificerat antal bitar per sampel.
+Hämtar CMYK-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerSample)
@@ -16,7 +17,7 @@ public static PixelDataFormat GetCmyk(int bitsPerSample)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Antalet bitar per sampel. |
+| bitsPerSample | Int32 | Antalet bitar per prov. |
 
 ### Returvärde
 
@@ -25,14 +26,14 @@ CMYK-färgen.
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCmyk(int, int, int, int) {#getcmyk_1}
 
-Får CMYK-färg med ett specificerat antal bitar per sampel.
+Hämtar CMYK-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
@@ -41,10 +42,10 @@ public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagenta
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bitsPerCyanChannel | Int32 | Antalet bitar per cyan kanal. |
-| bitsPerMagentaChannel | Int32 | Antalet bitar per magentakanal. |
-| bitsPerYellowChannel | Int32 | Antalet bitar per gul kanal. |
-| bitsPerKeyChannel | Int32 | Antalet bitar per nyckelkanal. |
+| bitsPerCyanChannel | Int32 | Antalet bitar per cyan-kanal. |
+| bitsPerMagentaChannel | Int32 | Antalet bitar per magenta-kanal. |
+| bitsPerYellowChannel | Int32 | Antalet bitar per gul-kanal. |
+| bitsPerKeyChannel | Int32 | Antalet bitar per nyckel-kanal. |
 
 ### Returvärde
 
@@ -53,7 +54,7 @@ CMYK-färgen.
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

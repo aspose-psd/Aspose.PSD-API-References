@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Fonts
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar eller ställer in typsnitten.
+title: "TypeToolInfoResource.Fonts"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar eller anger typsnitten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Fonts property
 
-Hämtar eller ställer in typsnitten.
+Hämtar eller anger typsnitten.
 
 ```csharp
 public TypeToolFontInfo[] Fonts { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Teckensnitten.
+Typsnitten.
 
 ### Se även
 
 * class [TypeToolFontInfo](../../typetoolfontinfo/)
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpText.XmpText
-second_title: Aspose.PSD för .NET API-referens
-description: XmpText byggare. Initierar en ny instans avXmpText class.
+title: "XmpText.XmpText"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpText-konstruktör. Initierar en ny instans av klassen XmpText"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-Initierar en ny instans av[`XmpText`](../) class.
+Initierar en ny instans av klassen [`XmpText`](../).
 
 ```csharp
 public XmpText(string value)
@@ -16,12 +17,12 @@ public XmpText(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | String | Värdet. |
+| värde | String | Värdet. |
 
 ### Se även
 
 * class [XmpText](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

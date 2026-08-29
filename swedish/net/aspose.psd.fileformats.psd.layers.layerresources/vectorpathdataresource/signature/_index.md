@@ -1,14 +1,15 @@
 ---
-title: VectorPathDataResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: VectorPathDataResource fast egendom. Får signaturen.
+title: "VectorPathDataResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorPathDataResource-egenskap. Hämtar signaturen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Signature property
 
-Får signaturen.
+Hämtar signaturen.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [VectorPathDataResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Aspose.PSD för .NET API-referens
-description: GraphicsPath fast egendom. Hämtar eller sätter enFillMode uppräkning som avgör hur interiören av former i dettaGraphicsPath är fyllda.
+title: "GraphicsPath.FillMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GraphicsPath-egenskap. Hämtar eller anger en FillMode-enumeration som bestämmer hur innanmålen av former i denna GraphicsPath fylls."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-Hämtar eller sätter en[`FillMode`](../../fillmode/) uppräkning som avgör hur interiören av former i detta[`GraphicsPath`](../) är fyllda.
+Hämtar eller anger en [`FillMode`](../../fillmode/)‑enumeration som bestämmer hur innanmålen av former i detta [`GraphicsPath`](../) fylls.
 
 ```csharp
 public FillMode FillMode { get; set; }
@@ -16,9 +17,9 @@ public FillMode FillMode { get; set; }
 
 ### Returvärde
 
-A[`FillMode`](../../fillmode/) uppräkning som specificerar hur interiören av former i detta[`GraphicsPath`](../) är fyllda.
+En [`FillMode`](../../fillmode/)‑enumeration som specificerar hur innanmålen av former i detta [`GraphicsPath`](../) fylls.
 
-### Fastighetsvärde
+### Property Value
 
 Fyllningsläget.
 
@@ -26,7 +27,7 @@ Fyllningsläget.
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

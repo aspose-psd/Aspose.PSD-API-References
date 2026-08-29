@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Hämtar eller ställer in justeringen för dettaPen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger justeringen för denna Pen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-Hämtar eller ställer in justeringen för detta[`Pen`](../) .
+Hämtar eller anger justeringen för denna [`Pen`](../).
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`PenAlignment`](../../penalignment/) som representerar anpassningen för detta[`Pen`](../).
+En [`PenAlignment`](../../penalignment/) som representerar justeringen för denna [`Pen`](../).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`Alignment` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | Egenskapen `Alignment` sätts på en oföränderlig [`Pen`](../), såsom de som returneras av klassen [`Pen`](../). |
 
 ### Se även
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

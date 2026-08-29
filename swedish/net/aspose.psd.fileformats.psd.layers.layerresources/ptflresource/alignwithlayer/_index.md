@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.AlignWithLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PtFlResource fast egendom. Hämtar eller ställer in ett värde som anger om justera med lager.
+title: "PtFlResource.AlignWithLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PtFlResource egenskap. Hämtar eller anger ett värde som indikerar om den ska justeras med lager"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.AlignWithLayer property
 
-Hämtar eller ställer in ett värde som anger om [justera med lager].
+Hämtar eller anger ett värde som indikerar om [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [justera med lager]; annat,`falsk` .
+`true` om [align with layer]; annars, `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för att ladda och redigera en PtFlResource-resurs.
+Följande exempel demonstrerar stöd för inläsning och redigering av en PtFlResource-resurs.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // Läser
+                    // Läsning
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Vi har inte mönsterdata i PattResource, så vi kan lägga till det.
+                    // Vi har ingen mönsterdata i PattResource, så vi kan lägga till den.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -89,7 +90,7 @@ using (im)
 ### Se även
 
 * class [PtFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

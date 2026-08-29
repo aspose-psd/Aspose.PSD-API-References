@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Får eller ställer in rätt lagerposition.
+title: "Layer.Right"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lagrets egenskap. Hämtar eller anger lagrets högra position"
 type: docs
-weight: 290
+weight: 300
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-Får eller ställer in rätt lagerposition.
+Hämtar eller anger den högra lagerpositionen.
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rätt lagerposition.
+Den högra lagrets position.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

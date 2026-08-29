@@ -1,11 +1,12 @@
 ---
-title: TextShape.Transform
-second_title: Aspose.PSD för .NET API-referens
-description: TextShape metod. Tillämpar den angivna transformationen på formen.
+title: "TextShape.Transform"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextShape metod. Tillämpar den angivna transformationen på formen"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.shapes/textshape/transform/
 ---
+{{< psd/tize >}}
 ## TextShape.Transform method
 
 Tillämpar den angivna transformationen på formen.
@@ -16,13 +17,13 @@ public override void Transform(Matrix transform)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| transform | Matrix | Förvandlingen att tillämpa. |
+| transformera | Matris | Transformationen att tillämpa. |
 
 ### Se även
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

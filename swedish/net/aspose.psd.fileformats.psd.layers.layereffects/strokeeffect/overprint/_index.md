@@ -1,26 +1,27 @@
 ---
-title: StrokeEffect.Overprint
-second_title: Aspose.PSD för .NET API-referens
-description: StrokeEffect fast egendom. Hämtar eller ställer in ett värde som indikerar om dettaStrokeEffect kommer att blanda streck mot nuvarande lagerinnehåll.
+title: "StrokeEffect.Overprint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StrokeEffect property. Hämtar eller anger ett värde som indikerar om detta StrokeEffect kommer att blanda strecket med det aktuella lagrets innehåll"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Overprint property
 
-Hämtar eller ställer in ett värde som indikerar om detta[`StrokeEffect`](../) kommer att blanda streck mot nuvarande lagerinnehåll.
+Hämtar eller anger ett värde som indikerar om detta [`StrokeEffect`](../) kommer att blanda strecket med det aktuella lagrets innehåll.
 
 ```csharp
 public bool Overprint { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om det måste blanda streck mot nuvarande lagerinnehåll; annat,`falsk` .
+`true` om det måste blanda strecket med det aktuella lagrets innehåll; annars, `false`.
 
-### Exempel
+## Exempel
 
-Det här exemplet visar möjligheten att lägga till streckeffekten med olika typer av fyllning som färg, övertoning eller mönster.
+Detta exempel demonstrerar möjligheten att lägga till strekeffekten med olika fyllningstyper som Color, Gradient eller Pattern.
 
 ```csharp
 [C#]
@@ -32,28 +33,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Lägger till färgfyllning, vid position Inuti
+    // 1. Lägger till färgfyllning, på position Inuti
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Lägger till färgfyllning, vid position utanför
+    // 2. Lägger till färgfyllning, på position Utsida
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Lägger till färgfyllning, vid position Center
+    // 3. Lägger till färgfyllning, på position Centrum
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Lägger till övertoningsfyllning, vid position Inuti
+    // 4. Lägger till gradientfyllning, på position Inuti
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -61,7 +62,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Lägger till övertoningsfyllning, vid position utanför
+    // 5. Lägger till gradientfyllning, på position Utsida
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -69,7 +70,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Lägger till övertoningsfyllning, vid position Center
+    // 6. Lägger till gradientfyllning, på position Centrum
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -77,21 +78,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Lägger till mönsterfyllning, vid position Inuti
+    // 7. Lägger till mönsterfyllning, på position Inuti
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Lägger till mönsterfyllning, vid position utanför
+    // 8. Lägger till mönsterfyllning, på position Utsida
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Lägger till mönsterfyllning, vid position Center
+    // 9. Lägger till mönsterfyllning, på position Centrum
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -105,7 +106,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 ### Se även
 
 * class [StrokeEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

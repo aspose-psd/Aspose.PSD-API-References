@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisteredDescriptors
-second_title: Aspose.PSD för .NET API-referens
-description: OSTypeStructuresRegistry fast egendom. Hämtar de registrerade beskrivningarna.
+title: "OSTypeStructuresRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OSTypeStructuresRegistry‑egenskap. Hämtar de registrerade beskrivarna"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisteredDescriptors property
 
-Hämtar de registrerade beskrivningarna.
+Hämtar de registrerade beskrivarna.
 
 ```csharp
 public static IOSTypeStructureLoader[] RegisteredDescriptors { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De registrerade deskriptorerna.
+De registrerade beskrivarna.
 
 ### Se även
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

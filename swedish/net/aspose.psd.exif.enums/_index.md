@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Exif.Enums
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller EXIFuppräkningar.
+title: "Aspose.PSD.Exif.Enums"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller EXIF‑enumerationer"
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.psd.exif.enums/
 ---
-Namnutrymmet innehåller EXIF-uppräkningar.
+{{< psd/tize >}}
+Namnområdet innehåller EXIF‑enumerationer.
 
 ## Uppräkning
 
@@ -18,18 +19,18 @@ Namnutrymmet innehåller EXIF-uppräkningar.
 | [ExifExposureMode](./exifexposuremode/) | exif exponeringsläge enum. |
 | [ExifExposureProgram](./exifexposureprogram/) | exif exponeringsprogram enum. |
 | [ExifFileSource](./exiffilesource/) | exif filkälla enum. |
-| [ExifFlash](./exifflash/) | Flash-läge. |
-| [ExifGainControl](./exifgaincontrol/) | exif gain control enum. |
-| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif gps höjdref enum. |
-| [ExifLightSource](./exiflightsource/) | Exif-ljuskällan. |
-| [ExifMeteringMode](./exifmeteringmode/) | exif mätläge enum. |
-| [ExifOrientation](./exiforientation/) | Exif-bildorientering. |
-| [ExifSaturation](./exifsaturation/) | exif saturation enum. |
+| [ExifFlash](./exifflash/) | Blixtläge. |
+| [ExifGainControl](./exifgaincontrol/) | exif förstärkningskontroll enum. |
+| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif gps höjdreferens enum. |
+| [ExifLightSource](./exiflightsource/) | Den exif‑ljuskällan. |
+| [ExifMeteringMode](./exifmeteringmode/) | exif mätläges‑enum. |
+| [ExifOrientation](./exiforientation/) | Exif‑bildorientering |
+| [ExifSaturation](./exifsaturation/) | exif mättnad enum. |
 | [ExifSceneCaptureType](./exifscenecapturetype/) | exif scenupptagningstyp enum. |
-| [ExifSensingMethod](./exifsensingmethod/) | exif-avkänningsmetod enum. |
-| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif ämnesavståndsområde enum. |
+| [ExifSensingMethod](./exifsensingmethod/) | exif avkänningsmetod enum. |
+| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif ämnesavståndsintervall enum. |
 | [ExifUnit](./exifunit/) | exif enhet enum. |
 | [ExifWhiteBalance](./exifwhitebalance/) | exif vitbalans enum. |
-| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif y cb cr positionering enum. |
+| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif y cb cr positionerings‑enum. |
 
 

@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.UserMask
-second_title: Aspose.PSD för .NET API-referens
-description: FilterEffectMaskData fast egendom. Får användarmasken.
+title: "FilterEffectMaskData.UserMask"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FilterEffectMaskData egenskap. Hämtar användarmasken"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.UserMask property
 
-Får användarmasken.
+Hämtar användarmasken.
 
 ```csharp
 public ChannelInformation UserMask { get; }
@@ -18,7 +19,7 @@ public ChannelInformation UserMask { get; }
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

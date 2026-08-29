@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.Xmp
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller XMPrelaterade hjälpklasser och metoder.
+title: "Aspose.PSD.Xmp"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller hjälparklasser och metoder relaterade till XMP."
 type: docs
-weight: 520
+weight: 560
 url: /sv/net/aspose.psd.xmp/
 ---
-Namnutrymmet innehåller XMP-relaterade hjälpklasser och metoder.
+{{< psd/tize >}}
+Namnområdet innehåller XMP-relaterade hjälparklasser och -metoder.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
 | [LangAlt](./langalt/) | Representerar XMP Language Alternative. |
-| [Namespaces](./namespaces/) | Innehåller namnutrymmen som används i RDF-dokument. |
-| [XmpArray](./xmparray/) | Representerar Xmp Array in[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . TODO: Array kan innehålla komplexa data. |
-| [XmpArrayHelper](./xmparrayhelper/) | Hjälparklassen för bearbetning av RDF logic |
-| [XmpElementBase](./xmpelementbase/) | Representerar bas xmp element innehåller attribut. |
-| [XmpHeaderPi](./xmpheaderpi/) | Representerar XMP-huvudbearbetningsinstruktion. |
-| [XmpMeta](./xmpmeta/) | Representerar xmpmeta. Optional. Syftet med detta element är att identifiera XMP-metadata i allmän XML-text som kan innehålla andra icke-XMP-användningar av RDF. |
-| [XmpPackage](./xmppackage/) | Definierar XmpPackage-klassen som representerar basabstraktion för XMP-paket. |
-| [XmpPackageBaseCollection](./xmppackagebasecollection/) | Representerar samling av[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . |
+| [Namespaces](./namespaces/) | Innehåller namnrymder som används i RDF-dokument. |
+| [XmpArray](./xmparray/) | Representerar Xmp Array i [`XmpPackage`](../aspose.psd.xmp/xmppackage/). TODO: Array kan innehålla komplex data. |
+| [XmpArrayHelper](./xmparrayhelper/) | Hjälparklassen för bearbetning av RDF-logik. |
+| [XmpElementBase](./xmpelementbase/) | Representerar bas-xmp-element som innehåller attribut. |
+| [XmpHeaderPi](./xmpheaderpi/) | Representerar XMP-headerns bearbetningsinstruktion. |
+| [XmpMeta](./xmpmeta/) | Representerar xmpmeta. Valfritt. Syftet med detta element är att identifiera XMP-metadata inom generell XML-text som kan innehålla andra icke-XMP-användningar av RDF. |
+| [XmpPackage](./xmppackage/) | Definierar XmpPackage-klassen som representerar en grundläggande abstraktion för XMP-paket. |
+| [XmpPackageBaseCollection](./xmppackagebasecollection/) | Representerar en samling av [`XmpPackage`](../aspose.psd.xmp/xmppackage/). |
 | [XmpPacketWrapper](./xmppacketwrapper/) | Innehåller serialiserat xmp-paket inklusive header och trailer. |
-| [XmpRdfRoot](./xmprdfroot/) | Representerar rdf:RDF-element. Ett enda XMP-paket ska serialiseras med ett enda rdf:RDF XML-element. Innehållet rdf:RDF-element ska bestå av endast noll eller fler rdf:Description-element. |
-| [XmpTrailerPi](./xmptrailerpi/) | Representerar XMP-trailerbearbetningsinstruktion. |
+| [XmpRdfRoot](./xmprdfroot/) | Representerar rdf:RDF-elementet. Ett enskilt XMP-paket ska serialiseras med ett enda rdf:RDF XML-element. Innehållet i rdf:RDF-elementet ska bestå av noll eller fler rdf:Description-element. |
+| [XmpTrailerPi](./xmptrailerpi/) | Representerar XMP-trailerns bearbetningsinstruktion. |
 ## Gränssnitt
 
 | Gränssnitt | Beskrivning |
@@ -33,6 +34,6 @@ Namnutrymmet innehåller XMP-relaterade hjälpklasser och metoder.
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [XmpArrayType](./xmparraytype/) | Representerar matristyp in[`XmpArray`](../aspose.psd.xmp/xmparray/) . |
+| [XmpArrayType](./xmparraytype/) | Representerar array-typ i [`XmpArray`](../aspose.psd.xmp/xmparray/). |
 
 

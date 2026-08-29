@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.IsMaskEnabled
-second_title: Aspose.PSD för .NET API-referens
-description: SmartFilters fast egendom. Får statusen är mask aktiverad för det smarta filtret.
+title: "SmartFilters.IsMaskEnabled"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartFilters-egenskap. Hämtar om masken är aktiverad för den smarta filtret"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskEnabled property
 
-Får statusen är mask aktiverad för det smarta filtret.
+Hämtar om masken för det smarta filtret är aktiverad.
 
 ```csharp
 public bool IsMaskEnabled { get; }
@@ -17,7 +18,7 @@ public bool IsMaskEnabled { get; }
 ### Se även
 
 * class [SmartFilters](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

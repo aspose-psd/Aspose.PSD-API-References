@@ -1,28 +1,29 @@
 ---
-title: LspfResource.LockType
-second_title: Aspose.PSD för .NET API-referens
-description: LspfResource fast egendom. Hämtar eller ställer in typen av lås.
+title: "LspfResource.LockType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LspfResource-egenskap. Hämtar eller anger låsets typ"
 type: docs
-weight: 70
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/
 ---
+{{< psd/tize >}}
 ## LspfResource.LockType property
 
-Hämtar eller ställer in typen av lås.
+Hämtar eller anger låstypen.
 
 ```csharp
 public LayerLockType LockType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av lås.
+Låsets typ.
 
 ### Se även
 
 * enum [LayerLockType](../../layerlocktype/)
 * class [LspfResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

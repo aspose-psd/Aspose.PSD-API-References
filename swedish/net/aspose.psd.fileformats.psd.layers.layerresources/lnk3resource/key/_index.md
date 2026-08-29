@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: Lnk3Resource fast egendom. Hämtar lagerresursnyckeln.
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lnk3Resource egenskap. Hämtar lagerresursnyckeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
-Hämtar lagerresursnyckeln.
+Hämtar lagerresursens nyckel.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Exempel
+## Exempel
 
-Det här exemplet visar hur man hämtar och ställer in egenskaper för Lnk2Resource och Lnk3Resource.
+Detta exempel visar hur man hämtar och anger egenskaper för Lnk2Resource och Lnk3Resource.
 
 ```csharp
 [C#]
@@ -114,7 +115,7 @@ new object[]
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// Sparar data från ett smart objekt i PSD-fil till en fil.
+// Sparar data för ett smart objekt i PSD‑fil till en fil.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -125,7 +126,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// Laddar ny data för ett smart objekt i PSD-fil.
+// Läser in den nya datan för ett smart objekt i PSD‑fil.
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Hämtar och ställer in egenskaper för PSD Lnk2 / Lnk3-resursen och dess liFD-datakällor i PSD-bilden
+// Hämtar och anger egenskaper för PSD Lnk2 / Lnk3‑resursen och dess liFD‑datakällor i PSD‑bilden
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Sparning av 32 bitar per kanal stöds inte ännu
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Det här exemplet visar hur man får och ställer in egenskaper för PSD Lnk2-resursen och dess liFD-datakällor för 8 bitar per kanal.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD Lnk2‑resursen och dess liFD‑datakällor för 8 bit per kanal.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för PSD Lnk3-resursen och dess liFD-datakällor för 32 bitar per kanal.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD Lnk3‑resursen och dess liFD‑datakällor för 32 bit per kanal.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Det här exemplet visar hur man får och ställer in egenskaper för PSD Lnk2-resursen och dess liFD-datakällor för 16 bitar per kanal.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD Lnk2‑resursen och dess liFD‑datakällor för 16 bit per kanal.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
 ### Se även
 
 * class [Lnk3Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

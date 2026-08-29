@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FileStandard
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in TIFFfilstandarden.
+title: "TiffOptions.FileStandard"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger TIFF-filstandarden"
 type: docs
-weight: 150
+weight: 160
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FileStandard property
 
-Hämtar eller ställer in TIFF-filstandarden.
+Hämtar eller anger TIFF-filstandard.
 
 ```csharp
 public TiffFileStandards FileStandard { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-TIFF-filstandarden.
+Den TIFF-filstandarden.
 
 ### Se även
 
 * enum [TiffFileStandards](../../../aspose.psd.fileformats.tiff.enums/tifffilestandards/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

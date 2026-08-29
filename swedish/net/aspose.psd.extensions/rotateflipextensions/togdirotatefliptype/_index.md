@@ -1,11 +1,12 @@
 ---
-title: RotateFlipExtensions.ToGdiRotateFlipType
-second_title: Aspose.PSD för .NET API-referens
-description: RotateFlipExtensions metod. Konverterar Aspose.PSD.RotateFlipType till System.Drawing.RotateFlipType.
+title: "RotateFlipExtensions.ToGdiRotateFlipType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RotateFlipExtensions-metod. Konverterar Aspose.PSD.RotateFlipType till System.Drawing.RotateFlipType"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions.ToGdiRotateFlipType method
 
 Konverterar Aspose.PSD.RotateFlipType till System.Drawing.RotateFlipType.
@@ -16,17 +17,17 @@ public static RotateFlipType ToGdiRotateFlipType(RotateFlipType rotateFlipType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Typ av roterande flip. |
+| rotateFlipType | RotateFlipType | Typ av rotate flip. |
 
 ### Returvärde
 
-gdi RotateFlipType
+Den gdi RotateFlipType
 
 ### Se även
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [RotateFlipExtensions](../)
-* namnutrymme [Aspose.PSD.Extensions](../../rotateflipextensions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

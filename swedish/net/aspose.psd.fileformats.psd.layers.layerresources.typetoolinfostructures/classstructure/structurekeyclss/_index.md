@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.StructureKeyClss
-second_title: Aspose.PSD för .NET API-referens
-description: ClassStructure fält. Identifierar strukturnyckeln.
+title: "ClassStructure.StructureKeyClss"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ClassStructure-fält. Identifierar strukturnyckeln"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeyclss/
 ---
+{{< psd/tize >}}
 ## ClassStructure.StructureKeyClss field
 
 Identifierar strukturnyckeln.
@@ -17,7 +18,7 @@ public const int StructureKeyClss;
 ### Se även
 
 * class [ClassStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

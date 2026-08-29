@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Version
-second_title: Aspose.PSD för .NET API-referens
-description: ExpaResource fast egendom. Hämtar versionen. Standard är 1
+title: "ExpaResource.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExpaResource egenskap. Hämtar versionen. Standard är 1"
 type: docs
-weight: 80
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Version property
 
 Hämtar versionen. Standard är 1
@@ -14,14 +15,14 @@ Hämtar versionen. Standard är 1
 public short Version { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Versionen.
 
 ### Se även
 
 * class [ExpaResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

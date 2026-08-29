@@ -1,14 +1,15 @@
 ---
-title: Class MlstResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource klass. Mlstresursen. Den här klassen innehåller bland annat information om lagrets position på tidslinjen.
+title: "Klass MlstResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource klass. Mlst-resursen. Denna klass innehåller bland annat information om lagrets position på tidslinjen."
 type: docs
-weight: 2830
+weight: 3170
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource class
 
-Mlst-resursen. Den här klassen innehåller bland annat information om lagrets position på tidslinjen.
+mlst‑resursen. Denna klass innehåller bland annat information om lagrets position på tidslinjen.
 
 ```csharp
 public class MlstResource : LayerResource
@@ -16,37 +17,37 @@ public class MlstResource : LayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [MlstResource](mlstresource/)() | Default_Constructor |
+| [MlstResource](mlstresource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | Hämtar eller ställer in deskriptorversionen. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/) { get; } | Hämtar eller ställer in strukturerna. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/signature/) { get; } | Får signaturen. |
+| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | Hämtar eller anger descriptor‑versionen. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/) { get; } | Hämtar eller anger strukturerna. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/)(StreamContainer, int) | Sparar den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för MlstResource-resursen som ger en lågnivåmekanism för att manipulera lagertillstånden.
+Följande kod demonstrerar stöd för MlstResource‑resursen som ger en låg‑nivå‑mekanism för att manipulera lagrets tillstånd.
 
 ```csharp
 [C#]
@@ -64,7 +65,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Inaktivera lager 1 på ram 1
+    // Inaktivera lager 1 på bildruta 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -74,7 +75,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

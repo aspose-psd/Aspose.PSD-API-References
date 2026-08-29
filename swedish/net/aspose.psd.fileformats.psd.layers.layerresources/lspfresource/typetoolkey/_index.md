@@ -1,14 +1,15 @@
 ---
-title: LspfResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: LspfResource fält. Typverktygets infonyckel 1819504742
+title: "LspfResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LspfResource-fält. Typverktygsinformationsnyckeln 1819504742"
 type: docs
-weight: 110
+weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LspfResource.TypeToolKey field
 
-Typverktygets infonyckel 1819504742
+Typverktygsinfo-nyckeln 1819504742
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [LspfResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

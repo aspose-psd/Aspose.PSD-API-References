@@ -1,14 +1,15 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: Aspose.PSD för .NET API-referens
-description: ResolutionSetting byggare. Initierar en ny instans avResolutionSetting class.
+title: "ResolutionSetting.ResolutionSetting"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResolutionSetting‑konstruktör. Initierar en ny instans av klassen ResolutionSetting"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/resolutionsetting/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting() {#constructor}
 
-Initierar en ny instans av[`ResolutionSetting`](../) class.
+Initierar en ny instans av klassen [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting()
@@ -17,14 +18,14 @@ public ResolutionSetting()
 ### Se även
 
 * class [ResolutionSetting](../)
-* namnutrymme [Aspose.PSD](../../resolutionsetting/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResolutionSetting(double, double) {#constructor_1}
 
-Initierar en ny instans av[`ResolutionSetting`](../) class.
+Initierar en ny instans av klassen [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting(double horizontalResolution, double verticalResolution)
@@ -38,7 +39,7 @@ public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ### Se även
 
 * class [ResolutionSetting](../)
-* namnutrymme [Aspose.PSD](../../resolutionsetting/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Layer.DrawImage
-second_title: Aspose.PSD för .NET API-referens
-description: Layer metod. Ritar bilden på lager.
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-metod. Ritar bilden på lagret"
 type: docs
-weight: 340
+weight: 360
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
-Ritar bilden på lager.
+Ritar bilden på lagret.
 
 ```csharp
 public void DrawImage(Point location, RasterImage image)
@@ -16,12 +17,12 @@ public void DrawImage(Point location, RasterImage image)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| location | Point | Platsen. |
-| image | RasterImage | Bilden. |
+| position | Punkt | Platsen. |
+| bild | RasterImage | Bilden. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Platsen måste vara icke-negativ |
 
@@ -30,7 +31,7 @@ public void DrawImage(Point location, RasterImage image)
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

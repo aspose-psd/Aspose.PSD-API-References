@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAbsPeakAudioFilePath
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in den absoluta högsta ljudfilens sökväg.
+title: "XmpDynamicMediaPackage.SetAbsPeakAudioFilePath"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage method. Ställer in den absoluta sökvägen till filens toppljudfil"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAbsPeakAudioFilePath method
 
-Ställer in den absoluta högsta ljudfilens sökväg.
+Ställer in den absoluta topp‑ljudfilens sökväg.
 
 ```csharp
 public void SetAbsPeakAudioFilePath(string uri)
@@ -21,7 +22,7 @@ public void SetAbsPeakAudioFilePath(string uri)
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

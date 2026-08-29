@@ -1,11 +1,12 @@
 ---
-title: LayerResource.PsbResourceSignature
-second_title: Aspose.PSD för .NET API-referens
-description: LayerResource fält. Den PSBspecifika resurssignaturen.
+title: "LayerResource.PsbResourceSignature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerResource-fält. Den PSB-specifika resurssignaturen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.PsbResourceSignature field
 
 Den PSB-specifika resurssignaturen.
@@ -17,7 +18,7 @@ public const int PsbResourceSignature;
 ### Se även
 
 * class [LayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

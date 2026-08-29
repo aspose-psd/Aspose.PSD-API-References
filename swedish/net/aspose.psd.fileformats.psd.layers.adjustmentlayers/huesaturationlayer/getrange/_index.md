@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.GetRange
-second_title: Aspose.PSD för .NET API-referens
-description: HueSaturationLayer metod. Hämtar intervallet.
+title: "HueSaturationLayer.GetRange"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "HueSaturationLayer-metod. Hämtar intervallet"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/getrange/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.GetRange method
 
 Hämtar intervallet.
@@ -26,7 +27,7 @@ Färgområde Hsl
 
 * class [ColorRangeHsl](../../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/)
 * class [HueSaturationLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

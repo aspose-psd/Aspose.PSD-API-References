@@ -1,14 +1,15 @@
 ---
-title: Size.op_Addition
-second_title: Aspose.PSD för .NET API-referens
-description: Size metod. Lägger till bredd och höjd för enSize struktur till en annans bredd och höjdSizestruktur.
+title: "Size.op_Addition"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Size-metod. Lägger till bredden och höjden av en Size-struktur till bredden och höjden av en annan Size-struktur"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/size/op_addition/
 ---
+{{< psd/tize >}}
 ## Size Addition operator
 
-Lägger till bredd och höjd för en[`Size`](../) struktur till en annans bredd och höjd[`Size`](../)struktur.
+Lägger till bredden och höjden av en [`Size`](../)-struktur till bredden och höjden av en annan [`Size`](../)-struktur.
 
 ```csharp
 public static Size operator +(Size size1, Size size2)
@@ -16,17 +17,17 @@ public static Size operator +(Size size1, Size size2)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size1 | Size | Den första[`Size`](../) tillägga. |
-| size2 | Size | Den andra[`Size`](../) tillägga. |
+| size1 | Size | Den första [`Size`](../) att lägga till. |
+| size2 | Size | Den andra [`Size`](../) att lägga till. |
 
 ### Returvärde
 
-A[`Size`](../) struktur som är resultatet av additionsoperationen.
+En [`Size`](../)-struktur som är resultatet av additionsoperationen.
 
 ### Se även
 
 * struct [Size](../)
-* namnutrymme [Aspose.PSD](../../size/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Copyright
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Får eller anger upphovsrätten.
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData egenskap. Hämtar eller anger upphovsrätten"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
-Får eller anger upphovsrätten.
+Hämtar eller anger upphovsrätt.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Upphovsrätten.
 
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

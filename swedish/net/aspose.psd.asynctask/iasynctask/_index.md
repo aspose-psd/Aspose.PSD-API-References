@@ -1,11 +1,12 @@
 ---
-title: Interface IAsyncTask
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.AsyncTask.IAsyncTask gränssnitt. Den asynkrona uppgiften.
+title: "Gränssnitt IAsyncTask"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.AsyncTask.IAsyncTask-gränssnitt. Den asynkrona uppgiften"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.asynctask/iasynctask/
 ---
+{{< psd/tize >}}
 ## IAsyncTask interface
 
 Den asynkrona uppgiften.
@@ -16,29 +17,29 @@ public interface IAsyncTask : IAsyncResult, IDisposable
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Error](../../aspose.psd.asynctask/iasynctask/error/) { get; } | Hämtar uppgiftsfelet som är tillgängligt efter att uppgiften är klar. |
-| [IsBusy](../../aspose.psd.asynctask/iasynctask/isbusy/) { get; } | Får ett värde som anger om denna uppgift körs för närvarande. |
-| [IsCanceled](../../aspose.psd.asynctask/iasynctask/iscanceled/) { get; } | Får ett värde som anger om denna uppgift avbröts. |
-| [IsFaulted](../../aspose.psd.asynctask/iasynctask/isfaulted/) { get; } | Får ett värde som indikerar om denna uppgift var felaktig. |
-| [Progress](../../aspose.psd.asynctask/iasynctask/progress/) { get; } | Hämtar förloppet för den asynkrona uppgiften. |
-| [Result](../../aspose.psd.asynctask/iasynctask/result/) { get; } | Får resultatet av denna uppgift. |
+| [Error](../../aspose.psd.asynctask/iasynctask/error/) { get; } | Hämtar uppgiftsfelet som är tillgängligt efter att uppgiften har slutförts. |
+| [IsBusy](../../aspose.psd.asynctask/iasynctask/isbusy/) { get; } | Hämtar ett värde som indikerar om denna uppgift för närvarande körs. |
+| [IsCanceled](../../aspose.psd.asynctask/iasynctask/iscanceled/) { get; } | Hämtar ett värde som indikerar om denna uppgift avbröts. |
+| [IsFaulted](../../aspose.psd.asynctask/iasynctask/isfaulted/) { get; } | Hämtar ett värde som indikerar om denna uppgift misslyckades. |
+| [Progress](../../aspose.psd.asynctask/iasynctask/progress/) { get; } | Hämtar framsteget för den asynkrona uppgiften. |
+| [Result](../../aspose.psd.asynctask/iasynctask/result/) { get; } | Hämtar resultatet av denna uppgift. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Abort](../../aspose.psd.asynctask/iasynctask/abort/)() | Avbryter denna uppgift. Uppgiften slutförs omedelbart, med risk för att inte frigöra interna ohanterade resurser. |
-| [Cancel](../../aspose.psd.asynctask/iasynctask/cancel/)() | Avbryter den här uppgiften. Uppgiften slutförs på ett säkert sätt genom kontrollerat stopp av algoritmen. |
-| [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync/#runasync)() | Kör den här uppgiften. |
-| [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync/#runasync_1)(ThreadPriority) | Kör den här uppgiften. |
-| [SetCompleteCallback](../../aspose.psd.asynctask/iasynctask/setcompletecallback/)(CompleteCallback) | Ställer in hela återuppringningsdelegaten. |
-| [SetProgressCallback](../../aspose.psd.asynctask/iasynctask/setprogresscallback/)(ProgressCallback) | Ställer in förloppsåteruppringningsdelegat. |
+| [Abort](../../aspose.psd.asynctask/iasynctask/abort/)() | Avbryter denna uppgift. Uppgiften avslutas omedelbart, med risken att interna ohanterade resurser inte frigörs. |
+| [Cancel](../../aspose.psd.asynctask/iasynctask/cancel/)() | Avbryter denna uppgift. Uppgiften avslutas säkert genom kontrollerad stoppning av algoritmen. |
+| [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync/#runasync)() | Kör denna uppgift. |
+| [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync/#runasync_1)(ThreadPriority) | Kör denna uppgift. |
+| [SetCompleteCallback](../../aspose.psd.asynctask/iasynctask/setcompletecallback/)(CompleteCallback) | Ställer in den kompletta återanropsdelegaten. |
+| [SetProgressCallback](../../aspose.psd.asynctask/iasynctask/setprogresscallback/)(ProgressCallback) | Ställer in återanropsdelegaten för framsteg. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

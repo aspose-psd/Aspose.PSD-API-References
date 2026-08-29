@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Top
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskData fast egendom. Hämtar eller ställer in toppskiktets maskposition.
+title: "LayerMaskData.Top"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskData-egenskap. Hämtar eller anger den övre lagermaskens position."
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdata/top/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Top property
 
-Hämtar eller ställer in toppskiktets maskposition.
+Hämtar eller anger den övre lagermaskens position.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Maskpositionen för det översta lagret.
+Den övre lagermaskens position.
 
 ### Se även
 
 * class [LayerMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

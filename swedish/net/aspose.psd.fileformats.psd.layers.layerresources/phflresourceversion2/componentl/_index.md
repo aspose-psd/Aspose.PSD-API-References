@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.ComponentL
-second_title: Aspose.PSD för .NET API-referens
-description: PhflResourceVersion2 fast egendom. Hämtar eller ställer in Lkomponenten för color
+title: "PhflResourceVersion2.ComponentL"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhflResourceVersion2 egenskap. Hämtar eller anger L-komponenten av färgen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentL property
 
-Hämtar eller ställer in L-komponenten för color
+Hämtar eller anger L-komponenten för färg
 
 ```csharp
 public short ComponentL { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-L-komponenten.
+Den L-komponenten.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L Färg måste ligga inom intervallet 0 till 10 000 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L-färgen måste vara i intervallet från 0 till 10000 |
 
 ### Se även
 
 * class [PhflResourceVersion2](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

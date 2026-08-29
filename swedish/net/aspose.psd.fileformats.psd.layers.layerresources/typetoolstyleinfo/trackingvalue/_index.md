@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.TrackingValue
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolStyleInfo fast egendom. Hämtar eller ställer in spårningsvärdet.
+title: "TypeToolStyleInfo.TrackingValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolStyleInfo egenskap. Hämtar eller anger spårningsvärdet"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.TrackingValue property
 
-Hämtar eller ställer in spårningsvärdet.
+Hämtar eller anger spårningsvärdet.
 
 ```csharp
 public int TrackingValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Spårningsvärdet.
 
 ### Se även
 
 * class [TypeToolStyleInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

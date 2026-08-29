@@ -1,36 +1,15 @@
 ---
-title: PsdImage.ResizeHeightProportionally
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Ändrar storleken på höjden proportionellt.
+title: "PsdImage.ResizeHeightProportionally"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Ändrar höjden proportionellt"
 type: docs
-weight: 590
+weight: 650
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
-## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
-
-Ändrar storleken på höjden proportionellt.
-
-```csharp
-public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| newHeight | Int32 | Den nya höjden. |
-| settings | ImageResizeSettings | Inställningarna för storleksändring av bilden. |
-
-### Se även
-
-* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
-* class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-Ändrar storleken på höjden proportionellt.
+Ändrar höjden proportionellt.
 
 ```csharp
 public override void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
@@ -45,7 +24,29 @@ public override void ResizeHeightProportionally(int newHeight, ResizeType resize
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
+
+Ändrar höjden proportionellt.
+
+```csharp
+public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| newHeight | Int32 | Den nya höjden. |
+| inställningar | ImageResizeSettings | Inställningarna för bildens storleksändring. |
+
+### Se även
+
+* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

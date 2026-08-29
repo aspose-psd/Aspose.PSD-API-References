@@ -1,14 +1,15 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.PSD för .NET API-referens
-description: JFIFData byggare. Initierar en ny instans avJFIFData class.
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JFIFData-konstruktor. Initierar en ny instans av JFIFData-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-Initierar en ny instans av[`JFIFData`](../) class.
+Initierar en ny instans av klassen [`JFIFData`](../).
 
 ```csharp
 public JFIFData()
@@ -17,7 +18,7 @@ public JFIFData()
 ### Se även
 
 * class [JFIFData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

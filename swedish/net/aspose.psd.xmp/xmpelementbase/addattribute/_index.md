@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: Aspose.PSD för .NET API-referens
-description: XmpElementBase metod. Lägger till attributet.
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpElementBase metod. Lägger till attributet"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
 Lägger till attributet.
@@ -16,13 +17,13 @@ public virtual void AddAttribute(string attribute, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| attribute | String | Attributet. |
-| value | String | Värdet. |
+| attribut | String | Attributet. |
+| värde | String | Värdet. |
 
 ### Se även
 
 * class [XmpElementBase](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmpelementbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

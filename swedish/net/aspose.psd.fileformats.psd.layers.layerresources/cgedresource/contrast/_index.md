@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Contrast
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource fast egendom. Hämtar eller ställer in kontrasten.
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource egenskap. Hämtar eller anger kontrasten"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
-Hämtar eller ställer in kontrasten.
+Hämtar eller anger kontrasten.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kontrasten.
 
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

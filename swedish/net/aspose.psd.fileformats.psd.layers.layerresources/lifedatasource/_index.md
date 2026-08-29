@@ -1,14 +1,15 @@
 ---
-title: Class LiFeDataSource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource klass. Definierar klassen LnkeDataSource som innehåller information om extern länkad fil. Detta är en del av PSD File Format Manipulation API som hjälper till att modifiera Adobe Photoshop files
+title: "Klass LiFeDataSource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource-klass. Definierar LnkeDataSource-klassen som innehåller information om en extern länkat fil. Detta är en del av PSD File Format Manipulation API som hjälper till att ändra Adobe Photoshop-filer."
 type: docs
-weight: 2680
+weight: 2980
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
-Definierar klassen LnkeDataSource som innehåller information om extern länkad fil. Detta är en del av PSD File Format Manipulation API som hjälper till att modifiera Adobe® Photoshop® files
+Definierar LnkeDataSource‑klassen som innehåller information om en extern länkad fil. Detta är en del av PSD File Format Manipulation API som hjälper till att modifiera Adobe® Photoshop®‑filer.
 
 ```csharp
 public class LiFeDataSource : LinkDataSource
@@ -16,42 +17,42 @@ public class LiFeDataSource : LinkDataSource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LiFeDataSource](lifedatasource/#constructor)() | Initierar en ny instans av`LiFeDataSource` class. |
-| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Initierar en ny instans av`LiFeDataSource` class. |
+| [LiFeDataSource](lifedatasource/#constructor)() | Initierar en ny instans av `LiFeDataSource`-klassen. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Initierar en ny instans av `LiFeDataSource`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Hämtar eller ställer in grafikbiblioteket AdobeStockId, för Adobe® Photoshop® CC Libraries. |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Hämtar statusen för Adobe Stock-licensen om tillgänglig, för Adobe® Photoshop® CC-bibliotek. |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om PSD-tillgången är låst. Tillståndet för tillgången är låst, för Adobe® Photoshop® СС Libraries-tillgångar. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Hämtar eller ställer in tillgångens modifierade tid, för Adobe® Photoshop® СС Libraries-tillgångar. |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Hämtar eller ställer in den underordnade dokumentidentifieraren i livs- eller liFD-datakällan för Lnk2 / LnkE Adobe® Photoshop®-resursen. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Hämtar eller ställer in ID för den för närvarande valda komp för det underordnade dokumentet, vilket kommer att vara -1 om ingen är vald. Comps är sammansättningar av en sidlayout som designers kan skapa. Med hjälp av lagersammansättningar kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe® Photoshop®-fil. En lagerkomp är en ögonblicksbild av ett tillstånd på panelen Lager. Layer Comps sparar tre typer av lageralternativ men den här egenskapen får Layer Comp-urvalsidentifieraren för smarta objekt. [Layer comps i Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Hämtar eller ställer in sista skrivdatum och tidpunkt för den externa filen i LiFE-datakällan för PSD LnkE-resursen. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Hämtar eller ställer in namnet på grafikbibliotekselementet för Adobe® Photoshop® CC Libraries. |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Hämtar eller ställer in referensen för grafikbibliotekselementet för Adobe® Photoshop® CC Libraries. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Hämtar eller ställer in filskaparen i PSD-formatet LnkE / Lnk2 resurs. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Hämtar eller ställer in namnet på den externa eller inbäddade filen i PSD-länkresursen . |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Hämtar eller ställer in storleken på den externa filen i LiFE-datakällan för PSD LnkE-resursen. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Hämtar eller ställer in typen av inbäddad eller extern fil som Adobe® Photoshop® Lnk2 / LnkE-resursen innehåller eller länkar. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Hämtar eller ställer in den fullständiga sökvägen för den externa filen i LiFE-datakällan för PSD LnkE-resursen. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna länkdatakälla har filen öppen deskriptor: CompId och OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Får ett värde som anger om denna PSD-länkdatakälla länkar till Adobe® Photoshop® СС Library-objektet. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Hämtar länkdatakällans längd i byte. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Hämtar det ursprungliga ID:t för den för närvarande valda Comp för det underordnade dokumentet, vilket kommer att vara -1 om ingen har valts. Den här egenskapen får den ursprungliga lager Comp-urvalsidentifieraren för Smart Objects. [Layer comps i Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Hämtar det ursprungliga filnamnet för datakällan i Adobe® Photoshop® globala länkresurs. |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Hämtar eller ställer in den relativa sökvägen för den externa filen i LiFE-datakällan för PSD LnkE-resursen. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Hämtar Adobe® Photoshop® global länkdatakälla som kan vara en av följande eller ingen: Den inbäddade länkade filen liFD som motsvarar PSD:n Lnk2Resource Den externa länkade filens livslängd som motsvarar PSD Linked Resourcealias The linked |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Hämtar eller anger grafikbibliotekets AdobeStockId för Adobe® Photoshop® CC Libraries. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Hämtar status för Adobe Stock-licensen om den är tillgänglig, för Adobe® Photoshop® CC libraries. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Hämtar eller anger ett värde som indikerar om PSD‑tillgången är låst. Tillgångens låsta status, för Adobe® Photoshop® CC Libraries‑tillgångar. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Hämtar eller anger den modifierade tiden för tillgången, för Adobe® Photoshop® CC Libraries‑tillgångar. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Hämtar eller anger identifieraren för underdokumentet i liFE- eller liFD-datakällan för Lnk2 / LnkE Adobe® Photoshop®-resursen. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Hämtar eller anger ID för den för närvarande valda kompositionen för underdokumentet, vilket blir -1 om ingen är vald. Kompositioner (comps) är sammansättningar av en sidlayout som designers kan skapa. Med lager‑kompositioner kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe® Photoshop®-fil. En lager‑komposition är en ögonblicksbild av ett tillstånd i lagerpanelen. Lager‑kompositioner sparar tre typer av lageralternativ men den här egenskapen hämtar identifieraren för lager‑kompositionsvalet för Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Hämtar eller anger sista skrivdatum och -tid för den externa filen i LiFE-datakällan för PSD LnkE‑resursen. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Hämtar eller anger namn på grafikbibliotekselementet för Adobe® Photoshop® CC Libraries. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Hämtar eller anger referens till grafikbibliotekselementet för Adobe® Photoshop® CC Libraries. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Hämtar eller anger filskaparen i PSD-formatets LnkE / Lnk2‑resurs. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Hämtar eller anger namnet på den externa eller inbäddade filen i PSD‑länkretsursen. |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Hämtar eller anger storleken på den externa filen i LiFE-datakällan för PSD LnkE‑resursen. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Hämtar eller anger typen av den inbäddade eller externa filen som Adobe® Photoshop® Lnk2 / LnkE‑resursen innehåller eller länkar till. |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Hämtar eller anger hela sökvägen till den externa filen i LiFE-datakällan för PSD LnkE‑resursen. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Hämtar eller anger ett värde som indikerar om denna länkdatas källa har filens öppna beskrivare: CompId och OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Hämtar ett värde som indikerar om denna PSD‑länkdatas källa länkar till Adobe® Photoshop® CC Library‑objektet. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Hämtar länkdatas källa längd i byte. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Hämtar det ursprungliga ID:t för den för närvarande valda kompositionen för underdokumentet, vilket blir -1 om ingen är vald. Denna egenskap hämtar den ursprungliga lager‑kompositionsidentifieraren för Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Hämtar det ursprungliga filnamnet för datakällan i Adobe® Photoshop® global länkretsurs. |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Hämtar eller anger den relativa sökvägen för den externa filen i LiFE-datakällan för PSD LnkE-resursen. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Hämtar Adobe® Photoshop® globala länkdatakälltyp som kan vara någon av följande eller ingen: Den inbäddade länkade filen liFD som motsvarar PSD Lnk2Resource Den externa länkade filen liFE som motsvarar PSD LnkeResource Den länkade filaliasen liFA |
 | [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Hämtar den globala unika identifieraren för datakällan i PSD-länkresursen. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Hämtar versionen av datakällan i PSD LnkE / Lnk2-resursen. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar hur man hämtar och ställer in egenskaper för Psd LnkE-resursen.
+Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkE-resursen.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för Psd LnkE-resursen som innehåller information om en extern länkad fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkE-resursen som innehåller information om en extern länkad fil.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -142,7 +143,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Det här exemplet visar hur man får och ställer in egenskaper för Psd LnkeResource som innehåller information om extern länkad JPEG-fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkeResource som innehåller information om en extern länkad JPEG-fil.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -161,7 +162,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för PSD LnkeResource som innehåller information om en extern länkad PNG-fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD LnkeResource som innehåller information om en extern länkad PNG-fil.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -180,7 +181,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för PSD LnkeResource som innehåller information om två externt länkade PNG- och PSD-filer.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD LnkeResource som innehåller information om två externa länkade PNG- och PSD-filer.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -199,7 +200,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för Photoshop Psd LnkeResource som innehåller information om en extern länkad CC Libraries Asset.
+// Detta exempel visar hur man hämtar och anger egenskaper för Photoshop Psd LnkeResource som innehåller information om en extern länkad CC Libraries‑tillgång.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -219,7 +220,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-Följande kod visar stödet för LnkeResource-resursen.
+Följande kod demonstrerar stöd för LnkeResource-resursen.
 
 ```csharp
 [C#]
@@ -444,7 +445,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### Se även
 
 * class [LinkDataSource](../linkdatasource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

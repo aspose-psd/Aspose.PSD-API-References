@@ -1,22 +1,23 @@
 ---
-title: VogkResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: VogkResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "VogkResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VogkResource egenskap. Hämtar lagerresursens längd i byte."
 type: docs
-weight: 30
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
+{{< psd/tize >}}
 ## VogkResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för VogkResource-resursen.
+Följande exempel demonstrerar stöd för VogkResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Läser
+    // Läsning
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [VogkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

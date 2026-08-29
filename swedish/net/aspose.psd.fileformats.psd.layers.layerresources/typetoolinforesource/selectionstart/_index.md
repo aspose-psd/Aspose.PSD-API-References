@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionStart
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Får eller ställer in valet start.
+title: "TypeToolInfoResource.SelectionStart"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar eller anger urvalets start"
 type: docs
-weight: 190
+weight: 170
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionStart property
 
-Får eller ställer in valet start.
+Hämtar eller anger början av markeringen.
 
 ```csharp
 public int SelectionStart { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Urvalet startar.
+Urvalets start.
 
 ### Se även
 
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

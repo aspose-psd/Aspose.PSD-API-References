@@ -1,11 +1,12 @@
 ---
-title: Class Cache
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Cache klass. Innehåller cacheinställningar.
+title: "Klass Cache"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Cache klass. Innehåller cacheinställningar."
 type: docs
 weight: 240
 url: /sv/net/aspose.psd/cache/
 ---
+{{< psd/tize >}}
 ## Cache class
 
 Innehåller cacheinställningar.
@@ -16,51 +17,51 @@ public static class Cache
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [AllocatedDiskBytesCount](../../aspose.psd/cache/allocateddiskbytescount/) { get; } | Hämtar antalet tilldelade diskbytes. |
-| static [AllocatedMemoryBytesCount](../../aspose.psd/cache/allocatedmemorybytescount/) { get; } | Hämtar antalet tilldelade byte i minnet. |
-| static [CacheFolder](../../aspose.psd/cache/cachefolder/) { get; set; } | Hämtar eller ställer in cachemappen. |
-| static [CacheType](../../aspose.psd/cache/cachetype/) { get; set; } | Hämtar eller ställer in cacheschemat som används. |
-| static [ExactReallocateOnly](../../aspose.psd/cache/exactreallocateonly/) { get; set; } | Hämtar eller sätter ett värde som indikerar om omfördelningen ska vara exakt eller inte. Om omfördelningen inte är exakt bör prestandan vara högre. |
-| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache/) { get; set; } | Hämtar eller ställer in maximalt tillgängligt diskutrymme för cache. Det angivna värdet är megabyte count. |
-| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache/) { get; set; } | Hämtar eller ställer in maximalt tillgängligt minne för cache i minnet. Det angivna värdet är megabyte count. |
+| static [AllocatedDiskBytesCount](../../aspose.psd/cache/allocateddiskbytescount/) { get; } | Hämtar antalet allokerade diskbyte. |
+| static [AllocatedMemoryBytesCount](../../aspose.psd/cache/allocatedmemorybytescount/) { get; } | Hämtar antalet allokerade minnesbyte. |
+| static [CacheFolder](../../aspose.psd/cache/cachefolder/) { get; set; } | Hämtar eller anger cache‑mappen. |
+| static [CacheType](../../aspose.psd/cache/cachetype/) { get; set; } | Hämtar eller anger det använda cache‑schemat. |
+| static [ExactReallocateOnly](../../aspose.psd/cache/exactreallocateonly/) { get; set; } | Hämtar eller anger ett värde som indikerar om omallokering ska vara exakt eller inte. Om omallokering inte är exakt bör prestandan vara högre. |
+| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache/) { get; set; } | Hämtar eller anger det maximala tillgängliga diskutrymmet för cache. Det angivna värdet är antalet megabyte. |
+| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache/) { get; set; } | Hämtar eller anger det maximala tillgängliga minnet för cache i minnet. Det angivna värdet är antalet megabyte. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [SetDefaults](../../aspose.psd/cache/setdefaults/)() | Ställer in`Cache` inställningar till standardvärden. |
+| static [SetDefaults](../../aspose.psd/cache/setdefaults/)() | Anger `Cache`‑inställningarna till standardvärden. |
 
-### Exempel
+## Exempel
 
-Detta exempel visar användningen av Aspose.PSD.Cache
+Detta exempel demonstrerar användningen av Aspose.PSD.Cache
 
 ```csharp
 [C#]
 
-// Som standard är cachemappen inställd på användarens lokala temporära katalog.
-// Du kan också ange en annan cachemapp än standard som följande:
+// Som standard är cache‑mappen inställd på användarens lokala temp‑katalog.
+// Du kan också ange en annan cache‑mapp än standard, som följer:
 // Cache.CacheFolder = @"D:\\MyTemp";
 
 string path = "C:\\temp\\image.psd";
 
-// Autoläget är flexibelt och effektivt
+// Auto‑läget är flexibelt och effektivt
 Cache.CacheType = CacheType.Auto;
 
 // Standardvärdet är 0, vilket betyder att det inte finns någon övre gräns
 Cache.MaxDiskSpaceForCache = 1073741824; // 1 gigabyte
 Cache.MaxMemoryForCache = 1073741824; // 1 gigabyte
 
-// Det rekommenderas inte att ändra följande egenskap eftersom det i hög grad kan påverka prestandan
+// Det rekommenderas inte att ändra följande egenskap eftersom det kan påverka prestandan avsevärt
 Cache.ExactReallocateOnly = false;
 
-// Du kan när som helst kontrollera hur många byte som för närvarande är allokerade för minne eller disk 
-// cache genom att undersöka följande egenskaper
+// När som helst kan du kontrollera hur många byte som för närvarande är allokerade för minne eller disk
+// cachen genom att undersöka följande egenskaper
 long l1 = Cache.AllocatedDiskBytesCount;
 long l2 = Cache.AllocatedMemoryBytesCount;
 
-// Gör lite bildbearbetning enligt nedan
+// Utför lite bildbehandling enligt nedan
 using (RasterImage image = (RasterImage)Image.Load(path))
 {
     Color[] pixels = new Color[image.Width * image.Height];
@@ -71,20 +72,20 @@ using (RasterImage image = (RasterImage)Image.Load(path))
 
     image.SavePixels(image.Bounds, pixels);
 
-    // efter exekvering av koden ovan kommer det att tilldelas 40000 byte i minnet.
+    // Efter att ha kört koden ovan kommer 40000 byte att allokeras i minnet.
     long diskBytes = Cache.AllocatedDiskBytesCount;
     long memoryBytes = Cache.AllocatedMemoryBytesCount;
 }
 
-// Allokeringsegenskaperna kan användas för att kontrollera om alla Aspose.PSD-objekt var korrekt bortskaffade.
-// Om du har glömt att anropa dispose på något objekt kommer cachevärdena att vara annorlunda än 0.            
+// Allokerings‑egenskaperna kan användas för att kontrollera om alla Aspose.PSD‑objekt har frigjorts korrekt.
+// Om du har glömt att anropa dispose på något objekt kommer cache‑värdena att vara olika från 0.
 l1 = Cache.AllocatedDiskBytesCount;
 l2 = Cache.AllocatedMemoryBytesCount;
 ```
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

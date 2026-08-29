@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Copyright
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Får eller anger upphovsrätten.
+title: "TiffOptions.Copyright"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger upphovsrätten"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/copyright/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Copyright property
 
-Får eller anger upphovsrätten.
+Hämtar eller anger upphovsrätt.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Upphovsrätten.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

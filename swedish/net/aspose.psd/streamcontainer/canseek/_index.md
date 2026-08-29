@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanSeek
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer fast egendom. Får ett värde som indikerar om ström stöder sökning.
+title: "StreamContainer.CanSeek"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer-egenskapen. Hämtar ett värde som indikerar om strömmen stöder sökning."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/streamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanSeek property
 
-Får ett värde som indikerar om ström stöder sökning.
+Hämtar ett värde som indikerar om strömmen stödjer sökning.
 
 ```csharp
 public virtual bool CanSeek { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om ström stöder sökning; annat,`falsk`.
+`true` om strömmen stöder sökning; annars `false`.
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Right
-second_title: Aspose.PSD för .NET API-referens
-description: PlacedResource fast egendom. Hämtar eller ställer in rätt plats för det placerade lagret i PSDfilen.
+title: "PlacedResource.Right"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlacedResource egenskap. Hämtar eller anger den högra placeringen av det placerade lagret i PSD-filen"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Right property
 
-Hämtar eller ställer in rätt plats för det placerade lagret i PSD-filen.
+Hämtar eller anger den högra positionen för det placerade lagret i PSD‑filen.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rätt plats för det placerade lagret.
+Den högra placeringen av det placerade lagret.
 
 ### Se även
 
 * class [PlacedResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

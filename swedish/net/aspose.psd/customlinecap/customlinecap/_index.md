@@ -1,14 +1,15 @@
 ---
-title: CustomLineCap.CustomLineCap
-second_title: Aspose.PSD för .NET API-referens
-description: CustomLineCap byggare. Initierar en ny instans avCustomLineCap klass med den angivna dispositionen och fyll.
+title: "CustomLineCap.CustomLineCap"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CustomLineCap-konstruktor. Initierar en ny instans av CustomLineCap-klassen med den angivna konturen och fyllningen."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/customlinecap/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap(GraphicsPath, GraphicsPath) {#constructor}
 
-Initierar en ny instans av[`CustomLineCap`](../) klass med den angivna dispositionen och fyll.
+Initierar en ny instans av [`CustomLineCap`](../)-klassen med den angivna konturen och fyllningen.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
@@ -16,21 +17,21 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) objekt som definierar fyllningen för det anpassade locket. |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) objekt som definierar konturerna för det anpassade locket. |
+| fillPath | GraphicsPath | Ett [`GraphicsPath`](../../graphicspath/)-objekt som definierar fyllningen för det anpassade locket. |
+| strokePath | GraphicsPath | Ett [`GraphicsPath`](../../graphicspath/)-objekt som definierar konturen för det anpassade locket. |
 
 ### Se även
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* namnutrymme [Aspose.PSD](../../customlinecap/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap) {#constructor_1}
 
-Initierar en ny instans av[`CustomLineCap`](../) klass från den angivna befintliga[`LineCap`](../../linecap/) uppräkning med den angivna konturen och fyll.
+Initierar en ny instans av klassen [`CustomLineCap`](../) från den angivna befintliga enumerationen [`LineCap`](../../linecap/) med den specificerade konturen och fyllningen.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap)
@@ -38,23 +39,23 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap bas
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) objekt som definierar fyllningen för det anpassade locket. |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) objekt som definierar konturerna för det anpassade locket. |
-| baseCap | LineCap | Linjetaket från vilket det anpassade taket skapas. |
+| fillPath | GraphicsPath | Ett [`GraphicsPath`](../../graphicspath/)-objekt som definierar fyllningen för det anpassade locket. |
+| strokePath | GraphicsPath | Ett [`GraphicsPath`](../../graphicspath/)-objekt som definierar konturen för det anpassade locket. |
+| baseCap | LineCap | Linjekappen som används för att skapa den anpassade kappen. |
 
 ### Se även
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* namnutrymme [Aspose.PSD](../../customlinecap/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap, float) {#constructor_2}
 
-Initierar en ny instans av[`CustomLineCap`](../) klass från den angivna befintliga[`LineCap`](../../linecap/)uppräkning med angiven kontur, fyllning och insättning.
+Initierar en ny instans av klassen [`CustomLineCap`](../) från den angivna befintliga enumerationen [`LineCap`](../../linecap/) med den specificerade konturen, fyllningen och insättningen.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap, 
@@ -63,17 +64,17 @@ public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap bas
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) objekt som definierar fyllningen för det anpassade locket. |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/) objekt som definierar konturerna för det anpassade locket. |
-| baseCap | LineCap | Linjetaket från vilket det anpassade taket skapas. |
-| baseInset | Single | Avståndet mellan locket och linan. |
+| fillPath | GraphicsPath | Ett [`GraphicsPath`](../../graphicspath/)-objekt som definierar fyllningen för det anpassade locket. |
+| strokePath | GraphicsPath | Ett [`GraphicsPath`](../../graphicspath/)-objekt som definierar konturen för det anpassade locket. |
+| baseCap | LineCap | Linjekappen som används för att skapa den anpassade kappen. |
+| baseInset | Single | Avståndet mellan kappen och linjen. |
 
 ### Se även
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* namnutrymme [Aspose.PSD](../../customlinecap/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

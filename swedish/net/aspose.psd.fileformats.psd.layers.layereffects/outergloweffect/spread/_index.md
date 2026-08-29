@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Spread
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Hämtar eller ställer in intensiteten som en procent.
+title: "OuterGlowEffect.Spread"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger intensiteten i procent"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Spread property
 
-Hämtar eller ställer in intensiteten som en procent.
+Hämtar eller anger intensiteten som procent.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Uppslaget.
+Spridningen.
 
-### Exempel
+## Exempel
 
-Följande kod visar OuterGlowEffect-stödet.
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Se även
 
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

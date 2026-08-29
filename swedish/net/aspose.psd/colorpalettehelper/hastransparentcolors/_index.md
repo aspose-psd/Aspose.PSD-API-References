@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: Aspose.PSD för .NET API-referens
-description: ColorPaletteHelper metod. Avgör om den angivna paletten har transparenta färger.
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorPaletteHelper‑metoden. Avgör om den angivna paletten har transparenta färger"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
-Avgör om den angivna paletten har transparenta färger.
+Bestämmer om den angivna paletten har transparenta färger.
 
 ```csharp
 public static bool HasTransparentColors(IColorPalette palette)
@@ -16,23 +17,23 @@ public static bool HasTransparentColors(IColorPalette palette)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| palette | IColorPalette | Paletten. |
+| palett | IColorPalette | Paletten. |
 
 ### Returvärde
 
-`Sann` om den angivna paletten har transparenta färger; annat,`falsk` .
+`true` om den angivna paletten har transparenta färger; annars `false`.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *palette* är inget. |
+| ArgumentNullException | *palette* är null. |
 
 ### Se även
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* namnutrymme [Aspose.PSD](../../colorpalettehelper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

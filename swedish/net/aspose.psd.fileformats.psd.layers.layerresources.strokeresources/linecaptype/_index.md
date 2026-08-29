@@ -1,30 +1,31 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType uppräkning. Line Cap type.
+title: "Enum LineCapType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. Linjekaptyp"
 type: docs
-weight: 3040
+weight: 3400
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-Line Cap type.
+Linjekaptyp.
 
 ```csharp
 public enum LineCapType : short
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| RoundCap | `0` | Typ av rund keps. |
-| SquareCap | `1` | Typ av fyrkantig lock. |
-| ButtCap | `2` | Butt cap typ. |
+| RoundCap | `0` | Rund kaptyp. |
+| SquareCap | `1` | Fyrkantig kaptyp. |
+| ButtCap | `2` | Platt kaptyp. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för VstkResource-resursen.
+Följande kod demonstrerar stödet för VstkResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode25
-second_title: Aspose.PSD för .NET API-referens
-description: TimeFormat fast egendom. Hämtar tidskoden25.
+title: "TimeFormat.Timecode25"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TimeFormat egenskap. Hämtar timecode25"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode25/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode25 property
 
-Hämtar tidskoden25.
+Hämtar timecode25.
 
 ```csharp
 public static TimeFormat Timecode25 { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Tidskoden25.
+Den timecode25.
 
 ### Se även
 
 * class [TimeFormat](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

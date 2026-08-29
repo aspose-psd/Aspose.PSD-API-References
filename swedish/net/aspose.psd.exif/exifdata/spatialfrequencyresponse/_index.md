@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in det rumsliga frekvenssvaret.
+title: "ExifData.SpatialFrequencyResponse"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger den spatiala frekvensresponsen"
 type: docs
 weight: 960
 url: /sv/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/
 ---
+{{< psd/tize >}}
 ## ExifData.SpatialFrequencyResponse property
 
-Hämtar eller ställer in det rumsliga frekvenssvaret.
+Hämtar eller anger den rumsliga frekvensresponsen.
 
 ```csharp
 public byte[] SpatialFrequencyResponse { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det rumsliga frekvenssvaret.
+Den spatiala frekvensresponsen.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

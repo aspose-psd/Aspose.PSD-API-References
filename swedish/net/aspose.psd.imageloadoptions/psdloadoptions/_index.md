@@ -1,14 +1,15 @@
 ---
-title: Class PsdLoadOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageLoadOptions.PsdLoadOptions klass. Psd laddningsalternativ
+title: "Klass PsdLoadOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageLoadOptions.PsdLoadOptions class. Psd‑läsalternativ"
 type: docs
-weight: 4770
+weight: 5250
 url: /sv/net/aspose.psd.imageloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions class
 
-Psd laddningsalternativ
+PSD-inläsningsalternativ
 
 ```csharp
 public class PsdLoadOptions : LoadOptions
@@ -16,29 +17,31 @@ public class PsdLoadOptions : LoadOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PsdLoadOptions](psdloadoptions/)() | Default_Constructor |
+| [PsdLoadOptions](psdloadoptions/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Hämtar eller ställer in om det ska sparas med den renderade bilden, med eller utan en varptransform. |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Hämtar eller ställer in buffertstorlekstipset som är definierat som högsta tillåtna storlek för alla interna buffertar. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Hämtar eller ställer in[`Image`](../../aspose.psd/image/) bakgrund[`Color`](../../aspose.psd/color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Hämtar eller ställer in dataåterställningsläget. |
-| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | Hämtar eller ställer in ett värde som anger om [ignorera alfakanal]. |
-| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om PSD-textskiktets fasta bredd kommer att ignoreras när UpdateText-operationen körs. |
-| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om [lasteffektresurs] (som standard resurs inte laddas). När det här alternativet är inställt kommer endast effekter som stöds att renderas till den slutliga sammanslagna bilden. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Hämtar eller ställer in förloppshändelsehanteraren. |
-| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | Hämtar eller ställer in ett värde som anger om [använd skrivskyddat läge]. Detta är skrivskyddat läge som stöds för identisk kompatibilitet med Adobe Photoshop. När det här alternativet är inställt sparas inte alla ändringar som tillämpas för lager i den slutliga bilden. All data används från ImageData-sektionen, så den är identisk med Photoshop. Som standard är alla inlästa bilder inte identiska med Adobe Photoshop-kompatibla. |
-| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om [använd disk för laddningseffektresurs] (används som standard disk för att ladda effektresurs, men kan användas minne om det räcker genom att sätta detta värde till false). |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Hämtar eller ställer in ett värde som anger om ICC-profilkonvertering ska tillämpas. |
+| [AllowNonChangedLayerRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allownonchangedlayerrepaint/) { get; set; } | Hämtar eller anger om ursprungliga lagerpixlar ska bevaras under rendering om lagret inte har ändrats. |
+| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Hämtar eller anger om man ska spara med den renderade bilden, med eller utan en warp‑transformering. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Hämtar eller anger en hint för buffertstorleken som definierar maximal tillåten storlek för alla interna buffertar. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Hämtar eller anger bakgrunds[`Image`](../../aspose.psd/image/) [`Color`](../../aspose.psd/color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Hämtar eller anger dataräddningsläget. |
+| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | Hämtar eller anger ett värde som indikerar om [ignore alpha channel]. |
+| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | Hämtar eller anger ett värde som indikerar om PSD‑textlagrets fasta bredd ska ignoreras vid körning av UpdateText‑operationen. |
+| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | Hämtar eller anger ett värde som indikerar om [load effects resource] (standard är att resursen inte laddas). När detta alternativ är satt kommer endast stödjade effekter att renderas till den slutliga sammanslagna bilden. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Hämtar eller anger händelsehanteraren för framsteg. |
+| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | Hämtar eller anger ett värde som indikerar om [use read only mode]. Detta är skrivskyddat läge, stödjt för exakt kompatibilitet med Adobe Photoshop. När detta alternativ är satt sparas inga ändringar som gjorts på lager i den slutliga bilden. All data hämtas från ImageData‑sektionen, så det är identiskt med Photoshop. Som standard är inte alla inlästa bilder identiska med Adobe Photoshop‑kompatibla. |
+| [ReadOnlyType](../../aspose.psd.imageloadoptions/psdloadoptions/readonlytype/) { get; set; } | Hämtar eller anger det skrivskyddade läget som används när en PSD‑bild laddas. |
+| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | Hämtar eller anger ett värde som indikerar om [use disk for load effects resource] (standard är att använda disk för att ladda effektresursen, men minne kan användas om det är tillräckligt genom att sätta detta värde till false). |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Hämtar eller anger ett värde som indikerar om ICC‑profilkonvertering ska tillämpas. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar att dokumentkonverteringen fungerar korrekt och utan undantag.
+Följande exempel visar att dokumentkonverteringsframsteg fungerar korrekt och utan undantag.
 
 ```csharp
 [C#]
@@ -85,7 +88,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 ### Se även
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* namnutrymme [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

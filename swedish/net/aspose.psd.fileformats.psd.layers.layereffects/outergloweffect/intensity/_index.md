@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Hämtar eller ställer in vinkeln i grader.
+title: "OuterGlowEffect.Intensity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger vinkeln i grader"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
-Hämtar eller ställer in vinkeln i grader.
+Hämtar eller anger vinkeln i grader.
 
 ```csharp
 public int Intensity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vinkeln.
 
-### Exempel
+## Exempel
 
-Följande kod visar OuterGlowEffect-stödet.
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Se även
 
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

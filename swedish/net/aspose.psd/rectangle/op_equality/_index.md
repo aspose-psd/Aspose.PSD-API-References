@@ -1,14 +1,15 @@
 ---
-title: Rectangle.op_Equality
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle metod. Testar om tvåRectangle strukturer har samma plats och storlek.
+title: "Rectangle.op_Equality"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle metod. Testar om två Rectangle‑strukturer har lika position och storlek"
 type: docs
 weight: 290
 url: /sv/net/aspose.psd/rectangle/op_equality/
 ---
+{{< psd/tize >}}
 ## Rectangle Equality operator
 
-Testar om två[`Rectangle`](../) strukturer har samma plats och storlek.
+Testar om två [`Rectangle`](../) strukturer har samma position och storlek.
 
 ```csharp
 public static bool operator ==(Rectangle left, Rectangle right)
@@ -16,17 +17,17 @@ public static bool operator ==(Rectangle left, Rectangle right)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| left | Rectangle | De[`Rectangle`](../) struktur som är till vänster om jämställdhetsoperatören. |
-| right | Rectangle | De[`Rectangle`](../)struktur som ligger till höger om jämställdhetsaktören. |
+| left | Rectangle | Den [`Rectangle`](../) struktur som är till vänster om likhetsoperatorn. |
+| right | Rectangle | Den [`Rectangle`](../) struktur som är till höger om likhetsoperatorn. |
 
 ### Returvärde
 
-Denna operator returnerar sant om de två[`Rectangle`](../) strukturer har lika[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , och[`Height`](../height/) egenskaper.
+Denna operator returnerar true om de två [`Rectangle`](../) strukturerna har lika [`X`](../x/), [`Y`](../y/), [`Width`](../width/) och [`Height`](../height/) egenskaper.
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

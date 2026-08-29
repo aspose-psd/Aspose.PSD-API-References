@@ -1,14 +1,15 @@
 ---
-title: Class AddNoiseSmartFilter
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter klass. AddNoise smarta filter.
+title: "Klass AddNoiseSmartFilter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.AddNoiseSmartFilter klass. Det AddNoise smart-filtret"
 type: docs
-weight: 3420
+weight: 3830
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter class
 
-AddNoise smarta filter.
+Det AddNoise smartfilter.
 
 ```csharp
 public sealed class AddNoiseSmartFilter : SmartFilter
@@ -16,41 +17,41 @@ public sealed class AddNoiseSmartFilter : SmartFilter
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AddNoiseSmartFilter](addnoisesmartfilter/)() | Initierar en ny instans av`AddNoiseSmartFilter` class. |
+| [AddNoiseSmartFilter](addnoisesmartfilter/)() | Initierar en ny instans av klassen `AddNoiseSmartFilter`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | Hämtar eller ställer in brusvärdet. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Hämtar eller ställer in blandningsläget. |
-| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | Hämtar eller ställer in fördelningen av brusfilter. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | Hämtar den smarta filtertypidentifieraren. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Hämtar eller ställer in statusen är aktiverad för det smarta filtret. |
-| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | Hämtar eller ställer in värdet för monochromatic. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | Får det smarta filternamnet. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Hämtar eller ställer in opacitetsvärdet för smart filter. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Källbeskrivningsstrukturen med smarta filterdata. |
+| [AmountNoise](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/) { get; set; } | Hämtar eller anger brusvärdet. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Hämtar eller anger blandningsläget. |
+| [Distribution](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/) { get; set; } | Hämtar eller anger fördelningen av brusfiltret. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filterid/) { get; } | Hämtar identifieraren för smartfiltertypen. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Hämtar eller anger om smartfiltret är aktiverat. |
+| [IsMonochromatic](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/) { get; set; } | Hämtar eller anger värdet för monokrom. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/) { get; } | Hämtar smartfilternamnet. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Hämtar eller anger opacitetsvärdet för smartfilter. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Källbeskrivningsstrukturen med smartfilterdata. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Tillämpar det aktuella filtret på indata[`RasterImage`](../../aspose.psd/rasterimage/) bild. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Tillämpar det aktuella filtret på indata[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) mask data. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Gör den medlemsvisa klonen av den aktuella instansen av typen. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Tillämpar det aktuella filtret på den inmatade [`RasterImage`](../../aspose.psd/rasterimage/) bilden. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Tillämpar det aktuella filtret på den inmatade [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) maskdata. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Skapar en medlemsvis klon av den aktuella instansen av typen. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | Identifieraren för aktuellt smart filter. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/) | Identifieraren för det aktuella smartfiltret. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för gränssnittet för smarta filter.
+Detta exempel demonstrerar stöd för smarta filtergränssnittet.
 
 ```csharp
 [C#]
@@ -93,10 +94,10 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // applicera förändringar
+    // tillämpa ändringar
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Använd filter
+    // Tillämpa filter
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -123,7 +124,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Se även
 
 * class [SmartFilter](../smartfilter/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

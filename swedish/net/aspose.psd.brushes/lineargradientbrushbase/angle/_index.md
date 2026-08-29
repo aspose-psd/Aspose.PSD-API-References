@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.Angle
-second_title: Aspose.PSD för .NET API-referens
-description: LinearGradientBrushBase fast egendom. Hämtar eller ställer in gradientvinkeln.
+title: "LinearGradientBrushBase.Angle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinearGradientBrushBase egenskap. Hämtar eller anger gradientvinkeln"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.brushes/lineargradientbrushbase/angle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Angle property
 
-Hämtar eller ställer in gradientvinkeln.
+Hämtar eller anger gradientvinkeln.
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Gradientvinkeln.
 
 ### Se även
 
 * class [LinearGradientBrushBase](../)
-* namnutrymme [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

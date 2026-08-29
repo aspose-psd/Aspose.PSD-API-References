@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Hämtar eller ställer in ett värde som anger om justera med lager.
+title: "GdFlResource.AlignWithLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource egenskap. Hämtar eller anger ett värde som indikerar om den ska justeras med lagret"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-Hämtar eller ställer in ett värde som anger om [justera med lager].
+Hämtar eller anger ett värde som indikerar om [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [justera med lager]; annat,`falsk` .
+`true` om [align with layer]; annars, `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för GdFlResource-resursladdning.
+Följande exempel demonstrerar stöd för inläsning av GdFlResource-resursen.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // Läser
+                    // Läsning
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Se även
 
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

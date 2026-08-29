@@ -1,11 +1,12 @@
 ---
-title: Enum BlendMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.Blending.BlendMode uppräkning. Lagerblandningsläget.
+title: "Enum BlendMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.Blending.BlendMode‑enum. Lagerblandningsläget"
 type: docs
-weight: 1320
+weight: 1330
 url: /sv/net/aspose.psd.fileformats.core.blending/blendmode/
 ---
+{{< psd/tize >}}
 ## BlendMode enumeration
 
 Lagerblandningsläget.
@@ -14,43 +15,43 @@ Lagerblandningsläget.
 public enum BlendMode : uint
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Normal | `1852797549` | Normalt blandningsläge. |
-| Darken | `1684107883` | Gör blandningsläge mörkare. |
+| Darken | `1684107883` | Mörkare blandningsläge. |
 | Lighten | `1818850405` | Ljusare blandningsläge. |
 | Hue | `1752524064` | Nyansblandningsläge. |
-| Saturation | `1935766560` | Mättnadsblandningsläge. |
+| Saturation | `1935766560` | Mättnadblandningsläge. |
 | Color | `1668246642` | Färgblandningsläge. |
-| Luminosity | `1819634976` | Ljusstyrka blandningsläge. |
-| Multiply | `1836411936` | Multiplicera blandningsläge. |
+| Luminosity | `1819634976` | Luminansblandningsläge. |
+| Multiply | `1836411936` | Multiplicerande blandningsläge. |
 | Screen | `1935897198` | Skärmblandningsläge. |
-| Dissolve | `1684632435` | Upplös blandningsläge. |
-| Overlay | `1870030194` | Överläggsblandningsläge. |
+| Dissolve | `1684632435` | Upplösningsblandningsläge. |
+| Overlay | `1870030194` | Överlagringsblandningsläge. |
 | HardLight | `1749838196` | Hårt ljusblandningsläge. |
 | SoftLight | `1934387572` | Mjukt ljusblandningsläge. |
-| Difference | `1684629094` | Skillnadsblandningsläge. |
-| Exclusion | `1936553316` | Uteslutningsblandningsläge. |
-| ColorDodge | `1684633120` | Color Dodge-blandningsläge. |
-| ColorBurn | `1768188278` | Blandningsläge för färgbränning. |
-| LinearBurn | `1818391150` | Linjärt brännarblandningsläge. |
-| LinearDodge | `1818518631` | Linjärt dodge-blandningsläge. |
-| VividLight | `1984719220` | Levande ljusblandningsläge. |
-| LinearLight | `1816947060` | Linjärt ljusblandningsläge. |
-| PinLight | `1884055924` | Pin light blend mode. |
-| HardMix | `1749903736` | Hårdmix blandningsläge. |
-| PassThrough | `1885434739` | Gå igenom blandningsläge. |
-| DarkerColor | `1684751212` | Mörkare färgblandningsläge. |
-| LighterColor | `1818706796` | Ljusare färgblandningsläge. |
-| Subtract | `1718842722` | Subtrahera blandningsläge. |
-| Divide | `1717856630` | Dela blandningsläge. |
-| Absent | `0` | Blandningsläget saknas eller är inte inställt ännu. |
+| Difference | `1684629094` | Skillnad blandningsläge. |
+| Exclusion | `1936553316` | Exklusionsblandningsläge. |
+| ColorDodge | `1684633120` | Färgdodge-blandningsläge. |
+| ColorBurn | `1768188278` | Färgburn-blandningsläge. |
+| LinearBurn | `1818391150` | Linjär bränning-blandningsläge. |
+| LinearDodge | `1818518631` | Linjär dodge-blandningsläge. |
+| VividLight | `1984719220` | Livlig ljus-blandningsläge. |
+| LinearLight | `1816947060` | Linjär ljus-blandningsläge. |
+| PinLight | `1884055924` | Stiftljus-blandningsläge. |
+| HardMix | `1749903736` | Hård mix-blandningsläge. |
+| PassThrough | `1885434739` | Pass through-blandningsläge. |
+| DarkerColor | `1684751212` | Mörkare färg-blandningsläge. |
+| LighterColor | `1818706796` | Ljusare färg-blandningsläge. |
+| Subtract | `1718842722` | Subtrahera-blandningsläge. |
+| Divide | `1717856630` | Dela-blandningsläge. |
+| Absent | `0` | Blandningsläge saknas eller har ännu inte ställts in. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Core.Blending](../../aspose.psd.fileformats.core.blending/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.Blending](../../aspose.psd.fileformats.core.blending/)
+* assembly [Aspose.PSD](../../)
 
 

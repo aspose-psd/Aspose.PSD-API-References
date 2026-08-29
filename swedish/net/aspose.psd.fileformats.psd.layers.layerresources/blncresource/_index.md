@@ -1,14 +1,15 @@
 ---
-title: Class BlncResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource klass. BlncResourceklassen är en resurs av Color Adjustment Layer.
+title: "Klass BlncResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource klass. BlncResource klass är en resurs för färgjusteringslager"
 type: docs
-weight: 2310
+weight: 2570
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource class
 
-BlncResource-klassen är en resurs av Color Adjustment Layer.
+BlncResource‑klassen är en resurs för färgjusteringslager.
 
 ```csharp
 public class BlncResource : AdjustmentLayerResource
@@ -16,47 +17,47 @@ public class BlncResource : AdjustmentLayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlncResource](blncresource/)() | Initierar en ny instans av`BlncResource` class. |
+| [BlncResource](blncresource/)() | Initierar en ny instans av klassen `BlncResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Får eller ställer in Highlights Cyan Red Balance. |
-| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Får eller ställer in Highlights Magenta Green Balance. |
-| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Får eller ställer in Highlights Yellow Blue Balance. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Får eller ställer in mellantonscyanrödbalansen. |
-| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Hämtar eller ställer in mellantons magenta grönbalans. |
-| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Får eller ställer in Mellantoner Gul Blå Balans. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om detta`BlncResource` bevarar ljusstyrkan. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion/) { get; } | Hämtar PSD-versionen. |
-| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Får eller ställer in Shadows Cyan Red Balance. |
-| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Får eller ställer in Shadows Magenta Green Balance. |
-| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Får eller ställer in Skuggorna Gul Blå Balans. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Får signaturen. |
+| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Hämtar eller anger balansen för Highlights Cyan Red. |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Hämtar eller anger balansen för Highlights Magenta Green. |
+| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Hämtar eller anger Höjdpunkternas Gul Blå Balans. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Hämtar eller anger Mellantonernas Cyan Röda Balans. |
+| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Hämtar eller anger Mellantonernas Magenta Grön Balans. |
+| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Hämtar eller anger Mellantonernas Gul Blå Balans. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Hämtar eller anger ett värde som indikerar om denna `BlncResource` bevarar luminans. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Hämtar eller anger Skuggornas Cyan Röda Balans. |
+| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Hämtar eller anger Skuggornas Magenta Grön Balans. |
+| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Hämtar eller anger skuggornas gula/blå balans. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

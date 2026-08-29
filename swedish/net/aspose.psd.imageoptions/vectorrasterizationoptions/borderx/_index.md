@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: Aspose.PSD för .NET API-referens
-description: VectorRasterizationOptions fast egendom. Hämtar eller ställer in gränsen X.
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorRasterizationOptions-egenskap. Hämtar eller anger X-kanten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
-Hämtar eller ställer in gränsen X.
+Hämtar eller anger X‑kant.
 
 ```csharp
 public float BorderX { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Gränsen X.
+X-kanten.
 
 ### Se även
 
 * class [VectorRasterizationOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RgbChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD för .NET API-referens
-description: RgbChannelMixerLayer metod. Hämtar index för kanalen genom. Returnerar RgbMixerChannel
+title: "RgbChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RgbChannelMixerLayer metod. Hämtar index för kanalen med. Returnerar RgbMixerChannel"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GetChannelByIndex method
 
-Hämtar index för kanalen genom. Returnerar RgbMixerChannel
+Hämtar kanalens index efter. Returnerar RgbMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
@@ -24,15 +25,15 @@ public override MixerChannel GetChannelByIndex(int index)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer har inte fler än 3 kanaler. Index för första kanalen är 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer har högst 3 kanaler. Index för den första kanalen är 0 |
 
 ### Se även
 
 * class [MixerChannel](../../mixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerState.VerticalFXRf
-second_title: Aspose.PSD för .NET API-referens
-description: LayerState fast egendom. Hämtar eller ställer in VerticalFXRfvärdet.
+title: "LayerState.VerticalFXRf"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerState-egenskap. Hämtar eller anger VerticalFXRf-värdet"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/layerstate/verticalfxrf/
 ---
+{{< psd/tize >}}
 ## LayerState.VerticalFXRf property
 
-Hämtar eller ställer in VerticalFXRf-värdet.
+Hämtar eller anger värdet för VerticalFXRf.
 
 ```csharp
 public double VerticalFXRf { get; set; }
@@ -17,7 +18,7 @@ public double VerticalFXRf { get; set; }
 ### Se även
 
 * class [LayerState](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

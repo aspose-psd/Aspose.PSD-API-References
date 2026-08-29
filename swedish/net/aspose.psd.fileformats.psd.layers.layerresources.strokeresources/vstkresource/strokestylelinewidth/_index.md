@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource fast egendom. Hämtar eller ställer in linjebredden.
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource egenskap. Hämtar eller anger Stroke-linjebredd"
 type: docs
-weight: 160
+weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-Hämtar eller ställer in linjebredden.
+Hämtar eller anger stroke‑linjebredd.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för VstkResource-resursen.
+Följande kod demonstrerar stödet för VstkResource-resursen.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialArgb32PixelLoader
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IPartialArgb32PixelLoader gränssnitt. Överensstämmer med 32bitars ARGBpixlar som laddas delvis.
+title: "Gränssnitt IPartialArgb32PixelLoader"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IPartialArgb32PixelLoader-gränssnitt. Följer de 32-bitars ARGB-pixlarna som laddas delvis"
 type: docs
-weight: 4510
+weight: 4980
 url: /sv/net/aspose.psd/ipartialargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb32PixelLoader interface
 
-Överensstämmer med 32-bitars ARGB-pixlar som laddas delvis.
+Uppfyller de delvis inlästa 32-bitars ARGB-pixlarna.
 
 ```csharp
 public interface IPartialArgb32PixelLoader
@@ -16,13 +17,13 @@ public interface IPartialArgb32PixelLoader
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Process](../../aspose.psd/ipartialargb32pixelloader/process/)(Rectangle, int[], Point, Point) | Bearbetar de laddade pixlarna. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageOptionsBase.ResolutionSettings
-second_title: Aspose.PSD för .NET API-referens
-description: ImageOptionsBase fast egendom. Hämtar eller ställer in upplösningsinställningarna.
+title: "ImageOptionsBase.ResolutionSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageOptionsBase-egenskap. Hämtar eller anger upplösningsinställningarna."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/imageoptionsbase/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ResolutionSettings property
 
-Hämtar eller ställer in upplösningsinställningarna.
+Hämtar eller anger upplösningsinställningarna.
 
 ```csharp
 public virtual ResolutionSetting ResolutionSettings { get; set; }
@@ -18,7 +19,7 @@ public virtual ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../resolutionsetting/)
 * class [ImageOptionsBase](../)
-* namnutrymme [Aspose.PSD](../../imageoptionsbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

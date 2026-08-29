@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD för .NET API-referens
-description: ColorMap fast egendom. Hämtar eller ställer in den befintligaColor struktur som ska konverteras.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorMap property. Hämtar eller anger den befintliga Color‑strukturen som ska konverteras"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-Hämtar eller ställer in den befintliga[`Color`](../../color/) struktur som ska konverteras.
+Hämtar eller anger den befintliga [`Color`](../../color/)‑strukturen som ska konverteras.
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det existerande[`Color`](../../color/) struktur som ska omvandlas.
+Den befintliga [`Color`](../../color/)‑strukturen som ska konverteras.
 
 ### Se även
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* namnutrymme [Aspose.PSD](../../colormap/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

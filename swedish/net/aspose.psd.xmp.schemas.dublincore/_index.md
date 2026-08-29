@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller Dublin Coremetadatarelaterade hjälpklasser konstanter och metoder.
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller Dublin Core-metadatarelaterade hjälparklasser, konstanter och metoder."
 type: docs
-weight: 530
+weight: 570
 url: /sv/net/aspose.psd.xmp.schemas.dublincore/
 ---
-Namnutrymmet innehåller Dublin Core-metadatarelaterade hjälpklasser, konstanter och metoder.
+{{< psd/tize >}}
+Namnområdet innehåller Dublin Core-metadata-relaterade hjälparklasser, konstanter och metoder.
 
 ## Klasser
 

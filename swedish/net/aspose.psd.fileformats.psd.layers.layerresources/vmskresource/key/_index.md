@@ -1,14 +1,15 @@
 ---
-title: VmskResource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: VmskResource fast egendom. Hämtar lagerresursnyckeln.
+title: "VmskResource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VmskResource-egenskap. Hämtar lagerresursnyckeln"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/key/
 ---
+{{< psd/tize >}}
 ## VmskResource.Key property
 
-Hämtar lagerresursnyckeln.
+Hämtar lagerresursens nyckel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Se även
 
 * class [VmskResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vmskresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

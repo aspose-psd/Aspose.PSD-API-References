@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Aspose.PSD för .NET API-referens
-description: TextureBrush fast egendom. FårImage objekt associerat med dettaTextureBrush objekt.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextureBrush-egenskap. Hämtar Image-objektet som är associerat med detta TextureBrush-objekt"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-Får[`Image`](../../../aspose.psd/image/) objekt associerat med detta[`TextureBrush`](../) objekt.
+Hämtar [`Image`](../../../aspose.psd/image/) objektet som är associerat med detta [`TextureBrush`](../) objekt.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En[`Image`](../../../aspose.psd/image/) objekt som representerar bilden med vilken detta[`TextureBrush`](../) objekt fyller former.
+Ett [`Image`](../../../aspose.psd/image/) objekt som representerar bilden som detta [`TextureBrush`](../) objekt fyller former med.
 
 ### Se även
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../texturebrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PattResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: PattResource metod. Sparar resursblockdata.
+title: "PattResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PattResource-metoden. Sparar resursblockets data"
 type: docs
-weight: 70
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/
 ---
+{{< psd/tize >}}
 ## PattResource.Save method
 
-Sparar resursblockdata.
+Sparar resursblockets data.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Strömbehållaren att spara till. |
+| streamContainer | StreamContainer | Den stream container som ska sparas till. |
 | psdVersion | Int32 | PSD-versionen. |
 
 ### Se även
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

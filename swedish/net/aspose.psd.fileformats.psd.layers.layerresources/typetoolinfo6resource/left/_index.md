@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Left
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfo6Resource fast egendom. Hämtar eller ställer in den vänstra platsen.
+title: "TypeToolInfo6Resource.Left"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfo6Resource egenskap. Hämtar eller anger den vänstra platsen"
 type: docs
-weight: 80
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Left property
 
-Hämtar eller ställer in den vänstra platsen.
+Hämtar eller anger den vänstra positionen.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den vänstra platsen.
 
 ### Se även
 
 * class [TypeToolInfo6Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

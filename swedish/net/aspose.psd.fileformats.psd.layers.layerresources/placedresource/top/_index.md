@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Top
-second_title: Aspose.PSD för .NET API-referens
-description: PlacedResource fast egendom. Hämtar eller ställer in den övre platsen för det placerade lagret i PSDbilden.
+title: "PlacedResource.Top"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlacedResource egenskap. Hämtar eller anger den övre positionen för det placerade lagret i PSD‑bilden"
 type: docs
-weight: 150
+weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Top property
 
-Hämtar eller ställer in den övre platsen för det placerade lagret i PSD-bilden.
+Hämtar eller anger den övre positionen för det placerade lagret i PSD‑bilden.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den översta platsen för det placerade lagret.
+Den övre positionen för det placerade lagret.
 
 ### Se även
 
 * class [PlacedResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

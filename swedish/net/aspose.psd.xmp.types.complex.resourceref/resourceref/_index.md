@@ -1,14 +1,15 @@
 ---
-title: Class ResourceRef
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef klass. Används för att indikera tidigare versioner original av återgivningar original för härledda dokument och så vidare.
+title: "Klass ResourceRef"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef-klass. Används för att ange tidigare versioners original av renditioner, original för avledda dokument och så vidare."
 type: docs
-weight: 6090
+weight: 6590
 url: /sv/net/aspose.psd.xmp.types.complex.resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef class
 
-Används för att indikera tidigare versioner, original av återgivningar, original för härledda dokument och så vidare.
+Används för att ange tidigare versioner, original av renditioner, original för avledda dokument och så vidare.
 
 ```csharp
 public sealed class ResourceRef : ComplexTypeBase
@@ -16,31 +17,31 @@ public sealed class ResourceRef : ComplexTypeBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ResourceRef](resourceref/)() | Default_Constructor |
+| [ResourceRef](resourceref/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/) { get; set; } | Hämtar eller ställer in arrayen med alternativa sökvägar. |
-| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | Hämtar eller ställer in dokumentets URI. |
-| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | Hämtar eller ställer in filsökvägen URI. |
-| [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/) { get; set; } | Hämtar eller ställer in instansidentifieraren. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Hämtar standardnamnutrymmes-URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Får prefixet. |
+| [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/) { get; set; } | Hämtar eller anger arrayen med alternativa sökvägar. |
+| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | Hämtar eller anger dokumentets URI. |
+| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | Hämtar eller anger filens sökvägs-URI. |
+| [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/) { get; set; } | Hämtar eller anger instansidentifieraren. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Hämtar standardnamnrymdens URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Hämtar prefixet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Hämtar strängen som innehåller värdet i XMP-format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Hämtar det stränginnehållande värdet i XMP-format. |
 
 ### Se även
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../)
 
 

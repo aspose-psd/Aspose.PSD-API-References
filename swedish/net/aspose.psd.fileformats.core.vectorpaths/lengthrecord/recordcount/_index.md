@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.RecordCount
-second_title: Aspose.PSD för .NET API-referens
-description: LengthRecord fast egendom. Hämtar eller ställer in rekordantalet.
+title: "LengthRecord.RecordCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LengthRecord egenskap. Hämtar eller anger postantalet"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/recordcount/
 ---
+{{< psd/tize >}}
 ## LengthRecord.RecordCount property
 
-Hämtar eller ställer in rekordantalet.
+Hämtar eller anger postantalet.
 
 ```csharp
 public ushort RecordCount { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rekordantalet.
+Postantalet.
 
 ### Se även
 
 * class [LengthRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.LinkedLayersManager
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar den länkade lagerhanteraren.
+title: "PsdImage.LinkedLayersManager"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar den länkade lagerhanteraren"
 type: docs
 weight: 210
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## PsdImage.LinkedLayersManager property
 
 Hämtar den länkade lagerhanteraren.
@@ -18,7 +19,7 @@ public LinkedLayersManager LinkedLayersManager { get; }
 
 * class [LinkedLayersManager](../../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

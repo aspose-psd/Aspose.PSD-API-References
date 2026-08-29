@@ -1,14 +1,15 @@
 ---
-title: IOSTypeStructureLoader.Load
-second_title: Aspose.PSD för .NET API-referens
-description: IOSTypeStructureLoader metod. LaddarOSTypeStructure .
+title: "IOSTypeStructureLoader.Load"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IOSTypeStructureLoader-metod. Laddar OSTypeStructure"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.Load method
 
-Laddar[`OSTypeStructure`](../../ostypestructure/) .
+Laddar [`OSTypeStructure`](../../ostypestructure/).
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
@@ -20,14 +21,14 @@ public OSTypeStructure Load(StreamContainer streamContainer)
 
 ### Returvärde
 
-Den laddade[`OSTypeStructure`](../../ostypestructure/) resurs.
+Den laddade [`OSTypeStructure`](../../ostypestructure/)-resursen.
 
 ### Se även
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

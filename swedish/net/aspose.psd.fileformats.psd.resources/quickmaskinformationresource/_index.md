@@ -1,14 +1,15 @@
 ---
-title: Class QuickMaskInformationResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.QuickMaskInformationResource klass. Snabbmaskinformationsresurs
+title: "Class QuickMaskInformationResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.QuickMaskInformationResource class. Resurs för snabbmaskinformation"
 type: docs
-weight: 3850
+weight: 4320
 url: /sv/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource class
 
-Snabbmaskinformationsresurs
+Snabbmaskinformation-resurs
 
 ```csharp
 public sealed class QuickMaskInformationResource : ResourceBlock
@@ -16,26 +17,26 @@ public sealed class QuickMaskInformationResource : ResourceBlock
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [QuickMaskInformationResource](quickmaskinformationresource/)() | Default_Constructor |
+| [QuickMaskInformationResource](quickmaskinformationresource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ChannelId](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid/) { get; set; } | Hämtar eller ställer in kanalidentifieraren. |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/datasize/) { get; } | Hämtar resursdatastorleken i byte. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller ställer in den unika identifieraren för resursen. |
-| [IsMaskEmpty](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är masktom. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/minimalversion/) { get; } | Får den minsta nödvändiga PSD-versionen. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller ställer in resursnamnet. Pascal-sträng, vadderad för att göra storleken jämn (ett nollnamn består av två byte på 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resurssignaturen. Bör alltid vara '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockstorleken i byte inklusive dess data. |
+| [ChannelId](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid/) { get; set; } | Hämtar eller anger kanalidentifieraren. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/datasize/) { get; } | Hämtar resursens datastorlek i byte. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller anger den unika identifieraren för resursen. |
+| [IsMaskEmpty](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta objekt har en tom mask. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/quickmaskinformationresource/minimalversion/) { get; } | Hämtar den minsta erforderliga PSD-versionen. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller anger resursnamnet. Pascal-sträng, utfylld för att göra storleken jämn (ett nullnamn består av två nollbyte). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resursens signatur. Ska alltid vara '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockets storlek i byte inklusive dess data. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Sparar resursblocket till den angivna strömmen. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Validerar resursvärdena. |
@@ -43,7 +44,7 @@ public sealed class QuickMaskInformationResource : ResourceBlock
 ### Se även
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,34 +1,15 @@
 ---
-title: ClblResource.ClblResource
-second_title: Aspose.PSD för .NET API-referens
-description: ClblResource byggare. Initierar en ny instans avClblResource class.
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ClblResource konstruktor. Initierar en ny instans av ClblResource-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-Initierar en ny instans av[`ClblResource`](../) class.
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| blendClippedElements | Boolean | om inställt på`Sann` [blandning av klippta element]. |
-
-### Se även
-
-* class [ClblResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* hopsättning [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-Initierar en ny instans av[`ClblResource`](../) class.
+Initierar en ny instans av klassen [`ClblResource`](../).
 
 ```csharp
 public ClblResource()
@@ -37,14 +18,34 @@ public ClblResource()
 ### Se även
 
 * class [ClblResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+Initierar en ny instans av klassen [`ClblResource`](../).
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| blendClippedElements | Boolean | om inställd på `true` [blend clipped elements]. |
+
+### Se även
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-Initierar en ny instans av[`ClblResource`](../) class. Med anpassat eller okänt värde
+Initierar en ny instans av klassen [`ClblResource`](../). Med anpassat eller okänt värde
 
 ```csharp
 public ClblResource(byte[] data)
@@ -56,14 +57,14 @@ public ClblResource(byte[] data)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Ogiltigt clbl-resursvärde |
+| ArgumentException | Ogiltigt clbl Resource-värde |
 
 ### Se även
 
 * class [ClblResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

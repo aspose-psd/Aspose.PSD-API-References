@@ -1,14 +1,15 @@
 ---
-title: TimeLine.AFSt
-second_title: Aspose.PSD för .NET API-referens
-description: TimeLine fast egendom. Hämtar eller ställer in AFStvärdet.
+title: "Timeline.AFSt"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Timeline-egenskap. Hämtar eller anger AFSt-värdet"
 type: docs
-weight: 40
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/timeline/afst/
 ---
-## TimeLine.AFSt property
+{{< psd/tize >}}
+## Timeline.AFSt property
 
-Hämtar eller ställer in AFSt-värdet.
+Hämtar eller anger AFSt‑värdet.
 
 ```csharp
 public int AFSt { get; set; }
@@ -16,8 +17,8 @@ public int AFSt { get; set; }
 
 ### Se även
 
-* class [TimeLine](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* hopsättning [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

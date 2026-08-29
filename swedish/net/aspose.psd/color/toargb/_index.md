@@ -1,14 +1,15 @@
 ---
-title: Color.ToArgb
-second_title: Aspose.PSD för .NET API-referens
-description: Color metod. Hämtar 32bitars ARGBvärdet för dettaColorstruktur.
+title: "Color.ToArgb"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-metoden. Hämtar 32‑bit ARGB‑värdet för denna Color‑struktur."
 type: docs
 weight: 1590
 url: /sv/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-Hämtar 32-bitars ARGB-värdet för detta[`Color`](../)struktur.
+Hämtar 32‑bit ARGB‑värdet för denna [`Color`](../) struktur.
 
 ```csharp
 public int ToArgb()
@@ -16,12 +17,12 @@ public int ToArgb()
 
 ### Returvärde
 
-32-bitars ARGB-värdet för detta[`Color`](../).
+Det 32‑bit ARGB‑värdet för denna [`Color`](../).
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

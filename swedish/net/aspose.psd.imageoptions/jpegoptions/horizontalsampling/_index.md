@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.HorizontalSampling
-second_title: Aspose.PSD för .NET API-referens
-description: JpegOptions fast egendom. Hämtar eller ställer in de horisontella delsamplingarna för varje komponent.
+title: "JpegOptions.HorizontalSampling"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegOptions egenskap. Hämtar eller anger de horisontella delprovtagningarna för varje komponent"
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.HorizontalSampling property
 
-Hämtar eller ställer in de horisontella delsamplingarna för varje komponent.
+Hämtar eller anger de horisontella subsamplingarna för varje komponent.
 
 ```csharp
 public byte[] HorizontalSampling { get; set; }
@@ -17,7 +18,7 @@ public byte[] HorizontalSampling { get; set; }
 ### Se även
 
 * class [JpegOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.PixelXDimension
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in pixelns x dimension.
+title: "ExifData.PixelXDimension"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger pixelns x‑dimension"
 type: docs
 weight: 840
 url: /sv/net/aspose.psd.exif/exifdata/pixelxdimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelXDimension property
 
-Hämtar eller ställer in pixelns x dimension.
+Hämtar eller anger pixelns x‑dimension.
 
 ```csharp
 public uint PixelXDimension { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Pixel x dimension.
+Pixelns x‑dimension.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

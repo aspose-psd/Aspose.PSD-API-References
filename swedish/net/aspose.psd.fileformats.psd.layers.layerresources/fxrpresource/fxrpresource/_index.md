@@ -1,14 +1,15 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Aspose.PSD för .NET API-referens
-description: FxrpResource byggare. Initierar en ny instans avFxrpResource class.
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FxrpResource‑konstruktor. Initierar en ny instans av klassen FxrpResource"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-Initierar en ny instans av[`FxrpResource`](../) class.
+Initierar en ny instans av klassen [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource(double x, double y)
@@ -16,20 +17,20 @@ public FxrpResource(double x, double y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Double | Referenspunktens x-koordinat |
-| y | Double | Y-koordinaten för referenspunkten |
+| x | Double | x‑koordinaten för referenspunkten |
+| y | Double | y‑koordinaten för referenspunkten |
 
 ### Se även
 
 * class [FxrpResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-Initierar en ny instans av[`FxrpResource`](../) class.
+Initierar en ny instans av klassen [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource()
@@ -38,14 +39,14 @@ public FxrpResource()
 ### Se även
 
 * class [FxrpResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-Initierar en ny instans av[`FxrpResource`](../) class. Med anpassat eller okänt värde
+Initierar en ny instans av klassen [`FxrpResource`](../). Med anpassat eller okänt värde
 
 ```csharp
 public FxrpResource(byte[] data)
@@ -57,14 +58,14 @@ public FxrpResource(byte[] data)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltigt Fxrp-resursvärde |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltigt Fxrp Resource‑värde |
 
 ### Se även
 
 * class [FxrpResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

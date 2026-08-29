@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsReadOnly
-second_title: Aspose.PSD för .NET API-referens
-description: NonGenericDictionary fast egendom. Får ett värde som indikerar om IDictionary objektet är skrivskyddat.
+title: "NonGenericDictionary.IsReadOnly"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NonGenericDictionary egenskap. Hämtar ett värde som indikerar om IDictionary-objektet är skrivskyddat"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/nongenericdictionary/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsReadOnly property
 
-Får ett värde som indikerar om IDictionary objektet är skrivskyddat.
+Hämtar ett värde som indikerar om IDictionary-objektet är skrivskyddat.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,12 +17,12 @@ public bool IsReadOnly { get; }
 
 ### Returvärde
 
-sant omIDictionary objekt är skrivskyddat; annars falskt.
+Sant om IDictionary-objektet är skrivskyddat; annars falskt.
 
 ### Se även
 
 * class [NonGenericDictionary](../)
-* namnutrymme [Aspose.PSD](../../nongenericdictionary/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

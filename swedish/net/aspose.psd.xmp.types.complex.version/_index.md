@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Version
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller klasser som beskriver en version av ett dokument.
+title: "Aspose.PSD.Xmp.Types.Complex.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnområdet innehåller klasser som beskriver en version av ett dokument"
 type: docs
-weight: 690
+weight: 730
 url: /sv/net/aspose.psd.xmp.types.complex.version/
 ---
-Namnutrymmet innehåller klasser som beskriver en version av ett dokument.
+{{< psd/tize >}}
+Namnområdet innehåller klasser som beskriver en version av ett dokument.
 
 ## Klasser
 

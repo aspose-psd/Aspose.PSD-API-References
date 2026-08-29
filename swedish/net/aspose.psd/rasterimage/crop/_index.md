@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Crop
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Beskär den angivna rektangeln.
+title: "RasterImage.Crop"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metoden. Beskär den angivna rektangeln."
 type: docs
 weight: 240
 url: /sv/net/aspose.psd/rasterimage/crop/
 ---
+{{< psd/tize >}}
 ## Crop(Rectangle) {#crop}
 
 Beskär den angivna rektangeln.
@@ -16,16 +17,16 @@ public virtual void Crop(Rectangle rectangle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangeln. |
+| rektangel | Rectangle | Rektangeln. |
 
-### Exempel
+## Exempel
 
 Följande kodexempel visar hur man beskär en bild och sparar den.
 
 ```csharp
 [C#]
 
-// Implementera korrekt beskärningsmetod för PSD-filer.
+// Implementera korrekt Crop‑metod för PSD‑filer.
 string sourceFileName = "1.psd";
 string exportPathPsd = "CropTest.psd";
 string exportPathPng = "CropTest.png";
@@ -41,14 +42,14 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Crop(int, int, int, int) {#crop_1}
 
-Beskär bilden med skiftningar.
+Beskär bild med förskjutningar.
 
 ```csharp
 public virtual void Crop(int leftShift, int rightShift, int topShift, int bottomShift)
@@ -57,14 +58,14 @@ public virtual void Crop(int leftShift, int rightShift, int topShift, int bottom
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | leftShift | Int32 | Vänsterskiftet. |
-| rightShift | Int32 | Rätt skift. |
-| topShift | Int32 | Det översta skiftet. |
-| bottomShift | Int32 | Bottenskiftet. |
+| rightShift | Int32 | Högerskiftet. |
+| topShift | Int32 | Toppskiftet. |
+| bottomShift | Int32 | Bottneskiftet. |
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

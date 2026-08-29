@@ -1,14 +1,15 @@
 ---
-title: LayerGroupInformationResource.LayerGroupInformationResource
-second_title: Aspose.PSD för .NET API-referens
-description: LayerGroupInformationResource byggare. Default_Constructor
+title: "LayerGroupInformationResource.LayerGroupInformationResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerGroupInformationResource-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/layergroupinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public LayerGroupInformationResource()
@@ -17,7 +18,7 @@ public LayerGroupInformationResource()
 ### Se även
 
 * class [LayerGroupInformationResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

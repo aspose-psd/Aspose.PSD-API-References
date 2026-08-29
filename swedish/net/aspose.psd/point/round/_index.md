@@ -1,14 +1,15 @@
 ---
-title: Point.Round
-second_title: Aspose.PSD för .NET API-referens
-description: Point metod. Konverterar den angivnaPointF till aPoint objekt genom att runda avPoint värden till närmaste heltal.
+title: "Point.Round"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-metod. Konverterar den angivna PointF till ett Point-objekt genom att avrunda Point-värdena till närmaste heltal."
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-Konverterar den angivna[`PointF`](../../pointf/) till a[`Point`](../) objekt genom att runda av[`Point`](../) värden till närmaste heltal.
+Konverterar den angivna [`PointF`](../../pointf/) till ett [`Point`](../) objekt genom att avrunda [`Point`](../)-värdena till närmaste heltal.
 
 ```csharp
 public static Point Round(PointF point)
@@ -16,17 +17,17 @@ public static Point Round(PointF point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../../pointf/) att konvertera. |
+| point | PointF | Den [`PointF`](../../pointf/) som ska konverteras. |
 
 ### Returvärde
 
-De[`Point`](../) denna metod konverterar till.
+Det [`Point`](../) som den här metoden konverterar till.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat fast egendom. FårPixelDataFormat definieras för 32 bitar per pixel med 8 bitar för var och en av cyan magenta gul och svart.
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat egenskap. Hämtar PixelDataFormat som definieras för 32 bitar per pixel med 8 bitar för varje av cyan, magenta, gul och svart"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-Får[`PixelDataFormat`](../) definieras för 32 bitar per pixel med 8 bitar för var och en av cyan, magenta, gul och svart.
+Hämtar den [`PixelDataFormat`](../) som definieras för 32 bitar per pixel med 8 bitar för varje av cyan, magenta, gul och svart.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den[`PixelDataFormat`](../) definieras för 32 bitar per pixel med 8 bitar för var och en av cyan, magenta, gul och svart.
+Den [`PixelDataFormat`](../) som definieras för 32 bitar per pixel med 8 bitar för varje av cyan, magenta, gul och svart.
 
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

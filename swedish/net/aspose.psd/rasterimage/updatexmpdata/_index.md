@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UpdateXmpData
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Hämtar eller ställer in ett värde som anger om XMPmetadata ska uppdateras.
+title: "RasterImage.UpdateXmpData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-egenskap. Hämtar eller anger ett värde som indikerar om XMP-metadata ska uppdateras."
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/rasterimage/updatexmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UpdateXmpData property
 
-Hämtar eller ställer in ett värde som anger om XMP-metadata ska uppdateras.
+Hämtar eller anger ett värde som indikerar om XMP-metadata ska uppdateras.
 
 ```csharp
 public virtual bool UpdateXmpData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om uppdatera XMP-metadata; annat,`falsk` .
+`true` om XMP-metadata ska uppdateras; annars `false`.
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

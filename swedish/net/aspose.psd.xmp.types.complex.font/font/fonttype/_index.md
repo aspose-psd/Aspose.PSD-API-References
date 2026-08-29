@@ -1,31 +1,32 @@
 ---
-title: Font.FontType
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Hämtar eller ställer in teckensnittstypen.
+title: "Font.FontType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskap. Hämtar eller anger teckensnittstypen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
-Hämtar eller ställer in teckensnittstypen.
+Hämtar eller anger teckensnittstypen.
 
 ```csharp
 public string FontType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Teckensnittstypen.
 
-### Exempel
+## Exempel
 
-TrueType, Type 1, Open Type, och så vidare.
+TrueType, Type 1, Open Type och så vidare.
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum UnitTypes
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitTypes uppräkning. Enhetstyperna.
+title: "Enum UnitTypes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitTypes enum. Enhetstyperna"
 type: docs
-weight: 3290
+weight: 3680
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
+{{< psd/tize >}}
 ## UnitTypes enumeration
 
 Enhetstyperna.
@@ -14,21 +15,22 @@ Enhetstyperna.
 public enum UnitTypes
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Angle | `591490663` | Vinkelenhet. |
-| Density | `592606060` | Densitetsenhet. |
-| Distance | `592604276` | Avståndsenhet. |
+| Density | `592606060` | Densitetenhet. |
+| Distance | `592604276` | Distansenhet. |
 | None | `592342629` | Odefinierad enhet. |
 | Percent | `592474723` | Procentenhet. |
-| Pixels | `592476268` | Pixelenhet. |
-| Points | `592473716` | Poängenhet. |
+| Pixels | `592476268` | Pixel-enhet. |
+| Points | `592473716` | Punktenhet. |
+| Millimeters | `592276589` | Millimeterenhet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FontBaseline
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Teckensnittets baslinje.
+title: "ITextStyle.FontBaseline"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle property. Typsnittets baslinje"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontBaseline property
 
-Teckensnittets baslinje.
+Typsnittets baslinje.
 
 ```csharp
 public FontBaseline FontBaseline { get; set; }
@@ -18,7 +19,7 @@ public FontBaseline FontBaseline { get; set; }
 
 * enum [FontBaseline](../../../aspose.psd.fileformats.psd/fontbaseline/)
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

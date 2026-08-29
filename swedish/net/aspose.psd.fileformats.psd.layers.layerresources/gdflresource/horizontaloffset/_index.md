@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.HorizontalOffset
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Hämtar eller ställer in den horisontella offseten.
+title: "GdFlResource.HorizontalOffset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource-egenskap. Hämtar eller anger den horisontella förskjutningen"
 type: docs
-weight: 100
+weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.HorizontalOffset property
 
-Hämtar eller ställer in den horisontella offseten.
+Hämtar eller anger den horisontella förskjutningen.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den horisontella offset.
+Den horisontella förskjutningen.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för GdFlResource-resursladdning.
+Följande exempel demonstrerar stöd för inläsning av GdFlResource-resursen.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // Läser
+                    // Läsning
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Se även
 
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

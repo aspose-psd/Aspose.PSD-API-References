@@ -1,20 +1,21 @@
 ---
-title: TextShape.Font
-second_title: Aspose.PSD för .NET API-referens
-description: TextShape fast egendom. Hämtar eller ställer in typsnittet som används för att rita texten.
+title: "TextShape.Font"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextShape egenskap. Hämtar eller anger teckensnittet som används för att rita texten"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
-Hämtar eller ställer in typsnittet som används för att rita texten.
+Hämtar eller anger teckensnittet som används för att rita texten.
 
 ```csharp
 public Font Font { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Teckensnittet som används för att rita texten.
 
@@ -22,7 +23,7 @@ Teckensnittet som används för att rita texten.
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

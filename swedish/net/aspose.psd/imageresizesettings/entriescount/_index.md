@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Aspose.PSD för .NET API-referens
-description: ImageResizeSettings fast egendom. Hämtar eller ställer in posterna count
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageResizeSettings egenskap. Hämtar eller anger antalet poster"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-Hämtar eller ställer in posterna count
+Hämtar eller anger antalet poster
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Posterna count
+Antalet poster
 
 ### Se även
 
 * class [ImageResizeSettings](../)
-* namnutrymme [Aspose.PSD](../../imageresizesettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

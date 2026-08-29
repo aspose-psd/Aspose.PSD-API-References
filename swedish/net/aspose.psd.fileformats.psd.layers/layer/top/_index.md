@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in det översta lagrets position.
+title: "Layer.Top"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer egenskap. Hämtar eller anger den översta lagrets position"
 type: docs
-weight: 310
+weight: 320
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-Hämtar eller ställer in det översta lagrets position.
+Hämtar eller anger den övre lagerpositionen.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det översta lagrets position.
+Den översta lagrets position.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

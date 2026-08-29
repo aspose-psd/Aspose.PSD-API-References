@@ -1,14 +1,15 @@
 ---
-title: IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels
-second_title: Aspose.PSD för .NET API-referens
-description: IRasterImageArgb32PixelLoader metod. Laddar 32bitars ARGBpixlar delvis med block.
+title: "IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IRasterImageArgb32PixelLoader-metod. Laddar 32-bitars ARGB-pixlar partiellt i block"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader.LoadPartialArgb32Pixels method
 
-Laddar 32-bitars ARGB-pixlar delvis (med block).
+Laddar 32‑bitars ARGB‑pixlar partiellt (i block).
 
 ```csharp
 public void LoadPartialArgb32Pixels(Rectangle rectangle, 
@@ -17,15 +18,15 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangeln att ladda pixlar från. |
-| partialPixelLoader | IPartialArgb32PixelLoader | Den partiella pixelladdaren. |
+| rektangel | Rectangle | Rektangeln att ladda pixlar från. |
+| partialPixelLoader | IPartialArgb32PixelLoader | Den partiella pixel-laddaren. |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * interface [IRasterImageArgb32PixelLoader](../)
-* namnutrymme [Aspose.PSD](../../irasterimageargb32pixelloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

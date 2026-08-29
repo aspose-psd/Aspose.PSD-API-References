@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.OutputLayersNames
-second_title: Aspose.PSD för .NET API-referens
-description: MultiPageOptions fast egendom. Hämtar eller ställer in utdatalagrens namn Fungerar om exportformatet stöder lagernamn till exempel för Psd
+title: "MultiPageOptions.OutputLayersNames"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MultiPageOptions egenskap. Hämtar eller anger namn på utdata lager. Fungerar om exportformatet stödjer lagernamngivning, till exempel för Psd"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.imageoptions/multipageoptions/outputlayersnames/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.OutputLayersNames property
 
-Hämtar eller ställer in utdatalagrens namn (Fungerar om exportformatet stöder lagernamn, till exempel för Psd)
+Hämtar eller anger namn på utdata lager(Fungerar om exportformatet stöder namn på lager, till exempel för Psd)
 
 ```csharp
 public string[] OutputLayersNames { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Utdatalagrens namn.
+Namnen på utdata lager.
 
 ### Se även
 
 * class [MultiPageOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

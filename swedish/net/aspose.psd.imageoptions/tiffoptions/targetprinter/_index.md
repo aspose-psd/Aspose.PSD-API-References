@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in målskrivaren.
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger målskrivaren"
 type: docs
-weight: 500
+weight: 510
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
-Hämtar eller ställer in målskrivaren.
+Hämtar eller anger målskrivaren.
 
 ```csharp
 public string TargetPrinter { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Målskrivaren.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

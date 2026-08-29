@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: Aspose.PSD för .NET API-referens
-description: UnitArrayStructure fast egendom. Hämtar eller ställer in måttenhetstypen förUnitArrayStructure värden.
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UnitArrayStructure-egenskap. Hämtar eller anger måttenhetstypen för UnitArrayStructure-värdena"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-Hämtar eller ställer in måttenhetstypen för[`UnitArrayStructure`](../) värden.
+Hämtar eller anger måttenhetstypen för [`UnitArrayStructure`](../)-värdena.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Måttenhetstypen.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för ObAr- och UnFl-signaturerna.
+Följande kod demonstrerar stödet för ObAr- och UnFl‑signaturerna.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

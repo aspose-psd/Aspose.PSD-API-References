@@ -1,14 +1,15 @@
 ---
-title: Class UnitArrayStructure
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure klass. Definierar klassen UnitArrayStructure som hållerDouble värdematris och deras måttenhet. Den används i PSDfilresurserna vanligtvis avObjectArrayStructure .
+title: "Klass UnitArrayStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure klass. Definierar klassen UnitArrayStructure som innehåller en array av Double‑värden och deras måttenhet. Den används i PSD‑filresurserna vanligtvis av ObjectArrayStructure."
 type: docs
-weight: 3270
+weight: 3660
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure class
 
-Definierar klassen UnitArrayStructure som hållerDouble värdematris och deras måttenhet. Den används i PSD-filresurserna, vanligtvis av[`ObjectArrayStructure`](../objectarraystructure/) .
+Definierar klassen UnitArrayStructure som innehåller en array av Double‑värden och deras måttenhet. Den används i PSD‑filresurserna, vanligtvis av [`ObjectArrayStructure`](../objectarraystructure/).
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -16,38 +17,38 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Initierar en ny instans av`UnitArrayStructure` class. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Initierar en ny instans av klassen `UnitArrayStructure`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Hämtar denna enhets arraystrukturnyckel. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Hämtar eller ställer in nyckelnamnet. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Får[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) längd i byte. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Hämtar eller ställer in måttenhetstypen för`UnitArrayStructure` värden. |
-| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Får värderäkningen. |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Hämtar eller ställer in enhetsmatrisstrukturvärdena. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Hämtar denna nyckel för enhetsarraystrukturen. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Hämtar eller anger nyckelnamnet. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Hämtar [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) längd i byte. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Hämtar eller anger måttenhetstypen för `UnitArrayStructure`‑värdena. |
+| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Hämtar antalet värden. |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Hämtar eller anger värdena för enhetsarraystrukturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Hämtar rubrikens längd. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Sparar strukturen i den angivna strömbehållaren. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Sparar strukturen i den angivna strömbehållaren. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Hämtar headerlängden. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Sparar strukturen till den angivna strömbehållaren. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Sparar strukturen till den angivna strömbehållaren. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Definierar "UnFl"`UnitArrayStructure` nyckel. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Definierar nyckeln 'UnFl' för `UnitArrayStructure`. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för ObAr- och UnFl-signaturerna.
+Följande kod demonstrerar stödet för ObAr- och UnFl‑signaturerna.
 
 ```csharp
 [C#]
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

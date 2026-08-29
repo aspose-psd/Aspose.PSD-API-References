@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Justera en ljusstyrka för bilden.
+title: "PsdImage.AdjustBrightness"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Justerar ljusstyrkan för en bild"
 type: docs
-weight: 440
+weight: 500
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-Justera en ljusstyrka för bilden.
+Justering av bildens ljusstyrka.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
@@ -16,12 +17,12 @@ public override void AdjustBrightness(int brightness)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brightness | Int32 | Ljusstyrka värde. |
+| ljusstyrka | Int32 | Ljusstyrkevärde. |
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

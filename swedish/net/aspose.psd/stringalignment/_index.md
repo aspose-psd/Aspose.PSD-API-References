@@ -1,30 +1,31 @@
 ---
-title: Enum StringAlignment
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.StringAlignment uppräkning. Anger justeringen av en textsträng i förhållande till dess layoutrektangel.
+title: "Enum StringAlignment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.StringAlignment enum. Anger justeringen av en textsträng i förhållande till dess layoutrektangel"
 type: docs
-weight: 5650
+weight: 6150
 url: /sv/net/aspose.psd/stringalignment/
 ---
+{{< psd/tize >}}
 ## StringAlignment enumeration
 
-Anger justeringen av en textsträng i förhållande till dess layoutrektangel.
+Anger justeringen av en textsträng relativt dess layoutrektangel.
 
 ```csharp
 public enum StringAlignment
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Near | `0` | Anger att texten ska justeras nära layouten. I en vänster-till-höger-layout är närpositionen vänster. I en layout från höger till vänster är den närmaste positionen höger. |
+| Near | `0` | Anger att texten ska justeras nära layouten. I en layout från vänster till höger är den nära positionen vänster. I en layout från höger till vänster är den nära positionen höger. |
 | Center | `1` | Anger att texten är justerad i mitten av layoutrektangeln. |
-| Far | `2` | Anger att text justeras långt från layoutrektangelns ursprungsposition. I en layout från vänster till höger är den bortre positionen höger. I en layout från höger till vänster är den bortre positionen vänster. |
+| Far | `2` | Anger att texten är justerad långt från ursprungspositionen i layoutrektangeln. I en layout från vänster till höger är den avlägsna positionen höger. I en layout från höger till vänster är den avlägsna positionen vänster. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

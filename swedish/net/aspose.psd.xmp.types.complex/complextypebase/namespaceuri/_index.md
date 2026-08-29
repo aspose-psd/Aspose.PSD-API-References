@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: Aspose.PSD för .NET API-referens
-description: ComplexTypeBase fast egendom. Hämtar standardnamnutrymmesURI.
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ComplexTypeBase-egenskap. Hämtar standard-URI för namnrymd"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
-Hämtar standardnamnutrymmes-URI.
+Hämtar standardnamnrymdens URI.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Standardnamnutrymmes-URI.
+Standard-URI för namnrymd.
 
 ### Se även
 
 * class [ComplexTypeBase](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

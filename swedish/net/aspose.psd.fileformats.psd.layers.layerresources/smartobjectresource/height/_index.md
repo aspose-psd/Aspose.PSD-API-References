@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Height
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in höjden.
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource egenskap. Hämtar eller anger höjden"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
-Hämtar eller ställer in höjden.
+Hämtar eller anger höjden.
 
 ```csharp
 public double Height { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Höjden.
 
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

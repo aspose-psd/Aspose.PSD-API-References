@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.ProgressManagement
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller förloppshanterarklasser
+title: "Aspose.PSD.ProgressManagement"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnområdet innehåller klasser för förloppshantering."
 type: docs
-weight: 480
+weight: 520
 url: /sv/net/aspose.psd.progressmanagement/
 ---
-Namnutrymmet innehåller förloppshanterarklasser
+{{< psd/tize >}}
+Namnområdet innehåller klasser för förloppshantering.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Den här klassen representerar information om bildladdnings/spara/exportens framsteg, som kan användas i extern applikation för att visa konverteringsförloppet till slutanvändaren |
+| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Denna klass representerar information om framsteg för bildladdning/sparning/exportoperationer, som kan användas i en extern applikation för att visa konverteringsframsteg för slutanvändaren. |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [EventType](./eventtype/) | Denna uppräkning beskriver möjliga förloppshändelsetyper som kan inträffa under bildbehandlingsoperationer |
+| [EventType](./eventtype/) | Denna enum beskriver möjliga typer av framstegshändelser som kan inträffa under bildbehandlingsoperationer. |
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDifferential
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in ett GPSvärde som indikerar om differentiell korrigering tillämpas på GPSmottagaren.
+title: "ExifData.GPSDifferential"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger ett GPS‑värde som indikerar om differentialkorrigering tillämpas på GPS‑mottagaren"
 type: docs
 weight: 480
 url: /sv/net/aspose.psd.exif/exifdata/gpsdifferential/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDifferential property
 
-Hämtar eller ställer in ett GPS-värde som indikerar om differentiell korrigering tillämpas på GPS-mottagaren.
+Hämtar eller anger ett GPS-värde som indikerar om differentialkorrigering tillämpas på GPS-mottagaren.
 
 ```csharp
 public ushort GPSDifferential { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-värdet som indikerar om differentiell korrigering tillämpas på GPS-mottagaren.
+GPS‑värdet som indikerar om differentialkorrigering tillämpas på GPS‑mottagaren.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in kameraägarens namn
+title: "ExifData.CameraOwnerName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger kamerans ägarnamn"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.exif/exifdata/cameraownername/
 ---
+{{< psd/tize >}}
 ## ExifData.CameraOwnerName property
 
-Hämtar eller ställer in kameraägarens namn
+Hämtar eller anger kamerans ägarnamn
 
 ```csharp
 public string CameraOwnerName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på kameraägaren.
+Namnet på kamerans ägare.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntriesCount
-second_title: Aspose.PSD för .NET API-referens
-description: PsdColorPalette fast egendom. Får antalet obearbetade färgpalettposter.
+title: "PsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdColorPalette-egenskap. Hämtar antalet råa färgpalettposter"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntriesCount property
 
-Får antalet obearbetade färgpalettposter.
+Hämtar antalet råa färgpalettposter.
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De råa färgpalettposterna räknas.
+Antalet poster i den råa färgpaletten.
 
 ### Se även
 
 * class [PsdColorPalette](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

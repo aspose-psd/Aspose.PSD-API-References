@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadRational
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamReader metod. Läs ett enda rationellt talvärde från strömmen.
+title: "TiffStreamReader.ReadRational"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamReader-metod. Läs ett enskilt rationellt tal från strömmen."
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadRational method
 
-Läs ett enda rationellt talvärde från strömmen.
+Läs ett enskilt rationellt talvärde från strömmen.
 
 ```csharp
 public TiffRational ReadRational(long position)
@@ -26,7 +27,7 @@ Det rationella talet.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamReader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

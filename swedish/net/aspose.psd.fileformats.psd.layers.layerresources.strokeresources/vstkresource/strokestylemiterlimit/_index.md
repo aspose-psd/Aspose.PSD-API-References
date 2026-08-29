@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleMiterLimit
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource fast egendom. Hämtar eller ställer in slagstilens geringsgräns.
+title: "VstkResource.StrokeStyleMiterLimit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource egenskap. Hämtar eller anger Stroke-stilens mitergräns"
 type: docs
-weight: 170
+weight: 150
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleMiterLimit property
 
-Hämtar eller ställer in slagstilens geringsgräns.
+Hämtar eller anger mitergräns för stroke‑stilen.
 
 ```csharp
 public double StrokeStyleMiterLimit { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Slagstilens geringsgräns.
+Stroke-stilens mitergräns.
 
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

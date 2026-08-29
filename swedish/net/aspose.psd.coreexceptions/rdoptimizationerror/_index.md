@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizationError
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.RdOptimizationError klass. RD optimeringsfel undantag class
+title: "Klass RdOptimizationError"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError klass. RD-optimeringsfel undantagsklass"
 type: docs
 weight: 670
 url: /sv/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-RD optimeringsfel undantag class
+RD-optimeringsfel undantagsklass
 
 ```csharp
 public class RdOptimizationError : Exception
@@ -16,13 +17,13 @@ public class RdOptimizationError : Exception
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | Initierar en ny instans av`RdOptimizationError` class. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | Initierar en ny instans av `RdOptimizationError`-klassen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD för .NET API-referens
-description: UnitArrayStructure fast egendom. Hämtar eller ställer in enhetsmatrisstrukturvärdena.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UnitArrayStructure-egenskap. Hämtar eller anger enhetsarraystrukturens värden"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-Hämtar eller ställer in enhetsmatrisstrukturvärdena.
+Hämtar eller anger värdena för enhetsarraystrukturen.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Enhetens matrisstrukturvärden.
+Enhetsarraystrukturens värden.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | Egenskapen för värden får inte vara null. |
+| ArgumentNullException | Values-egenskapen får inte vara null. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för ObAr- och UnFl-signaturerna.
+Följande kod demonstrerar stödet för ObAr- och UnFl‑signaturerna.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [UnitArrayStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

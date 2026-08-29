@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in det minsta sampelvärdet. Värdet har en fälttyp som bäst matchar exempeldata Byte Short eller Long type.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger det minsta provvärdet. Värdet har en fälttyp som bäst matchar provdata Byte Short eller Long-typ"
 type: docs
-weight: 440
+weight: 450
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-Hämtar eller ställer in det minsta sampelvärdet. Värdet har en fälttyp som bäst matchar exempeldata (Byte, Short eller Long type).
+Hämtar eller anger det minsta provvärdet. Värdet har en fälttyp som bäst matchar provdata (Byte-, Short- eller Long-typ).
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Minsta exempelvärde.
+Det minsta provvärdet.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

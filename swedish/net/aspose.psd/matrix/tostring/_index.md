@@ -1,14 +1,15 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix metod. Returnerar enString som representerar denna instans.
+title: "Matrix.ToString"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-metod. Returnerar en String som representerar detta objekt"
 type: docs
 weight: 170
 url: /sv/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en String som representerar detta objekt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar denna instans.
 
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

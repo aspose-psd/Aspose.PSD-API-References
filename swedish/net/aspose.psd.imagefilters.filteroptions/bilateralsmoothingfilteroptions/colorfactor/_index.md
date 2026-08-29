@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: Aspose.PSD för .NET API-referens
-description: BilateralSmoothingFilterOptions fast egendom. Hämtar eller ställer in färgfaktorn.
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BilateralSmoothingFilterOptions-egenskap. Hämtar eller anger färgfaktorn"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
-Hämtar eller ställer in färgfaktorn.
+Hämtar eller anger färgfaktorn.
 
 ```csharp
 public double ColorFactor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgfaktorn.
 
 ### Se även
 
 * class [BilateralSmoothingFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

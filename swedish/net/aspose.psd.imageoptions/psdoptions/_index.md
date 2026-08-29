@@ -1,14 +1,15 @@
 ---
-title: Class PsdOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageOptions.PsdOptions klass. Skapa alternativ för psdfilformatet.
+title: "Klassen PsdOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageOptions.PsdOptions‑klass. Skapandealternativ för psd‑filformatet"
 type: docs
-weight: 4900
+weight: 5390
 url: /sv/net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
-Skapa alternativ för psd-filformatet.
+psd-filformatets skapandealternativ.
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
@@ -16,47 +17,49 @@ public class PsdOptions : ImageOptionsBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [PsdOptions](psdoptions/#constructor)() | Initierar en ny instans av`PsdOptions` class. |
-| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Initierar en ny instans av`PsdOptions` class. |
-| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Initierar en ny instans av`PsdOptions` class. |
+| [PsdOptions](psdoptions/#constructor)() | Initierar en ny instans av klassen `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Initierar en ny instans av klassen `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Initierar en ny instans av klassen `PsdOptions`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Hämtar eller ställer in buffertstorlekstipset som är definierat som högsta tillåtna storlek för alla interna buffertar. |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Hämtar eller ställer in antalet bitar per färgkanal. |
-| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Hämtar eller ställer in antalet färgkanaler. |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Hämtar eller ställer in psd-färgläget. |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Hämtar eller ställer in psd-komprimeringsmetoden. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Hämtar eller ställer in standardersättningsteckensnittet (teckensnitt som kommer att användas för att rita text vid export till raster, om befintligt lagerteckensnitt i PSD-filen inte presenteras i systemet). För att ta korrekt namn på standardteckensnitt kan nästa kodavsnitt användas : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] familjer = col.Families; sträng defaultFontName = familjer[0]. PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Får ett värde som indikerar om denna instans är bortskaffad. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Hämtar eller ställer in ett värde som anger om [helbild]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Alternativen för flera sidor |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Hämtar eller ställer in färgpaletten. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Hämtar eller ställer in förloppshändelsehanteraren. |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Hämtar eller ställer in filformatsversionen. Det kan vara PSD eller PSB. |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Hämtar eller ställer in ett värde som anger om [uppdatera bildförhandsgranskningsdata] – alternativ som används för att maximera kompatibiliteten med andra PSD-bildvisare. Observera att textlager som ritar till slutlig layout inte stöds för Compact Framework platform |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Hämtar eller ställer in ett värde som anger om - Ta bort den globala textmotorresursen - Används för vissa psd-filer med textskikt, endast i fallet när de inte kan öppnas i Adobe Photoshop efter bearbetning (mest för textlager som saknas teckensnitt). Efter att ha använt det här alternativet måste användaren göra nästa i öppnad i Photoshop-fil: Meny "Text" -&gt; "Bearbeta frånvarande teckensnitt". Efter den operationen kommer all text att visas igen. Observera att denna operation kan orsaka några slutliga layoutändringar. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Hämtar eller ställer in upplösningsinställningarna. |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Hämtar eller ställer in psd-resurserna. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Hämtar eller ställer in källan för att skapa bild i. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Hämtar eller ställer in vektorrasteriseringsalternativen. |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Hämtar eller ställer in psd-filversionen. |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Hämta eller ställ in XMP-databehållare |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | Hämtar eller anger bakgrundsfärgen. Den kan ses under transparenta objekt. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Hämtar eller anger en hint för buffertstorleken som definierar maximal tillåten storlek för alla interna buffertar. |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Hämtar eller anger antalet bitar per färgkanal. |
+| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Hämtar eller anger antalet färgkanaler. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Hämtar eller anger PSD-färgläget. |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Hämtar eller anger PSD-komprimeringsmetoden. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Hämtar eller anger standardersättningsfonten (font som kommer att användas för att rita text vid export till raster, om befintlig lagerfont i PSD‑filen inte finns i systemet). För att få rätt namn på standardfonten kan följande kodsnutt användas: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Hämtar ett värde som indikerar om denna instans har frigjorts. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Hämtar eller anger ett värde som indikerar om [full frame]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Alternativen för flersidiga |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Hämtar eller anger färgpaletten. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Hämtar eller anger händelsehanteraren för framsteg. |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Hämtar eller anger filformatets version. Den kan vara PSD eller PSB. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Hämtar eller anger ett värde som indikerar om [refresh image preview data] - alternativet som används för att maximera kompatibiliteten med andra PSD-bildvisare. Observera att ritning av textlager till den slutliga layouten inte stöds för Compact Framework-plattformen. |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Hämtar eller anger ett värde som indikerar om - Ta bort den globala textmotorresursen - Används för vissa textlager-PSD-filer, endast i de fall då de inte kan öppnas i Adobe Photoshop efter bearbetning (mest relaterat till textlager med saknade teckensnitt). Efter att ha använt detta alternativ måste användaren göra följande i den öppnade Photoshop-filen: Meny \"Text\" -&gt; \"Process absent fonts\". Efter den operationen kommer all text att visas igen. Observera att denna operation kan orsaka vissa förändringar i den slutliga layouten. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Hämtar eller anger upplösningsinställningarna. |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Hämtar eller anger PSD-resurserna. Om värdet: NULL - spara då de ursprungliga ImageResources (standardbeteende) Inte tomt - spara då resurserna som skickas till denna egenskap + [required resources] Tomt - spara då endast [required resources]. Nödvändiga resurser: ResolutionInfoResource, XmpResource |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Hämtar eller anger källan för att skapa bilden i. |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | Hämtar eller anger ett värde som indikerar om [update metadata]. Om värdet är true uppdateras metadata vid sparande av en bild. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Hämtar eller anger vektor‑rasteriseringsalternativen. |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Hämtar eller anger PSD-filens version. |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Hämta eller ange XMP-datakontainer |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Klonar den här instansen. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Tar bort den aktuella instansen. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Klonar detta objekt. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Frigör den aktuella instansen. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan exportera AI-fil till PSD- och PNG-format i Aspose.PSD
+Följande exempel visar hur du kan exportera AI-filer till PSD- och PNG-format i Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,29 +73,29 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Det här exemplet skapar en ny bildfil på någon diskplats som specificeras av Source-egenskapen för PsdOptions-instansen. Flera egenskaper för PsdOptions-instansen ställs in innan den faktiska bilden skapas. Speciellt egenskapen Source, som refererar till den faktiska diskplatsen i det här fallet.
+Detta exempel skapar en ny bildfil på en viss diskplats enligt Source‑egenskapen i PsdOptions‑instansen. Flera egenskaper för PsdOptions‑instansen sätts innan den faktiska bilden skapas. Speciellt Source‑egenskapen, som i detta fall refererar till den faktiska diskplatsen.
 
 ```csharp
 [C#]
 
-//Skapa en instans av PsdOptions och ställ in dess olika egenskaper
+//Skapa en instans av PsdOptions och ange dess olika egenskaper
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Skapa en instans av FileCreateSource och tilldela den som källa för instansen av PsdOptions
+//Skapa en instans av FileCreateSource och tilldela den som Source för instansen av PsdOptions
 //Den andra booleska parametern bestämmer om filen som ska skapas är temporär eller inte
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Skapa en instans av bild och initiera den med instans av PsdOptions genom att anropa metoden Skapa
+//Skapa en instans av Image och initiera den med en instans av PsdOptions genom att anropa Create‑metoden
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //gör lite bildbehandling
+    //utför någon bildbehandling
 
     // spara alla ändringar
     image.Save();
 }
 ```
 
-Följande exempel visar att läsning och lagring av Gråskala 16-bitars PSD-filer till 16bit per kanal RGB fungerar korrekt och utan undantag.
+Följande exempel visar att läsning och sparande av Grayscale 16‑bit PSD‑filer till 16‑bit per kanal RGB fungerar korrekt och utan undantag.
 
 ```csharp
 [C#]
@@ -120,12 +123,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Här bör inget undantag vara.
+    // Här bör det inte finnas något undantag.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Följande exempel visar att läsning och lagring av Gråskala 16 bitars PSD-filer till 8 bitar per kanal Gråskala fungerar korrekt och utan undantag.
+Följande exempel visar att läsning och sparande av Grayscale 16‑bit PSD‑filer till 8‑bit per kanal Grayscale fungerar korrekt och utan undantag.
 
 ```csharp
 [C#]
@@ -153,12 +156,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Här bör inget undantag vara.
+    // Här bör det inte finnas något undantag.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Följande exempel visar hur du kan använda blandningsläget PassThrough-lager i Aspose.PSD
+Följande exempel visar hur du kan använda PassThrough‑lagerblandningsläget i Aspose.PSD
 
 ```csharp
 [C#]
@@ -199,7 +202,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Följande exempel visar att dokumentkonverteringen fungerar korrekt och utan undantag.
+Följande exempel visar att dokumentkonverteringsframsteg fungerar korrekt och utan undantag.
 
 ```csharp
 [C#]
@@ -243,7 +246,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Det här exemplet visar hur man laddar pixelinformation i en array av typfärg, manipulerar arrayen och återställer den till bilden. För att utföra dessa operationer skapar det här exemplet en ny bildfil (i PSD-format) med MemoryStream-objekt.
+Detta exempel visar hur man laddar pixelinformation i en array av typen Color, manipulerar arrayen och sätter tillbaka den i bilden. För att utföra dessa operationer skapar detta exempel en ny bildfil (i PSD-format) med hjälp av ett MemoryStream‑objekt.
 
 ```csharp
 [C#]
@@ -251,27 +254,27 @@ Det här exemplet visar hur man laddar pixelinformation i en array av typfärg, 
 //Skapa en instans av MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Skapa en instans av PsdOptions och ställ in dess olika egenskaper inklusive egenskapen Source
+    //Skapa en instans av PsdOptions och ange dess olika egenskaper inklusive Source‑egenskapen
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Skapa en instans av bild
+    //Skapa en instans av Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Hämta pixlarna i bilden genom att ange området som bildgräns
+        //Hämta bildens pixlar genom att specificera området som bildens gräns
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //Slinga över Arrayen och ställer in färgen på alrenativt indexerad pixel
+        //Loopa över arrayen och sätter färg på alternativt indexerad pixel
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Ställ in den indexerade pixelfärgen till gul
+                //Sätt färgen på den indexerade pixeln till gul
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Ställ in den indexerade pixelfärgen till blå
+                //Sätt färgen på den indexerade pixeln till blå
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
@@ -288,7 +291,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 }
 ```
 
-Följande exempel visar att läsning och lagring av Gråskala 16 bitars PSD-filer fungerar korrekt och utan undantag.
+Följande exempel visar att läsning och sparande av Grayscale 16 bit PSD-filer fungerar korrekt och utan undantag.
 
 ```csharp
 [C#]
@@ -334,7 +337,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Här bör inget undantag vara.
+        // Här bör det inte finnas något undantag.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -353,7 +356,7 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 ### Se även
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* namnutrymme [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

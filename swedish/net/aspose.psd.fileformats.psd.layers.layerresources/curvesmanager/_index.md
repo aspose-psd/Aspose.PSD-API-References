@@ -1,14 +1,15 @@
 ---
-title: Class CurvesManager
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager klass. Basklass för att hantera CurvResource
+title: "Klass CurvesManager"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager klass. Basisklass för att hantera CurvResource"
 type: docs
-weight: 2430
+weight: 2690
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
-Basklass för att hantera CurvResource
+Basisklass för att hantera CurvResource
 
 ```csharp
 public abstract class CurvesManager
@@ -16,19 +17,19 @@ public abstract class CurvesManager
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | Initierar en ny instans av`CurvesManager` class. |
+| [CurvesManager](curvesmanager/)(int) | Initierar en ny instans av klassen `CurvesManager`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Får det maximala antalet kanaler. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Hämtar det maximala antalet kanaler. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

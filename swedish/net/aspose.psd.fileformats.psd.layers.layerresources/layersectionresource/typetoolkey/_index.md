@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: LayerSectionResource fält. Typverktygets infonyckel.
+title: "LayerSectionResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerSectionResource fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 100
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [LayerSectionResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: MixrResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: MixrResource fält. Typverktygets infonyckel.
+title: "MixrResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MixrResource fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 90
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## MixrResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [MixrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

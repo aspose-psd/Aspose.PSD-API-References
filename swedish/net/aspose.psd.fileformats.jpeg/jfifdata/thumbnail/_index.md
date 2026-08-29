@@ -1,14 +1,15 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Aspose.PSD för .NET API-referens
-description: JFIFData fast egendom. Hämtar eller ställer in miniatyrbilden.
+title: "JFIFData.Thumbnail"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JFIFData-egenskap. Hämtar eller anger miniatyren"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
-Hämtar eller ställer in miniatyrbilden.
+Hämtar eller anger miniatyren.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
@@ -18,7 +19,7 @@ public RasterImage Thumbnail { get; set; }
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

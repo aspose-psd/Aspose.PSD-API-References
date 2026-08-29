@@ -1,14 +1,15 @@
 ---
-title: StringFormat.StringFormat
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat byggare. Initierar en nyStringFormat objekt.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat-konstruktor. Initierar ett nytt StringFormat-objekt"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-Initierar en ny[`StringFormat`](../) objekt.
+Initierar ett nytt [`StringFormat`](../) objekt.
 
 ```csharp
 public StringFormat()
@@ -17,14 +18,14 @@ public StringFormat()
 ### Se även
 
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-Initierar en ny[`StringFormat`](../) objekt med det angivna[`StringFormatFlags`](../../stringformatflags/) uppräkning och språk.
+Initierar ett nytt [`StringFormat`](../) objekt med den angivna [`StringFormatFlags`](../../stringformatflags/) uppräkningen och språk.
 
 ```csharp
 public StringFormat(StringFormatFlags options)
@@ -32,20 +33,20 @@ public StringFormat(StringFormatFlags options)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| options | StringFormatFlags | De[`StringFormatFlags`](../../stringformatflags/) uppräkning för det nya[`StringFormat`](../) objekt. |
+| options | StringFormatFlags | Den [`StringFormatFlags`](../../stringformatflags/) uppräkningen för det nya [`StringFormat`](../) objektet. |
 
 ### Se även
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-Initierar en ny[`StringFormat`](../) objekt från det angivna befintliga[`StringFormat`](../) objekt.
+Initierar ett nytt [`StringFormat`](../) objekt från det angivna befintliga [`StringFormat`](../) objektet.
 
 ```csharp
 public StringFormat(StringFormat format)
@@ -53,18 +54,18 @@ public StringFormat(StringFormat format)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| format | StringFormat | De[`StringFormat`](../) objekt från vilket det nya ska initieras[`StringFormat`](../) objekt. |
+| format | StringFormat | Det [`StringFormat`](../) objektet som ska användas för att initiera det nya [`StringFormat`](../) objektet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *format* är inget. |
+| ArgumentNullException | *format* är null. |
 
 ### Se även
 
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

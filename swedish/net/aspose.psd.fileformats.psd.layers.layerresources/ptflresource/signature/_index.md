@@ -1,14 +1,15 @@
 ---
-title: PtFlResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: PtFlResource fast egendom. Hämtar lagerresurssignaturen.
+title: "PtFlResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PtFlResource egenskap. Hämtar lagerresursens signatur"
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Signature property
 
-Hämtar lagerresurssignaturen.
+Hämtar lagerresursens signatur.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [PtFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

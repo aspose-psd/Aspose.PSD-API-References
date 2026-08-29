@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Scale
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings fast egendom. Hämtar eller ställer in skalan.
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings-egenskap. Hämtar eller anger skalan"
 type: docs
-weight: 120
+weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
-Hämtar eller ställer in skalan.
+Hämtar eller anger skalan.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skalan.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för redigering av fyllskiktsmönster.
+Följande kod demonstrerar stöd för redigering av fyllningslagrets mönster.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Se även
 
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

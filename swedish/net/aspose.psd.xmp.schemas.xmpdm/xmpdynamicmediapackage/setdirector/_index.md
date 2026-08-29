@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDirector
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in regissören.
+title: "XmpDynamicMediaPackage.SetDirector"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage method. Ställer in regissören"
 type: docs
 weight: 170
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirector method
 
 Ställer in regissören.
@@ -21,7 +22,7 @@ public void SetDirector(string director)
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

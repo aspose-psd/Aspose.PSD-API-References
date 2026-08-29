@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.AlignWithLayer
-second_title: Aspose.PSD för .NET API-referens
-description: IGradientFillSettings fast egendom. Hämtar eller ställer in ett värde som anger om justera med lager.
+title: "IGradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IGradientFillSettings egenskap. Hämtar eller anger ett värde som indikerar om den ska justeras med lagret"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.AlignWithLayer property
 
-Hämtar eller ställer in ett värde som anger om [justera med lager].
+Hämtar eller anger ett värde som indikerar om [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [justera med lager]; annat,`falsk` .
+`true` om [align with layer]; annars, `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för Gradient FillLayer och redigeringsalternativ för IGradientFillSettings.
+Följande exempel demonstrerar stöd för Gradient FillLayer och redigeringsalternativ för IGradientFillSettings..
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
+            var solidGradient = (SolidGradient)settings.Gradient;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -47,14 +49,14 @@ using (im)
              settings.Reverse != false ||
              Math.Abs(settings.HorizontalOffset - (-39)) > 0.25 ||
              Math.Abs(settings.VerticalOffset - (-5)) > 0.25 ||
-             settings.TransparencyPoints.Length != 3 ||
-             settings.ColorPoints.Length != 2 ||
-             Math.Abs(100.0 - settings.TransparencyPoints[0].Opacity) > 0.25 ||
-             settings.TransparencyPoints[0].Location != 0 ||
-             settings.TransparencyPoints[0].MedianPointLocation != 50 ||
-             settings.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
-             settings.ColorPoints[0].Location != 0 ||
-             settings.ColorPoints[0].MedianPointLocation != 50)
+             solidGradient.TransparencyPoints.Length != 3 ||
+             solidGradient.ColorPoints.Length != 2 ||
+             Math.Abs(100.0 - solidGradient.TransparencyPoints[0].Opacity) > 0.25 ||
+             solidGradient.TransparencyPoints[0].Location != 0 ||
+             solidGradient.TransparencyPoints[0].MedianPointLocation != 50 ||
+             solidGradient.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+             solidGradient.ColorPoints[0].Location != 0 ||
+             solidGradient.ColorPoints[0].MedianPointLocation != 50)
             {
                 throw new Exception("Gradient Fill was not read correctly");
             }
@@ -64,8 +66,8 @@ using (im)
             settings.Reverse = true;
             settings.HorizontalOffset = 25;
             settings.VerticalOffset = -15;
-            var colorPoints = new List<IGradientColorPoint>(settings.ColorPoints);
-            var transparencyPoints = new List<IGradientTransparencyPoint>(settings.TransparencyPoints);
+            var colorPoints = new List<IGradientColorPoint>(solidGradient.ColorPoints);
+            var transparencyPoints = new List<IGradientTransparencyPoint>(solidGradient.TransparencyPoints);
             colorPoints.Add(new GradientColorPoint()
             {
                 Color = Color.Violet,
@@ -80,8 +82,8 @@ using (im)
                 MedianPointLocation = 25
             });
             transparencyPoints[2].Location = 3000;
-            settings.ColorPoints = colorPoints.ToArray();
-            settings.TransparencyPoints = transparencyPoints.ToArray();
+            solidGradient.ColorPoints = colorPoints.ToArray();
+            solidGradient.TransparencyPoints = transparencyPoints.ToArray();
             fillLayer.Update();
             im.Save(outputFile, new PsdOptions(im));
             break;
@@ -93,7 +95,7 @@ using (im)
 ### Se även
 
 * interface [IGradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolInfoResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoResource klass. Typverktygsinformationen. För PSDversion lägre än 6.0.
+title: "Klassen TypeToolInfoResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoResource klass. Typverktygsinformationen. För PSD-versioner lägre än 6.0"
 type: docs
-weight: 3100
+weight: 3480
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource class
 
-Typverktygsinformationen. För PSD-version lägre än 6.0.
+Information om typverktyget. För PSD-versioner lägre än 6.0.
 
 ```csharp
 public class TypeToolInfoResource : LayerResource
@@ -16,51 +17,51 @@ public class TypeToolInfoResource : LayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TypeToolInfoResource](typetoolinforesource/)() | Default_Constructor |
+| [TypeToolInfoResource](typetoolinforesource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/acomponent/) { get; set; } | Hämtar eller ställer in en komponent. |
-| [BComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/bcomponent/) { get; set; } | Hämtar eller ställer in b-komponenten. |
-| [CharacterCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/) { get; set; } | Hämtar eller ställer in antalet tecken. |
-| [ColorSpaceValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/) { get; set; } | Hämtar eller ställer in färgrymdsvärdet. |
-| [Fonts](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/) { get; set; } | Hämtar eller ställer in typsnitten. |
-| [FontsCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/) { get; } | Hämtar antalet teckensnitt. |
-| [FontVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/) { get; set; } | Hämtar eller ställer in teckensnittsversionen. |
-| [GComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/) { get; set; } | Hämtar eller ställer in g-komponenten. |
-| [HorizontalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/horizontalplacement/) { get; set; } | Hämtar eller ställer in den horisontella placeringen. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| [LineCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/) { get; } | Får radantalet. |
-| [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/) { get; set; } | Hämtar eller ställer in linjerna. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/psdversion/) { get; } | Får den minimala psd-version som krävs för lagerresurs. 0 indikerar inga begränsningar. |
-| [RComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/) { get; set; } | Hämtar eller ställer in r-komponenten. |
-| [ScaleFactor](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/) { get; set; } | Hämtar eller ställer in skalfaktorn. |
-| [SelectionEnd](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/) { get; set; } | Hämtar eller ställer in valslutet. |
-| [SelectionStart](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/) { get; set; } | Får eller ställer in valet start. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/signature/) { get; } | Hämtar lagerresurssignaturen. |
-| [Styles](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/) { get; set; } | Hämtar eller ställer in teckensnittsstilar. |
-| [StylesCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/) { get; } | Får antalet stilar. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/) { get; set; } | Hämtar eller ställer in transformationsmatrisen. |
-| [TypeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/) { get; set; } | Hämtar eller ställer in typvärdet. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/) { get; set; } | Hämtar eller ställer in versionen. |
-| [VerticalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/) { get; set; } | Hämtar eller ställer in den vertikala placeringen. |
+| [AComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/acomponent/) { get; set; } | Hämtar eller anger en komponent. |
+| [BComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/bcomponent/) { get; set; } | Hämtar eller anger b-komponenten. |
+| [CharacterCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/) { get; set; } | Hämtar eller anger teckenantalet. |
+| [ColorSpaceValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/) { get; set; } | Hämtar eller anger färgrymdsvärdet. |
+| [Fonts](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/) { get; set; } | Hämtar eller anger typsnitten. |
+| [FontsCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/) { get; } | Hämtar antalet typsnitt. |
+| [FontVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/) { get; set; } | Hämtar eller anger typsnittsversionen. |
+| [GComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/) { get; set; } | Hämtar eller anger g-komponenten. |
+| [HorizontalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/horizontalplacement/) { get; set; } | Hämtar eller anger horisontell placering. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| [LineCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/) { get; } | Hämtar radantalet. |
+| [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/) { get; set; } | Hämtar eller anger raderna. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| [RComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/) { get; set; } | Hämtar eller anger r-komponenten. |
+| [ScaleFactor](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/) { get; set; } | Hämtar eller anger skalfaktorn. |
+| [SelectionEnd](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/) { get; set; } | Hämtar eller anger slutet på markeringen. |
+| [SelectionStart](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/) { get; set; } | Hämtar eller anger början av markeringen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
+| [Styles](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/) { get; set; } | Hämtar eller anger typsnittsstilarna. |
+| [StylesCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/) { get; } | Hämtar antalet stilar. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/) { get; set; } | Hämtar eller anger transformmatrisen. |
+| [TypeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/) { get; set; } | Hämtar eller anger typvärdet. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/) { get; set; } | Hämtar eller anger versionen. |
+| [VerticalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/) { get; set; } | Hämtar eller anger vertikal placering. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save/)(StreamContainer, int) | Sparar den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

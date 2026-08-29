@@ -1,20 +1,21 @@
 ---
-title: ExifData.Properties
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in alla EXIFtaggar inklusive vanliga taggar och GPStaggar.
+title: "ExifData.Properties"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger alla EXIF-taggar inklusive vanliga och GPS-taggar"
 type: docs
 weight: 860
 url: /sv/net/aspose.psd.exif/exifdata/properties/
 ---
+{{< psd/tize >}}
 ## ExifData.Properties property
 
-Hämtar eller ställer in alla EXIF-taggar (inklusive vanliga taggar och GPS-taggar).
+Hämtar eller anger alla EXIF-taggar (inklusive vanliga och GPS-taggar).
 
 ```csharp
 public TiffDataType[] Properties { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 EXIF-taggarna (inklusive vanliga och GPS-taggar).
 
@@ -22,7 +23,7 @@ EXIF-taggarna (inklusive vanliga och GPS-taggar).
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

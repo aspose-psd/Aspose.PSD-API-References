@@ -1,14 +1,15 @@
 ---
-title: Class LnkeResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource klass. Definierar klassen LnkeResource som innehåller information om externa länkade filer eller tillgångar i PSDformatbilden. Länkresursen kan innehålla fleraLiFeDataSource instanser som kan nås av indexer. Detta är en del av PSD File Format Manipulation API som hjälper till att modifiera Adobe Photoshopfiler programmatiskt
+title: "Klass LnkeResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource‑klass. Definierar LnkeResource‑klassen som innehåller information om externa länkade filer eller resurser i PSD‑formatbilden. Länkresursen kan innehålla flera LiFeDataSource‑instanser som kan nås via indexerare. Detta är en del av PSD File Format Manipulation‑API som hjälper till att programatiskt modifiera Adobe Photoshop‑filer."
 type: docs
-weight: 2740
+weight: 3050
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-Definierar klassen LnkeResource som innehåller information om externa länkade filer eller tillgångar i PSD-formatbilden. Länkresursen kan innehålla flera[`LiFeDataSource`](../lifedatasource/) instanser som kan nås av indexer. Detta är en del av PSD File Format Manipulation API som hjälper till att modifiera Adobe® Photoshop®-filer programmatiskt
+Definierar LnkeResource‑klassen som innehåller information om externa länkade filer eller resurser i PSD‑formatbilden. Länkresursen kan innehålla flera [`LiFeDataSource`](../lifedatasource/)‑instanser som kan nås via indexerare. Detta är en del av PSD File Format Manipulation‑API som hjälper till att programatiskt modifiera Adobe® Photoshop®‑filer.
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -16,39 +17,39 @@ public class LnkeResource : LinkResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LnkeResource](lnkeresource/#constructor)() | Initierar en ny instans av`LnkeResource` class. |
-| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Initierar en ny instans av`LnkeResource` class. |
+| [LnkeResource](lnkeresource/#constructor)() | Initierar en ny instans av klassen `LnkeResource`. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Initierar en ny instans av klassen `LnkeResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Hämtar antalet länkdatakällor som kan nås av indexeraren. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Får ett värde som indikerar om denna länkresursinstans är tom. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Får[`LiFeDataSource`](../lifedatasource/) vid angivet index. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Får Adobe® Photoshop® globala resursnyckel. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Hämtar PSD:s globala länkresurslängd i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Hämtar PSD-formatversionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Får PSD:s globala länkresurssignatur. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Hämtar antalet länkdatakällor som kan nås via indexer. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Hämtar ett värde som indikerar om denna länkresursinstans är tom. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Hämtar [`LiFeDataSource`](../lifedatasource/) på det angivna indexet. (2 indexerare) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Hämtar den globala PSD‑länkresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Sparar resursblockdata. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Sparar resursblockets data. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för LnkeResource-resursen.
+Följande kod demonstrerar stöd för LnkeResource-resursen.
 
 ```csharp
 [C#]
@@ -274,7 +275,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

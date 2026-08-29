@@ -1,14 +1,15 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.PSD för .NET API-referens
-description: DisposableObject metod. Tar bort den aktuella instansen.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DisposableObject metod. Frigör den aktuella instansen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-Tar bort den aktuella instansen.
+Frigör den aktuella instansen.
 
 ```csharp
 public void Dispose()
@@ -17,7 +18,7 @@ public void Dispose()
 ### Se även
 
 * class [DisposableObject](../)
-* namnutrymme [Aspose.PSD](../../disposableobject/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

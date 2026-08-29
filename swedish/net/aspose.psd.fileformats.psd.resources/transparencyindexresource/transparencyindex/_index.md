@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.TransparencyIndex
-second_title: Aspose.PSD för .NET API-referens
-description: TransparencyIndexResource fast egendom. Hämtar eller ställer in transparensfärgindex.
+title: "TransparencyIndexResource.TransparencyIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TransparencyIndexResource-egenskap. Hämtar eller anger transparensfärgindexet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindex/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.TransparencyIndex property
 
-Hämtar eller ställer in transparensfärgindex.
+Hämtar eller anger transparensfärgindex.
 
 ```csharp
 public short TransparencyIndex { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Transparensfärgindex.
+Transparensfärgindexet.
 
 ### Se även
 
 * class [TransparencyIndexResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

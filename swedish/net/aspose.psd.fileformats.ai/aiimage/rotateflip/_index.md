@@ -1,14 +1,15 @@
 ---
-title: AiImage.RotateFlip
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage metod. Roterar vänder eller roterar och vänder bilden.
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-metoden. Rotera, vända eller rotera och vända bilden"
 type: docs
-weight: 160
+weight: 190
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
-Roterar, vänder eller roterar och vänder bilden.
+Rotera, vänd eller rotera och vänd bilden.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
@@ -16,11 +17,11 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Typ av roterande flip. |
+| rotateFlipType | RotateFlipType | Typ av rotate flip. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | NotImplementedException | Ej implementerad |
 
@@ -28,7 +29,7 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

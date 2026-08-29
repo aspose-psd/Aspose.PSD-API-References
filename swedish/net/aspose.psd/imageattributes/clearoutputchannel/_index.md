@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearOutputChannel
-second_title: Aspose.PSD för .NET API-referens
-description: ImageAttributes metod. Rensar utgångskanalinställningen för CMYK cyanmagentagulsvart för standardkategorin.
+title: "ImageAttributes.ClearOutputChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageAttributes-metoden. Rensar CMYK cyanmagentayellowblack-utgångskanalsinställningen för standardkategorin"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/imageattributes/clearoutputchannel/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannel() {#clearoutputchannel}
 
-Rensar utgångskanalinställningen för CMYK (cyan-magenta-gul-svart) för standardkategorin.
+Rensar CMYK (cyan-magenta-yellow-black) utkanalinställningen för standardkategorin.
 
 ```csharp
 public void ClearOutputChannel()
@@ -17,14 +18,14 @@ public void ClearOutputChannel()
 ### Se även
 
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearOutputChannel(ColorAdjustType) {#clearoutputchannel_1}
 
-Rensar utgångskanalinställningen (cyan-magenta-gul-svart) för en angiven kategori.
+Rensar (cyan-magenta-yellow-black) utkanalinställningen för en specificerad kategori.
 
 ```csharp
 public void ClearOutputChannel(ColorAdjustType type)
@@ -32,13 +33,13 @@ public void ClearOutputChannel(ColorAdjustType type)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| type | ColorAdjustType | Ett inslag av[`ColorAdjustType`](../../coloradjusttype/) som anger kategorin för vilken utgångskanalinställningen raderas. |
+| type | ColorAdjustType | Ett element av [`ColorAdjustType`](../../coloradjusttype/) som specificerar kategorin vars utgångskanalsinställning rensas. |
 
 ### Se även
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

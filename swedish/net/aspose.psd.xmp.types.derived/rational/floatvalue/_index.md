@@ -1,27 +1,28 @@
 ---
-title: Rational.FloatValue
-second_title: Aspose.PSD för .NET API-referens
-description: Rational fast egendom. Får flytvärdet.
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rational‑egenskap. Hämtar flyttalsvärdet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
-Får flytvärdet.
+Hämtar flyttalsvärdet.
 
 ```csharp
 public float FloatValue { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det flytande värdet.
+Flyttalsvärdet.
 
 ### Se även
 
 * class [Rational](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

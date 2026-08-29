@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamReader metod. Läs ett enkel dubbelvärde från strömmen.
+title: "TiffStreamReader.ReadDouble"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamReader-metod. Läs ett enda dubbelvärde från strömmen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDouble method
 
-Läs ett enkel dubbelvärde från strömmen.
+Läs ett enskilt double‑värde från strömmen.
 
 ```csharp
 public double ReadDouble(long position)
@@ -20,12 +21,12 @@ public double ReadDouble(long position)
 
 ### Returvärde
 
-Det enkla dubbelvärdet.
+Det enda dubbelvärdet.
 
 ### Se även
 
 * class [TiffStreamReader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

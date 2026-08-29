@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsCyanRedBalance
-second_title: Aspose.PSD för .NET API-referens
-description: BlncResource fast egendom. Får eller ställer in Shadows Cyan Red Balance.
+title: "BlncResource.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlncResource egenskap. Hämtar eller anger skuggornas cyan-röda balans"
 type: docs
-weight: 120
+weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsCyanRedBalance property
 
-Får eller ställer in Shadows Cyan Red Balance.
+Hämtar eller anger Skuggornas Cyan Röda Balans.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-The Shadows Cyan Red Balance.
+Den Shadows Cyan Red Balance.
 
 ### Se även
 
 * class [BlncResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

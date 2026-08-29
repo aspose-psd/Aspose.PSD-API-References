@@ -1,14 +1,15 @@
 ---
-title: ProjectLink.ProjectLink
-second_title: Aspose.PSD för .NET API-referens
-description: ProjectLink byggare. Default_Constructor
+title: "ProjectLink.ProjectLink"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ProjectLink-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/projectlink/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public ProjectLink()
@@ -17,7 +18,7 @@ public ProjectLink()
 ### Se även
 
 * class [ProjectLink](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

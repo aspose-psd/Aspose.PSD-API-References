@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomLeft
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeRadiiRectangle fast egendom. Får eller sätter botten.
+title: "VectorShapeRadiiRectangle.BottomLeft"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeRadiiRectangle property. Hämtar eller anger botten"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-Får eller sätter botten.
+Hämtar eller anger botten.
 
 ```csharp
 public double BottomLeft { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Botten.
 
 ### Se även
 
 * class [VectorShapeRadiiRectangle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

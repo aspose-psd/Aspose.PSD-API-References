@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Aspose.PSD för .NET API-referens
-description: Txt2Resource metod. Lägger till textposten till resurs och returnerar id för textpost.
+title: "Txt2Resource.AddTextRecord"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Txt2Resource metod. Lägger till textposten till Resource och returnerar id för textposten"
 type: docs
-weight: 70
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
-Lägger till textposten till resurs och returnerar id för textpost.
+Lägger till textposten i Resurs och returnerar id för textposten.
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
@@ -16,22 +17,22 @@ public int AddTextRecord(string text, RectangleF bounds)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| text | String | Rekordtexten. |
-| bounds | RectangleF | Gränserna. |
+| text | String | Postens text. |
+| gränser | RectangleF | Gränserna. |
 
 ### Returvärde
 
-Returnerar ID för textpost för resource
+Returnerar Id för textpost för resursen
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Okänd txt2-resursversion. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Okänd Txt2 Resource-version. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -87,7 +88,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

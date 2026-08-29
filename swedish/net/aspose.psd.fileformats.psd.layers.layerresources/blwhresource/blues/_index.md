@@ -1,24 +1,25 @@
 ---
-title: BlwhResource.Blues
-second_title: Aspose.PSD för .NET API-referens
-description: BlwhResource fast egendom. Hämtar eller ställer in bluesvärdet.
+title: "BlwhResource.Blues"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlwhResource egenskap. Hämtar eller anger värdet för blåa"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Blues property
 
-Hämtar eller ställer in bluesvärdet.
+Hämtar eller anger värdet för blått.
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bluesvärdet.
+Det blues-värdet.
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du redigerar en BlwhResource.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Testa redigering och spara
+                // Testa redigering och sparande
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Se även
 
 * class [BlwhResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

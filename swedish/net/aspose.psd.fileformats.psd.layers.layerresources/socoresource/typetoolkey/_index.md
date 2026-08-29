@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: SoCoResource fält. Typverktygets infonyckel.
+title: "SoCoResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SoCoResource fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 80
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoCoResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [SoCoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

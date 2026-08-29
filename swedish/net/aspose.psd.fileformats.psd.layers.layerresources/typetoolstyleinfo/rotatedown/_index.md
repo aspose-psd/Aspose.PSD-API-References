@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.RotateDown
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolStyleInfo fast egendom. Hämtar eller ställer in ett värde som indikerar om det är en rotationsstil.
+title: "TypeToolStyleInfo.RotateDown"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolStyleInfo egenskap. Hämtar eller anger ett värde som indikerar om det är en roterad nedstil"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.RotateDown property
 
-Hämtar eller ställer in ett värde som indikerar om det är en rotationsstil.
+Hämtar eller anger ett värde som indikerar om det är en rotate down-stil.
 
 ```csharp
 public bool RotateDown { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om det är en rotera ner stil; annat,`falsk` .
+`true` om det är en roterad nedstil; annars, `false`.
 
 ### Se även
 
 * class [TypeToolStyleInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TimeLine.LayerIds
-second_title: Aspose.PSD för .NET API-referens
-description: TimeLine fast egendom. Hämtar eller ställer in lageridmatrisen.
+title: "TimeLine.LayerIds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TimeLine egenskap. Hämtar eller anger lager‑id‑arrayen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/timeline/layerids/
 ---
+{{< psd/tize >}}
 ## TimeLine.LayerIds property
 
-Hämtar eller ställer in lager-id-matrisen.
+Hämtar eller anger lager‑id‑arrayen.
 
 ```csharp
 public int[] LayerIds { get; set; }
@@ -17,7 +18,7 @@ public int[] LayerIds { get; set; }
 ### Se även
 
 * class [TimeLine](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

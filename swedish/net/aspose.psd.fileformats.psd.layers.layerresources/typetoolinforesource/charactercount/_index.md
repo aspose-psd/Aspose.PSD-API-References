@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.CharacterCount
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar eller ställer in antalet tecken.
+title: "TypeToolInfoResource.CharacterCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar eller anger teckenantalet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.CharacterCount property
 
-Hämtar eller ställer in antalet tecken.
+Hämtar eller anger teckenantalet.
 
 ```csharp
 public int CharacterCount { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antal tecken.
+Teckenantalet.
 
 ### Se även
 
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

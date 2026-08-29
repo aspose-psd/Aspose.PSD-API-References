@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: Aspose.PSD för .NET API-referens
-description: ColorRangeHsl metod. Hämtar intervallkoefficienten.
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorRangeHsl metod. Hämtar intervallkoefficienten"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
-Hämtar intervallkoefficienten.
+Hämtar områdets koefficient.
 
 ```csharp
 public double GetRangeCoefficient(double hue)
@@ -16,16 +17,16 @@ public double GetRangeCoefficient(double hue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| hue | Double | Nyansvärdet. |
+| nyans | Double | Nyansvärdet. |
 
 ### Returvärde
 
-Mättnadsområdeskoefficient.
+Mättnadsintervallkoefficient.
 
 ### Se även
 
 * class [ColorRangeHsl](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

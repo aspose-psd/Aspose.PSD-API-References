@@ -1,14 +1,15 @@
 ---
-title: BezierShape.BezierShape
-second_title: Aspose.PSD för .NET API-referens
-description: BezierShape byggare. Initierar en ny instans avBezierShape class.
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierShape konstruktor. Initierar en ny instans av klassen BezierShape"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-Initierar en ny instans av[`BezierShape`](../) class.
+Initierar en ny instans av klassen [`BezierShape`](../).
 
 ```csharp
 public BezierShape()
@@ -17,14 +18,14 @@ public BezierShape()
 ### Se även
 
 * class [BezierShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../beziershape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-Initierar en ny instans av[`BezierShape`](../) class.
+Initierar en ny instans av klassen [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points)
@@ -32,20 +33,20 @@ public BezierShape(PointF[] points)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| points | PointF[] | Poängarrayen. |
+| punkter | PointF[] | Punktarrayen. |
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../beziershape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-Initierar en ny instans av[`BezierShape`](../) class.
+Initierar en ny instans av klassen [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
@@ -53,14 +54,14 @@ public BezierShape(PointF[] points, bool isClosed)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| points | PointF[] | Poängarrayen. |
-| isClosed | Boolean | Om inställt på`Sann` bezier spline är stängd. |
+| punkter | PointF[] | Punktarrayen. |
+| isClosed | Boolean | Om den är satt till `true` är bezier-spline stängd. |
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../beziershape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Hämtar eller ställer inBrush som bestämmer attributen för dettaPen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger Brush som bestämmer attributen för denna Pen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-Hämtar eller ställer in`Brush` som bestämmer attributen för detta[`Pen`](../) .
+Hämtar eller anger `Brush` som bestämmer attributen för denna [`Pen`](../).
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A`Brush` som bestämmer attributen för detta[`Pen`](../).
+En `Brush` som bestämmer attributen för denna [`Pen`](../).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`Brush` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | `Brush`-egenskapen är inställd på en oföränderlig [`Pen`](../), såsom de som returneras av klassen [`Pen`](../). |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

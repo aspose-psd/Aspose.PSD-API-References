@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.CompressionMethod
-second_title: Aspose.PSD för .NET API-referens
-description: PsdOptions fast egendom. Hämtar eller ställer in psdkomprimeringsmetoden.
+title: "PsdOptions.CompressionMethod"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdOptions egenskap. Hämtar eller anger psd-komprimeringsmetoden"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd.imageoptions/psdoptions/compressionmethod/
 ---
+{{< psd/tize >}}
 ## PsdOptions.CompressionMethod property
 
-Hämtar eller ställer in psd-komprimeringsmetoden.
+Hämtar eller anger PSD-komprimeringsmetoden.
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kompressionsmetoden.
+Komprimeringsmetoden.
 
 ### Se även
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [PsdOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../psdoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

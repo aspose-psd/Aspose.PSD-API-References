@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Aspose.PSD för .NET API-referens
-description: IGradientTransparencyPoint fast egendom. Hämtar eller ställer in opaciteten.
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IGradientTransparencyPoint-egenskap. Hämtar eller anger opaciteten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
-Hämtar eller ställer in opaciteten.
+Hämtar eller anger opaciteten.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Opaciteten.
 
 ### Se även
 
 * interface [IGradientTransparencyPoint](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

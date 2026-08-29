@@ -1,20 +1,21 @@
 ---
-title: PsdImage.GlobalLayerResources
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in de globala lagerresurserna.
+title: "PsdImage.GlobalLayerResources"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar eller anger de globala lagerresurserna"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/globallayerresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerResources property
 
-Hämtar eller ställer in de globala lagerresurserna.
+Hämtar eller anger de globala lagerresurserna.
 
 ```csharp
 public LayerResource[] GlobalLayerResources { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De globala lagerresurserna.
 
@@ -22,7 +23,7 @@ De globala lagerresurserna.
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

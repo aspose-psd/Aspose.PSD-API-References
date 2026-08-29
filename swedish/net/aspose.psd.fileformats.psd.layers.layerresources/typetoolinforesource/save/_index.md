@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource metod. Sparar den angivna strömbehållaren.
+title: "TypeToolInfoResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource metod. Sparar den angivna strömbehållaren"
 type: docs
-weight: 270
+weight: 240
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Save method
 
 Sparar den angivna strömbehållaren.
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

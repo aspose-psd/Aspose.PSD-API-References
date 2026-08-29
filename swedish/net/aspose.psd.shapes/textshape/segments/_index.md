@@ -1,20 +1,21 @@
 ---
-title: TextShape.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: TextShape fast egendom. Hämtar formsegmenten.
+title: "TextShape.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextShape-egenskap. Hämtar formens segment"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
-Hämtar formsegmenten.
+Hämtar formens segment.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formsegmenten.
 
@@ -22,7 +23,7 @@ Formsegmenten.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

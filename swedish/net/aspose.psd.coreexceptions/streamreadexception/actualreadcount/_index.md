@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Aspose.PSD för .NET API-referens
-description: StreamReadException fast egendom. Får det faktiska antalet lästa byte.
+title: "StreamReadException.ActualReadCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamReadException‑egenskap. Hämtar det faktiska antalet lästa byte"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
-Får det faktiska antalet lästa byte.
+Hämtar det faktiska antalet lästa byte.
 
 ```csharp
 public int ActualReadCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det faktiska antalet lästa bytes.
+Det faktiska antalet lästa byte.
 
 ### Se även
 
 * class [StreamReadException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

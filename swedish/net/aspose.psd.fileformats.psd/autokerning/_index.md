@@ -1,30 +1,31 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.AutoKerning uppräkning. Photoshops automatiska kerningläge avstånd mellan symboler.
+title: "Enum AutoKerning"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Photoshop automatiska kerningläge avstånd mellan symboler"
 type: docs
-weight: 1600
+weight: 1610
 url: /sv/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-Photoshops automatiska kerningläge (avstånd mellan symboler).
+Photoshop automatiska kerningläge (avstånd mellan symboler).
 
 ```csharp
 public enum AutoKerning
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Manual | `0` | Manuellt kerningvärde. |
-| Metric | `1` | Metrics kerning använder kern-par, som ingår i de flesta typsnitt (från deras designers). |
+| Metric | `1` | Metrisk kerning använder kerningpar, som ingår i de flesta typsnitt (från deras designers). |
 | Optical | `2` | Optisk kerning justerar avståndet mellan intilliggande tecken baserat på deras former. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

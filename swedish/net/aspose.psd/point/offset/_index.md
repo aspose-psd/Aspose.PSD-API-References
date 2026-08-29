@@ -1,14 +1,15 @@
 ---
-title: Point.Offset
-second_title: Aspose.PSD för .NET API-referens
-description: Point metod. Översätter dettaPoint av den angivnaPoint .
+title: "Point.Offset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-metod. Förflyttar detta Point med det angivna Point."
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Översätter detta[`Point`](../) av den angivna[`Point`](../) .
+Förflyttar detta [`Point`](../) med det angivna [`Point`](../).
 
 ```csharp
 public void Offset(Point point)
@@ -16,19 +17,19 @@ public void Offset(Point point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | De[`Point`](../) används för att kompensera detta[`Point`](../). |
+| point | Point | Det [`Point`](../) som används för att förskjuta detta [`Point`](../). |
 
 ### Se även
 
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Översätter detta[`Point`](../)med det angivna beloppet.
+Förflyttar detta [`Point`](../) med den angivna mängden.
 
 ```csharp
 public void Offset(int dx, int dy)
@@ -36,13 +37,13 @@ public void Offset(int dx, int dy)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dx | Int32 | Mängden för att kompensera x-koordinaten. |
-| dy | Int32 | Det belopp som ska kompenseras för y-koordinaten. |
+| dx | Int32 | Mängden för att förskjuta x-koordinaten. |
+| dy | Int32 | Mängden för att förskjuta y-koordinaten. |
 
 ### Se även
 
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TextShape.Center
-second_title: Aspose.PSD för .NET API-referens
-description: TextShape fast egendom. Hämtar formens centrum.
+title: "TextShape.Center"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextShape egenskap. Hämtar formens centrum"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
 Hämtar formens centrum.
@@ -14,7 +15,7 @@ Hämtar formens centrum.
 public override PointF Center { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formens centrum.
 
@@ -22,7 +23,7 @@ Formens centrum.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

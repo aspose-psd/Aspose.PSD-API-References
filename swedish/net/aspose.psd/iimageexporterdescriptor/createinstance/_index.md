@@ -1,14 +1,15 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: Aspose.PSD för .NET API-referens
-description: IImageExporterDescriptor metod. Skapar en ny exportörinstans.
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IImageExporterDescriptor-metod. Skapar en ny exportörsinstans"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
-Skapar en ny exportörinstans.
+Skapar en ny exportörsinstans.
 
 ```csharp
 public IImageExporter CreateInstance()
@@ -22,7 +23,7 @@ En ny exportörsinstans.
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* namnutrymme [Aspose.PSD](../../iimageexporterdescriptor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

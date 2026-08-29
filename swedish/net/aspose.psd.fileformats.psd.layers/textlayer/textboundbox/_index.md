@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Aspose.PSD för .NET API-referens
-description: TextLayer fast egendom. Hämtar eller ställer in den textbundna rutan.
+title: "TextLayer.TextBoundBox"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextLayer-egenskap. Hämtar eller anger textens avgränsningsruta"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-Hämtar eller ställer in den textbundna rutan.
+Hämtar eller anger textens begränsningsruta.
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den textbundna rutan.
+Textens avgränsningsruta.
 
 ### Se även
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

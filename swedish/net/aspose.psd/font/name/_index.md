@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Får ansiktsnamnet på dettaFont .
+title: "Font.Name"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskapen. Hämtar teckensnittets namn för detta Font"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-Får ansiktsnamnet på detta[`Font`](../) .
+Hämtar teckensnittets namn för detta [`Font`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En strängrepresentation av ansiktsnamnet på detta[`Font`](../).
+En strängrepresentation av teckensnittets namn för detta [`Font`](../).
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

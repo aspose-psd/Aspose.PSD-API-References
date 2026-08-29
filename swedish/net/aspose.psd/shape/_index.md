@@ -1,14 +1,15 @@
 ---
-title: Class Shape
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Shape klass. Formen. En kontinuerlig uppsättning punkter kopplade med en specifik regel.
+title: "Klass Shape"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Shape‑klass. Formen. En kontinuerlig uppsättning punkter som är sammankopplade med en specifik regel"
 type: docs
-weight: 5420
+weight: 5920
 url: /sv/net/aspose.psd/shape/
 ---
+{{< psd/tize >}}
 ## Shape class
 
-Formen. En kontinuerlig uppsättning punkter kopplade med en specifik regel.
+Formen. En kontinuerlig uppsättning punkter som är sammankopplade med en specifik regel.
 
 ```csharp
 public abstract class Shape : ObjectWithBounds
@@ -16,16 +17,16 @@ public abstract class Shape : ObjectWithBounds
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Hämtar objektets gränser. |
 | abstract [Center](../../aspose.psd/shape/center/) { get; } | Hämtar formens centrum. |
-| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Får ett värde som indikerar om formen har segment. |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Hämtar formsegmenten. |
+| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Hämtar ett värde som indikerar om formen har segment. |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Hämtar formens segment. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix) | Hämtar objektets gränser. |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | Hämtar objektets gränser. |
@@ -34,7 +35,7 @@ public abstract class Shape : ObjectWithBounds
 ### Se även
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

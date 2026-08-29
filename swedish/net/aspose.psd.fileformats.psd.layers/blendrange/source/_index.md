@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Source
-second_title: Aspose.PSD för .NET API-referens
-description: BlendRange fast egendom. Hämtar eller ställer in källblandningsintervallet.
+title: "BlendRange.Source"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlendRange egenskap. Hämtar eller anger källans blandningsintervall"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
-Hämtar eller ställer in källblandningsintervallet.
+Hämtar eller anger källblandningsintervallet.
 
 ```csharp
 public int Source { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Källblandningsintervallet.
+Källans blandningsintervall.
 
 ### Se även
 
 * class [BlendRange](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

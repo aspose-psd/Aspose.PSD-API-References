@@ -1,35 +1,36 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode uppräkning. Representerar färgläge iPhotoshopPackage .
+title: "Enum ColorMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode-enum. Representerar färgläge i PhotoshopPackage"
 type: docs
-weight: 5800
+weight: 6300
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-Representerar färgläge i[`PhotoshopPackage`](../photoshoppackage/) .
+Representerar färgläge i [`PhotoshopPackage`](../photoshoppackage/).
 
 ```csharp
 public enum ColorMode : byte
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Bitmap | `0` | Bitmappsfärgläge. |
-| GrayScale | `1` | Gråskala färgläge. |
+| Bitmap | `0` | Bitmap-färgläge. |
+| GrayScale | `1` | Gråskalefärgläge. |
 | IndexedColor | `2` | Den indexerade färgen. |
 | Rgb | `3` | RGB-färg. |
 | Cmyk | `4` | CMYK-färgläge. |
-| MultiChannel | `7` | Flerkanalig färg. |
-| Duotone | `8` | Duo-tone färg. |
+| MultiChannel | `7` | Flerkanalfärg. |
+| Duotone | `8` | Duoton-färg. |
 | LabColor | `9` | LAB-färg. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

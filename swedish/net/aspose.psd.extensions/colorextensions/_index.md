@@ -1,14 +1,15 @@
 ---
-title: Class ColorExtensions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Extensions.ColorExtensions klass. DenColor tilläggsmetoder.
+title: "Klass ColorExtensions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Extensions.ColorExtensions-klass. Color-utökningmetoderna."
 type: docs
-weight: 1050
+weight: 1060
 url: /sv/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
-Den[`Color`](../../aspose.psd/color/) tilläggsmetoder.
+De [`Color`](../../aspose.psd/color/) utökningmetoderna.
 
 ```csharp
 public static class ColorExtensions
@@ -16,14 +17,14 @@ public static class ColorExtensions
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Konverterar[`Color`](../../aspose.psd/color/) tillColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Konverterar[`Color`](../../aspose.psd/color/) array tillColor array. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Konverterar [`Color`](../../aspose.psd/color/) till Color. |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Konverterar [`Color`](../../aspose.psd/color/) array till Color-arrayen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

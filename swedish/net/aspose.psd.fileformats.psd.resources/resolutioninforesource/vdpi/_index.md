@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.VDpi
-second_title: Aspose.PSD för .NET API-referens
-description: ResolutionInfoResource fast egendom. Vertikal DPI.
+title: "ResolutionInfoResource.VDpi"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResolutionInfoResource-egenskap. Vertikal DPI"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VDpi property
 
 Vertikal DPI.
@@ -14,15 +15,15 @@ Vertikal DPI.
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den vertikala dpi.
+Den vertikala DPI:n.
 
 ### Se även
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffRational.ToString
-second_title: Aspose.PSD för .NET API-referens
-description: TiffRational metod. Returnerar enString som representerar denna instans.
+title: "TiffRational.ToString"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffRational-metod. Returnerar en String som representerar denna instans"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.tiff/tiffrational/tostring/
 ---
+{{< psd/tize >}}
 ## TiffRational.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en String som representerar detta objekt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar denna instans.
 
 ### Se även
 
 * class [TiffRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

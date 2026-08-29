@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.DateTime
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in datum och tid.
+title: "JpegExifData.DateTime"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData-egenskap. Hämtar eller anger datum och tid"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.exif/jpegexifdata/datetime/
 ---
+{{< psd/tize >}}
 ## JpegExifData.DateTime property
 
-Hämtar eller ställer in datum och tid.
+Hämtar eller anger datum och tid.
 
 ```csharp
 public string DateTime { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Datum och tid.
 
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

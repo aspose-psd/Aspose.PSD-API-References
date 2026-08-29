@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fält. Typverktygets infonyckel.
+title: "GdFlResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 200
+weight: 260
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## GdFlResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

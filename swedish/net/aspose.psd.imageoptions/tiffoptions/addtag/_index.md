@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTag
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions metod. Lägger till en ny tagg.
+title: "TiffOptions.AddTag"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-metod. Lägger till en ny tagg"
 type: docs
-weight: 700
+weight: 710
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/addtag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTag method
 
 Lägger till en ny tagg.
@@ -22,7 +23,7 @@ public void AddTag(TiffDataType tagToAdd)
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

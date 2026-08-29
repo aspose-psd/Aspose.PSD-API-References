@@ -1,14 +1,15 @@
 ---
-title: Class CurvesDiscreteManager
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager klass. Manager for Curves Adjustment Layer som manipulerar pixlars map
+title: "Klass CurvesDiscreteManager"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager-klass. Hanterare för Curves Adjustment Layer som manipulerar pixelkartan"
 type: docs
-weight: 2420
+weight: 2680
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager class
 
-Manager for Curves Adjustment Layer som manipulerar pixlars map
+Manager för Curves Adjustment Layer som manipulerar pixelkartan
 
 ```csharp
 public sealed class CurvesDiscreteManager : CurvesManager
@@ -16,23 +17,23 @@ public sealed class CurvesDiscreteManager : CurvesManager
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Får det maximala antalet kanaler. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Hämtar det maximala antalet kanaler. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | Får värdet i position. |
-| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Ställer in till standardvärde i position. |
-| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Ställer in värdet i position. |
-| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | Ställer in värdet för hela kanalen. |
+| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | Hämtar värdet på positionen. |
+| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Sätter till standardvärde på positionen. |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Sätter värdet på positionen. |
+| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | Sätter värdet för hela kanalen. |
 
 ### Se även
 
 * class [CurvesManager](../curvesmanager/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

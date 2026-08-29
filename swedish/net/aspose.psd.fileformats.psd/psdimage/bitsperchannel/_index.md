@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Får bitarna per kanal.
+title: "PsdImage.BitsPerChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar bitarna per kanal"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
-Får bitarna per kanal.
+Hämtar bitarna per kanal.
 
 ```csharp
 public int BitsPerChannel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Bitarna per kanal.
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

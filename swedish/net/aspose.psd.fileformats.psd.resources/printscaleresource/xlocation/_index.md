@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.XLocation
-second_title: Aspose.PSD för .NET API-referens
-description: PrintScaleResource fast egendom. Hämtar eller ställer in xplatsen.
+title: "PrintScaleResource.XLocation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PrintScaleResource egenskap. Hämtar eller anger x-positionen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.XLocation property
 
-Hämtar eller ställer in x-platsen.
+Hämtar eller anger x‑positionen.
 
 ```csharp
 public float XLocation { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-x-platsen.
+x-positionen.
 
 ### Se även
 
 * class [PrintScaleResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.EndPoint
-second_title: Aspose.PSD för .NET API-referens
-description: IOrderedShape fast egendom. Får slutformpunkten.
+title: "IOrderedShape.EndPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IOrderedShape-egenskap. Hämtar den avslutande formpunkten."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/iorderedshape/endpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.EndPoint property
 
-Får slutformpunkten.
+Hämtar den avslutande formpunkten.
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Slutformpunkten.
+Den avslutande formpunkten.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* namnutrymme [Aspose.PSD](../../iorderedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

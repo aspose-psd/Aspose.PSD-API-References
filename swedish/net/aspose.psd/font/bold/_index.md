@@ -1,27 +1,28 @@
 ---
-title: Font.Bold
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Får ett värde som indikerar om dettaFont är fetstil.
+title: "Font.Bold"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskap. Hämtar ett värde som indikerar om detta Font är fet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/font/bold/
 ---
+{{< psd/tize >}}
 ## Font.Bold property
 
-Får ett värde som indikerar om detta[`Font`](../) är fetstil.
+Hämtar ett värde som indikerar om detta [`Font`](../) är fet.
 
 ```csharp
 public bool Bold { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sant om detta[`Font`](../) är fet; annars falskt.
+Sant om detta [`Font`](../) är fet; annars falskt.
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

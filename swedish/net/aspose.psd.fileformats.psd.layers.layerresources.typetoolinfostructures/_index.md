@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller verktygsresursentiteter av PSDfilformat.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnområdet innehåller verktygsresursenheter för PSD-filformatstyp"
 type: docs
-weight: 300
+weight: 320
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/
 ---
-Namnutrymmet innehåller verktygsresursentiteter av PSD-filformat.
+{{< psd/tize >}}
+Namnutrymmet innehåller PSD-filformattypverktygsresursentiteter.
 
 ## Klasser
 
@@ -15,20 +16,21 @@ Namnutrymmet innehåller verktygsresursentiteter av PSD-filformat.
 | [AliasStructure](./aliasstructure/) | Aliasstrukturen. |
 | [BooleanStructure](./booleanstructure/) | Den booleska strukturen. |
 | [ClassStructure](./classstructure/) | Klassstrukturen. |
-| [DescriptorStructure](./descriptorstructure/) | Beskrivningsstrukturen |
-| [DoubleStructure](./doublestructure/) | Den dubbla strukturen. |
-| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure/) | Den uppräknade deskriptorstrukturen. |
+| [DescriptorStructure](./descriptorstructure/) | Deskriptörstrukturen |
+| [DoubleStructure](./doublestructure/) | Dubbelstruktur. |
+| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure/) | Den uppräknade deskriptörstrukturen. |
 | [EnumeratedReferenceStructure](./enumeratedreferencestructure/) | Uppräknad referensstruktur. |
-| [IntegerStructure](./integerstructure/) | Heltalsstrukturen. |
-| [ListStructure](./liststructure/) | Liststrukturen. |
-| [ObjectArrayStructure](./objectarraystructure/) | Definierar klassen ObjectArrayStructure som vanligtvis innehåller[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) array. Den används i PSD-filresurserna, såsom PlLd Resource och SoLd Resource. |
+| [IntegerStructure](./integerstructure/) | Heltalsstruktur. |
+| [ListStructure](./liststructure/) | Liststruktur. |
+| [NameStructure](./namestructure/) | Namnetstrukturen (nyckel: 0x6E616D65, som stavar "name" i ASCII) är en enkel struktur som används för att lagra en Unicode- eller Pascal‑stilsträng som representerar namnet på ett element, såsom ett lager, en bana eller en justering. |
+| [ObjectArrayStructure](./objectarraystructure/) | Definierar klassen ObjectArrayStructure som vanligtvis innehåller [`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) array. Den används i PSD‑filresurser, såsom PlLd Resource och SoLd Resource. |
 | [OffsetStructure](./offsetstructure/) | Offsetstrukturen. |
-| [PathStructure](./pathstructure/) | Banstrukturen. |
+| [PathStructure](./pathstructure/) | Sökvägsstrukturen. |
 | [PropertyStructure](./propertystructure/) | Egenskapsstrukturen. |
-| [RawDataStructure](./rawdatastructure/) | Den rådatastrukturen. |
+| [RawDataStructure](./rawdatastructure/) | Rådatostrukturen. |
 | [ReferenceStructure](./referencestructure/) | Referensstrukturen. |
 | [StringStructure](./stringstructure/) | Strängstrukturen. |
-| [UnitArrayStructure](./unitarraystructure/) | Definierar klassen UnitArrayStructure som hållerDouble värdematris och deras måttenhet. Den används i PSD-filresurserna, vanligtvis av[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/) . |
+| [UnitArrayStructure](./unitarraystructure/) | Definierar UnitArrayStructure-klassen som innehåller en array av Double‑värden och deras måttenhet. Den används i PSD‑filresurser, vanligtvis av [`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/). |
 | [UnitStructure](./unitstructure/) | Enhetsstrukturen. |
 | [UnknownStructure](./unknownstructure/) | Den okända strukturen. |
 ## Uppräkning

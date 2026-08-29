@@ -1,14 +1,15 @@
 ---
-title: LangAlt.LangAlt
-second_title: Aspose.PSD för .NET API-referens
-description: LangAlt byggare. Initierar en ny instans avLangAlt class.
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LangAlt-konstruktorn. Initierar en ny instans av klassen LangAlt"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-Initierar en ny instans av[`LangAlt`](../) class.
+Initierar en ny instans av klassen [`LangAlt`](../).
 
 ```csharp
 public LangAlt(string defaultValue)
@@ -21,14 +22,14 @@ public LangAlt(string defaultValue)
 ### Se även
 
 * class [LangAlt](../)
-* namnutrymme [Aspose.PSD.Xmp](../../langalt/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-Initierar en ny instans av[`LangAlt`](../) class.
+Initierar en ny instans av klassen [`LangAlt`](../).
 
 ```csharp
 public LangAlt()
@@ -37,7 +38,7 @@ public LangAlt()
 ### Se även
 
 * class [LangAlt](../)
-* namnutrymme [Aspose.PSD.Xmp](../../langalt/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

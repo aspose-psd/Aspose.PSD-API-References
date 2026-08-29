@@ -1,14 +1,15 @@
 ---
-title: Matrix.TransformPoints
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix metod. Tillämpar den geometriska transformationen som representeras av dettaMatrix till en specificerad uppsättning punkter.
+title: "Matrix.TransformPoints"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-metod. Tillämpar den geometriska transformen som representeras av denna Matrix på en specificerad array av punkter"
 type: docs
 weight: 180
 url: /sv/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-Tillämpar den geometriska transformationen som representeras av detta[`Matrix`](../) till en specificerad uppsättning punkter.
+Tillämpar den geometriska transformen som representeras av denna [`Matrix`](../) på en specificerad array av punkter.
 
 ```csharp
 public void TransformPoints(PointF[] points)
@@ -16,13 +17,13 @@ public void TransformPoints(PointF[] points)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| points | PointF[] | Poängen. |
+| punkter | PointF[] | Punkterna. |
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

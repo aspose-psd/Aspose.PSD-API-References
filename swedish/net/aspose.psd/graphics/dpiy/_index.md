@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiY
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics fast egendom. Får den vertikala upplösningen för denna Aspose.PSD.Graphics.
+title: "Graphics.DpiY"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-egenskap. Hämtar den vertikala upplösningen för denna Aspose.PSD.Graphics"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/graphics/dpiy/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiY property
 
-Får den vertikala upplösningen för denna Aspose.PSD.Graphics.
+Hämtar den vertikala upplösningen för detta Aspose.PSD.Graphics.
 
 ```csharp
 public float DpiY { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Värdet, i punkter per tum, för den vertikala upplösningen som stöds av denna Aspose.PSD.Graphics.
+Värdet, i punkter per tum, för den vertikala upplösning som stöds av denna Aspose.PSD.Graphics.
 
 ### Se även
 
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

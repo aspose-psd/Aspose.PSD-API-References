@@ -1,33 +1,34 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats uppräkning. Exempelformat enum
+title: "Enum TiffSampleFormats"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Exempel på formatenum"
 type: docs
-weight: 4160
+weight: 4630
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-Exempelformat enum
+Exempelformatenum
 
 ```csharp
 public enum TiffSampleFormats
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Uint | `1` | Osignerad heltalsdata |
-| Int | `2` | Signerad heltalsdata |
-| IeeeFp | `3` | IEEE flyttalsdata |
-| Void | `4` | Oskrivna data |
-| ComplexInt | `5` | Komplex signerad int |
-| ComplexIeeeFp | `6` | Komplex dvs flytande |
+| Uint | `1` | Osignerade heltalsdata |
+| Int | `2` | Signerade heltalsdata |
+| IeeeFp | `3` | IEEE-flytande punktdata |
+| Void | `4` | Otypad data. |
+| ComplexInt | `5` | Komplex signerat heltal |
+| ComplexIeeeFp | `6` | Komplex IEEE-flytande |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

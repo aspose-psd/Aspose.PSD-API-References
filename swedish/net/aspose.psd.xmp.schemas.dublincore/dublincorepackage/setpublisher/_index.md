@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD för .NET API-referens
-description: DublinCorePackage metod. Lägger till utgivaren.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DublinCorePackage-metod. Lägger till utgivaren"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
 Lägger till utgivaren.
@@ -16,13 +17,13 @@ public void SetPublisher(string publisher)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| publisher | String | Förlaget. |
+| utgivare | String | Utgivaren. |
 
 ### Se även
 
 * class [DublinCorePackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,18 +37,18 @@ public void SetPublisher(string[] publisher)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| publisher | String[] | Förlaget. |
+| utgivare | String[] | Utgivaren. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | utgivare |
 
 ### Se även
 
 * class [DublinCorePackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

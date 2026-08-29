@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: Aspose.PSD för .NET API-referens
-description: AiRasterImageSection fast egendom. Får vinkeln.
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiRasterImageSection egenskap. Hämtar vinkeln"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
-Får vinkeln.
+Hämtar vinkeln.
 
 ```csharp
 public double Angle { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vinkeln.
 
 ### Se även
 
 * class [AiRasterImageSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

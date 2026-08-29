@@ -1,27 +1,28 @@
 ---
-title: Color.LightYellow
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får en systemdefinierad färg.
+title: "Color.LightYellow"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskapen. Hämtar en systemdefinierad färg."
 type: docs
 weight: 770
 url: /sv/net/aspose.psd/color/lightyellow/
 ---
+{{< psd/tize >}}
 ## Color.LightYellow property
 
-Får en systemdefinierad färg.
+Hämtar en systemdefinierad färg.
 
 ```csharp
 public static Color LightYellow { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`Color`](../) representerar en systemdefinierad färg.
+En [`Color`](../) som representerar en systemdefinierad färg.
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

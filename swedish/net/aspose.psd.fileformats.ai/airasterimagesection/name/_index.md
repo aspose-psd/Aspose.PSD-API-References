@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Name
-second_title: Aspose.PSD för .NET API-referens
-description: AiRasterImageSection fast egendom. Hämtar namnet på rasterbilden.
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiRasterImageSection property. Hämtar namnet på rasterbilden"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
 Hämtar namnet på rasterbilden.
@@ -14,14 +15,14 @@ Hämtar namnet på rasterbilden.
 public string Name { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på rasterbilden.
 
 ### Se även
 
 * class [AiRasterImageSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

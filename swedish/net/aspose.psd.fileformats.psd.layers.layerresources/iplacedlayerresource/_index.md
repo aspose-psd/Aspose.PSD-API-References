@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource gränssnitt. Definierar IPlacedLayerResourcegränssnittet som innehåller information om ett placerat lager i PSDfilen. Is är ett uppmärkningsgränssnitt som används för att ange PlLd Sold och Soleresurser i Adobe Photoshopbilderna. Is används för att stödja smarta objektlager i Adobe Photoshopbilderna.
+title: "Gränssnitt IPlacedLayerResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource-gränssnitt. Definierar IPlacedLayerResource-gränssnittet som innehåller information om ett placerat lager i PSD-filen. Det är ett markup‑gränssnitt som används för att beteckna PlLd Sold och Sole-resurser i Adobe Photoshop‑bilder. Det används för att stödja smarta objekt‑lager i Adobe Photoshop‑bilder."
 type: docs
-weight: 2530
+weight: 2820
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-Definierar IPlacedLayerResource-gränssnittet som innehåller information om ett placerat lager i PSD-filen. Is är ett uppmärkningsgränssnitt som används för att ange PlLd, Sold och Sole-resurser i Adobe® Photoshop®-bilderna. Is används för att stödja smarta objektlager i Adobe® Photoshop®-bilderna.
+Definierar gränssnittet IPlacedLayerResource som innehåller information om ett placerat lager i PSD-filen. Det är ett markup‑gränssnitt som används för att beteckna PlLd-, Sold- och Sole-resurser i Adobe® Photoshop®-bilderna. Används för att stödja smarta objektlager i Adobe® Photoshop®-bilderna.
 
 ```csharp
 public interface IPlacedLayerResource
@@ -16,40 +17,40 @@ public interface IPlacedLayerResource
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Hämtar eller ställer in anti-alias-policyn för det placerade lagret i PSD-bilden. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Hämtar eller ställer in den nedre platsen för det placerade lagret i PSD-bilden. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Hämtar eller ställer in gränserna för det placerade lagret i PSD-filen. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Hämtar eller ställer in de horisontella mesh-punkterna för det placerade lagret i PSD-filen. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Hämtar eller ställer in måttenheten för de horisontella maskpunkterna. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om denna instansförvrängningsstil är anpassad. Om den är sant innehåller den mesh-punkter. Om den är inställd på false raderas mesh-punkter. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Hämtar eller ställer in förvrängningsobjekten. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Hämtar eller ställer in den vänstra platsen för det placerade lagret i PSD-filen. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Hämtar eller ställer in sidnumret för det placerade lagret i PSD-filen. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Hämtar eller ställer in perspektivvärdet för det placerade lagret i PSD-filen. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Hämtar eller ställer in perspektivets andra värde för det placerade lagret i PSD-filen. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Hämtar eller ställer in typen av det placerade lagret i PSD-filen. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Hämtar eller ställer in rätt plats för det placerade lagret i PSD-filen. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Hämtar eller ställer in den övre platsen för det placerade lagret i PSD-bilden. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Hämtar eller ställer in det totala antalet sidor för det placerade lagret i PSD-filen. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Hämtar eller ställer in transformationsmatrisen för det placerade lagret i PSD-filen. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Hämtar eller ställer in den globala unika identifieraren för lagret eller det smarta objektet placerade i PSD-bilden. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Hämtar eller ställer in U-ordervärdet för det placerade lagret i PSD-filen. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Hämtar eller ställer in varpvärdet för det placerade lagret i PSD-bilden. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Hämtar versionen av det placerade lagret i PSD-filen, vanligtvis 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Hämtar eller ställer in de horisontella mesh-punkterna för det placerade lagret i PSD-filen. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Hämtar eller ställer in måttenheten för de vertikala maskpunkterna. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Hämtar eller ställer in V-ordningens värde för det placerade lagret i PSD-filen. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Hämtar eller anger anti‑alias‑policyn för det placerade lagret i PSD‑bilden. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Hämtar eller anger den nedre positionen för det placerade lagret i PSD‑bilden. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Hämtar eller anger gränserna för det placerade lagret i PSD‑filen. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Hämtar eller anger de horisontella maskpunkterna för det placerade lagret i PSD‑filen. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Hämtar eller anger måttenheten för de horisontella maskpunkterna. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta instansens warp‑stil är anpassad. Om true innehåller den mesh‑punkter. Om den sätts till false raderas mesh‑punkterna. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Hämtar eller anger warp‑objekten. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Hämtar eller anger den vänstra positionen för det placerade lagret i PSD‑filen. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Hämtar eller anger sidnumret för det placerade lagret i PSD‑filen. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Hämtar eller anger perspektivvärdet för det placerade lagret i PSD‑filen. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Hämtar eller anger det andra perspektivvärdet för det placerade lagret i PSD‑filen. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Hämtar eller anger typen av det placerade lagret i PSD‑filen. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Hämtar eller anger den högra positionen för det placerade lagret i PSD‑filen. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Hämtar eller anger den övre positionen för det placerade lagret i PSD‑bilden. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Hämtar eller anger det totala antalet sidor för det placerade lagret i PSD‑filen. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Hämtar eller anger transformmatrisen för det placerade lagret i PSD‑filen. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Hämtar eller anger den globala unika identifieraren för det placerade smarta objektlagret i PSD‑bilden. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Hämtar eller anger U‑ordningsvärdet för det placerade lagret i PSD‑filen. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Hämtar eller anger warp‑värdet för det placerade lagret i PSD‑bilden. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Hämtar versionen av det placerade lagret i PSD‑filen, vanligtvis 3‑5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Hämtar eller anger de horisontella maskpunkterna för det placerade lagret i PSD‑filen. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Hämtar eller anger måttenheten för de vertikala mesh‑punkterna. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Hämtar eller anger V‑ordningsvärdet för det placerade lagret i PSD‑filen. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för SoLdResource-resursen.
+Följande kod demonstrerar stödet för SoLdResource‑resursen.
 
 ```csharp
 [C#]
 
-// Det här exemplet visar hur man hämtar eller ställer in dataegenskaperna för smarta objektlager för PSD-filen.
+// Detta exempel visar hur man hämtar eller anger egenskaperna för smartobjekt‑lagerdata i PSD‑filen.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -284,7 +285,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 }
 
                 // Dessa värden bör också ändras i PlLdResource (med det angivna UniqueId).
-                // och några av dem måste vara i överensstämmelse med det understrukna smarta objektet i LinkDataSource
+                // och några av dem måste stämma överens med det underliggande smarta objektet i LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,15 +330,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Detta unika ID bör ändras i referenser om några
+                // Detta unika ID bör ändras i referenserna om några finns.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Var försiktig med vissa parametrar: bilden kan bli oläslig av Adobe® Photoshop®
+                // Var försiktig med vissa parametrar: bilden kan bli oläsbar i Adobe® Photoshop®.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-                // eller ändra det understrykande smarta objektet till vektortypen
+                // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+                // eller ändra det underliggande smarta objektet till vektortypen
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
                 // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -355,7 +357,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: InnerShadowEffect.BlendMode
-second_title: Aspose.PSD för .NET API-referens
-description: InnerShadowEffect fast egendom. Hämtar eller ställer in blandningsläget.
+title: "InnerShadowEffect.BlendMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "InnerShadowEffect egenskap. Hämtar eller anger blandningsläget"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.BlendMode property
 
-Hämtar eller ställer in blandningsläget.
+Hämtar eller anger blandningsläget.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blandningsläget.
 
@@ -22,7 +23,7 @@ Blandningsläget.
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [InnerShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

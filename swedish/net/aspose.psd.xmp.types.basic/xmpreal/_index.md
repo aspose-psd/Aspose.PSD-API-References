@@ -1,11 +1,12 @@
 ---
-title: Class XmpReal
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal klass. Representerar XMP Real.
+title: "Klass XmpReal"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpReal klass. Representerar XMP Real"
 type: docs
-weight: 5970
+weight: 6470
 url: /sv/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
 Representerar XMP Real.
@@ -16,27 +17,27 @@ public sealed class XmpReal : XmpTypeBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | Initierar en ny instans av`XmpReal` class. |
-| [XmpReal](xmpreal/#constructor_1)(string) | Initierar en ny instans av`XmpReal` class. |
+| [XmpReal](xmpreal/#constructor)(float) | Initierar en ny instans av `XmpReal`-klassen. |
+| [XmpReal](xmpreal/#constructor_1)(string) | Initierar en ny instans av `XmpReal`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Hämtar eller sätter flytande värde. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Hämtar eller anger flyttalsvärdet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Hämtar strängen som innehåller värdet i XMP-format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Hämtar det stränginnehållande värdet i XMP-format. |
 
 ### Se även
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

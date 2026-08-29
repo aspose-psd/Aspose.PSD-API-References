@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.FaceMarkValue
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolStyleInfo fast egendom. Hämtar eller ställer in nominellt värde.
+title: "TypeToolStyleInfo.FaceMarkValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolStyleInfo egenskap. Hämtar eller anger ansiktsmarkörvärdet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.FaceMarkValue property
 
-Hämtar eller ställer in nominellt värde.
+Hämtar eller anger face mark-värdet.
 
 ```csharp
 public short FaceMarkValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Nominellt värde.
+Ansiktsmarkörvärdet.
 
 ### Se även
 
 * class [TypeToolStyleInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

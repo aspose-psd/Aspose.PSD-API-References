@@ -1,11 +1,12 @@
 ---
-title: Class LineSegment
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ShapeSegments.LineSegment klass. Representerar ett segment som leder direkt från en specifik punkt till nästa punkt.
+title: "Klass LineSegment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ShapeSegments.LineSegment-klass. Representerar ett segment som leder direkt från en specifik punkt till nästa punkt"
 type: docs
-weight: 5450
+weight: 5950
 url: /sv/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
 Representerar ett segment som leder direkt från en specifik punkt till nästa punkt.
@@ -16,21 +17,21 @@ public class LineSegment : ShapeSegment
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | Initierar en ny instans av`LineSegment` class. |
+| [LineSegment](linesegment/)(PointF, PointF) | Initierar en ny instans av klassen `LineSegment`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Får slutpunkten. |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Får startpunkten. |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Hämtar slutpunkten. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Hämtar startpunkten. |
 
 ### Se även
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* namnutrymme [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

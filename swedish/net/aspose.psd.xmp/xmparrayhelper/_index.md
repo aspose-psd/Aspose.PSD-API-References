@@ -1,14 +1,15 @@
 ---
-title: Class XmpArrayHelper
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.XmpArrayHelper klass. Hjälparklassen för bearbetning av RDF logic
+title: "Klass XmpArrayHelper"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.XmpArrayHelper-klass. Hjälparklassen för att bearbeta RDF-logik"
 type: docs
-weight: 6220
+weight: 6720
 url: /sv/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-Hjälparklassen för bearbetning av RDF logic
+Hjälparklassen för bearbetning av RDF-logik.
 
 ```csharp
 public static class XmpArrayHelper
@@ -16,13 +17,13 @@ public static class XmpArrayHelper
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Hämtar RDF-koden för specifika[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Hämtar RDF-koden för specifik [`XmpArrayType`](../xmparraytype/). |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: StringStructure.StringStructure
-second_title: Aspose.PSD för .NET API-referens
-description: StringStructure byggare. Initierar en ny instans avStringStructure class.
+title: "StringStructure.StringStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringStructure konstruktor. Initierar en ny instans av klassen StringStructure"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/stringstructure/
 ---
+{{< psd/tize >}}
 ## StringStructure(ClassID) {#constructor}
 
-Initierar en ny instans av[`StringStructure`](../) class.
+Initierar en ny instans av klassen [`StringStructure`](../).
 
 ```csharp
 public StringStructure(ClassID keyName)
@@ -16,20 +17,20 @@ public StringStructure(ClassID keyName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keyName | ClassID | Nyckelns namn. |
+| keyName | ClassID | Nyckelnamnet. |
 
 ### Se även
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringStructure(ClassID, string) {#constructor_1}
 
-Initierar en ny instans av[`StringStructure`](../)klass med värde.
+Initierar en ny instans av klassen [`StringStructure`](../) med värde.
 
 ```csharp
 public StringStructure(ClassID keyName, string value)
@@ -37,12 +38,12 @@ public StringStructure(ClassID keyName, string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keyName | ClassID | Nyckelns namn. |
-| value | String | Värdet. |
+| keyName | ClassID | Nyckelnamnet. |
+| värde | String | Värdet. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar hur man hämtar och ställer in egenskaper för Psd LnkE-resursen.
+Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkE-resursen.
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för Psd LnkE-resursen som innehåller information om en extern länkad fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkE-resursen som innehåller information om en extern länkad fil.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -133,7 +134,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Det här exemplet visar hur man får och ställer in egenskaper för Psd LnkeResource som innehåller information om extern länkad JPEG-fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för Psd LnkeResource som innehåller information om en extern länkad JPEG-fil.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -152,7 +153,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för PSD LnkeResource som innehåller information om en extern länkad PNG-fil.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD LnkeResource som innehåller information om en extern länkad PNG-fil.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -171,7 +172,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för PSD LnkeResource som innehåller information om två externt länkade PNG- och PSD-filer.
+// Detta exempel visar hur man hämtar och anger egenskaper för PSD LnkeResource som innehåller information om två externa länkade PNG- och PSD-filer.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -190,7 +191,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Det här exemplet visar hur man hämtar och ställer in egenskaper för Photoshop Psd LnkeResource som innehåller information om en extern länkad CC Libraries Asset.
+// Detta exempel visar hur man hämtar och anger egenskaper för Photoshop Psd LnkeResource som innehåller information om en extern länkad CC Libraries‑tillgång.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -214,7 +215,7 @@ ExampleOfLnkEResourceSupport(
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlncResource.BlncResource
-second_title: Aspose.PSD för .NET API-referens
-description: BlncResource byggare. Initierar en ny instans avBlncResource class.
+title: "BlncResource.BlncResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlncResource konstruktor. Initierar en ny instans av klassen BlncResource"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource constructor
 
-Initierar en ny instans av[`BlncResource`](../) class.
+Initierar en ny instans av klassen [`BlncResource`](../).
 
 ```csharp
 public BlncResource()
@@ -17,7 +18,7 @@ public BlncResource()
 ### Se även
 
 * class [BlncResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

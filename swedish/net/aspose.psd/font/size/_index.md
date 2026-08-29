@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Får emstorleken på dettaFont mätt i de enheter som anges avUnit egenskap.
+title: "Font.Size"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskapen. Hämtar em-storleken för detta Font mätt i de enheter som anges av Unit-egenskapen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-Får em-storleken på detta[`Font`](../) mätt i de enheter som anges av[`Unit`](../unit/) egenskap.
+Hämtar em-storleken för detta [`Font`](../) mätt i de enheter som anges av [`Unit`](../unit/)-egenskapen.
 
 ```csharp
 public float Size { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Em-storleken på detta[`Font`](../).
+Em-storleken för detta [`Font`](../).
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DescriptorStructure.DescriptorStructure
-second_title: Aspose.PSD för .NET API-referens
-description: DescriptorStructure byggare. Initierar en ny instans avDescriptorStructure class.
+title: "DescriptorStructure.DescriptorStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DescriptorStructure konstruktor. Initierar en ny instans av klassen DescriptorStructure"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/descriptorstructure/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure constructor
 
-Initierar en ny instans av[`DescriptorStructure`](../) class.
+Initierar en ny instans av klassen [`DescriptorStructure`](../).
 
 ```csharp
 public DescriptorStructure(ClassID keyName, ClassID classID, string className, 
@@ -17,14 +18,14 @@ public DescriptorStructure(ClassID keyName, ClassID classID, string className,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keyName | ClassID | Nyckelns namn. |
+| keyName | ClassID | Nyckelnamnet. |
 | classID | ClassID | Klassidentifieraren. |
-| className | String | Klassens namn. |
-| structures | OSTypeStructure[] | Strukturerna. |
+| className | String | Namn på klassen. |
+| strukturer | OSTypeStructure[] | Strukturerna. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | classID är null |
 
@@ -33,7 +34,7 @@ public DescriptorStructure(ClassID keyName, ClassID classID, string className,
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.CustomPalette
-second_title: Aspose.PSD för .NET API-referens
-description: DitheringMode fast egendom. Den anpassade paletten för dithering.
+title: "DitheringMode.CustomPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DitheringMode-egenskap. Den anpassade paletten för dithering"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.dithering/ditheringmode/custompalette/
 ---
+{{< psd/tize >}}
 ## DitheringMode.CustomPalette property
 
 Den anpassade paletten för dithering.
@@ -18,7 +19,7 @@ public IColorPalette CustomPalette { get; set; }
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [DitheringMode](../)
-* namnutrymme [Aspose.PSD.Dithering](../../ditheringmode/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

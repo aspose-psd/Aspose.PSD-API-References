@@ -1,27 +1,28 @@
 ---
-title: Time.Value
-second_title: Aspose.PSD för .NET API-referens
-description: Time fast egendom. Hämtar eller ställer in tidsvärdet i den angivna skalan.
+title: "Time.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Time-egenskap. Hämtar eller anger tidsvärde i den angivna skalan"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/time/value/
 ---
+{{< psd/tize >}}
 ## Time.Value property
 
-Hämtar eller ställer in tidsvärdet i den angivna skalan.
+Hämtar eller anger tidsvärdet i den angivna skalan.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Tidsvärdet i den angivna skalan.
 
 ### Se även
 
 * class [Time](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

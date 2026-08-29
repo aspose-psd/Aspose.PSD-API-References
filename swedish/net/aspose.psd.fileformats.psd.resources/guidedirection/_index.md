@@ -1,29 +1,30 @@
 ---
-title: Enum GuideDirection
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection uppräkning. Guideriktningen.
+title: "Enum GuideDirection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. Guide-riktningen"
 type: docs
-weight: 3740
+weight: 4210
 url: /sv/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
-Guideriktningen.
+Guide-riktning.
 
 ```csharp
 public enum GuideDirection : byte
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Vertical | `0` | Vertikal styrriktning. |
-| Horizontal | `1` | Horisontell styrriktning. |
+| Vertical | `0` | Vertikal guide-riktning. |
+| Horizontal | `1` | Horisontell guide-riktning. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

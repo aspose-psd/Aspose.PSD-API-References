@@ -1,27 +1,28 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Får eller ställer in fotografisk känslighet.
+title: "ExifData.PhotographicSensitivity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger den fotografiska känsligheten"
 type: docs
 weight: 830
 url: /sv/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.PhotographicSensitivity property
 
-Får eller ställer in fotografisk känslighet.
+Hämtar eller anger den fotografiska känsligheten.
 
 ```csharp
 public uint PhotographicSensitivity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den fotografiska känsligheten.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

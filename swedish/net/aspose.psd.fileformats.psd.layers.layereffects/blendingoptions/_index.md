@@ -1,14 +1,15 @@
 ---
-title: Class BlendingOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions klass. Blandningsalternativ. Det är ett omslag för Lfx2Resource som tillhandahåller api för lagereffekter
+title: "Klass BlendingOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions klass. BlendingOptions. Det är en wrapper för BaseFxResource som tillhandahåller API för lager-effekter"
 type: docs
-weight: 2100
+weight: 2290
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-Blandningsalternativ. Det är ett omslag för Lfx2Resource som tillhandahåller api för lagereffekter
+BlendingOptions. Det är ett omslag för BaseFxResource som tillhandahåller API för lager‑effekter.
 
 ```csharp
 public class BlendingOptions
@@ -16,25 +17,26 @@ public class BlendingOptions
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | Får effekterna. |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | Hämtar eller anger synligheten för alla lager-effekter. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | Hämtar effekterna. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Lägger till färgöverlägget. |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Lägger till skuggeffekten. |
-| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Lägger till övertoningsöverlägget. |
-| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Lägger till den inre skuggeffekten. |
-| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Lägger till den yttre glödeffekten. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Lägger till mönsteröverlägget. |
-| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Lägger till streckeffekten. |
+| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Lägger till färgöverlagring. |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Lägger till fallskuggeffekten. |
+| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Lägger till gradientöverlagring. |
+| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Lägger till inre skuggeffekten. |
+| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Lägger till yttre glödeffekten. |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Lägger till mönsteröverlagring. |
+| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Lägger till linjeeffekten. |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur man ändrar inställningarna för den inre skuggskiktseffekten.
+Följande kod demonstrerar hur man ändrar inställningarna för Inner Shadow lager-effekt.
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ Följande kod visar hur man ändrar inställningarna för den inre skuggskiktsef
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -65,7 +67,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

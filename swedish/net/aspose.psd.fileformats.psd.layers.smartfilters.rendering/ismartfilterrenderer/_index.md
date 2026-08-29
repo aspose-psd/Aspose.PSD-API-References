@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartFilterRenderer
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer gränssnitt. Gränssnittet för en specifik smart filterrenderare.
+title: "Gränssnitt ISmartFilterRenderer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer-gränssnitt. Gränssnittet för en specifik smart filter‑renderare."
 type: docs
-weight: 3450
+weight: 3860
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer interface
 
-Gränssnittet för en specifik smart filterrenderare.
+Gränssnittet för en specifik smart filter-renderare.
 
 ```csharp
 public interface ISmartFilterRenderer
@@ -16,23 +17,23 @@ public interface ISmartFilterRenderer
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | Återger det aktuella smarta filtret på pixeldata. |
+| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | Renderar det aktuella smart‑filtret på pixeldata. |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur du skapar ett anpassat smart filter som har en anpassad renderare.
+Följande kod visar hur du skapar ett anpassat smart‑filter som har en anpassad renderare.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initierar det ostödda smartfiltret 'Crystallize' vid inmatningsmatrisen
+    // Initierar det ej stödda 'Crystallize'-smart‑filtret i inmatningsarrayen
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // "Kristallisera" smarta filter-ID.
+        // det 'Crystallize'-smart‑filter‑ID:t.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -58,14 +59,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Använd filter på SmartObject
+        // Applicera filter på SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Använd filter på lagermasken
+        // Applicera filter på lagermask
         smartFilter.ApplyToMask(maskLayer);
 
-        //Applicera filter på lagret
+        //Applicera filter på lager
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -82,15 +83,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // "Kristallisera" smarta filter-ID.
+        // det 'Crystallize'-smart‑filter‑ID:t.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // få filterstruktur
+        // hämta filterstruktur
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // få värdet av Crystallize Size
+        // hämta värdet för Crystallize‑storlek
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -108,7 +109,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../)
 
 

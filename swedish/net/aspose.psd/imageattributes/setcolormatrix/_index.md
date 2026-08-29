@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetColorMatrix
-second_title: Aspose.PSD för .NET API-referens
-description: ImageAttributes metod. Ställer in färgjusteringsmatrisen för standardkategorin.
+title: "ImageAttributes.SetColorMatrix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageAttributes-metod. Ställer in färgjusteringsmatrisen för standardkategorin."
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/imageattributes/setcolormatrix/
 ---
+{{< psd/tize >}}
 ## SetColorMatrix(ColorMatrix) {#setcolormatrix}
 
 Ställer in färgjusteringsmatrisen för standardkategorin.
@@ -22,8 +23,8 @@ public void SetColorMatrix(ColorMatrix newColorMatrix)
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,21 +39,21 @@ public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag flags)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Färgjusteringsmatrisen. |
-| flags | ColorMatrixFlag | Ett inslag av[`ColorMatrixFlag`](../../colormatrixflag/) som anger vilken typ av bild och färg som kommer att påverkas av färgjusteringsmatrisen. |
+| flags | ColorMatrixFlag | Ett element av [`ColorMatrixFlag`](../../colormatrixflag/) som specificerar typen av bild och färg som kommer att påverkas av färgjusteringsmatrisen. |
 
 ### Se även
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrix_2}
 
-Ställer in färgjusteringsmatrisen för en angiven kategori.
+Ställer in färgjusteringsmatrisen för en specificerad kategori.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, ColorAdjustType type)
@@ -61,8 +62,8 @@ public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, Col
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Färgjusteringsmatrisen. |
-| mode | ColorMatrixFlag | Ett inslag av[`ColorMatrixFlag`](../../colormatrixflag/) som anger vilken typ av bild och färg som kommer att påverkas av färgjusteringsmatrisen. |
-| type | ColorAdjustType | Ett inslag av[`ColorAdjustType`](../../coloradjusttype/) som anger kategorin för vilken färgjusteringsmatrisen är inställd. |
+| mode | ColorMatrixFlag | Ett element av [`ColorMatrixFlag`](../../colormatrixflag/) som specificerar typen av bild och färg som kommer att påverkas av färgjusteringsmatrisen. |
+| type | ColorAdjustType | Ett element av [`ColorAdjustType`](../../coloradjusttype/) som specificerar kategorin för vilken färgjusteringsmatrisen är inställd. |
 
 ### Se även
 
@@ -70,7 +71,7 @@ public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, Col
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

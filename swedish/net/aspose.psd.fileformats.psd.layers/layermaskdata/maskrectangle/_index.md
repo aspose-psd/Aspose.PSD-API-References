@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskData fast egendom. Hämtar eller ställer in maskenRectangleav lagermasken i PSDfilen. Den tar egenskaper för vänster höger topp och botten och skaparRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskData-egenskap. Hämtar eller anger maskens Rectangle för lagermasken i PSD-filen. Den tar vänster, höger, topp och botten-egenskaperna och skapar en Rectangle"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-Hämtar eller ställer in masken[`Rectangle`](../../../aspose.psd/rectangle/)av lagermasken i PSD-filen. Den tar egenskaper för vänster, höger, topp och botten och skapar[`Rectangle`](../../../aspose.psd/rectangle/)
+Hämtar eller anger maskens [`Rectangle`](../../../aspose.psd/rectangle/) för lagermasken i PSD-filen. Den tar vänster, höger, topp och botten-egenskaperna och skapar en [`Rectangle`](../../../aspose.psd/rectangle/)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Maskrektangeln.
+Maskens rektangel.
 
-### Exempel
+## Exempel
 
-Det här exemplet visar hur du hämtar, uppdaterar, tar bort och lägger till rasterlagermasker i Adobe® Photoshop®-filen programmatiskt.
+Detta exempel visar hur man hämtar, uppdaterar, tar bort och lägger till rasterlagermasker i Adobe® Photoshop®-filen programatiskt.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Får int-värdet omvandlat till big-endian byte-ordning.
+// Hämtar heltalsvärdet konverterat till big-endian byteordning.
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -45,7 +46,7 @@ byte[] GetBigEndianBytesInt32(int value)
     return bytes;
 }
 
-// Får värdet omvandlat från big endian till Int32.
+// Hämtar värdet konverterat från big-endian till Int32.
 int FromBigEndianToInt32(byte[] bytes, int index)
 {
     if (bytes == null)
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// Får en rastermask från lagret i en PSD-bild och sparar den i en fil
+// Hämtar en rastermask från lagret i en PSD-bild och sparar den till en fil
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Lägger till en rastermask från filen till lagret och sparar den i PSD-formatbilden
+// Lägger till en rastermask från filen till lagret och sparar den i PSD-formatet
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,21 +101,21 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // Att bara lägga till LayerMaskData är inte tillräckligt för att spara korrekt eftersom kanaler inte uppdateras;
+    // Att bara lägga till LayerMaskData räcker inte för korrekt sparande eftersom kanalerna inte uppdateras;
     // layer.LayerMaskData = mask; // Detta lägger inte till maskkanalen
 
     // Lägg till (eller uppdatera) masken
-    layer.AddLayerMask(maskData); // Men detta lägger till / uppdaterar både masken och kanalerna!
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// Det här exemplet visar hur du hämtar, uppdaterar, tar bort och lägger till rasterlagermasker i Adobe® Photoshop®-filen programmatiskt.
+// Detta exempel visar hur man hämtar, uppdaterar, tar bort och lägger till rasterlagermasker i Adobe® Photoshop®-filen programatiskt.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // Hämta en rastermask från lagret och spara den i en fil
+    // Hämta en rastermask från lagret och spara den till en fil
     SaveRasterMask("FourWithMasks2.msk", layer);
 
     // Ändra lagermasken (invertera) och spara bilden
@@ -125,19 +126,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Bara att ändra LayerMaskData är tillräckligt för att åstadkomma rendering
+    // Att bara ändra LayerMaskData är tillräckligt för att påverka rendering
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Men att bara ändra LayerMaskData är inte tillräckligt för att spara korrekt eftersom kanaler inte uppdateras;
-    layer.LayerMaskData = mask; // Det här fungerar inte heller
-    layer.AddLayerMask(mask); // Men detta uppdaterar både masken och kanalerna!
+    // Men att bara ändra LayerMaskData räcker inte för korrekt sparande eftersom kanalerna inte uppdateras;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
     // Ta bort en rastermask från lagret och spara bilden
-    layer.LayerMaskData = null; // Att bara ta bort LayerMaskData räcker för att utföra rendering men inte för att spara till PSD-format
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // Men detta tar bort både masken och maskkanalen!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
     // Lägg till en rastermask från filen till lagret och spara bilden
@@ -151,7 +152,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

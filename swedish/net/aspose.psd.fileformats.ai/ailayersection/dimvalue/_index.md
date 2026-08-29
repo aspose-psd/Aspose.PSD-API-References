@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in dimvärdet som procent. Minskar intensiteten för länkade bilder och bitmappsbilder som finns i lagret till den angivna procentandelen.
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection property. Hämtar eller anger dimvärdet i procent. Minskar intensiteten för länkade bilder och bitmapbilder som finns i lagret till den angivna procentsatsen"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-Hämtar eller ställer in dimvärdet som procent. Minskar intensiteten för länkade bilder och bitmappsbilder som finns i lagret till den angivna procentandelen.
+Hämtar eller anger dimningsvärdet som procent. Reducerar intensiteten för länkade bilder och bitmapbilder som finns i lagret till den angivna procenten.
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Dimvärdet i procent.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

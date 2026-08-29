@@ -1,27 +1,28 @@
 ---
-title: Rectangle.X
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle fast egendom. Hämtar eller ställer in xkoordinaten för det övre vänstra hörnet av dennaRectanglestruktur.
+title: "Rectangle.X"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle‑egenskap. Hämtar eller anger x‑koordinaten för det övre vänstra hörnet av denna Rectangle‑struktur."
 type: docs
 weight: 200
 url: /sv/net/aspose.psd/rectangle/x/
 ---
+{{< psd/tize >}}
 ## Rectangle.X property
 
-Hämtar eller ställer in x-koordinaten för det övre vänstra hörnet av denna[`Rectangle`](../)struktur.
+Hämtar eller anger x‑koordinaten för det övre vänstra hörnet av denna [`Rectangle`](../) struktur.
 
 ```csharp
 public int X { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-X-koordinaten för det övre vänstra hörnet av denna[`Rectangle`](../) strukturera.
+X‑koordinaten för det övre vänstra hörnet av denna [`Rectangle`](../) struktur.
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Aspose.PSD för .NET API-referens
-description: XmpBasicPackage fält. Betyg avvisat värde.
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpBasicPackage field. Avvisat betygsvärde"
 type: docs
-weight: 120
+weight: 150
 url: /sv/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-Betyg avvisat värde.
+Avvisat värde för betyg.
 
 ```csharp
 public const int RatingRejected;
@@ -17,7 +18,7 @@ public const int RatingRejected;
 ### Se även
 
 * class [XmpBasicPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

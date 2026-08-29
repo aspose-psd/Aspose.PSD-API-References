@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat fast egendom. Hämtar eller ställer in linjeinriktningen på horisontalplanet.
+title: "StringFormat.LineAlignment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat-egenskap. Hämtar eller anger radjusteringen på den horisontella planet"
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-Hämtar eller ställer in linjeinriktningen på horisontalplanet.
+Hämtar eller anger radjusteringen på det horisontella planet.
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`StringAlignment`](../../stringalignment/) uppräkning som representerar linjeinriktningen.
+En [`StringAlignment`](../../stringalignment/) enumeration som representerar radjusteringen.
 
 ### Se även
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

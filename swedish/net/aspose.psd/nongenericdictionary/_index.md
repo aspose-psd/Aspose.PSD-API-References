@@ -1,14 +1,15 @@
 ---
-title: Class NonGenericDictionary
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.NonGenericDictionary klass. Representerar en ickegenerisk ordbok.
+title: "Klass NonGenericDictionary"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.NonGenericDictionary-klass. Representerar en icke-generisk ordbok"
 type: docs
-weight: 5140
+weight: 5630
 url: /sv/net/aspose.psd/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary class
 
-Representerar en icke-generisk ordbok.
+Representerar en icke‑generisk ordbok.
 
 ```csharp
 public class NonGenericDictionary : IDictionary
@@ -16,37 +17,37 @@ public class NonGenericDictionary : IDictionary
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [NonGenericDictionary](nongenericdictionary/)(IDictionary) | Initierar en ny instans av`NonGenericDictionary` class. |
+| [NonGenericDictionary](nongenericdictionary/)(IDictionary) | Initierar en ny instans av klassen `NonGenericDictionary`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericdictionary/count/) { get; } | Får antalet element som finns i ICollection . |
-| [IsFixedSize](../../aspose.psd/nongenericdictionary/isfixedsize/) { get; } | Får ett värde som indikerar om IDictionary objektet har en fast storlek. |
-| [IsReadOnly](../../aspose.psd/nongenericdictionary/isreadonly/) { get; } | Får ett värde som indikerar om IDictionary objektet är skrivskyddat. |
-| [IsSynchronized](../../aspose.psd/nongenericdictionary/issynchronized/) { get; } | Får ett värde som anger om åtkomst till ICollection är synkroniserad (trådsäker). |
-| [Item](../../aspose.psd/nongenericdictionary/item/) { get; set; } | Hämtar eller ställer in elementet med den angivna nyckeln. |
-| [Keys](../../aspose.psd/nongenericdictionary/keys/) { get; } | Får en ICollection objekt som innehåller nycklarna till IDictionary objekt. |
-| [SyncRoot](../../aspose.psd/nongenericdictionary/syncroot/) { get; } | Hämtar ett objekt som kan användas för att synkronisera åtkomst till ICollection . |
-| [Values](../../aspose.psd/nongenericdictionary/values/) { get; } | Får en ICollection objekt som innehåller värdena i IDictionary objekt. |
+| [Count](../../aspose.psd/nongenericdictionary/count/) { get; } | Hämtar antalet element som finns i ICollection. |
+| [IsFixedSize](../../aspose.psd/nongenericdictionary/isfixedsize/) { get; } | Hämtar ett värde som indikerar om IDictionary-objektet har en fast storlek. |
+| [IsReadOnly](../../aspose.psd/nongenericdictionary/isreadonly/) { get; } | Hämtar ett värde som indikerar om IDictionary-objektet är skrivskyddat. |
+| [IsSynchronized](../../aspose.psd/nongenericdictionary/issynchronized/) { get; } | Hämtar ett värde som indikerar om åtkomst till ICollection är synkroniserad (trådsäker). |
+| [Item](../../aspose.psd/nongenericdictionary/item/) { get; set; } | Hämtar eller anger elementet med den angivna nyckeln. |
+| [Keys](../../aspose.psd/nongenericdictionary/keys/) { get; } | Hämtar ett ICollection-objekt som innehåller nycklarna i IDictionary-objektet. |
+| [SyncRoot](../../aspose.psd/nongenericdictionary/syncroot/) { get; } | Hämtar ett objekt som kan användas för att synkronisera åtkomst till ICollection. |
+| [Values](../../aspose.psd/nongenericdictionary/values/) { get; } | Hämtar ett ICollection-objekt som innehåller värdena i IDictionary-objektet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericdictionary/add/)(object, object) | Lägger till ett element med den angivna nyckeln och värdet till IDictionary objekt. |
-| [Clear](../../aspose.psd/nongenericdictionary/clear/)() | Tar bort alla element från IDictionary objekt. |
-| [Contains](../../aspose.psd/nongenericdictionary/contains/)(object) | Bestämmer om IDictionary objektet innehåller ett element med den angivna nyckeln. |
-| [CopyTo](../../aspose.psd/nongenericdictionary/copyto/)(Array, int) | Kopierar elementen i ICollection till en Array , med början på en viss Array index. |
+| [Add](../../aspose.psd/nongenericdictionary/add/)(object, object) | Lägger till ett element med den angivna nyckeln och värdet i IDictionary-objektet. |
+| [Clear](../../aspose.psd/nongenericdictionary/clear/)() | Tar bort alla element från IDictionary-objektet. |
+| [Contains](../../aspose.psd/nongenericdictionary/contains/)(object) | Avgör om IDictionary-objektet innehåller ett element med den angivna nyckeln. |
+| [CopyTo](../../aspose.psd/nongenericdictionary/copyto/)(Array, int) | Kopierar elementen i ICollection till en Array, med start vid ett specifikt Array-index. |
 | [GetEnumerator](../../aspose.psd/nongenericdictionary/getenumerator/)() | Hämtar enumeratorn. |
-| [Remove](../../aspose.psd/nongenericdictionary/remove/)(object) | Tar bort elementet med den angivna nyckeln från IDictionary objekt. |
+| [Remove](../../aspose.psd/nongenericdictionary/remove/)(object) | Tar bort elementet med den angivna nyckeln från IDictionary-objektet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

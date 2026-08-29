@@ -1,14 +1,15 @@
 ---
-title: LyidResource.LyidResource
-second_title: Aspose.PSD för .NET API-referens
-description: LyidResource byggare. Initierar en ny instans avLyidResource class.
+title: "LyidResource.LyidResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LyidResource-konstruktör. Initierar en ny instans av LyidResource-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource(int) {#constructor_1}
 
-Initierar en ny instans av[`LyidResource`](../) class.
+Initierar en ny instans av [`LyidResource`](../)-klassen.
 
 ```csharp
 public LyidResource(int id)
@@ -21,14 +22,14 @@ public LyidResource(int id)
 ### Se även
 
 * class [LyidResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LyidResource(byte[]) {#constructor}
 
-Initierar en ny instans av[`LyidResource`](../) class. Med anpassat eller okänt värde
+Initierar en ny instans av [`LyidResource`](../)-klassen. Med anpassat eller okänt värde
 
 ```csharp
 public LyidResource(byte[] bytes)
@@ -36,18 +37,18 @@ public LyidResource(byte[] bytes)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bytes | Byte[] | Byten. |
+| byte | Byte[] | Byte. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ogiltigt lyid-resursvärde |
 
 ### Se även
 
 * class [LyidResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

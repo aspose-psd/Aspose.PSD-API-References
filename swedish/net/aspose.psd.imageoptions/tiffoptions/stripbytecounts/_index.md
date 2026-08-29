@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in remsantalet byte.
+title: "TiffOptions.StripByteCounts"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger byteantalet för strip"
 type: docs
-weight: 460
+weight: 470
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
-Hämtar eller ställer in remsantalet byte.
+Hämtar eller anger antalet byte per remsa.
 
 ```csharp
 public uint[] StripByteCounts { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Stripbyten räknas.
+Byteantalet för strip.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

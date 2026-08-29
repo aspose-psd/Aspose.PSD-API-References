@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.ResolutionUnit
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in upplösningsmåttenheten för data för smarta objektlager i PSDfilen.
+title: "SmartObjectResource.ResolutionUnit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource‑egenskap. Hämtar eller anger enheten för upplösningsmåttet för smartobjektlagrets data i PSD‑filen"
 type: docs
-weight: 200
+weight: 190
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.ResolutionUnit property
 
-Hämtar eller ställer in upplösningsmåttenheten för data för smarta objektlager i PSD-filen.
+Hämtar eller anger enheten för upplösningsmåttet för smartobjektlagrets data i PSD‑filen.
 
 ```csharp
 public UnitTypes ResolutionUnit { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Upplösningsmåttet för det smarta objektlagret.
+Enheten för upplösningsmåttet för smartobjektlagret.
 
 ### Se även
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

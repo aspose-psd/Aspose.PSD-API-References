@@ -1,14 +1,15 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PSD för .NET API-referens
-description: Metered metod. Får förbrukningsfilstorlek
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Metered-metoden. Hämtar konsumtionsfilens storlek"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd/metered/getconsumptionquantity/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionQuantity method
 
-Får förbrukningsfilstorlek
+Hämtar konsumtionsfilens storlek
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -16,12 +17,12 @@ public static decimal GetConsumptionQuantity()
 
 ### Returvärde
 
-konsumtionsmängd
+konsumtionskvantitet
 
 ### Se även
 
 * class [Metered](../)
-* namnutrymme [Aspose.PSD](../../metered/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

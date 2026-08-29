@@ -1,14 +1,15 @@
 ---
-title: VstkResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource fast egendom. Får signaturen.
+title: "VstkResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource egenskap. Hämtar signaturen"
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/
 ---
+{{< psd/tize >}}
 ## VstkResource.Signature property
 
-Får signaturen.
+Hämtar signaturen.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Item
-second_title: Aspose.PSD för .NET API-referens
-description: NonGenericList fast egendom. Hämtar eller ställer in elementet vid angivet index.
+title: "NonGenericList.Item"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NonGenericList-egenskapen. Hämtar eller anger elementet på det angivna indexet"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/nongenericlist/item/
 ---
+{{< psd/tize >}}
 ## NonGenericList indexer
 
-Hämtar eller ställer in elementet vid angivet index.
+Hämtar eller anger elementet på det angivna indexet.
 
 ```csharp
 public object this[int index] { get; set; }
@@ -21,7 +22,7 @@ public object this[int index] { get; set; }
 ### Se även
 
 * class [NonGenericList](../)
-* namnutrymme [Aspose.PSD](../../nongenericlist/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

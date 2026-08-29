@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawImage
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Ritar det angivnaImage  med sin ursprungliga fysiska storlek på den angivna platsen.
+title: "Graphics.DrawImage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Ritar den angivna Image med dess ursprungliga fysiska storlek på den angivna platsen."
 type: docs
-weight: 220
+weight: 230
 url: /sv/net/aspose.psd/graphics/drawimage/
 ---
+{{< psd/tize >}}
 ## DrawImage(Image, PointF) {#drawimage_1}
 
-Ritar det angivna[`Image`](../image/) , med sin ursprungliga fysiska storlek, på den angivna platsen.
+Ritar den angivna [`Image`](../image/), med dess ursprungliga fysiska storlek, på den angivna platsen.
 
 ```csharp
 public void DrawImage(Image sourceImage, PointF point)
@@ -21,23 +22,23 @@ public void DrawImage(Image sourceImage, PointF point)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float) {#drawimage_22}
 
-Ritar det angivna[`Image`](../image/) , med sin ursprungliga fysiska storlek, på den angivna platsen.
+Ritar den angivna [`Image`](../image/), med dess ursprungliga fysiska storlek, på den angivna platsen.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y)
@@ -46,27 +47,27 @@ public void DrawImage(Image sourceImage, float x, float y)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| x | Single | X-koordinaten för det övre vänstra hörnet av den ritade bilden. |
-| y | Single | Y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| x | Single | x-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| y | Single | y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF) {#drawimage_15}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rect)
@@ -75,27 +76,27 @@ public void DrawImage(Image sourceImage, RectangleF rect)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) struktur som anger platsen och storleken på den ritade bilden. |
+| rect | RectangleF | `[`RectangleF`](../../rectanglef/) struktur som specificerar platsen och storleken på den ritade bilden.` |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit) {#drawimage_11}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit)
@@ -105,13 +106,13 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
 | rectDestination | Rectangle | Destinationsrektangeln. |
-| graphicsUnit | GraphicsUnit | Den grafiska enheten. |
+| graphicsUnit | GraphicsUnit | Grafikenheten. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -119,14 +120,14 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit) {#drawimage_16}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit)
@@ -136,13 +137,13 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
 | rectDestination | RectangleF | Destinationsrektangeln. |
-| graphicsUnit | GraphicsUnit | Den grafiska enheten. |
+| graphicsUnit | GraphicsUnit | Grafikenheten. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -150,14 +151,14 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_12}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit, 
@@ -168,14 +169,14 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
 | rectDestination | Rectangle | Destinationsrektangeln. |
-| graphicsUnit | GraphicsUnit | Den grafiska enheten. |
-| imageAttributes | ImageAttributes | Bildens attribut. |
+| graphicsUnit | GraphicsUnit | Grafikenheten. |
+| imageAttributes | ImageAttributes | Bildattributen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -184,14 +185,14 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_17}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit, 
@@ -202,14 +203,14 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
 | rectDestination | RectangleF | Destinationsrektangeln att rita i. |
-| graphicsUnit | GraphicsUnit | Den grafiska enheten. |
-| imageAttributes | ImageAttributes | Bildens attribut. |
+| graphicsUnit | GraphicsUnit | Grafikenheten. |
+| imageAttributes | ImageAttributes | Bildattributen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -218,14 +219,14 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit) {#drawimage_13}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -235,15 +236,15 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| rectSource | Rectangle | Den korrekta källan. |
-| rectDestination | Rectangle | Den rätta destinationen. |
-| graphicsUnit | GraphicsUnit | Den grafiska enheten. |
+| rectSource | Rectangle | Källrektangeln. |
+| rectDestination | Rectangle | Målrrektangeln. |
+| graphicsUnit | GraphicsUnit | Grafikenheten. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -251,14 +252,14 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit) {#drawimage_18}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -268,15 +269,15 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| rectSource | RectangleF | Den korrekta källan. |
-| rectDestination | RectangleF | Den rätta destinationen. |
-| graphicsUnit | GraphicsUnit | Den grafiska enheten. |
+| rectSource | RectangleF | Källrektangeln. |
+| rectDestination | RectangleF | Målrrektangeln. |
+| graphicsUnit | GraphicsUnit | Grafikenheten. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -284,14 +285,14 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_14}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -301,16 +302,16 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| rectSource | Rectangle | Den korrekta källan. |
-| rectDestination | Rectangle | Den rätta destinationen. |
-| graphicsUnit | GraphicsUnit | Den grafiska enheten. |
-| imageAttributes | ImageAttributes | Bildens attribut. |
+| rectSource | Rectangle | Källrektangeln. |
+| rectDestination | Rectangle | Målrrektangeln. |
+| graphicsUnit | GraphicsUnit | Grafikenheten. |
+| imageAttributes | ImageAttributes | Bildattributen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -319,14 +320,14 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_19}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -339,13 +340,13 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 | rectSource | RectangleF | Källrektangeln. |
 | rectDestination | RectangleF | Destinationsrektangeln. |
 | graphicsUnit | GraphicsUnit | Grafikenheten att använda. |
-| imageAttributes | ImageAttributes | Bildattributen som ska användas. |
+| imageAttributes | ImageAttributes | Bildattributen att använda. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
@@ -354,14 +355,14 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[]) {#drawimage_6}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints)
@@ -369,7 +370,7 @@ public void DrawImage(Image image, Point[] destPoints)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | Point[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 
 ### Se även
@@ -377,14 +378,14 @@ public void DrawImage(Image image, Point[] destPoints)
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle) {#drawimage_7}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
@@ -392,7 +393,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | Point[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 | srcRect | Rectangle | Källrektangeln. |
 
@@ -402,14 +403,14 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 * struct [Point](../../point/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit) {#drawimage_8}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit)
@@ -417,7 +418,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | Point[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 | srcRect | Rectangle | Källrektangeln. |
 | srcUnit | GraphicsUnit | Måttenheterna. |
@@ -429,14 +430,14 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_9}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit, 
@@ -445,11 +446,11 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | Point[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 | srcRect | Rectangle | Källrektangeln. |
 | srcUnit | GraphicsUnit | Måttenheterna. |
-| imageAttributes | ImageAttributes | Bildens attribut. |
+| imageAttributes | ImageAttributes | Bildattributen. |
 
 ### Se även
 
@@ -459,14 +460,14 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[]) {#drawimage_2}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints)
@@ -474,12 +475,12 @@ public void DrawImage(Image image, PointF[] destPoints)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | PointF[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | bild |
 
@@ -488,14 +489,14 @@ public void DrawImage(Image image, PointF[] destPoints)
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF) {#drawimage_3}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
@@ -503,7 +504,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | PointF[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 | srcRect | RectangleF | Källrektangeln. |
 
@@ -513,14 +514,14 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit) {#drawimage_4}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit)
@@ -528,7 +529,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | PointF[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 | srcRect | RectangleF | Källrektangeln. |
 | srcUnit | GraphicsUnit | Måttenheterna. |
@@ -540,14 +541,14 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_5}
 
-Ritar den angivna delen av den angivna*image* på angiven plats och med angiven storlek.
+Ritar den specificerade delen av den specificerade *image* på den specificerade platsen och med den specificerade storleken.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit, 
@@ -556,11 +557,11 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | Image | Bilden att rita. |
+| bild | Image | Bilden att rita. |
 | destPoints | PointF[] | Array av tre PointF-strukturer som definierar ett parallellogram. |
 | srcRect | RectangleF | Källrektangeln. |
 | srcUnit | GraphicsUnit | Måttenheterna. |
-| imageAttributes | ImageAttributes | Bildens attribut. |
+| imageAttributes | ImageAttributes | Bildattributen. |
 
 ### Se även
 
@@ -570,14 +571,14 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float, float, float) {#drawimage_23}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y, float width, float height)
@@ -586,29 +587,29 @@ public void DrawImage(Image sourceImage, float x, float y, float width, float he
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| x | Single | X-koordinaten för det övre vänstra hörnet av den ritade bilden. |
-| y | Single | Y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
-| width | Single | Bredden på den ritade bilden. |
-| height | Single | Höjd på den ritade bilden. |
+| x | Single | x-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| y | Single | y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| bredd | Single | Bredden på den ritade bilden. |
+| höjd | Single | Höjden på den ritade bilden. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point) {#drawimage}
 
-Ritar det angivna[`Image`](../image/) , med sin ursprungliga fysiska storlek, på den angivna platsen.
+Ritar den angivna [`Image`](../image/), med dess ursprungliga fysiska storlek, på den angivna platsen.
 
 ```csharp
 public void DrawImage(Image sourceImage, Point point)
@@ -621,23 +622,23 @@ public void DrawImage(Image sourceImage, Point point)
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int) {#drawimage_20}
 
-Ritar den angivna bilden, med dess ursprungliga fysiska storlek, på den plats som anges av ett koordinatpar.
+Ritar den specificerade bilden, med dess ursprungliga fysiska storlek, på platsen som specificeras av ett koordinatpar.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y)
@@ -646,27 +647,27 @@ public void DrawImage(Image sourceImage, int x, int y)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| x | Int32 | X-koordinaten för det övre vänstra hörnet av den ritade bilden. |
-| y | Int32 | Y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| x | Int32 | x-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| y | Int32 | y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle) {#drawimage_10}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rect)
@@ -675,27 +676,27 @@ public void DrawImage(Image sourceImage, Rectangle rect)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) struktur som anger platsen och storleken på den ritade bilden. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) struktur som specificerar platsen och storleken på den ritade bilden. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int, int, int) {#drawimage_21}
 
-Ritar det angivna[`Image`](../image/) på angiven plats och med angiven storlek.
+Ritar den angivna [`Image`](../image/) på den angivna platsen och med den angivna storleken.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y, int width, int height)
@@ -704,22 +705,22 @@ public void DrawImage(Image sourceImage, int x, int y, int width, int height)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| x | Int32 | X-koordinaten för det övre vänstra hörnet av den ritade bilden. |
-| y | Int32 | Y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
-| width | Int32 | Bredden på den ritade bilden. |
-| height | Int32 | Höjd på den ritade bilden. |
+| x | Int32 | x-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| y | Int32 | y-koordinaten för det övre vänstra hörnet av den ritade bilden. |
+| bredd | Int32 | Bredden på den ritade bilden. |
+| höjd | Int32 | Höjden på den ritade bilden. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

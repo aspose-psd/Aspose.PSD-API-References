@@ -1,28 +1,29 @@
 ---
-title: PdfCoreOptions.PdfCompliance
-second_title: Aspose.PSD för .NET API-referens
-description: PdfCoreOptions fast egendom. Hämtar eller ställer in PDFkompatibilitet.
+title: "PdfCoreOptions.PdfCompliance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PdfCoreOptions egenskap. Hämtar eller anger PDF‑kompatibiliteten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.PdfCompliance property
 
-Hämtar eller ställer in PDF-kompatibilitet.
+Hämtar eller anger PDF-efterlevnad.
 
 ```csharp
 public PdfComplianceVersion PdfCompliance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-PDF-kompatibiliteten.
+Hämtar eller anger PDF‑kompatibiliteten.
 
 ### Se även
 
 * enum [PdfComplianceVersion](../../../aspose.psd/pdfcomplianceversion/)
 * class [PdfCoreOptions](../)
-* namnutrymme [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.BodySerialNumber
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in kamerahusets serienummer.
+title: "ExifData.BodySerialNumber"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger kamerakroppens serienummer"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.exif/exifdata/bodyserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.BodySerialNumber property
 
-Hämtar eller ställer in kamerahusets serienummer.
+Hämtar eller anger kamerakroppens serienummer.
 
 ```csharp
 public string BodySerialNumber { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kroppens serienummer.
+Kroppsserienumret.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

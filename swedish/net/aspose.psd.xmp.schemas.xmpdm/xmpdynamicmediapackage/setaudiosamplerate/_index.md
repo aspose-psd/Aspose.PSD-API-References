@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in ljudsamplingshastigheten.
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage-metoden. Ställer in ljudsamplingsfrekvensen"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
-Ställer in ljudsamplingshastigheten.
+Ställer in ljudsamplingsfrekvens.
 
 ```csharp
 public void SetAudioSampleRate(int rate)
@@ -16,12 +17,12 @@ public void SetAudioSampleRate(int rate)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rate | Int32 | Ljudsamplingshastigheten. |
+| rate | Int32 | Ljudsamplingsfrekvensen. |
 
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

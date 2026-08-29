@@ -1,14 +1,15 @@
 ---
-title: XmpBoolean.GetXmpRepresentation
-second_title: Aspose.PSD för .NET API-referens
-description: XmpBoolean metod. Returnerar stränginnehållet värde i XMPformat.
+title: "XmpBoolean.GetXmpRepresentation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpBoolean-metod. Returnerar sträng som innehåller värdet i XMP-format."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.GetXmpRepresentation method
 
-Returnerar stränginnehållet värde i XMP-format.
+Returnerar strängens innehållsvärde i XMP-format.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Returvärde
 
-Returnerar stränginnehållet värde i XMP-format.
+Returnerar strängens innehållsvärde i XMP-format.
 
 ### Se även
 
 * class [XmpBoolean](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

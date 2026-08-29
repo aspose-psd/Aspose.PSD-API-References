@@ -1,29 +1,30 @@
 ---
-title: Enum ThumbnailFormat
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat uppräkning. Anger miniatyrdataformat.
+title: "Enum ThumbnailFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat enum. Anger miniatyrbildsdataformat"
 type: docs
-weight: 3900
+weight: 4370
 url: /sv/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
+{{< psd/tize >}}
 ## ThumbnailFormat enumeration
 
-Anger miniatyrdataformat.
+Specificerar miniatyrdataformat.
 
 ```csharp
 public enum ThumbnailFormat
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| KRawRgb | `0` | RGB-format. |
-| KJpegRgb | `1` | Komprimerat Jpeg-format. |
+| KRawRgb | `0` | Rå RGB-format. |
+| KJpegRgb | `1` | Komprimerat JPEG-format. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

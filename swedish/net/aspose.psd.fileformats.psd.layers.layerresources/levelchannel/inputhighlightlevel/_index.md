@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputHighlightLevel
-second_title: Aspose.PSD för .NET API-referens
-description: LevelChannel fast egendom. Hämtar eller ställer in ingångsmarkeringsnivån.
+title: "LevelChannel.InputHighlightLevel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LevelChannel‑egenskap. Hämtar eller anger input‑highlight‑nivån"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputHighlightLevel property
 
-Hämtar eller ställer in ingångsmarkeringsnivån.
+Hämtar eller sätter ingångens höjdpunktsnivå.
 
 ```csharp
 public short InputHighlightLevel { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Ingångsmarkeringsnivån.
+Input‑highlight‑nivån.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Input Highlight Level kan endast ställas in inom intervallet från " + (this.InputShadowLevel + 2) + " till 255 |
+| ArgumentOutOfRangeException | Input‑highlight‑nivå kan endast sättas i intervallet från " + (this.InputShadowLevel + 2) + " till 255 |
 
 ### Se även
 
 * class [LevelChannel](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

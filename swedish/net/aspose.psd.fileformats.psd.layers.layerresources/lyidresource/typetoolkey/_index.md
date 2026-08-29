@@ -1,14 +1,15 @@
 ---
-title: LyidResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: LyidResource fält. Typverktygets infonyckel.
+title: "LyidResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LyidResource-fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 80
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LyidResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [LyidResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

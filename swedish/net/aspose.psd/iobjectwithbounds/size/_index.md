@@ -1,20 +1,21 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Aspose.PSD för .NET API-referens
-description: IObjectWithBounds fast egendom. Hämtar objektstorleken.
+title: "IObjectWithBounds.Size"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IObjectWithBounds-egenskapen. Hämtar objektets storlek."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
-Hämtar objektstorleken.
+Hämtar objektets storlek.
 
 ```csharp
 public Size Size { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets storlek.
 
@@ -22,7 +23,7 @@ Objektets storlek.
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* namnutrymme [Aspose.PSD](../../iobjectwithbounds/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

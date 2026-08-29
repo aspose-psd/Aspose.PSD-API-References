@@ -1,27 +1,28 @@
 ---
-title: AiImage.IsCached
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Får ett värde som indikerar om objektets data är cachad för närvarande och ingen dataläsning krävs.
+title: "AiImage.IsCached"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskapen. Hämtar ett värde som indikerar om objektets data för närvarande är cachad och ingen dataläsning krävs"
 type: docs
-weight: 80
+weight: 90
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/iscached/
 ---
+{{< psd/tize >}}
 ## AiImage.IsCached property
 
-Får ett värde som indikerar om objektets data är cachad för närvarande och ingen dataläsning krävs.
+Hämtar ett värde som indikerar om objektets data för närvarande är cachad och ingen dataläsning krävs.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om objektets data cachelagras; annat,`falsk` .
+`true` om objektets data är cachad; annars `false`.
 
 ### Se även
 
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

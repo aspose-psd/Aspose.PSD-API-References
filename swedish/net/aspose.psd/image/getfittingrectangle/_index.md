@@ -1,14 +1,15 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Får rektangel som passar den aktuella bilden.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image‑metod. Hämtar en rektangel som passar den aktuella bilden"
 type: docs
-weight: 270
+weight: 280
 url: /sv/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-Får rektangel som passar den aktuella bilden.
+Hämtar rektangeln som passar den aktuella bilden.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
@@ -16,26 +17,26 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangeln att få passande rektangel för. |
-| width | Int32 | Objektets bredd. |
-| height | Int32 | Objektets höjd. |
+| rektangel | Rectangle | Rektangeln att beräkna en passande rektangel för. |
+| bredd | Int32 | Objektets bredd. |
+| höjd | Int32 | Objektets höjd. |
 
 ### Returvärde
 
-Den passande rektangeln eller undantaget om ingen passande rektangel kan hittas.
+Den passande rektangeln eller ett undantag om ingen passande rektangel kan hittas.
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-Får rektangel som passar den aktuella bilden.
+Hämtar rektangeln som passar den aktuella bilden.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
@@ -44,20 +45,20 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, i
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangeln att få passande rektangel för. |
-| pixels | Int32[] | 32-bitars ARGB-pixlarna. |
-| width | Int32 | Objektets bredd. |
-| height | Int32 | Objektets höjd. |
+| rektangel | Rectangle | Rektangeln att beräkna en passande rektangel för. |
+| pixlar | Int32[] | De 32‑bitars ARGB‑pixlarna. |
+| bredd | Int32 | Objektets bredd. |
+| höjd | Int32 | Objektets höjd. |
 
 ### Returvärde
 
-Den passande rektangeln eller undantaget om ingen passande rektangel kan hittas.
+Den passande rektangeln eller ett undantag om ingen passande rektangel kan hittas.
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

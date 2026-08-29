@@ -1,11 +1,12 @@
 ---
-title: Interface IGradientColorPoint
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint gränssnitt. Basgränssnitt för fyllningsinställningar
+title: "Gränssnitt IGradientColorPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint-gränssnitt. Basgränssnitt för fyllningsinställningar."
 type: docs
-weight: 2060
+weight: 2240
 url: /sv/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint interface
 
 Basgränssnitt för fyllningsinställningar
@@ -16,15 +17,15 @@ public interface IGradientColorPoint
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Hämtar eller ställer in platsen. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Hämtar eller ställer in medianpunktsplatsen. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Hämtar eller ställer in färgen på den råa. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Hämtar eller anger platsen. Värdeintervall 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Hämtar eller anger medianpunktsplatsen. Värdeintervall 0-4096. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Hämtar eller anger färgen på råvärdet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

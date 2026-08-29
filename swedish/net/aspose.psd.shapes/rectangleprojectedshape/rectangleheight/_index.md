@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.RectangleHeight
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleProjectedShape fast egendom. Hämtar rektangelhöjden.
+title: "RectangleProjectedShape.RectangleHeight"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleProjectedShape egenskap. Hämtar rektangelns höjd"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleHeight property
 
-Hämtar rektangelhöjden.
+Hämtar rektangelns höjd.
 
 ```csharp
 public double RectangleHeight { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rektangelhöjden.
+Rektangelns höjd.
 
 ### Se även
 
 * class [RectangleProjectedShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

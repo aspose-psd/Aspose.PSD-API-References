@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidatedPresent
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeOriginSettings fast egendom. Får ett värde som indikerar om denna instans har en form ogiltig egenskapsuppsättning.
+title: "VectorShapeOriginSettings.IsShapeInvalidatedPresent"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeOriginSettings-egenskap. Hämtar ett värde som indikerar om detta objekt har en egenskap för ogiltigförklarad form satt"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidatedPresent property
 
-Får ett värde som indikerar om denna instans har en form ogiltig egenskapsuppsättning.
+Hämtar ett värde som indikerar om den här instansen har en egenskap för ogiltigförklarad form satt.
 
 ```csharp
 public bool IsShapeInvalidatedPresent { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om den här instansen har en form ogiltig egenskapsuppsättning; annat,`falsk` .
+`true` om detta objekt har en egenskap för ogiltigförklarad form satt; annars `false`.
 
 ### Se även
 
 * class [VectorShapeOriginSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

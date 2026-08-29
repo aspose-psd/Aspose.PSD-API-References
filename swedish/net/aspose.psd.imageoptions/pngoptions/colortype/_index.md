@@ -1,28 +1,29 @@
 ---
-title: PngOptions.ColorType
-second_title: Aspose.PSD för .NET API-referens
-description: PngOptions fast egendom. Hämtar eller ställer in typ av färg.
+title: "PngOptions.ColorType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PngOptions egenskap. Hämtar eller anger färgtypen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imageoptions/pngoptions/colortype/
 ---
+{{< psd/tize >}}
 ## PngOptions.ColorType property
 
-Hämtar eller ställer in typ av färg.
+Hämtar eller anger färgens typ.
 
 ```csharp
 public PngColorType ColorType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av färg.
+Färgens typ.
 
 ### Se även
 
 * enum [PngColorType](../../../aspose.psd.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../pngoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.HasSegments
-second_title: Aspose.PSD för .NET API-referens
-description: PolygonShape fast egendom. Får ett värde som indikerar om formen har segment.
+title: "PolygonShape.HasSegments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PolygonShape-egenskap. Hämtar ett värde som indikerar om formen har segment"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.shapes/polygonshape/hassegments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.HasSegments property
 
-Får ett värde som indikerar om formen har segment.
+Hämtar ett värde som indikerar om formen har segment.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om formen har segment; annat,`falsk`.
+`True` om formen har segment; annars, `false`.
 
 ### Se även
 
 * class [PolygonShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../polygonshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

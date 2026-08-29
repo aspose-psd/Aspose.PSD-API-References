@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GrayColorProfile
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in den GRÅ monokroma färgprofilen för PSDbilder i gråskala.
+title: "PsdImage.GrayColorProfile"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar eller anger den GRAY monokroma färgprofilen för Grayscale PSD-bilder"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/graycolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.GrayColorProfile property
 
-Hämtar eller ställer in den GRÅ (monokroma) färgprofilen för PSD-bilder i gråskala.
+Hämtar eller anger GRAY (monokrom) färgprofil för Gråskala PSD-bilder.
 
 ```csharp
 public StreamSource GrayColorProfile { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den GRÅ (monokroma) färgprofilen.
+Den GRAY (monokroma) färgprofilen.
 
 ### Se även
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

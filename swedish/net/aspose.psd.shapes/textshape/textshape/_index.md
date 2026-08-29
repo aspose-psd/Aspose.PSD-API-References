@@ -1,14 +1,15 @@
 ---
-title: TextShape.TextShape
-second_title: Aspose.PSD för .NET API-referens
-description: TextShape byggare. Initierar en ny instans avTextShape class.
+title: "TextShape.TextShape"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextShape-konstruktor. Initierar en ny instans av TextShape-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.shapes/textshape/textshape/
 ---
+{{< psd/tize >}}
 ## TextShape() {#constructor}
 
-Initierar en ny instans av[`TextShape`](../) class.
+Initierar en ny instans av klassen [`TextShape`](../).
 
 ```csharp
 public TextShape()
@@ -17,14 +18,14 @@ public TextShape()
 ### Se även
 
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextShape(string, RectangleF, Font, StringFormat) {#constructor_1}
 
-Initierar en ny instans av[`TextShape`](../) class.
+Initierar en ny instans av klassen [`TextShape`](../).
 
 ```csharp
 public TextShape(string text, RectangleF rectangle, Font font, StringFormat stringFormat)
@@ -33,8 +34,8 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | text | String | Texten att rita. |
-| rectangle | RectangleF | Textrektangeln. |
-| font | Font | Teckensnittet att använda. |
+| rektangel | RectangleF | Textens rektangel. |
+| typsnitt | Typsnitt | Typsnittet att använda. |
 | stringFormat | StringFormat | Strängformatet. |
 
 ### Se även
@@ -43,7 +44,7 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 * class [Font](../../../aspose.psd/font/)
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../textshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

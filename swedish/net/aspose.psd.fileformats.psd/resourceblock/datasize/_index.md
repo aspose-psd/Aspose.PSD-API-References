@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.DataSize
-second_title: Aspose.PSD för .NET API-referens
-description: ResourceBlock fast egendom. Hämtar resursdatastorleken i byte.
+title: "ResourceBlock.DataSize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResourceBlock-egenskap. Hämtar resursens datastorlek i byte"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd/resourceblock/datasize/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.DataSize property
 
-Hämtar resursdatastorleken i byte.
+Hämtar resursens datastorlek i byte.
 
 ```csharp
 public abstract int DataSize { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Resursdatastorleken.
+Resursens datastorlek.
 
 ### Se även
 
 * class [ResourceBlock](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

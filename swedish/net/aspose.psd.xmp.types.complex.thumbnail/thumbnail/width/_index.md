@@ -1,33 +1,34 @@
 ---
-title: Thumbnail.Width
-second_title: Aspose.PSD för .NET API-referens
-description: Thumbnail fast egendom. Hämtar eller ställer in bredden.
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Thumbnail‑egenskap. Hämtar eller anger bredden"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
-Hämtar eller ställer in bredden.
+Hämtar eller anger bredden.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Bredden.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | värde;Bredden får inte vara mindre än noll |
+| ArgumentOutOfRangeException | värde;Width får inte vara mindre än noll |
 
 ### Se även
 
 * class [Thumbnail](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

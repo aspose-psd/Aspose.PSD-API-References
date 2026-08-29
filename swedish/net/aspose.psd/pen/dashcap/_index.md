@@ -1,34 +1,35 @@
 ---
-title: Pen.DashCap
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Hämtar eller ställer in kapsylstilen som används i slutet av strecken som utgör streckade linjer ritade med dettaPen .
+title: "Pen.DashCap"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger kapslingsstilen som används i slutet av strecken som bildar streckade linjer ritade med denna Pen"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/pen/dashcap/
 ---
+{{< psd/tize >}}
 ## Pen.DashCap property
 
-Hämtar eller ställer in kapsylstilen som används i slutet av strecken som utgör streckade linjer ritade med detta[`Pen`](../) .
+Hämtar eller anger kapslingsstilen som används i slutet av strecken som bildar streckade linjer ritade med detta [`Pen`](../).
 
 ```csharp
 public DashCap DashCap { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-En av`DashCap` värden som representerar cap-stilen som används i början och slutet av de streck som utgör streckade linjer som ritas med detta[`Pen`](../).
+Ett av `DashCap`-värdena som representerar kapslingsstilen som används i början och slutet av strecken som bildar streckade linjer ritade med detta [`Pen`](../).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`DashCap` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | Egenskapen `DashCap` sätts på en oföränderlig [`Pen`](../), såsom de som returneras av klassen [`Pen`](../). |
 
 ### Se även
 
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

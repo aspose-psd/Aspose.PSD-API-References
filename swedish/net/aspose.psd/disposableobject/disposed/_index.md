@@ -1,27 +1,28 @@
 ---
-title: DisposableObject.Disposed
-second_title: Aspose.PSD för .NET API-referens
-description: DisposableObject fast egendom. Får ett värde som indikerar om denna instans är bortskaffad.
+title: "DisposableObject.Disposed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DisposableObject egenskap. Hämtar ett värde som indikerar om denna instans är frigjord"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
-Får ett värde som indikerar om denna instans är bortskaffad.
+Hämtar ett värde som indikerar om denna instans har frigjorts.
 
 ```csharp
 public bool Disposed { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om de kasseras; annat,`falsk`.
+`true` om frigjord; annars `false`.
 
 ### Se även
 
 * class [DisposableObject](../)
-* namnutrymme [Aspose.PSD](../../disposableobject/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

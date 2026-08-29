@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Rotera bilden runt mitten.
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Rotera bilden kring centrum"
 type: docs
-weight: 610
+weight: 670
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-Rotera bilden runt mitten.
+Rotera bilden kring centrum.
 
 ```csharp
 public override void Rotate(float angle)
@@ -16,11 +17,11 @@ public override void Rotate(float angle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Single | Rotationsvinkeln i grader. Positiva värden kommer att rotera medurs. |
+| vinkel | Single | Rotationsvinkeln i grader. Positiva värden roterar medurs. |
 
-### Exempel
+## Exempel
 
-Följande kod visar förmågan att rotera bilden med ett specifikt vinkelvärde.
+Följande kod demonstrerar möjligheten att rotera bilden med ett specifikt vinkelvärde.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Följande kod visar förmågan att rotera bilden med ett specifikt vinkelvärde.
 string sourceFileName = "TheHat.psd";
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 
-// Hela bilden roterar
+// Rotering av hela bilden
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-// Lager som roterar
+// Rotering av lager
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -60,14 +61,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Rotera bilden runt mitten.
+Rotera bilden kring centrum.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -75,15 +76,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Single | Rotationsvinkeln i grader. Positiva värden kommer att rotera medurs. |
-| resizeProportionally | Boolean | om inställt på`Sann` du kommer att få din bildstorlek ändrad enligt projicering av roterade rektangel (hörnpunkter) i andra fall som lämnar dimensioner orörda och endast interna bildinnehåll roteras. |
-| backgroundColor | Color | Färg på bakgrunden. |
+| vinkel | Single | Rotationsvinkeln i grader. Positiva värden roterar medurs. |
+| resizeProportionally | Boolean | Om den är satt till `true` kommer bildens storlek att ändras enligt de roterade rektangelns (hörnpunkternas) projektioner; annars lämnas dimensionerna orörda och endast bildens innehåll roteras. |
+| backgroundColor | Färg | Bakgrundens färg. |
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

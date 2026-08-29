@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackage fast egendom. Hämtar XMLnamnutrymmet.
+title: "XmpPackage.XmlNamespace"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackage-egenskap. Hämtar XML-namnrymd"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
-Hämtar XML-namnutrymmet.
+Hämtar XML-namnrymden.
 
 ```csharp
 public string XmlNamespace { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-XML-namnutrymmet.
+XML-namnrymden.
 
 ### Se även
 
 * class [XmpPackage](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

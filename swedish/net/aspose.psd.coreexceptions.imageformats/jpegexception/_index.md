@@ -1,14 +1,15 @@
 ---
-title: Class JpegException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegException klass. Undantag för Jpegfiler
+title: "Klass JpegException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.JpegException klass. Undantag för JPEG-filer"
 type: docs
 weight: 540
 url: /sv/net/aspose.psd.coreexceptions.imageformats/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException class
 
-Undantag för Jpeg-filer
+Undantag för JPEG-filer
 
 ```csharp
 public class JpegException : ImageException
@@ -16,15 +17,15 @@ public class JpegException : ImageException
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [JpegException](jpegexception/#constructor)(string) | Initierar en ny instans av`JpegException` class. |
-| [JpegException](jpegexception/#constructor_1)(string, Exception) | Initierar en ny instans av`JpegException` class. |
+| [JpegException](jpegexception/#constructor)(string) | Initierar en ny instans av klassen `JpegException`. |
+| [JpegException](jpegexception/#constructor_1)(string, Exception) | Initierar en ny instans av klassen `JpegException`. |
 
 ### Se även
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

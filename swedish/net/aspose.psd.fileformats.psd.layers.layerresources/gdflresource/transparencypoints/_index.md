@@ -1,20 +1,21 @@
 ---
-title: GdFlResource.TransparencyPoints
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Får transparenspoängen.
+title: "GdFlResource.TransparencyPoints"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource-egenskap. Hämtar transparenspunkterna"
 type: docs
-weight: 170
+weight: 220
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.TransparencyPoints property
 
-Får transparenspoängen.
+Hämtar transparenspunkterna.
 
 ```csharp
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Transparenspunkterna.
 
@@ -22,7 +23,7 @@ Transparenspunkterna.
 
 * interface [IGradientTransparencyPoint](../../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/)
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: RectangleProjectedShape.LeftTop
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleProjectedShape fast egendom. Får den vänstra övre rektangelpunkten.
+title: "RectangleProjectedShape.LeftTop"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleProjectedShape-egenskap. Hämtar den vänstra övre rektangelpunkten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.shapes/rectangleprojectedshape/lefttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftTop property
 
-Får den vänstra övre rektangelpunkten.
+Hämtar den vänstra övre rektangelpunkten.
 
 ```csharp
 public PointF LeftTop { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den vänstra övre rektangelpunkten.
 
@@ -22,7 +23,7 @@ Den vänstra övre rektangelpunkten.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,33 @@
 ---
-title: VectorPathRecordFactory.ProducePathRecord
-second_title: Aspose.PSD för .NET API-referens
-description: VectorPathRecordFactory metod. Producerar sökvägsposten.
+title: "VectorPathRecordFactory.ProducePathRecord"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorPathRecordFactory-metod. Skapar sökvägsposten"
 type: docs
-weight: 20
+weight: 10
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory.ProducePathRecord method
 
-Producerar sökvägsposten.
+Skapar vägposten.
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | Rekorddata. |
+| data | Byte[] | Postens data. |
 
 ### Returvärde
 
-Skapad[`VectorPathRecord`](../../vectorpathrecord/)
-
-### Undantag
-
-| undantag | skick |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
+Skapad [`VectorPathRecord`](../../vectorpathrecord/).
 
 ### Se även
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

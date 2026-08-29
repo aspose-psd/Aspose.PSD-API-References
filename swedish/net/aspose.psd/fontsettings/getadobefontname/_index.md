@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Hämtar Adobeteckensnittsnamnet efter teckensnittets efternamn.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metod. Hämtar Adobe-teckensnittsnamnet via teckensnittsfamiljens namn."
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Hämtar Adobe-teckensnittsnamnet efter teckensnittets efternamn.
+Hämtar Adobe-teckensnittsnamnet via teckensnittsfamiljens namn.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
@@ -16,15 +17,15 @@ public static string GetAdobeFontName(string fontFamilyName)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontFamilyName | String | Teckensnittets efternamn. |
+| fontFamilyName | String | Teckensnittsfamiljens namn. |
 
 ### Returvärde
 
-Adobe-teckensnittsnamnet efter teckensnittets efternamn.
+Adobe-teckensnittsnamnet via teckensnittsfamiljens namn.
 
-### Exempel
+## Exempel
 
-Följande kod visar möjligheten att ändra teckensnittsnamn vid portionsstil.
+Följande kod demonstrerar möjligheten att ändra teckensnittsnamn i en delstil.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -80,7 +81,7 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

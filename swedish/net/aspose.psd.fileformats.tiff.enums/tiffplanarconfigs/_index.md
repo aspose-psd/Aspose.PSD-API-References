@@ -1,11 +1,12 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs uppräkning. Lagringsorganisation. Möjliga värden för PLANARCONFIGtaggen.
+title: "Enum TiffPlanarConfigs"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Lagringsorganisation. Möjliga värden för PLANARCONFIG-taggen"
 type: docs
-weight: 4130
+weight: 4600
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
 Lagringsorganisation. Möjliga värden för PLANARCONFIG-taggen.
@@ -14,16 +15,16 @@ Lagringsorganisation. Möjliga värden för PLANARCONFIG-taggen.
 public enum TiffPlanarConfigs : ushort
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Contiguous | `1` | Enkelbildsplan. |
-| Separate | `2` | Separata dataplan. |
+| Contiguous | `1` | Enskild bildplan. |
+| Separate | `2` | Separata dataplans. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Enum ColorChannelFlag
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ColorChannelFlag uppräkning. Anger enskilda kanaler i CMYKfärgrymden cyan magenta gul svart. Denna uppräkning används av SetOutputChannelmetoderna.
+title: "Enum ColorChannelFlag"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ColorChannelFlag enum. Anger individuella kanaler i CMYK-cyan magenta gul svart färgrymd. Denna uppräkning används av SetOutputChannel-metoderna."
 type: docs
 weight: 320
 url: /sv/net/aspose.psd/colorchannelflag/
 ---
+{{< psd/tize >}}
 ## ColorChannelFlag enumeration
 
-Anger enskilda kanaler i CMYK-färgrymden (cyan, magenta, gul, svart). Denna uppräkning används av SetOutputChannel-metoderna.
+Anger enskilda kanaler i CMYK‑färgrymden (cyan, magenta, gul, svart). Denna uppräkning används av SetOutputChannel‑metoderna.
 
 ```csharp
 public enum ColorChannelFlag
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| ColorChannelC | `0` | Den cyanfärgade kanalen. |
-| ColorChannelM | `1` | Den magentafärgade färgkanalen. |
+| ColorChannelC | `0` | Den cyan färgkanalen. |
+| ColorChannelM | `1` | Den magenta färgkanalen. |
 | ColorChannelY | `2` | Den gula färgkanalen. |
 | ColorChannelK | `3` | Den svarta färgkanalen. |
-| ColorChannelLast | `4` | Den senast valda kanalen ska användas. |
+| ColorChannelLast | `4` | Den senast valda kanalen bör användas. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

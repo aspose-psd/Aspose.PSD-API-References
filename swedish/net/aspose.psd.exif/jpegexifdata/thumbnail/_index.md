@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in miniatyrbilden.
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData egenskap. Hämtar eller anger miniatyrbilden"
 type: docs
 weight: 200
 url: /sv/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
-Hämtar eller ställer in miniatyrbilden.
+Hämtar eller anger miniatyrbilden.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Miniatyren.
+Miniatyrbilden.
 
 ### Se även
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

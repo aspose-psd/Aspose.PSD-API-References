@@ -1,20 +1,21 @@
 ---
-title: ExifData.FNumber
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in Fnumret.
+title: "ExifData.FNumber"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger F-numret"
 type: docs
 weight: 280
 url: /sv/net/aspose.psd.exif/exifdata/fnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.FNumber property
 
-Hämtar eller ställer in F-numret.
+Hämtar eller anger F‑numret.
 
 ```csharp
 public TiffRational FNumber { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 F-numret.
 
@@ -22,7 +23,7 @@ F-numret.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

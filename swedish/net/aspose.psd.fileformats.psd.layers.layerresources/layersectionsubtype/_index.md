@@ -1,22 +1,23 @@
 ---
-title: Enum LayerSectionSubtype
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype uppräkning. Sektionens undertyp
+title: "Enum LayerSectionSubtype"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype-enum. Sektionens undertyp"
 type: docs
-weight: 2600
+weight: 2910
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionSubtype enumeration
 
-Sektionens undertyp
+Avsnittets undertyp
 
 ```csharp
 public enum LayerSectionSubtype
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | NotUsed | `-1` | Den ej använda |
 | Normal | `0` | Den normala |
@@ -24,7 +25,7 @@ public enum LayerSectionSubtype
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

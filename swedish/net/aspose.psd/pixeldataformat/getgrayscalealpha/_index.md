@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetGrayscaleAlpha
-second_title: Aspose.PSD för .NET API-referens
-description: PixelDataFormat metod. Får GrayscaleAlphafärg med ett specificerat antal bitar per sampel.
+title: "PixelDataFormat.GetGrayscaleAlpha"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PixelDataFormat‑metod. Hämtar GrayscaleAlpha‑färg med ett angivet antal bitar per prov."
 type: docs
 weight: 240
 url: /sv/net/aspose.psd/pixeldataformat/getgrayscalealpha/
 ---
+{{< psd/tize >}}
 ## GetGrayscaleAlpha(int) {#getgrayscalealpha}
 
-Får GrayscaleAlpha-färg med ett specificerat antal bitar per sampel.
+Hämtar GrayscaleAlpha-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample)
@@ -16,23 +17,23 @@ public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Antalet bitar per sampel. |
+| bitsPerSample | Int32 | Antalet bitar per prov. |
 
 ### Returvärde
 
-Färgen GrayscaleAlpha.
+GrayscaleAlpha‑färgen.
 
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetGrayscaleAlpha(int, int) {#getgrayscalealpha_1}
 
-Får GrayscaleAlpha-färg med ett specificerat antal bitar per sampel.
+Hämtar GrayscaleAlpha-färg med ett specificerat antal bitar per prov.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample, int alphaChannelBits)
@@ -40,17 +41,17 @@ public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample, int alphaChan
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bitsPerSample | Int32 | Antalet bitar per sampel. |
-| alphaChannelBits | Int32 | Antalet bitar per sampel i alfakanalen. |
+| bitsPerSample | Int32 | Antalet bitar per prov. |
+| alphaChannelBits | Int32 | Antalet bitar per prov i alfakanalen. |
 
 ### Returvärde
 
-Färgen GrayscaleAlpha.
+GrayscaleAlpha‑färgen.
 
 ### Se även
 
 * class [PixelDataFormat](../)
-* namnutrymme [Aspose.PSD](../../pixeldataformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

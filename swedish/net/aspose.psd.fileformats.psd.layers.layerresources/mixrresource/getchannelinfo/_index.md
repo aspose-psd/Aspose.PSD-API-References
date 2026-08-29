@@ -1,14 +1,15 @@
 ---
-title: MixrResource.GetChannelInfo
-second_title: Aspose.PSD för .NET API-referens
-description: MixrResource metod. Hämtar kanalinformationen rådata
+title: "MixrResource.GetChannelInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MixrResource metod. Hämtar kanalinformationens rådata"
 type: docs
-weight: 70
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.GetChannelInfo method
 
-Hämtar kanalinformationen rådata
+Hämtar kanalinformationens rådata
 
 ```csharp
 public byte[] GetChannelInfo(int channelIndex)
@@ -16,22 +17,22 @@ public byte[] GetChannelInfo(int channelIndex)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| channelIndex | Int32 | Index för kanalen. |
+| channelIndex | Int32 | Kanalens index. |
 
 ### Returvärde
 
-Raw byte-array med kanalinformation.
+Rå bytearray för kanalinformation.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | Mixr-resursen har inte mer än 4 kanaler. Index för första kanalen är 0 |
+| ArgumentException | Mixr-resurs har högst 4 kanaler. Index för första kanalen är 0 |
 
 ### Se även
 
 * class [MixrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

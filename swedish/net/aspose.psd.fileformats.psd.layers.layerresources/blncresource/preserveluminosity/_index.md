@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Aspose.PSD för .NET API-referens
-description: BlncResource fast egendom. Hämtar eller ställer in ett värde som indikerar om dettaBlncResource bevarar ljusstyrkan.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlncResource egenskap. Hämtar eller anger ett värde som indikerar om denna BlncResource bevarar luminans"
 type: docs
-weight: 100
+weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-Hämtar eller ställer in ett värde som indikerar om detta[`BlncResource`](../) bevarar ljusstyrkan.
+Hämtar eller anger ett värde som indikerar om denna [`BlncResource`](../) bevarar luminans.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om det bevarar ljusstyrkan; annat,`falsk` .
+`true` om den bevarar luminans; annars `false`.
 
 ### Se även
 
 * class [BlncResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

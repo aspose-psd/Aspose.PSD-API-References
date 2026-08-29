@@ -1,20 +1,21 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.PSD för .NET API-referens
-description: DataStreamSupporter fast egendom. Hämtar objektets dataström.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DataStreamSupporter-egenskapen. Hämtar objektets dataström"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
-Hämtar objektets dataström.
+Hämtar objektets datastream.
 
 ```csharp
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets dataström.
 
@@ -22,7 +23,7 @@ Objektets dataström.
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* namnutrymme [Aspose.PSD](../../datastreamsupporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

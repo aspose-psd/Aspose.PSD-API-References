@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.SofwareAgentName
-second_title: Aspose.PSD för .NET API-referens
-description: ResourceEvent fast egendom. Hämtar eller ställer in programvaruagentens namn.
+title: "ResourceEvent.SofwareAgentName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResourceEvent‑egenskap. Hämtar eller anger namn på programvaruagenten."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.SofwareAgentName property
 
-Hämtar eller ställer in programvaruagentens namn.
+Hämtar eller anger namnet på programvaruagenten.
 
 ```csharp
 public string SofwareAgentName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Programvaruagentens namn.
+Namnet på programvaruagenten.
 
 ### Se även
 
 * class [ResourceEvent](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

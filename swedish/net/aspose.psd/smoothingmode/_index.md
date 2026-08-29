@@ -1,22 +1,23 @@
 ---
-title: Enum SmoothingMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.SmoothingMode uppräkning. Anger om utjämning kantutjämning tillämpas på linjer och kurvor och kanterna på fyllda områden.
+title: "Enum SmoothingMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.SmoothingMode enum. Anger om jämnande kantutjämning tillämpas på linjer och kurvor samt kanterna på fyllda områden"
 type: docs
-weight: 5570
+weight: 6070
 url: /sv/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-Anger om utjämning (kantutjämning) tillämpas på linjer och kurvor och kanterna på fyllda områden.
+Anger om utjämning (kantutjämning) tillämpas på linjer och kurvor samt kanterna på fyllda områden.
 
 ```csharp
 public enum SmoothingMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Invalid | `-1` | Anger ett ogiltigt läge. |
 | Default | `0` | Anger ingen kantutjämning. |
@@ -27,7 +28,7 @@ public enum SmoothingMode
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

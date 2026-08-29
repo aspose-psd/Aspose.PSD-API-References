@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternWidth
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings fast egendom. Hämtar eller ställer in bredden på mönstret.
+title: "PatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings-egenskap. Hämtar eller anger bredden på mönstret"
 type: docs
-weight: 100
+weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternWidth property
 
-Hämtar eller ställer in bredden på mönstret.
+Hämtar eller anger mönstrets bredd.
 
 ```csharp
 public int PatternWidth { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Bredden på mönstret.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för redigering av fyllskiktsmönster.
+Följande kod demonstrerar stöd för redigering av fyllningslagrets mönster.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Se även
 
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

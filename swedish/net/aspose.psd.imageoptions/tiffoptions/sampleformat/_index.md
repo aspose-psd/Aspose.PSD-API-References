@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in exempelformatet.
+title: "TiffOptions.SampleFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller sätter samplingsformat"
 type: docs
-weight: 390
+weight: 400
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SampleFormat property
 
-Hämtar eller ställer in exempelformatet.
+Hämtar eller anger provformatet.
 
 ```csharp
 public TiffSampleFormats[] SampleFormat { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Exempelformatet.
+Samplingsformatet.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | värde |
-| ArgumentOutOfRangeException | värde;Arraylängden måste motsvara antalet samples per pixel. |
+| ArgumentOutOfRangeException | value;Arraylängden måste motsvara antalet prover per pixel. |
 
 ### Se även
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

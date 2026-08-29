@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Angle
-second_title: Aspose.PSD för .NET API-referens
-description: GradientFillSettings fast egendom. Hämtar eller ställer in vinkeln.
+title: "GradientFillSettings.Angle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientFillSettings egenskap. Hämtar eller anger vinkeln."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Angle property
 
-Hämtar eller ställer in vinkeln.
+Hämtar eller anger vinkeln.
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vinkeln.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Vinkeln måste ligga inom området -180,0 till 180,0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Vinkeln måste vara i intervallet från -180.0 till 180.0. |
 
 ### Se även
 
 * class [GradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadFloat
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamReader metod. Läs ett enstaka flytvärde från strömmen.
+title: "TiffStreamReader.ReadFloat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamReader-metod. Läs ett enda flyttalvärde från strömmen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloat method
 
-Läs ett enstaka flytvärde från strömmen.
+Läs ett enskilt float‑värde från strömmen.
 
 ```csharp
 public float ReadFloat(long position)
@@ -20,12 +21,12 @@ public float ReadFloat(long position)
 
 ### Returvärde
 
-Det enda flytande värdet.
+Det enda flyttalvärdet.
 
 ### Se även
 
 * class [TiffStreamReader](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

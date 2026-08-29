@@ -1,20 +1,21 @@
 ---
-title: Shape.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: Shape fast egendom. Hämtar formsegmenten.
+title: "Shape.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Shape-egenskap. Hämtar formens segment."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
-Hämtar formsegmenten.
+Hämtar formens segment.
 
 ```csharp
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formsegmenten.
 
@@ -22,7 +23,7 @@ Formsegmenten.
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* namnutrymme [Aspose.PSD](../../shape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

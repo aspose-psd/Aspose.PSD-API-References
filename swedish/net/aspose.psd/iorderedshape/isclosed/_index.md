@@ -1,27 +1,28 @@
 ---
-title: IOrderedShape.IsClosed
-second_title: Aspose.PSD för .NET API-referens
-description: IOrderedShape fast egendom. Hämtar eller ställer in ett värde som anger om ordnad form är stängd. Vid bearbetning av sluten ordnad form har start och slutpunkterna ingen betydelse.
+title: "IOrderedShape.IsClosed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IOrderedShape-egenskap. Hämtar eller anger ett värde som indikerar om den ordnade formen är sluten. Vid bearbetning av en sluten ordnad form har start- och slutpunkterna ingen betydelse."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/iorderedshape/isclosed/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.IsClosed property
 
-Hämtar eller ställer in ett värde som anger om ordnad form är stängd. Vid bearbetning av sluten ordnad form har start- och slutpunkterna ingen betydelse.
+Hämtar eller anger ett värde som indikerar om den ordnade formen är sluten. Vid bearbetning av en sluten ordnad form har start- och slutpunkterna ingen betydelse.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna ordnade form är stängd; annat,`falsk`.
+`True` om denna ordnade form är sluten; annars `false`.
 
 ### Se även
 
 * interface [IOrderedShape](../)
-* namnutrymme [Aspose.PSD](../../iorderedshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

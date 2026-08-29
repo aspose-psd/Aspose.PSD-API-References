@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidated
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeOriginSettings fast egendom. Hämtar eller ställer in ett värde som anger om formen är ogiltig.
+title: "VectorShapeOriginSettings.IsShapeInvalidated"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeOriginSettings-egenskap. Hämtar eller anger ett värde som indikerar om formen är ogiltigförklarad"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-Hämtar eller ställer in ett värde som anger om formen är ogiltig.
+Hämtar eller anger ett värde som indikerar om formen är ogiltigförklarad.
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för VogkResource-resursen.
+Följande exempel demonstrerar stöd för VogkResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Läser
+    // Läsning
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [VectorShapeOriginSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

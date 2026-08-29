@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Size
-second_title: Aspose.PSD för .NET API-referens
-description: SharpenFilterOptions fast egendom. Hämtar eller ställer in storleken.
+title: "SharpenFilterOptions.Size"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SharpenFilterOptions egenskap. Hämtar eller anger storleken"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Size property
 
-Hämtar eller ställer in storleken.
+Hämtar eller anger storleken.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Storleken.
 
 ### Se även
 
 * class [SharpenFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

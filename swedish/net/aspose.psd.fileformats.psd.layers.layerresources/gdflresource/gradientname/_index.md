@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientName
-second_title: Aspose.PSD för .NET API-referens
-description: GdFlResource fast egendom. Hämtar eller ställer in namnet på gradienten.
+title: "GdFlResource.GradientName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GdFlResource egenskap. Hämtar eller anger namnet på gradienten"
 type: docs
-weight: 80
+weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
-Hämtar eller ställer in namnet på gradienten.
+Hämtar eller anger gradientens namn.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på gradienten.
 
 ### Se även
 
 * class [GdFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

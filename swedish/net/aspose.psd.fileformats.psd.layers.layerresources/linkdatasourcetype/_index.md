@@ -1,31 +1,32 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType uppräkning. Definierar LinkDataSourceTypeuppräkningen för datakällorna i PSDlänkresursen.
+title: "Enum LinkDataSourceType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. Definierar LinkDataSourceType‑uppräkningen för datakällorna i PSD‑länkressursen"
 type: docs
-weight: 2700
+weight: 3000
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-Definierar LinkDataSourceType-uppräkningen för datakällorna i PSD-länkresursen.
+Definierar uppräkningen LinkDataSourceType för datakällorna i PSD‑länkresursen.
 
 ```csharp
 public enum LinkDataSourceType
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| None | `0` | Den tomma länkresursen. |
-| liFD | `1` | Den inbäddade länkade filen data |
-| liFE | `2` | Den externt länkade filen data |
-| liFA | `3` | Det länkade filaliaset data |
+| None | `0` | Den tomma länkressursen. |
+| liFD | `1` | Den inbäddade länkade fildata |
+| liFE | `2` | Den externa länkade fildata |
+| liFA | `3` | Den länkade filaliasdata |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för LnkeResource-resursen.
+Följande kod demonstrerar stöd för LnkeResource-resursen.
 
 ```csharp
 [C#]
@@ -249,7 +250,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

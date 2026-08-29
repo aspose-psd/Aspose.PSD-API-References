@@ -1,27 +1,28 @@
 ---
-title: VibAResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: VibAResource fält. Typverktygets infonyckel.
+title: "VibAResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VibAResource fält. Den typverktygsinformationsnyckeln"
 type: docs
-weight: 80
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VibAResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Exempel
+## Exempel
 
 Följande kodexempel visar stödet för VibAResource-resursen.
 
 ```csharp
 [C#]
 
-// Exempel på stöd för läs- och skrivvibrationsresurs vid körning.
+// Exempel på stöd för läsning och skrivning av Vibrationsresurs vid körning.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * class [VibAResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

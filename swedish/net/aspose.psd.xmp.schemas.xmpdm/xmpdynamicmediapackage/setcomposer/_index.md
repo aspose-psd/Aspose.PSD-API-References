@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetComposer
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in kompositören.
+title: "XmpDynamicMediaPackage.SetComposer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage-metoden. Anger kompositören"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComposer method
 
 Ställer in kompositören.
@@ -16,12 +17,12 @@ public void SetComposer(string composer)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| composer | String | Kompositören. |
+| kompositör | String | Kompositören. |
 
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

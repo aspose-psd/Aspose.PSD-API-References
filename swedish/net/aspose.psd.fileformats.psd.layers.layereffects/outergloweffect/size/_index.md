@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Hämtar oskärpa värdet i pixlar.
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar suddighetsvärdet i pixlar"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
-Hämtar oskärpa värdet i pixlar.
+Hämtar oskärpevärdet i pixlar.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Storleken.
 
-### Exempel
+## Exempel
 
-Följande kod visar OuterGlowEffect-stödet.
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Se även
 
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

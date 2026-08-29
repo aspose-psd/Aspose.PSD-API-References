@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.TransformMatrix
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfo6Resource fast egendom. Hämtar eller ställer in transformationsmatrisen.
+title: "TypeToolInfo6Resource.TransformMatrix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfo6Resource egenskap. Hämtar eller anger transformmatrisen"
 type: docs
-weight: 150
+weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TransformMatrix property
 
-Hämtar eller ställer in transformationsmatrisen.
+Hämtar eller anger transformmatrisen.
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Transformeringsmatrisen.
+Transformmatrisen.
 
 ### Se även
 
 * class [TypeToolInfo6Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

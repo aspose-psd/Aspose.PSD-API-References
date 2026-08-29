@@ -1,22 +1,23 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Aspose.PSD för .NET API-referens
-description: VogkResource fast egendom. Hämtar eller ställer in formens ursprungsinställningar.
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VogkResource egenskap. Hämtar eller anger inställningarna för formursprunget"
 type: docs
-weight: 50
+weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
-Hämtar eller ställer in formens ursprungsinställningar.
+Hämtar eller anger inställningarna för formens ursprung.
 
 ```csharp
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för VogkResource-resursen.
+Följande exempel demonstrerar stöd för VogkResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Läser
+    // Läsning
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -74,7 +75,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

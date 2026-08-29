@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanRead
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer fast egendom. Får ett värde som anger om strömmen stöder läsning.
+title: "StreamContainer.CanRead"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer-egenskap. Hämtar ett värde som indikerar om strömmen stöder läsning"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/streamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanRead property
 
-Får ett värde som anger om strömmen stöder läsning.
+Hämtar ett värde som indikerar om strömmen stödjer läsning.
 
 ```csharp
 public virtual bool CanRead { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om stream stöder läsning; annat,`falsk`.
+`true` om strömmen stöder läsning; annars `false`.
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

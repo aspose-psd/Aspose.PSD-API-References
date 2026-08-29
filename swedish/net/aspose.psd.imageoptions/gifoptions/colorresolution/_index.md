@@ -1,31 +1,32 @@
 ---
-title: GifOptions.ColorResolution
-second_title: Aspose.PSD för .NET API-referens
-description: GifOptions fast egendom. Hämtar eller ställer in GIFfärgupplösningen.
+title: "GifOptions.ColorResolution"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GifOptions egenskap. Hämtar eller anger GIF:s färgupplösning"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imageoptions/gifoptions/colorresolution/
 ---
+{{< psd/tize >}}
 ## GifOptions.ColorResolution property
 
-Hämtar eller ställer in GIF-färgupplösningen.
+Hämtar eller anger GIF:s färglösning.
 
 ```csharp
 public byte ColorResolution { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Färgupplösningen.
+Färglösningen.
 
-### Anmärkningar
+## Anmärkningar
 
-Färgupplösning - Antal bitar per primärfärg tillgänglig till originalbilden, minus 1. Detta värde representerar storleken på hela paletten från vilken färgerna i grafiken valdes , inte antalet färger som faktiskt används i grafiken. Till exempel, om värdet i det här fältet är 3, så hade paletten av originalbilden 4 bitar per primärfärg tillgänglig för att skapa bilden. Detta värde bör ställas in för att indikera rikedomen av den ursprungliga paletten, även om inte alla färger från paletten whole är tillgängliga på källmaskinen.
+Färglösning - Antalet bitar per primärfärg som är tillgängliga för den ursprungliga bilden, minus 1. Detta värde representerar storleken på hela paletten som färgerna i grafiken valdes från, inte antalet färger som faktiskt används i grafiken. Till exempel, om värdet i detta fält är 3, hade paletten för den ursprungliga bilden 4 bitar per primärfärg tillgängliga för att skapa bilden. Detta värde bör sättas för att indikera rikedom i den ursprungliga paletten, även om inte varje färg från hela paletten är tillgänglig på källmaskinen.
 
 ### Se även
 
 * class [GifOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../gifoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

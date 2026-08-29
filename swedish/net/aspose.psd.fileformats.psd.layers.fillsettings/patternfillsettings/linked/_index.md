@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings fast egendom. Hämtar eller ställer in ett värde som indikerar om dettaPatternFillSettingsär länkad.
+title: "PatternFillSettings.Linked"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings-egenskap. Hämtar eller anger ett värde som indikerar om detta PatternFillSettings är länkat"
 type: docs
-weight: 50
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-Hämtar eller ställer in ett värde som indikerar om detta[`PatternFillSettings`](../)är länkad.
+Hämtar eller anger ett värde som indikerar om detta [`PatternFillSettings`](../) är länkat.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om länkad; annat,`falsk` .
+`true` om länkat; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för redigering av fyllskiktsmönster.
+Följande kod demonstrerar stöd för redigering av fyllningslagrets mönster.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Se även
 
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

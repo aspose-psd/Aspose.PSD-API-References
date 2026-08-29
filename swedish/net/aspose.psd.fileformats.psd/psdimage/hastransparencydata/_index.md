@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasTransparencyData
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in ett värde som anger om den första alfakanalen innehåller transparensdata för det sammanslagna resultatet när lagerdata specificeras.
+title: "PsdImage.HasTransparencyData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar eller anger ett värde som indikerar om den första alfakanalen innehåller transparensdata för det sammanslagna resultatet när lagerdata specificeras"
 type: docs
 weight: 150
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/hastransparencydata/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasTransparencyData property
 
-Hämtar eller ställer in ett värde som anger om den första alfakanalen innehåller transparensdata för det sammanslagna resultatet när lagerdata specificeras.
+Hämtar eller anger ett värde som indikerar om den första alfakanalen innehåller transparensdata för det sammanslagna resultatet när lagerdata specificeras.
 
 ```csharp
 public bool HasTransparencyData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om den första alfakanalen innehåller transparensdata för det sammanslagna resultatet när lagerdata specificeras; annat,`falsk` .
+`true` om den första alfakanalen innehåller transparensdata för det sammanslagna resultatet när lagerdata specificeras; annars `false`.
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

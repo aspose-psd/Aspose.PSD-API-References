@@ -1,20 +1,21 @@
 ---
-title: AiImage.Version
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar versionen av Adobe Illustrator format
+title: "AiImage.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskap. Hämtar versionen av Adobe Illustrator-formatet"
 type: docs
-weight: 110
+weight: 130
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-Hämtar versionen av Adobe Illustrator format
+Hämtar versionen av Adobe Illustrator-formatet.
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Versionen.
 
@@ -22,7 +23,7 @@ Versionen.
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

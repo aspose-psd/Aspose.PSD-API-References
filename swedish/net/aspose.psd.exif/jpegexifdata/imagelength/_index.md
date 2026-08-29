@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.ImageLength
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in bildlängden.
+title: "JpegExifData.ImageLength"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData egenskap. Hämtar eller anger bildlängden"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.exif/jpegexifdata/imagelength/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageLength property
 
-Hämtar eller ställer in bildlängden.
+Hämtar eller anger bildlängd.
 
 ```csharp
 public uint ImageLength { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Längden på bilden.
+Bildens längd.
 
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

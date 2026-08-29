@@ -1,14 +1,15 @@
 ---
-title: PointF.ToString
-second_title: Aspose.PSD för .NET API-referens
-description: PointF metod. Konverterar dettaPointF till en mänsklig läsbar sträng.
+title: "PointF.ToString"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PointF‑metod. Konverterar detta PointF till en människoläsbar sträng"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/pointf/tostring/
 ---
+{{< psd/tize >}}
 ## PointF.ToString method
 
-Konverterar detta[`PointF`](../) till en mänsklig läsbar sträng.
+Konverterar detta [`PointF`](../) till en människoläsbar sträng.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Returvärde
 
-En sträng som representerar detta[`PointF`](../).
+En sträng som representerar detta [`PointF`](../).
 
 ### Se även
 
 * struct [PointF](../)
-* namnutrymme [Aspose.PSD](../../pointf/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

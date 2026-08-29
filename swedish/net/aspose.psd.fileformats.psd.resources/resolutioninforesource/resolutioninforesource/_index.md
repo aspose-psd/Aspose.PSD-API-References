@@ -1,14 +1,15 @@
 ---
-title: ResolutionInfoResource.ResolutionInfoResource
-second_title: Aspose.PSD för .NET API-referens
-description: ResolutionInfoResource byggare. Default_Constructor
+title: "ResolutionInfoResource.ResolutionInfoResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResolutionInfoResource-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/resolutioninforesource/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public ResolutionInfoResource()
@@ -17,7 +18,7 @@ public ResolutionInfoResource()
 ### Se även
 
 * class [ResolutionInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

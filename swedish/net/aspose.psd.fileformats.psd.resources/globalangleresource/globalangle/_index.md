@@ -1,27 +1,28 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Aspose.PSD för .NET API-referens
-description: GlobalAngleResource fast egendom. Hämtar eller ställer in den globala vinkeln.
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GlobalAngleResource egenskap. Hämtar eller anger den globala vinkeln"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
-Hämtar eller ställer in den globala vinkeln.
+Hämtar eller anger den globala vinkeln.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den globala vinkeln.
 
 ### Se även
 
 * class [GlobalAngleResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

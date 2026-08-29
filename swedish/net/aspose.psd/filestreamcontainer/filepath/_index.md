@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: Aspose.PSD för .NET API-referens
-description: FileStreamContainer fast egendom. Hämtar filsökvägen.
+title: "FileStreamContainer.FilePath"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FileStreamContainer-egenskap. Hämtar filsökvägen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
 Hämtar filsökvägen.
@@ -14,14 +15,14 @@ Hämtar filsökvägen.
 public string FilePath { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Filsökvägen.
 
 ### Se även
 
 * class [FileStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../filestreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Hämtar eller ställer in ett värde som anger om slår ut.
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger ett värde som indikerar om den knockas ut"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
-Hämtar eller ställer in ett värde som anger om [slår ut].
+Hämtar eller anger ett värde som indikerar om [knocks out].
 
 ```csharp
 public bool IsSoftBlend { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann`om [slår ut]; annat,`falsk` .
+`true` om [knocks out]; annars, `false`.
 
 ### Se även
 
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

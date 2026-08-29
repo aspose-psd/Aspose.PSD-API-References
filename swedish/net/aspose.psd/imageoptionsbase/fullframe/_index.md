@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Aspose.PSD för .NET API-referens
-description: ImageOptionsBase fast egendom. Hämtar eller ställer in ett värde som anger om helbild.
+title: "ImageOptionsBase.FullFrame"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageOptionsBase-egenskap. Hämtar eller anger ett värde som indikerar om full frame."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-Hämtar eller ställer in ett värde som anger om [helbild].
+Hämtar eller anger ett värde som indikerar om [full frame].
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [hel bild]; annat,`falsk` .
+`true` om [full frame]; annars, `false`.
 
 ### Se även
 
 * class [ImageOptionsBase](../)
-* namnutrymme [Aspose.PSD](../../imageoptionsbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

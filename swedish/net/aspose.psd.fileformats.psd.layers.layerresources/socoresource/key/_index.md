@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: SoCoResource fast egendom. Hämtar lagerresursnyckeln.
+title: "SoCoResource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SoCoResource egenskap. Hämtar lagerresursens nyckel"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Key property
 
-Hämtar lagerresursnyckeln.
+Hämtar lagerresursens nyckel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Se även
 
 * class [SoCoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

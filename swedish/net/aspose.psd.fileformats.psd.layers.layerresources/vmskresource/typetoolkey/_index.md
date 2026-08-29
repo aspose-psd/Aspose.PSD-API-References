@@ -1,14 +1,15 @@
 ---
-title: VmskResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: VmskResource fält. Typverktygets infonyckel.
+title: "VmskResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VmskResource-fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 30
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VmskResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [VmskResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vmskresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

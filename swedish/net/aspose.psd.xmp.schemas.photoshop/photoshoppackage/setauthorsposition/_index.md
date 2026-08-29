@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Ställer in författarens position.
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in författarnas position"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
-Ställer in författarens position.
+Anger författarens position.
 
 ```csharp
 public void SetAuthorsPosition(string authorsPosition)
@@ -16,12 +17,12 @@ public void SetAuthorsPosition(string authorsPosition)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| authorsPosition | String | Författarnas ståndpunkt. |
+| authorsPosition | String | Författarnas position. |
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

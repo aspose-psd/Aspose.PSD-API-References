@@ -1,31 +1,32 @@
 ---
-title: Enum PathOperations
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations uppräkning. Operationerna för kombinationen av banformerna booleska operationer.
+title: "Enum PathOperations"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations‑enum. Operationerna för banformer som kombinerar booleska operationer"
 type: docs
-weight: 1390
+weight: 1400
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
-Operationerna för kombinationen av banformerna (booleska operationer).
+Operationerna för kombination av vägformer (Boolean-operationer).
 
 ```csharp
 public enum PathOperations
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| ExcludeOverlappingShapes | `0` | Exkludera överlappande former (XOR-operation). |
-| CombineShapes | `1` | Kombinera former (ELLER-operation). Detta är standardvärdet i Photoshop. |
-| SubtractFrontShape | `2` | Subtrahera frontform (INTE operation). |
-| IntersectShapeAreas | `3` | Skär formområden (OCH operation). |
+| ExcludeOverlappingShapes | `0` | Exkludera överlappande former (XOR‑operation). |
+| CombineShapes | `1` | Kombinera former (OR‑operation). Detta är standardvärdet i Photoshop. |
+| SubtractFrontShape | `2` | Subtrahera frontformen (NOT‑operation). |
+| IntersectShapeAreas | `3` | Korsa formytor (AND‑operation). |
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar stöd för nya LengthRecord-egenskaper, PathOperations (booleska operationer), ShapeIndex och BezierKnotRecordsCount.
+Följande kodexempel demonstrerar stödet för nya LengthRecord‑egenskaper, PathOperations (boolska operationer), ShapeIndex och BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

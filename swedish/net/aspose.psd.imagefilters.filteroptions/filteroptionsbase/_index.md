@@ -1,14 +1,15 @@
 ---
-title: Class FilterOptionsBase
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase klass. Filteralternativ Bas abstrakt klass
+title: "Klass FilterOptionsBase"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase-klass. Filter Options Base abstrakt klass"
 type: docs
-weight: 4690
+weight: 5160
 url: /sv/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
+{{< psd/tize >}}
 ## FilterOptionsBase class
 
-Filteralternativ Bas, abstrakt klass
+Filteralternativ bas, abstrakt klass
 
 ```csharp
 public abstract class FilterOptionsBase
@@ -16,7 +17,7 @@ public abstract class FilterOptionsBase
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

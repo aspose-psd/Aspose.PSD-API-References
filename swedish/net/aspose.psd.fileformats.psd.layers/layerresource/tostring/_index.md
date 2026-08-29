@@ -1,14 +1,15 @@
 ---
-title: LayerResource.ToString
-second_title: Aspose.PSD för .NET API-referens
-description: LayerResource metod. Returnerar enString som representerar denna instans.
+title: "LayerResource.ToString"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerResource-metod. Returnerar en sträng som representerar detta objekt"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresource/tostring/
 ---
+{{< psd/tize >}}
 ## LayerResource.ToString method
 
-Returnerar enString som representerar denna instans.
+Returnerar en String som representerar detta objekt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Returvärde
 
-AString som representerar denna instans.
+En String som representerar denna instans.
 
 ### Se även
 
 * class [LayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

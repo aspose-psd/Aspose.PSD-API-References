@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.Script
-second_title: Aspose.PSD för .NET API-referens
-description: TextFontInfo fast egendom. Hämtar skriptet.
+title: "TextFontInfo.Script"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextFontInfo-egenskap. Hämtar skriptet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/script/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Script property
 
 Hämtar skriptet.
@@ -14,14 +15,14 @@ Hämtar skriptet.
 public int Script { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Skriptet.
 
 ### Se även
 
 * class [TextFontInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale klass. Representerar språkkod.
+title: "Klass XmpLocale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale-klass. Representerar språkkod"
 type: docs
-weight: 6170
+weight: 6670
 url: /sv/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 Representerar språkkod.
@@ -16,30 +17,30 @@ public sealed class XmpLocale : XmpText
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | Initierar en ny instans av`XmpLocale` class. |
+| [XmpLocale](xmplocale/)(string) | Initierar en ny instans av klassen `XmpLocale`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Hämtar eller ställer in textvärdet. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Hämtar eller anger textvärdet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Hämtar strängen som innehåller värdet i XMP-format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Hämtar det stränginnehållande värdet i XMP-format. |
 
-### Anmärkningar
+## Anmärkningar
 
 Se IETF RFC 3066.
 
 ### Se även
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

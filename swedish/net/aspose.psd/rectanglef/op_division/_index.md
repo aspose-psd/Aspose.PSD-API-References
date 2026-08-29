@@ -1,11 +1,12 @@
 ---
-title: RectangleF.op_Division
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF metod. Implementerar operatorn /.
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF-metod. Implementerar operatorn /"
 type: docs
 weight: 260
 url: /sv/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
 Implementerar operatorn /.
@@ -16,8 +17,8 @@ public static RectangleF operator /(RectangleF rectangle, float divider)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | RectangleF | Rektangeln. |
-| divider | Single | Avdelaren. |
+| rektangel | RectangleF | Rektangeln. |
+| delare | Single | Delaren. |
 
 ### Returvärde
 
@@ -25,14 +26,14 @@ Resultatet av operatorn.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | divider - division med noll är inte tillåtet. |
+| ArgumentOutOfRangeException | delare - Division med noll är inte tillåten. |
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

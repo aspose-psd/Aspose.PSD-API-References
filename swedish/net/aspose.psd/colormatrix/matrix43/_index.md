@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix43
-second_title: Aspose.PSD för .NET API-referens
-description: ColorMatrix fast egendom. Hämtar eller sätter elementet på den fjärde raden och tredje kolumnen i dettaColorMatrix .
+title: "ColorMatrix.Matrix43"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorMatrix-egenskap. Hämtar eller anger elementet i den fjärde raden och tredje kolumnen i denna ColorMatrix"
 type: docs
 weight: 260
 url: /sv/net/aspose.psd/colormatrix/matrix43/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix43 property
 
-Hämtar eller sätter elementet på den fjärde raden och tredje kolumnen i detta[`ColorMatrix`](../) .
+Hämtar eller anger elementet i den fjärde raden och tredje kolumnen i detta [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix43 { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Elementet på fjärde raden och tredje kolumnen i denna[`ColorMatrix`](../).
+Elementet i den fjärde raden och tredje kolumnen i detta [`ColorMatrix`](../).
 
 ### Se även
 
 * class [ColorMatrix](../)
-* namnutrymme [Aspose.PSD](../../colormatrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

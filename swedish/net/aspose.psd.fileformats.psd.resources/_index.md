@@ -1,55 +1,56 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller resursentiteter för PSDfilformat.
+title: "Aspose.PSD.FileFormats.Psd.Resources"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller PSD-filformatresursenheter"
 type: docs
-weight: 350
+weight: 380
 url: /sv/net/aspose.psd.fileformats.psd.resources/
 ---
-Namnutrymmet innehåller resursentiteter för PSD-filformat.
+{{< psd/tize >}}
+Namnutrymmet innehåller PSD-filformatresursentiteter.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [AnimatedDataSectionResource](./animateddatasectionresource/) | Plug-in-resursen för Animated Data Section. |
-| [BackgroundColorResource](./backgroundcolorresource/) | Resursen med raminformation för bildutskriftsinställningar. |
-| [BorderInformationResource](./borderinformationresource/) | Resursen med raminformation för bildutskriftsinställningar. |
-| [CaptionDigestResource](./captiondigestresource/) | CaptionDigest resource |
-| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Halvtoningsresurs |
+| [AnimatedDataSectionResource](./animateddatasectionresource/) | Den animerade Data Section Plug-In-resursen. |
+| [BackgroundColorResource](./backgroundcolorresource/) | Resursen med kantinformation för bildutskriftsinställningar. |
+| [BorderInformationResource](./borderinformationresource/) | Resursen med kantinformation för bildutskriftsinställningar. |
+| [CaptionDigestResource](./captiondigestresource/) | CaptionDigest-resurs |
+| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Halftoning-resurs |
 | [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | Färgöverföringsresurs |
-| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Dokumentspecifika Id-resurs |
-| [FixedPointDecimal](./fixedpointdecimal/) | Decimal med fast punkt, med 16-bitars heltal och 16-bitars bråk. |
+| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Dokumentspecifika ID‑resurs |
+| [FixedPointDecimal](./fixedpointdecimal/) | Fast‑punkt decimal, med 16‑bit heltal och 16‑bit bråkdel. |
 | [GlobalAltitudeResource](./globalaltituderesource/) | Global höjdresurs |
 | [GlobalAngleResource](./globalangleresource/) | Global vinkelresurs |
-| [GridAndGuidesResouce](./gridandguidesresouce/) | Representerar rutnätet och vägleder resursen. |
-| [GuideResource](./guideresource/) | Guideresursblocket. |
-| [IccProfileResource](./iccprofileresource/) | Representerar ICC-profilresursen. |
-| [IccUntaggedResource](./iccuntaggedresource/) | Icc otaggad resurs |
-| [LayerGroupInformationResource](./layergroupinformationresource/) | Lagergruppinformation resurs |
-| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Lagergrupper aktiverade resurs |
-| [LayerSelectionIdsResource](./layerselectionidsresource/) | Lagerurvals-ID resurs |
-| [LayerStateInformationResource](./layerstateinformationresource/) | Lagerstatusinformation resurs |
-| [PixelAspectRatioResource](./pixelaspectratioresource/) | Pixel aspekt ration resurs |
-| [PrintFlagsResource](./printflagsresource/) | Skriv ut flaggor resource |
-| [PrintScaleResource](./printscaleresource/) | Print Scale resource |
-| [QuickMaskInformationResource](./quickmaskinformationresource/) | Snabbmaskinformationsresurs |
-| [ResolutionInfoResource](./resolutioninforesource/) | Upplösningsinformationsresursen |
-| [Thumbnail4Resource](./thumbnail4resource/) | Representerar miniatyrbildsresursen för psd 4.0. |
+| [GridAndGuidesResouce](./gridandguidesresouce/) | Representerar rutnät‑ och guide‑resursen. |
+| [GuideResource](./guideresource/) | Guide‑resursblocket. |
+| [IccProfileResource](./iccprofileresource/) | Representerar ICC‑profilresursen. |
+| [IccUntaggedResource](./iccuntaggedresource/) | Icc‑otaggad resurs |
+| [LayerGroupInformationResource](./layergroupinformationresource/) | Lagergruppsinformationsresurs |
+| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Resurs för aktiverade lagergrupper |
+| [LayerSelectionIdsResource](./layerselectionidsresource/) | Resurs för lagerurval‑ID:n |
+| [LayerStateInformationResource](./layerstateinformationresource/) | Lagerstatusinformationsresurs |
+| [PixelAspectRatioResource](./pixelaspectratioresource/) | Pixel‑aspektförhållande‑resurs |
+| [PrintFlagsResource](./printflagsresource/) | Utskriftsflagga‑resurs |
+| [PrintScaleResource](./printscaleresource/) | Utskrifts skala-resurs |
+| [QuickMaskInformationResource](./quickmaskinformationresource/) | Snabbmaskinformation-resurs |
+| [ResolutionInfoResource](./resolutioninforesource/) | Resurs för upplösningsinformation |
+| [Thumbnail4Resource](./thumbnail4resource/) | Representerar miniatyrresursen för psd 4.0. |
 | [ThumbnailResource](./thumbnailresource/) | Miniatyrresursblocket. |
-| [TransparencyIndexResource](./transparencyindexresource/) | Resursblocket för transparensindex. |
-| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Unicode alfanamn resurs |
+| [TransparencyIndexResource](./transparencyindexresource/) | Transparensindexresursblocket. |
+| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Unicode alfa-namnresurs |
 | [UnknownResource](./unknownresource/) | Den okända resursen. När ett resursblock inte känns igen skapas detta resursblock. |
-| [UrlListResource](./urllistresource/) | URL list resource |
-| [VersionInfoResource](./versioninforesource/) | Versionsinformation resurs |
-| [WatermarkResource](./watermarkresource/) | Vattenstämpel resurs |
+| [UrlListResource](./urllistresource/) | URL-listaresurs |
+| [VersionInfoResource](./versioninforesource/) | Versioninfo-resurs |
+| [WatermarkResource](./watermarkresource/) | Vattenstämpel-resurs |
 | [WorkingPathResource](./workingpathresource/) | Arbetsvägsresurs. |
 | [XmpResource](./xmpresource/) | Representerar XMP-metadataresursen. |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [GuideDirection](./guidedirection/) | Guideriktningen. |
-| [ThumbnailFormat](./thumbnailformat/) | Anger miniatyrdataformat. |
+| [GuideDirection](./guidedirection/) | Guide-riktning. |
+| [ThumbnailFormat](./thumbnailformat/) | Specificerar miniatyrdataformat. |
 
 

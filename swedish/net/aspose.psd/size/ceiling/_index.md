@@ -1,14 +1,15 @@
 ---
-title: Size.Ceiling
-second_title: Aspose.PSD för .NET API-referens
-description: Size metod. Konverterar den angivnaSizeF struktur till enSize strukturera genom att avrunda värdena förSize struktur till nästa högre heltalsvärden.
+title: "Size.Ceiling"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Size-metod. Konverterar den angivna SizeF-strukturen till en Size-struktur genom att avrunda värdena i Size-strukturen till nästa högre heltalsvärde."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-Konverterar den angivna[`SizeF`](../../sizef/) struktur till en[`Size`](../) strukturera genom att avrunda värdena för[`Size`](../) struktur till nästa högre heltalsvärden.
+Konverterar den angivna [`SizeF`](../../sizef/) strukturen till en [`Size`](../) struktur genom att avrunda värdena i [`Size`](../) strukturen till nästa högre heltalsvärde.
 
 ```csharp
 public static Size Ceiling(SizeF size)
@@ -16,17 +17,17 @@ public static Size Ceiling(SizeF size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size | SizeF | De[`SizeF`](../../sizef/) struktur att konvertera. |
+| size | SizeF | Den [`SizeF`](../../sizef/) strukturen att konvertera. |
 
 ### Returvärde
 
-De[`Size`](../) struktur som denna metod konverterar till.
+Den [`Size`](../) strukturen som den här metoden konverterar till.
 
 ### Se även
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namnutrymme [Aspose.PSD](../../size/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

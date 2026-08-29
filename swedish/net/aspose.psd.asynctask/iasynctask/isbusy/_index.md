@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsBusy
-second_title: Aspose.PSD för .NET API-referens
-description: IAsyncTask fast egendom. Får ett värde som anger om denna uppgift körs för närvarande.
+title: "IAsyncTask.IsBusy"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IAsyncTask-egenskap. Hämtar ett värde som indikerar om denna uppgift för närvarande körs"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.asynctask/iasynctask/isbusy/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsBusy property
 
-Får ett värde som anger om denna uppgift körs för närvarande.
+Hämtar ett värde som indikerar om denna uppgift för närvarande körs.
 
 ```csharp
 public bool IsBusy { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om den här uppgiften körs för närvarande; annat,`falsk` .
+`true` om den här uppgiften för närvarande körs; annars `false`.
 
 ### Se även
 
 * interface [IAsyncTask](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctask/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

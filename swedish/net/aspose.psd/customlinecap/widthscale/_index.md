@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.WidthScale
-second_title: Aspose.PSD för .NET API-referens
-description: CustomLineCap fast egendom. Hämtar eller ställer in hur mycket detta ska skalas medCustomLineCap Klassobjekt med avseende på bredden påPen objekt.
+title: "CustomLineCap.WidthScale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CustomLineCap-egenskap. Hämtar eller anger mängden med vilken detta CustomLineCap-klassobjekt ska skalas i förhållande till bredden på Pen-objektet."
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/customlinecap/widthscale/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.WidthScale property
 
-Hämtar eller ställer in hur mycket detta ska skalas med[`CustomLineCap`](../) Klassobjekt med avseende på bredden påPen objekt.
+Hämtar eller anger mängden med vilken detta [`CustomLineCap`](../)-klassobjekt ska skalas i förhållande till bredden på Pen-objektet.
 
 ```csharp
 public float WidthScale { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Mängden som taket ska skalas med.
+Mängden med vilken locket ska skalas.
 
 ### Se även
 
 * class [CustomLineCap](../)
-* namnutrymme [Aspose.PSD](../../customlinecap/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

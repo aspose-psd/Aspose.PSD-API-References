@@ -1,11 +1,12 @@
 ---
-title: Class BlendRange
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange klass. Blandningsintervallet.
+title: "Klass BlendRange"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange-klass. Blandningsintervallet"
 type: docs
-weight: 1890
+weight: 2000
 url: /sv/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
 Blandningsintervallet.
@@ -16,20 +17,20 @@ public sealed class BlendRange
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlendRange](blendrange/)() | Default_Constructor |
+| [BlendRange](blendrange/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Hämtar eller ställer in destinationsblandningsintervallet. |
-| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Hämtar eller ställer in källblandningsintervallet. |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Hämtar eller anger destinationsblandningsintervallet. |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Hämtar eller anger källblandningsintervallet. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

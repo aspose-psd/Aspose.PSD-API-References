@@ -1,14 +1,15 @@
 ---
-title: Class IntegerStructure
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.IntegerStructure klass. Heltalsstrukturen.
+title: "Klass IntegerStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.IntegerStructure-klass. Heltalsstrukturen"
 type: docs
-weight: 3180
+weight: 3560
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/
 ---
+{{< psd/tize >}}
 ## IntegerStructure class
 
-Heltalsstrukturen.
+Heltalsstruktur.
 
 ```csharp
 public sealed class IntegerStructure : OSTypeStructure
@@ -16,37 +17,37 @@ public sealed class IntegerStructure : OSTypeStructure
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IntegerStructure](integerstructure/)(ClassID) | Initierar en ny instans av`IntegerStructure` class. |
+| [IntegerStructure](integerstructure/)(ClassID) | Initierar en ny instans av klassen `IntegerStructure`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key/) { get; } | Hämtar nyckeln. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Hämtar eller ställer in nyckelnamnet. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length/) { get; } | Får[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) längd i byte. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/) { get; set; } | Hämtar eller ställer in ett heltalsvärde. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Hämtar eller anger nyckelnamnet. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length/) { get; } | Hämtar [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) längd i byte. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/) { get; set; } | Hämtar eller anger ett heltalsvärde. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Hämtar rubrikens längd. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Sparar strukturen i den angivna strömbehållaren. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Sparar strukturen i den angivna strömbehållaren. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Hämtar headerlängden. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Sparar strukturen till den angivna strömbehållaren. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Sparar strukturen till den angivna strömbehållaren. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/) | Heltalsstrukturnyckeln. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/) | Nyckeln för heltalsstrukturen. |
 
 ### Se även
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

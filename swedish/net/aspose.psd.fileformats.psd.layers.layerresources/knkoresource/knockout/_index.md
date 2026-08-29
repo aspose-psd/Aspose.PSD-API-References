@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: Aspose.PSD för .NET API-referens
-description: KnkoResource fast egendom. Hämtar eller ställer in ett värde som anger om bland inredningselement.
+title: "KnkoResource.Knockout"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "KnkoResource-egenskap. Hämtar eller anger ett värde som indikerar om blandade interiöra element"
 type: docs
-weight: 30
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-Hämtar eller ställer in ett värde som anger om [bland inredningselement].
+Hämtar eller anger ett värde som indikerar om [blend interior elements].
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om [blandning av interiörelement]; annat,`falsk` .
+`true` om [blanda inre element]; annars `false`.
 
 ### Se även
 
 * class [KnkoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

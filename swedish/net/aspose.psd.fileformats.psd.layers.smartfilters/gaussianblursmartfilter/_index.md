@@ -1,14 +1,15 @@
 ---
-title: Class GaussianBlurSmartFilter
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.GaussianBlurSmartFilter klass. GaussianBlur smart filter.
+title: "Klass GaussianBlurSmartFilter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.GaussianBlurSmartFilter klass. Den GaussianBlur smart-filtret"
 type: docs
-weight: 3430
+weight: 3840
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter class
 
-GaussianBlur smart filter.
+Det GaussianBlur smartfilter.
 
 ```csharp
 public sealed class GaussianBlurSmartFilter : SmartFilter
@@ -16,39 +17,39 @@ public sealed class GaussianBlurSmartFilter : SmartFilter
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [GaussianBlurSmartFilter](gaussianblursmartfilter/)() | Initierar en ny instans av`GaussianBlurSmartFilter` class. |
+| [GaussianBlurSmartFilter](gaussianblursmartfilter/)() | Initierar en ny instans av klassen `GaussianBlurSmartFilter`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Hämtar eller ställer in blandningsläget. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filterid/) { get; } | Hämtar den smarta filtertypidentifieraren. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Hämtar eller ställer in statusen är aktiverad för det smarta filtret. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/) { get; } | Får det smarta filternamnet. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Hämtar eller ställer in opacitetsvärdet för smart filter. |
-| [Radius](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/) { get; set; } | Hämtar eller ställer in radien för gaussiskt smart filter. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Källbeskrivningsstrukturen med smarta filterdata. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Hämtar eller anger blandningsläget. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filterid/) { get; } | Hämtar identifieraren för smartfiltertypen. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Hämtar eller anger om smartfiltret är aktiverat. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/) { get; } | Hämtar smartfilternamnet. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Hämtar eller anger opacitetsvärdet för smartfilter. |
+| [Radius](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/) { get; set; } | Hämtar eller anger radien för den gaussiska smart-filtret. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Källbeskrivningsstrukturen med smartfilterdata. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Tillämpar det aktuella filtret på indata[`RasterImage`](../../aspose.psd/rasterimage/) bild. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Tillämpar det aktuella filtret på indata[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) mask data. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Gör den medlemsvisa klonen av den aktuella instansen av typen. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Tillämpar det aktuella filtret på den inmatade [`RasterImage`](../../aspose.psd/rasterimage/) bilden. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Tillämpar det aktuella filtret på den inmatade [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) maskdata. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Skapar en medlemsvis klon av den aktuella instansen av typen. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/) | Identifieraren för aktuellt smart filter. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/) | Identifieraren för det aktuella smartfiltret. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för gränssnittet för smarta filter.
+Detta exempel demonstrerar stöd för smarta filtergränssnittet.
 
 ```csharp
 [C#]
@@ -91,10 +92,10 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // applicera förändringar
+    // tillämpa ändringar
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Använd filter
+    // Tillämpa filter
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -121,7 +122,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Se även
 
 * class [SmartFilter](../smartfilter/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

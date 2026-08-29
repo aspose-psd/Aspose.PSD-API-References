@@ -1,29 +1,30 @@
 ---
-title: Enum WarpMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.WarpMode uppräkning. Anger vilken typ av varptransformation som tillämpas.
+title: "Enum WarpMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.WarpMode enum. Anger typen av warp‑transformation som tillämpas."
 type: docs
-weight: 5730
+weight: 6230
 url: /sv/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
-Anger vilken typ av varptransformation som tillämpas.
+Anger typen av warp‑transformation som tillämpas.
 
 ```csharp
 public enum WarpMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Perspective | `0` | Anger en perspektivvarp. |
-| Bilinear | `1` | Anger en bilinjär varp. |
+| Perspective | `0` | Anger en perspektivwarp. |
+| Bilinear | `1` | Anger en bilinjär warp. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

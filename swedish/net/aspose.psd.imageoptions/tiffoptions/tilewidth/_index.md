@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TileWidth
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Får ot set kakelbredd.
+title: "TiffOptions.TileWidth"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller sätter rutbredd"
 type: docs
-weight: 550
+weight: 560
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/tilewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileWidth property
 
-Får ot set kakelbredd.
+Hämtar ot anger rutbredden.
 
 ```csharp
 public uint TileWidth { get; set; }
@@ -17,7 +18,7 @@ public uint TileWidth { get; set; }
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

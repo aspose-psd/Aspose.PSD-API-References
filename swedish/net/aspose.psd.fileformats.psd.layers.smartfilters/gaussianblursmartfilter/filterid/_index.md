@@ -1,14 +1,15 @@
 ---
-title: GaussianBlurSmartFilter.FilterId
-second_title: Aspose.PSD för .NET API-referens
-description: GaussianBlurSmartFilter fast egendom. Hämtar den smarta filtertypidentifieraren.
+title: "GaussianBlurSmartFilter.FilterId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GaussianBlurSmartFilter-egenskap. Hämtar smartfiltertypens identifierare"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.FilterId property
 
-Hämtar den smarta filtertypidentifieraren.
+Hämtar identifieraren för smartfiltertypen.
 
 ```csharp
 public override int FilterId { get; }
@@ -17,7 +18,7 @@ public override int FilterId { get; }
 ### Se även
 
 * class [GaussianBlurSmartFilter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

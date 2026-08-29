@@ -1,14 +1,15 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Aspose.PSD för .NET API-referens
-description: WorkingPathResource byggare. Initierar en ny instans avWorkingPathResource class.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "WorkingPathResource konstruktor. Initierar en ny instans av klassen WorkingPathResource"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-Initierar en ny instans av[`WorkingPathResource`](../) class.
+Initierar en ny instans av klassen [`WorkingPathResource`](../).
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
@@ -16,11 +17,11 @@ public WorkingPathResource(byte[] dataBytes)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dataBytes | Byte[] | Data för vektorbanan. |
+| dataBytes | Byte[] | Data för vektorsökvägen. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.ImageResources för korrekt funktion av Crop-operationen.
+Detta exempel demonstrerar stöd för resursen 'WorkingPathResource' i PsdImage.ImageResources för korrekt funktion av beskärningsoperationen.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.I
 // Beskär bilden och spara.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Ladda sparad bild och kontrollera ändringarna.
+// Läs in sparad bild och kontrollera förändringarna.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### Se även
 
 * class [WorkingPathResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

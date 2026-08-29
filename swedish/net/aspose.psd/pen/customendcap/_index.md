@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Får eller ställer in ett anpassat tak som ska användas i slutet av linjer som ritas med dettaPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger en anpassad spets som används i slutet av linjer som ritas med denna Pen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-Får eller ställer in ett anpassat tak som ska användas i slutet av linjer som ritas med detta[`Pen`](../) .
+Hämtar eller anger en anpassad spets som används i slutet av linjer som ritas med denna [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`CustomLineCap`](../../customlinecap/) som representerar locket som används i slutet av linjer som ritas med detta[`Pen`](../).
+En [`CustomLineCap`](../../customlinecap/) som representerar spetsen som används i slutet av linjer som ritas med denna [`Pen`](../).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`CustomEndCap` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | `CustomEndCap`-egenskapen är inställd på en oföränderlig [`Pen`](../), såsom de som returneras av [`Pen`](../)-klassen. |
 
 ### Se även
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

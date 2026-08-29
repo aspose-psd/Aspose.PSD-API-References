@@ -1,27 +1,28 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: Aspose.PSD för .NET API-referens
-description: IccProfileResource fast egendom. Hämtar eller ställer in ICCprofilen.
+title: "IccProfileResource.IccProfile"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IccProfileResource-egenskap. Hämtar eller anger ICC-profilen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
-Hämtar eller ställer in ICC-profilen.
+Hämtar eller anger ICC-profilen.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 ICC-profilen.
 
 ### Se även
 
 * class [IccProfileResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

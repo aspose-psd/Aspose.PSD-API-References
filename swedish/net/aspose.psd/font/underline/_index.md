@@ -1,27 +1,28 @@
 ---
-title: Font.Underline
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Får ett värde som indikerar om dettaFont är understruken.
+title: "Font.Underline"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskap. Hämtar ett värde som indikerar om detta Font är understruket"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd/font/underline/
 ---
+{{< psd/tize >}}
 ## Font.Underline property
 
-Får ett värde som indikerar om detta[`Font`](../) är understruken.
+Hämtar ett värde som indikerar om detta [`Font`](../) är understruket.
 
 ```csharp
 public bool Underline { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sant om detta[`Font`](../) är understruket; annars falskt.
+Sant om detta [`Font`](../) är understruket; annars falskt.
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

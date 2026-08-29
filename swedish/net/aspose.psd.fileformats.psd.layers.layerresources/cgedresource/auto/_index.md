@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Auto
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource fast egendom. Hämtar eller ställer in ett värde som indikerar om dettaCgEdResource är automatisk.
+title: "CgEdResource.Auto"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource-egenskapen. Hämtar eller anger ett värde som indikerar om detta CgEdResource är automatiskt"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Auto property
 
-Hämtar eller ställer in ett värde som indikerar om detta[`CgEdResource`](../) är automatisk.
+Hämtar eller anger ett värde som indikerar om detta [`CgEdResource`](../) är automatiskt.
 
 ```csharp
 public bool Auto { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om automatisk; annat,`falsk` .
+`true` om automatiskt; annars `false`.
 
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

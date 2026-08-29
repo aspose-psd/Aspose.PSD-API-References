@@ -1,14 +1,15 @@
 ---
-title: JpegExifData.MaxExifSegmentSize
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fält. Den högsta tillåtna EXIFsegmentstorleken i byte.
+title: "JpegExifData.MaxExifSegmentSize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData fält. Den maximala EXIF-segmentsstorleken i byte som tillåts"
 type: docs
 weight: 280
 url: /sv/net/aspose.psd.exif/jpegexifdata/maxexifsegmentsize/
 ---
+{{< psd/tize >}}
 ## JpegExifData.MaxExifSegmentSize field
 
-Den högsta tillåtna EXIF-segmentstorleken i byte.
+Den maximala tillåtna EXIF-segmentsstorleken i byte.
 
 ```csharp
 public const int MaxExifSegmentSize;
@@ -17,7 +18,7 @@ public const int MaxExifSegmentSize;
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

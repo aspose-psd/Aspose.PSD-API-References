@@ -1,36 +1,37 @@
 ---
-title: Enum VectorPathType
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType uppräkning. Vector Path Type enligt PSD Format Specification
+title: "Enum VectorPathType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType enum. Vektorvägstyp enligt PSD-formatsspecifikationen"
 type: docs
-weight: 1420
+weight: 1430
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-Vector Path Type enligt PSD Format Specification
+Vector Path-typ enligt PSD-formatsspecifikationen
 
 ```csharp
 public enum VectorPathType : short
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| ClosedSubpathLengthRecord | `0` | Den stängda undersökvägslängden record |
-| ClosedSubpathBezierKnotLinked | `1` | Den stängda undersökvägen bezier knot linked |
-| ClosedSubpathBezierKnotUnlinked | `2` | Den stängda undersökvägen bezier knot unlinked |
-| OpenSubpathLengthRecord | `3` | Den öppna undersökvägens längd record |
-| OpenSubpathBezierKnotLinked | `4` | Den öppna undersökvägen bezier knot linked |
-| OpenSubpathBezierKnotUnlinked | `5` | Den öppna undersökvägen bezier knot unlinked |
-| PathFillRuleRecord | `6` | Sökvägsfyllningsregeln record |
+| ClosedSubpathLengthRecord | `0` | Den stängda delvägens längdpost |
+| ClosedSubpathBezierKnotLinked | `1` | Den stängda delvägens bezierknut länkad |
+| ClosedSubpathBezierKnotUnlinked | `2` | Den stängda delvägens bezierknut olänkad |
+| OpenSubpathLengthRecord | `3` | Den öppna delvägens längdpost |
+| OpenSubpathBezierKnotLinked | `4` | Den öppna delvägens bezierknut länkad |
+| OpenSubpathBezierKnotUnlinked | `5` | Den öppna delvägens bezierknut olänkad |
+| PathFillRuleRecord | `6` | Vägens fyllnadsregelpost |
 | ClipboardRecord | `7` | Urklippsposten |
-| InitialFillRuleRecord | `8` | Den initiala fyllningsregelposten |
+| InitialFillRuleRecord | `8` | Den initiala fyllnadsregelposten |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

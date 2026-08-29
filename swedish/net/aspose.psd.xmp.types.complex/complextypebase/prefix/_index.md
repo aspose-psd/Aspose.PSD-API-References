@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: Aspose.PSD för .NET API-referens
-description: ComplexTypeBase fast egendom. Får prefixet.
+title: "ComplexTypeBase.Prefix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ComplexTypeBase egenskap. Hämtar prefixet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
-Får prefixet.
+Hämtar prefixet.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Prefixet.
 
 ### Se även
 
 * class [ComplexTypeBase](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

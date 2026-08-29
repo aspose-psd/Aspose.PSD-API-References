@@ -1,14 +1,15 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Aspose.PSD för .NET API-referens
-description: FillLayer metod. Bygg en ny instans avFillLayer klass efter typ av fyllning.
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FillLayer-metoden. Skapa en ny instans av FillLayer-klassen efter fyllningstyp"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-Bygg en ny instans av[`FillLayer`](../) klass efter typ av fyllning.
+Skapa en ny instans av [`FillLayer`](../)-klassen efter fyllningstyp.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
@@ -20,11 +21,11 @@ public static FillLayer CreateInstance(FillType fillType)
 
 ### Returvärde
 
-Returnerar en ny instans av[`FillLayer`](../) klass efter typ av fyllning.
+Returnerar en ny instans av [`FillLayer`](../)-klassen efter fyllningstyp.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur man lägger till typen FillLayer under körning.
+Följande exempel demonstrerar hur man lägger till ett FillLayer‑lager av den typen vid körning.
 
 ```csharp
 [C#]
@@ -54,7 +55,7 @@ using (var image = new PsdImage(100, 100))
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

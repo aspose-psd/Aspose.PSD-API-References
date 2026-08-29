@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantCmyk fast egendom. Hämtar eller ställer in magenta komponentvärdet.
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantCmyk egenskap. Hämtar eller anger värdet för den magentakomponenten"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
-Hämtar eller ställer in magenta komponentvärdet.
+Hämtar eller anger magenta-komponentvärdet.
 
 ```csharp
 public float Magenta { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det magentafärgade komponentvärdet.
+Det magenta komponentvärdet.
 
 ### Se även
 
 * class [ColorantCmyk](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

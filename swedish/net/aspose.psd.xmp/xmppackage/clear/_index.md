@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Clear
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackage metod. Rensar denna instans.
+title: "XmpPackage.Clear"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackage-metod. Rensar denna instans"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
 Rensar denna instans.
@@ -17,7 +18,7 @@ public virtual void Clear()
 ### Se även
 
 * class [XmpPackage](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

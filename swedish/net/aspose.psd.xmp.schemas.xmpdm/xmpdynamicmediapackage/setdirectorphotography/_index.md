@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetDirectorPhotography
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in fotografens chef.
+title: "XmpDynamicMediaPackage.SetDirectorPhotography"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage-metoden. Anger fotografidirektören"
 type: docs
 weight: 180
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphotography/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirectorPhotography method
 
-Ställer in fotografens chef.
+Ställer in fotografen.
 
 ```csharp
 public void SetDirectorPhotography(string directorPhotography)
@@ -16,12 +17,12 @@ public void SetDirectorPhotography(string directorPhotography)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| directorPhotography | String | Fotochefen. |
+| directorPhotography | String | Fotografidirektören. |
 
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

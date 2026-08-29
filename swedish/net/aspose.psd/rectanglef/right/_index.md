@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Right
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF fast egendom. Får eller sätter xkoordinaten som är summan avX ochWidth av dettaRectangleFstruktur.
+title: "RectangleF.Right"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF‑egenskap. Hämtar eller anger x‑koordinaten som är summan av X och Width för denna RectangleF‑struktur."
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-Får eller sätter x-koordinaten som är summan av[`X`](../x/) och[`Width`](../width/) av detta[`RectangleF`](../)struktur.
+Hämtar eller anger x-koordinaten som är summan av [`X`](../x/) och [`Width`](../width/) för denna [`RectangleF`](../) struktur.
 
 ```csharp
 public float Right { get; set; }
@@ -16,12 +17,12 @@ public float Right { get; set; }
 
 ### Returvärde
 
-X-koordinaten som är summan av[`X`](../x/) och[`Width`](../width/) av detta[`RectangleF`](../) strukturera.
+x-koordinaten som är summan av [`X`](../x/) och [`Width`](../width/) för denna [`RectangleF`](../) struktur.
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

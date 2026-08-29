@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsSynchronized
-second_title: Aspose.PSD för .NET API-referens
-description: NonGenericDictionary fast egendom. Får ett värde som anger om åtkomst till ICollection är synkroniserad trådsäker.
+title: "NonGenericDictionary.IsSynchronized"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NonGenericDictionary egenskap. Hämtar ett värde som indikerar om åtkomst till ICollection är synkroniserad och trådsäker"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/nongenericdictionary/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsSynchronized property
 
-Får ett värde som anger om åtkomst till ICollection är synkroniserad (trådsäker).
+Hämtar ett värde som indikerar om åtkomst till ICollection är synkroniserad (trådsäker).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,12 +17,12 @@ public bool IsSynchronized { get; }
 
 ### Returvärde
 
-sant om tillgång tillICollectionär synkroniserad (trådsäker); annars falskt.
+Sant om åtkomst till ICollection är synkroniserad (trådsäker); annars falskt.
 
 ### Se även
 
 * class [NonGenericDictionary](../)
-* namnutrymme [Aspose.PSD](../../nongenericdictionary/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

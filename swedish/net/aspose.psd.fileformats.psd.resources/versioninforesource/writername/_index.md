@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.WriterName
-second_title: Aspose.PSD för .NET API-referens
-description: VersionInfoResource fast egendom. Hämtar eller ställer in namnet på författaren.
+title: "VersionInfoResource.WriterName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VersionInfoResource-egenskap. Hämtar eller anger namnet på författaren"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.resources/versioninforesource/writername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.WriterName property
 
-Hämtar eller ställer in namnet på författaren.
+Hämtar eller anger skrivarens namn.
 
 ```csharp
 public string WriterName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på författaren.
 
 ### Se även
 
 * class [VersionInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

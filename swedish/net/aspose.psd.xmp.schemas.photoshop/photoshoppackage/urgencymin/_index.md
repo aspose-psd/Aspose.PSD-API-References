@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.UrgencyMin
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage fält. Minsta brådskande värde.
+title: "PhotoshopPackage.UrgencyMin"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-fältet. Minsta brådska värde"
 type: docs
 weight: 220
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMin field
 
-Minsta brådskande värde.
+Minvärde för brådska.
 
 ```csharp
 public const int UrgencyMin;
@@ -17,7 +18,7 @@ public const int UrgencyMin;
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

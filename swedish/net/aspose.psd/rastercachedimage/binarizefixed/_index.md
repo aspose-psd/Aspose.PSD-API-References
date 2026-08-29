@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.BinarizeFixed
-second_title: Aspose.PSD för .NET API-referens
-description: RasterCachedImage metod. Binarisering av en bild med fördefinierad tröskel
+title: "RasterCachedImage.BinarizeFixed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterCachedImage-metod. Binarisering av en bild med fördefinierad tröskel"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/rastercachedimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.BinarizeFixed method
 
 Binarisering av en bild med fördefinierad tröskel
@@ -16,12 +17,12 @@ public override void BinarizeFixed(byte threshold)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| threshold | Byte | Tröskelvärde. Om motsvarande gråvärde för en pixel är större än tröskelvärdet kommer ett värde på 255 att tilldelas den, annars 0. |
+| tröskel | Byte | Tröskelvärde. Om motsvarande gråvärde för en pixel är större än tröskeln, tilldelas värdet 255, annars 0. |
 
 ### Se även
 
 * class [RasterCachedImage](../)
-* namnutrymme [Aspose.PSD](../../rastercachedimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

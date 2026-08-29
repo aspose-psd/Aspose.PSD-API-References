@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawFallbackIndex
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Hämtar eller ställer in reservindex som ska användas när palettindex är utanför gränserna
+title: "RasterImage.RawFallbackIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-egenskap. Hämtar eller anger reservindex som ska användas när palettindex är utanför gränserna"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/rasterimage/rawfallbackindex/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawFallbackIndex property
 
-Hämtar eller ställer in reservindex som ska användas när palettindex är utanför gränserna
+Hämtar eller anger reservindexet som ska användas när palettindexet är utanför gränserna
 
 ```csharp
 public int RawFallbackIndex { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Reservindexet som ska användas när palettindex är utanför gränserna
+Reservindexet att använda när palettindexet är utanför gränserna
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

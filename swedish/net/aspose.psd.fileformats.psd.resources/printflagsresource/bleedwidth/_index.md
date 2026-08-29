@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: Aspose.PSD för .NET API-referens
-description: PrintFlagsResource fast egendom. Hämtar eller ställer in bredden på utfallet.
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PrintFlagsResource egenskap. Hämtar eller anger blödningens bredd"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-Hämtar eller ställer in bredden på utfallet.
+Hämtar eller anger blödningsbredden.
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bredden på utfallet.
+Bredden på blödningen.
 
 ### Se även
 
 * class [PrintFlagsResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

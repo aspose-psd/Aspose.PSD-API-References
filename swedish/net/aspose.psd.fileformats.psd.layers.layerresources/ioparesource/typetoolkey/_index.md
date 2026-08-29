@@ -1,14 +1,15 @@
 ---
-title: IopaResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: IopaResource fält. Typverktygets infonyckel.
+title: "IopaResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IopaResource-fält. Typverktygsinformationsnyckeln"
 type: docs
-weight: 80
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## IopaResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [IopaResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

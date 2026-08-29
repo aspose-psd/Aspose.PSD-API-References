@@ -1,14 +1,15 @@
 ---
-title: XmpReal.GetXmpRepresentation
-second_title: Aspose.PSD för .NET API-referens
-description: XmpReal metod. Hämtar strängen som innehåller värdet i XMPformat.
+title: "XmpReal.GetXmpRepresentation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpReal-metod. Hämtar den sträng som innehåller värdet i XMP-format"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpReal.GetXmpRepresentation method
 
-Hämtar strängen som innehåller värdet i XMP-format.
+Hämtar det stränginnehållande värdet i XMP-format.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Returvärde
 
-Returnerar strängen i XMP-format.
+Returnerar det stränginnehållande värdet i XMP-format.
 
 ### Se även
 
 * class [XmpReal](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

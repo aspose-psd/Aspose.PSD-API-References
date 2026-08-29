@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Threshholding
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in tröskelvärdet.
+title: "TiffOptions.Threshholding"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger tröskelvärdet"
 type: docs
-weight: 510
+weight: 520
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
-Hämtar eller ställer in tröskelvärdet.
+Hämtar eller anger tröskelvärdet.
 
 ```csharp
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Tröskelvärdet.
 
@@ -22,7 +23,7 @@ Tröskelvärdet.
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

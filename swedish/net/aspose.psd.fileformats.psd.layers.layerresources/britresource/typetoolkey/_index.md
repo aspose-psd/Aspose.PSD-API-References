@@ -1,14 +1,15 @@
 ---
-title: BritResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: BritResource fält. Typverktygets infonyckel.
+title: "BritResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BritResource-fält. Nyckeln för typverktygsinformation"
 type: docs
-weight: 90
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BritResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [BritResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetOutputChannel
-second_title: Aspose.PSD för .NET API-referens
-description: ImageAttributes metod. Ställer in CMYKutgångskanalen cyanmagentagulsvart för standardkategorin.
+title: "ImageAttributes.SetOutputChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageAttributes-metod. Anger CMYK cyanmagenta yellowblack output channel för standardkategorin."
 type: docs
 weight: 170
 url: /sv/net/aspose.psd/imageattributes/setoutputchannel/
 ---
+{{< psd/tize >}}
 ## SetOutputChannel(ColorChannelFlag) {#setoutputchannel}
 
-Ställer in CMYK-utgångskanalen (cyan-magenta-gul-svart) för standardkategorin.
+Ställer in CMYK (cyan-magenta-yellow-black) utkanalen för standardkategorin.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags)
@@ -16,20 +17,20 @@ public void SetOutputChannel(ColorChannelFlag flags)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Ett inslag av[`ColorChannelFlag`](../../colorchannelflag/)som anger utgångskanalen. |
+| flags | ColorChannelFlag | Ett element av [`ColorChannelFlag`](../../colorchannelflag/) som specificerar output channel. |
 
 ### Se även
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetOutputChannel(ColorChannelFlag, ColorAdjustType) {#setoutputchannel_1}
 
-Ställer in CMYK-utgångskanalen (cyan-magenta-gul-svart) för en angiven kategori.
+Ställer in CMYK (cyan-magenta-yellow-black) utkanalen för en specificerad kategori.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
@@ -37,15 +38,15 @@ public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Ett inslag av[`ColorChannelFlag`](../../colorchannelflag/)som anger utgångskanalen. |
-| type | ColorAdjustType | Ett inslag av[`ColorAdjustType`](../../coloradjusttype/) som anger kategorin för vilken utgångskanalen är inställd. |
+| flags | ColorChannelFlag | Ett element av [`ColorChannelFlag`](../../colorchannelflag/) som specificerar output channel. |
+| type | ColorAdjustType | Ett element av [`ColorAdjustType`](../../coloradjusttype/) som specificerar den kategori för vilken output channel är angiven. |
 
 ### Se även
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

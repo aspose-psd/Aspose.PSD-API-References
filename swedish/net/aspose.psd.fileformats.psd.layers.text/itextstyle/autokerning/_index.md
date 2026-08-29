@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Hämtar eller ställer in automatisk kerning.
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle property. Hämtar eller anger automatisk kerning"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
-Hämtar eller ställer in automatisk kerning.
+Hämtar eller anger automatisk kerning.
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den automatiska kerningen mellan två tecken.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

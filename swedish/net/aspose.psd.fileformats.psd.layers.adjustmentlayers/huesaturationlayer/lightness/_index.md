@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: Aspose.PSD för .NET API-referens
-description: HueSaturationLayer fast egendom. Får eller ställer in ljusheten.
+title: "HueSaturationLayer.Lightness"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "HueSaturationLayer-egenskap. Hämtar eller anger ljusnivån"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
-Får eller ställer in ljusheten.
+Hämtar eller anger ljusstyrkan.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Lättheten.
+Ljusnivån.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Ljusstyrkan måste ligga inom området -100 till +100 |
+| ArgumentOutOfRangeException | Ljusnivån måste vara i intervallet från -100 till +100 |
 
 ### Se även
 
 * class [HueSaturationLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

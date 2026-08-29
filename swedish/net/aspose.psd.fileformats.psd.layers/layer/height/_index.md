@@ -1,27 +1,28 @@
 ---
-title: Layer.Height
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar bildhöjden.
+title: "Layer.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar bildens höjd"
 type: docs
-weight: 160
+weight: 170
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
-Hämtar bildhöjden.
+Hämtar bildens höjd.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildhöjden.
+Bildens höjd.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

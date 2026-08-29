@@ -1,27 +1,28 @@
 ---
-title: Thumbnail4Resource.MinimalVersion
-second_title: Aspose.PSD för .NET API-referens
-description: Thumbnail4Resource fast egendom. Får den minsta nödvändiga psdversionen.
+title: "Thumbnail4Resource.MinimalVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Thumbnail4Resource egenskap. Hämtar den minsta erforderliga psd-versionen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/minimalversion/
 ---
+{{< psd/tize >}}
 ## Thumbnail4Resource.MinimalVersion property
 
-Får den minsta nödvändiga psd-versionen.
+Hämtar den minsta erforderliga PSD-versionen.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den minimala psd-versionen.
+Den minsta psd-versionen.
 
 ### Se även
 
 * class [Thumbnail4Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnail4resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

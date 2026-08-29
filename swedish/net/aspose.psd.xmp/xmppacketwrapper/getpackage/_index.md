@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPacketWrapper metod. Hämtar paket med namnutrymmesURI.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPacketWrapper‑metod. Hämtar paket efter namnrymds‑URI"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-Hämtar paket med namnutrymmes-URI.
+Hämtar paketet efter namnrymds‑URI.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
@@ -16,23 +17,23 @@ public XmpPackage GetPackage(string namespaceUri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceUri | String | Paketschemats URI. |
+| namespaceUri | String | Paketets schema‑URI. |
 
 ### Returvärde
 
-Returnerar XMP-paketet för angiven namnområdes-URI.
+Returnerar XMP‑paketet för angiven namnrymds‑URI.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | namnutrymmeUri |
+| ArgumentNullException | namespaceUri |
 
 ### Se även
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

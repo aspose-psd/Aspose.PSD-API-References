@@ -1,14 +1,15 @@
 ---
-title: Interface ITextParagraph
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph gränssnitt. Gränssnittet att arbeta med paragraph
+title: "Gränssnitt ITextParagraph"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph‑gränssnitt. Gränssnittet för att arbeta med stycke"
 type: docs
-weight: 3520
+weight: 3940
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-Gränssnittet att arbeta med paragraph
+Gränssnittet för att arbeta med stycke
 
 ```csharp
 public interface ITextParagraph
@@ -16,40 +17,40 @@ public interface ITextParagraph
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Hämtar eller ställer in ett värde som anger om [automatisk avstavning]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Hämtar eller ställer in den automatiska ledningen. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om detta`ITextParagraph`är burasagiri. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Hämtar eller ställer in på varandra följande bindestreck. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Hämtar eller ställer in slutindraget. |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om [varje radkomponist]. |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Hämtar eller ställer in första radens indrag. |
-| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Hämtar eller ställer in glyfavståndet. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om detta`ITextParagraph` hänger. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Hämtar eller ställer in storleken på avstavningsordet. |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Hämtar eller ställer in motiveringen. |
-| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Hämtar eller ställer in kinsoku-ordningen. |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Hämtar eller ställer in typen av ledande. |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Hämtar eller ställer in bokstavsavståndet. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Hämtar eller ställer in postbindestrecket. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Hämtar eller ställer in pre bindestreck. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Hämtar eller ställer in utrymmet efter. |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Hämtar eller ställer in utrymmet före. |
-| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Hämtar eller ställer in startindraget. |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Hämtar eller ställer in ordavståndet. |
-| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Hämtar eller ställer in zonen. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Hämtar eller anger ett värde som indikerar om [automatic hyphenate]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Hämtar eller anger automatisk radavstånd. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta `ITextParagraph` är burasagiri. |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Hämtar eller anger de konsekutiva bindestrecken. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Hämtar eller anger slutindraget. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Hämtar eller anger ett värde som indikerar om [every line composer]. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Hämtar eller anger den första radindraget. |
+| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Hämtar eller anger teckenavståndet. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta `ITextParagraph` är hängande. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Hämtar eller anger storleken på det avstavade ordet. |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Hämtar eller anger justeringen. |
+| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Hämtar eller anger kinsoku-ordningen. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Hämtar eller anger typen av radavstånd. |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Hämtar eller anger teckenavståndet. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Hämtar eller anger efterbindestrecket. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Hämtar eller anger förbindestrecket. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Hämtar eller anger avståndet efter. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Hämtar eller anger avståndet före. |
+| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Hämtar eller anger startindraget. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Hämtar eller anger ordavståndet. |
+| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Hämtar eller anger zonen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Tillämpar det angivna stycket. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Avgör om det angivna stycket är lika. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar att textjustering genom ITextPortion för höger-till-vänster-språk fungerar korrekt.
+Följande exempel visar att textjusteringen via ITextPortion för höger‑till‑vänster‑språk fungerar korrekt.
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Följande kodexempel visar redigeringstextdelarna och deras textstil.
+Följande kodexempel demonstrerar redigering av textdelar och deras textstil.
 
 ```csharp
 [C#]
@@ -101,8 +102,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Kontrollera styckedata
-            // Stycken har olika motivering
+            // Kontrollerar styckens data
+            // Stycken har olika justering
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -112,7 +113,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Alla andra egenskaper i första och andra stycket är lika
+            // Alla andra egenskaper för första och andra stycket är lika
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -199,18 +200,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exempel på stycke- och stilredigering för delar
-            // Ställ in rätt motivering
+            // Exempel på redigering av stycke och stil för textdelar
+            // Ställ in högerriktad justering
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Olika färger för varje stil. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika färger för varje stil. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Annat typsnitt. Det kommer att ändras, men rendering stöds inte fullt ut
+            // Olika typsnitt. Detta kommer att ändras, men rendering stöds inte fullt ut
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -227,7 +228,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GuideCount
-second_title: Aspose.PSD för .NET API-referens
-description: GridAndGuidesResouce fast egendom. Får antalet guideresursblock.
+title: "GridAndGuidesResouce.GuideCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GridAndGuidesResouce egenskap. Hämtar antalet guide‑resursblock"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GuideCount property
 
-Får antalet guideresursblock.
+Hämtar antalet guide-resursblock.
 
 ```csharp
 public int GuideCount { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Guideresursblocken räknas.
+Antalet guide‑resursblock.
 
 ### Se även
 
 * class [GridAndGuidesResouce](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

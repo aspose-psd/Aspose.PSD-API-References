@@ -1,14 +1,15 @@
 ---
-title: Class XmpText
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Xmp.Types.Basic.XmpText klass. Representerar grundläggande XMPtexttyp.
+title: "Klass XmpText"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpText klass. Representerar grundtypen XMP Text"
 type: docs
-weight: 5980
+weight: 6480
 url: /sv/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
-Representerar grundläggande XMP-texttyp.
+Representerar XMP Text grundtyp.
 
 ```csharp
 public class XmpText : XmpTypeBase
@@ -16,26 +17,26 @@ public class XmpText : XmpTypeBase
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [XmpText](xmptext/)(string) | Initierar en ny instans av`XmpText` class. |
+| [XmpText](xmptext/)(string) | Initierar en ny instans av `XmpText`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Hämtar eller ställer in textvärdet. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Hämtar eller anger textvärdet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Hämtar strängen som innehåller värdet i XMP-format. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Hämtar det stränginnehållande värdet i XMP-format. |
 
 ### Se även
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

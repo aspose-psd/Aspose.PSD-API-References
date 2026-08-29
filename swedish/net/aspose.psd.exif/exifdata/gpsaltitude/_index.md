@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitude
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPShöjden.
+title: "ExifData.GPSAltitude"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger GPS‑höjden"
 type: docs
 weight: 360
 url: /sv/net/aspose.psd.exif/exifdata/gpsaltitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitude property
 
-Hämtar eller ställer in GPS-höjden.
+Hämtar eller anger GPS-höjden.
 
 ```csharp
 public TiffRational GPSAltitude { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-höjden.
+GPS‑höjden.
 
 ### Se även
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

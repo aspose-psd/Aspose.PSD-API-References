@@ -1,54 +1,55 @@
 ---
-title: Class LayerSectionResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource klass. Lagersektionsresursen.
+title: "Klass LayerSectionResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource-klass. Lagersektionens resurs"
 type: docs
-weight: 2590
+weight: 2900
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource class
 
-Lagersektionsresursen.
+Lagerdelse‑resursen.
 
 ```csharp
-public class LayerSectionResource : LayerResource
+public class LayerSectionResource : BaseLayerSectionResource
 ```
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [LayerSectionResource](layersectionresource/)() | Initierar en ny instans av`LayerSectionResource` class. |
+| [LayerSectionResource](layersectionresource/)() | Initierar en ny instans av klassen `LayerSectionResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/) { get; set; } | Hämtar eller ställer in blandningslägestangenten. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/psdversion/) { get; } | Får den minimala psd-version som krävs för lagerresurs. 0 indikerar inga begränsningar. |
-| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/) { get; set; } | Hämtar eller ställer in sektionstypen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature/) { get; } | Hämtar lagerresurssignaturen. |
-| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/) { get; set; } | Hämtar eller ställer in undertypen. |
+| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/blendmodekey/) { get; set; } | Hämtar eller anger nyckeln för blandningsläget. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/sectiontype/) { get; set; } | Hämtar eller anger sektionstypen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
+| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/subtype/) { get; set; } | Hämtar eller anger undertypen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* class [BaseLayerSectionResource](../baselayersectionresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Lr16Resource.Lr16Resource
-second_title: Aspose.PSD för .NET API-referens
-description: Lr16Resource byggare. Default_Constructor
+title: "Lr16Resource.Lr16Resource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lr16Resource konstruktor. Standardkonstruktören"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/lr16resource/
 ---
+{{< psd/tize >}}
 ## Lr16Resource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public Lr16Resource()
@@ -17,7 +18,7 @@ public Lr16Resource()
 ### Se även
 
 * class [Lr16Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

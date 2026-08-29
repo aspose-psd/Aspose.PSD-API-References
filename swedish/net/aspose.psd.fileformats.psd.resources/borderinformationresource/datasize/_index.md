@@ -1,24 +1,25 @@
 ---
-title: BorderInformationResource.DataSize
-second_title: Aspose.PSD för .NET API-referens
-description: BorderInformationResource fast egendom. Hämtar resursdatastorleken i byte.
+title: "BorderInformationResource.DataSize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BorderInformationResource egenskap. Hämtar resursens datastorlek i byte"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.resources/borderinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.DataSize property
 
-Hämtar resursdatastorleken i byte.
+Hämtar resursens datastorlek i byte.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Resursdatastorleken.
+Resursens datastorlek.
 
-### Exempel
+## Exempel
 
 Följande exempel visar stödet för BorderInformationResource-resursen.
 
@@ -52,7 +53,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [BorderInformationResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

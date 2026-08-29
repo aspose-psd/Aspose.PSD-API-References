@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.HeaderVersion
-second_title: Aspose.PSD för .NET API-referens
-description: GridAndGuidesResouce fast egendom. Hämtar eller ställer in rubrikversionen. Detta värde ska alltid vara 1.
+title: "GridAndGuidesResouce.HeaderVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GridAndGuidesResouce egenskap. Hämtar eller anger header-versionen. Detta värde bör alltid vara 1"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.HeaderVersion property
 
-Hämtar eller ställer in rubrikversionen. Detta värde ska alltid vara 1.
+Hämtar eller anger header‑versionen. Detta värde ska alltid vara 1.
 
 ```csharp
 public int HeaderVersion { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Headerversionen.
+Header-versionen.
 
 ### Se även
 
 * class [GridAndGuidesResouce](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

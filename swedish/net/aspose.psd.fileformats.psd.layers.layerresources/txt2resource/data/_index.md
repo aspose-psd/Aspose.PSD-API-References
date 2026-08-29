@@ -1,27 +1,28 @@
 ---
-title: Txt2Resource.Data
-second_title: Aspose.PSD för .NET API-referens
-description: Txt2Resource fast egendom. Hämtar eller ställer in data.
+title: "Txt2Resource.Data"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Txt2Resource egenskap. Hämtar eller anger data"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Data property
 
-Hämtar eller ställer in data.
+Hämtar eller anger data.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Data.
 
 ### Se även
 
 * class [Txt2Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

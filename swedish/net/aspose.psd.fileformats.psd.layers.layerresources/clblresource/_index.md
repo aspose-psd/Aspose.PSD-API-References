@@ -1,14 +1,15 @@
 ---
-title: Class ClblResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource klass. Klass ClblResource. Denna resurs innehåller information om blandning av klippt element.
+title: "Klass ClblResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource class. Klass ClblResource. Denna resurs innehåller information om blandning av beskuret element"
 type: docs
-weight: 2370
+weight: 2630
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
+{{< psd/tize >}}
 ## ClblResource class
 
-Klass ClblResource. Denna resurs innehåller information om blandning av klippt element.
+Klassen ClblResource. Denna resurs innehåller information om blandning av klippta element.
 
 ```csharp
 public class ClblResource : BooleanResource
@@ -16,40 +17,40 @@ public class ClblResource : BooleanResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ClblResource](clblresource/#constructor)() | Initierar en ny instans av`ClblResource` class. |
-| [ClblResource](clblresource/#constructor_1)(bool) | Initierar en ny instans av`ClblResource` class. |
-| [ClblResource](clblresource/#constructor_2)(byte[]) | Initierar en ny instans av`ClblResource` class. Med anpassat eller okänt värde |
+| [ClblResource](clblresource/#constructor)() | Initierar en ny instans av klassen `ClblResource`. |
+| [ClblResource](clblresource/#constructor_1)(bool) | Initierar en ny instans av klassen `ClblResource`. |
+| [ClblResource](clblresource/#constructor_2)(byte[]) | Initierar en ny instans av klassen `ClblResource`. Med anpassat eller okänt värde |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | Hämtar eller ställer in ett värde som anger om [bland klippta element]. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Får signaturen. |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | Hämtar eller anger ett värde som indikerar om [blanda beskurna element]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Sparar den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
 * class [BooleanResource](../booleanresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

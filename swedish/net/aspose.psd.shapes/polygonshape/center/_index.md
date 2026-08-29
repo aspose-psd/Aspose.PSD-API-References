@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Center
-second_title: Aspose.PSD för .NET API-referens
-description: PolygonShape fast egendom. Hämtar formens centrum.
+title: "PolygonShape.Center"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PolygonShape-egenskap. Hämtar formens centrum"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.shapes/polygonshape/center/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Center property
 
 Hämtar formens centrum.
@@ -14,7 +15,7 @@ Hämtar formens centrum.
 public override PointF Center { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formens centrum.
 
@@ -22,7 +23,7 @@ Formens centrum.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../polygonshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

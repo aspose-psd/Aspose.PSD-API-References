@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in blandningslägestangenten.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar eller anger blandningslägesnyckeln"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-Hämtar eller ställer in blandningslägestangenten.
+Hämtar eller anger nyckeln för blandningsläget.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Blandningslägestangenten.
+Blandningslägesnyckeln.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan använda blandningsläget PassThrough-lager i Aspose.PSD
+Följande exempel visar hur du kan använda PassThrough‑lagerblandningsläget i Aspose.PSD
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

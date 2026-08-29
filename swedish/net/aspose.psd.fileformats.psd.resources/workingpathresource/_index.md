@@ -1,11 +1,12 @@
 ---
-title: Class WorkingPathResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.WorkingPathResource klass. Arbetsvägsresurs.
+title: "Klass WorkingPathResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.WorkingPathResource klass. Resurs för arbetsväg"
 type: docs
-weight: 3980
+weight: 4450
 url: /sv/net/aspose.psd.fileformats.psd.resources/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource class
 
 Arbetsvägsresurs.
@@ -16,36 +17,36 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [WorkingPathResource](workingpathresource/)(byte[]) | Initierar en ny instans av`WorkingPathResource` class. |
+| [WorkingPathResource](workingpathresource/)(byte[]) | Initierar en ny instans av klassen `WorkingPathResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/workingpathresource/datasize/) { get; } | Hämtar resursdatastorleken i byte. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller ställer in den unika identifieraren för resursen. |
-| [IsDisabled](../../aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är inaktiverad. |
-| [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är inverterad. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans inte är länkad. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/) { get; } | Får den minsta nödvändiga PSD-versionen. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller ställer in resursnamnet. Pascal-sträng, vadderad för att göra storleken jämn (ett nollnamn består av två byte på 0). |
-| [Paths](../../aspose.psd.fileformats.psd.resources/workingpathresource/paths/) { get; set; } | Hämtar eller sätter sökvägsposterna. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resurssignaturen. Bör alltid vara '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockstorleken i byte inklusive dess data. |
-| [Version](../../aspose.psd.fileformats.psd.resources/workingpathresource/version/) { get; set; } | Hämtar eller ställer in versionen. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/workingpathresource/datasize/) { get; } | Hämtar resursens datastorlek i byte. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller anger den unika identifieraren för resursen. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är inaktiverad. |
+| [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är inverterad. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen inte är länkad. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/) { get; } | Hämtar den minsta erforderliga PSD-versionen. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller anger resursnamnet. Pascal-sträng, utfylld för att göra storleken jämn (ett nullnamn består av två nollbyte). |
+| [Paths](../../aspose.psd.fileformats.psd.resources/workingpathresource/paths/) { get; set; } | Hämtar eller anger sökvägsregistren. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resursens signatur. Ska alltid vara '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockets storlek i byte inklusive dess data. |
+| [Version](../../aspose.psd.fileformats.psd.resources/workingpathresource/version/) { get; set; } | Hämtar eller anger versionen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Sparar resursblocket till den angivna strömmen. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Validerar resursvärdena. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.ImageResources för korrekt funktion av Crop-operationen.
+Detta exempel demonstrerar stöd för resursen 'WorkingPathResource' i PsdImage.ImageResources för korrekt funktion av beskärningsoperationen.
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.I
 // Beskär bilden och spara.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -76,10 +77,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Ladda sparad bild och kontrollera ändringarna.
+// Läs in sparad bild och kontrollera förändringarna.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -103,7 +104,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
 * interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

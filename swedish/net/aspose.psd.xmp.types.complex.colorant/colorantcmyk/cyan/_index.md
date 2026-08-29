@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantCmyk fast egendom. Hämtar eller ställer in värdet för cyankomponenten.
+title: "ColorantCmyk.Cyan"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantCmyk egenskap. Hämtar eller anger värdet för cyan-komponenten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
-Hämtar eller ställer in värdet för cyankomponenten.
+Hämtar eller anger cyan-komponentvärdet.
 
 ```csharp
 public float Cyan { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Värdet för cyankomponenten.
+Cyan-komponentens värde.
 
 ### Se även
 
 * class [ColorantCmyk](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

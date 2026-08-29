@@ -1,11 +1,12 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes uppräkning. Lagerblandningseffekter.
+title: "Enum LayerEffectsTypes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. Lagerblandningseffekter"
 type: docs
-weight: 2660
+weight: 2900
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
 Lagerblandningseffekter.
@@ -14,24 +15,24 @@ Lagerblandningseffekter.
 public enum LayerEffectsTypes
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| DropShadow | `0` | Skuggan. |
-| OuterGlow | `1` | Den yttre glöden. |
-| PatternOverlay | `2` | Mönsteröverlagringen. |
-| GradientOverlay | `3` | Gradientöverlagringen. |
-| ColorOverlay | `4` | Färgöverlägget. |
-| Satin | `5` | The satin Effect Type. |
-| InnerGlow | `6` | Den inre glöden. |
-| InnerShadow | `7` | Den inre skuggan. |
-| Stroke | `8` | Slaget. |
-| BevelEmboss | `9` | Fasad relief. |
+| DropShadow | `0` | Skuggfallet. |
+| OuterGlow | `1` | Yttre glöd. |
+| PatternOverlay | `2` | Mönsteröverlagring. |
+| GradientOverlay | `3` | Gradientöverlagring. |
+| ColorOverlay | `4` | Färgöverlagring. |
+| Satin | `5` | Satin-effekttypen. |
+| InnerGlow | `6` | Inre glöd. |
+| InnerShadow | `7` | Inre skugga. |
+| Stroke | `8` | Streck. |
+| BevelEmboss | `9` | Kantpräglning. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för ILayerEffect.EffectType-egenskapen.
+Följande kod visar stöd för egenskapen ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // det fångade
+            // det fångades
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -64,7 +65,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.Items
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in förvrängningsobjekten.
+title: "IPlacedLayerResource.Items"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger warp-objekten"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Items property
 
-Hämtar eller ställer in förvrängningsobjekten.
+Hämtar eller anger warp‑objekten.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Varpartiklarna.
+Warp-objekten.
 
 ### Se även
 
 * class [OSTypeStructure](../../ostypestructure/)
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

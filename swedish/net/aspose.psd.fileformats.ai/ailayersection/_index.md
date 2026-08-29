@@ -1,11 +1,12 @@
 ---
-title: Class AiLayerSection
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Ai.AiLayerSection klass. Aiformatets lagersektion
+title: "Klass AiLayerSection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Ai.AiLayerSection klass. Den Ai format Layer Section"
 type: docs
-weight: 1270
+weight: 1280
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
 Ai-formatets lagersektion
@@ -16,34 +17,36 @@ public sealed class AiLayerSection : AiDataSection
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Hämtar eller ställer in den blå färgkomponenten. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Hämtar eller ställer in färgnumret. -1 är det anpassade färgvärdet från egenskaperna röd, grön, blå. Anger lagrets färginställning. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Hämtar eller ställer in dimvärdet som procent. Minskar intensiteten för länkade bilder och bitmappsbilder som finns i lagret till den angivna procentandelen. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Får ett värde som indikerar om denna instans är bortskaffad. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Hämtar eller ställer in den gröna färgkomponenten. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Hämtar eller ställer in ett värde som anger om detta lager är nedtonat. Minskar intensiteten för länkade bilder och bitmappsbilder som finns i lagret. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Hämtar eller ställer in ett värde som anger om detta lager är låst. Förhindrar ändringar av objektet. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Hämtar eller ställer in ett värde som anger om det här lagret är förhandsgranskning. Visar konstverket som finns i lagret i färg istället för som konturer. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Hämtar eller ställer in ett värde som anger om detta lager är utskrivet. Gör teckningen i lagret utskrivbar om sant. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Hämtar eller ställer in ett värde som anger om detta lager visas. Visar alla konstverk som finns i lagret på ritytan om sant. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Hämtar eller ställer in ett värde som anger om detta lager är ett malllager. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Hämtar eller ställer in lagernamnet. Anger namnet på objektet som det visas i panelen Lager. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Hämtar eller anger den blå färgkomponenten. |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | Hämtar eller anger färgindexet. Detta argument kan ha värden mellan –1 och 26. Varje heltal representerar en färg som kan tilldelas lagret för användaridentifieringsändamål. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Hämtar eller anger färgnumret. -1 är det anpassade färgvärdet från egenskaperna Röd, Grön, Blå. Anger lagrets färginställning. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Hämtar eller anger dimningsvärdet som procent. Reducerar intensiteten för länkade bilder och bitmapbilder som finns i lagret till den angivna procenten. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Hämtar ett värde som indikerar om denna instans har frigjorts. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Hämtar eller anger den gröna färgkomponenten. |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta objekt har multilagermasker. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta lager är dämpat. Minskar intensiteten för länkade bilder och bitmapbilder som finns i lagret. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta lager är låst. Förhindrar ändringar av objektet. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta lager är förhandsgranskning. Visar konstverket i lagret i färg istället för som konturer. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta lager är utskrivet. Gör konstverket i lagret utskrivbart om sant. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta lager visas. Visar allt konstverk i lagret på arbetsytan om sant. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta lager är ett malllager. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Hämtar eller anger lagrets namn. Anger namnet på objektet som det visas i lagerpanelen. |
 | [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Hämtar rasterbilderna. |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Hämtar eller ställer in den röda färgkomponenten. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Hämtar eller anger den röda färgkomponenten. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Lägger till rasterbilden. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Tar bort den aktuella instansen. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Frigör den aktuella instansen. |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Hämtar strängdata. |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur man laddar inställningar för rasterbilder i AI-formatfiler.
+Följande kod demonstrerar hur man laddar inställningar för Raster Images i AI Format Files.
 
 ```csharp
 [C#]
@@ -89,7 +92,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 ### Se även
 
 * class [AiDataSection](../aidatasection/)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

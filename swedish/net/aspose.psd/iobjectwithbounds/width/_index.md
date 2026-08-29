@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Aspose.PSD för .NET API-referens
-description: IObjectWithBounds fast egendom. Hämtar objektets bredd.
+title: "IObjectWithBounds.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IObjectWithBounds-egenskapen. Hämtar objektets bredd."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
 Hämtar objektets bredd.
@@ -14,14 +15,14 @@ Hämtar objektets bredd.
 public int Width { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets bredd.
 
 ### Se även
 
 * interface [IObjectWithBounds](../)
-* namnutrymme [Aspose.PSD](../../iobjectwithbounds/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

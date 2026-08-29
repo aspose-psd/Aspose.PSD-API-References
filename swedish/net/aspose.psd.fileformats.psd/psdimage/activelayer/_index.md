@@ -1,35 +1,36 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in det aktiva lagret.
+title: "PsdImage.ActiveLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar eller anger det aktiva lagret"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
-Hämtar eller ställer in det aktiva lagret.
+Hämtar eller anger det aktiva lagret.
 
 ```csharp
 public Layer ActiveLayer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Det aktiva lagret.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Det finns inget aktivt lager och inga lager i bilden. |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Det aktiva lagret kan inte ställas in eftersom det tillhör en annan bild. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Det aktiva lagret kan inte anges eftersom det tillhör en annan bild. |
 
 ### Se även
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

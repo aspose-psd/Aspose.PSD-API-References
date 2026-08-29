@@ -1,27 +1,28 @@
 ---
-title: ExifData.CFAPattern
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in CFAmönstret.
+title: "ExifData.CFAPattern"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger CFA-mönstret"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.exif/exifdata/cfapattern/
 ---
+{{< psd/tize >}}
 ## ExifData.CFAPattern property
 
-Hämtar eller ställer in CFA-mönstret.
+Hämtar eller anger CFA-mönstret.
 
 ```csharp
 public byte[] CFAPattern { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 CFA-mönstret.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

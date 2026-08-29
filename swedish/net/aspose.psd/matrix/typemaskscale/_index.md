@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeMaskScale
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix fält. Denna konstant är en bitmask för vilken som helst av skalflaggbitarna.
+title: "Matrix.TypeMaskScale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-fält. Denna konstant är en bitmask för någon av skalflaggbitarna"
 type: docs
 weight: 260
 url: /sv/net/aspose.psd/matrix/typemaskscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskScale field
 
-Denna konstant är en bitmask för vilken som helst av skalflaggbitarna.
+Denna konstant är en bitmask för någon av skalningsflaggbitarna.
 
 ```csharp
 public const int TypeMaskScale;
@@ -17,7 +18,7 @@ public const int TypeMaskScale;
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

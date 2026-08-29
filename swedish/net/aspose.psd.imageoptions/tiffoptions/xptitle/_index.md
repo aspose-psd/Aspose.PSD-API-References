@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPTitle
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in information om bild som används av Windows Explorer.
+title: "TiffOptions.XPTitle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger information om bilden som används av Windows Explorer"
 type: docs
-weight: 640
+weight: 650
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/xptitle/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPTitle property
 
-Hämtar eller ställer in information om bild, som används av Windows Explorer.
+Hämtar eller anger information om bilden som används av Windows Explorer.
 
 ```csharp
 public string XPTitle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Information om bild, som används av Windows Explorer. The`XPTitle` ignoreras av Windows Explorer om[`ImageDescription`](../imagedescription/) taggen finns.
+Information om bilden, som används av Windows Explorer. `XPTitle` ignoreras av Windows Explorer om taggen [`ImageDescription`](../imagedescription/) finns.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

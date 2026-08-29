@@ -1,14 +1,15 @@
 ---
-title: Class SharpenFilterOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions klass. Filteralternativen Sharpen
+title: "Klass SharpenFilterOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions-klass. Skärpefilteralternativen"
 type: docs
-weight: 4740
+weight: 5210
 url: /sv/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-Filteralternativen Sharpen
+De skärpande filteralternativen
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -16,24 +17,24 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | Initierar en ny instans av`SharpenFilterOptions` class. Med standardinställningar. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | Initierar en ny instans av`SharpenFilterOptions` class. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | Initierar en ny instans av klassen `SharpenFilterOptions`. Med standardinställningar. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | Initierar en ny instans av klassen `SharpenFilterOptions`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Hämtar eller ställer in bias. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Hämtar eller ställer in faktorn. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Hämtar eller ställer in sigma. |
-| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | Hämtar eller ställer in storleken. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Hämtar eller anger bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Hämtar eller anger faktor. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Hämtar eller anger sigma. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | Hämtar eller anger storleken. |
 
 ### Se även
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

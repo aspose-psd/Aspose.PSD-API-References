@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Bottom
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF fast egendom. Hämtar eller sätter ykoordinaten som är summan avY ochHeight av dettaRectangleFstruktur.
+title: "RectangleF.Bottom"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF‑egenskap. Hämtar eller anger y‑koordinaten som är summan av Y och Height för denna RectangleF‑struktur."
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/rectanglef/bottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.Bottom property
 
-Hämtar eller sätter y-koordinaten som är summan av[`Y`](../y/) och[`Height`](../height/) av detta[`RectangleF`](../)struktur.
+Hämtar eller anger y‑koordinaten som är summan av [`Y`](../y/) och [`Height`](../height/) för denna [`RectangleF`](../) struktur.
 
 ```csharp
 public float Bottom { get; set; }
@@ -16,12 +17,12 @@ public float Bottom { get; set; }
 
 ### Returvärde
 
-Y-koordinaten som är summan av[`Y`](../y/) och[`Height`](../height/) av detta[`RectangleF`](../) strukturera.
+Y‑koordinaten som är summan av [`Y`](../y/) och [`Height`](../height/) för denna [`RectangleF`](../) struktur.
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

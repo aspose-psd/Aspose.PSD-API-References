@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: LayerResource fast egendom. Hämtar lagerresursnyckeln.
+title: "LayerResource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerResource-egenskap. Hämtar lagrets resursnyckel"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresource/key/
 ---
+{{< psd/tize >}}
 ## LayerResource.Key property
 
-Hämtar lagerresursnyckeln.
+Hämtar lagerresursens nyckel.
 
 ```csharp
-public abstract int Key { get; }
+public int Key { get; }
 ```
 
 ### Se även
 
 * class [LayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

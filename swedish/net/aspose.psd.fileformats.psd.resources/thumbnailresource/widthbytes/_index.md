@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Aspose.PSD för .NET API-referens
-description: ThumbnailResource fast egendom. Hämtar radbredden i byte.
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ThumbnailResource egenskap. Hämtar radbredden i byte"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
 Hämtar radbredden i byte.
@@ -14,14 +15,14 @@ Hämtar radbredden i byte.
 public int WidthBytes { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Radbredden i byte.
 
 ### Se även
 
 * class [ThumbnailResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

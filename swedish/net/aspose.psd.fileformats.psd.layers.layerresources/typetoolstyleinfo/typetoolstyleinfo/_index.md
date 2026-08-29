@@ -1,14 +1,15 @@
 ---
-title: TypeToolStyleInfo.TypeToolStyleInfo
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolStyleInfo byggare. Default_Constructor
+title: "TypeToolStyleInfo.TypeToolStyleInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolStyleInfo konstruktor. Den standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/typetoolstyleinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public TypeToolStyleInfo()
@@ -17,7 +18,7 @@ public TypeToolStyleInfo()
 ### Se även
 
 * class [TypeToolStyleInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

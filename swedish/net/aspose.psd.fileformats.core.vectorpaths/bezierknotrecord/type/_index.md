@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.Type
-second_title: Aspose.PSD för .NET API-referens
-description: BezierKnotRecord fast egendom. Hämtar typen.
+title: "BezierKnotRecord.Type"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierKnotRecord egenskap. Hämtar typen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Type property
 
 Hämtar typen.
@@ -14,7 +15,7 @@ Hämtar typen.
 public override VectorPathType Type { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Typen.
 
@@ -22,7 +23,7 @@ Typen.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [BezierKnotRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

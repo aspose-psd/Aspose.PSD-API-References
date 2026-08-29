@@ -1,14 +1,15 @@
 ---
-title: RleCompressorException.RleCompressorException
-second_title: Aspose.PSD för .NET API-referens
-description: RleCompressorException byggare. Initierar en ny instans avRleCompressorException class.
+title: "RleCompressorException.RleCompressorException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RleCompressorException konstruktor. Initierar en ny instans av klassen RleCompressorException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException(string) {#constructor}
 
-Initierar en ny instans av[`RleCompressorException`](../) class.
+Initierar en ny instans av klassen [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message)
@@ -21,14 +22,14 @@ public RleCompressorException(string message)
 ### Se även
 
 * class [RleCompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RleCompressorException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`RleCompressorException`](../) class.
+Initierar en ny instans av klassen [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public RleCompressorException(string message, Exception innerException)
 ### Se även
 
 * class [RleCompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

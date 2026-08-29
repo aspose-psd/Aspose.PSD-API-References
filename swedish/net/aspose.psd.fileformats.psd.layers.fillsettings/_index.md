@@ -1,22 +1,24 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillSettings
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller Fyll lagerinställningar
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller Fill Layers Settings"
 type: docs
-weight: 250
+weight: 270
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/
 ---
-Namnutrymmet innehåller Fyll lagerinställningar
+{{< psd/tize >}}
+Namnutrymmet innehåller Fill Layers Settings
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [BaseFillSettings](./basefillsettings/) | Basfyllningseffektinställningar |
+| [BaseFillSettings](./basefillsettings/) | Grundläggande fyllningseffektinställningar |
 | [ColorFillSettings](./colorfillsettings/) | Färgfyllningseffektinställningar |
 | [GradientColorPoint](./gradientcolorpoint/) | Gradientfärgpunkten. |
-| [GradientFillSettings](./gradientfillsettings/) | Inställningar för gradientfyllningseffekt. |
-| [GradientTransparencyPoint](./gradienttransparencypoint/) | Gradient Transparency Point |
+| [GradientFillSettings](./gradientfillsettings/) | Basgradientdefinitionsklass. Den innehåller gemensamma egenskaper för båda typerna av gradient (Solid och Noise). |
+| [GradientMapSettings](./gradientmapsettings/) | Gradientinställningsklass för gradientkartslager. Den innehåller gemensamma egenskaper för båda typerna av gradient (Solid och Noise). |
+| [GradientTransparencyPoint](./gradienttransparencypoint/) | Gradienttransparentpunkten |
 | [PatternFillSettings](./patternfillsettings/) | Mönsterfyllningseffektinställningar |
 ## Gränssnitt
 
@@ -24,7 +26,7 @@ Namnutrymmet innehåller Fyll lagerinställningar
 | --- | --- |
 | [IColorFillSettings](./icolorfillsettings/) | Basgränssnitt för fyllningsinställningar |
 | [IFillSettings](./ifillsettings/) | Basgränssnitt för fyllningsinställningar |
-| [IGradientFillSettings](./igradientfillsettings/) | Basgränssnitt för fyllningsinställningar |
+| [IGradientFillSettings](./igradientfillsettings/) | Basgränssnitt för gradientfyllningsinställningar. |
 | [IGradientTransparencyPoint](./igradienttransparencypoint/) | Basgränssnitt för fyllningsinställningar |
 | [IPatternFillSettings](./ipatternfillsettings/) | Gränssnitt för mönsterfyllningsinställningar |
 ## Uppräkning
@@ -33,5 +35,6 @@ Namnutrymmet innehåller Fyll lagerinställningar
 | --- | --- |
 | [FillType](./filltype/) | Fyllningstypen |
 | [GradientType](./gradienttype/) | Gradienttyp |
+| [InterpolationMethod](./interpolationmethod/) | Packade fourCC-värden för Photoshop gradientinterpolationsmetod. Deskriptörnyckel: "gradientsInterpolationMethod" |
 
 

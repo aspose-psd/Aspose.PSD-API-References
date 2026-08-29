@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.Bounds
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in gränserna för det placerade lagret i PSDfilen.
+title: "IPlacedLayerResource.Bounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger gränserna för det placerade lagret i PSD-filen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Bounds property
 
-Hämtar eller ställer in gränserna för det placerade lagret i PSD-filen.
+Hämtar eller anger gränserna för det placerade lagret i PSD‑filen.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det placerade lagrets gränser.
+Gränserna för det placerade lagret.
 
 ### Se även
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

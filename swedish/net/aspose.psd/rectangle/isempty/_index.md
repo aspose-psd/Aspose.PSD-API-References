@@ -1,27 +1,28 @@
 ---
-title: Rectangle.IsEmpty
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle fast egendom. Får ett värde som indikerar om alla numeriska egenskaper för dettaRectangle har värden noll.
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle‑egenskap. Hämtar ett värde som indikerar om alla numeriska egenskaper i denna Rectangle har värden som är noll."
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/rectangle/isempty/
 ---
+{{< psd/tize >}}
 ## Rectangle.IsEmpty property
 
-Får ett värde som indikerar om alla numeriska egenskaper för detta[`Rectangle`](../) har värden noll.
+Hämtar ett värde som indikerar om alla numeriska egenskaper i denna [`Rectangle`](../) har värden som är noll.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den här egenskapen returnerar sant om[`Width`](../width/) ,[`Height`](../height/) ,[`X`](../x/) , och[`Y`](../y/) egenskaper hos detta[`Rectangle`](../) alla har värden noll; annars falskt.
+Denna egenskap returnerar true om [`Width`](../width/), [`Height`](../height/), [`X`](../x/) och [`Y`](../y/) egenskaper för denna [`Rectangle`](../) alla har värden som är noll; annars false.
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD för .NET API-referens
-description: ColorPalette metod. Hämtar index för närmaste färg.
+title: "ColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorPalette-metod. Hämtar indexet för den närmaste färgen"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd/colorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
-Hämtar index för närmaste färg.
+Hämtar indexet för den närmaste färgen.
 
 ```csharp
 public int GetNearestColorIndex(int argb32Color)
@@ -16,23 +17,23 @@ public int GetNearestColorIndex(int argb32Color)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| argb32Color | Int32 | 32-bitars ARGB-färgen. |
+| argb32Color | Int32 | Den 32-bitars ARGB-färgen. |
 
 ### Returvärde
 
-Indexet för närmaste färg.
+Indexet för den närmaste färgen.
 
 ### Se även
 
 * class [ColorPalette](../)
-* namnutrymme [Aspose.PSD](../../colorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-Hämtar index för närmaste färg.
+Hämtar indexet för den närmaste färgen.
 
 ```csharp
 public int GetNearestColorIndex(Color color)
@@ -40,17 +41,17 @@ public int GetNearestColorIndex(Color color)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| color | Color | Färgen. |
+| färg | Färg | Färgen. |
 
 ### Returvärde
 
-Indexet för närmaste färg.
+Indexet för den närmaste färgen.
 
 ### Se även
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* namnutrymme [Aspose.PSD](../../colorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix20
-second_title: Aspose.PSD för .NET API-referens
-description: ColorMatrix fast egendom. Hämtar eller ställer in elementet på den andra raden och 0 noll kolumnen i dennaColorMatrix .
+title: "ColorMatrix.Matrix20"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorMatrix-egenskap. Hämtar eller anger elementet på andra raden och 0 (noll) kolumnen i denna ColorMatrix"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/colormatrix/matrix20/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix20 property
 
-Hämtar eller ställer in elementet på den andra raden och 0 (noll) kolumnen i denna[`ColorMatrix`](../) .
+Hämtar eller anger elementet på andra raden och 0 (noll) kolumnen i denna [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix20 { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Elementet på den andra raden och 0-kolumnen i denna[`ColorMatrix`](../).
+Elementet på andra raden och 0 kolumnen i denna [`ColorMatrix`](../).
 
 ### Se även
 
 * class [ColorMatrix](../)
-* namnutrymme [Aspose.PSD](../../colormatrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

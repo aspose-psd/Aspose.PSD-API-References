@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat fast egendom. Hämtar eller ställer inStringTrimming uppräkning för dettaStringFormat objekt.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat-egenskap. Hämtar eller anger StringTrimming‑enumerationen för detta StringFormat‑objekt."
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-Hämtar eller ställer in[`StringTrimming`](../../stringtrimming/) uppräkning för detta[`StringFormat`](../) objekt.
+Hämtar eller anger [`StringTrimming`](../../stringtrimming/)-enumerationen för detta [`StringFormat`](../)-objekt.
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`StringTrimming`](../../stringtrimming/) uppräkning som anger hur text ritad med detta[`StringFormat`](../) objektet trimmas när det överskrider kanterna på layoutrektangeln.
+En [`StringTrimming`](../../stringtrimming/)-enumeration som anger hur text som ritas med detta [`StringFormat`](../)-objekt beskärs när den överskrider kanterna på layout‑rektangeln.
 
 ### Se även
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

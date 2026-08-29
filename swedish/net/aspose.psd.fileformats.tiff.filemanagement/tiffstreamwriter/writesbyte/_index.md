@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSByte
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamWriter metod. Skriver ett enda signerat bytevärde till strömmen.
+title: "TiffStreamWriter.WriteSByte"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamWriter-metod. Skriver ett enda signerat bytevärde till strömmen"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByte method
 
-Skriver ett enda signerat bytevärde till strömmen.
+Skriver ett enda signerat byte‑värde till strömmen.
 
 ```csharp
 public void WriteSByte(sbyte data)
@@ -21,7 +22,7 @@ public void WriteSByte(sbyte data)
 ### Se även
 
 * class [TiffStreamWriter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

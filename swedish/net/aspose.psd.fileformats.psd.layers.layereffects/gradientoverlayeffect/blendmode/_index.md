@@ -1,20 +1,21 @@
 ---
-title: GradientOverlayEffect.BlendMode
-second_title: Aspose.PSD för .NET API-referens
-description: GradientOverlayEffect fast egendom. Hämtar eller ställer in blandningsläget.
+title: "GradientOverlayEffect.BlendMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientOverlayEffect property. Hämtar eller anger blandningsläget"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.BlendMode property
 
-Hämtar eller ställer in blandningsläget.
+Hämtar eller anger blandningsläget.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blandningsläget.
 
@@ -22,7 +23,7 @@ Blandningsläget.
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [GradientOverlayEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Left
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle fast egendom. Hämtar eller ställer in xkoordinaten för den vänstra kanten av dennaRectanglestruktur.
+title: "Rectangle.Left"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle-egenskap. Hämtar eller anger x-koordinaten för den vänstra kanten av denna Rectangle-struktur"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/rectangle/left/
 ---
+{{< psd/tize >}}
 ## Rectangle.Left property
 
-Hämtar eller ställer in x-koordinaten för den vänstra kanten av denna[`Rectangle`](../)struktur.
+Hämtar eller anger x-koordinaten för den vänstra kanten av denna [`Rectangle`](../)-struktur.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-X-koordinaten för den vänstra kanten av denna[`Rectangle`](../) strukturera.
+X-koordinaten för den vänstra kanten av denna [`Rectangle`](../)-struktur.
 
 ### Se även
 
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Aspose.PSD för .NET API-referens
-description: Progress händelsehanterare funktion reference
+title: "Delegat ProgressEventHandler"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Referens till funktionshanterare för progress‑händelse."
 type: docs
-weight: 5280
+weight: 5780
 url: /sv/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-Progress händelsehanterare funktion reference
+Referens till funktionshanterare för progress‑händelse.
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
@@ -16,11 +17,11 @@ public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | Förloppshändelsehanterarens data. |
+| info | ProgressEventHandlerInfo | Data för progresshändelsehanteraren. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar att dokumentkonverteringen fungerar korrekt och utan undantag.
+Följande exempel visar att dokumentkonverteringsframsteg fungerar korrekt och utan undantag.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 ### Se även
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

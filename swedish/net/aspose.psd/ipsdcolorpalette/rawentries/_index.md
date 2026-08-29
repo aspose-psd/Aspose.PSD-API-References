@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntries
-second_title: Aspose.PSD för .NET API-referens
-description: IPsdColorPalette fast egendom. Hämtar rå färgpalettposter.
+title: "IPsdColorPalette.RawEntries"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPsdColorPalette egenskap. Hämtar data för de råa färgpalettposterna"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/ipsdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntries property
 
-Hämtar rå färgpalettposter.
+Hämtar de råa färgpalettposternas data.
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den råa färgpaletten anger data.
+Data för de råa färgpalettposterna.
 
 ### Se även
 
 * interface [IPsdColorPalette](../)
-* namnutrymme [Aspose.PSD](../../ipsdcolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

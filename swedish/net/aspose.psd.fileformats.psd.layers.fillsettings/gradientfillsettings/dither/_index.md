@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Aspose.PSD för .NET API-referens
-description: GradientFillSettings fast egendom. Hämtar eller ställer in ett värde som indikerar om dettaGradientFillSettings är dither.
+title: "GradientFillSettings.Dither"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GradientFillSettings egenskap. Hämtar eller anger ett värde som indikerar om detta GradientFillSettings är dither"
 type: docs
-weight: 60
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-Hämtar eller ställer in ett värde som indikerar om detta[`GradientFillSettings`](../) är dither.
+Hämtar eller anger ett värde som indikerar om detta [`GradientFillSettings`](../) är dither.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om dither; annat,`falsk` .
+`true` om dither; annars `false`.
 
 ### Se även
 
 * class [GradientFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

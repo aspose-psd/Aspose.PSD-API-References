@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.UniqueId
-second_title: Aspose.PSD för .NET API-referens
-description: LinkDataSource fast egendom. Hämtar den globala unika identifieraren för datakällan i PSDlänkresursen.
+title: "LinkDataSource.UniqueId"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkDataSource egenskap. Hämtar den globala unika identifieraren för datakällan i PSD-länkretsursen"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.UniqueId property
 
 Hämtar den globala unika identifieraren för datakällan i PSD-länkresursen.
@@ -14,20 +15,20 @@ Hämtar den globala unika identifieraren för datakällan i PSD-länkresursen.
 public Guid UniqueId { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Länkens unika identifierare för datakällan i Adobe® Photoshop® LnkE / Lnk2-resursen.
+Den unika länkidentifieraren för datakällan i Adobe® Photoshop® LnkE / Lnk2-resursen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt egenskapen UniqueId. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt UniqueId‑egenskapen. |
 
 ### Se även
 
 * class [LinkDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

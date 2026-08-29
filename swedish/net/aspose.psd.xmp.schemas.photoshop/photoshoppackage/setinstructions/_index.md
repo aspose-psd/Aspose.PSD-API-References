@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetInstructions
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Anger instruktionerna.
+title: "PhotoshopPackage.SetInstructions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage-metoden. Ställer in instruktionerna"
 type: docs
 weight: 150
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetInstructions method
 
 Anger instruktionerna.
@@ -16,12 +17,12 @@ public void SetInstructions(string instructions)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| instructions | String | Instruktionerna. |
+| instruktioner | String | Instruktionerna. |
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

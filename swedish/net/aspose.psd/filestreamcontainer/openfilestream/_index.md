@@ -1,14 +1,15 @@
 ---
-title: FileStreamContainer.OpenFileStream
-second_title: Aspose.PSD för .NET API-referens
-description: FileStreamContainer metod. Öppnar en befintlig filström. Om filströmmen inte finns skapas lämpligt undantag.
+title: "FileStreamContainer.OpenFileStream"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FileStreamContainer-metod. Öppnar en befintlig filström. Om filströmmen inte finns kastas lämpligt undantag"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/filestreamcontainer/openfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.OpenFileStream method
 
-Öppnar en befintlig filström. Om filströmmen inte finns skapas lämpligt undantag.
+Öppnar en befintlig filström. Om filströmmen inte finns kastas lämpligt undantag.
 
 ```csharp
 public static FileStreamContainer OpenFileStream(string fileLocation)
@@ -20,12 +21,12 @@ public static FileStreamContainer OpenFileStream(string fileLocation)
 
 ### Returvärde
 
-Filströmsbehållaren.
+Filströmcontainern.
 
 ### Se även
 
 * class [FileStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../filestreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

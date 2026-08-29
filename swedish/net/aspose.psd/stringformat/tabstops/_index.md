@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat fast egendom. Får en rad avstånd mellan tabbstopp i de enheter som anges avPageUnit egenskap.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat-egenskap. Hämtar en array med avstånd mellan tabbstopp i de enheter som anges av PageUnit-egenskapen."
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-Får en rad avstånd mellan tabbstopp i de enheter som anges av[`PageUnit`](../../graphics/pageunit/) egenskap.
+Hämtar en array med avstånd mellan tabbstopp i de enheter som anges av egenskapen [`PageUnit`](../../graphics/pageunit/).
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Fliken stannar.
+Tabbstoppen.
 
-### Anmärkningar
+## Anmärkningar
 
 Egenskapen introduceras för den borttagna metoden GetTabStops.
 
 ### Se även
 
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: Aspose.PSD för .NET API-referens
-description: MultiPageOptions fast egendom. Hämtar eller ställer in sidtitlarna.
+title: "MultiPageOptions.PageTitles"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MultiPageOptions egenskap. Hämtar eller anger sidtitlarna"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageTitles property
 
-Hämtar eller ställer in sidtitlarna.
+Hämtar eller anger sidtitlar.
 
 ```csharp
 public string[] PageTitles { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Sidtitlarna.
 
 ### Se även
 
 * class [MultiPageOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

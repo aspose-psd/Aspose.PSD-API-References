@@ -1,14 +1,15 @@
 ---
-title: GlobalAltitudeResource.GlobalAltitudeResource
-second_title: Aspose.PSD för .NET API-referens
-description: GlobalAltitudeResource byggare. Default_Constructor
+title: "GlobalAltitudeResource.GlobalAltitudeResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GlobalAltitudeResource-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/globalaltituderesource/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public GlobalAltitudeResource()
@@ -17,7 +18,7 @@ public GlobalAltitudeResource()
 ### Se även
 
 * class [GlobalAltitudeResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

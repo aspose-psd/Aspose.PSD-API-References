@@ -1,14 +1,15 @@
 ---
-title: Class ColorMap
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ColorMap klass. Definierar en karta för att konvertera färger. Flera metoder förImageAttributes klass justera bildfärger med hjälp av en färgombildningstabell som är en uppsättning avColorMap strukturer. Inte ärftlig.
+title: "Klass ColorMap"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ColorMap-klass. Definierar en karta för färgkonvertering. Flera metoder i ImageAttributes-klassen justerar bildfärger genom att använda en färgomkartningstabell som är en array av ColorMap-strukturer. Ej ärftlig"
 type: docs
 weight: 340
 url: /sv/net/aspose.psd/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap class
 
-Definierar en karta för att konvertera färger. Flera metoder för[`ImageAttributes`](../imageattributes/) klass justera bildfärger med hjälp av en färgombildningstabell, som är en uppsättning av`ColorMap` strukturer. Inte ärftlig.
+Definierar en karta för färgkonvertering. Flera metoder i [`ImageAttributes`](../imageattributes/) klassen justerar bildfärger genom att använda en färg-omkartningstabell, som är en array av `ColorMap`-strukturer. Ej ärftlig.
 
 ```csharp
 public sealed class ColorMap
@@ -16,20 +17,20 @@ public sealed class ColorMap
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ColorMap](colormap/)() | Default_Constructor |
+| [ColorMap](colormap/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Hämtar eller ställer in den nya[`Color`](../color/) struktur att konvertera till. |
-| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Hämtar eller ställer in den befintliga[`Color`](../color/) struktur som ska konverteras. |
+| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Hämtar eller anger den nya [`Color`](../color/) strukturen att konvertera till. |
+| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Hämtar eller anger den befintliga [`Color`](../color/) strukturen som ska konverteras. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

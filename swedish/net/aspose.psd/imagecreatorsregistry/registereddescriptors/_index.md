@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: Aspose.PSD för .NET API-referens
-description: ImageCreatorsRegistry fast egendom. Hämtar de registrerade beskrivningarna.
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageCreatorsRegistry‑egenskap. Hämtar de registrerade deskriptörerna"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
-Hämtar de registrerade beskrivningarna.
+Hämtar de registrerade beskrivarna.
 
 ```csharp
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De registrerade deskriptorerna.
+De registrerade beskrivarna.
 
 ### Se även
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* namnutrymme [Aspose.PSD](../../imagecreatorsregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

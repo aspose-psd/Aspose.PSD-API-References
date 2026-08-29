@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.ToBytes
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer metod. Konverterar strömdata tillByte array.
+title: "StreamContainer.ToBytes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer metod. Konverterar strömdatan till en Byte-array."
 type: docs
 weight: 160
 url: /sv/net/aspose.psd/streamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-Konverterar strömdata tillByte array.
+Konverterar strömmens data till en Byte-array.
 
 ```csharp
 public virtual byte[] ToBytes()
@@ -16,19 +17,19 @@ public virtual byte[] ToBytes()
 
 ### Returvärde
 
-Strömdata som konverterats tillByte array.
+Positionen att börja läsa byte från.
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-Konverterar strömdata tillByte array.
+Konverterar strömmens data till en Byte-array.
 
 ```csharp
 public virtual byte[] ToBytes(long position, long bytesCount)
@@ -36,17 +37,17 @@ public virtual byte[] ToBytes(long position, long bytesCount)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| position | Int64 | Positionen att börja läsa bytes från. |
-| bytesCount | Int64 | Byten räknas för att läsas. |
+| position | Int64 | bytesCount |
+| Antalet byte att läsa. | Int64 | SplitStreamContainer.Flush |
 
 ### Returvärde
 
-Strömdata som konverterats tillByte array.
+Positionen att börja läsa byte från.
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: EnumeratedReferenceStructure.ClassName
-second_title: Aspose.PSD för .NET API-referens
-description: EnumeratedReferenceStructure fast egendom. Hämtar eller ställer in klassnamnet.
+title: "EnumeratedReferenceStructure.ClassName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "EnumeratedReferenceStructure egenskap. Hämtar eller anger klassnamnet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classname/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.ClassName property
 
-Hämtar eller ställer in klassnamnet.
+Hämtar eller anger klassnamnet.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Klassens namn.
+Klassnamnet.
 
 ### Se även
 
 * class [EnumeratedReferenceStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

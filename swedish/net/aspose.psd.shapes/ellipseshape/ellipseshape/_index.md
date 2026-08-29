@@ -1,14 +1,15 @@
 ---
-title: EllipseShape.EllipseShape
-second_title: Aspose.PSD för .NET API-referens
-description: EllipseShape byggare. Initierar en ny instans avEllipseShape class.
+title: "EllipseShape.EllipseShape"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "EllipseShape konstruktor. Initierar en ny instans av klassen EllipseShape"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
+{{< psd/tize >}}
 ## EllipseShape() {#constructor}
 
-Initierar en ny instans av[`EllipseShape`](../) class.
+Initierar en ny instans av klassen [`EllipseShape`](../).
 
 ```csharp
 public EllipseShape()
@@ -17,14 +18,14 @@ public EllipseShape()
 ### Se även
 
 * class [EllipseShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../ellipseshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-Initierar en ny instans av[`EllipseShape`](../) class.
+Initierar en ny instans av klassen [`EllipseShape`](../).
 
 ```csharp
 public EllipseShape(RectangleF rectangle)
@@ -32,13 +33,13 @@ public EllipseShape(RectangleF rectangle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | RectangleF | Rektangeln. |
+| rektangel | RectangleF | Rektangeln. |
 
 ### Se även
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [EllipseShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../ellipseshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: OffsetStructure.OffsetStructure
-second_title: Aspose.PSD för .NET API-referens
-description: OffsetStructure byggare. Initierar en ny instans avOffsetStructure class.
+title: "OffsetStructure.OffsetStructure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OffsetStructure konstruktor. Initierar en ny instans av OffsetStructure-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure constructor
 
-Initierar en ny instans av[`OffsetStructure`](../) class.
+Initierar en ny instans av [`OffsetStructure`](../)-klassen.
 
 ```csharp
 public OffsetStructure(ClassID keyName, ClassID classID)
@@ -16,14 +17,14 @@ public OffsetStructure(ClassID keyName, ClassID classID)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| keyName | ClassID | Nyckelns namn. |
-| classID | ClassID | Klass-ID. |
+| keyName | ClassID | Nyckelnamnet. |
+| classID | ClassID | Klass-ID:t. |
 
 ### Se även
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Hämtar eller ställer in blandningsläget.
+title: "OuterGlowEffect.BlendMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger blandningsläget"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
-Hämtar eller ställer in blandningsläget.
+Hämtar eller anger blandningsläget.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blandningsläget.
 
-### Exempel
+## Exempel
 
-Följande kod visar OuterGlowEffect-stödet.
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

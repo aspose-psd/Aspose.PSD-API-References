@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileType
-second_title: Aspose.PSD för .NET API-referens
-description: LinkDataSource fast egendom. Hämtar eller ställer in typen av inbäddad eller extern fil som Adobe Photoshop Lnk2 / LnkEresursen innehåller eller länkar.
+title: "LinkDataSource.FileType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkDataSource-egenskap. Hämtar eller anger typen av den inbäddade eller externa filen som Adobe Photoshop Lnk2 / LnkE-resursen innehåller eller länkar till."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileType property
 
-Hämtar eller ställer in typen av inbäddad eller extern fil som Adobe® Photoshop® Lnk2 / LnkE-resursen innehåller eller länkar.
+Hämtar eller anger typen av den inbäddade eller externa filen som Adobe® Photoshop® Lnk2 / LnkE‑resursen innehåller eller länkar till.
 
 ```csharp
 public string FileType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Typen av den inbäddade eller externt länkade filen.
+Typen av den inbäddade eller externa länkade filen.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt FileType-egenskapen. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Du kan inte komma åt egenskapen FileType. |
 
 ### Se även
 
 * class [LinkDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

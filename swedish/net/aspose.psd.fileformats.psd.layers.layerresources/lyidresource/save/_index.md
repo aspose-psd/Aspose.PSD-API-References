@@ -1,14 +1,15 @@
 ---
-title: LyidResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: LyidResource metod. Sparar i den angivna strömbehållaren.
+title: "LyidResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LyidResource-metod. Sparar till den angivna strömbehållaren"
 type: docs
-weight: 70
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/
 ---
+{{< psd/tize >}}
 ## LyidResource.Save method
 
-Sparar i den angivna strömbehållaren.
+Sparar till den angivna strömbehållaren.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LyidResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Region.Transform
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Förvandlar dettaRegion av den angivnaMatrix .
+title: "Region.Transform"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region-metoden. Transformerar detta Region med den angivna Matrix"
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.psd/region/transform/
 ---
+{{< psd/tize >}}
 ## Region.Transform method
 
-Förvandlar detta[`Region`](../) av den angivna[`Matrix`](../../matrix/) .
+Transformerar detta [`Region`](../) med den angivna [`Matrix`](../../matrix/).
 
 ```csharp
 public void Transform(Matrix matrix)
@@ -16,19 +17,19 @@ public void Transform(Matrix matrix)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| matrix | Matrix | De[`Matrix`](../../matrix/) för att omvandla detta[`Region`](../). |
+| matrix | Matrix | Den [`Matrix`](../../matrix/) som ska användas för att transformera detta [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *matrix* är inget. |
+| ArgumentNullException | *matrix* är null. |
 
 ### Se även
 
 * class [Matrix](../../matrix/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

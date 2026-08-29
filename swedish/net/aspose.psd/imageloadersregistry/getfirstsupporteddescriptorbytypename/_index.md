@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD för .NET API-referens
-description: ImageLoadersRegistry metod. Hämtar den första beskrivningen som stöds efter dess typnamn.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageLoadersRegistry-metod. Hämtar den första stödjade beskrivaren efter dess typnamn"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Hämtar den första beskrivningen som stöds efter dess typnamn.
+Hämtar den första stödda beskrivaren efter dess typnamn.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
@@ -17,21 +18,21 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| descriptorTypeName | String | Beskrivningstypens namn. |
+| descriptorTypeName | String | Deskriptortypnamnet. |
 
 ### Returvärde
 
-Den först hittade loader-beskrivningen eller null om inte sådan deskriptor hittas.
+Den först hittade laddarbeskrivaren eller null om ingen sådan beskrivare hittas.
 
-### Anmärkningar
+## Anmärkningar
 
-Den första lastarbeskrivningen kommer att vara den senast registrerade.
+Den första laddarbeskrivaren kommer faktiskt att vara den sist registrerade.
 
 ### Se även
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageloadersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

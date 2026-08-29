@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsPositionProtected
-second_title: Aspose.PSD för .NET API-referens
-description: LspfResource fast egendom. Hämtar eller ställer in ett värde som anger om denna instans är positionsskyddad.
+title: "LspfResource.IsPositionProtected"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LspfResource-egenskap. Hämtar eller anger ett värde som indikerar om denna instans är positionsskyddad"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsPositionProtected property
 
-Hämtar eller ställer in ett värde som anger om denna instans är positionsskyddad.
+Hämtar eller anger ett värde som indikerar om denna instans är positionsskyddad.
 
 ```csharp
 public bool IsPositionProtected { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är positionsskyddad; annat,`falsk` .
+`true` om denna instans är positionsskyddad; annars `false`.
 
 ### Se även
 
 * class [LspfResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

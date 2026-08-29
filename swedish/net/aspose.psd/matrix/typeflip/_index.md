@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeFlip
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix fält. Denna flaggbit indikerar att omvandlingen som definieras av detta objekt utför en spegelvändning kring någon axel som ändrar normalt högerhänt koordinatsystem till ett vänsterhänt förutom omvandlingarna som indikeras av andra flaggbitar. Ett högerhänt koordinatsystem är en där den positiva X axeln roterar moturs för att överlägga den positiva Yaxeln liknande riktningen som fingrarna på din högra hand kröker sig när du stirrar på tummen. Ett vänsterhänt koordinatsystem är ett där det positiva X_x000 roterar medurs för att överlägga den positiva Yaxeln similar i den riktning som fingrarna på din vänstra hand kröker sig. Det finns inget matematiskt sätt att bestämma vinkeln för den ursprungliga vändnings eller speglingstransformationen eftersom alla vinklar av vändningen är identiska med en lämplig justeringsrotation. OBS TypeFlip lades till efter GENERAL_TRANSFORM var i public cirkulation och flaggbitarna kunde inte längre bekvämt numreras om utan att introducera binär inkompatibilitet i outside kod.
+title: "Matrix.TypeFlip"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-fält. Denna flaggbit indikerar att den transformation som definieras av detta objekt utför en spegelvändning kring någon axel, vilket förändrar det normalt högrehandskoordinatsystemet till ett vänsterhandsystem utöver de konverteringar som anges av andra flaggbitar. Ett högrehandskoordinatsystem är ett där den positiva X-axeln roterar moturs för att överlappa den positiva Y-axeln, likt den riktning som fingrarna på din högra hand kröker sig när du tittar rakt på tummen. Ett vänsterhandskoordinatsystem är ett där den positiva X-axeln roterar medurs för att överlappa den positiva Y-axeln, likt den riktning som fingrarna på din vänstra hand kröker sig. Det finns inget matematiskt sätt att bestämma vinkeln för den ursprungliga vändnings- eller speglingstransformeringen eftersom alla vändningsvinklar är identiska givet en lämplig justeringsrotation. OBS! TypeFlip lades till efter att GENERAL_TRANSFORM var i offentlig cirkulation och flaggbitarna kunde inte längre bekvämt omnumreras utan att introducera binär inkompatibilitet i extern kod"
 type: docs
 weight: 200
 url: /sv/net/aspose.psd/matrix/typeflip/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeFlip field
 
-Denna flaggbit indikerar att omvandlingen som definieras av detta objekt utför en spegelvändning kring någon axel som ändrar normalt högerhänt koordinatsystem till ett vänsterhänt förutom omvandlingarna som indikeras av andra flaggbitar. Ett högerhänt koordinatsystem är en där den positiva X -axeln roterar moturs för att överlägga den positiva Y-axeln liknande riktningen som fingrarna på din högra hand kröker sig när du stirrar på tummen. Ett vänsterhänt koordinatsystem är ett där det positiva X_x000 roterar medurs för att överlägga den positiva Y-axeln similar i den riktning som fingrarna på din vänstra hand kröker sig. Det finns inget matematiskt sätt att bestämma vinkeln för den ursprungliga vändnings- eller speglingstransformationen eftersom alla vinklar av vändningen är identiska med en lämplig justeringsrotation. OBS: TypeFlip lades till efter GENERAL_TRANSFORM var i public cirkulation och flaggbitarna kunde inte längre bekvämt numreras om utan att introducera binär inkompatibilitet i outside kod.
+Detta flaggbit indikerar att den transform som definieras av detta objekt utför en spegelvändning kring någon axel, vilket förändrar det normalt högrehandskoordinatsystemet till ett vänsterhandsystem utöver de konverteringar som anges av andra flaggbitar. Ett högrehandskoordinatsystem är ett där den positiva X‑axeln roterar moturs för att överlappa den positiva Y‑axeln, liknande den riktning som fingrarna på din högra hand kröker sig när du tittar rakt på tummen. Ett vänsterhandskoordinatsystem är ett där den positiva X‑axeln roterar medurs för att överlappa den positiva Y‑axeln, liknande den riktning som fingrarna på din vänstra hand kröker sig. Det finns inget matematiskt sätt att bestämma vinkeln för den ursprungliga vändnings- eller speglingstransformen eftersom alla vinkelvärden för vändning är identiska givet en lämplig justerande rotation. OBS: TypeFlip lades till efter att GENERAL_TRANSFORM var i offentlig cirkulation och flaggbitarna kunde inte längre bekvämt omnumreras utan att introducera binär inkompatibilitet i extern kod.
 
 ```csharp
 public const int TypeFlip;
@@ -17,7 +18,7 @@ public const int TypeFlip;
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmartObjectResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar resurslängden för smarta objekt i byte.
+title: "SmartObjectResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource‑egenskap. Hämtar smartobjektresursens längd i byte."
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Length property
 
-Hämtar resurslängden för smarta objekt i byte.
+Hämtar smartobjektresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

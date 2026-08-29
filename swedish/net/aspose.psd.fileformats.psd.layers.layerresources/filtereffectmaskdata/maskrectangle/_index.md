@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.MaskRectangle
-second_title: Aspose.PSD för .NET API-referens
-description: FilterEffectMaskData fast egendom. Hämtar arkmaskrektangeln.
+title: "FilterEffectMaskData.MaskRectangle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FilterEffectMaskData egenskap. Hämtar rektangeln för bladmasken"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaskRectangle property
 
-Hämtar arkmaskrektangeln.
+Hämtar sheet mask‑rektangeln.
 
 ```csharp
 public Rectangle MaskRectangle { get; }
@@ -18,7 +19,7 @@ public Rectangle MaskRectangle { get; }
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

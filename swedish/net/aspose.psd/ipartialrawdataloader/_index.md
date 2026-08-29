@@ -1,11 +1,12 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IPartialRawDataLoader gränssnitt. Den partiella dataladdaren.
+title: "Gränssnitt IPartialRawDataLoader"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IPartialRawDataLoader-gränssnitt. Den partiella dataläsaren"
 type: docs
-weight: 4540
+weight: 5010
 url: /sv/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
 Den partiella dataladdaren.
@@ -16,14 +17,14 @@ public interface IPartialRawDataLoader
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | Bearbetar inlästa data. |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | Bearbetar inlästa data. |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | Bearbetar den inlästa datan. |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | Bearbetar den inlästa datan. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

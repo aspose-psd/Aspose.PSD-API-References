@@ -1,14 +1,15 @@
 ---
-title: RdOptimizationError.RdOptimizationError
-second_title: Aspose.PSD för .NET API-referens
-description: RdOptimizationError byggare. Initierar en ny instans avRdOptimizationError class.
+title: "RdOptimizationError.RdOptimizationError"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RdOptimizationError-konstruktor. Initierar en ny instans av klassen RdOptimizationError"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions/rdoptimizationerror/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError constructor
 
-Initierar en ny instans av[`RdOptimizationError`](../) class.
+Initierar en ny instans av klassen [`RdOptimizationError`](../).
 
 ```csharp
 public RdOptimizationError(string message)
@@ -21,7 +22,7 @@ public RdOptimizationError(string message)
 ### Se även
 
 * class [RdOptimizationError](../)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../rdoptimizationerror/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

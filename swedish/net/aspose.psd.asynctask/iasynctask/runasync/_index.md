@@ -1,14 +1,15 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Aspose.PSD för .NET API-referens
-description: IAsyncTask metod. Kör den här uppgiften.
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IAsyncTask-metod. Kör denna uppgift"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
-Kör den här uppgiften.
+Kör denna uppgift.
 
 ```csharp
 public void RunAsync()
@@ -17,14 +18,14 @@ public void RunAsync()
 ### Se även
 
 * interface [IAsyncTask](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctask/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RunAsync(ThreadPriority) {#runasync_1}
 
-Kör den här uppgiften.
+Kör denna uppgift.
 
 ```csharp
 public void RunAsync(ThreadPriority priority)
@@ -32,12 +33,12 @@ public void RunAsync(ThreadPriority priority)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| priority | ThreadPriority | Trådens prioritet. |
+| prioritet | ThreadPriority | Trådens prioritet. |
 
 ### Se även
 
 * interface [IAsyncTask](../)
-* namnutrymme [Aspose.PSD.AsyncTask](../../iasynctask/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

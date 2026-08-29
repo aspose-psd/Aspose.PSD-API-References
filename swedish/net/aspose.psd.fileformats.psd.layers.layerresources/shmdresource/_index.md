@@ -1,14 +1,15 @@
 ---
-title: Class ShmdResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource klass. Klass ShmdResource. Metadatainställningar
+title: "Klass ShmdResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource-klass. Klass ShmdResource. Metadatainställningar"
 type: docs
-weight: 2980
+weight: 3330
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource class
 
-Klass ShmdResource. Metadatainställningar
+Klassen ShmdResource. Metadatainställningar
 
 ```csharp
 public class ShmdResource : LayerResource
@@ -16,40 +17,40 @@ public class ShmdResource : LayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ShmdResource](shmdresource/#constructor)() | Initierar en ny instans av`ShmdResource` class. |
-| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Initierar en ny instans av`ShmdResource` class. |
+| [ShmdResource](shmdresource/#constructor)() | Initierar en ny instans av `ShmdResource`-klassen. |
+| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Initierar en ny instans av `ShmdResource`-klassen. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Hämtar eller ställer in vilken tid lagret skapades. Om lager skapad tid inte anges returnerar ny DateTime(0) |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signature/) { get; } | Får signaturen. |
-| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | Hämtar underresurserna för shmd-resursen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Hämtar eller anger lagrets skapade tid. Om Layer created time inte specificeras returneras new DateTime(0) |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
+| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | Hämtar delresurserna för shmd-resursen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/)(StreamContainer, int) | Sparar den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Underresurshuvudet length |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Längden på delresursens rubrik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.FillColor
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Hämtar eller ställer in färgen.
+title: "OuterGlowEffect.FillColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger färgen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.FillColor property
 
-Hämtar eller ställer in färgen.
+Hämtar eller anger färgen.
 
 ```csharp
 public IFillSettings FillColor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgen.
 
-### Exempel
+## Exempel
 
-Följande kod visar OuterGlowEffect-stödet.
+Följande kod demonstrerar stöd för OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

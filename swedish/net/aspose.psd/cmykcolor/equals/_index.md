@@ -1,14 +1,15 @@
 ---
-title: CmykColor.Equals
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColor metod. Bestämmer om den angivnaObject  är lika med denna instans.
+title: "CmykColor.Equals"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColor‑metod. Avgör om det angivna Object är lika med denna instans"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.psd/cmykcolor/equals/
 ---
+{{< psd/tize >}}
 ## CmykColor.Equals method
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Object | Objectet att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`true` om det angivna Object är lika med denna instans; annars `false`.
 
 ### Se även
 
 * struct [CmykColor](../)
-* namnutrymme [Aspose.PSD](../../cmykcolor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

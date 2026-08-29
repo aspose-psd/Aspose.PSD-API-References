@@ -1,11 +1,12 @@
 ---
-title: Figure.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: Figure fast egendom. Hämtar hela figursegmenten.
+title: "Figure.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Figure-egenskapen. Hämtar hela figursegmenten"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
 Hämtar hela figursegmenten.
@@ -14,15 +15,15 @@ Hämtar hela figursegmenten.
 public ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Figuren segmenterar.
+Figursegmenten.
 
 ### Se även
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* namnutrymme [Aspose.PSD](../../figure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

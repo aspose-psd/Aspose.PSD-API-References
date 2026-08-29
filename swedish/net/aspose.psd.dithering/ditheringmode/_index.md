@@ -1,14 +1,15 @@
 ---
-title: Class DitheringMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Dithering.DitheringMode klass. Ditheringinställningar som ska tillämpas på bilden vid lagring.
+title: "Klass DitheringMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Dithering.DitheringMode klass. Ditheringinställningar som ska tillämpas på bilden vid sparande"
 type: docs
-weight: 760
+weight: 770
 url: /sv/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-Dithering-inställningar som ska tillämpas på bilden vid lagring.
+Ditheringinställningar som ska tillämpas på bilden vid sparande.
 
 ```csharp
 public class DitheringMode
@@ -16,21 +17,21 @@ public class DitheringMode
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DitheringMode](ditheringmode/)() | Default_Constructor |
+| [DitheringMode](ditheringmode/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Samplingsfaktorn för vibrerad bild. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Samplingsfaktorn för den dithrade bilden. |
 | [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Den anpassade paletten för dithering. |
-| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Val av vibrerande algoritm. |
+| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Val av ditheringalgoritm. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

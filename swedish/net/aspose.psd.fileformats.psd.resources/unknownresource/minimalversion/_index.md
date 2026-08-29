@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.MinimalVersion
-second_title: Aspose.PSD för .NET API-referens
-description: UnknownResource fast egendom. Får den minsta nödvändiga psdversionen.
+title: "UnknownResource.MinimalVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UnknownResource egenskap. Hämtar den minsta erforderliga psd-versionen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## UnknownResource.MinimalVersion property
 
-Får den minsta nödvändiga psd-versionen.
+Hämtar den minsta erforderliga PSD-versionen.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den minimala psd-versionen.
+Den minsta psd-versionen.
 
 ### Se även
 
 * class [UnknownResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

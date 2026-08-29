@@ -1,14 +1,15 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD för .NET API-referens
-description: Font byggare. Initierar en nyFont som använder den angivna befintligaFont ochFontStyle uppräkning.
+title: "Font.Font"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-konstruktor. Initierar ett nytt Font som använder det angivna befintliga Font och FontStyle‑enumerationen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/font/font/
 ---
+{{< psd/tize >}}
 ## Font(Font, FontStyle) {#constructor}
 
-Initierar en ny[`Font`](../) som använder den angivna befintliga[`Font`](../) och[`FontStyle`](../../fontstyle/) uppräkning.
+Initierar ett nytt [`Font`](../) som använder det angivna befintliga [`Font`](../) och [`FontStyle`](../../fontstyle/)‑enumerationen.
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
@@ -16,27 +17,27 @@ public Font(Font prototype, FontStyle newStyle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| prototype | Font | Det existerande[`Font`](../) varifrån man skapar det nya[`Font`](../). |
-| newStyle | FontStyle | De[`FontStyle`](../../fontstyle/) att ansöka om det nya[`Font`](../) . Flera värden av[`FontStyle`](../../fontstyle/) uppräkning kan kombineras med OR-operatorn. |
+| prototype | Font | Det befintliga [`Font`](../) som den nya [`Font`](../) ska skapas från. |
+| newStyle | FontStyle | Den [`FontStyle`](../../fontstyle/) som ska tillämpas på det nya [`Font`](../). Flera värden i [`FontStyle`](../../fontstyle/)‑enumerationen kan kombineras med OR‑operatorn. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *prototype* är inget. |
+| ArgumentNullException | *prototype* är null. |
 
 ### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float) {#constructor_1}
 
-Initierar en ny[`Font`](../) med en angiven storlek. Teckenuppsättningen är inställd påDefault , grafikenheten tillPoint , teckensnittsstilen tillRegular .
+Initierar ett nytt [`Font`](../) med en angiven storlek. Teckenuppsättningen sätts till Default, grafik‑enheten till Point, teckensnittsstilen till Regular.
 
 ```csharp
 public Font(string fontName, float emSize)
@@ -44,27 +45,27 @@ public Font(string fontName, float emSize)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | En strängrepresentation av[`Font`](../) namn. |
-| emSize | Single | Em-storleken, i poäng, för det nya teckensnittet. |
+| fontName | String | En strängrepresentation av namnet på [`Font`](../). |
+| emSize | Single | Em-storleken, i punkter, för det nya teckensnittet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, värderas till oändlighet eller är inte ett giltigt tal. |
-| ArgumentNullException | *fontName* är inget. |
+| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, utvärderas till oändlighet eller är inte ett giltigt tal. |
+| ArgumentNullException | *fontName* är null. |
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle) {#constructor_2}
 
-Initierar en ny[`Font`](../) med en specificerad storlek och stil. Teckenuppsättningen är inställd påDefault , grafikenheten tillPoint .
+Initierar ett nytt [`Font`](../) med en angiven storlek och stil. Teckenuppsättningen sätts till Default, grafik‑enheten till Point.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style)
@@ -72,29 +73,29 @@ public Font(string fontName, float emSize, FontStyle style)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | En strängrepresentation av[`Font`](../) namn. |
-| emSize | Single | Em-storleken, i poäng, för det nya teckensnittet. |
-| style | FontStyle | De[`FontStyle`](../../fontstyle/) av det nya typsnittet. |
+| fontName | String | En strängrepresentation av namnet på [`Font`](../). |
+| emSize | Single | Em-storleken, i punkter, för det nya teckensnittet. |
+| style | FontStyle | Den [`FontStyle`](../../fontstyle/) för det nya teckensnittet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, värderas till oändlighet eller är inte ett giltigt tal. |
-| ArgumentNullException | *fontName* är inget. |
+| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, utvärderas till oändlighet eller är inte ett giltigt tal. |
+| ArgumentNullException | *fontName* är null. |
 
 ### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, GraphicsUnit) {#constructor_5}
 
-Initierar en ny[`Font`](../) med en specificerad storlek och enhet. Teckenuppsättningen är inställd påDefault är stilen inställd påRegular .
+Initierar ett nytt [`Font`](../) med en angiven storlek och enhet. Teckenuppsättningen sätts till Default, stilen sätts till Regular.
 
 ```csharp
 public Font(string fontName, float emSize, GraphicsUnit unit)
@@ -102,29 +103,29 @@ public Font(string fontName, float emSize, GraphicsUnit unit)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | En strängrepresentation av[`Font`](../) namn. |
-| emSize | Single | Em-storleken på det nya teckensnittet i de enheter som anges av*unit* parameter. |
-| unit | GraphicsUnit | De[`GraphicsUnit`](../../graphicsunit/) av det nya typsnittet. |
+| fontName | String | En strängrepresentation av namnet på [`Font`](../). |
+| emSize | Single | Em-storleken för det nya teckensnittet i de enheter som anges av parametern *unit*. |
+| unit | GraphicsUnit | Den [`GraphicsUnit`](../../graphicsunit/) för det nya teckensnittet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, värderas till oändlighet eller är inte ett giltigt tal. |
-| ArgumentNullException | *fontName* är inget. |
+| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, utvärderas till oändlighet eller är inte ett giltigt tal. |
+| ArgumentNullException | *fontName* är null. |
 
 ### Se även
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit, CharacterSet) {#constructor_4}
 
-Initierar en ny[`Font`](../) med en specificerad storlek, stil, enhet och teckenuppsättning.
+Initierar ett nytt [`Font`](../) med en angiven storlek, stil, enhet och teckenuppsättning.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit, 
@@ -133,18 +134,18 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | En strängrepresentation av[`Font`](../) namn. |
-| emSize | Single | Em-storleken på det nya teckensnittet i de enheter som anges av*unit* parameter. |
-| style | FontStyle | De[`FontStyle`](../../fontstyle/) av det nya typsnittet. |
-| unit | GraphicsUnit | De[`GraphicsUnit`](../../graphicsunit/) av det nya typsnittet. |
+| fontName | String | En strängrepresentation av namnet på [`Font`](../). |
+| emSize | Single | Em-storleken för det nya teckensnittet i de enheter som anges av parametern *unit*. |
+| style | FontStyle | Den [`FontStyle`](../../fontstyle/) för det nya teckensnittet. |
+| unit | GraphicsUnit | Den [`GraphicsUnit`](../../graphicsunit/) för det nya teckensnittet. |
 | characterSet | CharacterSet | En teckenuppsättning att använda för detta teckensnitt. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, värderas till oändlighet eller är inte ett giltigt tal. |
-| ArgumentNullException | *fontName* är inget. |
+| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, utvärderas till oändlighet eller är inte ett giltigt tal. |
+| ArgumentNullException | *fontName* är null. |
 
 ### Se även
 
@@ -152,14 +153,14 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 * enum [GraphicsUnit](../../graphicsunit/)
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-Initierar en ny[`Font`](../) använder en specificerad storlek, stil och enhet.
+Initierar ett nytt [`Font`](../) med en angiven storlek, stil och enhet.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
@@ -167,24 +168,24 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fontName | String | En strängrepresentation av[`Font`](../) namn. |
-| emSize | Single | Em-storleken på det nya teckensnittet i de enheter som anges av*unit* parameter. |
-| style | FontStyle | De[`FontStyle`](../../fontstyle/) av det nya typsnittet. |
-| unit | GraphicsUnit | De[`GraphicsUnit`](../../graphicsunit/) av det nya typsnittet. |
+| fontName | String | En strängrepresentation av namnet på [`Font`](../). |
+| emSize | Single | Em-storleken för det nya teckensnittet i de enheter som anges av parametern *unit*. |
+| style | FontStyle | Den [`FontStyle`](../../fontstyle/) för det nya teckensnittet. |
+| unit | GraphicsUnit | Den [`GraphicsUnit`](../../graphicsunit/) för det nya teckensnittet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, värderas till oändlighet eller är inte ett giltigt tal. |
-| ArgumentNullException | *fontName* är inget. |
+| ArgumentOutOfRangeException | *emSize* är mindre än eller lika med 0, utvärderas till oändlighet eller är inte ett giltigt tal. |
+| ArgumentNullException | *fontName* är null. |
 
 ### Se även
 
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* namnutrymme [Aspose.PSD](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

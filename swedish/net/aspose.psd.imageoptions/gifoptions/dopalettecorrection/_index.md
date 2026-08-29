@@ -1,31 +1,32 @@
 ---
-title: GifOptions.DoPaletteCorrection
-second_title: Aspose.PSD för .NET API-referens
-description: GifOptions fast egendom. Hämtar eller ställer in ett värde som anger om palettkorrigering tillämpas.
+title: "GifOptions.DoPaletteCorrection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GifOptions egenskap. Hämtar eller anger ett värde som indikerar om palettkorrigering tillämpas"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.imageoptions/gifoptions/dopalettecorrection/
 ---
+{{< psd/tize >}}
 ## GifOptions.DoPaletteCorrection property
 
-Hämtar eller ställer in ett värde som anger om palettkorrigering tillämpas.
+Hämtar eller anger ett värde som visar om palettkorrigering tillämpas.
 
 ```csharp
 public bool DoPaletteCorrection { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om palettkorrigering tillämpas; annat,`falsk` .
+`true` om palettkorrigering tillämpas; annars, `false`.
 
-### Anmärkningar
+## Anmärkningar
 
-Palettkorrigering innebär att när en bild exporteras till GIF kommer källbildens färger att analyseras för att skapa den bästa matchande paletten (om bildpaletten inte finns eller inte specificeras i alternativen). Analysprocessen tar lite tid men utdatabilden kommer att ha den bästa matchande färgpaletten och resultatet blir visuellt bättre.
+Palettkorrigering innebär att när en bild exporteras till GIF analyseras källbildens färger för att bygga den bäst matchande paletten (om bildens Palette inte finns eller inte specificerats i alternativen). Analysprocessen tar viss tid, men den resulterande bilden får den bäst matchande färgpaletten och resultatet blir visuellt bättre.
 
 ### Se även
 
 * class [GifOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../gifoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

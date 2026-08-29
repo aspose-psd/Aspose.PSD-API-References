@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokePath
-second_title: Aspose.PSD för .NET API-referens
-description: CustomLineCap fast egendom. Hämtar eller ställer in objektet som definierar konturerna för det anpassade locket.
+title: "CustomLineCap.StrokePath"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CustomLineCap‑egenskap. Hämtar eller anger objektet som definierar konturen för den anpassade spetsen."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/customlinecap/strokepath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokePath property
 
-Hämtar eller ställer in objektet som definierar konturerna för det anpassade locket.
+Hämtar eller anger objektet som definierar konturen för den anpassade toppen.
 
 ```csharp
 public GraphicsPath StrokePath { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Objektet som definierar konturerna för det anpassade locket.
+Objektet som definierar konturen för den anpassade spetsen.
 
 ### Se även
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* namnutrymme [Aspose.PSD](../../customlinecap/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Får eller ställer in ett anpassat tak som ska användas i början av linjer som ritas med dettaPen .
+title: "Pen.CustomStartCap"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger en anpassad kapsling att använda i början av linjer ritade med denna Pen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-Får eller ställer in ett anpassat tak som ska användas i början av linjer som ritas med detta[`Pen`](../) .
+Hämtar eller anger en anpassad kapsling att använda i början av linjer ritade med detta [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`CustomLineCap`](../../customlinecap/) som representerar locket som används i början av linjer som ritas med detta[`Pen`](../).
+En [`CustomLineCap`](../../customlinecap/) som representerar kapslingen som används i början av linjer ritade med detta [`Pen`](../).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`CustomStartCap` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | Egenskapen `CustomStartCap` sätts på en oföränderlig [`Pen`](../), såsom de som returneras av klassen [`Pen`](../). |
 
 ### Se även
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

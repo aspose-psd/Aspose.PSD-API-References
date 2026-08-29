@@ -1,14 +1,15 @@
 ---
-title: PointF.Empty
-second_title: Aspose.PSD för .NET API-referens
-description: PointF fast egendom. Får en ny instans avPointF struktur som harX ochY värden satt till noll.
+title: "PointF.Empty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PointF-egenskap. Hämtar en ny instans av PointF-strukturen som har X- och Y-värden satta till noll"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/pointf/empty/
 ---
+{{< psd/tize >}}
 ## PointF.Empty property
 
-Får en ny instans av[`PointF`](../) struktur som har[`X`](../x/) och[`Y`](../y/) värden satt till noll.
+Hämtar en ny instans av [`PointF`](../) strukturen som har [`X`](../x/) och [`Y`](../y/) värden satta till noll.
 
 ```csharp
 public static PointF Empty { get; }
@@ -17,7 +18,7 @@ public static PointF Empty { get; }
 ### Se även
 
 * struct [PointF](../)
-* namnutrymme [Aspose.PSD](../../pointf/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

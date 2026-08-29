@@ -1,22 +1,23 @@
 ---
-title: Enum ExifSaturation
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Exif.Enums.ExifSaturation uppräkning. exif saturation enum.
+title: "Enum ExifSaturation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation enum. exif-mättnad enum"
 type: docs
-weight: 920
+weight: 930
 url: /sv/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-exif saturation enum.
+exif mättnad enum.
 
 ```csharp
 public enum ExifSaturation
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Normal | `0` | Normal mättnad. |
 | Low | `1` | Låg mättnad. |
@@ -24,7 +25,7 @@ public enum ExifSaturation
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

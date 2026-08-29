@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Brushes
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet tillhandahåller hjälpklasser och metoder för att arbeta med olika borsttyper.
+title: "Aspose.PSD.Brushes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet tillhandahåller hjälparklasser och metoder för att arbeta med olika penseltyper."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.brushes/
 ---
-Namnutrymmet tillhandahåller hjälpklasser och metoder för att arbeta med olika borsttyper.
+{{< psd/tize >}}
+Namnområdet tillhandahåller hjälparklasser och metoder för att arbeta med olika penseltyper.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [HatchBrush](./hatchbrush/) | Definierar en rektangulär pensel med en skräckstil, en förgrundsfärg och en bakgrundsfärg. Denna klass kan inte ärvas. |
-| [LinearGradientBrush](./lineargradientbrush/) | Kapslar in en[`Brush`](../aspose.psd/brush/) med en linjär gradient. Denna klass kan inte ärvas. |
-| [LinearGradientBrushBase](./lineargradientbrushbase/) | Representerar en[`Brush`](../aspose.psd/brush/) med gradientfunktioner och lämpliga egenskaper. |
-| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | Representerar en[`Brush`](../aspose.psd/brush/) med linjär gradient definierad av flera färger och lämpliga positioner. Denna klass kan inte ärvas. |
-| [PathGradientBrush](./pathgradientbrush/) | Kapslar in en[`Brush`](../aspose.psd/brush/) objekt med en gradient. Denna klass kan inte ärvas. |
-| [PathGradientBrushBase](./pathgradientbrushbase/) | Representerar en[`Brush`](../aspose.psd/brush/) med basbanagradientfunktion. |
-| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Kapslar in en[`Brush`](../aspose.psd/brush/) objekt med en gradient. Denna klass kan inte ärvas. |
-| [SolidBrush](./solidbrush/) | Solid pensel är avsedd för att rita kontinuerligt med specifik färg. Denna klass kan inte ärvas. |
-| [TextureBrush](./texturebrush/) | Varje egenskap i[`TextureBrush`](../aspose.psd.brushes/texturebrush/) klass är en[`Brush`](../aspose.psd/brush/) objekt som använder en bild för att fylla det inre av en form. Denna klass kan inte ärvas. |
-| [TransformBrush](./transformbrush/) | A[`Brush`](../aspose.psd/brush/) med transformationsmöjligheter. |
+| [HatchBrush](./hatchbrush/) | Definierar en rektangulär pensel med ett korsningsmönster, en förgrundsfärg och en bakgrundsfärg. Denna klass kan inte ärvas. |
+| [LinearGradientBrush](./lineargradientbrush/) | Inkapslar en [`Brush`](../aspose.psd/brush/) med en linjär gradient. Denna klass kan inte ärvas. |
+| [LinearGradientBrushBase](./lineargradientbrushbase/) | Representerar en [`Brush`](../aspose.psd/brush/) med gradientfunktioner och lämpliga egenskaper. |
+| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | Representerar en [`Brush`](../aspose.psd/brush/) med linjär gradient definierad av flera färger och lämpliga positioner. Denna klass kan inte ärvas. |
+| [PathGradientBrush](./pathgradientbrush/) | Inkapslar ett [`Brush`](../aspose.psd/brush/)‑objekt med en gradient. Denna klass kan inte ärvas. |
+| [PathGradientBrushBase](./pathgradientbrushbase/) | Representerar en [`Brush`](../aspose.psd/brush/) med funktionalitet för basvägsgradient. |
+| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Inkapslar ett [`Brush`](../aspose.psd/brush/)‑objekt med en gradient. Denna klass kan inte ärvas. |
+| [SolidBrush](./solidbrush/) | Solid brush är avsedd för kontinuerlig ritning med en specifik färg. Denna klass kan inte ärvas. |
+| [TextureBrush](./texturebrush/) | Varje egenskap i klassen [`TextureBrush`](../aspose.psd.brushes/texturebrush/) är ett [`Brush`](../aspose.psd/brush/)‑objekt som använder en bild för att fylla insidan av en form. Denna klass kan inte ärvas. |
+| [TransformBrush](./transformbrush/) | En [`Brush`](../aspose.psd/brush/) med transformfunktioner. |
 
 

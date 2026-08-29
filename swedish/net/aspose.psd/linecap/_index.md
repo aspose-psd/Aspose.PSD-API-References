@@ -1,38 +1,39 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.LineCap uppräkning. Anger tillgängliga capstilar med vilka enPen objekt kan avsluta en rad.
+title: "Enum LineCap"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.LineCap-enum. Anger de tillgängliga spetsstilarna som ett `Pen`-objekt kan avsluta en linje med."
 type: docs
-weight: 5060
+weight: 5550
 url: /sv/net/aspose.psd/linecap/
 ---
+{{< psd/tize >}}
 ## LineCap enumeration
 
-Anger tillgängliga cap-stilar med vilka en[`Pen`](../pen/) objekt kan avsluta en rad.
+Anger de tillgängliga spetsstilarna som ett [`Pen`](../pen/)-objekt kan avsluta en linje med.
 
 ```csharp
 public enum LineCap
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Flat | `0` | Anger ett platt linjelock. |
-| Square | `1` | Anger en fyrkantig linjekapsel. |
-| Round | `2` | Anger en rund linjekapsel. |
-| Triangle | `3` | Anger en triangulär linjekapsel. |
+| Flat | `0` | Anger en platt linjespets. |
+| Square | `1` | Anger en fyrkantig linjespets. |
+| Round | `2` | Anger en rund linjespets. |
+| Triangle | `3` | Anger en triangulär linjespets. |
 | NoAnchor | `16` | Anger inget ankare. |
-| SquareAnchor | `17` | Anger en fyrkantig ankarlinjekapsel. |
-| RoundAnchor | `18` | Anger en rund ankarlock. |
-| DiamondAnchor | `19` | Anger en diamantförankringshatt. |
-| ArrowAnchor | `20` | Anger en pilformad ankarlock. |
-| AnchorMask | `240` | Anger ett anpassat linjetak. |
-| Custom | `255` | Anger en mask som används för att kontrollera om ett linjeskydd är ett ankarlock. |
+| SquareAnchor | `17` | Anger en fyrkantig ankarlinjespets. |
+| RoundAnchor | `18` | Anger en rund ankarspets. |
+| DiamondAnchor | `19` | Anger en diamantankarspets. |
+| ArrowAnchor | `20` | Anger en pilformad ankarspets. |
+| AnchorMask | `240` | Anger en anpassad linjespets. |
+| Custom | `255` | Anger en mask som används för att kontrollera om en linjespets är en ankarspets. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

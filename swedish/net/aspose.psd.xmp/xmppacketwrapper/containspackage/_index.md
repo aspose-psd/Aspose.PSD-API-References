@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPacketWrapper metod. Avgör om paketet finns i xmp wrapper.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPacketWrapper‑metod. Avgör om paketet finns i XMP‑omslaget"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-Avgör om paketet finns i xmp wrapper.
+Bestämmer om paketet finns i xmp-wrapper.
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
@@ -16,16 +17,16 @@ public bool ContainsPackage(string namespaceUri)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| namespaceUri | String | Paketschema uri. |
+| namespaceUri | String | Paketets schema‑uri. |
 
 ### Returvärde
 
-Returnerar sant om paket med specificerad namnutrymme Uri finns i XMP-omslag.
+Returnerar true om paket med angiven namnrymd‑URI finns i XMP‑omslaget.
 
 ### Se även
 
 * class [XmpPacketWrapper](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

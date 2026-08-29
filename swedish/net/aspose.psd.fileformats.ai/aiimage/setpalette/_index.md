@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetPalette
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage metod. Ställer in bildpaletten.
+title: "AiImage.SetPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-metod. Ställer in bildpaletten."
 type: docs
-weight: 170
+weight: 200
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
 Ställer in bildpaletten.
@@ -16,12 +17,12 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| palette | IColorPalette | Paletten att ställa in. |
-| updateColors | Boolean | om inställt på`Sann` färger kommer att uppdateras enligt den nya paletten; annars förblir färgindexen oförändrade. Observera att oförändrade index kan krascha bilden vid laddning om vissa index inte har några motsvarande palettposter. |
+| palett | IColorPalette | Paletten att sätta. |
+| updateColors | Boolean | om den är satt till `true` uppdateras färgerna enligt den nya paletten; annars förblir färgindexen oförändrade. Observera att oförändrade index kan få bilden att krascha vid inläsning om vissa index saknar motsvarande palettposter. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | NotImplementedException | Ej implementerad |
 
@@ -29,7 +30,7 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

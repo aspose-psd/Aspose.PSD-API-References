@@ -1,22 +1,23 @@
 ---
-title: LayerStateEffects.Effects
-second_title: Aspose.PSD för .NET API-referens
-description: LayerStateEffects fast egendom. Får lagereffekterna.
+title: "LayerStateEffects.Effects"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerStateEffects egenskap. Hämtar lagereffekterna"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/effects/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.Effects property
 
-Får lagereffekterna.
+Hämtar lagereffekterna.
 
 ```csharp
 public ILayerEffect[] Effects { get; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för effekter i tidslinjeramar.
+Följande kod demonstrerar stöd för effekter i Timeline-ramar.
 
 ```csharp
 [C#]
@@ -26,19 +27,16 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
@@ -48,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * interface [ILayerEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/)
 * class [LayerStateEffects](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

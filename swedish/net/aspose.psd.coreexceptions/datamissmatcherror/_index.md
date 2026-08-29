@@ -1,14 +1,15 @@
 ---
-title: Class DataMissmatchError
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.DataMissmatchError klass. Datamissmatch undantag class
+title: "Klass DataMissmatchError"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.DataMissmatchError-klass. Dataavstämningsundantagsklass"
 type: docs
 weight: 470
 url: /sv/net/aspose.psd.coreexceptions/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError class
 
-Datamissmatch undantag class
+Data mismatch undantagsklass
 
 ```csharp
 public class DataMissmatchError : Exception
@@ -16,13 +17,13 @@ public class DataMissmatchError : Exception
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DataMissmatchError](datamissmatcherror/)(string) | Initierar en ny instans av`DataMissmatchError` class. |
+| [DataMissmatchError](datamissmatcherror/)(string) | Initierar en ny instans av klassen `DataMissmatchError`. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: PsdColorPalette.IsCompactPalette
-second_title: Aspose.PSD för .NET API-referens
-description: PsdColorPalette fast egendom. Får ett värde som indikerar om paletten är kompakt.
+title: "PsdColorPalette.IsCompactPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdColorPalette-egenskap. Hämtar ett värde som indikerar om paletten är kompakt"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd/psdcolorpalette/iscompactpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.IsCompactPalette property
 
-Får ett värde som indikerar om paletten är kompakt.
+Hämtar ett värde som indikerar om paletten är kompakt.
 
 ```csharp
 public bool IsCompactPalette { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om kompakt det palett; annat,`falsk`.
+`true` om paletten är kompakt; annars, `false`.
 
-### Anmärkningar
+## Anmärkningar
 
-Kompakt palett betyder att bilden endast kommer att innehålla de angivna palettposterna om möjligt eller med andra ord blir bilden mer kompakt och tar mindre plats; annars kommer det att finnas 2^BitsPerPixel poster och bilden kommer att reservera mer utrymme för alla möjliga palettposter . Om du ställer in detta värde på sant och ändrar palettposter kan det leda till prestationsstraff eftersom datarörelser kan inträffa så använd det försiktigt.
+Kompakt palett innebär att bilden endast kommer att innehålla de angivna palettposterna om möjligt, med andra ord blir bilden mer kompakt och upptar mindre utrymme; annars kommer det att finnas 2^BitsPerPixel poster och bilden kommer att reservera mer utrymme för alla möjliga palettposter. Att sätta detta värde till true och ändra palettposter kan medföra prestandapåverkan eftersom dataförflyttning kan ske, så använd det försiktigt.
 
 ### Se även
 
 * class [PsdColorPalette](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

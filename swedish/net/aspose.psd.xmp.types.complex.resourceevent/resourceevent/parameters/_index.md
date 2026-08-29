@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Parameters
-second_title: Aspose.PSD för .NET API-referens
-description: ResourceEvent fast egendom. Hämtar eller ställer in den ytterligare beskrivningen av åtgärden.
+title: "ResourceEvent.Parameters"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ResourceEvent‑egenskap. Hämtar eller anger den ytterligare beskrivningen av åtgärden."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Parameters property
 
-Hämtar eller ställer in den ytterligare beskrivningen av åtgärden.
+Hämtar eller anger den ytterligare beskrivningen av åtgärden.
 
 ```csharp
 public string Parameters { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den ytterligare beskrivningen av åtgärden.
 
 ### Se även
 
 * class [ResourceEvent](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

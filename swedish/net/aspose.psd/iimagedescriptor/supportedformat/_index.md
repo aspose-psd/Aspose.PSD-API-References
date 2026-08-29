@@ -1,28 +1,29 @@
 ---
-title: IImageDescriptor.SupportedFormat
-second_title: Aspose.PSD för .NET API-referens
-description: IImageDescriptor fast egendom. Får det format som stöds.
+title: "IImageDescriptor.SupportedFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IImageDescriptor-egenskap. Hämtar det stödda formatet"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/iimagedescriptor/supportedformat/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor.SupportedFormat property
 
-Får det format som stöds.
+Hämtar det stödda formatet.
 
 ```csharp
 public FileFormat SupportedFormat { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Formatet som stöds.
+Det stödda formatet.
 
 ### Se även
 
 * enum [FileFormat](../../fileformat/)
 * interface [IImageDescriptor](../)
-* namnutrymme [Aspose.PSD](../../iimagedescriptor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

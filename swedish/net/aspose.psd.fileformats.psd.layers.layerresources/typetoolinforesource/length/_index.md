@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfoResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "TypeToolInfoResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar lagerresursens längd i byte"
 type: docs
-weight: 120
+weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

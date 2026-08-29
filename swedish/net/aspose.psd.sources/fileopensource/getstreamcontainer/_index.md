@@ -1,11 +1,12 @@
 ---
-title: FileOpenSource.GetStreamContainer
-second_title: Aspose.PSD för .NET API-referens
-description: FileOpenSource metod. Hämtar strömbehållaren.
+title: "FileOpenSource.GetStreamContainer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FileOpenSource metod. Hämtar strömbehållaren"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.sources/fileopensource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.GetStreamContainer method
 
 Hämtar strömbehållaren.
@@ -18,15 +19,15 @@ public override StreamContainer GetStreamContainer()
 
 strömbehållaren.
 
-### Anmärkningar
+## Anmärkningar
 
-Använd med försiktighet. Du måste kassera strömbehållaren efter hämtning.
+Använd med försiktighet. Du måste disponera strömbehållaren efter hämtning.
 
 ### Se även
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FileOpenSource](../)
-* namnutrymme [Aspose.PSD.Sources](../../fileopensource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

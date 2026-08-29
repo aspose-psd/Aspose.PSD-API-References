@@ -1,27 +1,28 @@
 ---
-title: XmpResource.DataSize
-second_title: Aspose.PSD för .NET API-referens
-description: XmpResource fast egendom. Hämtar resursdatastorleken i byte.
+title: "XmpResource.DataSize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpResource egenskap. Hämtar resursens datastorlek i byte"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.resources/xmpresource/datasize/
 ---
+{{< psd/tize >}}
 ## XmpResource.DataSize property
 
-Hämtar resursdatastorleken i byte.
+Hämtar resursens datastorlek i byte.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Resursdatastorleken.
+Resursens datastorlek.
 
 ### Se även
 
 * class [XmpResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

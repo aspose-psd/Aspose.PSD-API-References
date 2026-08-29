@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDynamicMediaPackage metod. Ställer in användarens loggkommentar.
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDynamicMediaPackage-metoden. Anger användarens loggkommentar"
 type: docs
 weight: 270
 url: /sv/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
 Ställer in användarens loggkommentar.
@@ -21,7 +22,7 @@ public void SetLogComment(string comment)
 ### Se även
 
 * class [XmpDynamicMediaPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

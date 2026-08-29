@@ -1,14 +1,15 @@
 ---
-title: CurveShape.CurveShape
-second_title: Aspose.PSD för .NET API-referens
-description: CurveShape byggare. Initierar en ny instans avCurveShape class.
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurveShape-konstruktor. Initierar en ny instans av CurveShape-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-Initierar en ny instans av[`CurveShape`](../) class.
+Initierar en ny instans av [`CurveShape`](../)-klassen.
 
 ```csharp
 public CurveShape()
@@ -17,14 +18,14 @@ public CurveShape()
 ### Se även
 
 * class [CurveShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../curveshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-Initierar en ny instans av[`CurveShape`](../) klass. Standardspänningen på 0,5 används.
+Initierar en ny instans av [`CurveShape`](../)-klassen. Standardspänningen 0,5 används.
 
 ```csharp
 public CurveShape(PointF[] points)
@@ -32,20 +33,20 @@ public CurveShape(PointF[] points)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| points | PointF[] | Poängarrayen. |
+| punkter | PointF[] | Punktarrayen. |
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../curveshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-Initierar en ny instans av[`CurveShape`](../) klass. Standardspänningen på 0,5 används.
+Initierar en ny instans av [`CurveShape`](../)-klassen. Standardspänningen 0,5 används.
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
@@ -53,21 +54,21 @@ public CurveShape(PointF[] points, bool isClosed)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| points | PointF[] | Poängarrayen. |
-| isClosed | Boolean | om inställt på`Sann` kurvan är stängd. |
+| punkter | PointF[] | Punktarrayen. |
+| isClosed | Boolean | Om den är satt till `true` är kurvan sluten. |
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../curveshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-Initierar en ny instans av[`CurveShape`](../) class.
+Initierar en ny instans av [`CurveShape`](../)-klassen.
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
@@ -75,21 +76,21 @@ public CurveShape(PointF[] points, float tension)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| points | PointF[] | Poängarrayen. |
-| tension | Single | Kurvspänningen. |
+| punkter | PointF[] | Punktarrayen. |
+| spänning | Single | Kurvans spänning. |
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../curveshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-Initierar en ny instans av[`CurveShape`](../) class.
+Initierar en ny instans av [`CurveShape`](../)-klassen.
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
@@ -97,15 +98,15 @@ public CurveShape(PointF[] points, float tension, bool isClosed)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| points | PointF[] | Poängarrayen. |
-| tension | Single | Kurvspänningen. |
-| isClosed | Boolean | om inställt på`Sann` kurvan är stängd. |
+| punkter | PointF[] | Punktarrayen. |
+| spänning | Single | Kurvans spänning. |
+| isClosed | Boolean | Om den är satt till `true` är kurvan sluten. |
 
 ### Se även
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../curveshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

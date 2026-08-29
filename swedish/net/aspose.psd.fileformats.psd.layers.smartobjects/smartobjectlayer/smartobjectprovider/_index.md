@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.SmartObjectProvider
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectLayer fast egendom. Får leverantören av smarta objekt.
+title: "SmartObjectLayer.SmartObjectProvider"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectLayer‑egenskap. Hämtar smartobjektleverantören"
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartObjectProvider property
 
-Får leverantören av smarta objekt.
+Hämtar den smarta objektleverantören.
 
 ```csharp
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Leverantören av smarta objekt.
+Smartobjektleverantören.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för uppdatering av länkade smarta objekt.
+Följande kod demonstrerar stöd för att uppdatera länkade Smart-objekt.
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Det här exemplet visar hur man uppdaterar det externa eller inbäddade smarta objektlagret med dessa metoder:
+// Detta exempel visar hur man uppdaterar det externa eller inbäddade smartobjektlagret med hjälp av dessa metoder:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -67,7 +68,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Det här exemplet visar hur man ändrar det smarta objektlagret i PSD-filen och exporterar / uppdaterar dess innehåll.
+    // Detta exempel visar hur man ändrar smartobjektlagret i PSD-filen och exporterar / uppdaterar dess innehåll.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -88,13 +89,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Låt oss exportera den externa smarta objektbilden från PSD-smarta objektlagret till en ny plats
-            // eftersom vi kommer att modifiera det.
+            // Låt oss exportera den externa smartobjektbilden från PSD:s smartobjektlager till en ny plats
+            // eftersom vi ska modifiera den.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // Låt oss invertera innehållet i det smarta objektet: inre (ej cachad) bild
+        // Låt oss invertera innehållet i smartobjektet: inre (ej cachad) bild
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -105,18 +106,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // Låt oss kontrollera om det modifierade innehållet inte påverkar renderingen ännu.
+        // Låt oss kontrollera om det modifierade innehållet ännu inte påverkar rendering.
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Låt oss kontrollera om det uppdaterade innehållet påverkar renderingen och psd-bilden sparas korrekt
+        // Låt oss kontrollera om det uppdaterade innehållet påverkar rendering och om PSD-bilden sparas korrekt
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Det här exemplet visar hur man konverterar det inbäddade smarta objektet till externt länkat innehåll med metoden ConvertToLinked.
+// Detta exempel visar hur man konverterar det inbäddade smartobjektet till externa länkade innehåll med hjälp av metoden ConvertToLinked.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -136,7 +137,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // Detta visar hur man konverterar ett inbäddat smart objektlager i PSD-filen till ett externt.
+    // Detta visar hur man konverterar ett inbäddat smartobjektlager i PSD-filen till ett externt.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -174,7 +175,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// Det här exemplet visar hur man bäddar in ett externt smart objektlager eller alla länkade lager i PSD-filen med metoden EmbedLinked.
+// Detta exempel visar hur man bäddar in ett externt smartobjektlager eller alla länkade lager i PSD-filen med hjälp av metoden EmbedLinked.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -235,8 +236,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Det här exemplet visar hur du ändrar Adobe® Photoshop® externa smarta objektlager och exporterar/uppdaterar dess innehåll
-// med metoderna ExportContents och ReplaceContents.
+// Detta exempel visar hur man ändrar Adobe® Photoshop® externa smartobjektlager och exporterar / uppdaterar dess innehåll
+// med hjälp av metoderna ExportContents och ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -262,10 +263,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Låt oss exportera den länkade smarta objektbilden från PSD-smarta objektlagret
+        // Låt oss exportera den länkade smartobjektbilden från PSD:s smartobjektlager
         smartObjectLayer.ExportContents(exportPath);
 
-        // Låt oss kontrollera om originalbilden är korrekt sparad
+        // Låt oss kontrollera om den ursprungliga bilden sparas korrekt
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -273,15 +274,15 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Låt oss invertera den länkade smarta objektbilden
+            // Låt oss invertera den länkade smartobjektbilden
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Låt oss ersätta den länkade smarta objektbilden i PSD-lagret
+            // Låt oss ersätta den länkade smartobjektbilden i PSD-lagret
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // Låt oss kontrollera om den uppdaterade bilden sparas korrekt
+        // Låt oss kontrollera om den uppdaterade bilden har sparats korrekt
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -315,7 +316,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// Hämtar formattillägget.
+// Hämtar formatets filändelse.
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -327,7 +328,7 @@ string GetFormatExt(FileFormat format)
 
 * class [SmartObjectProvider](../../../aspose.psd.fileformats.psd/smartobjectprovider/)
 * class [SmartObjectLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

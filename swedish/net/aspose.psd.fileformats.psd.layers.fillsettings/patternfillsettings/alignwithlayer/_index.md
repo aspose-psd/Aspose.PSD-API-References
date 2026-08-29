@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.AlignWithLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings fast egendom. Hämtar eller ställer in ett värde som anger om länk med lager.
+title: "PatternFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings-egenskap. Hämtar eller anger ett värde som indikerar om länkas med lager"
 type: docs
-weight: 10
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.AlignWithLayer property
 
-Hämtar eller ställer in ett värde som anger om [länk med lager].
+Hämtar eller anger ett värde som indikerar om [link with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [länk med lager]; annat,`falsk` .
+`true` om [länka med lager]; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för redigering av fyllskiktsmönster.
+Följande kod demonstrerar stöd för redigering av fyllningslagrets mönster.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Se även
 
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

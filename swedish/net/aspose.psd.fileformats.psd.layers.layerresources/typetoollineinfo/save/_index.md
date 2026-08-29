@@ -1,14 +1,15 @@
 ---
-title: TypeToolLineInfo.Save
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolLineInfo metod. SpararTypeToolLineInfo information till den angivna strömbehållaren.
+title: "TypeToolLineInfo.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolLineInfo method. Sparar TypeToolLineInfo-informationen till den angivna strömbehållaren"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Save method
 
-Sparar[`TypeToolLineInfo`](../) information till den angivna strömbehållaren.
+Sparar [`TypeToolLineInfo`](../)-informationen till den angivna strömbehållaren.
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Strömbehållaren att spara till. |
+| streamContainer | StreamContainer | Den stream container som ska sparas till. |
 | psdVersion | Int32 | PSD-versionen. |
 
 ### Se även
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolLineInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

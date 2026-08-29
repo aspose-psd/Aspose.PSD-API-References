@@ -1,14 +1,15 @@
 ---
-title: Figure.RemoveShapes
-second_title: Aspose.PSD för .NET API-referens
-description: Figure metod. Tar bort ett antal former från figuren.
+title: "Figure.RemoveShapes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Figure-metoden. Tar bort ett intervall av former från figuren"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/figure/removeshapes/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShapes method
 
-Tar bort ett antal former från figuren.
+Tar bort ett intervall av former från figuren.
 
 ```csharp
 public void RemoveShapes(Shape[] shapes)
@@ -16,13 +17,13 @@ public void RemoveShapes(Shape[] shapes)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| shapes | Shape[] | Formerna varierar för att ta bort. |
+| former | Shape[] | Intervallet av former att ta bort. |
 
 ### Se även
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* namnutrymme [Aspose.PSD](../../figure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

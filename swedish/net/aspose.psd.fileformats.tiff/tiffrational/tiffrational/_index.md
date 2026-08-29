@@ -1,14 +1,15 @@
 ---
-title: TiffRational.TiffRational
-second_title: Aspose.PSD för .NET API-referens
-description: TiffRational byggare. Initierar en ny instans avTiffRational class.
+title: "TiffRational.TiffRational"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffRational konstruktor. Initierar en ny instans av TiffRational-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.tiff/tiffrational/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational() {#constructor}
 
-Initierar en ny instans av[`TiffRational`](../) class.
+Initierar en ny instans av [`TiffRational`](../)-klassen.
 
 ```csharp
 public TiffRational()
@@ -17,14 +18,14 @@ public TiffRational()
 ### Se även
 
 * class [TiffRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint) {#constructor_1}
 
-Initierar en ny instans av[`TiffRational`](../) class.
+Initierar en ny instans av [`TiffRational`](../)-klassen.
 
 ```csharp
 public TiffRational(uint value)
@@ -32,23 +33,23 @@ public TiffRational(uint value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | UInt32 | Nomineringsvärdet. |
+| värde | UInt32 | Värdet för täljaren. |
 
-### Anmärkningar
+## Anmärkningar
 
-Nämnaren kommer att användas som angivet värde och nämnaren kommer att vara lika med 1.
+Täljaren kommer att användas som det angivna värdet och nämnaren blir lika med 1.
 
 ### Se även
 
 * class [TiffRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint, uint) {#constructor_2}
 
-Initierar en ny instans av[`TiffRational`](../) class.
+Initierar en ny instans av [`TiffRational`](../)-klassen.
 
 ```csharp
 public TiffRational(uint nominator, uint denominator)
@@ -56,13 +57,13 @@ public TiffRational(uint nominator, uint denominator)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| nominator | UInt32 | Nominatorn. |
-| denominator | UInt32 | Nämnaren. |
+| täljare | UInt32 | Täljaren. |
+| nämnare | UInt32 | Nämnaren. |
 
 ### Se även
 
 * class [TiffRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

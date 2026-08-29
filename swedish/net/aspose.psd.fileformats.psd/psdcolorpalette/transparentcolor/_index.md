@@ -1,28 +1,29 @@
 ---
-title: PsdColorPalette.TransparentColor
-second_title: Aspose.PSD för .NET API-referens
-description: PsdColorPalette fast egendom. Får den genomskinliga färgen.
+title: "PsdColorPalette.TransparentColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdColorPalette-egenskap. Hämtar den transparenta färgen"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.TransparentColor property
 
-Får den genomskinliga färgen.
+Hämtar den transparenta färgen.
 
 ```csharp
 public Color TransparentColor { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den genomskinliga färgen.
+Den transparenta färgen.
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

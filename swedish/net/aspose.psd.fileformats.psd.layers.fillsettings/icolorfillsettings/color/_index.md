@@ -1,20 +1,21 @@
 ---
-title: IColorFillSettings.Color
-second_title: Aspose.PSD för .NET API-referens
-description: IColorFillSettings fast egendom. Hämtar eller ställer in färgen.
+title: "IColorFillSettings.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IColorFillSettings-egenskap. Hämtar eller anger färgen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings.Color property
 
-Hämtar eller ställer in färgen.
+Hämtar eller anger färgen.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgen.
 
@@ -22,7 +23,7 @@ Färgen.
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IColorFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../icolorfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

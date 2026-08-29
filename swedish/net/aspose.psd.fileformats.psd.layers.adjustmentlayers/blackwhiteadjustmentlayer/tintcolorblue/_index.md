@@ -1,24 +1,25 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorBlue
-second_title: Aspose.PSD för .NET API-referens
-description: BlackWhiteAdjustmentLayer fast egendom. Hämtar eller ställer in det dubbla värdet för blå nyansfärg.
+title: "BlackWhiteAdjustmentLayer.TintColorBlue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlackWhiteAdjustmentLayer egenskap. Hämtar eller anger det dubbla värdet för Blue Tint Color"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorblue/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorBlue property
 
-Hämtar eller ställer in det dubbla värdet för blå nyansfärg.
+Hämtar eller anger dubbelvärdet för blå nyansfärg.
 
 ```csharp
 public double TintColorBlue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den blå nyansen Färg dubbelt värde.
+Det dubbla värdet för Blue Tint Color.
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du redigerar en BlwhResource.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Testa redigering och spara
+                // Testa redigering och sparande
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Se även
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

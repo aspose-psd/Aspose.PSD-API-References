@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator klass. Definierar klassen SmartResourceCreator som kan skapa PlLd SoLd och SoLeresurser. Is används för att stödja smarta objektlager i Adobe Photoshopbilderna.
+title: "Klass SmartResourceCreator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator-klass. Definierar klassen SmartResourceCreator som kan skapa PlLd, SoLd och SoLe-resurser. Den används för att stödja smarta objektlager i Adobe Photoshop-bilder."
 type: docs
-weight: 3000
+weight: 3350
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-Definierar klassen SmartResourceCreator som kan skapa PlLd-, SoLd- och SoLe-resurser. Is används för att stödja smarta objektlager i Adobe® Photoshop®-bilderna.
+Definierar klassen SmartResourceCreator som kan skapa PlLd-, SoLd- och SoLe-resurser. Används för att stödja smarta objektlager i Adobe® Photoshop®-bilderna.
 
 ```csharp
 public class SmartResourceCreator
@@ -16,23 +17,23 @@ public class SmartResourceCreator
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | Initierar en ny instans av`SmartResourceCreator` class. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Initierar en ny instans av`SmartResourceCreator` class med den givna mallen. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Initierar en ny instans av`SmartResourceCreator` class. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | Initierar en ny instans av klassen `SmartResourceCreator`. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Initierar en ny instans av klassen `SmartResourceCreator` med den angivna mallen. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Initierar en ny instans av klassen `SmartResourceCreator`. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Genererar den placerade resursen. |
 | [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Genererar den inbäddade smarta objektresursen. |
 | [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Genererar den externa smarta objektresursen. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för resurserna SoLEResource, SmartObjectResource och PlacedResource.
+Följande kod demonstrerar stöd för resurserna SoLEResource, SmartObjectResource och PlacedResource.
 
 ```csharp
 [C#]
@@ -118,7 +119,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Dessa värden ändrar vi inte i resurs
+    // Dessa värden ändrar vi inte i resursen
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -127,14 +128,14 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[28] = resource.OriginalCompId;
 
     // Dessa värden bör också ändras i PlLdResource (med det angivna UniqueId).
-    // och några av dem måste vara i överensstämmelse med det understrukna smarta objektet i LinkDataSource
+    // och några av dem måste stämma överens med det underliggande smarta objektet i LinkDataSource.
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
-    resource.Value = (double)newValues[7]; // 1,23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Value = (double)newValues[7]; // 1.23456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Detta unika ID bör ändras i referenser om några
+    // Detta unika ID bör ändras i referenserna om några finns.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,12 +164,13 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Var försiktig med vissa parametrar: den sparade bilden kan bli oläslig av Adobe® Photoshop®
+    // Var försiktig med vissa parametrar: den sparade bilden kan bli oläsbar för Adobe® Photoshop®.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-    // eller ändra det understrykande smarta objektet till vektortypen
+    // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+    // eller ändra det underliggande smarta objektet till vektortypen
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
     // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -340,7 +342,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

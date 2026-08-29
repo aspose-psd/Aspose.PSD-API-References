@@ -1,32 +1,33 @@
 ---
-title: Enum PhysicalUnit
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit uppräkning. ResoulutionInfo fysiska enheten enum
+title: "Enum PhysicalUnit"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. Upplösningsinformationens fysiska enhetsenum"
 type: docs
-weight: 3860
+weight: 4330
 url: /sv/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-ResoulutionInfo fysiska enheten enum
+Den fysiska enhetsenum för resoulutionInfo
 
 ```csharp
 public enum PhysicalUnit
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Inches | `1` | Inches |
-| Centimeters | `2` | centimeterna |
-| Points | `3` | Poängen |
-| Picas | `4` | Picas-enheten |
-| Columns | `5` | Kolumnerna |
+| Inches | `1` | Tum |
+| Centimeters | `2` | Centimeter |
+| Points | `3` | Punkter |
+| Picas | `4` | Pica-enhet |
+| Columns | `5` | Kolumner |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: CurveShape.Segments
-second_title: Aspose.PSD för .NET API-referens
-description: CurveShape fast egendom. Hämtar formsegmenten.
+title: "CurveShape.Segments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CurveShape-egenskap. Hämtar formens segment"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.shapes/curveshape/segments/
 ---
+{{< psd/tize >}}
 ## CurveShape.Segments property
 
-Hämtar formsegmenten.
+Hämtar formens segment.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formsegmenten.
 
@@ -22,7 +23,7 @@ Formsegmenten.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [CurveShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../curveshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

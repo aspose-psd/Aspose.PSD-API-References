@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Xposition
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in xpositionen.
+title: "TiffOptions.Xposition"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger x-positionen"
 type: docs
-weight: 620
+weight: 630
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/xposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xposition property
 
-Hämtar eller ställer in x-positionen.
+Hämtar eller anger x‑positionen.
 
 ```csharp
 public TiffRational Xposition { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 x-positionen.
 
@@ -22,7 +23,7 @@ x-positionen.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

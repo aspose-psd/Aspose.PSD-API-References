@@ -1,11 +1,12 @@
 ---
-title: IPartialPixelLoader.Process
-second_title: Aspose.PSD för .NET API-referens
-description: IPartialPixelLoader metod. Bearbetar de laddade pixlarna.
+title: "IPartialPixelLoader.Process"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPartialPixelLoader-metod. Bearbetar de inlästa pixlarna"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/ipartialpixelloader/process/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader.Process method
 
 Bearbetar de laddade pixlarna.
@@ -17,9 +18,9 @@ public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Poin
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | pixelsRectangle | Rectangle | Pixelrektangeln. |
-| pixels | Color[] | Pixlarna. |
-| start | Point | Startpixlarnas punkt. Om inte lika med (vänster, topp) betyder det att det inte är en hel rektangel vi har. |
-| end | Point | Slutpixlarna pekar. Om inte lika med (höger, botten) betyder det att det inte är en hel rektangel vi har. |
+| pixlar | Color[] | Pixlarna. |
+| start | Punkt | Startpunkten för pixlarna. Om den inte är lika med (left,top) betyder det att vi inte har en fullständig rektangel. |
+| end | Punkt | Slutpunkten för pixlarna. Om den inte är lika med (right,bottom) betyder det att vi inte har en fullständig rektangel. |
 
 ### Se även
 
@@ -27,7 +28,7 @@ public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Poin
 * struct [Color](../../color/)
 * struct [Point](../../point/)
 * interface [IPartialPixelLoader](../)
-* namnutrymme [Aspose.PSD](../../ipartialpixelloader/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.Points
-second_title: Aspose.PSD för .NET API-referens
-description: BezierKnotRecord fast egendom. Får eller sätter poängen.
+title: "BezierKnotRecord.Points"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierKnotRecord property. Hämtar eller anger punkterna"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Points property
 
-Får eller sätter poängen.
+Hämtar eller anger punkterna.
 
 ```csharp
 public Point[] Points { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Poängen.
+Punkterna.
 
 ### Se även
 
 * struct [Point](../../../aspose.psd/point/)
 * class [BezierKnotRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

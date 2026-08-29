@@ -1,20 +1,21 @@
 ---
-title: ExifData.CompressedBitsPerPixel
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in de komprimerade bitarna per pixel.
+title: "ExifData.CompressedBitsPerPixel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger komprimerade bitar per pixel"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.exif/exifdata/compressedbitsperpixel/
 ---
+{{< psd/tize >}}
 ## ExifData.CompressedBitsPerPixel property
 
-Hämtar eller ställer in de komprimerade bitarna per pixel.
+Hämtar eller anger komprimerade bitar per pixel.
 
 ```csharp
 public TiffRational CompressedBitsPerPixel { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 De komprimerade bitarna per pixel.
 
@@ -22,7 +23,7 @@ De komprimerade bitarna per pixel.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

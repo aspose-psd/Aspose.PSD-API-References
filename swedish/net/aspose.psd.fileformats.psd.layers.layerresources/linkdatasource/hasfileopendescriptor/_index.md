@@ -1,27 +1,28 @@
 ---
-title: LinkDataSource.HasFileOpenDescriptor
-second_title: Aspose.PSD för .NET API-referens
-description: LinkDataSource fast egendom. Hämtar eller ställer in ett värde som anger om denna länkdatakälla har filen öppen deskriptor CompId och OriginalCompId.
+title: "LinkDataSource.HasFileOpenDescriptor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkDataSource-egenskap. Hämtar eller anger ett värde som indikerar om denna länkdatasource har filöppningsbeskrivaren CompId och OriginalCompId"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.HasFileOpenDescriptor property
 
-Hämtar eller ställer in ett värde som anger om denna länkdatakälla har filen öppen deskriptor: CompId och OriginalCompId.
+Hämtar eller anger ett värde som indikerar om denna länkdatas källa har filens öppna beskrivare: CompId och OriginalCompId.
 
 ```csharp
 public bool HasFileOpenDescriptor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans har en fil öppen deskriptor; annat,`falsk` .
+`true` om detta objekt har filöppningsbeskrivare; annars `false`.
 
 ### Se även
 
 * class [LinkDataSource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

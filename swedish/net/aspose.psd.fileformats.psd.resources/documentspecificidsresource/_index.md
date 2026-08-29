@@ -1,14 +1,15 @@
 ---
-title: Class DocumentSpecificIdsResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Resources.DocumentSpecificIdsResource klass. Dokumentspecifika Idresurs
+title: "Class DocumentSpecificIdsResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Resources.DocumentSpecificIdsResource klass. Dokumentspecifika ID-resurs"
 type: docs
-weight: 3690
+weight: 4150
 url: /sv/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource class
 
-Dokumentspecifika Id-resurs
+Dokumentspecifika ID‑resurs
 
 ```csharp
 public sealed class DocumentSpecificIdsResource : ResourceBlock
@@ -16,25 +17,25 @@ public sealed class DocumentSpecificIdsResource : ResourceBlock
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [DocumentSpecificIdsResource](documentspecificidsresource/)() | Default_Constructor |
+| [DocumentSpecificIdsResource](documentspecificidsresource/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/datasize/) { get; } | Hämtar resursdatastorleken i byte. |
-| [Id](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/) { get; set; } | Hämtar eller ställer in identifieraren. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller ställer in den unika identifieraren för resursen. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/minimalversion/) { get; } | Får den minsta nödvändiga PSD-versionen. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller ställer in resursnamnet. Pascal-sträng, vadderad för att göra storleken jämn (ett nollnamn består av två byte på 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resurssignaturen. Bör alltid vara '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockstorleken i byte inklusive dess data. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/datasize/) { get; } | Hämtar resursens datastorlek i byte. |
+| [Id](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/) { get; set; } | Hämtar eller anger identifieraren. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Hämtar eller anger den unika identifieraren för resursen. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/documentspecificidsresource/minimalversion/) { get; } | Hämtar den minsta erforderliga PSD-versionen. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Hämtar eller anger resursnamnet. Pascal-sträng, utfylld för att göra storleken jämn (ett nullnamn består av två nollbyte). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Hämtar resursens signatur. Ska alltid vara '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Hämtar resursblockets storlek i byte inklusive dess data. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Sparar resursblocket till den angivna strömmen. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Validerar resursvärdena. |
@@ -42,7 +43,7 @@ public sealed class DocumentSpecificIdsResource : ResourceBlock
 ### Se även
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

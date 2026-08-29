@@ -1,14 +1,15 @@
 ---
-title: Layer.MergeLayerTo
-second_title: Aspose.PSD för .NET API-referens
-description: Layer metod. Slår ihop lagret till specificerat lager
+title: "Layer.MergeLayerTo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-metod. Slår ihop lagret med angivet lager"
 type: docs
-weight: 360
+weight: 380
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
-Slår ihop lagret till specificerat lager
+Slår samman lagret med angivet lager.
 
 ```csharp
 public virtual void MergeLayerTo(Layer layerToMergeInto)
@@ -16,12 +17,12 @@ public virtual void MergeLayerTo(Layer layerToMergeInto)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| layerToMergeInto | Layer | Lagret att slås samman till. |
+| layerToMergeInto | Lager | Lagret att slå ihop med. |
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

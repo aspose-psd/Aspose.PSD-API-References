@@ -1,11 +1,12 @@
 ---
-title: PattResource.PsdVersion
-second_title: Aspose.PSD för .NET API-referens
-description: PattResource fast egendom. Hämtar psdversionen.
+title: "PattResource.PsdVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PattResource-egenskapen. Hämtar psd-versionen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion/
 ---
+{{< psd/tize >}}
 ## PattResource.PsdVersion property
 
 Hämtar psd-versionen.
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Se även
 
 * class [PattResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

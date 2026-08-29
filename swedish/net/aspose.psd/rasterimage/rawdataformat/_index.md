@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Hämtar rådataformatet.
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-egenskap. Hämtar rådataformatet"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
 Hämtar rådataformatet.
@@ -14,15 +15,15 @@ Hämtar rådataformatet.
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rådataformatet.
+Det råa dataformatet.
 
 ### Se även
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.Item
-second_title: Aspose.PSD för .NET API-referens
-description: LnkeResource fast egendom. FårLiFeDataSource vid angivet index.
+title: "LnkeResource.Item"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LnkeResource-egenskap. Hämtar LiFeDataSource på det angivna indexet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-Får[`LiFeDataSource`](../../lifedatasource/) vid angivet index.
+Hämtar [`LiFeDataSource`](../../lifedatasource/) på det angivna indexet.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
@@ -20,17 +21,17 @@ public LiFeDataSource this[int index] { get; }
 
 ### Returvärde
 
-Den[`LiFeDataSource`](../../lifedatasource/) instans.
+Instansen [`LiFeDataSource`](../../lifedatasource/).
 
-### Fastighetsvärde
+### Property Value
 
-Den[`LiFeDataSource`](../../lifedatasource/) .
+Den [`LiFeDataSource`](../../lifedatasource/).
 
 ### Se även
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

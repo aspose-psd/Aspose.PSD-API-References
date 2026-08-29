@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: Aspose.PSD för .NET API-referens
-description: TiffSRational byggare. Initierar en ny instans avTiffSRational class.
+title: "TiffSRational.TiffSRational"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffSRational-konstruktor. Initierar en ny instans av TiffSRational-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.tiff/tiffsrational/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational() {#constructor}
 
-Initierar en ny instans av[`TiffSRational`](../) class.
+Initierar en ny instans av klassen [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational()
@@ -17,14 +18,14 @@ public TiffSRational()
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
-Initierar en ny instans av[`TiffRational`](../../tiffrational/) class.
+Initierar en ny instans av klassen [`TiffRational`](../../tiffrational/).
 
 ```csharp
 public TiffSRational(int value)
@@ -32,23 +33,23 @@ public TiffSRational(int value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Int32 | Nomineringsvärdet. |
+| värde | Int32 | Värdet för täljaren. |
 
-### Anmärkningar
+## Anmärkningar
 
-Nämnaren kommer att användas som angivet värde och nämnaren kommer att vara lika med 1.
+Täljaren kommer att användas som det angivna värdet och nämnaren blir lika med 1.
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int, int) {#constructor_2}
 
-Initierar en ny instans av[`TiffSRational`](../) class.
+Initierar en ny instans av klassen [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational(int nominator, int denominator)
@@ -56,13 +57,13 @@ public TiffSRational(int nominator, int denominator)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| nominator | Int32 | Nominatorn. |
-| denominator | Int32 | Nämnaren. |
+| täljare | Int32 | Täljaren. |
+| nämnare | Int32 | Nämnaren. |
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

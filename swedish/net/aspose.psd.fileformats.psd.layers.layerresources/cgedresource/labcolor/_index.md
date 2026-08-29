@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.LabColor
-second_title: Aspose.PSD för .NET API-referens
-description: CgEdResource fast egendom. Hämtar eller ställer in ett värde som anger om labbfärg används.
+title: "CgEdResource.LabColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CgEdResource-egenskapen. Hämtar eller anger ett värde som indikerar om lab-färg används"
 type: docs
-weight: 60
+weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/
 ---
+{{< psd/tize >}}
 ## CgEdResource.LabColor property
 
-Hämtar eller ställer in ett värde som anger om [labbfärg] används.
+Hämtar eller anger ett värde som indikerar om [lab color] används.
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann`om den används [labbfärg]; annat,`falsk` .
+`true` om [lab color] används; annars `false`.
 
 ### Se även
 
 * class [CgEdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

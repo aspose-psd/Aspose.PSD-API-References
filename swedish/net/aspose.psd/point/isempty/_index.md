@@ -1,14 +1,15 @@
 ---
-title: Point.IsEmpty
-second_title: Aspose.PSD för .NET API-referens
-description: Point fast egendom. Får ett värde som indikerar om dettaPoint är tom.
+title: "Point.IsEmpty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-egenskap. Hämtar ett värde som indikerar om detta Point är tomt"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/point/isempty/
 ---
+{{< psd/tize >}}
 ## Point.IsEmpty property
 
-Får ett värde som indikerar om detta[`Point`](../) är tom.
+Hämtar ett värde som indikerar om detta [`Point`](../) är tomt.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### Returvärde
 
-Sant om båda[`X`](../x/) och[`Y`](../y/) är 0; annars falskt.
+Sant om både [`X`](../x/) och [`Y`](../y/) är 0; annars falskt.
 
 ### Se även
 
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

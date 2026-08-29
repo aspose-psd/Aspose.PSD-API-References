@@ -1,20 +1,21 @@
 ---
-title: CmxRasterizationOptions.Positioning
-second_title: Aspose.PSD för .NET API-referens
-description: CmxRasterizationOptions fast egendom. Får eller ställer in positioneringen.
+title: "CmxRasterizationOptions.Positioning"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmxRasterizationOptions egenskap. Hämtar eller anger positioneringen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions.Positioning property
 
-Får eller ställer in positioneringen.
+Hämtar eller anger positioneringen.
 
 ```csharp
 public PositioningTypes Positioning { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Positioneringen.
 
@@ -22,7 +23,7 @@ Positioneringen.
 
 * enum [PositioningTypes](../../positioningtypes/)
 * class [CmxRasterizationOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Aspose.PSD för .NET API-referens
-description: LayerState byggare. Initierar en ny instans avLayerState class.
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerState-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-Initierar en ny instans av[`LayerState`](../) class.
+Standardkonstruktorn.
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| layerId | Int32 | Id för att identifiera tillståndet för det relaterade lagret. |
 
 ### Se även
 
 * class [LayerState](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

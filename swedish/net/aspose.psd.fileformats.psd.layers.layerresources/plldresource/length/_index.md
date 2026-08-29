@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: PlLdResource fast egendom. Hämtar PlLdresurslängden i byte.
+title: "PlLdResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlLdResource egenskap. Hämtar PlLd-resursens längd i byte"
 type: docs
-weight: 20
+weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Length property
 
-Hämtar PlLd-resurslängden i byte.
+Hämtar PlLd-resursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [PlLdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

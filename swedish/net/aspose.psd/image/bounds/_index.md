@@ -1,28 +1,29 @@
 ---
-title: Image.Bounds
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. Får bildens gränser.
+title: "Image.Bounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image‑egenskap. Hämtar bildens gränser"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
-Får bildens gränser.
+Hämtar bildens gränser.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bilden gränsar.
+Bildens gränser.
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

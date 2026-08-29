@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: Aspose.PSD för .NET API-referens
-description: TextFontInfo fast egendom. Hämtar teckensnittets efternamn
+title: "TextFontInfo.FamilyName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TextFontInfo-egenskap. Hämtar typsnittsfamiljens namn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
-Hämtar teckensnittets efternamn
+Hämtar teckensnittsfamiljens namn
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Teckensnittets efternamn
+Typsnittsfamiljens namn
 
 ### Se även
 
 * class [TextFontInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

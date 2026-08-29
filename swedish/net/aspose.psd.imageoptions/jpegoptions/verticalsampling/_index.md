@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.VerticalSampling
-second_title: Aspose.PSD för .NET API-referens
-description: JpegOptions fast egendom. Hämtar eller ställer in de vertikala delsamplingarna för varje komponent.
+title: "JpegOptions.VerticalSampling"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegOptions egenskap. Hämtar eller anger de vertikala undersamplingsvärdena för varje komponent"
 type: docs
-weight: 200
+weight: 210
 url: /sv/net/aspose.psd.imageoptions/jpegoptions/verticalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.VerticalSampling property
 
-Hämtar eller ställer in de vertikala delsamplingarna för varje komponent.
+Hämtar eller anger de vertikala delprovningarna för varje komponent.
 
 ```csharp
 public byte[] VerticalSampling { get; set; }
@@ -17,7 +18,7 @@ public byte[] VerticalSampling { get; set; }
 ### Se även
 
 * class [JpegOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

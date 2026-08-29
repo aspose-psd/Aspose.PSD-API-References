@@ -1,14 +1,15 @@
 ---
-title: Class AdjustPalette
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.PaletteHelper.AdjustPalette klass. Färgpalettjustering class
+title: "Klass AdjustPalette"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.PaletteHelper.AdjustPalette klass. Färgpalettjusteringsklass"
 type: docs
-weight: 5180
+weight: 5670
 url: /sv/net/aspose.psd.palettehelper/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette class
 
-Färgpalettjustering class
+Klass för justering av färgpalett.
 
 ```csharp
 public class AdjustPalette
@@ -16,13 +17,13 @@ public class AdjustPalette
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AdjustPalette](adjustpalette/)() | Default_Constructor |
+| [AdjustPalette](adjustpalette/)() | Standardkonstruktorn. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../)
 
 

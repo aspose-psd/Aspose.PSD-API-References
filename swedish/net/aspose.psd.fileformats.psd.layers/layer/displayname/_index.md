@@ -1,31 +1,32 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in visningsnamnet för lagret.
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lagrets egenskap. Hämtar eller anger lagrets visningsnamn"
 type: docs
-weight: 100
+weight: 110
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
-Hämtar eller ställer in visningsnamnet för lagret.
+Hämtar eller anger lagrets visningsnamn.
 
 ```csharp
 public string DisplayName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Visningsnamnet för lagret.
+Lagrets visningsnamn.
 
-### Exempel
+## Exempel
 
-Följande exempel visar möjligheten att ställa in DisplayName-värdet, i vad lagernamnet visas korrekt.
+Följande exempel demonstrerar möjligheten att sätta DisplayName-värdet, så att lagrets namn visas korrekt.
 
 ```csharp
 [C#]
 
-// gör ändringar i lagernamn och spara det
+// gör ändringar i lagernamn och spara dem
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // ställ in nytt värde i egenskapen DisplayName
+        // sätt ett nytt värde i DisplayName-egenskapen
         layer.DisplayName += "_changed";
     }
 
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

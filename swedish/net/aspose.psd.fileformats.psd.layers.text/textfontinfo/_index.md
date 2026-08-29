@@ -1,14 +1,15 @@
 ---
-title: Class TextFontInfo
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo klass. Representerar information om teckensnitt. Denna klass kan inte ärvas.
+title: "Klass TextFontInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo klass. Representerar informationen om teckensnittet. Denna klass kan inte ärvas"
 type: docs
-weight: 3550
+weight: 3970
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
+{{< psd/tize >}}
 ## TextFontInfo class
 
-Representerar information om teckensnitt. Denna klass kan inte ärvas.
+Representerar informationen om teckensnitt. Denna klass kan inte ärvas.
 
 ```csharp
 public sealed class TextFontInfo
@@ -16,18 +17,18 @@ public sealed class TextFontInfo
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Hämtar teckensnittets efternamn |
-| [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/) { get; } | Hämtar typsnittets typ. |
-| [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname/) { get; } | Hämtar PostScript name |
+| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Hämtar teckensnittsfamiljens namn |
+| [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/) { get; } | Hämtar teckensnittets typ. |
+| [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname/) { get; } | Hämtar PostScript-namnet |
 | [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script/) { get; } | Hämtar skriptet. |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Får teckensnittsstil tolkad från underfamilj name |
-| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Får ett värde som indikerar om dettaFontInformation är syntetisk. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Hämtar teckensnittsstil som tolkas från underfamiljens namn |
+| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Hämtar ett värde som indikerar om denna FontInformation är syntetisk. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

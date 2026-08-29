@@ -1,24 +1,25 @@
 ---
-title: BlwhResource.BwPresetKind
-second_title: Aspose.PSD för .NET API-referens
-description: BlwhResource fast egendom. Hämtar eller ställer in det svartvita förinställda sortvärdet.
+title: "BlwhResource.BwPresetKind"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlwhResource egenskap. Hämtar eller anger värdet för förinställd svartvit typ"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BwPresetKind property
 
-Hämtar eller ställer in det svartvita förinställda sortvärdet.
+Hämtar eller anger värdet för typ av svartvit förinställning.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det svartvita förinställda sortvärdet.
+Det svarta och vita förinställningstypvärdet.
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du redigerar en BlwhResource.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Testa redigering och spara
+                // Testa redigering och sparande
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Se även
 
 * class [BlwhResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

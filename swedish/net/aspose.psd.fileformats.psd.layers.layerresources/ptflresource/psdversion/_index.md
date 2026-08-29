@@ -1,14 +1,15 @@
 ---
-title: PtFlResource.PsdVersion
-second_title: Aspose.PSD för .NET API-referens
-description: PtFlResource fast egendom. Får den minimala psdversion som krävs för lagerresurs. 0 indikerar inga begränsningar.
+title: "PtFlResource.PsdVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PtFlResource egenskap. Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar"
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PsdVersion property
 
-Får den minimala psd-version som krävs för lagerresurs. 0 indikerar inga begränsningar.
+Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Se även
 
 * class [PtFlResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

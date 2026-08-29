@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginResolutionPresent
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeOriginSettings fast egendom. Får ett värde som indikerar om denna instans har ursprungsupplösningsegenskap.
+title: "VectorShapeOriginSettings.IsOriginResolutionPresent"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeOriginSettings-egenskap. Hämtar ett värde som indikerar om detta objekt har egenskapen för ursprungsupplösning"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginResolutionPresent property
 
-Får ett värde som indikerar om denna instans har ursprungsupplösningsegenskap.
+Hämtar ett värde som indikerar om den här instansen har egenskapen för ursprungsupplösning.
 
 ```csharp
 public bool IsOriginResolutionPresent { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann`om denna instans har ursprungsupplösningsegenskap; annat,`falsk` .
+`true` om detta objekt har egenskapen för ursprungsupplösning; annars `false`.
 
 ### Se även
 
 * class [VectorShapeOriginSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

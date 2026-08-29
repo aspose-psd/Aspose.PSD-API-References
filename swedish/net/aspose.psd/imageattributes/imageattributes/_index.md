@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ImageAttributes
-second_title: Aspose.PSD för .NET API-referens
-description: ImageAttributes byggare. Default_Constructor
+title: "ImageAttributes.ImageAttributes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageAttributes-konstruktorn. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/imageattributes/imageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributes constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public ImageAttributes()
@@ -17,7 +18,7 @@ public ImageAttributes()
 ### Se även
 
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

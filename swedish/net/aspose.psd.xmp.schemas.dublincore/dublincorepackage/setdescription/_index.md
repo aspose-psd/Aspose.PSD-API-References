@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: Aspose.PSD för .NET API-referens
-description: DublinCorePackage metod. Lägger till beskrivningen.
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DublinCorePackage-metod. Lägger till beskrivningen."
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 Lägger till beskrivningen.
@@ -16,13 +17,13 @@ public void SetDescription(string desc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| desc | String | Beskrivningen. |
+| beskrivning | String | Beskrivningen. |
 
 ### Se även
 
 * class [DublinCorePackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,13 +37,13 @@ public void SetDescription(LangAlt desc)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| desc | LangAlt | Beskrivningen. |
+| beskrivning | LangAlt | Beskrivningen. |
 
 ### Se även
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

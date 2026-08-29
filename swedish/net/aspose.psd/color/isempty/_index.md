@@ -1,27 +1,28 @@
 ---
-title: Color.IsEmpty
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får ett värde som indikerar om dettaColor strukturen är oinitierad.
+title: "Color.IsEmpty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskap. Hämtar ett värde som indikerar om denna Color-struktur är oinitierad"
 type: docs
 weight: 1490
 url: /sv/net/aspose.psd/color/isempty/
 ---
+{{< psd/tize >}}
 ## Color.IsEmpty property
 
-Får ett värde som indikerar om detta[`Color`](../) strukturen är oinitierad.
+Hämtar ett värde som indikerar om denna [`Color`](../) struktur är oinitierad.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den här egenskapen returnerar true om den här färgen är oinitierad; annars falskt.
+Denna egenskap returnerar true om denna färg är oinitierad; annars false.
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

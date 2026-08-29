@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Aspose.PSD för .NET API-referens
-description: Pen fast egendom. Hämtar eller ställer in stilen som används för streckade linjer som ritas med dettaPen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Pen-egenskap. Hämtar eller anger stilen som används för streckade linjer ritade med denna Pen"
 type: docs
 weight: 110
 url: /sv/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-Hämtar eller ställer in stilen som används för streckade linjer som ritas med detta[`Pen`](../) .
+Hämtar eller anger stilen som används för streckade linjer ritade med detta [`Pen`](../).
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A`DashStyle` som representerar stilen som används för streckade linjer som ritas med detta[`Pen`](../).
+En `DashStyle` som representerar stilen som används för streckade linjer ritade med detta [`Pen`](../).
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentException | De`DashStyle` egenskapen är inställd på en oföränderlig[`Pen`](../) , såsom de som returneras av[`Pen`](../) klass. |
+| ArgumentException | Egenskapen `DashStyle` sätts på en oföränderlig [`Pen`](../), såsom de som returneras av klassen [`Pen`](../). |
 
 ### Se även
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* namnutrymme [Aspose.PSD](../../pen/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

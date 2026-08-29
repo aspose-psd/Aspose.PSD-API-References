@@ -1,11 +1,12 @@
 ---
-title: Interface IKeyedObject
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IKeyedObject gränssnitt. Representerar gränssnitt för objekt med nycklar.
+title: "Gränssnitt IKeyedObject"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IKeyedObject-gränssnitt. Representerar ett gränssnitt för objekt med nycklar"
 type: docs
-weight: 4480
+weight: 4950
 url: /sv/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
 Representerar gränssnitt för objekt med nycklar.
@@ -16,13 +17,13 @@ public interface IKeyedObject
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | Hämtar objektnyckeln. |
+| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | Hämtar objektets nyckel. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

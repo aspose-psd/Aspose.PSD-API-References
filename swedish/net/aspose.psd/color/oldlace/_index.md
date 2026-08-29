@@ -1,27 +1,28 @@
 ---
-title: Color.OldLace
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får en systemdefinierad färg.
+title: "Color.OldLace"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskapen. Hämtar en systemdefinierad färg."
 type: docs
 weight: 980
 url: /sv/net/aspose.psd/color/oldlace/
 ---
+{{< psd/tize >}}
 ## Color.OldLace property
 
-Får en systemdefinierad färg.
+Hämtar en systemdefinierad färg.
 
 ```csharp
 public static Color OldLace { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-A[`Color`](../) representerar en systemdefinierad färg.
+En [`Color`](../) som representerar en systemdefinierad färg.
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

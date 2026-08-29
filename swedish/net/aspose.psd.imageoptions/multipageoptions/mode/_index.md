@@ -1,20 +1,21 @@
 ---
-title: MultiPageOptions.Mode
-second_title: Aspose.PSD för .NET API-referens
-description: MultiPageOptions fast egendom. Hämtar eller ställer in läget.
+title: "MultiPageOptions.Mode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MultiPageOptions egenskap. Hämtar eller anger läget"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.imageoptions/multipageoptions/mode/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Mode property
 
-Hämtar eller ställer in läget.
+Hämtar eller anger läget.
 
 ```csharp
 public MultiPageMode Mode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Läget.
 
@@ -22,7 +23,7 @@ Läget.
 
 * enum [MultiPageMode](../../multipagemode/)
 * class [MultiPageOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

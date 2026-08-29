@@ -1,28 +1,29 @@
 ---
-title: Layer.Flags
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in lagerflaggorna. bit 0  transparensskyddad bit 1  synlig bit 2  föråldrad bit 3  1 för Photoshop 5.0 och senare talar om om bit 4_x00 har användbar information pixeldata irrelevant för dokumentets utseende.
+title: "Layer.Flags"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar eller anger lagerflaggor. bit 0  transparensskyddad bit 1  synlig bit 2  föråldrad bit 3  1 för Photoshop 5.0 och senare anger om bit 4 har användbar information bit 4  pixeldata irrelevant för dokumentets utseende"
 type: docs
-weight: 140
+weight: 150
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/flags/
 ---
+{{< psd/tize >}}
 ## Layer.Flags property
 
-Hämtar eller ställer in lagerflaggorna. bit 0 = transparensskyddad; bit 1 = synlig; bit 2 = föråldrad; bit 3 = 1 för Photoshop 5.0 och senare, talar om om bit 4_x00 har användbar information; pixeldata irrelevant för dokumentets utseende.
+Hämtar eller anger lagerflaggorna. bit 0 = transparensskyddad; bit 1 = synlig; bit 2 = föråldrad; bit 3 = 1 för Photoshop 5.0 och senare, anger om bit 4 har användbar information; bit 4 = pixeldatan är irrelevant för dokumentets utseende.
 
 ```csharp
 public LayerFlags Flags { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Lagret flaggor.
+Lagerflaggorna.
 
 ### Se även
 
 * enum [LayerFlags](../../layerflags/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

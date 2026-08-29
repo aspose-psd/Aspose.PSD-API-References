@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar eller ställer in linjerna.
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar eller anger raderna"
 type: docs
-weight: 140
+weight: 130
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
-Hämtar eller ställer in linjerna.
+Hämtar eller anger raderna.
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Linjerna.
+Raderna.
 
 ### Se även
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

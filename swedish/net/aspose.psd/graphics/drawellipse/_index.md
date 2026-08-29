@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawEllipse
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Ritar en ellips definierad av en avgränsningRectangleF .
+title: "Graphics.DrawEllipse"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Ritar en ellips definierad av en omslutande RectangleF"
 type: docs
-weight: 210
+weight: 220
 url: /sv/net/aspose.psd/graphics/drawellipse/
 ---
+{{< psd/tize >}}
 ## DrawEllipse(Pen, RectangleF) {#drawellipse_1}
 
-Ritar en ellips definierad av en avgränsning[`RectangleF`](../../rectanglef/) .
+Ritar en ellips definierad av en omslutande [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void DrawEllipse(Pen pen, RectangleF rect)
@@ -16,28 +17,28 @@ public void DrawEllipse(Pen pen, RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) som bestämmer ellipsens färg, bredd och stil. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) struktur som definierar ellipsens gränser. |
+| pen | Pen | [`Pen`](../../pen/) som bestämmer färgen, bredden och stilen på ellipsen. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) struktur som definierar gränserna för ellipsen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *pen* är inget. |
+| ArgumentNullException | *pen* är null. |
 
 ### Se även
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, float, float, float, float) {#drawellipse_3}
 
-Ritar en ellips definierad av en avgränsande rektangel specificerad av ett par koordinater, en höjd och en bredd.
+Ritar en ellips som definieras av en omgivande rektangel specificerad av ett koordinatpar, en höjd och en bredd.
 
 ```csharp
 public void DrawEllipse(Pen pen, float x, float y, float width, float height)
@@ -45,30 +46,30 @@ public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) som bestämmer ellipsens färg, bredd och stil. |
-| x | Single | X-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| y | Single | Y-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| width | Single | Bredden på den avgränsande rektangeln som definierar ellipsen. |
-| height | Single | Höjden på den avgränsande rektangeln som definierar ellipsen. |
+| pen | Pen | [`Pen`](../../pen/) som bestämmer färgen, bredden och stilen på ellipsen. |
+| x | Single | x-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| y | Single | y-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| bredd | Single | Bredden på den omslutande rektangeln som definierar ellipsen. |
+| höjd | Single | Höjden på den omslutande rektangeln som definierar ellipsen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *pen* är inget. |
+| ArgumentNullException | *pen* är null. |
 
 ### Se även
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, Rectangle) {#drawellipse}
 
-Ritar en ellips specificerad av en begränsning[`Rectangle`](../../rectangle/)struktur.
+Ritar en ellips specificerad av en omslutande [`Rectangle`](../../rectangle/) struktur.
 
 ```csharp
 public void DrawEllipse(Pen pen, Rectangle rect)
@@ -76,28 +77,28 @@ public void DrawEllipse(Pen pen, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) som bestämmer ellipsens färg, bredd och stil. |
+| pen | Pen | [`Pen`](../../pen/) som bestämmer färgen, bredden och stilen på ellipsen. |
 | rect | Rectangle | [`Rectangle`](../../rectangle/) struktur som definierar ellipsens gränser. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *pen* är inget. |
+| ArgumentNullException | *pen* är null. |
 
 ### Se även
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, int, int, int, int) {#drawellipse_2}
 
-Ritar en ellips definierad av en avgränsande rektangel specificerad av ett par koordinater, en höjd och en bredd.
+Ritar en ellips som definieras av en omgivande rektangel specificerad av ett koordinatpar, en höjd och en bredd.
 
 ```csharp
 public void DrawEllipse(Pen pen, int x, int y, int width, int height)
@@ -105,23 +106,23 @@ public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) som bestämmer ellipsens färg, bredd och stil. |
-| x | Int32 | X-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| y | Int32 | Y-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| width | Int32 | Bredden på den avgränsande rektangeln som definierar ellipsen. |
-| height | Int32 | Höjden på den avgränsande rektangeln som definierar ellipsen. |
+| pen | Pen | [`Pen`](../../pen/) som bestämmer färgen, bredden och stilen på ellipsen. |
+| x | Int32 | x-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| y | Int32 | y-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| bredd | Int32 | Bredden på den omslutande rektangeln som definierar ellipsen. |
+| höjd | Int32 | Höjden på den omslutande rektangeln som definierar ellipsen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *pen* är inget. |
+| ArgumentNullException | *pen* är null. |
 
 ### Se även
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

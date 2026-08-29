@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpClassID
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfo6Resource fast egendom. Hämtar eller ställer in klassID.
+title: "TypeToolInfo6Resource.WarpClassID"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfo6Resource egenskap. Hämtar eller anger klass-ID:t"
 type: docs
-weight: 170
+weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassid/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassID property
 
-Hämtar eller ställer in klass-ID.
+Hämtar eller anger klass-ID:t.
 
 ```csharp
 public ClassID WarpClassID { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Klass-ID.
+Klass-ID:t.
 
 ### Se även
 
 * class [ClassID](../../classid/)
 * class [TypeToolInfo6Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

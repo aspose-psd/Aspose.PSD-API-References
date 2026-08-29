@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TileOffsets
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in brickförskjutningarna.
+title: "TiffOptions.TileOffsets"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller sätter rutavstånden"
 type: docs
-weight: 540
+weight: 550
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/tileoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileOffsets property
 
-Hämtar eller ställer in brickförskjutningarna.
+Hämtar eller anger rutförskjutningarna.
 
 ```csharp
 public uint[] TileOffsets { get; set; }
@@ -17,7 +18,7 @@ public uint[] TileOffsets { get; set; }
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

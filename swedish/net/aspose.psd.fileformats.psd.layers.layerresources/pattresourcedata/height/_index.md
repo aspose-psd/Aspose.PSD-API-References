@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Height
-second_title: Aspose.PSD för .NET API-referens
-description: PattResourceData fast egendom. Får höjden.
+title: "PattResourceData.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PattResourceData egenskap. Hämtar höjden"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Height property
 
-Får höjden.
+Hämtar höjden.
 
 ```csharp
 public short Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Höjden.
 
 ### Se även
 
 * class [PattResourceData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix metod. Tillämpar den angivna översättningsvektorn på denna matris i angiven ordning.
+title: "Matrix.Translate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix-metod. Tillämpar den angivna translationsvektorn på denna Matrix i den angivna ordningen."
 type: docs
 weight: 190
 url: /sv/net/aspose.psd/matrix/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
-Tillämpar den angivna översättningsvektorn på denna matris i angiven ordning.
+Tillämpar den angivna translationsvektorn på denna `Matrix` i den angivna ordningen.
 
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder order)
@@ -24,14 +25,14 @@ public void Translate(float offsetX, float offsetY, MatrixOrder order)
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(float, float) {#translate}
 
-Tillämpar den angivna översättningsvektorn på detta[`Matrix`](../) använder (standard) Prepend order.
+Tillämpar den angivna translationsvektorn på denna [`Matrix`](../) med (standard) Prepend‑ordning.
 
 ```csharp
 public void Translate(float tx, float ty)
@@ -39,13 +40,13 @@ public void Translate(float tx, float ty)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| tx | Single | Den tx. Den tx. Den tx. |
-| ty | Single | Den ty. Den ty. Den ty. |
+| tx | Single | Tx‑en. Tx‑en. Tx‑en. |
+| ty | Single | Ty‑en. Ty‑en. Ty‑en. |
 
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.GetFileFormat
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Hämtar filformatet.
+title: "Image.GetFileFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-metod. Hämtar filformatet"
 type: docs
-weight: 260
+weight: 270
 url: /sv/net/aspose.psd/image/getfileformat/
 ---
+{{< psd/tize >}}
 ## GetFileFormat(string) {#getfileformat_1}
 
 Hämtar filformatet.
@@ -20,18 +21,18 @@ public static FileFormat GetFileFormat(string filePath)
 
 ### Returvärde
 
-Det fastställda filformatet.
+Det bestämda filformatet.
 
-### Anmärkningar
+## Anmärkningar
 
-Det fastställda filformatet betyder inte att den angivna bilden kan laddas. Använd en av CanLoad-metodens överbelastningar för att avgöra om filen kan laddas.
+Det bestämda filformatet betyder inte att den angivna bilden kan laddas. Använd en av CanLoad‑metodens overloads för att avgöra om filen kan laddas.
 
 ### Se även
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -45,21 +46,21 @@ public static FileFormat GetFileFormat(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Strömmen. |
+| ström | Ström | Strömmen. |
 
 ### Returvärde
 
-Det fastställda filformatet.
+Det bestämda filformatet.
 
-### Anmärkningar
+## Anmärkningar
 
-Det fastställda filformatet betyder inte att den angivna bilden kan laddas. Använd en av CanLoad-metodens överbelastningar för att avgöra om strömmen kan laddas.
+Det bestämda filformatet betyder inte att den angivna bilden kan laddas. Använd en av CanLoad‑metodens overloads för att avgöra om strömmen kan laddas.
 
 ### Se även
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

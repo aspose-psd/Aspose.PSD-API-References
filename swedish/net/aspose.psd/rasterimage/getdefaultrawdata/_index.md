@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetDefaultRawData
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Hämtar den förinställda rådatamatrisen med hjälp av partial pixel loader.
+title: "RasterImage.GetDefaultRawData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Hämtar standardarrayen för rådata med partiell pixel-laddare."
 type: docs
 weight: 300
 url: /sv/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
+{{< psd/tize >}}
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-Hämtar den förinställda rådatamatrisen med hjälp av partial pixel loader.
+Hämtar standardarrayen för rådata med hjälp av partiell pixel‑laddare.
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
@@ -17,9 +18,9 @@ public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partial
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangeln att få pixlar för. |
-| partialRawDataLoader | IPartialRawDataLoader | Den partiella rådataladdaren. |
-| rawDataSettings | RawDataSettings | Inställningarna för rådata. |
+| rektangel | Rectangle | Rektangeln att hämta pixlar för. |
+| partialRawDataLoader | IPartialRawDataLoader | Den partiella rådata-laddaren. |
+| rawDataSettings | RawDataSettings | Rådatainställningarna. |
 
 ### Se även
 
@@ -27,14 +28,14 @@ public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partial
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetDefaultRawData(Rectangle, RawDataSettings) {#getdefaultrawdata}
 
-Hämtar standardinställningen för rådata.
+Hämtar standardarrayen för rådata.
 
 ```csharp
 public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSettings)
@@ -42,19 +43,19 @@ public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSett
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangeln att få rådata för. |
-| rawDataSettings | RawDataSettings | Inställningarna för rådata. |
+| rektangel | Rectangle | Rektangeln att hämta rådata för. |
+| rawDataSettings | RawDataSettings | Rådatainställningarna. |
 
 ### Returvärde
 
-Standardinställningen för rådata.
+Standardarrayen för rådata.
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

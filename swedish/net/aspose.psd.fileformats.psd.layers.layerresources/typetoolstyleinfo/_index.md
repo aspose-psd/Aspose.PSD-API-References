@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolStyleInfo
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolStyleInfo klass. Skriv information om verktygsstil.
+title: "Klass TypeToolStyleInfo"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolStyleInfo-klass. Information om typverktygsstil."
 type: docs
-weight: 3320
+weight: 3710
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo class
 
-Skriv information om verktygsstil.
+Stilinformation för typverktyget.
 
 ```csharp
 public class TypeToolStyleInfo
@@ -16,33 +17,33 @@ public class TypeToolStyleInfo
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [TypeToolStyleInfo](typetoolstyleinfo/)() | Default_Constructor |
+| [TypeToolStyleInfo](typetoolstyleinfo/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/) { get; set; } | Hämtar eller ställer in ett värde som anger om automatisk kerning är på eller av. |
-| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/) { get; set; } | Hämtar eller ställer in basförskjutningsvärdet. |
-| [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/) { get; set; } | Hämtar eller ställer in nominellt värde. |
-| [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/) { get; set; } | Hämtar eller ställer in kerningvärdet. |
-| [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/) { get; set; } | Hämtar eller ställer in det inledande värdet. |
-| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/) { get; set; } | Hämtar eller ställer in märkesvärdet. |
-| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om det är en rotationsstil. |
-| [SizeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/) { get; set; } | Hämtar eller ställer in storleksvärdet. |
-| [TrackingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/) { get; set; } | Hämtar eller ställer in spårningsvärdet. |
+| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/) { get; set; } | Hämtar eller anger ett värde som indikerar om automatisk kerning är på eller av. |
+| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/) { get; set; } | Hämtar eller anger basförskjutningsvärdet. |
+| [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/) { get; set; } | Hämtar eller anger face mark-värdet. |
+| [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/) { get; set; } | Hämtar eller anger kerningvärdet. |
+| [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/) { get; set; } | Hämtar eller anger leading-värdet. |
+| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/) { get; set; } | Hämtar eller anger markvärdet. |
+| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/) { get; set; } | Hämtar eller anger ett värde som indikerar om det är en rotate down-stil. |
+| [SizeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/) { get; set; } | Hämtar eller anger storleksvärdet. |
+| [TrackingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/) { get; set; } | Hämtar eller anger spårningsvärdet. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/)(StreamContainer, int) | Sparar[`TypeToolFontInfo`](../typetoolfontinfo/) information till den angivna strömbehållaren. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/)(StreamContainer, int) | Sparar informationen för [`TypeToolFontInfo`](../typetoolfontinfo/) till den angivna strömbehållaren. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

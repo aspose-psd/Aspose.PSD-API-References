@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Sources
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller olika strömkällor som är lämpliga för in eller utdataflöde.
+title: "Aspose.PSD.Sources"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller olika strömkällor som är lämpliga för in- eller utdataflöde."
 type: docs
-weight: 510
+weight: 550
 url: /sv/net/aspose.psd.sources/
 ---
-Namnutrymmet innehåller olika strömkällor som är lämpliga för in- eller utdataflöde.
+{{< psd/tize >}}
+Namnområdet innehåller olika strömkällor som är lämpliga för in- eller utdataflöde.
 
 ## Klasser
 

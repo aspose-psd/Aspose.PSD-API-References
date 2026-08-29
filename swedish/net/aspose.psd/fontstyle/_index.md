@@ -1,11 +1,12 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FontStyle uppräkning. Anger stilinformation som tillämpas på text.
+title: "Enum FontStyle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FontStyle enum. Anger stilinformation som tillämpas på text"
 type: docs
-weight: 4300
+weight: 4770
 url: /sv/net/aspose.psd/fontstyle/
 ---
+{{< psd/tize >}}
 ## FontStyle enumeration
 
 Anger stilinformation som tillämpas på text.
@@ -15,9 +16,9 @@ Anger stilinformation som tillämpas på text.
 public enum FontStyle
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Regular | `0` | Normal text. |
 | Bold | `1` | Fet text. |
@@ -27,7 +28,7 @@ public enum FontStyle
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

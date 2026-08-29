@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in pekaren till EXIF IFD.
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger pekaren till EXIF IFD"
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-Hämtar eller ställer in pekaren till EXIF IFD.
+Hämtar eller anger pekaren till EXIF IFD.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Pekaren till EXIF IFD.
 
@@ -22,7 +23,7 @@ Pekaren till EXIF IFD.
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

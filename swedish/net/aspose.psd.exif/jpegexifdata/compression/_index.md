@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Compression
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in komprimeringen.
+title: "JpegExifData.Compression"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData egenskap. Hämtar eller anger komprimeringen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.exif/jpegexifdata/compression/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Compression property
 
-Hämtar eller ställer in komprimeringen.
+Hämtar eller anger komprimeringen.
 
 ```csharp
 public ushort Compression { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Kompressionen.
+Komprimeringen.
 
 ### Se även
 
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MinSampleValue
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in det minsta sampelvärdet.
+title: "TiffOptions.MinSampleValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger det minsta provvärdet"
 type: docs
-weight: 270
+weight: 280
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/minsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MinSampleValue property
 
-Hämtar eller ställer in det minsta sampelvärdet.
+Hämtar eller anger minimalt provvärde.
 
 ```csharp
 public ushort[] MinSampleValue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Minsta exempelvärde.
+Det minsta provvärdet.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | värde |
-| ArgumentOutOfRangeException | värde;Arraylängden måste motsvara antalet samples per pixel. |
+| ArgumentOutOfRangeException | value;Arraylängden måste motsvara antalet prover per pixel. |
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

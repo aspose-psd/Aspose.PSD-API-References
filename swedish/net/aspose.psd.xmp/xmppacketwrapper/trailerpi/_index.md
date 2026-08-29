@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.TrailerPi
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPacketWrapper fast egendom. Får bearbetningsinstruktionen för trailern.
+title: "XmpPacketWrapper.TrailerPi"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPacketWrapper egenskap. Hämtar trailer‑processinstruktionen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.xmp/xmppacketwrapper/trailerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.TrailerPi property
 
-Får bearbetningsinstruktionen för trailern.
+Hämtar trailer‑bearbetningsinstruktionen.
 
 ```csharp
 public XmpTrailerPi TrailerPi { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Trailerbearbetningsinstruktion.
+Trailer‑processinstruktion.
 
 ### Se även
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpRightsManagementPackage.SetMarkedAsRightManagement
-second_title: Aspose.PSD för .NET API-referens
-description: XmpRightsManagementPackage metod. Markeras som rätt hanteringsinnehåll
+title: "XmpRightsManagementPackage.SetMarkedAsRightManagement"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpRightsManagementPackage metod. Markerar som rättshanteringsinnehåll"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetMarkedAsRightManagement method
 
-Markeras som rätt hanteringsinnehåll
+Markerar som rättighetsförvaltningsinnehåll
 
 ```csharp
 public void SetMarkedAsRightManagement(bool value)
@@ -16,12 +17,12 @@ public void SetMarkedAsRightManagement(bool value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Boolean | om inställt på`Sann`att detta är en rättighetsstyrd resurs. |
+| värde | Boolean | om satt till `true` betyder att detta är en rättshanterad resurs. |
 
 ### Se även
 
 * class [XmpRightsManagementPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

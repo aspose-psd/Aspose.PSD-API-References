@@ -1,20 +1,21 @@
 ---
-title: PsdImage.ImageResources
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in PSDbildresurserna.
+title: "PsdImage.ImageResources"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar eller anger PSD-bildresurserna"
 type: docs
 weight: 180
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
-Hämtar eller ställer in PSD-bildresurserna.
+Hämtar eller anger PSD-bildresurserna.
 
 ```csharp
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 PSD-bildresurserna.
 
@@ -22,7 +23,7 @@ PSD-bildresurserna.
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

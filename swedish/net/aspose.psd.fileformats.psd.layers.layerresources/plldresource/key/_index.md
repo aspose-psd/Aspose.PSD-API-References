@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: PlLdResource fast egendom. Hämtar PlLdresursnyckeln.
+title: "PlLdResource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlLdResource egenskap. Hämtar PlLd-resursens nyckel"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Key property
 
-Hämtar PlLd-resursnyckeln.
+Hämtar PlLd-resursens nyckel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Se även
 
 * class [PlLdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

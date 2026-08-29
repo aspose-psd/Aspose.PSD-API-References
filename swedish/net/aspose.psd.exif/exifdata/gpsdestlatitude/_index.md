@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestLatitude
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPSlatitud för destinationspunkten.
+title: "ExifData.GPSDestLatitude"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger GPS-latituden för destinationspunkten"
 type: docs
 weight: 440
 url: /sv/net/aspose.psd.exif/exifdata/gpsdestlatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitude property
 
-Hämtar eller ställer in GPS-latitud för destinationspunkten.
+Hämtar eller anger GPS-latituden för destinationspunkten.
 
 ```csharp
 public TiffRational[] GPSDestLatitude { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-latitud för destinationspunkten.
+GPS-latituden för destinationspunkten.
 
 ### Se även
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

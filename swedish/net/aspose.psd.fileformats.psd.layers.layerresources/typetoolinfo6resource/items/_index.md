@@ -1,20 +1,21 @@
 ---
-title: TypeToolInfo6Resource.Items
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfo6Resource fast egendom. Hämtar eller ställer in objekten.
+title: "TypeToolInfo6Resource.Items"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfo6Resource egenskap. Hämtar eller anger objekten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/items/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Items property
 
-Hämtar eller ställer in objekten.
+Hämtar eller anger objekten.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objekten.
 
@@ -22,7 +23,7 @@ Objekten.
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

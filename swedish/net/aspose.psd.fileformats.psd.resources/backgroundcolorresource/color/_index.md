@@ -1,22 +1,23 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Aspose.PSD för .NET API-referens
-description: BackgroundColorResource fast egendom. Hämtar eller ställer in bakgrundsfärgen.
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BackgroundColorResource egenskap. Hämtar eller anger bakgrundsfärgen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
-Hämtar eller ställer in bakgrundsfärgen.
+Hämtar eller anger bakgrundsfärgen.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för BackgroundColorResource-resursen.
+Följande exempel demonstrerar stödet för BackgroundColorResource-resursen.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BezierShape.HasSegments
-second_title: Aspose.PSD för .NET API-referens
-description: BezierShape fast egendom. Får ett värde som indikerar om formen har segment.
+title: "BezierShape.HasSegments"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BezierShape egenskap. Hämtar ett värde som indikerar om formen har segment"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.shapes/beziershape/hassegments/
 ---
+{{< psd/tize >}}
 ## BezierShape.HasSegments property
 
-Får ett värde som indikerar om formen har segment.
+Hämtar ett värde som indikerar om formen har segment.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om formen har segment; annat,`falsk`.
+`True` om formen har segment; annars, `false`.
 
 ### Se även
 
 * class [BezierShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../beziershape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

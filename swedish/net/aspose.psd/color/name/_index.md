@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: Aspose.PSD för .NET API-referens
-description: Color fast egendom. Får namnet på dettaColor .
+title: "Color.Name"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Color-egenskap. Hämtar namnet på detta Color"
 type: docs
 weight: 1520
 url: /sv/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-Får namnet på detta[`Color`](../) .
+Hämtar namnet på detta [`Color`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på denna[`Color`](../).
+Namnet på detta [`Color`](../).
 
 ### Se även
 
 * struct [Color](../)
-* namnutrymme [Aspose.PSD](../../color/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

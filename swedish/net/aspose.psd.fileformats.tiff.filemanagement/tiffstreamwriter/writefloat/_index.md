@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteFloat
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamWriter metod. Skriver ett enstaka flytvärde till strömmen.
+title: "TiffStreamWriter.WriteFloat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamWriter-metod. Skriver ett enda float‑värde till strömmen"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloat method
 
-Skriver ett enstaka flytvärde till strömmen.
+Skriver ett enda float‑värde till strömmen.
 
 ```csharp
 public void WriteFloat(float data)
@@ -21,7 +22,7 @@ public void WriteFloat(float data)
 ### Se även
 
 * class [TiffStreamWriter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

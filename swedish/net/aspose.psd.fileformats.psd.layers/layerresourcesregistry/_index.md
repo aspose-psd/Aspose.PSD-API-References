@@ -1,14 +1,15 @@
 ---
-title: Class LayerResourcesRegistry
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry klass. Definiera lagerresursregistret för PSDfiler som laddas.
+title: "Klass LayerResourcesRegistry"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry-klass. Definierar lagerresursregistret för inläsning av PSD-filer"
 type: docs
-weight: 3390
+weight: 3790
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry class
 
-Definiera lagerresursregistret för PSD-filer som laddas.
+Definiera lagrets resurserregister för inläsning av PSD‑filer.
 
 ```csharp
 public static class LayerResourcesRegistry
@@ -16,23 +17,23 @@ public static class LayerResourcesRegistry
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/) { get; } | Hämtar de registrerade beskrivningarna. |
+| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/) { get; } | Hämtar de registrerade beskrivarna. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/)(Stream, int) | Får den första öppnarbeskrivningen som stöds. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Hämtar den första beskrivningen som stöds efter dess typnamn. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Laddar[`LayerResource`](../layerresource/) använder först hittade öppnare som är lämplig för det specificerade*stream* . |
+| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/)(Stream, int) | Hämtar den första stödda öppnarebeskrivaren. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Hämtar den första stödda beskrivaren efter dess typnamn. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Laddar [`LayerResource`](../layerresource/) med den första funna öppnaren som är lämplig för den angivna *strömmen*. |
 | static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener/)(ILayerResourceLoader) | Registrerar öppnaren. |
 | static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/)(ILayerResourceLoader) | Avregistrerar öppnaren. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

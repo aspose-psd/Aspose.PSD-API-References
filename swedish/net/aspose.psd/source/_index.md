@@ -1,14 +1,15 @@
 ---
-title: Class Source
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Source klass. Källan används för att innehålla all relevant information för ett objektrör.
+title: "Klassen Source"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Source-klass. Källan används för att innehålla all relevant information för ett objekt‑pipeline."
 type: docs
-weight: 5580
+weight: 6080
 url: /sv/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-Källan används för att innehålla all relevant information för ett objektrör.
+Källan används för att innehålla all relevant information för ett objekt‑pipeline.
 
 ```csharp
 public abstract class Source
@@ -16,13 +17,13 @@ public abstract class Source
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Hämtar strömbehållaren. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

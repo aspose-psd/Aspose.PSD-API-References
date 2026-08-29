@@ -1,20 +1,21 @@
 ---
-title: ExifData.WhiteBalance
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Får eller ställer in vitbalansen.
+title: "ExifData.WhiteBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger vitbalansen"
 type: docs
 weight: 1070
 url: /sv/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
-Får eller ställer in vitbalansen.
+Hämtar eller anger vitbalansen.
 
 ```csharp
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vitbalansen.
 
@@ -22,7 +23,7 @@ Vitbalansen.
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

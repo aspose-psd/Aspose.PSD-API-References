@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: Aspose.PSD för .NET API-referens
-description: AiRasterImageSection fast egendom. Får vänster nedre växling.
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiRasterImageSection property. Hämtar vänster nederkantsskiftet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
-Får vänster nedre växling.
+Hämtar vänstra nedre förskjutningen.
 
 ```csharp
 public double LeftBottomShift { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Vänster nedre skift.
+Vänster nederkantsskiftet.
 
 ### Se även
 
 * class [AiRasterImageSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

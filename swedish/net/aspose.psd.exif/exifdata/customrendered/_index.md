@@ -1,28 +1,29 @@
 ---
-title: ExifData.CustomRendered
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in den anpassade renderingen.
+title: "ExifData.CustomRendered"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger den anpassade återgivningen."
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
-Hämtar eller ställer in den anpassade renderingen.
+Hämtar eller anger anpassad rendering.
 
 ```csharp
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den anpassade renderade.
+Den anpassade återgivningen.
 
 ### Se även
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

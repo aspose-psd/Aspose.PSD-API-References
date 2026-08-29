@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in den blå färgkomponenten.
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection-egenskap. Hämtar eller anger den blå färgkomponenten"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-Hämtar eller ställer in den blå färgkomponenten.
+Hämtar eller anger den blå färgkomponenten.
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den blå färgkomponenten.
 
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

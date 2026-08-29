@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostRightBorder
-second_title: Aspose.PSD för .NET API-referens
-description: ColorRangeHsl fast egendom. Får eller ställer in den mest rätta kanten.
+title: "ColorRangeHsl.MostRightBorder"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorRangeHsl egenskap. Hämtar eller anger den mest högra kanten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostRightBorder property
 
-Får eller ställer in den mest rätta kanten.
+Hämtar eller anger den allra högra gränsen.
 
 ```csharp
 public short MostRightBorder { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den mest högra kanten.
 
 ### Se även
 
 * class [ColorRangeHsl](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlwhResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: BlwhResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "BlwhResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlwhResource egenskap. Hämtar lagerresursens längd i byte"
 type: docs
-weight: 80
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [BlwhResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

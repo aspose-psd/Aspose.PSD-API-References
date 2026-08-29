@@ -1,14 +1,15 @@
 ---
-title: HatchBrush.HatchBrush
-second_title: Aspose.PSD för .NET API-referens
-description: HatchBrush byggare. Default_Constructor
+title: "HatchBrush.HatchBrush"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "HatchBrush konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.brushes/hatchbrush/hatchbrush/
 ---
+{{< psd/tize >}}
 ## HatchBrush constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public HatchBrush()
@@ -17,7 +18,7 @@ public HatchBrush()
 ### Se även
 
 * class [HatchBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../hatchbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiImage.Height
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar bildhöjden.
+title: "AiImage.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskap. Hämtar bildens höjd"
 type: docs
-weight: 70
+weight: 80
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
-Hämtar bildhöjden.
+Hämtar bildens höjd.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildhöjden.
+Bildens höjd.
 
 ### Se även
 
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

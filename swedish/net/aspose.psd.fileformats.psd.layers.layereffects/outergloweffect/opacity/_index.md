@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.Opacity
-second_title: Aspose.PSD för .NET API-referens
-description: OuterGlowEffect fast egendom. Hämtar eller ställer in opaciteten.
+title: "OuterGlowEffect.Opacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OuterGlowEffect egenskap. Hämtar eller anger opaciteten"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Opacity property
 
-Hämtar eller ställer in opaciteten.
+Hämtar eller anger opaciteten.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Opaciteten.
 
 ### Se även
 
 * class [OuterGlowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

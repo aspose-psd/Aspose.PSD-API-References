@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD för .NET API-referens
-description: XmpDate fast egendom. Hämtar formatsträngen för aktuellt värde.
+title: "XmpDate.Format"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpDate-egenskap. Hämtar formatsträngen för aktuellt värde"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 Hämtar formatsträngen för aktuellt värde.
@@ -14,14 +15,14 @@ Hämtar formatsträngen för aktuellt värde.
 public string Format { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Formatsträngen för aktuellt värde.
 
 ### Se även
 
 * class [XmpDate](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

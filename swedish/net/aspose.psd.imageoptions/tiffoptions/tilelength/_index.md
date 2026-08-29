@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TileLength
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Får ot sets kakellängd.
+title: "TiffOptions.TileLength"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger tile‑längden"
 type: docs
-weight: 530
+weight: 540
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/tilelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileLength property
 
-Får ot sets kakellängd.
+Hämtar ot anger rutlängden.
 
 ```csharp
 public uint TileLength { get; set; }
@@ -17,7 +18,7 @@ public uint TileLength { get; set; }
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.PsdVersion
-second_title: Aspose.PSD för .NET API-referens
-description: PhflResourceVersion2 fast egendom. Hämtar psdversionen.
+title: "PhflResourceVersion2.PsdVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhflResourceVersion2 egenskap. Hämtar psd-versionen"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/psdversion/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.PsdVersion property
 
 Hämtar psd-versionen.
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Se även
 
 * class [PhflResourceVersion2](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

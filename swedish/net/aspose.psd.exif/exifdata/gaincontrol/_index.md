@@ -1,20 +1,21 @@
 ---
-title: ExifData.GainControl
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in graden av total bildförstärkningsjustering.
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger graden av total bildförstärkningsjustering"
 type: docs
 weight: 340
 url: /sv/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-Hämtar eller ställer in graden av total bildförstärkningsjustering.
+Hämtar eller anger graden av total bildförstärkningsjustering.
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Graden av total bildförstärkningsjustering.
 
@@ -22,7 +23,7 @@ Graden av total bildförstärkningsjustering.
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

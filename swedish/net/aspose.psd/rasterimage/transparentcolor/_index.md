@@ -1,14 +1,15 @@
 ---
-title: RasterImage.TransparentColor
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Får bilden genomskinlig färg.
+title: "RasterImage.TransparentColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-egenskap. Hämtar bildens transparenta färg"
 type: docs
 weight: 130
 url: /sv/net/aspose.psd/rasterimage/transparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.TransparentColor property
 
-Får bilden genomskinlig färg.
+Hämtar bildens transparenta färg.
 
 ```csharp
 public virtual Color TransparentColor { get; set; }
@@ -18,7 +19,7 @@ public virtual Color TransparentColor { get; set; }
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

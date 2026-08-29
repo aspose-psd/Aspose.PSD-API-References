@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PageName
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in sidnamnet.
+title: "TiffOptions.PageName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger sidnamnet"
 type: docs
-weight: 290
+weight: 300
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
-Hämtar eller ställer in sidnamnet.
+Hämtar eller anger sidnamn.
 
 ```csharp
 public string PageName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Sidans namn.
+Sidnamnet.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in GPSmätläget.
+title: "ExifData.GPSMeasureMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger GPS-mätningsläget"
 type: docs
 weight: 570
 url: /sv/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMeasureMode property
 
-Hämtar eller ställer in GPS-mätläget.
+Hämtar eller anger GPS-mätningsläget.
 
 ```csharp
 public string GPSMeasureMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-GPS-mätläget.
+GPS-mätningsläget.
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

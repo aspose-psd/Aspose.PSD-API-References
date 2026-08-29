@@ -1,14 +1,15 @@
 ---
-title: Point.op_Subtraction
-second_title: Aspose.PSD för .NET API-referens
-description: Point metod. Översätter enPoint av det negativa av en givenSize .
+title: "Point.op_Subtraction"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-metoden. Förflyttar en Point med den negativa av en given Size"
 type: docs
 weight: 200
 url: /sv/net/aspose.psd/point/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Point Subtraction operator
 
-Översätter en[`Point`](../) av det negativa av en given[`Size`](../../size/) .
+Förflyttar en [`Point`](../) med den negativa av en given [`Size`](../../size/).
 
 ```csharp
 public static Point operator -(Point point, Size size)
@@ -16,18 +17,18 @@ public static Point operator -(Point point, Size size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | De[`Point`](../) att översätta. |
-| size | Size | A[`Size`](../../size/) som anger det talpar som ska subtraheras från koordinaterna för*point*. |
+| point | Point | Det [`Point`](../) att flytta. |
+| size | Size | En [`Size`](../../size/) som specificerar paret av tal att subtrahera från koordinaterna för *point*. |
 
 ### Returvärde
 
-A[`Point`](../) struktur som översätts med negativt av en given[`Size`](../../size/) strukturera.
+En [`Point`](../) struktur som förflyttas med den negativa av en given [`Size`](../../size/) struktur.
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

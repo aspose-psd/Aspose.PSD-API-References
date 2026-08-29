@@ -1,14 +1,15 @@
 ---
-title: BritResource.Key
-second_title: Aspose.PSD för .NET API-referens
-description: BritResource fast egendom. Hämtar lagerresursnyckeln.
+title: "BritResource.Key"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BritResource-egenskap. Hämtar lagerresursnyckeln"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/key/
 ---
+{{< psd/tize >}}
 ## BritResource.Key property
 
-Hämtar lagerresursnyckeln.
+Hämtar lagerresursens nyckel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Se även
 
 * class [BritResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

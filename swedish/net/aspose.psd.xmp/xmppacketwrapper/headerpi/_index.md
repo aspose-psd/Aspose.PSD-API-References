@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.HeaderPi
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPacketWrapper fast egendom. Hämtar bearbetningsinstruktionen för rubriken.
+title: "XmpPacketWrapper.HeaderPi"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPacketWrapper egenskap. Hämtar header‑processinstruktionen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.HeaderPi property
 
-Hämtar bearbetningsinstruktionen för rubriken.
+Hämtar huvudets bearbetningsinstruktion.
 
 ```csharp
 public XmpHeaderPi HeaderPi { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bearbetningsinstruktionen för rubriken.
+Header‑processinstruktionen.
 
 ### Se även
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

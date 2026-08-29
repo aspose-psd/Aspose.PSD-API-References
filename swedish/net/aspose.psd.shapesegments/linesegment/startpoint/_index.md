@@ -1,20 +1,21 @@
 ---
-title: LineSegment.StartPoint
-second_title: Aspose.PSD för .NET API-referens
-description: LineSegment fast egendom. Får startpunkten.
+title: "LineSegment.StartPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LineSegment-egenskap. Hämtar startpunkten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.shapesegments/linesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.StartPoint property
 
-Får startpunkten.
+Hämtar startpunkten.
 
 ```csharp
 public override PointF StartPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Startpunkten.
 
@@ -22,7 +23,7 @@ Startpunkten.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* namnutrymme [Aspose.PSD.ShapeSegments](../../linesegment/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

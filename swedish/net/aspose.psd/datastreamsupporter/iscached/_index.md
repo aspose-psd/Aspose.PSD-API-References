@@ -1,27 +1,28 @@
 ---
-title: DataStreamSupporter.IsCached
-second_title: Aspose.PSD för .NET API-referens
-description: DataStreamSupporter fast egendom. Får ett värde som indikerar om objektets data är cachad för närvarande och ingen dataläsning krävs.
+title: "DataStreamSupporter.IsCached"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DataStreamSupporter‑egenskap. Hämtar ett värde som indikerar om objektets data för närvarande är cachad och ingen dataläsning krävs."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/datastreamsupporter/iscached/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.IsCached property
 
-Får ett värde som indikerar om objektets data är cachad för närvarande och ingen dataläsning krävs.
+Hämtar ett värde som indikerar om objektets data för närvarande är cachad och ingen dataläsning krävs.
 
 ```csharp
 public abstract bool IsCached { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om objektets data cachelagras; annat,`falsk` .
+`true` om objektets data är cachad; annars `false`.
 
 ### Se även
 
 * class [DataStreamSupporter](../)
-* namnutrymme [Aspose.PSD](../../datastreamsupporter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

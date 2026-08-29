@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanWrite
-second_title: Aspose.PSD för .NET API-referens
-description: StreamContainer fast egendom. Får ett värde som indikerar om ström stöder skrivning.
+title: "StreamContainer.CanWrite"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StreamContainer-egenskap. Hämtar ett värde som indikerar om strömmen stöder skrivning"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/streamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanWrite property
 
-Får ett värde som indikerar om ström stöder skrivning.
+Hämtar ett värde som indikerar om strömmen stödjer skrivning.
 
 ```csharp
 public virtual bool CanWrite { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om ström stöder skrivning; annat,`falsk`.
+`true` om strömmen stöder skrivning; annars `false`.
 
 ### Se även
 
 * class [StreamContainer](../)
-* namnutrymme [Aspose.PSD](../../streamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

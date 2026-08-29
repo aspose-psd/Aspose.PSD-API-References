@@ -1,20 +1,21 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Aspose.PSD för .NET API-referens
-description: LinearGradientBrush fast egendom. Hämtar eller ställer in startgradientfärgen.
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinearGradientBrush‑egenskap. Hämtar eller anger startgradientfärgen"
 type: docs
-weight: 40
+weight: 60
 url: /sv/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-Hämtar eller ställer in startgradientfärgen.
+Hämtar eller anger den startande gradientfärgen.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Startgradientfärgen.
 
@@ -22,7 +23,7 @@ Startgradientfärgen.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

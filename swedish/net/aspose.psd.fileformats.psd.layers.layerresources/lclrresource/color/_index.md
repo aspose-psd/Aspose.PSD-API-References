@@ -1,26 +1,27 @@
 ---
-title: LclrResource.Color
-second_title: Aspose.PSD för .NET API-referens
-description: LclrResource fast egendom. Hämtar eller ställer in färgen på lagret.
+title: "LclrResource.Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LclrResource egenskap. Hämtar eller anger lagrets färg"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/
 ---
+{{< psd/tize >}}
 ## LclrResource.Color property
 
-Hämtar eller ställer in färgen på lagret.
+Hämtar eller anger lagrets färg.
 
 ```csharp
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Färgen.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan ändra arkfärgsmarkering i Aspose.PSD (arkfärgsinställning)
+Följande exempel visar hur du kan ändra bladfärgsmarkering i Aspose.PSD (inställning för bladfärg)
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Följande exempel visar hur du kan ändra arkfärgsmarkering i Aspose.PSD (arkf�
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// I filen är färgerna på lagers markering i denna ordning
+// I filen är färgerna för lagrens markering i följande ordning
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -40,8 +41,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color används för att visuellt markera lager. 
-// Du kan till exempel uppdatera några lager i PSD och sedan markera efter färg det lager som du vill väcka uppmärksamhet.
+// Lagrets bladfärg används för att visuellt markera lager.
+// Till exempel kan du uppdatera vissa lager i PSD och sedan markera med färg det lager du vill uppmärksamma.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -50,7 +51,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // Färgerna ska vara omvända
+    // Färgerna bör vändas
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -64,7 +65,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Lcrl-resursen presenteras alltid i resurslistan för psd-filer.
+            // lcrl-resursen finns alltid i PSD-filens resurslista.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Baksidan av stilmallsfärgerna. Konfigurera lagerfärgmarkering.
+                // Omvändning av stilarksfärger. Inställning av lagerfärgsmarkering.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -86,7 +87,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

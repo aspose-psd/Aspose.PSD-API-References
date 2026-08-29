@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerPixel
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar bildbitar per pixelantal.
+title: "PsdImage.BitsPerPixel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar antalet bildbitar per pixel"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerPixel property
 
-Hämtar bildbitar per pixelantal.
+Hämtar antalet bildbitar per pixel.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Antalet bildbitar per pixel.
+Bildens bit per pixel-antal.
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Aspose.PSD för .NET API-referens
-description: DisposableObject byggare. Default_Constructor
+title: "DisposableObject.DisposableObject"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DisposableObject konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/disposableobject/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public DisposableObject()
@@ -17,7 +18,7 @@ public DisposableObject()
 ### Se även
 
 * class [DisposableObject](../)
-* namnutrymme [Aspose.PSD](../../disposableobject/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat
-second_title: Aspose.PSD för .NET API-referens
-description: ImageLoadersRegistry metod. Hämtar det första filformatet som stöds efter dess typnamn.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageLoadersRegistry-metoden. Hämtar det första stödda filformatet efter dess typnamn."
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat method
 
-Hämtar det första filformatet som stöds efter dess typnamn.
+Hämtar det första stödjade filformatet efter dess typnamn.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(FileFormat fileFormat)
@@ -16,22 +17,22 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(Fil
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| fileFormat | FileFormat | Deskriptorfilformatet som stöds. |
+| fileFormat | FileFormat | Det stödda beskrivningsfilformatet. |
 
 ### Returvärde
 
-Den först hittade loader-beskrivningen eller null om inte sådan deskriptor hittas.
+Den först hittade laddarbeskrivaren eller null om ingen sådan beskrivare hittas.
 
-### Anmärkningar
+## Anmärkningar
 
-Den första lastarbeskrivningen kommer att vara den senast registrerade.
+Den första laddarbeskrivaren kommer faktiskt att vara den sist registrerade.
 
 ### Se även
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageloadersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

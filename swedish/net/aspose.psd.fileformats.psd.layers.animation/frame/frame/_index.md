@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Aspose.PSD för .NET API-referens
-description: Frame byggare. Initierar en ny instans avFrame class.
+title: "Frame.Frame"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Frame-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-Initierar en ny instans av[`Frame`](../) class.
+Standardkonstruktorn.
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| timeLine | TimeLine | Tidslinjeobjektet. |
 
 ### Se även
 
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

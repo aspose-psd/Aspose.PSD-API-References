@@ -1,22 +1,23 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD för .NET API-referens
-description: Layer byggare. Initierar en ny instans avLayer klass. Konstruktör för lat initialisering.
+title: "Layer.Layer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-konstruktor. Initierar en ny instans av Layer-klassen. Konstruktor för lat initiering"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer() {#constructor}
 
-Initierar en ny instans av[`Layer`](../) klass. Konstruktör för lat initialisering.
+Initierar en ny instans av klassen [`Layer`](../). Konstruktor för lat initiering.
 
 ```csharp
 public Layer()
 ```
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan rita på ett nyskapat lager om den enkla konstruktorversionen används i Aspose.PSD
+Följande exempel visar hur du kan rita på ett nyss skapat lager om den enkla konstruktörsversionen används i Aspose.PSD
 
 ```csharp
 [C#]
@@ -35,10 +36,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // rita en rektangel med pennverktyget
+    // rita en rektangel med Pen-verktyg
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // rita ytterligare en rektangel med Solid Brush i blå färg
+    // rita en annan rektangel med Solid Brush i blå färg
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -48,14 +49,14 @@ using (var image = new PsdImage(width, height))
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-Initierar en ny instans av[`Layer`](../) class.
+Initierar en ny instans av klassen [`Layer`](../).
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
@@ -63,12 +64,12 @@ public Layer(RasterImage image, bool disposeImage = false)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| image | RasterImage | Bilden. |
-| disposeImage | Boolean | om inställt på`Sann` [kassera bilden]. |
+| bild | RasterImage | Bilden. |
+| disposeImage | Boolean | om den är satt till `true` [dispose image]. |
 
-### Exempel
+## Exempel
 
-Följande kod visar förmågan att ladda JPEG/PNG/etc-bildfiler till PsdImage utan att laddas direkt.
+Följande kod demonstrerar möjligheten att läsa in JPEG/PNG/etc bildfiler till PsdImage utan direkt laddning.
 
 ```csharp
 [C#]
@@ -104,14 +105,14 @@ using (var image = new PsdImage(200, 200))
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-Initierar en ny instans av[`Layer`](../) class.
+Initierar en ny instans av klassen [`Layer`](../).
 
 ```csharp
 public Layer(Stream stream)
@@ -119,11 +120,11 @@ public Layer(Stream stream)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| stream | Stream | Bildströmmen |
+| ström | Ström | Bildströmmen |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan lägga till Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif-bilder som lager till PsdImage
+Följande exempel visar hur du kan lägga till Bmp-, Jpeg-, Jpeg2000-, Png-, Psd-, Tiff- och Gif‑bilder som lager till PsdImage.
 
 ```csharp
 [C#]
@@ -173,14 +174,14 @@ using (var image = new PsdImage(200, 200))
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-Initierar en ny instans av[`Layer`](../) klass från byte arrays.
+Initierar en ny instans av klassen [`Layer`](../) från byte-arrayer.
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
@@ -188,23 +189,23 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| bounds | Rectangle | Lagret avgränsar. |
-| redBytes | Byte[] | De röda byten. |
-| greenBytes | Byte[] | De gröna byten. |
-| blueBytes | Byte[] | De blå byten. |
-| name | String | Lagrets namn. |
+| gränser | Rectangle | Lagrets gränser. |
+| redBytes | Byte[] | De röda bytena. |
+| greenBytes | Byte[] | De gröna bytena. |
+| blueBytes | Byte[] | De blå bytena. |
+| namn | String | Lagrets namn. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Bytematriser kan inte vara tomma eller Bytematrisernas längd måste vara lika med bounds dimensioner (bounds.Width * bounds.Height) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Byte-arrayer får inte vara tomma eller så måste längden på byte-arrayerna vara lika med gränsernas dimensioner (bounds.Width * bounds.Height) |
 
 ### Se även
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

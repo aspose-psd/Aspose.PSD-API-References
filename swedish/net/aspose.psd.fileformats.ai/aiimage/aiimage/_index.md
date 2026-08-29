@@ -1,14 +1,15 @@
 ---
-title: AiImage.AiImage
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage byggare. Default_Constructor
+title: "AiImage.AiImage"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-konstruktor. Initierar en ny instans av klassen AiImage"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-Default_Constructor
+Initierar en ny instans av klassen [`AiImage`](../).
 
 ```csharp
 public AiImage()
@@ -17,7 +18,7 @@ public AiImage()
 ### Se även
 
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisterLoader
-second_title: Aspose.PSD för .NET API-referens
-description: ImageLoadersRegistry metod. Registrerar laddaren.
+title: "ImageLoadersRegistry.RegisterLoader"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageLoadersRegistry-metod. Registrerar laddaren"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/imageloadersregistry/registerloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisterLoader method
 
 Registrerar laddaren.
@@ -16,13 +17,13 @@ public static void RegisterLoader(IImageLoaderDescriptor loaderDescriptor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | Laddaren deskriptor att registrera. |
+| loaderDescriptor | IImageLoaderDescriptor | Laddarbeskrivaren att registrera. |
 
 ### Se även
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageloadersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

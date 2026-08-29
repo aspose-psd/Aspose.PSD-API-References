@@ -1,14 +1,15 @@
 ---
-title: Class ObjectWithBounds
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ObjectWithBounds klass. Objektet som har gränser.
+title: "Klass ObjectWithBounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ObjectWithBounds-klass. Objektet som har gränser"
 type: docs
-weight: 5160
+weight: 5650
 url: /sv/net/aspose.psd/objectwithbounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds class
 
-Objektet som har gränser.
+Objektet med gränser.
 
 ```csharp
 public abstract class ObjectWithBounds
@@ -16,13 +17,13 @@ public abstract class ObjectWithBounds
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Hämtar objektets gränser. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds)(Matrix) | Hämtar objektets gränser. |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds_1)(Matrix, Pen) | Hämtar objektets gränser. |
@@ -30,7 +31,7 @@ public abstract class ObjectWithBounds
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

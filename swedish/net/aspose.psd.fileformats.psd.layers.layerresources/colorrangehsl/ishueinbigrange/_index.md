@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Aspose.PSD för .NET API-referens
-description: ColorRangeHsl metod. Bestämmer om är nyans i stort område.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorRangeHsl metod. Avgör om nyansen är i stort intervall"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-Bestämmer om är nyans i stort område.
+Bestämmer om nyansen är i stort område.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
@@ -16,16 +17,16 @@ public bool IsHueInBigRange(double hue)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| hue | Double | Nyansvärdet. |
+| nyans | Double | Nyansvärdet. |
 
 ### Returvärde
 
-`Sann` om nyans i stort intervall; annat,`falsk` .
+`true` om nyansen är i stort intervall; annars, `false`.
 
 ### Se även
 
 * class [ColorRangeHsl](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

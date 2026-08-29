@@ -1,14 +1,15 @@
 ---
-title: StringFormat.DeepClone
-second_title: Aspose.PSD för .NET API-referens
-description: StringFormat metod. Skapar en djup klon av dettaStringFormat objekt.
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "StringFormat‑metod. Skapar en djupklon av detta StringFormat‑objekt"
 type: docs
-weight: 130
+weight: 140
 url: /sv/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-Skapar en djup klon av detta[`StringFormat`](../) objekt.
+Skapar en djupklon av detta [`StringFormat`](../)‑objekt.
 
 ```csharp
 public StringFormat DeepClone()
@@ -16,12 +17,12 @@ public StringFormat DeepClone()
 
 ### Returvärde
 
-Den djupa klonen av strömmen[`StringFormat`](../) .
+Den djupklonade versionen av det aktuella [`StringFormat`](../).
 
 ### Se även
 
 * class [StringFormat](../)
-* namnutrymme [Aspose.PSD](../../stringformat/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

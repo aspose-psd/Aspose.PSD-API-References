@@ -1,27 +1,28 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Aspose.PSD för .NET API-referens
-description: ColorantBase fast egendom. Hämtar eller ställer in namnet på färgrutan.
+title: "ColorantBase.SwatchName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorantBase egenskap. Hämtar eller anger namnet på färgprovet"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
-Hämtar eller ställer in namnet på färgrutan.
+Hämtar eller anger namn på färgprovet.
 
 ```csharp
 public string SwatchName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Namnet på färgrutan.
+Namnet på färgprovet.
 
 ### Se även
 
 * class [ColorantBase](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

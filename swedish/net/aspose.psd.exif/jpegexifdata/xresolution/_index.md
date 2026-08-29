@@ -1,20 +1,21 @@
 ---
-title: JpegExifData.XResolution
-second_title: Aspose.PSD för .NET API-referens
-description: JpegExifData fast egendom. Hämtar eller ställer in xupplösningen.
+title: "JpegExifData.XResolution"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegExifData-egenskap. Hämtar eller anger x-upplösningen"
 type: docs
 weight: 220
 url: /sv/net/aspose.psd.exif/jpegexifdata/xresolution/
 ---
+{{< psd/tize >}}
 ## JpegExifData.XResolution property
 
-Hämtar eller ställer in x-upplösningen.
+Hämtar eller anger x-upplösningen.
 
 ```csharp
 public TiffRational XResolution { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 x-upplösningen.
 
@@ -22,7 +23,7 @@ x-upplösningen.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../jpegexifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

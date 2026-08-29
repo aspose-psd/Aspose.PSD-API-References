@@ -1,14 +1,15 @@
 ---
-title: Class GradientOverlayEffect
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect klass. Gradient Layer effect
+title: "Klass GradientOverlayEffect"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect klass. Gradient lager‑effekt"
 type: docs
-weight: 2130
+weight: 2320
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect class
 
-Gradient Layer effect
+Gradientlager-effekt
 
 ```csharp
 public class GradientOverlayEffect : ILayerEffect
@@ -16,17 +17,23 @@ public class GradientOverlayEffect : ILayerEffect
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | Hämtar eller ställer in blandningsläget. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | Får en typ av effekt |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är synlig. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | Hämtar eller ställer in opaciteten. |
-| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/) { get; set; } | Hämtar eller ställer in inställningarna. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | Hämtar eller anger blandningsläget. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | Hämtar en effekttyp |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är synlig. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | Hämtar eller anger opaciteten. |
+| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/) { get; set; } | Hämtar eller anger inställningarna. |
 
-### Exempel
+## Metoder
 
-Följande kod visar stödet för gradientöverlagringseffekten.
+| Namn | Beskrivning |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/geteffectbounds/)(Rectangle, int) | Beräknar och hämtar gränserna för effektpixlar baserat på indata lagrets pixelgränser. |
+
+## Exempel
+
+Följande kod demonstrerar stöd för gradient‑överlappningseffekten.
 
 ```csharp
 [C#]
@@ -62,8 +69,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual((byte)255, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var settings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, settings.Color);
+    var settings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
+    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, settings.FillType);
     AssertAreEqual(true, settings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, settings.GradientType);
@@ -74,7 +82,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, settings.Reverse);
 
     // Färgpunkter
-    var colorPoints = settings.ColorPoints;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(3, colorPoints.Length);
 
     AssertAreEqual(Color.FromArgb(9, 0, 178), colorPoints[0].Color);
@@ -90,7 +98,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, colorPoints[2].MedianPointLocation);
 
     // Transparenspunkter
-    var transparencyPoints = settings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -102,7 +110,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
     // Testredigering
-    settings.Color = Color.Green;
+    solidGradient.Color = Color.Green;
 
     gradientOverlay.Opacity = 193;
     gradientOverlay.BlendMode = BlendMode.Lighten;
@@ -116,22 +124,22 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     settings.Reverse = true;
 
     // Lägg till ny färgpunkt
-    var colorPoint = settings.AddColorPoint();
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // Ändra plats för föregående punkt
-    settings.ColorPoints[2].Location = 3000;
+    solidGradient.ColorPoints[2].Location = 3000;
 
     // Lägg till ny transparenspunkt
-    var transparencyPoint = settings.AddTransparencyPoint();
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // Ändra plats för tidigare transparenspunkt
-    settings.TransparencyPoints[1].Location = 2315;
+    // Ändra plats för föregående transparenspunkt
+    solidGradient.TransparencyPoints[1].Location = 2315;
     im.Save(exportPath);
 }
 
@@ -144,47 +152,48 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual((byte)193, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var fillSettings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, fillSettings.Color);
+    var fillSettings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
+    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // Kontrollera färgpunkter
-    AssertAreEqual(4, fillSettings.ColorPoints.Length);
+    AssertAreEqual(4, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.FromArgb(9, 0, 178), point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Red, point.Color);
     AssertAreEqual(2048, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.FromArgb(255, 252, 0), point.Color);
     AssertAreEqual(3000, point.Location);
 
-    point = fillSettings.ColorPoints[3];
+    point = solidGradient.ColorPoints[3];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // Kontrollera genomskinliga punkter
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // Kontrollera transparenta punkter
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(2315, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.0, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
@@ -194,7 +203,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### Se även
 
 * interface [ILayerEffect](../ilayereffect/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

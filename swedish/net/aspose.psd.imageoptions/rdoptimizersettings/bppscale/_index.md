@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: Aspose.PSD för .NET API-referens
-description: RdOptimizerSettings fast egendom. Hämtar eller ställer in BPPskalfaktorn bitar per pixel.
+title: "RdOptimizerSettings.BppScale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RdOptimizerSettings property. Hämtar eller anger BPP‑skalningsfaktorn för bitar per pixel"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppScale property
 
-Hämtar eller ställer in BPP-skalfaktorn (bitar per pixel).
+Hämtar eller anger BPP (bitar per pixel) skalningsfaktor.
 
 ```csharp
 public int BppScale { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-BPP-skalan.
+BPP‑skalan.
 
 ### Se även
 
 * class [RdOptimizerSettings](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

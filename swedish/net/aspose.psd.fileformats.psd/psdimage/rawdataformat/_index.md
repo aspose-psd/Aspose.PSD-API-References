@@ -1,11 +1,12 @@
 ---
-title: PsdImage.RawDataFormat
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar rådataformatet.
+title: "PsdImage.RawDataFormat"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar det råa dataformatet"
 type: docs
 weight: 220
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.RawDataFormat property
 
 Hämtar rådataformatet.
@@ -14,15 +15,15 @@ Hämtar rådataformatet.
 public override PixelDataFormat RawDataFormat { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rådataformatet.
+Det råa dataformatet.
 
 ### Se även
 
 * class [PixelDataFormat](../../../aspose.psd/pixeldataformat/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

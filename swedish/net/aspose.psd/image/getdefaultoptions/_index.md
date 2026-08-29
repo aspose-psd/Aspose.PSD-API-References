@@ -1,11 +1,12 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Image metod. Hämtar standardalternativen.
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image‑metod. Hämtar standardalternativen."
 type: docs
-weight: 170
+weight: 180
 url: /sv/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
 Hämtar standardalternativen.
@@ -26,7 +27,7 @@ Standardalternativ
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.XmpData
-second_title: Aspose.PSD för .NET API-referens
-description: ImageOptionsBase fast egendom. Hämtar eller ställer in XMPmetadatabehållaren.
+title: "ImageOptionsBase.XmpData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageOptionsBase-egenskap. Hämtar eller anger XMP-metadatabehållaren"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd/imageoptionsbase/xmpdata/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.XmpData property
 
-Hämtar eller ställer in XMP-metadatabehållaren.
+Hämtar eller anger XMP-metadatabehållaren.
 
 ```csharp
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-XMP-databehållaren.
+XMP‑databehållaren.
 
 ### Se även
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [ImageOptionsBase](../)
-* namnutrymme [Aspose.PSD](../../imageoptionsbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

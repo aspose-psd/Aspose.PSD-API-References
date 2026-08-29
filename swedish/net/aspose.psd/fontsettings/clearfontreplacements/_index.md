@@ -1,11 +1,12 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Aspose.PSD för .NET API-referens
-description: FontSettings metod. Rensar alla teckensnittsersättningar
+title: "FontSettings.ClearFontReplacements"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontSettings-metoden. Rensar alla teckensnittsersättningar"
 type: docs
-weight: 20
+weight: 30
 url: /sv/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
 Rensar alla teckensnittsersättningar
@@ -14,9 +15,9 @@ Rensar alla teckensnittsersättningar
 public static void ClearFontReplacements()
 ```
 
-### Exempel
+## Exempel
 
-Följande kod demonstrerar förmågan att programmässigt begränsa teckensnitt med hjälp av.
+Följande kod demonstrerar möjligheten att programatiskt begränsa teckensnitt med hjälp av.
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -54,7 +56,7 @@ finally
 ### Se även
 
 * class [FontSettings](../)
-* namnutrymme [Aspose.PSD](../../fontsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: Aspose.PSD för .NET API-referens
-description: PsdLoadOptions fast egendom. Hämtar eller ställer in ett värde som indikerar om PSDtextskiktets fasta bredd kommer att ignoreras när UpdateTextoperationen körs.
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdLoadOptions-egenskap. Hämtar eller anger ett värde som indikerar om fast bredd för PSD‑textlager ska ignoreras vid körning av UpdateText‑operationen."
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-Hämtar eller ställer in ett värde som indikerar om PSD-textskiktets fasta bredd kommer att ignoreras när UpdateText-operationen körs.
+Hämtar eller anger ett värde som indikerar om PSD‑textlagrets fasta bredd ska ignoreras vid körning av UpdateText‑operationen.
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` if [ignorera textlagrets bredd]; annat,`falsk` .
+`true` om [ignore text layer width]; annars, `false`.
 
 ### Se även
 
 * class [PsdLoadOptions](../)
-* namnutrymme [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: Aspose.PSD för .NET API-referens
-description: LengthRecord byggare. Initierar en ny instans avLengthRecord class.
+title: "LengthRecord.LengthRecord"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LengthRecord konstruktor. Initierar en ny instans av LengthRecord-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-Initierar en ny instans av[`LengthRecord`](../) class.
+Initierar en ny instans av [`LengthRecord`](../) klassen.
 
 ```csharp
 public LengthRecord(byte[] data)
@@ -16,33 +17,27 @@ public LengthRecord(byte[] data)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| data | Byte[] | Rekorddata. |
-
-### Undantag
-
-| undantag | skick |
-| --- | --- |
-| !:PsdImageArgumentException | Felaktiga data för att skapa LengthRecord |
+| data | Byte[] | Postens data. |
 
 ### Se även
 
 * class [LengthRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-Initierar en ny instans av[`LengthRecord`](../) class.
+Initierar en ny instans av [`LengthRecord`](../) klassen.
 
 ```csharp
 public LengthRecord()
 ```
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar stöd för nya LengthRecord-egenskaper, PathOperations (booleska operationer), ShapeIndex och BezierKnotRecordsCount.
+Följande kodexempel demonstrerar stödet för nya LengthRecord‑egenskaper, PathOperations (boolska operationer), ShapeIndex och BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -78,7 +73,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [LengthRecord](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

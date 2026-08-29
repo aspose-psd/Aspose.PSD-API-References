@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller minneshanteringsrutiner.
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller minneshanteringsrutiner."
 type: docs
-weight: 450
+weight: 490
 url: /sv/net/aspose.psd.memorymanagement/
 ---
+{{< psd/tize >}}
 Namnutrymmet innehåller minneshanteringsrutiner.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [Configuration](./configuration/) | Minneshanteringens globala konfiguration |
+| [Configuration](./configuration/) | Den globala konfigurationen för minneshantering |
 
 

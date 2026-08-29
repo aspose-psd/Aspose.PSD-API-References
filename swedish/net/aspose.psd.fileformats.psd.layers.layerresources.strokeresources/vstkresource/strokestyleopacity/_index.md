@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleOpacity
-second_title: Aspose.PSD för .NET API-referens
-description: VstkResource fast egendom. Hämtar eller ställer in Stroke stryle opacitet 0100.
+title: "VstkResource.StrokeStyleOpacity"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VstkResource egenskap. Hämtar eller anger Stroke-stilens opacitet 0100"
 type: docs
-weight: 180
+weight: 160
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleOpacity property
 
-Hämtar eller ställer in Stroke stryle opacitet (0-100%).
+Hämtar eller anger opacitet för stroke‑stilen (0‑100 %).
 
 ```csharp
 public int StrokeStyleOpacity { get; set; }
@@ -17,7 +18,7 @@ public int StrokeStyleOpacity { get; set; }
 ### Se även
 
 * class [VstkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

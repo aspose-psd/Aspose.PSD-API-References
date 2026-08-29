@@ -1,14 +1,15 @@
 ---
-title: ExifData.RemoveTag
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData metod. Ta bort tagg från container
+title: "ExifData.RemoveTag"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-metod. Ta bort tagg från behållare"
 type: docs
 weight: 1090
 url: /sv/net/aspose.psd.exif/exifdata/removetag/
 ---
+{{< psd/tize >}}
 ## RemoveTag(ExifProperties) {#removetag}
 
-Ta bort tagg från container
+Ta bort tagg från behållare
 
 ```csharp
 public void RemoveTag(ExifProperties tag)
@@ -16,20 +17,20 @@ public void RemoveTag(ExifProperties tag)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| tag | ExifProperties | Taggen att ta bort |
+| tagg | ExifProperties | Taggen att ta bort |
 
 ### Se även
 
 * enum [ExifProperties](../../exifproperties/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RemoveTag(ushort) {#removetag_1}
 
-Ta bort tagg från container
+Ta bort tagg från behållare
 
 ```csharp
 public void RemoveTag(ushort tagId)
@@ -37,12 +38,12 @@ public void RemoveTag(ushort tagId)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| tagId | UInt16 | Taggen identifierare att ta bort. |
+| tagId | UInt16 | Taggidentifieraren att ta bort. |
 
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

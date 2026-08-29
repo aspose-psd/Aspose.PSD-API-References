@@ -1,27 +1,28 @@
 ---
-title: ColorOverlayEffect.IsVisible
-second_title: Aspose.PSD för .NET API-referens
-description: ColorOverlayEffect fast egendom. Hämtar eller ställer in ett värde som anger om denna instans är synlig.
+title: "ColorOverlayEffect.IsVisible"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorOverlayEffect-egenskap. Hämtar eller anger ett värde som indikerar om den här instansen är synlig"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.IsVisible property
 
-Hämtar eller ställer in ett värde som anger om denna instans är synlig.
+Hämtar eller anger ett värde som indikerar om den här instansen är synlig.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans är synlig; annat,`falsk` .
+`true` om detta objekt är synligt; annars `false`.
 
 ### Se även
 
 * class [ColorOverlayEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

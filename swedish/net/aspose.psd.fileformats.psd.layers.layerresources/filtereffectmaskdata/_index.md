@@ -1,14 +1,15 @@
 ---
-title: Class FilterEffectMaskData
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FilterEffectMaskData klass. Filtermaskens dataklass.
+title: "Klass FilterEffectMaskData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FilterEffectMaskData‑klass. Filtermaskdataklassen."
 type: docs
-weight: 2480
+weight: 2740
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData class
 
-Filtermaskens dataklass.
+Filtermaskdataklassen.
 
 ```csharp
 public sealed class FilterEffectMaskData
@@ -16,33 +17,33 @@ public sealed class FilterEffectMaskData
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FilterEffectMaskData](filtereffectmaskdata/)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | Initierar en ny instans av`FilterEffectMaskData` class. |
+| [FilterEffectMaskData](filtereffectmaskdata/)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | Initierar en ny instans av klassen `FilterEffectMaskData`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Channels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/channels/) { get; } | Får kanalerna. |
+| [Channels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/channels/) { get; } | Hämtar kanalerna. |
 | [GUID](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/) { get; } | Hämtar GUID. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/) { get; } | Hämtar filtermaskens datalängd i byte. |
-| [MaskRectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/) { get; } | Hämtar arkmaskrektangeln. |
-| [MaxChannels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/) { get; } | Får det maximala antalet kanaler. |
-| [PixelsDepth](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/) { get; } | Får pixlarnas djup. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/) { get; } | Hämtar filtermaskdatans längd i byte. |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/) { get; } | Hämtar sheet mask‑rektangeln. |
+| [MaxChannels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/) { get; } | Hämtar det maximala antalet kanaler. |
+| [PixelsDepth](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/) { get; } | Hämtar pixel‑djupet. |
 | [Rectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/rectangle/) { get; } | Hämtar kanalernas rektangel. |
-| [SheetMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/) { get; } | Får arkmasken. |
-| [UserMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/) { get; } | Får användarmasken. |
+| [SheetMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/) { get; } | Hämtar bladmasken. |
+| [UserMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/) { get; } | Hämtar användarmasken. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [SaveData](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/)(StreamContainer) | Sparar resursen till den angivna strömbehållaren. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar hur man hämtar och ställer in egenskaper för FXidResource-resursen.
+Detta exempel visar hur man hämtar och anger egenskaper för FXidResource-resursen.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -74,7 +75,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// kontrollera efter att du har sparat
+// kontrollera efter sparning
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -89,7 +90,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

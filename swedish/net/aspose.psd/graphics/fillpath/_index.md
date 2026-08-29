@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillPath
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Fyller det inre av enGraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Fyller interiören av en GraphicsPath"
 type: docs
-weight: 360
+weight: 370
 url: /sv/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-Fyller det inre av en[`GraphicsPath`](../../graphicspath/) .
+Fyller interiören av en [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
@@ -16,21 +17,21 @@ public void FillPath(Brush brush, GraphicsPath path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) som representerar vägen att fylla. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) som representerar sökvägen att fylla. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är null. -eller- *path* är inget. |
+| ArgumentNullException | *brush* är null. -eller- *path* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IPatternFillSettings
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings gränssnitt. Gränssnitt för mönsterfyllningsinställningar
+title: "Gränssnitt IPatternFillSettings"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings gränssnitt. Gränssnitt för mönsterfyllningsinställningar"
 type: docs
-weight: 2030
+weight: 2150
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
 Gränssnitt för mönsterfyllningsinställningar
@@ -16,22 +17,23 @@ public interface IPatternFillSettings : IFillSettings
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Hämtar eller ställer in den horisontella offseten. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om detta`IPatternFillSettings`är länkad. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Hämtar eller ställer in mönsterdata. |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Hämtar eller ställer in höjden på mönstret. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Hämtar eller ställer in mönsteridentifieraren. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Hämtar eller ställer in namnet på mönstret. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Hämtar eller ställer in bredden på mönstret. |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Hämtar eller ställer in typen av punkt. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Hämtar eller ställer in skalan. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Hämtar eller ställer in den vertikala offseten. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | Hämtar eller anger vinkeln. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Hämtar eller anger den horisontella förskjutningen. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta `IPatternFillSettings` är länkat. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Hämtar mönsterdata. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Hämtar eller anger mönstrets höjd. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Hämtar eller anger mönsteridentifieraren. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Hämtar eller anger namnet på mönstret. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Hämtar eller anger mönstrets bredd. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Hämtar eller anger punkttypen. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Hämtar eller anger skalan. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Hämtar eller anger den vertikala förskjutningen. |
 
-### Exempel
+## Exempel
 
-Följande kod sparar bilder med mönsterfyllningsskikt och visar hur Aspose.PSD återger mönstret.
+Följande kod sparar bilder med pattern Fill Layer och demonstrerar hur Aspose.PSD renderar mönstret.
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -84,7 +86,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### Se även
 
 * interface [IFillSettings](../ifillsettings/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

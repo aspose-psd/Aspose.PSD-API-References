@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar eller ställer in ett värde som anger om detta lager är ett malllager.
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection egenskap. Hämtar eller anger ett värde som indikerar om detta lager är ett mallager"
 type: docs
-weight: 100
+weight: 120
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-Hämtar eller ställer in ett värde som anger om detta lager är ett malllager.
+Hämtar eller anger ett värde som indikerar om detta lager är ett malllager.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om detta lager är en mall; annat,`falsk` .
+`true` om detta lager är en mall; annars `false`.
 
-### Exempel
+## Exempel
 
-Följande exempel visar stöd för lager i AI-formatfiler.
+Följande exempel demonstrerar stöd för lager i AI-formatfiler.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Se även
 
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

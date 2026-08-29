@@ -1,14 +1,15 @@
 ---
-title: VectorRasterizationOptions.DrawColor
-second_title: Aspose.PSD för .NET API-referens
-description: VectorRasterizationOptions fast egendom. Får eller ställer in en förgrundsfärg.
+title: "VectorRasterizationOptions.DrawColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorRasterizationOptions-egenskap. Hämtar eller anger en förgrundsfärg"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.imageoptions/vectorrasterizationoptions/drawcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.DrawColor property
 
-Får eller ställer in en förgrundsfärg.
+Hämtar eller anger en förgrundsfärg.
 
 ```csharp
 public Color DrawColor { get; set; }
@@ -18,7 +19,7 @@ public Color DrawColor { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

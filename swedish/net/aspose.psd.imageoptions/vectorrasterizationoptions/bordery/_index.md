@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderY
-second_title: Aspose.PSD för .NET API-referens
-description: VectorRasterizationOptions fast egendom. Hämtar eller ställer in gränsen Y.
+title: "VectorRasterizationOptions.BorderY"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorRasterizationOptions-egenskap. Hämtar eller anger Y-kanten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imageoptions/vectorrasterizationoptions/bordery/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderY property
 
-Hämtar eller ställer in gränsen Y.
+Hämtar eller anger Y‑kant.
 
 ```csharp
 public float BorderY { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Gränsen Y.
+Y-kanten.
 
 ### Se även
 
 * class [VectorRasterizationOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

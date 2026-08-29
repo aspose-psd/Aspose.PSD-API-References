@@ -1,20 +1,21 @@
 ---
-title: ExifData.LightSource
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in ljuskällan.
+title: "ExifData.LightSource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger ljuskällan"
 type: docs
 weight: 770
 url: /sv/net/aspose.psd.exif/exifdata/lightsource/
 ---
+{{< psd/tize >}}
 ## ExifData.LightSource property
 
-Hämtar eller ställer in ljuskällan.
+Hämtar eller anger ljuskällan.
 
 ```csharp
 public ExifLightSource LightSource { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Ljuskällan.
 
@@ -22,7 +23,7 @@ Ljuskällan.
 
 * enum [ExifLightSource](../../../aspose.psd.exif.enums/exiflightsource/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

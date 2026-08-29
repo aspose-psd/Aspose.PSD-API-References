@@ -1,14 +1,15 @@
 ---
-title: Class ImageLoadException
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.CoreExceptions.ImageLoadException klass. Undantaget för bildladdning. Uppstår under bildladdning.
+title: "Klass ImageLoadException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.CoreExceptions.ImageLoadException-klass. Bildladdningsundantaget. Förekommer under bildladdning"
 type: docs
 weight: 620
 url: /sv/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
-Undantaget för bildladdning. Uppstår under bildladdning.
+Bildläsningsundantaget. Förekommer under bildläsning.
 
 ```csharp
 public class ImageLoadException : ImageException
@@ -16,15 +17,15 @@ public class ImageLoadException : ImageException
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | Initierar en ny instans av`ImageLoadException` class. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Initierar en ny instans av`ImageLoadException` class. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | Initierar en ny instans av klassen `ImageLoadException`. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Initierar en ny instans av klassen `ImageLoadException`. |
 
 ### Se även
 
 * class [ImageException](../imageexception/)
-* namnutrymme [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

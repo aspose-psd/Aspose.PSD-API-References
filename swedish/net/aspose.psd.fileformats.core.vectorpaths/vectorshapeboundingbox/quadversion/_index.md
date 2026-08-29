@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.QuadVersion
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeBoundingBox fast egendom. Hämtar eller ställer in enhetsvärdet quad version.
+title: "VectorShapeBoundingBox.QuadVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeBoundingBox egenskap. Hämtar eller anger enhetsvärdet för quad-versionen"
 type: docs
-weight: 50
+weight: 60
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.QuadVersion property
 
-Hämtar eller ställer in enhetsvärdet quad version.
+Hämtar eller anger enhetsvärdet quad‑version.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Fyrversionen.
+Quad-versionen.
 
 ### Se även
 
 * class [VectorShapeBoundingBox](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

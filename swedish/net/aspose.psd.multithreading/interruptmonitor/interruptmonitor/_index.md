@@ -1,14 +1,15 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Aspose.PSD för .NET API-referens
-description: InterruptMonitor byggare. Default_Constructor
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "InterruptMonitor konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.multithreading/interruptmonitor/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public InterruptMonitor()
@@ -17,7 +18,7 @@ public InterruptMonitor()
 ### Se även
 
 * class [InterruptMonitor](../)
-* namnutrymme [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

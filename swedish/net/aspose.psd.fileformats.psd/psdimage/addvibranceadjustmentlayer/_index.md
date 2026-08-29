@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till vibrationsjusteringslagret.
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Lägger till Vibrance-justeringslagret"
 type: docs
-weight: 430
+weight: 490
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-Lägger till vibrationsjusteringslagret.
+Lägger till Vibrance‑justeringslagret.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
@@ -16,11 +17,11 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 ### Returvärde
 
-Ett nyskapat Vibrance-lager.
+Ett nyss skapat Vibrance-lager.
 
-### Exempel
+## Exempel
 
-Följande kodexempel visar stöd för lagret VibranceLayer och möjligheten att redigera denna justering.
+Följande kodexempel demonstrerar stöd för VibranceLayer-lagret och möjligheten att redigera denna justering.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

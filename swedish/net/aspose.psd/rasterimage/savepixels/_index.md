@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SavePixels
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Sparar pixlarna.
+title: "RasterImage.SavePixels"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Sparar pixlarna"
 type: docs
-weight: 520
+weight: 540
 url: /sv/net/aspose.psd/rasterimage/savepixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SavePixels method
 
 Sparar pixlarna.
@@ -16,12 +17,12 @@ public void SavePixels(Rectangle rectangle, Color[] pixels)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rectangle | Rectangle | Rektangeln att spara pixlar till. |
-| pixels | Color[] | Pixelarrayen. |
+| rektangel | Rectangle | Rektangeln att spara pixlar till. |
+| pixlar | Color[] | Pixelarrayen. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar hur man laddar pixelinformation i en array av typfärg, manipulerar arrayen och återställer den till bilden. För att utföra dessa operationer skapar det här exemplet en ny bildfil (i PSD-format) med MemoryStream-objekt.
+Detta exempel visar hur man laddar pixelinformation i en array av typen Color, manipulerar arrayen och sätter tillbaka den i bilden. För att utföra dessa operationer skapar detta exempel en ny bildfil (i PSD-format) med hjälp av ett MemoryStream‑objekt.
 
 ```csharp
 [C#]
@@ -29,27 +30,27 @@ Det här exemplet visar hur man laddar pixelinformation i en array av typfärg, 
 //Skapa en instans av MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Skapa en instans av PsdOptions och ställ in dess olika egenskaper inklusive egenskapen Source
+    //Skapa en instans av PsdOptions och ange dess olika egenskaper inklusive Source‑egenskapen
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Skapa en instans av bild
+    //Skapa en instans av Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Hämta pixlarna i bilden genom att ange området som bildgräns
+        //Hämta bildens pixlar genom att specificera området som bildens gräns
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //Slinga över Arrayen och ställer in färgen på alrenativt indexerad pixel
+        //Loopa över arrayen och sätter färg på alternativt indexerad pixel
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Ställ in den indexerade pixelfärgen till gul
+                //Sätt färgen på den indexerade pixeln till gul
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Ställ in den indexerade pixelfärgen till blå
+                //Sätt färgen på den indexerade pixeln till blå
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
@@ -71,7 +72,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 * struct [Rectangle](../../rectangle/)
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

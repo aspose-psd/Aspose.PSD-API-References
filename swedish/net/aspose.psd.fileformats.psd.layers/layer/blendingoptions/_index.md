@@ -1,20 +1,21 @@
 ---
-title: Layer.BlendingOptions
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Får blandningsalternativen.
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lagrets egenskap. Hämtar blandningsalternativen"
 type: docs
-weight: 30
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
-Får blandningsalternativen.
+Hämtar blandningsalternativen.
 
 ```csharp
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blandningsalternativen.
 
@@ -22,7 +23,7 @@ Blandningsalternativen.
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

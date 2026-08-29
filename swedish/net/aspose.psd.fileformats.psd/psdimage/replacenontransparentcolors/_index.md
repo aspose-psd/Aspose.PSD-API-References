@@ -1,14 +1,15 @@
 ---
-title: PsdImage.ReplaceNonTransparentColors
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Ersätter alla icketransparenta färger med ny färg och bevarar det ursprungliga alfavärdet för att spara jämna kanter. Obs om du använder det på bilder utan genomskinlighet kommer alla färger att ersättas med en enda.
+title: "PsdImage.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-metod. Ersätter alla icke-transparenta färger med en ny färg och bevarar det ursprungliga alfavärdet för att spara mjuka kanter. Observera att om du använder den på bilder utan transparens kommer alla färger att ersättas med en enda."
 type: docs
-weight: 580
+weight: 640
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceNonTransparentColors method
 
-Ersätter alla icke-transparenta färger med ny färg och bevarar det ursprungliga alfavärdet för att spara jämna kanter. Obs: om du använder det på bilder utan genomskinlighet kommer alla färger att ersättas med en enda.
+Ersätter alla icke‑transparenta färger med en ny färg och bevarar det ursprungliga alfa‑värdet för att spara mjuka kanter. Obs: om du använder den på bilder utan transparens, kommer alla färger att ersättas med en enda.
 
 ```csharp
 public override void ReplaceNonTransparentColors(int newColorArgb)
@@ -16,12 +17,12 @@ public override void ReplaceNonTransparentColors(int newColorArgb)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| newColorArgb | Int32 | Nytt ARGB-värde för färg att ersätta icke-transparenta färger med. |
+| newColorArgb | Int32 | Nytt färg‑ARGB‑värde att ersätta icke‑transparenta färger med. |
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

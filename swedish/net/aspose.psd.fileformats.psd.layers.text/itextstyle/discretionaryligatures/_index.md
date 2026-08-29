@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. De diskretionära ligaturer som används för att koppla bokstäver särskilt i skriptteckensnitt.
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle property. De valfria ligaturerna används för att koppla ihop bokstäver, särskilt i skriptfonter"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-De diskretionära ligaturer som används för att koppla bokstäver, särskilt i skriptteckensnitt.
+De valfria ligaturerna som används för att koppla ihop bokstäver, särskilt i skriptfonter.
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

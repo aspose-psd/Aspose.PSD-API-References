@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in lagerfyllmedlet.
+title: "Layer.Filler"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar eller anger lagrets fyllnad"
 type: docs
-weight: 120
+weight: 130
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-Hämtar eller ställer in lagerfyllmedlet.
+Hämtar eller anger lagrets fyllning.
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Lagerfyllmedlet.
+Lagrets fyllnad.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

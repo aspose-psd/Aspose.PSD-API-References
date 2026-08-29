@@ -1,28 +1,29 @@
 ---
-title: ExifData.MeteringMode
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in mätningsläget.
+title: "ExifData.MeteringMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData egenskap. Hämtar eller anger mätarläget"
 type: docs
 weight: 810
 url: /sv/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
-Hämtar eller ställer in mätningsläget.
+Hämtar eller anger mätläget.
 
 ```csharp
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Mätläget.
+Mätningsläget.
 
 ### Se även
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.HorizontalScale
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Den horisontella skalan.
+title: "ITextStyle.HorizontalScale"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle property. Den horisontella skalan"
 type: docs
 weight: 160
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.HorizontalScale property
 
 Den horisontella skalan.
@@ -14,9 +15,9 @@ Den horisontella skalan.
 public double HorizontalScale { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

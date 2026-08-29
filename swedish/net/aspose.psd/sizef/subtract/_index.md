@@ -1,14 +1,15 @@
 ---
-title: SizeF.Subtract
-second_title: Aspose.PSD för .NET API-referens
-description: SizeF metod. Subtraherar bredden och höjden på enSizeF struktur från en annans bredd och höjdSizeFstruktur.
+title: "SizeF.Subtract"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SizeF‑metod. Subtraherar bredden och höjden av en SizeF‑struktur från bredden och höjden av en annan SizeF‑struktur"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd/sizef/subtract/
 ---
+{{< psd/tize >}}
 ## SizeF.Subtract method
 
-Subtraherar bredden och höjden på en[`SizeF`](../) struktur från en annans bredd och höjd[`SizeF`](../)struktur.
+Subtraherar bredden och höjden av en [`SizeF`](../)-struktur från bredden och höjden av en annan [`SizeF`](../)-struktur.
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
@@ -16,17 +17,17 @@ public static SizeF Subtract(SizeF size1, SizeF size2)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| size1 | SizeF | De[`SizeF`](../) struktur på vänster sida av subtraktionsoperatorn. |
-| size2 | SizeF | De[`SizeF`](../) struktur på höger sida om subtraktionsoperatorn. |
+| size1 | SizeF | Den [`SizeF`](../)-strukturen på vänster sida av subtraktionsoperatorn. |
+| size2 | SizeF | Den [`SizeF`](../)-strukturen på höger sida av subtraktionsoperatorn. |
 
 ### Returvärde
 
-De[`SizeF`](../)som är ett resultat av subtraktionsoperationen.
+Den [`SizeF`](../) som är resultatet av subtraktionsoperationen.
 
 ### Se även
 
 * struct [SizeF](../)
-* namnutrymme [Aspose.PSD](../../sizef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

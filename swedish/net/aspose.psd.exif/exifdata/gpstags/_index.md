@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSTags
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller sätter taggar som endast tillhör GPSsektionen.
+title: "ExifData.GPSTags"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData property. Hämtar eller anger taggar som endast tillhör GPS-sektionen"
 type: docs
 weight: 630
 url: /sv/net/aspose.psd.exif/exifdata/gpstags/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTags property
 
-Hämtar eller sätter taggar, som endast tillhör GPS-sektionen.
+Hämtar eller anger taggar som endast tillhör GPS‑avsnittet.
 
 ```csharp
 public TiffDataType[] GPSTags { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 GPS-taggarna.
 
@@ -22,7 +23,7 @@ GPS-taggarna.
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

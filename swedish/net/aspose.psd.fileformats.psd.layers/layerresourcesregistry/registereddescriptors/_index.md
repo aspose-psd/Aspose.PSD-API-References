@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.RegisteredDescriptors
-second_title: Aspose.PSD för .NET API-referens
-description: LayerResourcesRegistry fast egendom. Hämtar de registrerade beskrivningarna.
+title: "LayerResourcesRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerResourcesRegistry egenskap. Hämtar de registrerade beskrivarna"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisteredDescriptors property
 
-Hämtar de registrerade beskrivningarna.
+Hämtar de registrerade beskrivarna.
 
 ```csharp
 public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De registrerade deskriptorerna.
+De registrerade beskrivarna.
 
 ### Se även
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

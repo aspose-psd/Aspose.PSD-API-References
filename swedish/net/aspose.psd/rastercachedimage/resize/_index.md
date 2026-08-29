@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Resize
-second_title: Aspose.PSD för .NET API-referens
-description: RasterCachedImage metod. Ändrar storlek på bilden.
+title: "RasterCachedImage.Resize"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterCachedImage metod. Ändrar storlek på bilden"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-Ändrar storlek på bilden.
+Ändrar bildens storlek.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -18,11 +19,11 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
-| resizeType | ResizeType | Ändra storlek. |
+| resizeType | ResizeType | Storleksändringstypen. |
 
-### Exempel
+## Exempel
 
-Följande kod visar hur man ändrar storlek på en bild med en ny SinC storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny SinC‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny SinC storleks�
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny Bell‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny storleksändri
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny Mitchell storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny Mitchell‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny Mitchell storl
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny CatmullRom storleksändringstyp.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny CatmullRom‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny CatmullRom sto
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny storleksändringstyp för CubicBSpline.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny CubicBSpline‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny storleksändri
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Följande kod visar hur man ändrar storlek på en bild med en ny storleksändringstyp CubicConvolution.
+Följande kod demonstrerar hur man ändrar storlek på en bild med en ny CubicConvolution‑storleksändringstyp.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ Följande kod visar hur man ändrar storlek på en bild med en ny storleksändri
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Ladda en befintlig bild i en instans av klassen PsdImage
+// Läs in en befintlig bild i en instans av klassen PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -122,14 +123,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* namnutrymme [Aspose.PSD](../../rastercachedimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-Ändrar storlek på bilden.
+Ändrar bildens storlek.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
@@ -139,13 +140,13 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Den nya bredden. |
 | newHeight | Int32 | Den nya höjden. |
-| settings | ImageResizeSettings | Ändra storleksinställningar. |
+| inställningar | ImageResizeSettings | Inställningarna för storleksändring. |
 
 ### Se även
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* namnutrymme [Aspose.PSD](../../rastercachedimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

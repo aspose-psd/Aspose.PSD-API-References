@@ -1,20 +1,21 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: Aspose.PSD för .NET API-referens
-description: ShapeSegment fast egendom. Får slutpunkten.
+title: "ShapeSegment.EndPoint"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ShapeSegment-egenskap. Hämtar slutpunkten"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
-Får slutpunkten.
+Hämtar slutpunkten.
 
 ```csharp
 public abstract PointF EndPoint { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Slutpunkten.
 
@@ -22,7 +23,7 @@ Slutpunkten.
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* namnutrymme [Aspose.PSD](../../shapesegment/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

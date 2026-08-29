@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillEllipse
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Fyller det inre av en ellips definierad av en avgränsande rektangel specificerad av enRectangleFstruktur.
+title: "Graphics.FillEllipse"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics‑metod. Fyller insidan av en ellips som definieras av en avgränsande rektangel angiven av en RectangleF‑struktur."
 type: docs
-weight: 350
+weight: 360
 url: /sv/net/aspose.psd/graphics/fillellipse/
 ---
+{{< psd/tize >}}
 ## FillEllipse(Brush, RectangleF) {#fillellipse_1}
 
-Fyller det inre av en ellips definierad av en avgränsande rektangel specificerad av en[`RectangleF`](../../rectanglef/)struktur.
+Fyller insidan av en ellips som definieras av en avgränsande rektangel angiven av en [`RectangleF`](../../rectanglef/) struktur.
 
 ```csharp
 public void FillEllipse(Brush brush, RectangleF rect)
@@ -16,28 +17,28 @@ public void FillEllipse(Brush brush, RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)struktur som representerar den avgränsande rektangeln som definierar ellipsen. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) struktur som representerar den avgränsande rektangeln som definierar ellipsen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är inget. |
+| ArgumentNullException | *brush* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, float, float, float, float) {#fillellipse_3}
 
-Fyller det inre av en ellips definierad av en avgränsande rektangel specificerad av ett par koordinater, en bredd och en höjd.
+Fyller insidan av en ellips som definieras av en avgränsande rektangel specificerad av ett koordinatpar, en bredd och en höjd.
 
 ```csharp
 public void FillEllipse(Brush brush, float x, float y, float width, float height)
@@ -45,30 +46,30 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| x | Single | X-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| y | Single | Y-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| width | Single | Bredden på den avgränsande rektangeln som definierar ellipsen. |
-| height | Single | Höjden på den avgränsande rektangeln som definierar ellipsen. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| x | Single | x-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| y | Single | y-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| bredd | Single | Bredden på den omslutande rektangeln som definierar ellipsen. |
+| höjd | Single | Höjden på den omslutande rektangeln som definierar ellipsen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är inget. |
+| ArgumentNullException | *brush* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, Rectangle) {#fillellipse}
 
-Fyller det inre av en ellips definierad av en avgränsande rektangel specificerad av en[`Rectangle`](../../rectangle/)struktur.
+Fyller insidan av en ellips som definieras av en avgränsande rektangel angiven av en [`Rectangle`](../../rectangle/) struktur.
 
 ```csharp
 public void FillEllipse(Brush brush, Rectangle rect)
@@ -76,28 +77,28 @@ public void FillEllipse(Brush brush, Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/)struktur som representerar den avgränsande rektangeln som definierar ellipsen. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) struktur som representerar den avgränsande rektangeln som definierar ellipsen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är inget. |
+| ArgumentNullException | *brush* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, int, int, int, int) {#fillellipse_2}
 
-Fyller det inre av en ellips definierad av en avgränsande rektangel specificerad av ett par koordinater, en bredd och en höjd.
+Fyller insidan av en ellips som definieras av en avgränsande rektangel specificerad av ett koordinatpar, en bredd och en höjd.
 
 ```csharp
 public void FillEllipse(Brush brush, int x, int y, int width, int height)
@@ -105,23 +106,23 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)som bestämmer fyllningens egenskaper. |
-| x | Int32 | X-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| y | Int32 | Y-koordinaten för det övre vänstra hörnet av den avgränsande rektangeln som definierar ellipsen. |
-| width | Int32 | Bredden på den avgränsande rektangeln som definierar ellipsen. |
-| height | Int32 | Höjden på den avgränsande rektangeln som definierar ellipsen. |
+| brush | Brush | [`Brush`](../../brush/) som bestämmer egenskaperna för fyllningen. |
+| x | Int32 | x-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| y | Int32 | y-koordinaten för det övre vänstra hörnet av den omslutande rektangeln som definierar ellipsen. |
+| bredd | Int32 | Bredden på den omslutande rektangeln som definierar ellipsen. |
+| höjd | Int32 | Höjden på den omslutande rektangeln som definierar ellipsen. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *brush* är inget. |
+| ArgumentNullException | *brush* är null. |
 
 ### Se även
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

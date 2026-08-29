@@ -1,11 +1,12 @@
 ---
-title: Graphics.Image
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics fast egendom. Hämtar bilden.
+title: "Graphics.Image"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics‑egenskap. Hämtar bilden."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
 Hämtar bilden.
@@ -14,15 +15,15 @@ Hämtar bilden.
 public Image Image { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den grafiska bilden.
+Grafikbilden.
 
 ### Se även
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

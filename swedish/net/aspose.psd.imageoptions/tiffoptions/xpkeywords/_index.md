@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPKeywords
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in ämnesbild som används av Utforskaren i Windows.
+title: "TiffOptions.XPKeywords"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions egenskap. Hämtar eller anger ämnesbild som används av Windows Explorer"
 type: docs
-weight: 610
+weight: 620
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/xpkeywords/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPKeywords property
 
-Hämtar eller ställer in ämnesbild, som används av Utforskaren i Windows.
+Hämtar eller anger bildens ämne, som används av Windows Explorer.
 
 ```csharp
 public string XPKeywords { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Ämnesbild, använd av Windows Explorer.
+Bildämne, används av Windows Explorer.
 
 ### Se även
 
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

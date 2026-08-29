@@ -1,14 +1,15 @@
 ---
-title: IXmlValue.GetXmlValue
-second_title: Aspose.PSD för .NET API-referens
-description: IXmlValue metod. Konverterar XMPvärdet till XMLrepresentationen.
+title: "IXmlValue.GetXmlValue"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IXmlValue-metoden. Konverterar XMP-värde till XML-representationen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp/ixmlvalue/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue.GetXmlValue method
 
-Konverterar XMP-värdet till XML-representationen.
+Konverterar XMP-värde till XML-representationen.
 
 ```csharp
 public string GetXmlValue()
@@ -21,7 +22,7 @@ Returnerar XMP-värdet konverterat till XML-representationen.
 ### Se även
 
 * interface [IXmlValue](../)
-* namnutrymme [Aspose.PSD.Xmp](../../ixmlvalue/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

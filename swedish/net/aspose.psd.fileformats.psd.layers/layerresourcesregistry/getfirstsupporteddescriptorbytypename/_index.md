@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD för .NET API-referens
-description: LayerResourcesRegistry metod. Hämtar den första beskrivningen som stöds efter dess typnamn.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerResourcesRegistry metod. Hämtar den första stödda deskriptorn efter dess typnamn"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Hämtar den första beskrivningen som stöds efter dess typnamn.
+Hämtar den första stödda beskrivaren efter dess typnamn.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string descriptorTypeName)
@@ -16,21 +17,21 @@ public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string 
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| descriptorTypeName | String | Beskrivningstypens namn. |
+| descriptorTypeName | String | Deskriptortypnamnet. |
 
 ### Returvärde
 
-Den först hittade öppnarbeskrivningen eller null om inte sådan deskriptor hittas.
+Den första funna öppnardeskriptorn eller null om en sådan deskriptör inte hittas.
 
-### Anmärkningar
+## Anmärkningar
 
-Den första öppnarbeskrivningen kommer att vara den senast registrerade.
+Den första öppnardeskriptorn kommer faktiskt att vara den sist registrerade.
 
 ### Se även
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

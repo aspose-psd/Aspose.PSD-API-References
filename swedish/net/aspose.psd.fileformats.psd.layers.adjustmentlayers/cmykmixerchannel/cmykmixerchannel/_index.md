@@ -1,14 +1,15 @@
 ---
-title: CmykMixerChannel.CmykMixerChannel
-second_title: Aspose.PSD för .NET API-referens
-description: CmykMixerChannel byggare. Initierar en ny instans avCmykMixerChannel class.
+title: "CmykMixerChannel.CmykMixerChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykMixerChannel-konstruktor. Initierar en ny instans av CmykMixerChannel-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel constructor
 
-Initierar en ny instans av[`CmykMixerChannel`](../) class.
+Initierar en ny instans av [`CmykMixerChannel`](../)-klassen.
 
 ```csharp
 public CmykMixerChannel(byte[] data)
@@ -21,7 +22,7 @@ public CmykMixerChannel(byte[] data)
 ### Se även
 
 * class [CmykMixerChannel](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

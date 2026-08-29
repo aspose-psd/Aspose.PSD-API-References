@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternName
-second_title: Aspose.PSD för .NET API-referens
-description: IPatternFillSettings fast egendom. Hämtar eller ställer in namnet på mönstret.
+title: "IPatternFillSettings.PatternName"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPatternFillSettings-egenskap. Hämtar eller anger namnet på mönstret"
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternName property
 
-Hämtar eller ställer in namnet på mönstret.
+Hämtar eller anger namnet på mönstret.
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Namnet på mönstret.
 
 ### Se även
 
 * interface [IPatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

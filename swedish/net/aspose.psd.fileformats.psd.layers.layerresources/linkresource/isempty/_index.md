@@ -1,27 +1,28 @@
 ---
-title: LinkResource.IsEmpty
-second_title: Aspose.PSD för .NET API-referens
-description: LinkResource fast egendom. Får ett värde som indikerar om denna länkresursinstans är tom.
+title: "LinkResource.IsEmpty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinkResource-egenskap. Hämtar ett värde som indikerar om denna länkretsursinstans är tom"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/
 ---
+{{< psd/tize >}}
 ## LinkResource.IsEmpty property
 
-Får ett värde som indikerar om denna länkresursinstans är tom.
+Hämtar ett värde som indikerar om denna länkresursinstans är tom.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna länkresurs är tom; annat,`falsk` .
+`true` om denna länkretsurs är tom; annars `false`.
 
 ### Se även
 
 * class [LinkResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

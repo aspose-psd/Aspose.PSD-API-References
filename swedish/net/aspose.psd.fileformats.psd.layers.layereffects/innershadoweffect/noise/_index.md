@@ -1,33 +1,34 @@
 ---
-title: InnerShadowEffect.Noise
-second_title: Aspose.PSD för .NET API-referens
-description: InnerShadowEffect fast egendom. Får eller ställer in bruset.
+title: "InnerShadowEffect.Noise"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "InnerShadowEffect egenskap. Hämtar eller anger brus"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Noise property
 
-Får eller ställer in bruset.
+Hämtar eller anger brus.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bullret.
+Bruset.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Brus måste anges som procent i intervallet 0 till 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Brus måste anges som procent i intervallet från 0 till 100 |
 
 ### Se även
 
 * class [InnerShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

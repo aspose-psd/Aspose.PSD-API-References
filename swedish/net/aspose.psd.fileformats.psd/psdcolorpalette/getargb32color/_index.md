@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.GetArgb32Color
-second_title: Aspose.PSD för .NET API-referens
-description: PsdColorPalette metod. Får 32bitars ARGBpalettens färg efter index.
+title: "PsdColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdColorPalette-metod. Hämtar den 32-bitars ARGB-palettfärgen efter index"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.psd/psdcolorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetArgb32Color method
 
-Får 32-bitars ARGB-palettens färg efter index.
+Hämtar 32‑bit ARGB‑palettfärgen efter index.
 
 ```csharp
 public int GetArgb32Color(int index)
@@ -16,22 +17,22 @@ public int GetArgb32Color(int index)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| index | Int32 | 32-bitars ARGB-palettens färgindex. |
+| index | Int32 | 32‑bit ARGB‑palettfärgsindexet. |
 
 ### Returvärde
 
-Färgpalettposten som anges av*index*.
+Det färgpalettposten som specificeras av *index*.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | om färgpalett*index* angivna är utanför palettens intervall. |
+| ArgumentOutOfRangeException | om färgpalett *index* som anges är utanför palettposternas intervall. |
 
 ### Se även
 
 * class [PsdColorPalette](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

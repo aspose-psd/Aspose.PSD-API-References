@@ -1,11 +1,12 @@
 ---
-title: Interface IBufferProcessor
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IBufferProcessor gränssnitt. Buffertprocessorn.
+title: "Gränssnitt IBufferProcessor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IBufferProcessor-gränssnitt. Buffertprocessorn"
 type: docs
-weight: 4370
+weight: 4840
 url: /sv/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
 Buffertprocessorn.
@@ -16,13 +17,13 @@ public interface IBufferProcessor
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Bearbetar bufferten. |
+| [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Processar bufferten. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

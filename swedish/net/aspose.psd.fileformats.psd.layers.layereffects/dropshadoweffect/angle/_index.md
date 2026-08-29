@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.Angle
-second_title: Aspose.PSD för .NET API-referens
-description: DropShadowEffect fast egendom. Hämtar eller ställer in vinkeln i grader.
+title: "DropShadowEffect.Angle"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DropShadowEffect egenskap. Hämtar eller anger vinkeln i grader"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Angle property
 
-Hämtar eller ställer in vinkeln i grader.
+Hämtar eller anger vinkeln i grader.
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Vinkeln.
 
-### Exempel
+## Exempel
 
-Följande kod visar hur Opacity-egenskapen för DropShadowEffect används.
+Följande kod demonstrerar användning av Opacity‑egenskapen för DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Exempel med Opacitet = 20
+    // Exempel med Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Exempel med Opacitet = 200
+    // Exempel med Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -50,7 +51,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### Se även
 
 * class [DropShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

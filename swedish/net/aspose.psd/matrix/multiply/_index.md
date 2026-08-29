@@ -1,14 +1,15 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PSD för .NET API-referens
-description: Matrix metod. Multiplicerar denna matris med matrisen som anges i matrisparametern och i den ordning som anges i orderparametern.
+title: "Matrix.Multiply"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Matrix‑metod. Multiplicerar denna Matrix med den matris som anges i matris‑parametern och i den ordning som anges i ordnings‑parametern."
 type: docs
 weight: 120
 url: /sv/net/aspose.psd/matrix/multiply/
 ---
+{{< psd/tize >}}
 ## Multiply(Matrix, MatrixOrder) {#multiply_1}
 
-Multiplicerar denna matris med matrisen som anges i matrisparametern och i den ordning som anges i orderparametern.
+Multiplicerar denna `Matrix` med matrisen som anges i matrix‑parametern, och i den ordning som anges i order‑parametern.
 
 ```csharp
 public void Multiply(Matrix Tx, MatrixOrder order)
@@ -16,21 +17,21 @@ public void Multiply(Matrix Tx, MatrixOrder order)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tx | Matrix | Den tx. Den tx. Den tx. |
+| Tx | Matris | Tx‑en. Tx‑en. Tx‑en. |
 | order | MatrixOrder | Ordningen. Ordningen. Ordningen. |
 
 ### Se även
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Multiply(Matrix) {#multiply}
 
-Multiplicerar denna matris med matrisen som anges i matrisparametern med hjälp av (standard) Prepend order.
+Multiplicerar denna `Matrix` med matrisen som anges i matrix‑parametern med (standard) Prepend‑ordning.
 
 ```csharp
 public void Multiply(Matrix Tx)
@@ -38,12 +39,12 @@ public void Multiply(Matrix Tx)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| Tx | Matrix | Matrisen att multiplicera med. |
+| Tx | Matris | Matrisen att multiplicera med. |
 
 ### Se även
 
 * class [Matrix](../)
-* namnutrymme [Aspose.PSD](../../matrix/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

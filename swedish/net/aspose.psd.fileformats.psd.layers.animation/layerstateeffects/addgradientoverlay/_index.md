@@ -1,14 +1,15 @@
 ---
-title: LayerStateEffects.AddGradientOverlay
-second_title: Aspose.PSD för .NET API-referens
-description: LayerStateEffects metod. Lägger till övertoningseffekten.
+title: "LayerStateEffects.AddGradientOverlay"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerStateEffects metod. Lägger till gradientöverlappningseffekten"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddGradientOverlay method
 
-Lägger till övertoningseffekten.
+Lägger till gradientöverlagringseffekten.
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
@@ -16,11 +17,11 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### Returvärde
 
-Den nya instansen av[`GradientOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/) klass.
+Den nya instansen av [`GradientOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/) klassen.
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för effekter i tidslinjeramar.
+Följande kod demonstrerar stöd för effekter i Timeline-ramar.
 
 ```csharp
 [C#]
@@ -30,19 +31,16 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
@@ -52,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [GradientOverlayEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/)
 * class [LayerStateEffects](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

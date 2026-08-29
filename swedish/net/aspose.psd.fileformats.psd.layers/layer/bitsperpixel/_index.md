@@ -1,27 +1,28 @@
 ---
-title: Layer.BitsPerPixel
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar bildbitar per pixelantal.
+title: "Layer.BitsPerPixel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lagrets egenskap. Hämtar bildens bitantal per pixel"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Layer.BitsPerPixel property
 
-Hämtar bildbitar per pixelantal.
+Hämtar antalet bildbitar per pixel.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildbitarna per pixelantal.
+Bildens bit per pixel-antal.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

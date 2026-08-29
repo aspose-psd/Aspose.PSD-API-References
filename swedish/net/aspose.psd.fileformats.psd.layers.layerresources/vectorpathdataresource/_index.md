@@ -1,14 +1,15 @@
 ---
-title: Class VectorPathDataResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VectorPathDataResource klass. Klass VectorPathDataResource. Den här resursen innehåller information om vektorlager mask
+title: "Klass VectorPathDataResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VectorPathDataResource-klass. Klass VectorPathDataResource. Denna resurs innehåller information om vektorlagermask"
 type: docs
-weight: 3340
+weight: 3740
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource class
 
-Klass VectorPathDataResource. Den här resursen innehåller information om vektorlager mask
+Klassen VectorPathDataResource. Denna resurs innehåller information om vektorlagermask.
 
 ```csharp
 public abstract class VectorPathDataResource : LayerResource, IVectorPathData
@@ -16,28 +17,28 @@ public abstract class VectorPathDataResource : LayerResource, IVectorPathData
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är inaktiverad. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans är inverterad. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Hämtar eller ställer in ett värde som anger om denna instans inte är länkad. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Hämtar eller sätter sökvägsposterna. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Får signaturen. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Hämtar eller ställer in versionen. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är inaktiverad. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen är inverterad. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Hämtar eller anger ett värde som indikerar om den här instansen inte är länkad. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Hämtar eller anger sökvägsregistren. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Hämtar eller anger versionen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar stödet för bearbetning av lagervektormasker. Hur fungerar redigeringen av banor och hur Aspose.PSD ritar den slutliga bilden.
+Följande exempel visar stöd för bearbetning av lagervektormasker. Hur redigering av banor fungerar och hur Aspose.PSD ritar den slutliga bilden.
 
 ```csharp
 [C#]
@@ -46,10 +47,10 @@ string sourceFileName = "DifferentLayerMasks_Source.psd";
 string exportPath = "DifferentLayerMasks_Export.psd";
 string exportPathPng = "DifferentLayerMasks_Export.png";
 
-// Läser
+// Läsning
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
-    // Gör ändringar i vektorns vägpunkter
+    // Gör ändringar i vektorbanpunkterna
     foreach (var layer in image.Layers)
     {
         foreach (var layerResource in layer.Resources)
@@ -72,7 +73,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
         }
     }
 
-    // Exporterar
+    // Exportering
     image.Save(exportPath);
     image.Save(exportPathPng, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
@@ -82,7 +83,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

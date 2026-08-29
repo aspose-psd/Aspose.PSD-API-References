@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Ceiling
-second_title: Aspose.PSD för .NET API-referens
-description: Rectangle metod. Konverterar den angivnaRectangleF struktur till enRectangle struktur genom att runda avRectangleF värden till nästa högre heltalsvärden.
+title: "Rectangle.Ceiling"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rectangle-metod. Konverterar den angivna RectangleF-strukturen till en Rectangle-struktur genom att avrunda RectangleF-värdena till nästa högre heltal."
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/rectangle/ceiling/
 ---
+{{< psd/tize >}}
 ## Rectangle.Ceiling method
 
-Konverterar den angivna[`RectangleF`](../../rectanglef/) struktur till en[`Rectangle`](../) struktur genom att runda av[`RectangleF`](../../rectanglef/) värden till nästa högre heltalsvärden.
+Konverterar den angivna [`RectangleF`](../../rectanglef/) strukturen till en [`Rectangle`](../) struktur genom att avrunda [`RectangleF`](../../rectanglef/) värdena till nästa högre heltal.
 
 ```csharp
 public static Rectangle Ceiling(RectangleF value)
@@ -16,17 +17,17 @@ public static Rectangle Ceiling(RectangleF value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | RectangleF | De[`RectangleF`](../../rectanglef/) struktur som ska omvandlas. |
+| value | RectangleF | Den [`RectangleF`](../../rectanglef/) strukturen som ska konverteras. |
 
 ### Returvärde
 
-Returnerar a[`Rectangle`](../).
+Returnerar en [`Rectangle`](../).
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* namnutrymme [Aspose.PSD](../../rectangle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

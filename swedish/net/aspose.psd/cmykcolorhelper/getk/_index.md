@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.GetK
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColorHelper metod. Får det svarta komponentvärdet.
+title: "CmykColorHelper.GetK"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColorHelper-metoden. Hämtar värdet för den svarta komponenten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/cmykcolorhelper/getk/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetK method
 
-Får det svarta komponentvärdet.
+Hämtar svart-komponentens värde.
 
 ```csharp
 public static int GetK(int cmyk)
@@ -20,12 +21,12 @@ public static int GetK(int cmyk)
 
 ### Returvärde
 
-Den svarta komponentens värde.
+Det svarta komponentvärdet.
 
 ### Se även
 
 * class [CmykColorHelper](../)
-* namnutrymme [Aspose.PSD](../../cmykcolorhelper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

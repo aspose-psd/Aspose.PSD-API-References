@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawRectangles
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Ritar en serie rektanglar specificerade avRectangleF strukturer.
+title: "Graphics.DrawRectangles"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Ritar en serie rektanglar som anges av RectangleF-strukturer"
 type: docs
-weight: 310
+weight: 320
 url: /sv/net/aspose.psd/graphics/drawrectangles/
 ---
+{{< psd/tize >}}
 ## DrawRectangles(Pen, RectangleF[]) {#drawrectangles}
 
-Ritar en serie rektanglar specificerade av[`RectangleF`](../../rectanglef/) strukturer.
+Ritar en serie rektanglar som anges av [`RectangleF`](../../rectanglef/) strukturer.
 
 ```csharp
 public void DrawRectangles(Pen pen, RectangleF[] rects)
@@ -16,28 +17,28 @@ public void DrawRectangles(Pen pen, RectangleF[] rects)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) som bestämmer färg, bredd och stil på rektanglarnas konturer. |
-| rects | RectangleF[] | Uppsättning av[`RectangleF`](../../rectanglef/) strukturer som representerar rektanglarna som ska ritas. |
+| pen | Pen | [`Pen`](../../pen/) som bestämmer färgen, bredden och stilen på rektanglarnas konturer. |
+| rects | RectangleF[] | Array av [`RectangleF`](../../rectanglef/) strukturer som representerar rektanglarna som ska ritas. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *pen* är null. -eller- *rects* är inget. |
+| ArgumentNullException | *pen* är null. -eller- *rects* är null. |
 
 ### Se även
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangles(Pen, Rectangle[]) {#drawrectangles_1}
 
-Ritar en serie rektanglar specificerade av[`Rectangle`](../../rectangle/) strukturer.
+Ritar en serie rektanglar som anges av [`Rectangle`](../../rectangle/) strukturer.
 
 ```csharp
 public void DrawRectangles(Pen pen, Rectangle[] rects)
@@ -45,47 +46,47 @@ public void DrawRectangles(Pen pen, Rectangle[] rects)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) som bestämmer färg, bredd och stil på rektanglarnas konturer. |
-| rects | Rectangle[] | Uppsättning av[`Rectangle`](../../rectangle/) strukturer som representerar rektanglarna som ska ritas. |
+| pen | Pen | [`Pen`](../../pen/) som bestämmer färgen, bredden och stilen på rektanglarnas konturer. |
+| rects | Rectangle[] | Array av [`Rectangle`](../../rectangle/) strukturer som representerar rektanglarna som ska ritas. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *pen* är null. -eller- *rects* är inget. |
+| ArgumentNullException | *pen* är null. -eller- *rects* är null. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar skapande och användning av Pen-objekt. Exemplet skapar en ny bild och ritar rektanglar på bildytan.
+Detta exempel visar skapandet och användningen av Pen‑objekt. Exemplet skapar en ny Image och ritar rektanglar på Image‑ytan.
 
 ```csharp
 [C#]
 
-//Skapa en instans av bild
+//Skapa en instans av Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Skapa en instans av Graphics och initiera den med Image object
+    //Skapa en instans av Graphics och initiera den med ett Image‑objekt
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Rensa grafikytan med vit färg
+    //Rensa Graphics‑ytan med vit färg.
     graphics.Clear(Aspose.PSD.Color.White);
 
-    //Skapa en instans av Pen med färgen Röd och bredd 5
+    //Skapa en instans av Pen med färgen röd och bredd 5
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
-    //Skapa en instans av HatchBrush och ställ in dess egenskaper
+    //Skapa en instans av HatchBrush och ange dess egenskaper
     Aspose.PSD.Brushes.HatchBrush brush = new Aspose.PSD.Brushes.HatchBrush();
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
     //Skapa en instans av Pen
-    //initiera det med HatchBrush-objekt och bredd
+    //initiera den med HatchBrush‑objektet och bredden
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    //Rita rektanglar genom att ange Pen-objekt
+    //Rita rektanglar genom att ange Pen‑objektet
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    //Rita rektanglar genom att ange Pen-objekt
+    //Rita rektanglar genom att ange Pen‑objektet
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
     // Skapa exportalternativ och initiera dem.
@@ -101,7 +102,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

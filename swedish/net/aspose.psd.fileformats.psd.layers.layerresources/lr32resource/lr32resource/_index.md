@@ -1,27 +1,24 @@
 ---
-title: Lr32Resource.Lr32Resource
-second_title: Aspose.PSD för .NET API-referens
-description: Lr32Resource byggare. Initierar en ny instans avLr32Resource class.
+title: "Lr32Resource.Lr32Resource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Lr32Resource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource constructor
 
-Initierar en ny instans av[`Lr32Resource`](../) class.
+Standardkonstruktorn.
 
 ```csharp
-public Lr32Resource(int length)
+public Lr32Resource()
 ```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| length | Int32 | Längden. |
 
 ### Se även
 
 * class [Lr32Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

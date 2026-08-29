@@ -1,14 +1,15 @@
 ---
-title: LineSegment.LineSegment
-second_title: Aspose.PSD för .NET API-referens
-description: LineSegment byggare. Initierar en ny instans avLineSegment class.
+title: "LineSegment.LineSegment"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LineSegment-konstruktor. Initierar en ny instans av LineSegment-klassen."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment constructor
 
-Initierar en ny instans av[`LineSegment`](../) class.
+Initierar en ny instans av [`LineSegment`](../)-klassen.
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)
@@ -23,7 +24,7 @@ public LineSegment(PointF startPoint, PointF endPoint)
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* namnutrymme [Aspose.PSD.ShapeSegments](../../linesegment/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

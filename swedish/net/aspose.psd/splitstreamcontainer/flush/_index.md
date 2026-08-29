@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.Flush
-second_title: Aspose.PSD för .NET API-referens
-description: SplitStreamContainer metod. Rensar alla buffertar för denna ström och gör att all buffrad data skrivs till den underliggande enheten.
+title: "SplitStreamContainer-metod. Rensar alla buffertar för denna ström och får all buffrad data att skrivas till den underliggande enheten."
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SplitStreamContainer.ReadByte"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd/splitstreamcontainer/flush/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Flush method
 
-Rensar alla buffertar för denna ström och gör att all buffrad data skrivs till den underliggande enheten.
+Rensar alla buffertar för denna ström och får all buffrad data att skrivas till den underliggande enheten.
 
 ```csharp
 public override void Flush()
@@ -17,7 +18,7 @@ public override void Flush()
 ### Se även
 
 * class [SplitStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../splitstreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

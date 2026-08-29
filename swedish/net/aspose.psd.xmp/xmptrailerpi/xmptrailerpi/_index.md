@@ -1,14 +1,15 @@
 ---
-title: XmpTrailerPi.XmpTrailerPi
-second_title: Aspose.PSD för .NET API-referens
-description: XmpTrailerPi byggare. Initierar en ny instans avXmpTrailerPi class.
+title: "XmpTrailerPi.XmpTrailerPi"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpTrailerPi-konstruktor. Initierar en ny instans av klassen XmpTrailerPi"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi(bool) {#constructor_1}
 
-Initierar en ny instans av[`XmpTrailerPi`](../) class.
+Initierar en ny instans av klassen [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
@@ -16,19 +17,19 @@ public XmpTrailerPi(bool isWritable)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| isWritable | Boolean | Anger om trailern är skrivbar. |
+| isWritable | Boolean | Indikerar om trailern är skrivbar. |
 
 ### Se även
 
 * class [XmpTrailerPi](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpTrailerPi() {#constructor}
 
-Initierar en ny instans av[`XmpTrailerPi`](../) class.
+Initierar en ny instans av klassen [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi()
@@ -37,7 +38,7 @@ public XmpTrailerPi()
 ### Se även
 
 * class [XmpTrailerPi](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

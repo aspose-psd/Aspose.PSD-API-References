@@ -1,14 +1,15 @@
 ---
-title: Region.Intersect
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Uppdaterar dettaRegion till skärningspunkten av sig själv med det angivnaRectangleFstruktur.
+title: "Region.Intersect"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region-metod. Uppdaterar detta Region till skärningen av sig själv med den angivna RectangleF-strukturen."
 type: docs
-weight: 60
+weight: 70
 url: /sv/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-Uppdaterar detta[`Region`](../) till skärningspunkten av sig själv med det angivna[`RectangleF`](../../rectanglef/)struktur.
+Uppdaterar detta [`Region`](../) till skärningen av sig själv med den angivna [`RectangleF`](../../rectanglef/)-strukturen.
 
 ```csharp
 public void Intersect(RectangleF rect)
@@ -16,20 +17,20 @@ public void Intersect(RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../../rectanglef/) struktur för att korsa med detta[`Region`](../). |
+| rect | RectangleF | Den [`RectangleF`](../../rectanglef/)-strukturen för att skära med detta [`Region`](../). |
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-Uppdaterar detta[`Region`](../) till skärningspunkten av sig själv med det angivna[`Rectangle`](../../rectangle/)struktur.
+Uppdaterar detta [`Region`](../) till skärningen av sig själv med den angivna [`Rectangle`](../../rectangle/)-strukturen.
 
 ```csharp
 public void Intersect(Rectangle rect)
@@ -37,20 +38,20 @@ public void Intersect(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) struktur för att korsa med detta[`Region`](../). |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/)-strukturen för att skära med detta [`Region`](../). |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-Uppdaterar detta[`Region`](../) till skärningspunkten av sig själv med det angivna[`GraphicsPath`](../../graphicspath/) .
+Uppdaterar detta [`Region`](../) till skärningen av sig själv med den angivna [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Intersect(GraphicsPath path)
@@ -58,20 +59,20 @@ public void Intersect(GraphicsPath path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | GraphicsPath | De[`GraphicsPath`](../../graphicspath/) att korsa med detta[`Region`](../). |
+| path | GraphicsPath | Den [`GraphicsPath`](../../graphicspath/) för att skära med detta [`Region`](../). |
 
 ### Se även
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-Uppdaterar detta[`Region`](../) till skärningspunkten av sig själv med det angivna[`Region`](../) .
+Uppdaterar detta [`Region`](../) till skärningen av sig själv med det angivna [`Region`](../).
 
 ```csharp
 public void Intersect(Region region)
@@ -79,12 +80,12 @@ public void Intersect(Region region)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| region | Region | De[`Region`](../) att korsa med detta[`Region`](../). |
+| region | Region | Det [`Region`](../) för att skära med detta [`Region`](../). |
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

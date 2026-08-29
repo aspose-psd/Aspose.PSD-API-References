@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Exposure
-second_title: Aspose.PSD för .NET API-referens
-description: ExposureLayer fast egendom. Hämtar eller ställer in exponeringen. För PS är exponeringsintervallet från 20 till 20.
+title: "ExposureLayer.Exposure"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExposureLayer-egenskap. Hämtar eller anger Exposure. För PS är intervallet för Exposure från 20 till 20"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/exposure/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Exposure property
 
-Hämtar eller ställer in exponeringen. För PS är exponeringsintervallet från -20 till +20.
+Hämtar eller anger Exposure. För PS är intervallet för Exposure från -20 till +20.
 
 ```csharp
 public float Exposure { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Exponeringen.
+Exposureen.
 
 ### Se även
 
 * class [ExposureLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

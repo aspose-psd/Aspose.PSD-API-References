@@ -1,14 +1,15 @@
 ---
-title: PointF.PointF
-second_title: Aspose.PSD för .NET API-referens
-description: PointF byggare. Initierar en ny instans avPointF struktur med de angivna koordinaterna.
+title: "PointF.PointF"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PointF‑konstruktor. Initierar en ny instans av PointF‑strukturen med de angivna koordinaterna"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-Initierar en ny instans av[`PointF`](../) struktur med de angivna koordinaterna.
+Initierar en ny instans av [`PointF`](../)‑strukturen med de angivna koordinaterna.
 
 ```csharp
 public PointF(float x, float y)
@@ -16,13 +17,13 @@ public PointF(float x, float y)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| x | Single | Punktens horisontella position. |
-| y | Single | Punktens vertikala position. |
+| x | Single | Den horisontella positionen för punkten. |
+| y | Single | Den vertikala positionen för punkten. |
 
 ### Se även
 
 * struct [PointF](../)
-* namnutrymme [Aspose.PSD](../../pointf/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

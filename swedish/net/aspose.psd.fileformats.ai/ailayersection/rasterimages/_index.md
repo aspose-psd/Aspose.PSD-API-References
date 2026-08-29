@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD för .NET API-referens
-description: AiLayerSection fast egendom. Hämtar rasterbilderna.
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiLayerSection-egenskap. Hämtar rasterbilderna"
 type: docs
-weight: 120
+weight: 140
 url: /sv/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
 Hämtar rasterbilderna.
@@ -14,13 +15,13 @@ Hämtar rasterbilderna.
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Rasterbilderna.
 
-### Exempel
+## Exempel
 
-Följande kod visar hur man laddar inställningar för rasterbilder i AI-formatfiler.
+Följande kod demonstrerar hur man laddar inställningar för Raster Images i AI Format Files.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

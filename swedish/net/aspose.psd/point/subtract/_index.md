@@ -1,14 +1,15 @@
 ---
-title: Point.Subtract
-second_title: Aspose.PSD för .NET API-referens
-description: Point metod. Returnerar resultatet av den specificerade subtraheringenSize från det angivnaPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-metoden. Returnerar resultatet av att subtrahera angiven Size från den angivna Point."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-Returnerar resultatet av den specificerade subtraheringen[`Size`](../../size/) från det angivna[`Point`](../) .
+Returnerar resultatet av att subtrahera angiven [`Size`](../../size/) från den angivna [`Point`](../).
 
 ```csharp
 public static Point Subtract(Point point, Size size)
@@ -16,18 +17,18 @@ public static Point Subtract(Point point, Size size)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | De[`Point`](../) att subtraheras från. |
-| size | Size | De[`Size`](../../size/) att subtrahera från*point*. |
+| point | Point | Den [`Point`](../) som ska subtraheras från. |
+| size | Size | Den [`Size`](../../size/) som ska subtraheras från *point*. |
 
 ### Returvärde
 
-De[`Point`](../) det är resultatet av subtraktionsoperationen.
+Den [`Point`](../) som är resultatet av subtraktionsoperationen.
 
 ### Se även
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

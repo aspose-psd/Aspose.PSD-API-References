@@ -1,24 +1,25 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorGreen
-second_title: Aspose.PSD för .NET API-referens
-description: BlackWhiteAdjustmentLayer fast egendom. Hämtar eller ställer in det dubbla värdet för grön nyansfärg.
+title: "BlackWhiteAdjustmentLayer.TintColorGreen"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlackWhiteAdjustmentLayer egenskap. Hämtar eller anger det dubbla värdet för grön nyansfärg"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorgreen/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorGreen property
 
-Hämtar eller ställer in det dubbla värdet för grön nyansfärg.
+Hämtar eller anger dubbelvärdet för grön nyansfärg.
 
 ```csharp
 public double TintColorGreen { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den gröna nyansen Färg dubbelt värde.
+Det dubbla värdet för grön nyansfärg.
 
-### Exempel
+## Exempel
 
 Följande exempel visar hur du redigerar en BlwhResource.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Testa redigering och spara
+                // Testa redigering och sparande
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Se även
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

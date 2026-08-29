@@ -1,27 +1,28 @@
 ---
-title: Rational.Denominator
-second_title: Aspose.PSD för .NET API-referens
-description: Rational fast egendom. Får eller ställer in nämnaren.
+title: "Rational.Denominator"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Rational‑egenskap. Hämtar eller anger nämnaren"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
-Får eller ställer in nämnaren.
+Hämtar eller anger nämnaren.
 
 ```csharp
 public int Denominator { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Nämnaren.
 
 ### Se även
 
 * class [Rational](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

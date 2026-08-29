@@ -1,14 +1,15 @@
 ---
-title: Class AiSetupSection
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Ai.AiSetupSection klass. Inställningssektionen för Aiformat
+title: "Klass AiSetupSection"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Ai.AiSetupSection class. Ai‑formatets installationssektion"
 type: docs
-weight: 1300
+weight: 1310
 url: /sv/net/aspose.psd.fileformats.ai/aisetupsection/
 ---
+{{< psd/tize >}}
 ## AiSetupSection class
 
-Inställningssektionen för Ai-format
+Ai-formatets installationssektion
 
 ```csharp
 public sealed class AiSetupSection : AiSection
@@ -16,14 +17,14 @@ public sealed class AiSetupSection : AiSection
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Hämtar strängdata. |
 
 ### Se även
 
 * class [AiSection](../aisection/)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

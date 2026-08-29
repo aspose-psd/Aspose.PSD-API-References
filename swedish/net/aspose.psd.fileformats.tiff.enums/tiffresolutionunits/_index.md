@@ -1,30 +1,31 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits uppräkning. Tiffupplösningsenhet Enum
+title: "Enum TiffResolutionUnits"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Tiff upplösningsenhet Enum"
 type: docs
-weight: 4150
+weight: 4620
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-Tiff-upplösningsenhet Enum
+Tiff-upplösningsenhetsenum
 
 ```csharp
 public enum TiffResolutionUnits : ushort
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | None | `1` | Inga meningsfulla enheter. |
-| Inch | `2` | Engelska systemet. |
+| Inch | `2` | Engelskt system. |
 | Centimeter | `3` | Metriskt system. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

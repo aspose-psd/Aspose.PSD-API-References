@@ -1,29 +1,30 @@
 ---
-title: Enum FillMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FillMode uppräkning. Anger hur det inre av en stängd bana fylls.
+title: "Enum FillMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FillMode‑enum. Anger hur insidan av en sluten bana fylls."
 type: docs
-weight: 4260
+weight: 4730
 url: /sv/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
-Anger hur det inre av en stängd bana fylls.
+Anger hur insidan av en sluten bana fylls.
 
 ```csharp
 public enum FillMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Alternate | `0` | Anger det alternativa fyllningsläget. |
-| Winding | `1` | Anger lindningsfyllningsläget. |
+| Winding | `1` | Anger det slingrande fyllningsläget. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

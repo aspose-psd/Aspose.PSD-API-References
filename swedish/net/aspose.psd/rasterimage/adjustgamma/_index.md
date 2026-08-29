@@ -1,33 +1,12 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Gammakorrigering av en bild.
+title: "RasterImage.AdjustGamma"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Gammakorrigering av en bild."
 type: docs
 weight: 200
 url: /sv/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-Gamma-korrigering av en bild.
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| Parameter | Typ | Beskrivning |
-| --- | --- | --- |
-| gammaRed | Single | Gamma för röd kanalkoefficient |
-| gammaGreen | Single | Gamma för grön kanalkoefficient |
-| gammaBlue | Single | Gamma för blå kanalkoefficient |
-
-### Se även
-
-* class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 Gamma-korrigering av en bild.
@@ -38,12 +17,34 @@ public virtual void AdjustGamma(float gamma)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| gamma | Single | Gamma för röda, gröna och blå kanalkoefficienter |
+| gamma | Single | Gamma-koefficient för röd, grön och blå kanaler |
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+Gamma-korrigering av en bild.
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| gammaRed | Single | Gamma-koefficient för röd kanal |
+| gammaGreen | Single | Gamma-koefficient för grön kanal |
+| gammaBlue | Single | Gamma-koefficient för blå kanal |
+
+### Se även
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

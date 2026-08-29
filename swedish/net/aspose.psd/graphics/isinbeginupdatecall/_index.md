@@ -1,27 +1,28 @@
 ---
-title: Graphics.IsInBeginUpdateCall
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics fast egendom. Får ett värde som indikerar om grafik är i BeginUpdateanropstillstånd.
+title: "Graphics.IsInBeginUpdateCall"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics‑egenskap. Hämtar ett värde som indikerar om grafik är i BeginUpdate‑anropstillstånd"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd/graphics/isinbeginupdatecall/
 ---
+{{< psd/tize >}}
 ## Graphics.IsInBeginUpdateCall property
 
-Får ett värde som indikerar om grafik är i BeginUpdate-anropstillstånd.
+Hämtar ett värde som indikerar om grafik är i BeginUpdate-anropstillstånd.
 
 ```csharp
 public bool IsInBeginUpdateCall { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om grafik är i StartUpdate-anropstillstånd; annat,`falsk` .
+`True` om grafik är i BeginUpdate‑anropstillstånd; annars `false`.
 
 ### Se även
 
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

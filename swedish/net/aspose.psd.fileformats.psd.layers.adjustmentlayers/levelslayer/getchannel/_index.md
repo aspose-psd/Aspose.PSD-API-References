@@ -1,14 +1,15 @@
 ---
-title: LevelsLayer.GetChannel
-second_title: Aspose.PSD för .NET API-referens
-description: LevelsLayer metod. Får kanalen.
+title: "LevelsLayer.GetChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LevelsLayer-metod. Hämtar kanalen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.GetChannel method
 
-Får kanalen.
+Hämtar kanalen.
 
 ```csharp
 public LevelChannel GetChannel(int index)
@@ -20,13 +21,13 @@ public LevelChannel GetChannel(int index)
 
 ### Returvärde
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) efter index
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) by index
 
 ### Se även
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

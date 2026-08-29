@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory klass. Vector Path Record Factory Class
+title: "Klass VectorPathRecordFactory"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory klass. Vektorvägspostfabrikklass"
 type: docs
-weight: 1410
+weight: 1420
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-Vector Path Record Factory Class
+Vector Path Record Factory Class.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
-
-## Konstruktörer
-
-| namn | Beskrivning |
-| --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | Default_Constructor |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Producerar sökvägsposten. |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Skapar vägposten. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

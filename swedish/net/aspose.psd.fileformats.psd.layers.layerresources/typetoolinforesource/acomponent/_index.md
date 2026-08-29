@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.AComponent
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfoResource fast egendom. Hämtar eller ställer in en komponent.
+title: "TypeToolInfoResource.AComponent"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfoResource egenskap. Hämtar eller anger en komponent"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/acomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.AComponent property
 
-Hämtar eller ställer in en komponent.
+Hämtar eller anger en komponent.
 
 ```csharp
 public short AComponent { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 en komponent.
 
 ### Se även
 
 * class [TypeToolInfoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.Fractions
-second_title: Aspose.PSD för .NET API-referens
-description: ITextStyle fast egendom. Bråksymbolerna kan ersättas med speciella glyph.
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ITextStyle property. Bråksymbolerna kan ersättas med ett special glyph"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
-Bråksymbolerna kan ersättas med speciella glyph.
+Bråksymbolerna kan ersättas med specialtecken.
 
 ```csharp
 public bool Fractions { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för nya ITextStyle-egenskaper.
+Följande kod demonstrerar stöd för de nya ITextStyle‑egenskaperna.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Se även
 
 * interface [ITextStyle](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

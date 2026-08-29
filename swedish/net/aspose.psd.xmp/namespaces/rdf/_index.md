@@ -1,14 +1,15 @@
 ---
-title: Namespaces.Rdf
-second_title: Aspose.PSD för .NET API-referens
-description: Namespaces fält. Namnutrymme för ram för resursdefinition.
+title: "Namespaces.Rdf"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnrymdsfält. Resource definition framework namnrymd"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp/namespaces/rdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Rdf field
 
-Namnutrymme för ram för resursdefinition.
+Resursdefinitionsramverk namnrymd.
 
 ```csharp
 public const string Rdf;
@@ -17,7 +18,7 @@ public const string Rdf;
 ### Se även
 
 * class [Namespaces](../)
-* namnutrymme [Aspose.PSD.Xmp](../../namespaces/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

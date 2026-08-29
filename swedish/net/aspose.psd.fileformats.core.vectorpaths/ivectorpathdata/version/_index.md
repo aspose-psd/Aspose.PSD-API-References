@@ -1,26 +1,27 @@
 ---
-title: IVectorPathData.Version
-second_title: Aspose.PSD för .NET API-referens
-description: IVectorPathData fast egendom. Hämtar eller ställer in versionen.
+title: "IVectorPathData.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IVectorPathData egenskap. Hämtar eller anger versionen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Version property
 
-Hämtar eller ställer in versionen.
+Hämtar eller anger versionen.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Versionen.
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.ImageResources för korrekt funktion av Crop-operationen.
+Detta exempel demonstrerar stöd för resursen 'WorkingPathResource' i PsdImage.ImageResources för korrekt funktion av beskärningsoperationen.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.I
 // Beskär bilden och spara.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Ladda sparad bild och kontrollera ändringarna.
+// Läs in sparad bild och kontrollera förändringarna.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### Se även
 
 * interface [IVectorPathData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

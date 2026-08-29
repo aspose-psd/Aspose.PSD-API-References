@@ -1,32 +1,33 @@
 ---
-title: Enum TiffNewSubFileTypes
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes uppräkning. Den nya tiffunderfiltypen enum.
+title: "Enum TiffNewSubFileTypes"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes enum. Den nya TIFF-undertypen för filen enum"
 type: docs
-weight: 4100
+weight: 4570
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/
 ---
+{{< psd/tize >}}
 ## TiffNewSubFileTypes enumeration
 
-Den nya tiff-underfiltypen enum.
+Det nya tiff-underfiltypenumet.
 
 ```csharp
 public enum TiffNewSubFileTypes : uint
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | FileTypeDefault | `0` | Standardfiltypen. |
-| FileTypeReducedImage | `1` | Den reducerade bildfiltypen. |
-| FileTypePage | `2` | Sidans filtyp. |
-| FileTypeMask | `4` | Maskens filtyp. |
-| FileTypeLast | `5` | Den senaste filtypen. |
+| FileTypeReducedImage | `1` | Reducerad bildfiltyp. |
+| FileTypePage | `2` | Sidfiltet. |
+| FileTypeMask | `4` | Maskfiltypen. |
+| FileTypeLast | `5` | Den sista filtypen. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

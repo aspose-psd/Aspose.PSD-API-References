@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.BlendMode
-second_title: Aspose.PSD för .NET API-referens
-description: DropShadowEffect fast egendom. Hämtar eller ställer in blandningsläget.
+title: "DropShadowEffect.BlendMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DropShadowEffect‑egenskap. Hämtar eller anger blandningsläget"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.BlendMode property
 
-Hämtar eller ställer in blandningsläget.
+Hämtar eller anger blandningsläget.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Blandningsläget.
 
-### Exempel
+## Exempel
 
-Följande kod visar hur Opacity-egenskapen för DropShadowEffect används.
+Följande kod demonstrerar användning av Opacity‑egenskapen för DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Exempel med Opacitet = 20
+    // Exempel med Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Exempel med Opacitet = 200
+    // Exempel med Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -51,7 +52,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [DropShadowEffect](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.IIndexedColorConverter gränssnitt. Färgkonverteraren för indexerade bildformat.
+title: "Gränssnitt IIndexedColorConverter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.IIndexedColorConverter gränssnitt. Färgkonverteraren för indexerade bildformat"
 type: docs
-weight: 4470
+weight: 4940
 url: /sv/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
 Färgkonverteraren för indexerade bildformat.
@@ -16,13 +17,13 @@ public interface IIndexedColorConverter
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Fyller den indexerade till indexerade bildkonverteringskartan. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Fyller i konverteringskartan från indexerad till indexerad bild. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

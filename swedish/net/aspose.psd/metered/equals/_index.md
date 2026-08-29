@@ -1,14 +1,15 @@
 ---
-title: Metered.Equals
-second_title: Aspose.PSD för .NET API-referens
-description: Metered metod. Bestämmer om den angivnaObject  är lika med denna instans.
+title: "Metered.Equals"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Metered-metoden. Avgör om det angivna Object är lika med denna instans"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/metered/equals/
 ---
+{{< psd/tize >}}
 ## Metered.Equals method
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Object | Objectet att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`true` om det angivna Object är lika med denna instans; annars `false`.
 
 ### Se även
 
 * class [Metered](../)
-* namnutrymme [Aspose.PSD](../../metered/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

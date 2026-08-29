@@ -1,32 +1,33 @@
 ---
-title: Enum WrapMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.WrapMode uppräkning. Anger hur en struktur eller övertoning är sida vid sida när den är mindre än området som fylls.
+title: "Enum WrapMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.WrapMode‑enum. Anger hur en textur eller gradient tileas när den är mindre än det område som fylls."
 type: docs
-weight: 5740
+weight: 6240
 url: /sv/net/aspose.psd/wrapmode/
 ---
+{{< psd/tize >}}
 ## WrapMode enumeration
 
-Anger hur en struktur eller övertoning är sida vid sida när den är mindre än området som fylls.
+Anger hur en textur eller gradient tileas när den är mindre än det område som fylls.
 
 ```csharp
 public enum WrapMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Tile | `0` | Lägger ihop övertoningen eller strukturen. |
-| TileFlipX | `1` | Vänder om strukturen eller övertoningen horisontellt och lägger sedan till strukturen eller övertoningen. |
-| TileFlipY | `2` | Vänder om strukturen eller övertoningen vertikalt och lägger sedan till strukturen eller övertoningen. |
-| TileFlipXY | `3` | Vänder om strukturen eller övertoningen horisontellt och vertikalt och lägger sedan ihop strukturen eller övertoningen. |
-| Clamp | `4` | Strukturen eller övertoningen är inte sida vid sida. |
+| Tile | `0` | Tilear gradienten eller texturen. |
+| TileFlipX | `1` | Vänder texturen eller gradienten horisontellt och tilear sedan texturen eller gradienten. |
+| TileFlipY | `2` | Vänder texturen eller gradienten vertikalt och tilear sedan texturen eller gradienten. |
+| TileFlipXY | `3` | Vänder texturen eller gradienten horisontellt och vertikalt och tilear sedan texturen eller gradienten. |
+| Clamp | `4` | Texturen eller gradienten tileas inte. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD](../../aspose.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

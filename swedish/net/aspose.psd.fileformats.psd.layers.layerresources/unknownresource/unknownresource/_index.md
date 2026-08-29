@@ -1,14 +1,15 @@
 ---
-title: UnknownResource.UnknownResource
-second_title: Aspose.PSD för .NET API-referens
-description: UnknownResource byggare. Initierar en ny instans avUnknownResource class.
+title: "UnknownResource.UnknownResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "UnknownResource konstruktor. Initierar en ny instans av klassen UnknownResource"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource constructor
 
-Initierar en ny instans av[`UnknownResource`](../) class.
+Initierar en ny instans av klassen [`UnknownResource`](../).
 
 ```csharp
 public UnknownResource(int signature, int key)
@@ -16,13 +17,13 @@ public UnknownResource(int signature, int key)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| signature | Int32 | Signaturen. |
-| key | Int32 | Resursnyckeln. |
+| signatur | Int32 | Signaturen. |
+| nyckel | Int32 | Resursnyckeln. |
 
 ### Se även
 
 * class [UnknownResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BritResource.Contrast
-second_title: Aspose.PSD för .NET API-referens
-description: BritResource fast egendom. Hämtar eller ställer in kontrasten.
+title: "BritResource.Contrast"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BritResource-egenskap. Hämtar eller anger kontrasten"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/
 ---
+{{< psd/tize >}}
 ## BritResource.Contrast property
 
-Hämtar eller ställer in kontrasten.
+Hämtar eller anger kontrasten.
 
 ```csharp
 public short Contrast { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Kontrasten.
 
 ### Se även
 
 * class [BritResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

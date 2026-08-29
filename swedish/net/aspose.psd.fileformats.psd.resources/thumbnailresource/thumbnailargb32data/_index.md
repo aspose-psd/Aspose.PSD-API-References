@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.ThumbnailArgb32Data
-second_title: Aspose.PSD för .NET API-referens
-description: ThumbnailResource fast egendom. Hämtar eller ställer in 32bitars ARGBminiatyrdata.
+title: "ThumbnailResource.ThumbnailArgb32Data"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ThumbnailResource egenskap. Hämtar eller anger 32‑bit ARGB‑thumbnail‑data"
 type: docs
 weight: 100
 url: /sv/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailargb32data/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailArgb32Data property
 
-Hämtar eller ställer in 32-bitars ARGB-miniatyrdata.
+Hämtar eller anger 32-bitars ARGB-miniatyrdata.
 
 ```csharp
 public int[] ThumbnailArgb32Data { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-32-bitars ARGB-miniatyrdata.
+Den 32‑bit ARGB‑thumbnail‑data.
 
 ### Se även
 
 * class [ThumbnailResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Layer.Equals
-second_title: Aspose.PSD för .NET API-referens
-description: Layer metod. Bestämmer om den angivnaObject  är lika med denna instans.
+title: "Layer.Equals"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer‑metod. Avgör om det angivna objektet är lika med den här instansen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/layer/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object) {#equals_1}
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,17 +17,17 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Object | Objectet att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`true` om det angivna Object är lika med denna instans; annars `false`.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,16 +41,16 @@ public bool Equals(Layer other)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| other | Layer | Ett objekt att jämföra med detta objekt. |
+| other | Lager | Ett objekt att jämföra med detta objekt. |
 
 ### Returvärde
 
-true om det aktuella objektet är lika med*other* parameter; annars, false.
+Sant om det aktuella objektet är lika med *other*-parametern; annars falskt.
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

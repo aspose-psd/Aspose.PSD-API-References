@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredDescriptors
-second_title: Aspose.PSD för .NET API-referens
-description: ImageLoadersRegistry fast egendom. Hämtar de registrerade beskrivningarna.
+title: "ImageLoadersRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageLoadersRegistry-egenskapen. Hämtar de registrerade beskrivarna."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/imageloadersregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredDescriptors property
 
-Hämtar de registrerade beskrivningarna.
+Hämtar de registrerade beskrivarna.
 
 ```csharp
 public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-De registrerade deskriptorerna.
+De registrerade beskrivarna.
 
 ### Se även
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageloadersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

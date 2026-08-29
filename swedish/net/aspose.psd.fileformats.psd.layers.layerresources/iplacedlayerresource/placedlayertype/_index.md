@@ -1,20 +1,21 @@
 ---
-title: IPlacedLayerResource.PlacedLayerType
-second_title: Aspose.PSD för .NET API-referens
-description: IPlacedLayerResource fast egendom. Hämtar eller ställer in typen av det placerade lagret i PSDfilen.
+title: "IPlacedLayerResource.PlacedLayerType"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPlacedLayerResource egenskap. Hämtar eller anger typen av det placerade lagret i PSD-filen"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PlacedLayerType property
 
-Hämtar eller ställer in typen av det placerade lagret i PSD-filen.
+Hämtar eller anger typen av det placerade lagret i PSD‑filen.
 
 ```csharp
 public PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Typen av det placerade lagret.
 
@@ -22,7 +23,7 @@ Typen av det placerade lagret.
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * interface [IPlacedLayerResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

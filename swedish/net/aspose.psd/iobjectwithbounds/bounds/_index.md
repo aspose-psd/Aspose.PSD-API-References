@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Bounds
-second_title: Aspose.PSD för .NET API-referens
-description: IObjectWithBounds fast egendom. Hämtar objektets gränser.
+title: "IObjectWithBounds.Bounds"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IObjectWithBounds-egenskapen. Hämtar objektets gränser."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/iobjectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Bounds property
 
 Hämtar objektets gränser.
@@ -14,15 +15,15 @@ Hämtar objektets gränser.
 public Rectangle Bounds { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Objektet gränsar.
+Objektets gränser.
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* namnutrymme [Aspose.PSD](../../iobjectwithbounds/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class CustResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource klass. Class CustResource. Denna resurs innehåller information om blandning av klippt element.
+title: "Klass CustResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource class. Klass CustResource. Denna resurs innehåller information om blandning av beskuret element"
 type: docs
-weight: 2440
+weight: 2700
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource class
 
-Class CustResource. Denna resurs innehåller information om blandning av klippt element.
+Klassen CustResource. Denna resurs innehåller information om blandning av klippt element.
 
 ```csharp
 public class CustResource : LayerResource
@@ -16,38 +17,38 @@ public class CustResource : LayerResource
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CustResource](custresource/#constructor)() | Initierar en ny instans av`CustResource` class. |
-| [CustResource](custresource/#constructor_1)(byte[]) | Initierar en ny instans av`CustResource` class. |
+| [CustResource](custresource/#constructor)() | Initierar en ny instans av klassen `CustResource`. |
+| [CustResource](custresource/#constructor_1)(byte[]) | Initierar en ny instans av klassen `CustResource`. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Hämtar eller ställer in lagrets skapade datum. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Hämtar lagerresurslängden i byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion/) { get; } | Hämtar psd-versionen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/) { get; } | Får signaturen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Hämtar eller anger lagrets skapade datum. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Hämtar lagerresursens längd i byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | Sparar resursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
 ## Fält
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | Typverktygets infonyckel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | Typverktygsinformationsnyckeln. |
 
 ### Se även
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

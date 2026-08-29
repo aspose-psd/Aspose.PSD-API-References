@@ -1,14 +1,15 @@
 ---
-title: Class RenderResult
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.ImageOptions.RenderResult klass. Representerar information med resultaten av rendering
+title: "Klass RenderResult"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.ImageOptions.RenderResult klass. Representerar information om renderingsresultat"
 type: docs
-weight: 4930
+weight: 5420
 url: /sv/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-Representerar information med resultaten av rendering
+Representerar information med renderingsresultat
 
 ```csharp
 public class RenderResult
@@ -16,20 +17,20 @@ public class RenderResult
 
 ## Konstruktörer
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [RenderResult](renderresult/)() | Default_Constructor |
+| [RenderResult](renderresult/)() | Standardkonstruktorn. |
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Hämtar eller ställer in strängmeddelande |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Hämtar eller ställer in felkod |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Hämtar eller anger strängmeddelandet |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Hämtar eller anger felkod |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

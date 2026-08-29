@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Aspose.PSD för .NET API-referens
-description: TiffSRational metod. Uppskattar det angivna värdet till en bråkdel.
+title: "TiffSRational.ApproximateFraction"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffSRational-metod. Approximerar det angivna värdet till en bråkdel"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
-Uppskattar det angivna värdet till en bråkdel.
+Approximerar det angivna värdet till ett bråk.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value, double epsilon)
@@ -16,24 +17,24 @@ public static TiffSRational ApproximateFraction(double value, double epsilon)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Double | Värdet. |
-| epsilon | Double | Felet tillåts. |
+| värde | Double | Värdet. |
+| epsilon | Double | Det tillåtna felet. |
 
 ### Returvärde
 
-Ett rationellt tal med fel mindre än*epsilon*.
+Ett rationellt tal med fel mindre än *epsilon*.
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(double) {#approximatefraction}
 
-Uppskattar det angivna värdet till en bråkdel.
+Approximerar det angivna värdet till ett bråk.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value)
@@ -41,23 +42,23 @@ public static TiffSRational ApproximateFraction(double value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Double | Värdet. |
+| värde | Double | Värdet. |
 
 ### Returvärde
 
-Ett rationellt tal med fel mindre än[`Epsilon`](../epsilon/) .
+Ett rationellt tal med fel mindre än [`Epsilon`](../epsilon/).
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float, double) {#approximatefraction_3}
 
-Uppskattar det angivna värdet till en bråkdel.
+Approximerar det angivna värdet till ett bråk.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value, double epsilon)
@@ -65,24 +66,24 @@ public static TiffSRational ApproximateFraction(float value, double epsilon)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Single | Värdet. |
-| epsilon | Double | Felet tillåts. |
+| värde | Single | Värdet. |
+| epsilon | Double | Det tillåtna felet. |
 
 ### Returvärde
 
-Ett rationellt tal med fel mindre än*epsilon*.
+Ett rationellt tal med fel mindre än *epsilon*.
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float) {#approximatefraction_2}
 
-Uppskattar det angivna värdet till en bråkdel.
+Approximerar det angivna värdet till ett bråk.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value)
@@ -90,16 +91,16 @@ public static TiffSRational ApproximateFraction(float value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Single | Värdet. |
+| värde | Single | Värdet. |
 
 ### Returvärde
 
-Ett rationellt tal med fel mindre än[`Epsilon`](../epsilon/) .
+Ett rationellt tal med fel mindre än [`Epsilon`](../epsilon/).
 
 ### Se även
 
 * class [TiffSRational](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

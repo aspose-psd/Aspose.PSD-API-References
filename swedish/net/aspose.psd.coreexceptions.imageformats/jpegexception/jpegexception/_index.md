@@ -1,14 +1,15 @@
 ---
-title: JpegException.JpegException
-second_title: Aspose.PSD för .NET API-referens
-description: JpegException byggare. Initierar en ny instans avJpegException class.
+title: "JpegException.JpegException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "JpegException konstruktor. Initierar en ny instans av klassen JpegException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions.imageformats/jpegexception/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException(string) {#constructor}
 
-Initierar en ny instans av[`JpegException`](../) class.
+Initierar en ny instans av klassen [`JpegException`](../).
 
 ```csharp
 public JpegException(string message)
@@ -21,14 +22,14 @@ public JpegException(string message)
 ### Se även
 
 * class [JpegException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`JpegException`](../) class.
+Initierar en ny instans av klassen [`JpegException`](../).
 
 ```csharp
 public JpegException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public JpegException(string message, Exception innerException)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| message | String | Budskapet. |
+| message | String | Meddelandet. |
 | innerException | Exception | Det inre undantaget. |
 
 ### Se även
 
 * class [JpegException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

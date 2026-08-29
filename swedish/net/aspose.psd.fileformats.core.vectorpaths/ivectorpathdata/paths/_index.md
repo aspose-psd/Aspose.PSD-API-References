@@ -1,26 +1,27 @@
 ---
-title: IVectorPathData.Paths
-second_title: Aspose.PSD för .NET API-referens
-description: IVectorPathData fast egendom. Hämtar eller sätter sökvägsposterna.
+title: "IVectorPathData.Paths"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IVectorPathData egenskap. Hämtar eller anger sökvägsposterna"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Paths property
 
-Hämtar eller sätter sökvägsposterna.
+Hämtar eller anger sökvägsregistren.
 
 ```csharp
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Banorna.
+Sökvägarna.
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.ImageResources för korrekt funktion av Crop-operationen.
+Detta exempel demonstrerar stöd för resursen 'WorkingPathResource' i PsdImage.ImageResources för korrekt funktion av beskärningsoperationen.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Det här exemplet visar stödet för 'WorkingPathResource'-resursen i PsdImage.I
 // Beskär bilden och spara.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Ladda sparad bild och kontrollera ändringarna.
+// Läs in sparad bild och kontrollera förändringarna.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Sök efter WorkingPathResource-resurs.
+    // Sök WorkingPathResource-resursen.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * interface [IVectorPathData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

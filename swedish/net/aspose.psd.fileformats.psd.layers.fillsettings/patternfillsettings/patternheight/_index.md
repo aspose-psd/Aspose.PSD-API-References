@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternHeight
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings fast egendom. Hämtar eller ställer in höjden på mönstret.
+title: "PatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings egenskap. Hämtar eller anger höjden på mönstret"
 type: docs
-weight: 70
+weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternHeight property
 
-Hämtar eller ställer in höjden på mönstret.
+Hämtar eller anger mönstrets höjd.
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Höjden på mönstret.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för redigering av fyllskiktsmönster.
+Följande kod demonstrerar stöd för redigering av fyllningslagrets mönster.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Se även
 
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

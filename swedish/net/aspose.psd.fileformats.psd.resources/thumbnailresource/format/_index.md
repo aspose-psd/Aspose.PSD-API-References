@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.Format
-second_title: Aspose.PSD för .NET API-referens
-description: ThumbnailResource fast egendom. Hämtar eller ställer in miniatyrdataformatet.
+title: "ThumbnailResource.Format"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ThumbnailResource egenskap. Hämtar eller anger thumbnail-datformatet"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.resources/thumbnailresource/format/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Format property
 
-Hämtar eller ställer in miniatyrdataformatet.
+Hämtar eller anger miniatyrens dataformat.
 
 ```csharp
 public ThumbnailFormat Format { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Dataformatet för miniatyrbilder.
+Thumbnail-datformatet.
 
 ### Se även
 
 * enum [ThumbnailFormat](../../thumbnailformat/)
 * class [ThumbnailResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

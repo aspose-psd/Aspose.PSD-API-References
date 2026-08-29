@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD för .NET API-referens
-description: TiffStreamWriter fast egendom. Hämtar eller ställer in strömningspositionen.
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffStreamWriter-egenskap. Hämtar eller anger strömpositionen"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
-Hämtar eller ställer in strömningspositionen.
+Hämtar eller anger strömmens position.
 
 ```csharp
 public long Position { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Strömningspositionen.
+Strömpositionen.
 
 ### Se även
 
 * class [TiffStreamWriter](../)
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

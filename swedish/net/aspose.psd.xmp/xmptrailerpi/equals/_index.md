@@ -1,11 +1,12 @@
 ---
-title: XmpTrailerPi.Equals
-second_title: Aspose.PSD för .NET API-referens
-description: XmpTrailerPi metod. Indikerar om det aktuella objektet är lika med ett annat objekt av samma typ.
+title: "XmpTrailerPi.Equals"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpTrailerPi-metod. Anger om det aktuella objektet är lika med ett annat objekt av samma typ"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp/xmptrailerpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpTrailerPi) {#equals}
 
 Indikerar om det aktuella objektet är lika med ett annat objekt av samma typ.
@@ -20,19 +21,19 @@ public bool Equals(XmpTrailerPi other)
 
 ### Returvärde
 
-true om det aktuella objektet är lika med*other* parameter; annars, false.
+Sant om det aktuella objektet är lika med *other*-parametern; annars falskt.
 
 ### Se även
 
 * class [XmpTrailerPi](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Bestämmer om den angivnaObject , är lika med denna instans.
+Bestämmer om det angivna objektet är lika med den här instansen.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +41,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| obj | Object | DeObject att jämföra med det här exemplet. |
+| obj | Object | Objectet att jämföra med denna instans. |
 
 ### Returvärde
 
-`Sann` om det angivnaObject är lika med denna instans; annat,`falsk` .
+`true` om det angivna Object är lika med denna instans; annars `false`.
 
 ### Se även
 
 * class [XmpTrailerPi](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

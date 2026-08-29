@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.ProgressEventHandler
-second_title: Aspose.PSD för .NET API-referens
-description: ImageOptionsBase fast egendom. Hämtar eller ställer in förloppshändelsehanteraren.
+title: "ImageOptionsBase.ProgressEventHandler"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageOptionsBase-egenskap. Hämtar eller anger progress‑event‑handler."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/imageoptionsbase/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ProgressEventHandler property
 
-Hämtar eller ställer in förloppshändelsehanteraren.
+Hämtar eller anger händelsehanteraren för framsteg.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Förloppshändelsehanteraren.
+Progress‑event‑handlern.
 
 ### Se även
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [ImageOptionsBase](../)
-* namnutrymme [Aspose.PSD](../../imageoptionsbase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

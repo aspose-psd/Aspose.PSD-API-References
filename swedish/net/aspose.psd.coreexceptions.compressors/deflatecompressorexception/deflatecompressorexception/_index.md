@@ -1,14 +1,15 @@
 ---
-title: DeflateCompressorException.DeflateCompressorException
-second_title: Aspose.PSD för .NET API-referens
-description: DeflateCompressorException byggare. Initierar en ny instans avDeflateCompressorException class.
+title: "DeflateCompressorException.DeflateCompressorException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DeflateCompressorException konstruktor. Initierar en ny instans av klassen DeflateCompressorException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException(string) {#constructor}
 
-Initierar en ny instans av[`DeflateCompressorException`](../) class.
+Initierar en ny instans av klassen [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message)
@@ -21,14 +22,14 @@ public DeflateCompressorException(string message)
 ### Se även
 
 * class [DeflateCompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DeflateCompressorException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`DeflateCompressorException`](../) class.
+Initierar en ny instans av klassen [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public DeflateCompressorException(string message, Exception innerException)
 ### Se även
 
 * class [DeflateCompressorException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.IsVisible
-second_title: Aspose.PSD för .NET API-referens
-description: GraphicsPath metod. Indikerar om den angivna punkten finns i dennaGraphicsPath .
+title: "GraphicsPath.IsVisible"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GraphicsPath-metoden. Anger om den angivna punkten finns inom detta GraphicsPath"
 type: docs
 weight: 120
 url: /sv/net/aspose.psd/graphicspath/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_6}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) .
+Anger om den angivna punkten finns inom detta [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(float x, float y)
@@ -21,19 +22,19 @@ public bool IsVisible(float x, float y)
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns i denna[`GraphicsPath`](../) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom denna [`GraphicsPath`](../); annars false.
 
 ### Se även
 
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) .
+Anger om den angivna punkten finns inom detta [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(PointF point)
@@ -41,24 +42,24 @@ public bool IsVisible(PointF point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../../pointf/) som representerar poängen att testa. |
+| point | PointF | Ett [`PointF`](../../pointf/) som representerar punkten som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns i denna[`GraphicsPath`](../) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom denna [`GraphicsPath`](../); annars false.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int) {#isvisible_4}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) .
+Anger om den angivna punkten finns inom detta [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(int x, int y)
@@ -71,19 +72,19 @@ public bool IsVisible(int x, int y)
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns i denna[`GraphicsPath`](../) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom denna [`GraphicsPath`](../); annars false.
 
 ### Se även
 
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) .
+Anger om den angivna punkten finns inom detta [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(Point point)
@@ -91,24 +92,24 @@ public bool IsVisible(Point point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | Point | A[`Point`](../../point/) som representerar poängen att testa. |
+| point | Point | Ett [`Point`](../../point/) som representerar punkten som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns i denna[`GraphicsPath`](../) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom denna [`GraphicsPath`](../); annars false.
 
 ### Se även
 
 * struct [Point](../../point/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_7}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) i det synliga klippområdet för den angivna[`Graphics`](../../graphics/) .
+Indikerar om den angivna punkten finns inom denna [`GraphicsPath`](../) i den synliga klippningsregionen för den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics graphics)
@@ -118,24 +119,24 @@ public bool IsVisible(float x, float y, Graphics graphics)
 | --- | --- | --- |
 | x | Single | X-koordinaten för punkten som ska testas. |
 | y | Single | Y-koordinaten för punkten som ska testas. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns i denna[`GraphicsPath`](../) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom denna [`GraphicsPath`](../); annars false.
 
 ### Se även
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) .
+Anger om den angivna punkten finns inom detta [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(PointF pt, Graphics graphics)
@@ -143,26 +144,26 @@ public bool IsVisible(PointF pt, Graphics graphics)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pt | PointF | A[`PointF`](../../pointf/) som representerar poängen att testa. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| pt | PointF | Ett [`PointF`](../../pointf/) som representerar punkten som ska testas. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar true om den angivna punkten finns inom denna; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom detta; annars false.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_5}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) , med den angivna[`Graphics`](../../graphics/) .
+Indikerar om den angivna punkten finns inom denna [`GraphicsPath`](../) med hjälp av den angivna [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics graphics)
@@ -172,24 +173,24 @@ public bool IsVisible(int x, int y, Graphics graphics)
 | --- | --- | --- |
 | x | Int32 | X-koordinaten för punkten som ska testas. |
 | y | Int32 | Y-koordinaten för punkten som ska testas. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns i denna[`GraphicsPath`](../) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom denna [`GraphicsPath`](../); annars false.
 
 ### Se även
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Indikerar om den angivna punkten finns i denna[`GraphicsPath`](../) .
+Anger om den angivna punkten finns inom detta [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(Point pt, Graphics graphics)
@@ -197,19 +198,19 @@ public bool IsVisible(Point pt, Graphics graphics)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pt | Point | A[`Point`](../../point/) som representerar poängen att testa. |
-| graphics | Graphics | De[`Graphics`](../../graphics/) för att testa synlighet. |
+| pt | Point | Ett [`Point`](../../point/) som representerar punkten som ska testas. |
+| graphics | Graphics | Den [`Graphics`](../../graphics/) för vilken synlighet ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om den angivna punkten finns i denna[`GraphicsPath`](../) ; annars, false.
+Denna metod returnerar true om den angivna punkten finns inom denna [`GraphicsPath`](../); annars false.
 
 ### Se även
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* namnutrymme [Aspose.PSD](../../graphicspath/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PdfOptions.PdfOptions
-second_title: Aspose.PSD för .NET API-referens
-description: PdfOptions byggare. Default_Constructor
+title: "PdfOptions.PdfOptions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PdfOptions konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imageoptions/pdfoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public PdfOptions()
@@ -17,7 +18,7 @@ public PdfOptions()
 ### Se även
 
 * class [PdfOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

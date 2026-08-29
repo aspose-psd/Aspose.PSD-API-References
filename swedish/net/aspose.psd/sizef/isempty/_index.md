@@ -1,14 +1,15 @@
 ---
-title: SizeF.IsEmpty
-second_title: Aspose.PSD för .NET API-referens
-description: SizeF fast egendom. Får ett värde som indikerar om dettaSizeF har noll bredd och höjd.
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SizeF property. Gets a value indicating whether this SizeF has zero width and height"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-Får ett värde som indikerar om detta[`SizeF`](../) har noll bredd och höjd.
+Hämtar ett värde som indikerar om denna [`SizeF`](../) har noll bredd och höjd.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### Returvärde
 
-Den här egenskapen returnerar sant när detta[`SizeF`](../) har både en bredd och höjd av noll; annars falskt.
+Denna egenskap returnerar true när denna [`SizeF`](../) har både bredd och höjd på noll; annars false.
 
 ### Se även
 
 * struct [SizeF](../)
-* namnutrymme [Aspose.PSD](../../sizef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

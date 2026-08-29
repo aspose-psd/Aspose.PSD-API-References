@@ -1,14 +1,15 @@
 ---
-title: XmpTypeBase.GetXmpRepresentation
-second_title: Aspose.PSD för .NET API-referens
-description: XmpTypeBase metod. Hämtar strängen som innehåller värdet i XMPformat.
+title: "XmpTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpTypeBase-metod. Hämtar det stränginnehållande värdet i XMP-format"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types/xmptypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase.GetXmpRepresentation method
 
-Hämtar strängen som innehåller värdet i XMP-format.
+Hämtar det stränginnehållande värdet i XMP-format.
 
 ```csharp
 public abstract string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public abstract string GetXmpRepresentation()
 
 ### Returvärde
 
-Returnerar strängen i XMP-format.
+Returnerar det stränginnehållande värdet i XMP-format.
 
 ### Se även
 
 * class [XmpTypeBase](../)
-* namnutrymme [Aspose.PSD.Xmp.Types](../../xmptypebase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types](../../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../../)
 
 

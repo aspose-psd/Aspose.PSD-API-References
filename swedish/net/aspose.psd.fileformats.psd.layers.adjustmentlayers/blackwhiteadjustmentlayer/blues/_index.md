@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Blues
-second_title: Aspose.PSD för .NET API-referens
-description: BlackWhiteAdjustmentLayer fast egendom. Hämtar eller ställer in bluesvärdet.
+title: "BlackWhiteAdjustmentLayer.Blues"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlackWhiteAdjustmentLayer egenskap. Hämtar eller anger värdet för blues"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blues/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Blues property
 
-Hämtar eller ställer in bluesvärdet.
+Hämtar eller anger värdet för blått.
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bluesvärdet.
+Det blues-värdet.
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan lägga till det svartvita justeringslagret vid körning i Aspose.PSD
+Följande exempel visar hur du kan lägga till svartvitt‑justeringslagret vid körning i Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Följande exempel visar hur du kan manipulera egenskaperna för justeringslager för svartvitt i Aspose.PSD
+Följande exempel visar hur du kan manipulera egenskaperna för svartvita justeringslagret i Aspose.PSD
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Se även
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

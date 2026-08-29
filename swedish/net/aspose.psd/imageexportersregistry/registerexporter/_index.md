@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisterExporter
-second_title: Aspose.PSD för .NET API-referens
-description: ImageExportersRegistry metod. Registrerar exportören.
+title: "ImageExportersRegistry.RegisterExporter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageExportersRegistry metod. Registrerar exportören"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/imageexportersregistry/registerexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisterExporter method
 
 Registrerar exportören.
@@ -22,7 +23,7 @@ public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageexportersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

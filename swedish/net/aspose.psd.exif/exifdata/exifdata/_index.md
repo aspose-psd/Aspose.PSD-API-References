@@ -1,14 +1,15 @@
 ---
-title: ExifData.ExifData
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData byggare. Initierar en ny instans avExifData class.
+title: "ExifData.ExifData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-konstruktor. Initierar en ny instans av ExifData-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.exif/exifdata/exifdata/
 ---
+{{< psd/tize >}}
 ## ExifData() {#constructor}
 
-Initierar en ny instans av[`ExifData`](../) class.
+Initierar en ny instans av klassen [`ExifData`](../).
 
 ```csharp
 public ExifData()
@@ -17,14 +18,14 @@ public ExifData()
 ### Se även
 
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[]) {#constructor_1}
 
-Initierar en ny instans av[`ExifData`](../) klass med data från array.
+Initierar en ny instans av klassen [`ExifData`](../) med data från en array.
 
 ```csharp
 public ExifData(TiffDataType[] exifdata)
@@ -38,14 +39,14 @@ public ExifData(TiffDataType[] exifdata)
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Initierar en ny instans av[`ExifData`](../) klass med data från array.
+Initierar en ny instans av klassen [`ExifData`](../) med data från en array.
 
 ```csharp
 public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
@@ -61,7 +62,7 @@ public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

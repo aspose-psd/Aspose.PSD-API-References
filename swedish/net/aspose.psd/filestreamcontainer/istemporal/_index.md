@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Aspose.PSD för .NET API-referens
-description: FileStreamContainer fast egendom. Hämtar eller ställer in ett värde som anger om strömmen är temporär.
+title: "FileStreamContainer.IsTemporal"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FileStreamContainer-egenskap. Hämtar eller anger ett värde som indikerar om strömmen är temporär."
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
-Hämtar eller ställer in ett värde som anger om strömmen är temporär.
+Hämtar eller anger ett värde som indikerar om strömmen är temporär.
 
 ```csharp
 public bool IsTemporal { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om strömmen är tidsmässig; annat,`falsk` .
+`true` om strömmen är temporär; annars `false`.
 
-### Anmärkningar
+## Anmärkningar
 
-En temporär ström tar bort sig själv när den kasseras. Om strömmen är minnesbaserad har den här egenskapen ingen effekt. Strömmen kan markeras som temporär eller beständig om den skapades explicit, annars skapas det lämpliga undantaget.
+En temporär ström tar bort sig själv när den avyttras. Om strömmen är minnesbaserad har denna egenskap ingen effekt. Strömmen kan markeras som temporär eller beständig om den skapades explicit, annars kastas ett lämpligt undantag.
 
 ### Se även
 
 * class [FileStreamContainer](../)
-* namnutrymme [Aspose.PSD](../../filestreamcontainer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

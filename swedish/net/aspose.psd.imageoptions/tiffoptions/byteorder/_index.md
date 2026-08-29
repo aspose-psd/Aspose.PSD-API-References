@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.ByteOrder
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions fast egendom. Hämtar eller ställer in ett värde som anger tiffbyteordningen.
+title: "TiffOptions.ByteOrder"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-egenskap. Hämtar eller anger ett värde som indikerar TIFF-byteordningen"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ByteOrder property
 
-Hämtar eller ställer in ett värde som anger tiff-byteordningen.
+Hämtar eller anger ett värde som indikerar tiff‑byteordning.
 
 ```csharp
 public TiffByteOrder ByteOrder { get; set; }
@@ -18,7 +19,7 @@ public TiffByteOrder ByteOrder { get; set; }
 
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

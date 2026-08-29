@@ -1,14 +1,15 @@
 ---
-title: LayerGroupsEnabledResource.LayerGroupsEnabledResource
-second_title: Aspose.PSD för .NET API-referens
-description: LayerGroupsEnabledResource byggare. Default_Constructor
+title: "LayerGroupsEnabledResource.LayerGroupsEnabledResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerGroupsEnabledResource konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/layergroupsenabledresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public LayerGroupsEnabledResource()
@@ -17,7 +18,7 @@ public LayerGroupsEnabledResource()
 ### Se även
 
 * class [LayerGroupsEnabledResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

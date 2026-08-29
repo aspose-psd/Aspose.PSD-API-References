@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Aspose.PSD för .NET API-referens
-description: DublinCorePackage metod. Lägger till författaren.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "DublinCorePackage-metod. Lägger till författaren"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
 Lägger till författaren.
@@ -16,13 +17,13 @@ public void SetAuthor(string author)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| author | String | Författaren. |
+| författare | String | Författaren. |
 
 ### Se även
 
 * class [DublinCorePackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,12 +37,12 @@ public void SetAuthor(string[] author)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| author | String[] | Författaren. |
+| författare | String[] | Författaren. |
 
 ### Se även
 
 * class [DublinCorePackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: PsdImage.XmpData
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar eller ställer in XMPmetadata.
+title: "PsdImage.XmpData"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage-egenskap. Hämtar eller anger XMP-metadata"
 type: docs
-weight: 280
+weight: 290
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdImage.XmpData property
 
-Hämtar eller ställer in XMP-metadata.
+Hämtar eller anger XMP-metadata.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 XMP-metadata.
 
@@ -22,7 +23,7 @@ XMP-metadata.
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

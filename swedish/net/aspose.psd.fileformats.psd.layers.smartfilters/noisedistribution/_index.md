@@ -1,29 +1,30 @@
 ---
-title: Enum NoiseDistribution
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution uppräkning. Fördelningen av brusfilter.
+title: "Enum NoiseDistribution"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution-enum. Fördelningen av brusfilter"
 type: docs
-weight: 3440
+weight: 3850
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
-Fördelningen av brusfilter.
+Distributionen av brusfilter.
 
 ```csharp
 public enum NoiseDistribution
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
 | Uniform | `0` | Den enhetliga brusfördelningen. |
 | Gaussian | `1` | Den gaussiska brusfördelningen. |
 
-### Exempel
+## Exempel
 
-Det här exemplet visar stödet för gränssnittet för smarta filter.
+Detta exempel demonstrerar stöd för smarta filtergränssnittet.
 
 ```csharp
 [C#]
@@ -66,10 +67,10 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // applicera förändringar
+    // tillämpa ändringar
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Använd filter
+    // Tillämpa filter
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -95,7 +96,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

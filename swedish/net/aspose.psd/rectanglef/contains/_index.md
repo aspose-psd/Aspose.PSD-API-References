@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Contains
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF metod. Bestämmer om den angivna punkten finns inom dennaRectangleFstruktur.
+title: "RectangleF.Contains"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF-metod. Avgör om den angivna punkten finns inom denna RectangleF-struktur"
 type: docs
 weight: 190
 url: /sv/net/aspose.psd/rectanglef/contains/
 ---
+{{< psd/tize >}}
 ## Contains(float, float) {#contains_2}
 
-Bestämmer om den angivna punkten finns inom denna[`RectangleF`](../)struktur.
+Avgör om den angivna punkten finns inom denna [`RectangleF`](../)-struktur.
 
 ```csharp
 public bool Contains(float x, float y)
@@ -21,19 +22,19 @@ public bool Contains(float x, float y)
 
 ### Returvärde
 
-Denna metod returnerar sant om punkten definierad av*x* och*y* ingår i detta[`RectangleF`](../) strukturera; annars falskt.
+Denna metod returnerar true om punkten definierad av *x* och *y* finns inom denna [`RectangleF`](../)-struktur; annars false.
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(PointF) {#contains}
 
-Bestämmer om den angivna punkten finns inom denna[`RectangleF`](../)struktur.
+Avgör om den angivna punkten finns inom denna [`RectangleF`](../)-struktur.
 
 ```csharp
 public bool Contains(PointF point)
@@ -41,24 +42,24 @@ public bool Contains(PointF point)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| point | PointF | De[`PointF`](../../pointf/) att testa. |
+| point | PointF | Den [`PointF`](../../pointf/) som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om punkten som representeras av*point* parametern finns i denna[`RectangleF`](../) strukturera; annars falskt.
+Denna metod returnerar true om punkten som representeras av *point*-parametern finns inom denna [`RectangleF`](../)-struktur; annars false.
 
 ### Se även
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(RectangleF) {#contains_1}
 
-Bestämmer om det rektangulära området representerat av*rect* är helt innesluten i detta[`RectangleF`](../)struktur.
+Avgör om det rektangulära området som representeras av *rect* är helt innehållet inom denna [`RectangleF`](../)-struktur.
 
 ```csharp
 public bool Contains(RectangleF rect)
@@ -66,16 +67,16 @@ public bool Contains(RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../) att testa. |
+| rect | RectangleF | Den [`RectangleF`](../) som ska testas. |
 
 ### Returvärde
 
-Denna metod returnerar sant om det rektangulära området representerat av*rect* är helt innesluten inom det rektangulära område som representeras av detta[`RectangleF`](../); annars falskt.
+Denna metod returnerar true om det rektangulära området som representeras av *rect* är helt innehållet inom det rektangulära området som representeras av denna [`RectangleF`](../); annars false.
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

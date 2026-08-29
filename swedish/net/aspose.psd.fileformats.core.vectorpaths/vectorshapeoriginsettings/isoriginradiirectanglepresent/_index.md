@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginRadiiRectanglePresent
-second_title: Aspose.PSD för .NET API-referens
-description: VectorShapeOriginSettings fast egendom. Får ett värde som indikerar om denna instans har egenskapen ursprungsradier rektangel.
+title: "VectorShapeOriginSettings.IsOriginRadiiRectanglePresent"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorShapeOriginSettings egenskap. Hämtar ett värde som indikerar om den här instansen har origin radii rectangle property"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginRadiiRectanglePresent property
 
-Får ett värde som indikerar om denna instans har egenskapen ursprungsradier rektangel.
+Hämtar ett värde som indikerar om den här instansen har egenskapen för ursprungsradiernas rektangel.
 
 ```csharp
 public bool IsOriginRadiiRectanglePresent { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans har egenskapen ursprungsradier rektangel; annat,`falsk` .
+`true` om den här instansen har origin radii rectangle property; annars `false`.
 
 ### Se även
 
 * class [VectorShapeOriginSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

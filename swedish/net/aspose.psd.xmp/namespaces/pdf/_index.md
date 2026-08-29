@@ -1,14 +1,15 @@
 ---
-title: Namespaces.Pdf
-second_title: Aspose.PSD för .NET API-referens
-description: Namespaces fält. Adobe PDFnamnutrymme.
+title: "Namespaces.Pdf"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnrymdsfält. Adobe PDF namnrymd"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.xmp/namespaces/pdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Pdf field
 
-Adobe PDF-namnutrymme.
+Adobe PDF namnrymd.
 
 ```csharp
 public const string Pdf;
@@ -17,7 +18,7 @@ public const string Pdf;
 ### Se även
 
 * class [Namespaces](../)
-* namnutrymme [Aspose.PSD.Xmp](../../namespaces/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

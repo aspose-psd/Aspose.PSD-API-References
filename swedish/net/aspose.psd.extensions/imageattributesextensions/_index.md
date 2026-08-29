@@ -1,14 +1,15 @@
 ---
-title: Class ImageAttributesExtensions
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.Extensions.ImageAttributesExtensions klass. Innehåller förlängningsmetoder förImageAttributes ochImageAttributes .
+title: "Klass ImageAttributesExtensions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.Extensions.ImageAttributesExtensions-klass. Innehåller utökningmetoder för ImageAttributes och ImageAttributes."
 type: docs
-weight: 1110
+weight: 1120
 url: /sv/net/aspose.psd.extensions/imageattributesextensions/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions class
 
-Innehåller förlängningsmetoder för[`ImageAttributes`](../../aspose.psd/imageattributes/) ochImageAttributes .
+Innehåller förlängningsmetoder för [`ImageAttributes`](../../aspose.psd/imageattributes/) och ImageAttributes.
 
 ```csharp
 public static class ImageAttributesExtensions
@@ -16,13 +17,13 @@ public static class ImageAttributesExtensions
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | Konverterar[`ImageAttributes`](../../aspose.psd/imageattributes/) tillImageAttributes . |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | Konverterar [`ImageAttributes`](../../aspose.psd/imageattributes/) till ImageAttributes. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

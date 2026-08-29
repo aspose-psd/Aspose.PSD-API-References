@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Items
-second_title: Aspose.PSD för .NET API-referens
-description: PlacedResource fast egendom. Hämtar eller ställer in förvrängningsobjekten.
+title: "PlacedResource.Items"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PlacedResource egenskap. Hämtar eller anger warp-objekten"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Items property
 
-Hämtar eller ställer in förvrängningsobjekten.
+Hämtar eller anger warp‑objekten.
 
 ```csharp
 public virtual OSTypeStructure[] Items { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Varpartiklarna.
+Warp-objekten.
 
 ### Se även
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [PlacedResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.PsdVersion
-second_title: Aspose.PSD för .NET API-referens
-description: FxrpResource fast egendom. Hämtar psdversionen.
+title: "FxrpResource.PsdVersion"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FxrpResource‑egenskap. Hämtar psd‑versionen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/
 ---
+{{< psd/tize >}}
 ## FxrpResource.PsdVersion property
 
 Hämtar psd-versionen.
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Se även
 
 * class [FxrpResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

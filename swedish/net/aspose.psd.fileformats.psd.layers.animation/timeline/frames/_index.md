@@ -1,22 +1,23 @@
 ---
-title: TimeLine.Frames
-second_title: Aspose.PSD för .NET API-referens
-description: TimeLine fast egendom. Hämtar listan med ramar.
+title: "Timeline.Frames"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Timeline‑egenskap. Hämtar listan över ramar"
 type: docs
-weight: 50
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/timeline/frames/
 ---
-## TimeLine.Frames property
+{{< psd/tize >}}
+## Timeline.Frames property
 
-Hämtar listan med ramar.
+Hämtar listan över bildrutor.
 
 ```csharp
 public Frame[] Frames { get; set; }
 ```
 
-### Exempel
+## Exempel
 
-Klassen TimeLine ger en hög nivå förmåga att manipulera tidslinjen för PsdImage, som att ändra bildrutefördröjning eller redigera lagertillstånd på en specifik bildruta.
+Timeline‑klassen ger en hög nivå förmåga att manipulera tidslinjen för PsdImage, såsom att ändra bildrutefördröjning eller redigera lagertillstånd på en specifik bildruta.
 
 ```csharp
 [C#]
@@ -26,33 +27,32 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Ändra avyttringsmetod för ram 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Ändra borttagningsmetod för bildruta 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Ändra fördröjning av bildruta 2
-    timeLine.Frames[1].Delay = 15;
+    // Ändra fördröjning för bildruta 2
+    timeline.Frames[1].Delay = 15;
 
-    // Ändra opaciteten för 'Layer 1' på bildruta 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Ändra opacitet för 'Layer 1' på bildruta 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // flytta 'Layer 1' till det nedre vänstra hörnet på bildruta 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // flytta 'Layer 1' till vänster‑nedre hörnet på bildruta 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Lägger till ny ram
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // Lägger till ny bildruta
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Ändra blendMode för 'Layer 1' på bildruta 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Ändra blandningsläge för 'Layer 1' på bildruta 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Tillämpa ändringar tillbaka till PsdImage-instansen
-    timeLine.ApplyTo(psdImage);
+    // Applicera ändringar tillbaka till PsdImage‑instansen
     psdImage.Save(outputPsd);
 }
 ```
@@ -60,8 +60,8 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 ### Se även
 
 * class [Frame](../../frame/)
-* class [TimeLine](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* hopsättning [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

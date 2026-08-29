@@ -1,14 +1,15 @@
 ---
-title: Interface ILayerResourceLoader
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader gränssnitt. Lagerresursladdningen.
+title: "Gränssnitt ILayerResourceLoader"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader-gränssnitt. Lagerresursladdaren"
 type: docs
-weight: 2070
+weight: 2250
 url: /sv/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader interface
 
-Lagerresursladdningen.
+Lagerresursläsaren.
 
 ```csharp
 public interface ILayerResourceLoader
@@ -16,14 +17,14 @@ public interface ILayerResourceLoader
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Bestämmer om lagerresurs kan laddas från den angivna[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Laddar[`LayerResource`](../layerresource/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Bestämmer om lagerresurs kan laddas från den angivna [`StreamContainer`](../../aspose.psd/streamcontainer/). |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Laddar [`LayerResource`](../layerresource/). |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

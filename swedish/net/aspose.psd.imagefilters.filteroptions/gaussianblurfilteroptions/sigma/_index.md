@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Sigma
-second_title: Aspose.PSD för .NET API-referens
-description: GaussianBlurFilterOptions fast egendom. Hämtar eller ställer in sigma.
+title: "GaussianBlurFilterOptions.Sigma"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GaussianBlurFilterOptions egenskap. Hämtar eller anger sigma"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Sigma property
 
-Hämtar eller ställer in sigma.
+Hämtar eller anger sigma.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Sigma.
 
 ### Se även
 
 * class [GaussianBlurFilterOptions](../)
-* namnutrymme [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

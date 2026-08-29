@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.Length
-second_title: Aspose.PSD för .NET API-referens
-description: GlobalLayerMaskInfo fast egendom. Hämtar den globala lagermasksektionens längd i byte.
+title: "GlobalLayerMaskInfo.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "GlobalLayerMaskInfo‑egenskap. Hämtar längden på sektionen för den globala lagermasken i byte"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Length property
 
-Hämtar den globala lagermasksektionens längd i byte.
+Hämtar längden i byte för den globala lagermasksektionen.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### Se även
 
 * class [GlobalLayerMaskInfo](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

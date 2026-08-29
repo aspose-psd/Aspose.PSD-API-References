@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.UnregisterOpener
-second_title: Aspose.PSD för .NET API-referens
-description: OSTypeStructuresRegistry metod. Avregistrerar öppnaren.
+title: "OSTypeStructuresRegistry.UnregisterOpener"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OSTypeStructuresRegistry‑metod. Avregistrerar öppnaren"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.UnregisterOpener method
 
 Avregistrerar öppnaren.
@@ -16,13 +17,13 @@ public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | Öppnarbeskrivningen för att avregistrera. |
+| openerDescriptor | IOSTypeStructureLoader | Öppnardeskriptorn som ska avregistreras. |
 
 ### Se även
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

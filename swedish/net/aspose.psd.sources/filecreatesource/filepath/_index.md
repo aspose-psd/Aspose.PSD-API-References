@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.PSD för .NET API-referens
-description: FileCreateSource fast egendom. Hämtar filsökvägen att skapa.
+title: "FileCreateSource.FilePath"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FileCreateSource egenskap. Hämtar filvägen att skapa"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
-Hämtar filsökvägen att skapa.
+Hämtar filsökvägen för skapande.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Filsökvägen att skapa.
+Filvägen att skapa.
 
 ### Se även
 
 * class [FileCreateSource](../)
-* namnutrymme [Aspose.PSD.Sources](../../filecreatesource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

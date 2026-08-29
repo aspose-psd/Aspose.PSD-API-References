@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCountry
-second_title: Aspose.PSD för .NET API-referens
-description: PhotoshopPackage metod. Anger landet.
+title: "PhotoshopPackage.SetCountry"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PhotoshopPackage metod. Anger landet"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCountry method
 
 Anger landet.
@@ -16,12 +17,12 @@ public void SetCountry(string country)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| country | String | Landet. |
+| land | String | Landet. |
 
 ### Se även
 
 * class [PhotoshopPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

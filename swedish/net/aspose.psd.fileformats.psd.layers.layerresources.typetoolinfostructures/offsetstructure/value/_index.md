@@ -1,27 +1,28 @@
 ---
-title: OffsetStructure.Value
-second_title: Aspose.PSD för .NET API-referens
-description: OffsetStructure fast egendom. Hämtar eller ställer in heltalsvärdet.
+title: "OffsetStructure.Value"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "OffsetStructure egenskap. Hämtar eller anger heltalsvärdet"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.Value property
 
-Hämtar eller ställer in heltalsvärdet.
+Hämtar eller anger heltalsvärdet.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Heltalsvärdet.
+Det heltalsvärdet.
 
 ### Se även
 
 * class [OffsetStructure](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

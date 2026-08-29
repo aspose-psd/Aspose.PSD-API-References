@@ -1,27 +1,28 @@
 ---
-title: PsdImage.Height
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage fast egendom. Hämtar bildhöjden.
+title: "PsdImage.Height"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage egenskap. Hämtar bildens höjd."
 type: docs
 weight: 160
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/height/
 ---
+{{< psd/tize >}}
 ## PsdImage.Height property
 
-Hämtar bildhöjden.
+Hämtar bildens höjd.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildhöjden.
+Bildens höjd.
 
 ### Se även
 
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

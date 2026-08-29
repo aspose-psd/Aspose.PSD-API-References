@@ -1,14 +1,15 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD för .NET API-referens
-description: Layer byggare. Initierar en ny instans avLayer class.
+title: "Layer.Layer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer‑konstruktor. Initierar en ny instans av klassen Layer"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.schemas.photoshop/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer(string, string) {#constructor_1}
 
-Initierar en ny instans av[`Layer`](../) class.
+Initierar en ny instans av klassen [`Layer`](../).
 
 ```csharp
 public Layer(string layerName, string layerText)
@@ -16,20 +17,20 @@ public Layer(string layerName, string layerText)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| layerName | String | Lagrets namn. |
-| layerText | String | Lagertexten. |
+| layerName | String | Namnet på lagret. |
+| layerText | String | Lagrets text. |
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer() {#constructor}
 
-Initierar en ny instans av[`Layer`](../) class.
+Initierar en ny instans av klassen [`Layer`](../).
 
 ```csharp
 public Layer()
@@ -38,7 +39,7 @@ public Layer()
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

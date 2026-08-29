@@ -1,27 +1,28 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Aspose.PSD för .NET API-referens
-description: Layer fast egendom. Hämtar eller ställer in datum för skapande av lagret.
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Layer-egenskap. Hämtar eller anger lagrets skapelsedatum och tid"
 type: docs
-weight: 200
+weight: 210
 url: /sv/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
-Hämtar eller ställer in datum för skapande av lagret.
+Hämtar eller anger lagrets skapelsedatum och tid.
 
 ```csharp
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Lagrets skapande datum och tid. Om det inte finns några data om skapande DateTime returnerar Unix Time first epoch
+Lagrets skapelsedatum och tid. Om det inte finns någon data om skapelsedatumet returneras Unix Time första epok
 
 ### Se även
 
 * class [Layer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Aspose.PSD för .NET API-referens
-description: PolygonShape fast egendom. Hämtar eller ställer in ett värde som anger om formen är stängd.
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PolygonShape-egenskap. Hämtar eller anger ett värde som indikerar om formen är sluten"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
-Hämtar eller ställer in ett värde som anger om formen är stängd.
+Hämtar eller anger ett värde som indikerar om formen är sluten.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om formen är stängd; annat,`falsk`.
+`true` om formen är sluten; annars `false`.
 
 ### Se även
 
 * class [PolygonShape](../)
-* namnutrymme [Aspose.PSD.Shapes](../../polygonshape/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

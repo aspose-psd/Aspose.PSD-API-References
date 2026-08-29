@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.UpdateResourceValues
-second_title: Aspose.PSD för .NET API-referens
-description: SmartFilters metod. Uppdaterar smart filterdata tillSmartObjectResource .
+title: "SmartFilters.UpdateResourceValues"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartFilters-metoden. Uppdaterar smartfilterdata i SmartObjectResource"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/
 ---
+{{< psd/tize >}}
 ## SmartFilters.UpdateResourceValues method
 
-Uppdaterar smart filterdata till[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) .
+Uppdaterar smartfilterdata i [`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/).
 
 ```csharp
 public void UpdateResourceValues()
@@ -17,7 +18,7 @@ public void UpdateResourceValues()
 ### Se även
 
 * class [SmartFilters](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

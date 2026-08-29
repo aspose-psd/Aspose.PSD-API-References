@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalLength
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in brännvidden.
+title: "ExifData.FocalLength"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger brännvidden"
 type: docs
 weight: 290
 url: /sv/net/aspose.psd.exif/exifdata/focallength/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLength property
 
-Hämtar eller ställer in brännvidden.
+Hämtar eller anger brännvidden.
 
 ```csharp
 public TiffRational FocalLength { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Längden på brännvidden.
+Brännviddens längd.
 
 ### Se även
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class SmartObjectResource
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource klass. Definierar klassen SmartObjectResource som innehåller information om ett smart objektlager i en PSDfil. Is är basklassen för Sold och Soleresurser som används för att stödja smarta objektlager i Adobe Photoshopbilderna.
+title: "Klass SmartObjectResource"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource-klass. Definierar SmartObjectResource-klassen som innehåller information om ett smartobjektlager i en PSD-fil. Det är basklassen för Sold- och Sole-resurser som används för att stödja smartobjektlager i Adobe Photoshop-bilder."
 type: docs
-weight: 2990
+weight: 3340
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource class
 
-Definierar klassen SmartObjectResource som innehåller information om ett smart objektlager i en PSD-fil. Is är basklassen för Sold och Sole-resurser som används för att stödja smarta objektlager i Adobe® Photoshop®-bilderna.
+Definierar klassen SmartObjectResource som innehåller information om ett smartobjektlager i en PSD‑fil. Det är basklassen för Sold‑ och Sole‑resurser som används för att stödja smartobjektlager i Adobe‑Photoshop‑bilder.
 
 ```csharp
 public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerResource
@@ -16,61 +17,61 @@ public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerRes
 
 ## Egenskaper
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Hämtar eller ställer in anti-alias-policyn för data för smarta objektlager i PSD-bilden. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Hämtar eller ställer in den nedre platsen för det placerade lagret i PSD-bilden. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Hämtar eller ställer in gränserna för det placerade lagret i PSD-filen. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Hämtar eller ställer in kompvärdet för data för smarta objektlager i PSD-filen. [Layer comps i Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Hämtar eller ställer in ID för den för närvarande valda komp för det underordnade dokumentet, vilket kommer att vara -1 om ingen är vald. Comps är sammansättningar av en sidlayout som designers kan skapa. Med hjälp av lagersammansättningar kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe® Photoshop®-fil. En lagerkomp är en ögonblicksbild av ett tillstånd på panelen Lager. Layer Comps sparar tre typer av lageralternativ men den här egenskapen får Layer Comp-urvalsidentifieraren för det smarta objektlagret i PSD-filen. [Layer comps i Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Hämtar eller ställer in beskärningen av data för smarta objektlager i PSD-bilden. |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Hämtar eller ställer in varaktighetsnämnaren. |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Hämtar eller ställer in varaktighetsräknaren. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Hämtar eller ställer in bildruteantalet för smarta objektlagerdata i PSD-filen. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Hämtar eller ställer in ramstegsnämnaren. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Hämtar eller ställer in bildstegstäljaren. |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Hämtar eller ställer in höjden. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Hämtar eller ställer in de horisontella mesh-punkterna för det placerade lagret i PSD-filen. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Hämtar eller ställer in måttenheten för de horisontella maskpunkterna. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Hämtar eller ställer in ett värde som indikerar om denna instansförvrängningsstil är anpassad. Om den är sant innehåller den mesh-punkter. Om den är inställd på false raderas mesh-punkter. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Hämtar eller ställer in deskriptorobjekten för data för smarta objektlager i PSD-filen. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursnyckeln. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Hämtar eller ställer in den vänstra platsen för det placerade lagret i PSD-filen. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Hämtar resurslängden för smarta objekt i byte. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Hämtar eller ställer in den icke-affina transformationsmatrisen för data för smarta objektlager i PSD-filen. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Hämtar det ursprungliga ID:t för den för närvarande valda Comp för det underordnade dokumentet, vilket kommer att vara -1 om ingen är markerad. Den här egenskapen får den ursprungliga lager Comp-urvalsidentifieraren för det smarta objektlagret i PSD-filen. [Layer comps i Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Hämtar eller ställer in sidnumret för data för smarta objektlager i PSD-filen. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Hämtar eller ställer in perspektivvärdet för det placerade lagret i PSD-filen. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Hämtar eller ställer in perspektivets andra värde för det placerade lagret i PSD-filen. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Hämtar eller ställer in den unika identifieraren för denna smarta objektlagerdata i PSD-bilden. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Hämtar eller ställer in typen av smart objektlagerdata i PSD-filen. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Får den minimala psd-version som krävs för resursen för smarta objekt. 0 indikerar inga begränsningar. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Hämtar eller ställer in upplösningen för data för smarta objektlager i PSD-filen. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Hämtar eller ställer in upplösningsmåttenheten för data för smarta objektlager i PSD-filen. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Hämtar eller ställer in rätt plats för det placerade lagret i PSD-filen. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Får resurssignaturen för smarta objekt. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Hämtar eller ställer in den övre platsen för det placerade lagret i PSD-bilden. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Hämtar eller ställer in det totala sidnumret för data för smarta objektlager i PSD-filen. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Hämtar eller ställer in transformationsmatrisen för data för smarta objektlager i PSD-filen. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Hämtar eller ställer in den globala unika identifieraren för data för smarta objektlager`SmartObjectResource` i PSD-bilden. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Hämtar eller ställer in U-ordervärdet för det placerade lagret i PSD-filen. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Hämtar eller ställer in varpvärdet för det placerade lagret i PSD-bilden. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Hämtar versionen av det placerade lagret i PSD-filen, vanligtvis 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Hämtar eller ställer in de horisontella mesh-punkterna för det placerade lagret i PSD-filen. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Hämtar eller ställer in måttenheten för de vertikala maskpunkterna. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Hämtar eller ställer in V-ordningens värde för det placerade lagret i PSD-filen. |
-| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Hämtar eller ställer in bredden. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Hämtar eller anger anti‑alias‑policy för smartobjektlagrets data i PSD‑bilden. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Hämtar eller anger den nedre positionen för det placerade lagret i PSD‑bilden. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Hämtar eller anger gränserna för det placerade lagret i PSD‑filen. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Hämtar eller anger kompositionsvärdet för smartobjektlagrets data i PSD‑filen. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Hämtar eller anger ID för den för närvarande valda kompositionen för underdokumentet, vilket blir -1 om ingen är vald. Kompositioner är sammansättningar av en sidlayout som designers kan skapa. Med lagerkompositioner kan du skapa, hantera och visa flera versioner av en layout i en enda Adobe Photoshop‑fil. En lagerkomposition är en ögonblicksbild av ett tillstånd i panelen Lager. Lagerkompositioner sparar tre typer av lageralternativ men den här egenskapen hämtar identifieraren för lagerkompositionsvalet för smartobjektlagret i PSD‑filen. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Hämtar eller anger beskärningen för smartobjektlagrets data i PSD‑bilden. |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Hämtar eller anger varaktighetens nämnare. |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Hämtar eller anger varaktighetens täljare. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Hämtar eller anger bildrutesantalet för smartobjektlagrets data i PSD‑filen. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Hämtar eller anger bildrutesstegets nämnare. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Hämtar eller anger bildrutesstegets täljare. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Hämtar eller anger höjden. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Hämtar eller anger de horisontella maskpunkterna för det placerade lagret i PSD‑filen. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Hämtar eller anger måttenheten för de horisontella maskpunkterna. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Hämtar eller anger ett värde som indikerar om detta instansens warp‑stil är anpassad. Om true innehåller den mesh‑punkter. Om den sätts till false raderas mesh‑punkterna. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Hämtar eller anger deskriptorelementen för smartobjektlagrets data i PSD‑filen. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Hämtar lagerresursens nyckel. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Hämtar eller anger den vänstra positionen för det placerade lagret i PSD‑filen. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Hämtar smartobjektresursens längd i byte. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Hämtar eller anger den icke‑affina transformationsmatrisen för smartobjektlagrets data i PSD‑filen. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Hämtar det ursprungliga ID:t för den för närvarande valda kompositionen för underdokumentet, vilket blir -1 om ingen är vald. Denna egenskap hämtar den ursprungliga lagerkompositionsvalets identifierare för smartobjektlagret i PSD‑filen. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Hämtar eller anger sidnumret för smartobjektlagrets data i PSD‑filen. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Hämtar eller anger perspektivvärdet för det placerade lagret i PSD‑filen. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Hämtar eller anger det andra perspektivvärdet för det placerade lagret i PSD‑filen. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Hämtar eller anger den unika identifieraren för detta smartobjektlagrets data i PSD‑bilden. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Hämtar eller anger typen av smartobjektlagrets data i PSD‑filen. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Hämtar den minsta PSD-versionen som krävs för lagerresursen. 0 indikerar inga begränsningar. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Hämtar eller anger upplösningen för smartobjektlagrets data i PSD‑filen. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Hämtar eller anger enheten för upplösningsmåttet för smartobjektlagrets data i PSD‑filen. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Hämtar eller anger den högra positionen för det placerade lagret i PSD‑filen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Hämtar signaturen. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Hämtar eller anger den övre positionen för det placerade lagret i PSD‑bilden. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Hämtar eller anger det totala antalet sidor för smartobjektlagrets data i PSD‑filen. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Hämtar eller anger transformationsmatrisen för smartobjektlagrets data i PSD‑filen. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Hämtar eller anger den globala unika identifieraren för smartobjektlagrets data `SmartObjectResource` i PSD‑bilden. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Hämtar eller anger U‑ordningsvärdet för det placerade lagret i PSD‑filen. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Hämtar eller anger warp‑värdet för det placerade lagret i PSD‑bilden. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Hämtar versionen av det placerade lagret i PSD‑filen, vanligtvis 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Hämtar eller anger de horisontella maskpunkterna för det placerade lagret i PSD‑filen. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Hämtar eller anger måttenheten för de vertikala mesh‑punkterna. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Hämtar eller anger V‑ordningsvärdet för det placerade lagret i PSD‑filen. |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Hämtar eller anger bredden. |
 
 ## Metoder
 
-| namn | Beskrivning |
+| Namn | Beskrivning |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Sparar den smarta objektresursen till den angivna strömbehållaren. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar enString som representerar denna instans. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Sparar smartobjektresursen till den angivna strömbehållaren. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Returnerar en String som representerar detta objekt. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för resurserna SoLEResource, SmartObjectResource och PlacedResource.
+Följande kod demonstrerar stöd för resurserna SoLEResource, SmartObjectResource och PlacedResource.
 
 ```csharp
 [C#]
@@ -156,7 +157,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Dessa värden ändrar vi inte i resurs
+    // Dessa värden ändrar vi inte i resursen
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -165,14 +166,14 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[28] = resource.OriginalCompId;
 
     // Dessa värden bör också ändras i PlLdResource (med det angivna UniqueId).
-    // och några av dem måste vara i överensstämmelse med det understrukna smarta objektet i LinkDataSource
+    // och några av dem måste stämma överens med det underliggande smarta objektet i LinkDataSource.
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
-    resource.Value = (double)newValues[7]; // 1,23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Value = (double)newValues[7]; // 1.23456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -191,7 +192,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Detta unika ID bör ändras i referenser om några
+    // Detta unika ID bör ändras i referenserna om några finns.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -201,12 +202,13 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Var försiktig med vissa parametrar: den sparade bilden kan bli oläslig av Adobe® Photoshop®
+    // Var försiktig med vissa parametrar: den sparade bilden kan bli oläsbar för Adobe® Photoshop®.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Ändra inte detta annars kommer du inte att kunna använda gratis transform
-    // eller ändra det understrykande smarta objektet till vektortypen
+    // Ändra inte detta annars 
+ du kommer inte kunna använda fri transformering
+    // eller ändra det underliggande smarta objektet till vektortypen
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
     // Det bör finnas en giltig PlLdResource med detta unika ID
@@ -379,7 +381,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [SoLeResource](../soleresource/)
 * class [PlacedResource](../placedresource/)
 * interface [ISmartObjectLayerResource](../ismartobjectlayerresource/)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

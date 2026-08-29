@@ -1,14 +1,15 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Aspose.PSD för .NET API-referens
-description: ComplexTypeBase byggare. Initierar en ny instans avComplexTypeBase class.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ComplexTypeBase-konstruktor. Initierar en ny instans av klassen ComplexTypeBase"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-Initierar en ny instans av[`ComplexTypeBase`](../) class.
+Initierar en ny instans av klassen [`ComplexTypeBase`](../).
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
@@ -17,18 +18,18 @@ public ComplexTypeBase(string prefix, string namespaceUri)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | prefix | String | Prefixet. |
-| namespaceUri | String | Namnutrymmets URI. |
+| namespaceUri | String | Namnutrymmes-URI. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | prefix är null eller namnutrymme Uri är null |
+| ArgumentNullException | prefix är null eller namespaceUri är null |
 
 ### Se även
 
 * class [ComplexTypeBase](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

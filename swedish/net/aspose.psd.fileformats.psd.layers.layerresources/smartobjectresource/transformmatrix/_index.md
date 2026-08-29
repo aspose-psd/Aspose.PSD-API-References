@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.TransformMatrix
-second_title: Aspose.PSD för .NET API-referens
-description: SmartObjectResource fast egendom. Hämtar eller ställer in transformationsmatrisen för data för smarta objektlager i PSDfilen.
+title: "SmartObjectResource.TransformMatrix"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartObjectResource egenskap. Hämtar eller anger transformmatrisen för smartobjektlagrets data i PSD-filen"
 type: docs
-weight: 230
+weight: 210
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.TransformMatrix property
 
-Hämtar eller ställer in transformationsmatrisen för data för smarta objektlager i PSD-filen.
+Hämtar eller anger transformationsmatrisen för smartobjektlagrets data i PSD‑filen.
 
 ```csharp
 public override double[] TransformMatrix { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Transformeringsmatrisen för data för smarta objektlager.
+Transformmatrisen för smartobjektlagrets data.
 
 ### Se även
 
 * class [SmartObjectResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

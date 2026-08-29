@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistance
-second_title: Aspose.PSD för .NET API-referens
-description: ExifData fast egendom. Hämtar eller ställer in motivets avstånd.
+title: "ExifData.SubjectDistance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ExifData-egenskap. Hämtar eller anger objektavståndet"
 type: docs
 weight: 1000
 url: /sv/net/aspose.psd.exif/exifdata/subjectdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistance property
 
-Hämtar eller ställer in motivets avstånd.
+Hämtar eller anger avståndet till motivet.
 
 ```csharp
 public TiffRational SubjectDistance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Motivets avstånd.
+Objektavståndet.
 
 ### Se även
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namnutrymme [Aspose.PSD.Exif](../../exifdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

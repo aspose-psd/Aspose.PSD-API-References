@@ -1,11 +1,12 @@
 ---
-title: BooleanResource.Save
-second_title: Aspose.PSD för .NET API-referens
-description: BooleanResource metod. Sparar den angivna strömbehållaren.
+title: "BooleanResource.Save"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BooleanResource metod. Sparar den angivna strömbehållaren"
 type: docs
-weight: 40
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Save method
 
 Sparar den angivna strömbehållaren.
@@ -23,7 +24,7 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [BooleanResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

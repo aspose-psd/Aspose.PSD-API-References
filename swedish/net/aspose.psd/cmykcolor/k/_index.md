@@ -1,27 +1,28 @@
 ---
-title: CmykColor.K
-second_title: Aspose.PSD för .NET API-referens
-description: CmykColor fast egendom. Får det svarta komponentvärdet av dettaColorstruktur.
+title: "CmykColor.K"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "CmykColor property. Hämtar svartkomponentens värde för denna Color‑struktur"
 type: docs
-weight: 40
+weight: 50
 url: /sv/net/aspose.psd/cmykcolor/k/
 ---
+{{< psd/tize >}}
 ## CmykColor.K property
 
-Får det svarta komponentvärdet av detta[`Color`](../../color/)struktur.
+Hämtar svartkomponentens värde för denna [`Color`](../../color/) struktur.
 
 ```csharp
 public byte K { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det svarta komponentvärdet för detta[`Color`](../../color/) .
+Svartkomponentens värde för denna [`Color`](../../color/).
 
 ### Se även
 
 * struct [CmykColor](../)
-* namnutrymme [Aspose.PSD](../../cmykcolor/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

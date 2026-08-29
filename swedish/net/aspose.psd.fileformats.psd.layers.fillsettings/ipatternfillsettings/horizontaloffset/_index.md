@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.HorizontalOffset
-second_title: Aspose.PSD för .NET API-referens
-description: IPatternFillSettings fast egendom. Hämtar eller ställer in den horisontella offseten.
+title: "IPatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "IPatternFillSettings-egenskap. Hämtar eller anger horisontell förskjutning"
 type: docs
-weight: 10
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.HorizontalOffset property
 
-Hämtar eller ställer in den horisontella offseten.
+Hämtar eller anger den horisontella förskjutningen.
 
 ```csharp
 public int HorizontalOffset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den horisontella offset.
+Den horisontella förskjutningen.
 
 ### Se även
 
 * interface [IPatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

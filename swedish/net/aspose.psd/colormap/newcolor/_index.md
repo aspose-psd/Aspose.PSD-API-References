@@ -1,28 +1,29 @@
 ---
-title: ColorMap.NewColor
-second_title: Aspose.PSD för .NET API-referens
-description: ColorMap fast egendom. Hämtar eller ställer in den nyaColor struktur att konvertera till.
+title: "ColorMap.NewColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorMap-egenskap. Hämtar eller anger den nya Color-strukturen att konvertera till"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/colormap/newcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.NewColor property
 
-Hämtar eller ställer in den nya[`Color`](../../color/) struktur att konvertera till.
+Hämtar eller anger den nya [`Color`](../../color/) strukturen att konvertera till.
 
 ```csharp
 public Color NewColor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den nya[`Color`](../../color/) struktur att konvertera till.
+Den nya [`Color`](../../color/) strukturen att konvertera till.
 
 ### Se även
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* namnutrymme [Aspose.PSD](../../colormap/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

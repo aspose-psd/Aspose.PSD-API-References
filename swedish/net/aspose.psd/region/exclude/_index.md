@@ -1,14 +1,15 @@
 ---
-title: Region.Exclude
-second_title: Aspose.PSD för .NET API-referens
-description: Region metod. Uppdaterar dettaRegion att endast innehålla den del av dess inre som inte korsar det specificeradeRectangleFstruktur.
+title: "Region.Exclude"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Region-metoden. Uppdaterar detta Region så att det endast innehåller den del av dess inre som inte skär med den angivna RectangleF-strukturen"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-Uppdaterar detta[`Region`](../) att endast innehålla den del av dess inre som inte korsar det specificerade[`RectangleF`](../../rectanglef/)struktur.
+Uppdaterar detta [`Region`](../) så att det endast innehåller den del av dess inre som inte skär med den angivna [`RectangleF`](../../rectanglef/) strukturen.
 
 ```csharp
 public void Exclude(RectangleF rect)
@@ -16,20 +17,20 @@ public void Exclude(RectangleF rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | RectangleF | De[`RectangleF`](../../rectanglef/) struktur för att utesluta från detta[`Region`](../). |
+| rect | RectangleF | Den [`RectangleF`](../../rectanglef/) strukturen att utesluta från detta [`Region`](../). |
 
 ### Se även
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-Uppdaterar detta[`Region`](../) att endast innehålla den del av dess inre som inte korsar det specificerade[`Rectangle`](../../rectangle/)struktur.
+Uppdaterar detta [`Region`](../) så att det endast innehåller den del av dess inre som inte skär med den angivna [`Rectangle`](../../rectangle/) strukturen.
 
 ```csharp
 public void Exclude(Rectangle rect)
@@ -37,20 +38,20 @@ public void Exclude(Rectangle rect)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) struktur för att utesluta från detta[`Region`](../). |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/) strukturen att utesluta från detta [`Region`](../). |
 
 ### Se även
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-Uppdaterar detta[`Region`](../) att endast innehålla den del av dess inre som inte korsar det specificerade[`GraphicsPath`](../../graphicspath/) .
+Uppdaterar detta [`Region`](../) så att det endast innehåller den del av dess inre som inte skär med den angivna [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Exclude(GraphicsPath path)
@@ -58,11 +59,11 @@ public void Exclude(GraphicsPath path)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| path | GraphicsPath | De[`GraphicsPath`](../../graphicspath/) att utesluta från detta[`Region`](../). |
+| path | GraphicsPath | Den [`GraphicsPath`](../../graphicspath/) att utesluta från detta [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | *path* är null. |
 
@@ -70,14 +71,14 @@ public void Exclude(GraphicsPath path)
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-Uppdaterar detta[`Region`](../) att endast innehålla den del av dess inre som inte korsar det specificerade[`Region`](../) .
+Uppdaterar detta [`Region`](../) så att det endast innehåller den del av dess inre som inte skär med den angivna [`Region`](../).
 
 ```csharp
 public void Exclude(Region region)
@@ -85,18 +86,18 @@ public void Exclude(Region region)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| region | Region | De[`Region`](../) att utesluta från detta[`Region`](../). |
+| region | Region | Den [`Region`](../) att utesluta från detta [`Region`](../). |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | *region* är null. |
 
 ### Se även
 
 * class [Region](../)
-* namnutrymme [Aspose.PSD](../../region/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

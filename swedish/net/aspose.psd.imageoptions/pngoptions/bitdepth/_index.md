@@ -1,11 +1,12 @@
 ---
-title: PngOptions.BitDepth
-second_title: Aspose.PSD för .NET API-referens
-description: PngOptions fast egendom. Bitdjupet.
+title: "PngOptions.BitDepth"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PngOptions egenskap. Bitdjupet"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.imageoptions/pngoptions/bitdepth/
 ---
+{{< psd/tize >}}
 ## PngOptions.BitDepth property
 
 Bitdjupet.
@@ -17,7 +18,7 @@ public byte BitDepth { get; set; }
 ### Se även
 
 * class [PngOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../pngoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

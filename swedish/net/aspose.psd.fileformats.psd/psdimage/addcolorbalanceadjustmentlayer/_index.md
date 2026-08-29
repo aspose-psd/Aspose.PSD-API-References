@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: Aspose.PSD för .NET API-referens
-description: PsdImage metod. Lägger till justeringslagret för färgbalans.
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PsdImage metod. Lägger till färgbalansjusteringslagret"
 type: docs
-weight: 320
+weight: 330
 url: /sv/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-Lägger till justeringslagret för färgbalans.
+Lägger till färgbalans-justeringslagret.
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
@@ -16,13 +17,13 @@ public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 
 ### Returvärde
 
-Ett nyskapat färgbalanslager.
+Ett nyss skapat färgbalanslager.
 
 ### Se även
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

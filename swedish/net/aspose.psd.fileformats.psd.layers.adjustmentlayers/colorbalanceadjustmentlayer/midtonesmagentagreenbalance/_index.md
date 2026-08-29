@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance
-second_title: Aspose.PSD för .NET API-referens
-description: ColorBalanceAdjustmentLayer fast egendom. Hämtar eller ställer in mellantons magenta grönbalans.
+title: "ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorBalanceAdjustmentLayer property. Gets or sets the Midtones Magenta Green Balance"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance property
 
-Hämtar eller ställer in mellantons magenta grönbalans.
+Hämtar eller anger Mellantonernas Magenta Grön Balans.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Mellantonerna Magenta grönbalans.
+Den Midtones Magenta Green Balance.
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentOutOfRangeException | Mellantoner Magenta grönbalans måste ligga inom området -100 till +100. |
+| ArgumentOutOfRangeException | Midtones Magenta Green Balance måste vara i intervallet från -100 till +100. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för ColorBalanceAdjustmentLayer.
+Följande kod demonstrerar stöd för ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Se även
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

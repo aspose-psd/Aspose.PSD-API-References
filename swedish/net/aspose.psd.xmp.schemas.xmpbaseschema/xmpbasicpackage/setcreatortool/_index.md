@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.SetCreatorTool
-second_title: Aspose.PSD för .NET API-referens
-description: XmpBasicPackage metod. Ställer in skaparverktyget.
+title: "XmpBasicPackage.SetCreatorTool"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpBasicPackage metod. Ställer in skapartoolen"
 type: docs
-weight: 40
+weight: 60
 url: /sv/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetCreatorTool method
 
-Ställer in skaparverktyget.
+Ställer in skapandeverktyget.
 
 ```csharp
 public void SetCreatorTool(string creatorTool)
@@ -16,12 +17,12 @@ public void SetCreatorTool(string creatorTool)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| creatorTool | String | Verktygets namn. |
+| creatorTool | String | Namn på verktyg. |
 
 ### Se även
 
 * class [XmpBasicPackage](../)
-* namnutrymme [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

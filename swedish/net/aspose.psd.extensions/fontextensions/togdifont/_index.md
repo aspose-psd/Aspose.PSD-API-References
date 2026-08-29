@@ -1,14 +1,15 @@
 ---
-title: FontExtensions.ToGdiFont
-second_title: Aspose.PSD för .NET API-referens
-description: FontExtensions metod. KonverterarFont tillFont .
+title: "FontExtensions.ToGdiFont"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "FontExtensions‑metod. Konverterar Font till Font"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.extensions/fontextensions/togdifont/
 ---
+{{< psd/tize >}}
 ## ToGdiFont(Font) {#togdifont}
 
-Konverterar[`Font`](../../../aspose.psd/font/) tillFont .
+Konverterar [`Font`](../../../aspose.psd/font/) till Font.
 
 ```csharp
 public static Font ToGdiFont(Font font)
@@ -16,24 +17,24 @@ public static Font ToGdiFont(Font font)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| font | Font | De[`Font`](../../../aspose.psd/font/) att konvertera. |
+| font | Font | Den [`Font`](../../../aspose.psd/font/) att konvertera. |
 
 ### Returvärde
 
-Den konverteradeFont.
+Den konverterade Font.
 
 ### Se även
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* namnutrymme [Aspose.PSD.Extensions](../../fontextensions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiFont(Font, GraphicsUnit) {#togdifont_1}
 
-Konverterar[`Font`](../../../aspose.psd/font/) tillFont .
+Konverterar [`Font`](../../../aspose.psd/font/) till Font.
 
 ```csharp
 public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
@@ -41,18 +42,18 @@ public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| font | Font | De[`Font`](../../../aspose.psd/font/) att konvertera. |
-| fontUnit | GraphicsUnit | Ny grafikenhet |
+| font | Font | Den [`Font`](../../../aspose.psd/font/) att konvertera. |
+| fontUnit | GraphicsUnit | Ny grafik‑enhet |
 
 ### Returvärde
 
-Den konverteradeFont.
+Den konverterade Font.
 
 ### Se även
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* namnutrymme [Aspose.PSD.Extensions](../../fontextensions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

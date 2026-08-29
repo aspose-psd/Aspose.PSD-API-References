@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.VerticalOffset
-second_title: Aspose.PSD för .NET API-referens
-description: PatternFillSettings fast egendom. Hämtar eller ställer in den vertikala offseten.
+title: "PatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PatternFillSettings-egenskap. Hämtar eller anger den vertikala förskjutningen"
 type: docs
-weight: 130
+weight: 150
 url: /sv/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.VerticalOffset property
 
-Hämtar eller ställer in den vertikala offseten.
+Hämtar eller anger den vertikala förskjutningen.
 
 ```csharp
 public int VerticalOffset { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Den vertikala offset.
+Den vertikala förskjutningen.
 
-### Exempel
+## Exempel
 
-Följande kod visar stödet för redigering av fyllskiktsmönster.
+Följande kod demonstrerar stöd för redigering av fyllningslagrets mönster.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Se även
 
 * class [PatternFillSettings](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

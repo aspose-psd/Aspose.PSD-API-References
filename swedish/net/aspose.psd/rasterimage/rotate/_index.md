@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Rotate
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage metod. Rotera bilden runt mitten.
+title: "RasterImage.Rotate"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage-metod. Rotera bilden kring centrum"
 type: docs
-weight: 480
+weight: 490
 url: /sv/net/aspose.psd/rasterimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Rotera bilden runt mitten.
+Rotera bilden kring centrum.
 
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -16,13 +17,13 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Single | Rotationsvinkeln i grader. Positiva värden kommer att rotera medurs. |
-| resizeProportionally | Boolean | om inställt på`Sann` du kommer att få din bildstorlek ändrad enligt projicering av roterade rektangel (hörnpunkter) i andra fall som lämnar dimensioner orörda och endast interna bildinnehåll roteras. |
-| backgroundColor | Color | Färg på bakgrunden. |
+| vinkel | Single | Rotationsvinkeln i grader. Positiva värden roterar medurs. |
+| resizeProportionally | Boolean | Om den är satt till `true` kommer bildens storlek att ändras enligt de roterade rektangelns (hörnpunkternas) projektioner; annars lämnas dimensionerna orörda och endast bildens innehåll roteras. |
+| backgroundColor | Färg | Bakgrundens färg. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | NotImplementedException |  |
 
@@ -30,14 +31,14 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Rotera bilden runt mitten.
+Rotera bilden kring centrum.
 
 ```csharp
 public virtual void Rotate(float angle)
@@ -45,12 +46,12 @@ public virtual void Rotate(float angle)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| angle | Single | Rotationsvinkeln i grader. Positiva värden kommer att rotera medurs. |
+| vinkel | Single | Rotationsvinkeln i grader. Positiva värden roterar medurs. |
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: Aspose.PSD för .NET API-referens
-description: ShmdResource fält. Underresurshuvudet length
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ShmdResource fält. Delresursens huvudlängd"
 type: docs
-weight: 90
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
-Underresurshuvudet length
+Längden på delresursens rubrik.
 
 ```csharp
 public const int SubResourceHeaderLength;
@@ -17,7 +18,7 @@ public const int SubResourceHeaderLength;
 ### Se även
 
 * class [ShmdResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

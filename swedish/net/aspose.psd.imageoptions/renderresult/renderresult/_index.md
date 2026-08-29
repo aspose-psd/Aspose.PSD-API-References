@@ -1,14 +1,15 @@
 ---
-title: RenderResult.RenderResult
-second_title: Aspose.PSD för .NET API-referens
-description: RenderResult byggare. Default_Constructor
+title: "RenderResult.RenderResult"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RenderResult-konstruktor. Standardkonstruktorn"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.imageoptions/renderresult/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult constructor
 
-Default_Constructor
+Standardkonstruktorn.
 
 ```csharp
 public RenderResult()
@@ -17,7 +18,7 @@ public RenderResult()
 ### Se även
 
 * class [RenderResult](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../renderresult/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

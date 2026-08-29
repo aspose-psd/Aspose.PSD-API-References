@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.IsMaskLinked
-second_title: Aspose.PSD för .NET API-referens
-description: SmartFilters fast egendom. Hämtar statusen är masklänkad för det smarta filtret.
+title: "SmartFilters.IsMaskLinked"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SmartFilters-egenskap. Hämtar maskens länkade status för den smarta filtret"
 type: docs
 weight: 50
 url: /sv/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskLinked property
 
-Hämtar statusen är masklänkad för det smarta filtret.
+Hämtar om masken för det smarta filtret är länkad.
 
 ```csharp
 public bool IsMaskLinked { get; }
@@ -17,7 +18,7 @@ public bool IsMaskLinked { get; }
 ### Se även
 
 * class [SmartFilters](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

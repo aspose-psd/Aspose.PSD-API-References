@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.Extensions
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet innehåller tilläggsmetoder.
+title: "Aspose.PSD.Extensions"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet innehåller utökningsmetoder"
 type: docs
-weight: 110
+weight: 120
 url: /sv/net/aspose.psd.extensions/
 ---
-Namnutrymmet innehåller tilläggsmetoder.
+{{< psd/tize >}}
+Namnområdet innehåller utökningsmetoder.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [BrushExtensions](./brushextensions/) | Innehåller förlängningsmetoder för[`Brush`](../aspose.psd/brush/) ochBrush . |
-| [ColorBlendExtensions](./colorblendextensions/) | Innehåller[`ColorBlend`](../aspose.psd/colorblend/) tilläggsmetoder. |
-| [ColorExtensions](./colorextensions/) | Den[`Color`](../aspose.psd/color/) tilläggsmetoder. |
-| [ColorMapExtensions](./colormapextensions/) | Den[`ColorMap`](../aspose.psd/colormap/) tilläggsmetoder. |
-| [ColorMatrixExtensions](./colormatrixextensions/) | Den[`ColorMatrix`](../aspose.psd/colormatrix/) tilläggsmetoder. |
-| [FileFormatExtensions](./fileformatextensions/) | Innehåller[`FileFormat`](../aspose.psd/fileformat/) tilläggsmetoder. |
-| [FontExtensions](./fontextensions/) | Innehåller tilläggsmetoder för[`Font`](../aspose.psd/font/) class. |
-| [GraphicsPathExtensions](./graphicspathextensions/) | Innehåller[`GraphicsPath`](../aspose.psd/graphicspath/) tilläggsmetoder. |
-| [ImageAttributesExtensions](./imageattributesextensions/) | Innehåller förlängningsmetoder för[`ImageAttributes`](../aspose.psd/imageattributes/) ochImageAttributes . |
-| [ImageExtensions](./imageextensions/) | Innehåller tilläggsmetoder för konverteringar baserade påImage och[`Image`](../aspose.psd/image/) . |
-| [MatrixExtensions](./matrixextensions/) | Innehåller[`Matrix`](../aspose.psd/matrix/) klasstillägg. |
-| [PenExtensions](./penextensions/) | Innehåller förlängningsmetoder för[`Pen`](../aspose.psd/pen/) ochPen . |
-| [PointExtensions](./pointextensions/) | Innehåller förlängningsmetoder för[`Point`](../aspose.psd/point/) och[`PointF`](../aspose.psd/pointf/) strukturer. |
-| [RectangleExtensions](./rectangleextensions/) | Innehåller förlängningsmetoder för[`Rectangle`](../aspose.psd/rectangle/) . |
-| [RegionExtensions](./regionextensions/) | Innehåller tilläggsmetoder för[`Region`](../aspose.psd/region/) class. |
-| [RotateFlipExtensions](./rotateflipextensions/) | Innehåller tilläggsmetoder för konvertering avRotateFlipType och den[`RotateFlipType`](../aspose.psd/rotatefliptype/) klasser. |
-| [StringFormatExtensions](./stringformatextensions/) | Innehåller tilläggsmetoder för[`StringFormat`](../aspose.psd/stringformat/) class. |
+| [BrushExtensions](./brushextensions/) | Innehåller utökningsmetoder för [`Brush`](../aspose.psd/brush/) och Brush. |
+| [ColorBlendExtensions](./colorblendextensions/) | Innehåller [`ColorBlend`](../aspose.psd/colorblend/) utökningsmetoder. |
+| [ColorExtensions](./colorextensions/) | De [`Color`](../aspose.psd/color/) utökningsmetoderna. |
+| [ColorMapExtensions](./colormapextensions/) | De [`ColorMap`](../aspose.psd/colormap/) utökningsmetoderna. |
+| [ColorMatrixExtensions](./colormatrixextensions/) | De [`ColorMatrix`](../aspose.psd/colormatrix/) utökningsmetoderna. |
+| [FileFormatExtensions](./fileformatextensions/) | Innehåller [`FileFormat`](../aspose.psd/fileformat/) utökningsmetoder. |
+| [FontExtensions](./fontextensions/) | Innehåller utökningsmetoder för [`Font`](../aspose.psd/font/) klassen. |
+| [GraphicsPathExtensions](./graphicspathextensions/) | Innehåller [`GraphicsPath`](../aspose.psd/graphicspath/) utökningsmetoderna. |
+| [ImageAttributesExtensions](./imageattributesextensions/) | Innehåller utökningsmetoder för [`ImageAttributes`](../aspose.psd/imageattributes/) och ImageAttributes. |
+| [ImageExtensions](./imageextensions/) | Innehåller utökningsmetoder för konverteringar baserade på Image och Image. |
+| [MatrixExtensions](./matrixextensions/) | Innehåller [`Matrix`](../aspose.psd/matrix/) klassutökningarna. |
+| [PenExtensions](./penextensions/) | Innehåller utökningsmetoder för [`Pen`](../aspose.psd/pen/) och Pen. |
+| [PointExtensions](./pointextensions/) | Innehåller utökningsmetoder för strukturerna [`Point`](../aspose.psd/point/) och [`PointF`](../aspose.psd/pointf/). |
+| [RectangleExtensions](./rectangleextensions/) | Innehåller utökningsmetoder för [`Rectangle`](../aspose.psd/rectangle/). |
+| [RegionExtensions](./regionextensions/) | Innehåller utökningsmetoder för [`Region`](../aspose.psd/region/) klassen. |
+| [RotateFlipExtensions](./rotateflipextensions/) | Innehåller utökningsmetoder för konvertering av RotateFlipType och [`RotateFlipType`](../aspose.psd/rotatefliptype/) klasserna. |
+| [StringFormatExtensions](./stringformatextensions/) | Innehåller utökningsmetoder för [`StringFormat`](../aspose.psd/stringformat/) klassen. |
 
 

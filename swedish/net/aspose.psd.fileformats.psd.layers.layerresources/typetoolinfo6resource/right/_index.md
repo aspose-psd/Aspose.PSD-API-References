@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Right
-second_title: Aspose.PSD för .NET API-referens
-description: TypeToolInfo6Resource fast egendom. Hämtar eller ställer in rätt plats.
+title: "TypeToolInfo6Resource.Right"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TypeToolInfo6Resource egenskap. Hämtar eller anger den högra platsen"
 type: docs
-weight: 110
+weight: 90
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Right property
 
-Hämtar eller ställer in rätt plats.
+Hämtar eller anger den högra positionen.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Rätt plats.
+Den högra platsen.
 
 ### Se även
 
 * class [TypeToolInfo6Resource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

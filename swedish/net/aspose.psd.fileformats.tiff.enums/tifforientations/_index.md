@@ -1,11 +1,12 @@
 ---
-title: Enum TiffOrientations
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations uppräkning. Bildorientering. Möjliga värden för ORIENTATIONtaggen.
+title: "Enum TiffOrientations"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations enum. Bildorientering. Möjliga värden för ORIENTATION-taggen."
 type: docs
-weight: 4110
+weight: 4580
 url: /sv/net/aspose.psd.fileformats.tiff.enums/tifforientations/
 ---
+{{< psd/tize >}}
 ## TiffOrientations enumeration
 
 Bildorientering. Möjliga värden för ORIENTATION-taggen.
@@ -14,22 +15,22 @@ Bildorientering. Möjliga värden för ORIENTATION-taggen.
 public enum TiffOrientations : ushort
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| TopLeft | `1` | Rad 0 överst, kolumn 0 lhs. |
-| TopRight | `2` | Rad 0 överst, kolumn 0 rhs. |
-| BottomRight | `3` | Rad 0 botten, kolumn 0 rhs. |
-| BottomLeft | `4` | Rad 0 botten, kolumn 0 lhs. |
-| LeftTop | `5` | Rad 0 lhs, kolumn 0 överst. |
-| RightTop | `6` | Rad 0 rhs, kolumn 0 överst. |
-| RightBottom | `7` | Rad 0 rhs, kolumn 0 botten. |
-| LeftBottom | `8` | Rad 0 lhs, kolumn 0 botten. |
+| TopLeft | `1` | Rad 0 överst, Kolumn 0 vänster. |
+| TopRight | `2` | Rad 0 överst, Kolumn 0 höger. |
+| BottomRight | `3` | Rad 0 nederst, Kolumn 0 höger. |
+| BottomLeft | `4` | Rad 0 botten, Kolumn 0 vänster. |
+| LeftTop | `5` | Rad 0 vänster, Kolumn 0 topp. |
+| RightTop | `6` | Rad 0 höger, Kolumn 0 topp. |
+| RightBottom | `7` | Rad 0 höger, Kolumn 0 botten. |
+| LeftBottom | `8` | Rad 0 vänster, Kolumn 0 botten. |
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

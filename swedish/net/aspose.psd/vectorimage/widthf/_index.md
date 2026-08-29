@@ -1,11 +1,12 @@
 ---
-title: VectorImage.WidthF
-second_title: Aspose.PSD för .NET API-referens
-description: VectorImage fast egendom. Hämtar objektets bredd i tum.
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorImage-egenskapen. Hämtar objektets bredd i tum."
 type: docs
 weight: 50
 url: /sv/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
 Hämtar objektets bredd, i tum.
@@ -14,14 +15,14 @@ Hämtar objektets bredd, i tum.
 public virtual float WidthF { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Objektets bredd, i tum.
 
 ### Se även
 
 * class [VectorImage](../)
-* namnutrymme [Aspose.PSD](../../vectorimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

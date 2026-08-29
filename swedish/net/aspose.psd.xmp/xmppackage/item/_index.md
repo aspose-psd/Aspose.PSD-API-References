@@ -1,14 +1,15 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPackage fast egendom. Hämtar eller ställer inObject med den angivna nyckeln.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPackage-egenskapen. Hämtar eller anger objektet med den angivna nyckeln"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-Hämtar eller ställer inObject med den angivna nyckeln.
+Hämtar eller anger objektet med den angivna nyckeln.
 
 ```csharp
 public virtual object this[string key] { get; set; }
@@ -16,20 +17,20 @@ public virtual object this[string key] { get; set; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| key | Nyckeln som identifierar värde. |
+| nyckel | Nyckeln som identifierar värdet. |
 
 ### Returvärde
 
-ReturnerarObject med den angivna nyckeln.
+Returnerar Object med den angivna nyckeln.
 
-### Fastighetsvärde
+### Property Value
 
-DenObject .
+Objectet.
 
 ### Se även
 
 * class [XmpPackage](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppackage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

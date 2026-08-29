@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Width
-second_title: Aspose.PSD för .NET API-referens
-description: RectangleF fast egendom. Hämtar eller ställer in bredden på dettaRectangleFstruktur.
+title: "RectangleF.Width"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RectangleF-egenskapen. Hämtar eller anger bredden på denna RectangleF-struktur."
 type: docs
 weight: 160
 url: /sv/net/aspose.psd/rectanglef/width/
 ---
+{{< psd/tize >}}
 ## RectangleF.Width property
 
-Hämtar eller ställer in bredden på detta[`RectangleF`](../)struktur.
+Hämtar eller anger bredden på denna [`RectangleF`](../) struktur.
 
 ```csharp
 public float Width { get; set; }
@@ -16,12 +17,12 @@ public float Width { get; set; }
 
 ### Returvärde
 
-Bredden på detta[`RectangleF`](../) strukturera.
+Bredden på denna [`RectangleF`](../) struktur.
 
 ### Se även
 
 * struct [RectangleF](../)
-* namnutrymme [Aspose.PSD](../../rectanglef/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

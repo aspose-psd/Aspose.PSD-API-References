@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: Aspose.PSD för .NET API-referens
-description: ImageAttributes metod. Rensar penselfärgombildningstabellen för dettaImageAttributes objekt.
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageAttributes-metod. Rensar penselns färgremap‑tabell för detta ImageAttributes‑objekt."
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-Rensar penselfärgombildningstabellen för detta[`ImageAttributes`](../) objekt.
+Rensar penselns färg‑remap‑tabell för detta [`ImageAttributes`](../)‑objekt.
 
 ```csharp
 public void ClearBrushRemapTable()
@@ -17,7 +18,7 @@ public void ClearBrushRemapTable()
 ### Se även
 
 * class [ImageAttributes](../)
-* namnutrymme [Aspose.PSD](../../imageattributes/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

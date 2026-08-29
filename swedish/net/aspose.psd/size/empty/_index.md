@@ -1,14 +1,15 @@
 ---
-title: Size.Empty
-second_title: Aspose.PSD för .NET API-referens
-description: Size fast egendom. Får en ny instans avSize struktur som harWidth ochHeight värden satt till noll.
+title: "Size.Empty"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Size-egenskap. Hämtar en ny instans av Size-strukturen som har Width- och Height‑värden satta till noll"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd/size/empty/
 ---
+{{< psd/tize >}}
 ## Size.Empty property
 
-Får en ny instans av[`Size`](../) struktur som har[`Width`](../width/) och[`Height`](../height/) värden satt till noll.
+Hämtar en ny instans av [`Size`](../)-strukturen som har [`Width`](../width/) och [`Height`](../height/) värden satta till noll.
 
 ```csharp
 public static Size Empty { get; }
@@ -17,7 +18,7 @@ public static Size Empty { get; }
 ### Se även
 
 * struct [Size](../)
-* namnutrymme [Aspose.PSD](../../size/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

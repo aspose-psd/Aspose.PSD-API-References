@@ -1,14 +1,15 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Aspose.PSD för .NET API-referens
-description: XmpGuid byggare. Initierar en ny instans avXmpGuid class.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpGuid konstruktor. Initierar en ny instans av XmpGuid-klassen"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-Initierar en ny instans av[`XmpGuid`](../) class.
+Initierar en ny instans av klassen [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(string value)
@@ -16,26 +17,26 @@ public XmpGuid(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | String | Värdet. |
+| värde | String | Värdet. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
 | ArgumentNullException | värdet är null. |
-| ArgumentException | Ogiltigt vägledande värde;värde |
+| ArgumentException | Ogiltigt guid‑värde;value |
 
 ### Se även
 
 * class [XmpGuid](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-Initierar en ny instans av[`XmpGuid`](../) class.
+Initierar en ny instans av klassen [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(Guid guid)
@@ -48,7 +49,7 @@ public XmpGuid(Guid guid)
 ### Se även
 
 * class [XmpGuid](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Bottom
-second_title: Aspose.PSD för .NET API-referens
-description: LayerMaskData fast egendom. Hämtar eller ställer in bottenskiktets maskposition.
+title: "LayerMaskData.Bottom"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerMaskData-egenskap. Hämtar eller anger den nedre lagermaskens position."
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.fileformats.psd.layers/layermaskdata/bottom/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Bottom property
 
-Hämtar eller ställer in bottenskiktets maskposition.
+Hämtar eller anger den nedre lagermaskens position.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Det undre lagrets maskposition.
+Den nedre lagermaskens position.
 
 ### Se även
 
 * class [LayerMaskData](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

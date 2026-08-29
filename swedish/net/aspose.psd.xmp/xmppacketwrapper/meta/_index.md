@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Meta
-second_title: Aspose.PSD för .NET API-referens
-description: XmpPacketWrapper fast egendom. Hämtar XMPmeta. Valfritt.
+title: "XmpPacketWrapper.Meta"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "XmpPacketWrapper‑egenskap. Hämtar XMP‑metadata. Valfritt"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.xmp/xmppacketwrapper/meta/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Meta property
 
-Hämtar XMP-meta. Valfritt.
+Hämtar XMP-metadata. Valfritt.
 
 ```csharp
 public XmpMeta Meta { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-XMP-meta. Valfritt.
+XMP‑metadata. Valfritt.
 
 ### Se även
 
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* namnutrymme [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

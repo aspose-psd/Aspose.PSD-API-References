@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD för .NET API-referens
-description: LayerGroup metod. Lägger till lagret i lagergruppen.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerGroup‑metod. Lägger till lagret i lagergruppen."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
 Lägger till lagret i lagergruppen.
@@ -16,11 +17,11 @@ public void AddLayer(Layer layer)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| layer | Layer | Lagret. |
+| lager | Lager | Lagret. |
 
-### Exempel
+## Exempel
 
-Följande exempel visar hur du kan lägga till Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif-bilder som lager till PsdImage
+Följande exempel visar hur du kan lägga till Bmp-, Jpeg-, Jpeg2000-, Png-, Psd-, Tiff- och Gif‑bilder som lager till PsdImage.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var image = new PsdImage(200, 200))
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

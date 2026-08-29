@@ -1,14 +1,15 @@
 ---
-title: PngImageException.PngImageException
-second_title: Aspose.PSD för .NET API-referens
-description: PngImageException byggare. Initierar en ny instans avPngImageException class.
+title: "PngImageException.PngImageException"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "PngImageException konstruktor. Initierar en ny instans av klassen PngImageException"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.coreexceptions.imageformats/pngimageexception/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException(string) {#constructor}
 
-Initierar en ny instans av[`PngImageException`](../) class.
+Initierar en ny instans av klassen [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message)
@@ -21,14 +22,14 @@ public PngImageException(string message)
 ### Se även
 
 * class [PngImageException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngImageException(string, Exception) {#constructor_1}
 
-Initierar en ny instans av[`PngImageException`](../) class.
+Initierar en ny instans av klassen [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public PngImageException(string message, Exception innerException)
 ### Se även
 
 * class [PngImageException](../)
-* namnutrymme [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

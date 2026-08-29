@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Signature
-second_title: Aspose.PSD för .NET API-referens
-description: SoCoResource fast egendom. Hämtar lagerresurssignaturen.
+title: "SoCoResource.Signature"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "SoCoResource egenskap. Hämtar lagerresursens signatur"
 type: docs
 weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Signature property
 
-Hämtar lagerresurssignaturen.
+Hämtar lagerresursens signatur.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Se även
 
 * class [SoCoResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

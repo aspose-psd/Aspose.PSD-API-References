@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.UnregisterExporter
-second_title: Aspose.PSD för .NET API-referens
-description: ImageExportersRegistry metod. Avregistrerar exportören.
+title: "ImageExportersRegistry.UnregisterExporter"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ImageExportersRegistry-metoden. Avregistrerar exportören"
 type: docs
 weight: 70
 url: /sv/net/aspose.psd/imageexportersregistry/unregisterexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.UnregisterExporter method
 
 Avregistrerar exportören.
@@ -16,13 +17,13 @@ public static void UnregisterExporter(IImageExporterDescriptor exporterDescripto
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Exportörbeskrivningen för att avregistrera. |
+| exporterDescriptor | IImageExporterDescriptor | Exportörbeskrivaren att avregistrera. |
 
 ### Se även
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* namnutrymme [Aspose.PSD](../../imageexportersregistry/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

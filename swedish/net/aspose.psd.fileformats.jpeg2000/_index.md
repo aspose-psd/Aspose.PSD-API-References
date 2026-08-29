@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg2000
-second_title: Aspose.PSD för .NET API-referens
-description: Namnutrymmet hanterar Jpeg2000filformatsbearbetning.
+title: "Aspose.PSD.FileFormats.Jpeg2000"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Namnutrymmet hanterar Jpeg2000-filformatets bearbetning"
 type: docs
-weight: 170
+weight: 180
 url: /sv/net/aspose.psd.fileformats.jpeg2000/
 ---
-Namnutrymmet hanterar Jpeg2000-filformatsbearbetning.
+{{< psd/tize >}}
+Namnområdet hanterar Jpeg2000‑filformatbehandling.
 
 ## Klasser
 
 | Klass | Beskrivning |
 | --- | --- |
-| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg-kod genererad undantag |
+| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg-kodgenererat undantag |
 ## Uppräkning
 
 | Uppräkning | Beskrivning |
 | --- | --- |
-| [Jpeg2000Codec](./jpeg2000codec/) | Representerar JPEG2000 bildtyp |
+| [Jpeg2000Codec](./jpeg2000codec/) | Representerar JPEG2000-bildtyp |
 
 

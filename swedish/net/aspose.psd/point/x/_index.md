@@ -1,14 +1,15 @@
 ---
-title: Point.X
-second_title: Aspose.PSD för .NET API-referens
-description: Point fast egendom. Hämtar eller ställer in xkoordinaten för dettaPoint .
+title: "Point.X"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Point-egenskap. Hämtar eller anger x-koordinaten för detta Point"
 type: docs
 weight: 90
 url: /sv/net/aspose.psd/point/x/
 ---
+{{< psd/tize >}}
 ## Point.X property
 
-Hämtar eller ställer in x-koordinaten för detta[`Point`](../) .
+Hämtar eller anger x-koordinaten för detta [`Point`](../).
 
 ```csharp
 public int X { get; set; }
@@ -17,7 +18,7 @@ public int X { get; set; }
 ### Se även
 
 * struct [Point](../)
-* namnutrymme [Aspose.PSD](../../point/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerState.PositionOffset
-second_title: Aspose.PSD för .NET API-referens
-description: LayerState fast egendom. Hämtar eller ställer in lagerpositionsoffset relaterad till den faktiska lagerpositionen.
+title: "LayerState.PositionOffset"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LayerState-egenskap. Hämtar eller anger lagerpositionsförskjutningen i förhållande till den faktiska lagerpositionen"
 type: docs
 weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/
 ---
+{{< psd/tize >}}
 ## LayerState.PositionOffset property
 
-Hämtar eller ställer in lagerpositionsoffset relaterad till den faktiska lagerpositionen.
+Hämtar eller anger lagrets positionsförskjutning i förhållande till den faktiska lagrets position.
 
 ```csharp
 public Point PositionOffset { get; set; }
@@ -18,7 +19,7 @@ public Point PositionOffset { get; set; }
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LayerState](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

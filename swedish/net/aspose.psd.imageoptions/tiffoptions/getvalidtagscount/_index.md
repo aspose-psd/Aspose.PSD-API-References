@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.GetValidTagsCount
-second_title: Aspose.PSD för .NET API-referens
-description: TiffOptions metod. Får antalet giltiga taggar.
+title: "TiffOptions.GetValidTagsCount"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "TiffOptions-metod. Hämtar antalet giltiga taggar"
 type: docs
-weight: 760
+weight: 770
 url: /sv/net/aspose.psd.imageoptions/tiffoptions/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetValidTagsCount method
 
-Får antalet giltiga taggar.
+Hämtar antalet giltiga taggar.
 
 ```csharp
 public static int GetValidTagsCount(TiffDataType[] tags)
@@ -16,17 +17,17 @@ public static int GetValidTagsCount(TiffDataType[] tags)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| tags | TiffDataType[] | Taggarna som ska valideras. |
+| taggar | TiffDataType[] | Taggarna att validera. |
 
 ### Returvärde
 
-De giltiga taggarna räknas.
+Antalet giltiga taggar.
 
 ### Se även
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* namnutrymme [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

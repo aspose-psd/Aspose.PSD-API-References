@@ -1,14 +1,15 @@
 ---
-title: MixrResource.Length
-second_title: Aspose.PSD för .NET API-referens
-description: MixrResource fast egendom. Hämtar lagerresurslängden i byte.
+title: "MixrResource.Length"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "MixrResource egenskap. Hämtar lagerresursens längd i byte"
 type: docs
-weight: 30
+weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/length/
 ---
+{{< psd/tize >}}
 ## MixrResource.Length property
 
-Hämtar lagerresurslängden i byte.
+Hämtar lagerresursens längd i byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Se även
 
 * class [MixrResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

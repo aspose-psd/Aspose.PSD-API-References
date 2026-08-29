@@ -1,14 +1,15 @@
 ---
-title: NvrtResource.TypeToolKey
-second_title: Aspose.PSD för .NET API-referens
-description: NvrtResource fält. Typverktygets infonyckel.
+title: "NvrtResource.TypeToolKey"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "NvrtResource‑fält. Nyckeln för typverktygsinformation"
 type: docs
-weight: 60
+weight: 40
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## NvrtResource.TypeToolKey field
 
-Typverktygets infonyckel.
+Typverktygsinformationsnyckeln.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Se även
 
 * class [NvrtResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

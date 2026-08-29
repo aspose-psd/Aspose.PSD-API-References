@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.EndColor
-second_title: Aspose.PSD för .NET API-referens
-description: LinearGradientBrush fast egendom. Hämtar eller ställer in slutgradientfärgen.
+title: "LinearGradientBrush.EndColor"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "LinearGradientBrush-egenskap. Hämtar eller anger den avslutande gradientfärgen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.EndColor property
 
-Hämtar eller ställer in slutgradientfärgen.
+Hämtar eller anger den avslutande gradientfärgen.
 
 ```csharp
 public Color EndColor { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Slutgradientfärgen.
+Den avslutande gradientfärgen.
 
 ### Se även
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* namnutrymme [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

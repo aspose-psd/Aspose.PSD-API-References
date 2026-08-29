@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesYellowBlueBalance
-second_title: Aspose.PSD för .NET API-referens
-description: BlncResource fast egendom. Får eller ställer in Mellantoner Gul Blå Balans.
+title: "BlncResource.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "BlncResource egenskap. Hämtar eller anger Midtones Yellow Blue Balance"
 type: docs
-weight: 90
+weight: 80
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesYellowBlueBalance property
 
-Får eller ställer in Mellantoner Gul Blå Balans.
+Hämtar eller anger Mellantonernas Gul Blå Balans.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Mellantonerna Gul Blå Balans.
+Den Midtones Yellow Blue Balance.
 
 ### Se även
 
 * class [BlncResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

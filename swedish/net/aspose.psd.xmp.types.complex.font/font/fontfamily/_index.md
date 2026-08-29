@@ -1,27 +1,28 @@
 ---
-title: Font.FontFamily
-second_title: Aspose.PSD för .NET API-referens
-description: Font fast egendom. Hämtar eller ställer in teckensnittsfamiljen.
+title: "Font.FontFamily"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Font-egenskap. Hämtar eller anger teckensnittsfamiljen"
 type: docs
 weight: 40
 url: /sv/net/aspose.psd.xmp.types.complex.font/font/fontfamily/
 ---
+{{< psd/tize >}}
 ## Font.FontFamily property
 
-Hämtar eller ställer in teckensnittsfamiljen.
+Hämtar eller anger teckensnittsfamiljen.
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Teckensnittsfamiljen.
 
 ### Se även
 
 * class [Font](../)
-* namnutrymme [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

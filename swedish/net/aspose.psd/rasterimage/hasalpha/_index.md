@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Får ett värde som indikerar om denna instans har alpha.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage egenskap. Hämtar ett värde som indikerar om detta objekt har alfa"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-Får ett värde som indikerar om denna instans har alpha.
+Hämtar ett värde som indikerar om detta objekt har alfa.
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om denna instans har alfa; annat,`falsk` .
+`true` om detta objekt har alfa; annars `false`.
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

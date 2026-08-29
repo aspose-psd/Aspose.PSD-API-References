@@ -1,11 +1,12 @@
 ---
-title: Image.Size
-second_title: Aspose.PSD för .NET API-referens
-description: Image fast egendom. Hämtar bildstorleken.
+title: "Image.Size"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Image-egenskap. Hämtar bildens storlek"
 type: docs
 weight: 140
 url: /sv/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
 Hämtar bildstorleken.
@@ -14,15 +15,15 @@ Hämtar bildstorleken.
 public Size Size { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-Bildstorleken.
+Bildens storlek.
 
 ### Se även
 
 * struct [Size](../../size/)
 * class [Image](../)
-* namnutrymme [Aspose.PSD](../../image/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

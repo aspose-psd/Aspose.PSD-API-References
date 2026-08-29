@@ -1,30 +1,31 @@
 ---
-title: Enum JustificationMode
-second_title: Aspose.PSD för .NET API-referens
-description: Aspose.PSD.FileFormats.Psd.JustificationMode uppräkning. Textjusteringsläget.
+title: "Enum JustificationMode"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. Textjusteringsläget"
 type: docs
-weight: 1650
+weight: 1690
 url: /sv/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
-Textjusteringsläget.
+Textjusteringsläge.
 
 ```csharp
 public enum JustificationMode
 ```
 
-### Värderingar
+### Värden
 
-| namn | Värde | Beskrivning |
+| Namn | Värde | Beskrivning |
 | --- | --- | --- |
-| Left | `0` | Den vänsterjusterade texten. |
-| Right | `1` | Den högerjusterade texten. |
-| Center | `2` | Mitttexten. |
+| Left | `0` | Den vänstra justeringen av texten. I ett vänster‑till‑höger‑läge är den vänstra positionen Vänster. I ett höger‑till‑vänster‑läge är den vänstra positionen Höger. |
+| Right | `1` | Den högermarginaljusterade texten. I ett vänster-till-höger-läge är den högra positionen Höger. I ett höger-till-vänster-läge är den högra positionen Vänster. |
+| Center | `2` | Den centrerade texten. |
 
-### Exempel
+## Exempel
 
-Följande kod visar stöd för JustificationMode enum för att ställa in textjusteringen för textdelar.
+Följande kod demonstrerar stöd för JustificationMode‑enum för att ställa in textjusteringen för textavsnitt.
 
 ```csharp
 [C#]
@@ -57,7 +58,7 @@ using (var image = (PsdImage) Image.Load(src))
 
 ### Se även
 
-* namnutrymme [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* hopsättning [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

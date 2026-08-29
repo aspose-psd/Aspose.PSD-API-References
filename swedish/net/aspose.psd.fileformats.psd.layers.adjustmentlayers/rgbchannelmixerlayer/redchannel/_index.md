@@ -1,20 +1,21 @@
 ---
-title: RgbChannelMixerLayer.RedChannel
-second_title: Aspose.PSD för .NET API-referens
-description: RgbChannelMixerLayer fast egendom. Får den röda kanalen.
+title: "RgbChannelMixerLayer.RedChannel"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RgbChannelMixerLayer egenskap. Hämtar den röda kanalen"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/redchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.RedChannel property
 
-Får den röda kanalen.
+Hämtar den röda kanalen.
 
 ```csharp
 public RgbMixerChannel RedChannel { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Den röda kanalen.
 
@@ -22,7 +23,7 @@ Den röda kanalen.
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

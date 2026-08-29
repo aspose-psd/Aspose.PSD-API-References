@@ -1,11 +1,12 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD för .NET API-referens
-description: AiImage fast egendom. Hämtar lagersektionerna.
+title: "AiImage.Layers"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "AiImage-egenskap. Hämtar lagersektionerna."
 type: docs
-weight: 90
+weight: 100
 url: /sv/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
 Hämtar lagersektionerna.
@@ -14,7 +15,7 @@ Hämtar lagersektionerna.
 public AiLayerSection[] Layers { get; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Lagersektionerna.
 
@@ -22,7 +23,7 @@ Lagersektionerna.
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* namnutrymme [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

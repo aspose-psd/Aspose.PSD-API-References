@@ -1,11 +1,12 @@
 ---
-title: EvalException.Message
-second_title: Aspose.PSD för .NET API-referens
-description: EvalException fast egendom. Hämtar meddelandet som är kopplat till detta undantag
+title: "EvalException.Message"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "EvalException-egenskap. Hämtar meddelandet som är associerat med detta undantag"
 type: docs
 weight: 10
 url: /sv/net/aspose.psd.evalute/evalexception/message/
 ---
+{{< psd/tize >}}
 ## EvalException.Message property
 
 Hämtar meddelandet som är kopplat till detta undantag
@@ -17,7 +18,7 @@ public override string Message { get; }
 ### Se även
 
 * class [EvalException](../)
-* namnutrymme [Aspose.PSD.Evalute](../../evalexception/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Evalute](../../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../../)
 
 

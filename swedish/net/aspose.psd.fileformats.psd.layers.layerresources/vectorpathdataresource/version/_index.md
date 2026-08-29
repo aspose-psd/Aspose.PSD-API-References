@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.Version
-second_title: Aspose.PSD för .NET API-referens
-description: VectorPathDataResource fast egendom. Hämtar eller ställer in versionen.
+title: "VectorPathDataResource.Version"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "VectorPathDataResource-egenskap. Hämtar eller anger versionen"
 type: docs
-weight: 80
+weight: 60
 url: /sv/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Version property
 
-Hämtar eller ställer in versionen.
+Hämtar eller anger versionen.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
 Versionen.
 
 ### Se även
 
 * class [VectorPathDataResource](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

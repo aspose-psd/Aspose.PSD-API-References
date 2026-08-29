@@ -1,27 +1,28 @@
 ---
-title: RasterImage.PremultiplyComponents
-second_title: Aspose.PSD för .NET API-referens
-description: RasterImage fast egendom. Hämtar eller ställer in ett värde som anger om bildkomponenterna måste förmultipliceras.
+title: "RasterImage.PremultiplyComponents"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "RasterImage‑egenskap. Hämtar eller anger ett värde som indikerar om bildkomponenterna måste förmultipliceras."
 type: docs
 weight: 60
 url: /sv/net/aspose.psd/rasterimage/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## RasterImage.PremultiplyComponents property
 
-Hämtar eller ställer in ett värde som anger om bildkomponenterna måste förmultipliceras.
+Hämtar eller anger ett värde som indikerar om bildkomponenterna måste vara förmultiplicerade.
 
 ```csharp
 public virtual bool PremultiplyComponents { get; set; }
 ```
 
-### Fastighetsvärde
+### Property Value
 
-`Sann` om bildkomponenterna måste förmultipliceras; annat,`falsk` .
+`true` om bildkomponenterna måste förmultipliceras; annars `false`.
 
 ### Se även
 
 * class [RasterImage](../)
-* namnutrymme [Aspose.PSD](../../rasterimage/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

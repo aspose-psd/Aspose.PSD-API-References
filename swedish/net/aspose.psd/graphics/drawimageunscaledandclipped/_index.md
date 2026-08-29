@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: Aspose.PSD för .NET API-referens
-description: Graphics metod. Ritar den angivna bilden utan skalning och klipper den vid behov så att den passar i den angivna rektangeln.
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "Graphics-metod. Ritar den angivna bilden utan skalning och klipper den vid behov för att passa i den angivna rektangeln"
 type: docs
-weight: 240
+weight: 250
 url: /sv/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-Ritar den angivna bilden utan skalning och klipper den vid behov så att den passar i den angivna rektangeln.
+Ritar den specificerade bilden utan skalning och beskär den, om nödvändigt, för att passa i den specificerade rektangeln.
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
@@ -17,20 +18,20 @@ public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
 | sourceImage | Image | Bilden att rita med. |
-| rect | Rectangle | De[`Rectangle`](../../rectangle/) där bilden ska ritas. |
+| rect | Rectangle | Den [`Rectangle`](../../rectangle/) i vilken bilden ska ritas. |
 
 ### Undantag
 
-| undantag | skick |
+| undantag | villkor |
 | --- | --- |
-| ArgumentNullException | *sourceImage* är inget. |
+| ArgumentNullException | *sourceImage* är null. |
 
 ### Se även
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namnutrymme [Aspose.PSD](../../graphics/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

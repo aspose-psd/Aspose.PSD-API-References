@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.Argb32Entries
-second_title: Aspose.PSD för .NET API-referens
-description: ColorPalette fast egendom. Får en array med 32bitars ARGBstrukturer.
+title: "ColorPalette.Argb32Entries"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ColorPalette-egenskap. Hämtar en array av 32‑bit ARGB‑strukturer"
 type: docs
 weight: 30
 url: /sv/net/aspose.psd/colorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Argb32Entries property
 
-Får en array med 32-bitars ARGB-strukturer.
+Hämtar en array av 32‑bit ARGB‑strukturer.
 
 ```csharp
 public int[] Argb32Entries { get; }
@@ -16,16 +17,16 @@ public int[] Argb32Entries { get; }
 
 ### Returvärde
 
-Arrayen med 32-bitars ARGB-struktur som utgör detta[`ColorPalette`](../) .
+Arrayen av 32‑bit ARGB‑strukturer som utgör denna [`ColorPalette`](../).
 
-### Fastighetsvärde
+### Property Value
 
 Posterna.
 
 ### Se även
 
 * class [ColorPalette](../)
-* namnutrymme [Aspose.PSD](../../colorpalette/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

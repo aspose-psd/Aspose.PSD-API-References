@@ -1,14 +1,15 @@
 ---
-title: ChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD för .NET API-referens
-description: ChannelMixerLayer metod. Hämtar index för kanalen genom. Kan returnera RgbMixerChannel eller CmykMixerChannel
+title: "ChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD för .NET API‑referens"
+description: "ChannelMixerLayer-metod. Hämtar kanalens index. Kan returnera RgbMixerChannel eller CmykMixerChannel"
 type: docs
 weight: 20
 url: /sv/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.GetChannelByIndex method
 
-Hämtar index för kanalen genom. Kan returnera RgbMixerChannel eller CmykMixerChannel
+Hämtar kanalens index. Kan returnera RgbMixerChannel eller CmykMixerChannel.
 
 ```csharp
 public abstract MixerChannel GetChannelByIndex(int index)
@@ -26,7 +27,7 @@ public abstract MixerChannel GetChannelByIndex(int index)
 
 * class [MixerChannel](../../mixerchannel/)
 * class [ChannelMixerLayer](../)
-* namnutrymme [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* hopsättning [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 
