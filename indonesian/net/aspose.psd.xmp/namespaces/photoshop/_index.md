@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Photoshop
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama Adobe Photoshop.
+title: "Namespaces.Photoshop"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. namespace Adobe Photoshop"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/namespaces/photoshop/
 ---
+{{< psd/tize >}}
 ## Namespaces.Photoshop field
 
-ruang nama Adobe Photoshop.
+Namespace Adobe Photoshop.
 
 ```csharp
 public const string Photoshop;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

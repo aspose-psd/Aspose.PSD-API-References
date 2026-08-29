@@ -1,26 +1,27 @@
 ---
-title: TextLayer.Resize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextLayer metode. Mengubah ukuran gambar. DefaultLeftTopToLeftTopdigunakan.
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TextLayer. Mengubah ukuran gambar. Nilai default LeftTopToLeftTop digunakan"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-Mengubah ukuran gambar. DefaultLeftTopToLeftTopdigunakan.
+Mengubah ukuran gambar. Default LeftTopToLeftTop digunakan.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
 | newHeight | Int32 | Tinggi baru. |
-| resizeType | ResizeType | Jenis transformasi pengubahan ukuran[`ResizeType`](../../../aspose.psd/resizetype/) |
+| resizeType | ResizeType | Tipe transformasi ubah ukuran [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan fungsi TextLayer.Resize dengan parameter untuk memilih mekanisme pengubahan ukuran.
 
@@ -34,15 +35,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 {
     TextLayer textLayer = (TextLayer)image.Layers[1];
 
-    // Ini menetapkan ukuran baru dari layer teks
+    // Ini mengatur ukuran baru lapisan teks
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // Ini mengatur mekanisme bagaimana fungsi resize akan mengubah ukuran layer (nilai default)
+    // Ini mengatur mekanisme bagaimana fungsi ubah ukuran akan mengubah ukuran lapisan (nilai default)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // Mekanisme baru pengubahan ukuran untuk lapisan teks menggunakan di sini
-    // Tidak hanya layer tetapi juga matriks transformasi dari layer teks akan berubah
+    // Mekanisme baru pengubahan ukuran untuk lapisan teks yang digunakan di sini
+    // Tidak hanya lapisan tetapi juga matriks transformasi dari lapisan teks akan diubah
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -58,7 +59,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
         && txtLayer.TransformMatrix[5] >= 234
         && txtLayer.TransformMatrix[5] <= 237)
     {
-        // Semua baik - baik saja
+        // Semua baik
     }
     else
     {
@@ -67,11 +68,11 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

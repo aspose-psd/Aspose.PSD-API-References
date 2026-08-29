@@ -1,28 +1,29 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapat atau menyetel petunjuk rendering teks.
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur petunjuk rendering teks"
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
-Mendapat atau menyetel petunjuk rendering teks.
+Mendapatkan atau mengatur petunjuk rendering teks.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Petunjuk rendering teks.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

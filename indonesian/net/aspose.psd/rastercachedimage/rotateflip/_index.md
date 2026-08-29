@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Memutar membalik atau memutar dan membalik gambar.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterCachedImage. Memutar, membalik, atau memutar dan membalik gambar"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
 Memutar, membalik, atau memutar dan membalik gambar.
@@ -14,11 +15,11 @@ Memutar, membalik, atau memutar dan membalik gambar.
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Jenis flip putar. |
+| rotateFlipType | RotateFlipType | Tipe rotasi balik. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan cara memutar gambar.
 
@@ -40,11 +41,11 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

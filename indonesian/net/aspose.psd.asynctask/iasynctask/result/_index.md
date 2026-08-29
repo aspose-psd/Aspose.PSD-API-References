@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Result
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IAsyncTask Properti. Mendapat hasil dari tugas ini.
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IAsyncTask. Mendapatkan hasil dari tugas ini"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
-Mendapat hasil dari tugas ini.
+Mendapatkan hasil dari tugas ini.
 
 ```csharp
 public object Result { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Hasil dari tugas ini.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../iasynctask/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

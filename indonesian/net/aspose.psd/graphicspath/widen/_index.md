@@ -1,75 +1,76 @@
 ---
-title: GraphicsPath.Widen
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Menambahkan kerangka tambahan ke jalur.
+title: "GraphicsPath.Widen"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Menambahkan outline tambahan ke jalur."
 type: docs
 weight: 190
 url: /id/net/aspose.psd/graphicspath/widen/
 ---
+{{< psd/tize >}}
 ## Widen(Pen) {#widen}
 
-Menambahkan kerangka tambahan ke jalur.
+Menambahkan kontur tambahan ke jalur.
 
 ```csharp
 public void Widen(Pen pen)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) yang menentukan lebar antara garis besar asli jalur dan garis besar baru yang dibuat metode ini. |
+| pen | Pen | Sebuah [`Pen`](../../pen/) yang menentukan lebar antara outline asli jalur dan outline baru yang dibuat oleh metode ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix) {#widen_1}
 
-Menambahkan kerangka tambahan ke[`GraphicsPath`](../) .
+Menambahkan outline tambahan ke [`GraphicsPath`](../).
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) yang menentukan lebar antara garis besar asli jalur dan garis besar baru yang dibuat metode ini. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) yang menentukan transformasi untuk diterapkan ke jalur sebelum pelebaran. |
+| pen | Pen | Sebuah [`Pen`](../../pen/) yang menentukan lebar antara outline asli jalur dan outline baru yang dibuat oleh metode ini. |
+| matrix | Matrix | Sebuah [`Matrix`](../../matrix/) yang menentukan transformasi yang akan diterapkan ke jalur sebelum diperlebar. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix, float) {#widen_2}
 
-Menggantikan ini[`GraphicsPath`](../) dengan kurva yang melingkupi area yang diisi saat jalur ini digambar dengan pena yang ditentukan.
+Mengganti [`GraphicsPath`](../) ini dengan kurva yang melingkupi area yang terisi ketika jalur ini digambar dengan pena yang ditentukan.
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix, float flatness)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) yang menentukan lebar antara garis besar asli jalur dan garis besar baru yang dibuat metode ini. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) yang menentukan transformasi untuk diterapkan ke jalur sebelum pelebaran. |
-| flatness | Single | Nilai yang menentukan kerataan untuk kurva. |
+| pen | Pen | Sebuah [`Pen`](../../pen/) yang menentukan lebar antara outline asli jalur dan outline baru yang dibuat oleh metode ini. |
+| matrix | Matrix | Sebuah [`Matrix`](../../matrix/) yang menentukan transformasi yang akan diterapkan ke jalur sebelum diperlebar. |
+| kelengkungan | Single | Nilai yang menentukan kelengkungan untuk kurva. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

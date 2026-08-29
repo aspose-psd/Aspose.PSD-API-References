@@ -1,27 +1,28 @@
 ---
-title: Layer.IsVisibleInGroup
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat nilai yang menunjukkan apakah instance ini terlihat dalam grup Jika lapisan tidak ada dalam grup berarti grup root.
+title: "Layer.IsVisibleInGroup"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan nilai yang menunjukkan apakah instance ini terlihat dalam grup. Jika lapisan tidak berada dalam grup, itu berarti grup akar."
 type: docs
-weight: 180
+weight: 190
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisibleInGroup property
 
-Mendapat nilai yang menunjukkan apakah instance ini terlihat dalam grup (Jika lapisan tidak ada dalam grup, berarti grup root).
+Mendapatkan nilai yang menunjukkan apakah instance ini terlihat dalam grup (Jika lapisan tidak berada dalam grup berarti grup akar).
 
 ```csharp
 public virtual bool IsVisibleInGroup { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini terlihat dalam grup; jika tidak,`PALSU` .
+`true` jika instance ini terlihat dalam grup; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiHeader.CreationDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetel tanggal pembuatan.
+title: "AiHeader.CreationDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AiHeader properti. Mendapatkan atau mengatur tanggal pembuatan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.ai/aiheader/creationdate/
 ---
+{{< psd/tize >}}
 ## AiHeader.CreationDate property
 
-Mendapat atau menyetel tanggal pembuatan.
+Mendapatkan atau mengatur tanggal pembuatan.
 
 ```csharp
 public string CreationDate { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tanggal pembuatan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

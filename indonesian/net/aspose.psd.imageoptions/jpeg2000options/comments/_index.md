@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.Comments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Jpeg2000Options Properti. Mendapat atau menyetel penanda komentar Jpeg.
+title: "Jpeg2000Options.Comments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Jpeg2000Options. Mendapatkan atau mengatur penanda komentar Jpeg"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imageoptions/jpeg2000options/comments/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Comments property
 
-Mendapat atau menyetel penanda komentar Jpeg.
+Mendapatkan atau mengatur penanda komentar Jpeg.
 
 ```csharp
 public string[] Comments { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Penanda komentar Jpeg.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Jpeg2000Options](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

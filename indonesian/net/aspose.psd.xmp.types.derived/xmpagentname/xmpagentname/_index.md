@@ -1,27 +1,28 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpAgentName konstruktor. Menginisialisasi instance baru dariXmpAgentName kelas.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpAgentName konstruktor. Menginisialisasi instance baru dari kelas XmpAgentName"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-Menginisialisasi instance baru dari[`XmpAgentName`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpAgentName`](../).
 
 ```csharp
 public XmpAgentName(string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai. |
+| nilai | String | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpAgentName](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifUnit enum. enum unit exif.
+title: "Enum ExifUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifUnit enum. exif satuan enum"
 type: docs
-weight: 960
+weight: 970
 url: /id/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
-enum unit exif.
+enumerasi unit exif.
 
 ```csharp
 public enum ExifUnit
@@ -16,15 +17,15 @@ public enum ExifUnit
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `1` | Unit tidak ditentukan |
+| None | `1` | Satuan tidak terdefinisi |
 | Inch | `2` | Satuan inci |
-| Cm | `3` | Satuan metrik sentimeter |
+| Cm | `3` | Satuan sentimeter metrik |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

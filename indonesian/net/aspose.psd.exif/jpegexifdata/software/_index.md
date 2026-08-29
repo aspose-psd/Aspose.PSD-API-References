@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Software
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapatkan atau menyetel perangkat lunak.
+title: "JpegExifData.Software"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur perangkat lunak"
 type: docs
 weight: 190
 url: /id/net/aspose.psd.exif/jpegexifdata/software/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Software property
 
-Mendapatkan atau menyetel perangkat lunak.
+Mendapatkan atau mengatur perangkat lunak.
 
 ```csharp
 public string Software { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Perangkat lunak.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

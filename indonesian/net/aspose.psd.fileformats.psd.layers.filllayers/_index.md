@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillLayers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace berisi Fill Layers
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillLayers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi Fill Layers."
 type: docs
-weight: 240
+weight: 260
 url: /id/net/aspose.psd.fileformats.psd.layers.filllayers/
 ---
-Namespace berisi Fill Layers
+{{< psd/tize >}}
+Namespace ini berisi Fill Layers.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [FillLayer](./filllayer/) | Isi lapisan. Isi Warna, Isi Gradien atau Lapisan Isi Pola yang berbeda[`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
+| [FillLayer](./filllayer/) | Lapisan isi. Color Fill, Gradient Fill, atau Pattern Fill Layer yang berbeda melalui [`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
 
 

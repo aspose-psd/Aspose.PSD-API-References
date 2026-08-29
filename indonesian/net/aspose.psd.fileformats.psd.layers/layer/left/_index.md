@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau mengatur posisi layer kiri.
+title: "Layer.Left"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur posisi kiri lapisan"
 type: docs
-weight: 240
+weight: 250
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-Mendapat atau mengatur posisi layer kiri.
+Mendapatkan atau mengatur posisi kiri lapisan.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Posisi lapisan kiri.
+Posisi kiri lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

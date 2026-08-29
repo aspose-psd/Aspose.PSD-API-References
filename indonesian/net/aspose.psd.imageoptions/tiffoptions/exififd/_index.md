@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel pointer ke EXIF IFD.
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur penunjuk ke EXIF IFD"
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-Mendapat atau menyetel pointer ke EXIF IFD.
+Mendapatkan atau mengatur penunjuk ke EXIF IFD.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pointer ke EXIF IFD.
+Penunjuk ke EXIF IFD.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

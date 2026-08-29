@@ -1,24 +1,25 @@
 ---
-title: DropShadowEffect.BlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapat atau menyetel mode campuran.
+title: "DropShadowEffect.BlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DropShadowEffect properti. Mendapatkan atau mengatur mode pencampuran"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.BlendMode property
 
-Mendapat atau menyetel mode campuran.
+Mendapatkan atau mengatur mode perpaduan.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode campuran.
+Mode pencampuran.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan penggunaan properti Opacity dari DropShadowEffect.
 
@@ -47,11 +48,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

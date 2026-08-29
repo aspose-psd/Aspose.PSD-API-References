@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis nilai float tunggal ke aliran.
+title: "TiffStreamWriter.WriteFloat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffStreamWriter metode. Menulis satu nilai float ke aliran"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloat method
 
-Menulis nilai float tunggal ke aliran.
+Menulis satu nilai float ke aliran.
 
 ```csharp
 public void WriteFloat(float data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | Single | Nilai untuk menulis. |
+| data | Single | Nilai yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

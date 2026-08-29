@@ -1,31 +1,32 @@
 ---
-title: RasterImage.GetModifyDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mendapatkan tanggal dan waktu gambar sumber daya terakhir diubah.
+title: "RasterImage.GetModifyDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Mengambil tanggal dan waktu gambar sumber terakhir dimodifikasi."
 type: docs
 weight: 310
 url: /id/net/aspose.psd/rasterimage/getmodifydate/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetModifyDate method
 
-Mendapatkan tanggal dan waktu gambar sumber daya terakhir diubah.
+Mendapatkan tanggal dan waktu gambar sumber terakhir dimodifikasi.
 
 ```csharp
 public virtual DateTime GetModifyDate(bool useDefault)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| useDefault | Boolean | jika diatur ke`BENAR` menggunakan informasi dari FileInfo sebagai nilai default. |
+| useDefault | Boolean | Jika disetel ke `true` menggunakan informasi dari FileInfo sebagai nilai default. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Tanggal dan waktu gambar sumber daya terakhir diubah.
+Tanggal dan waktu gambar sumber terakhir dimodifikasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiImage.RotateFlip
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage metode. Memutar membalik atau memutar dan membalik gambar.
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AiImage. Memutar, membalik, atau memutar dan membalik gambar"
 type: docs
-weight: 160
+weight: 190
 url: /id/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
 Memutar, membalik, atau memutar dan membalik gambar.
@@ -14,9 +15,9 @@ Memutar, membalik, atau memutar dan membalik gambar.
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Jenis flip putar. |
+| rotateFlipType | RotateFlipType | Jenis rotasi flip. |
 
 ### Pengecualian
 
@@ -24,11 +25,11 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 | --- | --- |
 | NotImplementedException | Tidak Diimplementasikan |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

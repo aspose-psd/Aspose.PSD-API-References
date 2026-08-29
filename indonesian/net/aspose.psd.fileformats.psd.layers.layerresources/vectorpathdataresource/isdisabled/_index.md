@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsDisabled
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathDataResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dinonaktifkan.
+title: "VectorPathDataResource.IsDisabled"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorPathDataResource properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dinonaktifkan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsDisabled property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dinonaktifkan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dinonaktifkan.
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini dinonaktifkan; jika tidak,`PALSU` .
+`true` jika instance ini dinonaktifkan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathDataResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

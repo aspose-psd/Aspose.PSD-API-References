@@ -1,23 +1,24 @@
 ---
-title: LayerMaskDataShort.LayerMaskDataShort
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataShort konstruktor. Konstruktor default.
+title: "LayerMaskDataShort.LayerMaskDataShort"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LayerMaskDataShort. Menginisialisasi instance baru dari kelas LayerMaskDataShort"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashort/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort constructor
 
-Konstruktor default.
+Menginisialisasi instance baru dari kelas [`LayerMaskDataShort`](../).
 
 ```csharp
 public LayerMaskDataShort()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskDataShort](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

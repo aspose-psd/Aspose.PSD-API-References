@@ -1,27 +1,28 @@
 ---
-title: OSTypeStructure.GetHeaderLength
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OSTypeStructure metode. Mendapatkan panjang tajuk.
+title: "OSTypeStructure.GetHeaderLength"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "OSTypeStructure metode. Mendapatkan panjang header"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.GetHeaderLength method
 
-Mendapatkan panjang tajuk.
+Mendapatkan panjang header.
 
 ```csharp
 public virtual int GetHeaderLength()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Panjang tajuk
+Panjang header
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

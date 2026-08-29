@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskData Properti. Mendapat atau menyetel topengRectangledari layer mask di file PSD. Dibutuhkan properti kiri kanan atas dan bawah dan membuatRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskData. Mendapatkan atau mengatur Rectangle masker dari masker lapisan dalam file PSD. Ia mengambil properti left, right, top, dan bottom dan membuat Rectangle"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-Mendapat atau menyetel topeng[`Rectangle`](../../../aspose.psd/rectangle/)dari layer mask di file PSD. Dibutuhkan properti kiri, kanan, atas dan bawah dan membuat[`Rectangle`](../../../aspose.psd/rectangle/)
+Mendapatkan atau mengatur mask [`Rectangle`](../../../aspose.psd/rectangle/) dari masker lapisan dalam file PSD. Ia mengambil properti left, right, top, dan bottom dan membuat [`Rectangle`](../../../aspose.psd/rectangle/)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kotak topeng.
+Rectangle masker.
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan cara mendapatkan, memperbarui, menghapus, dan menambahkan layer mask raster di file Adobe® Photoshop® secara terprogram.
+Contoh ini menunjukkan cara mendapatkan, memperbarui, menghapus, dan menambahkan masker lapisan raster dalam file Adobe® Photoshop® secara programatis.
 
 ```csharp
 [C#]
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// Mendapatkan topeng raster dari lapisan gambar PSD dan menyimpannya ke file
+// Mendapatkan masker raster dari lapisan gambar PSD dan menyimpannya ke file
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Menambahkan topeng raster dari file ke lapisan dan menyimpannya dalam format gambar PSD
+// Menambahkan masker raster dari file ke lapisan dan menyimpannya sebagai gambar format PSD
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,24 +101,24 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // Menambahkan LayerMaskData saja tidak cukup untuk penyimpanan yang benar karena saluran tidak diperbarui;
-    // lapisan.LayerMaskData = topeng; // Ini tidak menambahkan saluran topeng
+    // Hanya menambahkan LayerMaskData tidak cukup untuk penyimpanan yang benar karena saluran tidak diperbarui;
+    // layer.LayerMaskData = mask; // Ini tidak menambahkan saluran masker
 
-    // Tambahkan (atau perbarui) topeng
-    layer.AddLayerMask(maskData); // Tapi ini menambah / memperbarui topeng dan saluran!
+    // Tambah (atau perbarui) masker
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// Contoh ini menunjukkan cara mendapatkan, memperbarui, menghapus, dan menambahkan layer mask raster di file Adobe® Photoshop® secara terprogram.
+// Contoh ini menunjukkan cara mendapatkan, memperbarui, menghapus, dan menambahkan masker lapisan raster dalam file Adobe® Photoshop® secara programatis.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // Dapatkan topeng raster dari lapisan dan simpan ke file
+    // Dapatkan masker raster dari lapisan dan simpan ke file
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // Ubah layer mask (balikkan) dan simpan gambar
+    // Ubah masker lapisan (invert) dan simpan gambar
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,33 +126,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Hanya mengubah LayerMaskData sudah cukup untuk mempengaruhi rendering
+    // Hanya mengubah LayerMaskData sudah cukup untuk memengaruhi rendering
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Tapi mengubah LayerMaskData saja tidak cukup untuk penyimpanan yang benar karena saluran tidak diperbarui;
-    layer.LayerMaskData = mask; // Ini juga tidak berhasil
-    layer.AddLayerMask(mask); // Tapi ini memperbarui topeng dan saluran!
+    // Namun hanya mengubah LayerMaskData tidak cukup untuk penyimpanan yang benar karena saluran tidak diperbarui;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // Hapus topeng raster dari lapisan dan simpan gambar
-    layer.LayerMaskData = null; // Menghapus LayerMaskData saja sudah cukup untuk mempengaruhi rendering tetapi tidak untuk menyimpan ke format PSD
+    // Hapus masker raster dari lapisan dan simpan gambar
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // Tapi ini menghilangkan topeng dan saluran topeng!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // Tambahkan topeng raster dari file ke lapisan dan simpan gambar
+    // Tambahkan masker raster dari file ke lapisan dan simpan gambar
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

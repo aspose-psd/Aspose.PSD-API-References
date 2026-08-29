@@ -1,11 +1,12 @@
 ---
-title: Enum ThumbnailFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat enum. Menentukan format data thumbnail.
+title: "Enum ThumbnailFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat enum. Menentukan format data thumbnail."
 type: docs
-weight: 3900
+weight: 4370
 url: /id/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
+{{< psd/tize >}}
 ## ThumbnailFormat enumeration
 
 Menentukan format data thumbnail.
@@ -16,14 +17,14 @@ public enum ThumbnailFormat
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | KRawRgb | `0` | Format RGB mentah. |
 | KJpegRgb | `1` | Format Jpeg terkompresi. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

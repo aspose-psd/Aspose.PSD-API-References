@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.Insert
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList metode. Menyisipkan item keIList pada indeks yang ditentukan.
+title: "NonGenericList.Insert"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode NonGenericList. Menyisipkan sebuah item ke IList pada indeks yang ditentukan"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/nongenericlist/insert/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Insert method
 
-Menyisipkan item keIList pada indeks yang ditentukan.
+Menyisipkan sebuah item ke IList pada indeks yang ditentukan.
 
 ```csharp
 public void Insert(int index, object value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| index | Int32 | Indeks berbasis nol di mana*value* harus dimasukkan. |
-| value | Object | ItuObject untuk memasukkan ke dalamIList. |
+| index | Int32 | Indeks berbasis nol di mana *value* harus disisipkan. |
+| nilai | Object | Objek yang akan disisipkan ke IList. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

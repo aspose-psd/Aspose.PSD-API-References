@@ -1,28 +1,29 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Menetapkan folder tempat font TrueType dimuat dan menghapus semua font yang dimuat. Tidak ada pemeriksaan yang dilakukan pada folder font.
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Menetapkan folder tempat font TrueType dimuat dan menghapus semua font yang dimuat. Tidak ada pemeriksaan yang dilakukan pada folder font"
 type: docs
-weight: 130
+weight: 150
 url: /id/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-Menetapkan folder tempat font TrueType dimuat dan menghapus semua font yang dimuat. Tidak ada pemeriksaan yang dilakukan pada folder font.
+Mengatur folder tempat font TrueType dimuat dan menghapus semua font yang dimuat. Tidak ada pemeriksaan yang dilakukan pada folder font.
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fontsFolders | String[] | Folder font. |
-| recursive | Boolean | jika diatur ke`BENAR` [rekursif]. |
+| recursive | Boolean | jika diatur ke `true` [recursive]. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

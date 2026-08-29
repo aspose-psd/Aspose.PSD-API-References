@@ -1,27 +1,28 @@
 ---
-title: BritResource.Brightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource Properti. Mendapat atau mengatur kecerahan.
+title: "BritResource.Brightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BritResource. Mengambil atau mengatur kecerahan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness/
 ---
+{{< psd/tize >}}
 ## BritResource.Brightness property
 
-Mendapat atau mengatur kecerahan.
+Mendapatkan atau mengatur kecerahan.
 
 ```csharp
 public short Brightness { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kecerahan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

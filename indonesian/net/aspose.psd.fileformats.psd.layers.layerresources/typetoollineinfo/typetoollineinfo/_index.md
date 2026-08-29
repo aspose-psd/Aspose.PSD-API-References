@@ -1,11 +1,12 @@
 ---
-title: TypeToolLineInfo.TypeToolLineInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolLineInfo konstruktor. Konstruktor default.
+title: "TypeToolLineInfo.TypeToolLineInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TypeToolLineInfo. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public TypeToolLineInfo()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolLineInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

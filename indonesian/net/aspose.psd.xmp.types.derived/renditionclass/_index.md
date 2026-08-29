@@ -1,11 +1,12 @@
 ---
-title: Class RenditionClass
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Derived.RenditionClass kelas. Mewakili XMP Rendition.
+title: "Kelas RenditionClass"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.Derived.RenditionClass class. Mewakili Rendisi XMP"
 type: docs
-weight: 6130
+weight: 6630
 url: /id/net/aspose.psd.xmp.types.derived/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass class
 
 Mewakili XMP Rendition.
@@ -16,29 +17,29 @@ public sealed class RenditionClass : XmpTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [RenditionClass](renditionclass/#constructor)() | Menginisialisasi instance baru dari`RenditionClass` kelas. |
-| [RenditionClass](renditionclass/#constructor_1)(string, string) | Menginisialisasi instance baru dari`RenditionClass` kelas. |
+| [RenditionClass](renditionclass/#constructor)() | Menginisialisasi instance baru dari kelas `RenditionClass`. |
+| [RenditionClass](renditionclass/#constructor_1)(string, string) | Menginisialisasi instance baru dari kelas `RenditionClass`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | Mendapat atau menyetel token. |
-| [Value](../../aspose.psd.xmp.types.derived/renditionclass/value/) { get; set; } | Mendapat atau menetapkan nilai. |
-| static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues/) { get; } | Nilai yang ditentukan |
+| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | Mendapatkan atau mengatur token. |
+| [Value](../../aspose.psd.xmp.types.derived/renditionclass/value/) { get; set; } | Mendapatkan atau mengatur nilai. |
+| static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues/) { get; } | Nilai yang didefinisikan |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Point.Ceiling
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Mengonversi yang ditentukanPointF ke aPoint dengan membulatkan nilai dariPointF ke nilai integer berikutnya yang lebih tinggi.
+title: "Point.Ceiling"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Point method. Mengonversi PointF yang ditentukan menjadi Point dengan membulatkan nilai-nilai PointF ke nilai integer berikutnya yang lebih tinggi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/point/ceiling/
 ---
+{{< psd/tize >}}
 ## Point.Ceiling method
 
-Mengonversi yang ditentukan[`PointF`](../../pointf/) ke a[`Point`](../) dengan membulatkan nilai dari[`PointF`](../../pointf/) ke nilai integer berikutnya yang lebih tinggi.
+Mengonversi [`PointF`](../../pointf/) yang ditentukan ke [`Point`](../) dengan membulatkan nilai-nilai [`PointF`](../../pointf/) ke nilai integer berikutnya yang lebih tinggi.
 
 ```csharp
 public static Point Ceiling(PointF point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../../pointf/) untuk mengubah. |
+| point | PointF | [`PointF`](../../pointf/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Point`](../) metode ini mengkonversi ke.
+[`Point`](../) yang dikonversi oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

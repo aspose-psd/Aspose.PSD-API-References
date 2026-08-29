@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ComplexTypeBase metode. Mendapat string berisi nilai dalam format XMP.
+title: "ComplexTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ComplexTypeBase. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ComplexTypeBase](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

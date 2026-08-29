@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.ClearAttributes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpElementBase metode. Menghapus semua atribut.
+title: "XmpElementBase.ClearAttributes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpElementBase. Menghapus semua atribut"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/xmpelementbase/clearattributes/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.ClearAttributes method
 
 Menghapus semua atribut.
@@ -14,10 +15,10 @@ Menghapus semua atribut.
 public virtual void ClearAttributes()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpElementBase](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpelementbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

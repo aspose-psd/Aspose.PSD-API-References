@@ -1,36 +1,37 @@
 ---
-title: Hue2Resource.Hue2Resource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Hue2Resource konstruktor. Menginisialisasi instance baru dariHue2Resource kelas.
+title: "Hue2Resource.Hue2Resource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Hue2Resource. Menginisialisasi sebuah instance baru dari kelas Hue2Resource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue2resource/
 ---
+{{< psd/tize >}}
 ## Hue2Resource() {#constructor}
 
-Menginisialisasi instance baru dari[`Hue2Resource`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Hue2Resource`](../).
 
 ```csharp
 public Hue2Resource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Hue2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Hue2Resource(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Hue2Resource`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Hue2Resource`](../).
 
 ```csharp
 public Hue2Resource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -38,12 +39,12 @@ public Hue2Resource(byte[] data)
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Data Sumber Daya Hue2 tidak valid |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Data Hue2 Resource tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Hue2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

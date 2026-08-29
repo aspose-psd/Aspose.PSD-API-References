@@ -1,27 +1,28 @@
 ---
-title: StreamSource.Stream
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamSource Properti. Mendapat streaming.
+title: "StreamSource.Stream"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StreamSource. Mendapatkan aliran"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
-Mendapat streaming.
+Mendapatkan aliran.
 
 ```csharp
 public Stream Stream { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Aliran sumber.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamSource](../)
-* ruang nama [Aspose.PSD.Sources](../../streamsource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

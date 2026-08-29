@@ -1,33 +1,34 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SoLdResource konstruktor. Menginisialisasi instance baru dariSoLdResource class. Diperlukan untuk menyetel properti Items atau memanggil InitializeItems untuk mendapatkan instance yang siap pakai. Konstruktor ini dirancang untuk digunakan olehSmartResourceCreator dan dalam pengujian unit. GunakanSmartResourceCreator untuk membuat kelas SoLdResource.
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor SoLdResource. Menginisialisasi sebuah instance baru dari kelas SoLdResource. Diperlukan untuk mengatur properti Items atau memanggil InitializeItems untuk mendapatkan instance yang siap. Konstruktor ini dirancang untuk digunakan oleh SmartResourceCreator dan dalam pengujian unit. Gunakan SmartResourceCreator untuk membuat kelas SoLdResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`SoLdResource`](../) class. Diperlukan untuk menyetel properti Items atau memanggil InitializeItems() untuk mendapatkan instance yang siap pakai. Konstruktor ini dirancang untuk digunakan oleh[`SmartResourceCreator`](../../smartresourcecreator/) dan dalam pengujian unit. Gunakan[`SmartResourceCreator`](../../smartresourcecreator/) untuk membuat kelas SoLdResource.
+Menginisialisasi sebuah instance baru dari kelas [`SoLdResource`](../). Diperlukan untuk mengatur properti Items atau memanggil InitializeItems() untuk mendapatkan instance yang siap. Konstruktor ini dirancang untuk digunakan oleh [`SmartResourceCreator`](../../smartresourcecreator/) dan dalam pengujian unit. Gunakan [`SmartResourceCreator`](../../smartresourcecreator/) untuk membuat kelas SoLdResource.
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| uniqueId | Guid | Pengidentifikasi unik dari data lapisan objek pintar[`SoLdResource`](../). |
-| isCustom | Boolean | jika diatur ke`BENAR` [adalah kebiasaan]. |
-| hasCompInfo | Boolean | jika diatur ke`BENAR` [memiliki informasi comp]. |
+| uniqueId | Guid | Pengidentifikasi unik dari data lapisan objek pintar [`SoLdResource`](../). |
+| isCustom | Boolean | jika disetel ke `true` [adalah kustom]. |
+| hasCompInfo | Boolean | jika disetel ke `true` [memiliki informasi komposisi]. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya SoLdResource.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan cara mendapatkan atau menyetel properti data lapisan objek pintar dari file PSD.
+// Contoh ini menunjukkan cara mendapatkan atau mengatur properti data lapisan objek pintar dari file PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Nilai ini juga harus diubah di PlLdResource (dengan UniqueId yang ditentukan).
-                // dan beberapa di antaranya harus sesuai dengan objek pintar yang digarisbawahi di LinkDataSource
+                // Nilai ini juga harus diubah dalam PlLdResource (dengan UniqueId yang ditentukan).
+                // dan beberapa di antaranya harus sesuai dengan objek pintar yang mendasari dalam LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,18 +308,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Id unik ini harus diubah dalam referensi jika ada
+                // Unique Id ini harus diubah dalam referensi jika ada.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -331,26 +332,26 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SoLdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-Menginisialisasi instance baru dari[`SoLdResource`](../) class. Konstruktor default ini dirancang untuk digunakan olehSoLdResourceLoader . Gunakan[`SmartResourceCreator`](../../smartresourcecreator/) untuk membuat kelas SoLdResource.
+Menginisialisasi sebuah instance baru dari kelas [`SoLdResource`](../). Konstruktor default ini dirancang untuk digunakan oleh SoLdResourceLoader. Gunakan [`SmartResourceCreator`](../../smartresourcecreator/) untuk membuat kelas SoLdResource.
 
 ```csharp
 public SoLdResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SoLdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

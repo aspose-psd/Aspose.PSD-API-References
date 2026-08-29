@@ -1,27 +1,28 @@
 ---
-title: Layer.BitsPerPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat bit gambar per jumlah piksel.
+title: "Layer.BitsPerPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mengambil jumlah bit per piksel gambar"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Layer.BitsPerPixel property
 
-Mendapat bit gambar per jumlah piksel.
+Mendapatkan jumlah bit per piksel gambar.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah bit per piksel gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

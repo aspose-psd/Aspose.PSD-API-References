@@ -1,26 +1,27 @@
 ---
-title: StrokeEffect.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StrokeEffect Properti. Mendapat atau mengatur lebar efek stroke.
+title: "StrokeEffect.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StrokeEffect property. Mendapatkan atau mengatur lebar efek stroke"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Size property
 
-Mendapat atau mengatur lebar efek stroke.
+Mendapatkan atau mengatur lebar efek goresan.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lebar efek coretan.
+Lebar efek stroke.
 
-### Contoh
+## Contoh
 
-Contoh ini mendemonstrasikan kemampuan untuk menambahkan efek goresan dengan berbagai jenis isian seperti Warna, Gradien, atau Pola.
+Contoh ini menunjukkan kemampuan menambahkan efek goresan dengan berbagai jenis isi seperti Warna, Gradien, atau Pola.
 
 ```csharp
 [C#]
@@ -32,28 +33,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Menambahkan isian Warna, pada posisi Di dalam
+    // 1. Menambahkan isi Warna, pada posisi Dalam
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Menambahkan isian Warna, pada posisi Luar
+    // 2. Menambahkan isi Warna, pada posisi Luar
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Menambahkan isian Warna, di posisi Tengah
+    // 3. Menambahkan isi Warna, pada posisi Tengah
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Menambahkan Gradient fill, pada posisi Inside
+    // 4. Menambahkan isi Gradien, pada posisi Dalam
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -61,7 +62,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Menambahkan pengisian Gradien, pada posisi Luar
+    // 5. Menambahkan isi Gradien, pada posisi Luar
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -69,7 +70,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Menambahkan pengisian Gradien, di posisi Tengah
+    // 6. Menambahkan isi Gradien, pada posisi Tengah
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -77,21 +78,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Menambahkan isian Pola, pada posisi Di dalam
+    // 7. Menambahkan isi Pola, pada posisi Dalam
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Menambahkan isian Pola, pada posisi Luar
+    // 8. Menambahkan isi Pola, pada posisi Luar
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Menambahkan isian Pola, di posisi Tengah
+    // 9. Menambahkan isi Pola, pada posisi Tengah
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -102,10 +103,10 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [StrokeEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

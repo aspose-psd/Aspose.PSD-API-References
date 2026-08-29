@@ -1,28 +1,29 @@
 ---
-title: BmpOptions.Compression
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BmpOptions Properti. Mendapat atau menyetel kompresi.
+title: "BmpOptions.Compression"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BmpOptions. Mendapatkan atau mengatur kompresi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imageoptions/bmpoptions/compression/
 ---
+{{< psd/tize >}}
 ## BmpOptions.Compression property
 
-Mendapat atau menyetel kompresi.
+Mendapatkan atau mengatur kompresi.
 
 ```csharp
 public BitmapCompression Compression { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kompresi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BitmapCompression](../../../aspose.psd.fileformats.bmp/bitmapcompression/)
 * class [BmpOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

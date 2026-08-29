@@ -1,14 +1,15 @@
 ---
-title: Enum PenType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.PenType enum. Menentukan jenis isian aPen objek digunakan untuk mengisi garis.
+title: "Enum PenType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.PenType. Menentukan jenis isian yang digunakan objek Pen untuk mengisi garis."
 type: docs
-weight: 5220
+weight: 5710
 url: /id/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-Menentukan jenis isian a[`Pen`](../pen/) objek digunakan untuk mengisi garis.
+Menentukan jenis isian yang digunakan objek [`Pen`](../pen/) untuk mengisi garis.
 
 ```csharp
 public enum PenType
@@ -16,17 +17,17 @@ public enum PenType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | SolidColor | `0` | Menentukan isian padat. |
-| HatchFill | `1` | Menentukan isi penetasan. |
+| HatchFill | `1` | Menentukan isian pola garis. |
 | TextureFill | `2` | Menentukan isian tekstur bitmap. |
 | PathGradient | `3` | Menentukan isian gradien jalur. |
-| LinearGradient | `4` | Menentukan isian gradien linier. |
+| LinearGradient | `4` | Menentukan isian gradien linear. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

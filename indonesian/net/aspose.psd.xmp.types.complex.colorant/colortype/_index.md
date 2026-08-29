@@ -1,14 +1,15 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType enum. Jenis warna.
+title: "Enum ColorType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType. Tipe warna."
 type: docs
-weight: 6000
+weight: 6500
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
-Jenis warna.
+Tipe warna.
 
 ```csharp
 public enum ColorType
@@ -16,14 +17,14 @@ public enum ColorType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Process | `1` | Jenis warna proses. |
-| Spot | `2` | Jenis warna titik. |
+| Process | `1` | Tipe warna proses. |
+| Spot | `2` | Tipe warna spot. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

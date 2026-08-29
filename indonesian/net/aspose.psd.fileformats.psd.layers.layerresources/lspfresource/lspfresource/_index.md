@@ -1,20 +1,21 @@
 ---
-title: LspfResource.LspfResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LspfResource konstruktor. Menginisialisasi instance baru dariLspfResource class. Dengan nilai khusus atau tidak diketahui
+title: "LspfResource.LspfResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LspfResource. Menginisialisasi instance baru dari kelas LspfResource. Dengan nilai khusus atau tidak dikenal"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`LspfResource`](../) class. Dengan nilai khusus atau tidak diketahui
+Menginisialisasi instance baru dari kelas [`LspfResource`](../). Dengan nilai khusus atau tidak dikenal
 
 ```csharp
 public LspfResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -22,51 +23,51 @@ public LspfResource(byte[] data)
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang data Sumber Daya Lspf tidak valid |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang data Lspf Resource tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`LspfResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LspfResource`](../).
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
     bool isPositionProtected)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | jika diatur ke`BENAR` [transparansi dilindungi]. |
-| isCompositeProtected | Boolean | jika diatur ke`BENAR` [dilindungi komposit]. |
-| isPositionProtected | Boolean | jika diatur ke`BENAR` [posisi dilindungi]. |
+| isTransparencyProtected | Boolean | jika disetel ke `true` [dilindungi transparansi]. |
+| isCompositeProtected | Boolean | jika disetel ke `true` [dilindungi komposit]. |
+| isPositionProtected | Boolean | jika disetel ke `true` [dilindungi posisi]. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-Menginisialisasi instance baru dari[`LspfResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LspfResource`](../).
 
 ```csharp
 public LspfResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

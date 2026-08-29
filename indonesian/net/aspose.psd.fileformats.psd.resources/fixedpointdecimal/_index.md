@@ -1,14 +1,15 @@
 ---
-title: Class FixedPointDecimal
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal kelas. Desimal titik tetap dengan bilangan bulat 16bit dan pecahan 16bit.
+title: "Kelas FixedPointDecimal"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal. Fixedpoint desimal dengan integer 16-bit dan fraksi 16-bit"
 type: docs
-weight: 3700
+weight: 4170
 url: /id/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-Desimal titik tetap, dengan bilangan bulat 16-bit dan pecahan 16-bit.
+Desimal titik tetap, dengan integer 16-bit dan fraksi 16-bit.
 
 ```csharp
 public class FixedPointDecimal
@@ -16,28 +17,28 @@ public class FixedPointDecimal
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Menginisialisasi instance baru dari`FixedPointDecimal` kelas. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Menginisialisasi instance baru dari`FixedPointDecimal` kelas. Pisahkan kata tinggi dan rendah dari bilangan bulat 32-bit menjadi angka titik tetap. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Menginisialisasi instance baru dari`FixedPointDecimal` kelas. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Menginisialisasi sebuah instance baru dari kelas `FixedPointDecimal`. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Menginisialisasi sebuah instance baru dari kelas `FixedPointDecimal`. Membagi kata tinggi dan rendah dari integer 32-bit menjadi angka titik tetap. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Menginisialisasi sebuah instance baru dari kelas `FixedPointDecimal`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Mendapat atau mengatur pecahan. |
-| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Mendapat atau menetapkan bilangan bulat. |
+| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Mendapatkan atau mengatur pecahan. |
+| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Mendapatkan atau mengatur bilangan bulat. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Mengonversi desimal titik tetap saat ini menjadi dua kali lipat. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Mengonversi desimal titik tetap saat ini ke double. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

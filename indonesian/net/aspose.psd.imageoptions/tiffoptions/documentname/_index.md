@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.DocumentName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menetapkan nama dokumen.
+title: "TiffOptions.DocumentName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nama dokumen"
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.psd.imageoptions/tiffoptions/documentname/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DocumentName property
 
-Mendapat atau menetapkan nama dokumen.
+Mendapatkan atau mengatur nama dokumen.
 
 ```csharp
 public string DocumentName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama dokumen.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

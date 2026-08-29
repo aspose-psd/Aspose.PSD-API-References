@@ -1,31 +1,32 @@
 ---
-title: TiffRational.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffRational metode. Menentukan apakah yang ditentukanObject sama dengan instance ini.
+title: "TiffRational.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffRational. Menentukan apakah Object yang ditentukan sama dengan instance ini"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.tiff/tiffrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffRational.Equals method
 
-Menentukan apakah yang ditentukanObject sama dengan instance ini.
+Menentukan apakah Objek yang ditentukan sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

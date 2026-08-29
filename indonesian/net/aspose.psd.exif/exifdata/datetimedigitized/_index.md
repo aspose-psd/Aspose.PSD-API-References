@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel waktu tanggal dalam bentuk digital.
+title: "ExifData.DateTimeDigitized"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur tanggal dan waktu yang didigitalkan"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-Mendapatkan atau menyetel waktu tanggal dalam bentuk digital.
+Mendapatkan atau mengatur tanggal dan waktu digitalisasi.
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Waktu tanggal didigitalkan.
+Tanggal dan waktu digitalisasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

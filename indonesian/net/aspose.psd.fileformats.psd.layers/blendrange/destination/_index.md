@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Destination
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendRange Properti. Mendapat atau menetapkan rentang campuran tujuan.
+title: "BlendRange.Destination"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlendRange. Mendapatkan atau mengatur rentang pencampuran tujuan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
-Mendapat atau menetapkan rentang campuran tujuan.
+Mendapatkan atau mengatur rentang pencampuran tujuan.
 
 ```csharp
 public int Destination { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Rentang campuran tujuan.
+Rentang pencampuran tujuan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlendRange](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Equality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF metode. Membandingkan duaPointF struktur. Hasilnya menentukan apakah nilainilai dariX DanY sifat keduanyaPointF strukturnya sama.
+title: "PointF.op_Equality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointF. Membandingkan dua struktur PointF. Hasilnya menentukan apakah nilai properti X dan Y dari kedua struktur PointF tersebut sama."
 type: docs
 weight: 120
 url: /id/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-Membandingkan dua[`PointF`](../) struktur. Hasilnya menentukan apakah nilai-nilai dari[`X`](../x/) Dan[`Y`](../y/) sifat keduanya[`PointF`](../) strukturnya sama.
+Membandingkan dua struktur [`PointF`](../). Hasilnya menentukan apakah nilai properti [`X`](../x/) dan [`Y`](../y/) dari kedua struktur [`PointF`](../) tersebut sama.
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point1 | PointF | Yang pertama[`PointF`](../) untuk membandingkan. |
-| point2 | PointF | Sebentar[`PointF`](../) untuk membandingkan. |
+| point1 | PointF | Sebuah [`PointF`](../) pertama untuk dibandingkan. |
+| point2 | PointF | Sebuah [`PointF`](../) kedua untuk dibandingkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika[`X`](../x/) Dan[`Y`](../y/) nilai pertama dan kedua[`PointF`](../) strukturnya sama; jika tidak, salah.
+Benar jika nilai [`X`](../x/) dan [`Y`](../y/) dari struktur [`PointF`](../) pertama dan kedua sama; jika tidak, salah.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

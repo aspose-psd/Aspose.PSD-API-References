@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.IsWritable
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpTrailerPi Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dapat ditulis.
+title: "XmpTrailerPi.IsWritable"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpTrailerPi. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dapat ditulis"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.IsWritable property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dapat ditulis.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dapat ditulis.
 
 ```csharp
 public bool IsWritable { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini dapat ditulisi; jika tidak,`PALSU` .
+`true` jika instance ini dapat ditulis; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTrailerPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

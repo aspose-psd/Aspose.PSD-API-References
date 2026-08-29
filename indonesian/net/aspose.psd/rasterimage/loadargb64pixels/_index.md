@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Memuat piksel ARGB 64bit.
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Memuat piksel ARGB 64-bit"
 type: docs
 weight: 360
 url: /id/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
 Memuat piksel ARGB 64-bit.
@@ -14,19 +15,19 @@ Memuat piksel ARGB 64-bit.
 public long[] LoadArgb64Pixels(Rectangle rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk memuat piksel. |
+| persegi panjang | Rectangle | Persegi panjang untuk memuat piksel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Array piksel ARGB 64-bit yang dimuat.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

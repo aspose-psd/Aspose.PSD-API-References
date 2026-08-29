@@ -1,27 +1,28 @@
 ---
-title: ExifData.ExifVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel versi EXIF.
+title: "ExifData.ExifVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur versi EXIF"
 type: docs
 weight: 180
 url: /id/net/aspose.psd.exif/exifdata/exifversion/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifVersion property
 
-Mendapat atau menyetel versi EXIF.
+Mendapatkan atau mengatur versi EXIF.
 
 ```csharp
 public byte[] ExifVersion { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi EXIF.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

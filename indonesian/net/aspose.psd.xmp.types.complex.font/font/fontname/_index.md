@@ -1,27 +1,28 @@
 ---
-title: Font.FontName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat atau menyetel nama font PostScript.
+title: "Font.FontName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Font properti. Mendapatkan atau mengatur nama font PostScript"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.types.complex.font/font/fontname/
 ---
+{{< psd/tize >}}
 ## Font.FontName property
 
-Mendapat atau menyetel nama font PostScript.
+Mendapatkan atau mengatur nama font PostScript.
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nama dari nama font PostScript.
+Nama font PostScript.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

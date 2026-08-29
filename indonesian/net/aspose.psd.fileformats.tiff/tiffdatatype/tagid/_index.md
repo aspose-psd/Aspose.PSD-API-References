@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.TagId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType Properti. Mendapatkan id tag.
+title: "TiffDataType.TagId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffDataType property. Mendapatkan id tag"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
 Mendapatkan id tag.
@@ -14,15 +15,15 @@ Mendapatkan id tag.
 public TiffTags TagId { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tag id.
+Id tag.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

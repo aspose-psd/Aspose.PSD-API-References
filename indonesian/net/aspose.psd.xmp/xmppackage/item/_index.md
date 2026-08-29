@@ -1,35 +1,36 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage Properti. Mendapat atau menyetelObject dengan kunci yang ditentukan.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPackage. Mendapatkan atau mengatur Object dengan kunci yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-Mendapat atau menyetelObject dengan kunci yang ditentukan.
+Mendapatkan atau mengatur Objek dengan kunci yang ditentukan.
 
 ```csharp
 public virtual object this[string key] { get; set; }
 ```
 
-| Parameter | Keterangan |
+| Parameter | Deskripsi |
 | --- | --- |
-| key | Kunci yang mengidentifikasi nilai. |
+| kunci | Kunci yang mengidentifikasi nilai. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-MengembalikanObject dengan kunci yang ditentukan.
+Mengembalikan Object dengan kunci yang ditentukan.
 
-### Nilai properti
+### Property Value
 
-ItuObject .
+Object.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

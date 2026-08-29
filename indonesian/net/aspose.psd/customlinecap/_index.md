@@ -1,14 +1,15 @@
 ---
-title: Class CustomLineCap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CustomLineCap kelas. Merangkum batas garis yang ditentukan pengguna khusus.
+title: "Kelas CustomLineCap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CustomLineCap kelas. Menyatukan sebuah penutup garis yang ditentukan pengguna secara khusus"
 type: docs
-weight: 700
+weight: 710
 url: /id/net/aspose.psd/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap class
 
-Merangkum batas garis yang ditentukan pengguna khusus.
+Mengkapsulkan penutup garis khusus yang ditentukan pengguna.
 
 ```csharp
 public class CustomLineCap
@@ -16,33 +17,33 @@ public class CustomLineCap
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Menginisialisasi instance baru dari`CustomLineCap` kelas dengan kerangka dan isian yang ditentukan. |
-| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Menginisialisasi instance baru dari`CustomLineCap` kelas dari yang ditentukan yang ada[`LineCap`](../linecap/) enumerasi dengan outline dan fill yang ditentukan. |
-| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Menginisialisasi instance baru dari`CustomLineCap` kelas dari yang ditentukan yang ada[`LineCap`](../linecap/)pencacahan dengan kerangka, isian, dan sisipan yang ditentukan. |
+| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Menginisialisasi sebuah instance baru dari kelas `CustomLineCap` dengan outline dan fill yang ditentukan. |
+| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Menginisialisasi sebuah instance baru dari kelas `CustomLineCap` dari enumerasi [`LineCap`](../linecap/) yang ada dan ditentukan, dengan outline dan fill yang ditentukan. |
+| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Menginisialisasi sebuah instance baru dari kelas `CustomLineCap` dari enumerasi [`LineCap`](../linecap/) yang ada dan ditentukan, dengan outline, fill, dan inset yang ditentukan. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Mendapat atau menyetel[`LineCap`](../linecap/) pencacahan yang ini`CustomLineCap` berbasis. |
-| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Mendapat atau mengatur jarak antara tutup dan garis. |
-| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Mendapat atau menyetel objek yang menentukan isian untuk batas kustom. |
-| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Mendapat atau menyetel[`LineJoin`](../linejoin/) pencacahan yang menentukan bagaimana baris yang menyusun ini`CustomLineCap`objek digabungkan. |
-| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Mendapat atau menyetel objek yang menentukan garis batas batas kustom. |
-| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Mendapat atau menetapkan jumlah yang digunakan untuk menskalakan ini`CustomLineCap` Kelas objek sehubungan dengan lebarPen objek. |
+| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Mendapatkan atau mengatur enumerasi [`LineCap`](../linecap/) yang menjadi dasar `CustomLineCap` ini. |
+| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Mendapatkan atau mengatur jarak antara penutup (cap) dan garis. |
+| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Mendapatkan atau mengatur objek yang mendefinisikan fill untuk penutup khusus. |
+| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Mendapatkan atau mengatur enumerasi [`LineJoin`](../linejoin/) yang menentukan bagaimana garis-garis yang menyusun objek `CustomLineCap` ini digabungkan. |
+| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Mendapatkan atau mengatur objek yang mendefinisikan outline dari penutup khusus. |
+| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Mendapatkan atau mengatur jumlah skala untuk objek `CustomLineCap` Kelas ini relatif terhadap lebar objek Pen. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Mendapatkan batas yang digunakan untuk memulai dan mengakhiri baris yang membentuk batas khusus ini. |
-| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Menetapkan batas yang digunakan untuk memulai dan mengakhiri baris yang membentuk batas khusus ini. |
+| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Mendapatkan penutup (cap) yang digunakan untuk memulai dan mengakhiri garis yang membentuk penutup khusus ini. |
+| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Mengatur penutup (cap) yang digunakan untuk memulai dan mengakhiri garis yang membentuk penutup khusus ini. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

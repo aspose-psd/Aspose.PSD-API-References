@@ -1,26 +1,27 @@
 ---
-title: PathStructure.PathStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathStructure konstruktor. Menginisialisasi instance baru dariPathStructure kelas.
+title: "PathStructure.PathStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PathStructure. Menginisialisasi sebuah instance baru dari kelas PathStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
+{{< psd/tize >}}
 ## PathStructure constructor
 
-Menginisialisasi instance baru dari[`PathStructure`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PathStructure`](../).
 
 ```csharp
 public PathStructure(ClassID keyName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk memuat file dengan struktur PathStructure.
+Kode berikut menunjukkan kemampuan memuat file dengan struktur PathStructure.
 
 ```csharp
 [C#]
@@ -34,11 +35,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PathStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

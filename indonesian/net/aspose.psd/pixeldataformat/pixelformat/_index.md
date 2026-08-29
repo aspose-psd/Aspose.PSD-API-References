@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. Mendapatkan format piksel.
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PixelDataFormat. Mendapatkan format piksel"
 type: docs
 weight: 340
 url: /id/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
 Mendapatkan format piksel.
@@ -14,15 +15,15 @@ Mendapatkan format piksel.
 public PixelFormat PixelFormat { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Format piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

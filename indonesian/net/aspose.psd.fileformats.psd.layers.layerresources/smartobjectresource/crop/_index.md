@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menyetel potongan data lapisan objek pintar di gambar PSD.
+title: "SmartObjectResource.Crop"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur pemotongan data lapisan objek pintar dalam gambar PSD."
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-Mendapat atau menyetel potongan data lapisan objek pintar di gambar PSD.
+Mendapatkan atau mengatur pemotongan (crop) dari data lapisan objek pintar dalam gambar PSD.
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai krop dari informasi lapisan yang ditempatkan.
+Nilai pemotongan dari informasi lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

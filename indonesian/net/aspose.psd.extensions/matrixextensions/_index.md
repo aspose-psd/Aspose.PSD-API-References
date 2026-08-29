@@ -1,14 +1,15 @@
 ---
-title: Class MatrixExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.MatrixExtensions kelas. BerisiMatrix ekstensi kelas.
+title: "Kelas MatrixExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.MatrixExtensions. Berisi ekstensi kelas Matrix"
 type: docs
-weight: 1130
+weight: 1140
 url: /id/net/aspose.psd.extensions/matrixextensions/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions class
 
-Berisi[`Matrix`](../../aspose.psd/matrix/) ekstensi kelas.
+Berisi ekstensi kelas [`Matrix`](../../aspose.psd/matrix/).
 
 ```csharp
 public static class MatrixExtensions
@@ -16,13 +17,13 @@ public static class MatrixExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | Mengubah[`Matrix`](../../aspose.psd/matrix/) keMatrix . |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | Mengonversi [`Matrix`](../../aspose.psd/matrix/) menjadi Matrix. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

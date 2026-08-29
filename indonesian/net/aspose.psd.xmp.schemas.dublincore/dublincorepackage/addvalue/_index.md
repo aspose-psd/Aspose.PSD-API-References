@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.AddValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DublinCorePackage metode. Menambahkan properti string.
+title: "DublinCorePackage.AddValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DublinCorePackage. Menambahkan properti string"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage.AddValue method
 
 Menambahkan properti string.
@@ -14,21 +15,21 @@ Menambahkan properti string.
 public override void AddValue(string key, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Representasi string kunci yang diidentifikasi dengan nilai tambah. |
-| value | String | Nilai string. |
+| kunci | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditambahkan. |
+| nilai | String | Nilai string. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | key;Properti DublinCore tidak boleh kosong |
+| ArgumentNullException | key;Properti DublinCore tidak boleh null |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter Properti. Mendapat atau mengatur posisi aliran.
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffStreamWriter properti. Mendapatkan atau mengatur posisi aliran"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
-Mendapat atau mengatur posisi aliran.
+Mendapatkan atau mengatur posisi aliran.
 
 ```csharp
 public long Position { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Posisi aliran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

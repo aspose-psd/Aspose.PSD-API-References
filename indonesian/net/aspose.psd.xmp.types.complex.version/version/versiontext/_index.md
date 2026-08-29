@@ -1,27 +1,28 @@
 ---
-title: Version.VersionText
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Version Properti. Mendapat atau menyetel teks versi.
+title: "Version.VersionText"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Version. Mendapatkan atau mengatur teks versi"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 ---
+{{< psd/tize >}}
 ## Version.VersionText property
 
-Mendapat atau menyetel teks versi.
+Mendapatkan atau mengatur teks versi.
 
 ```csharp
 public string VersionText { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Versi teks.
+Teks versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Version](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

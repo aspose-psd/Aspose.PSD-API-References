@@ -1,102 +1,103 @@
 ---
-title: Region.Union
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Memperbarui iniRegion untuk serikat itu sendiri dan ditentukanRectangleFstruktur.
+title: "Region.Union"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode Region. Memperbarui Region ini menjadi gabungan dirinya dengan struktur RectangleF yang ditentukan"
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-Memperbarui ini[`Region`](../) untuk serikat itu sendiri dan ditentukan[`RectangleF`](../../rectanglef/)struktur.
+Memperbarui [`Region`](../) ini menjadi gabungan dirinya dengan struktur [`RectangleF`](../../rectanglef/) yang ditentukan.
 
 ```csharp
 public void Union(RectangleF rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | Itu[`RectangleF`](../../rectanglef/) struktur untuk bersatu dengan ini[`Region`](../). |
+| rect | RectangleF | Struktur [`RectangleF`](../../rectanglef/) untuk digabungkan dengan [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-Memperbarui ini[`Region`](../) untuk serikat itu sendiri dan ditentukan[`Rectangle`](../../rectangle/)struktur.
+Memperbarui [`Region`](../) ini menjadi gabungan dirinya dengan struktur [`Rectangle`](../../rectangle/) yang ditentukan.
 
 ```csharp
 public void Union(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Itu[`Rectangle`](../../rectangle/) struktur untuk bersatu dengan ini[`Region`](../). |
+| rect | Rectangle | Struktur [`Rectangle`](../../rectangle/) untuk digabungkan dengan [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-Memperbarui ini[`Region`](../) untuk serikat itu sendiri dan ditentukan[`GraphicsPath`](../../graphicspath/) .
+Memperbarui [`Region`](../) ini menjadi gabungan dirinya dengan [`GraphicsPath`](../../graphicspath/) yang ditentukan.
 
 ```csharp
 public void Union(GraphicsPath path)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| path | GraphicsPath | Itu[`GraphicsPath`](../../graphicspath/) untuk bersatu dengan ini[`Region`](../). |
+| path | GraphicsPath | Struktur [`GraphicsPath`](../../graphicspath/) untuk digabungkan dengan [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *path* adalah nol. |
+| ArgumentNullException | *path* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-Memperbarui ini[`Region`](../) untuk serikat itu sendiri dan ditentukan[`Region`](../) .
+Memperbarui [`Region`](../) ini menjadi gabungan dirinya dengan [`Region`](../) yang ditentukan.
 
 ```csharp
 public void Union(Region region)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| region | Region | Itu[`Region`](../) untuk bersatu dengan ini[`Region`](../). |
+| region | Region | Struktur [`Region`](../) untuk digabungkan dengan [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *region* adalah nol. |
+| ArgumentNullException | *region* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

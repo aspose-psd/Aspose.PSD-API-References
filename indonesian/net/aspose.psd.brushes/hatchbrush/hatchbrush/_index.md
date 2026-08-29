@@ -1,11 +1,12 @@
 ---
-title: HatchBrush.HatchBrush
-second_title: Aspose.PSD untuk Referensi .NET API
-description: HatchBrush konstruktor. Konstruktor default.
+title: "HatchBrush.HatchBrush"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor HatchBrush. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.brushes/hatchbrush/hatchbrush/
 ---
+{{< psd/tize >}}
 ## HatchBrush constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public HatchBrush()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [HatchBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../hatchbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

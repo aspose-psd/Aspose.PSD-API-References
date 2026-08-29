@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientTransparencyPoint Properti. Mendapat atau mengatur warna.
+title: "GradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GradientTransparencyPoint property. Mendapatkan atau mengatur warna"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.Opacity property
 
-Mendapat atau mengatur warna.
+Mendapatkan atau mengatur warna.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientTransparencyPoint](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

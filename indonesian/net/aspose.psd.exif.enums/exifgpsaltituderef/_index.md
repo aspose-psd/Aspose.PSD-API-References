@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef enum. exif referensi ketinggian gps enum.
+title: "Enum ExifGPSAltitudeRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef enum. enum referensi ketinggian gps exif"
 type: docs
-weight: 870
+weight: 880
 url: /id/net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifGPSAltitudeRef enumeration
 
-exif referensi ketinggian gps enum.
+enumerasi referensi ketinggian gps exif.
 
 ```csharp
 public enum ExifGPSAltitudeRef : byte
@@ -16,14 +17,14 @@ public enum ExifGPSAltitudeRef : byte
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| AboveSeaLevel | `0` | Diatas permukaan laut. |
+| AboveSeaLevel | `0` | Di atas permukaan laut. |
 | BelowSeaLevel | `1` | Di bawah permukaan laut. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

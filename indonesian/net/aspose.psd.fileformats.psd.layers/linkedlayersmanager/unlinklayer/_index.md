@@ -1,33 +1,34 @@
 ---
-title: LinkedLayersManager.UnlinkLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkedLayersManager metode. Membatalkan tautan lapisan..
+title: "LinkedLayersManager.UnlinkLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LinkedLayersManager. Membatalkan tautan lapisan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.UnlinkLayer method
 
-Membatalkan tautan lapisan..
+Melepaskan tautan lapisan..
 
 ```csharp
 public void UnlinkLayer(Layer layer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| layer | Layer | Lapisan. |
+| lapisan | Lapisan | Lapisan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Lapisannya nol. |
-| ArgumentException | Wadah lapisan harus sama dengan PsdImage saat ini. |
+| ArgumentNullException | Lapisan bernilai null. |
+| ArgumentException | Kontainer lapisan harus sama dengan PsdImage saat ini. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi Linked Layers di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat memanipulasi Linked Layers di Aspose.PSD
 
 ```csharp
 [C#]
@@ -35,12 +36,12 @@ Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi Linked Layers di As
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // tautkan semua layer dalam satu grup tertaut
+    // tautkan semua lapisan dalam satu grup tertaut
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
     // mendapatkan id untuk satu lapisan
@@ -50,16 +51,16 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // dapatkan semua lapisan tertaut dengan id grup tautan.
+    // mendapatkan semua lapisan tertaut berdasarkan ID grup tautan.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // batalkan tautan setiap lapisan dari grup
+    // lepaskan tautan setiap lapisan dari grup
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // mengambil NULL untuk ID grup tautan yang tidak memiliki lapisan dalam grup.
+    // mengembalikan NULL untuk ID grup tautan yang tidak memiliki lapisan dalam grup.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -69,11 +70,11 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

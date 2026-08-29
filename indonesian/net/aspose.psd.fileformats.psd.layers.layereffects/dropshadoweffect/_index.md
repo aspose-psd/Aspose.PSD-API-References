@@ -1,14 +1,15 @@
 ---
-title: Class DropShadowEffect
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect kelas. Efek Lapisan Bayangan Jatuh
+title: "Kelas DropShadowEffect"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect. Efek Lapisan Drop Shadow."
 type: docs
-weight: 2120
+weight: 2310
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect class
 
-Efek Lapisan Bayangan Jatuh
+Efek lapisan Drop Shadow.
 
 ```csharp
 public class DropShadowEffect : IShadowEffect
@@ -16,29 +17,35 @@ public class DropShadowEffect : IShadowEffect
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | Mendapatkan atau mengatur sudut dalam derajat. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | Mendapat atau menyetel mode campuran. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Mendapat atau mengatur warna. |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Mendapat atau mengatur jarak dalam piksel. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Mendapat jenis efek |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terlihat. |
-| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [tersingkir]. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Mendapat atau mengatur kebisingan. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Mendapat atau mengatur opacity. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Mendapat atau menyetel nilai buram dalam piksel. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Mendapat atau menetapkan intensitas sebagai persen. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [gunakan sudut ini di semua efek lapisan]. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | Mendapatkan atau mengatur mode perpaduan. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Mendapatkan atau mengatur warna. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Mendapatkan atau mengatur jarak dalam piksel. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Mendapatkan tipe efek |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terlihat. |
+| [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [knocks out]. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Mendapatkan atau mengatur noise. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Mendapatkan atau mengatur opasitas. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Mendapatkan atau mengatur nilai blur dalam piksel. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Mendapatkan atau mengatur intensitas sebagai persentase. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [use this angle in all of the layer effects]. |
 
-### Contoh
+## Metode
+
+| Nama | Deskripsi |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | Menghitung dan mendapatkan batas piksel efek berdasarkan batas piksel lapisan masukan. |
+
+## Contoh
 
 Kode berikut menunjukkan dukungan untuk properti PsdImage.GlobalAngle untuk mengubah nilai sudut global.
 
 ```csharp
 [C#]
 
-// Ketika properti DropShadowEffect.UseGlobalLight 'benar', maka objek DropShadowEffect menggunakan nilai sudut dari properti PsdImage.GlobalAngle.
+// Ketika properti DropShadowEffect.UseGlobalLight bernilai 'true', objek DropShadowEffect menggunakan nilai sudut dari properti PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -74,10 +81,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IShadowEffect](../ishadoweffect/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapat indeks font.
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Mendapatkan indeks font"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
-Mendapat indeks font.
+Mendapatkan indeks font.
 
 ```csharp
 public int FontIndex { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Font.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan bagaimana Aspose.PSD mendapatkan properti pemformatan sebaris dari Lapisan Teks.
+Kode berikut menunjukkan cara Aspose.PSD mendapatkan properti pemformatan inline dari Text Layer.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // mendapatkan font yang ada di lapisan teks
+        // mendapatkan font yang terdapat dalam lapisan teks
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

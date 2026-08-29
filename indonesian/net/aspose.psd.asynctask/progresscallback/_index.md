@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressCallback
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Fungsi panggilan balik untuk menerima peristiwa perubahan progres tugas.
+title: "Delegasi ProgressCallback"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Fungsi callback untuk menerima peristiwa perubahan kemajuan tugas"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
-Fungsi panggilan balik untuk menerima peristiwa perubahan progres tugas.
+Fungsi callback untuk menerima acara perubahan kemajuan tugas.
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | progressPercentage | Int32 | Persentase kemajuan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

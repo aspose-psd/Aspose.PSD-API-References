@@ -1,27 +1,28 @@
 ---
-title: XmpText.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpText Properti. Mendapat atau menetapkan nilai teks.
+title: "XmpText.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpText. Mendapatkan atau mengatur nilai teks"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
-Mendapat atau menetapkan nilai teks.
+Mendapatkan atau mengatur nilai teks.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai teks.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpText](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

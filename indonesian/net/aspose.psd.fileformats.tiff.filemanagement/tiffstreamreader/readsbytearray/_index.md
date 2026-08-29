@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadSByteArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Membaca larik nilai byte yang ditandatangani dari aliran.
+title: "TiffStreamReader.ReadSByteArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca sebuah array nilai byte bertanda dari aliran"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSByteArray method
 
-Membaca larik nilai byte yang ditandatangani dari aliran.
+Membaca sebuah array nilai byte bertanda dari aliran.
 
 ```csharp
 public sbyte[] ReadSByteArray(long position, long count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
-| count | Int64 | Elemen dihitung. |
+| posisi | Int64 | Posisi untuk membaca dari. |
+| jumlah | Int64 | Jumlah elemen. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Larik nilai byte bertanda.
+Array nilai byte bertanda.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

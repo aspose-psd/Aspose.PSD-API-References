@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfDocumentInfo Properti. Mendapat atau menetapkan pembuat dokumen.
+title: "PdfDocumentInfo.Author"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PdfDocumentInfo. Mendapatkan atau mengatur penulis dokumen"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/author/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Author property
 
-Mendapat atau menetapkan pembuat dokumen.
+Mendapatkan atau mengatur penulis dokumen.
 
 ```csharp
 public string Author { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfDocumentInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

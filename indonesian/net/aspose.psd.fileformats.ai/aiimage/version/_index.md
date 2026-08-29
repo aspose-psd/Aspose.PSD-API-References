@@ -1,28 +1,29 @@
 ---
-title: AiImage.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapatkan versi format Adobe Illustrator
+title: "AiImage.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan versi format Adobe Illustrator"
 type: docs
-weight: 110
+weight: 130
 url: /id/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-Mendapatkan versi format Adobe Illustrator
+Mendapatkan versi format Adobe Illustrator.
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

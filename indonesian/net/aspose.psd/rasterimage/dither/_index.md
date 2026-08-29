@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Dither
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Melakukan dithering pada gambar saat ini.
+title: "RasterImage.Dither"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Melakukan dithering pada gambar saat ini"
 type: docs
 weight: 250
 url: /id/net/aspose.psd/rasterimage/dither/
 ---
+{{< psd/tize >}}
 ## Dither(DitheringMethod, int, IColorPalette) {#dither_1}
 
 Melakukan dithering pada gambar saat ini.
@@ -15,19 +16,19 @@ public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount,
     IColorPalette customPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | ditheringMethod | DitheringMethod | Metode dithering. |
-| bitsCount | Int32 | Bit terakhir dihitung untuk dithering. |
+| bitsCount | Int32 | Jumlah bit akhir untuk dithering. |
 | customPalette | IColorPalette | Palet khusus untuk dithering. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,16 +40,16 @@ Melakukan dithering pada gambar saat ini.
 public void Dither(DitheringMethod ditheringMethod, int bitsCount)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | ditheringMethod | DitheringMethod | Metode dithering. |
-| bitsCount | Int32 | Bit terakhir dihitung untuk dithering. |
+| bitsCount | Int32 | Jumlah bit akhir untuk dithering. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

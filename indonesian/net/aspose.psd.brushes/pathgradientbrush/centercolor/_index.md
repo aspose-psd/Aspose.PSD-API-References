@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathGradientBrush Properti. Mendapat atau mengatur warna di tengah gradien jalur.
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PathGradientBrush. Mendapatkan atau mengatur warna di pusat gradien jalur."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
-Mendapat atau mengatur warna di tengah gradien jalur.
+Mendapatkan atau mengatur warna di tengah gradien jalur.
 
 ```csharp
 public Color CenterColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`Color`](../../../aspose.psd/color/) yang mewakili warna di tengah gradien jalur.
+Sebuah [`Color`](../../../aspose.psd/color/) yang mewakili warna di pusat gradien jalur.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

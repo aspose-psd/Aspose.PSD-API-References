@@ -1,27 +1,28 @@
 ---
-title: FileSource.IsTemporal
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileSource Properti. Mendapat nilai yang menunjukkan apakah file akan temporal.
+title: "FileSource.IsTemporal"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FileSource property. Mendapatkan nilai yang menunjukkan apakah file akan bersifat temporal"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.sources/filesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileSource.IsTemporal property
 
-Mendapat nilai yang menunjukkan apakah file akan temporal.
+Mendapatkan nilai yang menunjukkan apakah file akan bersifat temporer.
 
 ```csharp
 public abstract bool IsTemporal { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika file bersifat sementara; jika tidak,`PALSU` .
+`true` jika file akan bersifat temporal; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileSource](../)
-* ruang nama [Aspose.PSD.Sources](../../filesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

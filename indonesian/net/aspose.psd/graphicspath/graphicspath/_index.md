@@ -1,88 +1,89 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath konstruktor. Menginisialisasi instance baru dariGraphicsPath kelas.
+title: "GraphicsPath.GraphicsPath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor GraphicsPath. Menginisialisasi instance baru dari kelas GraphicsPath"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-Menginisialisasi instance baru dari[`GraphicsPath`](../) kelas.
+Menginisialisasi instance baru dari kelas [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`GraphicsPath`](../) kelas.
+Menginisialisasi instance baru dari kelas [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(Figure[] figures)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| figures | Figure[] | Angka-angka untuk menginisialisasi dari. |
+| figur | Figure[] | Figur-figur untuk diinisialisasi dari. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-Menginisialisasi instance baru dari[`GraphicsPath`](../) kelas.
+Menginisialisasi instance baru dari kelas [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| figures | Figure[] | Angka-angka untuk menginisialisasi dari. |
-| fillMode | FillMode | Modus isian. |
+| figur | Figure[] | Figur-figur untuk diinisialisasi dari. |
+| fillMode | FillMode | Mode pengisian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-Menginisialisasi instance baru dari[`GraphicsPath`](../) kelas.
+Menginisialisasi instance baru dari kelas [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fillMode | FillMode | Modus isian. |
+| fillMode | FillMode | Mode pengisian. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

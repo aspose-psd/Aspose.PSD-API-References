@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IAsyncTask metode. Menjalankan tugas ini.
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IAsyncTask. Menjalankan tugas ini"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 Menjalankan tugas ini.
@@ -14,11 +15,11 @@ Menjalankan tugas ini.
 public void RunAsync()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../iasynctask/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,14 +31,14 @@ Menjalankan tugas ini.
 public void RunAsync(ThreadPriority priority)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| priority | ThreadPriority | Prioritas benang. |
+| prioritas | ThreadPriority | Prioritas thread. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../iasynctask/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

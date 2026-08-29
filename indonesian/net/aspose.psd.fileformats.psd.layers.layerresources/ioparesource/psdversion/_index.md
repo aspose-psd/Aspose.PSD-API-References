@@ -1,11 +1,12 @@
 ---
-title: IopaResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IopaResource Properti. Mendapatkan versi psd.
+title: "IopaResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IopaResource. Mendapatkan versi psd"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion/
 ---
+{{< psd/tize >}}
 ## IopaResource.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,10 +15,10 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [IopaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

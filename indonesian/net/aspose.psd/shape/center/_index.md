@@ -1,11 +1,12 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Shape Properti. Mendapatkan pusat bentuk.
+title: "Shape.Center"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Shape. Mendapatkan pusat bentuk"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
 Mendapatkan pusat bentuk.
@@ -14,15 +15,15 @@ Mendapatkan pusat bentuk.
 public abstract PointF Center { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pusat bentuknya.
+Pusat bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* ruang nama [Aspose.PSD](../../shape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class JpegException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegException kelas. Pengecualian untuk file Jpeg
+title: "Kelas JpegException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.CoreExceptions.ImageFormats.JpegException. Pengecualian untuk file Jpeg"
 type: docs
 weight: 540
 url: /id/net/aspose.psd.coreexceptions.imageformats/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException class
 
 Pengecualian untuk file Jpeg
@@ -16,15 +17,15 @@ public class JpegException : ImageException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [JpegException](jpegexception/#constructor)(string) | Menginisialisasi instance baru dari`JpegException` kelas. |
-| [JpegException](jpegexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`JpegException` kelas. |
+| [JpegException](jpegexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `JpegException`. |
+| [JpegException](jpegexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `JpegException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

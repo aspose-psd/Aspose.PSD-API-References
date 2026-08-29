@@ -1,11 +1,12 @@
 ---
-title: Class AggregateException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.AggregateException kelas. Menggabungkan beberapa pengecualian.
+title: "Kelas AggregateException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.AggregateException. Menggabungkan beberapa pengecualian"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/aggregateexception/
 ---
+{{< psd/tize >}}
 ## AggregateException class
 
 Menggabungkan beberapa pengecualian.
@@ -14,9 +15,9 @@ Menggabungkan beberapa pengecualian.
 public class AggregateException : Exception
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

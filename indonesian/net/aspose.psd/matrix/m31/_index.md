@@ -1,23 +1,24 @@
 ---
-title: Matrix.M31
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix Properti. Mendapat elemen matriks pada baris ketiga kolom pertama. Mewakili terjemahan sepanjang sumbu X.
+title: "Matrix.M31"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Matrix. Mendapatkan elemen matriks pada baris ketiga kolom pertama. Mewakili translasi sepanjang sumbu X"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/matrix/m31/
 ---
+{{< psd/tize >}}
 ## Matrix.M31 property
 
-Mendapat elemen matriks pada baris ketiga kolom pertama. Mewakili terjemahan sepanjang sumbu X.
+Mendapatkan elemen matriks pada baris ketiga kolom pertama. Mewakili translasi sepanjang sumbu X.
 
 ```csharp
 public float M31 { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

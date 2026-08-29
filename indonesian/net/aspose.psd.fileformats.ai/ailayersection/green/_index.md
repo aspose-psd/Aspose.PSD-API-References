@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menyetel komponen warna hijau.
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur komponen warna hijau"
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-Mendapat atau menyetel komponen warna hijau.
+Mendapatkan atau mengatur komponen warna hijau.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komponen warna hijau.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

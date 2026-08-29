@@ -1,49 +1,50 @@
 ---
-title: Matrix.Rotate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Menerapkan rotasi searah jarum jam dari jumlah yang ditentukan dalam parameter sudut di sekitar titik asal koordinat nol x dan y untuk Matriks ini dalam urutan yang ditentukan.
+title: "Matrix.Rotate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Menerapkan rotasi searah jarum jam dengan jumlah yang ditentukan dalam parameter sudut di sekitar titik asal koordinat x dan y nol untuk Matrix ini dalam urutan yang ditentukan."
 type: docs
 weight: 140
 url: /id/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-Menerapkan rotasi searah jarum jam dari jumlah yang ditentukan dalam parameter sudut, di sekitar titik asal (koordinat nol x dan y) untuk Matriks ini dalam urutan yang ditentukan.
+Menerapkan rotasi searah jarum jam dengan jumlah yang ditentukan dalam parameter angle, sekitar titik asal (koordinat x dan y nol) untuk Matrix ini dalam urutan yang ditentukan.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Single | Sudut putar. |
-| order | MatrixOrder | Urutan matriks. |
+| angle | Single | Sudut rotasi. |
+| urutan | MatrixOrder | Urutan matriks. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Menerapkan rotasi searah jarum jam dari jumlah yang ditentukan dalam parameter sudut, di sekitar titik asal (koordinat nol x dan y) untuk Matriks ini dalam urutan default (Awali).
+Menerapkan rotasi searah jarum jam dengan jumlah yang ditentukan dalam parameter angle, sekitar titik asal (koordinat x dan y nol) untuk Matrix ini dalam urutan default (Prepend).
 
 ```csharp
 public void Rotate(float angle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Single | Sudut putar. |
+| angle | Single | Sudut rotasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

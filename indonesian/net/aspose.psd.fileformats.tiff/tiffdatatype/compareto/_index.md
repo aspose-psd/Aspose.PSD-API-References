@@ -1,37 +1,38 @@
 ---
-title: TiffDataType.CompareTo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType metode. Membandingkan instance saat ini dengan objek lain dari jenis yang sama dan mengembalikan bilangan bulat yang menunjukkan apakah instance saat ini mendahului mengikuti atau terjadi di posisi yang sama dalam urutan seperti objek lainnya.
+title: "TiffDataType.CompareTo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffDataType. Membandingkan instance saat ini dengan objek lain dengan tipe yang sama dan mengembalikan integer yang menunjukkan apakah instance saat ini mendahului, mengikuti, atau berada pada posisi yang sama dalam urutan penyortiran dibandingkan objek lain."
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/compareto/
 ---
+{{< psd/tize >}}
 ## TiffDataType.CompareTo method
 
-Membandingkan instance saat ini dengan objek lain dari jenis yang sama dan mengembalikan bilangan bulat yang menunjukkan apakah instance saat ini mendahului, mengikuti, atau terjadi di posisi yang sama dalam urutan seperti objek lainnya.
+Membandingkan instance saat ini dengan objek lain dengan tipe yang sama dan mengembalikan integer yang menunjukkan apakah instance saat ini mendahului, mengikuti, atau berada pada posisi yang sama dalam urutan penyortiran dibandingkan objek lainnya.
 
 ```csharp
 public int CompareTo(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | Objek untuk dibandingkan dengan instance ini. |
+| obj | Object | Sebuah objek untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Integer bertanda 32-bit yang menunjukkan urutan relatif objek yang dibandingkan. Nilai yang dikembalikan memiliki arti sebagai berikut: Nilai Arti Kurang dari nol Contoh ini kurang dari*obj* . Zero Contoh ini sama dengan*obj* . Lebih besar dari nol Contoh ini lebih besar dari*obj* .
+Integer bertanda 32-bit yang menunjukkan urutan relatif dari objek-objek yang dibandingkan. Nilai kembali memiliki arti berikut: Nilai Arti Kurang dari nol Instance ini kurang dari *obj*. Nol Instance ini sama dengan *obj*. Lebih dari nol Instance ini lebih besar dari *obj*.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Jenis TiffDataType yang diharapkan. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Diharapkan tipe TiffDataType. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,66 +1,67 @@
 ---
-title: BezierShape.BezierShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BezierShape konstruktor. Menginisialisasi instance baru dariBezierShape kelas.
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor BezierShape. Menginisialisasi instance baru dari kelas BezierShape"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-Menginisialisasi instance baru dari[`BezierShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`BezierShape`](../).
 
 ```csharp
 public BezierShape()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BezierShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../beziershape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`BezierShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
+| titik | PointF[] | Array titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../beziershape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-Menginisialisasi instance baru dari[`BezierShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
-| isClosed | Boolean | Jika disetel ke`BENAR` spline bezier ditutup. |
+| titik | PointF[] | Array titik. |
+| isClosed | Boolean | Jika disetel ke `true` spline bezier ditutup. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../beziershape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

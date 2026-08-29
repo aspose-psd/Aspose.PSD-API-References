@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontFamily
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolFontInfo Properti. Mendapat atau mengatur jenis font.
+title: "TypeToolFontInfo.FontFamily"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TypeToolFontInfo properti. Mendapatkan atau mengatur keluarga font"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontFamily property
 
-Mendapat atau mengatur jenis font.
+Mendapatkan atau mengatur keluarga font.
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis font.
+Keluarga font.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

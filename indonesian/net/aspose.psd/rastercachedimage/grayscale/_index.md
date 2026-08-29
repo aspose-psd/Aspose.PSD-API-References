@@ -1,23 +1,24 @@
 ---
-title: RasterCachedImage.Grayscale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Transformasi gambar ke representasi skala abuabunya
+title: "RasterCachedImage.Grayscale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterCachedImage. Transformasi gambar menjadi representasi grayscale"
 type: docs
 weight: 110
 url: /id/net/aspose.psd/rastercachedimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Grayscale method
 
-Transformasi gambar ke representasi skala abu-abunya
+Transformasi gambar menjadi representasi skala abu-abu
 
 ```csharp
 public override void Grayscale()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

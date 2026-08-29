@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.VOrder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapat atau menyetel nilai urutan V dari lapisan yang ditempatkan di file PSD.
+title: "IPlacedLayerResource.VOrder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur nilai urutan V dari lapisan yang ditempatkan dalam file PSD"
 type: docs
 weight: 230
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VOrder property
 
-Mendapat atau menyetel nilai urutan V dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur nilai urutan V dari lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai urutan V dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

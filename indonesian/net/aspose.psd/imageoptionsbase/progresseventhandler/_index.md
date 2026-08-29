@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.ProgressEventHandler
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageOptionsBase Properti. Mendapat atau menyetel pengendali event progres.
+title: "ImageOptionsBase.ProgressEventHandler"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageOptionsBase. Mendapatkan atau mengatur penangan acara kemajuan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/imageoptionsbase/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ProgressEventHandler property
 
-Mendapat atau menyetel pengendali event progres.
+Mendapatkan atau mengatur penangan acara kemajuan.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengendali kejadian progres.
+Penangan acara kemajuan.
 
-### Lihat juga
+### Lihat Juga
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [ImageOptionsBase](../)
-* ruang nama [Aspose.PSD](../../imageoptionsbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.CompressedBitsPerPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel bit terkompresi per piksel.
+title: "ExifData.CompressedBitsPerPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur bit terkompresi per piksel"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.exif/exifdata/compressedbitsperpixel/
 ---
+{{< psd/tize >}}
 ## ExifData.CompressedBitsPerPixel property
 
-Mendapat atau menyetel bit terkompresi per piksel.
+Mendapatkan atau mengatur bit terkompresi per piksel.
 
 ```csharp
 public TiffRational CompressedBitsPerPixel { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bit per piksel terkompresi.
+Bit terkompresi per piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

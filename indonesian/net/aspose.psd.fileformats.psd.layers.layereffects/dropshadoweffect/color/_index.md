@@ -1,24 +1,25 @@
 ---
-title: DropShadowEffect.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapat atau mengatur warna.
+title: "DropShadowEffect.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DropShadowEffect properti. Mendapatkan atau mengatur warna"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Color property
 
-Mendapat atau mengatur warna.
+Mendapatkan atau mengatur warna.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan penggunaan properti Opacity dari DropShadowEffect.
 
@@ -47,11 +48,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

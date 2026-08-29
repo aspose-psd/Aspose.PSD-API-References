@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.TransformMatrix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menyetel matriks transformasi dari lapisan yang ditempatkan di file PSD.
+title: "PlacedResource.TransformMatrix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur matriks transformasi dari lapisan yang ditempatkan dalam file PSD."
 type: docs
-weight: 170
+weight: 160
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TransformMatrix property
 
-Mendapat atau menyetel matriks transformasi dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur matriks transformasi dari lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Matriks transformasi dari layer yang ditempatkan.
+Matriks transformasi dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

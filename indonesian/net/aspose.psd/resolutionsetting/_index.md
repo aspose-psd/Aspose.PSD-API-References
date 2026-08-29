@@ -1,11 +1,12 @@
 ---
-title: Class ResolutionSetting
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ResolutionSetting kelas. Pengaturan resolusi untuk opsi penyimpanan gambar.
+title: "Kelas ResolutionSetting"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ResolutionSetting. Pengaturan resolusi untuk opsi penyimpanan gambar"
 type: docs
-weight: 5380
+weight: 5880
 url: /id/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
 Pengaturan resolusi untuk opsi penyimpanan gambar.
@@ -16,21 +17,21 @@ public class ResolutionSetting
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | Menginisialisasi instance baru dari`ResolutionSetting` kelas. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Menginisialisasi instance baru dari`ResolutionSetting` kelas. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | Menginisialisasi instance baru dari kelas `ResolutionSetting`. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Menginisialisasi instance baru dari kelas `ResolutionSetting`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Mendapat atau menyetel resolusi horizontal. |
-| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Mendapat atau menyetel resolusi vertikal. |
+| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Mendapatkan atau mengatur resolusi horizontal. |
+| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Mendapatkan atau mengatur resolusi vertikal. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

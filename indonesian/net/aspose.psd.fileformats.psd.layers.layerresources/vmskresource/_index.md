@@ -1,14 +1,15 @@
 ---
-title: Class VmskResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VmskResource kelas. Kelas VmskResource. Sumber daya ini berisi informasi tentang layer mask vektor
+title: "Kelas VmskResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VmskResource. Kelas VmskResource. Sumber daya ini berisi informasi tentang masker lapisan vektor"
 type: docs
-weight: 3360
+weight: 3760
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/
 ---
+{{< psd/tize >}}
 ## VmskResource class
 
-Kelas VmskResource. Sumber daya ini berisi informasi tentang layer mask vektor
+Kelas VmskResource. Sumber daya ini berisi informasi tentang masker lapisan vektor
 
 ```csharp
 public class VmskResource : VectorPathDataResource
@@ -16,41 +17,41 @@ public class VmskResource : VectorPathDataResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [VmskResource](vmskresource/#constructor)() | Menginisialisasi instance baru dari`VmskResource` kelas. |
-| [VmskResource](vmskresource/#constructor_1)(byte[]) | Menginisialisasi instance baru dari`VmskResource` kelas. |
+| [VmskResource](vmskresource/#constructor)() | Menginisialisasi instance baru dari kelas `VmskResource`. |
+| [VmskResource](vmskresource/#constructor_1)(byte[]) | Menginisialisasi instance baru dari kelas `VmskResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dinonaktifkan. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbalik. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini tidak ditautkan. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dinonaktifkan. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbalik. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini tidak terhubung. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Mendapat atau menyetel catatan jalur. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Mendapat tanda tangan. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Mendapatkan atau menyetel versi. |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Mendapatkan atau mengatur catatan jalur. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Mendapatkan atau mengatur versi. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vmskresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan dukungan pemuatan sumber daya VmskResource. Bagaimana cara kerja pengeditan jalur.
+Contoh berikut menunjukkan dukungan pemuatan sumber daya VmskResource. Bagaimana cara kerja penyuntingan jalur.
 
 ```csharp
 [C#]
@@ -82,7 +83,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // Aturan isian jalur tidak berisi informasi tambahan apa pun
+        // Aturan pengisian jalur tidak mengandung informasi tambahan
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -92,7 +93,7 @@ public void TestPsdNet106()
         {
             throw new Exception("VmskResource paths were read wrong");
         }
-        // Mengedit
+        // Menyunting
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -127,11 +128,11 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathDataResource](../vectorpathdataresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

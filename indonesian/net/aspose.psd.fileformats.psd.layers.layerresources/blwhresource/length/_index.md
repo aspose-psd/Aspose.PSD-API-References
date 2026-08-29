@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlwhResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "BlwhResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlwhResource. Mendapatkan panjang sumber lapisan dalam byte"
 type: docs
-weight: 80
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlwhResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

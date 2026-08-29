@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpRights
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama Manajemen Hak XMP.
+title: "Namespaces.XmpRights"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. namespace Manajemen Hak XMP"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.xmp/namespaces/xmprights/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpRights field
 
-ruang nama Manajemen Hak XMP.
+Namespace XMP Rights Management.
 
 ```csharp
 public const string XmpRights;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

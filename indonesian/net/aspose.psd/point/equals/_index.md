@@ -1,31 +1,32 @@
 ---
-title: Point.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Menentukan apakah iniPoint berisi koordinat yang sama seperti yang ditentukanObject .
+title: "Point.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Menentukan apakah Point ini berisi koordinat yang sama dengan Object yang ditentukan."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/point/equals/
 ---
+{{< psd/tize >}}
 ## Point.Equals method
 
-Menentukan apakah ini[`Point`](../) berisi koordinat yang sama seperti yang ditentukanObject .
+Menentukan apakah [`Point`](../) ini berisi koordinat yang sama dengan Object yang ditentukan.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk mengetes. |
+| obj | Object | Object untuk diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika*obj* adalah[`Point`](../) dan memiliki koordinat yang sama seperti ini[`Point`](../).
+True jika *obj* adalah [`Point`](../) dan memiliki koordinat yang sama dengan [`Point`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

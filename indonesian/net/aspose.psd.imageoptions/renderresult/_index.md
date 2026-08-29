@@ -1,11 +1,12 @@
 ---
-title: Class RenderResult
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.RenderResult kelas. Mewakili informasi dengan hasil rendering
+title: "Kelas RenderResult"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageOptions.RenderResult. Mewakili informasi dengan hasil rendering"
 type: docs
-weight: 4930
+weight: 5420
 url: /id/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
 Mewakili informasi dengan hasil rendering
@@ -16,20 +17,20 @@ public class RenderResult
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [RenderResult](renderresult/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Mendapat atau menyetel pesan string |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Mendapat atau menyetel kode kesalahan |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Mendapatkan atau mengatur string pesan |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Mendapatkan atau mengatur kode kesalahan |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

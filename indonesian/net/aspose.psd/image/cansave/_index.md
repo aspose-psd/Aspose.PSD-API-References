@@ -1,32 +1,33 @@
 ---
-title: Image.CanSave
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Menentukan apakah gambar dapat disimpan ke format file tertentu yang diwakili oleh opsi penyimpanan yang diteruskan.
+title: "Image.CanSave"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Menentukan apakah gambar dapat disimpan ke format file yang ditentukan yang diwakili oleh opsi penyimpanan yang diberikan"
 type: docs
-weight: 160
+weight: 170
 url: /id/net/aspose.psd/image/cansave/
 ---
+{{< psd/tize >}}
 ## Image.CanSave method
 
-Menentukan apakah gambar dapat disimpan ke format file tertentu yang diwakili oleh opsi penyimpanan yang diteruskan.
+Menentukan apakah gambar dapat disimpan ke format file yang ditentukan yang diwakili oleh opsi penyimpanan yang diberikan.
 
 ```csharp
 public bool CanSave(ImageOptionsBase options)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| options | ImageOptionsBase | Opsi simpan untuk digunakan. |
+| opsi | ImageOptionsBase | Opsi penyimpanan yang akan digunakan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika gambar dapat disimpan ke format file yang ditentukan diwakili oleh opsi penyimpanan yang diteruskan; jika tidak,`PALSU` .
+`true` jika gambar dapat disimpan ke format file yang ditentukan yang diwakili oleh opsi penyimpanan yang diberikan; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

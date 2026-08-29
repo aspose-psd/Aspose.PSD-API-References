@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.UniqueId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapatkan pengidentifikasi unik global dari sumber data di sumber daya tautan PSD.
+title: "LinkDataSource.UniqueId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mengambil pengidentifikasi unik global dari sumber data dalam sumber daya tautan PSD"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.UniqueId property
 
-Mendapatkan pengidentifikasi unik global dari sumber data di sumber daya tautan PSD.
+Mendapatkan pengidentifikasi unik global dari sumber data dalam sumber daya tautan PSD.
 
 ```csharp
 public Guid UniqueId { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengidentifikasi unik tautan dari sumber data di sumber daya Adobe® Photoshop® LnkE / Lnk2.
+Pengidentifikasi unik tautan dari sumber data dalam sumber daya Adobe® Photoshop® LnkE / Lnk2.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ Pengidentifikasi unik tautan dari sumber data di sumber daya Adobe® Photoshop®
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti UniqueId. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpectralSensitivity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel sensitivitas spektral.
+title: "ExifData.SpectralSensitivity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur sensitivitas spektral"
 type: docs
 weight: 970
 url: /id/net/aspose.psd.exif/exifdata/spectralsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.SpectralSensitivity property
 
-Mendapat atau menyetel sensitivitas spektral.
+Mendapatkan atau mengatur sensitivitas spektral.
 
 ```csharp
 public string SpectralSensitivity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sensitivitas spektral.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: PhflResourceVersion2.PhflResourceVersion2
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion2 konstruktor. Menginisialisasi instance baru dariPhflResourceVersion2 kelas.
+title: "PhflResourceVersion2.PhflResourceVersion2"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PhflResourceVersion2. Menginisialisasi instance baru dari kelas PhflResourceVersion2"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/phflresourceversion2/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2() {#constructor}
 
-Menginisialisasi instance baru dari[`PhflResourceVersion2`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PhflResourceVersion2`](../).
 
 ```csharp
 public PhflResourceVersion2()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion2](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion2(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PhflResourceVersion2`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PhflResourceVersion2`](../).
 
 ```csharp
 public PhflResourceVersion2(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | Byte[] | Data pf sumber daya. |
+| data | Byte[] | Data sumber daya. |
 
 ### Pengecualian
 
@@ -40,10 +41,10 @@ public PhflResourceVersion2(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang data tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion2](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

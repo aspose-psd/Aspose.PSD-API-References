@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBoolean Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniXmpBoolean adalah nilai.
+title: "XmpBoolean.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpBoolean. Mendapatkan atau mengatur nilai yang menunjukkan apakah XmpBoolean ini bernilai"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.Value property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`XmpBoolean`](../) adalah nilai.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`XmpBoolean`](../) ini bernilai.
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika nilai; jika tidak,`PALSU` .
+`true` jika nilai; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBoolean](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

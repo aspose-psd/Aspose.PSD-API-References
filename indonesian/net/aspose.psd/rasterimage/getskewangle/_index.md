@@ -1,27 +1,28 @@
 ---
-title: RasterImage.GetSkewAngle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mendapatkan sudut kemiringan. Metode ini berlaku untuk dokumen teks yang dipindai untuk menentukan sudut kemiringan saat memindai.
+title: "RasterImage.GetSkewAngle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Mendapatkan sudut kemiringan. Metode ini berlaku untuk dokumen teks yang dipindai untuk menentukan sudut kemiringan saat pemindaian."
 type: docs
 weight: 330
 url: /id/net/aspose.psd/rasterimage/getskewangle/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetSkewAngle method
 
-Mendapatkan sudut kemiringan. Metode ini berlaku untuk dokumen teks yang dipindai, untuk menentukan sudut kemiringan saat memindai.
+Mendapatkan sudut kemiringan. Metode ini berlaku untuk dokumen teks yang dipindai, untuk menentukan sudut kemiringan saat pemindaian.
 
 ```csharp
 public float GetSkewAngle()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Sudut kemiringan, dalam derajat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

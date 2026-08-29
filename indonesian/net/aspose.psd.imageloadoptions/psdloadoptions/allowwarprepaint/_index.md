@@ -1,27 +1,48 @@
 ---
-title: PsdLoadOptions.AllowWarpRepaint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdLoadOptions Properti. Mendapatkan atau menyetel apakah akan menyimpan dengan gambar yang dirender dengan atau tanpa transformasi warp.
+title: "PsdLoadOptions.AllowWarpRepaint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdLoadOptions. Mendapatkan atau mengatur apakah menyimpan dengan gambar yang dirender dengan atau tanpa transformasi warp"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.AllowWarpRepaint property
 
-Mendapatkan atau menyetel apakah akan menyimpan dengan gambar yang dirender, dengan atau tanpa transformasi warp.
+Mendapatkan atau mengatur apakah menyimpan dengan gambar yang dirender, dengan atau tanpa transformasi warp.
 
 ```csharp
 public bool AllowWarpRepaint { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` render gambar dengan transformasi warp`PALSU` .
+`true` render gambar dengan transformasi warp `false`.
 
-### Lihat juga
+## Contoh
+
+Kode berikut menunjukkan rendering efek Warp.
+
+```csharp
+[C#]
+
+string sourceFile = "source.psd";
+string pngWarpedExport = "warped.png";
+string psdWarpedExport = "warpFile.psd";
+
+var warpLoadOptions = new PsdLoadOptions() { AllowWarpRepaint = true };
+
+using (var image = (PsdImage)Image.Load(sourceFile, warpLoadOptions))
+{
+    image.Save(pngWarpedExport, new PngOptions());
+    image.Save(psdWarpedExport, new PsdOptions());
+}
+```
+
+### Lihat Juga
 
 * class [PsdLoadOptions](../)
-* ruang nama [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

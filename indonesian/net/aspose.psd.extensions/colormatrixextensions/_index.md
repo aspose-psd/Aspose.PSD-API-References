@@ -1,14 +1,15 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.ColorMatrixExtensions kelas. ItuColorMatrix metode ekstensi.
+title: "Kelas ColorMatrixExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.ColorMatrixExtensions. Metode ekstensi ColorMatrix."
 type: docs
-weight: 1070
+weight: 1080
 url: /id/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-Itu[`ColorMatrix`](../../aspose.psd/colormatrix/) metode ekstensi.
+Metode ekstensi [`ColorMatrix`](../../aspose.psd/colormatrix/).
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -16,13 +17,13 @@ public static class ColorMatrixExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Mengubah[`ColorMatrix`](../../aspose.psd/colormatrix/) keColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Mengonversi [`ColorMatrix`](../../aspose.psd/colormatrix/) menjadi ColorMatrix. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

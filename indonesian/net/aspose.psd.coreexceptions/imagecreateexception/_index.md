@@ -1,14 +1,15 @@
 ---
-title: Class ImageCreateException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageCreateException kelas. Gambar membuat pengecualian. Terjadi selama pembuatan gambar.
+title: "Kelas ImageCreateException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.ImageCreateException class. Pengecualian pembuatan gambar. Terjadi selama pembuatan gambar."
 type: docs
 weight: 490
 url: /id/net/aspose.psd.coreexceptions/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException class
 
-Gambar membuat pengecualian. Terjadi selama pembuatan gambar.
+Pengecualian pembuatan gambar. Terjadi selama pembuatan gambar.
 
 ```csharp
 public class ImageCreateException : ImageException
@@ -16,15 +17,15 @@ public class ImageCreateException : ImageException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ImageCreateException](imagecreateexception/#constructor)(string) | Menginisialisasi instance baru dari`ImageCreateException` kelas. |
-| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`ImageCreateException` kelas. |
+| [ImageCreateException](imagecreateexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `ImageCreateException`. |
+| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `ImageCreateException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageException](../imageexception/)
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class BooleanStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.BooleanStructure kelas. Struktur boolean.
+title: "Kelas BooleanStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.BooleanStructure. Struktur boolean"
 type: docs
-weight: 3120
+weight: 3500
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/
 ---
+{{< psd/tize >}}
 ## BooleanStructure class
 
 Struktur boolean.
@@ -16,37 +17,37 @@ public sealed class BooleanStructure : OSTypeStructure
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BooleanStructure](booleanstructure/)(ClassID) | Menginisialisasi instance baru dari`BooleanStructure` kelas. |
+| [BooleanStructure](booleanstructure/)(ClassID) | Menginisialisasi sebuah instance baru dari kelas `BooleanStructure`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key/) { get; } | Mendapat kunci struktur. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Mendapat atau menyetel nama kunci. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length/) { get; } | Mendapatkan[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) panjang dalam byte. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value/) { get; set; } | Mendapat atau menetapkan nilai boolean. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key/) { get; } | Mendapatkan kunci struktur. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Mendapatkan atau mengatur nama kunci. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length/) { get; } | Mendapatkan panjang [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) dalam byte. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value/) { get; set; } | Mendapatkan atau mengatur nilai boolean. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Mendapatkan panjang tajuk. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Menyimpan struktur ke wadah aliran yang ditentukan. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Menyimpan struktur ke wadah aliran yang ditentukan. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Mendapatkan panjang header. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Menyimpan struktur ke kontainer aliran yang ditentukan. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Menyimpan struktur ke kontainer aliran yang ditentukan. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/structurekey/) | Mengidentifikasi kunci struktur. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

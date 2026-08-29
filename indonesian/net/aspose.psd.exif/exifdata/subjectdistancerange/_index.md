@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel rentang jarak subjek.
+title: "ExifData.SubjectDistanceRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur rentang jarak subjek"
 type: docs
 weight: 1010
 url: /id/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
-Mendapat atau menyetel rentang jarak subjek.
+Mendapatkan atau mengatur rentang jarak subjek.
 
 ```csharp
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Rentang jarak subjek.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

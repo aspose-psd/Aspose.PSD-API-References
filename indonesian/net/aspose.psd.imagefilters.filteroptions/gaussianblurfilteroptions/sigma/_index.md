@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Sigma
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussianBlurFilterOptions Properti. Mendapat atau menyetel sigma.
+title: "GaussianBlurFilterOptions.Sigma"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GaussianBlurFilterOptions. Mendapatkan atau mengatur sigma"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Sigma property
 
-Mendapat atau menyetel sigma.
+Mendapatkan atau mengatur sigma.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-sigma.
+Sigma.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussianBlurFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

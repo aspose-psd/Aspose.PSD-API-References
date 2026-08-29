@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegOptions Properti. Mendapat atau menyetel pengaturan pengoptimal RD.
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "JpegOptions property. Mendapatkan atau mengatur pengaturan optimizer RD"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-Mendapat atau menyetel pengaturan pengoptimal RD.
+Mendapatkan atau mengatur pengaturan optimizer RD.
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengaturan pengoptimal RD.
+Pengaturan optimizer RD.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

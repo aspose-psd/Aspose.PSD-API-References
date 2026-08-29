@@ -1,11 +1,12 @@
 ---
-title: TransparencyIndexResource.TransparencyIndexResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransparencyIndexResource konstruktor. Konstruktor default.
+title: "TransparencyIndexResource.TransparencyIndexResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TransparencyIndexResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindexresource/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public TransparencyIndexResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransparencyIndexResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

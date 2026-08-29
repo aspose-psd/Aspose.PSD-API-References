@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisiLfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/ kelas tertaut
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi kelas terkait Lfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/"
 type: docs
-weight: 280
+weight: 310
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/
 ---
-Ruang nama berisi[`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/) kelas tertaut
+{{< psd/tize >}}
+Namespace berisi kelas terkait [`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/)
 
-## Pencacahan
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
 | [LayerEffectsTypes](./layereffectstypes/) | Efek pencampuran lapisan. |
 

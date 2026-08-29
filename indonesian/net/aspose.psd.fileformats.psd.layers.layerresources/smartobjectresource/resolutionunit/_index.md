@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.ResolutionUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menyetel satuan ukuran resolusi dari data lapisan objek pintar dalam file PSD.
+title: "SmartObjectResource.ResolutionUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur satuan ukuran resolusi data lapisan objek pintar dalam file PSD"
 type: docs
-weight: 200
+weight: 190
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.ResolutionUnit property
 
-Mendapat atau menyetel satuan ukuran resolusi dari data lapisan objek pintar dalam file PSD.
+Mendapatkan atau mengatur satuan ukuran resolusi data lapisan objek pintar dalam file PSD.
 
 ```csharp
 public UnitTypes ResolutionUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Unit ukuran resolusi lapisan objek pintar.
+Satuan ukuran resolusi lapisan objek pintar.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

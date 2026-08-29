@@ -1,49 +1,50 @@
 ---
-title: TransformBrush.RotateTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransformBrush metode. Memutar transformasi geometrik lokal dengan jumlah yang ditentukan. Metode ini menambahkan rotasi ke transform.
+title: "TransformBrush.RotateTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TransformBrush. Memutar transformasi geometrik lokal sebesar jumlah yang ditentukan. Metode ini menambahkan rotasi ke transformasi."
 type: docs
 weight: 60
 url: /id/net/aspose.psd.brushes/transformbrush/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Memutar transformasi geometrik lokal dengan jumlah yang ditentukan. Metode ini menambahkan rotasi ke transform.
+Memutar transformasi geometris lokal sebesar jumlah yang ditentukan. Metode ini menambahkan rotasi ke transformasi di depan.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut rotasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransformBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../transformbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Memutar transformasi geometris lokal dengan jumlah yang ditentukan dalam urutan yang ditentukan.
+Memutar transformasi geometris lokal sebesar jumlah yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut rotasi. |
-| order | MatrixOrder | A[`MatrixOrder`](../../../aspose.psd/matrixorder/) yang menentukan apakah akan menambahkan atau menambahkan matriks rotasi. |
+| order | MatrixOrder | Sebuah [`MatrixOrder`](../../../aspose.psd/matrixorder/) yang menentukan apakah akan menambahkan atau menyisipkan matriks rotasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../transformbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

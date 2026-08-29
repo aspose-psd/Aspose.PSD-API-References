@@ -1,23 +1,31 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi entitas sumber daya alat jenis format file PSD.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi entitas sumber daya alat tipe format file PSD"
 type: docs
-weight: 290
+weight: 310
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/
 ---
-Ruang nama berisi entitas sumber daya alat jenis format file PSD.
+{{< psd/tize >}}
+Namespace ini berisi entitas sumber daya tipe alat format file PSD.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [VstkResource](./vstkresource/) | Kelas sumber daya VstkResource. Berisi informasi tentang Vector Stroke Data. Sumber daya harus diinisialisasi dengan metode AssginItems dari resourcedata, atau dengan menetapkan nilai ke properti kelas. |
-## Pencacahan
+| [StrokeSettings](./strokesettings/) | Pengaturan goresan pada Bentuk. |
+| [VscgResource](./vscgresource/) | Sumber daya Data Konten Goresan Vektor. |
+| [VstkResource](./vstkresource/) | Kelas sumber daya VstkResource. Berisi informasi tentang Data Goresan Vektor. Sumber daya harus diinisialisasi baik melalui metode AssignItems dari ResourceLoader, maupun dengan menetapkan nilai ke properti kelas. |
+## Antarmuka
 
-| Pencacahan | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
-| [LineCapType](./linecaptype/) | Jenis Tutup Baris. |
-| [LineJoinType](./linejointype/) | Jenis Gabung Baris. |
+| [IStrokeSettings](./istrokesettings/) | Pengaturan goresan pada Bentuk. |
+## Enumerasi
+
+| Enumerasi | Deskripsi |
+| --- | --- |
+| [LineCapType](./linecaptype/) | Tipe Cap Garis. |
+| [LineJoinType](./linejointype/) | Tipe Sambungan Garis. |
 
 

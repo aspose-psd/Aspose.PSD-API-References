@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SharpenFilterOptions Properti. Mendapat atau menyetel sigma.
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SharpenFilterOptions. Mendapatkan atau mengatur sigma"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-Mendapat atau menyetel sigma.
+Mendapatkan atau mengatur sigma.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-sigma.
+Sigma.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SharpenFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

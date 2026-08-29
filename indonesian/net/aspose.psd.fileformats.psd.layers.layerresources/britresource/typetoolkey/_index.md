@@ -1,23 +1,24 @@
 ---
-title: BritResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource bidang. Kunci info alat ketik.
+title: "BritResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang BritResource. Kunci informasi alat tipe"
 type: docs
-weight: 90
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BritResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

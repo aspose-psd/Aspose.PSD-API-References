@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory kelas. Kelas Pabrik Rekaman Jalur Vektor
+title: "Kelas VectorPathRecordFactory"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory kelas. Kelas Pabrik Rekaman Jalur Vektor"
 type: docs
-weight: 1410
+weight: 1420
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-Kelas Pabrik Rekaman Jalur Vektor
+Kelas Pabrik Rekaman Jalur Vektor.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
-
-## Konstruktor
-
-| Nama | Keterangan |
-| --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | Konstruktor default. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Menghasilkan rekaman jalur. |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Menghasilkan catatan jalur. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

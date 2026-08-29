@@ -1,14 +1,15 @@
 ---
-title: Enum GuideDirection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. Petunjuk arah.
+title: "Enum GuideDirection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. Arah panduan"
 type: docs
-weight: 3740
+weight: 4210
 url: /id/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
-Petunjuk arah.
+Arah panduan.
 
 ```csharp
 public enum GuideDirection : byte
@@ -16,14 +17,14 @@ public enum GuideDirection : byte
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Vertical | `0` | Arah panduan vertikal. |
 | Horizontal | `1` | Arah panduan horizontal. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

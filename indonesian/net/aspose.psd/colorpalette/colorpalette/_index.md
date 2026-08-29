@@ -1,91 +1,92 @@
 ---
-title: ColorPalette.ColorPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPalette konstruktor. Menginisialisasi instance baru dariColorPalette kelas.
+title: "ColorPalette.ColorPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ColorPalette. Menginisialisasi sebuah instance baru dari kelas ColorPalette"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/colorpalette/colorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPalette(int[], bool) {#constructor_3}
 
-Menginisialisasi instance baru dari[`ColorPalette`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ColorPalette`](../).
 
 ```csharp
 public ColorPalette(int[] argb32Entries, bool isCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | argb32Entries | Int32[] | Entri palet warna ARGB 32-bit. |
-| isCompactPalette | Boolean | Menunjukkan apakah kompak itu palet. |
+| isCompactPalette | Boolean | Menunjukkan apakah palet tersebut kompak. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(int[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`ColorPalette`](../) kelas dan IsCompactPalette salah.
+Menginisialisasi sebuah instance baru dari kelas [`ColorPalette`](../) dan IsCompactPalette bernilai false.
 
 ```csharp
 public ColorPalette(int[] argb32Entries)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | argb32Entries | Int32[] | Entri palet warna ARGB 32-bit. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[], bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ColorPalette`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ColorPalette`](../).
 
 ```csharp
 public ColorPalette(Color[] entries, bool isCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| entries | Color[] | Entri palet warna. |
-| isCompactPalette | Boolean | Menunjukkan apakah kompak itu palet. |
+| entri | Color[] | Entri palet warna. |
+| isCompactPalette | Boolean | Menunjukkan apakah palet tersebut kompak. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[]) {#constructor}
 
-Menginisialisasi instance baru dari[`ColorPalette`](../) kelas dan IsCompactPalette salah.
+Menginisialisasi sebuah instance baru dari kelas [`ColorPalette`](../) dan IsCompactPalette bernilai false.
 
 ```csharp
 public ColorPalette(Color[] entries)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| entries | Color[] | Entri palet warna. |
+| entri | Color[] | Entri palet warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

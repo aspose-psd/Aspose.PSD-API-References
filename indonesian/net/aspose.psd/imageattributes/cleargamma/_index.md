@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearGamma
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Menonaktifkan koreksi gamma untuk kategori default.
+title: "ImageAttributes.ClearGamma"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menonaktifkan koreksi gamma untuk kategori default"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/imageattributes/cleargamma/
 ---
+{{< psd/tize >}}
 ## ClearGamma() {#cleargamma}
 
 Menonaktifkan koreksi gamma untuk kategori default.
@@ -14,31 +15,31 @@ Menonaktifkan koreksi gamma untuk kategori default.
 public void ClearGamma()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearGamma(ColorAdjustType) {#cleargamma_1}
 
-Menonaktifkan koreksi gamma untuk kategori tertentu.
+Menonaktifkan koreksi gamma untuk kategori yang ditentukan.
 
 ```csharp
 public void ClearGamma(ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori untuk koreksi gamma yang dinonaktifkan. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana koreksi gamma dinonaktifkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

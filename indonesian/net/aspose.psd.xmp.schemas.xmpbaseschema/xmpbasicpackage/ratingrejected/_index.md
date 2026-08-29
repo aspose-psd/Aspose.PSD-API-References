@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage bidang. Peringkat ditolak nilai.
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field XmpBasicPackage. Nilai rating ditolak"
 type: docs
-weight: 120
+weight: 150
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-Peringkat ditolak nilai.
+Nilai rating yang ditolak.
 
 ```csharp
 public const int RatingRejected;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

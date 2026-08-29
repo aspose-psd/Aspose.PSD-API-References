@@ -1,28 +1,29 @@
 ---
-title: PsdImage.CmykColorProfile
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapatkan atau menyetel profil warna CMYK untuk gambar PSD CMYK. Harus dipasangkan dengan RgbColorProfile untuk konversi warna yang benar.
+title: "PsdImage.CmykColorProfile"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan atau mengatur profil warna CMYK untuk gambar PSD CMYK. Harus dipasangkan dengan RgbColorProfile untuk konversi warna yang tepat"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd/psdimage/cmykcolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.CmykColorProfile property
 
-Mendapatkan atau menyetel profil warna CMYK untuk gambar PSD CMYK. Harus dipasangkan dengan RgbColorProfile untuk konversi warna yang benar.
+Mendapatkan atau mengatur profil warna CMYK untuk gambar PSD CMYK. Harus dipasangkan dengan RgbColorProfile untuk konversi warna yang tepat.
 
 ```csharp
 public StreamSource CmykColorProfile { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Profil warna CMYK.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Yellow
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantCmyk Properti. Mendapat atau menetapkan nilai komponen kuning.
+title: "ColorantCmyk.Yellow"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorantCmyk property. Mendapatkan atau mengatur nilai komponen kuning"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Yellow property
 
-Mendapat atau menetapkan nilai komponen kuning.
+Mendapatkan atau mengatur nilai komponen kuning.
 
 ```csharp
 public float Yellow { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai komponen kuning.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantCmyk](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

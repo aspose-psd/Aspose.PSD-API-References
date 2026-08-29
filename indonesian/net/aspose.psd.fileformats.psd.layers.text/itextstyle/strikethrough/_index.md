@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah dicoret.
+title: "ITextStyle.Strikethrough"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah dicoret"
 type: docs
 weight: 230
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [dicoret].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [strikethrough].
 
 ```csharp
 public bool Strikethrough { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

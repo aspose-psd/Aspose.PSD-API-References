@@ -1,31 +1,32 @@
 ---
-title: AiHeader.Item
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetelString dengan nama properti yang ditentukan.
+title: "AiHeader.Item"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiHeader. Mendapatkan atau mengatur String dengan nama properti yang ditentukan"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-Mendapat atau menyetelString dengan nama properti yang ditentukan.
+Mendapatkan atau mengatur String dengan nama properti yang ditentukan.
 
 ```csharp
 public string this[string propertyName] { get; set; }
 ```
 
-| Parameter | Keterangan |
+| Parameter | Deskripsi |
 | --- | --- |
 | propertyName | Nama properti. |
 
-### Nilai properti
+### Property Value
 
-ItuString .
+String.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

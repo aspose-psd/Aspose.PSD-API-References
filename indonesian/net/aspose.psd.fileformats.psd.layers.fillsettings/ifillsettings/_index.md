@@ -1,14 +1,15 @@
 ---
-title: Interface IFillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings antarmuka. Antarmuka dasar untuk pengaturan isian
+title: "Antarmuka IFillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings. Antarmuka dasar untuk pengaturan isi"
 type: docs
-weight: 2000
+weight: 2120
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
+{{< psd/tize >}}
 ## IFillSettings interface
 
-Antarmuka dasar untuk pengaturan isian
+Antarmuka dasar untuk pengaturan isi
 
 ```csharp
 public interface IFillSettings
@@ -16,13 +17,13 @@ public interface IFillSettings
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | Mendapat jenis isian. |
+| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | Mendapatkan tipe pengisian. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

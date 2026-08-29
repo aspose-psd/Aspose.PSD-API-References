@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PointType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPatternFillSettings Properti. Mendapat atau mengatur jenis titik.
+title: "IPatternFillSettings.PointType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPatternFillSettings. Mendapatkan atau mengatur tipe titik"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PointType property
 
-Mendapat atau mengatur jenis titik.
+Mendapatkan atau mengatur tipe titik.
 
 ```csharp
 public string PointType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis titik.
+Tipe titik.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

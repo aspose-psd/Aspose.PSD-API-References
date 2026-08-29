@@ -1,27 +1,28 @@
 ---
-title: Figure.IsClosed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah angka ini ditutup. Gambar tertutup akan membuat perbedaan hanya jika bentuk gambar pertama dan terakhir adalah bentuk kontinu. Dalam kasus seperti itu titik pertama bentuk pertama akan dihubungkan dengan garis lurus dari titik terakhir bentuk terakhir.
+title: "Figure.IsClosed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Figure. Mengambil atau mengatur nilai yang menunjukkan apakah figure ini tertutup. Figure yang tertutup hanya akan membuat perbedaan bila bentuk pertama dan terakhir dari figure merupakan bentuk kontinu. Dalam kasus tersebut, titik pertama dari bentuk pertama akan dihubungkan dengan garis lurus dari titik terakhir bentuk terakhir."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/figure/isclosed/
 ---
+{{< psd/tize >}}
 ## Figure.IsClosed property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah angka ini ditutup. Gambar tertutup akan membuat perbedaan hanya jika bentuk gambar pertama dan terakhir adalah bentuk kontinu. Dalam kasus seperti itu, titik pertama bentuk pertama akan dihubungkan dengan garis lurus dari titik terakhir bentuk terakhir.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah figure ini tertutup. Figure yang tertutup hanya akan berpengaruh bila bentuk pertama dan terakhir dari figure merupakan bentuk kontinu. Dalam kasus tersebut, titik pertama dari bentuk pertama akan dihubungkan dengan garis lurus dari titik terakhir bentuk terakhir.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika angka ini ditutup; jika tidak,`PALSU`.
+`True` jika figure ini tertutup; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

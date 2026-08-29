@@ -1,29 +1,30 @@
 ---
-title: PixelsData.Pixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelsData Properti. Mendapat atau menyetel data piksel.
+title: "PixelsData.Pixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelsData properti. Mendapatkan atau mengatur data piksel"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/pixelsdata/pixels/
 ---
+{{< psd/tize >}}
 ## PixelsData.Pixels property
 
-Mendapat atau menyetel data piksel.
+Mendapatkan atau mengatur data piksel.
 
 ```csharp
 public int[] Pixels { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara membuat filter cerdas kustom yang memiliki perender kustom.
+Kode berikut menunjukkan cara membuat filter pintar khusus yang memiliki renderer khusus.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Inisiasi filter pintar 'Crystallize' yang tidak didukung pada larik masukan
+    // Menginisialisasi filter pintar 'Crystallize' yang tidak didukung pada array input
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // ID filter pintar 'Crystallize'.
@@ -56,10 +57,10 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Terapkan filter ke layer mask
+        // Terapkan filter ke masker lapisan
         smartFilter.ApplyToMask(maskLayer);
 
-        // Terapkan filter ke lapisan
+        //Terapkan filter ke lapisan
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -84,7 +85,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // dapatkan struktur filter
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // dapatkan nilai Ukuran Kristalisasi
+        // dapatkan nilai Ukuran Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -100,10 +101,10 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelsData](../)
-* ruang nama [Aspose.PSD](../../pixelsdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

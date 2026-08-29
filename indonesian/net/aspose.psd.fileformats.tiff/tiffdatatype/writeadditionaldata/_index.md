@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.WriteAdditionalData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType metode. Menulis data tag tambahan.
+title: "TiffDataType.WriteAdditionalData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffDataType method. Menulis data tag tambahan"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteAdditionalData method
 
 Menulis data tag tambahan.
@@ -14,19 +15,19 @@ Menulis data tag tambahan.
 public abstract long WriteAdditionalData(TiffStreamWriter dataStream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | Aliran data. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Byte aktual yang ditulis.
+Byte yang sebenarnya ditulis.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

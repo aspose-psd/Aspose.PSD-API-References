@@ -1,23 +1,24 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Meratakan semua layer.
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage metode. Meratakan semua lapisan"
 type: docs
-weight: 540
+weight: 600
 url: /id/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-Meratakan semua layer.
+Meratakan semua lapisan.
 
 ```csharp
 public void FlattenImage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

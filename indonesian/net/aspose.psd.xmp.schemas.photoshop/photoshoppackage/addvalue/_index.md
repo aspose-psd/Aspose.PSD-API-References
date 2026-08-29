@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Menambahkan properti string.
+title: "PhotoshopPackage.AddValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PhotoshopPackage metode. Menambahkan properti string"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
 Menambahkan properti string.
@@ -14,21 +15,21 @@ Menambahkan properti string.
 public override void AddValue(string key, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Representasi string kunci yang diidentifikasi dengan nilai tambah. |
-| value | String | Nilai string. |
+| kunci | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditambahkan. |
+| nilai | String | Nilai string. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | key;Properti Photoshop tidak boleh kosong |
+| ArgumentNullException | key;Properti Photoshop tidak boleh null |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

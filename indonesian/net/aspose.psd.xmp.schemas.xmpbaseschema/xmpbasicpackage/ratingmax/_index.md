@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage bidang. Peringkat nilai maks.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field XmpBasicPackage. Nilai maksimum rating"
 type: docs
-weight: 100
+weight: 130
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
-Peringkat nilai maks.
+Nilai maksimum rating.
 
 ```csharp
 public const int RatingMax;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

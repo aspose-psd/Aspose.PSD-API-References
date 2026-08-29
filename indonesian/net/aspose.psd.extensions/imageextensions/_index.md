@@ -1,22 +1,29 @@
 ---
-title: Class ImageExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.ImageExtensions kelas. Berisi metode ekstensi untuk konversi berdasarkanImage DanImage .
+title: "Kelas ImageExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.ImageExtensions. Berisi metode ekstensi untuk konversi berdasarkan Image dan Image."
 type: docs
-weight: 1120
+weight: 1130
 url: /id/net/aspose.psd.extensions/imageextensions/
 ---
+{{< psd/tize >}}
 ## ImageExtensions class
 
-Berisi metode ekstensi untuk konversi berdasarkanImage Dan[`Image`](../../aspose.psd/image/) .
+Berisi metode ekstensi untuk konversi berbasis Image dan Image.
 
 ```csharp
 public static class ImageExtensions
 ```
 
-### Lihat juga
+## Metode
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+| Nama | Deskripsi |
+| --- | --- |
+| static [ToGdiImage](../../aspose.psd.extensions/imageextensions/togdiimage/)(Image) | Mengonversi Image menjadi Image. |
+
+### Lihat Juga
+
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

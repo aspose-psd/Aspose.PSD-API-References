@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.DitheringMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DitheringMode konstruktor. Konstruktor default.
+title: "DitheringMode.DitheringMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DitheringMode constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.dithering/ditheringmode/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public DitheringMode()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DitheringMode](../)
-* ruang nama [Aspose.PSD.Dithering](../../ditheringmode/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

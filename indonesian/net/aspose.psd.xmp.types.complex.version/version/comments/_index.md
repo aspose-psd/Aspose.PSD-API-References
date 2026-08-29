@@ -1,27 +1,28 @@
 ---
-title: Version.Comments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Version Properti. Mendapat atau menyetel komentar.
+title: "Version.Comments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Version. Mendapatkan atau mengatur komentar"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex.version/version/comments/
 ---
+{{< psd/tize >}}
 ## Version.Comments property
 
-Mendapat atau menyetel komentar.
+Mendapatkan atau mengatur komentar.
 
 ```csharp
 public string Comments { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komentar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Version](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

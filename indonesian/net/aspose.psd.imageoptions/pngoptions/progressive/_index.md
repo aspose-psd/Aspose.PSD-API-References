@@ -1,27 +1,28 @@
 ---
-title: PngOptions.Progressive
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PngOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniPngOptions progresif.
+title: "PngOptions.Progressive"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PngOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah PngOptions ini bersifat progresif"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
+{{< psd/tize >}}
 ## PngOptions.Progressive property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`PngOptions`](../) progresif.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`PngOptions`](../) ini bersifat progresif.
 
 ```csharp
 public bool Progressive { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika progresif; jika tidak,`PALSU` .
+`true` jika progresif; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PngOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pngoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.Flash
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur flash.
+title: "ExifData.Flash"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur lampu kilat"
 type: docs
 weight: 250
 url: /id/net/aspose.psd.exif/exifdata/flash/
 ---
+{{< psd/tize >}}
 ## ExifData.Flash property
 
-Mendapat atau mengatur flash.
+Mendapatkan atau mengatur lampu kilat.
 
 ```csharp
 public ExifFlash Flash { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lampu kilat.
+Kilatan.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifFlash](../../../aspose.psd.exif.enums/exifflash/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

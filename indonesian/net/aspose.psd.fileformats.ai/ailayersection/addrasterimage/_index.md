@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.AddRasterImage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection metode. Menambahkan gambar raster.
+title: "AiLayerSection.AddRasterImage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AiLayerSection. Menambahkan gambar raster"
 type: docs
-weight: 140
+weight: 160
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.AddRasterImage method
 
 Menambahkan gambar raster.
@@ -14,15 +15,15 @@ Menambahkan gambar raster.
 public void AddRasterImage(AiRasterImageSection rasterImage)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rasterImage | AiRasterImageSection | Gambar raster. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

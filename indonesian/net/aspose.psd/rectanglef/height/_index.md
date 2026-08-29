@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF Properti. Mendapat atau mengatur ketinggian iniRectangleFstruktur.
+title: "RectangleF.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleF. Mendapatkan atau mengatur tinggi dari struktur RectangleF ini"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/rectanglef/height/
 ---
+{{< psd/tize >}}
 ## RectangleF.Height property
 
-Mendapat atau mengatur ketinggian ini[`RectangleF`](../)struktur.
+Mendapatkan atau mengatur tinggi dari struktur [`RectangleF`](../) ini.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Ketinggian ini[`RectangleF`](../) struktur.
+Tinggi dari struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

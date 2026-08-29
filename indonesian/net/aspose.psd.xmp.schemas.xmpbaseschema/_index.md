@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpBaseSchema
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas pembantu terkait Skema Dasar XMP konstanta dan metode yang menyediakan informasi deskriptif dasar.
+title: "Aspose.PSD.Xmp.Schemas.XmpBaseSchema"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi kelas pembantu, konstanta, dan metode terkait XMP Basic Schema yang menyediakan informasi deskriptif dasar"
 type: docs
-weight: 560
+weight: 600
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/
 ---
-Ruang nama berisi kelas pembantu terkait Skema Dasar XMP, konstanta, dan metode yang menyediakan informasi deskriptif dasar.
+{{< psd/tize >}}
+Namespace berisi kelas pembantu, konstanta, dan metode terkait XMP Basic Schema yang menyediakan informasi deskriptif dasar.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [XmpBasicPackage](./xmpbasicpackage/) | Merupakan namespace dasar XMP. |
+| [XmpBasicPackage](./xmpbasicpackage/) | Mewakili namespace XMP dasar. |
 
 

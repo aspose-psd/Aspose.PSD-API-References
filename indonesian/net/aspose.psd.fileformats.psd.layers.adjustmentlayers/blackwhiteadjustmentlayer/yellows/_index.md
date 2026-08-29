@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Yellows
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlackWhiteAdjustmentLayer Properti. Mendapat atau menetapkan nilai kuning.
+title: "BlackWhiteAdjustmentLayer.Yellows"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlackWhiteAdjustmentLayer. Mendapatkan atau menetapkan nilai kuning"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/yellows/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Yellows property
 
-Mendapat atau menetapkan nilai kuning.
+Mendapatkan atau mengatur nilai yellows.
 
 ```csharp
 public int Yellows { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai kuning.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat menambahkan lapisan penyesuaian hitam putih saat runtime di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menambahkan lapisan penyesuaian hitam putih pada waktu berjalan di Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BackgroundColorResource Properti. Mendapat atau mengatur warna latar belakang.
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BackgroundColorResource. Mendapatkan atau mengatur warna latar belakang"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
-Mendapat atau mengatur warna latar belakang.
+Mendapatkan atau mengatur warna latar belakang.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya BackgroundColorResource.
 
@@ -44,11 +45,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

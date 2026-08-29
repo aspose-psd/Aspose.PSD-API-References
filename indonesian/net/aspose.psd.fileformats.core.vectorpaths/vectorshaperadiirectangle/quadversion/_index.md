@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.QuadVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeRadiiRectangle Properti. Mendapat atau menetapkan versi quad nilai unit.
+title: "VectorShapeRadiiRectangle.QuadVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorShapeRadiiRectangle properti. Mendapatkan atau mengatur nilai unit versi quad"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.QuadVersion property
 
-Mendapat atau menetapkan versi quad nilai unit.
+Mendapatkan atau mengatur nilai unit versi kuad.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi quad.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeRadiiRectangle](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

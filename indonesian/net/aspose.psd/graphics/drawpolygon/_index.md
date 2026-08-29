@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawPolygon
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menggambar poligon yang ditentukan oleh larikPointF struktur.
+title: "Graphics.DrawPolygon"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menggambar sebuah poligon yang didefinisikan oleh array struktur PointF"
 type: docs
-weight: 290
+weight: 300
 url: /id/net/aspose.psd/graphics/drawpolygon/
 ---
+{{< psd/tize >}}
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-Menggambar poligon yang ditentukan oleh larik[`PointF`](../../pointf/) struktur.
+Menggambar sebuah poligon yang didefinisikan oleh array struktur [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya poligon. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang mewakili simpul dari poligon. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mewakili titik sudut poligon. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-Menggambar poligon yang ditentukan oleh larik[`Point`](../../point/) struktur.
+Menggambar sebuah poligon yang didefinisikan oleh array struktur [`Point`](../../point/).
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya poligon. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang mewakili simpul dari poligon. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mewakili titik sudut poligon. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

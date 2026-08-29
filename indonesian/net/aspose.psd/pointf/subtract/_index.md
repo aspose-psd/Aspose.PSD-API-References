@@ -1,59 +1,60 @@
 ---
-title: PointF.Subtract
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF metode. Menerjemahkan aPointF dengan negatif dari ukuran tertentu.
+title: "PointF.Subtract"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointF. Mentranslasi sebuah PointF dengan nilai negatif dari ukuran yang ditentukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/pointf/subtract/
 ---
+{{< psd/tize >}}
 ## Subtract(PointF, Size) {#subtract}
 
-Menerjemahkan a[`PointF`](../) dengan negatif dari ukuran tertentu.
+Mentranslasi sebuah [`PointF`](../) dengan nilai negatif dari ukuran yang ditentukan.
 
 ```csharp
 public static PointF Subtract(PointF point, Size size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../) untuk menerjemahkan. |
-| size | Size | Itu[`Size`](../../size/) yang menentukan angka untuk mengurangi dari koordinat*point*. |
+| point | PointF | [`PointF`](../) yang akan ditranslasikan. |
+| size | Size | [`Size`](../../size/) yang menentukan angka-angka yang akan dikurangkan dari koordinat *point*. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang diterjemahkan[`PointF`](../).
+[`PointF`](../) yang telah ditranslasikan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Subtract(PointF, SizeF) {#subtract_1}
 
-Menerjemahkan a[`PointF`](../) dengan negatif dari ukuran tertentu.
+Mentranslasi sebuah [`PointF`](../) dengan nilai negatif dari ukuran yang ditentukan.
 
 ```csharp
 public static PointF Subtract(PointF point, SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../) untuk menerjemahkan. |
-| size | SizeF | Itu[`SizeF`](../../sizef/) yang menentukan angka untuk mengurangi dari koordinat*point*. |
+| point | PointF | [`PointF`](../) yang akan ditranslasikan. |
+| size | SizeF | [`SizeF`](../../sizef/) yang menentukan angka-angka untuk dikurangkan dari koordinat *point*. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang diterjemahkan[`PointF`](../).
+[`PointF`](../) yang telah ditranslasikan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

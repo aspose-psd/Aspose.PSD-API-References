@@ -1,27 +1,28 @@
 ---
-title: ClipboardRecord.Resolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClipboardRecord Properti. Mendapat atau menyetel resolusi.
+title: "ClipboardRecord.Resolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ClipboardRecord properti. Mendapatkan atau mengatur resolusi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Resolution property
 
-Mendapat atau menyetel resolusi.
+Mendapatkan atau mengatur resolusi.
 
 ```csharp
 public float Resolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Resolusi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClipboardRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

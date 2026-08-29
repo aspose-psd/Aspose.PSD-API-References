@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceBlock Properti. Mendapat ukuran blok sumber daya dalam byte termasuk datanya.
+title: "ResourceBlock.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceBlock. Mendapatkan ukuran blok sumber daya dalam byte termasuk datanya"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd/resourceblock/size/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Size property
 
-Mendapat ukuran blok sumber daya dalam byte termasuk datanya.
+Mendapatkan ukuran blok sumber daya dalam byte termasuk datanya.
 
 ```csharp
 public int Size { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran blok sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

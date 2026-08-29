@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas dan metode pembantu terkait EXIF.
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi kelas pembantu dan metode terkait EXIF"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.psd.exif/
 ---
-Ruang nama berisi kelas dan metode pembantu terkait EXIF.
+{{< psd/tize >}}
+Namespace berisi kelas pembantu dan metode terkait EXIF.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [ExifData](./exifdata/) | wadah data EXIF. |
-| [JpegExifData](./jpegexifdata/) | wadah data EXIF untuk file jpeg. |
+| [ExifData](./exifdata/) | Kontainer data EXIF. |
+| [JpegExifData](./jpegexifdata/) | Kontainer data EXIF untuk file jpeg. |
 | [TiffDataTypeController](./tiffdatatypecontroller/) | Mewakili kelas umum untuk bekerja dengan tipe data tiff. |
-## Pencacahan
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [ExifProperties](./exifproperties/) | Daftar tag exif |
+| [ExifProperties](./exifproperties/) | Daftar tag Exif |
 
 

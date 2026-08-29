@@ -1,27 +1,28 @@
 ---
-title: SizeF.IsEmpty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF Properti. Mendapat nilai yang menunjukkan apakah iniSizeF memiliki lebar dan tinggi nol.
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SizeF. Mendapatkan nilai yang menunjukkan apakah SizeF ini memiliki lebar dan tinggi nol."
 type: docs
 weight: 60
 url: /id/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-Mendapat nilai yang menunjukkan apakah ini[`SizeF`](../) memiliki lebar dan tinggi nol.
+Mendapatkan nilai yang menunjukkan apakah [`SizeF`](../) ini memiliki lebar dan tinggi nol.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Properti ini mengembalikan nilai true saat ini[`SizeF`](../) memiliki lebar dan tinggi nol; jika tidak, salah.
+Properti ini mengembalikan true ketika [`SizeF`](../) ini memiliki lebar dan tinggi nol; selainnya, false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

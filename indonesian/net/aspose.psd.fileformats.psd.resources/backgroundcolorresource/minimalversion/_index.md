@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BackgroundColorResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "BackgroundColorResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BackgroundColorResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,11 +15,11 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya BackgroundColorResource.
 
@@ -48,10 +49,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BackgroundColorResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

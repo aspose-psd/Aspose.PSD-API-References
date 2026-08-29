@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.VerticalMeshPointUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menetapkan satuan ukuran dari titik jaring vertikal.
+title: "PlacedResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur satuan pengukuran titik mesh vertikal."
 type: docs
-weight: 230
+weight: 220
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPointUnit property
 
-Mendapat atau menetapkan satuan ukuran dari titik jaring vertikal.
+Mendapatkan atau mengatur satuan ukuran dari titik mesh vertikal.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Satuan ukuran titik jala vertikal.
+Satuan pengukuran titik mesh vertikal.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

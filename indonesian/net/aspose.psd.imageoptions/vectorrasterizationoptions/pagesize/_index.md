@@ -1,24 +1,25 @@
 ---
-title: VectorRasterizationOptions.PageSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions Properti. Mendapat atau mengatur ukuran halaman.
+title: "VectorRasterizationOptions.PageSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorRasterizationOptions. Mendapatkan atau mengatur ukuran halaman"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/pagesize/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageSize property
 
-Mendapat atau mengatur ukuran halaman.
+Mendapatkan atau mengatur ukuran halaman.
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

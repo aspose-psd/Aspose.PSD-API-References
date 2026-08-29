@@ -1,29 +1,30 @@
 ---
-title: OffsetStructure.OffsetStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OffsetStructure konstruktor. Menginisialisasi instance baru dariOffsetStructure kelas.
+title: "OffsetStructure.OffsetStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor OffsetStructure. Menginisialisasi instance baru dari kelas OffsetStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure constructor
 
-Menginisialisasi instance baru dari[`OffsetStructure`](../) kelas.
+Menginisialisasi instance baru dari kelas [`OffsetStructure`](../).
 
 ```csharp
 public OffsetStructure(ClassID keyName, ClassID classID)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 | classID | ClassID | ID kelas. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

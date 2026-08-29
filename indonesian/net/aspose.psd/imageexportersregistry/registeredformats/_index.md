@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageExportersRegistry Properti. Mendapatkan format ekspor terdaftar.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "properti ImageExportersRegistry. Mendapatkan format ekspor yang terdaftar."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
-Mendapatkan format ekspor terdaftar.
+Mendapatkan format ekspor yang terdaftar.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Format ekspor terdaftar.
+Format ekspor yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageexportersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

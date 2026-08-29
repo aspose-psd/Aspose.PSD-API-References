@@ -1,27 +1,28 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AsyncTaskException konstruktor. Menginisialisasi instance baru dariAsyncTaskException kelas.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor AsyncTaskException. Menginisialisasi instance baru dari kelas AsyncTaskException."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-Menginisialisasi instance baru dari[`AsyncTaskException`](../) kelas.
+Menginisialisasi instance baru dari kelas [`AsyncTaskException`](../).
 
 ```csharp
 public AsyncTaskException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan yang menjelaskan kesalahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AsyncTaskException](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

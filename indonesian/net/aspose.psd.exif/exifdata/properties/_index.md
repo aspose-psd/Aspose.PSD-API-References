@@ -1,28 +1,29 @@
 ---
-title: ExifData.Properties
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel semua tag EXIF termasuk tag umum dan GPS.
+title: "ExifData.Properties"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur semua tag EXIF termasuk tag umum dan GPS"
 type: docs
 weight: 860
 url: /id/net/aspose.psd.exif/exifdata/properties/
 ---
+{{< psd/tize >}}
 ## ExifData.Properties property
 
-Mendapat atau menyetel semua tag EXIF (termasuk tag umum dan GPS).
+Mendapatkan atau mengatur semua tag EXIF (termasuk tag umum dan GPS).
 
 ```csharp
 public TiffDataType[] Properties { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tag EXIF (termasuk tag umum dan GPS).
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

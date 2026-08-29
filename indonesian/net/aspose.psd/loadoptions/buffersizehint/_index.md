@@ -1,27 +1,28 @@
 ---
-title: LoadOptions.BufferSizeHint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LoadOptions Properti. Mendapat atau menyetel petunjuk ukuran buffer yang ditentukan ukuran maksimum yang diizinkan untuk semua buffer internal.
+title: "LoadOptions.BufferSizeHint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LoadOptions. Mendapatkan atau mengatur petunjuk ukuran buffer yang didefinisikan sebagai ukuran maksimum yang diizinkan untuk semua buffer internal"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/loadoptions/buffersizehint/
 ---
+{{< psd/tize >}}
 ## LoadOptions.BufferSizeHint property
 
-Mendapat atau menyetel petunjuk ukuran buffer yang ditentukan ukuran maksimum yang diizinkan untuk semua buffer internal.
+Mendapatkan atau mengatur petunjuk ukuran buffer yang didefinisikan sebagai ukuran maksimum yang diizinkan untuk semua buffer internal.
 
 ```csharp
 public int BufferSizeHint { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Petunjuk ukuran buffer, dalam megabita. Nilai non-positif berarti tidak ada batasan memori untuk buffer internal
+Petunjuk ukuran buffer, dalam megabyte. Nilai non-positif berarti tidak ada batas memori untuk buffer internal
 
-### Lihat juga
+### Lihat Juga
 
 * class [LoadOptions](../)
-* ruang nama [Aspose.PSD](../../loadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

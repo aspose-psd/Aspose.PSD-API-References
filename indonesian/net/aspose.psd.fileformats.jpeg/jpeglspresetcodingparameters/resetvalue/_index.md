@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.ResetValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegLsPresetCodingParameters Properti. Mendapat atau menetapkan nilai di mana penghitung A B dan N dibelah dua.
+title: "JpegLsPresetCodingParameters.ResetValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegLsPresetCodingParameters. Mendapatkan atau mengatur nilai di mana penghitung A B dan N dibagi dua"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.ResetValue property
 
-Mendapat atau menetapkan nilai di mana penghitung A, B, dan N dibelah dua.
+Mendapatkan atau mengatur nilai di mana penghitung A, B, dan N dibagi dua.
 
 ```csharp
 public int ResetValue { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegLsPresetCodingParameters](../)
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

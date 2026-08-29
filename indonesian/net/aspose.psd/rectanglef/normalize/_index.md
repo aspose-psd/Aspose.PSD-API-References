@@ -1,23 +1,24 @@
 ---
-title: RectangleF.Normalize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Menormalkan persegi panjang dengan menjadikan lebar dan tingginya positif kiri lebih kecil dari kanan dan atas lebih kecil dari bawah.
+title: "RectangleF.Normalize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Menormalkan persegi panjang dengan membuat lebar dan tinggi menjadi positif, kiri lebih kecil dari kanan, dan atas lebih kecil dari bawah."
 type: docs
 weight: 230
 url: /id/net/aspose.psd/rectanglef/normalize/
 ---
+{{< psd/tize >}}
 ## RectangleF.Normalize method
 
-Menormalkan persegi panjang dengan menjadikan lebar dan tingginya positif, kiri lebih kecil dari kanan dan atas lebih kecil dari bawah.
+Menormalkan rectangle dengan membuat lebar dan tinggi menjadi positif, kiri lebih kecil dari kanan, dan atas lebih kecil dari bawah.
 
 ```csharp
 public void Normalize()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

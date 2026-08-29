@@ -1,30 +1,31 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Menentukan apakah font diperbolehkan nama font yang ditentukan.
+title: "FontSettings.IsFontAllowed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Menentukan apakah font diizinkan untuk nama font yang ditentukan"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-Menentukan apakah [font diperbolehkan] [nama font yang ditentukan].
+Menentukan apakah [is font allowed] [nama font yang ditentukan].
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontName | String | Nama fontnya. |
+| fontName | String | Nama font. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika [apakah font diperbolehkan] [nama font yang ditentukan]; jika tidak,`PALSU` .
+`true` jika [is font allowed] [the specified font name]; selainnya, `false`.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk membatasi penggunaan font secara terprogram.
+Kode berikut menunjukkan kemampuan untuk secara programatik membatasi font menggunakan.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

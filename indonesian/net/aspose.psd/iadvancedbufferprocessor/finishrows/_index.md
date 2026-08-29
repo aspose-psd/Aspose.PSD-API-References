@@ -1,27 +1,28 @@
 ---
-title: IAdvancedBufferProcessor.FinishRows
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IAdvancedBufferProcessor metode. Menyelesaikan baris.
+title: "IAdvancedBufferProcessor.FinishRows"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IAdvancedBufferProcessor metode. Menyelesaikan baris"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/iadvancedbufferprocessor/finishrows/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor.FinishRows method
 
-Menyelesaikan baris.
+Menyelesaikan baris-baris.
 
 ```csharp
 public void FinishRows(int rowsCount)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rowsCount | Int32 | Jumlah baris. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAdvancedBufferProcessor](../)
-* ruang nama [Aspose.PSD](../../iadvancedbufferprocessor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

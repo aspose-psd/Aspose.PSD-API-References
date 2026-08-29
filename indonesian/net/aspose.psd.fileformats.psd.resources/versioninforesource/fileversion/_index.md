@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.FileVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VersionInfoResource Properti. Mendapat atau menyetel versi file.
+title: "VersionInfoResource.FileVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VersionInfoResource properti. Mendapatkan atau mengatur versi file"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversion/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.FileVersion property
 
-Mendapat atau menyetel versi file.
+Mendapatkan atau mengatur versi file.
 
 ```csharp
 public uint FileVersion { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi file.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VersionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

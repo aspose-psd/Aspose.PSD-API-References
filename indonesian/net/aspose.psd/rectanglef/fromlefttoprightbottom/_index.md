@@ -1,34 +1,35 @@
 ---
-title: RectangleF.FromLeftTopRightBottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Membuat aRectangleF struktur dengan pojok kiri atas dan pojok kanan bawah di lokasi yang ditentukan.
+title: "RectangleF.FromLeftTopRightBottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Membuat struktur RectangleF dengan sudut kiri atas dan sudut kanan bawah pada lokasi yang ditentukan."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/rectanglef/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromLeftTopRightBottom method
 
-Membuat a[`RectangleF`](../) struktur dengan pojok kiri atas dan pojok kanan bawah di lokasi yang ditentukan.
+Membuat struktur [`RectangleF`](../) dengan sudut kiri atas dan sudut kanan bawah pada lokasi yang ditentukan.
 
 ```csharp
 public static RectangleF FromLeftTopRightBottom(float left, float top, float right, float bottom)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Single | Koordinat x sudut kiri atas bidang persegi panjang. |
-| top | Single | Koordinat y sudut kiri atas bidang persegi panjang. |
-| right | Single | Koordinat x sudut kanan bawah bidang persegi panjang. |
-| bottom | Single | Koordinat y sudut kanan bawah bidang persegi panjang. |
+| kiri | Single | Koordinat x dari sudut kiri atas wilayah persegi panjang. |
+| atas | Single | Koordinat y dari sudut kiri atas wilayah persegi panjang. |
+| kanan | Single | Koordinat x dari sudut kanan bawah wilayah persegi panjang. |
+| bawah | Single | Koordinat y dari sudut kanan bawah wilayah persegi panjang. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang baru[`RectangleF`](../) yang dibuat oleh metode ini.
+[`RectangleF`](../) baru yang dibuat oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

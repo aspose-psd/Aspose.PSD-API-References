@@ -1,27 +1,28 @@
 ---
-title: Color.MediumOrchid
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color Properti. Mendapat warna yang ditentukan sistem.
+title: "Color.MediumOrchid"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Color property. Mendapatkan warna yang didefinisikan sistem"
 type: docs
 weight: 850
 url: /id/net/aspose.psd/color/mediumorchid/
 ---
+{{< psd/tize >}}
 ## Color.MediumOrchid property
 
-Mendapat warna yang ditentukan sistem.
+Mendapatkan warna yang didefinisikan sistem.
 
 ```csharp
 public static Color MediumOrchid { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`Color`](../) mewakili warna yang ditentukan sistem.
+Sebuah [`Color`](../) yang mewakili warna yang didefinisikan sistem.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

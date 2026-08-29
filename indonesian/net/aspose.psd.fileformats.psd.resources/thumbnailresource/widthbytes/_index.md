@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ThumbnailResource Properti. Mendapatkan lebar baris dalam byte.
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ThumbnailResource property. Mendapatkan lebar baris dalam byte"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
 Mendapatkan lebar baris dalam byte.
@@ -14,14 +15,14 @@ Mendapatkan lebar baris dalam byte.
 public int WidthBytes { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar baris dalam byte.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ThumbnailResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

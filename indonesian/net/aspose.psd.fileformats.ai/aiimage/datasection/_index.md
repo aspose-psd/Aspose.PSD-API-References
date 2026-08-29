@@ -1,28 +1,29 @@
 ---
-title: AiImage.DataSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapat bagian data.
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan bagian data"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
-Mendapat bagian data.
+Mendapatkan bagian data.
 
 ```csharp
 public AiDataSection DataSection { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Bagian data.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

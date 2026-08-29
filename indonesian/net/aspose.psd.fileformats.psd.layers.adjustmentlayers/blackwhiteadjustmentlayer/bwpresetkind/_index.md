@@ -1,24 +1,25 @@
 ---
-title: BlackWhiteAdjustmentLayer.BwPresetKind
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlackWhiteAdjustmentLayer Properti. Mendapat atau menyetel nilai prasetel hitam putih.
+title: "BlackWhiteAdjustmentLayer.BwPresetKind"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlackWhiteAdjustmentLayer. Mendapatkan atau mengatur nilai jenis preset hitam putih."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-Mendapat atau menyetel nilai prasetel hitam putih.
+Mendapatkan atau mengatur nilai jenis preset hitam dan putih.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai jenis preset hitam dan putih.
+Nilai jenis preset hitam putih.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi properti lapisan penyesuaian hitam putih di Aspose.PSD
 
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

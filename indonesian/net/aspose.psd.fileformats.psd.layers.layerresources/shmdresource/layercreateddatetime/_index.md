@@ -1,27 +1,28 @@
 ---
-title: ShmdResource.LayerCreatedDateTime
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShmdResource Properti. Mendapat atau menyetel waktu pembuatan layer. Jika waktu pembuatan Layer tidak ditentukan maka kembalikan DateTime0 baru
+title: "ShmdResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ShmdResource. Mendapatkan atau mengatur waktu pembuatan lapisan. Jika waktu pembuatan lapisan tidak ditentukan maka mengembalikan DateTime0 baru"
 type: docs
-weight: 30
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## ShmdResource.LayerCreatedDateTime property
 
-Mendapat atau menyetel waktu pembuatan layer. Jika waktu pembuatan Layer tidak ditentukan, maka kembalikan DateTime(0) baru
+Mendapatkan atau mengatur waktu pembuatan lapisan. Jika waktu pembuatan lapisan tidak ditentukan maka mengembalikan new DateTime(0)
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Waktu pembuatan layer.
+Waktu pembuatan lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShmdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

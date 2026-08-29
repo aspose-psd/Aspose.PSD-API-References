@@ -1,32 +1,33 @@
 ---
-title: RectangleF.Union
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Membuat persegi panjang ketiga sekecil mungkin yang dapat memuat kedua persegi panjang yang membentuk gabungan.
+title: "RectangleF.Union"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Membuat persegi panjang ketiga terkecil yang dapat menampung kedua persegi panjang yang membentuk sebuah gabungan."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/rectanglef/union/
 ---
+{{< psd/tize >}}
 ## RectangleF.Union method
 
-Membuat persegi panjang ketiga sekecil mungkin yang dapat memuat kedua persegi panjang yang membentuk gabungan.
+Membuat rectangle ketiga terkecil yang mungkin yang dapat menampung kedua rectangle yang membentuk sebuah union.
 
 ```csharp
 public static RectangleF Union(RectangleF a, RectangleF b)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| a | RectangleF | Sebuah persegi panjang pertama untuk penyatuan. |
-| b | RectangleF | Sebuah persegi panjang kedua untuk penyatuan. |
+| a | RectangleF | Persegi panjang pertama untuk digabungkan. |
+| b | RectangleF | Persegi panjang kedua untuk digabungkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Ketiga[`RectangleF`](../) struktur yang berisi kedua persegi panjang yang membentuk gabungan.
+Struktur [`RectangleF`](../) ketiga yang berisi kedua persegi panjang yang membentuk gabungan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

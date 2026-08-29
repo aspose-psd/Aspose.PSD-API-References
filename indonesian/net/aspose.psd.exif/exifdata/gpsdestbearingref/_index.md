@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur referensi GPS yang digunakan untuk memberikan arah ke titik tujuan.
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur referensi GPS yang digunakan untuk memberikan arah ke titik tujuan"
 type: docs
 weight: 410
 url: /id/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
-Mendapat atau mengatur referensi GPS yang digunakan untuk memberikan arah ke titik tujuan.
+Mendapatkan atau mengatur referensi GPS yang digunakan untuk memberikan arah ke titik tujuan.
 
 ```csharp
 public string GPSDestBearingRef { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Referensi GPS yang digunakan untuk memberikan arah ke titik tujuan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

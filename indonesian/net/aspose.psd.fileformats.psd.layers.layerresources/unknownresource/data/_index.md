@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.Data
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnknownResource Properti. Mendapat atau menyetel data.
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UnknownResource. Mendapatkan atau mengatur data"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
-Mendapat atau menyetel data.
+Mendapatkan atau mengatur data.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Datanya.
+Data.
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnknownResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

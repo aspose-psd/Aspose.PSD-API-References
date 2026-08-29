@@ -1,27 +1,28 @@
 ---
-title: CurvesManager.MaxChannelCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesManager Properti. Mendapat jumlah saluran maksimum.
+title: "CurvesManager.MaxChannelCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CurvesManager. Mendapatkan jumlah saluran maksimum"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/
 ---
+{{< psd/tize >}}
 ## CurvesManager.MaxChannelCount property
 
-Mendapat jumlah saluran maksimum.
+Mendapatkan jumlah kanal maksimum.
 
 ```csharp
 public int MaxChannelCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah saluran maksimum.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

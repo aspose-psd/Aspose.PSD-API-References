@@ -1,23 +1,24 @@
 ---
-title: ThumbnailResource.ValidateValues
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ThumbnailResource metode. Memvalidasi nilai sumber daya.
+title: "ThumbnailResource.ValidateValues"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ThumbnailResource. Memvalidasi nilai-nilai sumber daya"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ValidateValues method
 
-Memvalidasi nilai sumber daya.
+Memvalidasi nilai-nilai sumber daya.
 
 ```csharp
 public override void ValidateValues()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ThumbnailResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

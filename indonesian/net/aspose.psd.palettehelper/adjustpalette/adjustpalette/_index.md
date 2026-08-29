@@ -1,11 +1,12 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AdjustPalette konstruktor. Konstruktor default.
+title: "AdjustPalette.AdjustPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor AdjustPalette. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public AdjustPalette()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AdjustPalette](../)
-* ruang nama [Aspose.PSD.PaletteHelper](../../adjustpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.PaletteHelper](../../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../../)
 
 

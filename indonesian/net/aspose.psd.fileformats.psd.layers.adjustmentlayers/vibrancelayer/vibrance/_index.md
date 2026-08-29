@@ -1,30 +1,31 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VibranceLayer Properti. Mendapat atau menyetel vibrance.
+title: "VibranceLayer.Vibrance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VibranceLayer. Mendapatkan atau mengatur vibransi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
-Mendapat atau menyetel vibrance.
+Mendapatkan atau mengatur vibrance.
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Getarannya.
+Vibransi.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Vibrance harus berkisar dari -180 hingga +180 |
+| ArgumentOutOfRangeException | Vibransi harus berada dalam rentang dari -180 hingga +180 |
 
-### Contoh
+## Contoh
 
 Contoh kode berikut menunjukkan dukungan lapisan VibranceLayer dan kemampuan untuk mengedit penyesuaian ini.
 
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VibranceLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

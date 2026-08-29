@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.ReaderName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VersionInfoResource Properti. Mendapatkan atau menetapkan nama pembaca.
+title: "VersionInfoResource.ReaderName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VersionInfoResource properti. Mendapatkan atau mengatur nama pembaca"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.resources/versioninforesource/readername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.ReaderName property
 
-Mendapatkan atau menetapkan nama pembaca.
+Mendapatkan atau mengatur nama pembaca.
 
 ```csharp
 public string ReaderName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama pembaca.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VersionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

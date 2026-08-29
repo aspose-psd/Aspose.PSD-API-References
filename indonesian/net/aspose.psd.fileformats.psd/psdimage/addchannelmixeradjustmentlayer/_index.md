@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan penyesuaian mixer saluran dengan parameter default
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage metode. Menambahkan lapisan penyesuaian pencampur saluran dengan parameter default"
 type: docs
-weight: 310
+weight: 320
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-Menambahkan lapisan penyesuaian mixer saluran dengan parameter default
+Menambahkan lapisan penyesuaian pencampur kanal dengan parameter default
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Menambahkan Lapisan Pengaduk Saluran
+Lapisan Pencampur Saluran Ditambahkan
 
-### Lihat juga
+### Lihat Juga
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

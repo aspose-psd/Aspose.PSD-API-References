@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSSpeed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur kecepatan pergerakan penerima GPS.
+title: "ExifData.GPSSpeed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur kecepatan pergerakan penerima GPS"
 type: docs
 weight: 600
 url: /id/net/aspose.psd.exif/exifdata/gpsspeed/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeed property
 
-Mendapat atau mengatur kecepatan pergerakan penerima GPS.
+Mendapatkan atau mengatur kecepatan pergerakan penerima GPS.
 
 ```csharp
 public TiffRational GPSSpeed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kecepatan pergerakan penerima GPS.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

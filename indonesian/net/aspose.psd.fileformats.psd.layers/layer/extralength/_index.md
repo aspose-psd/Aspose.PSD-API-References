@@ -1,27 +1,28 @@
 ---
-title: Layer.ExtraLength
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat panjang informasi tambahan lapisan dalam byte.
+title: "Layer.ExtraLength"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan panjang informasi tambahan lapisan dalam byte"
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
-Mendapat panjang informasi tambahan lapisan dalam byte.
+Mendapatkan panjang informasi tambahan lapisan dalam byte.
 
 ```csharp
 public int ExtraLength { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Panjang lapisan tambahan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

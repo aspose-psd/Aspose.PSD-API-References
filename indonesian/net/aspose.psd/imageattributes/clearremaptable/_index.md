@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearRemapTable
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Menghapus tabel remap warna untuk kategori default.
+title: "ImageAttributes.ClearRemapTable"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menghapus tabel pemetaan warna untuk kategori default."
 type: docs
 weight: 90
 url: /id/net/aspose.psd/imageattributes/clearremaptable/
 ---
+{{< psd/tize >}}
 ## ClearRemapTable() {#clearremaptable}
 
-Menghapus tabel remap warna untuk kategori default.
+Membersihkan tabel pemetaan ulang warna untuk kategori default.
 
 ```csharp
 public void ClearRemapTable()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearRemapTable(ColorAdjustType) {#clearremaptable_1}
 
-Menghapus tabel remap warna untuk kategori tertentu.
+Membersihkan tabel pemetaan ulang warna untuk kategori yang ditentukan.
 
 ```csharp
 public void ClearRemapTable(ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori yang dihapus tabel remap. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana tabel pemetaan dihapus. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

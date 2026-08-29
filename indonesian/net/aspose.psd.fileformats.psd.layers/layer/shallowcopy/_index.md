@@ -1,27 +1,28 @@
 ---
-title: Layer.ShallowCopy
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer metode. Membuat salinan dangkal dari Layer saat ini. Silakanhttps//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx untuk penjelasan.
+title: "Layer.ShallowCopy"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Layer. Membuat salinan dangkal dari Layer saat ini. Silakan https//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx untuk penjelasan"
 type: docs
-weight: 380
+weight: 400
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/shallowcopy/
 ---
+{{< psd/tize >}}
 ## Layer.ShallowCopy method
 
-Membuat salinan dangkal dari Layer saat ini. Silakan[https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) untuk penjelasan.
+Membuat salinan dangkal dari Layer saat ini. Silakan lihat [https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) untuk penjelasan.
 
 ```csharp
 public Layer ShallowCopy()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Salinan dangkal dari Layer saat ini.
+Sebuah salinan dangkal dari Layer saat ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

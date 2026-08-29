@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Ceiling
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Mengonversi yang ditentukanRectangleF struktur ke aRectangle struktur dengan membulatkanRectangleF nilai ke nilai integer berikutnya yang lebih tinggi.
+title: "Rectangle.Ceiling"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Mengonversi struktur RectangleF yang ditentukan menjadi struktur Rectangle dengan membulatkan nilai RectangleF ke nilai integer berikutnya yang lebih tinggi."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/rectangle/ceiling/
 ---
+{{< psd/tize >}}
 ## Rectangle.Ceiling method
 
-Mengonversi yang ditentukan[`RectangleF`](../../rectanglef/) struktur ke a[`Rectangle`](../) struktur dengan membulatkan[`RectangleF`](../../rectanglef/) nilai ke nilai integer berikutnya yang lebih tinggi.
+Mengonversi struktur [`RectangleF`](../../rectanglef/) yang ditentukan menjadi struktur [`Rectangle`](../) dengan membulatkan nilai [`RectangleF`](../../rectanglef/) ke nilai integer berikutnya yang lebih tinggi.
 
 ```csharp
 public static Rectangle Ceiling(RectangleF value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | RectangleF | Itu[`RectangleF`](../../rectanglef/) struktur yang akan dikonversi. |
+| value | RectangleF | Struktur [`RectangleF`](../../rectanglef/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-pengembalian a[`Rectangle`](../).
+Mengembalikan sebuah [`Rectangle`](../).
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpGuid metode. Mendapat string berisi nilai dalam format XMP.
+title: "XmpGuid.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpGuid. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpGuid.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpGuid](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsFixedSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary Properti. Mendapat nilai yang menunjukkan apakah IDictionary objek memiliki ukuran tetap.
+title: "NonGenericDictionary.IsFixedSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NonGenericDictionary. Mengambil nilai yang menunjukkan apakah objek IDictionary memiliki ukuran tetap"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/nongenericdictionary/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsFixedSize property
 
-Mendapat nilai yang menunjukkan apakah IDictionary objek memiliki ukuran tetap.
+Mengambil nilai yang menunjukkan apakah objek IDictionary memiliki ukuran tetap.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-benar jikaIDictionary objek memiliki ukuran tetap; jika tidak, salah.
+true jika objek IDictionary memiliki ukuran tetap; selainnya, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

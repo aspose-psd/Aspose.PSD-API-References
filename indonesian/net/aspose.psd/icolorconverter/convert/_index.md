@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IColorConverter metode. Mengonversi data yang diteruskan ke format keluaran.
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IColorConverter. Mengonversi data yang diberikan ke format output"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-Mengonversi data yang diteruskan ke format keluaran.
+Mengonversi data yang diberikan ke format output.
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -16,27 +17,27 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
     int outputOffset)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | Format sumber. |
 | data | Byte[] | Data sumber. |
-| offset | Int32 | Offset dalam byte tempat penyalinan data harus dimulai. |
-| bitStart | Int32 | Sedikit mulai. Perhatikan bahwa nilai ini bukan nilai yang diselaraskan byte, melainkan ini adalah bit aktual tempat penyalinan harus dimulai. |
+| offset | Int32 | Offset dalam byte dimana penyalinan data harus dimulai. |
+| bitStart | Int32 | Awal bit. Catatan nilai ini tidak selaras byte, melainkan bit aktual dimana penyalinan harus dimulai. |
 | samplesCount | Int32 | Jumlah sampel. |
-| linesCount | Int32 | Garis dihitung. |
+| linesCount | Int32 | Jumlah baris. |
 | destFormat | PixelDataFormat | Format tujuan. |
-| outputData | Byte[] | Data keluaran. |
-| outputOffset | Int32 | Offset keluaran tempat penyalinan data harus dimulai. |
+| outputData | Byte[] | Data output. |
+| outputOffset | Int32 | Offset output dimana penyalinan data harus dimulai. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Jumlah byte yang dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* ruang nama [Aspose.PSD](../../icolorconverter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

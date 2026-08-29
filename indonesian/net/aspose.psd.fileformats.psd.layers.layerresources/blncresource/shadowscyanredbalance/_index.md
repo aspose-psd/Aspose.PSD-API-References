@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsCyanRedBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource Properti. Mendapatkan atau menyetel Shadows Cyan Red Balance.
+title: "BlncResource.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource properti. Mendapatkan atau mengatur Shadows Cyan Red Balance"
 type: docs
-weight: 120
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsCyanRedBalance property
 
-Mendapatkan atau menyetel Shadows Cyan Red Balance.
+Mendapatkan atau mengatur Shadows Cyan Red Balance.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bayangan Keseimbangan Merah Cyan.
+Shadows Cyan Red Balance.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

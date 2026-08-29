@@ -1,30 +1,31 @@
 ---
-title: OuterGlowEffect.Range
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OuterGlowEffect Properti. Mendapat atau mengatur kebisingan.
+title: "OuterGlowEffect.Range"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti OuterGlowEffect. Mendapatkan atau mengatur derau"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Range property
 
-Mendapat atau mengatur kebisingan.
+Mendapatkan atau mengatur noise.
 
 ```csharp
 public int Range { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kebisingan.
+Noise.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Kebisingan harus ditentukan sebagai persentase dalam rentang dari 0 hingga 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Noise harus ditentukan sebagai persentase dalam rentang dari 0 hingga 100 |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan OuterGlowEffect.
 
@@ -47,10 +48,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [OuterGlowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdOptions Properti. Mendapat atau menyetel jumlah saluran warna.
+title: "PsdOptions.ChannelsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdOptions property. Mendapatkan atau mengatur jumlah saluran warna"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelsCount property
 
-Mendapat atau menyetel jumlah saluran warna.
+Mendapatkan atau mengatur jumlah saluran warna.
 
 ```csharp
 public short ChannelsCount { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah saluran warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

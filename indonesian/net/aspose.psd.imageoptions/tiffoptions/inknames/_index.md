@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.InkNames
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel nama tinta.
+title: "TiffOptions.InkNames"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nama tinta"
 type: docs
-weight: 220
+weight: 230
 url: /id/net/aspose.psd.imageoptions/tiffoptions/inknames/
 ---
+{{< psd/tize >}}
 ## TiffOptions.InkNames property
 
-Mendapat atau menyetel nama tinta.
+Mendapatkan atau mengatur nama tinta.
 
 ```csharp
 public string InkNames { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama tinta.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

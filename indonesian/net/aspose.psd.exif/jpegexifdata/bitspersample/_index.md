@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.BitsPerSample
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau mengatur bit per sampel.
+title: "JpegExifData.BitsPerSample"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur bit per sampel"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.exif/jpegexifdata/bitspersample/
 ---
+{{< psd/tize >}}
 ## JpegExifData.BitsPerSample property
 
-Mendapat atau mengatur bit per sampel.
+Mendapatkan atau mengatur bit per sampel.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Bit per sampel.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

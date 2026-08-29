@@ -1,36 +1,37 @@
 ---
-title: IopaResource.IopaResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IopaResource konstruktor. Menginisialisasi instance baru dariIopaResource kelas.
+title: "IopaResource.IopaResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor IopaResource. Menginisialisasi instance baru dari kelas IopaResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/ioparesource/
 ---
+{{< psd/tize >}}
 ## IopaResource() {#constructor}
 
-Menginisialisasi instance baru dari[`IopaResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`IopaResource`](../).
 
 ```csharp
 public IopaResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [IopaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IopaResource(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`IopaResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`IopaResource`](../).
 
 ```csharp
 public IopaResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data byte mentah. |
 
@@ -38,12 +39,12 @@ public IopaResource(byte[] data)
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Data Sumber Daya iOpa tidak valid. Panjang yang diharapkan dari iOpaResource adalah 4 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Data iOpa Resource tidak valid. Panjang yang diharapkan dari iOpaResource adalah 4 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IopaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.ThrowExceptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah pengecualian dilemparkan pada pemrosesan data yang salah membaca atau menulis ke streaming.
+title: "TiffStreamReader.ThrowExceptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffStreamReader. Mendapatkan atau mengatur nilai yang menunjukkan apakah pengecualian dilemparkan pada pemrosesan data yang salah saat membaca atau menulis ke aliran"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ThrowExceptions property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah pengecualian dilemparkan pada pemrosesan data yang salah (membaca atau menulis ke streaming).
+Mendapatkan atau mengatur nilai yang menunjukkan apakah pengecualian dilemparkan pada pemrosesan data yang tidak tepat (pembacaan atau penulisan ke aliran).
 
 ```csharp
 public bool ThrowExceptions { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika pengecualian diberikan pada pemrosesan data yang salah; jika tidak, kondisi kesalahan diabaikan secara diam-diam.
+`true` jika pengecualian dilemparkan pada pemrosesan data yang salah; jika tidak, kondisi kesalahan diabaikan secara diam-diam.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

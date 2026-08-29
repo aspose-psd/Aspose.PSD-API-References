@@ -1,67 +1,68 @@
 ---
-title: Graphics.DrawLines
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menggambar serangkaian segmen garis yang menghubungkan arrayPoint struktur.
+title: "Graphics.DrawLines"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menggambar serangkaian segmen garis yang menghubungkan array struktur Point."
 type: docs
-weight: 260
+weight: 270
 url: /id/net/aspose.psd/graphics/drawlines/
 ---
+{{< psd/tize >}}
 ## DrawLines(Pen, Point[]) {#drawlines_1}
 
-Menggambar serangkaian segmen garis yang menghubungkan array[`Point`](../../point/) struktur.
+Menggambar serangkaian segmen garis yang menghubungkan array dari struktur [`Point`](../../point/).
 
 ```csharp
 public void DrawLines(Pen pen, Point[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya segmen garis. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang mewakili titik untuk menghubungkan. |
+| points | Point[] | Array dari struktur [`Point`](../../point/) yang mewakili titik-titik yang akan dihubungkan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
-| ArgumentException | Itu*points* array berisi kurang dari 2 poin. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
+| ArgumentException | Array *points* berisi kurang dari 2 titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLines(Pen, PointF[]) {#drawlines}
 
-Menggambar serangkaian segmen garis yang menghubungkan array[`PointF`](../../pointf/) struktur.
+Menggambar serangkaian segmen garis yang menghubungkan array dari struktur [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawLines(Pen pen, PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya segmen garis. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang mewakili titik untuk menghubungkan. |
+| points | PointF[] | Array dari struktur [`PointF`](../../pointf/) yang mewakili titik-titik yang akan dihubungkan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
-| ArgumentException | Itu*points* array berisi kurang dari 2 poin. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
+| ArgumentException | Array *points* berisi kurang dari 2 titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

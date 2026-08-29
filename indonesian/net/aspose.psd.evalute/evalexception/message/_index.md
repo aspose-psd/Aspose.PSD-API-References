@@ -1,23 +1,24 @@
 ---
-title: EvalException.Message
-second_title: Aspose.PSD untuk Referensi .NET API
-description: EvalException Properti. Mendapat pesan yang terkait dengan pengecualian ini
+title: "EvalException.Message"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti EvalException. Mendapatkan pesan yang terkait dengan pengecualian ini"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.evalute/evalexception/message/
 ---
+{{< psd/tize >}}
 ## EvalException.Message property
 
-Mendapat pesan yang terkait dengan pengecualian ini
+Mendapatkan pesan yang terkait dengan pengecualian ini
 
 ```csharp
 public override string Message { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [EvalException](../)
-* ruang nama [Aspose.PSD.Evalute](../../evalexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Evalute](../../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../../)
 
 

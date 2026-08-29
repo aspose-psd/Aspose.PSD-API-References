@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau mengatur lebar.
+title: "SmartObjectResource.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur lebar."
 type: docs
-weight: 250
+weight: 230
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Width property
 
-Mendapat atau mengatur lebar.
+Mendapatkan atau mengatur lebar.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

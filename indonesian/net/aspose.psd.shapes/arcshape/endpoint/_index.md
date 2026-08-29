@@ -1,28 +1,29 @@
 ---
-title: ArcShape.EndPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ArcShape Properti. Mendapatkan titik bentuk akhir.
+title: "ArcShape.EndPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ArcShape. Mengembalikan titik akhir bentuk"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.shapes/arcshape/endpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.EndPoint property
 
-Mendapatkan titik bentuk akhir.
+Mendapatkan titik akhir bentuk.
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik bentuk akhir.
+Titik akhir bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../arcshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

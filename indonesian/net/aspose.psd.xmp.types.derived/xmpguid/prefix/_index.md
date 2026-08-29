@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Prefix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpGuid Properti. Mendapat atau menyetel awalan seperti uuid.
+title: "XmpGuid.Prefix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpGuid. Mendapatkan atau mengatur prefiks seperti uuid"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.derived/xmpguid/prefix/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Prefix property
 
-Mendapat atau menyetel awalan seperti uuid.
+Mendapatkan atau mengatur awalan seperti uuid.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Awalan seperti uuid.
+Prefiks seperti uuid.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpGuid](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

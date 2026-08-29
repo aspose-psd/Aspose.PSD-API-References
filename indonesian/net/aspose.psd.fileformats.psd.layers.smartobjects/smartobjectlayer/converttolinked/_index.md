@@ -1,27 +1,28 @@
 ---
-title: SmartObjectLayer.ConvertToLinked
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectLayer metode. Mengonversi objek pintar tersemat ini menjadi objek pintar tertaut.
+title: "SmartObjectLayer.ConvertToLinked"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SmartObjectLayer. Mengonversi smart object tersemat ini menjadi smart object tertaut"
 type: docs
-weight: 70
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ConvertToLinked method
 
-Mengonversi objek pintar tersemat ini menjadi objek pintar tertaut.
+Mengonversi objek pintar tertanam ini menjadi objek pintar tertaut.
 
 ```csharp
 public void ConvertToLinked(string linkedPath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| linkedPath | String | Jalur yang terhubung. |
+| linkedPath | String | Jalur tertaut. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

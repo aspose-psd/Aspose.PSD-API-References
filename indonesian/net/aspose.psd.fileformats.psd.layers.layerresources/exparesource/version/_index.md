@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExpaResource Properti. Mendapatkan versinya. Standarnya adalah 1
+title: "ExpaResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExpaResource properti. Mendapatkan versi. Default adalah 1"
 type: docs
-weight: 80
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Version property
 
-Mendapatkan versinya. Standarnya adalah 1
+Mendapatkan versi. Defaultnya adalah 1
 
 ```csharp
 public short Version { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExpaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

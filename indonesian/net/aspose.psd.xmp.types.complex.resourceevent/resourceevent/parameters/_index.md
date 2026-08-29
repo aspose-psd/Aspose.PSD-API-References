@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Parameters
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceEvent Properti. Mendapat atau menyetel deskripsi tambahan dari tindakan.
+title: "ResourceEvent.Parameters"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceEvent. Mendapatkan atau mengatur deskripsi tambahan aksi"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Parameters property
 
-Mendapat atau menyetel deskripsi tambahan dari tindakan.
+Mendapatkan atau mengatur deskripsi tambahan aksi.
 
 ```csharp
 public string Parameters { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Deskripsi tambahan dari tindakan.
+Deskripsi tambahan aksi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceEvent](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat jumlah spasi antara awal baris teks dan perhentian tab pertama.
+title: "StringFormat.FirstTabOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mendapatkan jumlah spasi antara awal baris teks dan tab pertama."
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-Mendapat jumlah spasi antara awal baris teks dan perhentian tab pertama.
+Mendapatkan jumlah spasi antara awal baris teks dan tab stop pertama.
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset tab pertama.
 
-### Perkataan
+## Catatan
 
-Properti diperkenalkan untuk metode GetTabStops yang dihapus.
+Properti ini diperkenalkan untuk metode GetTabStops yang dihapus.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

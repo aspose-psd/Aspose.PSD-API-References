@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Count
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UrlListResource Properti. Mendapat atau menyetel hitungan.
+title: "UrlListResource.Count"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UrlListResource. Mendapatkan atau mengatur hitungan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Count property
 
-Mendapat atau menyetel hitungan.
+Mendapatkan atau mengatur jumlah.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jumlahnya.
+Jumlah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [UrlListResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

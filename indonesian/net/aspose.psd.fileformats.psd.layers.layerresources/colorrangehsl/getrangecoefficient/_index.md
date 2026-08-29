@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl metode. Mendapat Koefisien rentang.
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorRangeHsl. Mendapatkan Koefisien rentang"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
-Mendapat Koefisien rentang.
+Mendapatkan Koefisien rentang.
 
 ```csharp
 public double GetRangeCoefficient(double hue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| hue | Double | Nilai rona. |
+| hue | Double | Nilai hue. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Koefisien rentang saturasi.
+Koefisien rentang Saturasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

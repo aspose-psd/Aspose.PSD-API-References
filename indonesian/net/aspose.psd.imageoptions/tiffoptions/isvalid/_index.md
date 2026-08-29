@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsValid
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat nilai yang menunjukkan apakahTiffOptions telah dikonfigurasi dengan benar. Gunakan metode Validasi untuk menemukan alasan kegagalan.
+title: "TiffOptions.IsValid"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan nilai yang menunjukkan apakah TiffOptions telah dikonfigurasi dengan benar. Gunakan metode Validate untuk menemukan alasan kegagalan"
 type: docs
-weight: 250
+weight: 260
 url: /id/net/aspose.psd.imageoptions/tiffoptions/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsValid property
 
-Mendapat nilai yang menunjukkan apakah[`TiffOptions`](../) telah dikonfigurasi dengan benar. Gunakan metode Validasi untuk menemukan alasan kegagalan.
+Mendapatkan nilai yang menunjukkan apakah [`TiffOptions`](../) telah dikonfigurasi dengan benar. Gunakan metode Validate untuk menemukan alasan kegagalan.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika TiffOptions dikonfigurasi dengan benar; jika tidak,`PALSU` .
+`true` jika TiffOptions dikonfigurasi dengan benar; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

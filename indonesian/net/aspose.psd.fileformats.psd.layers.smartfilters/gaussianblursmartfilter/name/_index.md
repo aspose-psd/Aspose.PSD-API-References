@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurSmartFilter.Name
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussianBlurSmartFilter Properti. Mendapatkan nama filter pintar.
+title: "GaussianBlurSmartFilter.Name"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GaussianBlurSmartFilter properti. Mendapatkan nama filter pintar"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.Name property
 
 Mendapatkan nama filter pintar.
@@ -14,10 +15,10 @@ Mendapatkan nama filter pintar.
 public override string Name { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussianBlurSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

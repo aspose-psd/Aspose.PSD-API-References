@@ -1,23 +1,24 @@
 ---
-title: PlLdResource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlLdResource Properti. Mendapat kunci sumber daya PlLd.
+title: "PlLdResource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlLdResource. Mendapatkan kunci sumber PlLd"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Key property
 
-Mendapat kunci sumber daya PlLd.
+Mendapatkan kunci sumber PlLd.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlLdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

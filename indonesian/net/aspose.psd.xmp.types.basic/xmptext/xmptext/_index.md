@@ -1,27 +1,28 @@
 ---
-title: XmpText.XmpText
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpText konstruktor. Menginisialisasi instance baru dariXmpText kelas.
+title: "XmpText.XmpText"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpText. Menginisialisasi instance baru dari kelas XmpText"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-Menginisialisasi instance baru dari[`XmpText`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpText`](../).
 
 ```csharp
 public XmpText(string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai. |
+| nilai | String | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpText](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

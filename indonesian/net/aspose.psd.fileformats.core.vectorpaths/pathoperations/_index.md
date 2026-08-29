@@ -1,14 +1,15 @@
 ---
-title: Enum PathOperations
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations enum. Operasi untuk penggabungan bentuk jalur operasi Boolean.
+title: "Enum PathOperations"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations enum. Operasi untuk bentuk jalur yang menggabungkan operasi Boolean"
 type: docs
-weight: 1390
+weight: 1400
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
-Operasi untuk penggabungan bentuk jalur (operasi Boolean).
+Operasi untuk menggabungkan bentuk jalur (operasi Boolean).
 
 ```csharp
 public enum PathOperations
@@ -16,16 +17,16 @@ public enum PathOperations
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| ExcludeOverlappingShapes | `0` | Kecualikan Bentuk Tumpang Tindih (operasi XOR). |
-| CombineShapes | `1` | Gabungkan Bentuk (Operasi ATAU). Ini adalah nilai default di Photoshop. |
-| SubtractFrontShape | `2` | Kurangi Bentuk Depan (BUKAN operasi). |
-| IntersectShapeAreas | `3` | Bidang Bentuk Perpotongan (Operasi AND). |
+| ExcludeOverlappingShapes | `0` | Kecualikan Bentuk yang Tumpang Tindih (operasi XOR). |
+| CombineShapes | `1` | Gabungkan Bentuk (operasi OR). Ini adalah nilai default di Photoshop. |
+| SubtractFrontShape | `2` | Kurangi Bentuk Depan (operasi NOT). |
+| IntersectShapeAreas | `3` | Interseksi Area Bentuk (operasi AND). |
 
-### Contoh
+## Contoh
 
-Contoh kode berikut menunjukkan dukungan properti LengthRecord baru, PathOperations (operasi boolean), ShapeIndex dan BezierKnotRecordsCount.
+Contoh kode berikut menunjukkan dukungan untuk properti LengthRecord baru, PathOperations (operasi boolean), ShapeIndex, dan BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Di sini kita mengubah cara menggabungkan antara bentuk.
+    // Di sini kami mengubah cara menggabungkan antara bentuk.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -58,9 +59,9 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

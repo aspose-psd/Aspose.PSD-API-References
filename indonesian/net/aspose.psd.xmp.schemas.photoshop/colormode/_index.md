@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode enum. Mewakili mode warna diPhotoshopPackage .
+title: "Enum ColorMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode enum. Mewakili mode warna dalam PhotoshopPackage"
 type: docs
-weight: 5800
+weight: 6300
 url: /id/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-Mewakili mode warna di[`PhotoshopPackage`](../photoshoppackage/) .
+Mewakili mode warna dalam [`PhotoshopPackage`](../photoshoppackage/).
 
 ```csharp
 public enum ColorMode : byte
@@ -16,20 +17,20 @@ public enum ColorMode : byte
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Bitmap | `0` | Mode warna bitmap. |
 | GrayScale | `1` | Mode warna skala abu-abu. |
-| IndexedColor | `2` | Warna yang diindeks. |
-| Rgb | `3` | warna RGB. |
-| Cmyk | `4` | mode warna CMYK. |
-| MultiChannel | `7` | Warna multisaluran. |
+| IndexedColor | `2` | Warna terindeks. |
+| Rgb | `3` | Warna RGB. |
+| Cmyk | `4` | Mode warna CMYK. |
+| MultiChannel | `7` | Warna multi-saluran. |
 | Duotone | `8` | Warna duo-tone. |
-| LabColor | `9` | warna LAB. |
+| LabColor | `9` | Warna LAB. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

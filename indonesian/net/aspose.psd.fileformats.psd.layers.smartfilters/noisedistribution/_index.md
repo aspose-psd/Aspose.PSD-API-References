@@ -1,11 +1,12 @@
 ---
-title: Enum NoiseDistribution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution enum. Distribusi filter noise.
+title: "Enum NoiseDistribution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution enum. Distribusi filter noise"
 type: docs
-weight: 3440
+weight: 3850
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
 Distribusi filter noise.
@@ -16,14 +17,14 @@ public enum NoiseDistribution
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Uniform | `0` | Distribusi kebisingan seragam. |
-| Gaussian | `1` | Distribusi kebisingan gaussian. |
+| Uniform | `0` | Distribusi noise uniform. |
+| Gaussian | `1` | Distribusi noise Gaussian. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan dukungan antarmuka filter cerdas.
+Contoh ini menunjukkan dukungan antarmuka filter pintar.
 
 ```csharp
 [C#]
@@ -43,7 +44,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // edit filter pintar
+    // sunting filter pintar
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // periksa nilai filter
@@ -66,7 +67,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // menerapkan perubahan
+    // terapkan perubahan
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Terapkan filter
@@ -93,9 +94,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

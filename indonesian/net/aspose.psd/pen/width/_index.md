@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau mengatur lebar iniPen  dalam satuan objek Grafik yang digunakan untuk menggambar.
+title: "Pen.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur lebar Pen ini dalam satuan objek Graphics yang digunakan untuk menggambar."
 type: docs
 weight: 180
 url: /id/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-Mendapat atau mengatur lebar ini[`Pen`](../) , dalam satuan objek Grafik yang digunakan untuk menggambar.
+Mendapatkan atau mengatur lebar [`Pen`](../), dalam satuan objek Graphics yang digunakan untuk menggambar.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lebar ini[`Pen`](../).
+Lebar [`Pen`](../) ini.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`Width` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `Width` diatur pada [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

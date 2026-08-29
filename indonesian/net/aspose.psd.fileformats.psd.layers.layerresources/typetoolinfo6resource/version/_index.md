@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menyetel versi alat ketik.
+title: "TypeToolInfo6Resource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur versi alat tipe"
 type: docs
-weight: 160
+weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Version property
 
-Mendapat atau menyetel versi alat ketik.
+Mendapatkan atau mengatur versi alat tipe.
 
 ```csharp
 public short Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Versi alat ketik.
+Versi alat tipe.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GridAndGuidesResouce Properti. Mendapat atau menyetel panduan.
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GridAndGuidesResouce. Mendapatkan atau mengatur panduan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
-Mendapat atau menyetel panduan.
+Mendapatkan atau mengatur panduan.
 
 ```csharp
 public GuideResource[] Guides { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Panduan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

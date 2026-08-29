@@ -1,11 +1,12 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DisposableObject metode. Membuang instance saat ini.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DisposableObject. Membebaskan instance saat ini"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
 Membuang instance saat ini.
@@ -14,10 +15,10 @@ Membuang instance saat ini.
 public void Dispose()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DisposableObject](../)
-* ruang nama [Aspose.PSD](../../disposableobject/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

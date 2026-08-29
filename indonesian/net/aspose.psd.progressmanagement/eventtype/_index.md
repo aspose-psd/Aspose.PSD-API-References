@@ -1,14 +1,15 @@
 ---
-title: Enum EventType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ProgressManagement.EventType enum. Enum ini menjelaskan kemungkinan jenis kejadian kemajuan yang dapat terjadi selama operasi pemrosesan gambar
+title: "Enum EventType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ProgressManagement.EventType. Enum ini menggambarkan tipe acara kemajuan yang mungkin terjadi selama operasi pemrosesan gambar"
 type: docs
-weight: 5290
+weight: 5790
 url: /id/net/aspose.psd.progressmanagement/eventtype/
 ---
+{{< psd/tize >}}
 ## EventType enumeration
 
-Enum ini menjelaskan kemungkinan jenis kejadian kemajuan yang dapat terjadi selama operasi pemrosesan gambar
+Enum ini menggambarkan jenis peristiwa kemajuan yang mungkin terjadi selama operasi pemrosesan gambar
 
 ```csharp
 public enum EventType
@@ -16,18 +17,18 @@ public enum EventType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| RelativeProgress | `0` | Kemajuan relatif dari tahap pemrosesan operasi saat ini |
-| StageChange | `1` | Tahap operasi selanjutnya dimulai |
+| RelativeProgress | `0` | Kemajuan relatif dari tahap saat ini dalam pemrosesan operasi |
+| StageChange | `1` | Tahap berikutnya dari operasi dimulai |
 | Initialization | `2` | Inisialisasi operasi |
-| PreProcessing | `3` | Pra pemrosesan |
+| PreProcessing | `3` | Pra-pemrosesan |
 | Processing | `4` | Pemrosesan |
 | Finalization | `5` | Finalisasi operasi |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: PathStructure.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathStructure Properti. Mendapat kunci struktur.
+title: "PathStructure.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PathStructure. Mendapatkan kunci struktur"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key/
 ---
+{{< psd/tize >}}
 ## PathStructure.Key property
 
-Mendapat kunci struktur.
+Mendapatkan kunci struktur.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk memuat file dengan struktur PathStructure.
+Kode berikut menunjukkan kemampuan memuat file dengan struktur PathStructure.
 
 ```csharp
 [C#]
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

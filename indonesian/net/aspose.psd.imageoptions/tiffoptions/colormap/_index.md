@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.ColorMap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel peta warna.
+title: "TiffOptions.ColorMap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur peta warna"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.imageoptions/tiffoptions/colormap/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ColorMap property
 
-Mendapat atau menyetel peta warna.
+Mendapatkan atau mengatur peta warna.
 
 ```csharp
 public ushort[] ColorMap { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Peta warna.
 
@@ -23,13 +24,13 @@ Peta warna.
 | pengecualian | kondisi |
 | --- | --- |
 | ArgumentNullException | nilai |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Peta warna dapat ditentukan untuk sampel per piksel sama dengan 1 saja. or Bit per sampel tidak ditentukan. |
-| ArgumentOutOfRangeException | nilai;Panjang array harus sesuai dengan rumus berikut: 3 * (2**BitsPerSample). |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Peta warna hanya dapat didefinisikan untuk sampel per piksel sama dengan 1. atau Bit per sampel tidak didefinisikan. |
+| ArgumentOutOfRangeException | value;Panjang array harus sesuai dengan rumus berikut: 3 * (2**BitsPerSample). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

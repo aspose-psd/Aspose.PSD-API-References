@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer Properti. Mendapatkan aliran data.
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SplitStreamContainer. Mendapatkan aliran data"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
 Mendapatkan aliran data.
@@ -14,14 +15,14 @@ Mendapatkan aliran data.
 public override Stream Stream { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Aliran data.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

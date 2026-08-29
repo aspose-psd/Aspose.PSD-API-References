@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPaletteHelper metode. Menentukan apakah palet yang ditentukan memiliki warna transparan.
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorPaletteHelper. Menentukan apakah palet yang ditentukan memiliki warna transparan"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
 Menentukan apakah palet yang ditentukan memiliki warna transparan.
@@ -14,25 +15,25 @@ Menentukan apakah palet yang ditentukan memiliki warna transparan.
 public static bool HasTransparentColors(IColorPalette palette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| palette | IColorPalette | Palet. |
+| palet | IColorPalette | Palet. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika palet yang ditentukan memiliki warna transparan; jika tidak,`PALSU` .
+`true` jika palet yang ditentukan memiliki warna transparan; jika tidak, `false`.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *palette* adalah nol. |
+| ArgumentNullException | *palette* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* ruang nama [Aspose.PSD](../../colorpalettehelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

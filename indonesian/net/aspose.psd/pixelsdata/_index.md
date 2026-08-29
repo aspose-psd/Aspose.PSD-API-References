@@ -1,43 +1,50 @@
 ---
-title: Class PixelsData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.PixelsData kelas. Kelas untuk menyimpan data piksel gambar dan batasbatasnya.
+title: "Kelas PixelsData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.PixelsData. Kelas untuk menyimpan data piksel gambar dan batasnya"
 type: docs
-weight: 5250
+weight: 5740
 url: /id/net/aspose.psd/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData class
 
-Kelas untuk menyimpan data piksel gambar dan batas-batasnya.
+Kelas untuk menyimpan data piksel gambar dan batasnya.
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PixelsData](pixelsdata/#constructor)() | Menginisialisasi instance baru dari`PixelsData` kelas. |
-| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Menginisialisasi instance baru dari`PixelsData` kelas. |
+| [PixelsData](pixelsdata/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `PixelsData`. |
+| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Menginisialisasi sebuah instance baru dari kelas `PixelsData`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Mendapat atau menyetel batas data piksel. |
-| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Mendapat atau menyetel data piksel. |
+| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Mendapatkan atau mengatur batas data piksel. |
+| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Mendapatkan atau mengatur data piksel. |
 
-### Contoh
+## Metode
 
-Kode berikut menunjukkan cara membuat filter cerdas kustom yang memiliki perender kustom.
+| Nama | Deskripsi |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | Ini membuat salinan penuh dari instance. |
+
+## Contoh
+
+Kode berikut menunjukkan cara membuat filter pintar khusus yang memiliki renderer khusus.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Inisiasi filter pintar 'Crystallize' yang tidak didukung pada larik masukan
+    // Menginisialisasi filter pintar 'Crystallize' yang tidak didukung pada array input
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // ID filter pintar 'Crystallize'.
@@ -70,10 +77,10 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Terapkan filter ke layer mask
+        // Terapkan filter ke masker lapisan
         smartFilter.ApplyToMask(maskLayer);
 
-        // Terapkan filter ke lapisan
+        //Terapkan filter ke lapisan
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -98,7 +105,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // dapatkan struktur filter
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // dapatkan nilai Ukuran Kristalisasi
+        // dapatkan nilai Ukuran Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -114,9 +121,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

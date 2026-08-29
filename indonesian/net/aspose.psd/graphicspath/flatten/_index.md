@@ -1,66 +1,67 @@
 ---
-title: GraphicsPath.Flatten
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Mengubah setiap kurva di jalur ini menjadi urutan segmen garis yang terhubung.
+title: "GraphicsPath.Flatten"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Mengonversi setiap kurva dalam path ini menjadi urutan segmen garis yang terhubung"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/graphicspath/flatten/
 ---
+{{< psd/tize >}}
 ## Flatten() {#flatten}
 
-Mengubah setiap kurva di jalur ini menjadi urutan segmen garis yang terhubung.
+Mengonversi setiap kurva dalam jalur ini menjadi urutan segmen garis yang terhubung.
 
 ```csharp
 public void Flatten()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix) {#flatten_1}
 
-Menerapkan transformasi yang ditentukan dan kemudian mengonversi setiap kurva dalam hal ini[`GraphicsPath`](../) menjadi urutan segmen garis yang terhubung.
+Menerapkan transformasi yang ditentukan dan kemudian mengonversi setiap kurva dalam [`GraphicsPath`](../) menjadi urutan segmen garis yang terhubung.
 
 ```csharp
 public void Flatten(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | A[`Matrix`](../../matrix/) yang digunakan untuk mengubah ini[`GraphicsPath`](../) sebelum merata. |
+| matrix | Matrix | Sebuah [`Matrix`](../../matrix/) yang digunakan untuk mentransformasi [`GraphicsPath`](../) ini sebelum diratakan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix, float) {#flatten_2}
 
-Mengonversi setiap kurva dalam hal ini[`GraphicsPath`](../) menjadi urutan segmen garis yang terhubung.
+Mengonversi setiap kurva dalam [`GraphicsPath`](../) menjadi urutan segmen garis yang terhubung.
 
 ```csharp
 public void Flatten(Matrix matrix, float flatness)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | A[`Matrix`](../../matrix/) yang digunakan untuk mengubah ini[`GraphicsPath`](../) sebelum merata. |
-| flatness | Single | Menentukan kesalahan maksimum yang diizinkan antara kurva dan perkiraannya yang diratakan. Nilai 0,25 adalah default. Mengurangi nilai kerataan akan menambah jumlah ruas garis dalam aproksimasi. |
+| matrix | Matrix | Sebuah [`Matrix`](../../matrix/) yang digunakan untuk mentransformasi [`GraphicsPath`](../) ini sebelum diratakan. |
+| kelengkungan | Single | Menentukan kesalahan maksimum yang diizinkan antara kurva dan pendekatan yang diratakan. Nilai 0.25 adalah nilai default. Mengurangi nilai flatness akan meningkatkan jumlah segmen garis dalam pendekatan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

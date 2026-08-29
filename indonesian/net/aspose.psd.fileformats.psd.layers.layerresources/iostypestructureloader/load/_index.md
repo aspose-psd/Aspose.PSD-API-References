@@ -1,33 +1,34 @@
 ---
-title: IOSTypeStructureLoader.Load
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IOSTypeStructureLoader metode. MemuatOSTypeStructure .
+title: "IOSTypeStructureLoader.Load"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IOSTypeStructureLoader. Memuat OSTypeStructure"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.Load method
 
-Memuat[`OSTypeStructure`](../../ostypestructure/) .
+Memuat [`OSTypeStructure`](../../ostypestructure/).
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kontainer aliran untuk memuat dari. |
+| streamContainer | StreamContainer | Kontainer aliran untuk dimuat dari. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dimuat[`OSTypeStructure`](../../ostypestructure/) sumber daya.
+Resource [`OSTypeStructure`](../../ostypestructure/) yang dimuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

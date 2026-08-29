@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapat bagian lapisan.
+title: "AiImage.Layers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan bagian lapisan"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-Mendapat bagian lapisan.
+Mendapatkan bagian lapisan.
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Bagian lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

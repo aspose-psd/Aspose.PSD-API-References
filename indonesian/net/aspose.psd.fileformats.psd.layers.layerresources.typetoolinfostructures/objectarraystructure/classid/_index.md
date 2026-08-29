@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ObjectArrayStructure Properti. Mendapat atau menyetel ID kelas larik objek.
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ObjectArrayStructure. Mendapatkan atau mengatur ID kelas array objek"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Mendapat atau menyetel ID kelas larik objek.
+Mendapatkan atau mengatur ID kelas array objek.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-ID kelas larik objek.
+ID kelas array objek.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan tanda tangan ObAr dan UnFl.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

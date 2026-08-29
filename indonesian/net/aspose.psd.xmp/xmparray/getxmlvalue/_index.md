@@ -1,27 +1,28 @@
 ---
-title: XmpArray.GetXmlValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpArray metode. Mengubah nilai XMP menjadi representasi XML.
+title: "XmpArray.GetXmlValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpArray metode. Mengonversi nilai XMP ke representasi XML"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp/xmparray/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpArray.GetXmlValue method
 
-Mengubah nilai XMP menjadi representasi XML.
+Mengonversi nilai XMP ke representasi XML.
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan nilai XMP yang dikonversi ke representasi XML.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpArray](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmparray/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PhflResource.PreserveLuminosity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah mempertahankan luminositas.
+title: "PhflResource.PreserveLuminosity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah mempertahankan luminositas"
 type: docs
-weight: 30
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhflResource.PreserveLuminosity property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [mempertahankan luminositas].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [mempertahankan luminositas]; jika tidak,`PALSU` .
+`true` jika [preserve luminosity]; selain itu, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface ILayerResourceLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader antarmuka. Pemuat sumber daya lapisan.
+title: "Antarmuka ILayerResourceLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader. Pemuat sumber daya lapisan"
 type: docs
-weight: 2070
+weight: 2250
 url: /id/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader interface
 
 Pemuat sumber daya lapisan.
@@ -16,14 +17,14 @@ public interface ILayerResourceLoader
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Menentukan apakah sumber daya lapisan dapat dimuat dari yang ditentukan[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Memuat[`LayerResource`](../layerresource/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Menentukan apakah sumber daya lapisan dapat dimuat dari [`StreamContainer`](../../aspose.psd/streamcontainer/) yang ditentukan. |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Memuat [`LayerResource`](../layerresource/). |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

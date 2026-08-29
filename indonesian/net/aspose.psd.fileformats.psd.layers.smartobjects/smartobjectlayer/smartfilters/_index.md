@@ -1,22 +1,23 @@
 ---
-title: SmartObjectLayer.SmartFilters
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectLayer Properti. Mendapat filter pintar.
+title: "SmartObjectLayer.SmartFilters"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectLayer. Mendapatkan smart filters"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartFilters property
 
-Mendapat filter pintar.
+Mendapatkan filter pintar.
 
 ```csharp
 public SmartFilters SmartFilters { get; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan dukungan antarmuka filter cerdas.
+Contoh ini menunjukkan dukungan antarmuka filter pintar.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // edit filter pintar
+    // sunting filter pintar
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // periksa nilai filter
@@ -59,7 +60,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // menerapkan perubahan
+    // terapkan perubahan
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Terapkan filter
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.Items
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menyetel item deskriptor dari data lapisan objek pintar di file PSD.
+title: "SmartObjectResource.Items"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur item deskriptor dari data lapisan objek pintar dalam file PSD."
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Items property
 
-Mendapat atau menyetel item deskriptor dari data lapisan objek pintar di file PSD.
+Mendapatkan atau mengatur item deskriptor data lapisan objek pintar dalam file PSD.
 
 ```csharp
 public override OSTypeStructure[] Items { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Item deskriptor dari informasi lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IImageExporterDescriptor metode. Membuat instance eksportir baru.
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IImageExporterDescriptor. Membuat instance pengekspor baru"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
-Membuat instance eksportir baru.
+Enum GraphicsUnit
 
 ```csharp
 public IImageExporter CreateInstance()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Contoh eksportir baru.
+Instance pengekspor baru.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* ruang nama [Aspose.PSD](../../iimageexporterdescriptor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetLabel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage metode. Mengatur label.
+title: "XmpBasicPackage.SetLabel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBasicPackage. Mengatur label"
 type: docs
-weight: 60
+weight: 80
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetLabel method
 
 Mengatur label.
@@ -14,14 +15,14 @@ Mengatur label.
 public void SetLabel(string label)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| label | String | Label. |
+| label | String | Label tersebut. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

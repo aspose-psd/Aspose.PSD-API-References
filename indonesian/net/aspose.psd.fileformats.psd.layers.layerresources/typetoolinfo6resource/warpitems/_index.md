@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpItems
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau mengatur item warp.
+title: "TypeToolInfo6Resource.WarpItems"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur item warp"
 type: docs
-weight: 200
+weight: 170
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpItems property
 
-Mendapat atau mengatur item warp.
+Mendapatkan atau mengatur item warp.
 
 ```csharp
 public OSTypeStructure[] WarpItems { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Item warp.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

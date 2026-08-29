@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel petunjuk halftone.
+title: "TiffOptions.HalfToneHints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur petunjuk halftone"
 type: docs
-weight: 170
+weight: 180
 url: /id/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
-Mendapat atau menyetel petunjuk halftone.
+Mendapatkan atau mengatur petunjuk setengah nada.
 
 ```csharp
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Petunjuk halftone.
 
@@ -23,12 +24,12 @@ Petunjuk halftone.
 | pengecualian | kondisi |
 | --- | --- |
 | ArgumentNullException | nilai |
-| ArgumentOutOfRangeException | nilai;Panjang larik petunjuk Halftone harus sama dengan 2. |
+| ArgumentOutOfRangeException | value;Panjang array petunjuk halftone harus sama dengan 2. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

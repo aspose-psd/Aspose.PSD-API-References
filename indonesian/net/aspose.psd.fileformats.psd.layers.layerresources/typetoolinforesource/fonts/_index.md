@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Fonts
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau menyetel font.
+title: "TypeToolInfoResource.Fonts"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur font"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Fonts property
 
-Mendapat atau menyetel font.
+Mendapatkan atau mengatur font.
 
 ```csharp
 public TypeToolFontInfo[] Fonts { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Font.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolFontInfo](../../typetoolfontinfo/)
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

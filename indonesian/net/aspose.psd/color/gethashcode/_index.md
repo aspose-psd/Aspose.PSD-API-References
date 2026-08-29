@@ -1,27 +1,28 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Mengembalikan kode hash untuk iniColorstruktur.
+title: "Color.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Mengembalikan kode hash untuk struktur Color ini."
 type: docs
 weight: 1560
 url: /id/net/aspose.psd/color/gethashcode/
 ---
+{{< psd/tize >}}
 ## Color.GetHashCode method
 
-Mengembalikan kode hash untuk ini[`Color`](../)struktur.
+Mengembalikan kode hash untuk struktur [`Color`](../) ini.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nilai integer yang menentukan kode hash untuk ini[`Color`](../).
+Nilai integer yang menentukan kode hash untuk [`Color`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

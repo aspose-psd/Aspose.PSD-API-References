@@ -1,23 +1,24 @@
 ---
-title: Cache.SetDefaults
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Cache metode. MengaturCache pengaturan ke default.
+title: "Cache.SetDefaults"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Cache metode. Mengatur pengaturan Cache ke nilai default."
 type: docs
 weight: 80
 url: /id/net/aspose.psd/cache/setdefaults/
 ---
+{{< psd/tize >}}
 ## Cache.SetDefaults method
 
-Mengatur[`Cache`](../) pengaturan ke default.
+Mengatur pengaturan [`Cache`](../) ke nilai default.
 
 ```csharp
 public static void SetDefaults()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Cache](../)
-* ruang nama [Aspose.PSD](../../cache/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

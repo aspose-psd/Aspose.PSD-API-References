@@ -1,27 +1,28 @@
 ---
-title: LayerResource.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResource metode. Mengembalikan aString yang mewakili instance ini.
+title: "LayerResource.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LayerResource. Mengembalikan String yang merepresentasikan instance ini."
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresource/tostring/
 ---
+{{< psd/tize >}}
 ## LayerResource.ToString method
 
-Mengembalikan aString yang mewakili instance ini.
+Mengembalikan String yang mewakili instance ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-AString yang mewakili instance ini.
+String yang mewakili instance ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

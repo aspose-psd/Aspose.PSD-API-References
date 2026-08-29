@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Grayscale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DeconvolutionFilterOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniDeconvolutionFilterOptions adalah skala abuabu. Mengembalikan mode skala abuabu atau mode RGB.
+title: "DeconvolutionFilterOptions.Grayscale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DeconvolutionFilterOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah DeconvolutionFilterOptions ini dalam mode grayscale. Mengembalikan mode grayscale atau mode RGB"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Grayscale property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`DeconvolutionFilterOptions`](../) adalah skala abu-abu. Mengembalikan mode skala abu-abu atau mode RGB.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`DeconvolutionFilterOptions`](../) ini dalam mode grayscale. Mengembalikan mode grayscale atau mode RGB.
 
 ```csharp
 public bool Grayscale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika skala abu-abu; jika tidak,`PALSU` .
+`true` jika grayscale; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DeconvolutionFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

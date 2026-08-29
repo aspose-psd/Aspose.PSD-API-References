@@ -1,14 +1,15 @@
 ---
-title: Class PtFlResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource kelas. Kelas PtFlResource. Berisi Data Layer Isi Pola.
+title: "Kelas PtFlResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource. Kelas PtFlResource. Berisi Data Lapisan Isi Pola"
 type: docs
-weight: 2960
+weight: 3310
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
+{{< psd/tize >}}
 ## PtFlResource class
 
-Kelas PtFlResource. Berisi Data Layer Isi Pola.
+Kelas PtFlResource. Berisi Data Lapisan Isi Pola.
 
 ```csharp
 public class PtFlResource : FillLayerResource
@@ -16,41 +17,43 @@ public class PtFlResource : FillLayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PtFlResource](ptflresource/)(string, string) | Menginisialisasi instance baru dari`PtFlResource` kelas. |
+| [PtFlResource](ptflresource/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `PtFlResource`. |
+| [PtFlResource](ptflresource/#constructor_1)(string, string) | Menginisialisasi sebuah instance baru dari kelas `PtFlResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [sejajar dengan lapisan]. |
-| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditautkan dengan layer. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [align with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/angle/) { get; set; } | Mendapatkan atau mengatur sudut. |
+| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terhubung dengan lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Mendapat atau menyetel offset. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Mendapat atau menyetel pengidentifikasi pola. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Mendapat atau menetapkan nama pola. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Mendapat atau menyetel skala. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | Mendapat tanda tangan sumber daya lapisan. |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | Mendapatkan atau mengatur offset. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi pola. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | Mendapatkan atau mengatur nama pola. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | Mendapatkan atau mengatur skala. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan dukungan pemuatan dan pengeditan sumber daya PtFlResource.
+Contoh berikut menunjukkan dukungan pemuatan dan penyuntingan sumber daya PtFlResource.
 
 ```csharp
 [C#]
@@ -85,13 +88,13 @@ using (im)
                         throw new Exception("PtFl Resource was read incorrect");
                     }
 
-                    // Mengedit
+                    // Menyunting
                     resource.Offset = new Point(-11, 13);
                     resource.Scale = 200;
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Kami tidak memiliki data pola di PattResource, jadi kami dapat menambahkannya.
+                    // Kami belum memiliki data pola dalam PattResource, jadi kami dapat menambahkannya.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -116,11 +119,11 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

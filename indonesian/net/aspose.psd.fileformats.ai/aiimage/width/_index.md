@@ -1,11 +1,12 @@
 ---
-title: AiImage.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapatkan lebar gambar.
+title: "AiImage.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan lebar gambar"
 type: docs
-weight: 120
+weight: 140
 url: /id/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
 Mendapatkan lebar gambar.
@@ -14,14 +15,14 @@ Mendapatkan lebar gambar.
 public override int Width { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

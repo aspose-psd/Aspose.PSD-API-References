@@ -1,14 +1,15 @@
 ---
-title: Enum PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.PsdVersion enum. Format file versi
+title: "Enum PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion enum. Versi format file"
 type: docs
-weight: 3600
+weight: 4060
 url: /id/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
-Format file versi
+Versi format file
 
 ```csharp
 public enum PsdVersion : byte
@@ -16,14 +17,14 @@ public enum PsdVersion : byte
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Psd | `1` | Versi PSD default. |
 | Psb | `2` | Versi PSB. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan kemampuan untuk mengkonversi file PSD ke PSB dan sebaliknya.
+Contoh berikut menunjukkan kemampuan mengonversi file PSD ke PSB dan sebaliknya.
 
 ```csharp
 [C#]
@@ -45,9 +46,9 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

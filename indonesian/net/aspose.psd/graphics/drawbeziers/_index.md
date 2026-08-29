@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawBeziers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menggambar serangkaian Bézier splines dari arrayPoint struktur.
+title: "Graphics.DrawBeziers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menggambar serangkaian spline Bézier dari array struktur Point."
 type: docs
-weight: 180
+weight: 190
 url: /id/net/aspose.psd/graphics/drawbeziers/
 ---
+{{< psd/tize >}}
 ## DrawBeziers(Pen, Point[]) {#drawbeziers_1}
 
-Menggambar serangkaian Bézier splines dari array[`Point`](../../point/) struktur.
+Menggambar serangkaian spline Bézier dari array struktur [`Point`](../../point/).
 
 ```csharp
 public void DrawBeziers(Pen pen, Point[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya kurva. |
-| points | Point[] | Susunan dari[`Point`](../../point/)struktur yang mewakili titik-titik yang menentukan kurva. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mewakili titik-titik yang menentukan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawBeziers(Pen, PointF[]) {#drawbeziers}
 
-Menggambar serangkaian Bézier splines dari array[`PointF`](../../pointf/) struktur.
+Menggambar serangkaian spline Bézier dari array struktur [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawBeziers(Pen pen, PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya kurva. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/)struktur yang mewakili titik-titik yang menentukan kurva. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mewakili titik-titik yang menentukan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

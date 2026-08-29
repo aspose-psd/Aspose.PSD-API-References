@@ -1,30 +1,31 @@
 ---
-title: RasterCachedImage.Rotate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Putar gambar di tengah.
+title: "RasterCachedImage.Rotate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterCachedImage metode. Memutar gambar di sekitar pusat"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/rastercachedimage/rotate/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Rotate method
 
-Putar gambar di tengah.
+Memutar gambar di sekitar pusat.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Single | Sudut putar dalam derajat. Nilai positif akan berputar searah jarum jam. |
-| resizeProportionally | Boolean | jika diatur ke`BENAR` Anda akan mengubah ukuran gambar Anda sesuai dengan proyeksi persegi panjang (titik sudut) yang diputar dalam kasus lain yang membuat dimensi tidak tersentuh dan hanya konten gambar internal yang diputar. |
-| backgroundColor | Color | Warna latar belakang. |
+| angle | Single | Sudut rotasi dalam derajat. Nilai positif akan memutar searah jarum jam. |
+| resizeProportionally | Boolean | jika disetel ke `true` ukuran gambar Anda akan berubah sesuai proyeksi persegi panjang yang diputar (titik sudut); dalam kasus lain dimensi tetap tidak berubah dan hanya konten gambar internal yang diputar. |
+| backgroundColor | Warna | Warna latar belakang. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

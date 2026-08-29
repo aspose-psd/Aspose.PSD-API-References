@@ -1,20 +1,21 @@
 ---
-title: VibranceLayer.Saturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VibranceLayer Properti. Mendapat atau mengatur saturasi.
+title: "VibranceLayer.Saturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VibranceLayer. Mendapatkan atau mengatur saturasi"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/saturation/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Saturation property
 
-Mendapat atau mengatur saturasi.
+Mendapatkan atau mengatur saturasi.
 
 ```csharp
 public int Saturation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saturasi.
 
@@ -22,9 +23,9 @@ Saturasi.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Saturasi harus berkisar dari -100 hingga +100 |
+| ArgumentOutOfRangeException | Saturasi harus berada dalam rentang dari -100 hingga +100 |
 
-### Contoh
+## Contoh
 
 Contoh kode berikut menunjukkan dukungan lapisan VibranceLayer dan kemampuan untuk mengedit penyesuaian ini.
 
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VibranceLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

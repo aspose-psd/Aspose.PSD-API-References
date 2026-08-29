@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpDm
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama Media Dinamis XMP.
+title: "Namespaces.XmpDm"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. Namespace Media Dinamis XMP"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp/namespaces/xmpdm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpDm field
 
-ruang nama Media Dinamis XMP.
+Namespace XMP Dynamic Media.
 
 ```csharp
 public const string XmpDm;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.IsComposite
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah font ini komposit.
+title: "Font.IsComposite"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan atau mengatur nilai yang menunjukkan apakah font ini komposit"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah font ini komposit.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah font ini bersifat komposit.
 
 ```csharp
 public bool IsComposite { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika font ini komposit; jika tidak,`PALSU` .
+`true` jika font ini komposit; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

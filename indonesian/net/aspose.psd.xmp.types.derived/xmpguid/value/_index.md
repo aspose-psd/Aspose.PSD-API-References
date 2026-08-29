@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpGuid Properti. Mendapat atau menetapkan nilai.
+title: "XmpGuid.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpGuid. Mendapatkan atau mengatur nilai"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.derived/xmpguid/value/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Value property
 
-Mendapat atau menetapkan nilai.
+Mendapatkan atau mengatur nilai.
 
 ```csharp
 public Guid Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilainya.
+Nilai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpGuid](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

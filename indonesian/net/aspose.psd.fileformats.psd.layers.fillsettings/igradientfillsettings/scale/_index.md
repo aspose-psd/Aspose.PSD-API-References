@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IGradientFillSettings Properti. Mendapat atau menyetel skala.
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IGradientFillSettings properti. Mendapatkan atau mengatur skala gradien ternormalkan dalam persen"
 type: docs
-weight: 100
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Mendapat atau menyetel skala.
+Mendapatkan atau mengatur skala gradien **normalized** (dalam persen).
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Skala.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan cara menggunakan properti Scale untuk menskalakan FillLayer dengan gradien.
+Contoh berikut menunjukkan cara menggunakan properti Scale untuk memperbesar FillLayer dengan gradien.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // mendapatkan lapisan isian
+    // mengambil lapisan isi
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -43,18 +44,18 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // perbarui nilai skala
+    // memperbarui nilai skala
     settings.Scale = 200;
-    fillLayer.Update(); // Memperbarui data piksel
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InterruptMonitor konstruktor. Konstruktor default.
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor InterruptMonitor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.multithreading/interruptmonitor/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public InterruptMonitor()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [InterruptMonitor](../)
-* ruang nama [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

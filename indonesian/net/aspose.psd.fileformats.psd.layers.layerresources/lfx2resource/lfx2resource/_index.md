@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.Lfx2Resource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lfx2Resource konstruktor. Konstruktor default.
+title: "Lfx2Resource.Lfx2Resource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Lfx2Resource constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/lfx2resource/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public Lfx2Resource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lfx2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

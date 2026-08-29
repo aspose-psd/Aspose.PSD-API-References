@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginShapeBox
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeOriginSettings Properti. Mendapat atau menyetel kotak pembatas bentuk asal.
+title: "VectorShapeOriginSettings.OriginShapeBox"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeOriginSettings. Mendapatkan atau mengatur kotak pembatas bentuk asal"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginShapeBox property
 
-Mendapat atau menyetel kotak pembatas bentuk asal.
+Mendapatkan atau mengatur bounding box shape origin.
 
 ```csharp
 public VectorShapeBoundingBox OriginShapeBox { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Asal bentuk kotak.
+Kotak bentuk asal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeBoundingBox](../../vectorshapeboundingbox/)
 * class [VectorShapeOriginSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ProgressEventHandlerInfo.EventType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ProgressEventHandlerInfo Properti. Mendapatkan jenis acara.
+title: "ProgressEventHandlerInfo.EventType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ProgressEventHandlerInfo properti. Mendapatkan tipe acara"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.EventType property
 
-Mendapatkan jenis acara.
+Mendapatkan tipe acara.
 
 ```csharp
 public EventType EventType { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis acara.
+Tipe acara.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [EventType](../../eventtype/)
 * class [ProgressEventHandlerInfo](../)
-* ruang nama [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

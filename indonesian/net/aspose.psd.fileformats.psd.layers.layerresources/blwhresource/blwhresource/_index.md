@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.BlwhResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlwhResource konstruktor. Konstruktor default.
+title: "BlwhResource.BlwhResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor BlwhResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blwhresource/
 ---
+{{< psd/tize >}}
 ## BlwhResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public BlwhResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlwhResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

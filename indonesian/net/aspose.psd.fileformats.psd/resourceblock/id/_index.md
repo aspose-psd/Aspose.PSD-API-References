@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.ID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceBlock Properti. Mendapat atau menyetel pengidentifikasi unik untuk sumber daya.
+title: "ResourceBlock.ID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceBlock. Mendapatkan atau mengatur pengidentifikasi unik untuk sumber daya"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd/resourceblock/id/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ID property
 
-Mendapat atau menyetel pengidentifikasi unik untuk sumber daya.
+Mendapatkan atau mengatur pengidentifikasi unik untuk sumber daya.
 
 ```csharp
 public short ID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengidentifikasi unik untuk sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

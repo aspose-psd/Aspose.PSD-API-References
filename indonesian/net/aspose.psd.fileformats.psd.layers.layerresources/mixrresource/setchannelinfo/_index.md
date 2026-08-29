@@ -1,11 +1,12 @@
 ---
-title: MixrResource.SetChannelInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MixrResource metode. Mengatur informasi saluran.
+title: "MixrResource.SetChannelInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode MixrResource. Mengatur informasi saluran"
 type: docs
-weight: 80
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.SetChannelInfo method
 
 Mengatur informasi saluran.
@@ -14,21 +15,21 @@ Mengatur informasi saluran.
 public void SetChannelInfo(int channelIndex, byte[] value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
-| value | Byte[] | Nilai. |
+| nilai | Byte[] | Nilai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Sumber daya Mixr tidak lebih dari 4 saluran. Indeks saluran Pertama adalah 0 |
+| ArgumentException | Sumber Mixr tidak memiliki lebih dari 4 saluran. Indeks saluran pertama adalah 0 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

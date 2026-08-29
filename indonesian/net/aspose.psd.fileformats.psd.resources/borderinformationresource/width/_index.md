@@ -1,20 +1,21 @@
 ---
-title: BorderInformationResource.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BorderInformationResource Properti. Mendapat atau mengatur lebar perbatasan.
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BorderInformationResource. Mendapatkan atau mengatur lebar batas"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
-Mendapat atau mengatur lebar perbatasan.
+Mendapatkan atau mengatur lebar batas.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya BorderInformationResource.
 
@@ -45,10 +46,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BorderInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

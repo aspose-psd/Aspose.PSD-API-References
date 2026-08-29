@@ -1,28 +1,29 @@
 ---
-title: PatternFillSettings.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau mengatur warna.
+title: "PatternFillSettings.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PatternFillSettings properti. Mendapatkan atau mengatur warna"
 type: docs
-weight: 20
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Color property
 
-Mendapat atau mengatur warna.
+Mendapatkan atau mengatur warna.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

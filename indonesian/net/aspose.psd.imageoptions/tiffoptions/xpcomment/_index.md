@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPComment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau mengatur komentar pada gambar yang digunakan oleh Windows Explorer.
+title: "TiffOptions.XPComment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur komentar pada gambar yang digunakan oleh Windows Explorer"
 type: docs
-weight: 600
+weight: 610
 url: /id/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPComment property
 
-Mendapat atau mengatur komentar pada gambar, yang digunakan oleh Windows Explorer.
+Mendapatkan atau mengatur komentar pada gambar, yang digunakan oleh Windows Explorer.
 
 ```csharp
 public string XPComment { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komentar pada gambar, digunakan oleh Windows Explorer.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

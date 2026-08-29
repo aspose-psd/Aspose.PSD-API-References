@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk tertutup.
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PolygonShape property. Mengambil atau mengatur nilai yang menunjukkan apakah bentuk tertutup"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk tertutup.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah bentuk tertutup.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika bentuknya tertutup; jika tidak,`PALSU`.
+`true` jika bentuk tertutup; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

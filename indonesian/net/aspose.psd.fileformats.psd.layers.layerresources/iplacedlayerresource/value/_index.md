@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapat atau menyetel nilai warp dari lapisan yang ditempatkan di gambar PSD.
+title: "IPlacedLayerResource.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur nilai warp dari lapisan yang ditempatkan dalam gambar PSD"
 type: docs
 weight: 190
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Value property
 
-Mendapat atau menyetel nilai warp dari lapisan yang ditempatkan di gambar PSD.
+Mendapatkan atau mengatur nilai warp dari lapisan yang ditempatkan dalam gambar PSD.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai warp dari layer yang ditempatkan.
+Nilai warp dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

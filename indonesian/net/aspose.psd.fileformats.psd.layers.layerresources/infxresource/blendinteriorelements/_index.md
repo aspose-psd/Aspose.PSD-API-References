@@ -1,27 +1,28 @@
 ---
-title: InfxResource.BlendInteriorElements
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InfxResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah menyatukan elemen interior.
+title: "InfxResource.BlendInteriorElements"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti InfxResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah blend interior elements"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/
 ---
+{{< psd/tize >}}
 ## InfxResource.BlendInteriorElements property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [menyatukan elemen interior].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [blend interior elements].
 
 ```csharp
 public bool BlendInteriorElements { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [memadukan elemen interior]; jika tidak,`PALSU` .
+`true` jika [blend interior elements]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [InfxResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

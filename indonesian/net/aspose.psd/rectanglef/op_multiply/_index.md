@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Multiply
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Menerapkan operator .
+title: "RectangleF.op_Multiply"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Mengimplementasikan operator"
 type: docs
 weight: 300
 url: /id/net/aspose.psd/rectanglef/op_multiply/
 ---
+{{< psd/tize >}}
 ## RectangleF Multiply operator
 
-Menerapkan operator *.
+Mengimplementasikan operator *.
 
 ```csharp
 public static RectangleF operator *(RectangleF rectangle, float multiplier)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | RectangleF | Persegi panjang. |
-| multiplier | Single | Pengganda. |
+| persegi panjang | RectangleF | Persegi panjang. |
+| pengali | Single | Pengali. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Hasil operator.
+Hasil dari operator.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

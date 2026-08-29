@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneYResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel resolusi bidang fokus y.
+title: "ExifData.FocalPlaneYResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur resolusi y bidang fokus"
 type: docs
 weight: 330
 url: /id/net/aspose.psd.exif/exifdata/focalplaneyresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneYResolution property
 
-Mendapat atau menyetel resolusi bidang fokus y.
+Mendapatkan atau mengatur resolusi y bidang fokus.
 
 ```csharp
 public TiffRational FocalPlaneYResolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bidang fokus y resolusi.
+Resolusi y bidang fokus.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

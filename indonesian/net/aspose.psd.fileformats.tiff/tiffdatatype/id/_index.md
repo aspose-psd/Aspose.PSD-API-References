@@ -1,23 +1,24 @@
 ---
-title: TiffDataType.Id
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType Properti. Mendapat representasi integer id tag.
+title: "TiffDataType.Id"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffDataType. Mendapatkan representasi integer id tag"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/id/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Id property
 
-Mendapat representasi integer id tag.
+Mendapatkan representasi integer dari id tag.
 
 ```csharp
 public ushort Id { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

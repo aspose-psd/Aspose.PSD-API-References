@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceRef Properti. Mendapat atau menyetel jalur file URI.
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceRef. Mendapatkan atau mengatur URI jalur file"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
-Mendapat atau menyetel jalur file URI.
+Mendapatkan atau mengatur URI jalur file.
 
 ```csharp
 public string FilePathUri { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jalur file URI.
+URI jalur file.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceRef](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

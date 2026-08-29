@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExifTags
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel tag yang hanya dimiliki oleh bagian EXIF.
+title: "ExifData.ExifTags"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur tag yang hanya termasuk dalam bagian EXIF"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.exif/exifdata/exiftags/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifTags property
 
-Mendapat atau menyetel tag yang hanya dimiliki oleh bagian EXIF.
+Mendapatkan atau mengatur tag yang hanya termasuk dalam bagian EXIF.
 
 ```csharp
 public TiffDataType[] ExifTags { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tag bagian EXIF.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

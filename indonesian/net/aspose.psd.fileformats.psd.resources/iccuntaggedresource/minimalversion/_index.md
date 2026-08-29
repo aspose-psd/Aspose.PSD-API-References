@@ -1,11 +1,12 @@
 ---
-title: IccUntaggedResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IccUntaggedResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "IccUntaggedResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IccUntaggedResource properti. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [IccUntaggedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

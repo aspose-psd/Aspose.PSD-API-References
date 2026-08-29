@@ -1,31 +1,32 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary Properti. Mendapat atau menyetel elemen dengan kunci yang ditentukan.
+title: "NonGenericDictionary.Item"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NonGenericDictionary. Mengambil atau menetapkan elemen dengan kunci tertentu"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
-Mendapat atau menyetel elemen dengan kunci yang ditentukan.
+Mendapatkan atau mengatur elemen dengan kunci yang ditentukan.
 
 ```csharp
 public object this[object key] { get; set; }
 ```
 
-| Parameter | Keterangan |
+| Parameter | Deskripsi |
 | --- | --- |
-| key | Kunci elemen. |
+| kunci | Kunci elemen. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Elemen dengan kunci yang ditentukan.
+Elemen dengan kunci tertentu.
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

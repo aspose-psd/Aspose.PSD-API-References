@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.XmpData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageOptionsBase Properti. Mendapat atau menyetel penampung metadata XMP.
+title: "ImageOptionsBase.XmpData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageOptionsBase. Mendapatkan atau mengatur kontainer metadata XMP"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/imageoptionsbase/xmpdata/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.XmpData property
 
-Mendapat atau menyetel penampung metadata XMP.
+Mendapatkan atau mengatur kontainer metadata XMP.
 
 ```csharp
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Wadah data XMP.
+Kontainer data XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [ImageOptionsBase](../)
-* ruang nama [Aspose.PSD](../../imageoptionsbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

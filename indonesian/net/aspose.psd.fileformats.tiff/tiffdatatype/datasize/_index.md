@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType Properti. Mendapatkan ukuran data tambahan dalam satuan byte jika 12 byte tidak cukup untuk memuat data tag.
+title: "TiffDataType.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffDataType. Mendapatkan ukuran data tambahan dalam byte jika 12 byte tidak cukup untuk menampung data tag"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/datasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.DataSize property
 
-Mendapatkan ukuran data tambahan dalam satuan byte (jika 12 byte tidak cukup untuk memuat data tag).
+Mendapatkan ukuran data tambahan dalam byte (jika 12 byte tidak cukup untuk menampung data tag).
 
 ```csharp
 public abstract uint DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data tambahan dalam byte.
 
-### Perkataan
+## Catatan
 
 Ini adalah jumlah byte yang tepat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

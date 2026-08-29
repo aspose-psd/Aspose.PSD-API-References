@@ -1,27 +1,28 @@
 ---
-title: Size.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Membuat string yang dapat dibaca manusia yang mewakili iniSize .
+title: "Size.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Membuat string yang dapat dibaca manusia yang mewakili Size ini"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-Membuat string yang dapat dibaca manusia yang mewakili ini[`Size`](../) .
+Membuat string yang dapat dibaca manusia yang mewakili [`Size`](../) ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah string yang mewakili ini[`Size`](../).
+String yang mewakili [`Size`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

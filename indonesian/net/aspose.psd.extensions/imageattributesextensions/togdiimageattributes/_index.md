@@ -1,32 +1,33 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributesExtensions metode. MengubahImageAttributes keImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributesExtensions. Mengonversi ImageAttributes ke ImageAttributes"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-Mengubah[`ImageAttributes`](../../../aspose.psd/imageattributes/) keImageAttributes .
+Mengonversi [`ImageAttributes`](../../../aspose.psd/imageattributes/) menjadi ImageAttributes.
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | Itu[`ImageAttributes`](../../../aspose.psd/imageattributes/) untuk mengubah. |
+| imageAttributes | ImageAttributes | `[`ImageAttributes`](../../../aspose.psd/imageattributes/)` untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiImageAttributes.
+ImageAttributes yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

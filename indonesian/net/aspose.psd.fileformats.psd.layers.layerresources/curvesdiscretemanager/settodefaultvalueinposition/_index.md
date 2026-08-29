@@ -1,28 +1,29 @@
 ---
-title: CurvesDiscreteManager.SetToDefaultValueInPosition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesDiscreteManager metode. Setel ke nilai default di posisi.
+title: "CurvesDiscreteManager.SetToDefaultValueInPosition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvesDiscreteManager. Mengatur ke nilai default pada posisi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetToDefaultValueInPosition method
 
-Setel ke nilai default di posisi.
+Mengatur ke nilai default pada posisi.
 
 ```csharp
 public void SetToDefaultValueInPosition(int channelIndex, byte position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
-| position | Byte | Posisinya. |
+| posisi | Byte | Posisi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesDiscreteManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

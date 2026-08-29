@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileWidth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapatkan banyak set lebar ubin.
+title: "TiffOptions.TileWidth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur lebar ubin"
 type: docs
-weight: 550
+weight: 560
 url: /id/net/aspose.psd.imageoptions/tiffoptions/tilewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileWidth property
 
-Mendapatkan banyak set lebar ubin.
+Mendapatkan ot mengatur lebar ubin.
 
 ```csharp
 public uint TileWidth { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.DescriptorVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lfx2Resource Properti. Mendapatkan versi deskriptor.
+title: "Lfx2Resource.DescriptorVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Lfx2Resource property. Mendapatkan versi deskriptor"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.DescriptorVersion property
 
 Mendapatkan versi deskriptor.
@@ -14,14 +15,14 @@ Mendapatkan versi deskriptor.
 public int DescriptorVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi deskriptor.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lfx2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

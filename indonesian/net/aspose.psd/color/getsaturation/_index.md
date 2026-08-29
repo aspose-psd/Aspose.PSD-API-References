@@ -1,27 +1,28 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Mendapat nilai saturasi huesaturationbrightness HSB untuk iniColorstruktur.
+title: "Color.GetSaturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Mendapatkan nilai saturasi hue-saturation-brightness (HSB) untuk struktur Color ini."
 type: docs
 weight: 1580
 url: /id/net/aspose.psd/color/getsaturation/
 ---
+{{< psd/tize >}}
 ## Color.GetSaturation method
 
-Mendapat nilai saturasi hue-saturation-brightness (HSB) untuk ini[`Color`](../)struktur.
+Mendapatkan nilai saturasi hue-saturation-brightness (HSB) untuk struktur [`Color`](../) ini.
 
 ```csharp
 public float GetSaturation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kejenuhan ini[`Color`](../). Kejenuhan berkisar dari 0,0 hingga 1,0, di mana 0,0 adalah skala abu-abu dan 1,0 adalah yang paling jenuh.
+Saturasi dari [`Color`](../) ini. Saturasi berkisar antara 0.0 hingga 1.0, di mana 0.0 adalah skala abu-abu dan 1.0 adalah paling jenuh.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

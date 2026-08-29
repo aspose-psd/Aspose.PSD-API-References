@@ -1,36 +1,37 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl konstruktor. Menginisialisasi instance baru dariColorRangeHsl kelas.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ColorRangeHsl. Menginisialisasi instance baru dari kelas ColorRangeHsl"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-Menginisialisasi instance baru dari[`ColorRangeHsl`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ColorRangeHsl`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data rentang warna. |
 
@@ -40,10 +41,10 @@ public ColorRangeHsl(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang yang diharapkan dari " + this.GetType() + " adalah 14 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

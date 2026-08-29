@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlwhResource bidang. Kunci info alat jenis.
+title: "BlwhResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang BlwhResource. Kunci info alat tipe"
 type: docs
-weight: 160
+weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TypeToolKey field
 
-Kunci info alat jenis.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlwhResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

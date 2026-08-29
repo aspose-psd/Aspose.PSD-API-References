@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.BitsPerPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat bit per piksel.
+title: "TiffOptions.BitsPerPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan bit per piksel"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.imageoptions/tiffoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerPixel property
 
-Mendapat bit per piksel.
+Mendapatkan bit per piksel.
 
 ```csharp
 public int BitsPerPixel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Bit per piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

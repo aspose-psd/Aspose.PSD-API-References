@@ -1,27 +1,28 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileStreamContainer Properti. Mendapat nilai yang menunjukkan apakah streaming dibuat secara eksplisit.
+title: "FileStreamContainer.IsCreated"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FileStreamContainer. Mendapatkan nilai yang menunjukkan apakah aliran dibuat secara eksplisit"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/filestreamcontainer/iscreated/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsCreated property
 
-Mendapat nilai yang menunjukkan apakah streaming dibuat secara eksplisit.
+Mendapatkan nilai yang menunjukkan apakah aliran bersifat temporer.
 
 ```csharp
 public bool IsCreated { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran dibuat secara eksplisit; jika tidak,`PALSU` .
+`true` jika aliran dibuat secara eksplisit; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileStreamContainer](../)
-* ruang nama [Aspose.PSD](../../filestreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

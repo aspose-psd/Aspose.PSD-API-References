@@ -1,26 +1,27 @@
 ---
-title: PathStructure.Prefix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathStructure Properti. Mendapat atau menyetel awalan jalur.
+title: "PathStructure.Prefix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PathStructure. Mendapatkan atau mengatur awalan jalur"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/
 ---
+{{< psd/tize >}}
 ## PathStructure.Prefix property
 
-Mendapat atau menyetel awalan jalur.
+Mendapatkan atau mengatur awalan jalur.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jalur lengkap.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk memuat file dengan struktur PathStructure.
+Kode berikut menunjukkan kemampuan memuat file dengan struktur PathStructure.
 
 ```csharp
 [C#]
@@ -34,10 +35,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

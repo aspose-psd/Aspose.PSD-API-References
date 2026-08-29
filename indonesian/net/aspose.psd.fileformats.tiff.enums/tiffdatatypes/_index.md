@@ -1,14 +1,15 @@
 ---
-title: Enum TiffDataTypes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes enum. Tipe data tiff enum.
+title: "Enum TiffDataTypes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes enum. Enum tipe data tiff."
 type: docs
-weight: 4060
+weight: 4530
 url: /id/net/aspose.psd.fileformats.tiff.enums/tiffdatatypes/
 ---
+{{< psd/tize >}}
 ## TiffDataTypes enumeration
 
-Tipe data tiff enum.
+Enum tipe data tiff.
 
 ```csharp
 public enum TiffDataTypes : ushort
@@ -16,25 +17,25 @@ public enum TiffDataTypes : ushort
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Byte | `1` | bilangan bulat tak bertanda 8-bit. |
-| Ascii | `2` | 8-bit byte dengan byte terakhir`batal` . |
-| Short | `3` | bilangan bulat tak bertanda 16-bit. |
-| Long | `4` | bilangan bulat tak bertanda 32-bit. |
-| Rational | `5` | pecahan tak bertanda 64-bit. |
-| Sbyte | `6` | bilangan bulat bertanda 8-bit. |
-| Undefined | `7` | 8-bit data yang tidak diketik. |
-| Sshort | `8` | bilangan bulat bertanda 16-bit. |
-| Slong | `9` | bilangan bulat bertanda 32-bit. |
-| Srational | `10` | pecahan bertanda 64-bit. |
-| Float | `11` | titik mengambang IEEE 32-bit. |
-| Double | `12` | titik mengambang IEEE 64-bit. |
-| Ifd | `13` | Penunjuk ke direktori file gambar Exif (IFD). |
+| Byte | `1` | Integer tak bertanda 8-bit. |
+| Ascii | `2` | Byte 8-bit dengan byte terakhir `null`. |
+| Short | `3` | Integer tak bertanda 16-bit. |
+| Long | `4` | Integer tak bertanda 32-bit. |
+| Rational | `5` | Fraksi tak bertanda 64-bit. |
+| Sbyte | `6` | Integer bertanda 8-bit. |
+| Undefined | `7` | Data tidak bertipe 8-bit. |
+| Sshort | `8` | Integer bertanda 16-bit. |
+| Slong | `9` | Integer bertanda 32-bit. |
+| Srational | `10` | Fraksi bertanda 64-bit. |
+| Float | `11` | Poin mengambang IEEE 32-bit. |
+| Double | `12` | Poin mengambang IEEE 64-bit. |
+| Ifd | `13` | Penunjuk ke direktori berkas gambar Exif (IFD). |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

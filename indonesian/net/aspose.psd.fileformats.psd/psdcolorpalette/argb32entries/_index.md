@@ -1,31 +1,32 @@
 ---
-title: PsdColorPalette.Argb32Entries
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdColorPalette Properti. Mendapat array warna ARGB 32bit.
+title: "PsdColorPalette.Argb32Entries"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdColorPalette. Mendapatkan array warna ARGB 32-bit"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd/psdcolorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Argb32Entries property
 
-Mendapat array warna ARGB 32-bit.
+Mengambil array warna ARGB 32-bit.
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Susunan struktur ARGB 32-bit yang membentuk ini[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+Array struktur ARGB 32-bit yang membentuk [`ColorPalette`](../../../aspose.psd/colorpalette/).
 
-### Nilai properti
+### Property Value
 
 Entri.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

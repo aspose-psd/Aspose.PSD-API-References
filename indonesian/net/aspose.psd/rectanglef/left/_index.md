@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Left
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF Properti. Mendapat atau menetapkan koordinat x dari tepi kiri iniRectangleFstruktur.
+title: "RectangleF.Left"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleF. Mendapatkan atau mengatur koordinat-x dari tepi kiri struktur RectangleF ini."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/rectanglef/left/
 ---
+{{< psd/tize >}}
 ## RectangleF.Left property
 
-Mendapat atau menetapkan koordinat x dari tepi kiri ini[`RectangleF`](../)struktur.
+Mendapatkan atau mengatur koordinat-x dari tepi kiri struktur [`RectangleF`](../) ini.
 
 ```csharp
 public float Left { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Koordinat x dari tepi kiri ini[`RectangleF`](../) struktur.
+Koordinat-x dari tepi kiri struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

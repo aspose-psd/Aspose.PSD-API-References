@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AddNoiseSmartFilter Properti. Mendapat atau menyetel Jumlah nilai kebisingan.
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AddNoiseSmartFilter properti. Mendapatkan atau mengatur jumlah nilai kebisingan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-Mendapat atau menyetel Jumlah nilai kebisingan.
+Mendapatkan atau mengatur jumlah nilai noise.
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan dukungan antarmuka filter cerdas.
+Contoh ini menunjukkan dukungan antarmuka filter pintar.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // edit filter pintar
+    // sunting filter pintar
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // periksa nilai filter
@@ -59,7 +60,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // menerapkan perubahan
+    // terapkan perubahan
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Terapkan filter
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AddNoiseSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

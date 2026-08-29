@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat ukuran em dari iniFont diukur dalam satuan yang ditentukan olehUnit properti.
+title: "Font.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan ukuran em dari Font ini yang diukur dalam satuan yang ditentukan oleh properti Unit"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-Mendapat ukuran em dari ini[`Font`](../) diukur dalam satuan yang ditentukan oleh[`Unit`](../unit/) properti.
+Mendapatkan ukuran em dari [`Font`](../) ini yang diukur dalam satuan yang ditentukan oleh properti [`Unit`](../unit/).
 
 ```csharp
 public float Size { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ukuran em dari ini[`Font`](../).
+Ukuran em dari [`Font`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

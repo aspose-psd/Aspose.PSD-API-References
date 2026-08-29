@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas yang mewakili nilai properti XMP dalam tiga kategori dasar tipe dasar tipe kompleks dan turunan.
+title: "Aspose.PSD.Xmp.Types"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi kelas yang mewakili nilai properti XMP dalam tiga kategori dasar: tipe dasar, kompleks, dan tipe turunan."
 type: docs
-weight: 600
+weight: 640
 url: /id/net/aspose.psd.xmp.types/
 ---
-Ruang nama berisi kelas yang mewakili nilai properti XMP dalam tiga kategori dasar: tipe dasar, tipe kompleks dan turunan.
+{{< psd/tize >}}
+Namespace berisi kelas yang mewakili nilai properti XMP dalam tiga kategori dasar: tipe dasar, kompleks, dan turunan.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
 | [XmpTypeBase](./xmptypebase/) | Mewakili kelas dasar untuk tipe XMP dasar. |
 ## Antarmuka
 
-| Antarmuka | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
 | [IXmpType](./ixmptype/) | Antarmuka dasar untuk tipe XMP. |
 

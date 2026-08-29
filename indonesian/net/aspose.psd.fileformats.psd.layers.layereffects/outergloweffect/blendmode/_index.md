@@ -1,24 +1,25 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OuterGlowEffect Properti. Mendapat atau menyetel mode campuran.
+title: "OuterGlowEffect.BlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti OuterGlowEffect. Mendapatkan atau mengatur mode pencampuran"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
-Mendapat atau menyetel mode campuran.
+Mendapatkan atau mengatur mode perpaduan.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode campuran.
+Mode pencampuran.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan OuterGlowEffect.
 
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

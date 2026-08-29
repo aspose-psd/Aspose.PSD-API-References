@@ -1,31 +1,32 @@
 ---
-title: IColorPalette.IsCompactPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IColorPalette Properti. Mendapat nilai yang menunjukkan apakah compact palette digunakan.
+title: "IColorPalette.IsCompactPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IColorPalette. Mendapatkan nilai yang menunjukkan apakah palet kompak digunakan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/icolorpalette/iscompactpalette/
 ---
+{{< psd/tize >}}
 ## IColorPalette.IsCompactPalette property
 
-Mendapat nilai yang menunjukkan apakah compact palette digunakan.
+Mendapatkan nilai yang menunjukkan apakah palet kompak digunakan.
 
 ```csharp
 public bool IsCompactPalette { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika palet kompak digunakan; jika tidak,`PALSU`.
+`true` jika palet kompak digunakan; jika tidak, `false`.
 
-### Perkataan
+## Catatan
 
-Palet kompak berarti bahwa gambar hanya akan berisi entri palet yang ditentukan jika memungkinkan atau dengan kata lain gambar akan lebih padat dan menempati lebih sedikit ruang; jika tidak akan ada entri 2^BitsPerPixel dan gambar akan menyediakan lebih banyak ruang untuk semua entri palet yang memungkinkan. Menyetel nilai ini ke true dan mengubah entri palet dapat menyebabkan penalti kinerja karena perpindahan data dapat terjadi, jadi gunakan dengan hati-hati.
+Palet kompak berarti gambar hanya akan berisi entri palet yang ditentukan bila memungkinkan, atau dengan kata lain gambar akan lebih kompak dan memakan ruang lebih sedikit; jika tidak, akan ada 2^BitsPerPixel entri dan gambar akan menyisakan lebih banyak ruang untuk semua kemungkinan entri palet. Menetapkan nilai ini ke true dan mengubah entri palet dapat menyebabkan penalti kinerja karena pergerakan data dapat terjadi, jadi gunakan dengan hati-hati.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../)
-* ruang nama [Aspose.PSD](../../icolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

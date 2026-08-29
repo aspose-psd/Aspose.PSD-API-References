@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.Count
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType Properti. Mendapat jumlah elemen.
+title: "TiffDataType.Count"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffDataType. Mendapatkan jumlah elemen"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/count/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Count property
 
-Mendapat jumlah elemen.
+Mendapatkan jumlah elemen.
 
 ```csharp
 public abstract uint Count { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah elemen.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

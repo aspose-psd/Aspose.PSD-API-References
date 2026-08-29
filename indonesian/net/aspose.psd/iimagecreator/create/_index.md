@@ -1,38 +1,39 @@
 ---
-title: IImageCreator.Create
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IImageCreator metode. Membuat instance gambar baru denganimageOptions .
+title: "IImageCreator.Create"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IImageCreator. Membuat sebuah instance gambar baru dengan imageOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/iimagecreator/create/
 ---
+{{< psd/tize >}}
 ## IImageCreator.Create method
 
-Membuat instance gambar baru dengan*imageOptions* .
+Membuat instance gambar baru dengan *imageOptions*.
 
 ```csharp
 public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptions, int width, 
     int height)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kontainer aliran untuk membuat data gambar. |
-| imageOptions | ImageOptionsBase | Pilihan gambar. |
-| width | Int32 | lebar gambar baru |
-| height | Int32 | ketinggian gambar baru |
+| streamContainer | StreamContainer | Kontainer aliran untuk membuat data gambar di dalamnya. |
+| imageOptions | ImageOptionsBase | Opsi gambar. |
+| lebar | Int32 | lebar gambar baru |
+| tinggi | Int32 | tinggi gambar baru |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Instance gambar baru.
+Sebuah instance gambar baru.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* ruang nama [Aspose.PSD](../../iimagecreator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

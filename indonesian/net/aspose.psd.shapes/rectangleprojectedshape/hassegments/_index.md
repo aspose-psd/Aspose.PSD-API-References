@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.HasSegments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleProjectedShape Properti. Mendapat nilai yang menunjukkan apakah bentuk memiliki segmen.
+title: "RectangleProjectedShape.HasSegments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleProjectedShape. Mengambil nilai yang menunjukkan apakah bentuk memiliki segmen"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.shapes/rectangleprojectedshape/hassegments/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.HasSegments property
 
-Mendapat nilai yang menunjukkan apakah bentuk memiliki segmen.
+Mendapatkan nilai yang menunjukkan apakah bentuk memiliki segmen.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika bentuk memiliki segmen; jika tidak,`PALSU`.
+`True` jika bentuk memiliki segmen; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

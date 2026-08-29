@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsVisible
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OuterGlowEffect Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terlihat.
+title: "OuterGlowEffect.IsVisible"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "OuterGlowEffect property. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terlihat"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsVisible property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terlihat.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terlihat.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika contoh ini terlihat; jika tidak,`PALSU` .
+`true` jika instance ini terlihat; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OuterGlowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

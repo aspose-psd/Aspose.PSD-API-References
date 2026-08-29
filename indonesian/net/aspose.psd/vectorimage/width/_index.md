@@ -1,11 +1,12 @@
 ---
-title: VectorImage.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorImage Properti. Mendapatkan lebar gambar.
+title: "VectorImage.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorImage properti. Mendapatkan lebar gambar"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/vectorimage/width/
 ---
+{{< psd/tize >}}
 ## VectorImage.Width property
 
 Mendapatkan lebar gambar.
@@ -14,14 +15,14 @@ Mendapatkan lebar gambar.
 public override int Width { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorImage](../)
-* ruang nama [Aspose.PSD](../../vectorimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

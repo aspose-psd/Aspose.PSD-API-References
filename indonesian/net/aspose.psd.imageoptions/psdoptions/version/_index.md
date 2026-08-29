@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdOptions Properti. Mendapat atau menyetel versi file psd.
+title: "PsdOptions.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdOptions property. Mendapatkan atau mengatur versi file psd"
 type: docs
-weight: 100
+weight: 120
 url: /id/net/aspose.psd.imageoptions/psdoptions/version/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Version property
 
-Mendapat atau menyetel versi file psd.
+Mendapatkan atau mengatur versi file psd.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi file psd.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

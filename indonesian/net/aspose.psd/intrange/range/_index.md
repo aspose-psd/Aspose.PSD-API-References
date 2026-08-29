@@ -1,27 +1,28 @@
 ---
-title: IntRange.Range
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IntRange Properti. Mendapat atau menyetel rentang.
+title: "IntRange.Range"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IntRange. Mendapatkan atau mengatur rentang"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
-Mendapat atau menyetel rentang.
+Mendapatkan atau mengatur rentang.
 
 ```csharp
 public int[] Range { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jangkauan.
+Rentang.
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../)
-* ruang nama [Aspose.PSD](../../intrange/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

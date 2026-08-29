@@ -1,28 +1,29 @@
 ---
-title: EnumeratedDescriptorStructure.TypeID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: EnumeratedDescriptorStructure Properti. Mendapat atau menyetel ID jenis.
+title: "EnumeratedDescriptorStructure.TypeID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti EnumeratedDescriptorStructure. Mendapatkan atau mengatur ID tipe"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.TypeID property
 
-Mendapat atau menyetel ID jenis.
+Mendapatkan atau mengatur ID tipe.
 
 ```csharp
 public ClassID TypeID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tipe ID.
+ID tipe.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Crop
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Memotong gambar.
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage metode. Memotong gambar"
 type: docs
-weight: 510
+weight: 570
 url: /id/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
 Memotong gambar.
@@ -14,15 +15,15 @@ Memotong gambar.
 public override void Crop(Rectangle rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang. |
+| persegi panjang | Rectangle | Persegi panjang. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

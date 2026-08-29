@@ -1,11 +1,12 @@
 ---
-title: IImageDescriptor.SupportedFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IImageDescriptor Properti. Mendapatkan format yang didukung.
+title: "IImageDescriptor.SupportedFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IImageDescriptor. Mendapatkan format yang didukung"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/iimagedescriptor/supportedformat/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor.SupportedFormat property
 
 Mendapatkan format yang didukung.
@@ -14,15 +15,15 @@ Mendapatkan format yang didukung.
 public FileFormat SupportedFormat { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Format yang didukung.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../fileformat/)
 * interface [IImageDescriptor](../)
-* ruang nama [Aspose.PSD](../../iimagedescriptor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

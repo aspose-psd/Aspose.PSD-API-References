@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.HeaderPi
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper Properti. Mendapat instruksi pemrosesan tajuk.
+title: "XmpPacketWrapper.HeaderPi"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPacketWrapper. Mendapatkan instruksi pemrosesan header"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.HeaderPi property
 
-Mendapat instruksi pemrosesan tajuk.
+Mendapatkan instruksi pemrosesan header.
 
 ```csharp
 public XmpHeaderPi HeaderPi { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Instruksi pemrosesan Header.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

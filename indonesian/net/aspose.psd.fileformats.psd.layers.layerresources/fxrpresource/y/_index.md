@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FxrpResource Properti. Mendapat atau menetapkan y dari titik referensi
+title: "FxrpResource.Y"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FxrpResource properti. Mendapatkan atau mengatur y dari titik referensi"
 type: docs
-weight: 70
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-Mendapat atau menetapkan y dari titik referensi
+Mendapatkan atau mengatur y dari titik referensi
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik referensi y
+y dari titik referensi
 
-### Lihat juga
+### Lihat Juga
 
 * class [FxrpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

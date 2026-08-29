@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel data rentang campuran lapisan.
+title: "Layer.LayerBlendingRangesData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur data rentang pencampuran lapisan"
 type: docs
-weight: 190
+weight: 200
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
-Mendapat atau menyetel data rentang campuran lapisan.
+Mendapatkan atau mengatur data rentang pencampuran lapisan.
 
 ```csharp
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Data rentang pencampuran layer.
+Data rentang pencampuran lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

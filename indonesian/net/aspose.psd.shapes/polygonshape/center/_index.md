@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Center
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape Properti. Mendapatkan pusat bentuk.
+title: "PolygonShape.Center"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PolygonShape. Mendapatkan pusat bentuk"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.shapes/polygonshape/center/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Center property
 
 Mendapatkan pusat bentuk.
@@ -14,15 +15,15 @@ Mendapatkan pusat bentuk.
 public override PointF Center { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pusat bentuknya.
+Pusat bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

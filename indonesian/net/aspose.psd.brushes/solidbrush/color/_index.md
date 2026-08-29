@@ -1,28 +1,29 @@
 ---
-title: SolidBrush.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SolidBrush Properti. Mendapat atau mengatur warna kuas.
+title: "SolidBrush.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SolidBrush. Mendapatkan atau mengatur warna kuas"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.brushes/solidbrush/color/
 ---
+{{< psd/tize >}}
 ## SolidBrush.Color property
 
-Mendapat atau mengatur warna kuas.
+Mendapatkan atau mengatur warna kuas.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna kuas.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../solidbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

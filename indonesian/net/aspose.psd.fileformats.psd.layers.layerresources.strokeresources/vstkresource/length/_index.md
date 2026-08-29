@@ -1,11 +1,12 @@
 ---
-title: VstkResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "VstkResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VstkResource. Mendapatkan panjang sumber daya lapisan dalam byte"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/
 ---
+{{< psd/tize >}}
 ## VstkResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

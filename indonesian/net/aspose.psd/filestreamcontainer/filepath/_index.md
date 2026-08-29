@@ -1,27 +1,28 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileStreamContainer Properti. Mendapat jalur file.
+title: "FileStreamContainer.FilePath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FileStreamContainer. Mendapatkan jalur file"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
-Mendapat jalur file.
+Mendapatkan nilai yang menunjukkan apakah aliran dibuat secara eksplisit.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jalur file.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileStreamContainer](../)
-* ruang nama [Aspose.PSD](../../filestreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

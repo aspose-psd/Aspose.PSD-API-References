@@ -1,11 +1,12 @@
 ---
-title: PsdImage.RawDataFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapatkan format data mentah.
+title: "PsdImage.RawDataFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage property. Mendapatkan format data mentah"
 type: docs
 weight: 220
 url: /id/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.RawDataFormat property
 
 Mendapatkan format data mentah.
@@ -14,15 +15,15 @@ Mendapatkan format data mentah.
 public override PixelDataFormat RawDataFormat { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Format data mentah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../../../aspose.psd/pixeldataformat/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

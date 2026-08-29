@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.PrintFlagsResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintFlagsResource konstruktor. Konstruktor default.
+title: "PrintFlagsResource.PrintFlagsResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PrintFlagsResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/printflagsresource/printflagsresource/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PrintFlagsResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintFlagsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

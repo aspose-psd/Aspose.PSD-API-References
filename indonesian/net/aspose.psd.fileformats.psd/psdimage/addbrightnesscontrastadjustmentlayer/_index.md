@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan penyesuaian kecerahan/kontras.
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage method. Menambahkan lapisan penyesuaian kecerahan/kontras"
 type: docs
-weight: 300
+weight: 310
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
 Menambahkan lapisan penyesuaian kecerahan/kontras.
@@ -14,20 +15,20 @@ Menambahkan lapisan penyesuaian kecerahan/kontras.
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brightness | Int32 | Kecerahan. |
-| contrast | Int32 | Kontras. |
+| kecerahan | Int32 | Kecerahan. |
+| kontras | Int32 | Contrast. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Membuat lapisan kecerahan/kontras
+Lapisan kecerahan/kontras dibuat
 
-### Lihat juga
+### Lihat Juga
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

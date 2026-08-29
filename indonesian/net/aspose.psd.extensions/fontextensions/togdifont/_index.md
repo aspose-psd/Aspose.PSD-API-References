@@ -1,58 +1,59 @@
 ---
-title: FontExtensions.ToGdiFont
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontExtensions metode. MengubahFont keFont .
+title: "FontExtensions.ToGdiFont"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontExtensions. Mengonversi Font menjadi Font."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/fontextensions/togdifont/
 ---
+{{< psd/tize >}}
 ## ToGdiFont(Font) {#togdifont}
 
-Mengubah[`Font`](../../../aspose.psd/font/) keFont .
+Mengonversi [`Font`](../../../aspose.psd/font/) menjadi Font.
 
 ```csharp
 public static Font ToGdiFont(Font font)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| font | Font | Itu[`Font`](../../../aspose.psd/font/) untuk mengubah. |
+| font | Font | `[`Font`](../../../aspose.psd/font/)` untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiFont.
+Font yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../fontextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiFont(Font, GraphicsUnit) {#togdifont_1}
 
-Mengubah[`Font`](../../../aspose.psd/font/) keFont .
+Mengonversi [`Font`](../../../aspose.psd/font/) menjadi Font.
 
 ```csharp
 public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| font | Font | Itu[`Font`](../../../aspose.psd/font/) untuk mengubah. |
-| fontUnit | GraphicsUnit | Unit grafis baru |
+| font | Font | `[`Font`](../../../aspose.psd/font/)` untuk dikonversi. |
+| fontUnit | GraphicsUnit | Unit grafik baru |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiFont.
+Font yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../fontextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

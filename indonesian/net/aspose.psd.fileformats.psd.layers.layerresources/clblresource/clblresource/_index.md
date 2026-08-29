@@ -1,56 +1,57 @@
 ---
-title: ClblResource.ClblResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClblResource konstruktor. Menginisialisasi instance baru dariClblResource kelas.
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ClblResource. Menginisialisasi instance baru dari kelas ClblResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-Menginisialisasi instance baru dari[`ClblResource`](../) kelas.
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| Parameter | Jenis | Keterangan |
-| --- | --- | --- |
-| blendClippedElements | Boolean | jika diatur ke`BENAR` [campur elemen terpotong]. |
-
-### Lihat juga
-
-* class [ClblResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* perakitan [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-Menginisialisasi instance baru dari[`ClblResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ClblResource`](../).
 
 ```csharp
 public ClblResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClblResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+Menginisialisasi instance baru dari kelas [`ClblResource`](../).
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| blendClippedElements | Boolean | jika diatur ke `true` [blend clipped elements]. |
+
+### Lihat Juga
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`ClblResource`](../) class. Dengan nilai khusus atau tidak diketahui
+Menginisialisasi instance baru dari kelas [`ClblResource`](../). Dengan nilai khusus atau tidak diketahui
 
 ```csharp
 public ClblResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -58,12 +59,12 @@ public ClblResource(byte[] data)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Nilai Sumber Daya clbl tidak valid |
+| ArgumentException | Nilai Resource clbl tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClblResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: RasterImage.ReplaceNonTransparentColors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mengganti semua warna nontransparan dengan warna baru dan mempertahankan nilai alfa asli untuk mempertahankan tepi yang halus. Catatan jika Anda menggunakannya pada gambar tanpa transparansi semua warna akan diganti dengan satu warna.
+title: "RasterImage.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Mengganti semua warna non-transparan dengan warna baru dan mempertahankan nilai alfa asli untuk menyimpan tepi yang halus. Catatan: jika Anda menggunakannya pada gambar tanpa transparansi, semua warna akan diganti dengan satu warna."
 type: docs
-weight: 460
+weight: 470
 url: /id/net/aspose.psd/rasterimage/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## ReplaceNonTransparentColors(Color) {#replacenontransparentcolors}
 
-Mengganti semua warna non-transparan dengan warna baru dan mempertahankan nilai alfa asli untuk mempertahankan tepi yang halus. Catatan: jika Anda menggunakannya pada gambar tanpa transparansi, semua warna akan diganti dengan satu warna.
+Mengganti semua warna tidak transparan dengan warna baru dan mempertahankan nilai alfa asli untuk menyimpan tepi yang halus. Catatan: jika Anda menggunakannya pada gambar tanpa transparansi, semua warna akan diganti dengan satu warna saja.
 
 ```csharp
 public void ReplaceNonTransparentColors(Color newColor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newColor | Color | Warna baru untuk menggantikan warna yang tidak transparan. |
+| newColor | Warna | Warna baru untuk mengganti warna non-transparan. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceNonTransparentColors(int) {#replacenontransparentcolors_1}
 
-Mengganti semua warna non-transparan dengan warna baru dan mempertahankan nilai alfa asli untuk mempertahankan tepi yang halus. Catatan: jika Anda menggunakannya pada gambar tanpa transparansi, semua warna akan diganti dengan satu warna.
+Mengganti semua warna tidak transparan dengan warna baru dan mempertahankan nilai alfa asli untuk menyimpan tepi yang halus. Catatan: jika Anda menggunakannya pada gambar tanpa transparansi, semua warna akan diganti dengan satu warna saja.
 
 ```csharp
 public virtual void ReplaceNonTransparentColors(int newColorArgb)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newColorArgb | Int32 | Nilai ARGB warna baru untuk menggantikan warna yang tidak transparan. |
+| newColorArgb | Int32 | Nilai ARGB warna baru untuk menggantikan warna nontransparent. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

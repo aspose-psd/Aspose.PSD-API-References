@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Scale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau menyetel skala.
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PatternFillSettings properti. Mendapatkan atau mengatur skala"
 type: docs
-weight: 120
+weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
-Mendapat atau menyetel skala.
+Mendapatkan atau mengatur skala.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Skala.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari pengeditan Fill Layer Pattern.
+Kode berikut menunjukkan dukungan pengeditan Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LnkeResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LnkeResource bidang. Kunci info alat ketik.
+title: "LnkeResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang LnkeResource. Kunci info alat tipe"
 type: docs
-weight: 40
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LnkeResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LnkeResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

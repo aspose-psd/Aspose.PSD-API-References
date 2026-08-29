@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Title
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapatkan atau menetapkan judul.
+title: "AiHeader.Title"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AiHeader properti. Mendapatkan atau mengatur judul"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
-Mendapatkan atau menetapkan judul.
+Mendapatkan atau mengatur judul.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Judul.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

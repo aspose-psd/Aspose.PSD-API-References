@@ -1,27 +1,28 @@
 ---
-title: Rational.FloatValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rational Properti. Mendapat nilai float.
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rational. Mendapatkan nilai float"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
-Mendapat nilai float.
+Mendapatkan nilai float.
 
 ```csharp
 public float FloatValue { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai float.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Rational](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

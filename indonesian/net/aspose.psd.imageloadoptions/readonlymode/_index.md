@@ -1,0 +1,77 @@
+---
+title: "Enum ReadOnlyMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ImageLoadOptions.ReadOnlyMode. Menentukan mode hanya-baca yang tersedia saat memuat gambar PSD"
+type: docs
+weight: 5260
+url: /id/net/aspose.psd.imageloadoptions/readonlymode/
+---
+{{< psd/tize >}}
+## ReadOnlyMode enumeration
+
+Menentukan mode baca-saja yang tersedia saat memuat gambar PSD.
+
+```csharp
+public enum ReadOnlyMode
+```
+
+### Nilai
+
+| Nama | Nilai | Deskripsi |
+| --- | --- | --- |
+| None | `0` | Tidak ada pembatasan hanya-baca yang diterapkan. Gambar dapat dimodifikasi sepenuhnya. |
+| Default | `1` | Mode default. Gambar sepenuhnya hanya-baca dan tidak dapat dimodifikasi. |
+| MetadataEdit | `2` | Mengizinkan penyuntingan metadata gambar sambil menjaga konten gambar tetap hanya-baca. |
+
+## Contoh
+
+Menunjukkan penyuntingan dan penyimpanan metadata PSD menggunakan ReadOnlyMode.MetadataEdit.
+
+```csharp
+[C#]
+
+string sourceFile = "psdnet2382.psd";
+string outputFile = "output.psd";
+
+string testMetadata = "Updated metadata text";
+
+using (PsdImage psdImage = (PsdImage)Aspose.PSD.Image.Load(sourceFile,
+    new PsdLoadOptions() { ReadOnlyType = ReadOnlyMode.MetadataEdit })) // Sets the of ReadOnlyMode to true
+{
+    AssertAreNotEqual(testMetadata, psdImage.XmpData.Meta.AdobeXmpToolkit);
+
+    // Ubah metadata dalam ReadOnlyMode
+    psdImage.XmpData.Meta.AdobeXmpToolkit = testMetadata;
+
+    // Simpan metadata yang diubah dalam ReadOnlyMode
+    psdImage.Save(outputFile);
+}
+
+using (PsdImage psdImage = (PsdImage)Aspose.PSD.Image.Load(outputFile)) // Sets the of ReadOnlyMode to true
+{
+    AssertAreEqual(testMetadata, psdImage.XmpData.Meta.AdobeXmpToolkit);
+}
+
+void AssertAreEqual(object expected, object actual)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception("Objects should be equal, but they don't.");
+    }
+}
+
+void AssertAreNotEqual(object obj1, object obj2)
+{
+    if (object.Equals(obj1, obj2))
+    {
+        throw new Exception("Objects should not be equal, but they are equal.");
+    }
+}
+```
+
+### Lihat Juga
+
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
+
+

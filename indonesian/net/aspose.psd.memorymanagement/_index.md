@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi rutin manajemen memori.
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi rutin manajemen memori."
 type: docs
-weight: 450
+weight: 490
 url: /id/net/aspose.psd.memorymanagement/
 ---
-Ruang nama berisi rutin manajemen memori.
+{{< psd/tize >}}
+Namespace ini berisi rutin manajemen memori.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
 | [Configuration](./configuration/) | Konfigurasi global manajemen memori |
 

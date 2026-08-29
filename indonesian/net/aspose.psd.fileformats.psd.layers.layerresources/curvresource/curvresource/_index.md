@@ -1,47 +1,48 @@
 ---
-title: CurvResource.CurvResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvResource konstruktor. Menginisialisasi instance baru dariCurvResource kelas.
+title: "CurvResource.CurvResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor CurvResource. Menginisialisasi instance baru dari kelas CurvResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/curvresource/
 ---
+{{< psd/tize >}}
 ## CurvResource(int) {#constructor_1}
 
-Menginisialisasi instance baru dari[`CurvResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`CurvResource`](../).
 
 ```csharp
 public CurvResource(int maxChannelCount)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | maxChannelCount | Int32 | Jumlah saluran maksimum. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurvResource(byte[]) {#constructor}
 
-Menginisialisasi instance baru dari[`CurvResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`CurvResource`](../).
 
 ```csharp
 public CurvResource(byte[] bytes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bytes | Byte[] | Byte. |
+| byte | Byte[] | Byte-byte. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

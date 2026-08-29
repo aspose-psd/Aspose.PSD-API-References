@@ -1,14 +1,15 @@
 ---
-title: Class SoCoResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource kelas. Kelas SoCoResource. Sumber daya ini berisi informasi tentang Color Fill Layers
+title: "Kelas SoCoResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource. Kelas SoCoResource. Sumber daya ini berisi informasi tentang Lapisan Isi Warna"
 type: docs
-weight: 3010
+weight: 3360
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Kelas SoCoResource. Sumber daya ini berisi informasi tentang Color Fill Layers
+Kelas SoCoResource. Sumber daya ini berisi informasi tentang Lapisan Isi Warna
 
 ```csharp
 public class SoCoResource : FillLayerResource
@@ -16,36 +17,36 @@ public class SoCoResource : FillLayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [SoCoResource](socoresource/)() | Menginisialisasi instance baru dari`SoCoResource` kelas. |
+| [SoCoResource](socoresource/)() | Menginisialisasi instance baru dari kelas `SoCoResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Mendapatkan warna RGB . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Mendapatkan warna RGB. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | Mendapat tanda tangan sumber daya lapisan. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda mengedit SoCoResource (Layer Resource for Color Fill Layer)
+Contoh berikut menunjukkan cara Anda mengedit SoCoResource (Sumber Daya Lapisan untuk Lapisan Isi Warna)
 
 ```csharp
 [C#]
@@ -53,20 +54,20 @@ Contoh berikut menunjukkan bagaimana Anda mengedit SoCoResource (Layer Resource 
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Menemukan FillLayer
+        // Mencari FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Menemukan SoCoResource di Layer Resource List
+                // Mencari SoCoResource dalam Daftar Sumber Daya Lapisan
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Menyetel properti Warna SoCoResource
+                    // Menetapkan properti Warna SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -92,11 +93,11 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

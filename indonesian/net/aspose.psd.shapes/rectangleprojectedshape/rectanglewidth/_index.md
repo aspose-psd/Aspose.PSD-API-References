@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleProjectedShape Properti. Mendapatkan lebar persegi panjang.
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleProjectedShape. Mengambil lebar segi empat"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
 Mendapatkan lebar persegi panjang.
@@ -14,14 +15,14 @@ Mendapatkan lebar persegi panjang.
 public double RectangleWidth { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lebar persegi panjang.
+Lebar segi empat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

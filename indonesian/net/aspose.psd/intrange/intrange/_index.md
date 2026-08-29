@@ -1,70 +1,71 @@
 ---
-title: IntRange.IntRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IntRange konstruktor. Menginisialisasi instance baru dariIntRange kelas.
+title: "IntRange.IntRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor IntRange. Menginisialisasi instance baru dari kelas IntRange"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/intrange/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange(int, int) {#constructor}
 
-Menginisialisasi instance baru dari[`IntRange`](../) kelas.
+Menginisialisasi instance baru dari kelas [`IntRange`](../).
 
 ```csharp
 public IntRange(int start, int count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| start | Int32 | Permulaan. |
-| count | Int32 | Hitungan. |
+| awal | Int32 | Awal. |
+| jumlah | Int32 | Jumlah. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../)
-* ruang nama [Aspose.PSD](../../intrange/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int, int, int) {#constructor_1}
 
-Menginisialisasi instance baru dari[`IntRange`](../) kelas.
+Menginisialisasi instance baru dari kelas [`IntRange`](../).
 
 ```csharp
 public IntRange(int start, int count, int delta)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| start | Int32 | Permulaan. |
-| count | Int32 | Hitungan. |
+| awal | Int32 | Awal. |
+| jumlah | Int32 | Jumlah. |
 | delta | Int32 | Delta. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../)
-* ruang nama [Aspose.PSD](../../intrange/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`IntRange`](../) kelas.
+Menginisialisasi instance baru dari kelas [`IntRange`](../).
 
 ```csharp
 public IntRange(int[] range)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| range | Int32[] | Jangkauan. |
+| rentang | Int32[] | Rentang. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../)
-* ruang nama [Aspose.PSD](../../intrange/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

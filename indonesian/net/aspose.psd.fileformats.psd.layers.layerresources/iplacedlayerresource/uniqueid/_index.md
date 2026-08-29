@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.UniqueId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapat atau menyetel pengidentifikasi unik global dari atau lapisan penempatan objek pintar di gambar PSD.
+title: "IPlacedLayerResource.UniqueId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur pengidentifikasi unik global dari lapisan yang ditempatkan atau objek pintar dalam gambar PSD"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.UniqueId property
 
-Mendapat atau menyetel pengidentifikasi unik global dari atau lapisan penempatan objek pintar di gambar PSD.
+Mendapatkan atau mengatur pengidentifikasi unik global dari lapisan yang ditempatkan atau objek pintar dalam gambar PSD.
 
 ```csharp
 public Guid UniqueId { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengidentifikasi unik dari lapisan yang ditempatkan.
+Pengidentifikasi unik lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

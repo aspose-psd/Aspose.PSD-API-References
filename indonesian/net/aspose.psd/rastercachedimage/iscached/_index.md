@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage Properti. Mendapat nilai yang menunjukkan apakah data gambar dicache saat ini.
+title: "RasterCachedImage.IsCached"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterCachedImage properti. Mendapatkan nilai yang menunjukkan apakah data gambar saat ini di-cache"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/rastercachedimage/iscached/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.IsCached property
 
-Mendapat nilai yang menunjukkan apakah data gambar di-cache saat ini.
+Mendapatkan nilai yang menunjukkan apakah data gambar saat ini di-cache.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika data gambar di-cache; jika tidak,`PALSU` .
+`true` jika data gambar di-cache; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

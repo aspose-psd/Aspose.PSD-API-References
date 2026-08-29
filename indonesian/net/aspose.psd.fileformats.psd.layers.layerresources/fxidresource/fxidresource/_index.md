@@ -1,28 +1,29 @@
 ---
-title: FXidResource.FXidResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FXidResource konstruktor. Menginisialisasi instance baru dariFXidResource kelas.
+title: "FXidResource.FXidResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor FXidResource. Menginisialisasi instance baru dari kelas FXidResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource constructor
 
-Menginisialisasi instance baru dari[`FXidResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`FXidResource`](../).
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | Int32 | Kunci sumber daya. |
+| kunci | Int32 | Kunci sumber daya. |
 | version | Int32 | Versi. |
 | filterEffectMasks | FilterEffectMaskData[] | Masker efek filter. |
 
-### Contoh
+## Contoh
 
-Contoh ini mendemonstrasikan cara mendapatkan dan mengatur properti sumber daya FXidResource.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari sumber daya FXidResource.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -67,11 +68,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

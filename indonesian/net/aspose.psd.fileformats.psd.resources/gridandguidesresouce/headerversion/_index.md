@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.HeaderVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GridAndGuidesResouce Properti. Mendapat atau menyetel versi tajuk. Nilai ini harus selalu 1.
+title: "GridAndGuidesResouce.HeaderVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GridAndGuidesResouce. Mendapatkan atau mengatur versi header. Nilai ini harus selalu 1"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.HeaderVersion property
 
-Mendapat atau menyetel versi tajuk. Nilai ini harus selalu 1.
+Mendapatkan atau mengatur versi header. Nilai ini harus selalu 1.
 
 ```csharp
 public int HeaderVersion { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Versi tajuk.
+Versi header.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GridAndGuidesResouce](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

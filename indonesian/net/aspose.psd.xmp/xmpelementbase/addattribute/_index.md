@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpElementBase metode. Menambahkan atribut.
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpElementBase. Menambahkan atribut"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
 Menambahkan atribut.
@@ -14,15 +15,15 @@ Menambahkan atribut.
 public virtual void AddAttribute(string attribute, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| attribute | String | Atribut. |
-| value | String | Nilai. |
+| atribut | String | Atribut tersebut. |
+| nilai | String | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpElementBase](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpelementbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ShmdResource.SubResources
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShmdResource Properti. Mendapatkan sub resource dari shmd resource.
+title: "ShmdResource.SubResources"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ShmdResource properti. Mendapatkan sub-sumber daya dari sumber daya shmd"
 type: docs
-weight: 70
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResources property
 
-Mendapatkan sub resource dari shmd resource.
+Mendapatkan sub sumber daya dari sumber daya shmd.
 
 ```csharp
 public LayerResource[] SubResources { get; }
 ```
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya MlstResource yang memberikan mekanisme tingkat rendah untuk memanipulasi status lapisan.
 
@@ -34,18 +35,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Nonaktifkan layer 1 pada frame 1
+    // Nonaktifkan lapisan 1 pada frame 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [ShmdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

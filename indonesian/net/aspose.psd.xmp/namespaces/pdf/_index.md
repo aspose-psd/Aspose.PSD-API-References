@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Pdf
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama Adobe PDF.
+title: "Namespaces.Pdf"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. Namespace Adobe PDF"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/namespaces/pdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Pdf field
 
-ruang nama Adobe PDF.
+Namespace Adobe PDF.
 
 ```csharp
 public const string Pdf;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

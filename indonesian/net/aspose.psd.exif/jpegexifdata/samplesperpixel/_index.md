@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.SamplesPerPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel sampel per piksel.
+title: "JpegExifData.SamplesPerPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur sampel per piksel"
 type: docs
 weight: 180
 url: /id/net/aspose.psd.exif/jpegexifdata/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SamplesPerPixel property
 
-Mendapat atau menyetel sampel per piksel.
+Mendapatkan atau mengatur sampel per piksel.
 
 ```csharp
 public ushort SamplesPerPixel { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sampel per piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

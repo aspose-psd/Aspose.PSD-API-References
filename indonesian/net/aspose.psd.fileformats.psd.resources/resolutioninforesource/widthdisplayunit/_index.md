@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.WidthDisplayUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResolutionInfoResource Properti. Mendapat atau menyetel unit tampilan lebar.
+title: "ResolutionInfoResource.WidthDisplayUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ResolutionInfoResource properti. Mendapatkan atau mengatur unit tampilan lebar"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.WidthDisplayUnit property
 
-Mendapat atau menyetel unit tampilan lebar.
+Mendapatkan atau mengatur unit tampilan lebar.
 
 ```csharp
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Unit tampilan lebar.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

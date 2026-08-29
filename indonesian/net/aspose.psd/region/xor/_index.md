@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Memperbarui iniRegion ke serikat dikurangi persimpangan itu sendiri dengan yang ditentukanRectangleFstruktur.
+title: "Region.Xor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode Region. Memperbarui Region ini menjadi gabungan dikurangi irisan dirinya dengan struktur RectangleF yang ditentukan"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-Memperbarui ini[`Region`](../) ke serikat dikurangi persimpangan itu sendiri dengan yang ditentukan[`RectangleF`](../../rectanglef/)struktur.
+Memperbarui [`Region`](../) ini menjadi gabungan dikurangi irisan dirinya dengan struktur [`RectangleF`](../../rectanglef/) yang ditentukan.
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | Itu[`RectangleF`](../../rectanglef/) struktur untuk xor dengan ini[`Region`](../). |
+| rect | RectangleF | Struktur [`RectangleF`](../../rectanglef/) untuk xor dengan [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-Memperbarui ini[`Region`](../) ke serikat dikurangi persimpangan itu sendiri dengan yang ditentukan[`Rectangle`](../../rectangle/)struktur.
+Memperbarui [`Region`](../) ini menjadi gabungan dikurangi irisan dirinya dengan struktur [`Rectangle`](../../rectangle/) yang ditentukan.
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Itu[`Rectangle`](../../rectangle/) struktur untuk xor dengan ini[`Region`](../). |
+| rect | Rectangle | Struktur [`Rectangle`](../../rectangle/) untuk xor dengan [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-Memperbarui ini[`Region`](../) ke serikat dikurangi persimpangan itu sendiri dengan yang ditentukan[`GraphicsPath`](../../graphicspath/) .
+Memperbarui [`Region`](../) ini menjadi gabungan dikurangi irisan dirinya dengan [`GraphicsPath`](../../graphicspath/) yang ditentukan.
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| path | GraphicsPath | Itu[`GraphicsPath`](../../graphicspath/) untuk xor dengan ini[`Region`](../). |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) untuk xor dengan [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *path* adalah null. |
+| ArgumentNullException | *path* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-Memperbarui ini[`Region`](../) ke serikat dikurangi persimpangan itu sendiri dengan yang ditentukan[`Region`](../) .
+Memperbarui [`Region`](../) ini menjadi gabungan dikurangi irisan dirinya dengan [`Region`](../) yang ditentukan.
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| region | Region | Itu[`Region`](../) untuk xor dengan ini[`Region`](../). |
+| region | Region | [`Region`](../) untuk xor dengan [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *region* adalah null. |
+| ArgumentNullException | *region* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

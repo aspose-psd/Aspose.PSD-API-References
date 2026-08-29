@@ -1,67 +1,68 @@
 ---
-title: ExifData.ExifData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData konstruktor. Menginisialisasi instance baru dariExifData kelas.
+title: "ExifData.ExifData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ExifData. Menginisialisasi sebuah instance baru dari kelas ExifData"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.exif/exifdata/exifdata/
 ---
+{{< psd/tize >}}
 ## ExifData() {#constructor}
 
-Menginisialisasi instance baru dari[`ExifData`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ExifData`](../).
 
 ```csharp
 public ExifData()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ExifData`](../) kelas dengan data dari array.
+Menginisialisasi sebuah instance baru dari kelas [`ExifData`](../) dengan data dari array.
 
 ```csharp
 public ExifData(TiffDataType[] exifdata)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | Susunan tag EXIF bersama dengan tag umum dan GPS. |
+| exifdata | TiffDataType[] | Array tag EXIF bersama dengan tag umum dan GPS. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`ExifData`](../) kelas dengan data dari array.
+Menginisialisasi sebuah instance baru dari kelas [`ExifData`](../) dengan data dari array.
 
 ```csharp
 public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | commonTags | TiffDataType[] | Tag umum. |
 | exifTags | TiffDataType[] | Tag EXIF. |
 | gpsTags | TiffDataType[] | Tag GPS. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

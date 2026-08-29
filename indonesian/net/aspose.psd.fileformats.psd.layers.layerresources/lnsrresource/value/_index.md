@@ -1,28 +1,29 @@
 ---
-title: LnsrResource.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LnsrResource Properti. Mendapat nilai sebagai LnsrResourceType jika enum yang sesuai dijelaskan. Jika tidak kembalikan Unknown
+title: "LnsrResource.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LnsrResource. Mendapatkan nilai sebagai LnsrResourceType jika enum yang sesuai dijelaskan. Jika tidak, mengembalikan Unknown"
 type: docs
-weight: 70
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Value property
 
-Mendapat nilai sebagai LnsrResourceType jika enum yang sesuai dijelaskan. Jika tidak, kembalikan Unknown
+Mendapatkan nilai sebagai LnsrResourceType jika enum yang sesuai dijelaskan. Jika tidak, mengembalikan Unknown
 
 ```csharp
 public LnsrResourceType Value { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai sebagai LnsrResourceType
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

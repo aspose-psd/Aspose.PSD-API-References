@@ -1,23 +1,24 @@
 ---
-title: CmykColor.Empty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColor Properti. Mendapat yang kosong.
+title: "CmykColor.Empty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CmykColor. Mendapatkan nilai kosong"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
-Mendapat yang kosong.
+Mendapatkan nilai kosong.
 
 ```csharp
 public static CmykColor Empty { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [CmykColor](../)
-* ruang nama [Aspose.PSD](../../cmykcolor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

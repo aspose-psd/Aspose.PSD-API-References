@@ -1,23 +1,24 @@
 ---
-title: AnimatedDataSectionStructure.StructureKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AnimatedDataSectionStructure bidang. Mengidentifikasi kunci struktur AnDs.
+title: "AnimatedDataSectionStructure.StructureKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AnimatedDataSectionStructure field. Mengidentifikasi kunci struktur dari AnDs"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.StructureKey field
 
-Mengidentifikasi kunci struktur AnDs.
+Mengidentifikasi kunci struktur dari AnDs.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AnimatedDataSectionStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

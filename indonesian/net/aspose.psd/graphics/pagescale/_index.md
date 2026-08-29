@@ -1,27 +1,28 @@
 ---
-title: Graphics.PageScale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapat atau mengatur penskalaan antara unit dunia dan unit halaman untuk Aspose.PSD.Graphics. ini
+title: "Graphics.PageScale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur skala antara satuan dunia dan satuan halaman untuk Aspose.PSD.Graphics ini."
 type: docs
 weight: 90
 url: /id/net/aspose.psd/graphics/pagescale/
 ---
+{{< psd/tize >}}
 ## Graphics.PageScale property
 
-Mendapat atau mengatur penskalaan antara unit dunia dan unit halaman untuk Aspose.PSD.Graphics. ini
+Mendapatkan atau mengatur skala antara satuan dunia dan satuan halaman untuk Aspose.PSD.Graphics ini.
 
 ```csharp
 public float PageScale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Penskalaan antara unit dunia dan unit halaman untuk Aspose.PSD.Graphics. ini
+Skala antara satuan dunia dan satuan halaman untuk Aspose.PSD.Graphics ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackageBaseCollection metode. MendapatXmpPackage dengan itu namespaceURI.
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackageBaseCollection. Mengambil XmpPackage berdasarkan namespaceURI-nya"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-Mendapat[`XmpPackage`](../../xmppackage/) dengan itu namespaceURI.
+Mengambil [`XmpPackage`](../../xmppackage/) berdasarkan namespaceURI-nya.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | namespaceUri | String | URI namespace untuk mendapatkan paket. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan paket XMP untuk Uri namespace tertentu.
+Mengembalikan paket XMP untuk namespace Uri yang ditentukan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

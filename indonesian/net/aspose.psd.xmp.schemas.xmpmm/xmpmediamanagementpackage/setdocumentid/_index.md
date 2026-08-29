@@ -1,47 +1,48 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMediaManagementPackage metode. Mengatur pengidentifikasi dokumen.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpMediaManagementPackage method. Menetapkan pengidentifikasi dokumen"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
-Mengatur pengidentifikasi dokumen.
+Menetapkan pengidentifikasi dokumen.
 
 ```csharp
 public void SetDocumentId(Guid guid)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | guid | Guid | Pengidentifikasi unik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMediaManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetDocumentId(string) {#setdocumentid_1}
 
-Mengatur pengidentifikasi dokumen.
+Menetapkan pengidentifikasi dokumen.
 
 ```csharp
 public void SetDocumentId(string guid)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | guid | String | Pengidentifikasi unik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMediaManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendingOptions metode. Menambahkan hamparan Gradien.
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode BlendingOptions. Menambahkan lapisan Gradient"
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
-Menambahkan hamparan Gradien.
+Menambahkan overlay Gradient.
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`GradientOverlayEffect`](../../gradientoverlayeffect/) objek
+Membuat objek [`GradientOverlayEffect`](../../gradientoverlayeffect/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

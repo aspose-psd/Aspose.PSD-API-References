@@ -1,23 +1,24 @@
 ---
-title: EnumeratedDescriptorStructure.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: EnumeratedDescriptorStructure Properti. Mendapat kuncinya.
+title: "EnumeratedDescriptorStructure.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti EnumeratedDescriptorStructure. Mendapatkan kunci"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/key/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.Key property
 
-Mendapat kuncinya.
+Mendapatkan kunci.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [EnumeratedDescriptorStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

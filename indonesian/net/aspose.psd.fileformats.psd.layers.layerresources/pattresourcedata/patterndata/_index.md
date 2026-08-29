@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.PatternData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData Properti. Mendapat data pola.
+title: "PattResourceData.PatternData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PattResourceData. Mendapatkan data pola."
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternData property
 
-Mendapat data pola.
+Mendapatkan data pola.
 
 ```csharp
 public int[] PatternData { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Data pola.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

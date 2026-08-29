@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Xml
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama xml.
+title: "Namespaces.Xml"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. Namespace Xml"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp/namespaces/xml/
 ---
+{{< psd/tize >}}
 ## Namespaces.Xml field
 
-ruang nama xml.
+Namespace Xml.
 
 ```csharp
 public const string Xml;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

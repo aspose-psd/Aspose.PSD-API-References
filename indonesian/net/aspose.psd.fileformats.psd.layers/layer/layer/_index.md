@@ -1,22 +1,23 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer konstruktor. Menginisialisasi instance baru dariLayer kelas. Konstruktor untuk inisialisasi lambat.
+title: "Layer.Layer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Layer. Menginisialisasi sebuah instance baru dari kelas Layer. Konstruktor untuk inisialisasi malas"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer() {#constructor}
 
-Menginisialisasi instance baru dari[`Layer`](../) kelas. Konstruktor untuk inisialisasi lambat.
+Menginisialisasi sebuah instance baru dari kelas [`Layer`](../). Konstruktor untuk inisialisasi malas.
 
 ```csharp
 public Layer()
 ```
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda bisa menggambar pada lapisan yang baru dibuat jika versi konstruktor sederhana digunakan di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menggambar pada lapisan yang baru dibuat jika versi konstruktor sederhana digunakan dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -35,40 +36,40 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // menggambar persegi panjang dengan Pen tool
+    // gambar sebuah persegi panjang dengan alat Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // menggambar persegi panjang lain dengan Kuas Padat dalam warna Biru
+    // gambar persegi panjang lain dengan Kuas Solid berwarna Biru
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Layer`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Layer`](../).
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | RasterImage | Foto. |
-| disposeImage | Boolean | jika diatur ke`BENAR` [membuang gambar]. |
+| gambar | RasterImage | Gambar. |
+| disposeImage | Boolean | jika diatur ke `true` [dispose image]. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk memuat file gambar JPEG/PNG/dll ke PsdImage tanpa memuat langsung.
+Kode berikut menunjukkan kemampuan memuat file gambar JPEG/PNG/dll ke PsdImage tanpa pemuatan langsung.
 
 ```csharp
 [C#]
@@ -100,30 +101,30 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-Menginisialisasi instance baru dari[`Layer`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Layer`](../).
 
 ```csharp
 public Layer(Stream stream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Aliran gambar |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat menambahkan gambar Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif sebagai layer ke PsdImage
+Contoh berikut menunjukkan cara Anda dapat menambahkan gambar Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif sebagai lapisan ke PsdImage
 
 ```csharp
 [C#]
@@ -170,25 +171,25 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-Menginisialisasi instance baru dari[`Layer`](../) kelas dari array byte.
+Menginisialisasi instance baru dari kelas [`Layer`](../) dari array byte.
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bounds | Rectangle | Batas lapisan. |
+| batas | Rectangle | Batas lapisan. |
 | redBytes | Byte[] | Byte merah. |
 | greenBytes | Byte[] | Byte hijau. |
 | blueBytes | Byte[] | Byte biru. |
@@ -198,13 +199,13 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Array byte tidak boleh kosong atau Panjang array byte harus sama dengan dimensi batas (bounds.Width * bounds.Height) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Array byte tidak boleh kosong atau panjang array byte harus sama dengan dimensi batas (bounds.Width * bounds.Height). |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

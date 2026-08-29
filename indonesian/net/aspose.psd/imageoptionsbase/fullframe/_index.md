@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageOptionsBase Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah full frame.
+title: "ImageOptionsBase.FullFrame"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageOptionsBase. Mendapatkan atau mengatur nilai yang menunjukkan apakah full frame"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [full frame].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [full frame].
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [bingkai penuh]; jika tidak,`PALSU` .
+`true` jika [full frame]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../)
-* ruang nama [Aspose.PSD](../../imageoptionsbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

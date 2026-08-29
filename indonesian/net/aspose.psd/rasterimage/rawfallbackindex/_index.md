@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawFallbackIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau menyetel indeks fallback untuk digunakan saat indeks palet di luar batas
+title: "RasterImage.RawFallbackIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mendapatkan atau mengatur indeks cadangan yang digunakan ketika indeks palet di luar batas"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/rasterimage/rawfallbackindex/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawFallbackIndex property
 
-Mendapat atau menyetel indeks fallback untuk digunakan saat indeks palet di luar batas
+Mendapatkan atau mengatur indeks fallback yang digunakan ketika indeks palet berada di luar batas.
 
 ```csharp
 public int RawFallbackIndex { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Indeks fallback untuk digunakan saat indeks palet di luar batas
+Indeks cadangan yang digunakan ketika indeks palet berada di luar batas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BooleanResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BooleanResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "BooleanResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BooleanResource. Mendapatkan panjang sumber daya layer dalam byte"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BooleanResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

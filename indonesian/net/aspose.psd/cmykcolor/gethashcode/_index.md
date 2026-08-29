@@ -1,27 +1,28 @@
 ---
-title: CmykColor.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColor metode. Dapatkan kode hash.
+title: "CmykColor.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode CmykColor. Mendapatkan kode hash"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd/cmykcolor/gethashcode/
 ---
+{{< psd/tize >}}
 ## CmykColor.GetHashCode method
 
-Dapatkan kode hash.
+Mendapatkan kode hash.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-ItuInt32 .
+Int32.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [CmykColor](../)
-* ruang nama [Aspose.PSD](../../cmykcolor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

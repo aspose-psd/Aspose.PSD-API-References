@@ -1,23 +1,24 @@
 ---
-title: VogkResource.VogkResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VogkResource konstruktor. Menginisialisasi instance baru dariVogkResource kelas.
+title: "VogkResource.VogkResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor VogkResource. Menginisialisasi instance baru dari kelas VogkResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/vogkresource/
 ---
+{{< psd/tize >}}
 ## VogkResource constructor
 
-Menginisialisasi instance baru dari[`VogkResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`VogkResource`](../).
 
 ```csharp
 public VogkResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VogkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

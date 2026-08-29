@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat bit gambar per jumlah piksel.
+title: "PsdImage.BitsPerPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage property. Mendapatkan jumlah bit per piksel gambar"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd/psdimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerPixel property
 
-Mendapat bit gambar per jumlah piksel.
+Mendapatkan jumlah bit per piksel gambar.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bit gambar per jumlah piksel.
+Jumlah bit per piksel gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

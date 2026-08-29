@@ -1,51 +1,52 @@
 ---
-title: Pen.MultiplyTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen metode. Mengalikan matriks transformasi untuk iniPen oleh yang ditentukanMatrix .
+title: "Pen.MultiplyTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Pen. Mengalikan matriks transformasi untuk Pen ini dengan Matrix yang ditentukan"
 type: docs
 weight: 190
 url: /id/net/aspose.psd/pen/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Mengalikan matriks transformasi untuk ini[`Pen`](../) oleh yang ditentukan[`Matrix`](../../matrix/) .
+Mengalikan matriks transformasi untuk [`Pen`](../) ini dengan [`Matrix`](../../matrix/) yang ditentukan.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Itu[`Matrix`](../../matrix/) objek yang digunakan untuk mengalikan matriks transformasi. |
+| matrix | Matrix | Objek [`Matrix`](../../matrix/) yang digunakan untuk mengalikan matriks transformasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Mengalikan matriks transformasi untuk ini[`Pen`](../) oleh yang ditentukan[`Matrix`](../../matrix/) dalam urutan yang ditentukan.
+Mengalikan matriks transformasi untuk [`Pen`](../) ini dengan [`Matrix`](../../matrix/) yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Itu[`Matrix`](../../matrix/) dengan mana untuk mengalikan matriks transformasi. |
-| order | MatrixOrder | Urutan untuk melakukan operasi perkalian. |
+| matrix | Matrix | [`Matrix`](../../matrix/) yang digunakan untuk mengalikan matriks transformasi. |
+| urutan | MatrixOrder | Urutan di mana operasi perkalian harus dilakukan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

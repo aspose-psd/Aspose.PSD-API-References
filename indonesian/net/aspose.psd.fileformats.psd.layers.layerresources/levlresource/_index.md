@@ -1,14 +1,15 @@
 ---
-title: Class LevlResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource kelas. Sumber Daya Tingkat Kelas. Sumber Daya Lapisan Penyesuaian Eksposur
+title: "Kelas LevlResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource. Kelas LevlResource. Sumber daya dari Lapisan Penyesuaian Eksposur"
 type: docs
-weight: 2640
+weight: 2950
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
+{{< psd/tize >}}
 ## LevlResource class
 
-Sumber Daya Tingkat Kelas. Sumber Daya Lapisan Penyesuaian Eksposur
+Kelas LevlResource. Sumber Daya Penyesuaian Paparan Layer.
 
 ```csharp
 public class LevlResource : AdjustmentLayerResource
@@ -16,40 +17,40 @@ public class LevlResource : AdjustmentLayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LevlResource](levlresource/#constructor)() | Menginisialisasi instance baru dari`LevlResource` kelas. |
-| [LevlResource](levlresource/#constructor_1)(byte[]) | Menginisialisasi instance baru dari`LevlResource` class. Didukung dalam mode warna GrayScale, Duotone, RGB, CMYK, Lab 2 byte - Versi (=2) 29 * 10 byte - Kumpulan rekaman level dengan 5 bilangan bulat pendek 4 byte - Header Lvls (Mulai dari indeks 292) 2 byte - Versi (=3) 2 byte - Jumlah catatan level total 10 * (Jumlah Total - 29) Nol akhir sumber daya Lvl harus dilipat menjadi empat juga |
+| [LevlResource](levlresource/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `LevlResource`. |
+| [LevlResource](levlresource/#constructor_1)(byte[]) | Menginisialisasi sebuah instance baru dari kelas `LevlResource`. Didukung dalam mode warna GrayScale, Duotone, RGB, CMYK, Lab 2 byte - Versi (=2) 29 * 10 byte - Set rekaman level dengan 5 bilangan bulat pendek 4 byte - Header Lvls (Mulai pada indeks 292) 2 byte - Versi (=3) 2 byte - Jumlah total rekaman level 10 * (Total Count - 29) Akhiran nol dari sumber daya Lvls juga harus dilipat menjadi empat. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Mendapat tanda tangan. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | Mendapatkan versinya. Standarnya adalah 2 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | Mendapatkan versi. Defaultnya adalah 2 |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/)(int) | Mendapatkan saluran. |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

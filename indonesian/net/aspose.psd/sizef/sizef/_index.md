@@ -1,69 +1,70 @@
 ---
-title: SizeF.SizeF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF konstruktor. Menginisialisasi instance baru dariSizeF struktur dari yang ditentukanSizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor SizeF. Menginisialisasi instance baru dari struktur SizeF dari SizeF yang ditentukan."
 type: docs
 weight: 10
 url: /id/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-Menginisialisasi instance baru dari[`SizeF`](../) struktur dari yang ditentukan[`SizeF`](../) .
+Menginisialisasi instance baru dari struktur [`SizeF`](../) dari [`SizeF`](../) yang ditentukan.
 
 ```csharp
 public SizeF(SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | SizeF | Itu[`SizeF`](../) dari mana untuk membuat yang baru[`SizeF`](../). |
+| size | SizeF | [`SizeF`](../) yang digunakan untuk membuat [`SizeF`](../) baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-Menginisialisasi instance baru dari[`SizeF`](../) struktur dari yang ditentukan[`PointF`](../../pointf/) .
+Menginisialisasi instance baru dari struktur [`SizeF`](../) dari [`PointF`](../../pointf/) yang ditentukan.
 
 ```csharp
 public SizeF(PointF point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../../pointf/) dari mana untuk menginisialisasi ini[`SizeF`](../). |
+| point | PointF | [`PointF`](../../pointf/) yang digunakan untuk menginisialisasi [`SizeF`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-Menginisialisasi instance baru dari[`SizeF`](../) struktur dari dimensi yang ditentukan.
+Menginisialisasi instance baru dari struktur [`SizeF`](../) dari dimensi yang ditentukan.
 
 ```csharp
 public SizeF(float width, float height)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Single | Komponen lebar yang baru[`SizeF`](../). |
-| height | Single | Komponen ketinggian yang baru[`SizeF`](../). |
+| width | Single | Komponen lebar dari [`SizeF`](../) baru. |
+| height | Single | Komponen tinggi dari [`SizeF`](../) baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

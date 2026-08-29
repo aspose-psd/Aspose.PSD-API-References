@@ -1,48 +1,49 @@
 ---
-title: PsdImageArgumentException.PsdImageArgumentException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImageArgumentException konstruktor. Menginisialisasi instance baru dariPsdImageArgumentException kelas.
+title: "PsdImageArgumentException.PsdImageArgumentException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PsdImageArgumentException. Menginisialisasi sebuah instance baru dari kelas PsdImageArgumentException"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`PsdImageArgumentException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PsdImageArgumentException`](../).
 
 ```csharp
 public PsdImageArgumentException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImageArgumentException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageArgumentException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PsdImageArgumentException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PsdImageArgumentException`](../).
 
 ```csharp
 public PsdImageArgumentException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImageArgumentException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageargumentexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

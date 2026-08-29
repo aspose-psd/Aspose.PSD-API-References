@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary Properti. Mendapat ICollection objek yang berisi kunci IDictionary objek.
+title: "NonGenericDictionary.Keys"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NonGenericDictionary. Mendapatkan objek ICollection yang berisi kunci‑kunci dari objek IDictionary"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/nongenericdictionary/keys/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Keys property
 
-Mendapat ICollection objek yang berisi kunci IDictionary objek.
+Mendapatkan objek ICollection yang berisi kunci-kunci dari objek IDictionary.
 
 ```csharp
 public ICollection Keys { get; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-SebuahICollection objek yang berisi kunci dariIDictionary obyek.
+Objek ICollection yang berisi kunci‑kunci dari objek IDictionary.
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

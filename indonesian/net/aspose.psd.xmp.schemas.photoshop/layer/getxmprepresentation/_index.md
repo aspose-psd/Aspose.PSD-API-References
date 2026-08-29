@@ -1,27 +1,28 @@
 ---
-title: Layer.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer metode. Mengembalikan string berisi nilai dalam format XMP.
+title: "Layer.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Layer. Mengembalikan nilai string dalam format XMP"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Layer.GetXmpRepresentation method
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

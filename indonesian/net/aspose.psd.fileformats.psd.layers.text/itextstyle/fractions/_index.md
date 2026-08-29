@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.Fractions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Simbol pecahan dapat diganti dengan mesin terbang khusus.
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ITextStyle. Simbol pecahan dapat diganti dengan glif khusus"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
-Simbol pecahan dapat diganti dengan mesin terbang khusus.
+Simbol pecahan dapat diganti dengan glyph khusus.
 
 ```csharp
 public bool Fractions { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari dukungan properti ITextStyle baru.
+Kode berikut menunjukkan dukungan terhadap properti ITextStyle baru.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

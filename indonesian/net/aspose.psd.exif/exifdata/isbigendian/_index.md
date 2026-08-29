@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah aliran data EXIF dibuat dari big endian.
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur nilai yang menunjukkan apakah data EXIF aliran yang dibuat berformat big endian"
 type: docs
 weight: 690
 url: /id/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah aliran data EXIF dibuat dari big endian.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah data EXIF aliran yang dibuat darinya menggunakan urutan byte besar (big endian).
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran data EXIF dibuat dari big endian; jika tidak,`PALSU` .
+`true` jika data EXIF aliran yang dibuat berformat big endian; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

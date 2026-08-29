@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.GetChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LevelsLayer metode. Mendapatkan saluran.
+title: "LevelsLayer.GetChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode LevelsLayer. Mendapatkan saluran"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.GetChannel method
 
 Mendapatkan saluran.
@@ -14,19 +15,19 @@ Mendapatkan saluran.
 public LevelChannel GetChannel(int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) berdasarkan indeks
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) by index
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

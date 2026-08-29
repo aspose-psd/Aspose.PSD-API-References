@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.GrayscaleAlpha
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. MendapatkanPixelDataFormat didefinisikan untuk 16 bit per piksel dengan 8 bit mewakili intensitas skala abuabu dalam interval 0255 dan komponen alfa 8 bit tambahan.
+title: "PixelDataFormat.GrayscaleAlpha"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat property. Mendapatkan PixelDataFormat yang didefinisikan untuk 16 bit per piksel dengan 8 bit yang mewakili intensitas grayscale dalam interval 0‑255 dan komponen alfa tambahan 8 bit."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/pixeldataformat/grayscalealpha/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GrayscaleAlpha property
 
-Mendapatkan[`PixelDataFormat`](../) didefinisikan untuk 16 bit per piksel dengan 8 bit mewakili intensitas skala abu-abu dalam interval 0-255 dan komponen alfa 8 bit tambahan.
+Mendapatkan [`PixelDataFormat`](../) yang didefinisikan untuk 16 bit per piksel dengan 8 bit yang mewakili intensitas grayscale dalam interval 0‑255 dan komponen alfa tambahan 8 bit.
 
 ```csharp
 public static PixelDataFormat GrayscaleAlpha { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`PixelDataFormat`](../) didefinisikan untuk 16 bit per piksel dengan 8 bit mewakili intensitas skala abu-abu dalam interval 0-255 dan komponen alfa 8 bit tambahan.
+[`PixelDataFormat`](../) yang didefinisikan untuk 16 bit per piksel dengan 8 bit yang mewakili intensitas grayscale dalam interval 0‑255 dan komponen alfa tambahan 8 bit.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

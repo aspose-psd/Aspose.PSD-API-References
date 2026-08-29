@@ -1,14 +1,15 @@
 ---
-title: Class FillLayerResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FillLayerResource kelas. Kelas Dasar untuk mengisi sumber daya lapisan
+title: "Kelas FillLayerResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FillLayerResource class. Kelas dasar untuk sumber daya layer isi"
 type: docs
-weight: 2470
+weight: 2730
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 ---
+{{< psd/tize >}}
 ## FillLayerResource class
 
-Kelas Dasar untuk mengisi sumber daya lapisan
+Kelas dasar untuk sumber daya lapisan isi.
 
 ```csharp
 public abstract class FillLayerResource : LayerResource
@@ -16,24 +17,24 @@ public abstract class FillLayerResource : LayerResource
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/signature/) { get; } | Mendapat tanda tangan. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

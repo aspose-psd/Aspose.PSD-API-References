@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasTransparencyData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah saluran alfa pertama berisi data transparansi untuk hasil gabungan saat menentukan data lapisan.
+title: "PsdImage.HasTransparencyData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan atau mengatur nilai yang menunjukkan apakah saluran alfa pertama berisi data transparansi untuk hasil gabungan saat menentukan data lapisan"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.fileformats.psd/psdimage/hastransparencydata/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasTransparencyData property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah saluran alfa pertama berisi data transparansi untuk hasil gabungan saat menentukan data lapisan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah saluran alfa pertama berisi data transparansi untuk hasil gabungan saat menentukan data lapisan.
 
 ```csharp
 public bool HasTransparencyData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika saluran alfa pertama berisi data transparansi untuk hasil gabungan saat menentukan data lapisan; jika tidak,`PALSU` .
+`true` jika saluran alfa pertama berisi data transparansi untuk hasil gabungan saat menentukan data lapisan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

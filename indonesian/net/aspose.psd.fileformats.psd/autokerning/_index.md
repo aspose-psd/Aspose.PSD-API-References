@@ -1,14 +1,15 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.AutoKerning enum. Mode kerning otomatis Photoshop jarak antar simbol.
+title: "Enum AutoKerning"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Mode auto kerning Photoshop jarak antar simbol."
 type: docs
-weight: 1600
+weight: 1610
 url: /id/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-Mode kerning otomatis Photoshop (jarak antar simbol).
+Mode auto kerning Photoshop (jarak antar simbol).
 
 ```csharp
 public enum AutoKerning
@@ -16,15 +17,15 @@ public enum AutoKerning
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Manual | `0` | Nilai kern manual. |
-| Metric | `1` | Kerning metrik menggunakan pasangan kern, yang disertakan dengan sebagian besar font (dari desainernya). |
-| Optical | `2` | Optical kerning menyesuaikan jarak antara karakter yang berdekatan berdasarkan bentuknya. |
+| Manual | `0` | Nilai kerning manual. |
+| Metric | `1` | Kerning metrik menggunakan pasangan kern, yang termasuk dalam kebanyakan font (dari perancangnya). |
+| Optical | `2` | Kerning optik menyesuaikan jarak antar karakter yang berdekatan berdasarkan bentuknya. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari dukungan properti ITextStyle baru.
+Kode berikut menunjukkan dukungan terhadap properti ITextStyle baru.
 
 ```csharp
 [C#]
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

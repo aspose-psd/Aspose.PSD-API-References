@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLevelsAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan penyesuaian Tingkat.
+title: "PsdImage.AddLevelsAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menambahkan lapisan penyesuaian Levels."
 type: docs
-weight: 390
+weight: 410
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLevelsAdjustmentLayer method
 
 Menambahkan lapisan penyesuaian Tingkat.
@@ -14,15 +15,15 @@ Menambahkan lapisan penyesuaian Tingkat.
 public LevelsLayer AddLevelsAdjustmentLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Lapisan Levels yang baru dibuat
+Lapisan Levels yang baru dibuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevelsLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

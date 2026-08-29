@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Top
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskData Properti. Mendapat atau mengatur posisi top layer mask.
+title: "LayerMaskData.Top"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskData. Mendapatkan atau mengatur posisi mask lapisan atas."
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdata/top/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Top property
 
-Mendapat atau mengatur posisi top layer mask.
+Mendapatkan atau mengatur posisi mask lapisan atas.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Posisi layer mask atas.
+Posisi mask lapisan atas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

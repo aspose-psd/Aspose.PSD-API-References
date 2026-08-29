@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.Bounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleProjectedShape Properti. Mendapat batas objek.
+title: "RectangleProjectedShape.Bounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleProjectedShape. Mengambil batas objek"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.shapes/rectangleprojectedshape/bounds/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Bounds property
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Batas objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel mode eksposur.
+title: "ExifData.ExposureMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur mode eksposur"
 type: docs
 weight: 210
 url: /id/net/aspose.psd.exif/exifdata/exposuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureMode property
 
-Mendapat atau menyetel mode eksposur.
+Mendapatkan atau mengatur mode eksposur.
 
 ```csharp
 public ExifExposureMode ExposureMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode pencahayaan.
+Mode eksposur.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifExposureMode](../../../aspose.psd.exif.enums/exifexposuremode/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

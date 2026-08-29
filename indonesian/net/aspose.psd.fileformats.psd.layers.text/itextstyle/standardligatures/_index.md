@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Pengikat kontekstual standar yang digunakan untuk menghubungkan huruf.
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Ligatur kontekstual standar yang digunakan untuk menghubungkan huruf bersama-sama"
 type: docs
 weight: 220
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-Pengikat kontekstual standar yang digunakan untuk menghubungkan huruf.
+Ligatur kontekstual standar yang digunakan untuk menghubungkan huruf bersama.
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari dukungan properti ITextStyle baru.
+Kode berikut menunjukkan dukungan terhadap properti ITextStyle baru.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

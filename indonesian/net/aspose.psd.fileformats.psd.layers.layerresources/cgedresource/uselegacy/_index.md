@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah menggunakan warisan.
+title: "CgEdResource.UseLegacy"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CgEdResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah menggunakan legacy"
 type: docs
-weight: 100
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [menggunakan warisan].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [use legacy] digunakan.
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [gunakan warisan]; jika tidak,`PALSU` .
+`true` jika [use legacy]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpClassID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menyetel ID kelas.
+title: "TypeToolInfo6Resource.WarpClassID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur ID kelas"
 type: docs
-weight: 170
+weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassid/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassID property
 
-Mendapat atau menyetel ID kelas.
+Mendapatkan atau mengatur ID kelas.
 
 ```csharp
 public ClassID WarpClassID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 ID kelas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../classid/)
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

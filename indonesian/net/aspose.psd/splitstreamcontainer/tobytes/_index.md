@@ -1,52 +1,53 @@
 ---
-title: SplitStreamContainer.ToBytes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer metode. Mengonversi data aliran keByte larik.
+title: "SplitStreamContainer.ToBytes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SplitStreamContainer. Mengonversi data aliran menjadi array Byte"
 type: docs
 weight: 160
 url: /id/net/aspose.psd/splitstreamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-Mengonversi data aliran keByte larik.
+Mengonversi data aliran menjadi array Byte.
 
 ```csharp
 public override byte[] ToBytes()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Data aliran dikonversi keByte larik.
+Data aliran yang dikonversi menjadi array Byte.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-Mengonversi data aliran keByte larik.
+Mengonversi data aliran menjadi array Byte.
 
 ```csharp
 public override byte[] ToBytes(long position, long bytesCount)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk mulai membaca byte. |
-| bytesCount | Int64 | Jumlah byte untuk dibaca. |
+| posisi | Int64 | Posisi untuk memulai membaca byte. |
+| bytesCount | Int64 | Jumlah byte yang akan dibaca |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Data aliran dikonversi keByte larik.
+Data aliran yang dikonversi menjadi array Byte.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

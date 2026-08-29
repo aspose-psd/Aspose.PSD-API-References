@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.UserMaskRectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataFull Properti. Mendapat atau menyetel persegi panjang topeng pengguna menutup di lapisan gambar PSD..
+title: "LayerMaskDataFull.UserMaskRectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskDataFull. Mendapatkan atau mengatur persegi panjang pembungkus mask pengguna dalam lapisan gambar PSD"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.UserMaskRectangle property
 
-Mendapat atau menyetel persegi panjang topeng pengguna (menutup) di lapisan gambar PSD..
+Mendapatkan atau mengatur persegi panjang mask pengguna (melingkupi) dalam lapisan gambar PSD.
 
 ```csharp
 public Rectangle UserMaskRectangle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Masker pengguna[`Rectangle`](../../../aspose.psd/rectangle/) .
+Mask pengguna [`Rectangle`](../../../aspose.psd/rectangle/).
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskDataFull](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

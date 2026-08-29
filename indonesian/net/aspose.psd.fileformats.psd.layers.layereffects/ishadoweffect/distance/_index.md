@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Distance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IShadowEffect Properti. Mendapat atau mengatur jarak dalam piksel.
+title: "IShadowEffect.Distance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IShadowEffect. Mendapatkan atau mengatur jarak dalam piksel"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Distance property
 
-Mendapat atau mengatur jarak dalam piksel.
+Mendapatkan atau mengatur jarak dalam piksel.
 
 ```csharp
 public int Distance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jarak.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

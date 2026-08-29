@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: WorkingPathResource Properti. Mendapatkan atau menyetel versi.
+title: "WorkingPathResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti WorkingPathResource. Mendapatkan atau mengatur versi"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.resources/workingpathresource/version/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.Version property
 
-Mendapatkan atau menyetel versi.
+Mendapatkan atau mengatur versi.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [WorkingPathResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

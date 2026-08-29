@@ -1,14 +1,15 @@
 ---
-title: Class BilateralSmoothingFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions kelas. Opsi Filter Pemulusan Bilateral.
+title: "Kelas BilateralSmoothingFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions. Opsi Bilateral Smoothing Filter"
 type: docs
-weight: 4660
+weight: 5130
 url: /id/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions class
 
-Opsi Filter Pemulusan Bilateral.
+Opsi Filter Penghalusan Bilateral.
 
 ```csharp
 public class BilateralSmoothingFilterOptions : FilterOptionsBase
@@ -16,25 +17,25 @@ public class BilateralSmoothingFilterOptions : FilterOptionsBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | Menginisialisasi instance baru dari`BilateralSmoothingFilterOptions` kelas. |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | Menginisialisasi instance baru dari`BilateralSmoothingFilterOptions` kelas. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `BilateralSmoothingFilterOptions`. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | Menginisialisasi sebuah instance baru dari kelas `BilateralSmoothingFilterOptions`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/) { get; set; } | Mendapat atau menyetel faktor warna. |
-| [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/) { get; set; } | Mendapat atau menyetel kekuatan warna. |
-| [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/) { get; set; } | Mendapat atau mengatur ukuran kernel. |
-| [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/) { get; set; } | Mendapat atau menyetel faktor spasial. |
-| [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/) { get; set; } | Mendapat atau mengatur kekuatan spasial. |
+| [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/) { get; set; } | Mendapatkan atau mengatur faktor warna. |
+| [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/) { get; set; } | Mendapatkan atau mengatur daya warna. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/) { get; set; } | Mendapatkan atau mengatur ukuran kernel. |
+| [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/) { get; set; } | Mendapatkan atau mengatur faktor spasial. |
+| [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/) { get; set; } | Mendapatkan atau mengatur daya spasial. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

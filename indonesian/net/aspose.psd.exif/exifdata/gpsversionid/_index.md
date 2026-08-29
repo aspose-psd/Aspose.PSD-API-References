@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSVersionID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel pengidentifikasi versi GPS.
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur pengidentifikasi versi GPS"
 type: docs
 weight: 670
 url: /id/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
-Mendapat atau menyetel pengidentifikasi versi GPS.
+Mendapatkan atau mengatur pengidentifikasi versi GPS.
 
 ```csharp
 public byte[] GPSVersionID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengidentifikasi versi GPS.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

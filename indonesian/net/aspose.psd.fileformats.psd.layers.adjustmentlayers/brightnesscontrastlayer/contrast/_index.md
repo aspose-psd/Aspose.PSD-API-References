@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BrightnessContrastLayer Properti. Mendapat atau mengatur kontras. Untuk rentang kontras PS adalah dari 50 hingga 100. Tapi kami mengabaikan ini.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BrightnessContrastLayer. Mendapatkan atau mengatur contrast. Untuk rentang PS contrast adalah dari 50 hingga 100. Namun kami mengabaikannya"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-Mendapat atau mengatur kontras. Untuk rentang kontras PS adalah dari -50 hingga +100. Tapi kami mengabaikan ini.
+Mendapatkan atau mengatur kontras. Untuk rentang kontras pada PS adalah dari -50 hingga +100. Tetapi kami mengabaikannya.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kontras.
+Contrast.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BrightnessContrastLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

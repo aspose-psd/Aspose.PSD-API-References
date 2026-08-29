@@ -1,27 +1,28 @@
 ---
-title: MixerChannel.Constant
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MixerChannel Properti. Mendapat atau menyetel konstanta.dari saluran.
+title: "MixerChannel.Constant"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MixerChannel. Mendapatkan atau menetapkan konstanta dari saluran"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/
 ---
+{{< psd/tize >}}
 ## MixerChannel.Constant property
 
-Mendapat atau menyetel konstanta.dari saluran.
+Mendapatkan atau mengatur konstanta saluran.
 
 ```csharp
 public short Constant { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Konstanta.
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixerChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

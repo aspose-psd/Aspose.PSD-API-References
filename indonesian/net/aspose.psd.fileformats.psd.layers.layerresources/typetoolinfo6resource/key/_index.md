@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat kunci sumber daya lapisan.
+title: "TypeToolInfo6Resource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan kunci sumber lapisan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Key property
 
-Mendapat kunci sumber daya lapisan.
+Mendapatkan kunci sumber daya lapisan.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

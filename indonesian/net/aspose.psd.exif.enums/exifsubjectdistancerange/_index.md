@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange enum. enum jarak subjek jarak subjek.
+title: "Enum ExifSubjectDistanceRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange enum. enum rentang jarak subjek exif"
 type: docs
-weight: 950
+weight: 960
 url: /id/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-enum jarak subjek jarak subjek.
+enumerasi rentang jarak subjek exif.
 
 ```csharp
 public enum ExifSubjectDistanceRange
@@ -16,16 +17,16 @@ public enum ExifSubjectDistanceRange
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Unknown | `0` | Rentang jarak subjek tidak diketahui |
 | Macro | `1` | Rentang makro |
-| CloseView | `2` | Tampilan dekat. |
+| CloseView | `2` | Pandangan dekat. |
 | DistantView | `3` | Pandangan jauh. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

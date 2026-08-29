@@ -1,14 +1,15 @@
 ---
-title: Interface IColorConverter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IColorConverter antarmuka. Konverter warna.
+title: "Antarmuka IColorConverter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IColorConverter. Konverter warna."
 type: docs
-weight: 4380
+weight: 4850
 url: /id/net/aspose.psd/icolorconverter/
 ---
+{{< psd/tize >}}
 ## IColorConverter interface
 
-Konverter warna.
+Pengonversi warna.
 
 ```csharp
 public interface IColorConverter
@@ -16,13 +17,13 @@ public interface IColorConverter
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | Mengonversi data yang diteruskan ke format keluaran. |
+| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | Mengonversi data yang diberikan ke format output. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion3 Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "PhflResourceVersion3.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResourceVersion3. Mengambil panjang sumber daya lapisan dalam byte"
 type: docs
-weight: 70
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/length/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion3](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

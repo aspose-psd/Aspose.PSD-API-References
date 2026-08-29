@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Brightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DeconvolutionFilterOptions Properti. Mendapat atau menyetel kecerahan. rentang yang disarankan 1  15 nilai default  115
+title: "DeconvolutionFilterOptions.Brightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DeconvolutionFilterOptions. Mendapatkan atau mengatur nilai brightness. rentang yang direkomendasikan 1 1.5 nilai default 1.15"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Brightness property
 
-Mendapat atau menyetel kecerahan. rentang yang disarankan 1 - 1,5 nilai default = 1,15
+Mendapatkan atau mengatur kecerahan. rentang yang direkomendasikan 1 - 1.5 nilai default = 1.15
 
 ```csharp
 public double Brightness { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kecerahan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DeconvolutionFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

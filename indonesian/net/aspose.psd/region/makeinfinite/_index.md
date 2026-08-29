@@ -1,23 +1,24 @@
 ---
-title: Region.MakeInfinite
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Menginisialisasi iniRegion objek ke interior tak terbatas.
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Region. Menginisialisasi objek Region ini menjadi interior tak terbatas"
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-Menginisialisasi ini[`Region`](../) objek ke interior tak terbatas.
+Menginisialisasi objek [`Region`](../) ini menjadi interior tak terbatas.
 
 ```csharp
 public void MakeInfinite()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

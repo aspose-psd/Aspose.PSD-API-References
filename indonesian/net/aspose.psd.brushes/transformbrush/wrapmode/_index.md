@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.WrapMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransformBrush Properti. Mendapat atau menyetel aWrapMode pencacahan yang menunjukkan mode bungkus untuk iniTransformBrush .
+title: "TransformBrush.WrapMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TransformBrush. Mendapatkan atau mengatur enumerasi WrapMode yang menunjukkan mode pembungkus untuk TransformBrush ini"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
+{{< psd/tize >}}
 ## TransformBrush.WrapMode property
 
-Mendapat atau menyetel a[`WrapMode`](../../../aspose.psd/wrapmode/) pencacahan yang menunjukkan mode bungkus untuk ini[`TransformBrush`](../) .
+Mendapatkan atau mengatur enumerasi [`WrapMode`](../../../aspose.psd/wrapmode/) yang menunjukkan mode pembungkus untuk [`TransformBrush`](../).
 
 ```csharp
 public WrapMode WrapMode { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`WrapMode`](../../../aspose.psd/wrapmode/) yang menentukan bagaimana isian digambar dengan ini[`TransformBrush`](../) adalah ubin.
+Sebuah [`WrapMode`](../../../aspose.psd/wrapmode/) yang menentukan bagaimana isian yang digambar dengan [`TransformBrush`](../) ditata ubin.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../transformbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

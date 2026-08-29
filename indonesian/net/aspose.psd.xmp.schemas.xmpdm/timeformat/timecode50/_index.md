@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode50
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeFormat Properti. Mendapatkan kode waktu50.
+title: "TimeFormat.Timecode50"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TimeFormat. Mendapatkan timecode50"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode50/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode50 property
 
-Mendapatkan kode waktu50.
+Mendapatkan timecode 50.
 
 ```csharp
 public static TimeFormat Timecode50 { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kode waktu50.
+timecode50.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeFormat](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

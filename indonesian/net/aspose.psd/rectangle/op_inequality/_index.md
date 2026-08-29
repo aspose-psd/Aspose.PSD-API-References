@@ -1,32 +1,33 @@
 ---
-title: Rectangle.op_Inequality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Menguji apakah duaRectangle struktur berbeda dalam lokasi atau ukuran.
+title: "Rectangle.op_Inequality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Menguji apakah dua struktur Rectangle berbeda dalam lokasi atau ukuran."
 type: docs
 weight: 300
 url: /id/net/aspose.psd/rectangle/op_inequality/
 ---
+{{< psd/tize >}}
 ## Rectangle Inequality operator
 
-Menguji apakah dua[`Rectangle`](../) struktur berbeda dalam lokasi atau ukuran.
+Menguji apakah dua struktur [`Rectangle`](../) berbeda dalam lokasi atau ukuran.
 
 ```csharp
 public static bool operator !=(Rectangle left, Rectangle right)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Rectangle | Itu[`Rectangle`](../) struktur yang ada di sebelah kiri operator pertidaksamaan. |
-| right | Rectangle | Itu[`Rectangle`](../) struktur yang berada di sebelah kanan operator pertidaksamaan. |
+| left | Rectangle | Struktur [`Rectangle`](../) yang berada di sebelah kiri operator ketidaksamaan. |
+| right | Rectangle | Struktur [`Rectangle`](../) yang berada di sebelah kanan operator ketidaksamaan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Operator ini mengembalikan nilai true jika salah satu dari[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) atau[`Height`](../height/) sifat keduanya[`Rectangle`](../) struktur tidak setara; sebaliknya salah.
+Operator ini mengembalikan true jika salah satu properti [`X`](../x/), [`Y`](../y/), [`Width`](../width/) atau [`Height`](../height/) dari dua struktur [`Rectangle`](../) tidak sama; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: GdFlResource.TransparencyPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat poin transparansi.
+title: "GdFlResource.TransparencyPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GdFlResource. Mendapatkan titik transparansi"
 type: docs
-weight: 170
+weight: 220
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.TransparencyPoints property
 
-Mendapat poin transparansi.
+Mendapatkan titik transparansi.
 
 ```csharp
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Poin transparansi.
+Titik transparansi.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientTransparencyPoint](../../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/)
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

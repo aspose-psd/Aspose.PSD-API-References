@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.BlendModeKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerSectionResource Properti. Mendapat atau menyetel kunci mode campuran.
+title: "LayerSectionResource.BlendModeKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LayerSectionResource property. Mendapatkan atau mengatur kunci mode pencampuran"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.BlendModeKey property
 
-Mendapat atau menyetel kunci mode campuran.
+Mendapatkan atau mengatur kunci mode pencampuran.
 
 ```csharp
 public BlendMode BlendModeKey { get; set; }
@@ -18,13 +19,13 @@ public BlendMode BlendModeKey { get; set; }
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang BlendModeKey harus 4 karakter. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | BlendModeKey harus memiliki panjang 4 karakter. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerSectionResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

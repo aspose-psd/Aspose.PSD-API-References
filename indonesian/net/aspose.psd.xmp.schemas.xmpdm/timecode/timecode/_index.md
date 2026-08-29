@@ -1,29 +1,30 @@
 ---
-title: Timecode.Timecode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Timecode konstruktor. Menginisialisasi instance baru dariTimecode kelas.
+title: "Timecode.Timecode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Timecode. Menginisialisasi sebuah instance baru dari kelas Timecode"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timecode/timecode/
 ---
+{{< psd/tize >}}
 ## Timecode constructor
 
-Menginisialisasi instance baru dari[`Timecode`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Timecode`](../).
 
 ```csharp
 public Timecode(TimeFormat format, string timeValue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | format | TimeFormat | Format waktu. |
 | timeValue | String | Nilai waktu. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

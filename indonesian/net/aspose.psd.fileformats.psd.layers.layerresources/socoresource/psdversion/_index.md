@@ -1,11 +1,12 @@
 ---
-title: SoCoResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SoCoResource Properti. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
+title: "SoCoResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SoCoResource. Mendapatkan versi psd minimal yang diperlukan untuk sumber lapisan. 0 menunjukkan tidak ada pembatasan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/
 ---
+{{< psd/tize >}}
 ## SoCoResource.PsdVersion property
 
 Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
@@ -14,10 +15,10 @@ Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menun
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SoCoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

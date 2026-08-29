@@ -1,30 +1,31 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitArrayStructure Properti. Mendapat atau menetapkan nilai struktur larik unit.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "UnitArrayStructure properti. Mendapatkan atau mengatur nilai struktur array unit"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-Mendapat atau menetapkan nilai struktur larik unit.
+Mendapatkan atau mengatur nilai struktur array unit.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai struktur larik unit.
+Nilai struktur array unit.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Properti nilai tidak boleh null. |
+| ArgumentNullException | Properti Values tidak boleh null. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan tanda tangan ObAr dan UnFl.
 
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnitArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

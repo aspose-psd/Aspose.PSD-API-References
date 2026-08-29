@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Bottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menyetel lokasi terbawah.
+title: "TypeToolInfo6Resource.Bottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur lokasi bawah"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/bottom/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Bottom property
 
-Mendapat atau menyetel lokasi terbawah.
+Mendapatkan atau mengatur lokasi bawah.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lokasi paling bawah.
+Lokasi bawah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

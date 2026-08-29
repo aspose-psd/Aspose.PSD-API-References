@@ -1,11 +1,12 @@
 ---
-title: Graphics.Clear
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Membersihkan permukaan grafik menggunakan warna yang ditentukan.
+title: "Graphics.Clear"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menghapus permukaan grafis menggunakan warna yang ditentukan."
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.psd/graphics/clear/
 ---
+{{< psd/tize >}}
 ## Graphics.Clear method
 
 Membersihkan permukaan grafik menggunakan warna yang ditentukan.
@@ -14,15 +15,15 @@ Membersihkan permukaan grafik menggunakan warna yang ditentukan.
 public void Clear(Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| color | Color | Warna untuk membersihkan permukaan grafis. |
+| warna | Warna | Warna yang digunakan untuk menghapus permukaan grafis. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

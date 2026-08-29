@@ -1,43 +1,44 @@
 ---
-title: CustResource.CustResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustResource konstruktor. Menginisialisasi instance baru dariCustResource kelas.
+title: "CustResource.CustResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor CustResource. Menginisialisasi instance baru dari kelas CustResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource() {#constructor}
 
-Menginisialisasi instance baru dari[`CustResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`CustResource`](../).
 
 ```csharp
 public CustResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CustResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustResource(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`CustResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`CustResource`](../).
 
 ```csharp
 public CustResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CustResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

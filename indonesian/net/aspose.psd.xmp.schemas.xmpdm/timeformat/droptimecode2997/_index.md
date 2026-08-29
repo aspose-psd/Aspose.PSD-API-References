@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.DropTimecode2997
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeFormat Properti. Mendapat kode waktu jatuhnya2997.
+title: "TimeFormat.DropTimecode2997"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TimeFormat. Mendapatkan drop timecode2997"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timeformat/droptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.DropTimecode2997 property
 
-Mendapat kode waktu jatuhnya2997.
+Mendapatkan timecode drop 2997.
 
 ```csharp
 public static TimeFormat DropTimecode2997 { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kode waktu jatuh 2997.
+drop timecode2997.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeFormat](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class CustResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource kelas. Kelas CustResource. Sumber daya ini berisi informasi tentang pencampuran elemen terpotong.
+title: "Kelas CustResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource kelas. Kelas CustResource. Sumber daya ini berisi informasi tentang pencampuran elemen terpotong"
 type: docs
-weight: 2440
+weight: 2700
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource class
 
-Kelas CustResource. Sumber daya ini berisi informasi tentang pencampuran elemen terpotong.
+Kelas CustResource. Sumber daya ini berisi informasi tentang pencampuran elemen terklip.
 
 ```csharp
 public class CustResource : LayerResource
@@ -16,38 +17,38 @@ public class CustResource : LayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [CustResource](custresource/#constructor)() | Menginisialisasi instance baru dari`CustResource` kelas. |
-| [CustResource](custresource/#constructor_1)(byte[]) | Menginisialisasi instance baru dari`CustResource` kelas. |
+| [CustResource](custresource/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `CustResource`. |
+| [CustResource](custresource/#constructor_1)(byte[]) | Menginisialisasi sebuah instance baru dari kelas `CustResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Mendapat atau menyetel tanggal pembuatan layer. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Mendapatkan atau mengatur tanggal pembuatan lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/) { get; } | Mendapat tanda tangan. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

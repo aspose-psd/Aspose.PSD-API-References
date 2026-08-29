@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "TypeToolInfo6Resource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan panjang sumber lapisan dalam byte"
 type: docs
-weight: 90
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

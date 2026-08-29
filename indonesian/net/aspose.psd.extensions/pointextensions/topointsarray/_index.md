@@ -1,33 +1,34 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointExtensions metode. MengubahPoint larik kePointF larik.
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointExtensions. Mengonversi array Point ke array PointF"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-Mengubah[`Point`](../../../aspose.psd/point/) larik ke[`PointF`](../../../aspose.psd/pointf/) larik.
+Mengonversi array [`Point`](../../../aspose.psd/point/) menjadi array [`PointF`](../../../aspose.psd/pointf/).
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | Point[] | Itu[`Point`](../../../aspose.psd/point/) larik untuk dikonversi. |
+| points | Point[] | Array [`Point`](../../../aspose.psd/point/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversi[`PointF`](../../../aspose.psd/pointf/) Himpunan.
+Array [`PointF`](../../../aspose.psd/pointf/) yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../pointextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

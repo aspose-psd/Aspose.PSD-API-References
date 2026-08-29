@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitArrayStructure Properti. Mendapat hitungan nilai.
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "UnitArrayStructure properti. Mendapatkan jumlah nilai"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-Mendapat hitungan nilai.
+Mendapatkan jumlah nilai.
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah nilai dalam struktur array unit.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan tanda tangan ObAr dan UnFl.
 
@@ -72,10 +73,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnitArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

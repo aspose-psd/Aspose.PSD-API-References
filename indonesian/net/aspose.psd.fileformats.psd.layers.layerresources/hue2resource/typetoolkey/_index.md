@@ -1,23 +1,24 @@
 ---
-title: Hue2Resource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Hue2Resource bidang. Kunci info alat ketik.
+title: "Hue2Resource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field Hue2Resource. Kunci informasi alat tipe"
 type: docs
-weight: 120
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Hue2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

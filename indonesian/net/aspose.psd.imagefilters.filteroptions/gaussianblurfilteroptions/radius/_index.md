@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Radius
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussianBlurFilterOptions Properti. Mendapat atau menyetel radius.
+title: "GaussianBlurFilterOptions.Radius"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GaussianBlurFilterOptions. Mendapatkan atau mengatur jari-jari"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Radius property
 
-Mendapat atau menyetel radius.
+Mendapatkan atau mengatur radius.
 
 ```csharp
 public int Radius { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jari-jari.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussianBlurFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

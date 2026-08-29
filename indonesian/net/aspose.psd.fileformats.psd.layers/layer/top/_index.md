@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau mengatur posisi layer atas.
+title: "Layer.Top"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur posisi lapisan atas"
 type: docs
-weight: 310
+weight: 320
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-Mendapat atau mengatur posisi layer atas.
+Mendapatkan atau mengatur posisi lapisan atas.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Posisi lapisan atas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

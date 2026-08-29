@@ -1,28 +1,29 @@
 ---
-title: ListStructure.ListStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ListStructure konstruktor. Menginisialisasi instance baru dariListStructure kelas.
+title: "ListStructure.ListStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ListStructure. Menginisialisasi sebuah instance baru dari kelas ListStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/liststructure/
 ---
+{{< psd/tize >}}
 ## ListStructure constructor
 
-Menginisialisasi instance baru dari[`ListStructure`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ListStructure`](../).
 
 ```csharp
 public ListStructure(ClassID keyName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ListStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

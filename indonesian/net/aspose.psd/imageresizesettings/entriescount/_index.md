@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageResizeSettings Properti. Mendapat atau menyetel jumlah entri
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageResizeSettings. Mendapatkan atau mengatur jumlah entri"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-Mendapat atau menyetel jumlah entri
+Mengambil atau mengatur jumlah entri
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah entri
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../)
-* ruang nama [Aspose.PSD](../../imageresizesettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.FaceMarkValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolStyleInfo Properti. Mendapat atau menyetel nilai tanda wajah.
+title: "TypeToolStyleInfo.FaceMarkValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolStyleInfo. Mendapatkan atau mengatur nilai face mark"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.FaceMarkValue property
 
-Mendapat atau menyetel nilai tanda wajah.
+Mendapatkan atau mengatur nilai tanda wajah.
 
 ```csharp
 public short FaceMarkValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai tanda wajah.
+Nilai face mark.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolStyleInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

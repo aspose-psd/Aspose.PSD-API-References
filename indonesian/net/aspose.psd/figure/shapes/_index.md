@@ -1,28 +1,29 @@
 ---
-title: Figure.Shapes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure Properti. Mendapatkan bentuk figur.
+title: "Figure.Shapes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Figure. Mengambil bentuk-bentuk figure."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/figure/shapes/
 ---
+{{< psd/tize >}}
 ## Figure.Shapes property
 
-Mendapatkan bentuk figur.
+Mendapatkan bentuk-bentuk figure.
 
 ```csharp
 public Shape[] Shapes { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Sosok itu membentuk.
+Bentuk-bentuk figure.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

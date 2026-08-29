@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSpeedRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel unit yang digunakan untuk menyatakan kecepatan gerakan penerima GPS.
+title: "ExifData.GPSSpeedRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur satuan yang digunakan untuk menyatakan kecepatan pergerakan penerima GPS"
 type: docs
 weight: 610
 url: /id/net/aspose.psd.exif/exifdata/gpsspeedref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeedRef property
 
-Mendapat atau menyetel unit yang digunakan untuk menyatakan kecepatan gerakan penerima GPS.
+Mendapatkan atau mengatur satuan yang digunakan untuk menyatakan kecepatan pergerakan penerima GPS.
 
 ```csharp
 public string GPSSpeedRef { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Satuan yang digunakan untuk menyatakan kecepatan gerak penerima GPS.
+Satuan yang digunakan untuk menyatakan kecepatan pergerakan penerima GPS.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

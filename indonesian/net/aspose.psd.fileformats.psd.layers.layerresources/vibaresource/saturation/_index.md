@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Saturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VibAResource Properti. Mendapat atau menetapkan nilai saturasi
+title: "VibAResource.Saturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VibAResource. Mengambil atau mengatur nilai saturasi"
 type: docs
-weight: 50
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/
 ---
+{{< psd/tize >}}
 ## VibAResource.Saturation property
 
-Mendapat atau menetapkan nilai saturasi
+Mendapatkan atau mengatur nilai saturasi
 
 ```csharp
 public int Saturation { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh kode berikut menunjukkan dukungan sumber daya VibAResource.
 
 ```csharp
 [C#]
 
-// Contoh dukungan membaca dan menulis Sumber Daya Getaran saat runtime.
+// Contoh dukungan membaca dan menulis Sumber Daya Getaran pada waktu berjalan.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VibAResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

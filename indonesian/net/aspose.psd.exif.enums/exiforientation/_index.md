@@ -1,14 +1,15 @@
 ---
-title: Enum ExifOrientation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifOrientation enum. Orientasi gambar exif.
+title: "Enum ExifOrientation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifOrientation enum. orientasi gambar Exif"
 type: docs
-weight: 910
+weight: 920
 url: /id/net/aspose.psd.exif.enums/exiforientation/
 ---
+{{< psd/tize >}}
 ## ExifOrientation enumeration
 
-Orientasi gambar exif.
+Orientasi gambar Exif
 
 ```csharp
 public enum ExifOrientation
@@ -16,7 +17,7 @@ public enum ExifOrientation
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | TopLeft | `1` | Kiri atas. Orientasi default. |
 | TopRight | `2` | Kanan atas. Terbalik secara horizontal. |
@@ -27,9 +28,9 @@ public enum ExifOrientation
 | RightBottom | `7` | Kanan bawah. Diputar 90 derajat searah jarum jam lalu dibalik secara horizontal. |
 | LeftBottom | `8` | Kiri bawah. Diputar 90 derajat berlawanan arah jarum jam. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

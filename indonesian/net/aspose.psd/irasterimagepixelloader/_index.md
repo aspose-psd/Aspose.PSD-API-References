@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IRasterImagePixelLoader antarmuka. Pemuat piksel gambar raster.
+title: "Antarmuka IRasterImagePixelLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IRasterImagePixelLoader. Pemuat piksel gambar raster"
 type: docs
-weight: 4570
+weight: 5040
 url: /id/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
 Pemuat piksel gambar raster.
@@ -16,14 +17,14 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Memuat sebagian piksel (dengan blok). |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Memuat piksel secara parsial (per blok). |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

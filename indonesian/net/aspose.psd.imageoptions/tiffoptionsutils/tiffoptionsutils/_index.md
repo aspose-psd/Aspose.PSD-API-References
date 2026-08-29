@@ -1,11 +1,12 @@
 ---
-title: TiffOptionsUtils.TiffOptionsUtils
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptionsUtils konstruktor. Konstruktor default.
+title: "TiffOptionsUtils.TiffOptionsUtils"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TiffOptionsUtils. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/tiffoptionsutils/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public TiffOptionsUtils()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptionsUtils](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

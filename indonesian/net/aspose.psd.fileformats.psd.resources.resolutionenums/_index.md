@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace menangani unit resolusi sumber daya Psd
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini menangani unit resolusi sumber daya PSD."
 type: docs
-weight: 360
+weight: 400
 url: /id/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-Namespace menangani unit resolusi sumber daya Psd
+{{< psd/tize >}}
+Namespace ini menangani unit resolusi sumber daya PSD.
 
-## Pencacahan
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | Unit fisik resoulutionInfo enum |
-| [ResolutionUnit](./resolutionunit/) | Unit resolusi info resolusi |
+| [PhysicalUnit](./physicalunit/) | Enum unit fisik resoulutionInfo |
+| [ResolutionUnit](./resolutionunit/) | Unit resolusi informasi resolusi |
 
 

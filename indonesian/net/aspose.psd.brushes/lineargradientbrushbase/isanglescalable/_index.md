@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.IsAngleScalable
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinearGradientBrushBase Properti. Mendapat atau menetapkan nilai yang menunjukkan apakahAngle diubah selama transformasi dengan iniLinearGradientBrushBase .
+title: "LinearGradientBrushBase.IsAngleScalable"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LinearGradientBrushBase properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah Angle berubah selama transformasi dengan LinearGradientBrushBase ini"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.brushes/lineargradientbrushbase/isanglescalable/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.IsAngleScalable property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah[`Angle`](../angle/) diubah selama transformasi dengan ini[`LinearGradientBrushBase`](../) .
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`Angle`](../angle/) berubah selama transformasi dengan [`LinearGradientBrushBase`](../) ini.
 
 ```csharp
 public bool IsAngleScalable { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika[`Angle`](../angle/) diubah selama transformasi dengan ini[`LinearGradientBrushBase`](../) ; jika tidak,`PALSU` .
+`true` jika [`Angle`](../angle/) berubah selama transformasi dengan [`LinearGradientBrushBase`](../); jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinearGradientBrushBase](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

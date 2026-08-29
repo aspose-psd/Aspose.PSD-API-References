@@ -1,11 +1,12 @@
 ---
-title: Image.Load
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Memuat gambar baru dari file yang ditentukan.
+title: "Image.Load"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Memuat gambar baru dari file yang ditentukan."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
 Memuat gambar baru dari file yang ditentukan.
@@ -14,21 +15,21 @@ Memuat gambar baru dari file yang ditentukan.
 public static Image Load(string filePath, LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filePath | String | Jalur file untuk memuat gambar. |
-| loadOptions | LoadOptions | Opsi beban. |
+| filePath | String | Path file untuk memuat gambar. |
+| loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Gambar yang dimuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,30 +41,30 @@ Memuat gambar baru dari file yang ditentukan.
 public static Image Load(string filePath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filePath | String | Jalur file untuk memuat gambar. |
+| filePath | String | Path file untuk memuat gambar. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Gambar yang dimuat.
 
-### Contoh
+## Contoh
 
-Contoh ini mendemonstrasikan pemuatan file Gambar yang ada ke dalam instance Aspose.PSD.Image menggunakan jalur file yang ditentukan
+Contoh ini menunjukkan pemuatan file Image yang ada ke dalam instance Aspose.PSD.Image menggunakan path file yang ditentukan.
 
 ```csharp
 [C#]
 
-//Buat instance Gambar dan inisialisasi dengan file gambar yang ada dari lokasi disk
+//Buat instance Image dan inisialisasi dengan file gambar yang ada dari lokasi disk.
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    //melakukan beberapa pemrosesan gambar
+    //lakukan beberapa pemrosesan gambar
 }
 ```
 
-Contoh berikut menunjukkan bahwa Perataan Teks melalui ITextPortion untuk bahasa kanan ke kiri berfungsi dengan benar.
+Contoh berikut menunjukkan bahwa Penjajaran Teks melalui ITextPortion untuk bahasa kanan-ke-kiri berfungsi dengan benar.
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke 16bit per saluran RGB berfungsi dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke RGB 16 bit per saluran berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Tidak terkecuali.
+    // Tidak seharusnya ada pengecualian di sini.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke 8 bit per saluran Grayscale bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke Grayscale 8 bit per saluran berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Tidak terkecuali.
+    // Tidak seharusnya ada pengecualian di sini.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Contoh berikut menunjukkan bahwa progres konversi dokumen bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa kemajuan konversi dokumen berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD 16 bit Grayscale bekerja dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Tidak terkecuali.
+        // Tidak seharusnya ada pengecualian di sini.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -255,11 +256,11 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -271,21 +272,21 @@ Memuat gambar baru dari aliran yang ditentukan.
 public static Image Load(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Aliran untuk memuat gambar dari. |
-| loadOptions | LoadOptions | Opsi beban. |
+| stream | Stream | Stream untuk memuat gambar. |
+| loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Gambar yang dimuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -297,36 +298,36 @@ Memuat gambar baru dari aliran yang ditentukan.
 public static Image Load(Stream stream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Aliran untuk memuat gambar dari. |
+| stream | Stream | Stream untuk memuat gambar. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Gambar yang dimuat.
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan penggunaan objek System.IO.Stream untuk memuat file Gambar yang ada
+Contoh ini menunjukkan penggunaan objek System.IO.Stream untuk memuat file Image yang ada.
 
 ```csharp
 [C#]
 
-//Buat instance FileStream
+//Buat sebuah instance dari FileStream
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    //Buat instance kelas Image dan muat file yang ada melalui objek FileStream dengan memanggil metode Load
+    //Buat sebuah instance dari kelas Image dan muat file yang ada melalui objek FileStream dengan memanggil metode Load
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        //melakukan beberapa pemrosesan gambar.
+        //lakukan beberapa pemrosesan gambar.
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

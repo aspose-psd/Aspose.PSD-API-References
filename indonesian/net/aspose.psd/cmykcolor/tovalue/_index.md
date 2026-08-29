@@ -1,27 +1,28 @@
 ---
-title: CmykColor.ToValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColor metode. nilai to.
+title: "CmykColor.ToValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CmykColor. Nilai to"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.psd/cmykcolor/tovalue/
 ---
+{{< psd/tize >}}
 ## CmykColor.ToValue method
 
-nilai to.
+Nilai to.
 
 ```csharp
 public long ToValue()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-ItuInt64 .
+Int64.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [CmykColor](../)
-* ruang nama [Aspose.PSD](../../cmykcolor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

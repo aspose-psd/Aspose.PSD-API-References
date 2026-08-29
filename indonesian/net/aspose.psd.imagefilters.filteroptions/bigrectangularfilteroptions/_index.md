@@ -1,11 +1,12 @@
 ---
-title: Class BigRectangularFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions kelas. Opsi Filter Persegi Panjang Besar
+title: "Kelas BigRectangularFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions. Opsi Filter Persegi Panjang Besar"
 type: docs
-weight: 4650
+weight: 5120
 url: /id/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions class
 
 Opsi Filter Persegi Panjang Besar
@@ -16,14 +17,14 @@ public class BigRectangularFilterOptions : FilterOptionsBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | Konstruktor default. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

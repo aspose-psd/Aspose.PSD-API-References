@@ -1,35 +1,30 @@
 ---
-title: PtFlResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PtFlResource metode. Menyimpan sumber daya ke wadah aliran yang ditentukan.
+title: "PtFlResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PtFlResource method. Menyimpan sumber daya ke kontainer aliran yang ditentukan"
 type: docs
-weight: 120
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Save method
 
-Menyimpan sumber daya ke wadah aliran yang ditentukan.
+Menyimpan sumber daya ke kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Pengecualian
-
-| pengecualian | kondisi |
-| --- | --- |
-| NotImplementedException |  |
-
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PtFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

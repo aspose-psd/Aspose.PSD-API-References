@@ -1,11 +1,12 @@
 ---
-title: IccUntaggedResource.IccUntaggedResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IccUntaggedResource konstruktor. Konstruktor default.
+title: "IccUntaggedResource.IccUntaggedResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IccUntaggedResource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/iccuntaggedresource/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public IccUntaggedResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [IccUntaggedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

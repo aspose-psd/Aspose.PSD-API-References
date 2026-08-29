@@ -1,11 +1,12 @@
 ---
-title: JpegLsPresetCodingParameters.JpegLsPresetCodingParameters
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegLsPresetCodingParameters konstruktor. Konstruktor default.
+title: "JpegLsPresetCodingParameters.JpegLsPresetCodingParameters"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "JpegLsPresetCodingParameters konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/jpeglspresetcodingparameters/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public JpegLsPresetCodingParameters()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegLsPresetCodingParameters](../)
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

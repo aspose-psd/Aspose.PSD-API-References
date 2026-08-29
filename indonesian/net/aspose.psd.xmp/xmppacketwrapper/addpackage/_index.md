@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.AddPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper metode. Menambahkan paket.
+title: "`XmpPacketWrapper.AddPackage`"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPacketWrapper. Menambahkan paket"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/addpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.AddPackage method
 
 Menambahkan paket.
@@ -14,15 +15,15 @@ Menambahkan paket.
 public void AddPackage(XmpPackage package)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| package | XmpPackage | Paket. |
+| paket | XmpPackage | Paket. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

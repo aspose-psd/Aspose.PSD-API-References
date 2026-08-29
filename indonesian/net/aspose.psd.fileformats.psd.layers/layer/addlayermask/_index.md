@@ -1,22 +1,23 @@
 ---
-title: Layer.AddLayerMask
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer metode. Menambahkan topeng ke lapisan saat ini.
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Layer. Menambahkan masker ke lapisan saat ini"
 type: docs
-weight: 330
+weight: 340
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
-Menambahkan topeng ke lapisan saat ini.
+Menambahkan masker ke lapisan saat ini.
 
 ```csharp
 public void AddLayerMask(LayerMaskData layerMask)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| layerMask | LayerMaskData | Lapisan topeng. |
+| layerMask | LayerMaskData | Masker lapisan. |
 
 ### Pengecualian
 
@@ -24,11 +25,11 @@ public void AddLayerMask(LayerMaskData layerMask)
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Masker lapisan penuh belum didukung untuk pengaturan, silakan gunakan LayerMaskDataShort |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

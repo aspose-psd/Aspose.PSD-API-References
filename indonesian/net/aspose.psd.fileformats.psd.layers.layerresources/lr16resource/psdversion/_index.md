@@ -1,11 +1,12 @@
 ---
-title: Lr16Resource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr16Resource Properti. Mendapatkan versi psd.
+title: "Lr16Resource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Lr16Resource. Mendapatkan versi psd"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdversion/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,10 +15,10 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lr16Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

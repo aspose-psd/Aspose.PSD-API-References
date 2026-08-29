@@ -1,31 +1,32 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper metode. Menentukan apakah paket ada di xmp wrapper.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPacketWrapper. Menentukan apakah paket ada dalam xmp wrapper."
 type: docs
 weight: 90
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-Menentukan apakah paket ada di xmp wrapper.
+Menentukan apakah paket ada dalam pembungkus xmp.
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| namespaceUri | String | Skema paket uri. |
+| namespaceUri | String | URI skema paket. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan nilai true jika paket dengan namespace Uri yang ditentukan ada di pembungkus XMP.
+Mengembalikan true jika paket dengan namespace Uri yang ditentukan ada dalam pembungkus XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

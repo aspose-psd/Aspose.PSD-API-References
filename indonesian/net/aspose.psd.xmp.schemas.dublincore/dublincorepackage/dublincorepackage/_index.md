@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.DublinCorePackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DublinCorePackage konstruktor. Konstruktor default.
+title: "DublinCorePackage.DublinCorePackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor DublinCorePackage. Konstruktor bawaan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public DublinCorePackage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

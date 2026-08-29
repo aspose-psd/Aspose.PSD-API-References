@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepNumerator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menyetel pembilang langkah bingkai.
+title: "SmartObjectResource.FrameStepNumerator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur pembilang langkah frame"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepNumerator property
 
-Mendapat atau menyetel pembilang langkah bingkai.
+Mendapatkan atau mengatur pembilang langkah frame.
 
 ```csharp
 public int FrameStepNumerator { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pembilang langkah bingkai.
+Pembilang langkah frame.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilters
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters kelas. Filter cerdas dariSmartObjectLayer .
+title: "Kelas SmartFilters"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilters. Filter pintar dari SmartObjectLayer"
 type: docs
-weight: 3470
+weight: 3890
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartFilters class
 
-Filter cerdas dari[`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
+Filter pintar dari [`SmartObjectLayer`](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/).
 
 ```csharp
 public class SmartFilters
@@ -16,24 +17,24 @@ public class SmartFilters
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | Mendapat atau menyetel filter cerdas. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | Mendapatkan status diaktifkan dari masker filter pintar. |
-| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | Mendapat status diaktifkan masker dari filter pintar. |
-| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | Mendapatkan mask exted dengan status putih dari smart filter. |
-| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | Mendapat status terkait masker dari filter cerdas. |
-| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | Mendapatkan valid pada status posisi filter cerdas. |
+| [Filters](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/) { get; set; } | Mendapatkan atau mengatur filter pintar. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/) { get; } | Mendapatkan status apakah mask filter pintar diaktifkan. |
+| [IsMaskEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/) { get; } | Mendapatkan status apakah mask filter pintar diaktifkan. |
+| [IsMaskExtendWithWhite](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/) { get; } | Mendapatkan status apakah mask diperluas dengan putih pada filter pintar. |
+| [IsMaskLinked](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/) { get; } | Mendapatkan status apakah mask terhubung pada filter pintar. |
+| [IsValidAtPosition](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/) { get; } | Mendapatkan status apakah valid pada posisi pada filter pintar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | Memperbarui data filter cerdas ke dalam[`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) . |
+| [UpdateResourceValues](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/)() | Memperbarui data filter pintar ke dalam [`SmartObjectResource`](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/). |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Cyans
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlackWhiteAdjustmentLayer Properti. Mendapat atau menetapkan nilai cyans.
+title: "BlackWhiteAdjustmentLayer.Cyans"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlackWhiteAdjustmentLayer. Mendapatkan atau mengatur nilai cyan."
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/cyans/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Cyans property
 
-Mendapat atau menetapkan nilai cyans.
+Mendapatkan atau mengatur nilai sian.
 
 ```csharp
 public int Cyans { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai cyan.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat menambahkan lapisan penyesuaian hitam putih saat runtime di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menambahkan lapisan penyesuaian hitam putih pada waktu berjalan di Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

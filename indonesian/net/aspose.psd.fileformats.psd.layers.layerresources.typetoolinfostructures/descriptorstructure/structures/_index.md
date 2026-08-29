@@ -1,28 +1,29 @@
 ---
-title: DescriptorStructure.Structures
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DescriptorStructure Properti. Mendapat atau menyetel salinan array struktur.
+title: "DescriptorStructure.Structures"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DescriptorStructure. Mendapatkan atau mengatur salinan array struktur"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.Structures property
 
-Mendapat atau menyetel salinan array struktur.
+Mendapatkan atau mengatur salinan array struktur.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Struktur.
+Struktur‑struktur.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Bottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeBoundingBox Properti. Mendapat atau menyetel bagian bawah.
+title: "VectorShapeBoundingBox.Bottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeBoundingBox. Mendapatkan atau mengatur bagian bawah"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bottom property
 
-Mendapat atau menyetel bagian bawah.
+Mendapatkan atau mengatur bagian bawah.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bagian bawah.
+Bawah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeBoundingBox](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.TotalPages
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapat atau menyetel total halaman dari lapisan yang ditempatkan di file PSD.
+title: "IPlacedLayerResource.TotalPages"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur total halaman lapisan yang ditempatkan dalam file PSD"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.TotalPages property
 
-Mendapat atau menyetel total halaman dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur total halaman dari lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public int TotalPages { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Total halaman dari lapisan yang ditempatkan.
+Total halaman lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

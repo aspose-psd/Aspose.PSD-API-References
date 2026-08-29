@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape Properti. Mendapatkan titik bentuk akhir.
+title: "PolygonShape.EndPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PolygonShape property. Mengambil titik akhir bentuk"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-Mendapatkan titik bentuk akhir.
+Mendapatkan titik akhir bentuk.
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik bentuk akhir.
+Titik akhir bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer metode. Menyimpan data objek ke aliran yang ditentukan.
+title: "Layer.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Layer. Menyimpan data objek ke aliran yang ditentukan"
 type: docs
-weight: 370
+weight: 390
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream) {#save_1}
 
 Menyimpan data objek ke aliran yang ditentukan.
@@ -14,43 +15,43 @@ Menyimpan data objek ke aliran yang ditentukan.
 public override void Save(Stream stream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Stream untuk menyimpan data objek. |
+| stream | Stream | Aliran untuk menyimpan data objek. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Kita tidak boleh memanggil metode Simpan tanpa opsi Gambar |
+| ArgumentException | Kita tidak boleh memanggil metode Save tanpa Image options |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase) {#save_5}
 
-Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai dengan opsi penyimpanan.
+Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai opsi penyimpanan.
 
 ```csharp
 public override void Save(string filePath, ImageOptionsBase options)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file. |
-| options | ImageOptionsBase | Opsi. |
+| opsi | ImageOptionsBase | Opsi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -62,63 +63,63 @@ Menyimpan data objek ke lokasi file yang ditentukan.
 public override void Save(string filePath, bool overWrite)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file untuk menyimpan data objek. |
-| overWrite | Boolean | jika diatur ke`BENAR` lebih dari menulis konten file, jika tidak menambahkan akan terjadi. |
+| overWrite | Boolean | jika disetel ke `true` menimpa isi file, jika tidak penambahan akan terjadi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-Menyimpan data gambar ke aliran yang ditentukan dalam format file yang ditentukan sesuai dengan opsi penyimpanan.
+Menyimpan data gambar ke aliran yang ditentukan dalam format file yang ditentukan sesuai opsi penyimpanan.
 
 ```csharp
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Stream untuk menyimpan data gambar. |
-| optionsBase | ImageOptionsBase | Opsi simpan. |
-| boundsRectangle | Rectangle | Gambar tujuan membatasi persegi panjang. Atur persegi panjang kosong untuk menggunakan batas sumber. |
+| stream | Stream | Aliran untuk menyimpan data gambar. |
+| optionsBase | ImageOptionsBase | Opsi penyimpanan. |
+| boundsRectangle | Rectangle | Segi empat batas gambar tujuan. Atur segi empat kosong untuk menggunakan batas sumber. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase, Rectangle) {#save_6}
 
-Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai dengan opsi penyimpanan.
+Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai opsi penyimpanan.
 
 ```csharp
 public override void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file. |
-| options | ImageOptionsBase | Opsi. |
-| boundsRectangle | Rectangle | Gambar tujuan membatasi persegi panjang. Atur persegi panjang kosong untuk menggunakan batas sumber. |
+| opsi | ImageOptionsBase | Opsi. |
+| boundsRectangle | Rectangle | Segi empat batas gambar tujuan. Atur segi empat kosong untuk menggunakan batas sumber. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

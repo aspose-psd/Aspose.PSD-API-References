@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionEnd
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau menyetel akhir pemilihan.
+title: "TypeToolInfoResource.SelectionEnd"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur akhir seleksi"
 type: docs
-weight: 180
+weight: 160
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionEnd property
 
-Mendapat atau menyetel akhir pemilihan.
+Mendapatkan atau mengatur akhir seleksi.
 
 ```csharp
 public int SelectionEnd { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pemilihan selesai.
+Akhir seleksi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Thumbnail.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Thumbnail metode. Mendapat string berisi nilai dalam format XMP.
+title: "Thumbnail.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Thumbnail. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Thumbnail.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Thumbnail](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

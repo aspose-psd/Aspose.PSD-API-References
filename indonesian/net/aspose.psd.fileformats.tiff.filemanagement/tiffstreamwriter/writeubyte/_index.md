@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.WriteUByte
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis satu nilai byte ke aliran.
+title: "TiffStreamWriter.WriteUByte"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamWriter. Menulis satu nilai byte ke aliran"
 type: docs
 weight: 190
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUByte method
 
 Menulis satu nilai byte ke aliran.
@@ -14,14 +15,14 @@ Menulis satu nilai byte ke aliran.
 public void WriteUByte(byte data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | Byte | Nilai untuk menulis. |
+| data | Byte | Nilai yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

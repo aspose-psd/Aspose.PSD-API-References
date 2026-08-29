@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Denominator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffRational Properti. Mendapat penyebut.
+title: "TiffRational.Denominator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffRational. Mengambil penyebut"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.tiff/tiffrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Denominator property
 
-Mendapat penyebut.
+Mendapatkan penyebut.
 
 ```csharp
 public uint Denominator { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Penyebut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

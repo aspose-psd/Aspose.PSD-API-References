@@ -1,24 +1,25 @@
 ---
-title: JFIFData.DensityUnits
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JFIFData Properti. Mendapat atau menetapkan satuan kepadatan.
+title: "JFIFData.DensityUnits"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JFIFData. Mendapatkan atau mengatur satuan kepadatan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.jpeg/jfifdata/densityunits/
 ---
+{{< psd/tize >}}
 ## JFIFData.DensityUnits property
 
-Mendapat atau menetapkan satuan kepadatan.
+Mendapatkan atau mengatur satuan kepadatan.
 
 ```csharp
 public JfifDensityUnits DensityUnits { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [JfifDensityUnits](../../jfifdensityunits/)
 * class [JFIFData](../)
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

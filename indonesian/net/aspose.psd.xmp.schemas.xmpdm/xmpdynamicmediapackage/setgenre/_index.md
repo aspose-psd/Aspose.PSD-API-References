@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGenre
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur genre.
+title: "XmpDynamicMediaPackage.SetGenre"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpDynamicMediaPackage metode. Menetapkan genre"
 type: docs
 weight: 220
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGenre method
 
 Mengatur genre.
@@ -14,14 +15,14 @@ Mengatur genre.
 public void SetGenre(string genre)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| genre | String | Aliran. |
+| genre | String | Genre. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

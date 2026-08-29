@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RawDataSettings Properti. Mendapat atau menyetel indeks fallback untuk digunakan saat indeks palet di luar batas
+title: "RawDataSettings.FallbackIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RawDataSettings. Mengambil atau mengatur indeks cadangan yang digunakan ketika indeks palet berada di luar batas."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/rawdatasettings/fallbackindex/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.FallbackIndex property
 
-Mendapat atau menyetel indeks fallback untuk digunakan saat indeks palet di luar batas
+Mendapatkan atau mengatur indeks fallback yang digunakan ketika indeks palet berada di luar batas.
 
 ```csharp
 public int FallbackIndex { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Indeks fallback untuk digunakan saat indeks palet di luar batas
+Indeks cadangan yang digunakan ketika indeks palet berada di luar batas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RawDataSettings](../)
-* ruang nama [Aspose.PSD](../../rawdatasettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

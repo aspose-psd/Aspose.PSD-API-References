@@ -1,67 +1,68 @@
 ---
-title: JpegExifData.JpegExifData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData konstruktor. Menginisialisasi instance baru dariJpegExifData kelas.
+title: "JpegExifData.JpegExifData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor JpegExifData. Menginisialisasi instance baru dari kelas JpegExifData"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.exif/jpegexifdata/jpegexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData() {#constructor}
 
-Menginisialisasi instance baru dari[`JpegExifData`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`JpegExifData`](../).
 
 ```csharp
 public JpegExifData()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`JpegExifData`](../) kelas dengan data dari array.
+Menginisialisasi sebuah instance baru dari kelas [`JpegExifData`](../) dengan data dari array.
 
 ```csharp
 public JpegExifData(TiffDataType[] exifdata)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | Susunan tag EXIF bersama dengan tag umum dan GPS. |
+| exifdata | TiffDataType[] | Array tag EXIF bersama dengan tag umum dan GPS. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`JpegExifData`](../) kelas dengan data dari array.
+Menginisialisasi sebuah instance baru dari kelas [`JpegExifData`](../) dengan data dari array.
 
 ```csharp
 public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | commonTags | TiffDataType[] | Tag umum. |
 | exifTags | TiffDataType[] | Tag EXIF. |
 | gpsTags | TiffDataType[] | Tag GPS. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

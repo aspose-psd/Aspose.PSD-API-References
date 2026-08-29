@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.InitPages
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MultiPageOptions metode. Menginisialisasi halaman dari range array
+title: "MultiPageOptions.InitPages"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode MultiPageOptions. Menginisialisasi halaman dari array rentang"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.imageoptions/multipageoptions/initpages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.InitPages method
 
-Menginisialisasi halaman dari range array
+Menginisialisasi halaman dari array rentang
 
 ```csharp
 public void InitPages(IntRange[] ranges)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | ranges | IntRange[] | Rentang. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

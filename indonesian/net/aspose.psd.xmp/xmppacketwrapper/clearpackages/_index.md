@@ -1,23 +1,24 @@
 ---
-title: XmpPacketWrapper.ClearPackages
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper metode. Menghapus semuaXmpPackage di dalam XMP.
+title: "XmpPacketWrapper.ClearPackages"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPacketWrapper. Menghapus semua XmpPackage di dalam XMP"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/clearpackages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ClearPackages method
 
-Menghapus semua[`XmpPackage`](../../xmppackage/) di dalam XMP.
+Menghapus semua [`XmpPackage`](../../xmppackage/) di dalam XMP.
 
 ```csharp
 public void ClearPackages()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

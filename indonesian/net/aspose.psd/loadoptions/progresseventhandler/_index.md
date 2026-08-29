@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.ProgressEventHandler
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LoadOptions Properti. Mendapat atau menyetel pengendali event progres.
+title: "LoadOptions.ProgressEventHandler"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LoadOptions. Mendapatkan atau mengatur penangan peristiwa kemajuan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/loadoptions/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## LoadOptions.ProgressEventHandler property
 
-Mendapat atau menyetel pengendali event progres.
+Mendapatkan atau mengatur penangan acara kemajuan.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengendali kejadian progres.
+Penangan acara kemajuan.
 
-### Lihat juga
+### Lihat Juga
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [LoadOptions](../)
-* ruang nama [Aspose.PSD](../../loadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

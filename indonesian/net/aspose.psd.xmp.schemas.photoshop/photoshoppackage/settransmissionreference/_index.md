@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Menetapkan referensi transmisi.
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhotoshopPackage. Menetapkan referensi transmisi"
 type: docs
 weight: 190
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
-Menetapkan referensi transmisi.
+Mengatur referensi transmisi.
 
 ```csharp
 public void SetTransmissionReference(string transmissionReference)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | transmissionReference | String | Referensi transmisi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

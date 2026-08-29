@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetTitle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DublinCorePackage metode. Menambahkan judul Dublin Core.
+title: "DublinCorePackage.SetTitle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DublinCorePackage. Menambahkan judul Dublin Core"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/
 ---
+{{< psd/tize >}}
 ## SetTitle(string) {#settitle_1}
 
 Menambahkan judul Dublin Core.
@@ -14,15 +15,15 @@ Menambahkan judul Dublin Core.
 public void SetTitle(string title)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| title | String | Judul. |
+| judul | String | Judul. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Menambahkan judul Dublin Core untuk berbagai bahasa.
 public void SetTitle(LangAlt title)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| title | LangAlt | Contoh[`LangAlt`](../../../aspose.psd.xmp/langalt/). |
+| title | LangAlt | Instansi dari [`LangAlt`](../../../aspose.psd.xmp/langalt/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

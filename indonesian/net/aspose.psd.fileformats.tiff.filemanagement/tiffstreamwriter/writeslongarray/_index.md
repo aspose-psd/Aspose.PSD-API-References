@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSLongArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis larik nilai bilangan bulat ke aliran.
+title: "TiffStreamWriter.WriteSLongArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamWriter. Menulis sebuah array nilai integer ke aliran"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSLongArray method
 
-Menulis larik nilai bilangan bulat ke aliran.
+Menulis sebuah array nilai integer ke aliran.
 
 ```csharp
 public void WriteSLongArray(int[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | Int32[] | Array untuk menulis. |
+| data | Int32[] | Array yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

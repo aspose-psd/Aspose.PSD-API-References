@@ -1,32 +1,33 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath Properti. Mendapat atau menyetel aFillMode pencacahan yang menentukan bagaimana interior bentuk dalam hal iniGraphicsPath sudah terisi.
+title: "GraphicsPath.FillMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GraphicsPath. Mendapatkan atau mengatur enumerasi FillMode yang menentukan bagaimana interior bentuk dalam GraphicsPath ini diisi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-Mendapat atau menyetel a[`FillMode`](../../fillmode/) pencacahan yang menentukan bagaimana interior bentuk dalam hal ini[`GraphicsPath`](../) sudah terisi.
+Mendapatkan atau mengatur enumerasi [`FillMode`](../../fillmode/) yang menentukan bagaimana interior bentuk dalam [`GraphicsPath`](../) ini diisi.
 
 ```csharp
 public FillMode FillMode { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`FillMode`](../../fillmode/) pencacahan yang menentukan bagaimana interior bentuk dalam hal ini[`GraphicsPath`](../) sudah terisi.
+Sebuah enumerasi [`FillMode`](../../fillmode/) yang menentukan bagaimana interior bentuk dalam [`GraphicsPath`](../) ini diisi.
 
-### Nilai properti
+### Property Value
 
-Modus isian.
+Mode pengisian.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

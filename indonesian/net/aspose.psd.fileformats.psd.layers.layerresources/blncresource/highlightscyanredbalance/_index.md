@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsCyanRedBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource Properti. Mendapat atau mengatur Sorotan Cyan Red Balance.
+title: "BlncResource.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource properti. Mendapatkan atau mengatur Highlights Cyan Red Balance"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsCyanRedBalance property
 
-Mendapat atau mengatur Sorotan Cyan Red Balance.
+Mendapatkan atau mengatur Highlights Cyan Red Balance.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Sorotan Cyan Red Balance.
+Highlights Cyan Red Balance.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

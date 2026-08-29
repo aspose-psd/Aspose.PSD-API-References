@@ -1,31 +1,32 @@
 ---
-title: Font.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font metode. Menunjukkan apakah objek yang ditentukan adalah aFont dan memiliki nilai properti yang sama seperti iniFont .
+title: "Font.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Font. Menunjukkan apakah objek yang ditentukan adalah Font dan memiliki nilai properti yang sama dengan Font ini."
 type: docs
 weight: 120
 url: /id/net/aspose.psd/font/equals/
 ---
+{{< psd/tize >}}
 ## Font.Equals method
 
-Menunjukkan apakah objek yang ditentukan adalah a[`Font`](../) dan memiliki nilai properti yang sama seperti ini[`Font`](../) .
+Menunjukkan apakah objek yang ditentukan adalah [`Font`](../) dan memiliki nilai properti yang sama dengan [`Font`](../) ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | obj | Object | Objek yang akan diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika*obj* parameternya adalah a[`Font`](../) dan memiliki nilai properti yang sama seperti ini[`Font`](../); jika tidak, salah.
+Benar jika parameter *obj* adalah sebuah [`Font`](../) dan memiliki nilai properti yang sama dengan [`Font`](../) ini; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

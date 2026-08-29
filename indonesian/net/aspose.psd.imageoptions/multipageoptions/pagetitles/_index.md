@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MultiPageOptions Properti. Mendapat atau mengatur judul halaman.
+title: "MultiPageOptions.PageTitles"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MultiPageOptions. Mendapatkan atau mengatur judul halaman"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageTitles property
 
-Mendapat atau mengatur judul halaman.
+Mendapatkan atau mengatur judul halaman.
 
 ```csharp
 public string[] PageTitles { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Judul halaman.
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

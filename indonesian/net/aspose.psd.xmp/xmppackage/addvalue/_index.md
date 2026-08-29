@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.AddValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage metode. Menambahkan nilai.
+title: "XmpPackage.AddValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackage. Menambahkan nilai"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp/xmppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.AddValue method
 
 Menambahkan nilai.
@@ -14,21 +15,21 @@ Menambahkan nilai.
 public virtual void AddValue(string key, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Representasi string kunci yang diidentifikasi dengan nilai tambah. |
-| value | String | Nilai untuk ditambahkan. |
+| kunci | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditambahkan. |
+| nilai | String | Nilai yang akan ditambahkan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | kuncinya nol. |
+| ArgumentNullException | kunci bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

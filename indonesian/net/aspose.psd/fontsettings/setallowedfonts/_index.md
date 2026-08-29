@@ -1,26 +1,27 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Membatasi penggunaan font berdasarkan daftar font. Silakan periksa nama font asli sebelum restriksi Setel daftar font yang diizinkan ke Null untuk menghapus restriksi
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Membatasi penggunaan font dengan daftar font. Harap periksa nama font yang sebenarnya sebelum pembatasan. Atur daftar font yang diizinkan ke Null untuk menghapus pembatasan"
 type: docs
-weight: 100
+weight: 120
 url: /id/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-Membatasi penggunaan font berdasarkan daftar font. Silakan periksa nama font asli sebelum restriksi Setel daftar font yang diizinkan ke Null untuk menghapus restriksi
+Membatasi penggunaan font dengan daftar font. Harap periksa nama font yang sebenarnya sebelum pembatasan. Atur daftar font yang diizinkan ke Null untuk menghapus pembatasan.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fontList | String[] | Daftar font. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk membatasi penggunaan font secara terprogram.
+Kode berikut menunjukkan kemampuan untuk secara programatik membatasi font menggunakan.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -55,10 +57,10 @@ finally
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LayerStateEffects.ClearLayerStyle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerStateEffects metode. Menghapus semua efek layer style.
+title: "LayerStateEffects.ClearLayerStyle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LayerStateEffects metode. Menghapus semua efek gaya lapisan"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/clearlayerstyle/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.ClearLayerStyle method
 
-Menghapus semua efek layer style.
+Menghapus semua efek gaya lapisan.
 
 ```csharp
 public void ClearLayerStyle()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerStateEffects](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

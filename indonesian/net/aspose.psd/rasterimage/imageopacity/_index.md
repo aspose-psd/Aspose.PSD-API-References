@@ -1,27 +1,28 @@
 ---
-title: RasterImage.ImageOpacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat opacity dari gambar ini.
+title: "RasterImage.ImageOpacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterImage properti. Mendapatkan opasitas gambar ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/rasterimage/imageopacity/
 ---
+{{< psd/tize >}}
 ## RasterImage.ImageOpacity property
 
-Mendapat opacity dari gambar ini.
+Mendapatkan opasitas gambar ini.
 
 ```csharp
 public virtual float ImageOpacity { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai opacity antara 0.0 (sepenuhnya transparan) dan 1.0 (sepenuhnya buram).
+Nilai opasitas antara 0.0 (sepenuhnya transparan) dan 1.0 (sepenuhnya opak).
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

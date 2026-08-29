@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.RealFlags
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataFull Properti. Mendapat atau mengatur flag layer mask yang digunakan untuk user / raster mask. Untuk topeng vektor properti Bendera digunakan.
+title: "LayerMaskDataFull.RealFlags"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskDataFull. Mendapatkan atau mengatur flag mask lapisan yang digunakan untuk mask pengguna / raster. Untuk mask vektor properti Flags digunakan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.RealFlags property
 
-Mendapat atau mengatur flag layer mask yang digunakan untuk user / raster mask. Untuk topeng vektor, properti Bendera digunakan.
+Mendapatkan atau mengatur flag mask lapisan yang digunakan untuk mask pengguna / raster. Untuk mask vektor properti Flags digunakan.
 
 ```csharp
 public LayerMaskFlags RealFlags { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bendera layer mask sebenarnya.
+Flag mask lapisan yang sebenarnya.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskDataFull](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

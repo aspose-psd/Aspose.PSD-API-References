@@ -1,24 +1,25 @@
 ---
-title: VogkResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VogkResource Properti. Mendapatkan atau menyetel versi.
+title: "VogkResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VogkResource properti. Mendapatkan atau mengatur versi"
 type: docs
-weight: 70
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/version/
 ---
+{{< psd/tize >}}
 ## VogkResource.Version property
 
-Mendapatkan atau menyetel versi.
+Mendapatkan atau mengatur versi.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya VogkResource.
 
@@ -63,7 +64,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // Mengedit
+    // Menyunting
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VogkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FontType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextFontInfo Properti. Mendapat jenis font.
+title: "TextFontInfo.FontType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextFontInfo. Mendapatkan tipe font"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FontType property
 
-Mendapat jenis font.
+Mendapatkan tipe font.
 
 ```csharp
 public int FontType { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis font.
+Tipe font.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

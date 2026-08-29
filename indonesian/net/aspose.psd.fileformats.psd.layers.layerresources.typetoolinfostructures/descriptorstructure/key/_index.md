@@ -1,23 +1,24 @@
 ---
-title: DescriptorStructure.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DescriptorStructure Properti. Mendapat kunci struktur.
+title: "DescriptorStructure.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DescriptorStructure. Mendapatkan kunci struktur"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/key/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.Key property
 
-Mendapat kunci struktur.
+Mendapatkan kunci struktur.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DescriptorStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

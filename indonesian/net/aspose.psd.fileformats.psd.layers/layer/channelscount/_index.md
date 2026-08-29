@@ -1,11 +1,12 @@
 ---
-title: Layer.ChannelsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapatkan jumlah saluran lapisan.
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan jumlah saluran lapisan"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
 Mendapatkan jumlah saluran lapisan.
@@ -14,14 +15,14 @@ Mendapatkan jumlah saluran lapisan.
 public ushort ChannelsCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah saluran lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

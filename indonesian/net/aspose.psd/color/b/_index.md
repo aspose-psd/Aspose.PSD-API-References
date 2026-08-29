@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color Properti. Mendapat nilai komponen biru iniColorstruktur.
+title: "Color.B"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Color property. Mendapatkan nilai komponen biru dari struktur Color ini"
 type: docs
 weight: 1470
 url: /id/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-Mendapat nilai komponen biru ini[`Color`](../)struktur.
+Mendapatkan nilai komponen biru dari struktur [`Color`](../) ini.
 
 ```csharp
 public byte B { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai komponen biru ini[`Color`](../).
+Nilai komponen biru dari [`Color`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

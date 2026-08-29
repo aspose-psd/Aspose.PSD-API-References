@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsYellowBlueBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource Properti. Mendapatkan atau mengatur Shadows Yellow Blue Balance.
+title: "BlncResource.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource properti. Mendapatkan atau mengatur Shadows Yellow Blue Balance"
 type: docs
-weight: 140
+weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsYellowBlueBalance property
 
-Mendapatkan atau mengatur Shadows Yellow Blue Balance.
+Mendapatkan atau mengatur Keseimbangan Bayangan Kuning Biru.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Keseimbangan Bayangan Kuning Biru.
+Shadows Yellow Blue Balance.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

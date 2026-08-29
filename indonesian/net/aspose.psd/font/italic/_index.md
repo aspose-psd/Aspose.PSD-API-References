@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat nilai yang menunjukkan apakah iniFontitu miring.
+title: "Font.Italic"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan nilai yang menunjukkan apakah Font ini miring"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-Mendapat nilai yang menunjukkan apakah ini[`Font`](../)itu miring.
+Mendapatkan nilai yang menunjukkan apakah [`Font`](../) ini miring.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Benar jika ini[`Font`](../) miring; jika tidak, salah.
+True jika [`Font`](../) ini miring; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

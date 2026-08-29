@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputShadowLevel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LevelChannel Properti. Mendapat atau menyetel level bayangan masukan.
+title: "LevelChannel.InputShadowLevel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LevelChannel. Mendapatkan atau mengatur tingkat bayangan input"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputShadowLevel property
 
-Mendapat atau menyetel level bayangan masukan.
+Mendapatkan atau mengatur tingkat bayangan input.
 
 ```csharp
 public short InputShadowLevel { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Level bayangan masukan.
+Tingkat bayangan input.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Input Shadow Level hanya dapat diatur dalam rentang dari 0 hingga " + (this.InputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Tingkat Bayangan Input hanya dapat diatur dalam rentang dari 0 hingga " + (this.InputHighlightLevel - 2) |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevelChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

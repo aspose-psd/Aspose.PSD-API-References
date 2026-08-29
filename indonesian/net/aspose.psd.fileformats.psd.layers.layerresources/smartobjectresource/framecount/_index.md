@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menyetel jumlah bingkai dari data lapisan objek pintar di file PSD.
+title: "SmartObjectResource.FrameCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur jumlah frame data lapisan objek pintar dalam file PSD"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameCount property
 
-Mendapat atau menyetel jumlah bingkai dari data lapisan objek pintar di file PSD.
+Mendapatkan atau mengatur jumlah frame data lapisan objek pintar dalam file PSD.
 
 ```csharp
 public int FrameCount { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jumlah bingkai dari informasi lapisan yang ditempatkan.
+Jumlah frame dari informasi lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ClblResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClblResource bidang. Kunci info alat ketik.
+title: "ClblResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang ClblResource. Kunci info alat tipe"
 type: docs
-weight: 40
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ClblResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClblResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsPathExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.GraphicsPathExtensions kelas. BerisiGraphicsPath metode ekstensi.
+title: "Kelas GraphicsPathExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.GraphicsPathExtensions. Berisi metode ekstensi GraphicsPath"
 type: docs
-weight: 1100
+weight: 1110
 url: /id/net/aspose.psd.extensions/graphicspathextensions/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions class
 
-Berisi[`GraphicsPath`](../../aspose.psd/graphicspath/) metode ekstensi.
+Berisi metode ekstensi [`GraphicsPath`](../../aspose.psd/graphicspath/).
 
 ```csharp
 public static class GraphicsPathExtensions
@@ -16,13 +17,13 @@ public static class GraphicsPathExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | Mengubah[`GraphicsPath`](../../aspose.psd/graphicspath/) keGraphicsPath . |
+| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | Mengonversi [`GraphicsPath`](../../aspose.psd/graphicspath/) menjadi GraphicsPath. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

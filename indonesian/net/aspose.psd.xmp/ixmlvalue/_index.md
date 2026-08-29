@@ -1,14 +1,15 @@
 ---
-title: Interface IXmlValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.IXmlValue antarmuka. Mengubah nilai xmp menjadi representasi string XML.
+title: "Antarmuka IXmlValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.Xmp.IXmlValue. Mengonversi nilai xmp ke representasi string XML"
 type: docs
-weight: 5750
+weight: 6250
 url: /id/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
-Mengubah nilai xmp menjadi representasi string XML.
+Mengonversi nilai xmp ke representasi string XML.
 
 ```csharp
 public interface IXmlValue
@@ -16,13 +17,13 @@ public interface IXmlValue
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue/)() | Mengubah nilai XMP menjadi representasi XML. |
+| [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue/)() | Mengonversi nilai XMP ke representasi XML. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

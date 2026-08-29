@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OuterGlowEffect Properti. Mendapatkan atau mengatur sudut dalam derajat.
+title: "OuterGlowEffect.Intensity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "OuterGlowEffect property. Mendapatkan atau mengatur sudut dalam derajat"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
 Mendapatkan atau mengatur sudut dalam derajat.
@@ -14,11 +15,11 @@ Mendapatkan atau mengatur sudut dalam derajat.
 public int Intensity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan OuterGlowEffect.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [OuterGlowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

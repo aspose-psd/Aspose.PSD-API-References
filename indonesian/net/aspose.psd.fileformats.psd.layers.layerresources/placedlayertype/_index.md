@@ -1,14 +1,15 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType enum. Menentukan pencacahan PlacedLayerType untuk sumber daya PlLd layer yang ditempatkan.
+title: "Enum PlacedLayerType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType. Mendefinisikan enumerasi PlacedLayerType untuk sumber daya lapisan ditempatkan PlLd."
 type: docs
-weight: 2930
+weight: 3280
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-Menentukan pencacahan PlacedLayerType untuk sumber daya PlLd layer yang ditempatkan.
+Mendefinisikan enumerasi PlacedLayerType untuk sumber daya lapisan yang ditempatkan PlLd.
 
 ```csharp
 public enum PlacedLayerType
@@ -16,14 +17,14 @@ public enum PlacedLayerType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Unknown | `0` | Jenis lapisan yang ditempatkan tidak diketahui |
-| Vector | `1` | Jenis layer penempatan vektor |
-| Raster | `2` | Jenis lapisan yang ditempatkan raster |
-| ImageStack | `3` | Jenis lapisan penempatan tumpukan gambar |
+| Unknown | `0` | Tipe lapisan ditempatkan yang tidak diketahui |
+| Vector | `1` | Tipe lapisan ditempatkan vektor |
+| Raster | `2` | Tipe lapisan ditempatkan raster |
+| ImageStack | `3` | Tipe lapisan ditempatkan tumpukan gambar |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya PlLdResource.
 
@@ -207,15 +208,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,9 +229,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

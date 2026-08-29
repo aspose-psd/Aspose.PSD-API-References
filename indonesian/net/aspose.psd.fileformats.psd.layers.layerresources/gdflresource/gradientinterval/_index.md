@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat atau menyetel interval gradien.
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GdFlResource properti. Mendapatkan atau mengatur interval gradien"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
-Mendapat atau menyetel interval gradien.
+Mendapatkan atau mengatur interval gradien.
 
 ```csharp
 public double GradientInterval { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Interval gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

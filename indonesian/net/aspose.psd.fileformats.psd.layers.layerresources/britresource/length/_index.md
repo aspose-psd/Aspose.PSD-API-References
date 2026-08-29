@@ -1,11 +1,12 @@
 ---
-title: BritResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "BritResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BritResource. Mengambil panjang sumber daya lapisan dalam byte"
 type: docs
-weight: 60
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/length/
 ---
+{{< psd/tize >}}
 ## BritResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

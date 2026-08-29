@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.RegisterOpener
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OSTypeStructuresRegistry metode. Mendaftarkan pembuka.
+title: "OSTypeStructuresRegistry.RegisterOpener"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode OSTypeStructuresRegistry. Mendaftarkan pembuka"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisterOpener method
 
 Mendaftarkan pembuka.
@@ -14,15 +15,15 @@ Mendaftarkan pembuka.
 public static void RegisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | Deskriptor pembuka untuk mendaftar. |
+| openerDescriptor | IOSTypeStructureLoader | Deskriptor pembuka yang akan didaftarkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

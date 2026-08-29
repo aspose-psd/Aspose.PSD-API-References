@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Menyimpan data mentah.
+title: "RasterImage.SaveRawData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Menyimpan data mentah."
 type: docs
-weight: 530
+weight: 550
 url: /id/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
 Menyimpan data mentah.
@@ -15,19 +16,19 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
     RawDataSettings rawDataSettings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data mentah. |
 | dataOffset | Int32 | Offset data mentah awal. |
-| rectangle | Rectangle | Persegi panjang data mentah. |
+| persegi panjang | Rectangle | Persegi panjang data mentah. |
 | rawDataSettings | RawDataSettings | Pengaturan data mentah tempat data berada. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

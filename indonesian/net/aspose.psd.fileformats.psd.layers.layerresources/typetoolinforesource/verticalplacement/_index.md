@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.VerticalPlacement
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau menyetel penempatan vertikal.
+title: "TypeToolInfoResource.VerticalPlacement"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur penempatan vertikal"
 type: docs
-weight: 260
+weight: 230
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.VerticalPlacement property
 
-Mendapat atau menyetel penempatan vertikal.
+Mendapatkan atau mengatur penempatan vertikal.
 
 ```csharp
 public int VerticalPlacement { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Penempatan vertikal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

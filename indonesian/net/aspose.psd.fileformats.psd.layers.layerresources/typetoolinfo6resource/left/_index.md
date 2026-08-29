@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Left
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menyetel lokasi kiri.
+title: "TypeToolInfo6Resource.Left"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur lokasi kiri"
 type: docs
-weight: 80
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Left property
 
-Mendapat atau menyetel lokasi kiri.
+Mendapatkan atau mengatur lokasi kiri.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lokasi kiri.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

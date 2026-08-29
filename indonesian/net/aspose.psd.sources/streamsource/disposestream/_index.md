@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamSource Properti. Mendapat nilai yang menunjukkan apakah aliran harus dibuang setiap kali wadah dibuang.
+title: "StreamSource.DisposeStream"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StreamSource. Mendapatkan nilai yang menunjukkan apakah aliran harus dibuang setiap kali kontainer dibuang"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-Mendapat nilai yang menunjukkan apakah aliran harus dibuang setiap kali wadah dibuang.
+Mendapatkan nilai yang menunjukkan apakah aliran harus dibuang setiap kali kontainer dibuang.
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran harus dibuang; jika tidak,`PALSU`.
+`true` jika aliran harus dibuang; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamSource](../)
-* ruang nama [Aspose.PSD.Sources](../../streamsource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

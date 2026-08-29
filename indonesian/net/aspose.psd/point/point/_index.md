@@ -1,69 +1,70 @@
 ---
-title: Point.Point
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point konstruktor. Menginisialisasi instance baru dariPoint struktur dengan koordinat yang ditentukan.
+title: "Point.Point"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Point. Menginisialisasi instance baru dari struktur Point dengan koordinat yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/point/point/
 ---
+{{< psd/tize >}}
 ## Point(int, int) {#constructor_2}
 
-Menginisialisasi instance baru dari[`Point`](../) struktur dengan koordinat yang ditentukan.
+Menginisialisasi instance baru dari struktur [`Point`](../) dengan koordinat yang ditentukan.
 
 ```csharp
 public Point(int x, int y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Int32 | Posisi titik horizontal. |
-| y | Int32 | Posisi titik vertikal. |
+| x | Int32 | Posisi horizontal titik. |
+| y | Int32 | Posisi vertikal titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(Size) {#constructor}
 
-Menginisialisasi instance baru dari[`Point`](../) struktur dari[`Size`](../../size/)struktur.
+Menginisialisasi instance baru dari struktur [`Point`](../) dari struktur [`Size`](../../size/).
 
 ```csharp
 public Point(Size size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | Size | Berisi koordinat titik baru. |
+| ukuran | Ukuran | Berisi koordinat titik baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(int) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Point`](../) struktur menggunakan koordinat yang ditentukan oleh nilai integer.
+Menginisialisasi instance baru dari struktur [`Point`](../) menggunakan koordinat yang ditentukan oleh nilai integer.
 
 ```csharp
 public Point(int dw)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dw | Int32 | Bilangan bulat 32-bit yang menentukan koordinat untuk titik baru. |
+| dw | Int32 | Integer 32-bit yang menentukan koordinat untuk titik baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

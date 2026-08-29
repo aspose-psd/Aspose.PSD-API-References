@@ -1,20 +1,21 @@
 ---
-title: Thumbnail.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Thumbnail Properti. Mendapat atau mengatur ketinggian.
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Thumbnail. Mendapatkan atau mengatur tinggi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
-Mendapat atau mengatur ketinggian.
+Mendapatkan atau mengatur tinggi.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi.
 
@@ -22,12 +23,12 @@ Tinggi.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | value;Tinggi tidak boleh kurang dari nol |
+| ArgumentOutOfRangeException | nilai;Tinggi tidak boleh kurang dari nol |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Thumbnail](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

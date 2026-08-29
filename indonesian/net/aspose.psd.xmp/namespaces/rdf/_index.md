@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Rdf
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. Ruang nama kerangka kerja definisi sumber daya.
+title: "Namespaces.Rdf"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. namespace kerangka kerja definisi sumber daya"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp/namespaces/rdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Rdf field
 
-Ruang nama kerangka kerja definisi sumber daya.
+Namespace kerangka kerja definisi sumber daya.
 
 ```csharp
 public const string Rdf;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

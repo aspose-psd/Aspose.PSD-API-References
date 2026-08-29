@@ -1,27 +1,28 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel indeks eksposur yang disarankan.
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur indeks eksposur yang direkomendasikan"
 type: docs
 weight: 870
 url: /id/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
-Mendapatkan atau menyetel indeks eksposur yang disarankan.
+Mendapatkan atau mengatur indeks eksposur yang direkomendasikan.
 
 ```csharp
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Indeks eksposur yang direkomendasikan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

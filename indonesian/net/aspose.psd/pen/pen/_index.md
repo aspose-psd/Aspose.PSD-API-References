@@ -1,105 +1,106 @@
 ---
-title: Pen.Pen
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen konstruktor. Menginisialisasi instance baru dariPen kelas dengan warna yang ditentukan.
+title: "Pen.Pen"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Pen. Menginisialisasi instance baru dari kelas Pen dengan warna yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-Menginisialisasi instance baru dari[`Pen`](../) kelas dengan warna yang ditentukan.
+Menginisialisasi instance baru dari kelas [`Pen`](../) dengan warna yang ditentukan.
 
 ```csharp
 public Pen(Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) struktur yang menunjukkan warna ini[`Pen`](../). |
+| color | Color | Sebuah struktur [`Color`](../color/) yang menunjukkan warna dari [`Pen`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-Menginisialisasi instance baru dari[`Pen`](../) kelas dengan yang ditentukan[`Color`](../color/) Dan[`Width`](../width/) properti.
+Menginisialisasi instance baru dari kelas [`Pen`](../) dengan properti [`Color`](../color/) dan [`Width`](../width/) yang ditentukan.
 
 ```csharp
 public Pen(Color color, float width)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) struktur yang menunjukkan warna ini[`Pen`](../). |
-| width | Single | Nilai yang menunjukkan lebar ini[`Pen`](../). |
+| color | Color | Sebuah struktur [`Color`](../color/) yang menunjukkan warna dari [`Pen`](../) ini. |
+| width | Single | Sebuah nilai yang menunjukkan lebar dari [`Pen`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-Menginisialisasi instance baru dari[`Pen`](../) kelas dengan yang ditentukan[`Brush`](../brush/) .
+Menginisialisasi instance baru dari kelas [`Pen`](../) dengan [`Brush`](../brush/) yang ditentukan.
 
 ```csharp
 public Pen(Brush brush)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) yang menentukan properti isian ini[`Pen`](../). |
+| brush | Brush | Sebuah [`Brush`](../brush/) yang menentukan properti isi dari [`Pen`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Pen`](../) kelas dengan yang ditentukan[`Brush`](../brush/) Dan[`Width`](../width/) .
+Menginisialisasi instance baru dari kelas [`Pen`](../) dengan [`Brush`](../brush/) dan [`Width`](../width/) yang ditentukan.
 
 ```csharp
 public Pen(Brush brush, float width)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) yang menentukan karakteristik ini[`Pen`](../). |
-| width | Single | Lebar baru[`Pen`](../). |
+| brush | Brush | Sebuah [`Brush`](../brush/) yang menentukan karakteristik dari [`Pen`](../) ini. |
+| width | Single | Lebar dari [`Pen`](../) baru. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.VerticalSampling
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegOptions Properti. Mendapat atau mengatur subsampling vertikal untuk setiap komponen.
+title: "JpegOptions.VerticalSampling"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "JpegOptions property. Mendapatkan atau mengatur subsampling vertikal untuk setiap komponen"
 type: docs
-weight: 200
+weight: 210
 url: /id/net/aspose.psd.imageoptions/jpegoptions/verticalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.VerticalSampling property
 
-Mendapat atau mengatur subsampling vertikal untuk setiap komponen.
+Mendapatkan atau mengatur sub-sampling vertikal untuk setiap komponen.
 
 ```csharp
 public byte[] VerticalSampling { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

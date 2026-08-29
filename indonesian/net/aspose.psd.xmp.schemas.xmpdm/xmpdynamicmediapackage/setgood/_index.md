@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGood
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur yang baik.
+title: "XmpDynamicMediaPackage.SetGood"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpDynamicMediaPackage metode. Mengatur yang baik"
 type: docs
 weight: 230
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGood method
 
 Mengatur yang baik.
@@ -14,14 +15,14 @@ Mengatur yang baik.
 public void SetGood(bool good)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| good | Boolean | jika diatur ke`BENAR` tembakan adalah penjaga. |
+| baik | Boolean | jika diatur ke `true` sebuah tembakan menjadi penjaga. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

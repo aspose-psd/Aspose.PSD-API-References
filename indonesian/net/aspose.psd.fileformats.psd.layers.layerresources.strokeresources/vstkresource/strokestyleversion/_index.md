@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel versi gaya coretan.
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VstkResource. Mendapatkan atau mengatur versi gaya goresan"
 type: docs
-weight: 220
+weight: 200
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
-Mendapat atau menyetel versi gaya coretan.
+Mendapatkan atau mengatur versi gaya goresan.
 
 ```csharp
 public int StrokeStyleVersion { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

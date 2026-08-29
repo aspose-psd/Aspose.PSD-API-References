@@ -1,14 +1,15 @@
 ---
-title: Enum JpegLoadException.ErrorReason
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason enum. Mewakili penyebab kesalahan.
+title: "Enum JpegLoadException.ErrorReason"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason. Mewakili alasan kesalahan"
 type: docs
 weight: 560
 url: /id/net/aspose.psd.coreexceptions.imageformats/jpegloadexception.errorreason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.ErrorReason enumeration
 
-Mewakili penyebab kesalahan.
+Mewakili alasan kesalahan.
 
 ```csharp
 public enum ErrorReason
@@ -16,15 +17,15 @@ public enum ErrorReason
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| BasicError | `0` | Jenis kesalahan dasar. |
-| NotEnoughData | `1` | Data tidak cukup dalam aliran. |
+| BasicError | `0` | Tipe kesalahan dasar. |
+| NotEnoughData | `1` | Tidak cukup data dalam aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegLoadException](../jpegloadexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

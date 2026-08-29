@@ -1,27 +1,28 @@
 ---
-title: SizeF.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF metode. Membuat string yang dapat dibaca manusia yang mewakili iniSizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SizeF. Membuat string yang dapat dibaca manusia yang mewakili SizeF ini."
 type: docs
 weight: 120
 url: /id/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-Membuat string yang dapat dibaca manusia yang mewakili ini[`SizeF`](../) .
+Membuat string yang dapat dibaca manusia yang mewakili [`SizeF`](../) ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah string yang mewakili ini[`SizeF`](../).
+String yang mewakili [`SizeF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

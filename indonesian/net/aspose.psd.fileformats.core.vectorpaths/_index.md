@@ -1,38 +1,39 @@
 ---
-title: Aspose.PSD.FileFormats.Core.VectorPaths
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi Jalur Vektor PSD.
+title: "Aspose.PSD.FileFormats.Core.VectorPaths"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi PSD Vector Paths"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/
 ---
-Ruang nama berisi Jalur Vektor PSD.
+{{< psd/tize >}}
+Namespace berisi Jalur Vektor PSD.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord/) | Kelas Rekaman Bezier Knot |
+| [BezierKnotRecord](./bezierknotrecord/) | Kelas Rekaman Bezier Knot, digunakan untuk membaca/menulis data simpul Bezier dari sumber. |
 | [ClipboardRecord](./clipboardrecord/) | Kelas Rekaman Clipboard |
-| [InitialFillRuleRecord](./initialfillrulerecord/) | Kelas Rekaman Aturan Isian Awal |
-| [LengthRecord](./lengthrecord/) | Kelas Catatan Panjang Subpath |
-| [PathFillRuleRecord](./pathfillrulerecord/) | Kelas Catatan Aturan Isi Jalur |
+| [InitialFillRuleRecord](./initialfillrulerecord/) | Kelas Rekaman Aturan Isi Awal |
+| [LengthRecord](./lengthrecord/) | Kelas Rekaman Panjang Subpath. |
+| [PathFillRuleRecord](./pathfillrulerecord/) | Kelas Rekaman Aturan Isi Jalur |
 | [VectorPathRecord](./vectorpathrecord/) | Kelas Rekaman Jalur Vektor |
-| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Kelas Pabrik Rekaman Jalur Vektor |
-| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Menentukan kelas kotak pembatas bentuk vektor. |
-| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Pengaturan originasi bentuk vektor. |
-| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Mendefinisikan bentuk vektor dengan jari-jari persegi panjang class |
+| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Kelas Pabrik Rekaman Jalur Vektor. |
+| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Mendefinisikan kelas kotak pembatas bentuk vektor. |
+| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Pengaturan asal bentuk vektor. |
+| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Mendefinisikan kelas persegi panjang radius bentuk vektor |
 | [VectorShapeTransform](./vectorshapetransform/) | Mendefinisikan kelas matriks transformasi bentuk vektor |
 ## Antarmuka
 
-| Antarmuka | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
 | [IVectorPathData](./ivectorpathdata/) | Antarmuka untuk mengakses data jalur vektor. |
-## Pencacahan
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [PathOperations](./pathoperations/) | Operasi untuk penggabungan bentuk jalur (operasi Boolean). |
-| [VectorPathType](./vectorpathtype/) | Jenis Jalur Vektor menurut Spesifikasi Format PSD |
+| [PathOperations](./pathoperations/) | Operasi untuk menggabungkan bentuk jalur (operasi Boolean). |
+| [VectorPathType](./vectorpathtype/) | Tipe Jalur Vektor menurut Spesifikasi Format PSD |
 
 

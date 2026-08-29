@@ -1,33 +1,34 @@
 ---
-title: FontSettings.SetFontReplacements
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Mengatur daftar penggantian font. Jika font tidak diperbolehkan maka akan dicari penggantinya. Font pertama dalam daftar akan digunakan terlebih dahulu. Jika dibatasi juga maka akan dipilih font berikutnya dari daftar. Jika font belum diganti atau semua penggantian tidak diperbolehkan maka akan digunakan font pertama yang diizinkan dari daftar font yang diizinkan. Jika tidak ada font yang diperbolehkan dan tersedia maka perpustakaan akan coba gunakan font default sistem meskipun tidak diizinkan.
+title: "FontSettings.SetFontReplacements"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Menetapkan daftar penggantian font. Jika font tidak diizinkan maka akan dicari pengganti. Font pertama dalam daftar akan digunakan pertama kali. Jika juga dibatasi, maka font berikutnya dalam daftar akan dipilih. Jika font tidak memiliki pengganti atau semua pengganti tidak diizinkan, maka akan digunakan font pertama yang diizinkan dari daftar font yang diizinkan. Jika tidak ada font yang diizinkan dan tersedia, maka perpustakaan akan mencoba menggunakan font default sistem meskipun tidak diizinkan."
 type: docs
-weight: 110
+weight: 130
 url: /id/net/aspose.psd/fontsettings/setfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontReplacements method
 
-Mengatur daftar penggantian font. Jika font tidak diperbolehkan maka akan dicari penggantinya. Font pertama dalam daftar akan digunakan terlebih dahulu. Jika dibatasi juga, maka akan dipilih font berikutnya dari daftar. Jika font belum diganti atau semua penggantian tidak diperbolehkan maka akan digunakan font pertama yang diizinkan dari daftar font yang diizinkan. Jika tidak ada font yang diperbolehkan dan tersedia maka perpustakaan akan coba gunakan font default sistem meskipun tidak diizinkan.
+Mengatur daftar penggantian font. Jika font tidak diizinkan, maka akan dicari pengganti. Font pertama dalam daftar akan digunakan pertama kali. Jika juga dibatasi, maka font berikutnya dalam daftar akan dipilih. Jika font tidak memiliki pengganti atau semua pengganti tidak diizinkan, maka akan digunakan font pertama yang diizinkan dari daftar font yang diizinkan. Jika tidak ada font yang diizinkan dan tersedia, maka perpustakaan akan mencoba menggunakan font default sistem meskipun tidak diizinkan.
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fontToReplace | String | Font yang akan diganti. |
-| fontNames | String[] | Nama font pengganti dalam urutan kesamaan. |
+| fontNames | String[] | Nama font pengganti dalam urutan kemiripan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Panjang Array Font dan Array Perbedaan Font harus sama |
+| ArgumentException | Panjang Font Array dan Font Differences Array harus sama |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk membatasi penggunaan font secara terprogram.
+Kode berikut menunjukkan kemampuan untuk secara programatik membatasi font menggunakan.
 
 ```csharp
 [C#]
@@ -50,7 +51,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,10 +64,10 @@ finally
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

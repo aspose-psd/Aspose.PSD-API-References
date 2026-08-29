@@ -1,28 +1,29 @@
 ---
-title: Graphics.PageUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapat atau menetapkan satuan ukuran yang digunakan untuk koordinat halaman di Aspose.PSD.Graphics. ini
+title: "Graphics.PageUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur satuan ukuran yang digunakan untuk koordinat halaman dalam Aspose.PSD.Graphics ini"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/graphics/pageunit/
 ---
+{{< psd/tize >}}
 ## Graphics.PageUnit property
 
-Mendapat atau menetapkan satuan ukuran yang digunakan untuk koordinat halaman di Aspose.PSD.Graphics. ini
+Mendapatkan atau mengatur satuan ukuran yang digunakan untuk koordinat halaman dalam Aspose.PSD.Graphics ini.
 
 ```csharp
 public GraphicsUnit PageUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Satuan ukuran yang digunakan untuk koordinat halaman di Aspose.PSD.Graphics. ini
+Satuan ukuran yang digunakan untuk koordinat halaman dalam Aspose.PSD.Graphics ini.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

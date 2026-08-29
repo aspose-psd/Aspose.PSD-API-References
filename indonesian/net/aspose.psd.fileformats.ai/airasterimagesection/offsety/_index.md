@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetY
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiRasterImageSection Properti. Mendapat offset Y.
+title: "AiRasterImageSection.OffsetY"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiRasterImageSection. Mendapatkan offset Y"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetY property
 
-Mendapat offset Y.
+Mendapatkan offset Y.
 
 ```csharp
 public double OffsetY { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset Y.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

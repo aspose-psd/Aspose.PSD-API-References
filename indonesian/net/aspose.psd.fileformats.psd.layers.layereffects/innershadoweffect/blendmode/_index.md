@@ -1,28 +1,29 @@
 ---
-title: InnerShadowEffect.BlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InnerShadowEffect Properti. Mendapat atau menyetel mode campuran.
+title: "InnerShadowEffect.BlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "InnerShadowEffect property. Mendapatkan atau mengatur mode pencampuran"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.BlendMode property
 
-Mendapat atau menyetel mode campuran.
+Mendapatkan atau mengatur mode perpaduan.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode campuran.
+Mode pencampuran.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [InnerShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

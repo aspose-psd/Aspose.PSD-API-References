@@ -1,31 +1,32 @@
 ---
-title: Color.FromName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Membuat aColorstruktur dari nama yang ditentukan dari warna yang telah ditentukan.
+title: "Color.FromName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Membuat struktur Color dari nama yang ditentukan dari warna yang telah ditentukan."
 type: docs
 weight: 1450
 url: /id/net/aspose.psd/color/fromname/
 ---
+{{< psd/tize >}}
 ## Color.FromName method
 
-Membuat a[`Color`](../)struktur dari nama yang ditentukan dari warna yang telah ditentukan.
+Membuat struktur [`Color`](../) dari nama yang ditentukan dari warna yang telah ditentukan.
 
 ```csharp
 public static Color FromName(string name)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | String yang merupakan nama warna yang telah ditentukan sebelumnya. Nama yang valid sama dengan nama elemen dari[`KnownColor`](../../knowncolor/) pencacahan. |
+| name | String | String yang merupakan nama dari warna yang telah ditentukan. Nama yang valid sama dengan nama elemen dalam enumerasi [`KnownColor`](../../knowncolor/). |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Color`](../) yang dibuat oleh metode ini.
+[`Color`](../) yang dibuat oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: FXidResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FXidResource Properti. Mendapatkan versinya.
+title: "FXidResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FXidResource. Mengambil versi"
 type: docs
-weight: 70
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/
 ---
+{{< psd/tize >}}
 ## FXidResource.Version property
 
-Mendapatkan versinya.
+Mendapatkan versi.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FXidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JFIFData konstruktor. Menginisialisasi instance baru dariJFIFData kelas.
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor JFIFData. Menginisialisasi sebuah instance baru dari kelas JFIFData"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-Menginisialisasi instance baru dari[`JFIFData`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`JFIFData`](../).
 
 ```csharp
 public JFIFData()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JFIFData](../)
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

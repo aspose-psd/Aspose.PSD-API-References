@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredDescriptors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadersRegistry Properti. Mendapat deskriptor terdaftar.
+title: "ImageLoadersRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ImageLoadersRegistry property. Mendapatkan deskriptor yang terdaftar"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/imageloadersregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredDescriptors property
 
-Mendapat deskriptor terdaftar.
+Mendapatkan deskriptor yang terdaftar.
 
 ```csharp
 public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Deskriptor terdaftar.
+Deskriptor yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageloadersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

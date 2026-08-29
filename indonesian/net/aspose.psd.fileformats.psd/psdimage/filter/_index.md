@@ -1,30 +1,31 @@
 ---
-title: PsdImage.Filter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Memfilter persegi panjang yang ditentukan.
+title: "PsdImage.Filter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menyaring persegi panjang yang ditentukan"
 type: docs
-weight: 530
+weight: 590
 url: /id/net/aspose.psd.fileformats.psd/psdimage/filter/
 ---
+{{< psd/tize >}}
 ## PsdImage.Filter method
 
-Memfilter persegi panjang yang ditentukan.
+Menyaring persegi panjang yang ditentukan.
 
 ```csharp
 public override void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang. |
-| options | FilterOptionsBase | Opsi. |
+| persegi panjang | Rectangle | Persegi panjang. |
+| opsi | FilterOptionsBase | Opsi. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

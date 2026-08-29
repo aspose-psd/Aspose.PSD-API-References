@@ -1,11 +1,12 @@
 ---
-title: Enum UnitTypes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitTypes enum. Tipe unit.
+title: "Enum UnitTypes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitTypes enum. Jenis unit"
 type: docs
-weight: 3290
+weight: 3680
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
+{{< psd/tize >}}
 ## UnitTypes enumeration
 
 Tipe unit.
@@ -16,19 +17,20 @@ public enum UnitTypes
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Angle | `591490663` | Satuan sudut. |
-| Density | `592606060` | Satuan kepadatan. |
-| Distance | `592604276` | Satuan jarak. |
-| None | `592342629` | Satuan tak terdefinisi. |
-| Percent | `592474723` | Satuan persen. |
-| Pixels | `592476268` | Satuan piksel. |
-| Points | `592473716` | Satuan poin. |
+| Angle | `591490663` | Unit sudut. |
+| Density | `592606060` | Unit kepadatan. |
+| Distance | `592604276` | Unit jarak. |
+| None | `592342629` | Unit tidak terdefinisi. |
+| Percent | `592474723` | Unit persen. |
+| Pixels | `592476268` | Unit piksel. |
+| Points | `592473716` | Unit poin. |
+| Millimeters | `592276589` | Unit milimeter. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

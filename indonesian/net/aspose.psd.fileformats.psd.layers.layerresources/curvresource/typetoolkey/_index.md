@@ -1,23 +1,24 @@
 ---
-title: CurvResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvResource bidang. Kunci info alat ketik.
+title: "CurvResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "CurvResource field. Kunci info alat tipe"
 type: docs
-weight: 100
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CurvResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

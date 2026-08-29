@@ -1,11 +1,12 @@
 ---
-title: GlobalAltitudeResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalAltitudeResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "GlobalAltitudeResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GlobalAltitudeResource properti. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/minimalversion/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalAltitudeResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

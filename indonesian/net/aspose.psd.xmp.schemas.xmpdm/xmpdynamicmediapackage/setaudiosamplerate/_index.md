@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur kecepatan sampel audio.
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Mengatur laju sampel audio"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
-Mengatur kecepatan sampel audio.
+Mengatur laju sampel audio.
 
 ```csharp
 public void SetAudioSampleRate(int rate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rate | Int32 | Tingkat sampel audio. |
+| laju | Int32 | Laju sampel audio. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfDocumentInfo Properti. Mendapat atau menetapkan subjek dokumen.
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PdfDocumentInfo. Mendapatkan atau mengatur subjek dokumen"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Subject property
 
-Mendapat atau menetapkan subjek dokumen.
+Mendapatkan atau mengatur subjek dokumen.
 
 ```csharp
 public string Subject { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfDocumentInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

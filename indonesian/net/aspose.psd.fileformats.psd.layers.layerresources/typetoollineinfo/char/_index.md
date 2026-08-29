@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolLineInfo Properti. Mendapat atau menyetel karakter.
+title: "TypeToolLineInfo.Char"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolLineInfo. Mendapatkan atau mengatur karakter"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-Mendapat atau menyetel karakter.
+Mendapatkan atau mengatur karakter.
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Karakter.
+Karakter tersebut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolLineInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

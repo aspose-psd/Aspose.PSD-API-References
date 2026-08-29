@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.DuplicateLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectLayer metode. Membuat lapisan objek pintar baru dengan menyalin yang ini. Perhatikan bahwa untuk objek pintar yang disematkan gambar yang disematkan dibagikan. Jika Anda ingin menyalin penggunaan gambar yang disematkanNewSmartObjectViaCopy metode.
+title: "SmartObjectLayer.DuplicateLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SmartObjectLayer. Membuat lapisan smart object baru dengan menyalin yang ini. Perhatikan bahwa untuk smart object tersemat gambar tersemat dibagikan. Jika Anda ingin menyalin gambar tersemat, gunakan metode NewSmartObjectViaCopy."
 type: docs
-weight: 80
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.DuplicateLayer method
 
-Membuat lapisan objek pintar baru dengan menyalin yang ini. Perhatikan bahwa untuk objek pintar yang disematkan, gambar yang disematkan dibagikan. Jika Anda ingin menyalin penggunaan gambar yang disematkan[`NewSmartObjectViaCopy`](../newsmartobjectviacopy/) metode.
+Membuat lapisan objek pintar baru dengan menyalin yang ini. Perhatikan bahwa untuk objek pintar yang disematkan, gambar yang disematkan dibagikan. Jika Anda ingin menyalin gambar yang disematkan, gunakan metode [`NewSmartObjectViaCopy`](../newsmartobjectviacopy/).
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikloning[`SmartObjectLayer`](../) contoh.
+Instansi [`SmartObjectLayer`](../) yang diklon.
 
-### Contoh
+## Contoh
 
-Contoh-contoh ini menunjukkan cara menyalin lapisan objek pintar dalam gambar PSD.
+Contoh-contoh ini menunjukkan cara menyalin lapisan smart object dalam gambar PSD.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Contoh-contoh ini menunjukkan cara menyalin lapisan objek pintar dalam gambar PS
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Contoh ini mendemonstrasikan cara menyalin layer smart object di gambar PSD.
+// Contoh-contoh ini menunjukkan cara menyalin lapisan smart object dalam gambar PSD.
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // Nomor lapisan yang akan disalin
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,17 +58,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Mari kita balikkan gambar objek pintar yang disematkan (untuk gambar PSD bagian dalam, kita hanya membalikkan lapisan pertamanya)
+            // Mari balikkan gambar smart object tersemat (untuk gambar PSD internal, kita hanya membalikkan lapisan pertamanya).
             InvertImage(innerImage);
 
-            // Mari kita ganti gambar objek pintar tersemat di lapisan PSD
+            // Mari ganti gambar objek pintar tertanam di lapisan PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Lapisan yang digandakan berbagi gambar yang disematkan dengan objek pintar asli
-        // dan itu harus diperbarui secara eksplisit jika tidak, cache renderingnya tetap tidak berubah.
-        // Kami memperbarui setiap objek pintar untuk memastikan bahwa lapisan baru dibuat oleh NewSmartObjectViaCopy
-        // tidak membagikan gambar tersemat dengan yang lain.
+        // Lapisan yang diduplikasi berbagi gambar tersematnya dengan smart object asli.
+        // dan harus diperbarui secara eksplisit, jika tidak cache rendering‑nya tetap tidak berubah.
+        // Kami memperbarui setiap smart object untuk memastikan bahwa lapisan baru yang dibuat oleh NewSmartObjectViaCopy
+        // tidak berbagi gambar tersemat dengan yang lain.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -75,7 +76,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// Membalik gambar raster termasuk gambar PSD.
+// Membalikkan gambar raster termasuk gambar PSD.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -89,7 +90,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// Membalik gambar raster.
+// Membalikkan citra raster.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -112,10 +113,10 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

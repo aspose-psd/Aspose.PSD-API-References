@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.RefreshImagePreviewData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdOptions Properti. Mendapat atau menyetel nilai yang menunjukkan apakah segarkan data pratinjau gambar  opsi yang digunakan untuk memaksimalkan kompatibilitas dengan pemirsa gambar PSD lainnya. Perlu diketahui gambar lapisan teks ke tata letak akhir tidak didukung untuk platform Compact Framework
+title: "PsdOptions.RefreshImagePreviewData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah opsi refresh image preview data digunakan untuk memaksimalkan kompatibilitas dengan penampil gambar PSD lainnya. Harap dicatat bahwa menggambar lapisan teks ke tata letak akhir tidak didukung untuk platform Compact Framework."
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/
 ---
+{{< psd/tize >}}
 ## PsdOptions.RefreshImagePreviewData property
 
-Mendapat atau menyetel nilai yang menunjukkan apakah [segarkan data pratinjau gambar] - opsi yang digunakan untuk memaksimalkan kompatibilitas dengan pemirsa gambar PSD lainnya. Perlu diketahui, gambar lapisan teks ke tata letak akhir tidak didukung untuk platform Compact Framework
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [refresh image preview data] - opsi yang digunakan untuk memaksimalkan kompatibilitas dengan penampil gambar PSD lainnya. Harap dicatat, menggambar lapisan teks ke tata letak akhir tidak didukung untuk platform Compact Framework.
 
 ```csharp
 public bool RefreshImagePreviewData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [menyegarkan data pratinjau gambar]; jika tidak,`PALSU` .
+`true` jika [refresh image preview data]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

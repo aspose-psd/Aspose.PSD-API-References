@@ -1,11 +1,12 @@
 ---
-title: Enum TiffOptionsError
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.TiffOptionsError enum. Kode kesalahan opsi tiff.
+title: "Enum TiffOptionsError"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ImageOptions.TiffOptionsError. Kode kesalahan opsi tiff"
 type: docs
-weight: 4950
+weight: 5440
 url: /id/net/aspose.psd.imageoptions/tiffoptionserror/
 ---
+{{< psd/tize >}}
 ## TiffOptionsError enumeration
 
 Kode kesalahan opsi tiff.
@@ -16,21 +17,21 @@ public enum TiffOptionsError
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | NoError | `0` | Tidak ada kode kesalahan. |
-| NoColorMap | `1` | Peta warna tidak ditentukan. |
+| NoColorMap | `1` | Peta warna tidak didefinisikan. |
 | ColorMapLengthInvalid | `2` | Panjang peta warna tidak valid. |
 | CompressionSppMismatch | `3` | Kompresi tidak cocok dengan jumlah sampel per piksel. |
-| PhotometricCompressionMismatch | `4` | Kompresi tidak sesuai dengan pengaturan fotometrik. |
-| PhotometricSppMismatch | `5` | Fotometrik tidak cocok dengan sampel per jumlah piksel. |
+| PhotometricCompressionMismatch | `4` | Kompresi tidak cocok dengan pengaturan fotometrik. |
+| PhotometricSppMismatch | `5` | Fotometrik tidak cocok dengan jumlah sampel per piksel. |
 | NotSupportedAlphaStorage | `6` | Penyimpanan alfa tidak didukung. |
 | PhotometricBitsPerSampleMismatch | `7` | Bit fotometrik per sampel tidak valid |
 | Baseline6OptionsMismatch | `8` | Parameter opsi TIFF yang ditentukan tidak sesuai dengan standar TIFF Baseline 6.0 |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: FileStreamContainer.CreateFileStream
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileStreamContainer metode. Membuat aliran file baru.
+title: "FileStreamContainer.CreateFileStream"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FileStreamContainer. Membuat aliran file baru"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/filestreamcontainer/createfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.CreateFileStream method
 
-Membuat aliran file baru.
+Membuka aliran file yang ada. Jika aliran file tidak ada, pengecualian yang sesuai akan dilempar.
 
 ```csharp
 public static FileStreamContainer CreateFileStream(string fileLocation, bool isTemporal)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileLocation | String | Lokasi berkas. |
-| isTemporal | Boolean | Jika disetel ke`BENAR` wadah aliran file bersifat sementara. |
+| fileLocation | String | Lokasi file. |
+| isTemporal | Boolean | Jika diatur ke `true` kontainer aliran file bersifat temporal. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Wadah aliran file.
+Kontainer aliran file.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileStreamContainer](../)
-* ruang nama [Aspose.PSD](../../filestreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

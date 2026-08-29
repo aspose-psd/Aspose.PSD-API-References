@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetColorMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Mengatur mode warna.
+title: "PhotoshopPackage.SetColorMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PhotoshopPackage metode. Mengatur mode warna"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetColorMode method
 
 Mengatur mode warna.
@@ -14,15 +15,15 @@ Mengatur mode warna.
 public void SetColorMode(ColorMode colorMode)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| colorMode | ColorMode | Modus warna. |
+| colorMode | ColorMode | Mode warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorMode](../../colormode/)
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

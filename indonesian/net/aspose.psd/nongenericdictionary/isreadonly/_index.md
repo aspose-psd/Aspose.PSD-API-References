@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsReadOnly
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary Properti. Mendapat nilai yang menunjukkan apakah IDictionary objek bersifat hanyabaca.
+title: "NonGenericDictionary.IsReadOnly"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NonGenericDictionary. Mendapatkan nilai yang menunjukkan apakah objek IDictionary bersifat read‑only"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/nongenericdictionary/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsReadOnly property
 
-Mendapat nilai yang menunjukkan apakah IDictionary objek bersifat hanya-baca.
+Mendapatkan nilai yang menunjukkan apakah objek IDictionary bersifat read-only.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-benar jikaIDictionary objek bersifat hanya-baca; jika tidak, salah.
+true jika objek IDictionary bersifat read‑only; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

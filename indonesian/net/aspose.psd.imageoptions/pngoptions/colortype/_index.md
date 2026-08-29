@@ -1,28 +1,29 @@
 ---
-title: PngOptions.ColorType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PngOptions Properti. Mendapat atau mengatur jenis warna.
+title: "PngOptions.ColorType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PngOptions. Mendapatkan atau menetapkan tipe warna"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imageoptions/pngoptions/colortype/
 ---
+{{< psd/tize >}}
 ## PngOptions.ColorType property
 
-Mendapat atau mengatur jenis warna.
+Mendapatkan atau mengatur tipe warna.
 
 ```csharp
 public PngColorType ColorType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis warna.
+Tipe warna.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PngColorType](../../../aspose.psd.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pngoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

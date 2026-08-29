@@ -1,27 +1,28 @@
 ---
-title: PhflResource.Density
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResource Properti. Mendapat atau menyetel kepadatan.
+title: "PhflResource.Density"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResource. Mendapatkan atau mengatur kepadatan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
-Mendapat atau menyetel kepadatan.
+Mendapatkan atau mengatur kepadatan.
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kepadatan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

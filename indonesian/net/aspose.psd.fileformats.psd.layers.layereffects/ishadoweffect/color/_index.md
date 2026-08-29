@@ -1,28 +1,29 @@
 ---
-title: IShadowEffect.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IShadowEffect Properti. Mendapat atau mengatur warna.
+title: "IShadowEffect.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IShadowEffect. Mendapatkan atau mengatur warna"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
-Mendapat atau mengatur warna.
+Mendapatkan atau mengatur warna.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

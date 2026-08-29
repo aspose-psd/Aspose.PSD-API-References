@@ -1,44 +1,45 @@
 ---
-title: Thumbnail.Thumbnail
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Thumbnail konstruktor. Menginisialisasi instance baru dariThumbnail kelas.
+title: "Thumbnail.Thumbnail"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Thumbnail. Menginisialisasi instance baru dari kelas Thumbnail"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail() {#constructor}
 
-Menginisialisasi instance baru dari[`Thumbnail`](../) kelas.
+Menginisialisasi instance baru dari kelas [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Thumbnail](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Thumbnail(int, int) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Thumbnail`](../) kelas.
+Menginisialisasi instance baru dari kelas [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail(int width, int height)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar. |
-| height | Int32 | Ketinggian. |
+| lebar | Int32 | Lebar. |
+| tinggi | Int32 | Tinggi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Thumbnail](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpText
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpText kelas. Mewakili tipe dasar Teks XMP.
+title: "Kelas XmpText"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.Types.Basic.XmpText. Mewakili tipe dasar Teks XMP"
 type: docs
-weight: 5980
+weight: 6480
 url: /id/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
-Mewakili tipe dasar Teks XMP.
+Mewakili tipe dasar XMP Text.
 
 ```csharp
 public class XmpText : XmpTypeBase
@@ -16,26 +17,26 @@ public class XmpText : XmpTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpText](xmptext/)(string) | Menginisialisasi instance baru dari`XmpText` kelas. |
+| [XmpText](xmptext/)(string) | Menginisialisasi instance baru dari kelas `XmpText`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Mendapat atau menetapkan nilai teks. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Mendapatkan atau mengatur nilai teks. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

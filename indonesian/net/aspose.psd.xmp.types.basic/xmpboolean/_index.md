@@ -1,11 +1,12 @@
 ---
-title: Class XmpBoolean
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpBoolean kelas. Mewakili tipe dasar Boolean XMP.
+title: "Kelas XmpBoolean"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.Types.Basic.XmpBoolean. Mewakili tipe dasar Boolean XMP"
 type: docs
-weight: 5940
+weight: 6440
 url: /id/net/aspose.psd.xmp.types.basic/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean class
 
 Mewakili tipe dasar Boolean XMP.
@@ -16,28 +17,28 @@ public sealed class XmpBoolean : XmpTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpBoolean](xmpboolean/#constructor)() | Menginisialisasi instance baru dari`XmpBoolean` kelas dengan nilai default. |
-| [XmpBoolean](xmpboolean/#constructor_1)(bool) | Menginisialisasi instance baru dari`XmpBoolean` kelas berdasarkan nilai boolean. |
-| [XmpBoolean](xmpboolean/#constructor_2)(string) | Menginisialisasi instance baru dari`XmpBoolean` kelas. |
+| [XmpBoolean](xmpboolean/#constructor)() | Menginisialisasi instance baru dari kelas `XmpBoolean` dengan nilai default. |
+| [XmpBoolean](xmpboolean/#constructor_1)(bool) | Menginisialisasi instance baru dari kelas `XmpBoolean` berdasarkan nilai boolean. |
+| [XmpBoolean](xmpboolean/#constructor_2)(string) | Menginisialisasi instance baru dari kelas `XmpBoolean`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah ini`XmpBoolean` adalah nilai. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah `XmpBoolean` ini bernilai. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | Mengembalikan string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | Mengembalikan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

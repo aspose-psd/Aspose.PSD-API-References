@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeZZZ
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menetapkan nilai zzz garis lintang kecepatan ISO dari kamera atau perangkat input yang ditentukan dalam ISO 12232.
+title: "ExifData.ISOSpeedLatitudeZZZ"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur nilai zzz lintang kecepatan ISO dari kamera atau perangkat masukan yang didefinisikan dalam ISO 12232"
 type: docs
 weight: 720
 url: /id/net/aspose.psd.exif/exifdata/isospeedlatitudezzz/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeZZZ property
 
-Mendapatkan atau menetapkan nilai zzz garis lintang kecepatan ISO dari kamera atau perangkat input yang ditentukan dalam ISO 12232.
+Mendapatkan atau mengatur nilai latitude zzz kecepatan ISO dari kamera atau perangkat input yang didefinisikan dalam ISO 12232.
 
 ```csharp
 public uint ISOSpeedLatitudeZZZ { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai zzz garis lintang kecepatan ISO kamera atau perangkat masukan yang ditentukan dalam ISO 12232.
+Nilai zzz lintang kecepatan ISO dari kamera atau perangkat masukan yang didefinisikan dalam ISO 12232.
 
-### Perkataan
+## Catatan
 
 Tag ini tidak boleh direkam tanpa ISOSpeed dan ISOSpeedLatitudeyyy
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

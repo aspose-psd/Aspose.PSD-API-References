@@ -1,64 +1,65 @@
 ---
-title: PsdOptions.PsdOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdOptions konstruktor. Menginisialisasi instance baru dariPsdOptions kelas.
+title: "PsdOptions.PsdOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PsdOptions. Menginisialisasi sebuah instance baru dari kelas PsdOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/psdoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions() {#constructor}
 
-Menginisialisasi instance baru dari[`PsdOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PsdOptions`](../).
 
 ```csharp
 public PsdOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdOptions) {#constructor_2}
 
-Menginisialisasi instance baru dari[`PsdOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PsdOptions`](../).
 
 ```csharp
 public PsdOptions(PsdOptions options)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| options | PsdOptions | Opsi. |
+| opsi | PsdOptions | Opsi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdImage) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PsdOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PsdOptions`](../).
 
 ```csharp
 public PsdOptions(PsdImage image)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | PsdImage | Foto. |
+| gambar | PsdImage | Gambar. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

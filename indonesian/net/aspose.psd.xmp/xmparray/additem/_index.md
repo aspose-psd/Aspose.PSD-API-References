@@ -1,11 +1,12 @@
 ---
-title: XmpArray.AddItem
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpArray metode. Menambahkan item baru.
+title: "XmpArray.AddItem"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpArray metode. Menambahkan item baru"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/xmparray/additem/
 ---
+{{< psd/tize >}}
 ## XmpArray.AddItem method
 
 Menambahkan item baru.
@@ -14,14 +15,14 @@ Menambahkan item baru.
 public void AddItem(string item)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | item | String | Item yang akan ditambahkan ke daftar item. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpArray](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmparray/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

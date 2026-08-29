@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.BitsPerPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. Mendapat bit per piksel.
+title: "PixelDataFormat.BitsPerPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat property. Mendapatkan bit per piksel."
 type: docs
 weight: 300
 url: /id/net/aspose.psd/pixeldataformat/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.BitsPerPixel property
 
-Mendapat bit per piksel.
+Mendapatkan bit per piksel.
 
 ```csharp
 public int BitsPerPixel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Bit per piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

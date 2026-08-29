@@ -1,39 +1,40 @@
 ---
-title: TiffStreamReader.ReadRationalArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Membaca larik nilai rasional dari aliran.
+title: "TiffStreamReader.ReadRationalArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca array nilai rasional dari aliran"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadRationalArray method
 
-Membaca larik nilai rasional dari aliran.
+Membaca sebuah array nilai rasional dari aliran.
 
 ```csharp
 public TiffRational[] ReadRationalArray(long position, long count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
-| count | Int64 | Elemen dihitung. |
+| posisi | Int64 | Posisi untuk membaca dari. |
+| jumlah | Int64 | Jumlah elemen. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Susunan nilai rasional.
+Array nilai rasional.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | count;Diharapkan angka positif. |
+| ArgumentOutOfRangeException | count;Mengharapkan angka positif. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

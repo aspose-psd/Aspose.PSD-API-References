@@ -1,14 +1,15 @@
 ---
-title: Struct Rectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Rectangle struct. Menyimpan sekumpulan empat bilangan bulat yang mewakili lokasi dan ukuran persegi panjang.
+title: "Struktur Rectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Struktur Aspose.PSD.Rectangle. Menyimpan sekumpulan empat integer yang mewakili lokasi dan ukuran sebuah persegi panjang."
 type: docs
-weight: 5340
+weight: 5840
 url: /id/net/aspose.psd/rectangle/
 ---
+{{< psd/tize >}}
 ## Rectangle structure
 
-Menyimpan sekumpulan empat bilangan bulat yang mewakili lokasi dan ukuran persegi panjang.
+Menyimpan sekumpulan empat integer yang mewakili lokasi dan ukuran sebuah persegi panjang.
 
 ```csharp
 public struct Rectangle
@@ -16,59 +17,59 @@ public struct Rectangle
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Rectangle](rectangle/#constructor)(Point, Size) | Menginisialisasi instance baru dari`Rectangle` struktur dengan lokasi dan ukuran yang ditentukan. |
-| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | Menginisialisasi instance baru dari`Rectangle` struktur dengan lokasi dan ukuran yang ditentukan. |
+| [Rectangle](rectangle/#constructor)(Point, Size) | Menginisialisasi instance baru dari struktur `Rectangle` dengan lokasi dan ukuran yang ditentukan. |
+| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | Menginisialisasi instance baru dari struktur `Rectangle` dengan lokasi dan ukuran yang ditentukan. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | Mendapat instance baru dari`Rectangle` struktur yang dimiliki[`X`](./x/) ,[`Y`](./y/) ,[`Width`](./width/) Dan[`Height`](./height/) nilai disetel ke nol. |
-| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | Mendapat atau menetapkan koordinat y yang merupakan jumlah dari[`Y`](./y/) Dan[`Height`](./height/) nilai properti ini`Rectangle`struktur. |
-| [Height](../../aspose.psd/rectangle/height/) { get; set; } | Mendapat atau mengatur ketinggian ini`Rectangle`struktur. |
-| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | Mendapat nilai yang menunjukkan apakah semua properti numerik ini`Rectangle` memiliki nilai nol. |
-| [Left](../../aspose.psd/rectangle/left/) { get; set; } | Mendapat atau menetapkan koordinat x dari tepi kiri ini`Rectangle`struktur. |
-| [Location](../../aspose.psd/rectangle/location/) { get; set; } | Mendapat atau menetapkan koordinat sudut kiri atas ini`Rectangle`struktur. |
-| [Right](../../aspose.psd/rectangle/right/) { get; set; } | Mendapat atau menetapkan koordinat x yang merupakan jumlah dari[`X`](./x/) Dan[`Width`](./width/) nilai properti ini`Rectangle`struktur. |
-| [Size](../../aspose.psd/rectangle/size/) { get; set; } | Mendapat atau menyetel ukuran ini`Rectangle` . |
-| [Top](../../aspose.psd/rectangle/top/) { get; set; } | Mendapat atau menetapkan koordinat y dari tepi atas ini`Rectangle`struktur. |
-| [Width](../../aspose.psd/rectangle/width/) { get; set; } | Mendapat atau mengatur lebar ini`Rectangle`struktur. |
-| [X](../../aspose.psd/rectangle/x/) { get; set; } | Mendapat atau menyetel koordinat x sudut kiri atas ini`Rectangle`struktur. |
-| [Y](../../aspose.psd/rectangle/y/) { get; set; } | Mendapat atau menetapkan koordinat y dari sudut kiri atas ini`Rectangle`struktur. |
+| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | Mendapatkan instance baru dari struktur `Rectangle` yang memiliki nilai [`X`](./x/), [`Y`](./y/), [`Width`](./width/) dan [`Height`](./height/) disetel ke nol. |
+| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | Mendapatkan atau mengatur koordinat y yang merupakan jumlah nilai properti [`Y`](./y/) dan [`Height`](./height/) dari struktur `Rectangle` ini. |
+| [Height](../../aspose.psd/rectangle/height/) { get; set; } | Mendapatkan atau mengatur tinggi dari struktur `Rectangle` ini. |
+| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | Mendapatkan nilai yang menunjukkan apakah semua properti numerik dari `Rectangle` ini memiliki nilai nol. |
+| [Left](../../aspose.psd/rectangle/left/) { get; set; } | Mendapatkan atau mengatur koordinat x dari tepi kiri struktur `Rectangle` ini. |
+| [Location](../../aspose.psd/rectangle/location/) { get; set; } | Mendapatkan atau mengatur koordinat sudut kiri atas dari struktur `Rectangle` ini. |
+| [Right](../../aspose.psd/rectangle/right/) { get; set; } | Mendapatkan atau mengatur koordinat x yang merupakan jumlah nilai properti [`X`](./x/) dan [`Width`](./width/) dari struktur `Rectangle` ini. |
+| [Size](../../aspose.psd/rectangle/size/) { get; set; } | Mendapatkan atau mengatur ukuran dari `Rectangle` ini. |
+| [Top](../../aspose.psd/rectangle/top/) { get; set; } | Mendapatkan atau mengatur koordinat y dari tepi atas struktur `Rectangle` ini. |
+| [Width](../../aspose.psd/rectangle/width/) { get; set; } | Mendapatkan atau mengatur lebar struktur `Rectangle` ini. |
+| [X](../../aspose.psd/rectangle/x/) { get; set; } | Mendapatkan atau mengatur koordinat x dari sudut kiri atas struktur `Rectangle` ini. |
+| [Y](../../aspose.psd/rectangle/y/) { get; set; } | Mendapatkan atau mengatur koordinat y dari sudut kiri atas struktur `Rectangle` ini. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | Mengonversi yang ditentukan[`RectangleF`](../rectanglef/) struktur ke a`Rectangle` struktur dengan membulatkan[`RectangleF`](../rectanglef/) nilai ke nilai integer berikutnya yang lebih tinggi. |
-| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | Membuat a`Rectangle` struktur dengan lokasi tepi yang ditentukan. |
-| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | Membuat yang baru`Rectangle` dari dua titik yang ditentukan. Dua vertikal dari yang dibuat`Rectangle` akan sama dengan lulus*point1* Dan*point2* . Ini biasanya adalah simpul yang berlawanan. |
-| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | Membuat dan mengembalikan salinan yang digelembungkan dari yang ditentukan`Rectangle`struktur. Salinan digelembungkan dengan jumlah yang ditentukan. Asli`Rectangle` struktur tetap tidak dimodifikasi. |
-| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | Mengembalikan sepertiga`Rectangle` struktur yang mewakili persimpangan dua lainnya`Rectangle` struktur. Jika tidak ada persimpangan, kosong`Rectangle` dikembalikan. |
-| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | Mengonversi yang ditentukan[`RectangleF`](../rectanglef/) ke a`Rectangle` dengan membulatkan[`RectangleF`](../rectanglef/) nilai ke nilai bilangan bulat terdekat. |
-| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | Mengonversi yang ditentukan[`RectangleF`](../rectanglef/) ke a`Rectangle` dengan memotong[`RectangleF`](../rectanglef/) nilai. |
-| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | Mendapat a`Rectangle` struktur yang mengandung penyatuan dua`Rectangle` struktur. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | Menentukan apakah titik yang ditentukan terkandung di dalamnya`Rectangle`struktur. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | Menentukan apakah wilayah persegi panjang diwakili oleh*rect* sepenuhnya terkandung dalam ini`Rectangle`struktur. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | Menentukan apakah titik yang ditentukan terkandung di dalamnya`Rectangle`struktur. |
-| override [Equals](../../aspose.psd/rectangle/equals/)(object) | Menguji apakah*obj* adalah`Rectangle`struktur dengan lokasi dan ukuran yang sama ini`Rectangle`struktur. |
-| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | Mengembalikan kode hash untuk ini`Rectangle`struktur. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | Mengembang ini`Rectangle`dengan jumlah yang ditentukan. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | Mengembang ini`Rectangle`dengan jumlah yang ditentukan. |
-| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | Menggantikan ini`Rectangle` dengan perpotongan dirinya dan yang ditentukan`Rectangle` . |
-| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | Menentukan apakah persegi panjang ini berpotongan dengan*rect* . |
-| [Normalize](../../aspose.psd/rectangle/normalize/)() | Menormalkan persegi panjang dengan menjadikan lebar dan tingginya positif, kiri lebih kecil dari kanan dan atas lebih kecil dari bawah. |
-| [Offset](../../aspose.psd/rectangle/offset/#offset)(Point) | Menyesuaikan lokasi persegi panjang ini dengan jumlah yang ditentukan. |
-| [Offset](../../aspose.psd/rectangle/offset/#offset_1)(int, int) | Menyesuaikan lokasi persegi panjang ini dengan jumlah yang ditentukan. |
-| override [ToString](../../aspose.psd/rectangle/tostring/)() | Mengubah atribut ini`Rectangle` ke string yang dapat dibaca manusia. |
-| [operator ==](../../aspose.psd/rectangle/op_equality/) | Menguji apakah dua`Rectangle` struktur memiliki lokasi dan ukuran yang sama. |
-| [operator !=](../../aspose.psd/rectangle/op_inequality/) | Menguji apakah dua`Rectangle` struktur berbeda dalam lokasi atau ukuran. |
+| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | Mengonversi struktur [`RectangleF`](../rectanglef/) yang ditentukan menjadi struktur `Rectangle` dengan membulatkan nilai [`RectangleF`](../rectanglef/) ke nilai integer berikutnya yang lebih tinggi. |
+| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | Membuat struktur `Rectangle` dengan lokasi tepi yang ditentukan. |
+| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | Membuat `Rectangle` baru dari dua titik yang ditentukan. Dua sisi vertikal dari `Rectangle` yang dibuat akan sama dengan *point1* dan *point2* yang diberikan. Ini biasanya merupakan titik-titik berlawanan. |
+| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | Membuat dan mengembalikan salinan `Rectangle` yang diperbesar dari struktur `Rectangle` yang ditentukan. Salinan tersebut diperbesar sebesar jumlah yang ditentukan. Struktur `Rectangle` asli tetap tidak berubah. |
+| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | Mengembalikan struktur `Rectangle` ketiga yang mewakili irisan dari dua struktur `Rectangle` lainnya. Jika tidak ada irisan, `Rectangle` kosong dikembalikan. |
+| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | Mengonversi [`RectangleF`](../rectanglef/) yang ditentukan menjadi `Rectangle` dengan membulatkan nilai [`RectangleF`](../rectanglef/) ke nilai integer terdekat. |
+| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | Mengonversi [`RectangleF`](../rectanglef/) yang ditentukan menjadi `Rectangle` dengan memotong nilai [`RectangleF`](../rectanglef/). |
+| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | Mendapatkan struktur `Rectangle` yang berisi gabungan dua struktur `Rectangle`. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | Menentukan apakah titik yang ditentukan berada di dalam struktur `Rectangle` ini. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | Menentukan apakah wilayah persegi panjang yang direpresentasikan oleh *rect* sepenuhnya berada di dalam struktur `Rectangle` ini. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | Menentukan apakah titik yang ditentukan berada di dalam struktur `Rectangle` ini. |
+| override [Equals](../../aspose.psd/rectangle/equals/)(object) | Menguji apakah *obj* adalah struktur `Rectangle` dengan lokasi dan ukuran yang sama dengan struktur `Rectangle` ini. |
+| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | Mengembalikan kode hash untuk struktur `Rectangle` ini. |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | Memperbesar `Rectangle` ini sebesar jumlah yang ditentukan. |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | Memperbesar `Rectangle` ini sebesar jumlah yang ditentukan. |
+| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | Mengganti `Rectangle` ini dengan irisan antara dirinya sendiri dan `Rectangle` yang ditentukan. |
+| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | Menentukan apakah rectangle ini beririsan dengan *rect*. |
+| [Normalize](../../aspose.psd/rectangle/normalize/)() | Menormalkan rectangle dengan membuat lebar dan tinggi menjadi positif, kiri lebih kecil dari kanan, dan atas lebih kecil dari bawah. |
+| [Offset](../../aspose.psd/rectangle/offset/#offset)(Point) | Menyesuaikan lokasi persegi panjang ini sebesar jumlah yang ditentukan. |
+| [Offset](../../aspose.psd/rectangle/offset/#offset_1)(int, int) | Menyesuaikan lokasi persegi panjang ini sebesar jumlah yang ditentukan. |
+| override [ToString](../../aspose.psd/rectangle/tostring/)() | Mengonversi atribut `Rectangle` ini menjadi string yang dapat dibaca manusia. |
+| [operator ==](../../aspose.psd/rectangle/op_equality/) | Menguji apakah dua struktur `Rectangle` memiliki lokasi dan ukuran yang sama. |
+| [operator !=](../../aspose.psd/rectangle/op_inequality/) | Menguji apakah dua struktur `Rectangle` berbeda dalam lokasi atau ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.CompressionRatios
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Jpeg2000Options Properti. Mendapat atau menyetel rasio kompresi Array. Rasio kompresi yang berbeda untuk lapisan yang berurutan. Kecepatan yang ditentukan untuk setiap tingkat kualitas adalah faktor kompresi yang diinginkan. Diperlukan rasio penurunan.
+title: "Jpeg2000Options.CompressionRatios"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Jpeg2000Options. Mendapatkan atau mengatur Array rasio kompresi. Rasio kompresi yang berbeda untuk lapisan berturut-turut. Tingkat yang ditentukan untuk setiap level kualitas adalah faktor kompresi yang diinginkan. Rasio yang menurun diperlukan."
 type: docs
 weight: 40
 url: /id/net/aspose.psd.imageoptions/jpeg2000options/compressionratios/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.CompressionRatios property
 
-Mendapat atau menyetel rasio kompresi Array. Rasio kompresi yang berbeda untuk lapisan yang berurutan. Kecepatan yang ditentukan untuk setiap tingkat kualitas adalah faktor kompresi yang diinginkan. Diperlukan rasio penurunan.
+Mendapatkan atau mengatur array rasio kompresi. Rasio kompresi yang berbeda untuk lapisan berturut-turut. Tingkat yang ditentukan untuk setiap tingkat kualitas adalah faktor kompresi yang diinginkan. Rasio yang menurun diperlukan.
 
 ```csharp
 public int[] CompressionRatios { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Rasio kompresi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Jpeg2000Options](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

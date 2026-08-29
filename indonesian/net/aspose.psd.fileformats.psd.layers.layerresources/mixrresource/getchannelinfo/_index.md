@@ -1,11 +1,12 @@
 ---
-title: MixrResource.GetChannelInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MixrResource metode. Mendapatkan data mentah informasi saluran
+title: "MixrResource.GetChannelInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode MixrResource. Mendapatkan data mentah informasi saluran"
 type: docs
-weight: 70
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.GetChannelInfo method
 
 Mendapatkan data mentah informasi saluran
@@ -14,11 +15,11 @@ Mendapatkan data mentah informasi saluran
 public byte[] GetChannelInfo(int channelIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Array byte mentah dari info saluran.
 
@@ -26,12 +27,12 @@ Array byte mentah dari info saluran.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Sumber daya Mixr tidak lebih dari 4 saluran. Indeks saluran Pertama adalah 0 |
+| ArgumentException | Sumber Mixr tidak memiliki lebih dari 4 saluran. Indeks saluran pertama adalah 0 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

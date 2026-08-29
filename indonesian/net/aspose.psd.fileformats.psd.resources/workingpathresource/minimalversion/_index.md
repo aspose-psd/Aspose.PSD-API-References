@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: WorkingPathResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "WorkingPathResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti WorkingPathResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [WorkingPathResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

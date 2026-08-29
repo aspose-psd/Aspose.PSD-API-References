@@ -1,31 +1,32 @@
 ---
-title: ColorBlend.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBlend metode. Menguji apakah objek yang ditentukan adalah aColorBlend kelas dan setara dengan iniColorBlend kelas.
+title: "ColorBlend.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorBlend. Menguji apakah objek yang ditentukan adalah kelas ColorBlend dan setara dengan kelas ColorBlend ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/colorblend/equals/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Equals method
 
-Menguji apakah objek yang ditentukan adalah a[`ColorBlend`](../) kelas dan setara dengan ini[`ColorBlend`](../) kelas.
+Menguji apakah objek yang ditentukan adalah kelas [`ColorBlend`](../) dan setara dengan kelas [`ColorBlend`](../) ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | obj | Object | Objek yang akan diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika*obj* adalah[`ColorBlend`](../) kelas setara dengan ini[`ColorBlend`](../) kelas; jika tidak, salah.
+Benar jika *obj* adalah kelas [`ColorBlend`](../) yang setara dengan kelas [`ColorBlend`](../) ini; jika tidak, salah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBlend](../)
-* ruang nama [Aspose.PSD](../../colorblend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

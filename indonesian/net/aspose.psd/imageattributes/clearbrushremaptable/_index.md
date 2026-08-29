@@ -1,23 +1,24 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Menghapus tabel remap warna kuas iniImageAttributes objek.
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menghapus tabel brush colorremap dari objek ImageAttributes ini"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-Menghapus tabel remap warna kuas ini[`ImageAttributes`](../) objek.
+Menghapus tabel brush color-remap dari objek [`ImageAttributes`](../) ini.
 
 ```csharp
 public void ClearBrushRemapTable()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

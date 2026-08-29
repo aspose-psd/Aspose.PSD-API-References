@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Mengatur kategori.
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhotoshopPackage. Menetapkan kategori"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
 Mengatur kategori.
@@ -14,7 +15,7 @@ Mengatur kategori.
 public void SetCategory(string category)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | category | String | Kategori. |
 
@@ -22,12 +23,12 @@ public void SetCategory(string category)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | kategori;Kategori dibatasi hingga 3 karakter |
+| ArgumentOutOfRangeException | category;Kategori dibatasi hingga 3 karakter |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

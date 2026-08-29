@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.IsMonochromatic
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AddNoiseSmartFilter Properti. Mendapat atau menetapkan nilai monokromatik.
+title: "AddNoiseSmartFilter.IsMonochromatic"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AddNoiseSmartFilter properti. Mendapatkan atau mengatur nilai monokromatik"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.IsMonochromatic property
 
-Mendapat atau menetapkan nilai monokromatik.
+Mendapatkan atau mengatur nilai monokromatik.
 
 ```csharp
 public bool IsMonochromatic { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AddNoiseSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

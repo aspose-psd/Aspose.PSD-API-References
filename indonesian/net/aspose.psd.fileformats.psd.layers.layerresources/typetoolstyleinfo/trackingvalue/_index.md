@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.TrackingValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolStyleInfo Properti. Mendapat atau menyetel nilai pelacakan.
+title: "TypeToolStyleInfo.TrackingValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolStyleInfo. Mendapatkan atau mengatur nilai tracking"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.TrackingValue property
 
-Mendapat atau menyetel nilai pelacakan.
+Mendapatkan atau mengatur nilai pelacakan.
 
 ```csharp
 public int TrackingValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai pelacakan.
+Nilai tracking.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolStyleInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

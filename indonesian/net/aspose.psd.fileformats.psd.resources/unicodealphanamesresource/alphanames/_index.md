@@ -1,27 +1,28 @@
 ---
-title: UnicodeAlphaNamesResource.AlphaNames
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnicodeAlphaNamesResource Properti. Mendapat atau menyetel nama alfa.
+title: "UnicodeAlphaNamesResource.AlphaNames"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "UnicodeAlphaNamesResource properti. Mendapatkan atau mengatur nama alfa"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.AlphaNames property
 
-Mendapat atau menyetel nama alfa.
+Mendapatkan atau mengatur nama alfa.
 
 ```csharp
 public string AlphaNames { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama alfa.
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnicodeAlphaNamesResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

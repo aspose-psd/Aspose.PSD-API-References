@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.RemoveFigures
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Menghapus angka.
+title: "GraphicsPath.RemoveFigures"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Menghapus figur."
 type: docs
 weight: 140
 url: /id/net/aspose.psd/graphicspath/removefigures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigures method
 
-Menghapus angka.
+Menghapus figur-figur.
 
 ```csharp
 public void RemoveFigures(Figure[] figures)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| figures | Figure[] | Angka-angka untuk menghapus. |
+| figur | Figure[] | Figur yang akan dihapus. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

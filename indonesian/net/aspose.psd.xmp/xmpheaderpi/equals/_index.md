@@ -1,55 +1,56 @@
 ---
-title: XmpHeaderPi.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpHeaderPi metode. Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama.
+title: "XmpHeaderPi.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpHeaderPi. Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/xmpheaderpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpHeaderPi) {#equals}
 
-Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama.
+Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama.
 
 ```csharp
 public bool Equals(XmpHeaderPi other)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | other | XmpHeaderPi | Objek untuk dibandingkan dengan objek ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-true jika objek saat ini sama dengan*other* parameter; jika tidak, false.
+true jika objek saat ini sama dengan parameter *other*; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpHeaderPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Menentukan apakah yang ditentukanObject , sama dengan instance ini.
+Menentukan apakah Object yang ditentukan, sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpHeaderPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

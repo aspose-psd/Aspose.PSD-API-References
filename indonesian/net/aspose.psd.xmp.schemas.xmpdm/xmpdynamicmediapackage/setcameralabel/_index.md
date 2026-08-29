@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraLabel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur label kamera.
+title: "XmpDynamicMediaPackage.SetCameraLabel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Menetapkan label kamera"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameralabel/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraLabel method
 
 Mengatur label kamera.
@@ -14,14 +15,14 @@ Mengatur label kamera.
 public void SetCameraLabel(string cameraLabel)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | cameraLabel | String | Label kamera. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

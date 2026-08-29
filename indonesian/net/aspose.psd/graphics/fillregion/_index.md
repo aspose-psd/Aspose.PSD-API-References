@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillRegion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Mengisi bagian dalam aRegion .
+title: "Graphics.FillRegion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Mengisi interior sebuah Region."
 type: docs
-weight: 410
+weight: 420
 url: /id/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-Mengisi bagian dalam a[`Region`](../../region/) .
+Mengisi bagian dalam sebuah [`Region`](../../region/).
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
 | region | Region | [`Region`](../../region/) yang mewakili area yang akan diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *region* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *region* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

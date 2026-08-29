@@ -1,27 +1,28 @@
 ---
-title: RasterImage.AdjustContrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Kontras gambar
+title: "RasterImage.AdjustContrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Kontras gambar"
 type: docs
 weight: 190
 url: /id/net/aspose.psd/rasterimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustContrast method
 
-Kontras gambar
+Kontras gambar.
 
 ```csharp
 public virtual void AdjustContrast(float contrast)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| contrast | Single | Nilai kontras (dalam rentang [-100; 100]) |
+| kontras | Single | Nilai kontras (dalam rentang [-100; 100]) |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

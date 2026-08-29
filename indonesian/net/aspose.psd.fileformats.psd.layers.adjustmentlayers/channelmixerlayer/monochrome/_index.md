@@ -1,27 +1,28 @@
 ---
-title: ChannelMixerLayer.Monochrome
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ChannelMixerLayer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniChannelMixerLayer adalah monokrom.
+title: "ChannelMixerLayer.Monochrome"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "properti ChannelMixerLayer. Mendapatkan atau mengatur nilai yang menunjukkan apakah ChannelMixerLayer ini monokrom"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.Monochrome property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`ChannelMixerLayer`](../) adalah monokrom.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`ChannelMixerLayer`](../) ini monokrom.
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika monokrom; jika tidak,`PALSU` .
+`true` jika monokrom; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ChannelMixerLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

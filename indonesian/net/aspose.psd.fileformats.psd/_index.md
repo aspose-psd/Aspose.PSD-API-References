@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.FileFormats.Psd
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama menangani pemrosesan format file Psd.
+title: "Aspose.PSD.FileFormats.Psd"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini menangani pemrosesan format file PSD"
 type: docs
-weight: 200
+weight: 210
 url: /id/net/aspose.psd.fileformats.psd/
 ---
-Ruang nama menangani pemrosesan format file Psd.
+{{< psd/tize >}}
+Namespace ini menangani pemrosesan format file PSD.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
 | [PsdColorPalette](./psdcolorpalette/) | Palet warna PSD. |
-| [PsdImage](./psdimage/) | Menentukan kelas PsdImage yang menyediakan kemampuan untuk memuat, mengedit, menyimpan file PSD serta memperbarui properti, menambahkan tanda air, melakukan operasi grafik, atau mengonversi satu format file ke format lainnya. Aspose.PSD mendukung impor sebagai lapisan dan mengekspor ke format berikut: Png, Jpeg, Jpeg2000, Gif, Bmp, Tiff, Psd, Psb bersama dengan ekspor ke Pdf dengan teks yang dapat dipilih |
+| [PsdImage](./psdimage/) | Menentukan kelas PsdImage yang menyediakan kemampuan untuk memuat, mengedit, menyimpan file PSD serta memperbarui properti, menambahkan watermark, melakukan operasi grafis, atau mengonversi satu format file ke format lain. Aspose.PSD mendukung impor sebagai lapisan dan ekspor ke format berikut: Png, Jpeg, Jpeg2000, Gif, Bmp, Tiff, Psd, Psb serta ekspor ke Pdf dengan teks yang dapat dipilih |
 | [ResourceBlock](./resourceblock/) | Blok sumber daya. |
-| [SmartObjectProvider](./smartobjectprovider/) | Menentukan penyedia objek cerdas yang menyediakan pengambilan/pengaturan sumber data dari sumber tautan global file PSD dan kontennya. |
-## Pencacahan
+| [SmartObjectProvider](./smartobjectprovider/) | Mendefinisikan penyedia objek pintar yang menyediakan pengambilan / penetapan sumber data dari sumber daya tautan global file PSD dan isinya. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [AutoKerning](./autokerning/) | Mode kerning otomatis Photoshop (jarak antar simbol). |
-| [ColorModes](./colormodes/) | Mewakili mode warna format file psd. |
-| [CompressionMethod](./compressionmethod/) | Menentukan metode kompresi yang digunakan untuk data gambar. |
+| [AutoKerning](./autokerning/) | Mode auto kerning Photoshop (jarak antar simbol). |
+| [ColorModes](./colormodes/) | Mewakili mode warna format file PSD. |
+| [CompressionMethod](./compressionmethod/) | Mendefinisikan metode kompresi yang digunakan untuk data gambar. |
 | [FontBaseline](./fontbaseline/) | Ini adalah garis dasar font. |
 | [FontCaps](./fontcaps/) | Ini adalah garis dasar font. |
 | [JustificationMode](./justificationmode/) | Mode perataan teks. |
-| [LeadingType](./leadingtype/) | Photoshop leading type (tipe jarak antar garis). |
-| [PsdVersion](./psdversion/) | Format file versi |
+| [LeadingType](./leadingtype/) | Tipe leading Photoshop (tipe jarak antar baris). |
+| [PsdVersion](./psdversion/) | Versi format file |
 | [TextOrientation](./textorientation/) | Enumerasi untuk mode orientasi teks. |
 
 

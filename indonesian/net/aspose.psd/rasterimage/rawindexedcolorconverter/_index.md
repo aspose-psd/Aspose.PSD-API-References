@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawIndexedColorConverter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau mengatur konverter warna yang diindeks
+title: "RasterImage.RawIndexedColorConverter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterImage properti. Mendapatkan atau mengatur konverter warna terindeks"
 type: docs
 weight: 110
 url: /id/net/aspose.psd/rasterimage/rawindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawIndexedColorConverter property
 
-Mendapat atau mengatur konverter warna yang diindeks
+Mendapatkan atau mengatur konverter warna terindeks.
 
 ```csharp
 public IIndexedColorConverter RawIndexedColorConverter { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Konverter warna yang diindeks
+Konverter warna terindeks
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

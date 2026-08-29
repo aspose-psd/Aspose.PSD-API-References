@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.ClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menetapkan nama kelas.
+title: "TypeToolInfo6Resource.ClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur nama kelas"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classname/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.ClassName property
 
-Mendapat atau menetapkan nama kelas.
+Mendapatkan atau mengatur nama kelas.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kelas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

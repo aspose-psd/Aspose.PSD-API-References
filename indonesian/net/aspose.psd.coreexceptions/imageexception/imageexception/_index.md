@@ -1,48 +1,49 @@
 ---
-title: ImageException.ImageException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageException konstruktor. Menginisialisasi instance baru dariImageException kelas.
+title: "ImageException.ImageException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ImageException. Menginisialisasi instance baru dari kelas ImageException"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions/imageexception/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`ImageException`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ImageException`](../).
 
 ```csharp
 public ImageException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../imageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ImageException`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ImageException`](../).
 
 ```csharp
 public ImageException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../imageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

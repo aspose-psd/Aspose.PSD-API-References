@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.IndexOf
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList metode. Menentukan indeks item tertentu diIList .
+title: "NonGenericList.IndexOf"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode NonGenericList. Menentukan indeks dari item tertentu dalam IList"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/nongenericlist/indexof/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IndexOf method
 
-Menentukan indeks item tertentu diIList .
+Menentukan indeks dari item tertentu dalam IList.
 
 ```csharp
 public int IndexOf(object value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Object | ItuObjectuntuk menemukan diIList. |
+| nilai | Object | Objek yang akan dicari dalam IList. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Indeks dari*value* jika ditemukan dalam daftar; jika tidak, -1.
+Indeks dari *value* jika ditemukan dalam daftar; jika tidak, -1.
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

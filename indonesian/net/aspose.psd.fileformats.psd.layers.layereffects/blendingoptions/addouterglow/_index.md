@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendingOptions metode. Menambahkan efek cahaya luar.
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode BlendingOptions. Menambahkan efek cahaya luar"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
 Menambahkan efek cahaya luar.
@@ -14,11 +15,11 @@ Menambahkan efek cahaya luar.
 public OuterGlowEffect AddOuterGlow()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`OuterGlowEffect`](../../outergloweffect/) objek
+Membuat objek [`OuterGlowEffect`](../../outergloweffect/)
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan OuterGlowEffect.
 
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

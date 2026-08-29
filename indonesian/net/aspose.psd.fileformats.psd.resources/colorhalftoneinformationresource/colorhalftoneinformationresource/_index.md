@@ -1,11 +1,12 @@
 ---
-title: ColorHalftoneInformationResource.ColorHalftoneInformationResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorHalftoneInformationResource konstruktor. Konstruktor default.
+title: "ColorHalftoneInformationResource.ColorHalftoneInformationResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ColorHalftoneInformationResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/colorhalftoneinformationresource/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public ColorHalftoneInformationResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorHalftoneInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

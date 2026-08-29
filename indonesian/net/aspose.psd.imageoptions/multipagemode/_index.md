@@ -1,14 +1,15 @@
 ---
-title: Enum MultiPageMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.MultiPageMode enum. Mewakili mode multi halaman
+title: "Enum MultiPageMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ImageOptions.MultiPageMode. Mewakili mode multipage"
 type: docs
-weight: 4850
+weight: 5340
 url: /id/net/aspose.psd.imageoptions/multipagemode/
 ---
+{{< psd/tize >}}
 ## MultiPageMode enumeration
 
-Mewakili mode multi halaman
+Mewakili mode multipage
 
 ```csharp
 public enum MultiPageMode
@@ -16,16 +17,16 @@ public enum MultiPageMode
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Pages | `0` | Indeks halaman terpakai |
-| Titles | `1` | Judul halaman bekas |
+| Pages | `0` | Indeks halaman yang digunakan |
+| Titles | `1` | Judul halaman yang digunakan |
 | Range | `2` | Rentang halaman yang digunakan |
-| AllPages | `3` | Menggunakan semua halaman |
+| AllPages | `3` | Semua halaman yang digunakan |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantCmyk Properti. Mendapat atau menetapkan nilai komponen cyan.
+title: "ColorantCmyk.Cyan"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantCmyk. Mendapatkan atau mengatur nilai komponen cyan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
-Mendapat atau menetapkan nilai komponen cyan.
+Mendapatkan atau mengatur nilai komponen cyan.
 
 ```csharp
 public float Cyan { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai komponen cyan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantCmyk](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

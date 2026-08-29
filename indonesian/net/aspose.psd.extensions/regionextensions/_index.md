@@ -1,14 +1,15 @@
 ---
-title: Class RegionExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.RegionExtensions kelas. Berisi metode ekstensi untukRegion kelas.
+title: "Kelas RegionExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.RegionExtensions. Berisi metode ekstensi untuk kelas Region"
 type: docs
-weight: 1170
+weight: 1180
 url: /id/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-Berisi metode ekstensi untuk[`Region`](../../aspose.psd/region/) kelas.
+Berisi metode ekstensi untuk kelas [`Region`](../../aspose.psd/region/).
 
 ```csharp
 public static class RegionExtensions
@@ -16,13 +17,13 @@ public static class RegionExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Mengubah[`Region`](../../aspose.psd/region/) keRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Mengonversi [`Region`](../../aspose.psd/region/) menjadi Region. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: PixelDataFormat.op_Equality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat metode. Mengembalikan hasil persamaan untuk duaPixelDataFormat kelas.
+title: "PixelDataFormat.op_Equality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PixelDataFormat. Mengembalikan hasil kesetaraan untuk dua kelas PixelDataFormat."
 type: docs
 weight: 380
 url: /id/net/aspose.psd/pixeldataformat/op_equality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Equality operator
 
-Mengembalikan hasil persamaan untuk dua[`PixelDataFormat`](../) kelas.
+Mengembalikan hasil kesetaraan untuk dua kelas [`PixelDataFormat`](../).
 
 ```csharp
 public static bool operator ==(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | Pertama[`PixelDataFormat`](../) untuk membandingkan. |
-| pixelFormat2 | PixelDataFormat | Kedua[`PixelDataFormat`](../) untuk membandingkan. |
+| pixelFormat1 | PixelDataFormat | [`PixelDataFormat`](../) pertama untuk dibandingkan. |
+| pixelFormat2 | PixelDataFormat | [`PixelDataFormat`](../) kedua untuk dibandingkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika keduanya*pixelFormat1* Dan*pixelFormat2* berisi data yang sama atau kedua parameter adalah nol.
+Benar jika *pixelFormat1* dan *pixelFormat2* keduanya berisi data yang sama atau kedua parameter bernilai null.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

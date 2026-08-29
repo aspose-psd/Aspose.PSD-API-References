@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.StartPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IOrderedShape Properti. Mendapatkan titik bentuk awal.
+title: "IOrderedShape.StartPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IOrderedShape properti. Mendapatkan titik awal bentuk"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/iorderedshape/startpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.StartPoint property
 
-Mendapatkan titik bentuk awal.
+Mendapatkan titik awal bentuk.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik bentuk awal.
+Titik awal bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* ruang nama [Aspose.PSD](../../iorderedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

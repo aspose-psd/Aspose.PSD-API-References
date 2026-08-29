@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Tags
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel tag.
+title: "TiffOptions.Tags"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur tag"
 type: docs
-weight: 490
+weight: 500
 url: /id/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
-Mendapat atau menyetel tag.
+Mendapatkan atau mengatur tag.
 
 ```csharp
 public TiffDataType[] Tags { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tag.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo kelas. Ketik info baris alat.
+title: "Kelas TypeToolLineInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo. Informasi baris alat tipe"
 type: docs
-weight: 3310
+weight: 3700
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-Ketik info baris alat.
+Info baris alat tipe.
 
 ```csharp
 public class TypeToolLineInfo
@@ -16,25 +17,25 @@ public class TypeToolLineInfo
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [TypeToolLineInfo](typetoollineinfo/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Mendapat atau menyetel karakter. |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Mendapatkan atau mengatur karakter. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Menyimpan`TypeToolLineInfo` informasi ke wadah aliran yang ditentukan. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Menyimpan informasi `TypeToolLineInfo` ke kontainer aliran yang ditentukan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

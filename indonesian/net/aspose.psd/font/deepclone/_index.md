@@ -1,27 +1,28 @@
 ---
-title: Font.DeepClone
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font metode. Membuat salinan mendalam yang tepat dari iniFont .
+title: "Font.DeepClone"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Font. Membuat salinan dalam yang tepat dari Font ini."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/font/deepclone/
 ---
+{{< psd/tize >}}
 ## Font.DeepClone method
 
-Membuat salinan mendalam yang tepat dari ini[`Font`](../) .
+Membuat salinan dalam yang tepat dari [`Font`](../) ini.
 
 ```csharp
 public Font DeepClone()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Font`](../) metode ini menciptakan.
+[`Font`](../) yang dibuat oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

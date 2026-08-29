@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingTop
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataFull Properti. Mendapat atau menyetel posisi atas penutup raster mask di lapisan gambar PSD.
+title: "LayerMaskDataFull.EnclosingTop"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskDataFull. Mendapatkan atau mengatur posisi atas pembungkus raster mask dalam lapisan gambar PSD"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingtop/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingTop property
 
-Mendapat atau menyetel posisi atas penutup raster mask di lapisan gambar PSD.
+Mendapatkan atau mengatur posisi atas raster mask yang melingkupi dalam lapisan gambar PSD.
 
 ```csharp
 public int EnclosingTop { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Posisi layer mask atas.
+Posisi mask lapisan atas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskDataFull](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Thumbnail
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas yang merupakan gambar mini untuk sebuah file.
+title: "Aspose.PSD.Xmp.Types.Complex.Thumbnail"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi kelas yang merupakan gambar thumbnail untuk sebuah file"
 type: docs
-weight: 680
+weight: 720
 url: /id/net/aspose.psd.xmp.types.complex.thumbnail/
 ---
-Ruang nama berisi kelas yang merupakan gambar mini untuk sebuah file.
+{{< psd/tize >}}
+Namespace berisi kelas yang merupakan gambar miniatur untuk sebuah berkas.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [Thumbnail](./thumbnail/) | Merupakan gambar thumbnail untuk file. |
+| [Thumbnail](./thumbnail/) | Mewakili gambar thumbnail untuk sebuah file. |
 
 

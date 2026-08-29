@@ -1,23 +1,24 @@
 ---
-title: GraphicsPath.Reset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Mengosongkan jalur grafik dan menyetelFillMode keAlternate .
+title: "GraphicsPath.Reset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Mengosongkan jalur grafis dan mengatur FillMode ke Alternate."
 type: docs
 weight: 150
 url: /id/net/aspose.psd/graphicspath/reset/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reset method
 
-Mengosongkan jalur grafik dan menyetel[`FillMode`](../../fillmode/) keAlternate .
+Mengosongkan jalur grafis dan mengatur [`FillMode`](../../fillmode/) ke Alternate.
 
 ```csharp
 public void Reset()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

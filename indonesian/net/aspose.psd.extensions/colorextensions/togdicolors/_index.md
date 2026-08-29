@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorExtensions metode. MengubahColor larik keColor larik.
+title: "ColorExtensions.ToGdiColors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorExtensions. Mengonversi array Color menjadi array Color"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColors method
 
-Mengubah[`Color`](../../../aspose.psd/color/) larik keColor larik.
+Mengonversi array [`Color`](../../../aspose.psd/color/) menjadi array Color.
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| colors | Color[] | Itu[`Color`](../../../aspose.psd/color/) larik untuk dikonversi. |
+| colors | Color[] | Array[`Color`](../../../aspose.psd/color/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiColor Himpunan.
+Array Color yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../colorextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

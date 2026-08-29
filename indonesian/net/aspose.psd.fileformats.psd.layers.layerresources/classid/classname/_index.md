@@ -1,27 +1,28 @@
 ---
-title: ClassID.ClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClassID Properti. Mendapat nama kelas sebagai penyandian ASCII.
+title: "ClassID.ClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ClassID. Mendapatkan nama kelas dalam enkoding ASCII"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 ---
+{{< psd/tize >}}
 ## ClassID.ClassName property
 
-Mendapat nama kelas sebagai penyandian ASCII.
+Mendapatkan nama kelas dalam enkoding ASCII.
 
 ```csharp
 public string ClassName { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kelas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

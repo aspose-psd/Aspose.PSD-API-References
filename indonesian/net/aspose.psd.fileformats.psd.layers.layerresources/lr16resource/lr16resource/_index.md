@@ -1,11 +1,12 @@
 ---
-title: Lr16Resource.Lr16Resource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr16Resource konstruktor. Konstruktor default.
+title: "Lr16Resource.Lr16Resource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Lr16Resource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/lr16resource/
 ---
+{{< psd/tize >}}
 ## Lr16Resource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public Lr16Resource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lr16Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

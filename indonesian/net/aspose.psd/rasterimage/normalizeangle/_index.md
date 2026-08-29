@@ -1,45 +1,46 @@
 ---
-title: RasterImage.NormalizeAngle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Menormalkan sudut. Metode ini berlaku untuk dokumen teks yang dipindai untuk menghilangkan pindaian miring. Metode ini menggunakanGetSkewAngle DanRotate metode.
+title: "RasterImage.NormalizeAngle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Menormalkan sudut. Metode ini berlaku untuk dokumen teks yang dipindai untuk menghilangkan pemindaian miring. Metode ini menggunakan metode GetSkewAngle dan Rotate."
 type: docs
-weight: 420
+weight: 430
 url: /id/net/aspose.psd/rasterimage/normalizeangle/
 ---
+{{< psd/tize >}}
 ## NormalizeAngle() {#normalizeangle}
 
-Menormalkan sudut. Metode ini berlaku untuk dokumen teks yang dipindai untuk menghilangkan pindaian miring. Metode ini menggunakan[`GetSkewAngle`](../getskewangle/) Dan[`Rotate`](../rotate/) metode.
+Menormalkan sudut. Metode ini berlaku untuk dokumen teks yang dipindai untuk menghilangkan pemindaian miring. Metode ini menggunakan metode [`GetSkewAngle`](../getskewangle/) dan [`Rotate`](../rotate/).
 
 ```csharp
 public void NormalizeAngle()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-Menormalkan sudut. Metode ini berlaku untuk dokumen teks yang dipindai untuk menghilangkan pindaian miring. Metode ini menggunakan[`GetSkewAngle`](../getskewangle/) Dan[`Rotate`](../rotate/) metode.
+Menormalkan sudut. Metode ini berlaku untuk dokumen teks yang dipindai untuk menghilangkan pemindaian miring. Metode ini menggunakan metode [`GetSkewAngle`](../getskewangle/) dan [`Rotate`](../rotate/).
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| resizeProportionally | Boolean | jika diatur ke`BENAR` Anda akan mengubah ukuran gambar Anda sesuai dengan proyeksi persegi panjang (titik sudut) yang diputar dalam kasus lain yang membuat dimensi tidak tersentuh dan hanya konten gambar internal yang diputar. |
-| backgroundColor | Color | Warna latar belakang. |
+| resizeProportionally | Boolean | jika disetel ke `true` ukuran gambar Anda akan berubah sesuai proyeksi persegi panjang yang diputar (titik sudut); dalam kasus lain dimensi tetap tidak berubah dan hanya konten gambar internal yang diputar. |
+| backgroundColor | Warna | Warna latar belakang. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

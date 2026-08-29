@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Stream
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer Properti. Mendapatkan aliran data.
+title: "StreamContainer.Stream"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StreamContainer. Mendapatkan aliran data"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/streamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Stream property
 
 Mendapatkan aliran data.
@@ -14,14 +15,14 @@ Mendapatkan aliran data.
 public virtual Stream Stream { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Aliran data.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

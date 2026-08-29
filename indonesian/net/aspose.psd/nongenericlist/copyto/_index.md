@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList metode. Menyalin elemen dariICollection ke sebuahArray  mulai dari tertentuArray indeks.
+title: "NonGenericList.CopyTo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode NonGenericList. Menyalin elemen-elemen ICollection ke Array mulai dari indeks Array tertentu."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-Menyalin elemen dariICollection ke sebuahArray , mulai dari tertentuArray indeks.
+Menyalin elemen-elemen ICollection ke sebuah Array, mulai dari indeks Array tertentu.
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| array | Array | Satu dimensiArray itu adalah tujuan dari elemen yang disalinICollection . ItuArray harus memiliki pengindeksan berbasis nol. |
-| index | Int32 | Indeks berbasis nol di*array* di mana penyalinan dimulai. |
+| array | Array | Array satu dimensi yang menjadi tujuan elemen yang disalin dari ICollection. Array harus menggunakan indeks berbasis nol. |
+| index | Int32 | Indeks berbasis nol dalam *array* tempat penyalinan dimulai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

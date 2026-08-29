@@ -1,220 +1,221 @@
 ---
-title: Graphics.DrawCurve
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menggambar spline kardinal melalui array tertentuPointF struktur. Metode ini menggunakan tegangan default 0.5.
+title: "Graphics.DrawCurve"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menggambar spline kardinal melalui array tertentu dari struktur PointF. Metode ini menggunakan ketegangan default sebesar 0,5."
 type: docs
-weight: 200
+weight: 210
 url: /id/net/aspose.psd/graphics/drawcurve/
 ---
+{{< psd/tize >}}
 ## DrawCurve(Pen, PointF[]) {#drawcurve}
 
-Menggambar spline kardinal melalui array tertentu[`PointF`](../../pointf/) struktur. Metode ini menggunakan tegangan default 0.5.
+Menggambar spline kardinal melalui array tertentu dari struktur [`PointF`](../../pointf/). Metode ini menggunakan ketegangan default sebesar 0,5.
 
 ```csharp
 public void DrawCurve(Pen pen, PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan tinggi kurva. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang menentukan spline. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mendefinisikan spline. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawCurve(Pen, PointF[], float) {#drawcurve_3}
 
-Menggambar spline kardinal melalui array tertentu[`PointF`](../../pointf/) struktur menggunakan tegangan tertentu.
+Menggambar spline kardinal melalui array tertentu dari struktur [`PointF`](../../pointf/) menggunakan ketegangan yang ditentukan.
 
 ```csharp
 public void DrawCurve(Pen pen, PointF[] points, float tension)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan tinggi kurva. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang mewakili titik-titik yang menentukan kurva. |
-| tension | Single | Nilai lebih besar dari atau sama dengan 0,0F yang menentukan tegangan kurva. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mewakili titik-titik yang mendefinisikan kurva. |
+| tegangan | Single | Nilai yang lebih besar atau sama dengan 0,0F yang menentukan ketegangan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawCurve(Pen, PointF[], int, int) {#drawcurve_1}
 
-Menggambar spline kardinal melalui array tertentu[`PointF`](../../pointf/) struktur. Gambar dimulai dari awal array. Metode ini menggunakan tegangan default 0.5.
+Menggambar spline kardinal melalui array tertentu dari struktur [`PointF`](../../pointf/). Penggambaran dimulai dengan offset dari awal array. Metode ini menggunakan ketegangan default sebesar 0,5.
 
 ```csharp
 public void DrawCurve(Pen pen, PointF[] points, int offset, int numberOfSegments)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan tinggi kurva. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang menentukan spline. |
-| offset | Int32 | Offset dari elemen pertama dalam larik*points* parameter ke titik awal dalam kurva. |
-| numberOfSegments | Int32 | Jumlah segmen setelah titik awal untuk disertakan dalam kurva. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mendefinisikan spline. |
+| offset | Int32 | Offset dari elemen pertama dalam array parameter *points* ke titik awal pada kurva. |
+| numberOfSegments | Int32 | Jumlah segmen setelah titik awal yang akan dimasukkan ke dalam kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawCurve(Pen, PointF[], int, int, float) {#drawcurve_2}
 
-Menggambar spline kardinal melalui array tertentu[`PointF`](../../pointf/) struktur menggunakan tegangan tertentu. Gambar dimulai dari awal array.
+Menggambar spline kardinal melalui array tertentu dari struktur [`PointF`](../../pointf/) menggunakan ketegangan yang ditentukan. Penggambaran dimulai dengan offset dari awal array.
 
 ```csharp
 public void DrawCurve(Pen pen, PointF[] points, int offset, int numberOfSegments, float tension)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan tinggi kurva. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang menentukan spline. |
-| offset | Int32 | Offset dari elemen pertama dalam larik*points* parameter ke titik awal dalam kurva. |
-| numberOfSegments | Int32 | Jumlah segmen setelah titik awal untuk disertakan dalam kurva. |
-| tension | Single | Nilai lebih besar dari atau sama dengan 0,0F yang menentukan tegangan kurva. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mendefinisikan spline. |
+| offset | Int32 | Offset dari elemen pertama dalam array parameter *points* ke titik awal pada kurva. |
+| numberOfSegments | Int32 | Jumlah segmen setelah titik awal yang akan dimasukkan ke dalam kurva. |
+| tegangan | Single | Nilai yang lebih besar atau sama dengan 0,0F yang menentukan ketegangan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawCurve(Pen, Point[]) {#drawcurve_4}
 
-Menggambar spline kardinal melalui array tertentu[`Point`](../../point/) struktur.
+Menggambar spline kardinal melalui array tertentu dari struktur [`Point`](../../point/).
 
 ```csharp
 public void DrawCurve(Pen pen, Point[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan tinggi kurva. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang menentukan spline. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mendefinisikan spline. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawCurve(Pen, Point[], float) {#drawcurve_6}
 
-Menggambar spline kardinal melalui array tertentu[`Point`](../../point/) struktur menggunakan tegangan tertentu.
+Menggambar spline kardinal melalui array tertentu dari struktur [`Point`](../../point/) menggunakan ketegangan yang ditentukan.
 
 ```csharp
 public void DrawCurve(Pen pen, Point[] points, float tension)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan tinggi kurva. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang menentukan spline. |
-| tension | Single | Nilai lebih besar dari atau sama dengan 0,0F yang menentukan tegangan kurva. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mendefinisikan spline. |
+| tegangan | Single | Nilai yang lebih besar atau sama dengan 0,0F yang menentukan ketegangan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawCurve(Pen, Point[], int, int, float) {#drawcurve_5}
 
-Menggambar spline kardinal melalui array tertentu[`Point`](../../point/) struktur menggunakan tegangan tertentu.
+Menggambar spline kardinal melalui array tertentu dari struktur [`Point`](../../point/) menggunakan ketegangan yang ditentukan.
 
 ```csharp
 public void DrawCurve(Pen pen, Point[] points, int offset, int numberOfSegments, float tension)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan tinggi kurva. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang menentukan spline. |
-| offset | Int32 | Offset dari elemen pertama dalam larik*points* parameter ke titik awal dalam kurva. |
-| numberOfSegments | Int32 | Jumlah segmen setelah titik awal untuk disertakan dalam kurva. |
-| tension | Single | Nilai lebih besar dari atau sama dengan 0,0F yang menentukan tegangan kurva. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mendefinisikan spline. |
+| offset | Int32 | Offset dari elemen pertama dalam array parameter *points* ke titik awal pada kurva. |
+| numberOfSegments | Int32 | Jumlah segmen setelah titik awal yang akan dimasukkan ke dalam kurva. |
+| tegangan | Single | Nilai yang lebih besar atau sama dengan 0,0F yang menentukan ketegangan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

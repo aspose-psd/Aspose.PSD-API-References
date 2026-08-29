@@ -1,28 +1,29 @@
 ---
-title: ArcShape.StartPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ArcShape Properti. Mendapatkan titik bentuk awal.
+title: "ArcShape.StartPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ArcShape property. Mendapatkan titik bentuk awal"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.shapes/arcshape/startpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.StartPoint property
 
-Mendapatkan titik bentuk awal.
+Mendapatkan titik awal bentuk.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik bentuk awal.
+Titik awal bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../arcshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

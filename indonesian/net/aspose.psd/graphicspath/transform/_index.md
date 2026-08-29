@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Menerapkan transformasi yang ditentukan ke bentuk.
+title: "GraphicsPath.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Menerapkan transformasi yang ditentukan ke bentuk."
 type: docs
 weight: 170
 url: /id/net/aspose.psd/graphicspath/transform/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Transform method
 
 Menerapkan transformasi yang ditentukan ke bentuk.
@@ -14,15 +15,15 @@ Menerapkan transformasi yang ditentukan ke bentuk.
 public override void Transform(Matrix transform)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| transform | Matrix | Transformasi untuk diterapkan. |
+| transform | Matrix | Transformasi yang akan diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

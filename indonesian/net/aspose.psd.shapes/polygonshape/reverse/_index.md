@@ -1,23 +1,24 @@
 ---
-title: PolygonShape.Reverse
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape metode. Membalik urutan poin untuk bentuk ini.
+title: "PolygonShape.Reverse"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PolygonShape method. Membalik urutan titik untuk bentuk ini"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.shapes/polygonshape/reverse/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Reverse method
 
-Membalik urutan poin untuk bentuk ini.
+Membalik urutan titik untuk bentuk ini.
 
 ```csharp
 public void Reverse()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

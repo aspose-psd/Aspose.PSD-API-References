@@ -1,29 +1,30 @@
 ---
-title: Time.Time
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Time konstruktor. Menginisialisasi instance baru dariTime kelas.
+title: "Time.Time"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Time. Menginisialisasi sebuah instance baru dari kelas Time"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-Menginisialisasi instance baru dari[`Time`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Time`](../).
 
 ```csharp
 public Time(Rational scale, int value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| scale | Rational | Skala. |
-| value | Int32 | Nilai. |
+| scale | Rasional | Skala. |
+| nilai | Int32 | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

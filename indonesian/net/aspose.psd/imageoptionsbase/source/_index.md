@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.Source
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageOptionsBase Properti. Mendapatkan atau menyetel sumber untuk membuat gambar.
+title: "ImageOptionsBase.Source"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageOptionsBase. Mendapatkan atau mengatur sumber untuk membuat gambar di"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/imageoptionsbase/source/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Source property
 
-Mendapatkan atau menyetel sumber untuk membuat gambar.
+Mendapatkan atau mengatur sumber untuk membuat gambar di dalamnya.
 
 ```csharp
 public Source Source { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Sumber untuk membuat gambar.
+Sumber untuk membuat gambar di.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* ruang nama [Aspose.PSD](../../imageoptionsbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

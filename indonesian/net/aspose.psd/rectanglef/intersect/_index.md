@@ -1,52 +1,53 @@
 ---
-title: RectangleF.Intersect
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Mengembalikan aRectangleF struktur yang mewakili persimpangan dua persegi panjang. Jika tidak ada persimpangan dan kosongRectangleF dikembalikan.
+title: "RectangleF.Intersect"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Mengembalikan struktur RectangleF yang mewakili irisan dua persegi panjang. Jika tidak ada irisan, RectangleF kosong dikembalikan."
 type: docs
 weight: 60
 url: /id/net/aspose.psd/rectanglef/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF, RectangleF)
 
-Mengembalikan a[`RectangleF`](../) struktur yang mewakili persimpangan dua persegi panjang. Jika tidak ada persimpangan, dan kosong[`RectangleF`](../) dikembalikan.
+Mengembalikan struktur [`RectangleF`](../) yang mewakili irisan dua persegi panjang. Jika tidak ada irisan, [`RectangleF`](../) kosong dikembalikan.
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| a | RectangleF | Persegi panjang pertama yang berpotongan. |
-| b | RectangleF | Sebuah persegi panjang kedua untuk berpotongan. |
+| a | RectangleF | Persegi panjang pertama untuk diiris. |
+| b | RectangleF | Persegi panjang kedua untuk diiris. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Ketiga[`RectangleF`](../) struktur yang ukurannya mewakili area yang tumpang tindih dari dua persegi panjang yang ditentukan.
+Struktur [`RectangleF`](../) ketiga yang ukurannya mewakili area tumpang tindih dari dua persegi panjang yang ditentukan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(RectangleF)
 
-Menggantikan ini[`RectangleF`](../)struktur dengan perpotongan dirinya dan yang ditentukan[`RectangleF`](../)struktur.
+Mengganti struktur [`RectangleF`](../) ini dengan irisan dirinya sendiri dan struktur [`RectangleF`](../) yang ditentukan.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | Persegi panjang untuk berpotongan. |
+| rect | RectangleF | Persegi panjang yang akan diiris. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

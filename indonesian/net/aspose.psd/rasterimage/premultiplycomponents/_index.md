@@ -1,27 +1,28 @@
 ---
-title: RasterImage.PremultiplyComponents
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah komponen gambar harus dikalikan sebelumnya.
+title: "RasterImage.PremultiplyComponents"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterImage properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah komponen gambar harus dipremultiplikasikan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/rasterimage/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## RasterImage.PremultiplyComponents property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah komponen gambar harus dikalikan sebelumnya.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah komponen gambar harus dipremultiplikasi.
 
 ```csharp
 public virtual bool PremultiplyComponents { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika komponen gambar harus dikalikan terlebih dahulu; jika tidak,`PALSU` .
+`true` jika komponen gambar harus dipremultiplikasikan; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

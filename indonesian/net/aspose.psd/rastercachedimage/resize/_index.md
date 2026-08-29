@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Resize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Mengubah ukuran gambar.
+title: "RasterCachedImage.Resize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterCachedImage. Mengubah ukuran gambar"
 type: docs
 weight: 120
 url: /id/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Mengubah ukuran gambar.
@@ -14,15 +15,15 @@ Mengubah ukuran gambar.
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| newHeight | Int32 | Ketinggian baru. |
+| newHeight | Int32 | Tinggi baru. |
 | resizeType | ResizeType | Jenis pengubahan ukuran. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara mengubah ukuran gambar dengan jenis pengubah ukuran SinC yang baru.
+Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe resize SinC baru.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ Kode berikut menunjukkan cara mengubah ukuran gambar dengan jenis pengubah ukura
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubah ukuran Bell yang baru.
+Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe resize Bell baru.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubah ukuran
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menunjukkan cara mengubah ukuran gambar dengan jenis pengubah ukuran Mitchell yang baru.
+Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe resize Mitchell baru.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ Kode berikut menunjukkan cara mengubah ukuran gambar dengan jenis pengubah ukura
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubahan ukuran CatmullRom yang baru.
+Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe resize CatmullRom baru.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubahan ukur
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubahan ukuran CubicBSpline baru.
+Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe resize CubicBSpline baru.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubahan ukur
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubahan ukuran CubicConvolution baru.
+Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe resize CubicConvolution baru.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ Kode berikut menunjukkan cara mengubah ukuran gambar dengan tipe pengubahan ukur
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -118,12 +119,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -135,17 +136,17 @@ Mengubah ukuran gambar.
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| newHeight | Int32 | Ketinggian baru. |
-| settings | ImageResizeSettings | Pengaturan pengubahan ukuran. |
+| newHeight | Int32 | Tinggi baru. |
+| pengaturan | ImageResizeSettings | Pengaturan pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

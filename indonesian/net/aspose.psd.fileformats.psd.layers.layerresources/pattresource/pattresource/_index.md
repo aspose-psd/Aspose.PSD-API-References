@@ -1,45 +1,46 @@
 ---
-title: PattResource.PattResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResource konstruktor. Menginisialisasi instance baru dariPattResource kelas.
+title: "PattResource.PattResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PattResource constructor. Menginisialisasi instance baru dari kelas PattResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-Menginisialisasi instance baru dari[`PattResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PattResource`](../).
 
 ```csharp
 public PattResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PattResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PattResource`](../).
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | Int32 | Kunci jenis sumber daya. |
-| patterns | PattResourceData[] | Data pola. |
+| kunci | Int32 | Kunci tipe sumber daya. |
+| pola | PattResourceData[] | Data pola. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

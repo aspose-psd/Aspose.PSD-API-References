@@ -1,27 +1,28 @@
 ---
-title: EnumeratedReferenceStructure.ClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: EnumeratedReferenceStructure Properti. Mendapat atau menetapkan nama kelas.
+title: "EnumeratedReferenceStructure.ClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "EnumeratedReferenceStructure properti. Mendapatkan atau mengatur nama kelas"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classname/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.ClassName property
 
-Mendapat atau menetapkan nama kelas.
+Mendapatkan atau mengatur nama kelas.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kelas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [EnumeratedReferenceStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

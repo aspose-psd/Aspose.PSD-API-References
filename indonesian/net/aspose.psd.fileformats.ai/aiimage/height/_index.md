@@ -1,11 +1,12 @@
 ---
-title: AiImage.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapatkan tinggi gambar.
+title: "AiImage.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan tinggi gambar"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
 Mendapatkan tinggi gambar.
@@ -14,14 +15,14 @@ Mendapatkan tinggi gambar.
 public override int Height { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

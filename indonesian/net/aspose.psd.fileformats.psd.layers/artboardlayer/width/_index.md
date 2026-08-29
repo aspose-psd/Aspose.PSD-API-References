@@ -1,0 +1,22 @@
+---
+title: "ArtboardLayer.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ArtboardLayer."
+type: docs
+weight: 80
+url: /id/net/aspose.psd.fileformats.psd.layers/artboardlayer/width/
+---
+{{< psd/tize >}}
+## ArtboardLayer.Width property
+
+```csharp
+public override int Width { get; }
+```
+
+### Lihat Juga
+
+* class [ArtboardLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
+
+

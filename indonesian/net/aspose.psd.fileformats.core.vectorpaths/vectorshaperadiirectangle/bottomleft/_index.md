@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomLeft
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeRadiiRectangle Properti. Mendapat atau menyetel bagian bawah.
+title: "VectorShapeRadiiRectangle.BottomLeft"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorShapeRadiiRectangle properti. Mendapatkan atau mengatur bawah"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-Mendapat atau menyetel bagian bawah.
+Mendapatkan atau mengatur bagian bawah.
 
 ```csharp
 public double BottomLeft { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bagian bawah.
+Bawah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeRadiiRectangle](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

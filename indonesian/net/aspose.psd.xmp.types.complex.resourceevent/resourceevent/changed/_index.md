@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Changed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceEvent Properti. Mendapat atau menyetel daftar yang dipisahkan titik koma dari bagian sumber daya yang diubah sejak riwayat peristiwa sebelumnya.
+title: "ResourceEvent.Changed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceEvent. Mendapatkan atau mengatur daftar yang dipisahkan dengan titik koma dari bagian-bagian sumber daya yang telah berubah sejak riwayat peristiwa sebelumnya"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Changed property
 
-Mendapat atau menyetel daftar yang dipisahkan titik koma dari bagian sumber daya yang diubah sejak riwayat peristiwa sebelumnya.
+Mendapatkan atau mengatur daftar yang dipisahkan dengan titik koma dari bagian-bagian sumber daya yang telah diubah sejak riwayat peristiwa sebelumnya.
 
 ```csharp
 public string Changed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Daftar bagian sumber daya yang dipisahkan titik koma yang diubah sejak riwayat peristiwa sebelumnya.
+Daftar yang dipisahkan dengan titik koma dari bagian-bagian sumber daya yang telah berubah sejak riwayat peristiwa sebelumnya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceEvent](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

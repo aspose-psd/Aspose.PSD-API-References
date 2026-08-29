@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorExtensions metode. MengubahColor keColor .
+title: "ColorExtensions.ToGdiColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorExtensions. Mengonversi Color menjadi Color"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/colorextensions/togdicolor/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColor method
 
-Mengubah[`Color`](../../../aspose.psd/color/) keColor .
+Mengonversi [`Color`](../../../aspose.psd/color/) menjadi Color.
 
 ```csharp
 public static Color ToGdiColor(Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| color | Color | Itu[`Color`](../../../aspose.psd/color/) untuk mengubah. |
+| color | Color | [`Color`](../../../aspose.psd/color/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiColor.
+Color yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../colorextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

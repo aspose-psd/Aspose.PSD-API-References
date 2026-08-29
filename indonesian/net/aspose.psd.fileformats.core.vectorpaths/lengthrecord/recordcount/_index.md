@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.RecordCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LengthRecord Properti. Mendapat atau menyetel jumlah rekor.
+title: "LengthRecord.RecordCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LengthRecord. Mengambil atau mengatur jumlah catatan."
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/recordcount/
 ---
+{{< psd/tize >}}
 ## LengthRecord.RecordCount property
 
-Mendapat atau menyetel jumlah rekor.
+Mendapatkan atau mengatur jumlah rekaman.
 
 ```csharp
 public ushort RecordCount { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jumlah rekaman.
+Jumlah catatan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LengthRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

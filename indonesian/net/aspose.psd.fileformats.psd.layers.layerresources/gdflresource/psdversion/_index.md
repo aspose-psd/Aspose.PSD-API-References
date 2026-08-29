@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
+title: "GdFlResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GdFlResource properti. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada pembatasan"
 type: docs
-weight: 130
+weight: 170
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/
 ---
+{{< psd/tize >}}
 ## GdFlResource.PsdVersion property
 
 Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
@@ -14,10 +15,10 @@ Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menun
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: RectangleF.FromPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Membuat yang baruRectangle dari dua titik yang ditentukan. Dua simpul dari yang dibuatRectangle akan sama dengan luluspoint1 Danpoint2 . Ini biasanya adalah simpul yang berlawanan.
+title: "RectangleF.FromPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Membuat Rectangle baru dari dua titik yang ditentukan. Dua titik sudut dari Rectangle yang dibuat akan sama dengan point1 dan point2 yang diberikan. Ini biasanya merupakan titik sudut yang berlawanan."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/rectanglef/frompoints/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromPoints method
 
-Membuat yang baru[`Rectangle`](../../rectangle/) dari dua titik yang ditentukan. Dua simpul dari yang dibuat[`Rectangle`](../../rectangle/) akan sama dengan lulus*point1* Dan*point2* . Ini biasanya adalah simpul yang berlawanan.
+Membuat [`Rectangle`](../../rectangle/) baru dari dua titik yang ditentukan. Dua titik sudut dari [`Rectangle`](../../rectangle/) yang dibuat akan sama dengan *point1* dan *point2* yang diberikan. Ini biasanya merupakan titik sudut yang berlawanan.
 
 ```csharp
 public static RectangleF FromPoints(PointF point1, PointF point2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point1 | PointF | Pertama[`Point`](../../point/) untuk persegi panjang baru. |
-| point2 | PointF | Kedua[`Point`](../../point/) untuk persegi panjang baru. |
+| point1 | PointF | [`Point`](../../point/) pertama untuk rectangle baru. |
+| point2 | PointF | [`Point`](../../point/) kedua untuk rectangle baru. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah baru dibuat[`Rectangle`](../../rectangle/).
+Sebuah [`Rectangle`](../../rectangle/) yang baru dibuat.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.ToDouble
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FixedPointDecimal metode. Mengonversi desimal titik tetap saat ini menjadi dua kali lipat.
+title: "FixedPointDecimal.ToDouble"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FixedPointDecimal. Mengonversi desimal titik tetap saat ini ke double"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.ToDouble method
 
-Mengonversi desimal titik tetap saat ini menjadi dua kali lipat.
+Mengonversi desimal titik tetap saat ini ke double.
 
 ```csharp
 public double ToDouble()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Nilai yang dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FixedPointDecimal](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

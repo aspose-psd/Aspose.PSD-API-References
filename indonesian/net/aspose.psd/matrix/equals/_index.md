@@ -1,38 +1,39 @@
 ---
-title: Matrix.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Menentukan apakah yang ditentukanObject sama dengan instance ini.
+title: "Matrix.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Menentukan apakah Object yang ditentukan sama dengan instance ini."
 type: docs
 weight: 90
 url: /id/net/aspose.psd/matrix/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object)
 
-Menentukan apakah yang ditentukanObject sama dengan instance ini.
+Menentukan apakah Objek yang ditentukan sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| NullReferenceException | Itu*obj* parameternya adalah null. |
+| NullReferenceException | Parameter *obj* adalah null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -44,19 +45,19 @@ Menentukan apakah dua matriks sama.
 public static bool Equals(Matrix a, Matrix b)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| a | Matrix | Matriks pertama yang akan dibandingkan. |
-| b | Matrix | Matriks kedua untuk dibandingkan. |
+| a | Matrix | Matrix pertama untuk dibandingkan. |
+| b | Matrix | Matrix kedua untuk dibandingkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika matriks sama.
+True jika matrixes sama.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

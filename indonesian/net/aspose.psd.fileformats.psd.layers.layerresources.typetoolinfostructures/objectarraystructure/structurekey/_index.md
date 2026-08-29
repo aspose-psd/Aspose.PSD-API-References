@@ -1,11 +1,12 @@
 ---
-title: ObjectArrayStructure.StructureKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ObjectArrayStructure bidang. Mengidentifikasi kunci struktur ObAr.
+title: "ObjectArrayStructure.StructureKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ObjectArrayStructure field. Mengidentifikasi kunci struktur ObAr"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureKey field
 
 Mengidentifikasi kunci struktur 'ObAr'.
@@ -14,10 +15,10 @@ Mengidentifikasi kunci struktur 'ObAr'.
 public const int StructureKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ObjectArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

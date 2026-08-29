@@ -1,11 +1,12 @@
 ---
-title: IColorPalette.EntriesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IColorPalette Properti. Mendapatkan jumlah entri.
+title: "IColorPalette.EntriesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IColorPalette. Mendapatkan jumlah entri"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/icolorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## IColorPalette.EntriesCount property
 
 Mendapatkan jumlah entri.
@@ -14,14 +15,14 @@ Mendapatkan jumlah entri.
 public int EntriesCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah entri.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../)
-* ruang nama [Aspose.PSD](../../icolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.MeteringMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel mode pengukuran.
+title: "ExifData.MeteringMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur mode pengukuran"
 type: docs
 weight: 810
 url: /id/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
-Mendapatkan atau menyetel mode pengukuran.
+Mendapatkan atau mengatur mode pengukuran.
 
 ```csharp
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Mode pengukuran.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

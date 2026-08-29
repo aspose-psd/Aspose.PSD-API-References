@@ -1,27 +1,28 @@
 ---
-title: Timecode.TimeValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Timecode Properti. Mendapat atau menetapkan nilai waktu dalam format yang ditentukan.
+title: "Timecode.TimeValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Timecode. Mendapatkan atau mengatur nilai waktu dalam format yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timecode/timevalue/
 ---
+{{< psd/tize >}}
 ## Timecode.TimeValue property
 
-Mendapat atau menetapkan nilai waktu dalam format yang ditentukan.
+Mendapatkan atau mengatur nilai waktu dalam format yang ditentukan.
 
 ```csharp
 public string TimeValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai waktu dalam format yang ditentukan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Timecode](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

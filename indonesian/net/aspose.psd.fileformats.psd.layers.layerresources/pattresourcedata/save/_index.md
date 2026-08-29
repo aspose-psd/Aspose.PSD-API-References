@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData metode. Menyimpan data pola.
+title: "PattResourceData.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PattResourceData. Menyimpan data pola."
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Save method
 
 Menyimpan data pola.
@@ -14,15 +15,15 @@ Menyimpan data pola.
 public void Save(StreamContainer streamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

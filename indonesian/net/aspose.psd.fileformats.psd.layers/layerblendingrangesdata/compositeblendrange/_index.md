@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerBlendingRangesData Properti. Mendapat atau menyetel rentang campuran komposit.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerBlendingRangesData. Mendapatkan atau mengatur rentang pencampuran komposit"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-Mendapat atau menyetel rentang campuran komposit.
+Mendapatkan atau mengatur rentang pencampuran komposit.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Rentang campuran komposit.
+Rentang pencampuran komposit.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

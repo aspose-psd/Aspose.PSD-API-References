@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeOriginSettings Properti. Mendapat atau menetapkan jenis asal.
+title: "VectorShapeOriginSettings.OriginType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeOriginSettings. Mendapatkan atau mengatur tipe asal"
 type: docs
 weight: 160
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginType property
 
-Mendapat atau menetapkan jenis asal.
+Mendapatkan atau mengatur tipe origin.
 
 ```csharp
 public int OriginType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis asal.
+Tipe asal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeOriginSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

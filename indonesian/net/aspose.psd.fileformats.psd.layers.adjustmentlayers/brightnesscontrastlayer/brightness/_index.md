@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Brightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BrightnessContrastLayer Properti. Mendapat atau mengatur kecerahan. Untuk rentang kecerahan PS adalah dari 150 hingga 150. Tapi kami mengabaikan ini.
+title: "BrightnessContrastLayer.Brightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BrightnessContrastLayer. Mendapatkan atau mengatur brightness. Untuk rentang PS brightness adalah dari 150 hingga 150. Namun kami mengabaikannya"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/brightness/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Brightness property
 
-Mendapat atau mengatur kecerahan. Untuk rentang kecerahan PS adalah dari -150 hingga +150. Tapi kami mengabaikan ini.
+Mendapatkan atau mengatur kecerahan. Untuk rentang kecerahan pada PS adalah dari -150 hingga +150. Tetapi kami mengabaikannya.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kecerahan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BrightnessContrastLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

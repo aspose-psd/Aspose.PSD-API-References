@@ -1,11 +1,12 @@
 ---
-title: Enum LayerLockType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType enum. Opsi kunci lapisan
+title: "Enum LayerLockType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerLockType. Opsi penguncian lapisan"
 type: docs
-weight: 2580
+weight: 2890
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/
 ---
+{{< psd/tize >}}
 ## LayerLockType enumeration
 
 Opsi kunci lapisan
@@ -17,17 +18,17 @@ public enum LayerLockType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Tanpa kunci lapisan |
-| LockTransparentPixels | `1` | Mengunci sebagian layer - Membatasi pengeditan ke bagian buram dari layer. Opsi ini setara dengan opsi Pertahankan Transparansi di versi Photoshop sebelumnya. |
-| LockImagePixels | `2` | Mengunci sebagian lapisan - Mencegah modifikasi piksel lapisan menggunakan alat lukis. |
+| None | `0` | Tidak ada penguncian lapisan |
+| LockTransparentPixels | `1` | Mengunci sebagian lapisan - Membatasi penyuntingan pada bagian tidak transparan dari lapisan. Opsi ini setara dengan opsi Preserve Transparency pada versi Photoshop sebelumnya. |
+| LockImagePixels | `2` | Mengunci sebagian lapisan - Mencegah modifikasi piksel lapisan menggunakan alat melukis. |
 | LockPosition | `4` | Mengunci sebagian lapisan - Mencegah piksel lapisan dipindahkan. |
-| LockAll | `7` | Kunci semua properti layer |
+| LockAll | `7` | Kunci semua properti lapisan |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

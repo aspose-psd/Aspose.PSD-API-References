@@ -1,44 +1,45 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer konstruktor. Menginisialisasi instance baru dariLayer kelas.
+title: "Layer.Layer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Layer. Menginisialisasi instance baru dari kelas Layer"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.photoshop/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer(string, string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Layer`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Layer`](../).
 
 ```csharp
 public Layer(string layerName, string layerText)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | layerName | String | Nama lapisan. |
 | layerText | String | Teks lapisan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer() {#constructor}
 
-Menginisialisasi instance baru dari[`Layer`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Layer`](../).
 
 ```csharp
 public Layer()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

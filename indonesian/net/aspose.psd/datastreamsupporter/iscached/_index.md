@@ -1,27 +1,28 @@
 ---
-title: DataStreamSupporter.IsCached
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DataStreamSupporter Properti. Mendapat nilai yang menunjukkan apakah data objek dicache saat ini dan tidak diperlukan pembacaan data.
+title: "DataStreamSupporter.IsCached"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DataStreamSupporter. Mengambil nilai yang menunjukkan apakah data objek saat ini di-cache dan tidak diperlukan pembacaan data."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/datastreamsupporter/iscached/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.IsCached property
 
-Mendapat nilai yang menunjukkan apakah data objek di-cache saat ini dan tidak diperlukan pembacaan data.
+Mendapatkan nilai yang menunjukkan apakah data objek saat ini di-cache dan tidak diperlukan pembacaan data.
 
 ```csharp
 public abstract bool IsCached { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika data objek di-cache; jika tidak,`PALSU` .
+`true` jika data objek di-cache; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DataStreamSupporter](../)
-* ruang nama [Aspose.PSD](../../datastreamsupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.Sharpness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel ketajaman.
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur ketajaman"
 type: docs
 weight: 940
 url: /id/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
-Mendapat atau menyetel ketajaman.
+Mendapatkan atau mengatur ketajaman.
 
 ```csharp
 public ushort Sharpness { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ketajaman.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

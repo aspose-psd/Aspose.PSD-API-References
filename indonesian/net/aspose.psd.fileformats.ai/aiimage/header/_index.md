@@ -1,28 +1,29 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapat tajuk.
+title: "AiImage.Header"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan header"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
-Mendapat tajuk.
+Mendapatkan header.
 
 ```csharp
 public AiHeader Header { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Header.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

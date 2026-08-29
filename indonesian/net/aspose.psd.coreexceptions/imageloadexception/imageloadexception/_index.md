@@ -1,48 +1,49 @@
 ---
-title: ImageLoadException.ImageLoadException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadException konstruktor. Menginisialisasi instance baru dariImageLoadException kelas.
+title: "ImageLoadException.ImageLoadException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ImageLoadException. Menginisialisasi instance baru dari kelas ImageLoadException"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions/imageloadexception/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`ImageLoadException`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ImageLoadException`](../).
 
 ```csharp
 public ImageLoadException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageLoadException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageLoadException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ImageLoadException`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ImageLoadException`](../).
 
 ```csharp
 public ImageLoadException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageLoadException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

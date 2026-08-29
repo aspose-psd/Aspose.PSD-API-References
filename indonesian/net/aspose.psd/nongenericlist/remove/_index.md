@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.Remove
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList metode. Menghapus kemunculan pertama objek tertentu dariIList .
+title: "NonGenericList.Remove"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode NonGenericList. Menghapus kemunculan pertama dari objek tertentu di IList"
 type: docs
 weight: 150
 url: /id/net/aspose.psd/nongenericlist/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Remove method
 
-Menghapus kemunculan pertama objek tertentu dariIList .
+Menghapus kemunculan pertama dari objek tertentu dari IList.
 
 ```csharp
 public void Remove(object value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Object | ItuObject untuk menghapus dariIList. |
+| nilai | Object | Objek yang akan dihapus dari IList. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

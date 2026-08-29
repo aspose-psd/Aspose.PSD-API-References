@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.TextRenderingHint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions Properti. Mendapat atau menyetel petunjuk rendering teks.
+title: "VectorRasterizationOptions.TextRenderingHint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorRasterizationOptions. Mendapatkan atau mengatur petunjuk rendering teks"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.TextRenderingHint property
 
-Mendapat atau menyetel petunjuk rendering teks.
+Mendapatkan atau mengatur petunjuk rendering teks.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Petunjuk rendering teks.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

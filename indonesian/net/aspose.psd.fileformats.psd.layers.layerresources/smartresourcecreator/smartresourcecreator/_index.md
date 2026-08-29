@@ -1,65 +1,66 @@
 ---
-title: SmartResourceCreator.SmartResourceCreator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartResourceCreator konstruktor. Menginisialisasi instance baru dariSmartResourceCreator kelas.
+title: "SmartResourceCreator.SmartResourceCreator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmartResourceCreator konstruktor. Menginisialisasi sebuah instance baru dari kelas SmartResourceCreator"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator() {#constructor}
 
-Menginisialisasi instance baru dari[`SmartResourceCreator`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartResourceCreator](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-Menginisialisasi instance baru dari[`SmartResourceCreator`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| isCustom | Boolean | jika diatur ke`BENAR` [adalah kebiasaan]. |
-| hasCompInfo | Boolean | jika diatur ke`BENAR` [memiliki informasi comp]. |
+| isCustom | Boolean | jika disetel ke `true` [adalah kustom]. |
+| hasCompInfo | Boolean | jika disetel ke `true` [memiliki informasi komposisi]. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartResourceCreator](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-Menginisialisasi instance baru dari[`SmartResourceCreator`](../) class dengan template yang diberikan.
+Menginisialisasi sebuah instance baru dari kelas [`SmartResourceCreator`](../) dengan templat yang diberikan.
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| template | PlacedResource | Templat sumber daya objek pintar. |
+| template | PlacedResource | Template sumber daya objek pintar. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

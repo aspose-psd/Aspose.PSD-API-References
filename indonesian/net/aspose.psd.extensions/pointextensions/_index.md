@@ -1,14 +1,15 @@
 ---
-title: Class PointExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.PointExtensions kelas. Berisi metode ekstensi untukPoint DanPointF struktur.
+title: "Kelas PointExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.PointExtensions. Berisi metode ekstensi untuk struktur Point dan PointF"
 type: docs
-weight: 1150
+weight: 1160
 url: /id/net/aspose.psd.extensions/pointextensions/
 ---
+{{< psd/tize >}}
 ## PointExtensions class
 
-Berisi metode ekstensi untuk[`Point`](../../aspose.psd/point/) Dan[`PointF`](../../aspose.psd/pointf/) struktur.
+Berisi metode ekstensi untuk struktur [`Point`](../../aspose.psd/point/) dan [`PointF`](../../aspose.psd/pointf/).
 
 ```csharp
 public static class PointExtensions
@@ -16,15 +17,15 @@ public static class PointExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | Mengubah[`PointF`](../../aspose.psd/pointf/) kePointF . |
-| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | Mengubah[`PointF`](../../aspose.psd/pointf/) larik kePointF larik. |
-| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | Mengubah[`Point`](../../aspose.psd/point/) larik ke[`PointF`](../../aspose.psd/pointf/) larik. |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | Mengonversi [`PointF`](../../aspose.psd/pointf/) menjadi PointF. |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | Mengonversi array [`PointF`](../../aspose.psd/pointf/) menjadi array PointF. |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | Mengonversi array [`Point`](../../aspose.psd/point/) menjadi array [`PointF`](../../aspose.psd/pointf/). |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

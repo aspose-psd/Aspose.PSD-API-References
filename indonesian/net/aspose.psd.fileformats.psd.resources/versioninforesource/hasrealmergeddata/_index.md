@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.HasRealMergedData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VersionInfoResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini memiliki data gabungan nyata.
+title: "VersionInfoResource.HasRealMergedData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VersionInfoResource properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini memiliki data gabungan nyata"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.HasRealMergedData property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini memiliki data gabungan nyata.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini memiliki data gabungan yang sebenarnya.
 
 ```csharp
 public bool HasRealMergedData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki data gabungan yang nyata; jika tidak,`PALSU` .
+`true` jika instance ini memiliki data gabungan nyata; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VersionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

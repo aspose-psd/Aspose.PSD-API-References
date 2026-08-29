@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Compression
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel kompresi.
+title: "JpegExifData.Compression"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur kompresi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.exif/jpegexifdata/compression/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Compression property
 
-Mendapat atau menyetel kompresi.
+Mendapatkan atau mengatur kompresi.
 
 ```csharp
 public ushort Compression { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kompresi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

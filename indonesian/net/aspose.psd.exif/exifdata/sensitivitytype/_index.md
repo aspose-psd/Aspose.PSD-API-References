@@ -1,27 +1,28 @@
 ---
-title: ExifData.SensitivityType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel jenis sensitivitas.
+title: "ExifData.SensitivityType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur tipe sensitivitas"
 type: docs
 weight: 930
 url: /id/net/aspose.psd.exif/exifdata/sensitivitytype/
 ---
+{{< psd/tize >}}
 ## ExifData.SensitivityType property
 
-Mendapat atau menyetel jenis sensitivitas.
+Mendapatkan atau mengatur tipe sensitivitas.
 
 ```csharp
 public ushort SensitivityType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis sensitivitas.
+Tipe sensitivitas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

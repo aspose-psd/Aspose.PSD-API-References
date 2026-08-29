@@ -1,11 +1,12 @@
 ---
-title: Class AiDataSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Ai.AiDataSection kelas. Bagian Data format Ai
+title: "Kelas AiDataSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Ai.AiDataSection. Bagian Data format Ai"
 type: docs
-weight: 1220
+weight: 1230
 url: /id/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
 Bagian Data format Ai
@@ -16,21 +17,21 @@ public class AiDataSection : DisposableObject
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini dibuang. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapatkan nilai yang menunjukkan apakah instansi ini telah dibuang. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | Membuang instance saat ini. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Mendapat data string. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Mendapatkan data string. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

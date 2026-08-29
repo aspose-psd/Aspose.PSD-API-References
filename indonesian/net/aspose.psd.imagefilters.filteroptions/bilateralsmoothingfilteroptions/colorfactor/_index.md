@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BilateralSmoothingFilterOptions Properti. Mendapat atau menyetel faktor warna.
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BilateralSmoothingFilterOptions properti. Mendapatkan atau mengatur faktor warna."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
-Mendapat atau menyetel faktor warna.
+Mendapatkan atau mengatur faktor warna.
 
 ```csharp
 public double ColorFactor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Faktor warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BilateralSmoothingFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

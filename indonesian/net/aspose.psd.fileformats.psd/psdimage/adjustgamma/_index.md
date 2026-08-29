@@ -1,49 +1,50 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Gammakoreksi gambar.
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage method. Koreksi gamma pada gambar"
 type: docs
-weight: 460
+weight: 520
 url: /id/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-Gamma-koreksi gambar.
+Koreksi gamma pada gambar.
 
 ```csharp
 public override void AdjustGamma(float gamma)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gamma | Single | Gamma untuk koefisien saluran merah, hijau dan biru |
+| gamma | Single | Koefisien gamma untuk saluran merah, hijau, dan biru |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AdjustGamma(float, float, float) {#adjustgamma_1}
 
-Gamma-koreksi gambar.
+Koreksi gamma pada gambar.
 
 ```csharp
 public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gammaRed | Single | Gamma untuk koefisien saluran merah |
-| gammaGreen | Single | Gamma untuk koefisien saluran hijau |
-| gammaBlue | Single | Gamma untuk koefisien saluran biru |
+| gammaRed | Single | Koefisien gamma untuk saluran merah |
+| gammaGreen | Single | Koefisien gamma untuk saluran hijau |
+| gammaBlue | Single | Koefisien gamma untuk saluran biru |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

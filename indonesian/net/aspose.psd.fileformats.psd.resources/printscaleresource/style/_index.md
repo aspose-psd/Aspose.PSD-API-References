@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.Style
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintScaleResource Properti. Mendapat atau menyetel gaya.
+title: "PrintScaleResource.Style"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PrintScaleResource. Mendapatkan atau mengatur gaya"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Style property
 
-Mendapat atau menyetel gaya.
+Mendapatkan atau mengatur gaya.
 
 ```csharp
 public short Style { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Gaya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintScaleResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

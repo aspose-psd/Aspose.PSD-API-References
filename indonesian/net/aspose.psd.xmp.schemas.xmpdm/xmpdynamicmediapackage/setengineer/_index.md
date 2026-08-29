@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetEngineer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur insinyur.
+title: "XmpDynamicMediaPackage.SetEngineer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Mengatur insinyur"
 type: docs
 weight: 200
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setengineer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetEngineer method
 
 Mengatur insinyur.
@@ -14,14 +15,14 @@ Mengatur insinyur.
 public void SetEngineer(string engineer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| engineer | String | Insinyur. |
+| insinyur | String | Insinyur. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

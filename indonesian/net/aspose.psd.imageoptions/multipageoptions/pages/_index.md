@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MultiPageOptions Properti. Mendapat atau menyetel halaman.
+title: "MultiPageOptions.Pages"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MultiPageOptions. Mendapatkan atau mengatur halaman"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
-Mendapat atau menyetel halaman.
+Mendapatkan atau mengatur halaman.
 
 ```csharp
 public int[] Pages { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Halaman.
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

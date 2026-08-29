@@ -1,27 +1,28 @@
 ---
-title: Font.FontFamily
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat atau mengatur jenis font.
+title: "Font.FontFamily"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan atau mengatur keluarga font"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex.font/font/fontfamily/
 ---
+{{< psd/tize >}}
 ## Font.FontFamily property
 
-Mendapat atau mengatur jenis font.
+Mendapatkan atau mengatur keluarga font.
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis font.
+Keluarga font.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

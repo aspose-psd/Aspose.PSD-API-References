@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Reverse
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniGradientFillSettings terbalik.
+title: "GradientFillSettings.Reverse"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GradientFillSettings. Mendapatkan atau mengatur nilai yang menunjukkan apakah GradientFillSettings ini terbalik"
 type: docs
-weight: 110
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Reverse property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`GradientFillSettings`](../) terbalik.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`GradientFillSettings`](../) ini terbalik.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika terbalik; jika tidak,`PALSU` .
+`true` jika terbalik; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

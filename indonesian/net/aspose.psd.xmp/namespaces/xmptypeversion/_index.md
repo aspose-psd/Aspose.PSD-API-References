@@ -1,11 +1,12 @@
 ---
-title: Namespaces.XmpTypeVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. Versi XMP.
+title: "Namespaces.XmpTypeVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. Versi XMP"
 type: docs
 weight: 160
 url: /id/net/aspose.psd.xmp/namespaces/xmptypeversion/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeVersion field
 
 Versi XMP.
@@ -14,10 +15,10 @@ Versi XMP.
 public const string XmpTypeVersion;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

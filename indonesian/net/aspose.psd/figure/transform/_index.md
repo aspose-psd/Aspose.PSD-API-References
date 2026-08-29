@@ -1,11 +1,12 @@
 ---
-title: Figure.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure metode. Menerapkan transformasi yang ditentukan ke bentuk.
+title: "Figure.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Figure. Menerapkan transformasi yang ditentukan pada bentuk"
 type: docs
 weight: 120
 url: /id/net/aspose.psd/figure/transform/
 ---
+{{< psd/tize >}}
 ## Figure.Transform method
 
 Menerapkan transformasi yang ditentukan ke bentuk.
@@ -14,15 +15,15 @@ Menerapkan transformasi yang ditentukan ke bentuk.
 public override void Transform(Matrix transform)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| transform | Matrix | Transformasi untuk diterapkan. |
+| transform | Matrix | Transformasi yang akan diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

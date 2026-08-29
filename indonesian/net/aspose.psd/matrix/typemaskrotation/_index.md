@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix bidang. Konstanta ini adalah topeng bit untuk salah satu bit bendera rotasi.
+title: "Matrix.TypeMaskRotation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field Matrix. Konstanta ini adalah bit mask untuk setiap bit flag rotasi"
 type: docs
 weight: 250
 url: /id/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
-Konstanta ini adalah topeng bit untuk salah satu bit bendera rotasi.
+Konstanta ini adalah bit mask untuk salah satu bita flag rotasi.
 
 ```csharp
 public const int TypeMaskRotation;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

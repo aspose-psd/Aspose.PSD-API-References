@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBalanceAdjustmentLayer Properti. Mendapat atau menyetel Midtones Yellow Blue Balance.
+title: "ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorBalanceAdjustmentLayer properti. Mendapatkan atau mengatur Midtones Yellow Blue Balance"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance property
 
-Mendapat atau menyetel Midtones Yellow Blue Balance.
+Mendapatkan atau mengatur Midtones Yellow Blue Balance.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Keseimbangan Midtone Kuning Biru.
+Midtones Yellow Blue Balance.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Midtone Kuning Biru Keseimbangan harus dalam rentang dari -100 hingga +100. |
+| ArgumentOutOfRangeException | Midtones Yellow Blue Balance harus berada dalam rentang -100 hingga +100. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan untuk ColorBalanceAdjustmentLayer.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

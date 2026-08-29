@@ -1,51 +1,52 @@
 ---
-title: Graphics.TranslateTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menerjemahkan transformasi geometris lokal dengan dimensi yang ditentukan. Metode ini menambahkan terjemahan ke transform.
+title: "Graphics.TranslateTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Mentranslasi transformasi geometris lokal dengan dimensi yang ditentukan. Metode ini menambahkan translasi ke transformasi di awal."
 type: docs
-weight: 460
+weight: 470
 url: /id/net/aspose.psd/graphics/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-Menerjemahkan transformasi geometris lokal dengan dimensi yang ditentukan. Metode ini menambahkan terjemahan ke transform.
+Mentraslasikan transformasi geometris lokal dengan dimensi yang ditentukan. Metode ini menambahkan translasi ke transformasi di depan.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Single | Nilai terjemahan dalam x. |
-| dy | Single | Nilai terjemahan dalam y. |
+| dx | Single | Nilai translasi pada sumbu x. |
+| dy | Single | Nilai translasi pada sumbu y. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-Menerjemahkan transformasi geometrik lokal dengan dimensi yang ditentukan dalam urutan yang ditentukan.
+Mentraslasikan transformasi geometris lokal dengan dimensi yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Single | Nilai terjemahan dalam x. |
-| dy | Single | Nilai terjemahan dalam y. |
-| order | MatrixOrder | Urutan (tambahkan atau tambahkan) untuk menerapkan terjemahan. |
+| dx | Single | Nilai translasi pada sumbu x. |
+| dy | Single | Nilai translasi pada sumbu y. |
+| urutan | MatrixOrder | Urutan (prepend atau append) di mana translasi diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

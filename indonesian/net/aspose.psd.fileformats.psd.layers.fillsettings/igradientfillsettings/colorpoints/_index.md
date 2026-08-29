@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.ColorPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IGradientFillSettings Properti. Mendapat poin warna.
+title: "IGradientFillSettings.ColorPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IGradientFillSettings properti. Mendapatkan titik warna"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.ColorPoints property
 
-Mendapat poin warna.
+Mendapatkan titik warna.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Titik warna.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan dukungan Gradient FillLayer dan opsi pengeditan IGradientFillSettings..
+Contoh berikut menunjukkan dukungan Gradient FillLayer dan opsi penyuntingan IGradientFillSettings.
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -90,11 +92,11 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

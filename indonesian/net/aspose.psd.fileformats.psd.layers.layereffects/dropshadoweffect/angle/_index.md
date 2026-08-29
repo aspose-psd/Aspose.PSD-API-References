@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Angle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapatkan atau mengatur sudut dalam derajat.
+title: "DropShadowEffect.Angle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DropShadowEffect properti. Mendapatkan atau mengatur sudut dalam derajat"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Angle property
 
 Mendapatkan atau mengatur sudut dalam derajat.
@@ -14,11 +15,11 @@ Mendapatkan atau mengatur sudut dalam derajat.
 public int Angle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan penggunaan properti Opacity dari DropShadowEffect.
 
@@ -47,10 +48,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

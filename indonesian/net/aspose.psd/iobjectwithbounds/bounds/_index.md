@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Bounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IObjectWithBounds Properti. Mendapat batas objek.
+title: "IObjectWithBounds.Bounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IObjectWithBounds properti. Mendapatkan batas objek"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/iobjectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Bounds property
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Batas objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* ruang nama [Aspose.PSD](../../iobjectwithbounds/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

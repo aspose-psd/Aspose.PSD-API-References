@@ -1,28 +1,29 @@
 ---
-title: Graphics.Graphics
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics konstruktor. Menginisialisasi instance baru dariGraphics kelas.
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Graphics. Menginisialisasi instance baru dari kelas Graphics"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-Menginisialisasi instance baru dari[`Graphics`](../) kelas.
+Menginisialisasi instance baru dari kelas [`Graphics`](../).
 
 ```csharp
 public Graphics(Image sourceImage)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | sourceImage | Image | Gambar sumber. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RawDataStructure.Data
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RawDataStructure Properti. Mendapat atau menyetel data.
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RawDataStructure. Mendapatkan atau mengatur data"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
-Mendapat atau menyetel data.
+Mendapatkan atau mengatur data.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Datanya.
+Data.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RawDataStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

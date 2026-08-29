@@ -1,23 +1,24 @@
 ---
-title: SplitStreamContainer.Flush
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer metode. Menghapus semua buffer untuk streaming ini dan menyebabkan semua data buffer ditulis ke perangkat pokok.
+title: "SplitStreamContainer.Flush"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SplitStreamContainer. Menghapus semua buffer untuk aliran ini dan menyebabkan data yang dibuffer ditulis ke perangkat dasar."
 type: docs
 weight: 90
 url: /id/net/aspose.psd/splitstreamcontainer/flush/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Flush method
 
-Menghapus semua buffer untuk streaming ini dan menyebabkan semua data buffer ditulis ke perangkat pokok.
+Menghapus semua buffer untuk aliran ini dan menyebabkan data yang di-buffer ditulis ke perangkat dasar.
 
 ```csharp
 public override void Flush()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

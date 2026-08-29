@@ -1,37 +1,38 @@
 ---
-title: ISmartFilterRenderer.Render
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ISmartFilterRenderer metode. Menampilkan filter pintar saat ini pada data piksel.
+title: "ISmartFilterRenderer.Render"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ISmartFilterRenderer. Merender filter pintar saat ini pada data piksel"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer.Render method
 
-Menampilkan filter pintar saat ini pada data piksel.
+Merender filter pintar saat ini pada data piksel.
 
 ```csharp
 public PixelsData Render(PixelsData pixelsData)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pixelsData | PixelsData | Data piksel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan data piksel yang diproses.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara membuat filter cerdas kustom yang memiliki perender kustom.
+Kode berikut menunjukkan cara membuat filter pintar khusus yang memiliki renderer khusus.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Inisiasi filter pintar 'Crystallize' yang tidak didukung pada larik masukan
+    // Menginisialisasi filter pintar 'Crystallize' yang tidak didukung pada array input
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // ID filter pintar 'Crystallize'.
@@ -64,10 +65,10 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Terapkan filter ke layer mask
+        // Terapkan filter ke masker lapisan
         smartFilter.ApplyToMask(maskLayer);
 
-        // Terapkan filter ke lapisan
+        //Terapkan filter ke lapisan
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -92,7 +93,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // dapatkan struktur filter
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // dapatkan nilai Ukuran Kristalisasi
+        // dapatkan nilai Ukuran Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -108,11 +109,11 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelsData](../../../aspose.psd/pixelsdata/)
 * interface [ISmartFilterRenderer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../ismartfilterrenderer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../../)
 
 

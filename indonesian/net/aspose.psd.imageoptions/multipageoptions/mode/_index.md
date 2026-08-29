@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.Mode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MultiPageOptions Properti. Mendapat atau menyetel mode.
+title: "MultiPageOptions.Mode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MultiPageOptions. Mendapatkan atau mengatur mode"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.imageoptions/multipageoptions/mode/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Mode property
 
-Mendapat atau menyetel mode.
+Mendapatkan atau mengatur mode.
 
 ```csharp
 public MultiPageMode Mode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Modusnya.
+Mode.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MultiPageMode](../../multipagemode/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

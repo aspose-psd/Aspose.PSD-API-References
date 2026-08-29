@@ -1,11 +1,12 @@
 ---
-title: Class ClipboardRecord
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord kelas. Kelas Rekaman Clipboard
+title: "Kelas ClipboardRecord"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord class. Kelas Clipboard Record"
 type: docs
-weight: 1340
+weight: 1350
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord class
 
 Kelas Rekaman Clipboard
@@ -16,23 +17,23 @@ public class ClipboardRecord : VectorPathRecord
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ClipboardRecord](clipboardrecord/#constructor)() | Menginisialisasi instance baru dari`ClipboardRecord` kelas. |
-| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | Menginisialisasi instance baru dari`ClipboardRecord` kelas. |
+| [ClipboardRecord](clipboardrecord/#constructor)() | Menginisialisasi instance baru dari kelas `ClipboardRecord`. |
+| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | Menginisialisasi instance baru dari kelas `ClipboardRecord`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | Mendapat atau mengatur persegi pembatas. |
-| [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | Mendapat atau menyetel resolusi. |
+| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | Mendapatkan atau mengatur rect pembatas. |
+| [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | Mendapatkan atau mengatur resolusi. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/) { get; } | Mendapatkan tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

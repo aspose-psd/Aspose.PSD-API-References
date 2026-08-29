@@ -1,27 +1,28 @@
 ---
-title: Layer.HasAlpha
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat nilai yang menunjukkan apakah instance ini memiliki alpha.
+title: "Layer.HasAlpha"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan nilai yang menunjukkan apakah instance ini memiliki alfa"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
+{{< psd/tize >}}
 ## Layer.HasAlpha property
 
-Mendapat nilai yang menunjukkan apakah instance ini memiliki alpha.
+Mendapatkan nilai yang menunjukkan apakah instance ini memiliki alfa.
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki alfa; jika tidak,`PALSU` .
+`true` jika instance ini memiliki alfa; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

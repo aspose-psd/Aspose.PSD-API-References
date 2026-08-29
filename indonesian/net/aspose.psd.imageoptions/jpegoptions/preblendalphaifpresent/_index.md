@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.PreblendAlphaIfPresent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegOptions Properti. Mendapat atau menyetel nilai yang menunjukkan apakah komponen merah hijau dan biru harus dicampur dengan warna latar belakang jika ada saluran alfa.
+title: "JpegOptions.PreblendAlphaIfPresent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah komponen merah, hijau, dan biru harus dicampur dengan warna latar belakang jika kanal alfa hadir"
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
+{{< psd/tize >}}
 ## JpegOptions.PreblendAlphaIfPresent property
 
-Mendapat atau menyetel nilai yang menunjukkan apakah komponen merah, hijau, dan biru harus dicampur dengan warna latar belakang, jika ada saluran alfa.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah komponen merah, hijau, dan biru harus dicampur dengan warna latar belakang, jika saluran alfa hadir.
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

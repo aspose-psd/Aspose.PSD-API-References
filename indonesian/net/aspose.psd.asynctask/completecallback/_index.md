@@ -1,29 +1,30 @@
 ---
-title: Delegate CompleteCallback
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Fungsi callback untuk menerima event penyelesaian tugas.
+title: "Delegasi CompleteCallback"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Fungsi callback untuk menerima acara penyelesaian tugas"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.asynctask/completecallback/
 ---
+{{< psd/tize >}}
 ## CompleteCallback delegate
 
-Fungsi callback untuk menerima event penyelesaian tugas.
+Fungsi callback untuk menerima acara penyelesaian tugas.
 
 ```csharp
 public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Exception error);
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| task | IAsyncTask | Tugas asinkron. |
-| wasCancelled | Boolean | jika diatur ke`BENAR` [dibatalkan]. |
+| task | IAsyncTask | Tugas asynchronous. |
+| wasCancelled | Boolean | jika diatur ke `true` [dibatalkan]. |
 | error | Exception | Kesalahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../iasynctask/)
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

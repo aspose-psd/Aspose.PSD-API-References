@@ -1,31 +1,32 @@
 ---
-title: JpegExifData.SerializeExifData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData metode. Membuat serial data EXIF. Menulis nilai dan konten tag. Tag size yang paling berpengaruh adalah isi tag Thumbnail.
+title: "JpegExifData.SerializeExifData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode JpegExifData. Menyerialkan data EXIF. Menulis nilai dan konten tag. Tag ukuran yang paling berpengaruh adalah konten tag Thumbnail"
 type: docs
 weight: 270
 url: /id/net/aspose.psd.exif/jpegexifdata/serializeexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SerializeExifData method
 
-Membuat serial data EXIF. Menulis nilai dan konten tag. Tag size yang paling berpengaruh adalah isi tag Thumbnail.
+Menyerialkan data EXIF. Menulis nilai tag dan isinya. Tag ukuran yang paling berpengaruh adalah isi tag Thumbnail.
 
 ```csharp
 public byte[] SerializeExifData()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Data EXIF berseri.
+Data EXIF yang diserialkan.
 
-### Perkataan
+## Catatan
 
-Ukuran segmen keseluruhan harus kurang dari atau sama dengan byte MaxExifSegmentSize untuk menghasilkan gambar jpeg yang benar. Petunjuk: coba kurangi ukuran thumbnail atau ubah kompresinya jika Anda memiliki ukuran bagian EXIF yang terlalu besar.
+Ukuran segmen keseluruhan harus kurang dari atau sama dengan byte MaxExifSegmentSize agar menghasilkan gambar jpeg yang benar. Petunjuk: coba kurangi ukuran thumbnail atau ubah kompresinya jika ukuran bagian EXIF terlalu besar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

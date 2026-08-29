@@ -1,55 +1,56 @@
 ---
-title: Layer.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer metode. Menentukan apakah yang ditentukanObject  sama dengan instance ini.
+title: "Layer.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Layer. Menentukan apakah Object yang ditentukan sama dengan instance ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.schemas.photoshop/layer/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object) {#equals_1}
 
-Menentukan apakah yang ditentukanObject , sama dengan instance ini.
+Menentukan apakah Object yang ditentukan, sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(Layer) {#equals}
 
-Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama.
+Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama.
 
 ```csharp
 public bool Equals(Layer other)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | Layer | Objek untuk dibandingkan dengan objek ini. |
+| other | Lapisan | Objek untuk dibandingkan dengan objek ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-true jika objek saat ini sama dengan*other* parameter; jika tidak, false.
+true jika objek saat ini sama dengan parameter *other*; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

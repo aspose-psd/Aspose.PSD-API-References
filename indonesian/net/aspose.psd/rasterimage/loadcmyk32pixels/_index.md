@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadCmyk32Pixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Memuat piksel dalam format CMYK.
+title: "RasterImage.LoadCmyk32Pixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Memuat piksel dalam format CMYK"
 type: docs
 weight: 370
 url: /id/net/aspose.psd/rasterimage/loadcmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadCmyk32Pixels method
 
 Memuat piksel dalam format CMYK.
@@ -14,19 +15,19 @@ Memuat piksel dalam format CMYK.
 public int[] LoadCmyk32Pixels(Rectangle rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk memuat piksel. |
+| persegi panjang | Rectangle | Persegi panjang untuk memuat piksel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Piksel CMYK yang dimuat ditampilkan sebagai nilai inateger 32-bit.
+Piksel CMYK yang dimuat disajikan sebagai nilai integer 32-bit.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

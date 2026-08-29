@@ -1,11 +1,12 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Menghapus semua penggantian font
+title: "FontSettings.ClearFontReplacements"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Menghapus semua penggantian font"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
 Menghapus semua penggantian font
@@ -14,9 +15,9 @@ Menghapus semua penggantian font
 public static void ClearFontReplacements()
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk membatasi penggunaan font secara terprogram.
+Kode berikut menunjukkan kemampuan untuk secara programatik membatasi font menggunakan.
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -51,10 +53,10 @@ finally
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

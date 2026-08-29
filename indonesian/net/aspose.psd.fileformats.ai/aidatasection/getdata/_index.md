@@ -1,27 +1,28 @@
 ---
-title: AiDataSection.GetData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiDataSection metode. Mendapat data string.
+title: "AiDataSection.GetData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AiDataSection. Mendapatkan data string"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.ai/aidatasection/getdata/
 ---
+{{< psd/tize >}}
 ## AiDataSection.GetData method
 
-Mendapat data string.
+Mendapatkan data string.
 
 ```csharp
 public string GetData()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Data string bagian
+Data string dari bagian
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiDataSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aidatasection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

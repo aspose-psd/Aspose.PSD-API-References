@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat nilai yang menunjukkan apakah gambar berbentuk ubin.
+title: "TiffOptions.IsTiled"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan nilai yang menunjukkan apakah gambar ditiled"
 type: docs
-weight: 240
+weight: 250
 url: /id/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-Mendapat nilai yang menunjukkan apakah gambar berbentuk ubin.
+Mendapatkan nilai yang menunjukkan apakah gambar berubin.
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR`jika gambar di-tile; jika tidak,`PALSU` .
+`true` jika gambar ditiled; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

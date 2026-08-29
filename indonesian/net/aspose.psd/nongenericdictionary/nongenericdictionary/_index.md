@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary konstruktor. Menginisialisasi instance baru dariNonGenericDictionary kelas.
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor NonGenericDictionary. Menginisialisasi instance baru dari kelas NonGenericDictionary"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-Menginisialisasi instance baru dari[`NonGenericDictionary`](../) kelas.
+Menginisialisasi instance baru dari kelas [`NonGenericDictionary`](../).
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | dictionary | IDictionary | Kamus yang akan digunakan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

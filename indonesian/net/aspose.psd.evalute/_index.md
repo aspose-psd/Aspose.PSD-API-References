@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pemrosesan header DIB namespace.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace pemrosesan header DIB"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd.evalute/
 ---
-Pemrosesan header DIB namespace.
+{{< psd/tize >}}
+Namespace memproses header DIB.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
 | [EvalException](./evalexception/) | Pengecualian khusus untuk kesalahan evaluasi |
 

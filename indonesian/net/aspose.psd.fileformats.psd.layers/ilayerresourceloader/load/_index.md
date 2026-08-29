@@ -1,34 +1,35 @@
 ---
-title: ILayerResourceLoader.Load
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ILayerResourceLoader metode. MemuatLayerResource .
+title: "ILayerResourceLoader.Load"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ILayerResourceLoader. Memuat LayerResource"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.Load method
 
-Memuat[`LayerResource`](../../layerresource/) .
+Memuat [`LayerResource`](../../layerresource/).
 
 ```csharp
 public LayerResource Load(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kontainer aliran untuk memuat dari. |
+| streamContainer | StreamContainer | Kontainer aliran untuk dimuat dari. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sumber daya yang dimuat.
+Resource yang dimuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../layerresource/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

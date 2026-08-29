@@ -1,27 +1,28 @@
 ---
-title: TextShape.Text
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextShape Properti. Mendapat atau menyetel teks yang digambar.
+title: "TextShape.Text"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TextShape properti. Mendapatkan atau mengatur teks yang digambar"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
-Mendapat atau menyetel teks yang digambar.
+Mendapatkan atau mengatur teks yang digambar.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Teks yang digambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../textshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

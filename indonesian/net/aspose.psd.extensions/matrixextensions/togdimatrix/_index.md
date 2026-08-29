@@ -1,32 +1,33 @@
 ---
-title: MatrixExtensions.ToGdiMatrix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MatrixExtensions metode. MengubahMatrix keMatrix .
+title: "MatrixExtensions.ToGdiMatrix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode MatrixExtensions. Mengonversi Matrix ke Matrix"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/matrixextensions/togdimatrix/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions.ToGdiMatrix method
 
-Mengubah[`Matrix`](../../../aspose.psd/matrix/) keMatrix .
+Mengonversi [`Matrix`](../../../aspose.psd/matrix/) ke Matrix.
 
 ```csharp
 public static Matrix ToGdiMatrix(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Itu[`Matrix`](../../../aspose.psd/matrix/) untuk mengubah. |
+| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiMatrix.
+Matrix yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [MatrixExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../matrixextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

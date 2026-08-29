@@ -1,11 +1,12 @@
 ---
-title: GlobalAngleResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalAngleResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "GlobalAngleResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalAngleResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/globalangleresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalAngleResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

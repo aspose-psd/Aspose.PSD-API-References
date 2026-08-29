@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini diredupkan. Mengurangi intensitas gambar terkait dan gambar bitmap yang terdapat dalam lapisan.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini meredup. Mengurangi intensitas gambar terhubung dan gambar bitmap yang terdapat dalam lapisan"
 type: docs
-weight: 50
+weight: 70
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini diredupkan. Mengurangi intensitas gambar terkait dan gambar bitmap yang terdapat dalam lapisan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini diredupkan. Mengurangi intensitas gambar terhubung dan gambar bitmap yang terdapat dalam lapisan.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika lapisan ini redup; jika tidak,`PALSU` .
+`true` jika lapisan ini meredup; sebaliknya, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

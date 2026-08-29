@@ -1,11 +1,12 @@
 ---
-title: Image.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. Mendapatkan ukuran gambar.
+title: "Image.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mengambil ukuran gambar"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
 Mendapatkan ukuran gambar.
@@ -14,15 +15,15 @@ Mendapatkan ukuran gambar.
 public Size Size { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

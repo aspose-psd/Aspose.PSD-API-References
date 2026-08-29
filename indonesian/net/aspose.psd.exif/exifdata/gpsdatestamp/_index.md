@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDateStamp
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel informasi tanggal dan waktu perekaman string karakter GPS relatif terhadap UTC Waktu Universal Terkoordinasi.
+title: "ExifData.GPSDateStamp"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur string karakter GPS yang merekam informasi tanggal dan waktu relatif terhadap UTC (Coordinated Universal Time)"
 type: docs
 weight: 390
 url: /id/net/aspose.psd.exif/exifdata/gpsdatestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDateStamp property
 
-Mendapat atau menyetel informasi tanggal dan waktu perekaman string karakter GPS relatif terhadap UTC (Waktu Universal Terkoordinasi).
+Mendapatkan atau mengatur informasi tanggal dan waktu rekaman string karakter GPS relatif terhadap UTC (Coordinated Universal Time).
 
 ```csharp
 public string GPSDateStamp { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Informasi tanggal dan waktu perekaman string karakter GPS relatif terhadap UTC (Waktu Universal Terkoordinasi).
+String karakter GPS yang merekam informasi tanggal dan waktu relatif terhadap UTC (Coordinated Universal Time).
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,53 +1,54 @@
 ---
-title: ImageAttributes.SetColorKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Mengatur kunci warna untuk kategori default.
+title: "ImageAttributes.SetColorKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menetapkan kunci warna untuk kategori default"
 type: docs
 weight: 120
 url: /id/net/aspose.psd/imageattributes/setcolorkey/
 ---
+{{< psd/tize >}}
 ## SetColorKey(Color, Color) {#setcolorkey}
 
-Mengatur kunci warna untuk kategori default.
+Menetapkan kunci warna untuk kategori default.
 
 ```csharp
 public void SetColorKey(Color colorLow, Color colorHigh)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| colorLow | Color | Nilai kunci warna rendah. |
-| colorHigh | Color | Nilai kunci warna tinggi. |
+| colorLow | Warna | Nilai kunci warna rendah. |
+| colorHigh | Warna | Nilai kunci warna tinggi. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorKey(Color, Color, ColorAdjustType) {#setcolorkey_1}
 
-Mengatur kunci warna (rentang transparansi) untuk kategori tertentu.
+Menetapkan kunci warna (rentang transparansi) untuk kategori yang ditentukan.
 
 ```csharp
 public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| colorLow | Color | Nilai kunci warna rendah. |
-| colorHigh | Color | Nilai kunci warna tinggi. |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori yang ditetapkan oleh kunci warna. |
+| colorLow | Warna | Nilai kunci warna rendah. |
+| colorHigh | Warna | Nilai kunci warna tinggi. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana kunci warna diatur. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

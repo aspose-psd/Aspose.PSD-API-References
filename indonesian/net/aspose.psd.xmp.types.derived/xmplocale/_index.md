@@ -1,14 +1,15 @@
 ---
-title: Class XmpLocale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale kelas. Merupakan kode bahasa.
+title: "Kelas XmpLocale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale class. Mewakili kode bahasa"
 type: docs
-weight: 6170
+weight: 6670
 url: /id/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
-Merupakan kode bahasa.
+Mewakili kode bahasa.
 
 ```csharp
 public sealed class XmpLocale : XmpText
@@ -16,30 +17,30 @@ public sealed class XmpLocale : XmpText
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | Menginisialisasi instance baru dari`XmpLocale` kelas. |
+| [XmpLocale](xmplocale/)(string) | Menginisialisasi instance baru dari kelas `XmpLocale`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Mendapat atau menetapkan nilai teks. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Mendapatkan atau mengatur nilai teks. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Perkataan
+## Catatan
 
 Lihat IETF RFC 3066.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

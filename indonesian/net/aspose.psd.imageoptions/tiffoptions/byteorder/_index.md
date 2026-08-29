@@ -1,24 +1,25 @@
 ---
-title: TiffOptions.ByteOrder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan urutan tiff byte.
+title: "TiffOptions.ByteOrder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nilai yang menunjukkan urutan byte tiff"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ByteOrder property
 
-Mendapat atau menetapkan nilai yang menunjukkan urutan tiff byte.
+Mendapatkan atau mengatur nilai yang menunjukkan urutan byte tiff.
 
 ```csharp
 public TiffByteOrder ByteOrder { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

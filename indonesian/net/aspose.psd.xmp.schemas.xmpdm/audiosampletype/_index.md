@@ -1,14 +1,15 @@
 ---
-title: Class AudioSampleType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType kelas. Mewakili jenis sampel AudioXmpDynamicMediaPackage .
+title: "Kelas AudioSampleType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType kelas. Mewakili tipe sampel Audio dalam XmpDynamicMediaPackage."
 type: docs
-weight: 5850
+weight: 6350
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
+{{< psd/tize >}}
 ## AudioSampleType class
 
-Mewakili jenis sampel Audio[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+Mewakili tipe sampel Audio dalam [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/).
 
 ```csharp
 public sealed class AudioSampleType
@@ -16,10 +17,10 @@ public sealed class AudioSampleType
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | Merupakan sampel audio terkompresi. |
-| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | Mewakili sampel audio yang Dikemas. |
+| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | Mewakili sampel audio terkompresi. |
+| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | Mewakili sampel audio terpaket. |
 | static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | Mewakili sampel audio 16Int. |
 | static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | Mewakili sampel audio 24Int. |
 | static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | Mewakili sampel audio 32Float. |
@@ -28,13 +29,13 @@ public sealed class AudioSampleType
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

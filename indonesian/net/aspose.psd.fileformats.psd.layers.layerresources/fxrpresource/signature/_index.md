@@ -1,23 +1,24 @@
 ---
-title: FxrpResource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FxrpResource Properti. Mendapat tanda tangan.
+title: "FxrpResource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FxrpResource properti. Mendapatkan tanda tangan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Signature property
 
-Mendapat tanda tangan.
+Mendapatkan tanda tangan.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FxrpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

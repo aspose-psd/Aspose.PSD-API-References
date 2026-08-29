@@ -1,11 +1,12 @@
 ---
-title: Enum TextOrientation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.TextOrientation enum. Enumerasi untuk mode orientasi teks.
+title: "Enum TextOrientation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.TextOrientation. Enumerasi untuk mode orientasi teks"
 type: docs
-weight: 4010
+weight: 4480
 url: /id/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
 Enumerasi untuk mode orientasi teks.
@@ -16,14 +17,14 @@ public enum TextOrientation
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Horizontal | `0` | Orientasi teks horizontal. |
 | Vertical | `2` | Orientasi teks vertikal. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk mengedit properti TextOrientation baru. Ini tidak memengaruhi rendering saat ini, tetapi hanya memungkinkan Anda untuk mengedit nilai properti.
+Kode berikut menunjukkan kemampuan mengedit properti TextOrientation baru. Ini tidak memengaruhi rendering saat ini, tetapi hanya memungkinkan Anda mengedit nilai properti.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Vertical)
     {
-        // Bacaan yang benar
+        // Pembacaan yang benar
     }
     else
     {
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Horizontal)
     {
-        // Bacaan yang benar
+        // Pembacaan yang benar
     }
     else
     {
@@ -63,9 +64,9 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

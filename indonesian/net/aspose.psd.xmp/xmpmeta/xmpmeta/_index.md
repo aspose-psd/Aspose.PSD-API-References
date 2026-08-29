@@ -1,43 +1,44 @@
 ---
-title: XmpMeta.XmpMeta
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMeta konstruktor. Menginisialisasi instance baru dariXmpMeta kelas.
+title: "XmpMeta.XmpMeta"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpMeta. Menginisialisasi instance baru dari kelas XmpMeta"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmpmeta/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpMeta`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta(string toolkitVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| toolkitVersion | String | Versi perangkat lunak Adobe XMP. |
+| toolkitVersion | String | Versi toolkit Adobe XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMeta](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpmeta/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpMeta() {#constructor}
 
-Menginisialisasi instance baru dari[`XmpMeta`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMeta](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpmeta/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

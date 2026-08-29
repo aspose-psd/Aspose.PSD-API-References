@@ -1,23 +1,24 @@
 ---
-title: XmpArray.Values
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpArray Properti. Mendapat berbagai nilai di dalamnyaXmpArray .
+title: "XmpArray.Values"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpArray properti. Mendapatkan array nilai di dalam XmpArray"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/xmparray/values/
 ---
+{{< psd/tize >}}
 ## XmpArray.Values property
 
-Mendapat berbagai nilai di dalamnya[`XmpArray`](../) .
+Mendapatkan array nilai di dalam [`XmpArray`](../).
 
 ```csharp
 public string[] Values { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpArray](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmparray/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

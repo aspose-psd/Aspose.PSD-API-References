@@ -1,11 +1,12 @@
 ---
-title: AiImage.AddLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage metode. Menambahkan bagian lapisan AI.
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AiImage. Menambahkan bagian lapisan AI"
 type: docs
-weight: 130
+weight: 160
 url: /id/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
 Menambahkan bagian lapisan AI.
@@ -14,15 +15,15 @@ Menambahkan bagian lapisan AI.
 public void AddLayer(AiLayerSection layer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| layer | AiLayerSection | Bagian lapisan AI. |
+| lapisan | AiLayerSection | Bagian lapisan AI. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

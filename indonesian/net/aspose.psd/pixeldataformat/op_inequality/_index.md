@@ -1,32 +1,33 @@
 ---
-title: PixelDataFormat.op_Inequality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat metode. Mengembalikan hasil ketidaksetaraan untuk duaPixelDataFormat kelas.
+title: "PixelDataFormat.op_Inequality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat method. Mengembalikan hasil ketidaksamaan untuk dua kelas PixelDataFormat"
 type: docs
 weight: 390
 url: /id/net/aspose.psd/pixeldataformat/op_inequality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Inequality operator
 
-Mengembalikan hasil ketidaksetaraan untuk dua[`PixelDataFormat`](../) kelas.
+Mengembalikan hasil ketidaksamaan untuk dua kelas [`PixelDataFormat`](../).
 
 ```csharp
 public static bool operator !=(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | Pertama[`PixelDataFormat`](../) untuk membandingkan. |
-| pixelFormat2 | PixelDataFormat | Kedua[`PixelDataFormat`](../) untuk membandingkan. |
+| pixelFormat1 | PixelDataFormat | [`PixelDataFormat`](../) pertama untuk dibandingkan. |
+| pixelFormat2 | PixelDataFormat | [`PixelDataFormat`](../) kedua untuk dibandingkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika keduanya*pixelFormat1* Dan*pixelFormat2* berisi data yang tidak sama atau salah satu parameternya adalah nol.
+Benar jika *pixelFormat1* dan *pixelFormat2* keduanya berisi data yang tidak sama atau salah satu parameter bernilai null.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

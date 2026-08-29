@@ -1,11 +1,12 @@
 ---
-title: Enum TypeOfEntities
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.TypeOfEntities enum. Mewakili jenis entitas yang akan dirender
+title: "Enum TypeOfEntities"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ImageOptions.TypeOfEntities. Mewakili jenis entitas yang akan dirender"
 type: docs
-weight: 4970
+weight: 5460
 url: /id/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
 Mewakili jenis entitas yang akan dirender
@@ -16,14 +17,14 @@ public enum TypeOfEntities
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Entities2D | `0` | Merender entitas 2D |
-| Entities3D | `1` | Merender entitas 3D |
+| Entities2D | `0` | Render entitas 2D |
+| Entities3D | `1` | Render entitas 3D |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

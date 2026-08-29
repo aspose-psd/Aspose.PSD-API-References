@@ -1,11 +1,12 @@
 ---
-title: Class PsdImageResourceException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException kelas. Pengecualian sumber daya gambar psd.
+title: "Kelas PsdImageResourceException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException. Pengecualian sumber daya gambar psd"
 type: docs
 weight: 600
 url: /id/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException class
 
 Pengecualian sumber daya gambar psd.
@@ -16,21 +17,21 @@ public class PsdImageResourceException : PsdImageException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | Menginisialisasi instance baru dari`PsdImageResourceException` kelas. |
-| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | Menginisialisasi instance baru dari`PsdImageResourceException` kelas. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | Menginisialisasi instance baru dari kelas `PsdImageResourceException`. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | Menginisialisasi instance baru dari kelas `PsdImageResourceException`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | Mendapatkan sumber daya psd yang menyebabkan pengecualian ini. |
+| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | Mendapatkan sumber psd yang menyebabkan pengecualian ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImageException](../psdimageexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: RenditionClass.DefinedValues
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RenditionClass Properti. Nilai yang ditentukan
+title: "RenditionClass.DefinedValues"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RenditionClass properti. Nilai yang didefinisikan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.types.derived/renditionclass/definedvalues/
 ---
+{{< psd/tize >}}
 ## RenditionClass.DefinedValues property
 
-Nilai yang ditentukan
+Nilai yang didefinisikan
 
 ```csharp
 public static string[] DefinedValues { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RenditionClass](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel waktu tanggal pembuatan layer.
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur tanggal dan waktu pembuatan layer"
 type: docs
-weight: 200
+weight: 210
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
-Mendapat atau menyetel waktu tanggal pembuatan layer.
+Mendapatkan atau mengatur tanggal dan waktu pembuatan lapisan.
 
 ```csharp
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Waktu tanggal pembuatan layer. Jika tidak ada data tentang pembuatan DateTime maka kembalikan Waktu Unix terlebih dahulu epoch
+Tanggal dan waktu pembuatan layer. Jika tidak ada data tentang DateTime pembuatan maka mengembalikan epoch Unix pertama
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

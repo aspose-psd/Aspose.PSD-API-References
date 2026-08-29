@@ -1,44 +1,45 @@
 ---
-title: GaussianBlurFilterOptions.GaussianBlurFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussianBlurFilterOptions konstruktor. Menginisialisasi instance baru dariGaussianBlurFilterOptions kelas.
+title: "GaussianBlurFilterOptions.GaussianBlurFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor GaussianBlurFilterOptions. Menginisialisasi sebuah instance baru dari kelas GaussianBlurFilterOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions(int, double) {#constructor_1}
 
-Menginisialisasi instance baru dari[`GaussianBlurFilterOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`GaussianBlurFilterOptions`](../).
 
 ```csharp
 public GaussianBlurFilterOptions(int radius, double sigma)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| radius | Int32 | Radius. |
-| sigma | Double | sigma. |
+| jari-jari | Int32 | Jari-jari. |
+| sigma | Double | Sigma. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussianBlurFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GaussianBlurFilterOptions() {#constructor}
 
-Menginisialisasi instance baru dari[`GaussianBlurFilterOptions`](../) class. Dengan pengaturan default.
+Menginisialisasi sebuah instance baru dari kelas [`GaussianBlurFilterOptions`](../). Dengan pengaturan default.
 
 ```csharp
 public GaussianBlurFilterOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussianBlurFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

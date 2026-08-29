@@ -1,14 +1,15 @@
 ---
-title: Class LinkedLayersManager
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager kelas. Kelas manajer lapisan tertaut.
+title: "Kelas LinkedLayersManager"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager kelas. Manajer lapisan tertaut kelas"
 type: docs
-weight: 3400
+weight: 3800
 url: /id/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager class
 
-Kelas manajer lapisan tertaut.
+Kelas manajer lapisan terkait.
 
 ```csharp
 public sealed class LinkedLayersManager
@@ -16,16 +17,16 @@ public sealed class LinkedLayersManager
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Mendapat layer dengan link group id. |
-| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Mendapat ID grup tautan yang terkait dengan lapisan. |
-| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | Menautkan lapisan masukan dan mengembalikan LingGroupId. |
-| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Membatalkan tautan lapisan.. |
+| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Mendapatkan lapisan berdasarkan ID grup tautan. |
+| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Mendapatkan ID grup tautan yang terkait dengan lapisan. |
+| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | Menautkan lapisan input dan mengembalikan LingGroupId. |
+| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Melepaskan tautan lapisan.. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi Linked Layers di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat memanipulasi Linked Layers di Aspose.PSD
 
 ```csharp
 [C#]
@@ -33,12 +34,12 @@ Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi Linked Layers di As
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // tautkan semua layer dalam satu grup tertaut
+    // tautkan semua lapisan dalam satu grup tertaut
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
     // mendapatkan id untuk satu lapisan
@@ -48,16 +49,16 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // dapatkan semua lapisan tertaut dengan id grup tautan.
+    // mendapatkan semua lapisan tertaut berdasarkan ID grup tautan.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // batalkan tautan setiap lapisan dari grup
+    // lepaskan tautan setiap lapisan dari grup
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // mengambil NULL untuk ID grup tautan yang tidak memiliki lapisan dalam grup.
+    // mengembalikan NULL untuk ID grup tautan yang tidak memiliki lapisan dalam grup.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -67,9 +68,9 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

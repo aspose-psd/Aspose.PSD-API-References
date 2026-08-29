@@ -1,11 +1,12 @@
 ---
-title: SmartResourceCreator.GeneratePlacedResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartResourceCreator metode. Menghasilkan sumber daya yang ditempatkan.
+title: "SmartResourceCreator.GeneratePlacedResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SmartResourceCreator. Menghasilkan sumber daya yang ditempatkan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GeneratePlacedResource method
 
 Menghasilkan sumber daya yang ditempatkan.
@@ -14,15 +15,15 @@ Menghasilkan sumber daya yang ditempatkan.
 public PlLdResource GeneratePlacedResource()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dihasilkan[`PlLdResource`](../../plldresource/) contoh.
+Instansi [`PlLdResource`](../../plldresource/) yang dihasilkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlLdResource](../../plldresource/)
 * class [SmartResourceCreator](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

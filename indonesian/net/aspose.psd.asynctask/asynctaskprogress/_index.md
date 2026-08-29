@@ -1,14 +1,15 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress kelas. Memberikan info kemajuan untuk tugas asinkron.
+title: "Kelas AsyncTaskProgress"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.AsyncTask.AsyncTaskProgress. Menyediakan informasi kemajuan untuk tugas asinkron"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
-Memberikan info kemajuan untuk tugas asinkron.
+Memberikan informasi kemajuan untuk tugas asynchronous.
 
 ```csharp
 public class AsyncTaskProgress
@@ -16,20 +17,20 @@ public class AsyncTaskProgress
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Menginisialisasi instance baru dari`AsyncTaskProgress` kelas. |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Menginisialisasi instance baru dari kelas `AsyncTaskProgress`. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | Durasi tugas asinkron. |
-| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Progres tugas asinkron, dalam persen. |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Kemajuan tugas asinkron, dalam persen. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

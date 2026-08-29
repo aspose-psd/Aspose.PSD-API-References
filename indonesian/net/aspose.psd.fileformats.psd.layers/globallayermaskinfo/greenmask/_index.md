@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.GreenMask
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalLayerMaskInfo Properti. Mendapat atau menyetel topeng hijau.
+title: "GlobalLayerMaskInfo.GreenMask"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalLayerMaskInfo. Mendapatkan atau mengatur masker hijau"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.GreenMask property
 
-Mendapat atau menyetel topeng hijau.
+Mendapatkan atau mengatur masker hijau.
 
 ```csharp
 public short GreenMask { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Topeng hijau.
+Masker hijau.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalLayerMaskInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

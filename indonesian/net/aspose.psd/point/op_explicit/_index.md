@@ -1,32 +1,33 @@
 ---
-title: Point.op_Explicit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Mengonversi yang ditentukanPoint struktur ke aSizestruktur.
+title: "Point.op_Explicit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Mengonversi struktur Point yang ditentukan menjadi struktur Size."
 type: docs
 weight: 170
 url: /id/net/aspose.psd/point/op_explicit/
 ---
+{{< psd/tize >}}
 ## Point Explicit operator
 
-Mengonversi yang ditentukan[`Point`](../) struktur ke a[`Size`](../../size/)struktur.
+Mengonversi struktur [`Point`](../) yang ditentukan menjadi struktur [`Size`](../../size/).
 
 ```csharp
 public static explicit operator Size(Point point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Itu[`Point`](../) untuk dikonversi. |
+| point | Point | [`Point`](../) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Size`](../../size/) yang dihasilkan dari konversi.
+[`Size`](../../size/) yang dihasilkan dari konversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

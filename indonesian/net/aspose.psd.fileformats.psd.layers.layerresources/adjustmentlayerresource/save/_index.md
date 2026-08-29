@@ -1,29 +1,30 @@
 ---
-title: AdjustmentLayerResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AdjustmentLayerResource metode. Menyimpan sumber daya ke wadah aliran yang ditentukan.
+title: "AdjustmentLayerResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AdjustmentLayerResource. Menyimpan sumber ke kontainer aliran yang ditentukan"
 type: docs
-weight: 20
+weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource.Save method
 
-Menyimpan sumber daya ke wadah aliran yang ditentukan.
+Menyimpan sumber daya ke kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [AdjustmentLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../adjustmentlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

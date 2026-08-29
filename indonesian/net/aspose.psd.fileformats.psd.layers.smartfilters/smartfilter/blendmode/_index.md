@@ -1,24 +1,25 @@
 ---
-title: SmartFilter.BlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartFilter Properti. Mendapatkan atau menyetel mode pencampuran.
+title: "SmartFilter.BlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartFilter. Mendapatkan atau mengatur mode pencampuran"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/
 ---
+{{< psd/tize >}}
 ## SmartFilter.BlendMode property
 
-Mendapatkan atau menyetel mode pencampuran.
+Mendapatkan atau mengatur mode pencampuran.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [SmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

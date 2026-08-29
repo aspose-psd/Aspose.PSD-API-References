@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTask
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.AsyncTask.AsyncTask kelas. Kelas pabrik statis untuk membuat tugas asinkron
+title: "Kelas AsyncTask"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.AsyncTask.AsyncTask. Kelas pabrik statis untuk membuat tugas asinkron"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.asynctask/asynctask/
 ---
+{{< psd/tize >}}
 ## AsyncTask class
 
 Kelas pabrik statis untuk membuat tugas asinkron
@@ -16,14 +17,14 @@ public static class AsyncTask
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | static [Create](../../aspose.psd.asynctask/asynctask/create/#create)(AsyncTaskAction) | Membuat tugas asinkron tanpa hasil apa pun. |
 | static [Create](../../aspose.psd.asynctask/asynctask/create/#create_1)(AsyncTaskFunc) | Membuat tugas asinkron dengan hasil tipe generik. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Offset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExposureLayer Properti. Mendapat atau menyetel Offset. Untuk PS rentang Offset adalah dari 0.5 hingga 0.5
+title: "ExposureLayer.Offset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExposureLayer. Mendapatkan atau mengatur Offset. Untuk PS rentang Offset adalah dari 0.5 hingga 0.5"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/offset/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Offset property
 
-Mendapat atau menyetel Offset. Untuk PS rentang Offset adalah dari -0.5 hingga +0.5
+Mendapatkan atau mengatur Offset. Untuk rentang Offset pada PS adalah dari -0.5 hingga +0.5
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExposureLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ThumbnailResource Properti. Mendapat atau menyetel lebar thumbnail dalam piksel.
+title: "ThumbnailResource.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ThumbnailResource property. Mendapatkan atau mengatur lebar thumbnail dalam piksel"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.psd.resources/thumbnailresource/width/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Width property
 
-Mendapat atau menyetel lebar thumbnail dalam piksel.
+Mendapatkan atau mengatur lebar thumbnail dalam piksel.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar thumbnail.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ThumbnailResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

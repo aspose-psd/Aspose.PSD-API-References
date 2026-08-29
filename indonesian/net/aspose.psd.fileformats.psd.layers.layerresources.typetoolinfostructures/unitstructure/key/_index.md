@@ -1,23 +1,24 @@
 ---
-title: UnitStructure.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitStructure Properti. Mendapat kunci struktur.
+title: "UnitStructure.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UnitStructure. Mengambil kunci struktur"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Key property
 
-Mendapat kunci struktur.
+Mendapatkan kunci struktur.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnitStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Convert
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Mengubah format gambar ini menjadi format yang ditentukan dalam opsi.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Mengonversi format gambar ini ke format yang ditentukan dalam opsi"
 type: docs
-weight: 500
+weight: 560
 url: /id/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-Mengubah format gambar ini menjadi format yang ditentukan dalam opsi.
+Mengonversi format gambar ini ke format yang ditentukan dalam opsi.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newOptions | PsdOptions | Pilihan baru. |
+| newOptions | PsdOptions | Opsi baru. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan konversi format gambar PSD ke Color Modes/BitDepth lainnya.
+Contoh-contoh ini menunjukkan konversi format gambar PSD ke Mode Warna/BitDepth lainnya.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Contoh ini menunjukkan konversi format gambar PSD ke Color Modes/BitDepth lainny
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Contoh ini mendemonstrasikan konversi format gambar PSD ke Color Modes/BitDepth lainnya.
+// Contoh-contoh ini menunjukkan konversi format gambar PSD ke Mode Warna/BitDepth lainnya.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// Menyimpan ke PSD lalu memuat file yang disimpan dan menyimpannya ke PNG.
+// Menyimpan ke PSD kemudian memuat file yang disimpan dan menyimpan ke PNG.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -112,11 +113,11 @@ void SaveToPsdThenLoadAndSaveToPng(
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

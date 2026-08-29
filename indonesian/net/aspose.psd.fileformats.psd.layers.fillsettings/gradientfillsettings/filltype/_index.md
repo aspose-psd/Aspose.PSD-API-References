@@ -1,24 +1,25 @@
 ---
-title: GradientFillSettings.FillType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings Properti. Jenis isian
+title: "GradientFillSettings.FillType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GradientFillSettings. Tipe isian"
 type: docs
-weight: 70
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.FillType property
 
-Jenis isian
+Tipe isian.
 
 ```csharp
 public override FillType FillType { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FillType](../../filltype/)
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

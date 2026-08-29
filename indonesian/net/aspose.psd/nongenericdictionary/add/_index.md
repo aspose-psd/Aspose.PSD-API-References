@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.Add
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary metode. Menambahkan elemen dengan kunci dan nilai yang disediakan ke IDictionary objek.
+title: "NonGenericDictionary.Add"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode NonGenericDictionary. Menambahkan elemen dengan kunci dan nilai yang diberikan ke objek IDictionary"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/nongenericdictionary/add/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Add method
 
-Menambahkan elemen dengan kunci dan nilai yang disediakan ke IDictionary objek.
+Menambahkan elemen dengan kunci dan nilai yang diberikan ke objek IDictionary.
 
 ```csharp
 public void Add(object key, object value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | Object | Object untuk digunakan sebagai kunci elemen yang akan ditambahkan. |
-| value | Object | Object untuk digunakan sebagai nilai elemen yang akan ditambahkan. |
+| kunci | Object | Objek yang digunakan sebagai kunci elemen yang akan ditambahkan. |
+| nilai | Object | Objek yang digunakan sebagai nilai elemen yang akan ditambahkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

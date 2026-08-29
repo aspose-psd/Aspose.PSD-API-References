@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTimestamp
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel waktu GPS sebagai UTC Waktu Universal Terkoordinasi.
+title: "ExifData.GPSTimestamp"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur waktu GPS sebagai UTC Waktu Universal Terkoordinasi"
 type: docs
 weight: 640
 url: /id/net/aspose.psd.exif/exifdata/gpstimestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTimestamp property
 
-Mendapat atau menyetel waktu GPS sebagai UTC (Waktu Universal Terkoordinasi).
+Mendapatkan atau mengatur waktu GPS sebagai UTC (Coordinated Universal Time).
 
 ```csharp
 public TiffRational[] GPSTimestamp { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Waktu GPS sebagai UTC (Waktu Universal Terkoordinasi).
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

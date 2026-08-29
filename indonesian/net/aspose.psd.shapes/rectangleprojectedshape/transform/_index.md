@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleProjectedShape metode. Menerapkan transformasi yang ditentukan ke bentuk.
+title: "RectangleProjectedShape.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleProjectedShape. Menerapkan transformasi yang ditentukan ke bentuk"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.shapes/rectangleprojectedshape/transform/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Transform method
 
 Menerapkan transformasi yang ditentukan ke bentuk.
@@ -14,15 +15,15 @@ Menerapkan transformasi yang ditentukan ke bentuk.
 public override void Transform(Matrix transform)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| transform | Matrix | Transformasi untuk diterapkan. |
+| transform | Matrix | Transformasi yang akan diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanSeek
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer Properti. Mendapat nilai yang menunjukkan apakah streaming mendukung pencarian.
+title: "StreamContainer.CanSeek"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StreamContainer. Mendapatkan nilai yang menunjukkan apakah aliran mendukung pencarian"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/streamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanSeek property
 
-Mendapat nilai yang menunjukkan apakah streaming mendukung pencarian.
+Mendapatkan nilai yang menunjukkan apakah aliran mendukung pencarian.
 
 ```csharp
 public virtual bool CanSeek { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran mendukung pencarian; jika tidak,`PALSU`.
+`true` jika aliran mendukung pencarian; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

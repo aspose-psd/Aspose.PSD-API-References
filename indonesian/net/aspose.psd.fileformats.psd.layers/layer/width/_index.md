@@ -1,11 +1,12 @@
 ---
-title: Layer.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapatkan lebar gambar.
+title: "Layer.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan lebar gambar"
 type: docs
-weight: 320
+weight: 330
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
 Mendapatkan lebar gambar.
@@ -14,14 +15,14 @@ Mendapatkan lebar gambar.
 public override int Width { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

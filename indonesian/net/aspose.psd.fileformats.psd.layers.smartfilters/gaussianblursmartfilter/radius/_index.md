@@ -1,22 +1,23 @@
 ---
-title: GaussianBlurSmartFilter.Radius
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussianBlurSmartFilter Properti. Mendapat atau menyetel radius gaussian smart filter.
+title: "GaussianBlurSmartFilter.Radius"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GaussianBlurSmartFilter properti. Mendapatkan atau mengatur radius filter pintar gaussian"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.Radius property
 
-Mendapat atau menyetel radius gaussian smart filter.
+Mendapatkan atau mengatur radius filter pintar Gaussian.
 
 ```csharp
 public double Radius { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan dukungan antarmuka filter cerdas.
+Contoh ini menunjukkan dukungan antarmuka filter pintar.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // edit filter pintar
+    // sunting filter pintar
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // periksa nilai filter
@@ -59,7 +60,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // menerapkan perubahan
+    // terapkan perubahan
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Terapkan filter
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussianBlurSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

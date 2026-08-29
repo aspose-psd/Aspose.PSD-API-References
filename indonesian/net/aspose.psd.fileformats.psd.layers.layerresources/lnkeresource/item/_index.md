@@ -1,36 +1,37 @@
 ---
-title: LnkeResource.Item
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LnkeResource Properti. MendapatkanLiFeDataSource pada indeks yang ditentukan.
+title: "LnkeResource.Item"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LnkeResource. Mendapatkan LiFeDataSource pada indeks yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-Mendapatkan[`LiFeDataSource`](../../lifedatasource/) pada indeks yang ditentukan.
+Mendapatkan [`LiFeDataSource`](../../lifedatasource/) pada indeks yang ditentukan.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
 ```
 
-| Parameter | Keterangan |
+| Parameter | Deskripsi |
 | --- | --- |
 | index | Indeks. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`LiFeDataSource`](../../lifedatasource/) contoh.
+Instansi [`LiFeDataSource`](../../lifedatasource/).
 
-### Nilai properti
+### Property Value
 
-Itu[`LiFeDataSource`](../../lifedatasource/) .
+[`LiFeDataSource`](../../lifedatasource/).
 
-### Lihat juga
+### Lihat Juga
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

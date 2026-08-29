@@ -1,38 +1,39 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadersRegistry metode. Membuat loader pertama yang ditemukan cocok untuk yang ditentukanstream dan opsionalloadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ImageLoadersRegistry method. Membuat pemuat pertama yang ditemukan yang cocok untuk stream yang ditentukan dan opsional loadOptions"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-Membuat loader pertama yang ditemukan cocok untuk yang ditentukan*stream* dan opsional*loadOptions* .
+Membuat pemuat pertama yang ditemukan yang cocok untuk *stream* yang ditentukan dan opsional *loadOptions*.
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Aliran. |
-| loadOptions | LoadOptions | Opsi beban. |
+| loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Loader yang mendukung yang ditentukan*stream* Dan*loadOptions* atau null jika tidak ada pemuat yang ditemukan.
+Pemuat yang mendukung *stream* dan *loadOptions* yang ditentukan atau null jika tidak ada pemuat seperti itu yang ditemukan.
 
-### Perkataan
+## Catatan
 
-Pemuat pertama sebenarnya adalah yang terakhir didaftarkan.
+Pemuat pertama sebenarnya akan menjadi yang terakhir terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageloadersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

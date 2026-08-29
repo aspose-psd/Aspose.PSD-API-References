@@ -1,32 +1,33 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mendapat opsi default.
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mendapatkan opsi default"
 type: docs
-weight: 170
+weight: 180
 url: /id/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
-Mendapat opsi default.
+Mendapatkan opsi default.
 
 ```csharp
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | args | Object[] | Argumen. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Opsi default
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

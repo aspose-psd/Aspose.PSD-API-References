@@ -1,14 +1,15 @@
 ---
-title: Interface IPatternFillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings antarmuka. Antarmuka untuk pengaturan isian Pola
+title: "Antarmuka IPatternFillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings. Antarmuka untuk pengaturan isian Pattern"
 type: docs
-weight: 2030
+weight: 2150
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
-Antarmuka untuk pengaturan isian Pola
+Antarmuka untuk pengaturan isi Pola
 
 ```csharp
 public interface IPatternFillSettings : IFillSettings
@@ -16,22 +17,23 @@ public interface IPatternFillSettings : IFillSettings
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Mendapat atau menyetel offset horizontal. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah ini`IPatternFillSettings`ditautkan. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Mendapat atau menyetel data pola. |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Mendapat atau menyetel tinggi pola. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Mendapat atau menyetel pengidentifikasi pola. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Mendapat atau menetapkan nama pola. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Mendapat atau mengatur lebar pola. |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Mendapat atau mengatur jenis titik. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Mendapat atau menyetel skala. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Mendapat atau menyetel offset vertikal. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | Mendapatkan atau mengatur sudut. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Mendapatkan atau mengatur offset horizontal. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah `IPatternFillSettings` ini terhubung. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Mendapatkan data pola. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Mendapatkan atau mengatur tinggi pola. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi pola. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Mendapatkan atau mengatur nama pola. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Mendapatkan atau mengatur lebar pola. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Mendapatkan atau mengatur tipe titik. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Mendapatkan atau mengatur skala. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Mendapatkan atau mengatur offset vertikal. |
 
-### Contoh
+## Contoh
 
-Kode berikut menyimpan gambar dengan pola Fill Layer dan mendemonstrasikan bagaimana Aspose.PSD merender pola tersebut.
+Kode berikut menyimpan gambar dengan lapisan isian pola dan menunjukkan cara Aspose.PSD merender pola tersebut.
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -81,10 +83,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IFillSettings](../ifillsettings/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

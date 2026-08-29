@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecord.Type
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathRecord Properti. Mendapatkan tipe.
+title: "VectorPathRecord.Type"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorPathRecord. Mengambil tipe."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
 Mendapatkan tipe.
@@ -14,15 +15,15 @@ Mendapatkan tipe.
 public abstract VectorPathType Type { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis Jalur Vektor.
+Tipe Jalur Vektor.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel penulis gambar yang digunakan oleh Windows Explorer.
+title: "TiffOptions.XPAuthor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur penulis gambar yang digunakan oleh Windows Explorer"
 type: docs
-weight: 590
+weight: 600
 url: /id/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-Mendapat atau menyetel penulis gambar, yang digunakan oleh Windows Explorer.
+Mendapatkan atau mengatur penulis gambar, yang digunakan oleh Windows Explorer.
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Penulis Gambar, digunakan oleh Windows Explorer. The`XPAuthor` diabaikan oleh Windows Explorer jika[`Artist`](../artist/) tag ada.
+Penulis Gambar, digunakan oleh Windows Explorer. `XPAuthor` diabaikan oleh Windows Explorer jika tag [`Artist`](../artist/) ada.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

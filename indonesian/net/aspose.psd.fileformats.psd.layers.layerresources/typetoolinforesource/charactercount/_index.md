@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.CharacterCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau menyetel jumlah karakter.
+title: "TypeToolInfoResource.CharacterCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur jumlah karakter"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.CharacterCount property
 
-Mendapat atau menyetel jumlah karakter.
+Mendapatkan atau mengatur jumlah karakter.
 
 ```csharp
 public int CharacterCount { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah karakter.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

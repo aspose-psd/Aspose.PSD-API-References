@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPTitle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau mengatur informasi tentang gambar yang digunakan oleh Windows Explorer.
+title: "TiffOptions.XPTitle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur informasi tentang gambar yang digunakan oleh Windows Explorer"
 type: docs
-weight: 640
+weight: 650
 url: /id/net/aspose.psd.imageoptions/tiffoptions/xptitle/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPTitle property
 
-Mendapat atau mengatur informasi tentang gambar, yang digunakan oleh Windows Explorer.
+Mendapatkan atau mengatur informasi tentang gambar, yang digunakan oleh Windows Explorer.
 
 ```csharp
 public string XPTitle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Informasi tentang image, digunakan oleh Windows Explorer. The`XPTitle` diabaikan oleh Windows Explorer jika[`ImageDescription`](../imagedescription/) tag ada.
+Informasi tentang gambar, digunakan oleh Windows Explorer. `XPTitle` diabaikan oleh Windows Explorer jika tag [`ImageDescription`](../imagedescription/) ada.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

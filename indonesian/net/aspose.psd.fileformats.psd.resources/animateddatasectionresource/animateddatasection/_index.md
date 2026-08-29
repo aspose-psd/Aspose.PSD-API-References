@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionResource.AnimatedDataSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AnimatedDataSectionResource Properti. Mendapat atau menyetel struktur bagian data animasi.
+title: "AnimatedDataSectionResource.AnimatedDataSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AnimatedDataSectionResource. Mendapatkan atau mengatur struktur bagian data animasi"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.AnimatedDataSection property
 
-Mendapat atau menyetel struktur bagian data animasi.
+Mendapatkan atau mengatur struktur bagian data animasi.
 
 ```csharp
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara menyetel/memperbarui waktu tunda dalam kerangka waktu data animasi.
+Kode berikut menunjukkan cara mengatur/memperbarui waktu tunda dalam bingkai timeline data animasi.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Membuat rekaman penundaan frame dengan nilai 100 centi-second yang sama dengan 1 detik.
+            // Membuat catatan penundaan bingkai dengan nilai 100 senti-detik yang setara dengan 1 detik.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // atur waktu dalam centi-seconds.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/)
 * class [AnimatedDataSectionResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur sensitivitas fotografi.
+title: "ExifData.PhotographicSensitivity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur sensitivitas fotografi"
 type: docs
 weight: 830
 url: /id/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.PhotographicSensitivity property
 
-Mendapat atau mengatur sensitivitas fotografi.
+Mendapatkan atau mengatur sensitivitas fotografi.
 
 ```csharp
 public uint PhotographicSensitivity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sensitivitas fotografi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IRasterImageRawDataLoader.RawDataSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IRasterImageRawDataLoader Properti. Mendapat pengaturan data mentah saat ini. Perhatikan saat menggunakan setelan ini data dimuat tanpa konversi.
+title: "IRasterImageRawDataLoader.RawDataSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IRasterImageRawDataLoader. Mendapatkan pengaturan data mentah saat ini. Catatan: ketika menggunakan pengaturan ini data dimuat tanpa konversi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/irasterimagerawdataloader/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.RawDataSettings property
 
-Mendapat pengaturan data mentah saat ini. Perhatikan saat menggunakan setelan ini, data dimuat tanpa konversi.
+Mendapatkan pengaturan data mentah saat ini. Catatan saat menggunakan pengaturan ini data dimuat tanpa konversi.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengaturan data mentah saat ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* ruang nama [Aspose.PSD](../../irasterimagerawdataloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

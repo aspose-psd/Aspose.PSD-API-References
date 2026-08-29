@@ -1,20 +1,21 @@
 ---
-title: Thumbnail.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Thumbnail Properti. Mendapat atau mengatur lebar.
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Thumbnail. Mendapatkan atau mengatur lebar"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
-Mendapat atau mengatur lebar.
+Mendapatkan atau mengatur lebar.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar.
 
@@ -22,12 +23,12 @@ Lebar.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | value;Lebar tidak boleh kurang dari nol |
+| ArgumentOutOfRangeException | nilai;Lebar tidak boleh kurang dari nol |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Thumbnail](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

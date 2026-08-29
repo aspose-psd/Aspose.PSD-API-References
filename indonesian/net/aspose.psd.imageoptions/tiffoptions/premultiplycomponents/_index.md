@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PremultiplyComponents
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah komponen harus dikalikan sebelumnya.
+title: "TiffOptions.PremultiplyComponents"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah komponen harus dipremultiplikasi"
 type: docs
-weight: 350
+weight: 360
 url: /id/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PremultiplyComponents property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah komponen harus dikalikan sebelumnya.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah komponen harus dipremultiplikasikan.
 
 ```csharp
 public bool PremultiplyComponents { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika komponen harus dikalikan sebelumnya; jika tidak,`PALSU` .
+`true` jika komponen harus dipremultiplikasi; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

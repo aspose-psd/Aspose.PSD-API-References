@@ -1,32 +1,33 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Menguji apakah dua ditentukanColorstrukturnya setara.
+title: "Color.op_Equality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Menguji apakah dua struktur Color yang ditentukan setara"
 type: docs
-weight: 1620
+weight: 1640
 url: /id/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-Menguji apakah dua ditentukan[`Color`](../)strukturnya setara.
+Menguji apakah dua struktur [`Color`](../) yang ditentukan setara.
 
 ```csharp
 public static bool operator ==(Color left, Color right)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Color | Itu[`Color`](../) yang ada di sebelah kiri operator kesetaraan. |
-| right | Color | Itu[`Color`](../) itu di sebelah kanan operator kesetaraan. |
+| left | Color | `[`Color`](../)` yang berada di sebelah kiri operator kesetaraan. |
+| right | Color | `[`Color`](../)` yang berada di sebelah kanan operator kesetaraan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika keduanya[`Color`](../) strukturnya sama; jika tidak, salah.
+Benar jika dua struktur [`Color`](../) sama; jika tidak, salah.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

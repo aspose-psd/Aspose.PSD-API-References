@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SavePixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Menyimpan piksel.
+title: "RasterImage.SavePixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Menyimpan piksel"
 type: docs
-weight: 520
+weight: 540
 url: /id/net/aspose.psd/rasterimage/savepixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SavePixels method
 
 Menyimpan piksel.
@@ -14,64 +15,64 @@ Menyimpan piksel.
 public void SavePixels(Rectangle rectangle, Color[] pixels)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk menyimpan piksel. |
-| pixels | Color[] | Susunan piksel. |
+| persegi panjang | Rectangle | Persegi panjang untuk menyimpan piksel. |
+| piksel | Color[] | Array piksel. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan cara Memuat informasi Piksel dalam Larik Berjenis Warna, memanipulasi larik, dan mengaturnya kembali ke gambar. Untuk melakukan operasi ini, contoh ini membuat file Gambar baru (dalam format PSD) menggunakan objek MemoryStream.
+Contoh ini menunjukkan cara memuat informasi Piksel dalam Array bertipe Color, memanipulasi array tersebut, dan mengembalikannya ke gambar. Untuk melakukan operasi ini, contoh ini membuat file Image baru (dalam format PSD) menggunakan objek MemoryStream.
 
 ```csharp
 [C#]
 
-//Buat instance dari MemoryStream
+//Buat sebuah instance dari MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Buat instance PsdOptions dan atur berbagai propertinya termasuk properti Sumber
+    //Buat sebuah instance dari PsdOptions dan atur berbagai propertinya termasuk properti Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Buat instance dari Gambar
+    //Buat sebuah instance dari Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        // Dapatkan piksel gambar dengan menentukan area sebagai batas gambar
+        //Dapatkan piksel gambar dengan menentukan area sebagai batas gambar
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // Ulangi Array dan atur warna piksel terindeks alrenatif
+        //Iterasi array dan atur warna piksel terindeks alternatif
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Atur warna piksel yang diindeks menjadi kuning
+                //Atur warna piksel terindeks menjadi kuning
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Atur warna piksel yang diindeks menjadi biru
+                //Atur warna piksel terindeks menjadi biru
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        //Terapkan perubahan piksel pada gambar
+        //Terapkan perubahan piksel ke gambar
         image.SavePixels(image.Bounds, pixels);
 
         // simpan semua perubahan.
         image.Save();
     }
 
-    // Tulis MemoryStream ke File
+    //Tulis MemoryStream ke File
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

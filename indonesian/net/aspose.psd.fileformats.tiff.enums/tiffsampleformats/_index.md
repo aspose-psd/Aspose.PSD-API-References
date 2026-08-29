@@ -1,14 +1,15 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Contoh format enum
+title: "Enum TiffSampleFormats"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Enum format sampel"
 type: docs
-weight: 4160
+weight: 4630
 url: /id/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-Contoh format enum
+Enum format sampel
 
 ```csharp
 public enum TiffSampleFormats
@@ -16,18 +17,18 @@ public enum TiffSampleFormats
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Uint | `1` | Data bilangan bulat tidak bertanda |
-| Int | `2` | Data bilangan bulat yang ditandatangani |
-| IeeeFp | `3` | Data titik apung IEEE |
-| Void | `4` | Data tidak diketik |
-| ComplexInt | `5` | Kompleks ditandatangani int |
-| ComplexIeeeFp | `6` | Kompleks ieee mengambang |
+| Uint | `1` | Data bilangan bulat tak bertanda |
+| Int | `2` | Data bilangan bulat bertanda |
+| IeeeFp | `3` | Data titik mengambang IEEE |
+| Void | `4` | Data tanpa tipe |
+| ComplexInt | `5` | Int bertanda kompleks |
+| ComplexIeeeFp | `6` | Floating IEEE kompleks |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,49 +1,50 @@
 ---
-title: RasterCachedImage.AdjustGamma
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Gammakoreksi gambar.
+title: "RasterCachedImage.AdjustGamma"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterCachedImage metode. Koreksi gamma pada gambar"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/rastercachedimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-Gamma-koreksi gambar.
-
-```csharp
-public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| Parameter | Jenis | Keterangan |
-| --- | --- | --- |
-| gammaRed | Single | Gamma untuk koefisien saluran merah |
-| gammaGreen | Single | Gamma untuk koefisien saluran hijau |
-| gammaBlue | Single | Gamma untuk koefisien saluran biru |
-
-### Lihat juga
-
-* class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-Gamma-koreksi gambar.
+Koreksi gamma pada gambar.
 
 ```csharp
 public override void AdjustGamma(float gamma)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| gamma | Single | Gamma untuk koefisien saluran merah, hijau dan biru |
+| gamma | Single | Koefisien gamma untuk saluran merah, hijau, dan biru |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+Koreksi gamma pada gambar.
+
+```csharp
+public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| gammaRed | Single | Koefisien gamma untuk saluran merah |
+| gammaGreen | Single | Koefisien gamma untuk saluran hijau |
+| gammaBlue | Single | Koefisien gamma untuk saluran biru |
+
+### Lihat Juga
+
+* class [RasterCachedImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

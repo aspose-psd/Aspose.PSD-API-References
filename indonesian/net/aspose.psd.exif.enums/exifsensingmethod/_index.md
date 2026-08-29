@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSensingMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifSensingMethod enum. enum metode penginderaan exif.
+title: "Enum ExifSensingMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifSensingMethod enum. enum metode penginderaan exif"
 type: docs
-weight: 940
+weight: 950
 url: /id/net/aspose.psd.exif.enums/exifsensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifSensingMethod enumeration
 
-enum metode penginderaan exif.
+enumerasi metode penginderaan exif.
 
 ```csharp
 public enum ExifSensingMethod
@@ -16,19 +17,19 @@ public enum ExifSensingMethod
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Notdefined | `1` | Tidak ditentukan. |
-| OneChipColorArea | `2` | Satu area warna chip. |
-| TwoChipColorArea | `3` | Area warna dua keping. |
-| ThreeChipColorArea | `4` | Area tiga warna chip. |
-| Colorsequentialarea | `5` | Area Urutan Warna. |
-| Trilinearsensor | `7` | Sensor tiga baris. |
+| Notdefined | `1` | Tidak didefinisikan. |
+| OneChipColorArea | `2` | Area warna satu chip. |
+| TwoChipColorArea | `3` | Area warna dua chip. |
+| ThreeChipColorArea | `4` | Area warna tiga chip. |
+| Colorsequentialarea | `5` | Area berurutan warna. |
+| Trilinearsensor | `7` | Sensor trilinear. |
 | Colorsequentiallinear | `8` | Sensor linier berurutan warna. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

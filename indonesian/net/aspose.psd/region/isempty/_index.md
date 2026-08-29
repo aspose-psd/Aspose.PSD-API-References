@@ -1,38 +1,39 @@
 ---
-title: Region.IsEmpty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Menguji apakah iniRegion memiliki interior kosong pada permukaan gambar yang ditentukan.
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode Region. Menguji apakah Region ini memiliki interior kosong pada permukaan gambar yang ditentukan"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-Menguji apakah ini[`Region`](../) memiliki interior kosong pada permukaan gambar yang ditentukan.
+Menguji apakah [`Region`](../) ini memiliki interior kosong pada permukaan gambar yang ditentukan.
 
 ```csharp
 public bool IsEmpty(Graphics g)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) yang mewakili permukaan gambar. |
+| g | Graphics | Sebuah [`Graphics`](../../graphics/) yang mewakili permukaan gambar. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-benar jika interior ini[`Region`](../) kosong ketika transformasi terkait dengan*g* diterapkan; jika tidak, false.
+true jika interior [`Region`](../) ini kosong ketika transformasi yang terkait dengan *g* diterapkan; jika tidak, false.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *g* adalah null. |
+| ArgumentNullException | *g* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

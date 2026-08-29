@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetDirector
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Menetapkan direktur.
+title: "XmpDynamicMediaPackage.SetDirector"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Menetapkan direktur"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirector method
 
-Menetapkan direktur.
+Mengatur sutradara.
 
 ```csharp
 public void SetDirector(string director)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | director | String | Direktur. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

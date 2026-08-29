@@ -1,32 +1,33 @@
 ---
-title: ColorMatrix.Item
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMatrix Properti. Mendapat atau mengatur elemen pada baris dan kolom yang ditentukan diColorMatrix .
+title: "ColorMatrix.Item"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorMatrix. Mendapatkan atau mengatur elemen pada baris dan kolom yang ditentukan dalam ColorMatrix"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/colormatrix/item/
 ---
+{{< psd/tize >}}
 ## ColorMatrix indexer
 
-Mendapat atau mengatur elemen pada baris dan kolom yang ditentukan di[`ColorMatrix`](../) .
+Mendapatkan atau mengatur elemen pada baris dan kolom yang ditentukan dalam [`ColorMatrix`](../).
 
 ```csharp
 public float this[int row, int column] { get; set; }
 ```
 
-| Parameter | Keterangan |
+| Parameter | Deskripsi |
 | --- | --- |
-| row | Nomor baris. |
-| column | Nomor kolom. |
+| baris | Nomor baris. |
+| kolom | Nomor kolom. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Elemen pada baris dan kolom yang ditentukan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMatrix](../)
-* ruang nama [Aspose.PSD](../../colormatrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

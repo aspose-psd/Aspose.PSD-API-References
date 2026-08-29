@@ -1,11 +1,12 @@
 ---
-title: Class OSTypeStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure kelas. Mewakili struktur tipe OS.
+title: "Kelas OSTypeStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure kelas. Mewakili struktur tipe OS"
 type: docs
-weight: 2850
+weight: 3190
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure class
 
 Mewakili struktur tipe OS.
@@ -16,29 +17,29 @@ public abstract class OSTypeStructure
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [OSTypeStructure](ostypestructure/)(ClassID) | Menginisialisasi instance baru dari`OSTypeStructure` kelas. |
+| [OSTypeStructure](ostypestructure/)(ClassID) | Menginisialisasi instansi baru dari kelas `OSTypeStructure`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Mendapat kunci struktur. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Mendapat atau menyetel nama kunci. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Mendapatkan`OSTypeStructure` panjang dalam byte. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Mendapatkan kunci struktur. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Mendapatkan atau mengatur nama kunci. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Mendapatkan panjang `OSTypeStructure` dalam byte. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Mendapatkan panjang tajuk. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Menyimpan struktur ke wadah aliran yang ditentukan. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Menyimpan struktur ke wadah aliran yang ditentukan. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Mendapatkan panjang header. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Menyimpan struktur ke kontainer aliran yang ditentukan. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Menyimpan struktur ke kontainer aliran yang ditentukan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

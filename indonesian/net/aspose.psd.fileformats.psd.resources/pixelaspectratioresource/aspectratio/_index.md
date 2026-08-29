@@ -1,27 +1,28 @@
 ---
-title: PixelAspectRatioResource.AspectRatio
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelAspectRatioResource Properti. Mendapat atau menyetel rasio aspek.
+title: "PixelAspectRatioResource.AspectRatio"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PixelAspectRatioResource. Mendapatkan atau mengatur rasio aspek"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.AspectRatio property
 
-Mendapat atau menyetel rasio aspek.
+Mendapatkan atau mengatur rasio aspek.
 
 ```csharp
 public double AspectRatio { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Rasio aspek.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelAspectRatioResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

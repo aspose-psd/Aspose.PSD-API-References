@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.WriteRational
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis nilai bilangan rasional tunggal ke aliran.
+title: "TiffStreamWriter.WriteRational"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamWriter. Menulis satu nilai bilangan rasional ke stream"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRational method
 
-Menulis nilai bilangan rasional tunggal ke aliran.
+Menulis satu nilai bilangan rasional ke aliran.
 
 ```csharp
 public void WriteRational(TiffRational data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | TiffRational | Nilai untuk menulis. |
+| data | TiffRational | Nilai yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

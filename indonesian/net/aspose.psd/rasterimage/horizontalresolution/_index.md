@@ -1,31 +1,32 @@
 ---
-title: RasterImage.HorizontalResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau menyetel resolusi horizontal dalam piksel per inci dari iniRasterImage .
+title: "RasterImage.HorizontalResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterImage properti. Mendapatkan atau mengatur resolusi horizontal dalam piksel per inci dari RasterImage ini"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/rasterimage/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.HorizontalResolution property
 
-Mendapat atau menyetel resolusi horizontal, dalam piksel per inci, dari ini[`RasterImage`](../) .
+Mendapatkan atau mengatur resolusi horizontal, dalam piksel per inci, dari [`RasterImage`](../).
 
 ```csharp
 public virtual double HorizontalResolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Resolusi horisontal.
+Resolusi horizontal.
 
-### Perkataan
+## Catatan
 
-Perhatikan secara default nilai ini selalu 96 karena platform yang berbeda tidak dapat mengembalikan resolusi layar. Anda dapat mempertimbangkan untuk menggunakan metode SetResolution untuk memperbarui kedua nilai resolusi dalam satu panggilan.
+Catatan: secara default nilai ini selalu 96 karena platform yang berbeda tidak dapat mengembalikan resolusi layar. Anda dapat mempertimbangkan menggunakan metode SetResolution untuk memperbarui kedua nilai resolusi dalam satu panggilan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

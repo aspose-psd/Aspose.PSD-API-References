@@ -1,27 +1,28 @@
 ---
-title: XmpHeaderPi.GetXmlValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpHeaderPi metode. Mengubah nilai XMP menjadi representasi XML.
+title: "XmpHeaderPi.GetXmlValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpHeaderPi. Mengonversi nilai XMP ke representasi XML"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp/xmpheaderpi/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.GetXmlValue method
 
-Mengubah nilai XMP menjadi representasi XML.
+Mengonversi nilai XMP ke representasi XML.
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan nilai XMP yang dikonversi ke representasi XML.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpHeaderPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

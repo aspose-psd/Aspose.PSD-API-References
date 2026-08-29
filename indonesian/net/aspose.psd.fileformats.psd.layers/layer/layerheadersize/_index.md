@@ -1,23 +1,24 @@
 ---
-title: Layer.LayerHeaderSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer bidang. Ukuran tajuk lapisan.
+title: "Layer.LayerHeaderSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field Layer. Ukuran header lapisan"
 type: docs
-weight: 400
+weight: 420
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
+{{< psd/tize >}}
 ## Layer.LayerHeaderSize field
 
-Ukuran tajuk lapisan.
+Ukuran header lapisan.
 
 ```csharp
 public const int LayerHeaderSize;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

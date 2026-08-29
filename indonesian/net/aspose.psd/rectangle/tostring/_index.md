@@ -1,27 +1,28 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Mengubah atribut iniRectangle ke string yang dapat dibaca manusia.
+title: "Rectangle.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Mengonversi atribut Rectangle ini menjadi string yang dapat dibaca manusia."
 type: docs
 weight: 280
 url: /id/net/aspose.psd/rectangle/tostring/
 ---
+{{< psd/tize >}}
 ## Rectangle.ToString method
 
-Mengubah atribut ini[`Rectangle`](../) ke string yang dapat dibaca manusia.
+Mengonversi atribut dari [`Rectangle`](../) ini menjadi string yang dapat dibaca manusia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah string yang berisi posisi, lebar, dan tinggi ini[`Rectangle`](../) struktur.
+Sebuah string yang berisi posisi, lebar, dan tinggi dari struktur [`Rectangle`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

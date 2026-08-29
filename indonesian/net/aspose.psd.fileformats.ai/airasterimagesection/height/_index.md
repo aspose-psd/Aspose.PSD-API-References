@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiRasterImageSection Properti. Mendapat ketinggian.
+title: "AiRasterImageSection.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiRasterImageSection. Mendapatkan tinggi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
-Mendapat ketinggian.
+Mendapatkan tinggi.
 
 ```csharp
 public double Height { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ketinggian.
+Tinggi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

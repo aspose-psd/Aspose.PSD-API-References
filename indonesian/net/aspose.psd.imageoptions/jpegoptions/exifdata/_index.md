@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.ExifData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegOptions Properti. Dapatkan atau atur wadah data exif
+title: "JpegOptions.ExifData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "JpegOptions properti. Mendapatkan atau mengatur kontainer data exif"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
-Dapatkan atau atur wadah data exif
+Mendapatkan atau mengatur kontainer data exif.
 
 ```csharp
 public JpegExifData ExifData { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

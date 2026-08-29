@@ -1,20 +1,21 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidated
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeOriginSettings Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk tidak valid.
+title: "VectorShapeOriginSettings.IsShapeInvalidated"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeOriginSettings. Mendapatkan atau mengatur nilai yang menunjukkan apakah bentuk tidak valid"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk tidak valid.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah shape tidak valid.
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // Mengedit
+    // Menyunting
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeOriginSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

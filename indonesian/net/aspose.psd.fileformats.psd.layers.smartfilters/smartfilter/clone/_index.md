@@ -1,27 +1,28 @@
 ---
-title: SmartFilter.Clone
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartFilter metode. Membuat tiruan anggota dari instance tipe saat ini.
+title: "SmartFilter.Clone"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmartFilter metode. Membuat klon anggota dari instance saat ini dari tipe tersebut"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Clone method
 
-Membuat tiruan anggota dari instance tipe saat ini.
+Membuat klon anggota dari instance saat ini dari tipe tersebut.
 
 ```csharp
 public SmartFilter Clone()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan klon anggota dari instance tipe saat ini.
+Mengembalikan klon anggota dari instance saat ini dari tipe tersebut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

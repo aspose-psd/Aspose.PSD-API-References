@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel garis bujur GPS menjadi bujur timur atau bujur barat.
+title: "ExifData.GPSLongitudeRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur apakah longitude GPS berada di timur atau barat"
 type: docs
 weight: 550
 url: /id/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-Mendapat atau menyetel garis bujur GPS menjadi bujur timur atau bujur barat.
+Mendapatkan atau mengatur apakah bujur GPS adalah bujur timur atau barat.
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bujur GPS adalah bujur timur atau barat.
+Longitude GPS berada di timur atau barat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

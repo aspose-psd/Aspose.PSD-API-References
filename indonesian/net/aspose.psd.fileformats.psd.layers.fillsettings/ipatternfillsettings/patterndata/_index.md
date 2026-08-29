@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPatternFillSettings Properti. Mendapat atau menyetel data pola.
+title: "IPatternFillSettings.PatternData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPatternFillSettings. Mendapatkan data pola"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-Mendapat atau menyetel data pola.
+Mendapatkan data pola.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Data pola.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

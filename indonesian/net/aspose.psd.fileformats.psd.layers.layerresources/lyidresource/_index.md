@@ -1,11 +1,12 @@
 ---
-title: Class LyidResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource kelas. Kelas LyidResource.
+title: "Kelas LyidResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource. Kelas LyidResource."
 type: docs
-weight: 2810
+weight: 3140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource class
 
 Kelas LyidResource.
@@ -16,38 +17,38 @@ public class LyidResource : LayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LyidResource](lyidresource/#constructor)(byte[]) | Menginisialisasi instance baru dari`LyidResource` class. Dengan nilai khusus atau tidak diketahui |
-| [LyidResource](lyidresource/#constructor_1)(int) | Menginisialisasi instance baru dari`LyidResource` kelas. |
+| [LyidResource](lyidresource/#constructor)(byte[]) | Menginisialisasi instance baru dari kelas `LyidResource`. Dengan nilai khusus atau tidak diketahui. |
+| [LyidResource](lyidresource/#constructor_1)(int) | Menginisialisasi instance baru dari kelas `LyidResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/) { get; } | Mendapat tanda tangan. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Mendapatkan nilainya. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Mendapatkan nilai. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Menyimpan ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Menyimpan ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

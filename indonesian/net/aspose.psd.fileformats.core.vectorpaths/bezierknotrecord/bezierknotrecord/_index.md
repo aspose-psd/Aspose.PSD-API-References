@@ -1,22 +1,23 @@
 ---
-title: BezierKnotRecord.BezierKnotRecord
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BezierKnotRecord konstruktor. Menginisialisasi instance baru dariBezierKnotRecord kelas.
+title: "BezierKnotRecord.BezierKnotRecord"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor BezierKnotRecord. Menginisialisasi instance baru dari kelas BezierKnotRecord"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord() {#constructor}
 
-Menginisialisasi instance baru dari[`BezierKnotRecord`](../) kelas.
+Menginisialisasi instance baru dari kelas [`BezierKnotRecord`](../).
 
 ```csharp
 public BezierKnotRecord()
 ```
 
-### Contoh
+## Contoh
 
-Contoh kode berikut menyediakan kelas untuk memanipulasi objek jalur vektor dan menunjukkan cara menggunakan kelas tersebut.
+Contoh kode berikut menyediakan kelas-kelas untuk memanipulasi objek jalur vektor dan menunjukkan cara menggunakan kelas-kelas tersebut.
 
 ```csharp
 [C#]
@@ -44,15 +45,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// Kelas yang menyediakan pekerjaan antara <lihat cref="Lapisan"/> dan <lihat cref="VectorPath"/>.
+/// Kelas yang menyediakan kerja antara <see cref=\"Layer\"/> dan <see cref=\"VectorPath\"/>.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// Membuat <lihat cref="VectorPath"/> instance berdasarkan sumber daya dari lapisan input.
+    /// Membuat instance <see cref=\"VectorPath\"/> berdasarkan sumber daya dari lapisan input.
     /// </summary>
-    /// <param name="psdLayer">Lapisan psd.</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name=\"psdLayer\">Lapisan psd.</param>
+    /// <returns>instance <see cref=\"VectorPath\"/> berdasarkan sumber daya dari lapisan input.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -71,11 +72,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Memperbarui sumber daya lapisan masukan dari <lihat cref="VectorPath"/> misalnya, atau ganti dengan sumber daya jalur baru dan pembaruan.
+    /// Memperbarui sumber daya lapisan input dari instance <see cref=\"VectorPath\"/>, atau menggantinya dengan sumber daya jalur baru dan memperbarui.
     /// </summary>
-    /// <param name="psdLayer">Lapisan psd.</param>
-    /// <param name="vectorPath">Jalur vektor.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
+    /// <param name=\"psdLayer\">Lapisan psd.</param>
+    /// <param name=\"vectorPath\">Jalur vektor.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -91,9 +92,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Menghapus data jalur vektor dari lapisan masukan.
+    /// Menghapus data jalur vektor dari lapisan input.
     /// </summary>
-    /// <param name="psdLayer">Lapisan psd.</param>
+    /// <param name=\"psdLayer\">Lapisan psd.</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -116,13 +117,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Memperbarui data sumber daya dari <lihat cref="VectorPath"/> contoh.
+    /// Memperbarui data sumber daya dari instance <see cref=\"VectorPath\"/>.
     /// </summary>
-    /// <param name="pathResource">Sumber daya jalur.</param>
-    /// <param name="vogkResource">Sumber data originasi vektor.</param>
-    /// <param name="socoResource">Sumber daya warna solid.</param>
-    /// <param name="vectorPath">Jalur vektor.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
+    /// <param name=\"pathResource\">Sumber daya jalur.</param>
+    /// <param name=\"vogkResource\">Sumber data asal vektor.</param>
+    /// <param name=\"socoResource\">Sumber daya warna solid.</param>
+    /// <param name=\"vectorPath\">Jalur vektor.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -149,12 +150,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Mengganti sumber daya dalam lapisan dengan yang diperbarui atau yang baru.
+    /// Mengganti sumber daya di lapisan dengan yang diperbarui atau yang baru.
     /// </summary>
-    /// <param name="psdLayer">Lapisan psd.</param>
-    /// <param name="pathResource">Sumber daya jalur.</param>
-    /// <param name="vogkResource">Sumber data originasi vektor.</param>
-    /// <param name="socoResource">Sumber daya warna solid.</param>
+    /// <param name=\"psdLayer\">Lapisan psd.</param>
+    /// <param name=\"pathResource\">Sumber daya jalur.</param>
+    /// <param name=\"vogkResource\">Sumber data asal vektor.</param>
+    /// <param name=\"socoResource\">Sumber daya warna solid.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -201,11 +202,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Menemukan <lihat cref="VectorPathDataResource"/> sumber daya dalam sumber daya lapisan input.
+    /// Menemukan sumber daya <see cref=\"VectorPathDataResource\"/> dalam sumber daya lapisan input.
     /// </summary>
-    /// <param name="psdLayer">Lapisan psd.</param>
-    /// <param name="createIfNotExist">Jika sumber daya tidak ada, maka untuk <lihat cref="true"/> buat sumber daya baru, jika tidak kembalikan <lihat cref="null"/>.</param>
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">Lapisan psd.</param>
+    /// <param name=\"createIfNotExist\">Jika sumber daya tidak ada, maka untuk <see cref=\"true\"/> membuat sumber daya baru, jika tidak mengembalikan <see cref=\"null\"/>.</param>
+    /// <returns>Sumber daya <see cref=\"VectorPathDataResource\"/>.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -227,11 +228,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Menemukan <lihat cref="VogkResource"/> sumber daya dalam sumber daya lapisan input.
+    /// Menemukan sumber daya <see cref=\"VogkResource\"/> dalam sumber daya lapisan input.
     /// </summary>
-    /// <param name="psdLayer">Lapisan psd.</param>
-    /// <param name="createIfNotExist">Jika sumber daya tidak ada, maka untuk <lihat cref="true"/> buat sumber daya baru, jika tidak kembalikan <lihat cref="null"/>.</param>
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">Lapisan psd.</param>
+    /// <param name=\"createIfNotExist\">Jika sumber daya tidak ada, maka untuk <see cref=\"true\"/> membuat sumber daya baru, jika tidak mengembalikan <see cref=\"null\"/>.</param>
+    /// <returns>Sumber daya <see cref=\"VogkResource\"/>.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -253,11 +254,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Menemukan <lihat cref="SoCoResource"/> sumber daya dalam sumber daya lapisan masukan.
+    /// Menemukan sumber daya <see cref=\"SoCoResource\"/> dalam sumber daya lapisan input.
     /// </summary>
-    /// <param name="psdLayer">Lapisan psd.</param>
-    /// <param name="createIfNotExist">Jika sumber daya tidak ada, maka untuk <lihat cref="true"/> buat sumber daya baru, jika tidak kembalikan <lihat cref="null"/>.</param>
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">Lapisan psd.</param>
+    /// <param name=\"createIfNotExist\">Jika sumber daya tidak ada, maka untuk <see cref=\"true\"/> membuat sumber daya baru, jika tidak mengembalikan <see cref=\"null\"/>.</param>
+    /// <returns>Sumber daya <see cref=\"SoCoResource\"/>.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -279,9 +280,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Memvalidasi lapisan untuk bekerja dengan <lihat cref="VectorDataProvider"/> kelas.
+    /// Memvalidasi lapisan untuk bekerja dengan kelas <see cref=\"VectorDataProvider\"/>.
     /// </summary>
-    /// <nama param="lapisan"></param>
+    /// <param name="layer"></param>
     /// <exception cref="ArgumentNullException"></exception>
     private static void ValidateLayer(Layer layer)
     {
@@ -298,22 +299,22 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// Simpul kurva Bezier, berisi satu titik jangkar dan dua titik kontrol.
+/// Knot kurva Bezier, berisi satu titik jangkar dan dua titik kontrol.
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// Gambar ke rasio titik jalur.
+    /// Rasio titik gambar ke jalur.
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// Menginisialisasi instance baru dari <lihat cref="BezierKnot" /> kelas.
+    /// Menginisialisasi instance baru dari kelas <see cref="BezierKnot" />.
     /// </summary>
     /// <param name="anchorPoint">Titik jangkar.</param>
     /// <param name="controlPoint1">Titik kontrol pertama.</param>
     /// <param name="controlPoint2">Titik kontrol kedua.</param>
-    /// <param name="isLinked">Nilai yang menunjukkan apakah simpul ini terhubung.</param>
+    /// <param name="isLinked">Nilai yang menunjukkan apakah knot ini terhubung.</param>
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -323,10 +324,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Menginisialisasi instance baru dari <lihat cref="BezierKnot" /> kelas berdasarkan <lihat cref="BezierKnotRecord"/>.
+    /// Menginisialisasi instance baru dari kelas <see cref="BezierKnot" /> berdasarkan <see cref="BezierKnotRecord"/>.
     /// </summary>
-    /// <param name="bezierKnotRecord"><lihat cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
+    /// <param name="bezierKnotRecord">Objek <see cref="BezierKnotRecord"/>.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -336,41 +337,41 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Menginisialisasi instance baru dari <lihat cref="BezierKnot" /> kelas.
+    /// Menginisialisasi instance baru dari kelas <see cref="BezierKnot" />.
     /// </summary>
-    /// <param name="anchorPoint">Titik yang akan dijadikan anchor dan titik kontrol.</param>
-    /// <param name="isLinked">Nilai yang menunjukkan apakah simpul ini terhubung.</param>
+    /// <param name="anchorPoint">Titik yang menjadi jangkar dan titik kontrol.</param>
+    /// <param name="isLinked">Nilai yang menunjukkan apakah knot ini terhubung.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
     }
 
     /// <summary>
-    /// Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditautkan.
+    /// Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terhubung.
     /// </summary>
     public bool IsLinked { get; set; }
 
     /// <summary>
-    /// Mendapat atau menyetel titik kontrol pertama.
+    /// Mendapatkan atau mengatur titik kontrol pertama.
     /// </summary>
     public PointF ControlPoint1 { get; set; }
 
     /// <summary>
-    /// Mendapat atau menetapkan titik jangkar.
+    /// Mendapatkan atau mengatur titik jangkar.
     /// </summary>
     public PointF AnchorPoint { get; set; }
 
     /// <summary>
-    /// Mendapat atau menyetel titik kontrol kedua.
+    /// Mendapatkan atau mengatur titik kontrol kedua.
     /// </summary>
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// Membuat instance dari <see cref="BezierKnotRecord"/> berdasarkan contoh ini.
+    /// Membuat instance dari <see cref="BezierKnotRecord"/> berdasarkan instance ini.
     /// </summary>
-    /// <param name="isClosed">Menunjukkan apakah simpul ini dalam bentuk tertutup.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name="isClosed">Menunjukkan apakah knot ini berada dalam bentuk tertutup.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
+    /// <returns>Instance dari <see cref="BezierKnotRecord"/> berdasarkan instance ini.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -387,9 +388,9 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Menggeser titik simpul ini dengan nilai masukan.
+    /// Menggeser titik-titik knot ini dengan nilai input.
     /// </summary>
-    /// <param name="xOffset">X offset.</param>
+    /// <param name="xOffset">Offset x.</param>
     /// <param name="yOffset">Offset y.</param>
     public void Shift(float xOffset, float yOffset)
     {
@@ -399,22 +400,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Mengonversi nilai poin dari resource ke normal.
+    /// Mengonversi nilai titik dari sumber ke normal.
     /// </summary>
-    /// <param name="point">Titik dengan nilai dari resource.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name="point">Titik dengan nilai dari sumber.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
+    /// <returns>Titik yang telah dikonversi ke normal.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
     }
 
     /// <summary>
-    /// Mengubah nilai titik normal menjadi titik sumber daya.
+    /// Mengonversi nilai titik normal menjadi titik sumber daya.
     /// </summary>
-    /// <param name="titik">Titik.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name="point">Titik tersebut.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
+    /// <returns>Titik dengan nilai untuk sumber daya.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -422,12 +423,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// Sosok dari simpul kurva Bezier.
+/// Gambar dari simpul-simpul kurva Bezier.
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// Menginisialisasi instance baru dari <see cref="PathShape" /> kelas.
+    /// Menginisialisasi instance baru dari kelas <see cref="PathShape" />.
     /// </summary>
     public PathShape()
     {
@@ -436,11 +437,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// Menginisialisasi instance baru dari <see cref="PathShape" /> kelas berdasarkan <lihat cref="VectorPathRecord"/>'s.
+    /// Menginisialisasi instance baru dari kelas <see cref="PathShape" /> berdasarkan <see cref="VectorPathRecord"/>'.
     /// </summary>
     /// <param name="lengthRecord">Catatan panjang.</param>
-    /// <param name="bezierKnotRecords">Simpul bezier mencatat.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
+    /// <param name="bezierKnotRecords">Catatan simpul bezier.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -451,33 +452,33 @@ public class PathShape
     }
 
     /// <summary>
-    /// Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditutup.
+    /// Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini tertutup.
     /// </summary>
-    /// <nilai>
-    /// <c>benar</c> jika instance ini ditutup; jika tidak, <c>salah</c>.
-    /// </nilai>
+    /// <value>
+    ///   <c>true</c> jika instance ini tertutup; selainnya, <c>false</c>
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// Mendapat atau menyetel operasi jalur (operasi Boolean).
+    /// Mendapatkan atau mengatur operasi jalur (operasi Boolean).
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// Mendapat atau menetapkan indeks bentuk jalur saat ini dalam lapisan.
+    /// Mendapatkan atau mengatur indeks bentuk jalur saat ini dalam lapisan.
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
     /// <summary>
-    /// Mendapatkan poin dari kurva Bezier.
+    /// Mendapatkan titik-titik kurva Bezier.
     /// </summary>
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// Membuat <lihat cref="VectorPathRecord"/> catatan berdasarkan contoh ini.
+    /// Membuat catatan <see cref="VectorPathRecord"/> berdasarkan instance ini.
     /// </summary>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
+    /// <returns>Mengembalikan satu <see cref="LengthRecord"/> dan <see cref="BezierKnotRecord"/> untuk setiap titik dalam instance ini.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -498,10 +499,10 @@ public class PathShape
     }
 
     /// <summary>
-    /// Menginisialisasi nilai berdasarkan catatan input.
+    /// Menginisialisasi nilai berdasarkan catatan masukan.
     /// </summary>
-    /// <param name="bezierKnotRecords">Simpul bezier mencatat.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
+    /// <param name="bezierKnotRecords">Catatan simpul bezier.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -521,21 +522,21 @@ public class PathShape
 public class VectorPath
 {
     /// <summary>
-    /// Menginisialisasi instance baru dari <lihat cref="VectorPath" /> kelas berdasarkan <lihat cref="VectorPathDataResource"/>.
+    /// Menginisialisasi instance baru dari kelas <see cref="VectorPath" /> berdasarkan <see cref="VectorPathDataResource"/>.
     /// </summary>
     /// <param name="vectorPathDataResource">Sumber data jalur vektor.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// Mendapat atau menetapkan nilai yang menunjukkan apakah isian dimulai dengan semua piksel.
+    /// Mendapatkan atau mengatur nilai yang menunjukkan apakah is fill dimulai dengan semua piksel.
     /// </summary>
-    /// <nilai>
-    /// isian dimulai dengan semua piksel.
-    /// </nilai>
+    /// <value>
+    /// is fill dimulai dengan semua piksel.
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
@@ -544,47 +545,47 @@ public class VectorPath
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// Mendapat atau menyetel warna isian jalur vektor.
+    /// Mendapatkan atau mengatur warna isian jalur vektor.
     /// </summary>
     public Color FillColor { get; set; }
 
     /// <summary>
-    /// Mendapatkan atau menyetel versi.
+    /// Mendapatkan atau mengatur versi.
     /// </summary>
-    /// <nilai>
+    /// <value>
     /// Versi.
-    /// </nilai>
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
-    /// Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dinonaktifkan.
+    /// Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dinonaktifkan.
     /// </summary>
-    /// <nilai>
-    /// <c>benar</c> jika instance ini dinonaktifkan; jika tidak, <c>salah</c>.
-    /// </nilai>
+    /// <value>
+    ///   <c>true</c> jika instance ini dinonaktifkan; jika tidak, <c>false</c>.
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
-    /// Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini tidak ditautkan.
+    /// Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini tidak terhubung.
     /// </summary>
-    /// <nilai>
-    /// <c>benar</c> jika instance ini tidak ditautkan; jika tidak, <c>salah</c>.
-    /// </nilai>
+    /// <value>
+    ///   <c>true</c> jika instance ini tidak terhubung; jika tidak, <c>false</c>.
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
-    /// Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbalik.
+    /// Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbalik.
     /// </summary>
-    /// <nilai>
-    /// <c>benar</c> jika hal ini terbalik; jika tidak, <c>salah</c>.
-    /// </nilai>
+    /// <value>
+    ///   <c>true</c> jika instance ini terbalik; jika tidak, <c>false</c>.
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// Menginisialisasi nilai berdasarkan masukan <lihat cref="VectorPathDataResource"/> sumber.
+    /// Menginisialisasi nilai berdasarkan sumber <see cref=\"VectorPathDataResource\"/> input.
     /// </summary>
-    /// <param name="resource">Sumber data jalur vektor.</param>
-    /// <param name="imageSize">Ukuran gambar untuk memperbaiki koordinat titik konversi.</param>
+    /// <param name=\"resource\">Sumber data jalur vektor.</param>
+    /// <param name=\"imageSize\">Ukuran gambar untuk memperbaiki konversi koordinat titik.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -635,30 +636,30 @@ public class VectorPath
 #endregion
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BezierKnotRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierKnotRecord(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`BezierKnotRecord`](../) kelas.
+Menginisialisasi instance baru dari kelas [`BezierKnotRecord`](../).
 
 ```csharp
 public BezierKnotRecord(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data rekaman. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [BezierKnotRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

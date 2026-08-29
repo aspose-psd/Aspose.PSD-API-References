@@ -1,14 +1,15 @@
 ---
-title: Interface IObjectWithSizeF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Interfaces.IObjectWithSizeF antarmuka. Merupakan objek dengan Ukuran yang dinyatakan dalam bilangan real dalam inci.
+title: "Antarmuka IObjectWithSizeF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.Interfaces.IObjectWithSizeF. Mewakili objek dengan Ukuran yang dinyatakan dalam angka real dalam inci."
 type: docs
-weight: 5020
+weight: 5510
 url: /id/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF interface
 
-Merupakan objek dengan Ukuran yang dinyatakan dalam bilangan real (dalam inci).
+Mewakili objek dengan Size yang diekspresikan dalam angka riil (dalam inci).
 
 ```csharp
 public interface IObjectWithSizeF
@@ -16,15 +17,15 @@ public interface IObjectWithSizeF
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | Mendapat tinggi objek, dalam inci. |
+| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | Mendapatkan tinggi objek, dalam inci. |
 | [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | Mendapatkan ukuran objek, dalam inci. |
 | [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | Mendapatkan lebar objek, dalam inci. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../)
 
 

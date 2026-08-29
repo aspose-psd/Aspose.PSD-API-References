@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Error
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IAsyncTask Properti. Mendapat kesalahan tugas yang tersedia setelah tugas selesai.
+title: "IAsyncTask.Error"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IAsyncTask. Mendapatkan kesalahan tugas yang tersedia setelah tugas selesai"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
-Mendapat kesalahan tugas yang tersedia setelah tugas selesai.
+Mendapatkan kesalahan tugas yang tersedia setelah tugas selesai.
 
 ```csharp
 public Exception Error { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kesalahan tugas.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../iasynctask/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

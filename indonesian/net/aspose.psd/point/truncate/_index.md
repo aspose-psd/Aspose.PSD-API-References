@@ -1,32 +1,33 @@
 ---
-title: Point.Truncate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Mengonversi yang ditentukanPointF ke aPoint dengan memotong nilainilai dariPoint .
+title: "Point.Truncate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Mengonversi PointF yang ditentukan menjadi Point dengan memotong nilai-nilai Point."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-Mengonversi yang ditentukan[`PointF`](../../pointf/) ke a[`Point`](../) dengan memotong nilai-nilai dari[`Point`](../) .
+Mengonversi [`PointF`](../../pointf/) yang ditentukan menjadi [`Point`](../) dengan memotong nilai-nilai [`Point`](../).
 
 ```csharp
 public static Point Truncate(PointF point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../../pointf/) untuk mengubah. |
+| point | PointF | [`PointF`](../../pointf/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Point`](../) metode ini mengkonversi ke.
+[`Point`](../) yang dikonversi oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

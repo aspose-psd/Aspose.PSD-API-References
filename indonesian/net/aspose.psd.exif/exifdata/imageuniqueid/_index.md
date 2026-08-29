@@ -1,27 +1,28 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel pengidentifikasi unik gambar.
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur pengidentifikasi unik gambar"
 type: docs
 weight: 680
 url: /id/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
-Mendapat atau menyetel pengidentifikasi unik gambar.
+Mendapatkan atau mengatur pengidentifikasi unik gambar.
 
 ```csharp
 public string ImageUniqueID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengidentifikasi unik gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

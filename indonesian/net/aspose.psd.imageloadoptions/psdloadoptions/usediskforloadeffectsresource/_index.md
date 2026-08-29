@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdLoadOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah gunakan disk untuk memuat sumber daya efek secara default disk digunakan untuk memuat sumber daya efek tetapi dapat digunakan memori jika cukup dengan menyetel nilai ini ke false.
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdLoadOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah menggunakan disk untuk memuat sumber daya efek; secara default menggunakan disk untuk memuat sumber daya efek tetapi dapat menggunakan memori jika cukup dengan mengatur nilai ini ke false"
 type: docs
-weight: 70
+weight: 90
 url: /id/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [gunakan disk untuk memuat sumber daya efek] (secara default disk digunakan untuk memuat sumber daya efek, tetapi dapat digunakan memori jika cukup dengan menyetel nilai ini ke false).
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [use disk for load effects resource] (secara default menggunakan disk untuk memuat sumber daya efek, tetapi dapat menggunakan memori jika cukup dengan mengatur nilai ini ke false).
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika [gunakan disk untuk memuat sumber daya efek]; jika tidak,`PALSU` .
+`true` jika [use disk for load effects resource]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdLoadOptions](../)
-* ruang nama [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

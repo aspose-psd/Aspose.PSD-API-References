@@ -1,24 +1,25 @@
 ---
-title: GdFlResource.VerticalOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat atau menyetel offset vertikal.
+title: "GdFlResource.VerticalOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GdFlResource property. Mendapatkan atau mengatur offset vertikal"
 type: docs
-weight: 180
+weight: 240
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.VerticalOffset property
 
-Mendapat atau menyetel offset vertikal.
+Mendapatkan atau mengatur offset vertikal.
 
 ```csharp
 public double VerticalOffset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset vertikal.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan pemuatan sumber daya GdFlResource.
 
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // Mengedit
+                    // Menyunting
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

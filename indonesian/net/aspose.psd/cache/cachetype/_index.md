@@ -1,28 +1,29 @@
 ---
-title: Cache.CacheType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Cache Properti. Mendapat atau menyetel skema cache yang digunakan.
+title: "Cache.CacheType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Cache properti. Mendapatkan atau mengatur skema cache yang digunakan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/cache/cachetype/
 ---
+{{< psd/tize >}}
 ## Cache.CacheType property
 
-Mendapat atau menyetel skema cache yang digunakan.
+Mendapatkan atau mengatur skema cache yang digunakan.
 
 ```csharp
 public static CacheType CacheType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Skema cache yang digunakan.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* ruang nama [Aspose.PSD](../../cache/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

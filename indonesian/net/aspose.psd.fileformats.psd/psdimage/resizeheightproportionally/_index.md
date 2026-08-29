@@ -1,33 +1,12 @@
 ---
-title: PsdImage.ResizeHeightProportionally
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Mengubah ukuran tinggi secara proporsional.
+title: "PsdImage.ResizeHeightProportionally"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Mengubah ukuran tinggi secara proporsional"
 type: docs
-weight: 590
+weight: 650
 url: /id/net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
-## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
-
-Mengubah ukuran tinggi secara proporsional.
-
-```csharp
-public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
-```
-
-| Parameter | Jenis | Keterangan |
-| --- | --- | --- |
-| newHeight | Int32 | Ketinggian baru. |
-| settings | ImageResizeSettings | Pengaturan pengubahan ukuran gambar. |
-
-### Lihat juga
-
-* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
-* class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
 Mengubah ukuran tinggi secara proporsional.
@@ -36,16 +15,38 @@ Mengubah ukuran tinggi secara proporsional.
 public override void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newHeight | Int32 | Ketinggian baru. |
+| newHeight | Int32 | Tinggi baru. |
 | resizeType | ResizeType | Jenis pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
+
+Mengubah ukuran tinggi secara proporsional.
+
+```csharp
+public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| newHeight | Int32 | Tinggi baru. |
+| pengaturan | ImageResizeSettings | Pengaturan pengubahan ukuran gambar. |
+
+### Lihat Juga
+
+* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

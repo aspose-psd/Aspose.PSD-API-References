@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.MeanValueForBrightnessAndContrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapat atau menyetel nilai ratarata untuk kecerahan dan kontras.
+title: "CgEdResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CgEdResource. Mendapatkan atau mengatur nilai rata‑rata untuk kecerahan dan kontras"
 type: docs
-weight: 80
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.MeanValueForBrightnessAndContrast property
 
-Mendapat atau menyetel nilai rata-rata untuk kecerahan dan kontras.
+Mendapatkan atau mengatur nilai rata-rata untuk kecerahan dan kontras.
 
 ```csharp
 public int MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai rata-rata untuk kecerahan dan kontras.
+Nilai rata‑rata untuk kecerahan dan kontras.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

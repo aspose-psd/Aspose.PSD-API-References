@@ -1,14 +1,15 @@
 ---
-title: Interface IGradientColorPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint antarmuka. Antarmuka dasar untuk pengaturan isian
+title: "Antarmuka IGradientColorPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint. Antarmuka dasar untuk pengaturan isi"
 type: docs
-weight: 2060
+weight: 2240
 url: /id/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint interface
 
-Antarmuka dasar untuk pengaturan isian
+Antarmuka dasar untuk pengaturan isi
 
 ```csharp
 public interface IGradientColorPoint
@@ -16,15 +17,15 @@ public interface IGradientColorPoint
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Mendapat atau mengatur lokasi. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Mendapat atau menetapkan lokasi titik median. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Mendapat atau menyetel warna mentah. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Mendapatkan atau mengatur lokasi. Rentang nilai 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Mendapatkan atau mengatur lokasi titik median. Rentang nilai 0-4096. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Mendapatkan atau mengatur warna raw. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

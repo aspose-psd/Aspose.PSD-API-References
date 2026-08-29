@@ -1,11 +1,12 @@
 ---
-title: BritResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource Properti. Mendapatkan versi psd.
+title: "BritResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BritResource. Mendapatkan versi psd"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion/
 ---
+{{< psd/tize >}}
 ## BritResource.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,10 +15,10 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

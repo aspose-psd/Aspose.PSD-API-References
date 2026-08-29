@@ -1,37 +1,38 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadersRegistry metode. Mendapatkan format file pertama yang didukung dengan nama jenisnya.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageLoadersRegistry. Mendapatkan format file yang didukung pertama berdasarkan nama tipenya"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat method
 
-Mendapatkan format file pertama yang didukung dengan nama jenisnya.
+Mendapatkan format file yang didukung pertama berdasarkan nama tipenya.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(FileFormat fileFormat)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fileFormat | FileFormat | Format file deskriptor yang didukung. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Deskriptor loader pertama yang ditemukan atau null jika deskriptor tersebut tidak ditemukan.
+Deskriptor pemuat pertama yang ditemukan atau null jika tidak ada deskriptor seperti itu.
 
-### Perkataan
+## Catatan
 
-Deskriptor loader pertama sebenarnya adalah yang terakhir didaftarkan.
+Deskriptor pemuat pertama sebenarnya akan menjadi yang terakhir terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageloadersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

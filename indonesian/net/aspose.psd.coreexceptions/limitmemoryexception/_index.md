@@ -1,14 +1,15 @@
 ---
-title: Class LimitMemoryException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.LimitMemoryException kelas. Pengecualian batas memori. Terjadi saat penggunaan memori harus dikurangi.
+title: "Kelas LimitMemoryException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.LimitMemoryException kelas. Pengecualian batas memori. Terjadi ketika penggunaan memori harus dikurangi"
 type: docs
 weight: 650
 url: /id/net/aspose.psd.coreexceptions/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException class
 
-Pengecualian batas memori. Terjadi saat penggunaan memori harus dikurangi.
+Pengecualian batas memori. Terjadi ketika penggunaan memori harus dikurangi.
 
 ```csharp
 public class LimitMemoryException : OutOfMemoryException
@@ -16,22 +17,22 @@ public class LimitMemoryException : OutOfMemoryException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LimitMemoryException](limitmemoryexception/#constructor)(string) | Menginisialisasi instance baru dari`LimitMemoryException` kelas. |
-| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | Menginisialisasi instance baru dari`LimitMemoryException` kelas. |
-| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | Menginisialisasi instance baru dari`LimitMemoryException` kelas. |
-| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | Menginisialisasi instance baru dari`LimitMemoryException` kelas. |
+| [LimitMemoryException](limitmemoryexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | Menginisialisasi instance baru dari kelas `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | Menginisialisasi instance baru dari kelas `LimitMemoryException`. |
+| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | Menginisialisasi instance baru dari kelas `LimitMemoryException`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | Mendapat atau menyetel faktor pengurangan memori. |
+| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | Mendapatkan atau mengatur faktor pengurangan memori. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

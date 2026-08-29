@@ -1,24 +1,25 @@
 ---
-title: ImageOptionsBase.MultiPageOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageOptionsBase Properti. Opsi multi halaman
+title: "ImageOptionsBase.MultiPageOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageOptionsBase. Opsi multipage"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/imageoptionsbase/multipageoptions/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.MultiPageOptions property
 
-Opsi multi halaman
+Opsi multipage
 
 ```csharp
 public MultiPageOptions MultiPageOptions { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../../../aspose.psd.imageoptions/multipageoptions/)
 * class [ImageOptionsBase](../)
-* ruang nama [Aspose.PSD](../../imageoptionsbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

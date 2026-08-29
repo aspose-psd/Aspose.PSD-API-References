@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeEnabled
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah efek goresan diaktifkan.
+title: "VstkResource.StrokeEnabled"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VstkResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah efek goresan diaktifkan"
 type: docs
-weight: 70
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeEnabled property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah efek goresan diaktifkan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah efek stroke diaktifkan.
 
 ```csharp
 public bool StrokeEnabled { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

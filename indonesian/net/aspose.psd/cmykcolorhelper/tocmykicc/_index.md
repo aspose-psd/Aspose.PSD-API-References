@@ -1,60 +1,61 @@
 ---
-title: CmykColorHelper.ToCmykIcc
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColorHelper metode. Konversi dari warna ARGB ke warna CMYK menggunakan konversi Icc dengan profil khusus.
+title: "CmykColorHelper.ToCmykIcc"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CmykColorHelper. Konversi dari warna ARGB ke warna CMYK menggunakan konversi Icc dengan profil khusus"
 type: docs
 weight: 110
 url: /id/net/aspose.psd/cmykcolorhelper/tocmykicc/
 ---
+{{< psd/tize >}}
 ## ToCmykIcc(Color[], Stream, Stream) {#tocmykicc_3}
 
-Konversi dari warna ARGB ke warna CMYK menggunakan konversi Icc dengan profil khusus.
+Konversi dari warna-warna ARGB ke warna-warna CMYK menggunakan konversi Icc dengan profil khusus.
 
 ```csharp
 public static int[] ToCmykIcc(Color[] pixels, Stream rgbIccStream, Stream cmykIccStream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixels | Color[] | Warna ARGB. |
-| rgbIccStream | Stream | Aliran yang berisi profil RGB Icc. |
-| cmykIccStream | Stream | Aliran yang berisi profil CMYK Icc. |
+| piksel | Color[] | Warna ARGB. |
+| rgbIccStream | Stream | Stream yang berisi profil Icc RGB. |
+| cmykIccStream | Stream | Stream yang berisi profil Icc CMYK. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Warna CMYK disajikan sebagai nilai integer 32-bit.
+Warna CMYK yang disajikan sebagai nilai integer 32-bit.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ruang nama [Aspose.PSD](../../cmykcolorhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmykIcc(Color[]) {#tocmykicc_2}
 
-Konversi dari warna ARGB ke warna CMYK menggunakan konversi Icc dengan profil default.
+Konversi dari warna-warna ARGB ke warna-warna CMYK menggunakan konversi Icc dengan profil default.
 
 ```csharp
 public static int[] ToCmykIcc(Color[] pixels)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixels | Color[] | Warna ARGB. |
+| piksel | Color[] | Warna ARGB. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Warna CMYK disajikan sebagai nilai integer 32-bit.
+Warna CMYK yang disajikan sebagai nilai integer 32-bit.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ruang nama [Aspose.PSD](../../cmykcolorhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -66,20 +67,20 @@ Konversi dari warna ARGB ke warna CMYK menggunakan konversi Icc dengan profil de
 public static int ToCmykIcc(Color pixel)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixel | Color | Warna ARGB. |
+| pixel | Warna | Warna ARGB. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Warna CMYK disajikan sebagai nilai integer 32-bit.
+Warna CMYK yang disajikan sebagai nilai integer 32-bit.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ruang nama [Aspose.PSD](../../cmykcolorhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -91,21 +92,21 @@ Konversi dari warna ARGB ke warna CMYK menggunakan konversi Icc dengan profil kh
 public static int ToCmykIcc(Color pixel, Stream rgbIccStream, Stream cmykIccStream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixel | Color | Warna ARGB. |
-| rgbIccStream | Stream | Aliran yang berisi profil RGB Icc. |
-| cmykIccStream | Stream | Aliran yang berisi profil CMYK Icc. |
+| pixel | Warna | Warna ARGB. |
+| rgbIccStream | Stream | Stream yang berisi profil Icc RGB. |
+| cmykIccStream | Stream | Stream yang berisi profil Icc CMYK. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Warna CMYK disajikan sebagai nilai integer 32-bit.
+Warna CMYK yang disajikan sebagai nilai integer 32-bit.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* ruang nama [Aspose.PSD](../../cmykcolorhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: UnitStructure.UnitStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitStructure konstruktor. Menginisialisasi instance baru dariUnitStructure kelas.
+title: "UnitStructure.UnitStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor UnitStructure. Menginisialisasi instance baru dari kelas UnitStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
+{{< psd/tize >}}
 ## UnitStructure constructor
 
-Menginisialisasi instance baru dari[`UnitStructure`](../) kelas.
+Menginisialisasi instance baru dari kelas [`UnitStructure`](../).
 
 ```csharp
 public UnitStructure(ClassID keyName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnitStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

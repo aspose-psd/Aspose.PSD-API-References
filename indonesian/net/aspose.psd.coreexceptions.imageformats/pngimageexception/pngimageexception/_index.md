@@ -1,48 +1,49 @@
 ---
-title: PngImageException.PngImageException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PngImageException konstruktor. Menginisialisasi instance baru dariPngImageException kelas.
+title: "PngImageException.PngImageException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PngImageException. Menginisialisasi sebuah instance baru dari kelas PngImageException."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions.imageformats/pngimageexception/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`PngImageException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PngImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngImageException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PngImageException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan. |
 | innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PngImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

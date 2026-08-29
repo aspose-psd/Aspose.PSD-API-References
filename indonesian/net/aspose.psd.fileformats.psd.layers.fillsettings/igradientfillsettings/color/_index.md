@@ -1,28 +1,30 @@
 ---
-title: IGradientFillSettings.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IGradientFillSettings Properti. Mendapat atau mengatur warna.
+title: "IGradientFillSettings.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IGradientFillSettings. Mendapatkan atau mengatur warna"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Color property
 
-Mendapat atau mengatur warna.
+Mendapatkan atau mengatur warna.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IGradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

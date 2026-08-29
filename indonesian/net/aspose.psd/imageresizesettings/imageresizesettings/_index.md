@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.ImageResizeSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageResizeSettings konstruktor. Konstruktor default.
+title: "ImageResizeSettings.ImageResizeSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ImageResizeSettings. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/imageresizesettings/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public ImageResizeSettings()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../)
-* ruang nama [Aspose.PSD](../../imageresizesettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

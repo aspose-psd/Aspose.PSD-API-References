@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat tanda tangan sumber daya smart object.
+title: "SmartObjectResource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan tanda tangan sumber daya objek pintar."
 type: docs
 weight: 210
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Signature property
 
-Mendapat tanda tangan sumber daya smart object.
+Mendapatkan tanda tangan sumber daya objek pintar.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

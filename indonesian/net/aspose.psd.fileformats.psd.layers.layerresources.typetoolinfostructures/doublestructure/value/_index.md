@@ -1,27 +1,28 @@
 ---
-title: DoubleStructure.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DoubleStructure Properti. Mendapat atau menetapkan nilai ganda.
+title: "DoubleStructure.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DoubleStructure. Mendapatkan atau mengatur nilai double"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Value property
 
-Mendapat atau menetapkan nilai ganda.
+Mendapatkan atau mengatur nilai double.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai ganda.
+Nilai double.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DoubleStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

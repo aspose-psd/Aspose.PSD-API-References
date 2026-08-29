@@ -1,28 +1,29 @@
 ---
-title: GdFlResource.GradientType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat atau menyetel jenis gradien.
+title: "GdFlResource.GradientType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GdFlResource properti. Mendapatkan atau mengatur tipe gradien"
 type: docs
-weight: 90
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientType property
 
-Mendapat atau menyetel jenis gradien.
+Mendapatkan atau mengatur tipe gradien.
 
 ```csharp
 public GradientType GradientType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis gradien.
+Tipe gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [GradientType](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/)
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

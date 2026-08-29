@@ -1,27 +1,28 @@
 ---
-title: ColorBlend.Positions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBlend Properti. Mendapat atau mengatur posisi sepanjang garis gradien.
+title: "ColorBlend.Positions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorBlend. Mendapatkan atau mengatur posisi sepanjang garis gradien"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/colorblend/positions/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Positions property
 
-Mendapat atau mengatur posisi sepanjang garis gradien.
+Mendapatkan atau mengatur posisi-posisi sepanjang garis gradien.
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Susunan nilai yang menentukan persentase jarak di sepanjang garis gradien.
+Array nilai yang menentukan persentase jarak sepanjang garis gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBlend](../)
-* ruang nama [Aspose.PSD](../../colorblend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

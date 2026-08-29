@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur jenis sampel audio.
+title: "XmpDynamicMediaPackage.SetAudioSampleType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Menetapkan tipe sampel audio"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosampletype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleType method
 
-Mengatur jenis sampel audio.
+Mengatur tipe sampel audio.
 
 ```csharp
 public void SetAudioSampleType(AudioSampleType audioSampleType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| audioSampleType | AudioSampleType | Jenis sampel audio. |
+| audioSampleType | AudioSampleType | Tipe sampel audio. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioSampleType](../../audiosampletype/)
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

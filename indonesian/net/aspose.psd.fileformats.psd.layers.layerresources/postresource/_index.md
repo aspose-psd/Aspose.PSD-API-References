@@ -1,14 +1,15 @@
 ---
-title: Class PostResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource kelas. Kelas PostResource. Pengaturan layer posterize.
+title: "Kelas PostResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource. Kelas PostResource. Pengaturan lapisan posterisasi"
 type: docs
-weight: 2950
+weight: 3300
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/
 ---
+{{< psd/tize >}}
 ## PostResource class
 
-Kelas PostResource. Pengaturan layer posterize.
+Kelas PostResource. Pengaturan lapisan Posterize.
 
 ```csharp
 public class PostResource : AdjustmentLayerResource
@@ -16,38 +17,65 @@ public class PostResource : AdjustmentLayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [PostResource](postresource/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
 | [Levels](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/) { get; set; } | Tingkat lapisan Posterize. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/signature/) { get; } | Mendapat tanda tangan. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Lihat juga
+## Contoh
+
+Kode berikut menunjukkan kemampuan manipulasi PostResource.
+
+```csharp
+[C#]
+
+string sourceFile = "zendeya_posterize.psd";
+string outputFile = "zendeya_posterize_10.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
+{
+    Layer layer = image.Layers[1];
+
+    foreach (LayerResource resource in layer.Resources)
+    {
+        if (resource is PostResource)
+        {
+            ((PostResource)resource).Levels = 10;
+            image.Save(outputFile);
+
+            break;
+        }
+    }
+}
+```
+
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

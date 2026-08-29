@@ -1,18 +1,25 @@
 ---
-title: Aspose.PSD.ImageLoadOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi opsi pemuatan format file yang berbeda.
+title: "Aspose.PSD.ImageLoadOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi opsi pemuatan format file yang berbeda"
 type: docs
-weight: 420
+weight: 460
 url: /id/net/aspose.psd.imageloadoptions/
 ---
-Ruang nama berisi opsi pemuatan format file yang berbeda.
+{{< psd/tize >}}
+Namespace ini berisi opsi pemuatan format file yang berbeda.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [Jpeg2000LoadOptions](./jpeg2000loadoptions/) | Opsi pemuatan JPEG2000 |
-| [PsdLoadOptions](./psdloadoptions/) | Opsi pemuatan psd |
+| [Jpeg2000LoadOptions](./jpeg2000loadoptions/) | JPEG2000 opsi pemuatan |
+| [PngLoadOptions](./pngloadoptions/) | Opsi pemuatan png. |
+| [PsdLoadOptions](./psdloadoptions/) | Psd opsi pemuatan |
+## Enumerasi
+
+| Enumerasi | Deskripsi |
+| --- | --- |
+| [ReadOnlyMode](./readonlymode/) | Menentukan mode baca-saja yang tersedia saat memuat gambar PSD. |
 
 

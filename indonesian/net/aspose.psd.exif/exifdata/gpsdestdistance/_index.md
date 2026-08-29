@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestDistance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur jarak GPS ke titik tujuan.
+title: "ExifData.GPSDestDistance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur jarak GPS ke titik tujuan"
 type: docs
 weight: 420
 url: /id/net/aspose.psd.exif/exifdata/gpsdestdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistance property
 
-Mendapat atau mengatur jarak GPS ke titik tujuan.
+Mendapatkan atau mengatur jarak GPS ke titik tujuan.
 
 ```csharp
 public TiffRational GPSDestDistance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jarak GPS ke titik tujuan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

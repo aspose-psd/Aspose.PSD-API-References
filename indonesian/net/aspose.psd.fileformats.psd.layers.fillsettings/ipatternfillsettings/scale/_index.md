@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Scale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPatternFillSettings Properti. Mendapat atau menyetel skala.
+title: "IPatternFillSettings.Scale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPatternFillSettings. Mendapatkan atau mengatur skala"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Scale property
 
-Mendapat atau menyetel skala.
+Mendapatkan atau mengatur skala.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Skala.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

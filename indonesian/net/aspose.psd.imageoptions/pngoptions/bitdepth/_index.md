@@ -1,11 +1,12 @@
 ---
-title: PngOptions.BitDepth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PngOptions Properti. Kedalaman bit.
+title: "PngOptions.BitDepth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PngOptions. Kedalaman bit"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imageoptions/pngoptions/bitdepth/
 ---
+{{< psd/tize >}}
 ## PngOptions.BitDepth property
 
 Kedalaman bit.
@@ -14,10 +15,10 @@ Kedalaman bit.
 public byte BitDepth { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PngOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pngoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

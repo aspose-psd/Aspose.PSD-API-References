@@ -1,27 +1,28 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat nilai yang menunjukkan apakah pemuatan data mentah tersedia.
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mengambil nilai yang menunjukkan apakah pemuatan data mentah tersedia"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
-Mendapat nilai yang menunjukkan apakah pemuatan data mentah tersedia.
+Mendapatkan nilai yang menunjukkan apakah pemuatan data mentah tersedia.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika pemuatan data mentah ini tersedia; jika tidak,`PALSU` .
+`true` jika pemuatan data mentah ini tersedia; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

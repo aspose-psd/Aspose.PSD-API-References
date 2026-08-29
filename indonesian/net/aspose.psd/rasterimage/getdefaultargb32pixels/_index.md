@@ -1,32 +1,33 @@
 ---
-title: RasterImage.GetDefaultArgb32Pixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mendapatkan susunan piksel ARGB 32bit default.
+title: "RasterImage.GetDefaultArgb32Pixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterImage metode. Mendapatkan array piksel ARGB 32-bit default"
 type: docs
 weight: 280
 url: /id/net/aspose.psd/rasterimage/getdefaultargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetDefaultArgb32Pixels method
 
-Mendapatkan susunan piksel ARGB 32-bit default.
+Mendapatkan array piksel ARGB 32-bit default.
 
 ```csharp
 public int[] GetDefaultArgb32Pixels(Rectangle rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk mendapatkan piksel. |
+| persegi panjang | Rectangle | Persegi panjang untuk mengambil piksel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Susunan piksel default.
+Array piksel default.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

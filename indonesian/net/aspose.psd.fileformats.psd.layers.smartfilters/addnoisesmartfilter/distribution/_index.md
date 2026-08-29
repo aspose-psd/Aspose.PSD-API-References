@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.Distribution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AddNoiseSmartFilter Properti. Mendapat atau menyetel distribusi filter derau.
+title: "AddNoiseSmartFilter.Distribution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AddNoiseSmartFilter properti. Mendapatkan atau mengatur distribusi filter kebisingan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.Distribution property
 
-Mendapat atau menyetel distribusi filter derau.
+Mendapatkan atau mengatur distribusi filter noise.
 
 ```csharp
 public NoiseDistribution Distribution { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan dukungan antarmuka filter cerdas.
+Contoh ini menunjukkan dukungan antarmuka filter pintar.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // edit filter pintar
+    // sunting filter pintar
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // periksa nilai filter
@@ -59,7 +60,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // menerapkan perubahan
+    // terapkan perubahan
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Terapkan filter
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [NoiseDistribution](../../noisedistribution/)
 * class [AddNoiseSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

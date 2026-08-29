@@ -1,27 +1,28 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalAngleResource Properti. Mendapat atau mengatur sudut global.
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalAngleResource. Mendapatkan atau mengatur sudut global"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
-Mendapat atau mengatur sudut global.
+Mendapatkan atau mengatur sudut global.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut global.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalAngleResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

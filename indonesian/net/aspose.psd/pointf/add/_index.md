@@ -1,59 +1,60 @@
 ---
-title: PointF.Add
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF metode. Menerjemahkan yang diberikanPointF oleh yang ditentukanSize .
+title: "PointF.Add"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointF. Mentranslasikan PointF yang diberikan dengan Size yang ditentukan."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/pointf/add/
 ---
+{{< psd/tize >}}
 ## Add(PointF, Size) {#add}
 
-Menerjemahkan yang diberikan[`PointF`](../) oleh yang ditentukan[`Size`](../../size/) .
+Mentranslasikan [`PointF`](../) yang diberikan dengan [`Size`](../../size/) yang ditentukan.
 
 ```csharp
 public static PointF Add(PointF point, Size size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../) untuk menerjemahkan. |
-| size | Size | Itu[`Size`](../../size/) yang menentukan angka untuk ditambahkan ke koordinat*point*. |
+| point | PointF | [`PointF`](../) yang akan ditranslasikan. |
+| size | Size | [`Size`](../../size/) yang menentukan angka-angka yang akan ditambahkan ke koordinat *point*. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang diterjemahkan[`PointF`](../).
+[`PointF`](../) yang telah ditranslasikan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Add(PointF, SizeF) {#add_1}
 
-Menerjemahkan yang diberikan[`PointF`](../) oleh ditentukan[`SizeF`](../../sizef/) .
+Mentranslasikan [`PointF`](../) yang diberikan dengan [`SizeF`](../../sizef/) yang ditentukan.
 
 ```csharp
 public static PointF Add(PointF point, SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../) untuk menerjemahkan. |
-| size | SizeF | Itu[`SizeF`](../../sizef/) yang menentukan angka untuk ditambahkan ke koordinat*point*. |
+| point | PointF | [`PointF`](../) yang akan ditranslasikan. |
+| size | SizeF | [`SizeF`](../../sizef/) yang menentukan angka-angka yang akan ditambahkan ke koordinat *point*. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang diterjemahkan[`PointF`](../).
+[`PointF`](../) yang telah ditranslasikan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

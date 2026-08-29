@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetInstructions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Mengatur instruksi.
+title: "PhotoshopPackage.SetInstructions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhotoshopPackage. Mengatur instruksi"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetInstructions method
 
 Mengatur instruksi.
@@ -14,14 +15,14 @@ Mengatur instruksi.
 public void SetInstructions(string instructions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | instructions | String | Instruksi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

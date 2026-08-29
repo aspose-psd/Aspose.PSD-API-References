@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintFlagsResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "PrintFlagsResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PrintFlagsResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.resources/printflagsresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintFlagsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

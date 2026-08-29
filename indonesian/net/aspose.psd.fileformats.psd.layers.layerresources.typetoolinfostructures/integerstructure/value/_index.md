@@ -1,27 +1,28 @@
 ---
-title: IntegerStructure.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IntegerStructure Properti. Mendapat atau menetapkan nilai integer.
+title: "IntegerStructure.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IntegerStructure. Mendapatkan atau mengatur nilai integer"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Value property
 
-Mendapat atau menetapkan nilai integer.
+Mendapatkan atau mengatur nilai integer.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai bilangan bulat.
+Sebuah nilai integer.
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntegerStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: CurvesDiscreteManager.SetValueInPosition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesDiscreteManager metode. Menetapkan nilai di posisi.
+title: "CurvesDiscreteManager.SetValueInPosition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvesDiscreteManager. Mengatur nilai pada posisi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueInPosition method
 
-Menetapkan nilai di posisi.
+Mengatur nilai pada posisi.
 
 ```csharp
 public void SetValueInPosition(int channelIndex, byte position, byte value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
-| position | Byte | Posisinya. |
-| value | Byte | Nilai. |
+| posisi | Byte | Posisi. |
+| nilai | Byte | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesDiscreteManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

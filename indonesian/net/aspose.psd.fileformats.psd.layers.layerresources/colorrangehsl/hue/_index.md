@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Hue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl Properti. Mendapat atau menyetel hue.
+title: "ColorRangeHsl.Hue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorRangeHsl. Mendapatkan atau mengatur hue"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Hue property
 
-Mendapat atau menyetel hue.
+Mendapatkan atau mengatur hue.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Rona.
+Hue.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

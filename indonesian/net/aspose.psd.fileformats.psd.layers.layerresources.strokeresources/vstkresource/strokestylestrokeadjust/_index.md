@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleStrokeAdjust
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel penyesuaian Stroke.
+title: "VstkResource.StrokeStyleStrokeAdjust"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VstkResource. Mendapatkan atau mengatur penyesuaian goresan"
 type: docs
-weight: 210
+weight: 190
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleStrokeAdjust property
 
-Mendapat atau menyetel penyesuaian Stroke.
+Mendapatkan atau mengatur penyesuaian Stroke.
 
 ```csharp
 public bool StrokeStyleStrokeAdjust { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

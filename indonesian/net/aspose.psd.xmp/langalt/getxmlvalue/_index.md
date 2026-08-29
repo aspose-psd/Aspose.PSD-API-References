@@ -1,27 +1,28 @@
 ---
-title: LangAlt.GetXmlValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LangAlt metode. Mengubah nilai XMP menjadi representasi XML.
+title: "LangAlt.GetXmlValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LangAlt. Mengonversi nilai XMP ke representasi XML"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/langalt/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## LangAlt.GetXmlValue method
 
-Mengubah nilai XMP menjadi representasi XML.
+Mengonversi nilai XMP ke representasi XML.
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan nilai XMP yang dikonversi ke representasi XML.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../)
-* ruang nama [Aspose.PSD.Xmp](../../langalt/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

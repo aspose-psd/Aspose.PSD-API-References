@@ -1,14 +1,15 @@
 ---
-title: Class Brush
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Brush kelas. Kelas sikat dasar.
+title: "Class Brush"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Brush. Kelas kuas dasar"
 type: docs
 weight: 120
 url: /id/net/aspose.psd/brush/
 ---
+{{< psd/tize >}}
 ## Brush class
 
-Kelas sikat dasar.
+Kelas kuas dasar.
 
 ```csharp
 public abstract class Brush : DisposableObject
@@ -16,22 +17,22 @@ public abstract class Brush : DisposableObject
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini dibuang. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Mendapat atau menyetel opasitas kuas. Nilai harus antara 0 dan 1. Nilai 0 berarti kuas terlihat sepenuhnya, nilai 1 berarti kuas sepenuhnya buram. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapatkan nilai yang menunjukkan apakah instansi ini telah dibuang. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Mendapatkan atau mengatur opasitas kuas. Nilainya harus antara 0 dan 1. Nilai 0 berarti kuas sepenuhnya terlihat, nilai 1 berarti kuas sepenuhnya tidak tembus. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Membuat klon dalam baru dari arus`Brush` . |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Membuat klon dalam baru dari `Brush` saat ini. |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | Membuang instance saat ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DisposableObject](../disposableobject/)
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

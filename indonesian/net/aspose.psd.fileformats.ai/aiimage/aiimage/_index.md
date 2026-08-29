@@ -1,23 +1,24 @@
 ---
-title: AiImage.AiImage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage konstruktor. Konstruktor default.
+title: "AiImage.AiImage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor AiImage. Menginisialisasi instance baru dari kelas AiImage"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-Konstruktor default.
+Menginisialisasi instance baru dari kelas [`AiImage`](../).
 
 ```csharp
 public AiImage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

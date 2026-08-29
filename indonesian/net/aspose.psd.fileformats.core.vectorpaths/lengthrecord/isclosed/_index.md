@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.IsClosed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LengthRecord Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditutup.
+title: "LengthRecord.IsClosed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LengthRecord. Mengambil atau mengatur nilai yang menunjukkan apakah instance ini tertutup."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsClosed property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditutup.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini tertutup.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini ditutup; jika tidak,`PALSU` .
+`true` jika instance ini tertutup; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LengthRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

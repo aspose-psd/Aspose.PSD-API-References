@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapatkan atau menyetel versi.
+title: "CgEdResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CgEdResource. Mendapatkan atau mengatur versi"
 type: docs
-weight: 110
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Version property
 
-Mendapatkan atau menyetel versi.
+Mendapatkan atau mengatur versi.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

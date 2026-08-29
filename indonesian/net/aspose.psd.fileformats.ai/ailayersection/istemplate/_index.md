@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini adalah lapisan template.
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini adalah lapisan template"
 type: docs
-weight: 100
+weight: 120
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini adalah lapisan template.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini adalah lapisan templat.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika lapisan ini adalah templat; jika tidak,`PALSU` .
+`true` jika lapisan ini adalah template; sebaliknya, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

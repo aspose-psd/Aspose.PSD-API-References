@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ColorMatrixFlag enum. Menentukan jenis gambar dan warna yang akan dipengaruhi oleh pengaturan penyesuaian warna dan skala abuabu suatuImageAttributes .
+title: "Enum ColorMatrixFlag"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ColorMatrixFlag. Menentukan jenis gambar dan warna yang akan dipengaruhi oleh pengaturan penyesuaian warna dan skala abu-abu dari ImageAttributes."
 type: docs
 weight: 360
 url: /id/net/aspose.psd/colormatrixflag/
 ---
+{{< psd/tize >}}
 ## ColorMatrixFlag enumeration
 
-Menentukan jenis gambar dan warna yang akan dipengaruhi oleh pengaturan penyesuaian warna dan skala abu-abu suatu[`ImageAttributes`](../imageattributes/) .
+Menentukan jenis gambar dan warna yang akan dipengaruhi oleh pengaturan penyesuaian warna dan skala abu-abu dari sebuah [`ImageAttributes`](../imageattributes/).
 
 ```csharp
 public enum ColorMatrixFlag
@@ -16,15 +17,15 @@ public enum ColorMatrixFlag
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Default | `0` | Semua nilai warna, termasuk corak abu-abu, disesuaikan dengan matriks penyesuaian warna yang sama. |
-| SkipGrays | `1` | Semua warna disesuaikan, tetapi warna abu-abu tidak disesuaikan. Naungan abu-abu adalah warna apa pun yang memiliki nilai yang sama untuk komponen merah, hijau, dan birunya. |
-| AltGrays | `2` | Hanya warna abu-abu yang disesuaikan. |
+| Default | `0` | Semua nilai warna, termasuk nuansa abu-abu, disesuaikan oleh matriks penyesuaian warna yang sama. |
+| SkipGrays | `1` | Semua warna disesuaikan, tetapi nuansa abu-abu tidak disesuaikan. Nuansa abu-abu adalah warna apa pun yang memiliki nilai yang sama untuk komponen merah, hijau, dan birunya. |
+| AltGrays | `2` | Hanya nuansa abu-abu yang disesuaikan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

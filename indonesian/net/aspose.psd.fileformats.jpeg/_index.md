@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace menangani pemrosesan format file Jpeg.
+title: "Aspose.PSD.FileFormats.Jpeg"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini menangani pemrosesan format file Jpeg"
 type: docs
-weight: 160
+weight: 170
 url: /id/net/aspose.psd.fileformats.jpeg/
 ---
+{{< psd/tize >}}
 Namespace menangani pemrosesan format file Jpeg.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
 | [JFIFData](./jfifdata/) | Segmen jfif. |
-| [JpegLsPresetCodingParameters](./jpeglspresetcodingparameters/) | Menentukan parameter pengkodean preset JPEG-LS seperti yang didefinisikan dalam ISO/IEC 14495-1, C.2.4.1.1. JPEG-LS menentukan kumpulan parameter default, tetapi parameter khusus dapat digunakan. Saat digunakan, parameter ini ditulis ke aliran bit yang disandikan karena diperlukan untuk proses decoding. |
-## Pencacahan
+| [JpegLsPresetCodingParameters](./jpeglspresetcodingparameters/) | Menentukan parameter pengkodean preset JPEG-LS sebagaimana didefinisikan dalam ISO/IEC 14495-1, C.2.4.1.1. JPEG-LS mendefinisikan sekumpulan parameter default, tetapi parameter khusus dapat digunakan. Ketika digunakan, parameter ini ditulis ke dalam aliran bit yang terenkode sebagaimana diperlukan untuk proses dekoding. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
 | [JfifDensityUnits](./jfifdensityunits/) | Satuan kepadatan jfif. |
 | [JpegCompressionColorMode](./jpegcompressioncolormode/) | Mode warna untuk gambar jpeg. |
 | [JpegCompressionMode](./jpegcompressionmode/) | Mode kompresi untuk gambar jpeg. |
 | [JpegLsInterleaveMode](./jpeglsinterleavemode/) | Menentukan mode interleave untuk data piksel multi-komponen (warna). |
-| [SampleRoundingMode](./sampleroundingmode/) | Menentukan cara di mana nilai n-bit dikonversi menjadi nilai 8-bit. |
+| [SampleRoundingMode](./sampleroundingmode/) | Mendefinisikan cara di mana nilai n-bit dikonversi menjadi nilai 8-bit. |
 
 

@@ -1,23 +1,24 @@
 ---
-title: BritResource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource Properti. Mendapat kunci sumber daya lapisan.
+title: "BritResource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BritResource. Mengambil kunci sumber daya lapisan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/key/
 ---
+{{< psd/tize >}}
 ## BritResource.Key property
 
-Mendapat kunci sumber daya lapisan.
+Mendapatkan kunci sumber daya lapisan.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

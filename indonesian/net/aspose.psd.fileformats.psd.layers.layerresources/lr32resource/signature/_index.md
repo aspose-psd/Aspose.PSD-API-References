@@ -1,23 +1,24 @@
 ---
-title: Lr32Resource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr32Resource Properti. Mendapat tanda tangan.
+title: "Lr32Resource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Lr32Resource properti. Mendapatkan tanda tangan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/signature/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Signature property
 
-Mendapat tanda tangan.
+Mendapatkan tanda tangan.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lr32Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

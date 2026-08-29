@@ -1,33 +1,34 @@
 ---
-title: ColorPaletteHelper.GetDownscalePalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPaletteHelper metode. Dapatkan 256 palet warna terdiri dari bit atas nilai warna gambar awal.
+title: "ColorPaletteHelper.GetDownscalePalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorPaletteHelper. Mendapatkan palet warna 256 yang disusun dari bit atas nilai warna gambar awal"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/colorpalettehelper/getdownscalepalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetDownscalePalette method
 
-Dapatkan 256 palet warna, terdiri dari bit atas nilai warna gambar awal.
+Dapatkan palet warna 256, yang disusun dari bit atas nilai warna gambar awal.
 
 ```csharp
 public static ColorPalette GetDownscalePalette(RasterImage image)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | RasterImage | Gambar. |
+| gambar | RasterImage | Gambar. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`ColorPalette`](../../colorpalette/) .
+Palet [`ColorPalette`](../../colorpalette/).
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* ruang nama [Aspose.PSD](../../colorpalettehelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

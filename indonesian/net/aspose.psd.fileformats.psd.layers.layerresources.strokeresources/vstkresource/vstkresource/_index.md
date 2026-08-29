@@ -1,11 +1,12 @@
 ---
-title: VstkResource.VstkResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource konstruktor. Konstruktor default.
+title: "VstkResource.VstkResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor VstkResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/vstkresource/
 ---
+{{< psd/tize >}}
 ## VstkResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public VstkResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

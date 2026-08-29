@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menyetel komponen warna biru.
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur komponen warna biru"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-Mendapat atau menyetel komponen warna biru.
+Mendapatkan atau mengatur komponen warna biru.
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komponen warna biru.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

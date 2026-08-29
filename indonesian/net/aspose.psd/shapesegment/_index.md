@@ -1,14 +1,15 @@
 ---
-title: Class ShapeSegment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ShapeSegment kelas. Merupakan segmen bentuk. Segmen adalah garis atau kurva yang menghubungkan dua titik.
+title: "Kelas ShapeSegment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ShapeSegment. Mewakili segmen bentuk. Sebuah segmen adalah garis atau kurva yang menghubungkan dua titik."
 type: docs
-weight: 5430
+weight: 5930
 url: /id/net/aspose.psd/shapesegment/
 ---
+{{< psd/tize >}}
 ## ShapeSegment class
 
-Merupakan segmen bentuk. Segmen adalah garis atau kurva yang menghubungkan dua titik.
+Mewakili segmen bentuk. Segmen adalah garis atau kurva yang menghubungkan dua titik.
 
 ```csharp
 public abstract class ShapeSegment
@@ -16,14 +17,14 @@ public abstract class ShapeSegment
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | Mendapat titik akhir. |
-| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Mendapat titik awal. |
+| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | Mendapatkan titik akhir. |
+| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | Mendapatkan titik awal. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

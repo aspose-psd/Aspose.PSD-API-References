@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion3.ColorZ
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion3 Properti. Mendapat atau menyetel warna Z.
+title: "PhflResourceVersion3.ColorZ"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResourceVersion3. Mengambil atau mengatur warna Z"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorz/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorZ property
 
-Mendapat atau menyetel warna Z.
+Mendapatkan atau mengatur warna Z.
 
 ```csharp
 public float ColorZ { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna Z.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion3](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

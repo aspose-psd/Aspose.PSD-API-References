@@ -1,11 +1,12 @@
 ---
-title: Figure.RemoveShapes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure metode. Menghapus rentang bentuk dari gambar.
+title: "Figure.RemoveShapes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Figure. Menghapus rentang bentuk dari figure."
 type: docs
 weight: 100
 url: /id/net/aspose.psd/figure/removeshapes/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShapes method
 
 Menghapus rentang bentuk dari gambar.
@@ -14,15 +15,15 @@ Menghapus rentang bentuk dari gambar.
 public void RemoveShapes(Shape[] shapes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| shapes | Shape[] | Rentang bentuk untuk dihapus. |
+| bentuk | Shape[] | Rentang bentuk yang akan dihapus. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

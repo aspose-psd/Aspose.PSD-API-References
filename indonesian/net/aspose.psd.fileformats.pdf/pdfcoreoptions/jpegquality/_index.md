@@ -1,23 +1,24 @@
 ---
-title: PdfCoreOptions.JpegQuality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfCoreOptions Properti. Menentukan kualitas kompresi JPEG untuk gambar jika kompresi JPEG digunakan. Standarnya adalah 95.
+title: "PdfCoreOptions.JpegQuality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PdfCoreOptions. Menentukan kualitas kompresi JPEG untuk gambar jika kompresi JPEG digunakan. Default adalah 95"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.JpegQuality property
 
-Menentukan kualitas kompresi JPEG untuk gambar (jika kompresi JPEG digunakan). Standarnya adalah 95.
+Menentukan kualitas kompresi JPEG untuk gambar (jika kompresi JPEG digunakan). Default adalah 95.
 
 ```csharp
 public int JpegQuality { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfCoreOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.TransformMatrix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau mengatur matriks transformasi.
+title: "TypeToolInfoResource.TransformMatrix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur matriks transformasi"
 type: docs
-weight: 230
+weight: 200
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TransformMatrix property
 
-Mendapat atau mengatur matriks transformasi.
+Mendapatkan atau mengatur matriks transformasi.
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Matriks transformasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

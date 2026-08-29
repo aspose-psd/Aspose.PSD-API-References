@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfPackage metode. Mengatur kata kunci.
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PdfPackage. Mengatur kata kunci"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
 Mengatur kata kunci.
@@ -14,14 +15,14 @@ Mengatur kata kunci.
 public void SetKeywords(string keywords)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| keywords | String | Kata kunci. |
+| kata kunci | String | Kata kunci. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

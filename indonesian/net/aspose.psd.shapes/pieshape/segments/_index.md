@@ -1,11 +1,12 @@
 ---
-title: PieShape.Segments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PieShape Properti. Mendapatkan segmen bentuk.
+title: "PieShape.Segments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PieShape. Mendapatkan segmen bentuk"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.shapes/pieshape/segments/
 ---
+{{< psd/tize >}}
 ## PieShape.Segments property
 
 Mendapatkan segmen bentuk.
@@ -14,15 +15,15 @@ Mendapatkan segmen bentuk.
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Segmen bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PieShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../pieshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

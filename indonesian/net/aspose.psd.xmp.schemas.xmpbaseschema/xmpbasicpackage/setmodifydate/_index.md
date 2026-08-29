@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetModifyDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage metode. Menambahkan sumber daya tanggal modifikasi terakhir.
+title: "XmpBasicPackage.SetModifyDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBasicPackage. Menambahkan tanggal terakhir dimodifikasi sumber daya"
 type: docs
-weight: 80
+weight: 100
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
+{{< psd/tize >}}
 ## SetModifyDate(DateTime) {#setmodifydate}
 
-Menambahkan sumber daya tanggal modifikasi terakhir.
+Menambahkan tanggal terakhir sumber daya dimodifikasi.
 
 ```csharp
 public void SetModifyDate(DateTime modifiedDate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| modifiedDate | DateTime | Tanggal terakhir diubah. |
+| modifiedDate | DateTime | Tanggal terakhir dimodifikasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetModifyDate(string) {#setmodifydate_1}
 
-Menambahkan sumber daya tanggal modifikasi terakhir.
+Menambahkan tanggal terakhir sumber daya dimodifikasi.
 
 ```csharp
 public void SetModifyDate(string modifiedDate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| modifiedDate | String | Tanggal terakhir diubah. |
+| modifiedDate | String | Tanggal terakhir dimodifikasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

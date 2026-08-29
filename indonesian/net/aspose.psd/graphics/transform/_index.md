@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapatkan atau menyetel salinan transformasi dunia geometris untuk iniGraphics .
+title: "Graphics.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur salinan transformasi dunia geometris untuk Graphics ini."
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-Mendapatkan atau menyetel salinan transformasi dunia geometris untuk ini[`Graphics`](../) .
+Mendapatkan atau mengatur salinan transformasi dunia geometris untuk [`Graphics`](../) ini.
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Salinan dari[`Matrix`](../../matrix/) yang mewakili transformasi dunia geometris untuk ini[`Graphics`](../) .
+Sebuah salinan [`Matrix`](../../matrix/) yang mewakili transformasi dunia geometris untuk [`Graphics`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

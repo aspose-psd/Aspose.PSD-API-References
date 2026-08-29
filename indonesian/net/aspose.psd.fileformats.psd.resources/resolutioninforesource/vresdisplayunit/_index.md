@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.VResDisplayUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResolutionInfoResource Properti. Menampilkan unit untuk resolusi vertikal.
+title: "ResolutionInfoResource.VResDisplayUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ResolutionInfoResource properti. Unit tampilan untuk resolusi vertikal"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vresdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VResDisplayUnit property
 
-Menampilkan unit untuk resolusi vertikal.
+Unit tampilan untuk resolusi vertikal.
 
 ```csharp
 public ResolutionUnit VResDisplayUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Unit tampilan resolusi vertikal.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResolutionUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/)
 * class [ResolutionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

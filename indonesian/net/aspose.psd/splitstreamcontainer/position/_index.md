@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Position
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer Properti. Mendapat atau menetapkan posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi aliran awal yang diteruskan dalam konstruktor StreamContainer.
+title: "SplitStreamContainer.Position"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SplitStreamContainer. Mendapatkan atau mengatur posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi aliran awal yang diberikan pada konstruktor StreamContainer"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/splitstreamcontainer/position/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Position property
 
-Mendapat atau menetapkan posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi aliran awal yang diteruskan dalam konstruktor StreamContainer.
+Mendapatkan atau mengatur posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi awal aliran yang diberikan dalam konstruktor StreamContainer.
 
 ```csharp
 public override long Position { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Posisi aliran saat ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

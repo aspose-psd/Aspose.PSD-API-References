@@ -1,33 +1,34 @@
 ---
-title: Point.op_Addition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Menerjemahkan aPoint oleh yang diberikanSize .
+title: "Point.op_Addition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Point method. Menerjemahkan sebuah Point dengan Size yang diberikan"
 type: docs
 weight: 150
 url: /id/net/aspose.psd/point/op_addition/
 ---
+{{< psd/tize >}}
 ## Point Addition operator
 
-Menerjemahkan a[`Point`](../) oleh yang diberikan[`Size`](../../size/) .
+Menerjemahkan sebuah [`Point`](../) dengan sebuah [`Size`](../../size/) yang diberikan.
 
 ```csharp
 public static Point operator +(Point point, Size size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Itu[`Point`](../) untuk menerjemahkan. |
-| size | Size | A[`Size`](../../size/) yang menentukan pasangan angka untuk ditambahkan ke koordinat*point*. |
+| point | Point | [`Point`](../) yang akan diterjemahkan. |
+| size | Size | [`Size`](../../size/) yang menentukan pasangan angka untuk ditambahkan ke koordinat *point*. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang diterjemahkan[`Point`](../).
+[`Point`](../) yang telah diterjemahkan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: StrokeEffect.FillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StrokeEffect Properti. Mendapat atau menyetel pengaturan isian.
+title: "StrokeEffect.FillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StrokeEffect properti. Mendapatkan atau mengatur pengaturan isi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.FillSettings property
 
-Mendapat atau menyetel pengaturan isian.
+Mendapatkan atau mengatur pengaturan isi.
 
 ```csharp
 public BaseFillSettings FillSettings { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengaturan isian.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BaseFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/)
 * class [StrokeEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

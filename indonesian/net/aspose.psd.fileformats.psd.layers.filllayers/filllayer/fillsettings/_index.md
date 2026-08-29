@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FillLayer Properti. Mendapat pengaturan isian.
+title: "FillLayer.FillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FillLayer. Mendapatkan atau mengatur pengaturan isian"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-Mendapat pengaturan isian.
+Mendapatkan atau mengatur pengaturan isi.
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengaturan isian.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

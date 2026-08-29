@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.KnocksOut
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah tersingkir.
+title: "DropShadowEffect.KnocksOut"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DropShadowEffect properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah knocks out"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.KnocksOut property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [tersingkir].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [knocks out].
 
 ```csharp
 public bool KnocksOut { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR`jika [tersingkir]; jika tidak,`PALSU` .
+`true` jika [knocks out]; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

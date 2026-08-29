@@ -1,20 +1,21 @@
 ---
-title: HueSaturationLayer.Saturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: HueSaturationLayer Properti. Mendapat atau mengatur saturasi.
+title: "HueSaturationLayer.Saturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti HueSaturationLayer. Mendapatkan atau mengatur saturasi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/saturation/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Saturation property
 
-Mendapat atau mengatur saturasi.
+Mendapatkan atau mengatur saturasi.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saturasi.
 
@@ -22,12 +23,12 @@ Saturasi.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Saturasi harus berkisar dari -100 hingga +100 |
+| ArgumentOutOfRangeException | Saturasi harus berada dalam rentang dari -100 hingga +100 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [HueSaturationLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

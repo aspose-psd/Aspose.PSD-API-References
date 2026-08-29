@@ -1,11 +1,12 @@
 ---
-title: TimeFormat.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeFormat metode. Mengembalikan kode hash untuk instance ini.
+title: "TimeFormat.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TimeFormat metode. Mengembalikan kode hash untuk instance ini"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timeformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## TimeFormat.GetHashCode method
 
 Mengembalikan kode hash untuk instance ini.
@@ -14,14 +15,14 @@ Mengembalikan kode hash untuk instance ini.
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kode hash untuk instance ini, cocok untuk digunakan dalam algoritme hashing dan struktur data seperti tabel hash.
+Kode hash untuk instance ini, cocok untuk digunakan dalam algoritma hashing dan struktur data seperti tabel hash.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeFormat](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

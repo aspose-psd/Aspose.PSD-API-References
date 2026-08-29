@@ -1,14 +1,15 @@
 ---
-title: Class ResourceRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef kelas. Digunakan untuk menunjukkan versi sebelumnya asli terjemahan asli untuk dokumen turunan dan sebagainya.
+title: "Kelas ResourceRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef class. Digunakan untuk menunjukkan versi sebelumnya asli dari hasil rendisi asli untuk dokumen turunan dan sebagainya"
 type: docs
-weight: 6090
+weight: 6590
 url: /id/net/aspose.psd.xmp.types.complex.resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef class
 
-Digunakan untuk menunjukkan versi sebelumnya, asli terjemahan, asli untuk dokumen turunan, dan sebagainya.
+Digunakan untuk menunjukkan versi sebelumnya, asli dari rendisi, asli untuk dokumen turunan, dan sebagainya
 
 ```csharp
 public sealed class ResourceRef : ComplexTypeBase
@@ -16,31 +17,31 @@ public sealed class ResourceRef : ComplexTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [ResourceRef](resourceref/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/) { get; set; } | Mendapat atau mengatur larik jalur alternatif. |
-| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | Mendapat atau menyetel URI dokumen. |
-| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | Mendapat atau menyetel jalur file URI. |
-| [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/) { get; set; } | Mendapat atau menyetel pengidentifikasi instance. |
+| [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/) { get; set; } | Mendapatkan atau mengatur array jalur alternatif. |
+| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | Mendapatkan atau mengatur URI dokumen. |
+| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | Mendapatkan atau mengatur URI jalur file. |
+| [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi instance. |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Mendapatkan URI namespace default. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan awalan. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan prefiks. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../)
 
 

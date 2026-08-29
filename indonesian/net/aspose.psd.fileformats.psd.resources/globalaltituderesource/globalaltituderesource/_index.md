@@ -1,11 +1,12 @@
 ---
-title: GlobalAltitudeResource.GlobalAltitudeResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalAltitudeResource konstruktor. Konstruktor default.
+title: "GlobalAltitudeResource.GlobalAltitudeResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GlobalAltitudeResource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/globalaltituderesource/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public GlobalAltitudeResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalAltitudeResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

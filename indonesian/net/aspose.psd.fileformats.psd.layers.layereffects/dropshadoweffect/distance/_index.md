@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Distance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapat atau mengatur jarak dalam piksel.
+title: "DropShadowEffect.Distance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DropShadowEffect properti. Mendapatkan atau mengatur jarak dalam piksel"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Distance property
 
-Mendapat atau mengatur jarak dalam piksel.
+Mendapatkan atau mengatur jarak dalam piksel.
 
 ```csharp
 public int Distance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jarak.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

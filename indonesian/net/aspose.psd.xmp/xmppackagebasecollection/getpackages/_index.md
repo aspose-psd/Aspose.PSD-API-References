@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackageBaseCollection metode. Dapatkan berbagaiXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackageBaseCollection. Dapatkan array XmpPackage"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-Dapatkan berbagai[`XmpPackage`](../../xmppackage/) .
+Dapatkan array dari [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public XmpPackage[] GetPackages()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan array paket XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.Effects
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendingOptions Properti. Mendapatkan efeknya.
+title: "BlendingOptions.Effects"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlendingOptions. Mendapatkan efek"
 type: docs
-weight: 10
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.Effects property
 
-Mendapatkan efeknya.
+Mendapatkan efek.
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Efeknya.
+Efek-efek.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpRightsManagementPackage metode. Menetapkan pemilik.
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode XmpRightsManagementPackage. Menetapkan pemilik"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
-Menetapkan pemilik.
+Mengatur pemilik.
 
 ```csharp
 public void SetOwners(string[] owners)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| owners | String[] | Pemilik. |
+| pemilik | String[] | Pemilik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpRightsManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

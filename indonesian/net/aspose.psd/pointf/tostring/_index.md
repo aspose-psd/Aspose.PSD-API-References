@@ -1,27 +1,28 @@
 ---
-title: PointF.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF metode. Mengubah iniPointF ke string yang dapat dibaca manusia.
+title: "PointF.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointF. Mengonversi PointF ini menjadi string yang dapat dibaca manusia."
 type: docs
 weight: 100
 url: /id/net/aspose.psd/pointf/tostring/
 ---
+{{< psd/tize >}}
 ## PointF.ToString method
 
-Mengubah ini[`PointF`](../) ke string yang dapat dibaca manusia.
+Mengonversi [`PointF`](../) ini menjadi string yang dapat dibaca manusia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah string yang mewakili ini[`PointF`](../).
+String yang mewakili [`PointF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

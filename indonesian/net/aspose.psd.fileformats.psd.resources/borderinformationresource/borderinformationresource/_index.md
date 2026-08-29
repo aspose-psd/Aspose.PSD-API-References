@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.BorderInformationResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BorderInformationResource konstruktor. Konstruktor default.
+title: "BorderInformationResource.BorderInformationResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor BorderInformationResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/borderinformationresource/borderinformationresource/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public BorderInformationResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BorderInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

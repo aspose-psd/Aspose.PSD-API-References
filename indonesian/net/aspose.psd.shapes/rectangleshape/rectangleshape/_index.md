@@ -1,44 +1,45 @@
 ---
-title: RectangleShape.RectangleShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleShape konstruktor. Menginisialisasi instance baru dariRectangleShape kelas.
+title: "RectangleShape.RectangleShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor RectangleShape. Menginisialisasi instance baru dari kelas RectangleShape"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
+{{< psd/tize >}}
 ## RectangleShape() {#constructor}
 
-Menginisialisasi instance baru dari[`RectangleShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`RectangleShape`](../).
 
 ```csharp
 public RectangleShape()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RectangleShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-Menginisialisasi instance baru dari[`RectangleShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`RectangleShape`](../).
 
 ```csharp
 public RectangleShape(RectangleF rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | RectangleF | Persegi panjang. |
+| persegi panjang | RectangleF | Persegi panjang. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

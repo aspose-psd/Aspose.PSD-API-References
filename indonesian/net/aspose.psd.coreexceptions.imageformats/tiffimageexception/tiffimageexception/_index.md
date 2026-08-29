@@ -1,91 +1,92 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffImageException konstruktor. Menginisialisasi instance baru dariTiffImageException kelas.
+title: "TiffImageException.TiffImageException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TiffImageException. Menginisialisasi sebuah instance baru dari kelas TiffImageException"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`TiffImageException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-Menginisialisasi instance baru dari[`TiffImageException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-Menginisialisasi instance baru dari[`TiffImageException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan. |
 | error | TiffOptionsError | Kesalahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-Menginisialisasi instance baru dari[`TiffImageException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | error | TiffOptionsError | Kesalahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

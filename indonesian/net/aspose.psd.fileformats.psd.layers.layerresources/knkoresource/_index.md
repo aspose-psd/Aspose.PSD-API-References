@@ -1,14 +1,15 @@
 ---
-title: Class KnkoResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource kelas. Class KnkoResource. Sumber daya ini berisi informasi tentang pencampuran elemen terpotong.
+title: "Kelas KnkoResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource class. Kelas KnkoResource. Sumber daya ini berisi informasi tentang pencampuran elemen terklip."
 type: docs
-weight: 2570
+weight: 2880
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource class
 
-Class KnkoResource. Sumber daya ini berisi informasi tentang pencampuran elemen terpotong.
+Kelas KnkoResource. Sumber daya ini berisi informasi tentang pencampuran elemen terklip.
 
 ```csharp
 public class KnkoResource : BooleanResource
@@ -16,40 +17,40 @@ public class KnkoResource : BooleanResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [KnkoResource](knkoresource/#constructor)() | Menginisialisasi instance baru dari`KnkoResource` kelas. |
-| [KnkoResource](knkoresource/#constructor_1)(bool) | Menginisialisasi instance baru dari`KnkoResource` kelas. |
-| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Menginisialisasi instance baru dari`KnkoResource` class. Dengan nilai khusus atau tidak diketahui |
+| [KnkoResource](knkoresource/#constructor)() | Menginisialisasi instance baru dari kelas `KnkoResource`. |
+| [KnkoResource](knkoresource/#constructor_1)(bool) | Menginisialisasi instance baru dari kelas `KnkoResource`. |
+| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Menginisialisasi instance baru dari kelas `KnkoResource`. Dengan nilai khusus atau tidak diketahui |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
-| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [menyatukan elemen interior]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
+| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [blend interior elements]. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Mendapat tanda tangan. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Menyimpan wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Menyimpan kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

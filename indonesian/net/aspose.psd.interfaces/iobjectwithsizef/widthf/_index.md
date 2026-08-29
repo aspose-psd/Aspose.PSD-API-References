@@ -1,11 +1,12 @@
 ---
-title: IObjectWithSizeF.WidthF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IObjectWithSizeF Properti. Mendapatkan lebar objek dalam inci.
+title: "IObjectWithSizeF.WidthF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IObjectWithSizeF. Mendapatkan lebar objek dalam inci"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.interfaces/iobjectwithsizef/widthf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.WidthF property
 
 Mendapatkan lebar objek, dalam inci.
@@ -14,14 +15,14 @@ Mendapatkan lebar objek, dalam inci.
 public float WidthF { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar objek, dalam inci.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IObjectWithSizeF](../)
-* ruang nama [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

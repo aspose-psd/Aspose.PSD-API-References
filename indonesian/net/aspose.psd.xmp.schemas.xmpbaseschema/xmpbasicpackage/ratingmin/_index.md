@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage bidang. Peringkat min nilai.
+title: "XmpBasicPackage.RatingMin"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field XmpBasicPackage. Nilai minimum rating"
 type: docs
-weight: 110
+weight: 140
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
-Peringkat min nilai.
+Nilai minimum rating.
 
 ```csharp
 public const int RatingMin;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

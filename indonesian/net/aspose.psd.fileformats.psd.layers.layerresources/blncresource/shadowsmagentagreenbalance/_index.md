@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsMagentaGreenBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource Properti. Mendapatkan atau menyetel Shadows Magenta Green Balance.
+title: "BlncResource.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource properti. Mendapatkan atau mengatur Shadows Magenta Green Balance"
 type: docs
-weight: 130
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsMagentaGreenBalance property
 
-Mendapatkan atau menyetel Shadows Magenta Green Balance.
+Mendapatkan atau mengatur Shadows Magenta Green Balance.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Keseimbangan Hijau Magenta Bayangan.
+Keseimbangan Magenta Hijau Bayangan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

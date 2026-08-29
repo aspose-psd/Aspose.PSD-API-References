@@ -1,27 +1,28 @@
 ---
-title: PatternFillSettings.PatternName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau menetapkan nama pola.
+title: "PatternFillSettings.PatternName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PatternFillSettings properti. Mendapatkan atau mengatur nama pola"
 type: docs
-weight: 90
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternName property
 
-Mendapat atau menetapkan nama pola.
+Mendapatkan atau mengatur nama pola.
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama pola.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

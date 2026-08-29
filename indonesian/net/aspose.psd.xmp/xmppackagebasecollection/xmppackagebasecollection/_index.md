@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.XmpPackageBaseCollection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackageBaseCollection konstruktor. Konstruktor default.
+title: "XmpPackageBaseCollection.XmpPackageBaseCollection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpPackageBaseCollection. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmppackagebasecollection/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public XmpPackageBaseCollection()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackageBaseCollection](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

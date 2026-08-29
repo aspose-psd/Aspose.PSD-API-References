@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Frame konstruktor. Menginisialisasi instance baru dariFrame kelas.
+title: "Frame.Frame"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Frame. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-Menginisialisasi instance baru dari[`Frame`](../) kelas.
+Konstruktor default.
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
 
-| Parameter | Jenis | Keterangan |
-| --- | --- | --- |
-| timeLine | TimeLine | Objek garis waktu. |
+### Lihat Juga
 
-### Lihat juga
-
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

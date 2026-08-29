@@ -1,29 +1,30 @@
 ---
-title: BlncResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource metode. Menyimpan sumber daya ke wadah aliran yang ditentukan.
+title: "BlncResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource metode. Menyimpan sumber ke kontainer aliran yang ditentukan"
 type: docs
-weight: 150
+weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/
 ---
+{{< psd/tize >}}
 ## BlncResource.Save method
 
-Menyimpan sumber daya ke wadah aliran yang ditentukan.
+Menyimpan sumber daya ke kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

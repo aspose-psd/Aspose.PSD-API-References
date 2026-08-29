@@ -1,14 +1,15 @@
 ---
-title: Class JpegLoadException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException kelas. Merupakan pengecualian pemuatan gambar JPEG.
+title: "Kelas JpegLoadException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException. Mewakili pengecualian pemuatan gambar JPEG"
 type: docs
 weight: 550
 url: /id/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException class
 
-Merupakan pengecualian pemuatan gambar JPEG.
+Mewakili pengecualian pemuatan gambar JPEG.
 
 ```csharp
 public class JpegLoadException : JpegException
@@ -16,23 +17,23 @@ public class JpegLoadException : JpegException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [JpegLoadException](jpegloadexception/#constructor)(string) | Menginisialisasi instance baru dari`JpegLoadException` kelas. |
-| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | Menginisialisasi instance baru dari`JpegLoadException` kelas. |
-| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | Menginisialisasi instance baru dari`JpegLoadException` kelas. |
-| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | Menginisialisasi instance baru dari`JpegLoadException` kelas. |
+| [JpegLoadException](jpegloadexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `JpegLoadException`. |
+| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | Menginisialisasi instance baru dari kelas `JpegLoadException`. |
+| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | Menginisialisasi instance baru dari kelas `JpegLoadException`. |
+| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | Menginisialisasi instance baru dari kelas `JpegLoadException`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Reason](../../aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/) { get; set; } | Mendapat atau menyetel alasan kesalahan. |
+| [Reason](../../aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/) { get; set; } | Mendapatkan atau mengatur alasan kesalahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegException](../jpegexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

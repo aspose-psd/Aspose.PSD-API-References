@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.GetEnumerator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage metode. Mengembalikan pencacah yang mengulang melalui koleksi.
+title: "XmpPackage.GetEnumerator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackage. Mengembalikan enumerator yang mengiterasi koleksi"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.xmp/xmppackage/getenumerator/
 ---
+{{< psd/tize >}}
 ## XmpPackage.GetEnumerator method
 
-Mengembalikan pencacah yang mengulang melalui koleksi.
+Mengembalikan enumerator yang mengiterasi koleksi.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-AIEnumerator yang dapat digunakan untuk mengulangi koleksi.
+IEnumerator yang dapat digunakan untuk mengiterasi koleksi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

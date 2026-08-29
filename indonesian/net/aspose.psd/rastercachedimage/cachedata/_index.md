@@ -1,23 +1,24 @@
 ---
-title: RasterCachedImage.CacheData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Mengcache data dan memastikan tidak ada pemuatan data tambahan yang dilakukan dari dasarnyaDataStreamContainer .
+title: "RasterCachedImage.CacheData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterCachedImage. Menyimpan data dalam cache dan memastikan tidak ada pemuatan data tambahan yang akan dilakukan dari DataStreamContainer yang mendasari"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/rastercachedimage/cachedata/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.CacheData method
 
-Meng-cache data dan memastikan tidak ada pemuatan data tambahan yang dilakukan dari dasarnya[`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) .
+Menyimpan data dalam cache dan memastikan tidak ada pemuatan data tambahan yang akan dilakukan dari [`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) yang mendasari.
 
 ```csharp
 public override void CacheData()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

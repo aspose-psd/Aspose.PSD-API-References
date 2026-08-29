@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceRef Properti. Mendapat atau mengatur larik jalur alternatif.
+title: "ResourceRef.AlternatePaths"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceRef. Mendapatkan atau mengatur array jalur alternatif"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
-Mendapat atau mengatur larik jalur alternatif.
+Mendapatkan atau mengatur array jalur alternatif.
 
 ```csharp
 public string[] AlternatePaths { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Larik jalur alternatif.
+Array jalur alternatif.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceRef](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

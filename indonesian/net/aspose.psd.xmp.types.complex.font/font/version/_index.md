@@ -1,31 +1,32 @@
 ---
-title: Font.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat atau menyetel versi font.
+title: "Font.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Font properti. Mendapatkan atau mengatur versi font"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.xmp.types.complex.font/font/version/
 ---
+{{< psd/tize >}}
 ## Font.Version property
 
-Mendapat atau menyetel versi font.
+Mendapatkan atau mengatur versi font.
 
 ```csharp
 public string Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi font.
 
-### Contoh
+## Contoh
 
-/versi untuk font Type1 nameId 5 untuk Apple True Type dan OpenType /CIDFontVersion untuk font CID String kosong untuk font bitmap
+/version untuk font Type1, nameId 5 untuk Apple True Type dan OpenType, /CIDFontVersion untuk font CID, string kosong untuk font bitmap
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

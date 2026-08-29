@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ThumbnailResource Properti. Mendapat atau menyetel jumlah pesawat.
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ThumbnailResource. Mendapatkan atau mengatur jumlah bidang"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-Mendapat atau menyetel jumlah pesawat.
+Mendapatkan atau mengatur jumlah bidang.
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bidang thumbnail dihitung.
+Jumlah bidang thumbnail.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ThumbnailResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

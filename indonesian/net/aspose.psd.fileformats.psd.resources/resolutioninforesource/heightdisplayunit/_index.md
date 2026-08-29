@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HeightDisplayUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResolutionInfoResource Properti. Mendapat atau menyetel unit tampilan ketinggian.
+title: "ResolutionInfoResource.HeightDisplayUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ResolutionInfoResource properti. Mendapatkan atau mengatur unit tampilan tinggi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/heightdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HeightDisplayUnit property
 
-Mendapat atau menyetel unit tampilan ketinggian.
+Mendapatkan atau mengatur satuan tampilan tinggi.
 
 ```csharp
 public PhysicalUnit HeightDisplayUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Unit tampilan ketinggian.
+Unit tampilan tinggi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

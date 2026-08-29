@@ -1,27 +1,28 @@
 ---
-title: ColorHalftoneInformationResource.HalftoneData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorHalftoneInformationResource Properti. Mendapat atau menyetel data halftone.
+title: "ColorHalftoneInformationResource.HalftoneData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorHalftoneInformationResource. Mendapatkan atau mengatur data halftone"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.HalftoneData property
 
-Mendapat atau menyetel data halftone.
+Mendapatkan atau mengatur data halftone.
 
 ```csharp
 public byte[] HalftoneData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Data halftone.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorHalftoneInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

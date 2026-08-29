@@ -1,11 +1,12 @@
 ---
-title: PattResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResource metode. Menyimpan data blok sumber daya.
+title: "PattResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PattResource method. Menyimpan data blok sumber daya"
 type: docs
-weight: 70
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/
 ---
+{{< psd/tize >}}
 ## PattResource.Save method
 
 Menyimpan data blok sumber daya.
@@ -14,16 +15,16 @@ Menyimpan data blok sumber daya.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

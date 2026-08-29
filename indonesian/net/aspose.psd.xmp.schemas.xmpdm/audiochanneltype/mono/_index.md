@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Mono
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioChannelType Properti. Mendapatkan saluran audio mono.
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioChannelType property. Mendapatkan saluran audio mono"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
 Mendapatkan saluran audio mono.
@@ -14,14 +15,14 @@ Mendapatkan saluran audio mono.
 public static AudioChannelType Mono { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saluran audio mono.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioChannelType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

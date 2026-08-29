@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleHeight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleProjectedShape Properti. Mendapatkan tinggi persegi panjang.
+title: "RectangleProjectedShape.RectangleHeight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleProjectedShape. Mengambil tinggi persegi panjang"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleHeight property
 
 Mendapatkan tinggi persegi panjang.
@@ -14,14 +15,14 @@ Mendapatkan tinggi persegi panjang.
 public double RectangleHeight { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi persegi panjang.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

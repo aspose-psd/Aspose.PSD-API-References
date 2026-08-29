@@ -1,11 +1,12 @@
 ---
-title: Interface IImageCreator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IImageCreator antarmuka. Pembuat gambar.
+title: "Antarmuka IImageCreator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IImageCreator. Pencipta gambar."
 type: docs
-weight: 4400
+weight: 4870
 url: /id/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
 Pembuat gambar.
@@ -16,13 +17,13 @@ public interface IImageCreator
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Membuat instance gambar baru dengan*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Membuat instance gambar baru dengan *imageOptions*. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

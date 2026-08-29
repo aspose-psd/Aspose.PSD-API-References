@@ -1,119 +1,120 @@
 ---
-title: ClassID.ClassID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClassID konstruktor. Menginisialisasi instance baru dariClassID kelas.
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ClassID. Menginisialisasi instance baru dari kelas ClassID"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-Menginisialisasi instance baru dari[`ClassID`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | classID | Byte[] | ID kelas sebagai rangkaian byte. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ClassID`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | classID | Byte[] | ID kelas sebagai rangkaian byte. |
-| isZeroLength | Boolean | jika diatur ke`BENAR` [adalah panjang nol]. Panjang string yang direkam adalah nol tetapi sebenarnya adalah empat. |
+| isZeroLength | Boolean | Jika disetel ke `true` [is zero length]. Panjang string yang tercatat adalah nol tetapi sebenarnya empat. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | classID adalah nol. |
+| ArgumentNullException | classID bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-Menginisialisasi instance baru dari[`ClassID`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ClassID`](../).
 
 ```csharp
 public ClassID(int classID)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | classID | Int32 | ID kelas. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-Menginisialisasi instance baru dari[`ClassID`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ClassID`](../).
 
 ```csharp
 public ClassID(uint classID)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | classID | UInt32 | ID kelas. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-Menginisialisasi instance baru dari[`ClassID`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| classID | String | ID kelas dalam pengkodean ASCII. |
-| isZeroLength | Boolean | jika diatur ke`BENAR` [panjang nol]. |
+| classID | String | ID kelas dalam enkoding ASCII. |
+| isZeroLength | Boolean | Jika disetel ke `true` [is zero length]. |
 
-### Contoh
+## Contoh
 
 Contoh ini menunjukkan bahwa lapisan, yang diimpor dari gambar, diubah menjadi lapisan objek pintar dan file PSD yang disimpan sudah benar.
 
 ```csharp
 [C#]
 
-// Menguji apakah lapisan, yang diimpor dari gambar, diubah menjadi lapisan objek pintar dan file PSD yang disimpan sudah benar.
+// Menguji bahwa lapisan, yang diimpor dari gambar, diubah menjadi lapisan objek pintar dan file PSD yang disimpan sudah benar.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -152,30 +153,30 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-Menginisialisasi instance baru dari[`ClassID`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| classID | String | ID kelas dalam pengkodean ASCII. |
+| classID | String | ID kelas dalam enkoding ASCII. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum ResourceBlock.ResourceBlockState
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState enum. Mewakili status blok sumber daya.
+title: "Enum ResourceBlock.ResourceBlockState"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState. Mewakili status blok sumber daya"
 type: docs
-weight: 3620
+weight: 4080
 url: /id/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResourceBlockState enumeration
 
 Mewakili status blok sumber daya.
@@ -16,15 +17,15 @@ public enum ResourceBlockState
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Normal | `0` | Kondisi umum. |
-| Cached | `1` | Status cache. |
+| Normal | `0` | Status tipikal. |
+| Cached | `1` | Status ter-cache. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../resourceblock/)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

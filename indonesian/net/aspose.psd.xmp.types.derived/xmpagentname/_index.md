@@ -1,14 +1,15 @@
 ---
-title: Class XmpAgentName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName kelas. Mewakili nama Agen Organisasi perangkat lunak dll.
+title: "Kelas XmpAgentName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpAgentName class. Mewakili nama Agen, organisasi perangkat lunak, dll"
 type: docs
-weight: 6140
+weight: 6640
 url: /id/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName class
 
-Mewakili nama Agen, Organisasi perangkat lunak, dll.
+Mewakili nama Agen, organisasi Perangkat Lunak, dll.
 
 ```csharp
 public sealed class XmpAgentName : XmpText
@@ -16,26 +17,26 @@ public sealed class XmpAgentName : XmpText
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpAgentName](xmpagentname/)(string) | Menginisialisasi instance baru dari`XmpAgentName` kelas. |
+| [XmpAgentName](xmpagentname/)(string) | Menginisialisasi instance baru dari kelas `XmpAgentName`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Mendapat atau menetapkan nilai teks. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Mendapatkan atau mengatur nilai teks. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

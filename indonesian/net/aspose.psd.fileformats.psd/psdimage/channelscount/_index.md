@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ChannelsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapatkan jumlah saluran PSD.
+title: "PsdImage.ChannelsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan jumlah saluran PSD"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd/psdimage/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdImage.ChannelsCount property
 
 Mendapatkan jumlah saluran PSD.
@@ -14,14 +15,14 @@ Mendapatkan jumlah saluran PSD.
 public int ChannelsCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah saluran PSD.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

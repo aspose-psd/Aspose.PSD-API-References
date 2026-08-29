@@ -1,51 +1,52 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. MengalikanMatrix yang mewakili transformasi geometris lokal iniGraphics oleh yang ditentukanMatrix dengan mendahului yang ditentukanMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Mengalikan Matrix yang mewakili transformasi geometris lokal Graphics ini dengan Matrix yang ditentukan dengan menambahkan Matrix yang ditentukan di depan"
 type: docs
-weight: 420
+weight: 430
 url: /id/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Mengalikan[`Matrix`](../../matrix/) yang mewakili transformasi geometris lokal ini[`Graphics`](../) oleh yang ditentukan[`Matrix`](../../matrix/) dengan mendahului yang ditentukan[`Matrix`](../../matrix/) .
+Mengalikan [`Matrix`](../../matrix/) yang mewakili transformasi geometris lokal [`Graphics`](../) dengan [`Matrix`](../../matrix/) yang ditentukan dengan menambahkan [`Matrix`](../../matrix/) yang ditentukan di depan.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Itu[`Matrix`](../../matrix/) dengan mana untuk mengalikan transformasi geometris. |
+| matrix | Matrix | [`Matrix`](../../matrix/) yang digunakan untuk mengalikan transformasi geometris. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Mengalikan[`Matrix`](../../matrix/) yang mewakili transformasi geometris lokal ini[`Graphics`](../) oleh yang ditentukan[`Matrix`](../../matrix/) dalam urutan yang ditentukan.
+Mengalikan [`Matrix`](../../matrix/) yang mewakili transformasi geometris lokal [`Graphics`](../) dengan [`Matrix`](../../matrix/) dalam urutan yang ditentukan.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Itu[`Matrix`](../../matrix/) dengan mana untuk mengalikan transformasi geometris. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) yang menentukan di mana urutan untuk mengalikan dua matriks. |
+| matrix | Matrix | [`Matrix`](../../matrix/) yang digunakan untuk mengalikan transformasi geometris. |
+| order | MatrixOrder | Sebuah [`MatrixOrder`](../../matrixorder/) yang menentukan urutan pengalian dua matrix. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

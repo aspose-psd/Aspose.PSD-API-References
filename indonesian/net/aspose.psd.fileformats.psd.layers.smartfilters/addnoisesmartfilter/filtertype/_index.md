@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.FilterType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AddNoiseSmartFilter bidang. Pengidentifikasi filter pintar saat ini.
+title: "AddNoiseSmartFilter.FilterType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AddNoiseSmartFilter bidang. Identifier dari filter pintar saat ini"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.FilterType field
 
 Pengidentifikasi filter pintar saat ini.
@@ -14,10 +15,10 @@ Pengidentifikasi filter pintar saat ini.
 public const int FilterType;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AddNoiseSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

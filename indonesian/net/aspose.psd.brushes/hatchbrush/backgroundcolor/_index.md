@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: HatchBrush Properti. Mendapat atau mengatur warna spasi antara garis penetasan.
+title: "HatchBrush.BackgroundColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti HatchBrush. Mendapatkan atau mengatur warna ruang di antara garis hatch"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-Mendapat atau mengatur warna spasi antara garis penetasan.
+Mendapatkan atau mengatur warna ruang di antara garis hatch.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Warna spasi di antara garis penetasan.
+Warna ruang di antara garis hatch.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../hatchbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class RgbMixerChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel kelas. RgbChannel. Ini pembungkus untuk data mentah saluran. Digunakan di MixrResource
+title: "Kelas RgbMixerChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel kelas. RgbChannel. Pembungkusnya untuk data mentah saluran. Digunakan dalam MixrResource"
 type: docs
-weight: 1820
+weight: 1890
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel class
 
-RgbChannel. Ini pembungkus untuk data mentah saluran. Digunakan di MixrResource
+RgbChannel. Ini pembungkus untuk data mentah saluran. Digunakan dalam MixrResource
 
 ```csharp
 public class RgbMixerChannel : MixerChannel
@@ -16,23 +17,23 @@ public class RgbMixerChannel : MixerChannel
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Mendapat atau menyetel biru. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Mendapat atau menyetel konstanta.dari saluran. |
-| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Mendapat atau menyetel hijau. |
-| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Mendapat atau menyetel merah. |
+| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Mendapatkan atau mengatur biru. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Mendapatkan atau mengatur konstanta saluran. |
+| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Mendapatkan atau mengatur hijau. |
+| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Mendapatkan atau mengatur merah. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Mendapat data mentah. |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Mendapatkan data mentah. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixerChannel](../mixerchannel/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerResourcesRegistry.RegisterOpener
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResourcesRegistry metode. Mendaftarkan pembuka.
+title: "LayerResourcesRegistry.RegisterOpener"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LayerResourcesRegistry. Mendaftarkan pembuka."
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisterOpener method
 
 Mendaftarkan pembuka.
@@ -14,15 +15,15 @@ Mendaftarkan pembuka.
 public static void RegisterOpener(ILayerResourceLoader openerDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| openerDescriptor | ILayerResourceLoader | Deskriptor pembuka untuk mendaftar. |
+| openerDescriptor | ILayerResourceLoader | Deskriptor pembuka yang akan didaftarkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

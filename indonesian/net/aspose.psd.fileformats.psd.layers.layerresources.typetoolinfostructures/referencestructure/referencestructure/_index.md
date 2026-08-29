@@ -1,28 +1,29 @@
 ---
-title: ReferenceStructure.ReferenceStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ReferenceStructure konstruktor. Menginisialisasi instance baru dariReferenceStructure kelas.
+title: "ReferenceStructure.ReferenceStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ReferenceStructure. Menginisialisasi sebuah instance baru dari kelas ReferenceStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure constructor
 
-Menginisialisasi instance baru dari[`ReferenceStructure`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ReferenceStructure`](../).
 
 ```csharp
 public ReferenceStructure(ClassID keyName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ReferenceStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

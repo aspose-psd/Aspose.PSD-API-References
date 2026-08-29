@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Items
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau mengatur item warp.
+title: "PlacedResource.Items"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur item warp."
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Items property
 
-Mendapat atau mengatur item warp.
+Mendapatkan atau mengatur item warp.
 
 ```csharp
 public virtual OSTypeStructure[] Items { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Item warp.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

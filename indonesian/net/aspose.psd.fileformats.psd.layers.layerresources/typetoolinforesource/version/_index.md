@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapatkan atau menyetel versi.
+title: "TypeToolInfoResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur versi"
 type: docs
-weight: 250
+weight: 220
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Version property
 
-Mendapatkan atau menyetel versi.
+Mendapatkan atau mengatur versi.
 
 ```csharp
 public short Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

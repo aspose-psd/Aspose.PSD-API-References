@@ -1,43 +1,44 @@
 ---
-title: XmpTrailerPi.XmpTrailerPi
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpTrailerPi konstruktor. Menginisialisasi instance baru dariXmpTrailerPi kelas.
+title: "XmpTrailerPi.XmpTrailerPi"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpTrailerPi. Menginisialisasi instance baru dari kelas XmpTrailerPi"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi(bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpTrailerPi`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| isWritable | Boolean | Menunjukkan apakah cuplikan dapat ditulisi. |
+| isWritable | Boolean | Menunjukkan apakah trailer dapat ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTrailerPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpTrailerPi() {#constructor}
 
-Menginisialisasi instance baru dari[`XmpTrailerPi`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTrailerPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

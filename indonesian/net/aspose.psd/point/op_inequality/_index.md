@@ -1,32 +1,33 @@
 ---
-title: Point.op_Inequality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Membandingkan duaPoint objek. Hasilnya menentukan apakah nilainilai dariX atauY sifat keduanyaPoint objek tidak sama.
+title: "Point.op_Inequality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Membandingkan dua objek Point. Hasilnya menentukan apakah nilai properti X atau Y dari dua objek Point tidak sama."
 type: docs
 weight: 190
 url: /id/net/aspose.psd/point/op_inequality/
 ---
+{{< psd/tize >}}
 ## Point Inequality operator
 
-Membandingkan dua[`Point`](../) objek. Hasilnya menentukan apakah nilai-nilai dari[`X`](../x/) atau[`Y`](../y/) sifat keduanya[`Point`](../) objek tidak sama.
+Membandingkan dua objek [`Point`](../). Hasilnya menentukan apakah nilai properti [`X`](../x/) atau [`Y`](../y/) dari dua objek [`Point`](../) tidak sama.
 
 ```csharp
 public static bool operator !=(Point point1, Point point2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point1 | Point | Yang pertama[`Point`](../) untuk membandingkan. |
-| point2 | Point | Sebentar[`Point`](../) untuk membandingkan. |
+| point1 | Point | Sebuah [`Point`](../) pertama untuk dibandingkan. |
+| point2 | Point | Sebuah [`Point`](../) kedua untuk dibandingkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika nilai dari salah satu[`X`](../x/) properti atau[`Y`](../y/) properti dari*point1* Dan*point2* berbeda; jika tidak, salah.
+Benar jika nilai properti [`X`](../x/) atau [`Y`](../y/) dari *point1* dan *point2* berbeda; jika tidak, salah.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

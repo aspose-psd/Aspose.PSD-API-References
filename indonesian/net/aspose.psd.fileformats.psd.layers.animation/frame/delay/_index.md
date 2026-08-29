@@ -1,23 +1,24 @@
 ---
-title: Frame.Delay
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Frame Properti. Mendapat atau menetapkan nilai frame delay dalam centaseconds. Misal dalam 1 second berisi 100 centaseconds.
+title: "Frame.Delay"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Frame. Mendapatkan atau mengatur nilai penundaan frame dalam sentasekon. Misalnya, 1 detik berisi 100 sentasekon"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/frame/delay/
 ---
+{{< psd/tize >}}
 ## Frame.Delay property
 
-Mendapat atau menetapkan nilai frame delay dalam centa-seconds. Misal dalam 1 second berisi 100 centa-seconds.
+Mendapatkan atau mengatur nilai penundaan frame dalam centi-detik. Misalnya, dalam 1 detik terdapat 100 centi-detik.
 
 ```csharp
 public int Delay { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Frame](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

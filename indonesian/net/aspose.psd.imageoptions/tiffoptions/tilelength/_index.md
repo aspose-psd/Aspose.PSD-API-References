@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileLength
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat banyak set panjang ubin.
+title: "TiffOptions.TileLength"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur panjang ubin"
 type: docs
-weight: 530
+weight: 540
 url: /id/net/aspose.psd.imageoptions/tiffoptions/tilelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileLength property
 
-Mendapat banyak set panjang ubin.
+Mendapatkan ot mengatur panjang ubin.
 
 ```csharp
 public uint TileLength { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

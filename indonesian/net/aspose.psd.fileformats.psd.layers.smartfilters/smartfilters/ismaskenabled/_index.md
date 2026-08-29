@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskEnabled
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartFilters Properti. Mendapat status diaktifkan masker dari filter pintar.
+title: "SmartFilters.IsMaskEnabled"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartFilters. Mendapatkan status apakah mask diaktifkan pada smart filter"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskEnabled property
 
-Mendapat status diaktifkan masker dari filter pintar.
+Mendapatkan status apakah mask filter pintar diaktifkan.
 
 ```csharp
 public bool IsMaskEnabled { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartFilters](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

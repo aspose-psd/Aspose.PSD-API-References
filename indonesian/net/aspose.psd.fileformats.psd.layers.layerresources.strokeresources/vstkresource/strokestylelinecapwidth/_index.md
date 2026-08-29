@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineCapWidth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel lebar tutup garis Stroke.
+title: "VstkResource.StrokeStyleLineCapWidth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VstkResource. Mendapatkan atau mengatur lebar penutup garis Stroke"
 type: docs
-weight: 120
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapWidth property
 
-Mendapat atau menyetel lebar tutup garis Stroke.
+Mendapatkan atau mengatur lebar ujung garis Stroke.
 
 ```csharp
 public double StrokeStyleLineCapWidth { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

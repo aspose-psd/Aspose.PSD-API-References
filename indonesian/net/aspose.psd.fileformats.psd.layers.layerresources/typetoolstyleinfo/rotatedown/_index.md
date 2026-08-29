@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.RotateDown
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolStyleInfo Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah itu gaya putar ke bawah.
+title: "TypeToolStyleInfo.RotateDown"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolStyleInfo. Mendapatkan atau mengatur nilai yang menunjukkan apakah itu gaya rotate down"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.RotateDown property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah itu gaya putar ke bawah.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah ini gaya rotasi ke bawah.
 
 ```csharp
 public bool RotateDown { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika itu adalah gaya putar ke bawah; jika tidak,`PALSU` .
+`true` jika itu gaya rotate down; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolStyleInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

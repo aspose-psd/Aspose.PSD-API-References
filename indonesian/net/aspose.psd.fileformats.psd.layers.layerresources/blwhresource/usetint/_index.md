@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.UseTint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlwhResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah tint color digunakan.
+title: "BlwhResource.UseTint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlwhResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah warna tint digunakan"
 type: docs
-weight: 130
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/
 ---
+{{< psd/tize >}}
 ## BlwhResource.UseTint property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [tint color] digunakan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [tint color] digunakan.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika digunakan [warna tint]; jika tidak,`PALSU` .
+`true` jika digunakan [tint color]; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda mengedit BlwhResource.
+Contoh berikut menunjukkan cara Anda mengedit BlwhResource.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Uji pengeditan dan penyimpanan
+                // Uji mengedit dan menyimpan
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlwhResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

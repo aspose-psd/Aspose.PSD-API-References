@@ -1,27 +1,28 @@
 ---
-title: Color.OrangeRed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color Properti. Mendapat warna yang ditentukan sistem.
+title: "Color.OrangeRed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Color property. Mendapatkan warna yang didefinisikan sistem"
 type: docs
 weight: 1020
 url: /id/net/aspose.psd/color/orangered/
 ---
+{{< psd/tize >}}
 ## Color.OrangeRed property
 
-Mendapat warna yang ditentukan sistem.
+Mendapatkan warna yang didefinisikan sistem.
 
 ```csharp
 public static Color OrangeRed { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`Color`](../) mewakili warna yang ditentukan sistem.
+Sebuah [`Color`](../) yang mewakili warna yang didefinisikan sistem.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

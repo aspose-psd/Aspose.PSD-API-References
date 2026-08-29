@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResource Properti. Mendapat tanda tangan sumber daya lapisan.
+title: "LayerResource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerResource. Mendapatkan tanda tangan."
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerResource.Signature property
 
-Mendapat tanda tangan sumber daya lapisan.
+Mendapatkan tanda tangan.
 
 ```csharp
-public abstract int Signature { get; }
+public virtual int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

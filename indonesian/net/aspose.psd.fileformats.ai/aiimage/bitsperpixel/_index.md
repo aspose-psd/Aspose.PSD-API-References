@@ -1,27 +1,28 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapat bit gambar per jumlah piksel.
+title: "AiImage.BitsPerPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan jumlah bit per piksel gambar"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
-Mendapat bit gambar per jumlah piksel.
+Mendapatkan jumlah bit per piksel gambar.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah bit per piksel gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

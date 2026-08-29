@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color Properti. Mendapat nilai komponen alfa dari iniColorstruktur.
+title: "Color.A"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Color. Mendapatkan nilai komponen alfa dari struktur Color ini"
 type: docs
 weight: 1460
 url: /id/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-Mendapat nilai komponen alfa dari ini[`Color`](../)struktur.
+Mendapatkan nilai komponen alfa dari struktur [`Color`](../) ini.
 
 ```csharp
 public byte A { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai komponen alfa ini[`Color`](../).
+Nilai komponen alfa dari [`Color`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

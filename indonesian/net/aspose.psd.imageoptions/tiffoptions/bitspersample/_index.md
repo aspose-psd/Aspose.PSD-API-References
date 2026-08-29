@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau mengatur bit per sampel.
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur bit per sampel"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-Mendapat atau mengatur bit per sampel.
+Mendapatkan atau mengatur bit per sampel.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bit per nilai sampel.
+Nilai bit per sampel.
 
-### Perkataan
+## Catatan
 
-Saat menyetel nilai ini, perlu diingat bahwa ini juga akan menyetel nilai SamplesPerPixel ke panjang larik. 2 properti ini digabungkan dengan sangat erat sehingga hanya dapat diatur semuanya.
+Saat mengatur nilai ini, ingat bahwa nilai SamplesPerPixel juga akan diatur ke panjang array. Kedua properti ini sangat terkait erat sehingga hanya dapat diatur bersamaan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

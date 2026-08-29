@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCreatedDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Menetapkan tanggal pembuatan.
+title: "PhotoshopPackage.SetCreatedDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PhotoshopPackage metode. Mengatur tanggal pembuatan"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCreatedDate method
 
-Menetapkan tanggal pembuatan.
+Mengatur tanggal pembuatan.
 
 ```csharp
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| createdDate | DateTime | Tanggal dibuat. |
+| createdDate | DateTime | Tanggal pembuatan tersebut. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

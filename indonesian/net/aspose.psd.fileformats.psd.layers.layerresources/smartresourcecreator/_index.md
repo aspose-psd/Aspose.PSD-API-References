@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator kelas. Mendefinisikan kelas SmartResourceCreator yang dapat membuat sumber daya PLd SOLd dan SoLe. Digunakan untuk mendukung lapisan objek cerdas dalam gambar Adobe Photoshop.
+title: "Kelas SmartResourceCreator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator class. Mendefinisikan kelas SmartResourceCreator yang dapat membuat sumber daya PlLd SoLd dan SoLe. Digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe Photoshop."
 type: docs
-weight: 3000
+weight: 3350
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-Mendefinisikan kelas SmartResourceCreator yang dapat membuat sumber daya PLd, SOLd, dan SoLe. Digunakan untuk mendukung lapisan objek cerdas dalam gambar Adobe® Photoshop®.
+Mendefinisikan kelas SmartResourceCreator yang dapat membuat sumber daya PlLd, SoLd, dan SoLe. Digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe® Photoshop®.
 
 ```csharp
 public class SmartResourceCreator
@@ -16,23 +17,23 @@ public class SmartResourceCreator
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | Menginisialisasi instance baru dari`SmartResourceCreator` kelas. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Menginisialisasi instance baru dari`SmartResourceCreator` class dengan template yang diberikan. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Menginisialisasi instance baru dari`SmartResourceCreator` kelas. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | Menginisialisasi instance baru dari kelas `SmartResourceCreator`. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Menginisialisasi instance baru dari kelas `SmartResourceCreator` dengan templat yang diberikan. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Menginisialisasi instance baru dari kelas `SmartResourceCreator`. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Menghasilkan sumber daya yang ditempatkan. |
-| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Menghasilkan sumber daya objek pintar tersemat. |
-| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Menghasilkan sumber daya objek cerdas eksternal. |
+| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Menghasilkan sumber daya objek pintar yang disematkan. |
+| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Menghasilkan sumber daya objek pintar eksternal. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan sumber daya SoLEResource, SmartObjectResource, dan PlacedResource.
+Kode berikut menunjukkan dukungan untuk sumber daya SoLEResource, SmartObjectResource, dan PlacedResource.
 
 ```csharp
 [C#]
@@ -118,7 +119,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Nilai ini tidak kita ubah di sumber daya
+    // Nilai ini tidak kami ubah dalam sumber daya
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -126,15 +127,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Nilai ini juga harus diubah di PlLdResource (dengan UniqueId yang ditentukan).
-    // dan beberapa di antaranya harus sesuai dengan objek pintar yang digarisbawahi di LinkDataSource
+    // Nilai ini juga harus diubah dalam PlLdResource (dengan UniqueId yang ditentukan).
+    // dan beberapa di antaranya harus sesuai dengan objek pintar yang mendasari dalam LinkDataSource.
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
-    resource.Value = (double)newValues[7]; // 1,23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Value = (double)newValues[7]; // 1.23456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Id unik ini harus diubah dalam referensi jika ada
+    // Unique Id ini harus diubah dalam referensi jika ada.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,15 +164,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Berhati-hatilah dengan beberapa parameter: gambar yang disimpan mungkin tidak dapat dibaca oleh Adobe® Photoshop®
+    // Hati-hati dengan beberapa parameter: gambar yang disimpan mungkin tidak dapat dibaca oleh Adobe® Photoshop®.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-    // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+    // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+    // atau ubah objek pintar yang mendasari menjadi tipe vektor.
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Harus ada PlLdResource yang valid dengan ID unik ini
+    // Harus ada PlLdResource yang valid dengan Unique Id ini.
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -335,12 +336,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

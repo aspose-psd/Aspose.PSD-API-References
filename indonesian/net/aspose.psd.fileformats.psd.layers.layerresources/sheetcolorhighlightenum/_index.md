@@ -1,14 +1,15 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum enum. Kemungkinan warna pengaturan warna Lembar. Ini adalah warna dekoratif UI dari daftar lapisan dalam daftar lapisan di PS
+title: "Enum SheetColorHighlightEnum"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum. Warna yang mungkin untuk pengaturan warna Sheet. Ini adalah warna dekoratif UI lapisan dalam daftar lapisan di PS"
 type: docs
-weight: 2970
+weight: 3320
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-Kemungkinan warna pengaturan warna Lembar. Ini adalah warna dekoratif UI dari daftar lapisan dalam daftar lapisan di PS
+Warna yang mungkin untuk pengaturan warna Sheet. Ini adalah warna dekoratif UI lapisan dalam daftar lapisan di PS.
 
 ```csharp
 public enum SheetColorHighlightEnum : short
@@ -16,20 +17,20 @@ public enum SheetColorHighlightEnum : short
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | NoColor | `0` | Warna tidak ditentukan. |
 | Red | `1` | Warna merah. |
-| Orange | `2` | Warna orange. |
+| Orange | `2` | Warna oranye. |
 | Yellow | `3` | Warna kuning. |
 | Green | `4` | Warna hijau. |
 | Blue | `5` | Warna biru. |
 | Violet | `6` | Warna ungu. |
 | Gray | `7` | Warna abu-abu. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengubah Sorotan Warna Lembar Di Aspose.PSD (Pengaturan warna lembar)
+Contoh berikut menunjukkan cara Anda dapat mengubah Sorotan Warna Sheet di Aspose.PSD (pengaturan warna Sheet)
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ Contoh berikut menunjukkan bagaimana Anda dapat mengubah Sorotan Warna Lembar Di
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Dalam warna file penyorotan lapisan ada dalam urutan ini
+// Dalam file, warna sorotan lapisan berada dalam urutan ini
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color digunakan untuk menyorot layer secara visual. 
-// Misalnya Anda dapat memperbarui beberapa lapisan di PSD dan kemudian menyorot dengan warna lapisan yang ingin Anda perhatikan.
+// Warna Sheet Lapisan digunakan untuk menyorot lapisan secara visual.
+// Misalnya Anda dapat memperbarui beberapa lapisan di PSD dan kemudian menyorot dengan warna lapisan yang ingin Anda tarik perhatiannya.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Sumber daya lcrl selalu ditampilkan dalam daftar sumber daya file psd.
+            // Sumber lcrl selalu hadir dalam daftar sumber file PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Kebalikan dari warna style sheet. Pengaturan sorotan warna Lapisan.
+                // Balikkan warna lembar gaya. Pengaturan sorotan warna Lapisan.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -91,9 +92,9 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

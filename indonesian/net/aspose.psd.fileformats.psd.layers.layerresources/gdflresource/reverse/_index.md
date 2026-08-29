@@ -1,24 +1,25 @@
 ---
-title: GdFlResource.Reverse
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniGdFlResource terbalik.
+title: "GdFlResource.Reverse"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GdFlResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah GdFlResource ini terbalik"
 type: docs
-weight: 140
+weight: 170
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Reverse property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`GdFlResource`](../) terbalik.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`GdFlResource`](../) ini terbalik.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika terbalik; jika tidak,`PALSU` .
+`true` jika terbalik; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan pemuatan sumber daya GdFlResource.
 
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // Mengedit
+                    // Menyunting
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

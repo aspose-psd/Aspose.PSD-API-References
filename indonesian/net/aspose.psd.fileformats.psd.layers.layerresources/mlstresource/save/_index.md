@@ -1,29 +1,30 @@
 ---
-title: MlstResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MlstResource metode. Menyimpan wadah aliran yang ditentukan.
+title: "MlstResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "MlstResource metode. Menyimpan kontainer aliran yang ditentukan"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/
 ---
+{{< psd/tize >}}
 ## MlstResource.Save method
 
-Menyimpan wadah aliran yang ditentukan.
+Menyimpan kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [MlstResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

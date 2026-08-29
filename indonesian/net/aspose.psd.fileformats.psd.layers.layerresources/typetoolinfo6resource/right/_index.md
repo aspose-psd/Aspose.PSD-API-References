@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Right
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapatkan atau menyetel lokasi yang tepat.
+title: "TypeToolInfo6Resource.Right"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur lokasi kanan"
 type: docs
-weight: 110
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Right property
 
-Mendapatkan atau menyetel lokasi yang tepat.
+Mendapatkan atau mengatur lokasi kanan.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lokasi yang tepat.
+Lokasi kanan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

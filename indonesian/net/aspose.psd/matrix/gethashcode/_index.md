@@ -1,11 +1,12 @@
 ---
-title: Matrix.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Mengembalikan kode hash untuk instance ini.
+title: "Matrix.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Mengembalikan kode hash untuk instance ini."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/matrix/gethashcode/
 ---
+{{< psd/tize >}}
 ## Matrix.GetHashCode method
 
 Mengembalikan kode hash untuk instance ini.
@@ -14,14 +15,14 @@ Mengembalikan kode hash untuk instance ini.
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kode hash untuk instance ini, cocok untuk digunakan dalam algoritme hashing dan struktur data seperti tabel hash.
+Kode hash untuk instance ini, cocok untuk digunakan dalam algoritma hashing dan struktur data seperti tabel hash.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

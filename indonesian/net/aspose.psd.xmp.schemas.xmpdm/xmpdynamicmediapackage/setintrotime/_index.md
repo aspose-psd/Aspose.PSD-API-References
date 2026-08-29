@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetIntroTime
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur waktu intro.
+title: "XmpDynamicMediaPackage.SetIntroTime"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Menetapkan waktu intro"
 type: docs
 weight: 250
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setintrotime/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetIntroTime method
 
 Mengatur waktu intro.
@@ -14,15 +15,15 @@ Mengatur waktu intro.
 public void SetIntroTime(Time introTime)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| introTime | Time | Waktu intro. |
+| introTime | Waktu | Waktu intro. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

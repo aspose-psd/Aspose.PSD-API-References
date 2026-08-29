@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Lightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl Properti. Mendapat atau menyetel kecerahan.
+title: "ColorRangeHsl.Lightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorRangeHsl. Mendapatkan atau mengatur lightness"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Lightness property
 
-Mendapat atau menyetel kecerahan.
+Mendapatkan atau mengatur lightness.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ringan.
+Kecerahan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

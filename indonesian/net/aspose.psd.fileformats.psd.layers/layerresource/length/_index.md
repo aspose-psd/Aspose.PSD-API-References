@@ -1,11 +1,12 @@
 ---
-title: LayerResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "LayerResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerResource. Mendapatkan panjang sumber daya lapisan dalam byte."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresource/length/
 ---
+{{< psd/tize >}}
 ## LayerResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public abstract int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

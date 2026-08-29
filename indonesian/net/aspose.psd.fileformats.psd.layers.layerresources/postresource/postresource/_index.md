@@ -1,11 +1,12 @@
 ---
-title: PostResource.PostResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PostResource konstruktor. Konstruktor default.
+title: "PostResource.PostResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PostResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/postresource/
 ---
+{{< psd/tize >}}
 ## PostResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PostResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PostResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

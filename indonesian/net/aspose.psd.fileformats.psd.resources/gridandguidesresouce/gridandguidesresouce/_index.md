@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.GridAndGuidesResouce
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GridAndGuidesResouce konstruktor. Konstruktor default.
+title: "GridAndGuidesResouce.GridAndGuidesResouce"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor GridAndGuidesResouce. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridandguidesresouce/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public GridAndGuidesResouce()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GridAndGuidesResouce](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.Add
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList metode. Menambahkan item keIList .
+title: "NonGenericList.Add"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "NonGenericList method. Menambahkan sebuah item ke IList."
 type: docs
 weight: 80
 url: /id/net/aspose.psd/nongenericlist/add/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Add method
 
-Menambahkan item keIList .
+Menambahkan sebuah item ke IList.
 
 ```csharp
 public int Add(object value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Object | ItuObject untuk menambahIList. |
+| nilai | Object | Objek yang akan ditambahkan ke IList. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Posisi di mana elemen baru dimasukkan.
+Posisi di mana elemen baru disisipkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

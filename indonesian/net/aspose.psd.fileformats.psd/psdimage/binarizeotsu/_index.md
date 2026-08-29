@@ -1,23 +1,24 @@
 ---
-title: PsdImage.BinarizeOtsu
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Binarisasi gambar dengan thresholding Otsu
+title: "PsdImage.BinarizeOtsu"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Binarisasi gambar dengan ambang Otsu"
 type: docs
-weight: 490
+weight: 550
 url: /id/net/aspose.psd.fileformats.psd/psdimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeOtsu method
 
-Binarisasi gambar dengan thresholding Otsu
+Binarisasi gambar dengan ambang Otsu
 
 ```csharp
 public override void BinarizeOtsu()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

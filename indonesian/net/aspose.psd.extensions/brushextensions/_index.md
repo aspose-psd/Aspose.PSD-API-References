@@ -1,14 +1,15 @@
 ---
-title: Class BrushExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.BrushExtensions kelas. Berisi metode ekstensi untukBrush DanBrush .
+title: "Kelas BrushExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.BrushExtensions. Berisi metode ekstensi untuk Brush dan Brush"
 type: docs
-weight: 1030
+weight: 1040
 url: /id/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-Berisi metode ekstensi untuk[`Brush`](../../aspose.psd/brush/) DanBrush .
+Berisi metode ekstensi untuk [`Brush`](../../aspose.psd/brush/) dan Brush.
 
 ```csharp
 public static class BrushExtensions
@@ -16,13 +17,13 @@ public static class BrushExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Mengubah[`Brush`](../../aspose.psd/brush/) keBrush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Mengonversi [`Brush`](../../aspose.psd/brush/) menjadi Brush. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

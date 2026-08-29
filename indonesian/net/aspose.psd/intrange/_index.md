@@ -1,14 +1,15 @@
 ---
-title: Class IntRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IntRange kelas. Kelas untuk merepresentasikan urutan elemen
+title: "Kelas IntRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.IntRange. Kelas untuk merepresentasikan urutan elemen"
 type: docs
-weight: 5010
+weight: 5500
 url: /id/net/aspose.psd/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange class
 
-Kelas untuk merepresentasikan urutan elemen
+Kelas untuk mewakili urutan elemen.
 
 ```csharp
 public class IntRange
@@ -16,28 +17,28 @@ public class IntRange
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [IntRange](intrange/#constructor_2)(int[]) | Menginisialisasi instance baru dari`IntRange` kelas. |
-| [IntRange](intrange/#constructor)(int, int) | Menginisialisasi instance baru dari`IntRange` kelas. |
-| [IntRange](intrange/#constructor_1)(int, int, int) | Menginisialisasi instance baru dari`IntRange` kelas. |
+| [IntRange](intrange/#constructor_2)(int[]) | Menginisialisasi instance baru dari kelas `IntRange`. |
+| [IntRange](intrange/#constructor)(int, int) | Menginisialisasi instance baru dari kelas `IntRange`. |
+| [IntRange](intrange/#constructor_1)(int, int, int) | Menginisialisasi instance baru dari kelas `IntRange`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Range](../../aspose.psd/intrange/range/) { get; set; } | Mendapat atau menyetel rentang. |
+| [Range](../../aspose.psd/intrange/range/) { get; set; } | Mendapatkan atau mengatur rentang. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Mengembalikan satu larik item dari indeks yang ditentukan |
-| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Mendapat rentang jumlah elemen int mulai dari start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Mengembalikan array satu item dari indeks yang ditentukan |
+| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Mendapatkan rentang hitungan elemen int yang dimulai pada start |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

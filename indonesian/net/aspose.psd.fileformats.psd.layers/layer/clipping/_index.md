@@ -1,27 +1,28 @@
 ---
-title: Layer.Clipping
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel kliping layer. 0  alas 1  bukan alas.
+title: "Layer.Clipping"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur pemotongan lapisan. 0 dasar 1 non-dasar"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
-Mendapat atau menyetel kliping layer. 0 = alas, 1 = bukan alas.
+Mendapatkan atau mengatur pemotongan lapisan. 0 = dasar, 1 = non-dasar.
 
 ```csharp
 public byte Clipping { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pemotongan layer.
+Pemotongan lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

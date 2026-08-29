@@ -1,34 +1,35 @@
 ---
-title: IImageExporterDescriptor.CanExport
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IImageExporterDescriptor metode. Menentukan apakah pengekspor gambar dapat mengekspor gambar yang ditentukan ke format gambar yang ditentukan yang ditentukan oleh opsi penyimpanan.
+title: "IImageExporterDescriptor.CanExport"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IImageExporterDescriptor. Menentukan apakah pengekspor gambar dapat mengekspor gambar yang ditentukan ke format gambar yang ditentukan oleh opsi penyimpanan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/iimageexporterdescriptor/canexport/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CanExport method
 
-Menentukan apakah pengekspor gambar dapat mengekspor gambar yang ditentukan ke format gambar yang ditentukan yang ditentukan oleh opsi penyimpanan.
+Membuat instance pengekspor baru.
 
 ```csharp
 public bool CanExport(Image image, ImageOptionsBase optionsBase)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Image | Gambar untuk diekspor. |
+| gambar | Image | Gambar yang akan diekspor. |
 | optionsBase | ImageOptionsBase | Basis opsi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika pengekspor yang dibuat oleh deskriptor ini dapat mengekspor gambar yang ditentukan ke format file yang ditentukan; jika tidak,`PALSU` .
+`True` jika pengekspor yang dibuat oleh deskriptor ini dapat mengekspor gambar yang ditentukan ke format file yang ditentukan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporterDescriptor](../)
-* ruang nama [Aspose.PSD](../../iimageexporterdescriptor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

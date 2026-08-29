@@ -1,27 +1,28 @@
 ---
-title: TiffRational.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffRational metode. Mengembalikan aString yang mewakili instance ini.
+title: "TiffRational.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffRational. Mengembalikan String yang mewakili instance ini"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.tiff/tiffrational/tostring/
 ---
+{{< psd/tize >}}
 ## TiffRational.ToString method
 
-Mengembalikan aString yang mewakili instance ini.
+Mengembalikan String yang mewakili instance ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-AString yang mewakili instance ini.
+String yang mewakili instance ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

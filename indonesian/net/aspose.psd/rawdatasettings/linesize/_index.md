@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.LineSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RawDataSettings Properti. Mendapat atau menyetel ukuran garis piksel dalam byte untuk pemrosesan data mentah
+title: "RawDataSettings.LineSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RawDataSettings. Mendapatkan atau mengatur ukuran baris piksel dalam byte untuk pemrosesan data mentah"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/rawdatasettings/linesize/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.LineSize property
 
-Mendapat atau menyetel ukuran garis piksel dalam byte untuk pemrosesan data mentah
+Mendapatkan atau mengatur ukuran baris piksel dalam byte untuk pemrosesan data mentah
 
 ```csharp
 public int LineSize { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ukuran garis piksel dalam byte untuk pemrosesan data mentah
+Ukuran baris piksel dalam byte untuk pemrosesan data mentah
 
-### Lihat juga
+### Lihat Juga
 
 * class [RawDataSettings](../)
-* ruang nama [Aspose.PSD](../../rawdatasettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

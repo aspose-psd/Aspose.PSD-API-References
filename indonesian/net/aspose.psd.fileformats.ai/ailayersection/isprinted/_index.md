@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini dicetak. Membuat karya seni yang terkandung dalam lapisan dapat dicetak jika benar.
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini dicetak. Membuat karya seni yang terdapat dalam lapisan dapat dicetak jika true"
 type: docs
-weight: 80
+weight: 100
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini dicetak. Membuat karya seni yang terkandung dalam lapisan dapat dicetak jika benar.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini dicetak. Membuat karya seni yang terdapat dalam lapisan dapat dicetak jika true.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika lapisan ini dicetak; jika tidak,`PALSU` .
+`true` jika lapisan ini dicetak; sebaliknya, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

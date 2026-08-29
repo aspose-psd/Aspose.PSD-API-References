@@ -1,92 +1,93 @@
 ---
-title: Region.Region
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region konstruktor. Menginisialisasi yang baruRegion .
+title: "Region.Region"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Region. Menginisialisasi Region baru"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/region/region/
 ---
+{{< psd/tize >}}
 ## Region() {#constructor}
 
-Menginisialisasi yang baru[`Region`](../) .
+Menginisialisasi sebuah [`Region`](../) baru.
 
 ```csharp
 public Region()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(RectangleF) {#constructor_3}
 
-Menginisialisasi yang baru[`Region`](../) dari yang ditentukan[`RectangleF`](../../rectanglef/)struktur.
+Menginisialisasi sebuah [`Region`](../) baru dari struktur [`RectangleF`](../../rectanglef/) yang ditentukan.
 
 ```csharp
 public Region(RectangleF rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef/) struktur yang mendefinisikan interior baru[`Region`](../). |
+| rect | RectangleF | Struktur [`RectangleF`](../../rectanglef/) yang mendefinisikan interior dari [`Region`](../) baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(Rectangle) {#constructor_2}
 
-Menginisialisasi yang baru[`Region`](../) dari yang ditentukan[`Rectangle`](../../rectangle/)struktur.
+Menginisialisasi sebuah [`Region`](../) baru dari struktur [`Rectangle`](../../rectangle/) yang ditentukan.
 
 ```csharp
 public Region(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | A[`Rectangle`](../../rectangle/) struktur yang mendefinisikan interior baru[`Region`](../). |
+| rect | Rectangle | Struktur [`Rectangle`](../../rectangle/) yang mendefinisikan interior dari [`Region`](../) baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(GraphicsPath) {#constructor_1}
 
-Menginisialisasi yang baru[`Region`](../) dengan yang ditentukan[`GraphicsPath`](../../graphicspath/) .
+Menginisialisasi sebuah [`Region`](../) baru dengan [`GraphicsPath`](../../graphicspath/) yang ditentukan.
 
 ```csharp
 public Region(GraphicsPath path)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| path | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)yang mendefinisikan yang baru[`Region`](../). |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) yang mendefinisikan [`Region`](../) baru. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *path* adalah nol. |
+| ArgumentNullException | *path* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IBufferProcessor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IBufferProcessor antarmuka. Prosesor buffer.
+title: "Antarmuka IBufferProcessor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IBufferProcessor. Pemroses buffer."
 type: docs
-weight: 4370
+weight: 4840
 url: /id/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
-Prosesor buffer.
+Pemroses buffer.
 
 ```csharp
 public interface IBufferProcessor
@@ -16,13 +17,13 @@ public interface IBufferProcessor
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Memproses buffer. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

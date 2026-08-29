@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menetapkan nilai sampel min. Nilai memiliki jenis bidang yang paling cocok dengan data sampel tipe Byte Pendek atau Panjang.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur nilai sampel minimum. Nilai memiliki tipe bidang yang paling cocok dengan data sampel tipe Byte, Short, atau Long."
 type: docs
-weight: 440
+weight: 450
 url: /id/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-Mendapat atau menetapkan nilai sampel min. Nilai memiliki jenis bidang yang paling cocok dengan data sampel (tipe Byte, Pendek, atau Panjang).
+Mendapatkan atau mengatur nilai sampel minimum. Nilai memiliki tipe bidang yang paling cocok dengan data sampel (tipe Byte, Short, atau Long).
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai sampel min.
+Nilai sampel minimum.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

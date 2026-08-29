@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nilai redup sebagai persentase. Mengurangi intensitas gambar tertaut dan gambar bitmap yang terdapat dalam lapisan ke persentase yang ditentukan.
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AiLayerSection properti. Mendapatkan atau mengatur nilai dim sebagai persentase. Mengurangi intensitas gambar yang ditautkan dan gambar bitmap yang terdapat dalam lapisan ke persentase yang ditentukan."
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-Mendapat atau menetapkan nilai redup sebagai persentase. Mengurangi intensitas gambar tertaut dan gambar bitmap yang terdapat dalam lapisan ke persentase yang ditentukan.
+Mendapatkan atau mengatur nilai redup sebagai persentase. Mengurangi intensitas gambar terhubung dan gambar bitmap yang terdapat dalam lapisan ke persentase yang ditentukan.
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai redup sebagai persentase.
+Nilai dim sebagai persentase.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

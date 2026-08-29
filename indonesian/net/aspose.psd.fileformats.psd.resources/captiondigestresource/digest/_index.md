@@ -1,27 +1,28 @@
 ---
-title: CaptionDigestResource.Digest
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CaptionDigestResource Properti. Mendapat atau menyetel intisari.
+title: "CaptionDigestResource.Digest"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CaptionDigestResource. Mendapatkan atau mengatur digest"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.Digest property
 
-Mendapat atau menyetel intisari.
+Mendapatkan atau mengatur digest.
 
 ```csharp
 public byte[] Digest { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Intisari.
+Ringkasan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CaptionDigestResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

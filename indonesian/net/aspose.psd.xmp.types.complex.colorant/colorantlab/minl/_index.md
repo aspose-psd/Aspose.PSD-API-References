@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.MinL
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantLab bidang. Nilai minimum komponen L
+title: "ColorantLab.MinL"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorantLab field. Nilai minimum komponen L"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minl/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinL field
 
 Nilai minimum komponen L
@@ -14,10 +15,10 @@ Nilai minimum komponen L
 public const float MinL;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantLab](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: LiFeDataSource.Date
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LiFeDataSource Properti. Mendapatkan atau menyetel tanggal dan waktu penulisan terakhir file eksternal di sumber data LiFE sumber daya LnkE PSD.
+title: "LiFeDataSource.Date"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LiFeDataSource. Mendapatkan atau mengatur tanggal dan waktu penulisan terakhir file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.Date property
 
-Mendapatkan atau menyetel tanggal dan waktu penulisan terakhir file eksternal di sumber data LiFE sumber daya LnkE PSD.
+Mendapatkan atau mengatur tanggal dan waktu penulisan terakhir dari file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE.
 
 ```csharp
 public DateTime Date { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tanggal dan waktu penulisan terakhir file eksternal.
 
@@ -22,11 +23,11 @@ Tanggal dan waktu penulisan terakhir file eksternal.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti Tanggal, ini hanya tersedia untuk sumber data live dengan versi 3 atau lebih tinggi |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti Date, properti ini hanya tersedia untuk sumber data liFE dengan versi 3 atau lebih tinggi |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan cara mendapatkan dan mengatur properti Sumber Daya Psd LnkE.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd LnkE.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya Psd LnkE yang berisi informasi tentang file tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd LnkE yang berisi informasi tentang file tautan eksternal.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Psd LnkeResource yang berisi informasi tentang file JPEG tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd Lnke yang berisi informasi tentang file JPEG tautan eksternal.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti PSD LnkeResource yang berisi informasi tentang file PNG tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource PSD Lnke yang berisi informasi tentang file PNG tautan eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti PSD LnkeResource yang berisi informasi tentang dua file PNG dan PSD yang ditautkan secara eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD LnkeResource yang berisi informasi tentang dua file PNG dan PSD yang ditautkan secara eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Photoshop Psd LnkeResource yang berisi informasi tentang Aset Perpustakaan CC tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti Photoshop Psd LnkeResource yang berisi informasi tentang satu aset CC Libraries yang ditautkan secara eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,10 +195,10 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LiFeDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

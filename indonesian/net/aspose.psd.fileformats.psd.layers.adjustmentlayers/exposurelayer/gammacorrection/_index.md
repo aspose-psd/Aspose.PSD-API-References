@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.GammaCorrection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExposureLayer Properti. Mendapat atau menyetel GammaCorrection. Untuk rentang PS GammaCorrection adalah dari 999 hingga 001
+title: "ExposureLayer.GammaCorrection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExposureLayer. Mendapatkan atau mengatur GammaCorrection. Untuk rentang PS GammaCorrection adalah dari 9.99 hingga 0.01"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.GammaCorrection property
 
-Mendapat atau menyetel GammaCorrection. Untuk rentang PS GammaCorrection adalah dari 9,99 hingga +0,01
+Mendapatkan atau mengatur GammaCorrection. Untuk rentang GammaCorrection pada PS adalah dari 9.99 hingga +0.01
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Koreksi Gamma.
+GammaCorrection.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExposureLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

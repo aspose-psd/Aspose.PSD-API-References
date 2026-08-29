@@ -1,38 +1,39 @@
 ---
-title: TiffStreamReader.ReadULongArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Membaca array nilai integer yang tidak ditandatangani dari aliran.
+title: "TiffStreamReader.ReadULongArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca array nilai integer tak bertanda dari aliran."
 type: docs
 weight: 200
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadULongArray method
 
-Membaca array nilai integer yang tidak ditandatangani dari aliran.
+Membaca array nilai integer tak bertanda dari aliran.
 
 ```csharp
 public uint[] ReadULongArray(long position, long count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
-| count | Int64 | Elemen dihitung. |
+| posisi | Int64 | Posisi untuk membaca dari. |
+| jumlah | Int64 | Jumlah elemen. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Larik nilai bilangan bulat tak bertanda.
+Array nilai integer tak bertanda.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | count;Jumlah total byte negatif. + hitung + x4= + totalBytes |
+| ArgumentOutOfRangeException | count;Jumlah byte total bernilai negatif. + count + x4= + totalBytes |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

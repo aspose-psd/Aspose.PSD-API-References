@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.IsOpen
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LengthRecord Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbuka.
+title: "LengthRecord.IsOpen"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LengthRecord properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbuka"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isopen/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsOpen property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbuka.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbuka.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini terbuka; jika tidak,`PALSU` .
+`true` jika instance ini terbuka; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LengthRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

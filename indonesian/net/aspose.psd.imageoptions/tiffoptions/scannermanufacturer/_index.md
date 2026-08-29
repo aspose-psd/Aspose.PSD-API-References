@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapatkan atau menyetel pabrikan pemindai.
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur produsen pemindai"
 type: docs
-weight: 410
+weight: 420
 url: /id/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
-Mendapatkan atau menyetel pabrikan pemindai.
+Mendapatkan atau mengatur produsen pemindai.
 
 ```csharp
 public string ScannerManufacturer { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Produsen pemindai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

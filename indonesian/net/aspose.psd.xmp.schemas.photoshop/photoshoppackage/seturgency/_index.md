@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Mengatur urgensi.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhotoshopPackage. Menetapkan urgensi"
 type: docs
 weight: 200
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
 Mengatur urgensi.
@@ -14,7 +15,7 @@ Mengatur urgensi.
 public void SetUrgency(int urgency)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | urgency | Int32 | Urgensi. |
 
@@ -22,16 +23,16 @@ public void SetUrgency(int urgency)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | urgensi; Rentang yang valid adalah dari 1 hingga 8 |
+| ArgumentOutOfRangeException | urgency;Rentang valid adalah dari 1 hingga 8 |
 
-### Perkataan
+## Catatan
 
-Urgensi harus mengamuk dari 1 hingga 8.
+Urgensi harus berada dalam rentang dari 1 hingga 8.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

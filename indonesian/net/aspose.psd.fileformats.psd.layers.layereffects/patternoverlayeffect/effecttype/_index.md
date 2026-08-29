@@ -1,20 +1,21 @@
 ---
-title: PatternOverlayEffect.EffectType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternOverlayEffect Properti. Mendapat jenis efek type
+title: "PatternOverlayEffect.EffectType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PatternOverlayEffect. Mendapatkan tipe jenis efek"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.EffectType property
 
-Mendapat jenis efek type
+Mendapatkan tipe jenis efek
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan properti ILayerEffect.EffectType.
 
@@ -40,18 +41,18 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // tertangkap
+            // itu tertangkap
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [PatternOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

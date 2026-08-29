@@ -1,14 +1,15 @@
 ---
-title: Class PlLdResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource kelas. Menentukan kelas PlLdResource yang berisi informasi tentang lapisan yang ditempatkan di file PSD. Digunakan untuk mendukung lapisan objek pintar di gambar Adobe Photoshop. Digantikan oleh SoLdResource di Adobe Photoshop CS3
+title: "Kelas PlLdResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource. Mendefinisikan kelas PlLdResource yang berisi informasi tentang lapisan ditempatkan dalam file PSD. Digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe Photoshop. Itu digantikan oleh SoLdResource di Adobe Photoshop CS3"
 type: docs
-weight: 2920
+weight: 3270
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
+{{< psd/tize >}}
 ## PlLdResource class
 
-Menentukan kelas PlLdResource yang berisi informasi tentang lapisan yang ditempatkan di file PSD. Digunakan untuk mendukung lapisan objek pintar di gambar Adobe® Photoshop®. Digantikan oleh SoLdResource di Adobe® Photoshop® CS3
+Mendefinisikan kelas PlLdResource yang berisi informasi tentang lapisan yang ditempatkan dalam file PSD. Digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe® Photoshop®. Kelas ini digantikan oleh SoLdResource dalam Adobe® Photoshop® CS3.
 
 ```csharp
 public class PlLdResource : PlacedResource
@@ -16,50 +17,50 @@ public class PlLdResource : PlacedResource
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Mendapat atau menyetel kebijakan anti alias dari lapisan yang ditempatkan di gambar PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Mendapat atau menyetel lokasi bawah dari lapisan yang ditempatkan di gambar PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Mendapat atau menyetel batas lapisan yang ditempatkan di file PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Mendapat atau menetapkan satuan ukuran dari titik jaring horizontal. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah gaya warp instance ini adalah custom. Jika true, gaya ini berisi poin mesh. Jika disetel ke false, itu akan menghapus poin mesh. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Mendapat atau mengatur item warp. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | Mendapat kunci sumber daya PlLd. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Mendapat atau menyetel lokasi kiri dari lapisan yang ditempatkan di file PSD. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | Mendapatkan panjang sumber daya PLD dalam byte. |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Mendapat atau menyetel nomor halaman dari lapisan yang ditempatkan di file PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Mendapat atau menyetel nilai perspektif dari lapisan yang ditempatkan di file PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Mendapat atau menyetel nilai perspektif lain dari lapisan yang ditempatkan di file PSD. |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Mendapat atau menyetel jenis lapisan yang ditempatkan di file PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | Mendapat versi psd minimal yang diperlukan untuk sumber daya PlLd. 0 menunjukkan tidak ada batasan. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Mendapatkan atau menyetel lokasi yang tepat dari lapisan yang ditempatkan di file PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | Mendapat tanda tangan sumber daya PlLd. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Mendapat atau menyetel lokasi teratas dari lapisan yang ditempatkan di gambar PSD. |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Mendapat atau menyetel total halaman dari lapisan yang ditempatkan di file PSD. |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Mendapat atau menyetel matriks transformasi dari lapisan yang ditempatkan di file PSD. |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Mendapat atau menyetel pengidentifikasi unik global dari lapisan yang ditempatkan di gambar PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Mendapat atau menyetel nilai urutan U dari lapisan yang ditempatkan di file PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Mendapat atau menyetel nilai warp dari lapisan yang ditempatkan di gambar PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Mendapat versi lapisan yang ditempatkan di file PSD, biasanya 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Mendapat atau menetapkan satuan ukuran dari titik jaring vertikal. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Mendapat atau menyetel nilai urutan V dari lapisan yang ditempatkan di file PSD. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Mendapatkan atau mengatur kebijakan anti alias pada lapisan yang ditempatkan dalam gambar PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Mendapatkan atau mengatur lokasi bawah lapisan yang ditempatkan dalam gambar PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Mendapatkan atau mengatur batas lapisan yang ditempatkan dalam file PSD. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Mendapatkan atau mengatur satuan ukuran titik mesh horizontal. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah gaya warp instance ini bersifat khusus. Jika true, berisi titik mesh. Jika diset ke false, menghapus titik mesh. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Mendapatkan atau mengatur item warp. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Mendapatkan atau mengatur lokasi kiri lapisan yang ditempatkan dalam file PSD. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | Mendapatkan panjang sumber daya PlLd dalam byte. |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Mendapatkan atau mengatur nomor halaman lapisan yang ditempatkan dalam file PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Mendapatkan atau mengatur nilai perspektif lapisan yang ditempatkan dalam file PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Mendapatkan atau mengatur nilai perspektif lainnya lapisan yang ditempatkan dalam file PSD. |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Mendapatkan atau mengatur tipe lapisan yang ditempatkan dalam file PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Mendapatkan atau mengatur lokasi kanan lapisan yang ditempatkan dalam file PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Mendapatkan atau mengatur lokasi atas dari lapisan yang ditempatkan dalam gambar PSD. |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Mendapatkan atau mengatur total halaman dari lapisan yang ditempatkan dalam file PSD. |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Mendapatkan atau mengatur matriks transformasi dari lapisan yang ditempatkan dalam file PSD. |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik global dari lapisan yang ditempatkan dalam gambar PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Mendapatkan atau mengatur nilai urutan U dari lapisan yang ditempatkan dalam file PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Mendapatkan atau mengatur nilai warp dari lapisan yang ditempatkan dalam gambar PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Mendapatkan versi dari lapisan yang ditempatkan dalam file PSD, biasanya 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Mendapatkan atau mengatur satuan ukuran dari titik mesh vertikal. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Mendapatkan atau mengatur nilai urutan V dari lapisan yang ditempatkan dalam file PSD. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | Menyimpan sumber daya PLLD ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | Menyimpan sumber daya PlLD ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya PlLdResource.
 
@@ -243,15 +244,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -264,10 +265,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../placedresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

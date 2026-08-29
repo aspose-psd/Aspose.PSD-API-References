@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.TranslateTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransformBrush metode. Menerjemahkan transformasi geometris lokal dengan dimensi yang ditentukan. Metode ini menambahkan terjemahan ke transform.
+title: "TransformBrush.TranslateTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TransformBrush. Mentranslasi transformasi geometrik lokal sebesar dimensi yang ditentukan. Metode ini menambahkan translasi ke transformasi."
 type: docs
 weight: 80
 url: /id/net/aspose.psd.brushes/transformbrush/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-Menerjemahkan transformasi geometris lokal dengan dimensi yang ditentukan. Metode ini menambahkan terjemahan ke transform.
+Mentraslasikan transformasi geometris lokal dengan dimensi yang ditentukan. Metode ini menambahkan translasi ke transformasi di depan.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Single | Nilai terjemahan dalam x. |
-| dy | Single | Nilai terjemahan dalam y. |
+| dx | Single | Nilai translasi pada sumbu x. |
+| dy | Single | Nilai translasi pada sumbu y. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransformBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../transformbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-Menerjemahkan transformasi geometrik lokal dengan dimensi yang ditentukan dalam urutan yang ditentukan.
+Mentraslasikan transformasi geometris lokal dengan dimensi yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Single | Nilai terjemahan dalam x. |
-| dy | Single | Nilai terjemahan dalam y. |
-| order | MatrixOrder | Urutan (tambahkan atau tambahkan) untuk menerapkan terjemahan. |
+| dx | Single | Nilai translasi pada sumbu x. |
+| dy | Single | Nilai translasi pada sumbu y. |
+| urutan | MatrixOrder | Urutan (prepend atau append) di mana translasi diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../transformbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

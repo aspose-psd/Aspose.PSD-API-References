@@ -1,29 +1,30 @@
 ---
-title: RasterImage.SetArgb32Pixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mengatur piksel ARGB gambar 32bit untuk posisi yang ditentukan.
+title: "RasterImage.SetArgb32Pixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Menetapkan piksel ARGB 32-bit pada posisi yang ditentukan"
 type: docs
-weight: 540
+weight: 560
 url: /id/net/aspose.psd/rasterimage/setargb32pixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetArgb32Pixel method
 
-Mengatur piksel ARGB gambar 32-bit untuk posisi yang ditentukan.
+Mengatur piksel ARGB 32-bit gambar untuk posisi yang ditentukan.
 
 ```csharp
 public void SetArgb32Pixel(int x, int y, int argb32Color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Int32 | Lokasi piksel x. |
-| y | Int32 | Lokasi piksel y. |
+| x | Int32 | Lokasi x piksel. |
+| y | Int32 | Lokasi y piksel. |
 | argb32Color | Int32 | Piksel ARGB 32-bit untuk posisi yang ditentukan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LoadOptions Properti. Mendapat atau menyetelImage latar belakangColor .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LoadOptions. Mendapatkan atau mengatur Warna latar belakang Image"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-Mendapat atau menyetel[`Image`](../../image/) latar belakang[`Color`](../../color/) .
+Mendapatkan atau mengatur latar belakang [`Image`](../../image/) [`Color`](../../color/).
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna latar belakang.
 
-### Perkataan
+## Catatan
 
-Biasanya warna latar diatur setiap kali nilai piksel tidak dapat dipulihkan karena kerusakan data.
+Biasanya warna latar belakang diatur setiap kali nilai piksel tidak dapat dipulihkan karena korupsi data.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* ruang nama [Aspose.PSD](../../loadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

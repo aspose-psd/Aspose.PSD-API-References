@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelaskelas yang mewakili struktur yang mengandung karakteristik pewarna swatch yang digunakan dalam dokumen.
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi kelas yang mewakili struktur yang berisi karakteristik swatch colorant yang digunakan dalam dokumen"
 type: docs
-weight: 630
+weight: 670
 url: /id/net/aspose.psd.xmp.types.complex.colorant/
 ---
-Ruang nama berisi kelas-kelas yang mewakili struktur yang mengandung karakteristik pewarna (swatch) yang digunakan dalam dokumen.
+{{< psd/tize >}}
+Namespace berisi kelas yang mewakili struktur yang berisi karakteristik pewarna (swatch) yang digunakan dalam dokumen.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [ColorantBase](./colorantbase/) | Mewakili jenis Pewarna XMP. |
-| [ColorantCmyk](./colorantcmyk/) | Mewakili Pewarna CMYK. |
-| [ColorantLab](./colorantlab/) | Mewakili Pewarna LAB. |
-| [ColorantRgb](./colorantrgb/) | Mewakili Pewarna RGB. |
-## Pencacahan
+| [ColorantBase](./colorantbase/) | Mewakili tipe Colorant XMP. |
+| [ColorantCmyk](./colorantcmyk/) | Mewakili Colorant CMYK. |
+| [ColorantLab](./colorantlab/) | Mewakili Colorant LAB. |
+| [ColorantRgb](./colorantrgb/) | Mewakili Colorant RGB. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
 | [ColorMode](./colormode/) | Mewakili mode warna. |
-| [ColorType](./colortype/) | Jenis warna. |
+| [ColorType](./colortype/) | Tipe warna. |
 
 

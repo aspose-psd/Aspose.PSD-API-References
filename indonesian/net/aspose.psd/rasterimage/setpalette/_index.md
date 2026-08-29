@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SetPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mengatur palet gambar.
+title: "RasterImage.SetPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Menetapkan palet gambar"
 type: docs
-weight: 550
+weight: 570
 url: /id/net/aspose.psd/rasterimage/setpalette/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPalette method
 
 Mengatur palet gambar.
@@ -14,16 +15,16 @@ Mengatur palet gambar.
 public override void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| palette | IColorPalette | Palet untuk diatur. |
-| updateColors | Boolean | jika diatur ke`BENAR` warna akan diperbarui sesuai dengan palet baru; jika tidak, indeks warna tetap tidak berubah. Perhatikan bahwa indeks yang tidak berubah dapat merusak gambar saat memuat jika beberapa indeks tidak memiliki entri palet yang sesuai. |
+| palet | IColorPalette | Palet yang akan disetel. |
+| updateColors | Boolean | jika disetel ke `true` warna akan diperbarui sesuai dengan palet baru; jika tidak indeks warna tetap tidak berubah. Perhatikan bahwa indeks yang tidak berubah dapat menyebabkan gambar crash saat dimuat jika beberapa indeks tidak memiliki entri palet yang sesuai. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

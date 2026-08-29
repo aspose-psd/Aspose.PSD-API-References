@@ -1,31 +1,32 @@
 ---
-title: IVectorPathData.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IVectorPathData Properti. Mendapatkan atau menyetel versi.
+title: "IVectorPathData.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IVectorPathData. Mengambil atau mengatur versi."
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Version property
 
-Mendapatkan atau menyetel versi.
+Mendapatkan atau mengatur versi.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan dukungan sumber daya 'WorkingPathResource' di PsdImage.ImageResources untuk pengoperasian Pangkas yang benar.
+Contoh ini menunjukkan dukungan sumber daya 'WorkingPathResource' dalam PsdImage.ImageResources untuk kerja yang benar dari operasi Crop.
 
 ```csharp
 [C#]
 
-// Pangkas gambar dan simpan.
+// Potong gambar dan simpan.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // Cari sumber daya WorkingPathResource.
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // Pangkas dan simpan.
+    // Potong dan simpan.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// Muat gambar yang disimpan dan periksa perubahannya.
+// Muat gambar yang disimpan dan periksa perubahan.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // Cari sumber daya WorkingPathResource.
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IVectorPathData](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.CompId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapat atau menetapkan ID comp yang dipilih saat ini untuk dokumen anak yang akan menjadi 1 jika tidak ada yang dipilih. Comp adalah komposisi tata letak halaman yang dapat dibuat oleh desainer. Menggunakan komposisi lapisan Anda dapat membuat mengelola dan melihat beberapa versi tata letak dalam satu file Adobe Photoshop. Layer comp adalah snapshot dari status panel Layers. Layer comps menyimpan tiga jenis opsi layer but properti ini mendapatkan pengidentifikasi pilihan Layer Comp untuk Smart Objects. Lapisan comps di Smart Objects
+title: "LinkDataSource.CompId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mendapatkan atau mengatur ID komposisi yang saat ini dipilih untuk dokumen anak yang akan menjadi 1 jika tidak ada yang dipilih. Komposisi adalah susunan tata letak halaman yang dapat dibuat oleh desainer. Dengan menggunakan komposisi lapisan, Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe Photoshop. Komposisi lapisan adalah snapshot dari keadaan panel Layers. Komposisi lapisan menyimpan tiga jenis opsi lapisan tetapi properti ini mendapatkan pengidentifikasi pemilihan Layer Comp untuk Smart Objects. Komposisi lapisan dalam Smart Objects"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.CompId property
 
-Mendapat atau menetapkan ID comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Comp adalah komposisi tata letak halaman yang dapat dibuat oleh desainer. Menggunakan komposisi lapisan, Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe® Photoshop®. Layer comp adalah snapshot dari status panel Layers. Layer comps menyimpan tiga jenis opsi layer but properti ini mendapatkan pengidentifikasi pilihan Layer Comp untuk Smart Objects. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Mendapatkan atau mengatur ID komposisi yang saat ini dipilih untuk dokumen anak, yang akan bernilai -1 jika tidak ada yang dipilih. Komposisi (comps) adalah susunan tata letak halaman yang dapat dibuat oleh desainer. Dengan menggunakan layer comps, Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe® Photoshop®. Sebuah layer comp adalah snapshot dari keadaan panel Layers. Layer comps menyimpan tiga jenis opsi layer tetapi properti ini mendapatkan pengidentifikasi pemilihan Layer Comp untuk Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-ID comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih.
+ID komposisi yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ ID comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1 jika tida
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti CompId |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PhotoFilterLayer.PreserveLuminosity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoFilterLayer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah mempertahankan luminositas.
+title: "PhotoFilterLayer.PreserveLuminosity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhotoFilterLayer. Mendapatkan atau mengatur nilai yang menunjukkan apakah mempertahankan luminositas"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.PreserveLuminosity property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [mempertahankan luminositas].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [mempertahankan luminositas]; jika tidak,`PALSU` .
+`true` jika [preserve luminosity]; selain itu, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoFilterLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

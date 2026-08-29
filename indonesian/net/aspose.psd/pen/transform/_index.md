@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapatkan atau menyetel salinan transformasi geometrik untuk iniPen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur salinan transformasi geometrik untuk Pen ini"
 type: docs
 weight: 170
 url: /id/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-Mendapatkan atau menyetel salinan transformasi geometrik untuk ini[`Pen`](../) .
+Mendapatkan atau mengatur salinan transformasi geometrik untuk [`Pen`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Salinan dari[`Matrix`](../../matrix/) yang mewakili transformasi geometris untuk ini[`Pen`](../).
+Salinan [`Matrix`](../../matrix/) yang mewakili transformasi geometrik untuk [`Pen`](../).
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`Transform` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `Transform` diatur pada [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

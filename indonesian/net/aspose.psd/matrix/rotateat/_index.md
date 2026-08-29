@@ -1,53 +1,54 @@
 ---
-title: Matrix.RotateAt
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Menerapkan rotasi searah jarum jam di sekitar titik yang ditentukan ke Matriks ini dalam urutan yang ditentukan.
+title: "Matrix.RotateAt"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Menerapkan rotasi searah jarum jam sekitar titik yang ditentukan pada Matrix ini dalam urutan yang ditentukan"
 type: docs
 weight: 150
 url: /id/net/aspose.psd/matrix/rotateat/
 ---
+{{< psd/tize >}}
 ## RotateAt(float, PointF, MatrixOrder) {#rotateat_1}
 
-Menerapkan rotasi searah jarum jam di sekitar titik yang ditentukan ke Matriks ini dalam urutan yang ditentukan.
+Menerapkan rotasi searah jarum jam sekitar titik yang ditentukan pada Matrix ini dalam urutan yang ditentukan.
 
 ```csharp
 public void RotateAt(float angle, PointF point, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut. |
-| point | PointF | Inti nya. |
-| order | MatrixOrder | Pesanan. |
+| titik | PointF | Titik. |
+| urutan | MatrixOrder | Urutannya. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateAt(float, PointF) {#rotateat}
 
-Menerapkan rotasi searah jarum jam di sekitar titik yang ditentukan ke Matriks ini dalam urutan default (Awali).
+Menerapkan rotasi searah jarum jam sekitar titik yang ditentukan pada Matrix ini dalam urutan default (Prepend).
 
 ```csharp
 public void RotateAt(float angle, PointF point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut. |
-| point | PointF | Inti nya. |
+| titik | PointF | Titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

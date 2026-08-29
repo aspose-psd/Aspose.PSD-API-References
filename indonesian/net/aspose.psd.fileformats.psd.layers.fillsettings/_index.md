@@ -1,37 +1,40 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi Pengaturan Lapisan Isi
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi Pengaturan Fill Layers."
 type: docs
-weight: 250
+weight: 270
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/
 ---
-Ruang nama berisi Pengaturan Lapisan Isi
+{{< psd/tize >}}
+Namespace ini berisi Pengaturan Fill Layers.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [BaseFillSettings](./basefillsettings/) | Pengaturan efek isian dasar |
-| [ColorFillSettings](./colorfillsettings/) | Pengaturan efek isian warna |
+| [BaseFillSettings](./basefillsettings/) | Pengaturan efek isi dasar |
+| [ColorFillSettings](./colorfillsettings/) | Pengaturan efek isi warna |
 | [GradientColorPoint](./gradientcolorpoint/) | Titik Warna Gradien. |
-| [GradientFillSettings](./gradientfillsettings/) | Pengaturan efek isian gradien. |
+| [GradientFillSettings](./gradientfillsettings/) | Kelas definisi gradien dasar. Ini berisi properti umum untuk kedua tipe gradien (Solid dan Noise). |
+| [GradientMapSettings](./gradientmapsettings/) | Kelas pengaturan gradien untuk lapisan peta gradien. Ini berisi properti umum untuk kedua tipe gradien (Solid dan Noise). |
 | [GradientTransparencyPoint](./gradienttransparencypoint/) | Titik Transparansi Gradien |
-| [PatternFillSettings](./patternfillsettings/) | Pengaturan efek isian pola |
+| [PatternFillSettings](./patternfillsettings/) | Pengaturan efek isi pola |
 ## Antarmuka
 
-| Antarmuka | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
-| [IColorFillSettings](./icolorfillsettings/) | Antarmuka dasar untuk pengaturan isian |
-| [IFillSettings](./ifillsettings/) | Antarmuka dasar untuk pengaturan isian |
-| [IGradientFillSettings](./igradientfillsettings/) | Antarmuka dasar untuk pengaturan isian |
-| [IGradientTransparencyPoint](./igradienttransparencypoint/) | Antarmuka dasar untuk pengaturan isian |
-| [IPatternFillSettings](./ipatternfillsettings/) | Antarmuka untuk pengaturan isian Pola |
-## Pencacahan
+| [IColorFillSettings](./icolorfillsettings/) | Antarmuka dasar untuk pengaturan isi |
+| [IFillSettings](./ifillsettings/) | Antarmuka dasar untuk pengaturan isi |
+| [IGradientFillSettings](./igradientfillsettings/) | Antarmuka dasar untuk pengaturan isi Gradien. |
+| [IGradientTransparencyPoint](./igradienttransparencypoint/) | Antarmuka dasar untuk pengaturan isi |
+| [IPatternFillSettings](./ipatternfillsettings/) | Antarmuka untuk pengaturan isi Pola |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [FillType](./filltype/) | Jenis Isian |
-| [GradientType](./gradienttype/) | Jenis gradien |
+| [FillType](./filltype/) | Tipe Isi |
+| [GradientType](./gradienttype/) | Tipe Gradien |
+| [InterpolationMethod](./interpolationmethod/) | Nilai fourCC terpaket untuk metode interpolasi gradien Photoshop. Kunci deskriptor: "gradientsInterpolationMethod" |
 
 

@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RawDataSettings Properti. Mendapat atau menyetel palet warna
+title: "RawDataSettings.ColorPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RawDataSettings. Mendapatkan atau mengatur palet warna"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/rawdatasettings/colorpalette/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.ColorPalette property
 
-Mendapat atau menyetel palet warna
+Mendapatkan atau mengatur palet warna
 
 ```csharp
 public IColorPalette ColorPalette { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Palet warna
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* ruang nama [Aspose.PSD](../../rawdatasettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

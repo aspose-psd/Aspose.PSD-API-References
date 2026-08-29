@@ -1,23 +1,24 @@
 ---
-title: PsdImage.Grayscale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Transformasi gambar ke representasi skala abuabunya
+title: "PsdImage.Grayscale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Transformasi gambar ke representasi skala abu-abu"
 type: docs
-weight: 550
+weight: 610
 url: /id/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
+{{< psd/tize >}}
 ## PsdImage.Grayscale method
 
-Transformasi gambar ke representasi skala abu-abunya
+Transformasi gambar menjadi representasi skala abu-abu
 
 ```csharp
 public override void Grayscale()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

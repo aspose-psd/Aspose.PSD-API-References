@@ -1,14 +1,15 @@
 ---
-title: Class ImageCreatorsRegistry
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageCreatorsRegistry kelas. Mewakili registry pembuat gambar.
+title: "Kelas ImageCreatorsRegistry"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageCreatorsRegistry. Mewakili registri pembuat gambar"
 type: docs
-weight: 4620
+weight: 5090
 url: /id/net/aspose.psd/imagecreatorsregistry/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry class
 
-Mewakili registry pembuat gambar.
+Mewakili registri pembuat gambar.
 
 ```csharp
 public static class ImageCreatorsRegistry
@@ -16,24 +17,24 @@ public static class ImageCreatorsRegistry
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | Mendapat deskriptor terdaftar. |
-| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Mendapatkan format pembuatan gambar terdaftar. |
+| static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | Mendapatkan deskriptor yang terdaftar. |
+| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Mendapatkan format pembuatan gambar yang terdaftar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Membuat kreator pertama yang ditemukan cocok untuk yang ditentukan. |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | Mendapat peninju yang ditemukan deskriptor yang didukung cocok untuk yang ditentukan. |
-| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | Mendaftarkan deskripsi pembuat gambar yang ditentukan. |
-| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | Mendaftarkan pembuatnya. |
-| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Membatalkan pendaftaran pembuat. |
+| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Membuat pembuat pertama yang ditemukan yang cocok untuk yang ditentukan. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | Mendapatkan deskriptor dukungan pertama yang ditemukan yang cocok untuk yang ditentukan. |
+| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | Mendaftarkan deskriptor pembuat gambar yang ditentukan. |
+| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | Mendaftarkan pembuat. |
+| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Menghapus pendaftaran pembuat. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

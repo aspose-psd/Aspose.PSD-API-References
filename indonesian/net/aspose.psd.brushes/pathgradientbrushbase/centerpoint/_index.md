@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.CenterPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathGradientBrushBase Properti. Mendapat atau menetapkan titik tengah gradien jalur.
+title: "PathGradientBrushBase.CenterPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PathGradientBrushBase. Mendapatkan atau mengatur titik pusat gradien jalur."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.brushes/pathgradientbrushbase/centerpoint/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.CenterPoint property
 
-Mendapat atau menetapkan titik tengah gradien jalur.
+Mendapatkan atau mengatur titik pusat gradien jalur.
 
 ```csharp
 public PointF CenterPoint { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`PointF`](../../../aspose.psd/pointf/) yang mewakili titik pusat gradien jalan.
+Sebuah [`PointF`](../../../aspose.psd/pointf/) yang mewakili titik pusat gradien jalur.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

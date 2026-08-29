@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.PhotometricInterpretation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapatkan atau menyetel interpretasi fotometrik.
+title: "JpegExifData.PhotometricInterpretation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur interpretasi fotometrik"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.exif/jpegexifdata/photometricinterpretation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PhotometricInterpretation property
 
-Mendapatkan atau menyetel interpretasi fotometrik.
+Mendapatkan atau mengatur interpretasi fotometrik.
 
 ```csharp
 public ushort PhotometricInterpretation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Interpretasi fotometrik.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

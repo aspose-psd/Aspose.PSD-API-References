@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextureBrush Properti. MendapatkanImage objek yang terkait dengan iniTextureBrush objek.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextureBrush. Mendapatkan objek Image yang terkait dengan objek TextureBrush ini."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-Mendapatkan[`Image`](../../../aspose.psd/image/) objek yang terkait dengan ini[`TextureBrush`](../) objek.
+Mendapatkan objek [`Image`](../../../aspose.psd/image/) yang terkait dengan objek [`TextureBrush`](../) ini.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Sebuah[`Image`](../../../aspose.psd/image/) objek yang mewakili gambar dengan yang ini[`TextureBrush`](../) objek mengisi bentuk.
+Sebuah objek [`Image`](../../../aspose.psd/image/) yang mewakili gambar yang digunakan oleh objek [`TextureBrush`](../) ini untuk mengisi bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../texturebrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

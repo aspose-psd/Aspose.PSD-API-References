@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsCanceled
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IAsyncTask Properti. Mendapat nilai yang menunjukkan apakah tugas ini dibatalkan.
+title: "IAsyncTask.IsCanceled"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IAsyncTask. Mendapatkan nilai yang menunjukkan apakah tugas ini dibatalkan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.asynctask/iasynctask/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsCanceled property
 
-Mendapat nilai yang menunjukkan apakah tugas ini dibatalkan.
+Mendapatkan nilai yang menunjukkan apakah tugas ini dibatalkan.
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika tugas ini dibatalkan; jika tidak,`PALSU` .
+`true` jika tugas ini dibatalkan; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../iasynctask/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

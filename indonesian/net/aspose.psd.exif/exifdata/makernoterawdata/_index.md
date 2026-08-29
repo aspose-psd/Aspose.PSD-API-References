@@ -1,27 +1,28 @@
 ---
-title: ExifData.MakerNoteRawData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel data mentah catatan pembuat.
+title: "ExifData.MakerNoteRawData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur data mentah catatan pembuat"
 type: docs
 weight: 790
 url: /id/net/aspose.psd.exif/exifdata/makernoterawdata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteRawData property
 
-Mendapat atau menyetel data mentah catatan pembuat.
+Mendapatkan atau mengatur data mentah catatan pembuat.
 
 ```csharp
 public byte[] MakerNoteRawData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Data mentah catatan pembuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

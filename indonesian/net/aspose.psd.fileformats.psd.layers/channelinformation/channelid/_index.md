@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ChannelInformation Properti. Mendapat atau menyetel ID saluran.
+title: "ChannelInformation.ChannelID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ChannelInformation. Mendapatkan atau mengatur ID kanal"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
-Mendapat atau menyetel ID saluran.
+Mendapatkan atau mengatur ID saluran.
 
 ```csharp
 public short ChannelID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-ID saluran.
+ID kanal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ChannelInformation](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

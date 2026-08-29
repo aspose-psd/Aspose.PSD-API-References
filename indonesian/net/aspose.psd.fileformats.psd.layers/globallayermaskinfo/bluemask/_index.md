@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.BlueMask
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalLayerMaskInfo Properti. Mendapat atau menyetel topeng biru.
+title: "GlobalLayerMaskInfo.BlueMask"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalLayerMaskInfo. Mendapatkan atau mengatur masker biru"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.BlueMask property
 
-Mendapat atau menyetel topeng biru.
+Mendapatkan atau mengatur masker biru.
 
 ```csharp
 public short BlueMask { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Topeng biru.
+Masker biru.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalLayerMaskInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

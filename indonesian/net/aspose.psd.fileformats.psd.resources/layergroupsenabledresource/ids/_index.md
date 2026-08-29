@@ -1,27 +1,28 @@
 ---
-title: LayerGroupsEnabledResource.IDs
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroupsEnabledResource Properti. Mendapat atau menyetel i ds.
+title: "LayerGroupsEnabledResource.IDs"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerGroupsEnabledResource. Mendapatkan atau mengatur i ds"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/ids/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource.IDs property
 
-Mendapat atau menyetel i ds.
+Mendapatkan atau mengatur id.
 
 ```csharp
 public byte[] IDs { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-I ds.
+i ds.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroupsEnabledResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

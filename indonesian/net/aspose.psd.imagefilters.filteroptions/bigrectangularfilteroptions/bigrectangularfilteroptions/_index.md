@@ -1,11 +1,12 @@
 ---
-title: BigRectangularFilterOptions.BigRectangularFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BigRectangularFilterOptions konstruktor. Konstruktor default.
+title: "BigRectangularFilterOptions.BigRectangularFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor BigRectangularFilterOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public BigRectangularFilterOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BigRectangularFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../bigrectangularfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

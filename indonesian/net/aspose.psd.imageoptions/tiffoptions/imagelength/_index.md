@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ImageLength
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel panjang gambar.
+title: "TiffOptions.ImageLength"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur panjang gambar"
 type: docs
-weight: 200
+weight: 210
 url: /id/net/aspose.psd.imageoptions/tiffoptions/imagelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageLength property
 
-Mendapat atau menyetel panjang gambar.
+Mendapatkan atau mengatur panjang gambar.
 
 ```csharp
 public uint ImageLength { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Panjang gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

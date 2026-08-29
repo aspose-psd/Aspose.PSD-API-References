@@ -1,28 +1,29 @@
 ---
-title: ColorBlend.Colors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBlend Properti. Mendapat atau mengatur larik warna yang mewakili warna untuk digunakan pada posisi yang sesuai di sepanjang gradien.
+title: "ColorBlend.Colors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorBlend. Mendapatkan atau mengatur array warna yang mewakili warna yang digunakan pada posisi yang bersesuaian sepanjang gradien"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/colorblend/colors/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Colors property
 
-Mendapat atau mengatur larik warna yang mewakili warna untuk digunakan pada posisi yang sesuai di sepanjang gradien.
+Mendapatkan atau mengatur array warna yang mewakili warna-warna yang digunakan pada posisi yang sesuai sepanjang gradien.
 
 ```csharp
 public Color[] Colors { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah array dari[`Color`](../../color/) struktur yang mewakili warna untuk digunakan pada posisi yang sesuai di sepanjang gradien.
+Array struktur [`Color`](../../color/) yang mewakili warna yang digunakan pada posisi yang bersesuaian sepanjang gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorBlend](../)
-* ruang nama [Aspose.PSD](../../colorblend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

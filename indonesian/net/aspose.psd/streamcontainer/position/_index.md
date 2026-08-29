@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Position
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer Properti. Mendapat atau menetapkan posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi aliran awal yang diteruskan dalam konstruktor StreamContainer.
+title: "StreamContainer.Position"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StreamContainer. Mendapatkan atau mengatur posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi awal aliran yang diberikan pada konstruktor StreamContainer"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/streamcontainer/position/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Position property
 
-Mendapat atau menetapkan posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi aliran awal yang diteruskan dalam konstruktor StreamContainer.
+Mendapatkan atau mengatur posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi awal aliran yang diberikan dalam konstruktor StreamContainer.
 
 ```csharp
 public virtual long Position { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Posisi aliran saat ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

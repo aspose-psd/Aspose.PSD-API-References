@@ -1,14 +1,15 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. Jenis Tutup Baris.
+title: "Enum LineCapType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. Tipe Cap Garis"
 type: docs
-weight: 3040
+weight: 3400
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-Jenis Tutup Baris.
+Tipe Cap Garis.
 
 ```csharp
 public enum LineCapType : short
@@ -16,13 +17,13 @@ public enum LineCapType : short
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| RoundCap | `0` | Jenis topi bulat. |
-| SquareCap | `1` | Jenis tutup persegi. |
-| ButtCap | `2` | Jenis tutup bokong. |
+| RoundCap | `0` | Tipe cap bulat. |
+| SquareCap | `1` | Tipe cap persegi. |
+| ButtCap | `2` | Tipe cap butt. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya VstkResource.
 
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

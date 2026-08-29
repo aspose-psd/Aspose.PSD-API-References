@@ -1,11 +1,12 @@
 ---
-title: QuickMaskInformationResource.QuickMaskInformationResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: QuickMaskInformationResource konstruktor. Konstruktor default.
+title: "QuickMaskInformationResource.QuickMaskInformationResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "QuickMaskInformationResource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/quickmaskinformationresource/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public QuickMaskInformationResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [QuickMaskInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

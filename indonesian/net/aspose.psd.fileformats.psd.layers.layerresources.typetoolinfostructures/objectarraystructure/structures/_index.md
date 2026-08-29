@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ObjectArrayStructure Properti. Mendapat atau menyetel salinan array struktur.
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ObjectArrayStructure properti. Mendapatkan atau mengatur salinan array struktur"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
-Mendapat atau menyetel salinan array struktur.
+Mendapatkan atau mengatur salinan array struktur.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Substruktur dalam struktur larik objek.
+Substruktur dalam struktur array objek.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan tanda tangan ObAr dan UnFl.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

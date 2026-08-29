@@ -1,36 +1,37 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NvrtResource konstruktor. Menginisialisasi instance baru dariNvrtResource kelas.
+title: "NvrtResource.NvrtResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor NvrtResource. Menginisialisasi instance baru dari kelas NvrtResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-Menginisialisasi instance baru dari[`NvrtResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [NvrtResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`NvrtResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -40,10 +41,10 @@ public NvrtResource(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Data NvrtResource tidak valid. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NvrtResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

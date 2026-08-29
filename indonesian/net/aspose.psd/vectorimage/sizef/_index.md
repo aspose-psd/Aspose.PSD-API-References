@@ -1,11 +1,12 @@
 ---
-title: VectorImage.SizeF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorImage Properti. Mendapatkan ukuran objek dalam inci.
+title: "VectorImage.SizeF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorImage properti. Mendapatkan ukuran objek dalam inci"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
 Mendapatkan ukuran objek, dalam inci.
@@ -14,15 +15,15 @@ Mendapatkan ukuran objek, dalam inci.
 public SizeF SizeF { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran objek, dalam inci.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* ruang nama [Aspose.PSD](../../vectorimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

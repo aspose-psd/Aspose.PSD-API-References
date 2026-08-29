@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat jumlah tag yang valid. Ini bukan jumlah total tag tetapi jumlah tag yang dapat dipertahankan.
+title: "TiffOptions.ValidTagCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan jumlah tag yang valid. Ini bukan total jumlah tag tetapi jumlah tag yang dapat dipertahankan."
 type: docs
-weight: 570
+weight: 580
 url: /id/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
-Mendapat jumlah tag yang valid. Ini bukan jumlah total tag tetapi jumlah tag yang dapat dipertahankan.
+Mendapatkan jumlah tag yang valid. Ini bukan total jumlah tag tetapi jumlah tag yang dapat dipertahankan.
 
 ```csharp
 public int ValidTagCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah tag yang valid.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

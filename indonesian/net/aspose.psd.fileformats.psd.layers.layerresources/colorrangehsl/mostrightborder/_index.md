@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostRightBorder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl Properti. Mendapat atau menyetel batas paling kanan.
+title: "ColorRangeHsl.MostRightBorder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorRangeHsl. Mendapatkan atau mengatur batas paling kanan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostRightBorder property
 
-Mendapat atau menyetel batas paling kanan.
+Mendapatkan atau mengatur batas paling kanan.
 
 ```csharp
 public short MostRightBorder { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Batas paling kanan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

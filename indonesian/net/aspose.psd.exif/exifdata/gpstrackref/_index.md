@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrackRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur referensi untuk memberikan arah pergerakan penerima GPS.
+title: "ExifData.GPSTrackRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur referensi untuk memberikan arah pergerakan penerima GPS"
 type: docs
 weight: 660
 url: /id/net/aspose.psd.exif/exifdata/gpstrackref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrackRef property
 
-Mendapat atau mengatur referensi untuk memberikan arah pergerakan penerima GPS.
+Mendapatkan atau mengatur referensi untuk memberikan arah pergerakan penerima GPS.
 
 ```csharp
 public string GPSTrackRef { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Referensi untuk memberikan arah pergerakan penerima GPS.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

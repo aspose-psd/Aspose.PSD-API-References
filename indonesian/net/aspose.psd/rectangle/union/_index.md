@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Union
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Mendapat aRectangle struktur yang mengandung penyatuan duaRectangle struktur.
+title: "Rectangle.Union"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Mendapatkan struktur Rectangle yang berisi gabungan dari dua struktur Rectangle."
 type: docs
 weight: 100
 url: /id/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-Mendapat a[`Rectangle`](../) struktur yang mengandung penyatuan dua[`Rectangle`](../) struktur.
+Mendapatkan struktur [`Rectangle`](../) yang berisi gabungan dari dua struktur [`Rectangle`](../).
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| a | Rectangle | Sebuah persegi panjang pertama untuk penyatuan. |
-| b | Rectangle | Sebuah persegi panjang kedua untuk penyatuan. |
+| a | Rectangle | Persegi panjang pertama untuk digabungkan. |
+| b | Rectangle | Persegi panjang kedua untuk digabungkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`Rectangle`](../) struktur yang membatasi penyatuan keduanya[`Rectangle`](../) struktur.
+Sebuah struktur [`Rectangle`](../) yang membatasi gabungan dari dua struktur [`Rectangle`](../).
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

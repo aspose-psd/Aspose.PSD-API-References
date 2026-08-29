@@ -1,14 +1,15 @@
 ---
-title: Class RectangleExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.RectangleExtensions kelas. Berisi metode ekstensi untukRectangle .
+title: "Kelas RectangleExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.RectangleExtensions. Berisi metode ekstensi untuk Rectangle"
 type: docs
-weight: 1160
+weight: 1170
 url: /id/net/aspose.psd.extensions/rectangleextensions/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions class
 
-Berisi metode ekstensi untuk[`Rectangle`](../../aspose.psd/rectangle/) .
+Berisi metode ekstensi untuk [`Rectangle`](../../aspose.psd/rectangle/).
 
 ```csharp
 public static class RectangleExtensions
@@ -16,15 +17,15 @@ public static class RectangleExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | Mengubah[`Rectangle`](../../aspose.psd/rectangle/) keRectangle . |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | Mengubah[`RectangleF`](../../aspose.psd/rectanglef/) keRectangle . |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | Mengonversi [`Rectangle`](../../aspose.psd/rectangle/) menjadi Rectangle. |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | Mengonversi [`RectangleF`](../../aspose.psd/rectanglef/) menjadi Rectangle. |
 | static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | Menggabungkan dua persegi panjang. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StringStructure.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringStructure Properti. Mendapat atau menetapkan nilai.
+title: "StringStructure.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StringStructure properti. Mendapatkan atau mengatur nilai"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value/
 ---
+{{< psd/tize >}}
 ## StringStructure.Value property
 
-Mendapat atau menetapkan nilai.
+Mendapatkan atau mengatur nilai.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilainya.
+Nilai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

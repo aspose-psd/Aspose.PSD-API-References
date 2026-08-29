@@ -1,49 +1,50 @@
 ---
-title: ImageAttributes.SetThreshold
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Menetapkan ambang batas rentang transparansi untuk kategori default.
+title: "ImageAttributes.SetThreshold"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menetapkan rentang transparansi ambang untuk kategori default"
 type: docs
 weight: 200
 url: /id/net/aspose.psd/imageattributes/setthreshold/
 ---
+{{< psd/tize >}}
 ## SetThreshold(float) {#setthreshold}
 
-Menetapkan ambang batas (rentang transparansi) untuk kategori default.
+Menetapkan ambang (rentang transparansi) untuk kategori default.
 
 ```csharp
 public void SetThreshold(float threshold)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threshold | Single | Bilangan real yang menentukan nilai ambang batas. |
+| ambang batas | Single | Bilangan riil yang menentukan nilai ambang. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetThreshold(float, ColorAdjustType) {#setthreshold_1}
 
-Menetapkan ambang batas (rentang transparansi) untuk kategori tertentu.
+Menetapkan ambang (rentang transparansi) untuk kategori yang ditentukan.
 
 ```csharp
 public void SetThreshold(float threshold, ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threshold | Single | Nilai ambang dari 0,0 hingga 1,0 yang digunakan sebagai breakpoint untuk mengurutkan warna yang akan dipetakan ke nilai maksimum atau minimum. |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori yang ditetapkan ambang warna. |
+| ambang batas | Single | Nilai ambang dari 0,0 hingga 1,0 yang digunakan sebagai titik putus untuk mengurutkan warna yang akan dipetakan ke nilai maksimum atau minimum. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana ambang warna ditetapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

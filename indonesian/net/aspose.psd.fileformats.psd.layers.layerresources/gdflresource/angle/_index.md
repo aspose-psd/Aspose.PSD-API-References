@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Angle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapatkan atau mengatur sudut.
+title: "GdFlResource.Angle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GdFlResource. Mendapatkan atau mengatur sudut"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Angle property
 
 Mendapatkan atau mengatur sudut.
@@ -14,11 +15,11 @@ Mendapatkan atau mengatur sudut.
 public double Angle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan pemuatan sumber daya GdFlResource.
 
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // Mengedit
+                    // Menyunting
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

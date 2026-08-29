@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Photometric
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel fotometrik.
+title: "TiffOptions.Photometric"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur fotometrik"
 type: docs
-weight: 320
+weight: 330
 url: /id/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
-Mendapat atau menyetel fotometrik.
+Mendapatkan atau mengatur fotometrik.
 
 ```csharp
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Fotometrik.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

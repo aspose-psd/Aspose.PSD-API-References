@@ -1,29 +1,36 @@
 ---
-title: Class ColorFillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings kelas. Pengaturan efek isian warna
+title: "Kelas ColorFillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings. Pengaturan efek isi warna"
 type: docs
-weight: 1930
+weight: 2040
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-Pengaturan efek isian warna
+Pengaturan efek isi warna
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## Konstruktor
+
+| Nama | Deskripsi |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | Konstruktor default. |
+
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Mendapat atau mengatur warna. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Jenis isian |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Mendapatkan atau mengatur warna. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Jenis isi |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari layer efek stroke dengan tipe isian - Warna.
+Kode berikut menunjukkan dukungan lapisan efek goresan dengan jenis isi - Warna.
 
 ```csharp
 [C#]
@@ -63,7 +70,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Uji file setelah diedit
+// File uji setelah edit
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

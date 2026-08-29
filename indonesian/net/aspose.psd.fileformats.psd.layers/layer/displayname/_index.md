@@ -1,31 +1,32 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel nama tampilan layer.
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur nama tampilan lapisan"
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
-Mendapat atau menyetel nama tampilan layer.
+Mendapatkan atau mengatur nama tampilan lapisan.
 
 ```csharp
 public string DisplayName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nama tampilan layer.
+Nama tampilan lapisan.
 
-### Contoh
+## Contoh
 
-Contoh berikut mendemonstrasikan kemampuan untuk mengatur nilai DisplayName, di mana nama layer ditampilkan dengan benar.
+Contoh berikut menunjukkan kemampuan untuk mengatur nilai DisplayName, sehingga nama lapisan ditampilkan dengan benar.
 
 ```csharp
 [C#]
 
-// buat perubahan pada nama layer dan simpan
+// lakukan perubahan pada nama lapisan dan simpan
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // tetapkan nilai baru ke dalam properti DisplayName
+        // set nilai baru ke properti DisplayName
         layer.DisplayName += "_changed";
     }
 
@@ -42,10 +43,10 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

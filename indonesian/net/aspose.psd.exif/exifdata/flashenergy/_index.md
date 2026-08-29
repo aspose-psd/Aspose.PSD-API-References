@@ -1,28 +1,29 @@
 ---
-title: ExifData.FlashEnergy
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur energi flash.
+title: "ExifData.FlashEnergy"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur energi kilat"
 type: docs
 weight: 260
 url: /id/net/aspose.psd.exif/exifdata/flashenergy/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashEnergy property
 
-Mendapat atau mengatur energi flash.
+Mendapatkan atau mengatur energi lampu kilat.
 
 ```csharp
 public TiffRational FlashEnergy { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Energi kilat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

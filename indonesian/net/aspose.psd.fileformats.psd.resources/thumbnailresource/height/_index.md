@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ThumbnailResource Properti. Mendapat atau menyetel tinggi thumbnail dalam piksel.
+title: "ThumbnailResource.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ThumbnailResource. Mendapatkan atau mengatur tinggi thumbnail dalam piksel"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.resources/thumbnailresource/height/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Height property
 
-Mendapat atau menyetel tinggi thumbnail dalam piksel.
+Mendapatkan atau mengatur tinggi thumbnail dalam piksel.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi thumbnail.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ThumbnailResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MixrResource.Monochrome
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MixrResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniMixrResource adalah monokrom.
+title: "MixrResource.Monochrome"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MixrResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah MixrResource ini monokrom"
 type: docs
-weight: 40
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/
 ---
+{{< psd/tize >}}
 ## MixrResource.Monochrome property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`MixrResource`](../) adalah monokrom.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`MixrResource`](../) ini monokrom.
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika monokrom; jika tidak,`PALSU` .
+`true` jika monokrom; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

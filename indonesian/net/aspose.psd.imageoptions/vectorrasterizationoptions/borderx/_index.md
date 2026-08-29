@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions Properti. Mendapat atau menyetel batas X.
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorRasterizationOptions. Mendapatkan atau mengatur border X"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
-Mendapat atau menyetel batas X.
+Mendapatkan atau mengatur batas X.
 
 ```csharp
 public float BorderX { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Perbatasan X.
+Border X.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

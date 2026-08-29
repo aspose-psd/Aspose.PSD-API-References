@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis nilai integer tunggal ke aliran.
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffStreamWriter metode. Menulis satu nilai integer ke aliran"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
-Menulis nilai integer tunggal ke aliran.
+Menulis satu nilai integer ke aliran.
 
 ```csharp
 public void WriteSlong(int data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | Int32 | Nilai untuk menulis. |
+| data | Int32 | Nilai yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

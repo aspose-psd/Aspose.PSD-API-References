@@ -1,51 +1,52 @@
 ---
-title: ImageAttributes.SetOutputChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Mengatur saluran keluaran CMYK cyanmagentakuninghitam untuk kategori default.
+title: "ImageAttributes.SetOutputChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menetapkan saluran keluaran CMYK cyanmagenta yellowblack untuk kategori default."
 type: docs
 weight: 170
 url: /id/net/aspose.psd/imageattributes/setoutputchannel/
 ---
+{{< psd/tize >}}
 ## SetOutputChannel(ColorChannelFlag) {#setoutputchannel}
 
-Mengatur saluran keluaran CMYK (cyan-magenta-kuning-hitam) untuk kategori default.
+Menetapkan saluran output CMYK (cyan-magenta-yellow-black) untuk kategori default.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Elemen dari[`ColorChannelFlag`](../../colorchannelflag/)yang menentukan saluran keluaran. |
+| flags | ColorChannelFlag | Elemen dari [`ColorChannelFlag`](../../colorchannelflag/) yang menentukan saluran keluaran. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetOutputChannel(ColorChannelFlag, ColorAdjustType) {#setoutputchannel_1}
 
-Mengatur saluran keluaran CMYK (cyan-magenta-kuning-hitam) untuk kategori tertentu.
+Menetapkan saluran output CMYK (cyan-magenta-yellow-black) untuk kategori yang ditentukan.
 
 ```csharp
 public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| flags | ColorChannelFlag | Elemen dari[`ColorChannelFlag`](../../colorchannelflag/)yang menentukan saluran keluaran. |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori saluran output yang ditetapkan. |
+| flags | ColorChannelFlag | Elemen dari [`ColorChannelFlag`](../../colorchannelflag/) yang menentukan saluran keluaran. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana saluran keluaran diatur. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

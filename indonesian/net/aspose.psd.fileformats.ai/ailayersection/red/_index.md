@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menyetel komponen warna merah.
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur komponen warna merah"
 type: docs
-weight: 130
+weight: 150
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
-Mendapat atau menyetel komponen warna merah.
+Mendapatkan atau mengatur komponen warna merah.
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komponen warna merah.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

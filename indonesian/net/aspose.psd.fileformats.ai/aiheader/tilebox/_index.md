@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TileBox
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetel kotak petak.
+title: "AiHeader.TileBox"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AiHeader properti. Mendapatkan atau mengatur kotak ubin"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.ai/aiheader/tilebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TileBox property
 
-Mendapat atau menyetel kotak petak.
+Mendapatkan atau mengatur kotak ubin.
 
 ```csharp
 public RectangleF TileBox { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kotak ubin.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

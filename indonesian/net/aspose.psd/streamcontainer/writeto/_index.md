@@ -1,54 +1,55 @@
 ---
-title: StreamContainer.WriteTo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer metode. Menyalin data yang ada ke yang lainStreamContainer .
+title: "StreamContainer.WriteTo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StreamContainer. Menyalin data yang terkandung ke StreamContainer lain"
 type: docs
 weight: 190
 url: /id/net/aspose.psd/streamcontainer/writeto/
 ---
+{{< psd/tize >}}
 ## WriteTo(StreamContainer) {#writeto}
 
-Menyalin data yang ada ke yang lain[`StreamContainer`](../) .
+Menyalin data yang terkandung ke [`StreamContainer`](../) lain.
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Penampung aliran untuk disalin. |
+| streamContainer | StreamContainer | Kontainer aliran untuk disalin ke. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## WriteTo(StreamContainer, long) {#writeto_1}
 
-Menyalin data yang ada ke yang lain[`StreamContainer`](../) .
+Menyalin data yang terkandung ke [`StreamContainer`](../) lain.
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer, long length)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Penampung aliran untuk disalin. |
-| length | Int64 | Jumlah byte untuk menulis. |
+| streamContainer | StreamContainer | Kontainer aliran untuk disalin ke. |
+| length | Int64 | Jumlah byte yang akan ditulis. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | Operasi penyalinan tidak dapat diselesaikan. Tidak dapat membaca + menghitung + byte. |
+| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | Operasi penyalinan tidak dapat diselesaikan. Tidak dapat membaca + jumlah + byte. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

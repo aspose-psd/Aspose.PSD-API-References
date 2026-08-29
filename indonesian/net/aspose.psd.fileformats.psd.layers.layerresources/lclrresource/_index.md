@@ -1,14 +1,15 @@
 ---
-title: Class LclrResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource kelas. Class LclrResource. Resource ini berisi informasi tentang warna layer pada daftar layer PS. Hanya
+title: "Kelas LclrResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource kelas. Kelas LclrResource. Sumber daya ini berisi informasi tentang warna lapisan dalam daftar lapisan PS. Hanya"
 type: docs
-weight: 2620
+weight: 2930
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource class
 
-Class LclrResource. Resource ini berisi informasi tentang warna layer pada daftar layer PS. Hanya
+Kelas LclrResource. Sumber daya ini berisi informasi tentang warna lapisan dalam daftar lapisan di PS. Hanya
 
 ```csharp
 public class LclrResource : LayerResource
@@ -16,38 +17,38 @@ public class LclrResource : LayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LclrResource](lclrresource/#constructor)() | Menginisialisasi instance baru dari`LclrResource` kelas. |
-| [LclrResource](lclrresource/#constructor_2)(byte[]) | Menginisialisasi instance baru dari`LclrResource` kelas. |
-| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | Menginisialisasi instance baru dari`LclrResource` kelas. |
+| [LclrResource](lclrresource/#constructor)() | Menginisialisasi instance baru dari kelas `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_2)(byte[]) | Menginisialisasi instance baru dari kelas `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | Menginisialisasi instance baru dari kelas `LclrResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | Mendapat atau mengatur warna layer. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | Mendapatkan atau mengatur warna lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/) { get; } | Mendapat tanda tangan. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengubah Sorotan Warna Lembar Di Aspose.PSD (Pengaturan warna lembar)
+Contoh berikut menunjukkan cara Anda dapat mengubah Sorotan Warna Sheet di Aspose.PSD (pengaturan warna Sheet)
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ Contoh berikut menunjukkan bagaimana Anda dapat mengubah Sorotan Warna Lembar Di
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Dalam warna file penyorotan lapisan ada dalam urutan ini
+// Dalam file, warna sorotan lapisan berada dalam urutan ini
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -67,8 +68,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color digunakan untuk menyorot layer secara visual. 
-// Misalnya Anda dapat memperbarui beberapa lapisan di PSD dan kemudian menyorot dengan warna lapisan yang ingin Anda perhatikan.
+// Warna Sheet Lapisan digunakan untuk menyorot lapisan secara visual.
+// Misalnya Anda dapat memperbarui beberapa lapisan di PSD dan kemudian menyorot dengan warna lapisan yang ingin Anda tarik perhatiannya.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -91,7 +92,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Sumber daya lcrl selalu ditampilkan dalam daftar sumber daya file psd.
+            // Sumber lcrl selalu hadir dalam daftar sumber file PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -100,7 +101,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Kebalikan dari warna style sheet. Pengaturan sorotan warna Lapisan.
+                // Balikkan warna lembar gaya. Pengaturan sorotan warna Lapisan.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -109,10 +110,10 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

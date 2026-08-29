@@ -1,24 +1,25 @@
 ---
-title: PsdImage.LinkedLayersManager
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapatkan pengelola lapisan tertaut.
+title: "PsdImage.LinkedLayersManager"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan manajer lapisan tertaut"
 type: docs
 weight: 210
 url: /id/net/aspose.psd.fileformats.psd/psdimage/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## PsdImage.LinkedLayersManager property
 
-Mendapatkan pengelola lapisan tertaut.
+Mendapatkan manajer lapisan yang ditautkan.
 
 ```csharp
 public LinkedLayersManager LinkedLayersManager { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkedLayersManager](../../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

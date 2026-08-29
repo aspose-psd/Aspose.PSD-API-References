@@ -1,28 +1,29 @@
 ---
-title: Font.Unit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat satuan ukuran untuk iniFont .
+title: "Font.Unit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan satuan ukuran untuk Font ini."
 type: docs
 weight: 100
 url: /id/net/aspose.psd/font/unit/
 ---
+{{< psd/tize >}}
 ## Font.Unit property
 
-Mendapat satuan ukuran untuk ini[`Font`](../) .
+Mendapatkan satuan ukuran untuk [`Font`](../) ini.
 
 ```csharp
 public GraphicsUnit Unit { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`GraphicsUnit`](../../graphicsunit/) yang mewakili satuan ukuran untuk ini[`Font`](../).
+Sebuah [`GraphicsUnit`](../../graphicsunit/) yang mewakili satuan ukuran untuk [`Font`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GuideResource.GuideResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GuideResource konstruktor. Konstruktor default.
+title: "GuideResource.GuideResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor GuideResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/guideresource/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public GuideResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GuideResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

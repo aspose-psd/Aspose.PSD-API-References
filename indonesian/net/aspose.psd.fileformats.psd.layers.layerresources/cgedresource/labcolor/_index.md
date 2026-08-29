@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.LabColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah warna lab digunakan.
+title: "CgEdResource.LabColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "CgEdResource property. Mengambil atau mengatur nilai yang menunjukkan apakah warna lab digunakan"
 type: docs
-weight: 60
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/
 ---
+{{< psd/tize >}}
 ## CgEdResource.LabColor property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [warna lab] digunakan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [lab color] digunakan.
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR`jika digunakan [warna lab]; jika tidak,`PALSU` .
+`true` jika digunakan [lab color]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

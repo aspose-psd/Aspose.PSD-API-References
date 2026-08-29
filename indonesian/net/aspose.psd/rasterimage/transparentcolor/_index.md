@@ -1,24 +1,25 @@
 ---
-title: RasterImage.TransparentColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat warna transparan gambar.
+title: "RasterImage.TransparentColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mengambil warna transparan gambar"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/rasterimage/transparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.TransparentColor property
 
-Mendapat warna transparan gambar.
+Mendapatkan warna transparan gambar.
 
 ```csharp
 public virtual Color TransparentColor { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

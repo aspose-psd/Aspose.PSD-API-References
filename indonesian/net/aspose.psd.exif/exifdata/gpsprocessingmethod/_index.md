@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSProcessingMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel string karakter GPS yang merekam nama metode yang digunakan untuk pencarian lokasi.
+title: "ExifData.GPSProcessingMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur string karakter GPS yang merekam nama metode yang digunakan untuk menemukan lokasi"
 type: docs
 weight: 580
 url: /id/net/aspose.psd.exif/exifdata/gpsprocessingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSProcessingMethod property
 
-Mendapat atau menyetel string karakter GPS yang merekam nama metode yang digunakan untuk pencarian lokasi.
+Mendapatkan atau mengatur string karakter GPS yang merekam nama metode yang digunakan untuk menemukan lokasi.
 
 ```csharp
 public byte[] GPSProcessingMethod { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-String karakter GPS yang merekam nama metode yang digunakan untuk pencarian lokasi.
+String karakter GPS yang merekam nama metode yang digunakan untuk menemukan lokasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

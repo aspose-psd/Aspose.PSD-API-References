@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Blue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantRgb Properti. Mendapat atau menetapkan nilai komponen biru.
+title: "ColorantRgb.Blue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantRgb. Mendapatkan atau mengatur nilai komponen biru"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Blue property
 
-Mendapat atau menetapkan nilai komponen biru.
+Mendapatkan atau mengatur nilai komponen biru.
 
 ```csharp
 public byte Blue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai komponen biru.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantRgb](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class Cache
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Cache kelas. Berisi pengaturan cache.
+title: "Kelas Cache"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Cache. Berisi pengaturan cache"
 type: docs
 weight: 240
 url: /id/net/aspose.psd/cache/
 ---
+{{< psd/tize >}}
 ## Cache class
 
 Berisi pengaturan cache.
@@ -16,23 +17,23 @@ public static class Cache
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [AllocatedDiskBytesCount](../../aspose.psd/cache/allocateddiskbytescount/) { get; } | Mendapat jumlah byte disk yang dialokasikan. |
-| static [AllocatedMemoryBytesCount](../../aspose.psd/cache/allocatedmemorybytescount/) { get; } | Mendapat jumlah byte dalam memori yang dialokasikan. |
-| static [CacheFolder](../../aspose.psd/cache/cachefolder/) { get; set; } | Mendapat atau menyetel folder cache. |
-| static [CacheType](../../aspose.psd/cache/cachetype/) { get; set; } | Mendapat atau menyetel skema cache yang digunakan. |
-| static [ExactReallocateOnly](../../aspose.psd/cache/exactreallocateonly/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah realokasi harus tepat atau tidak. Jika realokasi tidak tepat, kinerjanya harus lebih tinggi. |
-| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache/) { get; set; } | Mendapat atau menyetel ruang disk maksimum yang tersedia untuk cache. Nilai yang ditentukan adalah hitungan megabita. |
-| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache/) { get; set; } | Mendapat atau mengatur memori maksimum yang tersedia untuk cache di memori. Nilai yang ditentukan adalah hitungan megabita. |
+| static [AllocatedDiskBytesCount](../../aspose.psd/cache/allocateddiskbytescount/) { get; } | Mendapatkan jumlah byte disk yang dialokasikan. |
+| static [AllocatedMemoryBytesCount](../../aspose.psd/cache/allocatedmemorybytescount/) { get; } | Mendapatkan jumlah byte memori yang dialokasikan. |
+| static [CacheFolder](../../aspose.psd/cache/cachefolder/) { get; set; } | Mendapatkan atau mengatur folder cache. |
+| static [CacheType](../../aspose.psd/cache/cachetype/) { get; set; } | Mendapatkan atau mengatur skema cache yang digunakan. |
+| static [ExactReallocateOnly](../../aspose.psd/cache/exactreallocateonly/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah alokasi ulang harus tepat atau tidak. Jika alokasi ulang tidak tepat, kinerja seharusnya lebih tinggi. |
+| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache/) { get; set; } | Mendapatkan atau mengatur ruang disk maksimum yang tersedia untuk cache. Nilai yang ditentukan adalah jumlah megabyte. |
+| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache/) { get; set; } | Mendapatkan atau mengatur memori maksimum yang tersedia untuk cache di memori. Nilai yang ditentukan adalah jumlah megabyte. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [SetDefaults](../../aspose.psd/cache/setdefaults/)() | Mengatur`Cache` pengaturan ke default. |
+| static [SetDefaults](../../aspose.psd/cache/setdefaults/)() | Mengatur pengaturan `Cache` ke nilai default. |
 
-### Contoh
+## Contoh
 
 Contoh ini menunjukkan penggunaan Aspose.PSD.Cache
 
@@ -48,14 +49,14 @@ string path = "C:\\temp\\image.psd";
 // Mode otomatis fleksibel dan efisien
 Cache.CacheType = CacheType.Auto;
 
-// Nilai default adalah 0, artinya tidak ada batas atas
-Cache.MaxDiskSpaceForCache = 1073741824; // 1 gigabita
-Cache.MaxMemoryForCache = 1073741824; // 1 gigabita
+// Nilai default adalah 0, yang berarti tidak ada batas atas
+Cache.MaxDiskSpaceForCache = 1073741824; // 1 gigabyte
+Cache.MaxMemoryForCache = 1073741824; // 1 gigabyte
 
-// Tidak disarankan untuk mengubah properti berikut karena dapat sangat memengaruhi kinerja
+// Tidak disarankan mengubah properti berikut karena dapat sangat memengaruhi kinerja
 Cache.ExactReallocateOnly = false;
 
-// Setiap saat Anda dapat memeriksa berapa banyak byte yang saat ini dialokasikan untuk memori atau disk 
+// Kapan saja Anda dapat memeriksa berapa byte yang saat ini dialokasikan untuk memori atau disk
 // cache dengan memeriksa properti berikut
 long l1 = Cache.AllocatedDiskBytesCount;
 long l2 = Cache.AllocatedMemoryBytesCount;
@@ -71,20 +72,20 @@ using (RasterImage image = (RasterImage)Image.Load(path))
 
     image.SavePixels(image.Bounds, pixels);
 
-    // setelah mengeksekusi kode di atas akan dialokasikan 40000 byte dalam memori.
+    // setelah mengeksekusi kode di atas akan dialokasikan 40000 byte di memori.
     long diskBytes = Cache.AllocatedDiskBytesCount;
     long memoryBytes = Cache.AllocatedMemoryBytesCount;
 }
 
 // Properti alokasi dapat digunakan untuk memeriksa apakah semua objek Aspose.PSD telah dibuang dengan benar.
-// Jika Anda lupa memanggil buang pada beberapa objek, nilai cache akan berbeda dari 0.            
+// Jika Anda lupa memanggil dispose pada suatu objek, nilai cache akan berbeda dari 0.
 l1 = Cache.AllocatedDiskBytesCount;
 l2 = Cache.AllocatedMemoryBytesCount;
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

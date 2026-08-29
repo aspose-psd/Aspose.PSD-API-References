@@ -1,27 +1,28 @@
 ---
-title: RdOptimizationError.RdOptimizationError
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RdOptimizationError konstruktor. Menginisialisasi instance baru dariRdOptimizationError kelas.
+title: "RdOptimizationError.RdOptimizationError"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor RdOptimizationError. Menginisialisasi sebuah instance baru dari kelas RdOptimizationError"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions/rdoptimizationerror/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError constructor
 
-Menginisialisasi instance baru dari[`RdOptimizationError`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`RdOptimizationError`](../).
 
 ```csharp
 public RdOptimizationError(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan yang menjelaskan kesalahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RdOptimizationError](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../rdoptimizationerror/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

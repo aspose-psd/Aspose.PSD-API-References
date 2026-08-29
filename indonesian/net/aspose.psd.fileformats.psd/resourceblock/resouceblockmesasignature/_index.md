@@ -1,22 +1,23 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceBlock bidang. Tanda sumber daya dari ImageReady.
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field ResourceBlock. Tanda tangan sumber daya dari ImageReady"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
-Tanda sumber daya dari ImageReady.
+Tanda tangan sumber daya ImageReady.
 
 ```csharp
 public const int ResouceBlockMeSaSignature;
 ```
 
-### Contoh
+## Contoh
 
-Contoh kode berikutnya menunjukkan kemampuan untuk memuat dengan benar dan menyimpan file PSD dengan sumber daya dengan tanda tangan MeSa.
+Contoh kode berikut menunjukkan kemampuan untuk memuat dan menyimpan file PSD dengan sumber daya yang memiliki tanda tangan MeSa secara tepat.
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -40,10 +41,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

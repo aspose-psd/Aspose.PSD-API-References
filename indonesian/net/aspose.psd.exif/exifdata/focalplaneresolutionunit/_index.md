@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneResolutionUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel unit resolusi bidang fokus.
+title: "ExifData.FocalPlaneResolutionUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur unit resolusi bidang fokus"
 type: docs
 weight: 310
 url: /id/net/aspose.psd.exif/exifdata/focalplaneresolutionunit/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneResolutionUnit property
 
-Mendapat atau menyetel unit resolusi bidang fokus.
+Mendapatkan atau mengatur satuan resolusi bidang fokus.
 
 ```csharp
 public ExifUnit FocalPlaneResolutionUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Unit resolusi bidang fokus.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

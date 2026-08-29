@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel pengisi lapisan.
+title: "Layer.Filler"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur pengisi layer"
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-Mendapat atau menyetel pengisi lapisan.
+Mendapatkan atau mengatur pengisi lapisan.
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengisi lapisan.
+Pengisi layer.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

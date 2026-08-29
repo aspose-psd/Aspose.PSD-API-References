@@ -1,14 +1,15 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ResolutionUnit enum. Unit resolusi enum.
+title: "Enum ResolutionUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ResolutionUnit. Enum unit resolusi"
 type: docs
-weight: 5390
+weight: 5890
 url: /id/net/aspose.psd/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-Unit resolusi enum.
+Enum satuan resolusi.
 
 ```csharp
 public enum ResolutionUnit : byte
@@ -16,15 +17,15 @@ public enum ResolutionUnit : byte
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Unit tidak ditentukan |
+| None | `0` | Satuan tidak terdefinisi |
 | Inch | `1` | Satuan inci |
-| Cm | `2` | Satuan metrik sentimeter |
+| Cm | `2` | Satuan sentimeter metrik |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

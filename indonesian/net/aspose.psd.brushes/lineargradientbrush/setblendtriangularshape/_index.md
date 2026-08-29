@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinearGradientBrush metode. Membuat gradien linier dengan warna tengah dan penurunan linier ke satu warna di kedua ujungnya.
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LinearGradientBrush. Membuat gradasi linear dengan warna tengah dan penurunan linear ke satu warna di kedua ujung."
 type: docs
-weight: 50
+weight: 70
 url: /id/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-Membuat gradien linier dengan warna tengah dan penurunan linier ke satu warna di kedua ujungnya.
+Membuat gradien linier dengan warna tengah dan penurunan linier ke satu warna di kedua ujung.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan pusat gradien (titik di mana gradien hanya terdiri dari warna akhir). |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan pusat gradasi (titik di mana gradasi terdiri hanya dari warna akhir). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinearGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-Membuat gradien linier dengan warna tengah dan penurunan linier ke satu warna di kedua ujungnya.
+Membuat gradien linier dengan warna tengah dan penurunan linier ke satu warna di kedua ujung.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan pusat gradien (titik di mana gradien hanya terdiri dari warna akhir). |
-| scale | Single | Nilai dari 0 sampai 1 yang menentukan seberapa cepat warna jatuh dari warna awal ke*focus*(warna akhir) |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan pusat gradasi (titik di mana gradasi terdiri hanya dari warna akhir). |
+| scale | Single | Nilai antara 0 hingga 1 yang menentukan seberapa cepat warna menurun dari warna awal ke *fokus* (warna akhir). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinearGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

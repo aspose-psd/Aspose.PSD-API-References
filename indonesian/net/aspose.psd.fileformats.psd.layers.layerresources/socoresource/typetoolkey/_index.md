@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SoCoResource bidang. Kunci info alat ketik.
+title: "SoCoResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SoCoResource bidang. Kunci info alat tipe"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoCoResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SoCoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

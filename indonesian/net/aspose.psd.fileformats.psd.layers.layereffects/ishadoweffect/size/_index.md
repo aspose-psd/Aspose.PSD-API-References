@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IShadowEffect Properti. Mendapat atau menyetel nilai buram dalam piksel.
+title: "IShadowEffect.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IShadowEffect. Mendapatkan atau mengatur nilai blur dalam piksel"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Size property
 
-Mendapat atau menyetel nilai buram dalam piksel.
+Mendapatkan atau mengatur nilai blur dalam piksel.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

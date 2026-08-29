@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.OutputHighlightLevel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LevelChannel Properti. Mendapat atau menyetel tingkat sorotan keluaran.
+title: "LevelChannel.OutputHighlightLevel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LevelChannel. Mendapatkan atau mengatur tingkat sorotan output"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputHighlightLevel property
 
-Mendapat atau menyetel tingkat sorotan keluaran.
+Mendapatkan atau mengatur tingkat sorotan output.
 
 ```csharp
 public short OutputHighlightLevel { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tingkat sorotan keluaran.
+Tingkat sorotan output.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Level Sorotan Output hanya dapat diatur dalam rentang dari " + (this.OutputShadowLevel + 2) + " hingga 255 |
+| ArgumentOutOfRangeException | Tingkat Sorotan Output hanya dapat diatur dalam rentang dari " + (this.OutputShadowLevel + 2) + " hingga 255 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevelChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

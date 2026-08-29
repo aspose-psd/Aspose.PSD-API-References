@@ -1,26 +1,27 @@
 ---
-title: Layer.IsVisible
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel nilai yang menunjukkan apakah layer terlihat
+title: "Layer.IsVisible"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan terlihat."
 type: docs
-weight: 170
+weight: 180
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/isvisible/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisible property
 
-Mendapat atau menyetel nilai yang menunjukkan apakah layer terlihat
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan terlihat
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika contoh ini terlihat; jika tidak,`PALSU` .
+`true` jika instance ini terlihat; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengubah visibilitas LayerGroup di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat mengubah visibilitas LayerGroup di Aspose.PSD
 
 ```csharp
 [C#]
@@ -28,14 +29,14 @@ Contoh berikut menunjukkan bagaimana Anda dapat mengubah visibilitas LayerGroup 
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// buat perubahan pada nama layer dan simpan
+// lakukan perubahan pada nama lapisan dan simpan
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // Matikan semua yang ada di dalam grup
+        // Matikan semua di dalam grup
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -46,10 +47,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

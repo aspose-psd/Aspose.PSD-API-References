@@ -1,59 +1,60 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Membaca larik nilai byte dari aliran.
+title: "TiffStreamReader.ReadBytes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca array nilai byte dari aliran"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
 ---
+{{< psd/tize >}}
 ## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
-Membaca larik nilai byte dari aliran.
+Membaca sebuah array nilai byte dari aliran.
 
 ```csharp
 public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| array | Byte[] | Array untuk diisi. |
-| arrayIndex | Int32 | Indeks array untuk mulai memberi nilai. |
-| position | Int64 | Posisi aliran untuk dibaca. |
-| count | Int64 | Elemen menghitung untuk membaca. |
+| array | Byte[] | Array yang akan diisi. |
+| arrayIndex | Int32 | Indeks array untuk mulai menempatkan nilai. |
+| posisi | Int64 | Posisi aliran untuk membaca dari. |
+| jumlah | Int64 | Jumlah elemen yang akan dibaca. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Array nilai byte.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReadBytes(long, long) {#readbytes}
 
-Membaca larik nilai byte yang tidak ditandatangani dari aliran.
+Membaca sebuah array nilai byte tak bertanda dari aliran.
 
 ```csharp
 public byte[] ReadBytes(long position, long count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
-| count | Int64 | Elemen dihitung. |
+| posisi | Int64 | Posisi untuk membaca dari. |
+| jumlah | Int64 | Jumlah elemen. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Larik nilai byte yang tidak ditandatangani.
+Array nilai byte tak bertanda.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

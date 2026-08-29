@@ -1,22 +1,23 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ProjectLink metode. Mengembalikan string berisi nilai dalam format XMP.
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ProjectLink metode. Mengembalikan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ Mengembalikan string berisi nilai dalam format XMP.
 | --- | --- |
 | NotImplementedException |  |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ProjectLink](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

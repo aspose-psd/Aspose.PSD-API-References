@@ -1,27 +1,28 @@
 ---
-title: TransparencySupporter.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransparencySupporter Properti. Mendapat atau menyetel opasitas objek. Nilainya harus antara 0 dan 1. Nilai 0 berarti objek terlihat sepenuhnya nilai 1 berarti objek sepenuhnya buram.
+title: "TransparencySupporter.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TransparencySupporter. Mendapatkan atau mengatur opasitas objek. Nilainya harus antara 0 dan 1. Nilai 0 berarti objek sepenuhnya terlihat, nilai 1 berarti objek sepenuhnya tidak tembus."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/transparencysupporter/opacity/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter.Opacity property
 
-Mendapat atau menyetel opasitas objek. Nilainya harus antara 0 dan 1. Nilai 0 berarti objek terlihat sepenuhnya, nilai 1 berarti objek sepenuhnya buram.
+Mengambil atau mengatur opasitas objek. Nilainya harus antara 0 dan 1. Nilai 0 berarti objek sepenuhnya terlihat, nilai 1 berarti objek sepenuhnya tidak tembus.
 
 ```csharp
 public float Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai opasitas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransparencySupporter](../)
-* ruang nama [Aspose.PSD](../../transparencysupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

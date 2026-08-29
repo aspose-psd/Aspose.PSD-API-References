@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ProductMinor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BuildVersionInfo bidang. Versi produk minor.
+title: "BuildVersionInfo.ProductMinor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field BuildVersionInfo. Versi minor produk"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/buildversioninfo/productminor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMinor field
 
-Versi produk minor.
+Versi minor produk.
 
 ```csharp
 public static readonly int ProductMinor;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BuildVersionInfo](../)
-* ruang nama [Aspose.PSD](../../buildversioninfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

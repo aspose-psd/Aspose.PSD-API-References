@@ -1,11 +1,12 @@
 ---
-title: Class CurvesManager
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager kelas. Kelas Dasar untuk mengelola CurvResource
+title: "Kelas CurvesManager"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager. Kelas Dasar untuk mengelola CurvResource"
 type: docs
-weight: 2430
+weight: 2690
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
 Kelas Dasar untuk mengelola CurvResource
@@ -16,19 +17,19 @@ public abstract class CurvesManager
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | Menginisialisasi instance baru dari`CurvesManager` kelas. |
+| [CurvesManager](curvesmanager/)(int) | Menginisialisasi instance baru dari kelas `CurvesManager`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Mendapat jumlah saluran maksimum. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Mendapatkan jumlah kanal maksimum. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

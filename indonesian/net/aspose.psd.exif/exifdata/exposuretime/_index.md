@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureTime
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel waktu pencahayaan.
+title: "ExifData.ExposureTime"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur waktu paparan"
 type: docs
 weight: 230
 url: /id/net/aspose.psd.exif/exifdata/exposuretime/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureTime property
 
-Mendapat atau menyetel waktu pencahayaan.
+Mendapatkan atau mengatur waktu eksposur.
 
 ```csharp
 public TiffRational ExposureTime { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Waktu pencahayaan.
+Waktu paparan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

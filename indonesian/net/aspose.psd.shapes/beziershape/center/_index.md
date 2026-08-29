@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Center
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BezierShape Properti. Mendapatkan pusat bentuk.
+title: "BezierShape.Center"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BezierShape. Mengembalikan pusat bentuk"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.shapes/beziershape/center/
 ---
+{{< psd/tize >}}
 ## BezierShape.Center property
 
 Mendapatkan pusat bentuk.
@@ -14,15 +15,15 @@ Mendapatkan pusat bentuk.
 public override PointF Center { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pusat bentuknya.
+Pusat bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../beziershape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

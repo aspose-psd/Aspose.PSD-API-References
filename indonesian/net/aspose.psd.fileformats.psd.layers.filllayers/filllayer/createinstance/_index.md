@@ -1,30 +1,31 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FillLayer metode. Bangun instance baru dariFillLayer kelas berdasarkan jenis isian.
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FillLayer. Membuat instance baru dari kelas FillLayer berdasarkan tipe isian"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-Bangun instance baru dari[`FillLayer`](../) kelas berdasarkan jenis isian.
+Membuat instance baru dari kelas [`FillLayer`](../) berdasarkan tipe isian.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fillType | FillType | Jenis lapisan pengisi. |
+| fillType | FillType | Tipe lapisan isian. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan instance baru dari[`FillLayer`](../) kelas berdasarkan jenis isian.
+Mengembalikan instance baru dari kelas [`FillLayer`](../) berdasarkan tipe isian.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan cara menambahkan lapisan tipe FillLayer saat runtime.
+Contoh berikut menunjukkan cara menambahkan lapisan tipe FillLayer pada waktu berjalan.
 
 ```csharp
 [C#]
@@ -50,11 +51,11 @@ using (var image = new PsdImage(100, 100))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

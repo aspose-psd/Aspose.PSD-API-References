@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Baca satu nilai ganda dari aliran.
+title: "TiffStreamReader.ReadDouble"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca satu nilai double dari aliran"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDouble method
 
-Baca satu nilai ganda dari aliran.
+Membaca satu nilai double dari aliran.
 
 ```csharp
 public double ReadDouble(long position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
+| posisi | Int64 | Posisi untuk membaca dari. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nilai ganda tunggal.
+Nilai double tunggal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

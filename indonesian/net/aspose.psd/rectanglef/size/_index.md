@@ -1,28 +1,29 @@
 ---
-title: RectangleF.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF Properti. Mendapat atau menyetel ukuran iniRectangleF .
+title: "RectangleF.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleF. Mendapatkan atau mengatur ukuran RectangleF ini"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/rectanglef/size/
 ---
+{{< psd/tize >}}
 ## RectangleF.Size property
 
-Mendapat atau menyetel ukuran ini[`RectangleF`](../) .
+Mendapatkan atau mengatur ukuran [`RectangleF`](../) ini.
 
 ```csharp
 public SizeF Size { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`SizeF`](../../sizef/) yang mewakili lebar dan tinggi ini[`RectangleF`](../) struktur.
+Sebuah [`SizeF`](../../sizef/) yang mewakili lebar dan tinggi struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

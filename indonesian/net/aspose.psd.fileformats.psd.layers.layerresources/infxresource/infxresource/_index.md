@@ -1,56 +1,57 @@
 ---
-title: InfxResource.InfxResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InfxResource konstruktor. Menginisialisasi instance baru dariInfxResource kelas.
+title: "InfxResource.InfxResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor InfxResource. Menginisialisasi sebuah instance baru dari kelas InfxResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`InfxResource`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`InfxResource`](../).
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | jika diatur ke`BENAR` [memadukan elemen interior]. |
+| blendInteriorElements | Boolean | jika diatur ke `true` [blend interior elements]. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [InfxResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-Menginisialisasi instance baru dari[`InfxResource`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`InfxResource`](../).
 
 ```csharp
 public InfxResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [InfxResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`InfxResource`](../) class. Dengan nilai khusus atau tidak diketahui
+Menginisialisasi sebuah instance baru dari kelas [`InfxResource`](../). Dengan nilai khusus atau tidak diketahui
 
 ```csharp
 public InfxResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -58,12 +59,12 @@ public InfxResource(byte[] data)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Nilai Sumber Daya infx tidak valid |
+| ArgumentException | Nilai infx Resource tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [InfxResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

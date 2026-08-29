@@ -1,27 +1,28 @@
 ---
-title: CurveShape.Tension
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurveShape Properti. Mendapat atau menyetel ketegangan kurva.
+title: "CurveShape.Tension"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CurveShape. Mendapatkan atau mengatur tegangan kurva"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
-Mendapat atau menyetel ketegangan kurva.
+Mendapatkan atau mengatur tegangan kurva.
 
 ```csharp
 public float Tension { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ketegangan kurva.
+Tegangan kurva.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurveShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../curveshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

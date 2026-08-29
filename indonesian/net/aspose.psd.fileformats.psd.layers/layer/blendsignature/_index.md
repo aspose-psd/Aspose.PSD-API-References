@@ -1,23 +1,24 @@
 ---
-title: Layer.BlendSignature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer bidang. Mewakili tanda tangan mode campuran.
+title: "Layer.BlendSignature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Layer. Mewakili tanda tangan mode campuran"
 type: docs
-weight: 390
+weight: 410
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-Mewakili tanda tangan mode campuran.
+Mewakili tanda tangan mode pencampuran.
 
 ```csharp
 public const int BlendSignature;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection kelas. Bagian Gambar Raster AI
+title: "Kelas AiRasterImageSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection kelas. Seksi Gambar Raster AI"
 type: docs
-weight: 1280
+weight: 1290
 url: /id/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
 Bagian Gambar Raster AI
@@ -16,21 +17,21 @@ public sealed class AiRasterImageSection
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Mendapatkan sudut. |
-| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Mendapat ketinggian. |
-| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Mendapatkan gambar persegi panjang. |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Mendapat pergeseran kiri bawah. |
-| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Mendapat nama gambar raster. |
+| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Mendapatkan tinggi. |
+| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Mendapatkan persegi panjang gambar. |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Mendapatkan pergeseran kiri bawah. |
+| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Mendapatkan nama gambar raster. |
 | [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Mendapatkan offset X. |
-| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Mendapat offset Y. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Mendapatkan larik piksel warna int. |
-| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Mendapat lebar. |
+| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Mendapatkan offset Y. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Mendapatkan array piksel warna int. |
+| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Mendapatkan lebar. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara memuat pengaturan Gambar Raster di File Format AI.
+Kode berikut menunjukkan cara memuat pengaturan Gambar Raster dalam File Format AI.
 
 ```csharp
 [C#]
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

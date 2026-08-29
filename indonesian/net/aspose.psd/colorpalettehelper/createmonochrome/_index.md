@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.CreateMonochrome
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPaletteHelper metode. Membuat palet warna monokrom yang hanya berisi 2 warna.
+title: "ColorPaletteHelper.CreateMonochrome"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorPaletteHelper. Membuat palet warna monokrom yang hanya berisi 2 warna"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/colorpalettehelper/createmonochrome/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.CreateMonochrome method
 
 Membuat palet warna monokrom yang hanya berisi 2 warna.
@@ -14,15 +15,15 @@ Membuat palet warna monokrom yang hanya berisi 2 warna.
 public static IColorPalette CreateMonochrome()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Palet warna untuk gambar monokrom.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* ruang nama [Aspose.PSD](../../colorpalettehelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ThumbnailResource Properti. Mendapat versi psd minimal yang diperlukan.
+title: "ThumbnailResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ThumbnailResource property. Mendapatkan versi psd minimal yang diperlukan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.resources/thumbnailresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.MinimalVersion property
 
-Mendapat versi psd minimal yang diperlukan.
+Mendapatkan versi psd minimal yang diperlukan.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi psd minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ThumbnailResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

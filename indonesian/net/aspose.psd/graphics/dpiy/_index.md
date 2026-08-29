@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiY
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapatkan resolusi vertikal Aspose.PSD.Graphics. ini
+title: "Graphics.DpiY"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan resolusi vertikal dari Aspose.PSD.Graphics ini"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/graphics/dpiy/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiY property
 
-Mendapatkan resolusi vertikal Aspose.PSD.Graphics. ini
+Mendapatkan resolusi vertikal dari Aspose.PSD.Graphics ini.
 
 ```csharp
 public float DpiY { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai, dalam titik per inci, untuk resolusi vertikal yang didukung oleh Aspose.PSD.Graphics. ini
+Nilai, dalam titik per inci, untuk resolusi vertikal yang didukung oleh Aspose.PSD.Graphics ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

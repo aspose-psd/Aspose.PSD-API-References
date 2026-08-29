@@ -1,24 +1,25 @@
 ---
-title: GdFlResource.Dither
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniGdFlResource adalah gentar.
+title: "GdFlResource.Dither"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GdFlResource properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah GdFlResource ini dither"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Dither property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`GdFlResource`](../) adalah gentar.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`GdFlResource`](../) ini dither.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika gentar; jika tidak,`PALSU` .
+`true` jika dither; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan pemuatan sumber daya GdFlResource.
 
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // Mengedit
+                    // Menyunting
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

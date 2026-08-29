@@ -1,27 +1,28 @@
 ---
-title: Color.IsKnownColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color Properti. Mendapat nilai yang menunjukkan apakah iniColor struktur adalah warna yang telah ditentukan. Warna yang telah ditentukan diwakili oleh elemen dariKnownColor pencacahan.
+title: "Color.IsKnownColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Color. Mendapatkan nilai yang menunjukkan apakah struktur Color ini adalah warna yang telah ditentukan sebelumnya. Warna yang telah ditentukan sebelumnya direpresentasikan oleh elemen-elemen enumerasi KnownColor"
 type: docs
 weight: 1500
 url: /id/net/aspose.psd/color/isknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.IsKnownColor property
 
-Mendapat nilai yang menunjukkan apakah ini[`Color`](../) struktur adalah warna yang telah ditentukan. Warna yang telah ditentukan diwakili oleh elemen dari[`KnownColor`](../../knowncolor/) pencacahan.
+Mendapatkan nilai yang menunjukkan apakah struktur [`Color`](../) ini adalah warna yang telah ditentukan sebelumnya. Warna yang telah ditentukan sebelumnya direpresentasikan oleh elemen-elemen enumerasi [`KnownColor`](../../knowncolor/).
 
 ```csharp
 public bool IsKnownColor { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Benar jika ini[`Color`](../) dibuat dari warna yang telah ditentukan sebelumnya dengan menggunakan salah satu dari[`FromName`](../fromname/) metode atau[`FromKnownColor`](../fromknowncolor/) metode; jika tidak, salah.
+True jika [`Color`](../) ini dibuat dari warna yang telah ditentukan sebelumnya dengan menggunakan metode [`FromName`](../fromname/) atau metode [`FromKnownColor`](../fromknowncolor/); jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

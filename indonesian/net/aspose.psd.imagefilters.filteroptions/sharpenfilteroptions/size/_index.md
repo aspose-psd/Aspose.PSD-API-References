@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SharpenFilterOptions Properti. Mendapat atau menyetel ukuran.
+title: "SharpenFilterOptions.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SharpenFilterOptions properti. Mendapatkan atau mengatur ukuran"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Size property
 
-Mendapat atau menyetel ukuran.
+Mendapatkan atau mengatur ukuran.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SharpenFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

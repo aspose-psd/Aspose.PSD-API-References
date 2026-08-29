@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadULong
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Baca nilai integer yang tidak ditandatangani dari aliran.
+title: "TiffStreamReader.ReadULong"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca nilai integer tak bertanda dari aliran"
 type: docs
 weight: 190
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadULong method
 
-Baca nilai integer yang tidak ditandatangani dari aliran.
+Membaca nilai integer tak bertanda dari aliran.
 
 ```csharp
 public uint ReadULong(long position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
+| posisi | Int64 | Posisi untuk membaca dari. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nilai bilangan bulat tak bertanda.
+Sebuah nilai integer tak bertanda.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

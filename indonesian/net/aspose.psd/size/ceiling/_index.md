@@ -1,32 +1,33 @@
 ---
-title: Size.Ceiling
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Mengonversi yang ditentukanSizeF struktur ke aSize struktur dengan membulatkan nilainilai dariSize struktur ke nilai integer berikutnya yang lebih tinggi.
+title: "Size.Ceiling"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Mengonversi struktur SizeF yang ditentukan menjadi struktur Size dengan membulatkan nilai-nilai struktur Size ke nilai integer berikutnya yang lebih tinggi."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-Mengonversi yang ditentukan[`SizeF`](../../sizef/) struktur ke a[`Size`](../) struktur dengan membulatkan nilai-nilai dari[`Size`](../) struktur ke nilai integer berikutnya yang lebih tinggi.
+Mengonversi struktur [`SizeF`](../../sizef/) yang ditentukan menjadi struktur [`Size`](../) dengan membulatkan nilai-nilai struktur [`Size`](../) ke nilai integer berikutnya yang lebih tinggi.
 
 ```csharp
 public static Size Ceiling(SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | SizeF | Itu[`SizeF`](../../sizef/) struktur untuk dikonversi. |
+| size | SizeF | Struktur [`SizeF`](../../sizef/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Size`](../) struktur metode ini dikonversi ke.
+Struktur [`Size`](../) yang menjadi hasil konversi metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

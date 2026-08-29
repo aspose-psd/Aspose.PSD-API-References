@@ -1,11 +1,12 @@
 ---
-title: LnkeResource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LnkeResource Properti. Mendapatkan kunci sumber daya global Adobe Photoshop.
+title: "LnkeResource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LnkeResource. Mendapatkan kunci sumber daya global Adobe Photoshop"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/
 ---
+{{< psd/tize >}}
 ## LnkeResource.Key property
 
 Mendapatkan kunci sumber daya global Adobe® Photoshop®.
@@ -14,10 +15,10 @@ Mendapatkan kunci sumber daya global Adobe® Photoshop®.
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LnkeResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

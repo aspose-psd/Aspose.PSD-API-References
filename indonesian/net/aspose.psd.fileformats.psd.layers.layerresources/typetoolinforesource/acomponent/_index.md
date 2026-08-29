@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.AComponent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau menyetel komponen.
+title: "TypeToolInfoResource.AComponent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur sebuah komponen"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/acomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.AComponent property
 
-Mendapat atau menyetel komponen.
+Mendapatkan atau mengatur sebuah komponen.
 
 ```csharp
 public short AComponent { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 sebuah komponen.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

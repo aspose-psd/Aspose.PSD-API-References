@@ -1,27 +1,28 @@
 ---
-title: Txt2Resource.GetTextData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Txt2Resource metode. Mendapat rekaman teks dari data sumber daya.
+title: "Txt2Resource.GetTextData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode Txt2Resource. Mengambil catatan teks dari data sumber daya"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.GetTextData method
 
-Mendapat rekaman teks dari data sumber daya.
+Mendapatkan rekaman teks dari data sumber daya.
 
 ```csharp
 public string[] GetTextData()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Array catatan teks
 
-### Lihat juga
+### Lihat Juga
 
 * class [Txt2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Mendapat folder font default.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Mendapatkan folder font default"
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
-Mendapat folder font default.
+Mendapatkan folder font default.
 
 ```csharp
 public static string[] GetDefaultFontsFolders()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan folder sistem
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileCreateSource Properti. Mendapatkan jalur file untuk dibuat.
+title: "FileCreateSource.FilePath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FileCreateSource property. Mendapatkan jalur file untuk dibuat"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
 Mendapatkan jalur file untuk dibuat.
@@ -14,14 +15,14 @@ Mendapatkan jalur file untuk dibuat.
 public string FilePath { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jalur file yang akan dibuat.
+Jalur file untuk dibuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileCreateSource](../)
-* ruang nama [Aspose.PSD.Sources](../../filecreatesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: StreamContainer.op_Explicit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer metode. Melakukan konversi eksplisit dariStreamContainer keStream .
+title: "StreamContainer.op_Explicit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StreamContainer. Melakukan konversi eksplisit dari StreamContainer ke Stream"
 type: docs
 weight: 210
 url: /id/net/aspose.psd/streamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## StreamContainer Explicit operator
 
-Melakukan konversi eksplisit dari[`StreamContainer`](../) keStream .
+Melakukan konversi eksplisit dari [`StreamContainer`](../) ke Stream.
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Hasil konversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

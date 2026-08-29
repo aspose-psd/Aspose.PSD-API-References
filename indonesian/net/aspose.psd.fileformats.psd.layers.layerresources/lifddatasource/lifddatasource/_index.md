@@ -1,48 +1,49 @@
 ---
-title: LiFdDataSource.LiFdDataSource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LiFdDataSource konstruktor. Menginisialisasi instance baru dariLiFdDataSource kelas.
+title: "LiFdDataSource.LiFdDataSource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LiFdDataSource. Menginisialisasi instance baru dari kelas LiFdDataSource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/lifddatasource/
 ---
+{{< psd/tize >}}
 ## LiFdDataSource() {#constructor}
 
-Menginisialisasi instance baru dari[`LiFdDataSource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LiFdDataSource`](../).
 
 ```csharp
 public LiFdDataSource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LiFdDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifddatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LiFdDataSource(int, Guid, string, string, string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`LiFdDataSource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LiFdDataSource`](../).
 
 ```csharp
 public LiFdDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 
     string fileCreator)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | version | Int32 | Versi. |
 | uniqueId | Guid | Pengidentifikasi unik. |
 | originalFileName | String | Nama file asli. |
-| fileType | String | Jenis file. |
+| fileType | String | Tipe file. |
 | fileCreator | String | Pembuat file. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LiFdDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifddatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

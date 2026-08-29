@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearColorMatrix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Menghapus matriks penyesuaian warna untuk kategori default.
+title: "ImageAttributes.ClearColorMatrix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menghapus matriks penyesuaian warna untuk kategori default."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/imageattributes/clearcolormatrix/
 ---
+{{< psd/tize >}}
 ## ClearColorMatrix() {#clearcolormatrix}
 
-Menghapus matriks penyesuaian warna untuk kategori default.
+Membersihkan matriks penyesuaian warna untuk kategori default.
 
 ```csharp
 public void ClearColorMatrix()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorMatrix(ColorAdjustType) {#clearcolormatrix_1}
 
-Menghapus matriks penyesuaian warna untuk kategori tertentu.
+Membersihkan matriks penyesuaian warna untuk kategori yang ditentukan.
 
 ```csharp
 public void ClearColorMatrix(ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana matriks penyesuaian warna dibersihkan. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana matriks penyesuaian warna dihapus. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

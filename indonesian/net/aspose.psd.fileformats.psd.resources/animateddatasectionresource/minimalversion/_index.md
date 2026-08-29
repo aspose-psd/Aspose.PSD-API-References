@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AnimatedDataSectionResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "AnimatedDataSectionResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AnimatedDataSectionResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AnimatedDataSectionResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

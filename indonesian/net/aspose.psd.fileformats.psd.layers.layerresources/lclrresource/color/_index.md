@@ -1,26 +1,27 @@
 ---
-title: LclrResource.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LclrResource Properti. Mendapat atau mengatur warna layer.
+title: "LclrResource.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LclrResource. Mendapatkan atau mengatur warna lapisan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/
 ---
+{{< psd/tize >}}
 ## LclrResource.Color property
 
-Mendapat atau mengatur warna layer.
+Mendapatkan atau mengatur warna lapisan.
 
 ```csharp
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengubah Sorotan Warna Lembar Di Aspose.PSD (Pengaturan warna lembar)
+Contoh berikut menunjukkan cara Anda dapat mengubah Sorotan Warna Sheet di Aspose.PSD (pengaturan warna Sheet)
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Contoh berikut menunjukkan bagaimana Anda dapat mengubah Sorotan Warna Lembar Di
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Dalam warna file penyorotan lapisan ada dalam urutan ini
+// Dalam file, warna sorotan lapisan berada dalam urutan ini
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -40,8 +41,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color digunakan untuk menyorot layer secara visual. 
-// Misalnya Anda dapat memperbarui beberapa lapisan di PSD dan kemudian menyorot dengan warna lapisan yang ingin Anda perhatikan.
+// Warna Sheet Lapisan digunakan untuk menyorot lapisan secara visual.
+// Misalnya Anda dapat memperbarui beberapa lapisan di PSD dan kemudian menyorot dengan warna lapisan yang ingin Anda tarik perhatiannya.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -64,7 +65,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Sumber daya lcrl selalu ditampilkan dalam daftar sumber daya file psd.
+            // Sumber lcrl selalu hadir dalam daftar sumber file PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Kebalikan dari warna style sheet. Pengaturan sorotan warna Lapisan.
+                // Balikkan warna lembar gaya. Pengaturan sorotan warna Lapisan.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -82,11 +83,11 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

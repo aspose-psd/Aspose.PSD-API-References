@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.ResourceRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceRef konstruktor. Konstruktor default.
+title: "ResourceRef.ResourceRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ResourceRef. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.resourceref/resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public ResourceRef()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceRef](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

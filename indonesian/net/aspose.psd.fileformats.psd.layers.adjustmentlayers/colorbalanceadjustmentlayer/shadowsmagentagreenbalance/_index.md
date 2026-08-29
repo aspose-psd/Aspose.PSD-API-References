@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBalanceAdjustmentLayer Properti. Mendapatkan atau menyetel Shadows Magenta Green Balance.
+title: "ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorBalanceAdjustmentLayer. Mendapatkan atau mengatur Keseimbangan Magenta Hijau Bayangan."
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance property
 
-Mendapatkan atau menyetel Shadows Magenta Green Balance.
+Mendapatkan atau mengatur Shadows Magenta Green Balance.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bayangan Magenta Green Balance.
+Keseimbangan Magenta Hijau Bayangan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Magenta Green Balance harus dalam kisaran dari -100 hingga +100. |
+| ArgumentOutOfRangeException | Keseimbangan Magenta Hijau Bayangan harus berada dalam rentang -100 hingga +100. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan untuk ColorBalanceAdjustmentLayer.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

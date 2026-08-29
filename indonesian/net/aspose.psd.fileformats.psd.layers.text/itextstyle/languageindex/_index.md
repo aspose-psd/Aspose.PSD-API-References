@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.LanguageIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapatkan indeks bahasa.
+title: "ITextStyle.LanguageIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Mendapatkan indeks bahasa"
 type: docs
 weight: 190
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.LanguageIndex property
 
 Mendapatkan indeks bahasa.
@@ -14,9 +15,9 @@ Mendapatkan indeks bahasa.
 public int LanguageIndex { get; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari dukungan properti ITextStyle baru.
+Kode berikut menunjukkan dukungan terhadap properti ITextStyle baru.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.TransparencyIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransparencyIndexResource Properti. Mendapat atau menyetel indeks warna transparansi.
+title: "TransparencyIndexResource.TransparencyIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TransparencyIndexResource. Mendapatkan atau mengatur indeks warna transparansi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindex/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.TransparencyIndex property
 
-Mendapat atau menyetel indeks warna transparansi.
+Mendapatkan atau mengatur indeks warna transparansi.
 
 ```csharp
 public short TransparencyIndex { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Indeks warna transparansi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransparencyIndexResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class EvalException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Evalute.EvalException kelas. Pengecualian khusus untuk kesalahan evaluasi
+title: "Kelas EvalException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Evalute.EvalException. Pengecualian khusus untuk kesalahan evaluasi"
 type: docs
-weight: 790
+weight: 800
 url: /id/net/aspose.psd.evalute/evalexception/
 ---
+{{< psd/tize >}}
 ## EvalException class
 
 Pengecualian khusus untuk kesalahan evaluasi
@@ -16,13 +17,13 @@ public class EvalException : Exception
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | Mendapat pesan yang terkait dengan pengecualian ini |
+| override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | Mendapatkan pesan yang terkait dengan pengecualian ini |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../)
 
 

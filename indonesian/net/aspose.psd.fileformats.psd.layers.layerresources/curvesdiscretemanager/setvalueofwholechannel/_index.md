@@ -1,20 +1,21 @@
 ---
-title: CurvesDiscreteManager.SetValueOfWholeChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesDiscreteManager metode. Menetapkan nilai seluruh saluran.
+title: "CurvesDiscreteManager.SetValueOfWholeChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvesDiscreteManager. Mengatur nilai seluruh saluran"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueOfWholeChannel method
 
-Menetapkan nilai seluruh saluran.
+Mengatur nilai seluruh saluran.
 
 ```csharp
 public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
 | channelValue | Byte[] | Nilai saluran. |
@@ -23,12 +24,12 @@ public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Untuk mengatur nilai Whole Channel Anda harus menggunakan array byte dengan panjang = 256 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Untuk mengatur nilai Seluruh Saluran, Anda harus menggunakan array byte dengan panjang = 256 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesDiscreteManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

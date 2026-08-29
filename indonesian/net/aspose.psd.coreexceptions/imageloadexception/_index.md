@@ -1,11 +1,12 @@
 ---
-title: Class ImageLoadException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageLoadException kelas. Pengecualian pemuatan gambar. Terjadi selama pemuatan gambar.
+title: "Kelas ImageLoadException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.ImageLoadException kelas. Pengecualian pemuatan gambar. Terjadi selama pemuatan gambar"
 type: docs
 weight: 620
 url: /id/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
 Pengecualian pemuatan gambar. Terjadi selama pemuatan gambar.
@@ -16,15 +17,15 @@ public class ImageLoadException : ImageException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | Menginisialisasi instance baru dari`ImageLoadException` kelas. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`ImageLoadException` kelas. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `ImageLoadException`. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `ImageLoadException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageException](../imageexception/)
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

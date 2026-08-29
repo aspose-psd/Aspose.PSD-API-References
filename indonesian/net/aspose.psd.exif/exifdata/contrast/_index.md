@@ -1,28 +1,29 @@
 ---
-title: ExifData.Contrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel kontras.
+title: "ExifData.Contrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur kontras"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.exif/exifdata/contrast/
 ---
+{{< psd/tize >}}
 ## ExifData.Contrast property
 
-Mendapat atau menyetel kontras.
+Mendapatkan atau mengatur kontras.
 
 ```csharp
 public ExifContrast Contrast { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kontras.
+Contrast.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifContrast](../../../aspose.psd.exif.enums/exifcontrast/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

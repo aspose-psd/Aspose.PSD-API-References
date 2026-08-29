@@ -1,34 +1,35 @@
 ---
-title: Rectangle.FromLeftTopRightBottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Membuat aRectangle struktur dengan lokasi tepi yang ditentukan.
+title: "Rectangle.FromLeftTopRightBottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Membuat struktur Rectangle dengan lokasi tepi yang ditentukan."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/rectangle/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromLeftTopRightBottom method
 
-Membuat a[`Rectangle`](../) struktur dengan lokasi tepi yang ditentukan.
+Membuat struktur [`Rectangle`](../) dengan lokasi tepi yang ditentukan.
 
 ```csharp
 public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int bottom)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Int32 | Koordinat x sudut kiri atas ini[`Rectangle`](../) struktur. |
-| top | Int32 | Koordinat y sudut kiri atas ini[`Rectangle`](../) struktur. |
-| right | Int32 | Koordinat x dari sudut kanan bawah ini[`Rectangle`](../) struktur. |
-| bottom | Int32 | Koordinat y dari sudut kanan bawah ini[`Rectangle`](../) struktur. |
+| left | Int32 | Koordinat-x dari sudut kiri-atas dari struktur [`Rectangle`](../) ini. |
+| top | Int32 | Koordinat-y dari sudut kiri-atas dari struktur [`Rectangle`](../) ini. |
+| right | Int32 | Koordinat x dari sudut kanan-bawah struktur [`Rectangle`](../) ini. |
+| bottom | Int32 | Koordinat y dari sudut kanan-bawah struktur [`Rectangle`](../) ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang baru[`Rectangle`](../) yang dibuat oleh metode ini.
+`[`Rectangle`](../)` baru yang dibuat oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

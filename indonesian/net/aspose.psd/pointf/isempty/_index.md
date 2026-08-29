@@ -1,27 +1,28 @@
 ---
-title: PointF.IsEmpty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF Properti. Mendapat nilai yang menunjukkan apakah iniPointF kosong.
+title: "PointF.IsEmpty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PointF. Mendapatkan nilai yang menunjukkan apakah PointF ini kosong."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/pointf/isempty/
 ---
+{{< psd/tize >}}
 ## PointF.IsEmpty property
 
-Mendapat nilai yang menunjukkan apakah ini[`PointF`](../) kosong.
+Mendapatkan nilai yang menunjukkan apakah [`PointF`](../) ini kosong.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Benar jika keduanya[`X`](../x/) Dan[`Y`](../y/) adalah 0; jika tidak, salah.
+Benar jika kedua [`X`](../x/) dan [`Y`](../y/) bernilai 0; jika tidak, salah.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

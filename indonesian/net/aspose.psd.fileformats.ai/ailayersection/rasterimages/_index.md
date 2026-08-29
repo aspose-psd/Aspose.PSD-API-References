@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat gambar raster.
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan gambar raster"
 type: docs
-weight: 120
+weight: 140
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
-Mendapat gambar raster.
+Mendapatkan gambar raster.
 
 ```csharp
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Gambar raster.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara memuat pengaturan Gambar Raster di File Format AI.
+Kode berikut menunjukkan cara memuat pengaturan Gambar Raster dalam File Format AI.
 
 ```csharp
 [C#]
@@ -63,11 +64,11 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

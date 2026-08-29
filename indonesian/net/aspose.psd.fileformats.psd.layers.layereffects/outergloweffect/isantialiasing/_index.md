@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsAntiAliasing
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OuterGlowEffect Properti. Mendapatkan atau mengaktifkan efek AntiAliasing
+title: "OuterGlowEffect.IsAntiAliasing"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "OuterGlowEffect property. Mendapatkan atau mengatur efek AntiAliasing yang diaktifkan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsAntiAliasing property
 
-Mendapatkan atau mengaktifkan efek AntiAliasing
+Mendapatkan atau mengatur efek AntiAliasing yang diaktifkan
 
 ```csharp
 public bool IsAntiAliasing { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jarak.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OuterGlowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

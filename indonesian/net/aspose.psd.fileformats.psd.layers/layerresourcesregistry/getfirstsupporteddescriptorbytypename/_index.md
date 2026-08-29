@@ -1,36 +1,37 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResourcesRegistry metode. Mendapatkan deskriptor pertama yang didukung dengan nama jenisnya.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LayerResourcesRegistry. Mendapatkan deskriptor pertama yang didukung berdasarkan nama tipenya."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Mendapatkan deskriptor pertama yang didukung dengan nama jenisnya.
+Mendapatkan deskriptor pertama yang didukung berdasarkan nama tipenya.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string descriptorTypeName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| descriptorTypeName | String | Nama jenis deskriptor. |
+| descriptorTypeName | String | Nama tipe deskriptor. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Deskriptor pembuka pertama yang ditemukan atau null jika deskriptor tersebut tidak ditemukan.
+Deskriptor pembuka pertama yang ditemukan atau null jika tidak ada deskriptor seperti itu ditemukan.
 
-### Perkataan
+## Catatan
 
-Deskriptor pembuka pertama sebenarnya adalah yang terakhir didaftarkan.
+Deskriptor pembuka pertama sebenarnya akan menjadi yang terakhir terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat larik jarak antara perhentian tab dalam satuan yang ditentukan olehPageUnit properti.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mengambil array jarak antara tab stop dalam satuan yang ditentukan oleh properti PageUnit"
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-Mendapat larik jarak antara perhentian tab dalam satuan yang ditentukan oleh[`PageUnit`](../../graphics/pageunit/) properti.
+Mengambil array jarak antara tab stop dalam satuan yang ditentukan oleh properti [`PageUnit`](../../graphics/pageunit/).
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tab berhenti.
+Tab stop.
 
-### Perkataan
+## Catatan
 
-Properti diperkenalkan untuk metode GetTabStops yang dihapus.
+Properti ini diperkenalkan untuk metode GetTabStops yang dihapus.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

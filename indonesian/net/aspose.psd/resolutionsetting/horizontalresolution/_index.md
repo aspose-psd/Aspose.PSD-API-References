@@ -1,23 +1,24 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResolutionSetting Properti. Mendapat atau menyetel resolusi horizontal.
+title: "ResolutionSetting.HorizontalResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResolutionSetting. Mendapatkan atau mengatur resolusi horizontal"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/resolutionsetting/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.HorizontalResolution property
 
-Mendapat atau menyetel resolusi horizontal.
+Mendapatkan atau mengatur resolusi horizontal.
 
 ```csharp
 public double HorizontalResolution { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResolutionSetting](../)
-* ruang nama [Aspose.PSD](../../resolutionsetting/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

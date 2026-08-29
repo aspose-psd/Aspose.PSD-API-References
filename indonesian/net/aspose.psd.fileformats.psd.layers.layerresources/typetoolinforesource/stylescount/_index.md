@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.StylesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat hitungan gaya.
+title: "TypeToolInfoResource.StylesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan jumlah gaya"
 type: docs
-weight: 220
+weight: 190
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.StylesCount property
 
-Mendapat hitungan gaya.
+Mendapatkan jumlah gaya.
 
 ```csharp
 public short StylesCount { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

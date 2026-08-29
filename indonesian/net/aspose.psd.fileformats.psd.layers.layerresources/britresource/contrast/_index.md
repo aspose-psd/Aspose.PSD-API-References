@@ -1,27 +1,28 @@
 ---
-title: BritResource.Contrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource Properti. Mendapat atau menyetel kontras.
+title: "BritResource.Contrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BritResource. Mendapatkan atau mengatur kontras"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/
 ---
+{{< psd/tize >}}
 ## BritResource.Contrast property
 
-Mendapat atau menyetel kontras.
+Mendapatkan atau mengatur kontras.
 
 ```csharp
 public short Contrast { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kontras.
+Contrast.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

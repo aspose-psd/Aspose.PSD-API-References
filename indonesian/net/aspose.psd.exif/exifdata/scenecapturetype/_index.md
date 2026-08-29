@@ -1,28 +1,29 @@
 ---
-title: ExifData.SceneCaptureType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel jenis tangkapan layar.
+title: "ExifData.SceneCaptureType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur tipe penangkapan adegan"
 type: docs
 weight: 900
 url: /id/net/aspose.psd.exif/exifdata/scenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneCaptureType property
 
-Mendapat atau menyetel jenis tangkapan layar.
+Mendapatkan atau mengatur tipe penangkapan adegan.
 
 ```csharp
 public ExifSceneCaptureType SceneCaptureType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis pengambilan adegan.
+Tipe penangkapan adegan.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifSceneCaptureType](../../../aspose.psd.exif.enums/exifscenecapturetype/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

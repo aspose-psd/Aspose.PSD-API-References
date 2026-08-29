@@ -1,29 +1,30 @@
 ---
-title: CustomLineCap.GetStrokeCaps
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustomLineCap metode. Mendapatkan batas yang digunakan untuk memulai dan mengakhiri baris yang membentuk batas khusus ini.
+title: "CustomLineCap.GetStrokeCaps"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CustomLineCap. Mendapatkan caps yang digunakan untuk memulai dan mengakhiri garis yang membentuk custom cap ini."
 type: docs
 weight: 80
 url: /id/net/aspose.psd/customlinecap/getstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.GetStrokeCaps method
 
-Mendapatkan batas yang digunakan untuk memulai dan mengakhiri baris yang membentuk batas khusus ini.
+Mendapatkan penutup (cap) yang digunakan untuk memulai dan mengakhiri garis yang membentuk penutup khusus ini.
 
 ```csharp
 public void GetStrokeCaps(out LineCap startCap, out LineCap endCap)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| startCap | LineCap& | Itu[`LineCap`](../../linecap/) pencacahan digunakan pada awal baris dalam batas ini. |
-| endCap | LineCap& | Itu[`LineCap`](../../linecap/) pencacahan digunakan pada akhir baris dalam batas ini. |
+| startCap | LineCap& | Enumerasi [`LineCap`](../../linecap/) yang digunakan di awal garis dalam penutup ini. |
+| endCap | LineCap& | Enumerasi [`LineCap`](../../linecap/) yang digunakan di akhir garis dalam penutup ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* ruang nama [Aspose.PSD](../../customlinecap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

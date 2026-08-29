@@ -1,28 +1,29 @@
 ---
-title: ExifData.MakerNoteData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat data catatan pembuat.
+title: "ExifData.MakerNoteData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan data catatan pembuat"
 type: docs
 weight: 780
 url: /id/net/aspose.psd.exif/exifdata/makernotedata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteData property
 
-Mendapat data catatan pembuat.
+Mendapatkan data catatan pembuat.
 
 ```csharp
 public TiffDataType[] MakerNoteData { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Data catatan pembuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

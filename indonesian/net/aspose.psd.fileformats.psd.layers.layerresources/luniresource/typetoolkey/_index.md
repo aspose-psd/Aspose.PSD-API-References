@@ -1,23 +1,24 @@
 ---
-title: LuniResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LuniResource bidang. Kunci info alat ketik.
+title: "LuniResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field LuniResource. Kunci info alat tipe"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LuniResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LuniResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

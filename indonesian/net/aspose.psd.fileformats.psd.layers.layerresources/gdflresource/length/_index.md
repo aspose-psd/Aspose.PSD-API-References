@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "GdFlResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GdFlResource property. Mendapatkan panjang sumber daya lapisan dalam byte"
 type: docs
-weight: 120
+weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

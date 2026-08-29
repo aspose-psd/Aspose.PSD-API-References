@@ -1,55 +1,56 @@
 ---
-title: XmpMeta.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMeta metode. Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama.
+title: "XmpMeta.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpMeta. Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp/xmpmeta/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpMeta) {#equals_1}
 
-Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama.
+Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama.
 
 ```csharp
 public bool Equals(XmpMeta other)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | other | XmpMeta | Objek untuk dibandingkan dengan objek ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-true jika objek saat ini sama dengan*other* parameter; jika tidak, false.
+true jika objek saat ini sama dengan parameter *other*; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMeta](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpmeta/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_2}
 
-Menentukan apakah yang ditentukanObject , sama dengan instance ini.
+Menentukan apakah Object yang ditentukan, sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object other)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| other | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMeta](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpmeta/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

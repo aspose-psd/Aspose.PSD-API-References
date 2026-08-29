@@ -1,23 +1,24 @@
 ---
-title: Matrix.M21
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix Properti. Mendapat elemen matriks pada baris kedua kolom pertama. Merupakan geser sepanjang sumbu X.
+title: "Matrix.M21"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Matrix. Mendapatkan elemen matriks pada baris kedua kolom pertama. Mewakili geseran sepanjang sumbu X"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/matrix/m21/
 ---
+{{< psd/tize >}}
 ## Matrix.M21 property
 
-Mendapat elemen matriks pada baris kedua kolom pertama. Merupakan geser sepanjang sumbu X.
+Mendapatkan elemen matriks pada baris kedua kolom pertama. Mewakili geseran sepanjang sumbu X.
 
 ```csharp
 public float M21 { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

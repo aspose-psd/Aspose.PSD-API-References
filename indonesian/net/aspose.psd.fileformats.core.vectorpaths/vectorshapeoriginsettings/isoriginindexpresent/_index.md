@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginIndexPresent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeOriginSettings Properti. Mendapat nilai yang menunjukkan apakah instance ini memiliki properti indeks asal.
+title: "VectorShapeOriginSettings.IsOriginIndexPresent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeOriginSettings. Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti indeks asal"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginIndexPresent property
 
-Mendapat nilai yang menunjukkan apakah instance ini memiliki properti indeks asal.
+Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti origin index.
 
 ```csharp
 public bool IsOriginIndexPresent { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki properti indeks asal; jika tidak,`PALSU` .
+`true` jika instance ini memiliki properti indeks asal; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeOriginSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

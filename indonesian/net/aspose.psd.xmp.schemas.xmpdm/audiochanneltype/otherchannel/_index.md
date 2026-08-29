@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.OtherChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioChannelType Properti. Mendapat saluran lain.
+title: "AudioChannelType.OtherChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioChannelType properti. Mendapatkan saluran lain"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.OtherChannel property
 
-Mendapat saluran lain.
+Mendapatkan saluran lain.
 
 ```csharp
 public static AudioChannelType OtherChannel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Saluran lainnya.
+Saluran lain.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioChannelType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeTranslation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix bidang. Suatu translasi memindahkan koordinat dengan jumlah konstan di x dan y tanpa mengubah panjang atau sudut vektor.
+title: "Matrix.TypeTranslation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Matrix. Translasi memindahkan koordinat sebesar nilai konstan pada x dan y tanpa mengubah panjang atau sudut vektor."
 type: docs
 weight: 280
 url: /id/net/aspose.psd/matrix/typetranslation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeTranslation field
 
-Suatu translasi memindahkan koordinat dengan jumlah konstan di x dan y tanpa mengubah panjang atau sudut vektor.
+Translasi memindahkan koordinat sebesar nilai konstan pada sumbu x dan y tanpa mengubah panjang atau sudut vektor.
 
 ```csharp
 public const int TypeTranslation;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum JustificationMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.JustificationMode enum. Mode perataan teks.
+title: "Enum JustificationMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. Mode perataan teks"
 type: docs
-weight: 1650
+weight: 1690
 url: /id/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
 Mode perataan teks.
@@ -16,15 +17,15 @@ public enum JustificationMode
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Left | `0` | Teks rata kiri. |
-| Right | `1` | Teks rata kanan. |
-| Center | `2` | Teks tengah. |
+| Left | `0` | Teks rata kiri. Dalam mode kiri-ke-kanan, posisi Left adalah Left. Dalam mode kanan-ke-kiri, posisi Left adalah Right. |
+| Right | `1` | Teks rata kanan. Dalam mode kiri-ke-kanan, posisi Right adalah Right. Dalam mode kanan-ke-kiri, posisi Right adalah Left. |
+| Center | `2` | Teks rata tengah. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan enum JustificationMode untuk menyetel perataan teks untuk bagian teks.
+Kode berikut menunjukkan dukungan enum JustificationMode untuk mengatur perataan teks pada bagian teks.
 
 ```csharp
 [C#]
@@ -55,9 +56,9 @@ using (var image = (PsdImage) Image.Load(src))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

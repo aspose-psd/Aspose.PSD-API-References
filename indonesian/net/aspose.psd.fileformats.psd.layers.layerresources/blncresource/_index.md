@@ -1,14 +1,15 @@
 ---
-title: Class BlncResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource kelas. kelas BlncResource adalah sumber dari Lapisan Penyesuaian Warna.
+title: "Kelas BlncResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource. Kelas BlncResource adalah sumber daya dari Lapisan Penyesuaian Warna"
 type: docs
-weight: 2310
+weight: 2570
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource class
 
-kelas BlncResource adalah sumber dari Lapisan Penyesuaian Warna.
+Kelas BlncResource adalah sumber daya dari Lapisan Penyesuaian Warna.
 
 ```csharp
 public class BlncResource : AdjustmentLayerResource
@@ -16,47 +17,47 @@ public class BlncResource : AdjustmentLayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BlncResource](blncresource/)() | Menginisialisasi instance baru dari`BlncResource` kelas. |
+| [BlncResource](blncresource/)() | Menginisialisasi sebuah instance baru dari kelas `BlncResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Mendapat atau mengatur Sorotan Cyan Red Balance. |
-| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Mendapatkan atau menyetel Sorotan Magenta Green Balance. |
-| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Mendapatkan atau menyetel Sorotan Kuning Biru Keseimbangan. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Mendapatkan atau mengatur Highlights Cyan Red Balance. |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Mendapatkan atau mengatur Highlights Magenta Green Balance. |
+| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Mendapatkan atau mengatur Highlights Yellow Blue Balance. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Mendapatkan atau menyetel Midtones Cyan Red Balance. |
-| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Mendapatkan atau menyetel Midtones Magenta Green Balance. |
-| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Mendapat atau menyetel Midtones Yellow Blue Balance. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah ini`BlncResource` mempertahankan luminositas. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion/) { get; } | Mendapatkan versi PSD. |
-| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Mendapatkan atau menyetel Shadows Cyan Red Balance. |
-| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Mendapatkan atau menyetel Shadows Magenta Green Balance. |
-| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Mendapatkan atau mengatur Shadows Yellow Blue Balance. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Mendapat tanda tangan. |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Mendapatkan atau mengatur Midtones Cyan Red Balance. |
+| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Mendapatkan atau mengatur Midtones Magenta Green Balance. |
+| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Mendapatkan atau mengatur Midtones Yellow Blue Balance. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah `BlncResource` ini mempertahankan luminositas. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Mendapatkan atau mengatur Shadows Cyan Red Balance. |
+| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Mendapatkan atau mengatur Shadows Magenta Green Balance. |
+| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Mendapatkan atau mengatur Keseimbangan Bayangan Kuning Biru. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | Menyimpan sumber daya ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Kunci info alat jenis. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

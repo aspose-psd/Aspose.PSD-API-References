@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.ImageDescription
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel deskripsi gambar.
+title: "JpegExifData.ImageDescription"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur deskripsi gambar"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.exif/jpegexifdata/imagedescription/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageDescription property
 
-Mendapat atau menyetel deskripsi gambar.
+Mendapatkan atau mengatur deskripsi gambar.
 
 ```csharp
 public string ImageDescription { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Deskripsi gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

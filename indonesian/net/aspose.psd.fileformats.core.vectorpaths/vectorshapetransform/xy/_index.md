@@ -1,26 +1,27 @@
 ---
-title: VectorShapeTransform.Xy
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeTransform Properti. Mendapat atau menetapkan nilai XY.
+title: "VectorShapeTransform.Xy"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorShapeTransform properti. Mendapatkan atau mengatur nilai XY"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/xy/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform.Xy property
 
-Mendapat atau menetapkan nilai XY.
+Mendapatkan atau mengatur nilai XY.
 
 ```csharp
 public double Xy { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai XY.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk mengubah ukuran layer bentuk yang berisi jalur vektor.
+Kode berikut menunjukkan kemampuan untuk mengubah ukuran lapisan bentuk yang berisi jalur vektor.
 
 ```csharp
 [C#]
@@ -42,13 +43,13 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-Contoh ini menunjukkan cara mendapatkan dan mengatur properti Transform dan OriginBoxCorners baru dari ShapeOriginSettings di sumber daya Vogk dari FillLayer di file PSD.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti Transform dan OriginBoxCorners baru dari ShapeOriginSettings dalam sumber daya Vogt dari FillLayer di file PSD.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan cara mendapatkan dan menyetel properti Transform dan OriginBoxCorners baru
-// dari ShapeOriginSettings di sumber daya Vogk dari FillLayer di file PSD
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti Transform dan OriginBoxCorners baru
+// dari ShapeOriginSettings dalam sumber daya Vogk dari FillLayer dalam file PSD
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
 
@@ -60,11 +61,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Menegaskan setelah membaca
+    // Pastikan setelah membaca
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -77,7 +78,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // Menegaskan properti baru
+    // Pastikan properti baru
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -95,7 +96,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(2.9000000000000004d, setting.OriginBoxCorners[6]);
     AssertAreEqual(22.400000000000002d, setting.OriginBoxCorners[7]);
 
-    // Tetapkan properti baru
+    // Atur properti baru
     originalSetting = resource.ShapeOriginSettings[0];
     originalSetting.Transform.Tx = 0.2d;
     originalSetting.Transform.Ty = 0.3d;
@@ -113,11 +114,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Tegaskan bahwa properti disimpan dan dimuat dengan benar 
+    // Pastikan bahwa properti disimpan dan dimuat dengan benar
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -144,7 +145,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -187,10 +188,10 @@ void AssertAreEqual(object actual, object expected)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeTransform](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapetransform/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

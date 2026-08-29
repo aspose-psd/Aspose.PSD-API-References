@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.RedMask
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalLayerMaskInfo Properti. Mendapat atau menyetel topeng merah.
+title: "GlobalLayerMaskInfo.RedMask"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalLayerMaskInfo. Mendapatkan atau mengatur masker merah"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.RedMask property
 
-Mendapat atau menyetel topeng merah.
+Mendapatkan atau mengatur masker merah.
 
 ```csharp
 public short RedMask { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Topeng merah.
+Masker merah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalLayerMaskInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

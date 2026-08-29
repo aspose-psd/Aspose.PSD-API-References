@@ -1,11 +1,12 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mengubah ukuran tinggi secara proporsional.
+title: "Image.ResizeHeightProportionally"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mengubah ukuran tinggi secara proporsional"
 type: docs
-weight: 200
+weight: 210
 url: /id/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
 Mengubah ukuran tinggi secara proporsional.
@@ -14,15 +15,15 @@ Mengubah ukuran tinggi secara proporsional.
 public void ResizeHeightProportionally(int newHeight)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newHeight | Int32 | Ketinggian baru. |
+| newHeight | Int32 | Tinggi baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ Mengubah ukuran tinggi secara proporsional.
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newHeight | Int32 | Ketinggian baru. |
+| newHeight | Int32 | Tinggi baru. |
 | resizeType | ResizeType | Jenis pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ Mengubah ukuran tinggi secara proporsional.
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newHeight | Int32 | Ketinggian baru. |
-| settings | ImageResizeSettings | Pengaturan pengubahan ukuran gambar. |
+| newHeight | Int32 | Tinggi baru. |
+| pengaturan | ImageResizeSettings | Pengaturan pengubahan ukuran gambar. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

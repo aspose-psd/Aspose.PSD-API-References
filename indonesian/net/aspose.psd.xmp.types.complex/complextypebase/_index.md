@@ -1,14 +1,15 @@
 ---
-title: Class ComplexTypeBase
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase kelas. Merupakan abstraksi dasar untuk tipe nilai Kompleks XMP.
+title: "Class ComplexTypeBase"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase class. Mewakili abstraksi dasar untuk tipe nilai XMP Complex"
 type: docs
-weight: 6050
+weight: 6550
 url: /id/net/aspose.psd.xmp.types.complex/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase class
 
-Merupakan abstraksi dasar untuk tipe nilai Kompleks XMP.
+Mewakili abstraksi dasar untuk tipe nilai Kompleks XMP.
 
 ```csharp
 public class ComplexTypeBase : XmpTypeBase
@@ -16,31 +17,31 @@ public class ComplexTypeBase : XmpTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ComplexTypeBase](complextypebase/)(string, string) | Menginisialisasi instance baru dari`ComplexTypeBase` kelas. |
+| [ComplexTypeBase](complextypebase/)(string, string) | Menginisialisasi sebuah instance baru dari kelas `ComplexTypeBase`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Mendapatkan URI namespace default. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan awalan. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan prefiks. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Perkataan
+## Catatan
 
-Lihat selengkapnya: Spesifikasi XMP Bagian 2, Bab 1.2.2
+Lihat lebih lanjut: XMP Specification Part 2, Chapter 1.2.2
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../)
 
 

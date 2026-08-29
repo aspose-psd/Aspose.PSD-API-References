@@ -1,27 +1,28 @@
 ---
-title: SizeF.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF Properti. Mendapat atau menyetel komponen horizontal iniSizeF .
+title: "SizeF.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SizeF. Mendapatkan atau mengatur komponen horizontal dari SizeF ini."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-Mendapat atau menyetel komponen horizontal ini[`SizeF`](../) .
+Mendapatkan atau mengatur komponen horizontal dari [`SizeF`](../) ini.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Komponen horisontal ini[`SizeF`](../), biasanya diukur dalam piksel.
+Komponen horizontal dari [`SizeF`](../), biasanya diukur dalam piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

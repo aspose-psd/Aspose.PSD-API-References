@@ -1,29 +1,30 @@
 ---
-title: TypeToolInfoResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource metode. Menyimpan wadah aliran yang ditentukan.
+title: "TypeToolInfoResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TypeToolInfoResource. Menyimpan kontainer aliran yang ditentukan"
 type: docs
-weight: 270
+weight: 240
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Save method
 
-Menyimpan wadah aliran yang ditentukan.
+Menyimpan kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolStyleInfo Properti. Mendapat atau menetapkan nilai pergeseran dasar.
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolStyleInfo. Mendapatkan atau mengatur nilai pergeseran dasar"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
-Mendapat atau menetapkan nilai pergeseran dasar.
+Mendapatkan atau mengatur nilai pergeseran dasar.
 
 ```csharp
 public int BaseShiftValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai pergeseran dasar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolStyleInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum StrokePosition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition enum. Pengaturan posisi mengontrol perataan goresan Anda ke lapisan yang diterapkan diStrokeEffect .
+title: "Enum StrokePosition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition. Pengaturan posisi mengontrol penyelarasan goresan Anda ke lapisan tempat diterapkan dalam StrokeEffect"
 type: docs
-weight: 2200
+weight: 2400
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
+{{< psd/tize >}}
 ## StrokePosition enumeration
 
-Pengaturan posisi mengontrol perataan goresan Anda ke lapisan yang diterapkan di[`StrokeEffect`](../strokeeffect/) .
+Pengaturan posisi mengontrol penyelarasan goresan Anda ke lapisan tempat diterapkan dalam [`StrokeEffect`](../strokeeffect/).
 
 ```csharp
 public enum StrokePosition : short
@@ -16,15 +17,15 @@ public enum StrokePosition : short
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Inside | `0` | Goresan akan dibuat dari tepi bentuk dan tumbuh ke dalam, ke tengah objek. |
-| Center | `1` | Goresan akan dibuat dari tepi bentuk dan tumbuh ke dalam dan ke luar. |
-| Outside | `2` | Goresan akan dibuat dari tepi bentuk dan akan melebar keluar, menjauh dari objek. |
+| Inside | `0` | Goresan akan dibuat dari tepi bentuk dan tumbuh ke dalam, menuju pusat objek. |
+| Center | `1` | Goresan akan dibuat dari tepi bentuk dan tumbuh baik ke dalam maupun ke luar. |
+| Outside | `2` | Goresan akan dibuat dari tepi bentuk dan akan tumbuh ke luar, menjauh dari objek. |
 
-### Contoh
+## Contoh
 
-Contoh ini mendemonstrasikan kemampuan untuk menambahkan efek goresan dengan berbagai jenis isian seperti Warna, Gradien, atau Pola.
+Contoh ini menunjukkan kemampuan menambahkan efek goresan dengan berbagai jenis isi seperti Warna, Gradien, atau Pola.
 
 ```csharp
 [C#]
@@ -36,28 +37,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Menambahkan isian Warna, pada posisi Di dalam
+    // 1. Menambahkan isi Warna, pada posisi Dalam
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Menambahkan isian Warna, pada posisi Luar
+    // 2. Menambahkan isi Warna, pada posisi Luar
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Menambahkan isian Warna, di posisi Tengah
+    // 3. Menambahkan isi Warna, pada posisi Tengah
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Menambahkan Gradient fill, pada posisi Inside
+    // 4. Menambahkan isi Gradien, pada posisi Dalam
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Menambahkan pengisian Gradien, pada posisi Luar
+    // 5. Menambahkan isi Gradien, pada posisi Luar
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Menambahkan pengisian Gradien, di posisi Tengah
+    // 6. Menambahkan isi Gradien, pada posisi Tengah
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -81,21 +82,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Menambahkan isian Pola, pada posisi Di dalam
+    // 7. Menambahkan isi Pola, pada posisi Dalam
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Menambahkan isian Pola, pada posisi Luar
+    // 8. Menambahkan isi Pola, pada posisi Luar
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Menambahkan isian Pola, di posisi Tengah
+    // 9. Menambahkan isi Pola, pada posisi Tengah
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -106,9 +107,9 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTag
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions metode. Menambahkan tag baru.
+title: "TiffOptions.AddTag"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions metode. Menambahkan tag baru"
 type: docs
-weight: 700
+weight: 710
 url: /id/net/aspose.psd.imageoptions/tiffoptions/addtag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTag method
 
 Menambahkan tag baru.
@@ -14,15 +15,15 @@ Menambahkan tag baru.
 public void AddTag(TiffDataType tagToAdd)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| tagToAdd | TiffDataType | Tag untuk ditambahkan. |
+| tagToAdd | TiffDataType | Tag yang akan ditambahkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

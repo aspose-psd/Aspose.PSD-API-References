@@ -1,28 +1,29 @@
 ---
-title: BezierShape.Bounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BezierShape Properti. Mendapat batas objek.
+title: "BezierShape.Bounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BezierShape. Mendapatkan batas objek"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.shapes/beziershape/bounds/
 ---
+{{< psd/tize >}}
 ## BezierShape.Bounds property
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Batas objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [BezierShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../beziershape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

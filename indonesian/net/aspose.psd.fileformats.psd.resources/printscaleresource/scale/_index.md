@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintScaleResource Properti. Mendapat atau menyetel skala.
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PrintScaleResource. Mendapatkan atau mengatur skala"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
-Mendapat atau menyetel skala.
+Mendapatkan atau mengatur skala.
 
 ```csharp
 public float Scale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Skala.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintScaleResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

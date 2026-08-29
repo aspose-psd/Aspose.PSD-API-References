@@ -1,14 +1,15 @@
 ---
-title: Class LayerResourcesRegistry
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry kelas. Menentukan registri sumber daya lapisan untuk pemuatan file PSD.
+title: "Kelas LayerResourcesRegistry"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry kelas. Menentukan registri sumber daya lapisan untuk pemuatan file PSD"
 type: docs
-weight: 3390
+weight: 3790
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry class
 
-Menentukan registri sumber daya lapisan untuk pemuatan file PSD.
+Mendefinisikan registri sumber daya lapisan untuk pemuatan file PSD.
 
 ```csharp
 public static class LayerResourcesRegistry
@@ -16,23 +17,23 @@ public static class LayerResourcesRegistry
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/) { get; } | Mendapat deskriptor terdaftar. |
+| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/) { get; } | Mendapatkan deskriptor yang terdaftar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/)(Stream, int) | Mendapat deskriptor pembuka pertama yang didukung. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Mendapatkan deskriptor pertama yang didukung dengan nama jenisnya. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Banyak[`LayerResource`](../layerresource/) menggunakan pembuka pertama yang ditemukan cocok untuk yang ditentukan*stream* . |
+| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/)(Stream, int) | Mendapatkan deskriptor pembuka pertama yang didukung. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Mendapatkan deskriptor pertama yang didukung berdasarkan nama tipenya. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Memuat [`LayerResource`](../layerresource/) menggunakan pembuka pertama yang ditemukan yang cocok untuk *stream* yang ditentukan. |
 | static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener/)(ILayerResourceLoader) | Mendaftarkan pembuka. |
-| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/)(ILayerResourceLoader) | Batalkan pendaftaran pembuka. |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/)(ILayerResourceLoader) | Membatalkan pendaftaran pembuka. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

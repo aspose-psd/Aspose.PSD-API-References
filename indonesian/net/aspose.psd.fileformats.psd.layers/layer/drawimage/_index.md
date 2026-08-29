@@ -1,36 +1,37 @@
 ---
-title: Layer.DrawImage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer metode. Menggambar gambar pada layer.
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Layer. Menggambar gambar pada lapisan."
 type: docs
-weight: 340
+weight: 360
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
-Menggambar gambar pada layer.
+Menggambar gambar pada lapisan.
 
 ```csharp
 public void DrawImage(Point location, RasterImage image)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| location | Point | Lokasinya. |
-| image | RasterImage | Foto. |
+| lokasi | Point | Lokasi. |
+| gambar | RasterImage | Gambar. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Lokasi harus bukan negatif |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Lokasi harus tidak negatif. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

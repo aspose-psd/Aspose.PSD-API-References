@@ -1,27 +1,28 @@
 ---
-title: Time.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Time Properti. Mendapat atau menetapkan nilai waktu dalam skala yang ditentukan.
+title: "Time.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Time. Mendapatkan atau mengatur nilai waktu dalam skala yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/time/value/
 ---
+{{< psd/tize >}}
 ## Time.Value property
 
-Mendapat atau menetapkan nilai waktu dalam skala yang ditentukan.
+Mendapatkan atau mengatur nilai waktu dalam skala yang ditentukan.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai waktu dalam skala yang ditentukan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Time](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

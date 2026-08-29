@@ -1,27 +1,28 @@
 ---
-title: StrokeEffect.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StrokeEffect Properti. Mendapat atau mengatur opacity.
+title: "StrokeEffect.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StrokeEffect property. Mendapatkan atau mengatur opasitas"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Opacity property
 
-Mendapat atau mengatur opacity.
+Mendapatkan atau mengatur opasitas.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opasitas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StrokeEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

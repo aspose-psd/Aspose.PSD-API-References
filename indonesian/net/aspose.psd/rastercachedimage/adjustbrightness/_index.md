@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.AdjustBrightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Menyesuaikan kecerahan untuk gambar.
+title: "RasterCachedImage.AdjustBrightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RasterCachedImage metode. Penyesuaian kecerahan untuk gambar"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/rastercachedimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustBrightness method
 
-Menyesuaikan kecerahan untuk gambar.
+Penyesuaian kecerahan untuk gambar.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brightness | Int32 | Nilai kecerahan. |
+| kecerahan | Int32 | Nilai kecerahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

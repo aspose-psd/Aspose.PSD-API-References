@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer metode. Menyimpan menyalin data aliran ke aliran yang ditentukan.
+title: "SplitStreamContainer.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SplitStreamContainer. Menyimpan salinan data aliran ke aliran yang ditentukan."
 type: docs
 weight: 130
 url: /id/net/aspose.psd/splitstreamcontainer/save/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Save method
 
 Menyimpan (menyalin) data aliran ke aliran yang ditentukan.
@@ -14,16 +15,16 @@ Menyimpan (menyalin) data aliran ke aliran yang ditentukan.
 public override void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | destinationStream | Stream | Aliran untuk menyimpan data. |
-| bufferSize | Int32 | Ukuran penyangga. Secara default!:ReadWriteBytesCount nilai digunakan. |
-| length | Int64 | Panjang aliran data yang akan disalin. Secara default panjang diatur ke[`Length`](../length/) nilai. |
+| bufferSize | Int32 | Ukuran buffer. Secara default nilai !:ReadWriteBytesCount digunakan. |
+| length | Int64 | Panjang data aliran yang akan disalin. Secara default panjang diatur ke nilai [`Length`](../length/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

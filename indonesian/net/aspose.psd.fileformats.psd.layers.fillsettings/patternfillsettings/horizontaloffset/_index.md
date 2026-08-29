@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.HorizontalOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau menyetel offset horizontal.
+title: "PatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PatternFillSettings properti. Mendapatkan atau mengatur offset horizontal"
 type: docs
-weight: 40
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.HorizontalOffset property
 
-Mendapat atau menyetel offset horizontal.
+Mendapatkan atau mengatur offset horizontal.
 
 ```csharp
 public int HorizontalOffset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset horizontal.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari pengeditan Fill Layer Pattern.
+Kode berikut menunjukkan dukungan pengeditan Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.UseGlobalLight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InnerShadowEffect Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah gunakan sudut ini di semua efek lapisan.
+title: "InnerShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti InnerShadowEffect. Mendapatkan atau mengatur nilai yang menunjukkan apakah menggunakan sudut ini dalam semua efek lapisan"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.UseGlobalLight property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [gunakan sudut ini di semua efek lapisan].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [use this angle in all of the layer effects].
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika [gunakan cahaya global]; jika tidak,`PALSU` .
+`true` jika [use global light]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [InnerShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

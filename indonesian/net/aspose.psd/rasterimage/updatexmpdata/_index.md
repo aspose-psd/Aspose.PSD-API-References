@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UpdateXmpData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah akan memperbarui metadata XMP.
+title: "RasterImage.UpdateXmpData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mendapatkan atau mengatur nilai yang menunjukkan apakah akan memperbarui metadata XMP"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/rasterimage/updatexmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UpdateXmpData property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah akan memperbarui metadata XMP.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah akan memperbarui metadata XMP.
 
 ```csharp
 public virtual bool UpdateXmpData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika perbarui metadata XMP; jika tidak,`PALSU` .
+`true` jika memperbarui metadata XMP; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

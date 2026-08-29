@@ -1,11 +1,12 @@
 ---
-title: IPartialRawDataLoader.Process
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPartialRawDataLoader metode. Memproses data yang dimuat.
+title: "IPartialRawDataLoader.Process"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IPartialRawDataLoader. Memproses data yang dimuat"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/ipartialrawdataloader/process/
 ---
+{{< psd/tize >}}
 ## Process(Rectangle, byte[], Point, Point) {#process}
 
 Memproses data yang dimuat.
@@ -14,20 +15,20 @@ Memproses data yang dimuat.
 public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang data. |
+| persegi panjang | Rectangle | Persegi panjang data. |
 | data | Byte[] | Data mentah. |
-| start | Point | Titik data awal. Jika tidak sama dengan (kiri,atas) artinya bukan persegi panjang penuh yang kita miliki. |
-| end | Point | Titik data akhir. Jika tidak sama dengan (kanan,bawah) artinya bukan persegi panjang penuh yang kita miliki. |
+| awal | Point | Titik data awal. Jika tidak sama dengan (left,top) berarti bahwa itu bukan persegi panjang penuh yang kita miliki. |
+| akhir | Point | Titik data akhir. Jika tidak sama dengan (right,bottom) berarti bahwa itu bukan persegi panjang penuh yang kita miliki. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialRawDataLoader](../)
-* ruang nama [Aspose.PSD](../../ipartialrawdataloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,21 +41,21 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
     LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang data. |
+| persegi panjang | Rectangle | Persegi panjang data. |
 | data | Byte[] | Data mentah. |
-| start | Point | Titik data awal. Jika tidak sama dengan (kiri,atas) artinya bukan persegi panjang penuh yang kita miliki. |
-| end | Point | Titik data akhir. Jika tidak sama dengan (kanan,bawah) artinya bukan persegi panjang penuh yang kita miliki. |
-| loadOptions | LoadOptions | Opsi beban. |
+| awal | Point | Titik data awal. Jika tidak sama dengan (left,top) berarti bahwa itu bukan persegi panjang penuh yang kita miliki. |
+| akhir | Point | Titik data akhir. Jika tidak sama dengan (right,bottom) berarti bahwa itu bukan persegi panjang penuh yang kita miliki. |
+| loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IPartialRawDataLoader](../)
-* ruang nama [Aspose.PSD](../../ipartialrawdataloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

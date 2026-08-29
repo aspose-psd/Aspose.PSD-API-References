@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmykIccBytes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColorHelper metode. Mengonversi RGB ke CMYK menggunakan profil ICC khusus.
+title: "CmykColorHelper.ToCmykIccBytes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CmykColorHelper. Mengonversi RGB ke CMYK menggunakan profil ICC khusus"
 type: docs
 weight: 120
 url: /id/net/aspose.psd/cmykcolorhelper/tocmykiccbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykIccBytes method
 
 Mengonversi RGB ke CMYK menggunakan profil ICC khusus.
@@ -15,22 +16,22 @@ public static byte[] ToCmykIccBytes(int[] pixels, int startIndex, int length, St
     Stream cmykIccStream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixels | Int32[] | Warna RGB disajikan sebagai nilai integer 32-bit. |
-| startIndex | Int32 | Indeks awal warna RGB. |
+| piksel | Int32[] | Warna RGB yang disajikan sebagai nilai integer 32-bit. |
+| startIndex | Int32 | Indeks mulai warna RGB. |
 | length | Int32 | Jumlah piksel RGB yang akan dikonversi. |
 | rgbIccStream | Stream | Aliran profil RGB. |
 | cmykIccStream | Stream | Aliran profil CMYK. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Warna CMYK ditampilkan sebagai array byte.
+Warna CMYK yang disajikan sebagai array byte.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CmykColorHelper](../)
-* ruang nama [Aspose.PSD](../../cmykcolorhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

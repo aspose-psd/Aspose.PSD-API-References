@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddHueSaturationAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan penyesuaian rona/saturasi.
+title: "PsdImage.AddHueSaturationAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage method. Menambahkan lapisan penyesuaian hue/saturation"
 type: docs
-weight: 350
+weight: 370
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddHueSaturationAdjustmentLayer method
 
-Menambahkan lapisan penyesuaian rona/saturasi.
+Menambahkan lapisan penyesuaian hue/saturasi.
 
 ```csharp
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Lapisan rona/saturasi yang baru dibuat.
+Lapisan hue/saturation yang baru dibuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

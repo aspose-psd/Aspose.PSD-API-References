@@ -1,11 +1,12 @@
 ---
-title: SoCoResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SoCoResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "SoCoResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SoCoResource properti. Mendapatkan panjang sumber daya lapisan dalam byte"
 type: docs
-weight: 40
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SoCoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

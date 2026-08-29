@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LayerIds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeLine Properti. Mendapat atau menyetel array id layer.
+title: "TimeLine.LayerIds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TimeLine. Mendapatkan atau mengatur array id lapisan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/timeline/layerids/
 ---
+{{< psd/tize >}}
 ## TimeLine.LayerIds property
 
-Mendapat atau menyetel array id layer.
+Mendapatkan atau mengatur array id lapisan.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeLine](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

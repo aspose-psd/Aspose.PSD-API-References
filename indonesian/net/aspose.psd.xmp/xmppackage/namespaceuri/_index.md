@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage Properti. Mendapat URI namespace.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPackage. Mengambil URI namespace"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
-Mendapat URI namespace.
+Mendapatkan URI ruang nama.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 URI ruang nama.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

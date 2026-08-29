@@ -1,28 +1,29 @@
 ---
-title: AliasStructure.AliasStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AliasStructure konstruktor. Menginisialisasi instance baru dariAliasStructure kelas.
+title: "AliasStructure.AliasStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor AliasStructure. Menginisialisasi instance baru dari kelas AliasStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/aliasstructure/
 ---
+{{< psd/tize >}}
 ## AliasStructure constructor
 
-Menginisialisasi instance baru dari[`AliasStructure`](../) kelas.
+Menginisialisasi instance baru dari kelas [`AliasStructure`](../).
 
 ```csharp
 public AliasStructure(ClassID keyName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [AliasStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

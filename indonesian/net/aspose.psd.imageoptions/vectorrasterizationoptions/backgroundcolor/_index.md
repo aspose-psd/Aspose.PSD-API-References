@@ -1,24 +1,25 @@
 ---
-title: VectorRasterizationOptions.BackgroundColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions Properti. Mendapat atau menyetel warna latar belakang.
+title: "VectorRasterizationOptions.BackgroundColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorRasterizationOptions. Mendapatkan atau mengatur warna latar belakang"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BackgroundColor property
 
-Mendapat atau menyetel warna latar belakang.
+Mendapatkan atau mengatur warna latar belakang.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

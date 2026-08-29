@@ -1,27 +1,28 @@
 ---
-title: PhflResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResource Properti. Mendapatkan versinya. Standarnya adalah 2 atau 3
+title: "PhflResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResource. Mendapatkan versi. Default adalah 2 atau 3"
 type: docs
-weight: 50
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/version/
 ---
+{{< psd/tize >}}
 ## PhflResource.Version property
 
-Mendapatkan versinya. Standarnya adalah 2 atau 3
+Mendapatkan versi. Defaultnya adalah 2 atau 3.
 
 ```csharp
 public abstract short Version { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

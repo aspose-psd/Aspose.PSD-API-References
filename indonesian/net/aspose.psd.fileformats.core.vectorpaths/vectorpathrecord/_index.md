@@ -1,11 +1,12 @@
 ---
-title: Class VectorPathRecord
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord kelas. Kelas Rekaman Jalur Vektor
+title: "Kelas VectorPathRecord"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord. Kelas Vector Path Record."
 type: docs
-weight: 1400
+weight: 1410
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord class
 
 Kelas Rekaman Jalur Vektor
@@ -16,13 +17,13 @@ public abstract class VectorPathRecord
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | Mendapatkan tipe. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

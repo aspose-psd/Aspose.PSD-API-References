@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearOutputChannelColorProfile
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Menghapus pengaturan profil warna saluran keluaran untuk kategori default.
+title: "ImageAttributes.ClearOutputChannelColorProfile"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menghapus pengaturan profil warna saluran keluaran untuk kategori default."
 type: docs
 weight: 80
 url: /id/net/aspose.psd/imageattributes/clearoutputchannelcolorprofile/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannelColorProfile() {#clearoutputchannelcolorprofile}
 
-Menghapus pengaturan profil warna saluran keluaran untuk kategori default.
+Membersihkan pengaturan profil warna saluran keluaran untuk kategori default.
 
 ```csharp
 public void ClearOutputChannelColorProfile()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearOutputChannelColorProfile(ColorAdjustType) {#clearoutputchannelcolorprofile_1}
 
-Menghapus pengaturan profil warna saluran keluaran untuk kategori tertentu.
+Membersihkan pengaturan profil warna saluran keluaran untuk kategori yang ditentukan.
 
 ```csharp
 public void ClearOutputChannelColorProfile(ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori yang pengaturan profil saluran outputnya dihapus. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana pengaturan profil saluran keluaran dihapus. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpHeaderPi
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.XmpHeaderPi kelas. Merupakan instruksi pemrosesan header XMP.
+title: "Kelas XmpHeaderPi"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.XmpHeaderPi. Mewakili instruksi pemrosesan header XMP"
 type: docs
-weight: 6250
+weight: 6750
 url: /id/net/aspose.psd.xmp/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi class
 
-Merupakan instruksi pemrosesan header XMP.
+Mewakili instruksi pemrosesan header XMP.
 
 ```csharp
 public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
@@ -16,30 +17,30 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi/#constructor)() | Menginisialisasi instance baru dari`XmpHeaderPi` kelas. |
-| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Menginisialisasi instance baru dari`XmpHeaderPi` kelas. |
+| [XmpHeaderPi](xmpheaderpi/#constructor)() | Menginisialisasi instance baru dari kelas `XmpHeaderPi`. |
+| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `XmpHeaderPi`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Mewakili Panduan Header. |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Mewakili Guid Header. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Menentukan apakah yang ditentukanObject , sama dengan instance ini. |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama. |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Menentukan apakah Object yang ditentukan, sama dengan instance ini. |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama. |
 | override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Mengembalikan kode hash untuk instance ini. |
-| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | Mengubah nilai XMP menjadi representasi XML. |
+| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | Mengonversi nilai XMP ke representasi XML. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IXmlValue](../ixmlvalue/)
-* ruang nama [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

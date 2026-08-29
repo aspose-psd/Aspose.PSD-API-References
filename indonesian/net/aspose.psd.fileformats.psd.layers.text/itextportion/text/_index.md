@@ -1,32 +1,33 @@
 ---
-title: ITextPortion.Text
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextPortion Properti. Mendapat atau menyetel teks.
+title: "ITextPortion.Text"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextPortion properti. Mendapatkan atau mengatur teks"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextportion/text/
 ---
+{{< psd/tize >}}
 ## ITextPortion.Text property
 
-Mendapat atau menyetel teks.
+Mendapatkan atau mengatur teks.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Teks.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda bisa membuat gaya yang berbeda dalam satu lapisan teks di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat merender gaya berbeda dalam satu lapisan teks di Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -49,12 +50,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // edit gaya teks "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit gaya teks "2\r"
-    newPortions[2].Style.FauxBold = true; // edit gaya teks "Bold"
-    newPortions[3].Style.FauxItalic = true; // edit gaya teks "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // edit gaya teks "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit gaya teks "Teks huruf kecil"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -66,7 +67,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menunjukkan bagaimana Aspose.PSD mendapatkan properti pemformatan sebaris dari Lapisan Teks.
+Kode berikut menunjukkan cara Aspose.PSD mendapatkan properti pemformatan inline dari Text Layer.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -91,7 +92,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // mendapatkan font yang ada di lapisan teks
+        // mendapatkan font yang terdapat dalam lapisan teks
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -120,7 +121,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Contoh kode berikut menunjukkan bagian teks pengeditan dan gaya teksnya.
+Contoh kode berikut menunjukkan pengeditan bagian teks dan gaya teks mereka.
 
 ```csharp
 [C#]
@@ -143,7 +144,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Memeriksa teks dari setiap bagian
+            // Memeriksa teks setiap bagian
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -153,7 +154,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Memeriksa data paragraf
-            // Paragraf memiliki justifikasi yang berbeda
+            // Paragraf memiliki perataan yang berbeda
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -163,7 +164,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Semua properti lain dari paragraf pertama dan kedua adalah sama
+            // Semua properti lain dari paragraf pertama dan kedua sama
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -187,7 +188,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -250,18 +251,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Contoh paragraf dan pengeditan gaya untuk bagian
-            // Tetapkan pembenaran yang benar
+            // Contoh pengeditan paragraf dan gaya untuk bagian-bagian
+            // Atur perataan kanan
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Warna berbeda untuk setiap gaya. Itu akan diubah, tetapi rendering tidak sepenuhnya didukung
+            // Warna berbeda untuk setiap gaya. Akan diubah, tetapi rendering tidak sepenuhnya didukung.
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Huruf berbeda. Itu akan diubah, tetapi rendering tidak sepenuhnya didukung
+            // Font berbeda. Akan diubah, tetapi rendering tidak sepenuhnya didukung.
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -276,10 +277,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextPortion](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextportion/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

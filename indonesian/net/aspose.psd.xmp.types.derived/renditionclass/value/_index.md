@@ -1,27 +1,28 @@
 ---
-title: RenditionClass.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RenditionClass Properti. Mendapat atau menetapkan nilai.
+title: "RenditionClass.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RenditionClass properti. Mendapatkan atau mengatur nilai"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.derived/renditionclass/value/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Value property
 
-Mendapat atau menetapkan nilai.
+Mendapatkan atau mengatur nilai.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilainya.
+Nilai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RenditionClass](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

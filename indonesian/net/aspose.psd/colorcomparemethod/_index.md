@@ -1,14 +1,15 @@
 ---
-title: Enum ColorCompareMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ColorCompareMethod enum. Metode perbandingan warna untuk menyesuaikan dengan tetangga terdekat
+title: "Enum ColorCompareMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.ColorCompareMethod. Metode perbandingan warna untuk menyesuaikan ke tetangga terdekat."
 type: docs
 weight: 330
 url: /id/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
-Metode perbandingan warna untuk menyesuaikan dengan tetangga terdekat
+Metode perbandingan warna untuk menyesuaikan ke tetangga terdekat
 
 ```csharp
 public enum ColorCompareMethod
@@ -16,13 +17,13 @@ public enum ColorCompareMethod
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Euclidian | `0` | Metode euclidian |
+| Euclidian | `0` | Metode Euclidean |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

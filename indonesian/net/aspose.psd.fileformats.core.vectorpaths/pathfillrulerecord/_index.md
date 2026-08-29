@@ -1,14 +1,15 @@
 ---
-title: Class PathFillRuleRecord
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord kelas. Kelas Catatan Aturan Isi Jalur
+title: "Kelas PathFillRuleRecord"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord class. Kelas Path Fill Rule Record"
 type: docs
-weight: 1380
+weight: 1390
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
-Kelas Catatan Aturan Isi Jalur
+Kelas Rekaman Aturan Isi Jalur
 
 ```csharp
 public class PathFillRuleRecord : VectorPathRecord
@@ -16,21 +17,21 @@ public class PathFillRuleRecord : VectorPathRecord
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Menginisialisasi instance baru dari`PathFillRuleRecord` kelas. |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Menginisialisasi instance baru dari`PathFillRuleRecord` kelas. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Menginisialisasi instance baru dari kelas `PathFillRuleRecord`. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Menginisialisasi instance baru dari kelas `PathFillRuleRecord`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | Mendapatkan tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

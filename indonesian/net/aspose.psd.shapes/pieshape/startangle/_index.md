@@ -1,11 +1,12 @@
 ---
-title: PieShape.StartAngle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PieShape Properti. Mendapatkan atau mengatur sudut awal.
+title: "PieShape.StartAngle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PieShape. Mendapatkan atau mengatur sudut awal"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.shapes/pieshape/startangle/
 ---
+{{< psd/tize >}}
 ## PieShape.StartAngle property
 
 Mendapatkan atau mengatur sudut awal.
@@ -14,14 +15,14 @@ Mendapatkan atau mengatur sudut awal.
 public float StartAngle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut awal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PieShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../pieshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

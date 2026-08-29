@@ -1,11 +1,12 @@
 ---
-title: XmpChoise1.XmpChoise
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpChoise konstruktor. Konstruktor default.
+title: "XmpChoise1.XmpChoise"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpChoise. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.derived/xmpchoise-1/xmpchoise/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public XmpChoise()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpChoise&lt;T&gt;](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

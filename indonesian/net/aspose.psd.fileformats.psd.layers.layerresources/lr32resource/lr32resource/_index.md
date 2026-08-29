@@ -1,27 +1,24 @@
 ---
-title: Lr32Resource.Lr32Resource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr32Resource konstruktor. Menginisialisasi instance baru dariLr32Resource kelas.
+title: "Lr32Resource.Lr32Resource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Lr32Resource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource constructor
 
-Menginisialisasi instance baru dari[`Lr32Resource`](../) kelas.
+Konstruktor default.
 
 ```csharp
-public Lr32Resource(int length)
+public Lr32Resource()
 ```
 
-| Parameter | Jenis | Keterangan |
-| --- | --- | --- |
-| length | Int32 | Panjangnya. |
-
-### Lihat juga
+### Lihat Juga
 
 * class [Lr32Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

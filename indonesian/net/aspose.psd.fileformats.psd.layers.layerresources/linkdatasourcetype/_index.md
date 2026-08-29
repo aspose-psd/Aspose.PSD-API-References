@@ -1,14 +1,15 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. Menentukan pencacahan LinkDataSourceType untuk sumber data di sumber daya tautan PSD.
+title: "Enum LinkDataSourceType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. Mendefinisikan enumerasi LinkDataSourceType untuk sumber data dalam sumber daya tautan PSD"
 type: docs
-weight: 2700
+weight: 3000
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-Menentukan pencacahan LinkDataSourceType untuk sumber data di sumber daya tautan PSD.
+Mendefinisikan enumerasi LinkDataSourceType untuk sumber data dalam sumber daya tautan PSD.
 
 ```csharp
 public enum LinkDataSourceType
@@ -16,14 +17,14 @@ public enum LinkDataSourceType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Sumber tautan kosong. |
-| liFD | `1` | Data file tertaut tersemat |
-| liFE | `2` | Data file tertaut eksternal |
-| liFA | `3` | Data alias file tertaut |
+| None | `0` | Sumber daya tautan kosong. |
+| liFD | `1` | Data berkas tertaut yang disematkan |
+| liFE | `2` | Data file eksternal yang ditautkan |
+| liFA | `3` | Data alias file yang ditautkan |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya LnkeResource.
 
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

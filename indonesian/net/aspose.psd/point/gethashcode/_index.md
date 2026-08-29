@@ -1,27 +1,28 @@
 ---
-title: Point.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Mengembalikan kode hash untuk iniPoint .
+title: "Point.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Mengembalikan kode hash untuk Point ini."
 type: docs
 weight: 120
 url: /id/net/aspose.psd/point/gethashcode/
 ---
+{{< psd/tize >}}
 ## Point.GetHashCode method
 
-Mengembalikan kode hash untuk ini[`Point`](../) .
+Mengembalikan kode hash untuk [`Point`](../) ini.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kode hash untuk instance ini, cocok untuk digunakan dalam algoritme hashing dan struktur data seperti tabel hash.
+Kode hash untuk instance ini, cocok untuk digunakan dalam algoritma hashing dan struktur data seperti tabel hash.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

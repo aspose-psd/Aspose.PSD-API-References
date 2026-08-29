@@ -1,24 +1,25 @@
 ---
-title: LayerState.PositionOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerState Properti. Mendapat atau menyetel offset posisi lapisan yang terkait dengan posisi lapisan sebenarnya.
+title: "LayerState.PositionOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerState. Mendapatkan atau mengatur offset posisi lapisan yang terkait dengan posisi lapisan sebenarnya"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/
 ---
+{{< psd/tize >}}
 ## LayerState.PositionOffset property
 
-Mendapat atau menyetel offset posisi lapisan yang terkait dengan posisi lapisan sebenarnya.
+Mendapatkan atau mengatur offset posisi lapisan yang terkait dengan posisi lapisan sebenarnya.
 
 ```csharp
 public Point PositionOffset { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LayerState](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

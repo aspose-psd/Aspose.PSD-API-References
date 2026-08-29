@@ -1,14 +1,15 @@
 ---
-title: Enum PhysicalUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. Unit fisik resoulutionInfo enum
+title: "Enum PhysicalUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. Enum unit fisik resoultionInfo"
 type: docs
-weight: 3860
+weight: 4330
 url: /id/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-Unit fisik resoulutionInfo enum
+Enum unit fisik resoulutionInfo
 
 ```csharp
 public enum PhysicalUnit
@@ -16,17 +17,17 @@ public enum PhysicalUnit
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Inches | `1` | Inci |
 | Centimeters | `2` | Sentimeter |
 | Points | `3` | Poin |
-| Picas | `4` | Unit picas |
+| Picas | `4` | Unit pica |
 | Columns | `5` | Kolom |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

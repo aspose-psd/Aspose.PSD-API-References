@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.ResourceEvent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceEvent konstruktor. Konstruktor default.
+title: "ResourceEvent.ResourceEvent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ResourceEvent. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public ResourceEvent()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceEvent](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

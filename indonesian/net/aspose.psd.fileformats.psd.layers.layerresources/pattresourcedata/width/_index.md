@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData Properti. Mendapatkan lebarnya.
+title: "PattResourceData.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PattResourceData. Mendapatkan lebar"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Width property
 
-Mendapatkan lebarnya.
+Mendapatkan lebar.
 
 ```csharp
 public short Width { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

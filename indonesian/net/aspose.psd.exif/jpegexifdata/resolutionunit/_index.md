@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel unit resolusi.
+title: "JpegExifData.ResolutionUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur satuan resolusi"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ResolutionUnit property
 
-Mendapat atau menyetel unit resolusi.
+Mendapatkan atau mengatur satuan resolusi.
 
 ```csharp
 public ExifUnit ResolutionUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Satuan resolusi.
+Unit resolusi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Bottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapat atau menyetel lokasi bawah dari lapisan yang ditempatkan di gambar PSD.
+title: "IPlacedLayerResource.Bottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur lokasi bawah lapisan yang ditempatkan dalam gambar PSD"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Bottom property
 
-Mendapat atau menyetel lokasi bawah dari lapisan yang ditempatkan di gambar PSD.
+Mendapatkan atau mengatur lokasi bawah lapisan yang ditempatkan dalam gambar PSD.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lokasi paling bawah dari layer yang ditempatkan.
+Lokasi bawah dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AudioSampleType.Sample16Int
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioSampleType Properti. Mewakili sampel audio 16Int.
+title: "AudioSampleType.Sample16Int"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioSampleType property. Mewakili sampel audio 16Int"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample16Int property
 
 Mewakili sampel audio 16Int.
@@ -14,10 +15,10 @@ Mewakili sampel audio 16Int.
 public static AudioSampleType Sample16Int { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioSampleType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

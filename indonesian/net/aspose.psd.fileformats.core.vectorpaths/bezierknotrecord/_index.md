@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord kelas. Kelas Rekaman Bezier Knot
+title: "Kelas BezierKnotRecord"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord. Kelas Bezier Knot Record yang digunakan untuk membaca/menulis data simpul Bezier dari sumber daya"
 type: docs
-weight: 1330
+weight: 1340
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Kelas Rekaman Bezier Knot
+Kelas Rekaman Bezier Knot, digunakan untuk membaca/menulis data simpul Bezier dari sumber.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -16,25 +17,25 @@ public class BezierKnotRecord : VectorPathRecord
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | Menginisialisasi instance baru dari`BezierKnotRecord` kelas. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Menginisialisasi instance baru dari`BezierKnotRecord` kelas. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | Menginisialisasi instance baru dari kelas `BezierKnotRecord`. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Menginisialisasi instance baru dari kelas `BezierKnotRecord`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditutup. |
-| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditautkan. |
-| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbuka. |
-| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Mendapat atau menetapkan titik jalur. |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Mendapat atau menetapkan poin. |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini tertutup. |
+| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terhubung. |
+| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbuka. |
+| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Mendapatkan atau mengatur titik-titik jalur. |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Mendapatkan atau mengatur titik-titik. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Mendapatkan tipe. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan dukungan pemuatan sumber daya VmskResource. Bagaimana cara kerja pengeditan jalur.
+Contoh berikut menunjukkan dukungan pemuatan sumber daya VmskResource. Bagaimana cara kerja penyuntingan jalur.
 
 ```csharp
 [C#]
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // Aturan isian jalur tidak berisi informasi tambahan apa pun
+        // Aturan pengisian jalur tidak mengandung informasi tambahan
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -76,7 +77,7 @@ public void TestPsdNet106()
         {
             throw new Exception("VmskResource paths were read wrong");
         }
-        // Mengedit
+        // Menyunting
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-Contoh berikut menunjukkan dukungan pemuatan sumber daya VsmsResource. Bagaimana cara kerja pengeditan jalur.
+Contoh berikut menunjukkan dukungan pemuatan sumber daya VsmsResource. Bagaimana cara kerja penyuntingan jalur.
 
 ```csharp
 [C#]
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Aturan isian jalur tidak berisi informasi tambahan apa pun
+        // Aturan pengisian jalur tidak mengandung informasi tambahan
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -157,7 +158,7 @@ public void TestPsdNet140()
             throw new Exception("VsmsResource paths were read wrong");
         }
 
-        // Mengedit
+        // Menyunting
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -192,10 +193,10 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

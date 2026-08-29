@@ -1,11 +1,12 @@
 ---
-title: Layer.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapatkan tinggi gambar.
+title: "Layer.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan tinggi gambar"
 type: docs
-weight: 160
+weight: 170
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
 Mendapatkan tinggi gambar.
@@ -14,14 +15,14 @@ Mendapatkan tinggi gambar.
 public override int Height { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

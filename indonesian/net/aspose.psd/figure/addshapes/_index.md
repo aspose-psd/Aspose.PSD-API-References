@@ -1,11 +1,12 @@
 ---
-title: Figure.AddShapes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure metode. Menambahkan rentang bentuk ke gambar.
+title: "Figure.AddShapes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Figure. Menambahkan serangkaian bentuk ke gambar"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/figure/addshapes/
 ---
+{{< psd/tize >}}
 ## Figure.AddShapes method
 
 Menambahkan rentang bentuk ke gambar.
@@ -14,51 +15,51 @@ Menambahkan rentang bentuk ke gambar.
 public void AddShapes(Shape[] shapes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| shapes | Shape[] | Bentuk untuk ditambahkan. |
+| bentuk | Shape[] | Bentuk-bentuk yang akan ditambahkan. |
 
-### Contoh
+## Contoh
 
 Contoh ini membuat Image baru dan menggambar berbagai bentuk menggunakan Figures dan GraphicsPath pada permukaan Image
 
 ```csharp
 [C#]
 
-//Buat instance dari Gambar
+//Buat sebuah instance dari Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Membuat dan menginisialisasi sebuah instance dari kelas Graphics
+    //Buat dan inisialisasi sebuah instance dari kelas Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // Bersihkan permukaan Grafik
+    //Bersihkan permukaan Graphics
     graphics.Clear(Color.Wheat);
 
-    //Buat instance dari kelas GraphicsPath
+    //Buat sebuah instance dari kelas GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Buat turunan dari kelas Gambar
+    //Buat sebuah instance dari kelas Figure
     Aspose.PSD.Figure figure1 = new Aspose.PSD.Figure();
 
-    //Tambahkan Bentuk ke objek Gambar
+    //Tambahkan Shape ke objek Figure
     figure1.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure1.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(110, 110), new Size(200, 200)), 0, 90));
 
-    //Buat turunan dari kelas Gambar
+    //Buat sebuah instance dari kelas Figure
     Aspose.PSD.Figure figure2 = new Aspose.PSD.Figure();
 
-    //Tambahkan Bentuk ke objek Gambar
+    //Tambahkan Shape ke objek Figure
     figure2.AddShape(new Aspose.PSD.Shapes.ArcShape(new RectangleF(10, 10, 300, 300), 0, 45));
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    // Tambahkan objek Gambar ke GraphicsPath
+    //Tambahkan objek Figure ke GraphicsPath
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
-    // Gambar jalur dengan objek Pena berwarna Hitam
+    //Gambar jalur dengan objek Pen berwarna Hitam
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // Buat opsi ekspor dan inisialisasi.
+    // Buat opsi ekspor dan inisialisasi mereka.
     Aspose.PSD.ImageOptions.BmpOptions options = new Aspose.PSD.ImageOptions.BmpOptions();
 
     // simpan semua perubahan.
@@ -66,11 +67,11 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

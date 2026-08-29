@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.DateTime
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel waktu tanggal.
+title: "JpegExifData.DateTime"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur tanggal dan waktu"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.exif/jpegexifdata/datetime/
 ---
+{{< psd/tize >}}
 ## JpegExifData.DateTime property
 
-Mendapat atau menyetel waktu tanggal.
+Mendapatkan atau mengatur tanggal waktu.
 
 ```csharp
 public string DateTime { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tanggal waktu.
+Tanggal dan waktu.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox kelas. Menentukan kelas kotak pembatas bentuk vektor.
+title: "Kelas VectorShapeBoundingBox"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox. Mendefinisikan kelas kotak pembatas bentuk vektor"
 type: docs
-weight: 1430
+weight: 1440
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-Menentukan kelas kotak pembatas bentuk vektor.
+Mendefinisikan kelas kotak pembatas bentuk vektor.
 
 ```csharp
 public sealed class VectorShapeBoundingBox
@@ -16,29 +17,30 @@ public sealed class VectorShapeBoundingBox
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Mendapat atau menyetel bagian bawah. |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Mendapat atau mengatur batas-batas kotak pembatas bentuk. |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Mendapat atau menyetel kiri. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Mendapat atau menetapkan versi quad nilai unit. |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Mendapatkan atau menyetel hak. |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Mendapat atau menyetel bagian atas. |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Mendapatkan atau mengatur bagian bawah. |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Mendapatkan atau mengatur batas kotak pembatas bentuk. |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Mendapatkan atau mengatur kiri. |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | Mendapatkan atau mengatur tipe unit dari titik-titik yang menentukan sudut kotak. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Mendapatkan atau mengatur nilai unit versi kuad. |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Mendapatkan atau mengatur kanan. |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Mendapatkan atau mengatur atas. |
 
-### Contoh
+## Contoh
 
 Contoh ini menunjukkan bahwa memuat dan menyimpan gambar PSD dengan lapisan bentuk dan jalur vektor bekerja dengan benar.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan bahwa memuat dan menyimpan gambar PSD dengan layer bentuk dan jalur vektor bekerja dengan benar.
+// Contoh ini menunjukkan bahwa memuat dan menyimpan gambar PSD dengan lapisan bentuk dan jalur vektor bekerja dengan benar.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -163,9 +165,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

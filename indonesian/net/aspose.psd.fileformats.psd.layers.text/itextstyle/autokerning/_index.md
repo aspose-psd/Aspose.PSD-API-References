@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapat atau menyetel kerning otomatis.
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Mendapatkan atau mengatur auto kerning"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
-Mendapat atau menyetel kerning otomatis.
+Mendapatkan atau mengatur kerning otomatis.
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kerning otomatis antara dua karakter.
+Auto kerning antara dua karakter.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari dukungan properti ITextStyle baru.
+Kode berikut menunjukkan dukungan terhadap properti ITextStyle baru.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

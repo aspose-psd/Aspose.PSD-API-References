@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.QuadVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeBoundingBox Properti. Mendapat atau menetapkan versi quad nilai unit.
+title: "VectorShapeBoundingBox.QuadVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeBoundingBox. Mendapatkan atau mengatur versi kuad nilai unit"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.QuadVersion property
 
-Mendapat atau menetapkan versi quad nilai unit.
+Mendapatkan atau mengatur nilai unit versi kuad.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi quad.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeBoundingBox](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

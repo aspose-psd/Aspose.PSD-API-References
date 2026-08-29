@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.Clone
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageOptionsBase metode. Menggandakan instance ini.
+title: "ImageOptionsBase.Clone"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageOptionsBase. Mengkloning instance ini"
 type: docs
 weight: 110
 url: /id/net/aspose.psd/imageoptionsbase/clone/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Clone method
 
-Menggandakan instance ini.
+Mengkloning instance ini.
 
 ```csharp
 public virtual ImageOptionsBase Clone()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan salinan dangkal dari instance ini
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../)
-* ruang nama [Aspose.PSD](../../imageoptionsbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

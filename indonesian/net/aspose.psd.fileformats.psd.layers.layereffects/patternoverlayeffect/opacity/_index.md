@@ -1,27 +1,28 @@
 ---
-title: PatternOverlayEffect.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternOverlayEffect Properti. Mendapat atau mengatur opacity.
+title: "PatternOverlayEffect.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PatternOverlayEffect. Mendapatkan atau mengatur opasitas"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.Opacity property
 
-Mendapat atau mengatur opacity.
+Mendapatkan atau mengatur opasitas.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opasitas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

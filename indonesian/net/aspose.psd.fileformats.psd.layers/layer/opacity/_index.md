@@ -1,27 +1,28 @@
 ---
-title: Layer.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel opacity layer. 0  transparan 255  buram.
+title: "Layer.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur opasitas lapisan. 0  transparan 255  opak"
 type: docs
-weight: 270
+weight: 280
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/opacity/
 ---
+{{< psd/tize >}}
 ## Layer.Opacity property
 
-Mendapat atau menyetel opacity layer. 0 = transparan, 255 = buram.
+Mendapatkan atau mengatur opasitas lapisan. 0 = transparan, 255 = tidak transparan.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opasitas lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

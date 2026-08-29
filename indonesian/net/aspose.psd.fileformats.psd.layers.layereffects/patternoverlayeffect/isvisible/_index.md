@@ -1,27 +1,28 @@
 ---
-title: PatternOverlayEffect.IsVisible
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternOverlayEffect Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terlihat.
+title: "PatternOverlayEffect.IsVisible"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PatternOverlayEffect. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terlihat"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.IsVisible property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terlihat.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terlihat.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika contoh ini terlihat; jika tidak,`PALSU` .
+`true` jika instance ini terlihat; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

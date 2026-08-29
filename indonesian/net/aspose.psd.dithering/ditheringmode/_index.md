@@ -1,14 +1,15 @@
 ---
-title: Class DitheringMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Dithering.DitheringMode kelas. Pengaturan dithering diterapkan ke gambar setelah disimpan.
+title: "Kelas DitheringMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Dithering.DitheringMode. Pengaturan dithering yang akan diterapkan pada gambar saat disimpan"
 type: docs
-weight: 760
+weight: 770
 url: /id/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-Pengaturan dithering diterapkan ke gambar setelah disimpan.
+Pengaturan dithering yang akan diterapkan pada gambar saat disimpan.
 
 ```csharp
 public class DitheringMode
@@ -16,21 +17,21 @@ public class DitheringMode
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [DitheringMode](ditheringmode/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Faktor sampling dari gambar yang dithered. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Faktor sampling gambar yang di-dither. |
 | [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Palet khusus untuk dithering. |
 | [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Pemilihan algoritma dithering. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Right
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskData Properti. Mendapat atau mengatur posisi layer mask yang tepat.
+title: "LayerMaskData.Right"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskData. Mendapatkan atau mengatur posisi mask lapisan kanan."
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdata/right/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Right property
 
-Mendapat atau mengatur posisi layer mask yang tepat.
+Mendapatkan atau mengatur posisi mask lapisan kanan.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Posisi layer mask kanan.
+Posisi mask lapisan kanan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

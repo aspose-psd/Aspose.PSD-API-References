@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LoopesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeLine Properti. Mendapat atau mengatur jumlah loop.
+title: "Timeline.LoopesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Timeline. Mendapatkan atau mengatur jumlah loop"
 type: docs
-weight: 80
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 ---
-## TimeLine.LoopesCount property
+{{< psd/tize >}}
+## Timeline.LoopesCount property
 
-Mendapat atau mengatur jumlah loop.
+Mendapatkan atau mengatur jumlah loop.
 
 ```csharp
-public int LoopesCount { get; set; }
+public ushort LoopesCount { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* class [TimeLine](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* perakitan [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

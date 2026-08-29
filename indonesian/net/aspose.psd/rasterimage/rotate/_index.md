@@ -1,24 +1,25 @@
 ---
-title: RasterImage.Rotate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Putar gambar di tengah.
+title: "RasterImage.Rotate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Memutar gambar di sekitar pusat"
 type: docs
-weight: 480
+weight: 490
 url: /id/net/aspose.psd/rasterimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Putar gambar di tengah.
+Memutar gambar di sekitar pusat.
 
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Single | Sudut putar dalam derajat. Nilai positif akan berputar searah jarum jam. |
-| resizeProportionally | Boolean | jika diatur ke`BENAR` Anda akan mengubah ukuran gambar Anda sesuai dengan proyeksi persegi panjang (titik sudut) yang diputar dalam kasus lain yang membuat dimensi tidak tersentuh dan hanya konten gambar internal yang diputar. |
-| backgroundColor | Color | Warna latar belakang. |
+| angle | Single | Sudut rotasi dalam derajat. Nilai positif akan memutar searah jarum jam. |
+| resizeProportionally | Boolean | jika disetel ke `true` ukuran gambar Anda akan berubah sesuai proyeksi persegi panjang yang diputar (titik sudut); dalam kasus lain dimensi tetap tidak berubah dan hanya konten gambar internal yang diputar. |
+| backgroundColor | Warna | Warna latar belakang. |
 
 ### Pengecualian
 
@@ -26,31 +27,31 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 | --- | --- |
 | NotImplementedException |  |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Putar gambar di tengah.
+Memutar gambar di sekitar pusat.
 
 ```csharp
 public virtual void Rotate(float angle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Single | Sudut putar dalam derajat. Nilai positif akan berputar searah jarum jam. |
+| angle | Single | Sudut rotasi dalam derajat. Nilai positif akan memutar searah jarum jam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

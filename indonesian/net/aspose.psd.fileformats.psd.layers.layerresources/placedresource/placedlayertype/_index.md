@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.PlacedLayerType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menyetel jenis lapisan yang ditempatkan di file PSD.
+title: "PlacedResource.PlacedLayerType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur tipe lapisan yang ditempatkan dalam file PSD."
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PlacedLayerType property
 
-Mendapat atau menyetel jenis lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur tipe lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public virtual PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis lapisan yang ditempatkan.
+Tipe dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

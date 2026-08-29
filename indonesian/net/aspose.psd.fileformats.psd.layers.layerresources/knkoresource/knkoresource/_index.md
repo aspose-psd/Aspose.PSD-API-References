@@ -1,56 +1,57 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: KnkoResource konstruktor. Menginisialisasi instance baru dariKnkoResource kelas.
+title: "KnkoResource.KnkoResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor KnkoResource. Menginisialisasi instance baru dari kelas KnkoResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`KnkoResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource(bool knockout)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| knockout | Boolean | jika diatur ke`BENAR` [memadukan elemen interior]. |
+| knockout | Boolean | jika diatur ke `true` [blend interior elements]. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [KnkoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-Menginisialisasi instance baru dari[`KnkoResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [KnkoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-Menginisialisasi instance baru dari[`KnkoResource`](../) class. Dengan nilai khusus atau tidak diketahui
+Menginisialisasi instance baru dari kelas [`KnkoResource`](../). Dengan nilai khusus atau tidak diketahui
 
 ```csharp
 public KnkoResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -58,12 +59,12 @@ public KnkoResource(byte[] data)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Nilai Sumber Daya Knko tidak valid |
+| ArgumentException | Nilai Knko Resource tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [KnkoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

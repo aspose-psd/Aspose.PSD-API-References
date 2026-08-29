@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Mengatur posisi penulis.
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PhotoshopPackage metode. Mengatur posisi penulis"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
 Mengatur posisi penulis.
@@ -14,14 +15,14 @@ Mengatur posisi penulis.
 public void SetAuthorsPosition(string authorsPosition)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | authorsPosition | String | Posisi penulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,105 +1,106 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffSRational metode. Mendekati nilai yang diberikan ke pecahan.
+title: "TiffSRational.ApproximateFraction"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffSRational. Mendekati nilai yang diberikan menjadi sebuah pecahan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
-Mendekati nilai yang diberikan ke pecahan.
+Mendekati nilai yang diberikan menjadi sebuah pecahan.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value, double epsilon)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Double | Nilai. |
-| epsilon | Double | Kesalahan diizinkan. |
+| nilai | Double | Nilai. |
+| epsilon | Double | Kesalahan yang diizinkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Bilangan rasional yang memiliki kesalahan kurang dari*epsilon*.
+Bilangan rasional dengan kesalahan kurang dari *epsilon*.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(double) {#approximatefraction}
 
-Mendekati nilai yang diberikan ke pecahan.
+Mendekati nilai yang diberikan menjadi sebuah pecahan.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Double | Nilai. |
+| nilai | Double | Nilai. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Bilangan rasional memiliki kesalahan kurang dari[`Epsilon`](../epsilon/) .
+Bilangan rasional dengan kesalahan kurang dari [`Epsilon`](../epsilon/).
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float, double) {#approximatefraction_3}
 
-Mendekati nilai yang diberikan ke pecahan.
+Mendekati nilai yang diberikan menjadi sebuah pecahan.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value, double epsilon)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Single | Nilai. |
-| epsilon | Double | Kesalahan diizinkan. |
+| nilai | Single | Nilai. |
+| epsilon | Double | Kesalahan yang diizinkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Bilangan rasional yang memiliki kesalahan kurang dari*epsilon*.
+Bilangan rasional dengan kesalahan kurang dari *epsilon*.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float) {#approximatefraction_2}
 
-Mendekati nilai yang diberikan ke pecahan.
+Mendekati nilai yang diberikan menjadi sebuah pecahan.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Single | Nilai. |
+| nilai | Single | Nilai. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Bilangan rasional memiliki kesalahan kurang dari[`Epsilon`](../epsilon/) .
+Bilangan rasional dengan kesalahan kurang dari [`Epsilon`](../epsilon/).
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan Penyesuaian Kurva.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menambahkan lapisan Curves Adjustment."
 type: docs
-weight: 330
+weight: 340
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
 Menambahkan lapisan Penyesuaian Kurva.
@@ -14,15 +15,15 @@ Menambahkan lapisan Penyesuaian Kurva.
 public CurvesLayer AddCurvesAdjustmentLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) Lapisan
+Lapisan [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) yang dibuat
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

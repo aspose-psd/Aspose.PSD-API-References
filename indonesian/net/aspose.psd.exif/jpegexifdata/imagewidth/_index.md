@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.ImageWidth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau mengatur lebar gambar.
+title: "JpegExifData.ImageWidth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur lebar gambar"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.exif/jpegexifdata/imagewidth/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageWidth property
 
-Mendapat atau mengatur lebar gambar.
+Mendapatkan atau mengatur lebar gambar.
 
 ```csharp
 public uint ImageWidth { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

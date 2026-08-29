@@ -1,11 +1,12 @@
 ---
-title: LayerMaskDataFull.LayerMaskDataFull
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataFull konstruktor. Konstruktor default.
+title: "LayerMaskDataFull.LayerMaskDataFull"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LayerMaskDataFull. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/layermaskdatafull/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public LayerMaskDataFull()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskDataFull](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

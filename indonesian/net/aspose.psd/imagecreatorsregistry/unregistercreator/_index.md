@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageCreatorsRegistry metode. Membatalkan pendaftaran pembuat.
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageCreatorsRegistry. Membatalkan pendaftaran pembuat"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-Membatalkan pendaftaran pembuat.
+Menghapus pendaftaran pembuat.
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | Deskriptor pencipta. |
+| creatorDescriptor | IImageCreatorDescriptor | Deskriptor pembuat. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* ruang nama [Aspose.PSD](../../imagecreatorsregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

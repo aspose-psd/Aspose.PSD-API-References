@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShmdResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "ShmdResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ShmdResource properti. Mendapatkan panjang sumber daya lapisan dalam byte"
 type: docs
-weight: 40
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/
 ---
+{{< psd/tize >}}
 ## ShmdResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShmdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

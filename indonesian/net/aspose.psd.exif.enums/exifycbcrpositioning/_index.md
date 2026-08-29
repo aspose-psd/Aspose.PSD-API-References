@@ -1,14 +1,15 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning enum. exif y cb cr posisi enum.
+title: "Enum ExifYCbCrPositioning"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifYCbCrPositioning enum. enum penempatan exif YCbCr"
 type: docs
-weight: 980
+weight: 990
 url: /id/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-exif y cb cr posisi enum.
+enumerasi penempatan y cb cr exif.
 
 ```csharp
 public enum ExifYCbCrPositioning
@@ -16,14 +17,14 @@ public enum ExifYCbCrPositioning
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Centered | `1` | YCbCr Tengah |
+| Centered | `1` | YCbCr Terpusat |
 | CoSited | `2` | Posisi bersama |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

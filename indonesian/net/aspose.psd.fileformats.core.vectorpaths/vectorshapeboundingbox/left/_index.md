@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Left
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeBoundingBox Properti. Mendapat atau menyetel kiri.
+title: "VectorShapeBoundingBox.Left"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeBoundingBox. Mendapatkan atau mengatur bagian kiri"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Left property
 
-Mendapat atau menyetel kiri.
+Mendapatkan atau mengatur kiri.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kiri.
+Bagian kiri.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeBoundingBox](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

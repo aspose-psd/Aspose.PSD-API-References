@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.PageRasterizationOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MultiPageOptions Properti. Mendapat atau menyetel opsi rasterisasi halaman.
+title: "MultiPageOptions.PageRasterizationOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MultiPageOptions. Mendapatkan atau mengatur opsi rasterisasi halaman"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageRasterizationOptions property
 
-Mendapat atau menyetel opsi rasterisasi halaman.
+Mendapatkan atau mengatur opsi rasterisasi halaman.
 
 ```csharp
 public VectorRasterizationOptions[] PageRasterizationOptions { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opsi rasterisasi halaman.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Point.Subtract
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Mengembalikan hasil pengurangan yang ditentukanSize dari yang ditentukanPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Mengembalikan hasil pengurangan Size yang ditentukan dari Point yang ditentukan."
 type: docs
 weight: 60
 url: /id/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-Mengembalikan hasil pengurangan yang ditentukan[`Size`](../../size/) dari yang ditentukan[`Point`](../) .
+Mengembalikan hasil pengurangan [`Size`](../../size/) yang ditentukan dari [`Point`](../) yang ditentukan.
 
 ```csharp
 public static Point Subtract(Point point, Size size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Itu[`Point`](../) untuk dikurangi. |
-| size | Size | Itu[`Size`](../../size/) untuk mengurangi dari*point*. |
+| point | Point | `[`Point`](../)` yang akan dikurangkan. |
+| size | Size | `[`Size`](../../size/)` yang akan dikurangkan dari *point*. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Point`](../) itu adalah hasil dari operasi pengurangan.
+`[`Point`](../)` yang merupakan hasil operasi pengurangan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

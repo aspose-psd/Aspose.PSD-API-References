@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Copyright
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapatkan atau menyetel hak cipta.
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur hak cipta"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
-Mendapatkan atau menyetel hak cipta.
+Mendapatkan atau mengatur hak cipta.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Hak Cipta.
+Hak cipta.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

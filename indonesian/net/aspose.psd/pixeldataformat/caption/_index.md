@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.Caption
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. Mendapatkan keterangan format data piksel.
+title: "PixelDataFormat.Caption"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat property. Mendapatkan keterangan format data piksel"
 type: docs
 weight: 310
 url: /id/net/aspose.psd/pixeldataformat/caption/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Caption property
 
 Mendapatkan keterangan format data piksel.
@@ -14,10 +15,10 @@ Mendapatkan keterangan format data piksel.
 public string Caption { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

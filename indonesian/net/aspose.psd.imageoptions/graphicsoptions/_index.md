@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.GraphicsOptions kelas. Menampilkan opsi grafis untuk bitmap tersemat.
+title: "Kelas GraphicsOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageOptions.GraphicsOptions. Mewakili opsi grafis untuk bitmap yang disematkan"
 type: docs
-weight: 4820
+weight: 5310
 url: /id/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
-Menampilkan opsi grafis untuk bitmap tersemat.
+Mewakili opsi grafis untuk bitmap tertanam.
 
 ```csharp
 public class GraphicsOptions
@@ -16,21 +17,21 @@ public class GraphicsOptions
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [GraphicsOptions](graphicsoptions/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Mendapatkan atau menyetel mode interpolasi. |
-| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Mendapatkan atau menyetel mode smoothing. |
-| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Mendapat atau menyetel petunjuk rendering teks. |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Mendapatkan atau mengatur mode interpolasi. |
+| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Mendapatkan atau mengatur mode penghalusan. |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Mendapatkan atau mengatur petunjuk rendering teks. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

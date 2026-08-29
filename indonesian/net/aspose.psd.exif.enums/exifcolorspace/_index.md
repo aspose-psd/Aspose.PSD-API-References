@@ -1,14 +1,15 @@
 ---
-title: Enum ExifColorSpace
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifColorSpace enum. enum ruang warna exif.
+title: "Enum ExifColorSpace"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace enum. enum ruang warna exif"
 type: docs
-weight: 800
+weight: 810
 url: /id/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
-enum ruang warna exif.
+enumerasi ruang warna exif.
 
 ```csharp
 public enum ExifColorSpace
@@ -16,15 +17,15 @@ public enum ExifColorSpace
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| SRgb | `1` | ruang warna SRGB. |
-| AdobeRgb | `2` | Ruang warna Adobe rgb. |
+| SRgb | `1` | Ruang warna SRGB. |
+| AdobeRgb | `2` | Ruang warna Adobe RGB. |
 | Uncalibrated | `65535` | Ruang warna tidak terkalibrasi. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

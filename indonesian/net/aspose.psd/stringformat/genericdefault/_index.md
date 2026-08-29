@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericDefault
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat default umumStringFormat objek.
+title: "StringFormat.GenericDefault"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mendapatkan objek StringFormat default generik."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/stringformat/genericdefault/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericDefault property
 
-Mendapat default umum[`StringFormat`](../) objek.
+Mendapatkan objek [`StringFormat`](../) default generik.
 
 ```csharp
 public static StringFormat GenericDefault { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Standar generik[`StringFormat`](../) obyek.
+Objek [`StringFormat`](../) default generik.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

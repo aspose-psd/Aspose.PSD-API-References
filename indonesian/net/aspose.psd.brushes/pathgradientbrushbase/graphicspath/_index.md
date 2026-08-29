@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.GraphicsPath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathGradientBrushBase Properti. Mendapat jalur grafis tempat sikat ini dibuat.
+title: "PathGradientBrushBase.GraphicsPath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PathGradientBrushBase. Mendapatkan jalur grafis yang menjadi dasar kuas ini."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.brushes/pathgradientbrushbase/graphicspath/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.GraphicsPath property
 
-Mendapat jalur grafis tempat sikat ini dibuat.
+Mendapatkan jalur grafis yang menjadi dasar kuas ini.
 
 ```csharp
 public GraphicsPath GraphicsPath { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jalur grafis.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrushBase](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

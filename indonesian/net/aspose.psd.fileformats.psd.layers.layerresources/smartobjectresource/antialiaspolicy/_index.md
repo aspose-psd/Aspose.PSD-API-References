@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.AntiAliasPolicy
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menyetel kebijakan anti alias dari data lapisan objek pintar di gambar PSD.
+title: "SmartObjectResource.AntiAliasPolicy"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmartObjectResource Properti. Mendapatkan atau mengatur kebijakan anti alias dari data lapisan objek pintar dalam gambar PSD"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.AntiAliasPolicy property
 
-Mendapat atau menyetel kebijakan anti alias dari data lapisan objek pintar di gambar PSD.
+Mendapatkan atau mengatur kebijakan anti alias dari data lapisan objek pintar dalam gambar PSD.
 
 ```csharp
 public override int AntiAliasPolicy { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kebijakan anti alias dari data lapisan objek pintar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

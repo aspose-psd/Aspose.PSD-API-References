@@ -1,27 +1,28 @@
 ---
-title: TextLayer.InnerText
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextLayer Properti. Mendapat teks dari layer
+title: "TextLayer.InnerText"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextLayer. Mengambil teks lapisan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/textlayer/innertext/
 ---
+{{< psd/tize >}}
 ## TextLayer.InnerText property
 
-Mendapat teks dari layer
+Mendapatkan teks lapisan
 
 ```csharp
 public string InnerText { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Teks.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.ChannelsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. Mendapatkan jumlah saluran.
+title: "PixelDataFormat.ChannelsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PixelDataFormat. Mendapatkan jumlah saluran"
 type: docs
 weight: 330
 url: /id/net/aspose.psd/pixeldataformat/channelscount/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelsCount property
 
 Mendapatkan jumlah saluran.
@@ -14,14 +15,14 @@ Mendapatkan jumlah saluran.
 public int ChannelsCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah saluran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

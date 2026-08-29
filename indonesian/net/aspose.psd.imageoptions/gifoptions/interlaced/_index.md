@@ -1,23 +1,24 @@
 ---
-title: GifOptions.Interlaced
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GifOptions Properti. Benar jika gambar harus disisipkan.
+title: "GifOptions.Interlaced"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GifOptions. Benar jika gambar harus diinterlaced"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
+{{< psd/tize >}}
 ## GifOptions.Interlaced property
 
-Benar jika gambar harus disisipkan.
+Benar jika gambar harus diinterlaced.
 
 ```csharp
 public bool Interlaced { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GifOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../gifoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

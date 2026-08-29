@@ -1,23 +1,24 @@
 ---
-title: VstkResource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat tanda tangan.
+title: "VstkResource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VstkResource. Mendapatkan tanda tangan"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/
 ---
+{{< psd/tize >}}
 ## VstkResource.Signature property
 
-Mendapat tanda tangan.
+Mendapatkan tanda tangan.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

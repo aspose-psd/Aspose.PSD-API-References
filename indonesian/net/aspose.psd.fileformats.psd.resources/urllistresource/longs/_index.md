@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Longs
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UrlListResource Properti. Mendapat atau menyetel long.
+title: "UrlListResource.Longs"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UrlListResource. Mendapatkan atau mengatur nilai long"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.resources/urllistresource/longs/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Longs property
 
-Mendapat atau menyetel long.
+Mendapatkan atau mengatur nilai long.
 
 ```csharp
 public int[] Longs { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Rindu.
+Nilai long.
 
-### Lihat juga
+### Lihat Juga
 
 * class [UrlListResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

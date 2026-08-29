@@ -1,11 +1,12 @@
 ---
-title: Class GifImageException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.GifImageException kelas. Pengecualian gambar Gif.
+title: "Kelas GifImageException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.CoreExceptions.ImageFormats.GifImageException. Pengecualian gambar Gif"
 type: docs
 weight: 520
 url: /id/net/aspose.psd.coreexceptions.imageformats/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException class
 
 Pengecualian gambar Gif.
@@ -16,15 +17,15 @@ public class GifImageException : ImageException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GifImageException](gifimageexception/#constructor)(string) | Menginisialisasi instance baru dari`GifImageException` kelas. |
-| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`GifImageException` kelas. |
+| [GifImageException](gifimageexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `GifImageException`. |
+| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `GifImageException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

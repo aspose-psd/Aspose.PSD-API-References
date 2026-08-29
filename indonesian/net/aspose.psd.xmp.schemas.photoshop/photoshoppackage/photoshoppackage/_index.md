@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.PhotoshopPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage konstruktor. Konstruktor default.
+title: "PhotoshopPackage.PhotoshopPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PhotoshopPackage. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/photoshoppackage/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PhotoshopPackage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

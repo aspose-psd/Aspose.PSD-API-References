@@ -1,27 +1,28 @@
 ---
-title: LangAlt.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LangAlt metode. Mengembalikan aString yang mewakili instance ini.
+title: "LangAlt.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LangAlt. Mengembalikan String yang mewakili instance ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp/langalt/tostring/
 ---
+{{< psd/tize >}}
 ## LangAlt.ToString method
 
-Mengembalikan aString yang mewakili instance ini.
+Mengembalikan String yang mewakili instance ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-AString yang mewakili instance ini.
+String yang mewakili instance ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../)
-* ruang nama [Aspose.PSD.Xmp](../../langalt/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

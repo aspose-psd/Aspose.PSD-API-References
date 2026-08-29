@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.ShapeIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LengthRecord Properti. Mendapat atau menetapkan indeks bentuk jalur saat ini di lapisan.
+title: "LengthRecord.ShapeIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LengthRecord properti. Mendapatkan atau mengatur indeks bentuk jalur saat ini dalam lapisan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/
 ---
+{{< psd/tize >}}
 ## LengthRecord.ShapeIndex property
 
-Mendapat atau menetapkan indeks bentuk jalur saat ini di lapisan.
+Mendapatkan atau mengatur indeks bentuk jalur saat ini dalam lapisan.
 
 ```csharp
 public ushort ShapeIndex { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh kode berikut menunjukkan dukungan properti LengthRecord baru, PathOperations (operasi boolean), ShapeIndex dan BezierKnotRecordsCount.
+Contoh kode berikut menunjukkan dukungan untuk properti LengthRecord baru, PathOperations (operasi boolean), ShapeIndex, dan BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Di sini kita mengubah cara menggabungkan antara bentuk.
+    // Di sini kami mengubah cara menggabungkan antara bentuk.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,10 +50,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LengthRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

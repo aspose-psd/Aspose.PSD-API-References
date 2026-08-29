@@ -1,11 +1,12 @@
 ---
-title: Class Configuration
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.MemoryManagement.Configuration kelas. Konfigurasi global manajemen memori
+title: "Kelas Configuration"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.MemoryManagement.Configuration. Konfigurasi global manajemen memori"
 type: docs
-weight: 5110
+weight: 5600
 url: /id/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
 Konfigurasi global manajemen memori
@@ -16,13 +17,13 @@ public static class Configuration
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Mendapat atau menyetel petunjuk ukuran buffer yang ditentukan ukuran maksimum yang diizinkan untuk semua buffer internal. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Mendapatkan atau mengatur petunjuk ukuran buffer yang didefinisikan sebagai ukuran maksimum yang diizinkan untuk semua buffer internal. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

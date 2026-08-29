@@ -1,24 +1,25 @@
 ---
-title: ImageOptionsBase.ResolutionSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageOptionsBase Properti. Mendapat atau menyetel pengaturan resolusi.
+title: "ImageOptionsBase.ResolutionSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageOptionsBase. Mendapatkan atau mengatur pengaturan resolusi"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/imageoptionsbase/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ResolutionSettings property
 
-Mendapat atau menyetel pengaturan resolusi.
+Mendapatkan atau mengatur pengaturan resolusi.
 
 ```csharp
 public virtual ResolutionSetting ResolutionSettings { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResolutionSetting](../../resolutionsetting/)
 * class [ImageOptionsBase](../)
-* ruang nama [Aspose.PSD](../../imageoptionsbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

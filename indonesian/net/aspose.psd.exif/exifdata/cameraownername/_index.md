@@ -1,27 +1,28 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel nama pemilik kamera
+title: "ExifData.CameraOwnerName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur nama pemilik kamera"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.exif/exifdata/cameraownername/
 ---
+{{< psd/tize >}}
 ## ExifData.CameraOwnerName property
 
-Mendapat atau menyetel nama pemilik kamera
+Mendapatkan atau mengatur nama pemilik kamera
 
 ```csharp
 public string CameraOwnerName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama pemilik kamera.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

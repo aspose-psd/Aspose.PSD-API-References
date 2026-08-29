@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.PathOperations
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LengthRecord Properti. Mendapat atau menyetel operasi jalur.
+title: "LengthRecord.PathOperations"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LengthRecord. Mengambil atau mengatur operasi jalur."
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/
 ---
+{{< psd/tize >}}
 ## LengthRecord.PathOperations property
 
-Mendapat atau menyetel operasi jalur.
+Mendapatkan atau mengatur operasi jalur.
 
 ```csharp
 public PathOperations PathOperations { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh kode berikut menunjukkan dukungan properti LengthRecord baru, PathOperations (operasi boolean), ShapeIndex dan BezierKnotRecordsCount.
+Contoh kode berikut menunjukkan dukungan untuk properti LengthRecord baru, PathOperations (operasi boolean), ShapeIndex, dan BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Di sini kita mengubah cara menggabungkan antara bentuk.
+    // Di sini kami mengubah cara menggabungkan antara bentuk.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,11 +50,11 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

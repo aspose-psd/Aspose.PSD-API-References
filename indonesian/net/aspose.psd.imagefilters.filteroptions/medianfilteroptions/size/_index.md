@@ -1,27 +1,28 @@
 ---
-title: MedianFilterOptions.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MedianFilterOptions Properti. Mendapat atau menyetel ukuran.
+title: "MedianFilterOptions.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MedianFilterOptions. Mendapatkan atau mengatur ukuran"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
-Mendapat atau menyetel ukuran.
+Mendapatkan atau mengatur ukuran.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ukuran kotak filter.
+Ukuran persegi panjang filter.
 
-### Lihat juga
+### Lihat Juga
 
 * class [MedianFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

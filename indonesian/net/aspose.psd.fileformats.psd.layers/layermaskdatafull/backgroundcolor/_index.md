@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.BackgroundColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataFull Properti. Mendapat atau mengatur warna latar belakang.
+title: "LayerMaskDataFull.BackgroundColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskDataFull. Mendapatkan atau mengatur warna latar belakang"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.BackgroundColor property
 
-Mendapat atau mengatur warna latar belakang.
+Mendapatkan atau mengatur warna latar belakang.
 
 ```csharp
 public byte BackgroundColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna latar belakang.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskDataFull](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

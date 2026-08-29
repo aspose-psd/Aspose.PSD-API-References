@@ -1,44 +1,45 @@
 ---
-title: RectangleProjectedShape.RectangleProjectedShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleProjectedShape konstruktor. Menginisialisasi instance baru dariRectangleProjectedShape kelas.
+title: "RectangleProjectedShape.RectangleProjectedShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor RectangleProjectedShape. Menginisialisasi instance baru dari kelas RectangleProjectedShape"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape() {#constructor}
 
-Menginisialisasi instance baru dari[`RectangleProjectedShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-Menginisialisasi instance baru dari[`RectangleProjectedShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | RectangleF | Persegi panjang untuk menginisialisasi dari. |
+| persegi panjang | RectangleF | Segi empat yang akan diinisialisasi dari. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

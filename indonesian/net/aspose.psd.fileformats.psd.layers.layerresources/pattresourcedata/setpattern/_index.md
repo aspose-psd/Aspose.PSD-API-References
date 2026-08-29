@@ -1,35 +1,36 @@
 ---
-title: PattResourceData.SetPattern
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData metode. Mengatur pola.
+title: "PattResourceData.SetPattern"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PattResourceData. Mengatur buffer piksel pola dan ukuran target, memperbarui Width / Height, serta menyimpan data untuk penyimpanan menggunakan mode kompresi default 0."
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/
 ---
+{{< psd/tize >}}
 ## PattResourceData.SetPattern method
 
-Mengatur pola.
+Mengatur buffer piksel pola dan ukuran target, memperbarui [`Width`](../width/) / [`Height`](../height/), serta menyimpan data untuk penyimpanan menggunakan mode kompresi default (0).
 
 ```csharp
 public void SetPattern(int[] pixels, Rectangle bounds)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pixels | Int32[] | Piksel. |
-| bounds | Rectangle | Batas-batas. |
+| piksel | Int32[] | Piksel 32-bit dalam format `0xAARRGGBB`. |
+| batas | Rectangle | Batas piksel pola. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang array piksel harus sama dengan area batas |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang array piksel harus sama dengan area batas. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

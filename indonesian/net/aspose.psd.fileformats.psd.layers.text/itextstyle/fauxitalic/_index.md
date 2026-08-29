@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.FauxItalic
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapatkan atau menyetel huruf tebal palsu diaktifkan.
+title: "ITextStyle.FauxItalic"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Mendapatkan atau mengatur apakah faux bold diaktifkan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FauxItalic property
 
-Mendapatkan atau menyetel huruf tebal palsu diaktifkan.
+Mendapatkan atau mengatur apakah faux bold diaktifkan.
 
 ```csharp
 public bool FauxItalic { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

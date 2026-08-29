@@ -1,32 +1,33 @@
 ---
-title: ColorPalette.Entries
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPalette Properti. Mendapat arrayColor struktur.
+title: "ColorPalette.Entries"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorPalette. Mendapatkan sebuah array dari struktur Color"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/colorpalette/entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Entries property
 
-Mendapat array[`Color`](../../color/) struktur.
+Mendapatkan sebuah array dari struktur [`Color`](../../color/).
 
 ```csharp
 public Color[] Entries { get; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Larik dari[`Color`](../../color/) struktur yang membentuk ini[`ColorPalette`](../) .
+Array dari struktur [`Color`](../../color/) yang membentuk [`ColorPalette`](../).
 
-### Nilai properti
+### Property Value
 
 Entri.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace menangani pemrosesan format file Png.
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace menangani pemrosesan format file Png"
 type: docs
-weight: 190
+weight: 200
 url: /id/net/aspose.psd.fileformats.png/
 ---
-Namespace menangani pemrosesan format file Png.
+{{< psd/tize >}}
+Namespace ini menangani pemrosesan format file PNG.
 
-## Pencacahan
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [PngColorType](./pngcolortype/) | Mewakili jenis warna gambar PNG. |
-| [PngFilterType](./pngfiltertype/) | Jenis filter png. |
+| [PngColorType](./pngcolortype/) | Mewakili tipe warna gambar PNG. |
+| [PngFilterType](./pngfiltertype/) | Tipe filter png. |
 
 

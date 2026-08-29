@@ -1,24 +1,25 @@
 ---
-title: DropShadowEffect.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapat atau mengatur opacity.
+title: "DropShadowEffect.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DropShadowEffect. Mendapatkan atau mengatur opasitas"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Opacity property
 
-Mendapat atau mengatur opacity.
+Mendapatkan atau mengatur opasitas.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opasitas.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan penggunaan properti Opacity dari DropShadowEffect.
 
@@ -47,10 +48,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

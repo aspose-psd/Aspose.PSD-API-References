@@ -1,28 +1,29 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartResourceCreator metode. Menghasilkan sumber daya objek cerdas eksternal.
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SmartResourceCreator. Menghasilkan sumber daya objek pintar eksternal"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
-Menghasilkan sumber daya objek cerdas eksternal.
+Menghasilkan sumber daya objek pintar eksternal.
 
 ```csharp
 public SoLeResource GenerateSmartExternalResource()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dihasilkan[`SoLeResource`](../../soleresource/) contoh.
+Instansi [`SoLeResource`](../../soleresource/) yang dihasilkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

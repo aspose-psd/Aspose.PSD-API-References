@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color Properti. Mendapat kosongColor .
+title: "Color.Empty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Color. Mendapatkan Color kosong"
 type: docs
 weight: 430
 url: /id/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-Mendapat kosong[`Color`](../) .
+Mendapatkan [`Color`](../) kosong.
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Yang kosong[`Color`](../).
+[`Color`](../) kosong.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: PsdImage.MergeLayers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menggabungkan layer.
+title: "PsdImage.MergeLayers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menggabungkan lapisan-lapisan"
 type: docs
-weight: 560
+weight: 620
 url: /id/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
+{{< psd/tize >}}
 ## PsdImage.MergeLayers method
 
-Menggabungkan layer.
+Menggabungkan lapisan-lapisan.
 
 ```csharp
 public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bottomLayer | Layer | Lapisan bawah. |
-| topLayer | Layer | Lapisan atas. |
+| bottomLayer | Lapisan | Lapisan bawah. |
+| topLayer | Lapisan | Lapisan atas. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Lapisan bawah setelah penggabungan
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapat atau menyetel perataan Romawi vertikal standar. Ini berdasarkan nilai sumber daya BaselineDirection hanya berlaku jika orientasi teks adalahVertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Mendapatkan atau mengatur penyelarasan Romawi vertikal standar. Ini berdasarkan nilai sumber BaselineDirection hanya berlaku ketika orientasi teks Vertikal"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-Mendapat atau menyetel perataan Romawi vertikal standar. Ini berdasarkan nilai sumber daya BaselineDirection hanya berlaku jika orientasi teks adalahVertical .
+Mendapatkan atau mengatur perataan Romawi vertikal standar. Ini berdasarkan nilai sumber BaselineDirection hanya berlaku ketika orientasi teks Vertikal.
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan untuk properti IsStandardVerticalRomanAlignmentEnabled yang baru.
+Kode berikut menunjukkan dukungan properti IsStandardVerticalRomanAlignmentEnabled yang baru.
 
 ```csharp
 [C#]
 
-// Kode berikut mendemonstrasikan kemampuan untuk mengedit properti IsStandardVerticalRomanAlignmentEnabled yang baru.
-// Ini tidak memengaruhi rendering saat ini, tetapi hanya memungkinkan Anda untuk mengedit nilai properti.
+// Kode berikut menunjukkan kemampuan mengedit properti IsStandardVerticalRomanAlignmentEnabled yang baru.
+// Ini tidak memengaruhi rendering saat ini, tetapi hanya memungkinkan Anda mengedit nilai properti.
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -33,7 +34,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textPortion = textLayer.TextData.Items[0];
     if (textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // Bacaan yang benar
+        // Pembacaan yang benar
     }
     else
     {
@@ -52,7 +53,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textPortion = textLayer.TextData.Items[0];
     if (!textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // Bacaan yang benar
+        // Pembacaan yang benar
     }
     else
     {
@@ -61,10 +62,10 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

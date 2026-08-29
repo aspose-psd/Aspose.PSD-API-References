@@ -1,24 +1,25 @@
 ---
-title: VstkResource.StrokeStyleBlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel mode Stroke Blend.
+title: "VstkResource.StrokeStyleBlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VstkResource. Mendapatkan atau mengatur mode campuran goresan"
 type: docs
-weight: 80
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleBlendMode property
 
-Mendapat atau menyetel mode Stroke Blend.
+Mendapatkan atau mengatur mode Campuran Stroke.
 
 ```csharp
 public BlendMode StrokeStyleBlendMode { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

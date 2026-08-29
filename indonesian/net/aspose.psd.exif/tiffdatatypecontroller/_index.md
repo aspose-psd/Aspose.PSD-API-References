@@ -1,11 +1,12 @@
 ---
-title: Class TiffDataTypeController
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.TiffDataTypeController kelas. Mewakili kelas umum untuk bekerja dengan tipe data tiff.
+title: "Kelas TiffDataTypeController"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.TiffDataTypeController kelas. Mewakili kelas umum untuk bekerja dengan tipe data tiff."
 type: docs
-weight: 1020
+weight: 1030
 url: /id/net/aspose.psd.exif/tiffdatatypecontroller/
 ---
+{{< psd/tize >}}
 ## TiffDataTypeController class
 
 Mewakili kelas umum untuk bekerja dengan tipe data tiff.
@@ -16,13 +17,13 @@ public class TiffDataTypeController
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [TiffDataTypeController](tiffdatatypecontroller/)() | Konstruktor default. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif](../../aspose.psd.exif/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif](../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../)
 
 

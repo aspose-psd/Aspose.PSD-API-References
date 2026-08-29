@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clip
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapat atau menyetel wilayah klip.
+title: "Graphics.Clip"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur wilayah klip"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
-Mendapat atau menyetel wilayah klip.
+Mendapatkan atau mengatur wilayah klip.
 
 ```csharp
 public Region Clip { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Wilayah klip.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

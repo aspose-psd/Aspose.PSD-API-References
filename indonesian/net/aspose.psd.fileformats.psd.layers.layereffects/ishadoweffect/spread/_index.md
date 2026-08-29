@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Spread
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IShadowEffect Properti. Mendapat atau menetapkan intensitas sebagai persen.
+title: "IShadowEffect.Spread"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IShadowEffect. Mendapatkan atau mengatur intensitas sebagai persentase"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Spread property
 
-Mendapat atau menetapkan intensitas sebagai persen.
+Mendapatkan atau mengatur intensitas sebagai persentase.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Spread.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

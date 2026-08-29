@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileStreamContainer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah streaming bersifat temporal.
+title: "FileStreamContainer.IsTemporal"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FileStreamContainer. Mendapatkan atau mengatur nilai yang menunjukkan apakah aliran bersifat temporal"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah streaming bersifat temporal.
+Membuat aliran file baru.
 
 ```csharp
 public bool IsTemporal { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran bersifat temporal; jika tidak,`PALSU` .
+`true` jika aliran bersifat temporal; selainnya, `false`.
 
-### Perkataan
+## Catatan
 
-Aliran temporal akan menghapus dirinya sendiri saat dibuang. Jika aliran berdasarkan memori, properti ini tidak berpengaruh. Aliran dapat ditandai sebagai temporal atau persisten jika dibuat secara eksplisit jika tidak, pengecualian yang sesuai akan dilemparkan.
+Aliran temporal akan menghapus dirinya sendiri saat dibuang. Jika aliran berbasis memori, properti ini tidak berpengaruh. Aliran dapat ditandai sebagai temporal atau persisten jika dibuat secara eksplisit, jika tidak, pengecualian yang sesuai akan dilempar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileStreamContainer](../)
-* ruang nama [Aspose.PSD](../../filestreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

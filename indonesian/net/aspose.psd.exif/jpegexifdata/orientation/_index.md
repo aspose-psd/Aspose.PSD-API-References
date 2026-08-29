@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Orientation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel orientasi.
+title: "JpegExifData.Orientation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur orientasi"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.exif/jpegexifdata/orientation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Orientation property
 
-Mendapat atau menyetel orientasi.
+Mendapatkan atau mengatur orientasi.
 
 ```csharp
 public ExifOrientation Orientation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Orientasi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifOrientation](../../../aspose.psd.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

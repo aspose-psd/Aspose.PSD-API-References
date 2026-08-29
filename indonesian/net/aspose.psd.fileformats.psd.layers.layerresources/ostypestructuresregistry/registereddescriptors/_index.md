@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisteredDescriptors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OSTypeStructuresRegistry Properti. Mendapat deskriptor terdaftar.
+title: "OSTypeStructuresRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti OSTypeStructuresRegistry. Mendapatkan deskriptor yang terdaftar"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisteredDescriptors property
 
-Mendapat deskriptor terdaftar.
+Mendapatkan deskriptor yang terdaftar.
 
 ```csharp
 public static IOSTypeStructureLoader[] RegisteredDescriptors { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Deskriptor terdaftar.
+Deskriptor yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

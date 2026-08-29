@@ -1,11 +1,12 @@
 ---
-title: CmykChannelMixerLayer.CyanChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykChannelMixerLayer Properti. Mendapatkan saluran cyan.
+title: "CmykChannelMixerLayer.CyanChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "CmykChannelMixerLayer properti. Mendapatkan saluran sian"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/cyanchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.CyanChannel property
 
 Mendapatkan saluran cyan.
@@ -14,15 +15,15 @@ Mendapatkan saluran cyan.
 public CmykMixerChannel CyanChannel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Saluran cyan.
+Saluran sian.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

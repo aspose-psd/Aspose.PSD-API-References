@@ -1,32 +1,33 @@
 ---
-title: Rectangle.op_Equality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Menguji apakah duaRectangle struktur memiliki lokasi dan ukuran yang sama.
+title: "Rectangle.op_Equality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Menguji apakah dua struktur Rectangle memiliki lokasi dan ukuran yang sama."
 type: docs
 weight: 290
 url: /id/net/aspose.psd/rectangle/op_equality/
 ---
+{{< psd/tize >}}
 ## Rectangle Equality operator
 
-Menguji apakah dua[`Rectangle`](../) struktur memiliki lokasi dan ukuran yang sama.
+Menguji apakah dua struktur [`Rectangle`](../) memiliki lokasi dan ukuran yang sama.
 
 ```csharp
 public static bool operator ==(Rectangle left, Rectangle right)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Rectangle | Itu[`Rectangle`](../) struktur yang ada di sebelah kiri operator kesetaraan. |
-| right | Rectangle | Itu[`Rectangle`](../)struktur yang berada di sebelah kanan operator kesetaraan. |
+| left | Rectangle | Struktur [`Rectangle`](../) yang berada di sebelah kiri operator kesetaraan. |
+| right | Rectangle | Struktur [`Rectangle`](../) yang berada di sebelah kanan operator kesetaraan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Operator ini mengembalikan true jika keduanya[`Rectangle`](../) struktur memiliki kesamaan[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , Dan[`Height`](../height/) properti.
+Operator ini mengembalikan true jika dua struktur [`Rectangle`](../) memiliki properti [`X`](../x/), [`Y`](../y/), [`Width`](../width/), dan [`Height`](../height/) yang sama.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

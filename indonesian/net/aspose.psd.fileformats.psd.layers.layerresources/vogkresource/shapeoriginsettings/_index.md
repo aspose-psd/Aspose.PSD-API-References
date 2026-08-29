@@ -1,20 +1,21 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VogkResource Properti. Mendapat atau menyetel pengaturan asal bentuk.
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VogkResource properti. Mendapatkan atau mengatur pengaturan asal bentuk"
 type: docs
-weight: 50
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
-Mendapat atau menyetel pengaturan asal bentuk.
+Mendapatkan atau mengatur pengaturan asal bentuk.
 
 ```csharp
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // Mengedit
+    // Menyunting
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,11 +71,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

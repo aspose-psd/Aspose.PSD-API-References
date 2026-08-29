@@ -1,27 +1,28 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IopaResource Properti. Mendapat atau menyetel opasitas isian.
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IopaResource. Mendapatkan atau mengatur opasitas isi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
-Mendapat atau menyetel opasitas isian.
+Mendapatkan atau mengatur opasitas isi.
 
 ```csharp
 public byte FillOpacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Isi opacity.
+Opasitas isi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [IopaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

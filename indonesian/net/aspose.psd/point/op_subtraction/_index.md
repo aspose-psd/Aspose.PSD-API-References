@@ -1,33 +1,34 @@
 ---
-title: Point.op_Subtraction
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Menerjemahkan aPoint oleh negatif dari yang diberikanSize .
+title: "Point.op_Subtraction"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Mentranslasi Point dengan negatif dari Size yang diberikan."
 type: docs
 weight: 200
 url: /id/net/aspose.psd/point/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Point Subtraction operator
 
-Menerjemahkan a[`Point`](../) oleh negatif dari yang diberikan[`Size`](../../size/) .
+Mentranslasi [`Point`](../) dengan negatif dari [`Size`](../../size/) yang diberikan.
 
 ```csharp
 public static Point operator -(Point point, Size size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Itu[`Point`](../) untuk menerjemahkan. |
-| size | Size | A[`Size`](../../size/) yang menentukan pasangan angka yang akan dikurangi dari koordinatnya*point*. |
+| point | Point | [`Point`](../) yang akan diterjemahkan. |
+| size | Size | Sebuah [`Size`](../../size/) yang menentukan pasangan angka untuk dikurangkan dari koordinat *point*. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`Point`](../) struktur yang diterjemahkan oleh negatif yang diberikan[`Size`](../../size/) struktur.
+Sebuah struktur [`Point`](../) yang diterjemahkan oleh negatif dari struktur [`Size`](../../size/) yang diberikan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

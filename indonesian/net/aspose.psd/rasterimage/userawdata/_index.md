@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UseRawData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah akan menggunakan pemuatan data mentah saat pemuatan data mentah tersedia.
+title: "RasterImage.UseRawData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mengambil atau menetapkan nilai yang menunjukkan apakah akan menggunakan pemuatan data mentah ketika pemuatan data mentah tersedia"
 type: docs
 weight: 150
 url: /id/net/aspose.psd/rasterimage/userawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UseRawData property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah akan menggunakan pemuatan data mentah saat pemuatan data mentah tersedia.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah akan menggunakan pemuatan data mentah ketika pemuatan data mentah tersedia.
 
 ```csharp
 public virtual bool UseRawData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika menggunakan pemuatan data mentah saat pemuatan data mentah tersedia.; jika tidak,`PALSU` .
+`true` jika menggunakan pemuatan data mentah ketika pemuatan data mentah tersedia; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

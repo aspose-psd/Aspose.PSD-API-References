@@ -1,27 +1,28 @@
 ---
-title: Rational.Numerator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rational Properti. Mendapatkan pembilangnya.
+title: "Rational.Numerator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Rational properti. Mendapatkan numerator"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.derived/rational/numerator/
 ---
+{{< psd/tize >}}
 ## Rational.Numerator property
 
-Mendapatkan pembilangnya.
+Mendapatkan pembilang.
 
 ```csharp
 public int Numerator { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pembilang.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Rational](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

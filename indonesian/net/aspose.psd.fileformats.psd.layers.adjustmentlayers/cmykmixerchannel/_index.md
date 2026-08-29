@@ -1,14 +1,15 @@
 ---
-title: Class CmykMixerChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel kelas. CmykChannel. Ini pembungkus untuk data mentah saluran. Digunakan di MixrResource
+title: "Kelas CmykMixerChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel class. CmykChannel. Pembungkusnya untuk data mentah saluran. Digunakan dalam MixrResource"
 type: docs
-weight: 1710
+weight: 1760
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel class
 
-CmykChannel. Ini pembungkus untuk data mentah saluran. Digunakan di MixrResource
+CmykChannel. Ini pembungkus untuk data mentah saluran. Digunakan dalam MixrResource
 
 ```csharp
 public class CmykMixerChannel : MixerChannel
@@ -16,30 +17,30 @@ public class CmykMixerChannel : MixerChannel
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | Menginisialisasi instance baru dari`CmykMixerChannel` kelas. |
+| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | Menginisialisasi instance baru dari kelas `CmykMixerChannel`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/) { get; set; } | Mendapat atau menyetel hitam. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Mendapat atau menyetel konstanta.dari saluran. |
-| [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/) { get; set; } | Mendapat atau menyetel cyan. |
-| [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/) { get; set; } | Mendapat atau menyetel magenta. |
-| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/) { get; set; } | Mendapat atau menyetel kuning. |
+| [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/) { get; set; } | Mendapatkan atau mengatur hitam. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Mendapatkan atau mengatur konstanta saluran. |
+| [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/) { get; set; } | Mendapatkan atau mengatur sian. |
+| [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/) { get; set; } | Mendapatkan atau mengatur magenta. |
+| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/) { get; set; } | Mendapatkan atau mengatur kuning. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Mendapat data mentah. |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Mendapatkan data mentah. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixerChannel](../mixerchannel/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

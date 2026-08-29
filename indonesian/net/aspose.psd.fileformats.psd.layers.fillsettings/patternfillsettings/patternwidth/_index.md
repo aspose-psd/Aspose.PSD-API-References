@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternWidth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau mengatur lebar pola.
+title: "PatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PatternFillSettings properti. Mendapatkan atau mengatur lebar pola"
 type: docs
-weight: 100
+weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternWidth property
 
-Mendapat atau mengatur lebar pola.
+Mendapatkan atau mengatur lebar pola.
 
 ```csharp
 public int PatternWidth { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar pola.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari pengeditan Fill Layer Pattern.
+Kode berikut menunjukkan dukungan pengeditan Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

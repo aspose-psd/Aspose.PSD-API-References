@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.RegisteredDescriptors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResourcesRegistry Properti. Mendapat deskriptor terdaftar.
+title: "LayerResourcesRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerResourcesRegistry. Mendapatkan deskriptor yang terdaftar."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisteredDescriptors property
 
-Mendapat deskriptor terdaftar.
+Mendapatkan deskriptor yang terdaftar.
 
 ```csharp
 public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Deskriptor terdaftar.
+Deskriptor yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

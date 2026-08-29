@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalHeight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mendapat tinggi proporsional.
+title: "Image.GetProportionalHeight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mengambil tinggi proporsional"
 type: docs
-weight: 280
+weight: 290
 url: /id/net/aspose.psd/image/getproportionalheight/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalHeight method
 
-Mendapat tinggi proporsional.
+Mendapatkan tinggi proporsional.
 
 ```csharp
 public static int GetProportionalHeight(int width, int height, int newWidth)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar. |
-| height | Int32 | Ketinggian. |
+| lebar | Int32 | Lebar. |
+| tinggi | Int32 | Tinggi. |
 | newWidth | Int32 | Lebar baru. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Tinggi proporsional.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

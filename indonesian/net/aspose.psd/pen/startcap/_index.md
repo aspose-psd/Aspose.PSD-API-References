@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menyetel gaya topi yang digunakan pada awal garis yang digambar dengan iniPen .
+title: "Pen.StartCap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur gaya cap yang digunakan di awal garis yang digambar dengan Pen ini"
 type: docs
 weight: 160
 url: /id/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-Mendapat atau menyetel gaya topi yang digunakan pada awal garis yang digambar dengan ini[`Pen`](../) .
+Mendapatkan atau mengatur gaya cap yang digunakan di awal garis yang digambar dengan [`Pen`](../).
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Salah satu dari[`LineCap`](../../linecap/) nilai yang mewakili gaya topi yang digunakan pada awal garis yang digambar dengan ini[`Pen`](../).
+Salah satu nilai [`LineCap`](../../linecap/) yang mewakili gaya cap yang digunakan di awal garis yang digambar dengan [`Pen`](../).
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`StartCap` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `StartCap` diatur pada [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

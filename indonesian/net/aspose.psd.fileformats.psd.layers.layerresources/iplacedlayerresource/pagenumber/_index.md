@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.PageNumber
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapat atau menyetel nomor halaman dari lapisan yang ditempatkan di file PSD.
+title: "IPlacedLayerResource.PageNumber"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur nomor halaman lapisan yang ditempatkan dalam file PSD"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PageNumber property
 
-Mendapat atau menyetel nomor halaman dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur nomor halaman lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nomor halaman dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum WrapMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.WrapMode enum. Menentukan bagaimana tekstur atau gradien disusun saat lebih kecil dari area yang diisi.
+title: "Enum WrapMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.WrapMode enum. Menentukan bagaimana tekstur atau gradien ditata ketika lebih kecil dari area yang diisi"
 type: docs
-weight: 5740
+weight: 6240
 url: /id/net/aspose.psd/wrapmode/
 ---
+{{< psd/tize >}}
 ## WrapMode enumeration
 
-Menentukan bagaimana tekstur atau gradien disusun saat lebih kecil dari area yang diisi.
+Menentukan cara tekstur atau gradien ditata ketika lebih kecil dari area yang diisi.
 
 ```csharp
 public enum WrapMode
@@ -16,17 +17,17 @@ public enum WrapMode
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Tile | `0` | Menyusun gradien atau tekstur. |
-| TileFlipX | `1` | Membalikkan tekstur atau gradien secara horizontal, lalu menyusun tekstur atau gradien. |
-| TileFlipY | `2` | Membalikkan tekstur atau gradien secara vertikal dan kemudian menyusun tekstur atau gradien. |
-| TileFlipXY | `3` | Membalikkan tekstur atau gradien secara horizontal dan vertikal, lalu menyusun tekstur atau gradien. |
-| Clamp | `4` | Tekstur atau gradien tidak bersusun. |
+| Tile | `0` | Menata gradien atau tekstur. |
+| TileFlipX | `1` | Membalik tekstur atau gradien secara horizontal lalu menata tekstur atau gradien tersebut. |
+| TileFlipY | `2` | Membalik tekstur atau gradien secara vertikal lalu menata tekstur atau gradien tersebut. |
+| TileFlipXY | `3` | Membalik tekstur atau gradien secara horizontal dan vertikal lalu menata tekstur atau gradien tersebut. |
+| Clamp | `4` | Tekstur atau gradien tidak ditata. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

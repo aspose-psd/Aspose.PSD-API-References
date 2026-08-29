@@ -1,26 +1,27 @@
 ---
-title: TextFontInfo.Style
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextFontInfo Properti. Mendapat gaya font yang diuraikan dari nama subfamili
+title: "TextFontInfo.Style"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextFontInfo. Mendapatkan gaya font yang diurai dari nama subkeluarga"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/style/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Style property
 
-Mendapat gaya font yang diuraikan dari nama subfamili
+Mendapatkan gaya font yang diurai dari nama subkeluarga
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Gaya font diurai dari nama subfamili
+Gaya font yang diurai dari nama subkeluarga
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan bagaimana Aspose.PSD mendapatkan properti pemformatan sebaris dari Lapisan Teks.
+Kode berikut menunjukkan cara Aspose.PSD mendapatkan properti pemformatan inline dari Text Layer.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // mendapatkan font yang ada di lapisan teks
+        // mendapatkan font yang terdapat dalam lapisan teks
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FontStyle](../../../aspose.psd/fontstyle/)
 * class [TextFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

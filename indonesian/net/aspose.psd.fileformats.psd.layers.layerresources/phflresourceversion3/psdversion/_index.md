@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion3 Properti. Mendapatkan versi psd.
+title: "PhflResourceVersion3.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResourceVersion3. Mendapatkan versi psd"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/psdversion/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,10 +15,10 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion3](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

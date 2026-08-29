@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ComplexTypeBase Properti. Mendapatkan awalan.
+title: "ComplexTypeBase.Prefix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ComplexTypeBase. Mendapatkan prefix"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
-Mendapatkan awalan.
+Mendapatkan prefiks.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Awalan.
+Prefix tersebut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ComplexTypeBase](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

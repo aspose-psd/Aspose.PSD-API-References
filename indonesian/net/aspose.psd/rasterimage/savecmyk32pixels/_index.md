@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveCmyk32Pixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Menyimpan piksel.
+title: "RasterImage.SaveCmyk32Pixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Menyimpan piksel"
 type: docs
-weight: 510
+weight: 520
 url: /id/net/aspose.psd/rasterimage/savecmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveCmyk32Pixels method
 
 Menyimpan piksel.
@@ -14,16 +15,16 @@ Menyimpan piksel.
 public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk menyimpan piksel. |
-| pixels | Int32[] | Piksel CMYK disajikan sebagai nilai integer 32-bit. |
+| persegi panjang | Rectangle | Persegi panjang untuk menyimpan piksel. |
+| piksel | Int32[] | Pixel CMYK yang disajikan sebagai nilai integer 32-bit. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

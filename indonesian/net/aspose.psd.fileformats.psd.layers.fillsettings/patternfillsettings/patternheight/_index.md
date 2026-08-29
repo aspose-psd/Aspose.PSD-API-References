@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternHeight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau menyetel tinggi pola.
+title: "PatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PatternFillSettings. Mendapatkan atau mengatur tinggi pola"
 type: docs
-weight: 70
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternHeight property
 
-Mendapat atau menyetel tinggi pola.
+Mendapatkan atau mengatur tinggi pola.
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi pola.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari pengeditan Fill Layer Pattern.
+Kode berikut menunjukkan dukungan pengeditan Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

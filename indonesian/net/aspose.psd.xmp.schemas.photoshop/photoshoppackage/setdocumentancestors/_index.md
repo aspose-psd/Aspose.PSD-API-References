@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetDocumentAncestors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Menetapkan leluhur dokumen.
+title: "PhotoshopPackage.SetDocumentAncestors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhotoshopPackage. Menetapkan nenek moyang dokumen"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetDocumentAncestors method
 
-Menetapkan leluhur dokumen.
+Mengatur leluhur dokumen.
 
 ```csharp
 public void SetDocumentAncestors(string[] ancestors)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | ancestors | String[] | Nenek moyang. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

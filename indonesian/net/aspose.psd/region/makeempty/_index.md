@@ -1,23 +1,24 @@
 ---
-title: Region.MakeEmpty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Menginisialisasi iniRegion ke interior kosong.
+title: "Region.MakeEmpty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode Region. Menginisialisasi Region ini menjadi interior kosong"
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-Menginisialisasi ini[`Region`](../) ke interior kosong.
+Menginisialisasi [`Region`](../) ini menjadi interior kosong.
 
 ```csharp
 public void MakeEmpty()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

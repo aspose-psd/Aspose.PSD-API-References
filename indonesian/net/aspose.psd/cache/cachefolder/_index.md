@@ -1,27 +1,28 @@
 ---
-title: Cache.CacheFolder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Cache Properti. Mendapat atau menyetel folder cache.
+title: "Cache.CacheFolder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Cache properti. Mendapatkan atau mengatur folder cache"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/cache/cachefolder/
 ---
+{{< psd/tize >}}
 ## Cache.CacheFolder property
 
-Mendapat atau menyetel folder cache.
+Mendapatkan atau mengatur folder cache.
 
 ```csharp
 public static string CacheFolder { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Folder cache.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Cache](../)
-* ruang nama [Aspose.PSD](../../cache/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

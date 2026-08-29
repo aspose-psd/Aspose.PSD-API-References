@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.UpdateCurvePoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesContinuousManager metode. Memperbarui titik kurva.
+title: "CurvesContinuousManager.UpdateCurvePoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvesContinuousManager. Memperbarui titik kurva"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.UpdateCurvePoint method
 
 Memperbarui titik kurva.
@@ -14,17 +15,17 @@ Memperbarui titik kurva.
 public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
-| pointIndex | Int32 | Indeks poin. |
+| pointIndex | Int32 | Indeks titik. |
 | x | Byte | Lokasi x. |
 | y | Byte | Lokasi y. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesContinuousManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

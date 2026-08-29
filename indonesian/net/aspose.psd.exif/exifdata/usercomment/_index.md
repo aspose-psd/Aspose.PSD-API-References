@@ -1,27 +1,28 @@
 ---
-title: ExifData.UserComment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel komentar pengguna.
+title: "ExifData.UserComment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur komentar pengguna"
 type: docs
 weight: 1060
 url: /id/net/aspose.psd.exif/exifdata/usercomment/
 ---
+{{< psd/tize >}}
 ## ExifData.UserComment property
 
-Mendapat atau menyetel komentar pengguna.
+Mendapatkan atau mengatur komentar pengguna.
 
 ```csharp
 public string UserComment { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komentar pengguna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

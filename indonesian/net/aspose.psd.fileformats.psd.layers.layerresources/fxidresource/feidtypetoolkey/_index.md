@@ -1,23 +1,24 @@
 ---
-title: FXidResource.FEidTypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FXidResource bidang. Kunci info alat jenis FEid.
+title: "FXidResource.FEidTypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field FXidResource. Kunci info alat tipe FEid"
 type: docs
-weight: 90
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/
 ---
+{{< psd/tize >}}
 ## FXidResource.FEidTypeToolKey field
 
-Kunci info alat jenis FEid.
+Kunci info alat tipe FEid.
 
 ```csharp
 public const int FEidTypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FXidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

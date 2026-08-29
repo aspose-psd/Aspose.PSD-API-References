@@ -1,27 +1,28 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LimitMemoryException Properti. Mendapat atau menyetel faktor pengurangan memori.
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LimitMemoryException. Mendapatkan atau mengatur faktor pengurangan memori"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
-Mendapat atau menyetel faktor pengurangan memori.
+Mendapatkan atau mengatur faktor pengurangan memori.
 
 ```csharp
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Faktor pengurangan memori.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LimitMemoryException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

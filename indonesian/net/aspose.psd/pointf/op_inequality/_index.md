@@ -1,11 +1,12 @@
 ---
-title: PointF.op_Inequality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF metode. Menentukan apakah koordinat titik yang ditentukan tidak sama.
+title: "PointF.op_Inequality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointF. Menentukan apakah koordinat titik yang ditentukan tidak sama."
 type: docs
 weight: 130
 url: /id/net/aspose.psd/pointf/op_inequality/
 ---
+{{< psd/tize >}}
 ## PointF Inequality operator
 
 Menentukan apakah koordinat titik yang ditentukan tidak sama.
@@ -14,19 +15,19 @@ Menentukan apakah koordinat titik yang ditentukan tidak sama.
 public static bool operator !=(PointF point1, PointF point2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point1 | PointF | Yang pertama[`PointF`](../) untuk membandingkan. |
-| point2 | PointF | Sebentar[`PointF`](../) untuk membandingkan. |
+| point1 | PointF | Sebuah [`PointF`](../) pertama untuk dibandingkan. |
+| point2 | PointF | Sebuah [`PointF`](../) kedua untuk dibandingkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar untuk menunjukkan[`X`](../x/) Dan[`Y`](../y/) nilai dari*point1* Dan*point2* tidak sama; jika tidak, salah.
+True untuk menunjukkan nilai [`X`](../x/) dan [`Y`](../y/) dari *point1* dan *point2* tidak sama; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

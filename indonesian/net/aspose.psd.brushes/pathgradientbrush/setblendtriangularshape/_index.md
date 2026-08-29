@@ -1,48 +1,49 @@
 ---
-title: PathGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathGradientBrush metode. Membuat gradien dengan warna tengah dan falloff linier ke satu warna di sekitarnya.
+title: "PathGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PathGradientBrush. Membuat gradien dengan warna pusat dan penurunan linear ke satu warna di sekitarnya."
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.brushes/pathgradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-Membuat gradien dengan warna tengah dan falloff linier ke satu warna di sekitarnya.
+Membuat gradien dengan warna tengah dan penurunan linier ke satu warna di sekitarnya.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan di mana, di sepanjang radial mana pun dari pusat jalur hingga batas jalur, warna tengah akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di tengah jalur. |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan di mana, sepanjang radial apa pun dari pusat jalur ke batas jalur, warna pusat akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di pusat jalur. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-Membuat gradien dengan warna tengah dan falloff linier ke setiap warna di sekitarnya.
+Membuat gradien dengan warna tengah dan penurunan linier ke setiap warna di sekitarnya.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan di mana, di sepanjang radial mana pun dari pusat jalur hingga batas jalur, warna tengah akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di tengah jalur. |
-| scale | Single | Nilai dari 0 hingga 1 yang menentukan intensitas maksimum warna tengah yang tercampur dengan warna batas. Nilai 1 menyebabkan kemungkinan intensitas warna tengah tertinggi, dan ini adalah nilai default. |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan di mana, sepanjang radial apa pun dari pusat jalur ke batas jalur, warna pusat akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di pusat jalur. |
+| scale | Single | Nilai antara 0 hingga 1 yang menentukan intensitas maksimum warna pusat yang dicampur dengan warna batas. Nilai 1 menghasilkan intensitas tertinggi yang mungkin untuk warna pusat, dan merupakan nilai default. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

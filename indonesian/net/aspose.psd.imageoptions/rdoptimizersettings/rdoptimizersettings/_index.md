@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.RdOptimizerSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RdOptimizerSettings konstruktor. Konstruktor default.
+title: "RdOptimizerSettings.RdOptimizerSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RdOptimizerSettings constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public RdOptimizerSettings()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RdOptimizerSettings](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

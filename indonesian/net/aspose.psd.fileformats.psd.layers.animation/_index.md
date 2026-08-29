@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Animation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi lapisan penyesuaian PSD.
+title: "Aspose.PSD.FileFormats.Psd.Layers.Animation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi lapisan penyesuaian PSD"
 type: docs
-weight: 230
+weight: 250
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/
 ---
-Ruang nama berisi lapisan penyesuaian PSD.
+{{< psd/tize >}}
+Namespace ini berisi lapisan penyesuaian PSD.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [Frame](./frame/) | Opsi item kerangka waktu. |
+| [Frame](./frame/) | Opsi item frame garis waktu. |
 | [LayerState](./layerstate/) | Opsi status lapisan garis waktu. |
 | [LayerStateEffects](./layerstateeffects/) | Efek status lapisan. |
-| [TimeLine](./timeline/) | Model opsi garis waktu. |
-## Pencacahan
+| [Timeline](./timeline/) | Model opsi garis waktu. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [FrameDisposalMethod](./framedisposalmethod/) | Metode pembuangan frame menentukan apakah akan membuang frame saat ini sebelum menampilkan frame berikutnya. Anda memilih metode pembuangan untuk animasi yang menyertakan transparansi latar belakang untuk menentukan apakah frame saat ini akan terlihat melalui area transparan dari frame berikutnya. |
+| [FrameDisposalMethod](./framedisposalmethod/) | Metode pembuangan frame menentukan apakah frame saat ini harus dibuang sebelum menampilkan frame berikutnya. Anda memilih metode pembuangan untuk animasi yang mencakup transparansi latar belakang untuk menentukan apakah frame saat ini akan terlihat melalui area transparan pada frame berikutnya. |
 
 

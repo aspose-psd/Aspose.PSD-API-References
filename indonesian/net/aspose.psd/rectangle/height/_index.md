@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle Properti. Mendapat atau mengatur ketinggian iniRectanglestruktur.
+title: "Rectangle.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur tinggi dari struktur Rectangle ini."
 type: docs
 weight: 120
 url: /id/net/aspose.psd/rectangle/height/
 ---
+{{< psd/tize >}}
 ## Rectangle.Height property
 
-Mendapat atau mengatur ketinggian ini[`Rectangle`](../)struktur.
+Mendapatkan atau mengatur tinggi dari struktur [`Rectangle`](../) ini.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Ketinggian ini[`Rectangle`](../) struktur.
+Tinggi dari struktur [`Rectangle`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

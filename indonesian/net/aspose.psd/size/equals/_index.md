@@ -1,31 +1,32 @@
 ---
-title: Size.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Tes untuk melihat apakah objek yang ditentukan adalah aSize dengan dimensi yang sama seperti iniSize .
+title: "Size.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Menguji apakah objek yang ditentukan adalah Size dengan dimensi yang sama dengan Size ini."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/size/equals/
 ---
+{{< psd/tize >}}
 ## Size.Equals method
 
-Tes untuk melihat apakah objek yang ditentukan adalah a[`Size`](../) dengan dimensi yang sama seperti ini[`Size`](../) .
+Menguji apakah objek yang ditentukan adalah [`Size`](../) dengan dimensi yang sama dengan [`Size`](../) ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk mengetes. |
+| obj | Object | Object untuk diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika*obj* adalah[`Size`](../) dan memiliki lebar dan tinggi yang sama seperti ini[`Size`](../); jika tidak, salah.
+True jika *obj* adalah [`Size`](../) dan memiliki lebar serta tinggi yang sama dengan [`Size`](../) ini; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

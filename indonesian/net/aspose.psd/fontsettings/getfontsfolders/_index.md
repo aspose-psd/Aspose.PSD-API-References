@@ -1,31 +1,32 @@
 ---
-title: FontSettings.GetFontsFolders
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Mendapat salinan larik yang berisi daftar folder tempat Aspose.Words mencari font TrueType.
+title: "FontSettings.GetFontsFolders"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Mendapatkan salinan array yang berisi daftar folder tempat Aspose.Words mencari font TrueType"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd/fontsettings/getfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontsFolders method
 
-Mendapat salinan larik yang berisi daftar folder tempat Aspose.Words mencari font TrueType.
+Mendapatkan salinan array yang berisi daftar folder tempat Aspose.Words mencari font TrueType.
 
 ```csharp
 public static string[] GetFontsFolders()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Salinan lokasi font saat ini.
 
-### Perkataan
+## Catatan
 
-Nilai yang dikembalikan adalah salinan data yang digunakan Aspose.Words. Jika Anda mengubah entri dalam larik yang dikembalikan, itu tidak akan berpengaruh pada rendering dokumen. Untuk menentukan lokasi font baru gunakan[`SetFontsFolders`](../setfontsfolders/) metode.
+Nilai yang dikembalikan adalah salinan data yang digunakan Aspose.Words. Jika Anda mengubah entri dalam array yang dikembalikan, itu tidak akan berpengaruh pada rendering dokumen. Untuk menentukan lokasi font baru gunakan metode [`SetFontsFolders`](../setfontsfolders/).
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

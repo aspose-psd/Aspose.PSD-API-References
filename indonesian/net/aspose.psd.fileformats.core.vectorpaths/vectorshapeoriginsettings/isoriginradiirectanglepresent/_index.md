@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginRadiiRectanglePresent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeOriginSettings Properti. Mendapat nilai yang menunjukkan apakah instance ini memiliki properti persegi panjang radius asal.
+title: "VectorShapeOriginSettings.IsOriginRadiiRectanglePresent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeOriginSettings. Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti persegi panjang radius asal"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginRadiiRectanglePresent property
 
-Mendapat nilai yang menunjukkan apakah instance ini memiliki properti persegi panjang radius asal.
+Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti origin radii rectangle.
 
 ```csharp
 public bool IsOriginRadiiRectanglePresent { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki properti persegi panjang radius asal; jika tidak,`PALSU` .
+`true` jika instance ini memiliki properti persegi panjang radius asal; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeOriginSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ProjectLink.Type
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ProjectLink Properti. Mendapat atau mengatur tipe file.
+title: "ProjectLink.Type"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ProjectLink. Mendapatkan atau mengatur tipe file"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Type property
 
-Mendapat atau mengatur tipe file.
+Mendapatkan atau mengatur tipe file.
 
 ```csharp
 public ProjectType Type { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis file.
+Tipe file.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShmdResource konstruktor. Menginisialisasi instance baru dariShmdResource kelas.
+title: "ShmdResource.ShmdResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ShmdResource. Menginisialisasi instance baru dari kelas ShmdResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-Menginisialisasi instance baru dari[`ShmdResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShmdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ShmdResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShmdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

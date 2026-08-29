@@ -1,54 +1,55 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpGuid konstruktor. Menginisialisasi instance baru dariXmpGuid kelas.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpGuid. Menginisialisasi sebuah instance baru dari kelas XmpGuid"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpGuid`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai. |
+| nilai | String | Nilai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | nilainya nol. |
-| ArgumentException | Nilai panduan tidak valid; nilai |
+| ArgumentNullException | nilai adalah null. |
+| ArgumentException | Nilai guid tidak valid;value |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpGuid](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-Menginisialisasi instance baru dari[`XmpGuid`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(Guid guid)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | guid | Guid | Pengidentifikasi unik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpGuid](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 
