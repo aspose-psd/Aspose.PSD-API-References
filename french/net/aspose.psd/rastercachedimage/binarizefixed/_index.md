@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.BinarizeFixed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterCachedImage méthode. Binarisation dune image avec seuil prédéfini
+title: "RasterCachedImage.BinarizeFixed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterCachedImage. Binarisation d'une image avec un seuil prédéfini"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/rastercachedimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.BinarizeFixed method
 
-Binarisation d'une image avec seuil prédéfini
+Binarisation d'une image avec un seuil prédéfini
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| threshold | Byte | Valeur de seuil. Si la valeur de gris correspondante d'un pixel est supérieure au seuil, une valeur de 255 lui sera attribuée, 0 sinon. |
+| seuil | Octet | Valeur du seuil. Si la valeur de gris correspondante d'un pixel est supérieure au seuil, une valeur de 255 lui sera attribuée, sinon 0. |
 
-### Voir également
+### Voir aussi
 
 * class [RasterCachedImage](../)
-* espace de noms [Aspose.PSD](../../rastercachedimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

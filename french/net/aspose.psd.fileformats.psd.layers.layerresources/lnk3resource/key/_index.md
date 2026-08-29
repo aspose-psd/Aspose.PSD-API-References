@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lnk3Resource propriété. Obtient la clé de ressource de couche.
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Lnk3Resource. Obtient la clé de ressource de calque."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Exemples
+## Exemples
 
-Cet exemple montre comment obtenir et définir les propriétés de Lnk2Resource et Lnk3Resource.
+Cet exemple montre comment obtenir et définir les propriétés du Lnk2Resource et du Lnk3Resource.
 
 ```csharp
 [C#]
@@ -114,7 +115,7 @@ new object[]
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// Enregistre les données d'un objet intelligent dans un fichier PSD dans un fichier.
+// Enregistre les données d'un objet intelligent dans le fichier PSD vers un fichier.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -196,7 +197,7 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // L'enregistrement 32 bits par canal n'est pas encore pris en charge
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
@@ -213,10 +214,10 @@ ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Lnk3Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

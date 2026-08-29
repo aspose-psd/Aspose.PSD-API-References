@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.Create
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RdOptimizerSettings méthode. Crée cette instance.
+title: "RdOptimizerSettings.Create"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RdOptimizerSettings. Crée cette instance"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.imageoptions/rdoptimizersettings/create/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.Create method
 
 Crée cette instance.
@@ -14,14 +15,14 @@ Crée cette instance.
 public static RdOptimizerSettings Create()
 ```
 
-### Return_Value
+### Valeur de retour
 
-renvoie l'instance de classe RDOptimizerSettings
+renvoie une instance de la classe RDOptimizerSettings
 
-### Voir également
+### Voir aussi
 
 * class [RdOptimizerSettings](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

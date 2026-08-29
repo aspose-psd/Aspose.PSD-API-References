@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.TransparencyPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GdFlResource propriété. Obtient les points de transparence.
+title: "GdFlResource.TransparencyPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GdFlResource. Obtient les points de transparence"
 type: docs
-weight: 170
+weight: 220
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.TransparencyPoints property
 
 Obtient les points de transparence.
@@ -14,15 +15,15 @@ Obtient les points de transparence.
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les points de transparence.
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientTransparencyPoint](../../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/)
 * class [GdFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

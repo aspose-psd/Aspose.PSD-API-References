@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.Paths
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorPathDataResource propriété. Obtient ou définit les enregistrements de chemin.
+title: "VectorPathDataResource.Paths"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorPathDataResource propriété. Obtient ou définit les enregistrements de chemin"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Paths property
 
 Obtient ou définit les enregistrements de chemin.
@@ -14,15 +15,15 @@ Obtient ou définit les enregistrements de chemin.
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les chemins.
 
-### Voir également
+### Voir aussi
 
 * class [VectorPathRecord](../../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/)
 * class [VectorPathDataResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetProducer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfPackage méthode. Définit le nom de loutil qui a créé le Pdf.
+title: "PdfPackage.SetProducer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PdfPackage. Définit le nom de l’outil qui a créé le PDF"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setproducer/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetProducer method
 
-Définit le nom de l'outil qui a créé le Pdf.
+Définit le nom de l'outil qui a créé le PDF.
 
 ```csharp
 public void SetProducer(string producer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| producer | String | Le nom du producteur. |
+| producteur | String | Le nom du producteur. |
 
-### Voir également
+### Voir aussi
 
 * class [PdfPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

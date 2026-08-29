@@ -1,75 +1,76 @@
 ---
-title: RectangleF.Inflate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF méthode. Crée et renvoie une copie gonflée du spécifiéRectangleFstructure. La copie est gonflée du montant spécifié. Le rectangle dorigine reste inchangé.
+title: "RectangleF.Inflate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleF. Crée et renvoie une copie gonflée de la structure RectangleF spécifiée. La copie est gonflée du montant spécifié. Le rectangle original reste inchangé."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/rectanglef/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(RectangleF, float, float)
 
-Crée et renvoie une copie gonflée du spécifié[`RectangleF`](../)structure. La copie est gonflée du montant spécifié. Le rectangle d'origine reste inchangé.
+Crée et renvoie une copie gonflée de la structure [`RectangleF`](../) spécifiée. La copie est gonflée du montant spécifié. Le rectangle original reste inchangé.
 
 ```csharp
 public static RectangleF Inflate(RectangleF rect, float x, float y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | Le[`RectangleF`](../) à copier. Ce rectangle n'est pas modifié. |
-| x | Single | Le montant pour gonfler la copie du rectangle horizontalement. |
-| y | Single | Le montant pour gonfler la copie du rectangle verticalement. |
+| rect | RectangleF | Le [`RectangleF`](../) à copier. Ce rectangle n'est pas modifié. |
+| x | Single | Le montant pour gonfler horizontalement la copie du rectangle. |
+| y | Single | Le montant pour gonfler verticalement la copie du rectangle. |
 
-### Return_Value
+### Valeur de retour
 
-Le gonflé[`RectangleF`](../).
+Le [`RectangleF`](../) gonflé.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(float, float) {#inflate_1}
 
-Gonfle ça[`RectangleF`](../) structure par le montant spécifié.
+Gonfle cette structure [`RectangleF`](../) du montant spécifié.
 
 ```csharp
 public void Inflate(float x, float y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Single | Le montant pour gonfler ce[`RectangleF`](../) structure horizontalement. |
-| y | Single | Le montant pour gonfler ce[`RectangleF`](../) structurer verticalement. |
+| x | Single | Le montant pour gonfler horizontalement cette structure [`RectangleF`](../). |
+| y | Single | Le montant pour gonfler verticalement cette structure [`RectangleF`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(SizeF) {#inflate}
 
-Gonfle ça[`RectangleF`](../)par le montant spécifié.
+Gonfle ce [`RectangleF`](../) du montant spécifié.
 
 ```csharp
 public void Inflate(SizeF size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size | SizeF | Le montant pour gonfler ce rectangle. |
+| taille | SizeF | Le montant pour gonfler ce rectangle. |
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

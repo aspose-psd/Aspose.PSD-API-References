@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PatternFillSettings propriété. Obtient ou définit les données de modèle.
+title: "PatternFillSettings.PatternData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PatternFillSettings. Obtient ou définit les données du motif"
 type: docs
-weight: 60
+weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternData property
 
-Obtient ou définit les données de modèle.
+Obtient ou définit les données du motif.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les données du motif.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la modification du motif de calque de remplissage.
+Le code suivant montre la prise en charge de l'édition du motif de calque de remplissage.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Édition 
+            // Modification 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

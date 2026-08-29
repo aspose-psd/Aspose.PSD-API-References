@@ -1,11 +1,12 @@
 ---
-title: ExifData.Properties
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit toutes les balises EXIF y compris les balises communes et GPS.
+title: "ExifData.Properties"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit toutes les balises EXIF, y compris les balises communes et GPS"
 type: docs
 weight: 860
 url: /fr/net/aspose.psd.exif/exifdata/properties/
 ---
+{{< psd/tize >}}
 ## ExifData.Properties property
 
 Obtient ou définit toutes les balises EXIF (y compris les balises communes et GPS).
@@ -14,15 +15,15 @@ Obtient ou définit toutes les balises EXIF (y compris les balises communes et G
 public TiffDataType[] Properties { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les balises EXIF (y compris les balises communes et GPS).
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

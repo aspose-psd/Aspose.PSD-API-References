@@ -1,11 +1,12 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle classe. Définit la classe de rectangle de rayons de forme vectorielle
+title: "Classe VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle. Définit la classe de rectangle de rayons de forme vectorielle"
 type: docs
-weight: 1450
+weight: 1460
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
 Définit la classe de rectangle de rayons de forme vectorielle
@@ -16,21 +17,21 @@ public sealed class VectorShapeRadiiRectangle
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Default_Constructor |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Obtient ou définit le fond. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Obtient ou définit le bas. |
 | [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Obtient ou définit le coin inférieur droit. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Obtient ou définit la version quadruple de la valeur unitaire. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Obtient ou définit la version quad de la valeur d'unité. |
 | [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Obtient ou définit le coin supérieur gauche. |
 | [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Obtient ou définit le coin supérieur droit. |
 
-### Exemples
+## Exemples
 
 Cet exemple montre que le chargement et l'enregistrement de l'image PSD avec des calques de forme et des chemins vectoriels fonctionnent correctement.
 
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

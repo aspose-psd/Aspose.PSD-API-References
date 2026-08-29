@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeOriginSettings propriété. Obtient une valeur indiquant si cette instance possède la propriété de transformation.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeOriginSettings. Obtient une valeur indiquant si cette instance possède la propriété transform"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
 Obtient une valeur indiquant si cette instance possède la propriété de transformation.
@@ -14,13 +15,13 @@ Obtient une valeur indiquant si cette instance possède la propriété de transf
 public bool IsTransformPresent { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance a la propriété transform ; sinon,`FAUX` .
+`true` si cette instance possède la propriété transform ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la possibilité de redimensionner un calque de forme contenant des chemins vectoriels.
+Le code suivant démontre la capacité à redimensionner des calques de forme contenant des chemins vectoriels.
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeOriginSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

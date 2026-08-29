@@ -1,24 +1,25 @@
 ---
-title: CmykChannelMixerLayer.GetChannelByIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykChannelMixerLayer méthode. Obtient lindex du canal par. Renvoie CmykMixerChannel
+title: "CmykChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CmykChannelMixerLayer. Obtient l'index du canal par. Retourne CmykMixerChannel"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.GetChannelByIndex method
 
-Obtient l'index du canal par. Renvoie CmykMixerChannel
+Obtient l'index du canal par. Retourne CmykMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | index | Int32 | L'index. |
 
-### Return_Value
+### Valeur de retour
 
 [`CmykMixerChannel`](../../cmykmixerchannel/)
 
@@ -26,13 +27,13 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer n'a pas plus de 4 canaux. L'index du premier canal est 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer ne possède pas plus de 4 canaux. L'index du premier canal est 0 |
 
-### Voir également
+### Voir aussi
 
 * class [MixerChannel](../../mixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

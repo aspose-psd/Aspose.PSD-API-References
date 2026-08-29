@@ -1,34 +1,35 @@
 ---
-title: Rectangle.FromLeftTopRightBottom
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle méthode. Crée unRectangle structure avec les emplacements de bord spécifiés.
+title: "Rectangle.FromLeftTopRightBottom"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Rectangle. Crée une structure Rectangle avec les emplacements de bord spécifiés."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/rectangle/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromLeftTopRightBottom method
 
-Crée un[`Rectangle`](../) structure avec les emplacements de bord spécifiés.
+Crée une structure [`Rectangle`](../) avec les emplacements de bord spécifiés.
 
 ```csharp
 public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int bottom)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| left | Int32 | La coordonnée x du coin supérieur gauche de ce[`Rectangle`](../) structure. |
-| top | Int32 | La coordonnée y du coin supérieur gauche de ce[`Rectangle`](../) structure. |
-| right | Int32 | La coordonnée x du coin inférieur droit de ce[`Rectangle`](../) structure. |
-| bottom | Int32 | La coordonnée y du coin inférieur droit de ce[`Rectangle`](../) structure. |
+| left | Int32 | La coordonnée x du coin supérieur gauche de cette structure [`Rectangle`](../). |
+| top | Int32 | La coordonnée y du coin supérieur gauche de cette structure [`Rectangle`](../). |
+| right | Int32 | La coordonnée x du coin inférieur droit de cette structure [`Rectangle`](../). |
+| bottom | Int32 | La coordonnée y du coin inférieur droit de cette structure [`Rectangle`](../). |
 
-### Return_Value
+### Valeur de retour
 
-Le nouveau[`Rectangle`](../) que cette méthode crée.
+Le nouveau [`Rectangle`](../) que cette méthode crée.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

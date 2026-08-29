@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsYellowBlueBalance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlncResource propriété. Obtient ou définit la balance des tons clairs jaunes et bleus.
+title: "BlncResource.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BlncResource. Obtient ou définit l'équilibre Jaune Bleu des hautes lumières"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsYellowBlueBalance property
 
-Obtient ou définit la balance des tons clairs jaunes et bleus.
+Obtient ou définit le Highlights Yellow Blue Balance.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les faits saillants Jaune Bleu Balance.
+L'équilibre Jaune Bleu des hautes lumières.
 
-### Voir également
+### Voir aussi
 
 * class [BlncResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

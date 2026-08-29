@@ -1,23 +1,24 @@
 ---
-title: Figure.Figure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Figure constructeur. Default_Constructor
+title: "Figure.Figure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Figure. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/figure/figure/
 ---
+{{< psd/tize >}}
 ## Figure constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public Figure()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Figure](../)
-* espace de noms [Aspose.PSD](../../figure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

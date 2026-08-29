@@ -1,11 +1,12 @@
 ---
-title: AiImage.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiImage propriété. Obtient la largeur de limage.
+title: "AiImage.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiImage. Obtient la largeur de l'image"
 type: docs
-weight: 120
+weight: 140
 url: /fr/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
 Obtient la largeur de l'image.
@@ -14,14 +15,14 @@ Obtient la largeur de l'image.
 public override int Width { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur de l'image.
 
-### Voir également
+### Voir aussi
 
 * class [AiImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

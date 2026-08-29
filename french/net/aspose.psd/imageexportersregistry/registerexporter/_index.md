@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisterExporter
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageExportersRegistry méthode. Enregistre lexportateur.
+title: "ImageExportersRegistry.RegisterExporter"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageExportersRegistry. Enregistre l’exportateur"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/imageexportersregistry/registerexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisterExporter method
 
 Enregistre l'exportateur.
@@ -14,15 +15,15 @@ Enregistre l'exportateur.
 public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Le descripteur de l'exportateur à enregistrer. |
+| exporterDescriptor | IImageExporterDescriptor | Le descripteur d’exportateur à enregistrer. |
 
-### Voir également
+### Voir aussi
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* espace de noms [Aspose.PSD](../../imageexportersregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

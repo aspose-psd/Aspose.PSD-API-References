@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.BitsPerPixel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient les bits par pixel.
+title: "TiffOptions.BitsPerPixel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient les bits par pixel"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerPixel property
 
 Obtient les bits par pixel.
@@ -14,14 +15,14 @@ Obtient les bits par pixel.
 public int BitsPerPixel { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les bits par pixel.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

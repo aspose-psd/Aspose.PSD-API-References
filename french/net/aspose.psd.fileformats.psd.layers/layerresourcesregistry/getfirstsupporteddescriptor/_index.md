@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerResourcesRegistry méthode. Obtient le premier descripteur douverture pris en charge.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LayerResourcesRegistry. Obtient le premier descripteur d'ouverture pris en charge."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
-Obtient le premier descripteur d'ouverture pris en charge.
+Obtient le premier descripteur d'ouvreur pris en charge.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux. |
 | psdVersion | Int32 | La version PSD. |
 
-### Return_Value
+### Valeur de retour
 
 Le descripteur de chargeur de ressource de couche ou null si aucun descripteur de chargeur n'est pris en charge pour ce flux.
 
-### Remarques
+## Remarques
 
 Le premier chargeur sera en fait le dernier enregistré.
 
-### Voir également
+### Voir aussi
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

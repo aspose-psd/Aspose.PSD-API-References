@@ -1,40 +1,41 @@
 ---
-title: XmpDate.XmpDate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDate constructeur. Initialise une nouvelle instance duXmpDate classe.
+title: "XmpDate.XmpDate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpDate. Initialise une nouvelle instance de la classe XmpDate"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-Initialise une nouvelle instance du[`XmpDate`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpDate`](../).
 
 ```csharp
 public XmpDate(DateTime dateTime)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| dateTime | DateTime | Une valeur date-heure qui est représentée à l'aide d'un sous-ensemble du formatage ISO RFC 8601. |
+| dateTime | DateTime | Une valeur date‑heure représentée à l’aide d’un sous‑ensemble du formatage ISO RFC 8601. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpDate](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpDate`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpDate`](../).
 
 ```csharp
 public XmpDate(string dateString)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | dateString | String | La représentation sous forme de chaîne de la date. |
 
@@ -42,12 +43,12 @@ public XmpDate(string dateString)
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Format de date invalide ; date |
+| ArgumentException | Format de date invalide;date |
 
-### Voir également
+### Voir aussi
 
 * class [XmpDate](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

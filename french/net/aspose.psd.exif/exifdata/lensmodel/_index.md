@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensModel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le modèle dobjectif.
+title: "ExifData.LensModel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le modèle de l'objectif"
 type: docs
 weight: 740
 url: /fr/net/aspose.psd.exif/exifdata/lensmodel/
 ---
+{{< psd/tize >}}
 ## ExifData.LensModel property
 
-Obtient ou définit le modèle d'objectif.
+Obtient ou définit le modèle de l'objectif.
 
 ```csharp
 public string LensModel { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le modèle d'objectif.
+Le modèle de l'objectif.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

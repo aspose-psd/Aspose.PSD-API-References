@@ -1,23 +1,24 @@
 ---
-title: PixelDataFormat.Caption
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat propriété. Obtient la légende du format de données pixel.
+title: "PixelDataFormat.Caption"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelDataFormat. Obtient la légende du format de données pixel"
 type: docs
 weight: 310
 url: /fr/net/aspose.psd/pixeldataformat/caption/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Caption property
 
-Obtient la légende du format de données pixel.
+Obtient la légende du format de données de pixel.
 
 ```csharp
 public string Caption { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

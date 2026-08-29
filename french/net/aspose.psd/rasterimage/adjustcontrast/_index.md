@@ -1,27 +1,28 @@
 ---
-title: RasterImage.AdjustContrast
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Image contrastée
+title: "RasterImage.AdjustContrast"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Contraste de l'image"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd/rasterimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustContrast method
 
-Image contrastée
+Contraste d'image
 
 ```csharp
 public virtual void AdjustContrast(float contrast)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| contrast | Single | Valeur de contraste (dans la plage [-100 ; 100]) |
+| contraste | Single | Valeur de contraste (dans la plage [-100; 100]) |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

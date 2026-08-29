@@ -1,43 +1,50 @@
 ---
-title: Class PixelsData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.PixelsData classe. La classe pour stocker les données des pixels de limage et ses limites.
+title: "Classe PixelsData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.PixelsData. La classe qui stocke les données de pixels d'image et ses limites"
 type: docs
-weight: 5250
+weight: 5740
 url: /fr/net/aspose.psd/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData class
 
-La classe pour stocker les données des pixels de l'image et ses limites.
+La classe permettant de stocker les données des pixels d’image et leurs limites.
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [PixelsData](pixelsdata/#constructor)() | Initialise une nouvelle instance du`PixelsData` classe. |
-| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Initialise une nouvelle instance du`PixelsData` classe. |
+| [PixelsData](pixelsdata/#constructor)() | Initialise une nouvelle instance de la classe `PixelsData`. |
+| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Initialise une nouvelle instance de la classe `PixelsData`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Obtient ou définit les limites des données de pixels. |
 | [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Obtient ou définit les données de pixels. |
 
-### Exemples
+## Méthodes
 
-Le code suivant vous montre comment créer un filtre intelligent personnalisé avec un rendu personnalisé.
+| Nom | Description |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | Il crée une copie complète de l'instance |
+
+## Exemples
+
+Le code suivant vous montre comment créer un filtre intelligent personnalisé qui possède un rendu personnalisé.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initialise le filtre intelligent 'Crystallize' non pris en charge au niveau du tableau d'entrée
+    // Initialise le filtre intelligent non pris en charge 'Crystallize' dans le tableau d'entrée
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // l'ID du filtre intelligent 'Crystallize'.
@@ -66,7 +73,7 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Appliquer le filtre au SmartObject
+        // Appliquer le filtre à SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
@@ -96,9 +103,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // récupère la structure du filtre
+        // obtenir la structure du filtre
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // récupère la valeur de Crystallize Size
+        // obtenir la valeur de la taille Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -114,9 +121,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

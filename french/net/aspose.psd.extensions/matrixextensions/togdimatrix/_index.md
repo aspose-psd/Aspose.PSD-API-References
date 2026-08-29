@@ -1,32 +1,33 @@
 ---
-title: MatrixExtensions.ToGdiMatrix
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MatrixExtensions méthode. Convertit leMatrix auMatrix .
+title: "MatrixExtensions.ToGdiMatrix"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode MatrixExtensions. Convertit la Matrix en Matrix."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.extensions/matrixextensions/togdimatrix/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions.ToGdiMatrix method
 
-Convertit le[`Matrix`](../../../aspose.psd/matrix/) auMatrix .
+Convertit la [`Matrix`](../../../aspose.psd/matrix/) en Matrix.
 
 ```csharp
 public static Matrix ToGdiMatrix(Matrix matrix)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Le[`Matrix`](../../../aspose.psd/matrix/) convertir. |
+| matrix | Matrix | La [`Matrix`](../../../aspose.psd/matrix/) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le convertiMatrix.
+La Matrix convertie.
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [MatrixExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../matrixextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

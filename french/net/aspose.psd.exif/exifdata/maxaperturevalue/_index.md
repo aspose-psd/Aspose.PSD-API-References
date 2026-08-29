@@ -1,11 +1,12 @@
 ---
-title: ExifData.MaxApertureValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la valeur douverture maximale.
+title: "ExifData.MaxApertureValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la valeur maximale de l'ouverture"
 type: docs
 weight: 800
 url: /fr/net/aspose.psd.exif/exifdata/maxaperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.MaxApertureValue property
 
 Obtient ou définit la valeur d'ouverture maximale.
@@ -14,15 +15,15 @@ Obtient ou définit la valeur d'ouverture maximale.
 public TiffRational MaxApertureValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur d'ouverture maximale.
+La valeur maximale de l'ouverture.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

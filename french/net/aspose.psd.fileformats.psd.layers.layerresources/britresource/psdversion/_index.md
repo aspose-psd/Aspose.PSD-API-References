@@ -1,11 +1,12 @@
 ---
-title: BritResource.PsdVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BritResource propriété. Obtient la version psd.
+title: "BritResource.PsdVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BritResource. Obtient la version psd"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/psdversion/
 ---
+{{< psd/tize >}}
 ## BritResource.PsdVersion property
 
 Obtient la version psd.
@@ -14,10 +15,10 @@ Obtient la version psd.
 public override int PsdVersion { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BritResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

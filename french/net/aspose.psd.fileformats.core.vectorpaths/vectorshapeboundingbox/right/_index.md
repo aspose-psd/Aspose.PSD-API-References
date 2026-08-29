@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Right
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeBoundingBox propriété. Obtient ou définit le droit.
+title: "VectorShapeBoundingBox.Right"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeBoundingBox. Obtient ou définit le côté droit"
 type: docs
-weight: 60
+weight: 70
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Right property
 
-Obtient ou définit le droit.
+Obtient ou définit la droite.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La droite.
+Le côté droit.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeBoundingBox](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

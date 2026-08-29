@@ -1,11 +1,12 @@
 ---
-title: Figure.AddShape
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Figure méthode. Ajoute une forme à la figure.
+title: "Figure.AddShape"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Figure. Ajoute une forme à la figure"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/figure/addshape/
 ---
+{{< psd/tize >}}
 ## Figure.AddShape method
 
 Ajoute une forme à la figure.
@@ -14,56 +15,56 @@ Ajoute une forme à la figure.
 public void AddShape(Shape shape)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| shape | Shape | Forme à ajouter. |
+| forme | Forme | La forme à ajouter. |
 
-### Exemples
+## Exemples
 
-Ces exemples utilisent GraphicsPath et la classe Graphics pour créer et manipuler des figures sur une surface Image. L'exemple crée une nouvelle image et dessine des chemins à l'aide de la classe GraphicsPath. À la fin, la méthode DrawPath exposée par la classe Graphics est appelée pour restituer les chemins sur la surface. Enfin, l'image est exportée au format de fichier Tiff.
+Ces exemples utilisent les classes GraphicsPath et Graphics pour créer et manipuler des Figures sur une surface Image. L'exemple crée une nouvelle Image et trace des chemins à l'aide de la classe GraphicsPath. À la fin, la méthode DrawPath exposée par la classe Graphics est appelée pour rendre les chemins sur la surface. Enfin, l'image est exportée au format de fichier Tiff.
 
 ```csharp
 [C#]
 
-//Créer une instance de Image 
+//Créez une instance de Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Créer et initialiser une instance de la classe Graphics
+    //Créez et initialisez une instance de la classe Graphics.
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Effacer la surface graphique
+    //Efface la surface Graphics.
     graphics.Clear(Color.Wheat);
 
-    //Créer une instance de la classe GraphicsPath
+    //Créez une instance de la classe GraphicsPath.
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Créer une instance de la classe Figure
+    //Créez une instance de la classe Figure.
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    //Ajouter des formes à l'objet Figure
+    //Ajoutez des formes à l'objet Figure.
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    //Ajouter un objet Figure à GraphicsPath
+    //Ajoutez l'objet Figure à GraphicsPath.
     graphicspath.AddFigure(figure);
 
-    // Dessine un chemin avec un objet Pen de couleur noire
+    //Dessinez le chemin avec l'objet Pen de couleur Noir.
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    //Créer une instance de TiffOptions et définir ses différentes propriétés
+    //Créez une instance de TiffOptions et définissez ses différentes propriétés.
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
-    // Enregistrer toutes les modifications.
+    // Enregistrez toutes les modifications.
     image.Save("C:\\temp\\output.tiff", tiffOptions);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* espace de noms [Aspose.PSD](../../figure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

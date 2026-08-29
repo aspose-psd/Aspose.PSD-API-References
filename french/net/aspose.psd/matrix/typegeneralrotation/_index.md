@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeGeneralRotation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix champ. Ce bit dindicateur indique que la transformation définie par cet objet effectue une rotation dun angle arbitraire en plus des conversions indiquées par dautres bits dindicateur. Une rotation modifie les angles des vecteurs de la même quantité quelle que soit la direction dorigine du vecteur et sans changer la longueur du vecteur. Ce bit dindicateur est mutuellement exclusif avec the
+title: "Matrix.TypeGeneralRotation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Matrix. Ce bit d'indicateur indique que la transformation définie par cet objet effectue une rotation d'un angle arbitraire en plus des conversions indiquées par les autres bits d'indicateur. Une rotation modifie les angles des vecteurs du même montant, quelle que soit la direction originale du vecteur, et sans changer la longueur du vecteur. Ce bit d'indicateur est mutuellement exclusif avec le"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd/matrix/typegeneralrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeGeneralRotation field
 
-Ce bit d'indicateur indique que la transformation définie par cet objet effectue une rotation d'un angle arbitraire en plus des conversions indiquées par d'autres bits d'indicateur. Une rotation modifie les angles des vecteurs de la même quantité quelle que soit la direction d'origine du vecteur et sans changer la longueur du vecteur. Ce bit d'indicateur est mutuellement exclusif avec the
+Ce bit de drapeau indique que la transformation définie par cet objet effectue une rotation d'un angle arbitraire en plus des conversions indiquées par les autres bits de drapeau. Une rotation modifie les angles des vecteurs du même montant, quel que soit le sens d'origine du vecteur, et sans changer la longueur du vecteur. Ce bit de drapeau est mutuellement exclusif avec le
 
 ```csharp
 public const int TypeGeneralRotation;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

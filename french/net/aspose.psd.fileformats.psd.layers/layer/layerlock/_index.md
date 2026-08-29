@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerLock
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit le verrouillage de couche. Notez que si lindicateur LayerFlags.TransparencyProtected est défini il sera écrasé par lindicateur de verrouillage de couche. Pour renvoyer LayerFlags.TransparencyProtected lindicateur doit sappliquer à loption de couche layer.Flags  LayerFlags.TransparencyProtected
+title: "Layer.LayerLock"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit le verrouillage du calque. Notez que si le drapeau LayerFlags.TransparencyProtected est défini, il sera écrasé par le drapeau de verrouillage du calque. Pour renvoyer le drapeau LayerFlags.TransparencyProtected, il faut l’appliquer à l’option de calque layer.Flags  LayerFlags.TransparencyProtected"
 type: docs
-weight: 210
+weight: 220
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/layerlock/
 ---
+{{< psd/tize >}}
 ## Layer.LayerLock property
 
-Obtient ou définit le verrouillage de couche. Notez que si l'indicateur LayerFlags.TransparencyProtected est défini, il sera écrasé par l'indicateur de verrouillage de couche. Pour renvoyer LayerFlags.TransparencyProtected, l'indicateur doit s'appliquer à l'option de couche layer.Flags &#x7C;= LayerFlags.TransparencyProtected
+Obtient ou définit le verrouillage du calque. Notez que si le drapeau LayerFlags.TransparencyProtected est défini, il sera écrasé par le drapeau de verrouillage du calque. Pour restituer le drapeau LayerFlags.TransparencyProtected, il faut l'appliquer à l'option de calque layer.Flags &#x7C;= LayerFlags.TransparencyProtected
 
 ```csharp
 public LayerLockType LayerLock { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le verrou de calque.
+Le verrouillage du calque.
 
-### Voir également
+### Voir aussi
 
 * enum [LayerLockType](../../../aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/)
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

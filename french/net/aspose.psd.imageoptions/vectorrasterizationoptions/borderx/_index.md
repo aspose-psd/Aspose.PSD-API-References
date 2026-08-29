@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorRasterizationOptions propriété. Obtient ou définit la bordure X.
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorRasterizationOptions. Obtient ou définit la bordure X"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
 Obtient ou définit la bordure X.
@@ -14,14 +15,14 @@ Obtient ou définit la bordure X.
 public float BorderX { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La bordure X.
 
-### Voir également
+### Voir aussi
 
 * class [VectorRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CgEdResource propriété. Obtient ou définit une valeur indiquant si utiliser lhéritage.
+title: "CgEdResource.UseLegacy"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CgEdResource propriété. Obtient ou définit une valeur indiquant si le mode hérité est utilisé"
 type: docs
-weight: 100
+weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-Obtient ou définit une valeur indiquant si [utiliser l'héritage].
+Obtient ou définit une valeur indiquant si [use legacy].
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si [utiliser l'héritage] ; sinon,`FAUX` .
+`true` si [use legacy] ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [CgEdResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

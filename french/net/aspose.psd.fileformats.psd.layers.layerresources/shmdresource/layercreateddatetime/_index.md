@@ -1,27 +1,28 @@
 ---
-title: ShmdResource.LayerCreatedDateTime
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ShmdResource propriété. Obtient ou définit lheure de création de la couche. Si lheure de création de la couche nest pas spécifiée renvoie une nouvelle DateTime0
+title: "ShmdResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ShmdResource propriété. Obtient ou définit l'heure de création de la couche. Si l'heure de création de la couche n'est pas spécifiée, alors renvoie un nouveau DateTime0"
 type: docs
-weight: 30
+weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## ShmdResource.LayerCreatedDateTime property
 
-Obtient ou définit l'heure de création de la couche. Si l'heure de création de la couche n'est pas spécifiée, renvoie une nouvelle DateTime(0)
+Obtient ou définit l'heure de création du calque. Si l'heure de création du calque n'est pas spécifiée, alors retourne new DateTime(0)
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'heure de création de la couche.
 
-### Voir également
+### Voir aussi
 
 * class [ShmdResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

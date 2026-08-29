@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerResourcesRegistry méthode. ChargesLayerResource en utilisant le premier ouvreporte trouvé adapté à la spécificationstream .
+title: "LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LayerResourcesRegistry. Charge LayerResource en utilisant le premier ouvreur trouvé adapté au flux spécifié."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Charges[`LayerResource`](../../layerresource/) en utilisant le premier ouvre-porte trouvé adapté à la spécification*stream* .
+Charge [`LayerResource`](../../layerresource/) en utilisant le premier ouvreur trouvé adapté au *flux* spécifié.
 
 ```csharp
 public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux. |
 | psdVersion | Int32 | La version PSD. |
 
-### Return_Value
+### Valeur de retour
 
-Le chargé[`LayerResource`](../../layerresource/) ou null si aucun ouvreur n'est trouvé.
+Le [`LayerResource`](../../layerresource/) chargé ou null si aucun ouvreur n'est trouvé.
 
-### Remarques
+## Remarques
 
-Le premier ouvreur sera en fait le dernier inscrit.
+Le premier ouvreur sera en fait le dernier enregistré.
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

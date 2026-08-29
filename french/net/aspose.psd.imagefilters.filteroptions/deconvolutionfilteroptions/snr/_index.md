@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Snr
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DeconvolutionFilterOptions propriété. Obtient ou définit le SNR rapport signal sur bruit plage recommandée 0002  0009 valeur par défaut  0007
+title: "DeconvolutionFilterOptions.Snr"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DeconvolutionFilterOptions. Obtient ou définit le rapport SNRsignaltonoise recommandé plage 0.002  0.009 valeur par défaut  0.007"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Snr property
 
-Obtient ou définit le SNR (rapport signal sur bruit) plage recommandée 0,002 - 0,009, valeur par défaut = 0,007
+Obtient ou définit le SNR (rapport signal-bruit) plage recommandée 0,002 - 0,009, valeur par défaut = 0,007
 
 ```csharp
 public double Snr { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le SNR.
 
-### Voir également
+### Voir aussi
 
 * class [DeconvolutionFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

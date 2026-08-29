@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadCmyk32Pixels
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Charge les pixels au format CMJN.
+title: "RasterImage.LoadCmyk32Pixels"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Charge les pixels au format CMYK"
 type: docs
 weight: 370
 url: /fr/net/aspose.psd/rasterimage/loadcmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadCmyk32Pixels method
 
-Charge les pixels au format CMJN.
+Charge des pixels au format CMYK.
 
 ```csharp
 public int[] LoadCmyk32Pixels(Rectangle rectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle à partir duquel charger les pixels. |
 
-### Return_Value
+### Valeur de retour
 
-Les pixels CMJN chargés se présentent sous la forme de valeurs entières 32 bits.
+Les pixels CMYK chargés présentés sous forme de valeurs entières 32 bits.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

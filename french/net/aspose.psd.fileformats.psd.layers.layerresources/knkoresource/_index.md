@@ -1,14 +1,15 @@
 ---
-title: Class KnkoResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource classe. Class KnkoResource. Cette ressource contient des informations sur le mélange déléments tronqués.
+title: "Classe KnkoResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource classe. Classe KnkoResource. Cette ressource contient des informations sur le mélange de l'élément découpé."
 type: docs
-weight: 2570
+weight: 2880
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource class
 
-Class KnkoResource. Cette ressource contient des informations sur le mélange d'éléments tronqués.
+Classe KnkoResource. Cette ressource contient des informations sur le mélange d'un élément découpé.
 
 ```csharp
 public class KnkoResource : BooleanResource
@@ -16,40 +17,40 @@ public class KnkoResource : BooleanResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [KnkoResource](knkoresource/#constructor)() | Initialise une nouvelle instance du`KnkoResource` classe. |
-| [KnkoResource](knkoresource/#constructor_1)(bool) | Initialise une nouvelle instance du`KnkoResource` classe. |
-| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Initialise une nouvelle instance du`KnkoResource` class. Avec valeur personnalisée ou inconnue |
+| [KnkoResource](knkoresource/#constructor)() | Initialise une nouvelle instance de la classe `KnkoResource`. |
+| [KnkoResource](knkoresource/#constructor_1)(bool) | Initialise une nouvelle instance de la classe `KnkoResource`. |
+| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Initialise une nouvelle instance de la classe `KnkoResource`. Avec une valeur personnalisée ou inconnue. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Obtient ou définit une valeur indiquant si [fusionner les éléments intérieurs]. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Obtient la signature. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Obtient ou définit une valeur indiquant si [blend interior elements]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Enregistre le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

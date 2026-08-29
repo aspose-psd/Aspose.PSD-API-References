@@ -1,231 +1,232 @@
 ---
-title: GraphicsPath.IsOutlineVisible
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GraphicsPath méthode. Indique si le point spécifié est contenu dans sous le contour de ceGraphicsPath lorsquil est dessiné avec le spécifiéPen .
+title: "GraphicsPath.IsOutlineVisible"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode GraphicsPath. Indique si le point spécifié est contenu sous le contour de ce GraphicsPath lorsqu'il est tracé avec le stylo spécifié."
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/graphicspath/isoutlinevisible/
 ---
+{{< psd/tize >}}
 ## IsOutlineVisible(float, float, Pen) {#isoutlinevisible_6}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Single | Coordonnée x du point à tester. |
-| y | Single | Coordonnée y du point à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
+| x | Single | La coordonnée x du point à tester. |
+| y | Single | La coordonnée y du point à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen) {#isoutlinevisible_2}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(PointF point, Pen pen)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | PointF | UN[`PointF`](../../pointf/) qui spécifie l'emplacement à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
+| point | PointF | Un [`PointF`](../../pointf/) qui spécifie l'emplacement à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(float, float, Pen, Graphics) {#isoutlinevisible_7}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) et en utilisant le spécifié[`Graphics`](../../graphics/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié et en utilisant le [`Graphics`](../../graphics/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Single | Coordonnée x du point à tester. |
-| y | Single | Coordonnée y du point à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| x | Single | La coordonnée x du point à tester. |
+| y | Single | La coordonnée y du point à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) comme dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) tel que tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen, Graphics) {#isoutlinevisible_3}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) et en utilisant le spécifié[`Graphics`](../../graphics/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié et en utilisant le [`Graphics`](../../graphics/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pt | PointF | UN[`PointF`](../../pointf/) qui spécifie l'emplacement à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| pt | PointF | Un [`PointF`](../../pointf/) qui spécifie l'emplacement à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) comme dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) tel que tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen) {#isoutlinevisible_4}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Int32 | Coordonnée x du point à tester. |
-| y | Int32 | Coordonnée y du point à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
+| x | Int32 | La coordonnée x du point à tester. |
+| y | Int32 | La coordonnée y du point à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen) {#isoutlinevisible}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(Point point, Pen pen)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | Point | UN[`Point`](../../point/) qui spécifie l'emplacement à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
+| point | Point | Un [`Point`](../../point/) qui spécifie l'emplacement à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen, Graphics) {#isoutlinevisible_5}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) et en utilisant le spécifié[`Graphics`](../../graphics/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié et en utilisant le [`Graphics`](../../graphics/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Int32 | Coordonnée x du point à tester. |
-| y | Int32 | Coordonnée y du point à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| x | Int32 | La coordonnée x du point à tester. |
+| y | Int32 | La coordonnée y du point à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans le contour de ce[`GraphicsPath`](../) comme dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans le contour de ce [`GraphicsPath`](../) tel que tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen, Graphics) {#isoutlinevisible_1}
 
-Indique si le point spécifié est contenu dans (sous) le contour de ce[`GraphicsPath`](../) lorsqu'il est dessiné avec le spécifié[`Pen`](../../pen/) et en utilisant le spécifié[`Graphics`](../../graphics/) .
+Indique si le point spécifié est contenu (sous) le contour de ce [`GraphicsPath`](../) lorsqu'il est tracé avec le [`Pen`](../../pen/) spécifié et en utilisant le [`Graphics`](../../graphics/) spécifié.
 
 ```csharp
 public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pt | Point | UN[`Point`](../../point/) qui spécifie l'emplacement à tester. |
-| pen | Pen | Le[`Pen`](../../pen/) tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| pt | Point | Un [`Point`](../../point/) qui spécifie l'emplacement à tester. |
+| pen | Pen | Le [`Pen`](../../pen/) à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans le contour de ce[`GraphicsPath`](../) comme dessiné avec le spécifié[`Pen`](../../pen/) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans le contour de ce [`GraphicsPath`](../) tel que tracé avec le [`Pen`](../../pen/) spécifié ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

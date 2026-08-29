@@ -1,14 +1,15 @@
 ---
-title: Class RgbMixerChannel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel classe. Canal Rgb. Cest un wrapper pour les données brutes du canal. Utilisé dans MixrResource
+title: "Classe RgbMixerChannel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "classe Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel. RgbChannel. Son wrapper pour les données brutes du canal. Utilisé dans MixrResource"
 type: docs
-weight: 1820
+weight: 1890
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel class
 
-Canal Rgb. C'est un wrapper pour les données brutes du canal. Utilisé dans MixrResource
+RgbChannel. C'est un wrapper pour les données brutes du canal. Utilisé dans MixrResource
 
 ```csharp
 public class RgbMixerChannel : MixerChannel
@@ -16,23 +17,23 @@ public class RgbMixerChannel : MixerChannel
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Obtient ou définit le bleu. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtient ou définit la constante.du canal. |
-| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Obtient ou définit le green. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtient ou définit la constante du canal. |
+| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Obtient ou définit le vert. |
 | [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Obtient ou définit le rouge. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Obtient les données brutes. |
 
-### Voir également
+### Voir aussi
 
 * class [MixerChannel](../mixerchannel/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

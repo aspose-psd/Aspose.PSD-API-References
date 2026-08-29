@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.PatternData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PattResourceData propriété. Obtient les données du modèle.
+title: "PattResourceData.PatternData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PattResourceData. Obtient les données du motif."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternData property
 
-Obtient les données du modèle.
+Obtient les données du motif.
 
 ```csharp
 public int[] PatternData { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les données du motif.
 
-### Voir également
+### Voir aussi
 
 * class [PattResourceData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

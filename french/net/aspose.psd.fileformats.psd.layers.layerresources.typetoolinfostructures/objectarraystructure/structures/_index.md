@@ -1,11 +1,12 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ObjectArrayStructure propriété. Obtient ou définit une copie dun tableau de structures.
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ObjectArrayStructure. Obtient ou définit une copie d’un tableau de structures"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
 Obtient ou définit une copie d'un tableau de structures.
@@ -14,13 +15,13 @@ Obtient ou définit une copie d'un tableau de structures.
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les sous-structures dans la structure de tableau d'objets.
+Les sous‑structures dans la structure du tableau d’objets.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des signatures ObAr et UnFl.
+Le code suivant montre la prise en charge des signatures ObAr et UnFl.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

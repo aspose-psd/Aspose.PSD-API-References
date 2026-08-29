@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSSatellites
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit les satellites GPS utilisés pour les mesures.
+title: "ExifData.GPSSatellites"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit les satellites GPS utilisés pour les mesures"
 type: docs
 weight: 590
 url: /fr/net/aspose.psd.exif/exifdata/gpssatellites/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSatellites property
 
 Obtient ou définit les satellites GPS utilisés pour les mesures.
@@ -14,14 +15,14 @@ Obtient ou définit les satellites GPS utilisés pour les mesures.
 public string GPSSatellites { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les satellites GPS utilisés pour les mesures.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

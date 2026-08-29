@@ -1,63 +1,64 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image méthode. Obtient un rectangle qui correspond à limage actuelle.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Image. Obtient le rectangle qui s'adapte à l'image actuelle"
 type: docs
-weight: 270
+weight: 280
 url: /fr/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-Obtient un rectangle qui correspond à l'image actuelle.
+Obtient le rectangle qui s'adapte à l'image actuelle.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rectangle | Rectangle | Le rectangle pour lequel obtenir un rectangle approprié. |
-| width | Int32 | La largeur de l'objet. |
-| height | Int32 | La hauteur de l'objet. |
+| rectangle | Rectangle | Le rectangle pour lequel obtenir le rectangle d'ajustement. |
+| largeur | Int32 | La largeur de l'objet. |
+| hauteur | Int32 | La hauteur de l'objet. |
 
-### Return_Value
+### Valeur de retour
 
-Le rectangle de raccord ou exception si aucun rectangle de raccord ne peut être trouvé.
+Le rectangle d'ajustement ou une exception si aucun rectangle d'ajustement ne peut être trouvé.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-Obtient un rectangle qui correspond à l'image actuelle.
+Obtient le rectangle qui s'adapte à l'image actuelle.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
     int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rectangle | Rectangle | Le rectangle pour lequel obtenir un rectangle approprié. |
+| rectangle | Rectangle | Le rectangle pour lequel obtenir le rectangle d'ajustement. |
 | pixels | Int32[] | Les pixels ARGB 32 bits. |
-| width | Int32 | La largeur de l'objet. |
-| height | Int32 | La hauteur de l'objet. |
+| largeur | Int32 | La largeur de l'objet. |
+| hauteur | Int32 | La hauteur de l'objet. |
 
-### Return_Value
+### Valeur de retour
 
-Le rectangle de raccord ou exception si aucun rectangle de raccord ne peut être trouvé.
+Le rectangle d'ajustement ou une exception si aucun rectangle d'ajustement ne peut être trouvé.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

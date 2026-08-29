@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.UnregisterOpener
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OSTypeStructuresRegistry méthode. Désenregistre louvreur.
+title: "OSTypeStructuresRegistry.UnregisterOpener"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode OSTypeStructuresRegistry. Désenregistre l'ouvreur"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.UnregisterOpener method
 
 Désenregistre l'ouvreur.
@@ -14,15 +15,15 @@ Désenregistre l'ouvreur.
 public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | Le descripteur d'ouverture à désinscrire. |
+| openerDescriptor | IOSTypeStructureLoader | Le descripteur d'ouverture à désenregistrer. |
 
-### Voir également
+### Voir aussi
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

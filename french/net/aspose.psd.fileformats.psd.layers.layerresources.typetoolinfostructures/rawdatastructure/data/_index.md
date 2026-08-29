@@ -1,11 +1,12 @@
 ---
-title: RawDataStructure.Data
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RawDataStructure propriété. Obtient ou définit les données.
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RawDataStructure. Obtient ou définit les données"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
 Obtient ou définit les données.
@@ -14,14 +15,14 @@ Obtient ou définit les données.
 public byte[] Data { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les données.
 
-### Voir également
+### Voir aussi
 
 * class [RawDataStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

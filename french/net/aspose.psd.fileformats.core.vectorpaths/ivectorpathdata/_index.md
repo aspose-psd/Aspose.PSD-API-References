@@ -1,14 +1,15 @@
 ---
-title: Interface IVectorPathData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData interface. Linterface daccès aux données de chemin vectoriel.
+title: "Interface IVectorPathData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData interface. L'interface pour accéder aux données du chemin vectoriel"
 type: docs
-weight: 1350
+weight: 1360
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
+{{< psd/tize >}}
 ## IVectorPathData interface
 
-L'interface d'accès aux données de chemin vectoriel.
+L'interface d'accès aux données du chemin vectoriel.
 
 ```csharp
 public interface IVectorPathData
@@ -16,7 +17,7 @@ public interface IVectorPathData
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est désactivée. |
 | [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est inversée. |
@@ -24,17 +25,17 @@ public interface IVectorPathData
 | [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | Obtient ou définit les enregistrements de chemin. |
 | [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | Obtient ou définit la version. |
 
-### Exemples
+## Exemples
 
-Cet exemple illustre la prise en charge de la ressource 'WorkingPathResource' dans PsdImage.ImageResources pour le bon fonctionnement de l'opération Crop.
+Cet exemple montre la prise en charge de la ressource 'WorkingPathResource' dans PsdImage.ImageResources pour le bon fonctionnement de l'opération de recadrage.
 
 ```csharp
 [C#]
 
-// Rogner l'image et enregistrer.
+// Recadrer l'image et enregistrer.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Recherche la ressource WorkingPathResource.
+    // Rechercher la ressource WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -52,15 +53,15 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // Rogner et enregistrer.
+    // Recadrer et enregistrer.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// Charge l'image enregistrée et vérifie les modifications.
+// Charger l'image enregistrée et vérifier les modifications.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Recherche la ressource WorkingPathResource.
+    // Rechercher la ressource WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -80,9 +81,9 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Graphics.Image
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient limage.
+title: "Graphics.Image"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient l’image."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
 Obtient l'image.
@@ -14,15 +15,15 @@ Obtient l'image.
 public Image Image { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'image graphique.
+L’image graphique.
 
-### Voir également
+### Voir aussi
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

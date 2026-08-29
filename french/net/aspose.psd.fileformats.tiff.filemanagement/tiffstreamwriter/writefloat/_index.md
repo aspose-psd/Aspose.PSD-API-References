@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloat
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamWriter méthode. Écrit une seule valeur flottante dans le flux.
+title: "TiffStreamWriter.WriteFloat"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TiffStreamWriter méthode. Écrit une seule valeur float dans le flux."
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloat method
 
-Écrit une seule valeur flottante dans le flux.
+Écrit une valeur float unique dans le flux.
 
 ```csharp
 public void WriteFloat(float data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Single | La valeur à écrire. |
+| données | Single | La valeur à écrire. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

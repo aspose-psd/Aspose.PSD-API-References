@@ -1,11 +1,12 @@
 ---
-title: Jpeg2000Options.Comments
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Jpeg2000Options propriété. Obtient ou définit les marqueurs de commentaire Jpeg.
+title: "Jpeg2000Options.Comments"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Jpeg2000Options. Obtient ou définit les marqueurs de commentaire Jpeg"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.imageoptions/jpeg2000options/comments/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Comments property
 
 Obtient ou définit les marqueurs de commentaire Jpeg.
@@ -14,14 +15,14 @@ Obtient ou définit les marqueurs de commentaire Jpeg.
 public string[] Comments { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les marqueurs de commentaire Jpeg.
 
-### Voir également
+### Voir aussi
 
 * class [Jpeg2000Options](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

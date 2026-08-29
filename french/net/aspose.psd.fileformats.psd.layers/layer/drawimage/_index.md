@@ -1,11 +1,12 @@
 ---
-title: Layer.DrawImage
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer méthode. Dessine limage sur le calque.
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Layer. Dessine l'image sur le calque"
 type: docs
-weight: 340
+weight: 360
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
 Dessine l'image sur le calque.
@@ -14,9 +15,9 @@ Dessine l'image sur le calque.
 public void DrawImage(Point location, RasterImage image)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| location | Point | L'emplacement. |
+| emplacement | Point | L'emplacement. |
 | image | RasterImage | L'image. |
 
 ### Exceptions
@@ -25,12 +26,12 @@ public void DrawImage(Point location, RasterImage image)
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | L'emplacement doit être non négatif |
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

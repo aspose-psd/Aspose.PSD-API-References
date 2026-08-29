@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorZ
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhflResourceVersion3 propriété. Obtient ou définit la couleur Z.
+title: "PhflResourceVersion3.ColorZ"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PhflResourceVersion3. Obtient ou définit la couleur Z"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorz/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorZ property
 
 Obtient ou définit la couleur Z.
@@ -14,14 +15,14 @@ Obtient ou définit la couleur Z.
 public float ColorZ { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La couleur Z.
 
-### Voir également
+### Voir aussi
 
 * class [PhflResourceVersion3](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

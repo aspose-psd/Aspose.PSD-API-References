@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpBasicPackage champ. Valeur maximale de notation.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ XmpBasicPackage. Valeur maximale de la note"
 type: docs
-weight: 100
+weight: 130
 url: /fr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
-Valeur maximale de notation.
+Valeur maximale de la note.
 
 ```csharp
 public const int RatingMax;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpBasicPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Size.Round
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Convertit le spécifiéSizeF structurer à unSize structure en arrondissant les valeurs desSizeF structure aux valeurs entières les plus proches.
+title: "Size.Round"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Convertit la structure SizeF spécifiée en une structure Size en arrondissant les valeurs de la structure SizeF aux entiers les plus proches."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/size/round/
 ---
+{{< psd/tize >}}
 ## Size.Round method
 
-Convertit le spécifié[`SizeF`](../../sizef/) structurer à un[`Size`](../) structure en arrondissant les valeurs des[`SizeF`](../../sizef/) structure aux valeurs entières les plus proches.
+Convertit la structure [`SizeF`](../../sizef/) spécifiée en une structure [`Size`](../) en arrondissant les valeurs de la structure [`SizeF`](../../sizef/) aux entiers les plus proches.
 
 ```csharp
 public static Size Round(SizeF size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size | SizeF | Le[`SizeF`](../../sizef/) structure à convertir. |
+| size | SizeF | La structure [`SizeF`](../../sizef/) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`Size`](../) structure vers laquelle cette méthode convertit.
+La structure [`Size`](../) vers laquelle cette méthode convertit.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

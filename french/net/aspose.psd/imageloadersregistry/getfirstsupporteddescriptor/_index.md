@@ -1,39 +1,40 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageLoadersRegistry méthode. Obtient le premier descripteur pris en charge trouvé approprié pour le spécifiéstream et éventuellement leloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageLoadersRegistry. Obtient le premier descripteur pris en charge trouvé adapté au flux spécifié et éventuellement aux loadOptions"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-Obtient le premier descripteur pris en charge trouvé approprié pour le spécifié*stream* et éventuellement le*loadOptions* .
+Obtient le premier descripteur pris en charge trouvé adapté au *stream* spécifié et éventuellement aux *loadOptions*.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
     LoadOptions loadOptions)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux. |
 | loadOptions | LoadOptions | Les options de chargement. |
 
-### Return_Value
+### Valeur de retour
 
-Le descripteur de chargeur qui prend en charge le spécifié*stream* et*loadOptions* ou null si aucun descripteur de ce type n'est trouvé.
+Le descripteur de chargeur qui prend en charge le *stream* spécifié et les *loadOptions* ou null si aucun tel descripteur n'est trouvé.
 
-### Remarques
+## Remarques
 
 Le premier descripteur de chargeur sera en fait le dernier enregistré.
 
-### Voir également
+### Voir aussi
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* espace de noms [Aspose.PSD](../../imageloadersregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

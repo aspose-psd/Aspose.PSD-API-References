@@ -1,11 +1,12 @@
 ---
-title: TextLayer.InnerText
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextLayer propriété. Obtient le texte du calque
+title: "TextLayer.InnerText"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextLayer. Obtient le texte du calque"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers/textlayer/innertext/
 ---
+{{< psd/tize >}}
 ## TextLayer.InnerText property
 
 Obtient le texte du calque
@@ -14,14 +15,14 @@ Obtient le texte du calque
 public string InnerText { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le texte.
 
-### Voir également
+### Voir aussi
 
 * class [TextLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.ColorPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GdFlResource propriété. Obtient les points de couleur.
+title: "GdFlResource.ColorPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GdFlResource. Obtient les points de couleur"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.ColorPoints property
 
 Obtient les points de couleur.
@@ -14,15 +15,15 @@ Obtient les points de couleur.
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les points de couleur.
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GdFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

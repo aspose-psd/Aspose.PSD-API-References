@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AdobeXmpToolkit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpMeta propriété. Obtient ou définit la version de la boîte à outils Adobe Xmp.
+title: "XmpMeta.AdobeXmpToolkit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpMeta. Obtient ou définit la version de l'outil Adobe Xmp"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp/xmpmeta/adobexmptoolkit/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AdobeXmpToolkit property
 
 Obtient ou définit la version de la boîte à outils Adobe Xmp.
@@ -14,10 +15,10 @@ Obtient ou définit la version de la boîte à outils Adobe Xmp.
 public string AdobeXmpToolkit { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpMeta](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmpmeta/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

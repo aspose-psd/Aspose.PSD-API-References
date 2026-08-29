@@ -1,27 +1,28 @@
 ---
-title: RenditionClass.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RenditionClass méthode. Obtient la valeur contenue dans la chaîne au format XMP.
+title: "RenditionClass.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RenditionClass. Obtient la valeur de chaîne contenue au format XMP"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## RenditionClass.GetXmpRepresentation method
 
-Obtient la valeur contenue dans la chaîne au format XMP.
+Obtient la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la chaîne contenue dans la valeur au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
-### Voir également
+### Voir aussi
 
 * class [RenditionClass](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

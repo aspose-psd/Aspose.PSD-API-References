@@ -1,28 +1,29 @@
 ---
-title: ExifData.FileSource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le type de source de fichier.
+title: "ExifData.FileSource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le type de source du fichier"
 type: docs
 weight: 240
 url: /fr/net/aspose.psd.exif/exifdata/filesource/
 ---
+{{< psd/tize >}}
 ## ExifData.FileSource property
 
-Obtient ou définit le type de source de fichier.
+Obtient ou définit le type de source du fichier.
 
 ```csharp
 public ExifFileSource FileSource { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type de source du fichier.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifFileSource](../../../aspose.psd.exif.enums/exiffilesource/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

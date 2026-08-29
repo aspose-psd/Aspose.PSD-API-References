@@ -1,11 +1,12 @@
 ---
-title: Struct PointF
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.PointF structure. Représente une paire ordonnée de coordonnées x et y à virgule flottante qui définit un point dans un plan bidimensionnel.
+title: "Structure PointF"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Structure Aspose.PSD.PointF. Représente une paire ordonnée de x et y en virgule flottante qui définit un point dans un plan bidimensionnel."
 type: docs
-weight: 5270
+weight: 5770
 url: /fr/net/aspose.psd/pointf/
 ---
+{{< psd/tize >}}
 ## PointF structure
 
 Représente une paire ordonnée de coordonnées x et y à virgule flottante qui définit un point dans un plan bidimensionnel.
@@ -16,38 +17,38 @@ public struct PointF
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [PointF](pointf/)(float, float) | Initialise une nouvelle instance du`PointF` structure avec les coordonnées spécifiées. |
+| [PointF](pointf/)(float, float) | Initialise une nouvelle instance de la structure `PointF` avec les coordonnées spécifiées. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [Empty](../../aspose.psd/pointf/empty/) { get; } | Obtient une nouvelle instance du`PointF` structure qui a[`X`](./x/) et[`Y`](./y/) valeurs mises à zéro. |
-| [IsEmpty](../../aspose.psd/pointf/isempty/) { get; } | Obtient une valeur indiquant si cela`PointF` est vide. |
-| [X](../../aspose.psd/pointf/x/) { get; set; } | Obtient ou définit la coordonnée x de ce`PointF` . |
-| [Y](../../aspose.psd/pointf/y/) { get; set; } | Obtient ou définit la coordonnée y de ce`PointF` . |
+| static [Empty](../../aspose.psd/pointf/empty/) { get; } | Obtient une nouvelle instance de la structure `PointF` dont les valeurs [`X`](./x/) et [`Y`](./y/) sont définies à zéro. |
+| [IsEmpty](../../aspose.psd/pointf/isempty/) { get; } | Obtient une valeur indiquant si ce `PointF` est vide. |
+| [X](../../aspose.psd/pointf/x/) { get; set; } | Obtient ou définit la coordonnée x de ce `PointF`. |
+| [Y](../../aspose.psd/pointf/y/) { get; set; } | Obtient ou définit la coordonnée y de ce `PointF`. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [Add](../../aspose.psd/pointf/add/#add)(PointF, Size) | Traduit un donné`PointF` par le spécifié[`Size`](../size/) . |
-| static [Add](../../aspose.psd/pointf/add/#add_1)(PointF, SizeF) | Traduit un donné`PointF` par un spécifié[`SizeF`](../sizef/) . |
-| static [Subtract](../../aspose.psd/pointf/subtract/#subtract)(PointF, Size) | Traduit un`PointF` par le négatif d'une taille spécifiée. |
-| static [Subtract](../../aspose.psd/pointf/subtract/#subtract_1)(PointF, SizeF) | Traduit un`PointF` par le négatif d'une taille spécifiée. |
-| override [Equals](../../aspose.psd/pointf/equals/)(object) | Spécifie si cela`PointF` contient les mêmes coordonnées que le spécifiéObject . |
-| override [GetHashCode](../../aspose.psd/pointf/gethashcode/)() | Renvoie un code de hachage pour cela`PointF`structure. |
-| override [ToString](../../aspose.psd/pointf/tostring/)() | Convertit ceci`PointF` en une chaîne lisible par l'homme. |
-| [operator +](../../aspose.psd/pointf/op_addition/#op_addition) | Traduit un`PointF` par un donné[`Size`](../size/) . (2 operators) |
-| [operator ==](../../aspose.psd/pointf/op_equality/) | Compare deux`PointF` structures. Le résultat indique si les valeurs des[`X`](./x/) et[`Y`](./y/) propriétés des deux`PointF` les structures sont égales. |
+| static [Add](../../aspose.psd/pointf/add/#add)(PointF, Size) | Déplace le `PointF` donné de la [`Size`](../size/) spécifiée. |
+| static [Add](../../aspose.psd/pointf/add/#add_1)(PointF, SizeF) | Déplace le `PointF` donné de la [`SizeF`](../sizef/) spécifiée. |
+| static [Subtract](../../aspose.psd/pointf/subtract/#subtract)(PointF, Size) | Déplace le `PointF` du négatif d'une taille spécifiée. |
+| static [Subtract](../../aspose.psd/pointf/subtract/#subtract_1)(PointF, SizeF) | Déplace le `PointF` du négatif d'une taille spécifiée. |
+| override [Equals](../../aspose.psd/pointf/equals/)(object) | Spécifie si ce `PointF` contient les mêmes coordonnées que l'objet spécifié. |
+| override [GetHashCode](../../aspose.psd/pointf/gethashcode/)() | Renvoie un code de hachage pour cette structure `PointF`. |
+| override [ToString](../../aspose.psd/pointf/tostring/)() | Convertit ce `PointF` en une chaîne lisible par l'homme. |
+| [operator +](../../aspose.psd/pointf/op_addition/#op_addition) | Déplace le `PointF` d'une [`Size`](../size/) donnée. (2 opérateurs) |
+| [operator ==](../../aspose.psd/pointf/op_equality/) | Compare deux structures `PointF`. Le résultat spécifie si les valeurs des propriétés [`X`](./x/) et [`Y`](./y/) des deux structures `PointF` sont égales. |
 | [operator !=](../../aspose.psd/pointf/op_inequality/) | Détermine si les coordonnées des points spécifiés ne sont pas égales. |
-| [operator -](../../aspose.psd/pointf/op_subtraction/#op_subtraction) | Traduit un`PointF` par le négatif d'une donnée[`Size`](../size/) . (2 operators) |
+| [operator -](../../aspose.psd/pointf/op_subtraction/#op_subtraction) | Déplace le `PointF` du négatif d'une [`Size`](../size/) donnée. (2 opérateurs) |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

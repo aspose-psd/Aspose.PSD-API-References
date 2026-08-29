@@ -1,11 +1,12 @@
 ---
-title: PostResource.Save
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PostResource méthode. Enregistre la ressource dans le conteneur de flux spécifié.
+title: "PostResource.Save"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PostResource. Enregistre la ressource dans le conteneur de flux spécifié"
 type: docs
-weight: 70
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/save/
 ---
+{{< psd/tize >}}
 ## PostResource.Save method
 
 Enregistre la ressource dans le conteneur de flux spécifié.
@@ -14,16 +15,16 @@ Enregistre la ressource dans le conteneur de flux spécifié.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux dans lequel enregistrer. |
 | psdVersion | Int32 | La version PSD. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PostResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

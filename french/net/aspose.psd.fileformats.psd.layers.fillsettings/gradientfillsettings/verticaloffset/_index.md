@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.VerticalOffset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientFillSettings propriété. Obtient ou définit le décalage vertical en pourcentage.
+title: "GradientFillSettings.VerticalOffset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GradientFillSettings. Obtient ou définit le décalage vertical en pourcentage"
 type: docs
-weight: 140
+weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.VerticalOffset property
 
 Obtient ou définit le décalage vertical en pourcentage.
@@ -14,14 +15,14 @@ Obtient ou définit le décalage vertical en pourcentage.
 public double VerticalOffset { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le décalage vertical.
 
-### Voir également
+### Voir aussi
 
 * class [GradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

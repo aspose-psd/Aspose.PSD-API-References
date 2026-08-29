@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient la largeur de limage.
+title: "PsdImage.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdImage. Obtient la largeur de l'image"
 type: docs
-weight: 270
+weight: 280
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/width/
 ---
+{{< psd/tize >}}
 ## PsdImage.Width property
 
 Obtient la largeur de l'image.
@@ -14,14 +15,14 @@ Obtient la largeur de l'image.
 public override int Width { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur de l'image.
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

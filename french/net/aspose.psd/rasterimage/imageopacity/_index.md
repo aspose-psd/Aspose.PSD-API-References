@@ -1,11 +1,12 @@
 ---
-title: RasterImage.ImageOpacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage propriété. Obtient lopacité de cette image.
+title: "RasterImage.ImageOpacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RasterImage. Obtient l'opacité de cette image"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/rasterimage/imageopacity/
 ---
+{{< psd/tize >}}
 ## RasterImage.ImageOpacity property
 
 Obtient l'opacité de cette image.
@@ -14,14 +15,14 @@ Obtient l'opacité de cette image.
 public virtual float ImageOpacity { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur d'opacité entre 0,0 (entièrement transparent) et 1,0 (entièrement opaque).
+La valeur d'opacité entre 0,0 (complètement transparent) et 1,0 (complètement opaque).
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FillLayer méthode. Met à jour les données de pixels de calque de remplissage en fonction deIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FillLayer. Met à jour les données de pixels du calque de remplissage en fonction des IFillSettings actuels"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Met à jour les données de pixels de calque de remplissage en fonction de[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Met à jour les données de pixels du calque de remplissage en fonction des [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) actuels.
 
 ```csharp
 public void Update()
@@ -18,16 +19,16 @@ public void Update()
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | Type de FillType inconnu |
+| ArgumentOutOfRangeException | Lancée lorsqu'un FillType inconnu est rencontré. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des calques de remplissage : Color fill.
+Le code suivant montre la prise en charge des calques de remplissage : remplissage de couleur.
 
 ```csharp
 [C#]
 
-// Ajout de la prise en charge des calques de remplissage : remplissage de couleur
+// Ajoutez la prise en charge des calques de remplissage : remplissage de couleur
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-Le code suivant enregistre les images avec différents types de dégradé et montre comment Aspose.PSD dessine le dégradé.
+Le code suivant enregistre des images avec différents types de dégradé et montre comment Aspose.PSD dessine le dégradé.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Le code suivant enregistre les images avec le motif Fill Layer et montre comment Aspose.PSD rend le motif.
+Le code suivant enregistre des images avec le calque de remplissage de motif et montre comment Aspose.PSD rend le motif.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -131,10 +132,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FillLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

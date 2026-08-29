@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDate propriété. Obtient ou définit la valeur de date.
+title: "XmpDate.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpDate. Obtient ou définit la valeur de la date"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.basic/xmpdate/value/
 ---
+{{< psd/tize >}}
 ## XmpDate.Value property
 
 Obtient ou définit la valeur de date.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur de date.
 public DateTime Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de date.
+La valeur de la date.
 
-### Voir également
+### Voir aussi
 
 * class [XmpDate](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

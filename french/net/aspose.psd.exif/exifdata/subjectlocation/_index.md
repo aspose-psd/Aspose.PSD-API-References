@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectLocation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit lemplacement du sujet.
+title: "ExifData.SubjectLocation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit l'emplacement du sujet."
 type: docs
 weight: 1020
 url: /fr/net/aspose.psd.exif/exifdata/subjectlocation/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectLocation property
 
-Obtient ou définit l'emplacement du sujet.
+Obtient ou définit l’emplacement du sujet.
 
 ```csharp
 public ushort[] SubjectLocation { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'emplacement du sujet.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

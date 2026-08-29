@@ -1,14 +1,15 @@
 ---
-title: Interface IImageLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IImageLoader interface. Le chargeur dimages.
+title: "Interface IImageLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.IImageLoader interface. Le chargeur d'image"
 type: docs
-weight: 4450
+weight: 4920
 url: /fr/net/aspose.psd/iimageloader/
 ---
+{{< psd/tize >}}
 ## IImageLoader interface
 
-Le chargeur d'images.
+Le chargeur d'image.
 
 ```csharp
 public interface IImageLoader
@@ -16,13 +17,13 @@ public interface IImageLoader
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | Ouvre une nouvelle image avec*loadOptions* . |
+| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | Ouvre une nouvelle image avec *loadOptions*. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

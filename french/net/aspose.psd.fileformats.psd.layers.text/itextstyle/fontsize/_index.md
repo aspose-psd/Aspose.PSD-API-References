@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Obtient ou définit la taille de la police.
+title: "ITextStyle.FontSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ITextStyle propriété. Obtient ou définit la taille de la police"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontSize property
 
 Obtient ou définit la taille de la police.
@@ -14,19 +15,19 @@ Obtient ou définit la taille de la police.
 public double FontSize { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La taille de la police.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez rendre différents styles dans un calque de texte dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez rendre différents styles dans une couche de texte dans Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -49,12 +50,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // édite le style de texte "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // édite le style de texte "2\r"
-    newPortions[2].Style.FauxBold = true; // édite le style de texte "Gras"
-    newPortions[3].Style.FauxItalic = true; // édite le style de texte "Italique\r"
-    newPortions[3].Style.BaselineShift = -25; // édite le style de texte "Italique\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // édite le style de texte "Lowercasetext"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -66,7 +67,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-L'exemple de code suivant illustre la modification de portions de texte et leur style de texte.
+L'exemple de code suivant montre l'édition des portions de texte et leur style de texte.
 
 ```csharp
 [C#]
@@ -133,7 +134,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -149,7 +150,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Vérification des données de style
-            // Les styles ont des couleurs et des tailles de police différentes
+            // Les styles ont des couleurs et une taille de police différentes
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -196,18 +197,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exemple d'édition de paragraphe et de style pour les portions
+            // Exemple d'édition de paragraphes et de styles pour les portions
             // Définir la justification à droite
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Différentes couleurs pour chaque style. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Différentes couleurs pour chaque style. Elles seront modifiées, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Police différente. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Police différente. Elle sera modifiée, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -222,10 +223,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

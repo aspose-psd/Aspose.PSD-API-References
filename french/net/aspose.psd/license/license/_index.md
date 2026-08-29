@@ -1,11 +1,12 @@
 ---
-title: License.License
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: License constructeur. Initialise une nouvelle instance de cette classe.
+title: "License.License"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur License. Initialise une nouvelle instance de cette classe"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
 Initialise une nouvelle instance de cette classe.
@@ -14,9 +15,9 @@ Initialise une nouvelle instance de cette classe.
 public License()
 ```
 
-### Exemples
+## Exemples
 
-Dans cet exemple, une tentative sera faite pour trouver un fichier de licence nommé MyLicense.lic dans le dossier qui contient le composant, dans le dossier qui contient l'assembly appelant, dans le dossier de l'assembly d'entrée, puis dans les ressources embarquées de l'assembly appelant.
+Dans cet exemple, une tentative sera effectuée pour trouver un fichier de licence nommé MyLicense.lic dans le dossier contenant le composant, dans le dossier contenant l'assembly appelant, dans le dossier de l'assembly d'entrée, puis dans les ressources incorporées de l'assembly appelant.
 
 ```csharp
 [C#]
@@ -31,10 +32,10 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### Voir également
+### Voir aussi
 
 * class [License](../)
-* espace de noms [Aspose.PSD](../../license/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

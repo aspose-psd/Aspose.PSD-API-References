@@ -1,23 +1,24 @@
 ---
-title: Cache.SetDefaults
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Cache méthode. Définit leCache paramètres par défaut.
+title: "Cache.SetDefaults"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Cache. Définit les paramètres du cache aux valeurs par défaut."
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/cache/setdefaults/
 ---
+{{< psd/tize >}}
 ## Cache.SetDefaults method
 
-Définit le[`Cache`](../) paramètres par défaut.
+Définit les paramètres du [`Cache`](../) aux valeurs par défaut.
 
 ```csharp
 public static void SetDefaults()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Cache](../)
-* espace de noms [Aspose.PSD](../../cache/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

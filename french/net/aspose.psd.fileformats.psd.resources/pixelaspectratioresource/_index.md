@@ -1,14 +1,15 @@
 ---
-title: Class PixelAspectRatioResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.PixelAspectRatioResource classe. Ressource de ratio daspect des pixels
+title: "Classe PixelAspectRatioResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Resources.PixelAspectRatioResource classe. Ressource de ratio d'aspect de pixel"
 type: docs
-weight: 3820
+weight: 4290
 url: /fr/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource class
 
-Ressource de ratio d'aspect des pixels
+Ressource du rapport d'aspect du pixel
 
 ```csharp
 public sealed class PixelAspectRatioResource : ResourceBlock
@@ -16,34 +17,34 @@ public sealed class PixelAspectRatioResource : ResourceBlock
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [PixelAspectRatioResource](pixelaspectratioresource/)() | Default_Constructor |
+| [PixelAspectRatioResource](pixelaspectratioresource/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AspectRatio](../../aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/) { get; set; } | Obtient ou définit le format d'image. |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/pixelaspectratioresource/datasize/) { get; } | Obtient la taille des données de ressource en octets. |
+| [AspectRatio](../../aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/) { get; set; } | Obtient ou définit le ratio d'aspect. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/pixelaspectratioresource/datasize/) { get; } | Obtient la taille des données de la ressource en octets. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/pixelaspectratioresource/minimalversion/) { get; } | Obtient la version PSD minimale requise. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, remplie pour que la taille soit paire (un nom nul consiste en deux octets de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Doit toujours être '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressource en octets, y compris ses données. |
 | [Version](../../aspose.psd.fileformats.psd.resources/pixelaspectratioresource/version/) { get; set; } | Obtient ou définit la version. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs des ressources. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressource dans le flux spécifié. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs de la ressource. |
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class JFIFData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData classe. Le segment jfif.
+title: "Classe JFIFData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData classe. Le segment jfif"
 type: docs
-weight: 1470
+weight: 1480
 url: /fr/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
 Le segment jfif.
@@ -16,13 +17,13 @@ public sealed class JFIFData
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [JFIFData](jfifdata/)() | Initialise une nouvelle instance du`JFIFData` classe. |
+| [JFIFData](jfifdata/)() | Initialise une nouvelle instance de la classe `JFIFData`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Obtient ou définit les unités de densité. |
 | [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Obtient ou définit la vignette. |
@@ -30,9 +31,9 @@ public sealed class JFIFData
 | [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | Obtient ou définit la densité x. |
 | [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | Obtient ou définit la densité y. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

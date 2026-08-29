@@ -1,11 +1,12 @@
 ---
-title: Cache.CacheType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Cache propriété. Obtient ou définit le schéma de cache utilisé.
+title: "Cache.CacheType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Cache. Obtient ou définit le schéma de cache utilisé"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/cache/cachetype/
 ---
+{{< psd/tize >}}
 ## Cache.CacheType property
 
 Obtient ou définit le schéma de cache utilisé.
@@ -14,15 +15,15 @@ Obtient ou définit le schéma de cache utilisé.
 public static CacheType CacheType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le schéma de cache utilisé.
 
-### Voir également
+### Voir aussi
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* espace de noms [Aspose.PSD](../../cache/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

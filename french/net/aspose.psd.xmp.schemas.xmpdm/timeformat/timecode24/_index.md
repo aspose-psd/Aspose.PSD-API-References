@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode24
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TimeFormat propriété. Obtient le code temporel24.
+title: "TimeFormat.Timecode24"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TimeFormat. Obtient le timecode24"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode24/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode24 property
 
-Obtient le code temporel24.
+Obtient le timecode24.
 
 ```csharp
 public static TimeFormat Timecode24 { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le code temporel24.
+Le timecode24.
 
-### Voir également
+### Voir aussi
 
 * class [TimeFormat](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Font.Font
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font constructeur. Initialise un nouveauFont qui utilise lexistant spécifiéFont etFontStyle énumération.
+title: "Font.Font"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Font. Initialise un nouveau Font qui utilise le Font existant spécifié et l'énumération FontStyle."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/font/font/
 ---
+{{< psd/tize >}}
 ## Font(Font, FontStyle) {#constructor}
 
-Initialise un nouveau[`Font`](../) qui utilise l'existant spécifié[`Font`](../) et[`FontStyle`](../../fontstyle/) énumération.
+Initialise un nouveau [`Font`](../) qui utilise le [`Font`](../) existant spécifié et l'énumération [`FontStyle`](../../fontstyle/).
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| prototype | Font | L'existant[`Font`](../) à partir de laquelle créer le nouveau[`Font`](../). |
-| newStyle | FontStyle | Le[`FontStyle`](../../fontstyle/) s'appliquer au nouveau[`Font`](../) . Plusieurs valeurs de la[`FontStyle`](../../fontstyle/) l'énumération peut être combinée avec l'opérateur OR. |
+| prototype | Font | Le [`Font`](../) existant à partir duquel créer le nouveau [`Font`](../). |
+| newStyle | FontStyle | Le [`FontStyle`](../../fontstyle/) à appliquer au nouveau [`Font`](../). Plusieurs valeurs de l'énumération [`FontStyle`](../../fontstyle/) peuvent être combinées avec l'opérateur OR. |
 
 ### Exceptions
 
@@ -25,166 +26,166 @@ public Font(Font prototype, FontStyle newStyle)
 | --- | --- |
 | ArgumentNullException | *prototype* est nul. |
 
-### Voir également
+### Voir aussi
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float) {#constructor_1}
 
-Initialise un nouveau[`Font`](../) en utilisant une taille spécifiée. Le jeu de caractères est défini surDefault , l'unité graphique àPoint , le style de police àRegular .
+Initialise un nouveau [`Font`](../) en utilisant une taille spécifiée. Le jeu de caractères est défini sur Default, l'unité graphique sur Point, le style de police sur Regular.
 
 ```csharp
 public Font(string fontName, float emSize)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontName | String | Une représentation sous forme de chaîne de[`Font`](../) nom. |
-| emSize | Single | La taille em, en points, de la nouvelle police. |
+| fontName | String | Une représentation sous forme de chaîne du nom du [`Font`](../). |
+| emSize | Single | La taille en em, en points, de la nouvelle police. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, s'évalue à l'infini ou n'est pas un nombre valide. |
+| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, évalue à l'infini ou n'est pas un nombre valide. |
 | ArgumentNullException | *fontName* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle) {#constructor_2}
 
-Initialise un nouveau[`Font`](../) en utilisant une taille et un style spécifiés. Le jeu de caractères est défini surDefault , l'unité graphique àPoint .
+Initialise un nouveau [`Font`](../) en utilisant une taille et un style spécifiés. Le jeu de caractères est défini sur Default, l'unité graphique sur Point.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontName | String | Une représentation sous forme de chaîne de[`Font`](../) nom. |
-| emSize | Single | La taille em, en points, de la nouvelle police. |
-| style | FontStyle | Le[`FontStyle`](../../fontstyle/) de la nouvelle police. |
+| fontName | String | Une représentation sous forme de chaîne du nom du [`Font`](../). |
+| emSize | Single | La taille en em, en points, de la nouvelle police. |
+| style | FontStyle | Le [`FontStyle`](../../fontstyle/) de la nouvelle police. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, s'évalue à l'infini ou n'est pas un nombre valide. |
+| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, évalue à l'infini ou n'est pas un nombre valide. |
 | ArgumentNullException | *fontName* est nul. |
 
-### Voir également
+### Voir aussi
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, GraphicsUnit) {#constructor_5}
 
-Initialise un nouveau[`Font`](../) en utilisant une taille et une unité spécifiées. Le jeu de caractères est défini surDefault le style est défini surRegular .
+Initialise un nouveau [`Font`](../) en utilisant une taille et une unité spécifiées. Le jeu de caractères est défini sur Default, le style est défini sur Regular.
 
 ```csharp
 public Font(string fontName, float emSize, GraphicsUnit unit)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontName | String | Une représentation sous forme de chaîne de[`Font`](../) nom. |
-| emSize | Single | La taille em de la nouvelle police dans les unités spécifiées par le*unit* paramètre. |
-| unit | GraphicsUnit | Le[`GraphicsUnit`](../../graphicsunit/) de la nouvelle police. |
+| fontName | String | Une représentation sous forme de chaîne du nom du [`Font`](../). |
+| emSize | Single | La taille en em de la nouvelle police dans les unités spécifiées par le paramètre *unit*. |
+| unit | GraphicsUnit | L'[`GraphicsUnit`](../../graphicsunit/) de la nouvelle police. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, s'évalue à l'infini ou n'est pas un nombre valide. |
+| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, évalue à l'infini ou n'est pas un nombre valide. |
 | ArgumentNullException | *fontName* est nul. |
 
-### Voir également
+### Voir aussi
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit, CharacterSet) {#constructor_4}
 
-Initialise un nouveau[`Font`](../) en utilisant une taille, un style, une unité et un jeu de caractères spécifiés.
+Initialise un nouveau [`Font`](../) en utilisant une taille, un style, une unité et un jeu de caractères spécifiés.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit, 
     CharacterSet characterSet)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontName | String | Une représentation sous forme de chaîne de[`Font`](../) nom. |
-| emSize | Single | La taille em de la nouvelle police dans les unités spécifiées par le*unit* paramètre. |
-| style | FontStyle | Le[`FontStyle`](../../fontstyle/) de la nouvelle police. |
-| unit | GraphicsUnit | Le[`GraphicsUnit`](../../graphicsunit/) de la nouvelle police. |
-| characterSet | CharacterSet | Jeu de caractères à utiliser pour cette police. |
+| fontName | String | Une représentation sous forme de chaîne du nom du [`Font`](../). |
+| emSize | Single | La taille en em de la nouvelle police dans les unités spécifiées par le paramètre *unit*. |
+| style | FontStyle | Le [`FontStyle`](../../fontstyle/) de la nouvelle police. |
+| unit | GraphicsUnit | L'[`GraphicsUnit`](../../graphicsunit/) de la nouvelle police. |
+| characterSet | CharacterSet | Un jeu de caractères à utiliser pour cette police. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, s'évalue à l'infini ou n'est pas un nombre valide. |
+| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, évalue à l'infini ou n'est pas un nombre valide. |
 | ArgumentNullException | *fontName* est nul. |
 
-### Voir également
+### Voir aussi
 
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-Initialise un nouveau[`Font`](../) en utilisant une taille, un style et une unité spécifiés.
+Initialise un nouveau [`Font`](../) en utilisant une taille, un style et une unité spécifiés.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontName | String | Une représentation sous forme de chaîne de[`Font`](../) nom. |
-| emSize | Single | La taille em de la nouvelle police dans les unités spécifiées par le*unit* paramètre. |
-| style | FontStyle | Le[`FontStyle`](../../fontstyle/) de la nouvelle police. |
-| unit | GraphicsUnit | Le[`GraphicsUnit`](../../graphicsunit/) de la nouvelle police. |
+| fontName | String | Une représentation sous forme de chaîne du nom du [`Font`](../). |
+| emSize | Single | La taille en em de la nouvelle police dans les unités spécifiées par le paramètre *unit*. |
+| style | FontStyle | Le [`FontStyle`](../../fontstyle/) de la nouvelle police. |
+| unit | GraphicsUnit | L'[`GraphicsUnit`](../../graphicsunit/) de la nouvelle police. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, s'évalue à l'infini ou n'est pas un nombre valide. |
+| ArgumentOutOfRangeException | *emSize* est inférieur ou égal à 0, évalue à l'infini ou n'est pas un nombre valide. |
 | ArgumentNullException | *fontName* est nul. |
 
-### Voir également
+### Voir aussi
 
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

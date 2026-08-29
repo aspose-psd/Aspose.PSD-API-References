@@ -1,11 +1,12 @@
 ---
-title: Layer.MergeLayerTo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer méthode. Fusionne le calque avec le calque spécifié
+title: "Layer.MergeLayerTo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Layer. Fusionne la couche avec la couche spécifiée"
 type: docs
-weight: 360
+weight: 380
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
 Fusionne le calque avec le calque spécifié
@@ -14,14 +15,14 @@ Fusionne le calque avec le calque spécifié
 public virtual void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layerToMergeInto | Layer | Le calque dans lequel fusionner. |
+| layerToMergeInto | Calque | La couche dans laquelle fusionner. |
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

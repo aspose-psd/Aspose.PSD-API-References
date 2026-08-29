@@ -1,23 +1,24 @@
 ---
-title: LnsrResource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LnsrResource propriété. Obtient la clé de ressource de couche.
+title: "LnsrResource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LnsrResource propriété. Obtient la clé de la ressource de couche"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LnsrResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

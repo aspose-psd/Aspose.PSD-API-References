@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientFillSettings propriété. Obtient ou définit une valeur indiquant si aligner avec le calque.
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GradientFillSettings. Obtient ou définit une valeur indiquant si l'alignement avec le calque est activé"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-Obtient ou définit une valeur indiquant si [aligner avec le calque].
+Obtient ou définit une valeur indiquant si [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si [aligner avec le calque] ; sinon,`FAUX` .
+`true` si [align with layer] ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [GradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

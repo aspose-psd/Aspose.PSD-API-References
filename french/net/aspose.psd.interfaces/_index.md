@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Interfaces
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms gère le traitement du format de fichier Tiff.
+title: "Aspose.PSD.Interfaces"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms gère le traitement du format de fichier Tiff"
 type: docs
-weight: 440
+weight: 480
 url: /fr/net/aspose.psd.interfaces/
 ---
-L'espace de noms gère le traitement du format de fichier Tiff.
+{{< psd/tize >}}
+L'espace de noms gère le traitement du format de fichier TIFF.
 
 ## Interfaces
 
-| Interface | La description |
+| Interface | Description |
 | --- | --- |
-| [IObjectWithSizeF](./iobjectwithsizef/) | Représente un objet dont la taille est exprimée en nombres réels (en pouces). |
+| [IObjectWithSizeF](./iobjectwithsizef/) | Représente un objet avec Size qui est exprimé en nombres réels (en pouces). |
 
 

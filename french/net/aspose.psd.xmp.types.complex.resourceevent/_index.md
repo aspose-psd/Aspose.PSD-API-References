@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.ResourceEvent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient une classe qui est un événement de haut niveau qui sest produit lors du traitement de ce document.
+title: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient une classe qui est un événement de haut niveau survenu lors du traitement de ce document"
 type: docs
-weight: 660
+weight: 700
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/
 ---
-L'espace de noms contient une classe qui est un événement de haut niveau qui s'est produit lors du traitement de ce document.
+{{< psd/tize >}}
+L'espace de noms contient une classe qui est un événement de haut niveau survenu lors du traitement de ce document.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [ResourceEvent](./resourceevent/) | Contenant les dimensions d'un objet dessiné. |
+| [ResourceEvent](./resourceevent/) | Contient les dimensions d'un objet dessiné. |
 
 

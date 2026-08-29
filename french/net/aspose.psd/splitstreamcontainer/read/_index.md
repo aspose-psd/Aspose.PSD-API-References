@@ -1,57 +1,58 @@
 ---
-title: SplitStreamContainer.Read
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SplitStreamContainer méthode. Lit les octets pour remplir le tampon doctets spécifié.
+title: "SplitStreamContainer.Read"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SplitStreamContainer. Lit des octets pour remplir le tampon d'octets spécifié."
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/splitstreamcontainer/read/
 ---
+{{< psd/tize >}}
 ## Read(byte[]) {#read}
 
-Lit les octets pour remplir le tampon d'octets spécifié.
+Lit des octets pour remplir le tampon d'octets spécifié.
 
 ```csharp
 public override int Read(byte[] bytes)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| bytes | Byte[] | Les octets à remplir. |
+| octets | Byte[] | Les octets à remplir. |
 
-### Return_Value
+### Valeur de retour
 
-Le nombre d'octets lus. Cette valeur peut être inférieure au nombre d'octets dans la mémoire tampon s'il n'y a pas assez d'octets dans le flux.
+Le nombre d'octets lus. Cette valeur peut être inférieure au nombre d'octets du tampon s'il n'y a pas assez d'octets dans le flux.
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Read(byte[], int, int) {#read_1}
 
-Lit une séquence d'octets du flux actuel et avance la position dans le flux du nombre d'octets lus.
+Lit une séquence d'octets depuis le flux actuel et avance la position dans le flux du nombre d'octets lus.
 
 ```csharp
 public override int Read(byte[] buffer, int offset, int count)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| buffer | Byte[] | Un tableau d'octets. Lorsque cette méthode revient, le tampon contient le tableau d'octets spécifié avec les valeurs entre*offset* et (*offset* +*count* - 1) remplacé par les octets lus depuis la source courante. |
-| offset | Int32 | Le décalage d'octet de base zéro dans*buffer* à partir de laquelle commencer à stocker les données lues à partir du flux actuel. |
-| count | Int32 | Le nombre maximal d'octets à lire à partir du flux actuel. |
+| tampon | Byte[] | Un tableau d'octets. Lorsque cette méthode retourne, le tampon contient le tableau d'octets spécifié avec les valeurs entre *offset* et (*offset* + *count* - 1) remplacées par les octets lus depuis la source actuelle. |
+| offset | Int32 | Le décalage d'octet basé sur zéro dans *buffer* à partir duquel commencer à stocker les données lues depuis le flux actuel. |
+| count | Int32 | Le nombre maximal d'octets à lire depuis le flux actuel. |
 
-### Return_Value
+### Valeur de retour
 
-Le nombre total d'octets lus dans le tampon. Cela peut être inférieur au nombre d'octets demandés si ce nombre d'octets ne sont pas actuellement disponibles, ou zéro (0) si la fin du flux a été atteinte.
+Le nombre total d'octets lus dans le tampon. Cela peut être inférieur au nombre d'octets demandé si autant d'octets ne sont pas disponibles actuellement, ou zéro (0) si la fin du flux a été atteinte.
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

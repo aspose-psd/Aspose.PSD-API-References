@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit une limite personnalisée à utiliser à la fin des lignes dessinées avec cePen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Pen property. Obtient ou définit un cap personnalisé à utiliser à la fin des lignes tracées avec ce Pen"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-Obtient ou définit une limite personnalisée à utiliser à la fin des lignes dessinées avec ce[`Pen`](../) .
+Obtient ou définit un cap personnalisé à utiliser à la fin des lignes tracées avec ce [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`CustomLineCap`](../../customlinecap/) qui représente le plafond utilisé à la fin des lignes tracées avec ce[`Pen`](../).
+Un [`CustomLineCap`](../../customlinecap/) qui représente le cap utilisé à la fin des lignes tracées avec ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`CustomEndCap` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `CustomEndCap` est définie sur un [`Pen`](../) immuable, comme ceux retournés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

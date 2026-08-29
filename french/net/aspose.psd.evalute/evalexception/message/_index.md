@@ -1,11 +1,12 @@
 ---
-title: EvalException.Message
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: EvalException propriété. Obtient le message associé à cette exception
+title: "EvalException.Message"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété EvalException. Obtient le message associé à cette exception"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.evalute/evalexception/message/
 ---
+{{< psd/tize >}}
 ## EvalException.Message property
 
 Obtient le message associé à cette exception
@@ -14,10 +15,10 @@ Obtient le message associé à cette exception
 public override string Message { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [EvalException](../)
-* espace de noms [Aspose.PSD.Evalute](../../evalexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Evalute](../../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../../)
 
 

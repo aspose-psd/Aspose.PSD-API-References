@@ -1,27 +1,28 @@
 ---
-title: Color.GetHashCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color méthode. Renvoie un code de hachage pour celaColorstructure.
+title: "Color.GetHashCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Color. Retourne un code de hachage pour cette structure Color."
 type: docs
 weight: 1560
 url: /fr/net/aspose.psd/color/gethashcode/
 ---
+{{< psd/tize >}}
 ## Color.GetHashCode method
 
-Renvoie un code de hachage pour cela[`Color`](../)structure.
+Retourne un code de hachage pour cette structure [`Color`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une valeur entière qui spécifie le code de hachage pour ce[`Color`](../).
+Une valeur entière qui spécifie le code de hachage pour cette [`Color`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

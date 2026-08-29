@@ -1,14 +1,15 @@
 ---
-title: Class ColorMap
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ColorMap classe. Définit une carte pour convertir les couleurs. Plusieurs méthodes de laImageAttributes classe ajuste les couleurs de limage à laide dune table de remappage des couleurs qui est un tableau deColorMap structures. Non héréditaire.
+title: "Classe ColorMap"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ColorMap. Définit une table de correspondance pour convertir les couleurs. Plusieurs méthodes de la classe ImageAttributes ajustent les couleurs de l'image en utilisant une table de colorremap qui est un tableau de structures ColorMap. Non héritable."
 type: docs
 weight: 340
 url: /fr/net/aspose.psd/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap class
 
-Définit une carte pour convertir les couleurs. Plusieurs méthodes de la[`ImageAttributes`](../imageattributes/) classe ajuste les couleurs de l'image à l'aide d'une table de remappage des couleurs, qui est un tableau de`ColorMap` structures. Non héréditaire.
+Définit une table de correspondance pour convertir les couleurs. Plusieurs méthodes de la classe [`ImageAttributes`](../imageattributes/) ajustent les couleurs de l'image en utilisant une table de color-remap, qui est un tableau de structures `ColorMap`. Non héritable.
 
 ```csharp
 public sealed class ColorMap
@@ -16,20 +17,20 @@ public sealed class ColorMap
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ColorMap](colormap/)() | Default_Constructor |
+| [ColorMap](colormap/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Obtient ou définit le nouveau[`Color`](../color/) structure vers laquelle convertir. |
-| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Obtient ou définit l'existant[`Color`](../color/) structure à convertir. |
+| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Obtient ou définit la nouvelle structure [`Color`](../color/) vers laquelle convertir. |
+| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Obtient ou définit la structure [`Color`](../color/) existante à convertir. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

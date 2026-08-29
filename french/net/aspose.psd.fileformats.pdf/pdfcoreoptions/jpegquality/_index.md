@@ -1,11 +1,12 @@
 ---
-title: PdfCoreOptions.JpegQuality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfCoreOptions propriété. Spécifie la qualité de la compression JPEG pour les images si la compression JPEG est utilisée. La valeur par défaut est 95.
+title: "PdfCoreOptions.JpegQuality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PdfCoreOptions. Spécifie la qualité de la compression JPEG pour les images si la compression JPEG est utilisée. La valeur par défaut est 95"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.JpegQuality property
 
 Spécifie la qualité de la compression JPEG pour les images (si la compression JPEG est utilisée). La valeur par défaut est 95.
@@ -14,10 +15,10 @@ Spécifie la qualité de la compression JPEG pour les images (si la compression 
 public int JpegQuality { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PdfCoreOptions](../)
-* espace de noms [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

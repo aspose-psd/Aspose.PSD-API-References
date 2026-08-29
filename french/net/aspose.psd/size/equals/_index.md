@@ -1,31 +1,32 @@
 ---
-title: Size.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Teste pour voir si lobjet spécifié est unSize avec les mêmes dimensions que celuiciSize .
+title: "Size.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Vérifie si l'objet spécifié est un Size ayant les mêmes dimensions que ce Size."
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/size/equals/
 ---
+{{< psd/tize >}}
 ## Size.Equals method
 
-Teste pour voir si l'objet spécifié est un[`Size`](../) avec les mêmes dimensions que celui-ci[`Size`](../) .
+Vérifie si l'objet spécifié est un [`Size`](../) ayant les mêmes dimensions que ce [`Size`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | LeObject tester. |
+| obj | Object | L'objet à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si*obj* est un[`Size`](../) et a la même largeur et la même hauteur que celle-ci[`Size`](../); sinon, faux.
+Vrai si *obj* est un [`Size`](../) et possède la même largeur et hauteur que ce [`Size`](../) ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

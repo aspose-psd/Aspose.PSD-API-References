@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.BlendModeKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerSectionResource propriété. Obtient ou définit la clé du mode de fusion.
+title: "LayerSectionResource.BlendModeKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerSectionResource. Obtient ou définit la clé du mode de fusion"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.BlendModeKey property
 
 Obtient ou définit la clé du mode de fusion.
@@ -20,11 +21,11 @@ public BlendMode BlendModeKey { get; set; }
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | BlendModeKey doit comporter 4 caractères. |
 
-### Voir également
+### Voir aussi
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerSectionResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

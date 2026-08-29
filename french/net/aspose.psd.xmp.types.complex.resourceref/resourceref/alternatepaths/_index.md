@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceRef propriété. Obtient ou définit le tableau de chemin alternatif.
+title: "ResourceRef.AlternatePaths"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceRef. Obtient ou définit le tableau des chemins alternatifs"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
-Obtient ou définit le tableau de chemin alternatif.
+Obtient ou définit le tableau des chemins alternatifs.
 
 ```csharp
 public string[] AlternatePaths { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le tableau des chemins alternatifs.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceRef](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

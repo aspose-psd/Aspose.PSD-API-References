@@ -1,11 +1,12 @@
 ---
-title: Class ImageSaveException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.ImageSaveException classe. Lexception denregistrement dimage. Se produit lors de lenregistrement de limage.
+title: "Classe ImageSaveException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.CoreExceptions.ImageSaveException classe. L'exception d'enregistrement d'image. Se produit lors de l'enregistrement d'une image."
 type: docs
 weight: 630
 url: /fr/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
 L'exception d'enregistrement d'image. Se produit lors de l'enregistrement de l'image.
@@ -16,15 +17,15 @@ public class ImageSaveException : ImageException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | Initialise une nouvelle instance du`ImageSaveException` classe. |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance du`ImageSaveException` classe. |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | Initialise une nouvelle instance de la classe `ImageSaveException`. |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance de la classe `ImageSaveException`. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageException](../imageexception/)
-* espace de noms [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

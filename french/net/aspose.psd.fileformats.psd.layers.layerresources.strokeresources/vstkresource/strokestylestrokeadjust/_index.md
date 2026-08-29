@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleStrokeAdjust
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VstkResource propriété. Obtient ou définit lajustement de la course.
+title: "VstkResource.StrokeStyleStrokeAdjust"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VstkResource. Obtient ou définit l'ajustement du trait"
 type: docs
-weight: 210
+weight: 190
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleStrokeAdjust property
 
-Obtient ou définit l'ajustement de la course.
+Obtient ou définit l'ajustement du tracé.
 
 ```csharp
 public bool StrokeStyleStrokeAdjust { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VstkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

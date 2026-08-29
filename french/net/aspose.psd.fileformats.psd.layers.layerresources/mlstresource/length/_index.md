@@ -1,23 +1,24 @@
 ---
-title: MlstResource.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MlstResource propriété. Obtient la longueur de la ressource de couche en octets.
+title: "MlstResource.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "MlstResource propriété. Obtient la longueur de la ressource de calque en octets"
 type: docs
-weight: 50
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/
 ---
+{{< psd/tize >}}
 ## MlstResource.Length property
 
-Obtient la longueur de la ressource de couche en octets.
+Obtient la longueur de la ressource du calque en octets.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [MlstResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

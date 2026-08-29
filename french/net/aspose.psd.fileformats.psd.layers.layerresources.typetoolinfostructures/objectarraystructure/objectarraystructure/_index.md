@@ -1,28 +1,29 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ObjectArrayStructure constructeur. Initialise une nouvelle instance duObjectArrayStructure classe.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ObjectArrayStructure. Initialise une nouvelle instance de la classe ObjectArrayStructure"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`ObjectArrayStructure`](../) classe.
+Initialise une nouvelle instance de la classe [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | keyName | String | Nom de la clé. |
-| classIdName | String | Nom de l'identificateur de classe. |
+| classIdName | String | Nom de l’identifiant de classe. |
 | structures | OSTypeStructure[] | Les structures. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des signatures ObAr et UnFl.
+Le code suivant montre la prise en charge des signatures ObAr et UnFl.
 
 ```csharp
 [C#]
@@ -74,29 +75,29 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-Initialise une nouvelle instance du[`ObjectArrayStructure`](../) classe.
+Initialise une nouvelle instance de la classe [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| key | Int32 | La clé entière. |
+| clé | Int32 | La clé entière. |
 | keyName | ClassID | Le nom de la clé. |
-| classID | ClassID | L'identificateur de classe. |
+| classID | ClassID | L'identifiant de classe. |
 | className | String | Nom de la classe. |
 | structures | OSTypeStructure[] | Les structures. |
 
@@ -104,11 +105,11 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | l'ID de classe est nul |
+| ArgumentNullException | classID est nul |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des signatures ObAr et UnFl.
+Le code suivant montre la prise en charge des signatures ObAr et UnFl.
 
 ```csharp
 [C#]
@@ -160,12 +161,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

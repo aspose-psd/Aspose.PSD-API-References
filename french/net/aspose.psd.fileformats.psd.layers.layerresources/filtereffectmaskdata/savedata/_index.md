@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.SaveData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FilterEffectMaskData méthode. Enregistre la ressource dans le conteneur de flux spécifié.
+title: "FilterEffectMaskData.SaveData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FilterEffectMaskData. Enregistre la ressource dans le conteneur de flux spécifié"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SaveData method
 
 Enregistre la ressource dans le conteneur de flux spécifié.
@@ -14,15 +15,15 @@ Enregistre la ressource dans le conteneur de flux spécifié.
 public void SaveData(StreamContainer streamContainer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux dans lequel enregistrer. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FilterEffectMaskData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

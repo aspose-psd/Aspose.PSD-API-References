@@ -1,31 +1,32 @@
 ---
-title: StreamContainer.op_Explicit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer méthode. Effectue une conversion explicite à partirStreamContainer pourStream .
+title: "StreamContainer.op_Explicit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode StreamContainer. Effectue une conversion explicite de StreamContainer vers Stream"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd/streamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## StreamContainer Explicit operator
 
-Effectue une conversion explicite à partir[`StreamContainer`](../) pourStream .
+Effectue une conversion explicite de [`StreamContainer`](../) vers Stream.
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux. |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de la conversion.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

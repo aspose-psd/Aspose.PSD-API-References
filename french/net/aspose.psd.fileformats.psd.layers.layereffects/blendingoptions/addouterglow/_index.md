@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlendingOptions méthode. Ajoute leffet de lueur externe.
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode BlendingOptions. Ajoute l'effet de lueur externe"
 type: docs
-weight: 60
+weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
 Ajoute l'effet de lueur externe.
@@ -14,13 +15,13 @@ Ajoute l'effet de lueur externe.
 public OuterGlowEffect AddOuterGlow()
 ```
 
-### Return_Value
+### Valeur de retour
 
-créé[`OuterGlowEffect`](../../outergloweffect/) objet
+Créé l'objet [`OuterGlowEffect`](../../outergloweffect/)
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge d'OuterGlowEffect.
+Le code suivant montre la prise en charge de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

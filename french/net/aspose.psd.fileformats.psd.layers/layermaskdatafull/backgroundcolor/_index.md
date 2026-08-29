@@ -1,11 +1,12 @@
 ---
-title: LayerMaskDataFull.BackgroundColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerMaskDataFull propriété. Obtient ou définit la couleur darrièreplan.
+title: "LayerMaskDataFull.BackgroundColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerMaskDataFull. Obtient ou définit la couleur d'arrière-plan"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.BackgroundColor property
 
 Obtient ou définit la couleur d'arrière-plan.
@@ -14,14 +15,14 @@ Obtient ou définit la couleur d'arrière-plan.
 public byte BackgroundColor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La couleur de fond.
+La couleur d'arrière-plan.
 
-### Voir également
+### Voir aussi
 
 * class [LayerMaskDataFull](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

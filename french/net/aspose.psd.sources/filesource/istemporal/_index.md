@@ -1,27 +1,28 @@
 ---
-title: FileSource.IsTemporal
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FileSource propriété. Obtient une valeur indiquant si le fichier sera temporel.
+title: "FileSource.IsTemporal"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété FileSource. Obtient une valeur indiquant si le fichier sera temporaire"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.sources/filesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileSource.IsTemporal property
 
-Obtient une valeur indiquant si le fichier sera temporel.
+Obtient une valeur indiquant si le fichier sera temporaire.
 
 ```csharp
 public abstract bool IsTemporal { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si le fichier sera temporel ; sinon,`FAUX` .
+`true` si le fichier sera temporaire ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [FileSource](../)
-* espace de noms [Aspose.PSD.Sources](../../filesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

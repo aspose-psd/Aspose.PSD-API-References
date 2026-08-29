@@ -1,14 +1,15 @@
 ---
-title: Enum CompositingQuality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CompositingQuality énumération. Spécifie le niveau de qualité à utiliser lors de la composition.
+title: "Énumération CompositingQuality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.CompositingQuality. Spécifie le niveau de qualité à utiliser lors du compositing"
 type: docs
 weight: 420
 url: /fr/net/aspose.psd/compositingquality/
 ---
+{{< psd/tize >}}
 ## CompositingQuality enumeration
 
-Spécifie le niveau de qualité à utiliser lors de la composition.
+Spécifie le niveau de qualité à utiliser lors du compositing.
 
 ```csharp
 public enum CompositingQuality
@@ -16,18 +17,18 @@ public enum CompositingQuality
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Invalid | `-1` | Qualité invalide. |
 | Default | `0` | Qualité par défaut. |
 | HighSpeed | `1` | Haute vitesse, faible qualité. |
-| HighQuality | `2` | Composition haute qualité à faible vitesse. |
+| HighQuality | `2` | Compositing de haute qualité, faible vitesse. |
 | GammaCorrected | `3` | La correction gamma est utilisée. |
-| AssumeLinear | `4` | Supposons des valeurs linéaires. |
+| AssumeLinear | `4` | Supposer des valeurs linéaires. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

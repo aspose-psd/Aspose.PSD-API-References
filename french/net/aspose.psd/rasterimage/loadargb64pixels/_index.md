@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Charge les pixels ARGB 64 bits.
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Charge des pixels ARGB 64 bits"
 type: docs
 weight: 360
 url: /fr/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
-Charge les pixels ARGB 64 bits.
+Charge des pixels ARGB 64 bits.
 
 ```csharp
 public long[] LoadArgb64Pixels(Rectangle rectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle à partir duquel charger les pixels. |
 
-### Return_Value
+### Valeur de retour
 
 Le tableau de pixels ARGB 64 bits chargé.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

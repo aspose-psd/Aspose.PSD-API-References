@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.CompressionRatios
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Jpeg2000Options propriété. Obtient ou définit le tableau de taux de compression. Différents taux de compression pour les couches successives. Le taux spécifié pour chaque niveau de qualité est le facteur de compression souhaité. Diminution des taux requis.
+title: "Jpeg2000Options.CompressionRatios"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Jpeg2000Options. Obtient ou définit le tableau des ratios de compression. Différents ratios de compression pour les couches successives. Le taux spécifié pour chaque niveau de qualité est le facteur de compression souhaité. Des ratios décroissants sont requis."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.imageoptions/jpeg2000options/compressionratios/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.CompressionRatios property
 
-Obtient ou définit le tableau de taux de compression. Différents taux de compression pour les couches successives. Le taux spécifié pour chaque niveau de qualité est le facteur de compression souhaité. Diminution des taux requis.
+Obtient ou définit le tableau des rapports de compression. Différents rapports de compression pour les couches successives. Le taux spécifié pour chaque niveau de qualité est le facteur de compression souhaité. Des rapports décroissants sont requis.
 
 ```csharp
 public int[] CompressionRatios { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les taux de compression.
+Les ratios de compression.
 
-### Voir également
+### Voir aussi
 
 * class [Jpeg2000Options](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

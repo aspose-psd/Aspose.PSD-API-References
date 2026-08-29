@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Linked
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPatternFillSettings propriété. Obtient ou définit une valeur indiquant si cetteIPatternFillSettingsest lié.
+title: "IPatternFillSettings.Linked"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPatternFillSettings. Obtient ou définit une valeur indiquant si cet IPatternFillSettings est lié"
 type: docs
-weight: 20
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Linked property
 
-Obtient ou définit une valeur indiquant si cette[`IPatternFillSettings`](../)est lié.
+Obtient ou définit une valeur indiquant si ce [`IPatternFillSettings`](../) est lié.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si lié ; sinon,`FAUX` .
+`true` si lié ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * interface [IPatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

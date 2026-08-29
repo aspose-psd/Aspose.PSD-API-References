@@ -1,22 +1,23 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ProjectLink méthode. Renvoie la valeur contenue dans la chaîne au format XMP.
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ProjectLink. Retourne la valeur de chaîne contenue au format XMP"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
-Renvoie la valeur contenue dans la chaîne au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la valeur contenue dans la chaîne au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
 ### Exceptions
 
@@ -24,10 +25,10 @@ Renvoie la valeur contenue dans la chaîne au format XMP.
 | --- | --- |
 | NotImplementedException |  |
 
-### Voir également
+### Voir aussi
 
 * class [ProjectLink](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

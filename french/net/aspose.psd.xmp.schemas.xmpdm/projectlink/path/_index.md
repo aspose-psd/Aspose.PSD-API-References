@@ -1,27 +1,28 @@
 ---
-title: ProjectLink.Path
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ProjectLink propriété. Obtient ou définit le chemin daccès complet au projet.
+title: "ProjectLink.Path"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ProjectLink. Obtient ou définit le chemin complet du projet"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Path property
 
-Obtient ou définit le chemin d'accès complet au projet.
+Obtient ou définit le chemin complet du projet.
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le chemin complet vers le projet.
+Le chemin complet du projet.
 
-### Voir également
+### Voir aussi
 
 * class [ProjectLink](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

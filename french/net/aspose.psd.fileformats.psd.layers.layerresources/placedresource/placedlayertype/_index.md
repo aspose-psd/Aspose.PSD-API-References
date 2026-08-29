@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.PlacedLayerType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit le type du calque placé dans le fichier PSD.
+title: "PlacedResource.PlacedLayerType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit le type de la couche placée dans le fichier PSD"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PlacedLayerType property
 
 Obtient ou définit le type du calque placé dans le fichier PSD.
@@ -14,15 +15,15 @@ Obtient ou définit le type du calque placé dans le fichier PSD.
 public virtual PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type du calque placé.
 
-### Voir également
+### Voir aussi
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

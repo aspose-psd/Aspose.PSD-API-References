@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeResourceEvent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. URI dévénement de ressource XMP.
+title: "Namespaces.XmpTypeResourceEvent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. URI de l'événement de ressource XMP"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.xmp/namespaces/xmptyperesourceevent/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeResourceEvent field
 
-URI d'événement de ressource XMP.
+URI XMP ResourceEvent.
 
 ```csharp
 public const string XmpTypeResourceEvent;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

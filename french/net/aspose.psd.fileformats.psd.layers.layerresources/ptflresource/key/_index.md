@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PtFlResource propriété. Obtient la clé de ressource de couche.
+title: "PtFlResource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PtFlResource propriété. Obtient la clé de la ressource de calque"
 type: docs
-weight: 40
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PtFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

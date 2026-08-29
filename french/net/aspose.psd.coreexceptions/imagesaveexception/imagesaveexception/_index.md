@@ -1,48 +1,49 @@
 ---
-title: ImageSaveException.ImageSaveException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageSaveException constructeur. Initialise une nouvelle instance duImageSaveException classe.
+title: "ImageSaveException.ImageSaveException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ImageSaveException. Initialise une nouvelle instance de la classe ImageSaveException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.coreexceptions/imagesaveexception/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException(string) {#constructor}
 
-Initialise une nouvelle instance du[`ImageSaveException`](../) classe.
+Initialise une nouvelle instance de la classe [`ImageSaveException`](../).
 
 ```csharp
 public ImageSaveException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageSaveException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageSaveException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`ImageSaveException`](../) classe.
+Initialise une nouvelle instance de la classe [`ImageSaveException`](../).
 
 ```csharp
 public ImageSaveException(string message, Exception innerException)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| innerException | Exception | L'exception intérieure. |
+| innerException | Exception | L'exception interne. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageSaveException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

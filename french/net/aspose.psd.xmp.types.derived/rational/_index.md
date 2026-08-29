@@ -1,14 +1,15 @@
 ---
-title: Class Rational
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Derived.Rational classe. Représente XMP Rational.
+title: "Classe Rational"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Xmp.Types.Derived.Rational classe. Représente le Rational XMP."
 type: docs
-weight: 6120
+weight: 6620
 url: /fr/net/aspose.psd.xmp.types.derived/rational/
 ---
+{{< psd/tize >}}
 ## Rational class
 
-Représente XMP Rational.
+Représente un rationnel XMP.
 
 ```csharp
 public class Rational : XmpTypeBase
@@ -16,28 +17,28 @@ public class Rational : XmpTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Rational](rational/)(int, int) | Initialise une nouvelle instance du`Rational` classe. |
+| [Rational](rational/)(int, int) | Initialise une nouvelle instance de la classe `Rational`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Denominator](../../aspose.psd.xmp.types.derived/rational/denominator/) { get; set; } | Obtient ou définit le dénominateur. |
 | [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue/) { get; } | Obtient la valeur flottante. |
-| [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator/) { get; } | Récupère le numérateur. |
+| [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator/) { get; } | Obtient le numérateur. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

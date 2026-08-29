@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.UserMaskRectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerMaskDataFull propriété. Obtient ou définit le rectangle de masque utilisateur enveloppant dans la couche dimage PSD..
+title: "LayerMaskDataFull.UserMaskRectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerMaskDataFull. Obtient ou définit le rectangle englobant du masque utilisateur dans le calque d'image PSD"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.UserMaskRectangle property
 
-Obtient ou définit le rectangle de masque utilisateur (enveloppant) dans la couche d'image PSD..
+Obtient ou définit le rectangle du masque utilisateur (englobant) dans le calque d'image PSD.
 
 ```csharp
 public Rectangle UserMaskRectangle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le masque utilisateur[`Rectangle`](../../../aspose.psd/rectangle/) .
+Le masque utilisateur [`Rectangle`](../../../aspose.psd/rectangle/).
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskDataFull](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

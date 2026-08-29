@@ -1,49 +1,50 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorRangeHsl constructeur. Initialise une nouvelle instance duColorRangeHsl classe.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ColorRangeHsl. Initialise une nouvelle instance de la classe ColorRangeHsl"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-Initialise une nouvelle instance du[`ColorRangeHsl`](../) classe.
+Initialise une nouvelle instance de la classe [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorRangeHsl](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`ColorRangeHsl`](../) classe.
+Initialise une nouvelle instance de la classe [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données de gamme de couleurs. |
+| données | Byte[] | Les données de la plage de couleurs. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | La longueur attendue de " + this.GetType() + " est 14 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Longueur attendue de " + this.GetType() + " est 14 |
 
-### Voir également
+### Voir aussi
 
 * class [ColorRangeHsl](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

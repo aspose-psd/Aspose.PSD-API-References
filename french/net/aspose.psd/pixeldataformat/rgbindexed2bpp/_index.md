@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed2Bpp
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat propriété. Obtient lePixelDataFormatdéfini pour 2 bits indexés par couleur. Le stockage de données de pixels indexés est destiné à permettre le stockage et la récupération de données partout où la palette de couleurs est utilisée. À utiliser avec prudence car peut nécessiter une conversion dune palette à une autre ou de RVBA à un modèle de couleurs indexées .
+title: "PixelDataFormat.RgbIndexed2Bpp"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelDataFormat. Obtient le PixelDataFormat défini pour un indexé de 2 bits par couleur. Le stockage de pixels indexés est destiné à permettre le stockage et la récupération des données partout où la palette de couleurs est utilisée. Utilisez avec précaution car cela peut nécessiter une conversion d'une palette à une autre ou de RGBA vers un modèle de couleur indexé"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/pixeldataformat/rgbindexed2bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed2Bpp property
 
-Obtient le[`PixelDataFormat`](../)défini pour 2 bits indexés par couleur. Le stockage de données de pixels indexés est destiné à permettre le stockage et la récupération de données partout où la palette de couleurs est utilisée. À utiliser avec prudence, car peut nécessiter une conversion d'une palette à une autre ou de RVBA à un modèle de couleurs indexées .
+Obtient le [`PixelDataFormat`](../) défini pour un indexé de 2 bits par couleur. Le stockage de pixels indexés est destiné à permettre le stockage et la récupération des données partout où la palette de couleurs est utilisée. Utilisez avec précaution, car cela peut nécessiter une conversion d'une palette à une autre ou de RGBA vers un modèle de couleur indexé.
 
 ```csharp
 public static PixelDataFormat RgbIndexed2Bpp { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le[`PixelDataFormat`](../) défini pour indexé 2 bits par couleur.
+Le [`PixelDataFormat`](../) défini pour un indexé de 2 bits par couleur.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

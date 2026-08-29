@@ -1,28 +1,29 @@
 ---
-title: Graphics.SmoothingMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient ou définit le mode de lissage.
+title: "Graphics.SmoothingMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient ou définit le mode d'anticrénelage"
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.psd/graphics/smoothingmode/
 ---
+{{< psd/tize >}}
 ## Graphics.SmoothingMode property
 
-Obtient ou définit le mode de lissage.
+Obtient ou définit le mode d'anticrénelage.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le mode lissage.
+Le mode de lissage.
 
-### Voir également
+### Voir aussi
 
 * enum [SmoothingMode](../../smoothingmode/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

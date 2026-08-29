@@ -1,43 +1,44 @@
 ---
-title: LevlResource.LevlResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LevlResource constructeur. Initialise une nouvelle instance duLevlResource class. Pris en charge dans les modes de couleur GrayScale Duotone RVB CMJN Lab 2 octets  Version 2 29  10 octets  Ensembles denregistrements de niveau avec 5 entiers courts 4 octets  Entête Lvls commence à lindex 292 2 octets  Version 3 2 octets  Nombre total denregistrements de niveau 10  Nombre total  29 La fin zéro de la ressource Lvls doit également être pliée pour quatre
+title: "LevlResource.LevlResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LevlResource constructeur. Initialise une nouvelle instance de la classe LevlResource. Pris en charge dans les modes couleur GrayScale, Duotone, RGB, CMYK, Lab 2 octets Version 2 29 10 octets Jeux d'enregistrements de niveau avec 5 entiers courts 4 octets En-tête Lvls Commence à l'index 292 2 octets Version 3 2 octets Nombre total d'enregistrements de niveau 10 Nombre total 29 La terminaison zéro de la ressource Lvls doit être pliée pour quatre aussi"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/levlresource/
 ---
+{{< psd/tize >}}
 ## LevlResource(byte[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`LevlResource`](../) class. Pris en charge dans les modes de couleur GrayScale, Duotone, RVB, CMJN, Lab 2 octets - Version (=2) 29 * 10 octets - Ensembles d'enregistrements de niveau avec 5 entiers courts 4 octets - En-tête Lvls (commence à l'index 292) 2 octets - Version (=3) 2 octets - Nombre total d'enregistrements de niveau 10 * (Nombre total - 29) La fin zéro de la ressource Lvls doit également être pliée pour quatre
+Initialise une nouvelle instance de la classe [`LevlResource`](../). Pris en charge dans les modes couleur GrayScale, Duotone, RGB, CMYK, Lab 2 octets - Version (=2) 29 * 10 octets - Jeux d'enregistrements de niveau avec 5 entiers courts 4 octets - En-tête Lvls (Commence à l'index 292) 2 octets - Version (=3) 2 octets - Nombre total d'enregistrements de niveau 10 * (Nombre total - 29) La terminaison zéro de la ressource Lvls doit être pliée pour quatre aussi
 
 ```csharp
 public LevlResource(byte[] bytes)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| bytes | Byte[] | Les octets. |
+| octets | Byte[] | Les octets. |
 
-### Voir également
+### Voir aussi
 
 * class [LevlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LevlResource() {#constructor}
 
-Initialise une nouvelle instance du[`LevlResource`](../) classe.
+Initialise une nouvelle instance de la classe [`LevlResource`](../).
 
 ```csharp
 public LevlResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LevlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

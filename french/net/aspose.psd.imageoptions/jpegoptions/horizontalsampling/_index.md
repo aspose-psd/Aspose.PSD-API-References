@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.HorizontalSampling
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegOptions propriété. Obtient ou définit les souséchantillonnages horizontaux pour chaque composant.
+title: "JpegOptions.HorizontalSampling"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegOptions. Obtient ou définit les sous-échantillonnages horizontaux pour chaque composant."
 type: docs
-weight: 80
+weight: 90
 url: /fr/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.HorizontalSampling property
 
 Obtient ou définit les sous-échantillonnages horizontaux pour chaque composant.
@@ -14,10 +15,10 @@ Obtient ou définit les sous-échantillonnages horizontaux pour chaque composant
 public byte[] HorizontalSampling { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [JpegOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

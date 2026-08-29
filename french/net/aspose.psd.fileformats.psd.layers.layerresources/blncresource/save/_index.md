@@ -1,11 +1,12 @@
 ---
-title: BlncResource.Save
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlncResource méthode. Enregistre la ressource dans le conteneur de flux spécifié.
+title: "BlncResource.Save"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode BlncResource. Enregistre la ressource dans le conteneur de flux spécifié"
 type: docs
-weight: 150
+weight: 130
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/
 ---
+{{< psd/tize >}}
 ## BlncResource.Save method
 
 Enregistre la ressource dans le conteneur de flux spécifié.
@@ -14,16 +15,16 @@ Enregistre la ressource dans le conteneur de flux spécifié.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux dans lequel enregistrer. |
 | psdVersion | Int32 | La version PSD. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [BlncResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

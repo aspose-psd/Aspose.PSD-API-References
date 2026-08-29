@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit la référence de transmission.
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Définit la référence de transmission"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
 Définit la référence de transmission.
@@ -14,14 +15,14 @@ Définit la référence de transmission.
 public void SetTransmissionReference(string transmissionReference)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | transmissionReference | String | La référence de transmission. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

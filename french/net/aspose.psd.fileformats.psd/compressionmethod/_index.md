@@ -1,11 +1,12 @@
 ---
-title: Enum CompressionMethod
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.CompressionMethod énumération. Définit la méthode de compression utilisée pour les données dimage.
+title: "Enum CompressionMethod"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.CompressionMethod enum. Définit la méthode de compression utilisée pour les données d'image."
 type: docs
-weight: 1620
+weight: 1630
 url: /fr/net/aspose.psd.fileformats.psd/compressionmethod/
 ---
+{{< psd/tize >}}
 ## CompressionMethod enumeration
 
 Définit la méthode de compression utilisée pour les données d'image.
@@ -16,16 +17,16 @@ public enum CompressionMethod : short
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Raw | `0` | Aucune compression. Les données d'image stockées sous forme d'octets bruts dans l'ordre planaire RGBA. Cela signifie que d'abord toutes les données R sont écrites, puis toutes les données G sont écrites, puis toutes les données B et enfin toutes les données A sont écrites. |
-| RLE | `1` | RLE compressé les données d'image commencent par le nombre d'octets pour toutes les lignes de balayage (lignes * canaux), chaque nombre étant stocké sous la forme d'une valeur à deux octets. Les données compressées RLE suivent, chaque ligne de numérisation étant compressée séparément. La compression RLE est le même algorithme de compression utilisé par la routine Macintosh ROM PackBits et la norme TIFF. |
+| Raw | `0` | Pas de compression. Les données d'image sont stockées sous forme d'octets bruts en ordre planaire RGBA. Cela signifie que d'abord toutes les données R sont écrites, puis toutes les données G, ensuite toutes les données B et enfin toutes les données A. |
+| RLE | `1` | Les données d'image compressées en RLE commencent par les comptes d'octets pour toutes les lignes de balayage (lignes * canaux), chaque compte étant stocké sur deux octets. Les données compressées en RLE suivent, chaque ligne de balayage étant compressée séparément. La compression RLE utilise le même algorithme de compression que la routine PackBits du ROM Macintosh et la norme TIFF. |
 | ZipWithoutPrediction | `2` | ZIP sans prédiction. |
 | ZipWithPrediction | `3` | ZIP avec prédiction. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

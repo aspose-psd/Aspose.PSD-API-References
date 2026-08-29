@@ -1,48 +1,49 @@
 ---
-title: GraphicsPath.AddPath
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GraphicsPath méthode. Ajoute le spécifiéGraphicsPath à ce chemin.
+title: "GraphicsPath.AddPath"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode GraphicsPath. Ajoute le GraphicsPath spécifié à ce chemin."
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/graphicspath/addpath/
 ---
+{{< psd/tize >}}
 ## AddPath(GraphicsPath) {#addpath}
 
-Ajoute le spécifié[`GraphicsPath`](../) à ce chemin.
+Ajoute le [`GraphicsPath`](../) spécifié à ce chemin.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| addingPath | GraphicsPath | Le[`GraphicsPath`](../) ajouter. |
+| addingPath | GraphicsPath | Le [`GraphicsPath`](../) à ajouter. |
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AddPath(GraphicsPath, bool) {#addpath_1}
 
-Ajoute le spécifié[`GraphicsPath`](../) à ce chemin.
+Ajoute le [`GraphicsPath`](../) spécifié à ce chemin.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath, bool connect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| addingPath | GraphicsPath | Le[`GraphicsPath`](../) ajouter. |
-| connect | Boolean | Une valeur booléenne qui spécifie si le premier chiffre du chemin ajouté fait partie du dernier chiffre de ce chemin. La valeur true indique que le premier chiffre du chemin ajouté fait partie du dernier chiffre de ce chemin. La valeur false indique que le premier chiffre du chemin ajouté est séparé du dernier chiffre de ce chemin. |
+| addingPath | GraphicsPath | Le [`GraphicsPath`](../) à ajouter. |
+| connecter | Booléen | Une valeur booléenne qui indique si la première figure du chemin ajouté fait partie de la dernière figure de ce chemin. Une valeur true indique que la première figure du chemin ajouté fait partie de la dernière figure de ce chemin. Une valeur false indique que la première figure du chemin ajouté est distincte de la dernière figure de ce chemin. |
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

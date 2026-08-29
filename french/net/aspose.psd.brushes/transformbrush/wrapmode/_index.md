@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.WrapMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TransformBrush propriété. Obtient ou définit unWrapMode énumération qui indique le mode de bouclage pour cetteTransformBrush .
+title: "TransformBrush.WrapMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TransformBrush. Obtient ou définit une énumération WrapMode qui indique le mode d'enroulement pour ce TransformBrush"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
+{{< psd/tize >}}
 ## TransformBrush.WrapMode property
 
-Obtient ou définit un[`WrapMode`](../../../aspose.psd/wrapmode/) énumération qui indique le mode de bouclage pour cette[`TransformBrush`](../) .
+Obtient ou définit une énumération [`WrapMode`](../../../aspose.psd/wrapmode/) qui indique le mode d'enroulement pour ce [`TransformBrush`](../).
 
 ```csharp
 public WrapMode WrapMode { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-UN[`WrapMode`](../../../aspose.psd/wrapmode/) qui spécifie comment remplit dessiné avec ce[`TransformBrush`](../) sont carrelés.
+Une [`WrapMode`](../../../aspose.psd/wrapmode/) qui spécifie comment les remplissages dessinés avec ce [`TransformBrush`](../) sont carrelés.
 
-### Voir également
+### Voir aussi
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

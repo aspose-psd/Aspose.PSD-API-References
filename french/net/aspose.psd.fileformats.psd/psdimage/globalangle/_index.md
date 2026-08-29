@@ -1,11 +1,12 @@
 ---
-title: PsdImage.GlobalAngle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient ou définit langle global.
+title: "PsdImage.GlobalAngle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdImage. Obtient ou définit l'angle global"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/globalangle/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalAngle property
 
 Obtient ou définit l'angle global.
@@ -14,14 +15,14 @@ Obtient ou définit l'angle global.
 public int GlobalAngle { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la propriété PsdImage.GlobalAngle pour modifier la valeur d'angle global.
+Le code suivant montre la prise en charge de la propriété PsdImage.GlobalAngle pour modifier la valeur de l'angle global.
 
 ```csharp
 [C#]
 
-// Lorsque la propriété DropShadowEffect.UseGlobalLight est 'true', alors l'objet DropShadowEffect utilise la valeur d'angle de la propriété PsdImage.GlobalAngle.
+// Lorsque la propriété DropShadowEffect.UseGlobalLight est 'true', l'objet DropShadowEffect utilise la valeur d'angle de la propriété PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

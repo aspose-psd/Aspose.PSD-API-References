@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureProgram
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le programme dexposition.
+title: "ExifData.ExposureProgram"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le programme d'exposition"
 type: docs
 weight: 220
 url: /fr/net/aspose.psd.exif/exifdata/exposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureProgram property
 
 Obtient ou définit le programme d'exposition.
@@ -14,15 +15,15 @@ Obtient ou définit le programme d'exposition.
 public ExifExposureProgram ExposureProgram { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le programme d'exposition.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifExposureProgram](../../../aspose.psd.exif.enums/exifexposureprogram/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

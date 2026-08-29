@@ -1,28 +1,29 @@
 ---
-title: ClipboardRecord.BoundingRect
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClipboardRecord propriété. Obtient ou définit le rectangle englobant.
+title: "ClipboardRecord.BoundingRect"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ClipboardRecord. Obtient ou définit le rectangle englobant"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.BoundingRect property
 
-Obtient ou définit le rectangle englobant.
+Obtient ou définit le rectangle de délimitation.
 
 ```csharp
 public RectangleF BoundingRect { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le rectangle englobant.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ClipboardRecord](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

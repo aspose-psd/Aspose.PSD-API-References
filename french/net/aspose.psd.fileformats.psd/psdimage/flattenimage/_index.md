@@ -1,23 +1,24 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Aplatit tous les calques.
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Aplatisse tous les calques"
 type: docs
-weight: 540
+weight: 600
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-Aplatit tous les calques.
+Aplatis tous les calques.
 
 ```csharp
 public void FlattenImage()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit le nom du calque de texte.
+title: "Layer.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Layer propriété. Obtient ou définit le nom du calque texte"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
 Obtient ou définit le nom du calque de texte.
@@ -14,14 +15,14 @@ Obtient ou définit le nom du calque de texte.
 public string Name { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nom du calque de texte.
+Le nom du calque texte.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

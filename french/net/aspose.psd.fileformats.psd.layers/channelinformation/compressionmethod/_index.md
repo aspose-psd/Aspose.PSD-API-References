@@ -1,11 +1,12 @@
 ---
-title: ChannelInformation.CompressionMethod
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ChannelInformation propriété. Obtient ou définit la méthode de compression.
+title: "ChannelInformation.CompressionMethod"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ChannelInformation. Obtient ou définit la méthode de compression"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.CompressionMethod property
 
 Obtient ou définit la méthode de compression.
@@ -14,15 +15,15 @@ Obtient ou définit la méthode de compression.
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La méthode de compression.
 
-### Voir également
+### Voir aussi
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

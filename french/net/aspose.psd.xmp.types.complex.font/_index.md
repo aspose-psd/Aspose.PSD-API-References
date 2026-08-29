@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Font
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes qui représentent la structure contenant les caractéristiques dune police utilisée dans un document.
+title: "Aspose.PSD.Xmp.Types.Complex.Font"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes qui représentent la structure contenant les caractéristiques d'une police utilisée dans un document."
 type: docs
-weight: 650
+weight: 690
 url: /fr/net/aspose.psd.xmp.types.complex.font/
 ---
+{{< psd/tize >}}
 L'espace de noms contient des classes qui représentent la structure contenant les caractéristiques d'une police utilisée dans un document.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [Font](./font/) | Représente la police XMP. |
 

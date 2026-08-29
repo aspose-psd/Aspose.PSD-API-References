@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Définit la tonalité musicale de laudio.
+title: "XmpDynamicMediaPackage.SetKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpDynamicMediaPackage. Définit la tonalité musicale de l'audio"
 type: docs
 weight: 260
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setkey/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetKey method
 
 Définit la tonalité musicale de l'audio.
@@ -14,14 +15,14 @@ Définit la tonalité musicale de l'audio.
 public void SetKey(string key)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Clé musicale de l'audio. L'un des suivants : do, do#, ré, ré#, mi, fa, fa#, sol, sol#, la, la# et si. |
+| clé | String | La tonalité musicale de l'audio. L'une de : C, C#, D, D#, E, F, F#, G, G#, A, A# et B. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

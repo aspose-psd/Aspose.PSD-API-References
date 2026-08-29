@@ -1,27 +1,28 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Metered méthode. Obtient un crédit de consommation
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Metered. Obtient le crédit de consommation"
 type: docs
-weight: 40
+weight: 50
 url: /fr/net/aspose.psd/metered/getconsumptioncredit/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionCredit method
 
-Obtient un crédit de consommation
+Obtient le crédit de consommation
 
 ```csharp
 public static decimal GetConsumptionCredit()
 ```
 
-### Return_Value
+### Valeur de retour
 
-quantité consommée
+quantité de consommation
 
-### Voir également
+### Voir aussi
 
 * class [Metered](../)
-* espace de noms [Aspose.PSD](../../metered/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerGroup méthode. Ajoute le calque au groupe de calques.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LayerGroup. Ajoute le calque au groupe de calques"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
 Ajoute le calque au groupe de calques.
@@ -14,11 +15,11 @@ Ajoute le calque au groupe de calques.
 public void AddLayer(Layer layer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layer | Layer | La couche. |
+| calque | Calque | Le calque. |
 
-### Exemples
+## Exemples
 
 L'exemple suivant montre comment vous pouvez ajouter des images Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif en tant que calques à PsdImage
 
@@ -67,11 +68,11 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

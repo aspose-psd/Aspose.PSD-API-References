@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.PageRasterizationOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MultiPageOptions propriété. Obtient ou définit les options de pixellisation de la page.
+title: "MultiPageOptions.PageRasterizationOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "MultiPageOptions propriété. Obtient ou définit les options de rasterisation de page"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageRasterizationOptions property
 
-Obtient ou définit les options de pixellisation de la page.
+Obtient ou définit les options de rasterisation de la page.
 
 ```csharp
 public VectorRasterizationOptions[] PageRasterizationOptions { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les options de pixellisation de la page.
+Les options de rasterisation de page.
 
-### Voir également
+### Voir aussi
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

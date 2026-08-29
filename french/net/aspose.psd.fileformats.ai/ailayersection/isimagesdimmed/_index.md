@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est estompé. Réduit lintensité des images liées et des images bitmap contenues dans le calque.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiLayerSection. Obtient ou définit une valeur indiquant si cette couche est atténuée. Réduit l'intensité des images liées et des images bitmap contenues dans la couche"
 type: docs
-weight: 50
+weight: 70
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Obtient ou définit une valeur indiquant si ce calque est estompé. Réduit l'intensité des images liées et des images bitmap contenues dans le calque.
+Obtient ou définit une valeur indiquant si ce calque est assombri. Réduit l'intensité des images liées et des images bitmap contenues dans le calque.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si ce calque est grisé ; sinon,`FAUX` .
+`true` si cette couche est atténuée ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

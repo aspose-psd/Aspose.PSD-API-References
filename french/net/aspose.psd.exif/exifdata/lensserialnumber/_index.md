@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensSerialNumber
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le numéro de série de lobjectif.
+title: "ExifData.LensSerialNumber"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le numéro de série de l'objectif"
 type: docs
 weight: 750
 url: /fr/net/aspose.psd.exif/exifdata/lensserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSerialNumber property
 
 Obtient ou définit le numéro de série de l'objectif.
@@ -14,14 +15,14 @@ Obtient ou définit le numéro de série de l'objectif.
 public string LensSerialNumber { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le numéro de série de l'objectif.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

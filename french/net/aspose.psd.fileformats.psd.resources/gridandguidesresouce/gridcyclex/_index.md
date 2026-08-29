@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleX
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GridAndGuidesResouce propriété. Obtient ou définit le cycle de grille horizontale. La valeur par défaut est 576.
+title: "GridAndGuidesResouce.GridCycleX"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GridAndGuidesResouce. Obtient ou définit le cycle horizontal de la grille. La valeur par défaut est 576"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleX property
 
-Obtient ou définit le cycle de grille horizontale. La valeur par défaut est 576.
+Obtient ou définit le cycle de grille horizontal. La valeur par défaut est 576.
 
 ```csharp
 public int GridCycleX { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le cycle de la grille horizontale.
+Le cycle horizontal de la grille.
 
-### Voir également
+### Voir aussi
 
 * class [GridAndGuidesResouce](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

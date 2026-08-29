@@ -1,11 +1,12 @@
 ---
-title: CurveShape.GetBounds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurveShape méthode. Obtient les limites de lobjet.
+title: "CurveShape.GetBounds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CurveShape. Obtient les limites de l'objet"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.shapes/curveshape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Obtient les limites de l'objet.
@@ -14,21 +15,21 @@ Obtient les limites de l'objet.
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | La matrice à appliquer avant les bornes sera calculée. |
+| matrice | Matrix | La matrice à appliquer avant que les limites ne soient calculées. |
 
-### Return_Value
+### Valeur de retour
 
-Les limites de l'objet estimé.
+Les limites estimées de l'objet.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [CurveShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../curveshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,22 +41,22 @@ Obtient les limites de l'objet.
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | La matrice à appliquer avant les bornes sera calculée. |
-| pen | Pen | Le stylet à utiliser pour l'objet. Cela peut influencer la taille des limites de l'objet. |
+| matrice | Matrix | La matrice à appliquer avant que les limites ne soient calculées. |
+| stylo | Stylo | Le stylo à utiliser pour l'objet. Cela peut influencer la taille des limites de l'objet. |
 
-### Return_Value
+### Valeur de retour
 
-Les limites de l'objet estimé.
+Les limites estimées de l'objet.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [CurveShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../curveshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

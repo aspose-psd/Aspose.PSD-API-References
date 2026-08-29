@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.PsdVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PtFlResource propriété. Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction.
+title: "PtFlResource.PsdVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PtFlResource. Obtient la version minimale psd requise pour la ressource du calque. 0 indique aucune restriction"
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PsdVersion property
 
-Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction.
+Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PtFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

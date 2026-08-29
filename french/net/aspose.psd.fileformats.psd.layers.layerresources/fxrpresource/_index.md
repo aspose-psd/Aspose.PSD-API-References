@@ -1,14 +1,15 @@
 ---
-title: Class FxrpResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource classe. Classe FxrpResource. Le point de référence de la couche
+title: "Classe FxrpResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource. Classe FxrpResource. Le point de référence du calque"
 type: docs
-weight: 2490
+weight: 2750
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource class
 
-Classe FxrpResource. Le point de référence de la couche
+Classe FxrpResource. Le point de référence du calque
 
 ```csharp
 public class FxrpResource : LayerResource
@@ -16,40 +17,40 @@ public class FxrpResource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [FxrpResource](fxrpresource/#constructor)() | Initialise une nouvelle instance du`FxrpResource` classe. |
-| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Initialise une nouvelle instance du`FxrpResource` class. Avec valeur personnalisée ou inconnue |
-| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Initialise une nouvelle instance du`FxrpResource` classe. |
+| [FxrpResource](fxrpresource/#constructor)() | Initialise une nouvelle instance de la classe `FxrpResource`. |
+| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `FxrpResource`. Avec une valeur personnalisée ou inconnue |
+| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Initialise une nouvelle instance de la classe `FxrpResource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/) { get; } | Obtient la signature. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 | [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/) { get; set; } | Obtient ou définit le x du point de référence |
 | [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/) { get; set; } | Obtient ou définit le y du point de référence |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/)(StreamContainer, int) | Enregistre dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

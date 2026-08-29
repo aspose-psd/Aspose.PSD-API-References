@@ -1,11 +1,12 @@
 ---
-title: IOrderedShape.Reverse
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IOrderedShape méthode. Inverse lordre des points pour cette forme.
+title: "IOrderedShape.Reverse"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IOrderedShape. Inverse l'ordre des points pour cette forme."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/iorderedshape/reverse/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.Reverse method
 
 Inverse l'ordre des points pour cette forme.
@@ -14,10 +15,10 @@ Inverse l'ordre des points pour cette forme.
 public void Reverse()
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IOrderedShape](../)
-* espace de noms [Aspose.PSD](../../iorderedshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

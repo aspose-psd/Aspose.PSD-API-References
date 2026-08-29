@@ -1,11 +1,12 @@
 ---
-title: BlendRange.Source
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlendRange propriété. Obtient ou définit la plage de fusion source.
+title: "BlendRange.Source"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BlendRange. Obtient ou définit la plage de fusion source"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
 Obtient ou définit la plage de fusion source.
@@ -14,14 +15,14 @@ Obtient ou définit la plage de fusion source.
 public int Source { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La plage de fusion source.
 
-### Voir également
+### Voir aussi
 
 * class [BlendRange](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

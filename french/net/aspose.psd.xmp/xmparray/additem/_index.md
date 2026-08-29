@@ -1,11 +1,12 @@
 ---
-title: XmpArray.AddItem
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpArray méthode. Ajoute un nouvel élément.
+title: "XmpArray.AddItem"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpArray. Ajoute un nouvel élément"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp/xmparray/additem/
 ---
+{{< psd/tize >}}
 ## XmpArray.AddItem method
 
 Ajoute un nouvel élément.
@@ -14,14 +15,14 @@ Ajoute un nouvel élément.
 public void AddItem(string item)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| item | String | L'élément à ajouter à la liste des éléments. |
+| élément | String | L'élément à ajouter à la liste des éléments. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpArray](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmparray/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

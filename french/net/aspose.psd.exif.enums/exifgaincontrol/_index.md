@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGainControl
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifGainControl énumération. contrôle de gain exif enum.
+title: "Enum ExifGainControl"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl enum. énumération du contrôle du gain exif"
 type: docs
-weight: 880
+weight: 890
 url: /fr/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-contrôle de gain exif enum.
+énumération du contrôle du gain exif.
 
 ```csharp
 public enum ExifGainControl
@@ -16,17 +17,17 @@ public enum ExifGainControl
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| None | `0` | Pas de contrôle de gain. |
-| LowGainUp | `1` | Gain faible jusqu'à. |
-| HighGainUp | `2` | Augmentation du gain élevé. |
-| LowGainDown | `3` | Faible gain vers le bas. |
-| HighGainDown | `4` | Gain élevé vers le bas. |
+| None | `0` | Pas de contrôle du gain. |
+| LowGainUp | `1` | Gain faible en hausse. |
+| HighGainUp | `2` | Gain élevé en hausse. |
+| LowGainDown | `3` | Gain faible en baisse. |
+| HighGainDown | `4` | Gain élevé en baisse. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Shape.Segments
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Shape propriété. Obtient les segments de forme.
+title: "Shape.Segments"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Shape. Obtient les segments de la forme"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
-Obtient les segments de forme.
+Obtient les segments de la forme.
 
 ```csharp
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les segments de forme.
+Les segments de la forme.
 
-### Voir également
+### Voir aussi
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* espace de noms [Aspose.PSD](../../shape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

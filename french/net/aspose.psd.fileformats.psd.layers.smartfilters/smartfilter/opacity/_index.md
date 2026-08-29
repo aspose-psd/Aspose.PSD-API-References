@@ -1,11 +1,12 @@
 ---
-title: SmartFilter.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartFilter propriété. Obtient ou définit la valeur dopacité du filtre intelligent.
+title: "SmartFilter.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SmartFilter. Obtient ou définit la valeur d'opacité du filtre intelligent"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Opacity property
 
 Obtient ou définit la valeur d'opacité du filtre intelligent.
@@ -14,10 +15,10 @@ Obtient ou définit la valeur d'opacité du filtre intelligent.
 public double Opacity { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [SmartFilter](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

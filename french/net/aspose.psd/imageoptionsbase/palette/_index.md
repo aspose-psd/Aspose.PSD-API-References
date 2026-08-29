@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Palette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageOptionsBase propriété. Obtient ou définit la palette de couleurs.
+title: "ImageOptionsBase.Palette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageOptionsBase. Obtient ou définit la palette de couleurs"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/imageoptionsbase/palette/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Palette property
 
 Obtient ou définit la palette de couleurs.
@@ -14,15 +15,11 @@ Obtient ou définit la palette de couleurs.
 public virtual IColorPalette Palette { get; set; }
 ```
 
-### Valeur de la propriété
-
-La palette de couleurs.
-
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ImageOptionsBase](../)
-* espace de noms [Aspose.PSD](../../imageoptionsbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

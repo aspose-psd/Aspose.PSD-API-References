@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.GenerateLfx2ResourceNodes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientFillSettings méthode. Génère les nœuds de ressources LFX2.
+title: "GradientFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "GradientFillSettings méthode. Génère les nœuds de ressources LFX2"
 type: docs
-weight: 190
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.GenerateLfx2ResourceNodes method
 
 Génère les nœuds de ressources LFX2.
@@ -14,15 +15,15 @@ Génère les nœuds de ressources LFX2.
 public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Liste générée de[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Liste générée de [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [GradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

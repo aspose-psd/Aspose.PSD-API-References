@@ -1,55 +1,56 @@
 ---
-title: Layer.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer méthode. Détermine si la valeur spécifiéeObject  est égal à cette instance.
+title: "Layer.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Layer. Détermine si l'Object spécifié est égal à cette instance"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/layer/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object) {#equals_1}
 
-Détermine si la valeur spécifiéeObject , est égal à cette instance.
+Détermine si l'objet spécifié est égal à cette instance.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | LeObject à comparer avec cet exemple. |
+| obj | Object | L'Object à comparer avec cette instance. |
 
-### Return_Value
+### Valeur de retour
 
-`vrai` si le spécifiéObject est égal à cette instance ; sinon,`FAUX` .
+`true` si l'Object spécifié est égal à cette instance ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(Layer) {#equals}
 
-Indique si l'objet courant est égal à un autre objet du même type.
+Indique si l'objet actuel est égal à un autre objet du même type.
 
 ```csharp
 public bool Equals(Layer other)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| other | Layer | Un objet à comparer avec cet objet. |
+| autre | Calque | Un objet à comparer avec cet objet. |
 
-### Return_Value
+### Valeur de retour
 
-true si l'objet courant est égal au*other* paramètre; sinon, faux.
+true si l'objet actuel est égal au paramètre *other* ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

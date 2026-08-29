@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.EndColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinearGradientBrush propriété. Obtient ou définit la couleur du dégradé de fin.
+title: "LinearGradientBrush.EndColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinearGradientBrush. Obtient ou définit la couleur de fin du dégradé"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.EndColor property
 
-Obtient ou définit la couleur du dégradé de fin.
+Obtient ou définit la couleur finale du dégradé.
 
 ```csharp
 public Color EndColor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La couleur du dégradé de fin.
+La couleur de fin du dégradé.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

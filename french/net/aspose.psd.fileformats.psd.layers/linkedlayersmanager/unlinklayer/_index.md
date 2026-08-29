@@ -1,33 +1,34 @@
 ---
-title: LinkedLayersManager.UnlinkLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinkedLayersManager méthode. Dissocie le calque..
+title: "LinkedLayersManager.UnlinkLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LinkedLayersManager. Dissocie le calque"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.UnlinkLayer method
 
-Dissocie le calque..
+Délie le calque..
 
 ```csharp
 public void UnlinkLayer(Layer layer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layer | Layer | La couche. |
+| calque | Calque | Le calque. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | La couche est nulle. |
+| ArgumentNullException | Le calque est nul. |
 | ArgumentException | Le conteneur du calque doit être le même que le PsdImage actuel. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez manipuler des calques liés dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez manipuler les calques liés dans Aspose.PSD
 
 ```csharp
 [C#]
@@ -35,31 +36,31 @@ L'exemple suivant montre comment vous pouvez manipuler des calques liés dans As
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // lie toutes les couches dans un groupe lié
+    // lier tous les calques dans un groupe lié
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // obtient l'identifiant d'une couche
+    // obtient l'ID d'un calque
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // obtient toutes les couches liées par l'identifiant du groupe de liens.
+    // obtient tous les calques liés par identifiant de groupe de liens.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // dissocie chaque calque du groupe
+    // délier chaque calque du groupe
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // récupère NULL pour un ID de groupe de liens qui n'a pas de couches dans le groupe.
+    // renvoie NULL pour un ID de groupe de liens qui n'a aucun calque dans le groupe.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -69,11 +70,11 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

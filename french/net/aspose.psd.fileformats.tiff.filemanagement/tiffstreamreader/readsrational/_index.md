@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadSRational
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamReader méthode. Lire une seule valeur de nombre rationnel signé à partir du flux.
+title: "TiffStreamReader.ReadSRational"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamReader. Lit une valeur de nombre rationnel signé unique depuis le flux."
 type: docs
 weight: 150
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRational method
 
-Lire une seule valeur de nombre rationnel signé à partir du flux.
+Lit une seule valeur de nombre rationnel signé depuis le flux.
 
 ```csharp
 public TiffSRational ReadSRational(long position)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| position | Int64 | La position à partir de laquelle lire. |
+| position | Int64 | La position à lire. |
 
-### Return_Value
+### Valeur de retour
 
 Le nombre rationnel signé.
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

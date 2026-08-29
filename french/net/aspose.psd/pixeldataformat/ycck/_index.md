@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat propriété. Obtient lePixelDataFormat défini pour 32 bits par pixel avec 8 bits pour chacune des composantes luma différence bleue différence rouge et chrominance noire.
+title: "PixelDataFormat.Ycck"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelDataFormat. Obtient le PixelDataFormat défini pour 32 bits par pixel avec 8 bits pour chacun des composants luma, différence bleue, différence rouge et composants de chrominance noir"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd/pixeldataformat/ycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Ycck property
 
-Obtient le[`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacune des composantes luma, différence bleue, différence rouge et chrominance noire.
+Obtient le [`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacun des composants luma, différence bleue, différence rouge et chrominance noire.
 
 ```csharp
 public static PixelDataFormat Ycck { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le[`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacune des composantes luma, différence bleue, différence rouge et chrominance noire.
+Le [`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacun des composants luma, différence bleue, différence rouge et chrominance noire.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

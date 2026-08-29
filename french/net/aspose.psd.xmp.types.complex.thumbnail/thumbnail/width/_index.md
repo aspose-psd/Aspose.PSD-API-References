@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Thumbnail propriété. Obtient ou définit la largeur.
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Thumbnail. Obtient ou définit la largeur"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
 Obtient ou définit la largeur.
@@ -14,7 +15,7 @@ Obtient ou définit la largeur.
 public int Width { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur.
 
@@ -22,12 +23,12 @@ La largeur.
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | valeur ; la largeur ne peut pas être inférieure à zéro |
+| ArgumentOutOfRangeException | valeur;Width ne peut pas être inférieur à zéro |
 
-### Voir également
+### Voir aussi
 
 * class [Thumbnail](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

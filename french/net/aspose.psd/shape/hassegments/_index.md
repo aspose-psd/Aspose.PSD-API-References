@@ -1,27 +1,28 @@
 ---
-title: Shape.HasSegments
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Shape propriété. Obtient une valeur indiquant si la forme a des segments.
+title: "Shape.HasSegments"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Shape. Obtient une valeur indiquant si la forme possède des segments"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/shape/hassegments/
 ---
+{{< psd/tize >}}
 ## Shape.HasSegments property
 
-Obtient une valeur indiquant si la forme a des segments.
+Obtient une valeur indiquant si la forme possède des segments.
 
 ```csharp
 public abstract bool HasSegments { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`Vrai` si la forme a des segments ; sinon,`FAUX` .
+`True` si la forme possède des segments ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [Shape](../)
-* espace de noms [Aspose.PSD](../../shape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

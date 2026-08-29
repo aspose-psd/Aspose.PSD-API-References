@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Location
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle propriété. Obtient ou définit les coordonnées du coin supérieur gauche de cetteRectanglestructure.
+title: "Rectangle.Location"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Rectangle. Obtient ou définit les coordonnées du coin supérieur gauche de cette structure Rectangle"
 type: docs
 weight: 150
 url: /fr/net/aspose.psd/rectangle/location/
 ---
+{{< psd/tize >}}
 ## Rectangle.Location property
 
-Obtient ou définit les coordonnées du coin supérieur gauche de cette[`Rectangle`](../)structure.
+Obtient ou définit les coordonnées du coin supérieur gauche de cette structure [`Rectangle`](../).
 
 ```csharp
 public Point Location { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`Point`](../../point/) qui représente le coin supérieur gauche de cette[`Rectangle`](../) structure.
+Un [`Point`](../../point/) qui représente le coin supérieur gauche de cette structure [`Rectangle`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

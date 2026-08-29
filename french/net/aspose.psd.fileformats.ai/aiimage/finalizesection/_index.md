@@ -1,11 +1,12 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiImage propriété. Obtient la section de finalisation.
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiImage. Obtient la section de finalisation"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
 Obtient la section de finalisation.
@@ -14,15 +15,15 @@ Obtient la section de finalisation.
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La section finaliser.
+La section de finalisation.
 
-### Voir également
+### Voir aussi
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

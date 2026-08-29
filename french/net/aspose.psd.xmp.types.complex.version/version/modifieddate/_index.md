@@ -1,27 +1,28 @@
 ---
-title: Version.ModifiedDate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Version propriété. Obtient ou définit la date modifiée.
+title: "Version.ModifiedDate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Version propriété. Obtient ou définit la date de modification"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 ---
+{{< psd/tize >}}
 ## Version.ModifiedDate property
 
-Obtient ou définit la date modifiée.
+Obtient ou définit la date de modification.
 
 ```csharp
 public DateTime ModifiedDate { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La date modifiée.
+La date de modification.
 
-### Voir également
+### Voir aussi
 
 * class [Version](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

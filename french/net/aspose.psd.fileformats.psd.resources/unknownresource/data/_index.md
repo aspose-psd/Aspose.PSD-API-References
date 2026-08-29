@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.Data
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnknownResource propriété. Obtient les données de ressource.
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UnknownResource. Obtient les données de la ressource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
-Obtient les données de ressource.
+Obtient les données de la ressource.
 
 ```csharp
 public byte[] Data { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les données de ressources.
+Les données de la ressource.
 
-### Voir également
+### Voir aussi
 
 * class [UnknownResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

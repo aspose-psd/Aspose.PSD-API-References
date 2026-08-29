@@ -1,11 +1,12 @@
 ---
-title: IColorPalette.EntriesCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IColorPalette propriété. Obtient le nombre dentrées.
+title: "IColorPalette.EntriesCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IColorPalette. Obtient le nombre d'entrées"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/icolorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## IColorPalette.EntriesCount property
 
 Obtient le nombre d'entrées.
@@ -14,14 +15,14 @@ Obtient le nombre d'entrées.
 public int EntriesCount { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les entrées comptent.
+Le nombre d'entrées.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../)
-* espace de noms [Aspose.PSD](../../icolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

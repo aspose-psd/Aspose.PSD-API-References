@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolInfoResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoResource classe. Les informations sur loutil de type. Pour la version PSD inférieure à 6.0.
+title: "Classe TypeToolInfoResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoResource. Les informations de l'outil de type. Pour les versions PSD antérieures à 6.0"
 type: docs
-weight: 3100
+weight: 3480
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource class
 
-Les informations sur l'outil de type. Pour la version PSD inférieure à 6.0.
+Les informations de l’outil de texte. Pour les versions PSD inférieures à 6.0.
 
 ```csharp
 public class TypeToolInfoResource : LayerResource
@@ -16,51 +17,51 @@ public class TypeToolInfoResource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [TypeToolInfoResource](typetoolinforesource/)() | Default_Constructor |
+| [TypeToolInfoResource](typetoolinforesource/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [AComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/acomponent/) { get; set; } | Obtient ou définit un composant. |
 | [BComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/bcomponent/) { get; set; } | Obtient ou définit le composant b. |
 | [CharacterCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/) { get; set; } | Obtient ou définit le nombre de caractères. |
-| [ColorSpaceValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/) { get; set; } | Obtient ou définit la valeur de l'espace colorimétrique. |
+| [ColorSpaceValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/) { get; set; } | Obtient ou définit la valeur de l'espace couleur. |
 | [Fonts](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/) { get; set; } | Obtient ou définit les polices. |
 | [FontsCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/) { get; } | Obtient le nombre de polices. |
 | [FontVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/) { get; set; } | Obtient ou définit la version de la police. |
 | [GComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/) { get; set; } | Obtient ou définit le composant g. |
 | [HorizontalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/horizontalplacement/) { get; set; } | Obtient ou définit le placement horizontal. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
 | [LineCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/) { get; } | Obtient le nombre de lignes. |
 | [Lines](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/) { get; set; } | Obtient ou définit les lignes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/psdversion/) { get; } | Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
 | [RComponent](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/) { get; set; } | Obtient ou définit le composant r. |
 | [ScaleFactor](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/) { get; set; } | Obtient ou définit le facteur d'échelle. |
 | [SelectionEnd](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/) { get; set; } | Obtient ou définit la fin de la sélection. |
 | [SelectionStart](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/) { get; set; } | Obtient ou définit le début de la sélection. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/signature/) { get; } | Obtient la signature de ressource de couche. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 | [Styles](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/) { get; set; } | Obtient ou définit les styles de police. |
 | [StylesCount](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/) { get; } | Obtient le nombre de styles. |
 | [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/) { get; set; } | Obtient ou définit la matrice de transformation. |
-| [TypeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/) { get; set; } | Obtient ou définit la valeur de type. |
+| [TypeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/) { get; set; } | Obtient ou définit la valeur du type. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/) { get; set; } | Obtient ou définit la version. |
 | [VerticalPlacement](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/) { get; set; } | Obtient ou définit le placement vertical. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save/)(StreamContainer, int) | Enregistre le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

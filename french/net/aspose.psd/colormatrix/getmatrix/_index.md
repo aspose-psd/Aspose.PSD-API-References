@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.GetMatrix
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorMatrix méthode. Obtient les valeurs de la matrice.
+title: "ColorMatrix.GetMatrix"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ColorMatrix. Obtient les valeurs de la matrice"
 type: docs
 weight: 280
 url: /fr/net/aspose.psd/colormatrix/getmatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.GetMatrix method
 
 Obtient les valeurs de la matrice.
@@ -14,14 +15,14 @@ Obtient les valeurs de la matrice.
 public float[][] GetMatrix()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Le tableau des valeurs de la matrice.
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../)
-* espace de noms [Aspose.PSD](../../colormatrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

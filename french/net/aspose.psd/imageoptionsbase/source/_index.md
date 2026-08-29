@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Source
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageOptionsBase propriété. Obtient ou définit la source dans laquelle créer limage.
+title: "ImageOptionsBase.Source"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageOptionsBase. Obtient ou définit la source dans laquelle créer l'image"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/imageoptionsbase/source/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Source property
 
 Obtient ou définit la source dans laquelle créer l'image.
@@ -14,15 +15,15 @@ Obtient ou définit la source dans laquelle créer l'image.
 public Source Source { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La source dans laquelle créer l'image.
 
-### Voir également
+### Voir aussi
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* espace de noms [Aspose.PSD](../../imageoptionsbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

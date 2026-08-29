@@ -1,43 +1,44 @@
 ---
-title: LangAlt.LangAlt
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LangAlt constructeur. Initialise une nouvelle instance duLangAlt classe.
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur LangAlt. Initialise une nouvelle instance de la classe LangAlt"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-Initialise une nouvelle instance du[`LangAlt`](../) classe.
+Initialise une nouvelle instance de la classe [`LangAlt`](../).
 
 ```csharp
 public LangAlt(string defaultValue)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | defaultValue | String | La valeur par défaut. |
 
-### Voir également
+### Voir aussi
 
 * class [LangAlt](../)
-* espace de noms [Aspose.PSD.Xmp](../../langalt/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-Initialise une nouvelle instance du[`LangAlt`](../) classe.
+Initialise une nouvelle instance de la classe [`LangAlt`](../).
 
 ```csharp
 public LangAlt()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LangAlt](../)
-* espace de noms [Aspose.PSD.Xmp](../../langalt/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

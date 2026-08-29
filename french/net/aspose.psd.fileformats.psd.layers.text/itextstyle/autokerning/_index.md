@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Obtient ou définit le crénage automatique.
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ITextStyle propriété. Obtient ou définit le kerning automatique"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
 Obtient ou définit le crénage automatique.
@@ -14,13 +15,13 @@ Obtient ou définit le crénage automatique.
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le crénage automatique entre deux caractères.
+Le kerning automatique entre deux caractères.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
+Le code suivant démontre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

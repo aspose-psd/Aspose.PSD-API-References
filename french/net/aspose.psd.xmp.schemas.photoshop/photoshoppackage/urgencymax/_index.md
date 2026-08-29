@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.UrgencyMax
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage champ. Valeur maximale durgence.
+title: "PhotoshopPackage.UrgencyMax"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage champ. Valeur maximale d'urgence"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMax field
 
-Valeur maximale d'urgence.
+Valeur maximale de l'urgence.
 
 ```csharp
 public const int UrgencyMax;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

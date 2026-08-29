@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.SetNoOp
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Désactive le réglage des couleurs pour la catégorie par défaut.
+title: "ImageAttributes.SetNoOp"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Désactive l'ajustement des couleurs pour la catégorie par défaut."
 type: docs
 weight: 160
 url: /fr/net/aspose.psd/imageattributes/setnoop/
 ---
+{{< psd/tize >}}
 ## SetNoOp() {#setnoop}
 
-Désactive le réglage des couleurs pour la catégorie par défaut.
+Désactive l'ajustement des couleurs pour la catégorie par défaut.
 
 ```csharp
 public void SetNoOp()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetNoOp(ColorAdjustType) {#setnoop_1}
 
-Désactive le réglage des couleurs pour une catégorie spécifiée.
+Désactive l'ajustement des couleurs pour une catégorie spécifiée.
 
 ```csharp
 public void SetNoOp(ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| type | ColorAdjustType | Un élément de[`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la correction des couleurs est désactivée. |
+| type | ColorAdjustType | Un élément de [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la correction des couleurs est désactivée. |
 
-### Voir également
+### Voir aussi
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

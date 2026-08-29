@@ -1,11 +1,12 @@
 ---
-title: JpegLsPresetCodingParameters.ResetValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegLsPresetCodingParameters propriété. Obtient ou définit la valeur à laquelle les compteurs A B et N sont divisés par deux.
+title: "JpegLsPresetCodingParameters.ResetValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegLsPresetCodingParameters. Obtient ou définit la valeur à laquelle les compteurs A B et N sont divisés par deux"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.ResetValue property
 
 Obtient ou définit la valeur à laquelle les compteurs A, B et N sont divisés par deux.
@@ -14,10 +15,10 @@ Obtient ou définit la valeur à laquelle les compteurs A, B et N sont divisés 
 public int ResetValue { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [JpegLsPresetCodingParameters](../)
-* espace de noms [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

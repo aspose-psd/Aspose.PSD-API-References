@@ -1,11 +1,12 @@
 ---
-title: GlobalAltitudeResource.Altitude
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GlobalAltitudeResource propriété. Obtient ou définit laltitude.
+title: "GlobalAltitudeResource.Altitude"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GlobalAltitudeResource. Obtient ou définit l'altitude"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.Altitude property
 
 Obtient ou définit l'altitude.
@@ -14,14 +15,14 @@ Obtient ou définit l'altitude.
 public int Altitude { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'altitude.
 
-### Voir également
+### Voir aussi
 
 * class [GlobalAltitudeResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

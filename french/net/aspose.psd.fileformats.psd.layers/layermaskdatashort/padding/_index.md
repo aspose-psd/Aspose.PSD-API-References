@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerMaskDataShort propriété. Obtient ou définit le rembourrage du masque de calque.
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerMaskDataShort. Obtient ou définit le remplissage du masque de calque"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
-Obtient ou définit le rembourrage du masque de calque.
+Obtient ou définit le remplissage du masque de calque.
 
 ```csharp
 public short Padding { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le rembourrage du masque de calque.
+Le remplissage du masque de calque.
 
-### Voir également
+### Voir aussi
 
 * class [LayerMaskDataShort](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

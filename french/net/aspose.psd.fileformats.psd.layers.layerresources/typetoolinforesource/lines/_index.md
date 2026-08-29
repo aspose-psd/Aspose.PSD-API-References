@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit les lignes.
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfoResource propriété. Obtient ou définit les lignes"
 type: docs
-weight: 140
+weight: 130
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
 Obtient ou définit les lignes.
@@ -14,15 +15,15 @@ Obtient ou définit les lignes.
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les lignes.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

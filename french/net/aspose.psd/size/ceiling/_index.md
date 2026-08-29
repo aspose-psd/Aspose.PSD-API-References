@@ -1,32 +1,33 @@
 ---
-title: Size.Ceiling
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Convertit le spécifiéSizeF structurer à unSize structure en arrondissant les valeurs desSize structure aux valeurs entières immédiatement supérieures.
+title: "Size.Ceiling"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Convertit la structure SizeF spécifiée en une structure Size en arrondissant les valeurs de la structure Size à l'entier supérieur suivant."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-Convertit le spécifié[`SizeF`](../../sizef/) structurer à un[`Size`](../) structure en arrondissant les valeurs des[`Size`](../) structure aux valeurs entières immédiatement supérieures.
+Convertit la structure [`SizeF`](../../sizef/) spécifiée en une structure [`Size`](../) en arrondissant les valeurs de la structure [`Size`](../) à l'entier supérieur suivant.
 
 ```csharp
 public static Size Ceiling(SizeF size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size | SizeF | Le[`SizeF`](../../sizef/) structure à convertir. |
+| size | SizeF | La structure [`SizeF`](../../sizef/) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`Size`](../) structure vers laquelle cette méthode convertit.
+La structure [`Size`](../) vers laquelle cette méthode convertit.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

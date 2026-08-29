@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.Scale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PatternFillSettings propriété. Obtient ou définit léchelle.
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PatternFillSettings. Obtient ou définit l'échelle"
 type: docs
-weight: 120
+weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
 Obtient ou définit l'échelle.
@@ -14,13 +15,13 @@ Obtient ou définit l'échelle.
 public double Scale { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'échelle.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la modification du motif de calque de remplissage.
+Le code suivant montre la prise en charge de l'édition du motif de calque de remplissage.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Édition 
+            // Modification 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

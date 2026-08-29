@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PremultiplyComponents
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit une valeur indiquant si les composants doivent être prémultipliés.
+title: "TiffOptions.PremultiplyComponents"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit une valeur indiquant si les composants doivent être prémultipliés"
 type: docs
-weight: 350
+weight: 360
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PremultiplyComponents property
 
 Obtient ou définit une valeur indiquant si les composants doivent être prémultipliés.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si les composants doivent être prémul
 public bool PremultiplyComponents { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si les composants doivent être prémultipliés ; sinon,`FAUX` .
+`true` si les composants doivent être prémultipliés ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

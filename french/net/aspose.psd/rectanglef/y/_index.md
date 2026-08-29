@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Y
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF propriété. Obtient ou définit la coordonnée y du coin supérieur gauche de ceRectangleFstructure.
+title: "RectangleF.Y"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleF. Obtient ou définit la coordonnée y du coin supérieur gauche de cette structure RectangleF"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/rectanglef/y/
 ---
+{{< psd/tize >}}
 ## RectangleF.Y property
 
-Obtient ou définit la coordonnée y du coin supérieur gauche de ce[`RectangleF`](../)structure.
+Obtient ou définit la coordonnée y du coin supérieur gauche de cette structure [`RectangleF`](../).
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-La coordonnée y du coin supérieur gauche de ce[`RectangleF`](../) structure.
+La coordonnée y du coin supérieur gauche de cette structure [`RectangleF`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

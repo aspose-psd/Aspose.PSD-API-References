@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit le type de logiciel.
+title: "TiffOptions.SoftwareType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit le type de logiciel"
 type: docs
-weight: 450
+weight: 460
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SoftwareType property
 
 Obtient ou définit le type de logiciel.
@@ -14,14 +15,14 @@ Obtient ou définit le type de logiciel.
 public string SoftwareType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type de logiciel.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

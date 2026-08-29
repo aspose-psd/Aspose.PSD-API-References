@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit les lignes par bande.
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit les lignes par bande"
 type: docs
-weight: 380
+weight: 390
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
-Obtient ou définit les lignes par bande.
+Obtient ou définit le nombre de lignes par bande.
 
 ```csharp
 public uint RowsPerStrip { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les rangées par bande.
+Les lignes par bande.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

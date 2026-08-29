@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.DefinedValues
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RenditionClass propriété. Les valeurs définies
+title: "RenditionClass.DefinedValues"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RenditionClass. Les valeurs définies"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.types.derived/renditionclass/definedvalues/
 ---
+{{< psd/tize >}}
 ## RenditionClass.DefinedValues property
 
 Les valeurs définies
@@ -14,10 +15,10 @@ Les valeurs définies
 public static string[] DefinedValues { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [RenditionClass](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

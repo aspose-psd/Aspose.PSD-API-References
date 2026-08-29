@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: HueSaturationLayer propriété. Obtient ou définit la teinte.
+title: "HueSaturationLayer.Hue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété HueSaturationLayer. Obtient ou définit la teinte"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
 Obtient ou définit la teinte.
@@ -14,7 +15,7 @@ Obtient ou définit la teinte.
 public short Hue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La teinte.
 
@@ -24,10 +25,10 @@ La teinte.
 | --- | --- |
 | ArgumentOutOfRangeException | La teinte doit être comprise entre -180 et +180 |
 
-### Voir également
+### Voir aussi
 
 * class [HueSaturationLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

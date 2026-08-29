@@ -1,23 +1,24 @@
 ---
-title: LspfResource.TypeToolKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LspfResource champ. La clé dinformations sur loutil de type 1819504742
+title: "LspfResource.TypeToolKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ LspfResource. La clé d'information de l'outil de type 1819504742"
 type: docs
-weight: 110
+weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LspfResource.TypeToolKey field
 
-La clé d'informations sur l'outil de type 1819504742
+La clé d'information du type d'outil 1819504742
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LspfResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

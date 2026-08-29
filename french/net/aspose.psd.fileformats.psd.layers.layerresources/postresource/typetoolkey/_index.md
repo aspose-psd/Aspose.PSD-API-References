@@ -1,23 +1,24 @@
 ---
-title: PostResource.TypeToolKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PostResource champ. La clé dinformations sur loutil de type.
+title: "PostResource.TypeToolKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ PostResource. La clé d'information de l'outil de type"
 type: docs
-weight: 80
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PostResource.TypeToolKey field
 
-La clé d'informations sur l'outil de type.
+La clé d'information de l'outil de type.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PostResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

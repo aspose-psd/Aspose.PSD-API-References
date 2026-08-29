@@ -1,46 +1,47 @@
 ---
-title: StringStructure.StringStructure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StringStructure constructeur. Initialise une nouvelle instance duStringStructure classe.
+title: "StringStructure.StringStructure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur StringStructure. Initialise une nouvelle instance de la classe StringStructure"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/stringstructure/
 ---
+{{< psd/tize >}}
 ## StringStructure(ClassID) {#constructor}
 
-Initialise une nouvelle instance du[`StringStructure`](../) classe.
+Initialise une nouvelle instance de la classe [`StringStructure`](../).
 
 ```csharp
 public StringStructure(ClassID keyName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | keyName | ClassID | Le nom de la clé. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringStructure(ClassID, string) {#constructor_1}
 
-Initialise une nouvelle instance du[`StringStructure`](../)classe avec valeur.
+Initialise une nouvelle instance de la classe [`StringStructure`](../) avec une valeur.
 
 ```csharp
 public StringStructure(ClassID keyName, string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | keyName | ClassID | Le nom de la clé. |
-| value | String | La valeur. |
+| valeur | String | La valeur. |
 
-### Exemples
+## Exemples
 
 Cet exemple montre comment obtenir et définir les propriétés de la ressource Psd LnkE.
 
@@ -111,7 +112,7 @@ void ExampleOfLnkEResourceSupport(
                 }
 
                 lifeSource.FullPath =
-                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png" ;
+                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                 AssertAreEqual(lnkeResource.Length, length2);
                 lifeSource.FileName = "rgb8_2x23.png";
                 AssertAreEqual(lnkeResource.Length, length3);
@@ -133,7 +134,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Cet exemple montre comment obtenir et définir les propriétés du Psd LnkeResource qui contient des informations sur le fichier JPEG lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés de la ressource Psd LnkeResource qui contient des informations sur un fichier JPEG lié externe.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -152,7 +153,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de PSD LnkeResource qui contient des informations sur un fichier PNG lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés de la ressource PSD LnkeResource qui contient des informations sur un fichier PNG lié externe.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -171,7 +172,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de PSD LnkeResource qui contient des informations sur deux fichiers PNG et PSD externes liés.
+// Cet exemple montre comment obtenir et définir les propriétés du PSD LnkeResource qui contient des informations sur deux fichiers PNG et PSD liés externes.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -190,7 +191,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de Photoshop Psd LnkeResource qui contient des informations sur un actif de bibliothèques CC lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés du Photoshop Psd LnkeResource qui contient des informations sur un actif CC Libraries lié externe.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -210,11 +211,11 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

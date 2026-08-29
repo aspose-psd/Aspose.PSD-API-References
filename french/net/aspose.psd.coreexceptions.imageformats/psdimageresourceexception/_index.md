@@ -1,11 +1,12 @@
 ---
-title: Class PsdImageResourceException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException classe. Lexception de ressource dimage psd.
+title: "Classe PsdImageResourceException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException classe. L'exception de ressource d'image psd"
 type: docs
 weight: 600
 url: /fr/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException class
 
 L'exception de ressource d'image psd.
@@ -16,21 +17,21 @@ public class PsdImageResourceException : PsdImageException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | Initialise une nouvelle instance du`PsdImageResourceException` classe. |
-| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | Initialise une nouvelle instance du`PsdImageResourceException` classe. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | Initialise une nouvelle instance de la classe `PsdImageResourceException`. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | Initialise une nouvelle instance de la classe `PsdImageResourceException`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | Obtient la ressource psd qui a provoqué cette exception. |
+| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | Obtient la ressource psd qui a causé cette exception. |
 
-### Voir également
+### Voir aussi
 
 * class [PsdImageException](../psdimageexception/)
-* espace de noms [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

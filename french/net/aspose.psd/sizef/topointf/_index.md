@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToPointF
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF méthode. Convertit unSizeF à unPointF .
+title: "SizeF.ToPointF"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SizeF. Convertit un SizeF en un PointF"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/sizef/topointf/
 ---
+{{< psd/tize >}}
 ## SizeF.ToPointF method
 
-Convertit un[`SizeF`](../) à un[`PointF`](../../pointf/) .
+Convertit un [`SizeF`](../) en un [`PointF`](../../pointf/).
 
 ```csharp
 public PointF ToPointF()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie un[`PointF`](../../pointf/) structure.
+Retourne une structure [`PointF`](../../pointf/).
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

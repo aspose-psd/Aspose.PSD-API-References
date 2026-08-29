@@ -1,14 +1,15 @@
 ---
-title: Enum XmpArrayType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.XmpArrayType énumération. Représente le type de tableau dansXmpArray .
+title: "Énumération XmpArrayType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.Xmp.XmpArrayType. Représente le type de tableau dans XmpArray"
 type: docs
-weight: 6230
+weight: 6730
 url: /fr/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-Représente le type de tableau dans[`XmpArray`](../xmparray/) .
+Représente le type de tableau dans [`XmpArray`](../xmparray/).
 
 ```csharp
 public enum XmpArrayType
@@ -16,15 +17,15 @@ public enum XmpArrayType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | UNORDERED | `0` | Le tableau non ordonné. |
 | ORDERED | `1` | Le tableau ordonné. |
 | ALTERNATIVE | `2` | Le tableau alternatif. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

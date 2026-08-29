@@ -1,11 +1,12 @@
 ---
-title: Interface IImageDescriptor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IImageDescriptor interface. Le descripteur dimage. Contient les propriétés et méthodes de base pour tous les autres types de descripteurs dimage.
+title: "Interface IImageDescriptor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.IImageDescriptor. Le descripteur d'image. Contient les propriétés et méthodes de base pour tous les autres types de descripteurs d'image."
 type: docs
-weight: 4420
+weight: 4890
 url: /fr/net/aspose.psd/iimagedescriptor/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor interface
 
 Le descripteur d'image. Contient les propriétés et méthodes de base pour tous les autres types de descripteurs d'image.
@@ -16,13 +17,13 @@ public interface IImageDescriptor
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | Obtient le format pris en charge. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

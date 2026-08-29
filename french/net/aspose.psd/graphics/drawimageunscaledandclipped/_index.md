@@ -1,23 +1,24 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Dessine limage spécifiée sans mise à léchelle et la découpe si nécessaire pour quelle tienne dans le rectangle spécifié.
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Dessine l'image spécifiée sans mise à l'échelle et la découpe si nécessaire pour l'adapter au rectangle spécifié."
 type: docs
-weight: 240
+weight: 250
 url: /fr/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-Dessine l'image spécifiée sans mise à l'échelle et la découpe, si nécessaire, pour qu'elle tienne dans le rectangle spécifié.
+Dessine l'image spécifiée sans mise à l'échelle et la découpe, si nécessaire, pour l'adapter au rectangle spécifié.
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sourceImage | Image | L'image avec laquelle dessiner. |
-| rect | Rectangle | Le[`Rectangle`](../../rectangle/) dans lequel dessiner l'image. |
+| sourceImage | Image | L'image à dessiner. |
+| rect | Rectangle | Le [`Rectangle`](../../rectangle/) dans lequel dessiner l'image. |
 
 ### Exceptions
 
@@ -25,12 +26,12 @@ public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 | --- | --- |
 | ArgumentNullException | *sourceImage* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

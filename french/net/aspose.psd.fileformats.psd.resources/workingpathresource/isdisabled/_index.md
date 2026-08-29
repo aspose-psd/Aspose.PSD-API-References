@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.IsDisabled
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: WorkingPathResource propriété. Obtient ou définit une valeur indiquant si cette instance est désactivée.
+title: "WorkingPathResource.IsDisabled"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété WorkingPathResource. Obtient ou définit une valeur indiquant si cette instance est désactivée."
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsDisabled property
 
 Obtient ou définit une valeur indiquant si cette instance est désactivée.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance est désactivée.
 public bool IsDisabled { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est désactivée ; sinon,`FAUX` .
+`true` si cette instance est désactivée; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [WorkingPathResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

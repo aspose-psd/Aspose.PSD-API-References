@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSAltitude
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit laltitude GPS.
+title: "ExifData.GPSAltitude"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit l'altitude GPS"
 type: docs
 weight: 360
 url: /fr/net/aspose.psd.exif/exifdata/gpsaltitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitude property
 
 Obtient ou définit l'altitude GPS.
@@ -14,15 +15,15 @@ Obtient ou définit l'altitude GPS.
 public TiffRational GPSAltitude { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'altitude GPS.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

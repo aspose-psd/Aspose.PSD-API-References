@@ -1,27 +1,28 @@
 ---
-title: SizeF.IsEmpty
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF propriété. Obtient une valeur indiquant si celaSizeF a une largeur et une hauteur nulles.
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SizeF. Obtient une valeur indiquant si ce SizeF a une largeur et une hauteur nulles"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-Obtient une valeur indiquant si cela[`SizeF`](../) a une largeur et une hauteur nulles.
+Obtient une valeur indiquant si ce [`SizeF`](../) a une largeur et une hauteur nulles.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-Cette propriété renvoie true lorsque cette[`SizeF`](../) a à la fois une largeur et une hauteur de zéro ; sinon, faux.
+Cette propriété renvoie true lorsque ce [`SizeF`](../) a à la fois une largeur et une hauteur égales à zéro ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.Enums
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des énumérations de format de fichier Tiff.
+title: "Aspose.PSD.FileFormats.Tiff.Enums"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les énumérations du format de fichier TIFF"
 type: docs
-weight: 380
+weight: 420
 url: /fr/net/aspose.psd.fileformats.tiff.enums/
 ---
-L'espace de noms contient des énumérations de format de fichier Tiff.
+{{< psd/tize >}}
+L'espace de noms contient les énumérations du format de fichier TIFF.
 
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
-| [Group3Options](./group3options/) | Options pour le codage de fax CCITT Groupe 3/4. Valeurs possibles pour les balises GROUP3OPTIONS / TiffTag.T4OPTIONS et TiffTag.GROUP4OPTIONS / TiffTag.T6OPTIONS. |
-| [TiffAlphaStorage](./tiffalphastorage/) | Spécifie le stockage alpha pour les documents tiff. |
-| [TiffByteOrder](./tiffbyteorder/) | L'ordre des octets pour l'image tiff |
+| [Group3Options](./group3options/) | Options pour le codage fax CCITT Groupe 3/4. Valeurs possibles pour les balises GROUP3OPTIONS / TiffTag.T4OPTIONS et TiffTag.GROUP4OPTIONS / TiffTag.T6OPTIONS. |
+| [TiffAlphaStorage](./tiffalphastorage/) | Spécifie le stockage alpha pour les documents TIFF. |
+| [TiffByteOrder](./tiffbyteorder/) | L'ordre des octets pour l'image TIFF |
 | [TiffCompressions](./tiffcompressions/) | Contient les types de compression |
-| [TiffDataTypes](./tiffdatatypes/) | Le type de données tiff enum. |
-| [TiffExpectedFormat](./tiffexpectedformat/) | Le format de fichier tiff attendu. |
-| [TiffFileStandards](./tifffilestandards/) | Spécifie les normes de format de fichier TIFF. |
-| [TiffFillOrders](./tifffillorders/) | Ordre des données dans un octet. Valeurs possibles pour la balise FILORDER. |
-| [TiffNewSubFileTypes](./tiffnewsubfiletypes/) | Le nouveau type de sous-fichier tiff enum. |
-| [TiffOrientations](./tifforientations/) | Orientation des images. Valeurs possibles pour la balise ORIENTATION. |
+| [TiffDataTypes](./tiffdatatypes/) | L'énumération des types de données TIFF. |
+| [TiffExpectedFormat](./tiffexpectedformat/) | Le format de fichier TIFF attendu. |
+| [TiffFileStandards](./tifffilestandards/) | Spécifie les normes du format de fichier TIFF. |
+| [TiffFillOrders](./tifffillorders/) | Ordre des données au sein d'un octet. Valeurs possibles pour la balise FILLORDER. |
+| [TiffNewSubFileTypes](./tiffnewsubfiletypes/) | L'énumération du nouveau type de sous-fichier TIFF. |
+| [TiffOrientations](./tifforientations/) | Orientation de l'image. Valeurs possibles pour la balise ORIENTATION. |
 | [TiffPhotometrics](./tiffphotometrics/) | Énumération d'interpolation photométrique |
 | [TiffPlanarConfigs](./tiffplanarconfigs/) | Organisation du stockage. Valeurs possibles pour la balise PLANARCONFIG. |
 | [TiffPredictor](./tiffpredictor/) | Schéma de prédiction pour LZW |
-| [TiffResolutionUnits](./tiffresolutionunits/) | Unité de résolution Tiff Enum |
-| [TiffSampleFormats](./tiffsampleformats/) | Exemple de format enum |
-| [TiffTags](./tifftags/) | L'énumération de la balise tiff. |
-| [TiffThresholds](./tiffthresholds/) | Seuil utilisé sur les données. |
+| [TiffResolutionUnits](./tiffresolutionunits/) | Énumération d'unité de résolution TIFF |
+| [TiffSampleFormats](./tiffsampleformats/) | Énumération du format d'échantillon |
+| [TiffTags](./tifftags/) | L'énumération des balises TIFF. |
+| [TiffThresholds](./tiffthresholds/) | Seuil appliqué aux données. |
 
 

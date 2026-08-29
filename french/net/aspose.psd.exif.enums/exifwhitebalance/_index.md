@@ -1,14 +1,15 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance énumération. exif balance des blancs enum.
+title: "Enum ExifWhiteBalance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance enum. énumération de la balance des blancs exif"
 type: docs
-weight: 970
+weight: 980
 url: /fr/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-exif balance des blancs enum.
+énumération de la balance des blancs exif.
 
 ```csharp
 public enum ExifWhiteBalance
@@ -16,14 +17,14 @@ public enum ExifWhiteBalance
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Auto | `0` | Balance des blancs automatique |
 | Manual | `1` | Balance des blancs manuelle |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

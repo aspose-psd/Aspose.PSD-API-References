@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.Version
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinkDataSource propriété. Obtient la version de la source de données dans la ressource PSD LnkE / Lnk2.
+title: "LinkDataSource.Version"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinkDataSource. Obtient la version de la source de données dans la ressource PSD LnkE / Lnk2"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Version property
 
 Obtient la version de la source de données dans la ressource PSD LnkE / Lnk2.
@@ -14,9 +15,9 @@ Obtient la version de la source de données dans la ressource PSD LnkE / Lnk2.
 public int Version { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le numéro de version de la source de données du lien LiFE / LiFD.
+Le numéro de version de la source de données de lien LiFE / LiFD.
 
 ### Exceptions
 
@@ -24,10 +25,10 @@ Le numéro de version de la source de données du lien LiFE / LiFD.
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Vous ne pouvez pas accéder à la propriété Version. |
 
-### Voir également
+### Voir aussi
 
 * class [LinkDataSource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

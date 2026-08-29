@@ -1,11 +1,12 @@
 ---
-title: XmpInteger.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpInteger propriété. Obtient ou définit la valeur.
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpInteger. Obtient ou définit la valeur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
 Obtient ou définit la valeur.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur.
 public long Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur.
 
-### Voir également
+### Voir aussi
 
 * class [XmpInteger](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

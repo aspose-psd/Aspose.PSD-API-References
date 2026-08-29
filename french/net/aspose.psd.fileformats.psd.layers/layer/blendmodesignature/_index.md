@@ -1,11 +1,12 @@
 ---
-title: Layer.BlendModeSignature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient la signature du mode de fusion.
+title: "Layer.BlendModeSignature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient la signature du mode de fusion"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeSignature property
 
 Obtient la signature du mode de fusion.
@@ -14,14 +15,14 @@ Obtient la signature du mode de fusion.
 public int BlendModeSignature { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La signature du mode de fusion.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

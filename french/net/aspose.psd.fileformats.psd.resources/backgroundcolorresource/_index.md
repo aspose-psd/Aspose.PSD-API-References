@@ -1,14 +1,15 @@
 ---
-title: Class BackgroundColorResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.BackgroundColorResource classe. La ressource avec les informations de bordure des paramètres dimpression dimage.
+title: "Classe BackgroundColorResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Resources.BackgroundColorResource. La ressource contenant les informations de bordure des paramètres d'impression d'image"
 type: docs
-weight: 3640
+weight: 4100
 url: /fr/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource class
 
-La ressource avec les informations de bordure des paramètres d'impression d'image.
+La ressource contenant les informations de bordure des paramètres d'impression d'image.
 
 ```csharp
 public sealed class BackgroundColorResource : ResourceBlock
@@ -16,32 +17,32 @@ public sealed class BackgroundColorResource : ResourceBlock
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BackgroundColorResource](backgroundcolorresource/)() | Default_Constructor |
+| [BackgroundColorResource](backgroundcolorresource/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/) { get; set; } | Obtient ou définit la couleur d'arrière-plan. |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/) { get; } | Obtient la taille des données de ressource en octets. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/) { get; } | Obtient la taille des données de la ressource en octets. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/backgroundcolorresource/minimalversion/) { get; } | Obtient la version PSD minimale requise. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, remplie pour que la taille soit paire (un nom nul consiste en deux octets de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Doit toujours être '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressource en octets, y compris ses données. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs des ressources. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressource dans le flux spécifié. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs de la ressource. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge de la ressource BackgroundColorResource.
+L'exemple suivant montre la prise en charge de la ressource BackgroundColorResource.
 
 ```csharp
 [C#]
@@ -62,17 +63,17 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // met à jour BackgroundColorResource
+    // mettre à jour BackgroundColorResource
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

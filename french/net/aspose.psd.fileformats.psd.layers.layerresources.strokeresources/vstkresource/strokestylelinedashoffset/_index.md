@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleLineDashOffset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VstkResource propriété. Obtient ou définit le décalage du tiret de la ligne de style de trait.
+title: "VstkResource.StrokeStyleLineDashOffset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VstkResource. Obtient ou définit le décalage du tiret de la ligne du style de trait"
 type: docs
-weight: 130
+weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashOffset property
 
-Obtient ou définit le décalage du tiret de la ligne de style de trait.
+Obtient ou définit le décalage du tiret de ligne du style de tracé.
 
 ```csharp
 public int StrokeStyleLineDashOffset { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le décalage du tiret de la ligne de style de trait.
+Le décalage du tiret de la ligne du style de trait.
 
-### Voir également
+### Voir aussi
 
 * class [VstkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

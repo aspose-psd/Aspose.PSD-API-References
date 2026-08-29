@@ -1,11 +1,12 @@
 ---
-title: BooleanStructure.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BooleanStructure propriété. Obtient ou définit une valeur booléenne.
+title: "BooleanStructure.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BooleanStructure. Obtient ou définit une valeur booléenne"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value/
 ---
+{{< psd/tize >}}
 ## BooleanStructure.Value property
 
 Obtient ou définit une valeur booléenne.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur booléenne.
 public bool Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Une valeur booléenne.
 
-### Voir également
+### Voir aussi
 
 * class [BooleanStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

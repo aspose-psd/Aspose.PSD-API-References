@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit limprimante cible.
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit l'imprimante cible"
 type: docs
-weight: 500
+weight: 510
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
 Obtient ou définit l'imprimante cible.
@@ -14,14 +15,14 @@ Obtient ou définit l'imprimante cible.
 public string TargetPrinter { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'imprimante cible.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

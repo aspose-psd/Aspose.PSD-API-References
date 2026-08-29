@@ -1,32 +1,33 @@
 ---
-title: Point.op_Equality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Compare deuxPoint objets. Le résultat indique si les valeurs desX etY propriétés des deuxPoint les objets sont égaux.
+title: "Point.op_Equality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Compare deux objets Point. Le résultat indique si les valeurs des propriétés X et Y des deux objets Point sont égales."
 type: docs
 weight: 160
 url: /fr/net/aspose.psd/point/op_equality/
 ---
+{{< psd/tize >}}
 ## Point Equality operator
 
-Compare deux[`Point`](../) objets. Le résultat indique si les valeurs des[`X`](../x/) et[`Y`](../y/) propriétés des deux[`Point`](../) les objets sont égaux.
+Compare deux objets [`Point`](../). Le résultat indique si les valeurs des propriétés [`X`](../x/) et [`Y`](../y/) des deux objets [`Point`](../) sont égales.
 
 ```csharp
 public static bool operator ==(Point point1, Point point2)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point1 | Point | Un premier[`Point`](../) comparer. |
-| point2 | Point | Une seconde[`Point`](../) comparer. |
+| point1 | Point | Un premier [`Point`](../) à comparer. |
+| point2 | Point | Un second [`Point`](../) à comparer. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si le[`X`](../x/) et[`Y`](../y/) valeurs de*point1* et*point2* sont égaux; sinon, faux.
+Vrai si les valeurs [`X`](../x/) et [`Y`](../y/) de *point1* et *point2* sont égales ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

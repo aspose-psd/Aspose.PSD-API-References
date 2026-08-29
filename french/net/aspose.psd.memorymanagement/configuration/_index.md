@@ -1,14 +1,15 @@
 ---
-title: Class Configuration
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.MemoryManagement.Configuration classe. La configuration globale de gestion de la mémoire
+title: "Classe Configuration"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.MemoryManagement.Configuration. La configuration globale de la gestion de mémoire"
 type: docs
-weight: 5110
+weight: 5600
 url: /fr/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
-La configuration globale de gestion de la mémoire
+La configuration globale de la gestion de la mémoire
 
 ```csharp
 public static class Configuration
@@ -16,13 +17,13 @@ public static class Configuration
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Obtient ou définit l'indice de taille de tampon qui est défini comme la taille maximale autorisée pour tous les tampons internes. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Obtient ou définit l'indice de taille du tampon, qui définit la taille maximale autorisée pour tous les tampons internes. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

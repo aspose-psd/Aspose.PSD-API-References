@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LoadOptions propriété. Obtient ou définit leImage arrièreplanColor .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LoadOptions. Obtient ou définit la couleur d'arrière-plan de l'Image"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-Obtient ou définit le[`Image`](../../image/) arrière-plan[`Color`](../../color/) .
+Obtient ou définit l'arrière-plan du [`Image`](../../image/) [`Color`](../../color/).
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La couleur de fond.
+La couleur d'arrière-plan.
 
-### Remarques
+## Remarques
 
-En règle générale, la couleur d'arrière-plan est définie chaque fois que la valeur du pixel ne peut pas être récupérée en raison d'une corruption des données.
+Typiquement, la couleur d'arrière-plan est définie chaque fois que la valeur du pixel ne peut pas être récupérée en raison d'une corruption des données.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* espace de noms [Aspose.PSD](../../loadoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

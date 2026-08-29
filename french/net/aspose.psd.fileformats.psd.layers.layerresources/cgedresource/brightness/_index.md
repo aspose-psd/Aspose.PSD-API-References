@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Brightness
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CgEdResource propriété. Obtient ou définit la luminosité.
+title: "CgEdResource.Brightness"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CgEdResource propriété. Obtient ou définit la luminosité"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Brightness property
 
 Obtient ou définit la luminosité.
@@ -14,14 +15,14 @@ Obtient ou définit la luminosité.
 public int Brightness { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La luminosité.
 
-### Voir également
+### Voir aussi
 
 * class [CgEdResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

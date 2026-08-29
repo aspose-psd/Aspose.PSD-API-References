@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.MinA
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantLab champ. La valeur minimale du composant A
+title: "ColorantLab.MinA"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ ColorantLab. La valeur minimale du composant A"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/mina/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinA field
 
 La valeur minimale du composant A
@@ -14,10 +15,10 @@ La valeur minimale du composant A
 public const int MinA;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorantLab](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.Color
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PatternFillSettings propriété. Obtient ou définit la couleur.
+title: "PatternFillSettings.Color"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PatternFillSettings. Obtient ou définit la couleur"
 type: docs
-weight: 20
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Color property
 
 Obtient ou définit la couleur.
@@ -14,15 +15,15 @@ Obtient ou définit la couleur.
 public Color Color { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La couleur.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

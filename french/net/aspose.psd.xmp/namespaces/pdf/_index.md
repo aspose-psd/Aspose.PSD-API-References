@@ -1,11 +1,12 @@
 ---
-title: Namespaces.Pdf
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Espace de noms Adobe PDF.
+title: "Namespaces.Pdf"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. espace de noms Adobe PDF"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp/namespaces/pdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Pdf field
 
 Espace de noms Adobe PDF.
@@ -14,10 +15,10 @@ Espace de noms Adobe PDF.
 public const string Pdf;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

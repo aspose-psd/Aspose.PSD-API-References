@@ -1,26 +1,27 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Restreint lutilisation des polices par liste de polices. Veuillez vérifier les noms de police réels avant restriction Définir la liste des polices autorisées sur Null pour supprimer les restrictions
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Restreint les polices en utilisant une liste de polices. Veuillez vérifier les noms réels des polices avant la restriction. Définissez la liste de polices autorisées sur Null pour supprimer les restrictions"
 type: docs
-weight: 100
+weight: 120
 url: /fr/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-Restreint l'utilisation des polices par liste de polices. Veuillez vérifier les noms de police réels avant restriction Définir la liste des polices autorisées sur Null pour supprimer les restrictions
+Restreint l'utilisation des polices par une liste de polices. Veuillez vérifier les noms réels des polices avant la restriction. Définissez la liste des polices autorisées sur Null pour supprimer les restrictions.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontList | String[] | La liste des polices. |
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de limiter par programmation les polices à l'aide de.
+Le code suivant démontre la capacité de limiter les polices de façon programmatique en utilisant.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -55,10 +57,10 @@ finally
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Graphics.Clear
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Efface la surface graphique en utilisant la couleur spécifiée.
+title: "Graphics.Clear"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Efface la surface graphique en utilisant la couleur spécifiée."
 type: docs
-weight: 150
+weight: 160
 url: /fr/net/aspose.psd/graphics/clear/
 ---
+{{< psd/tize >}}
 ## Graphics.Clear method
 
 Efface la surface graphique en utilisant la couleur spécifiée.
@@ -14,15 +15,15 @@ Efface la surface graphique en utilisant la couleur spécifiée.
 public void Clear(Color color)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| color | Color | La couleur par laquelle effacer la surface graphique. |
+| couleur | Couleur | La couleur utilisée pour effacer la surface graphique. |
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.StructureKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OffsetStructure champ. Identifie la clé de structure.
+title: "OffsetStructure.StructureKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ OffsetStructure. Identifie la clé de la structure"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.StructureKey field
 
 Identifie la clé de structure.
@@ -14,10 +15,10 @@ Identifie la clé de structure.
 public const int StructureKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OffsetStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

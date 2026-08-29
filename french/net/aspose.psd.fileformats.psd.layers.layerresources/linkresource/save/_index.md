@@ -1,11 +1,12 @@
 ---
-title: LinkResource.Save
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinkResource méthode. Enregistre les données du bloc de ressources.
+title: "LinkResource.Save"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LinkResource méthode. Enregistre les données du bloc de ressource"
 type: docs
-weight: 70
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/
 ---
+{{< psd/tize >}}
 ## LinkResource.Save method
 
 Enregistre les données du bloc de ressources.
@@ -14,16 +15,16 @@ Enregistre les données du bloc de ressources.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux dans lequel enregistrer. |
 | psdVersion | Int32 | La version PSD. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LinkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Hue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Hue2Resource propriété. Obtient ou définit la teinte principale.
+title: "Hue2Resource.Hue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Hue2Resource. Obtient ou définit la teinte principale"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Hue property
 
 Obtient ou définit la teinte principale.
@@ -14,14 +15,14 @@ Obtient ou définit la teinte principale.
 public short Hue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La teinte maîtresse.
+La teinte principale.
 
-### Voir également
+### Voir aussi
 
 * class [Hue2Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

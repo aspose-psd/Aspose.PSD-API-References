@@ -1,11 +1,12 @@
 ---
-title: Lr32Resource.Layers
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lr32Resource propriété. Obtient ou définit les calques.
+title: "Lr32Resource.Layers"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Lr32Resource. Obtient ou définit les couches"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Layers property
 
 Obtient ou définit les calques.
@@ -14,15 +15,15 @@ Obtient ou définit les calques.
 public Layer[] Layers { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les calques.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [Lr32Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

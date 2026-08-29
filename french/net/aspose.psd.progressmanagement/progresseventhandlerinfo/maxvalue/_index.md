@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ProgressEventHandlerInfo propriété. Obtient la limite supérieure de la valeur de progression.
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ProgressEventHandlerInfo propriété. Obtient la limite supérieure de la valeur de progression"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
 Obtient la limite supérieure de la valeur de progression.
@@ -14,14 +15,14 @@ Obtient la limite supérieure de la valeur de progression.
 public int MaxValue { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La limite supérieure de la valeur de progression.
 
-### Voir également
+### Voir aussi
 
 * class [ProgressEventHandlerInfo](../)
-* espace de noms [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

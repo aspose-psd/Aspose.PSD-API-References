@@ -1,32 +1,33 @@
 ---
-title: Size.op_Explicit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Convertit le spécifiéSize à unPoint .
+title: "Size.op_Explicit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Convertit le Size spécifié en un Point."
 type: docs
 weight: 160
 url: /fr/net/aspose.psd/size/op_explicit/
 ---
+{{< psd/tize >}}
 ## Size Explicit operator
 
-Convertit le spécifié[`Size`](../) à un[`Point`](../../point/) .
+Convertit le [`Size`](../) spécifié en un [`Point`](../../point/).
 
 ```csharp
 public static explicit operator Point(Size size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size | Size | Le[`Size`](../) convertir. |
+| size | Size | Le [`Size`](../) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`Point`](../../point/) structure vers laquelle cet opérateur se convertit.
+La structure [`Point`](../../point/) vers laquelle cet opérateur convertit.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

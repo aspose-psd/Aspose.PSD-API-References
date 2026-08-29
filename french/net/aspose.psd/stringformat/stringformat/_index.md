@@ -1,59 +1,60 @@
 ---
-title: StringFormat.StringFormat
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StringFormat constructeur. Initialise un nouveauStringFormat objet.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur StringFormat. Initialise un nouvel objet StringFormat"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-Initialise un nouveau[`StringFormat`](../) objet.
+Initialise un nouvel objet [`StringFormat`](../).
 
 ```csharp
 public StringFormat()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [StringFormat](../)
-* espace de noms [Aspose.PSD](../../stringformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-Initialise un nouveau[`StringFormat`](../) objet avec le spécifié[`StringFormatFlags`](../../stringformatflags/) énumération et langue.
+Initialise un nouvel objet [`StringFormat`](../) avec l'énumération [`StringFormatFlags`](../../stringformatflags/) spécifiée et la langue.
 
 ```csharp
 public StringFormat(StringFormatFlags options)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| options | StringFormatFlags | Le[`StringFormatFlags`](../../stringformatflags/) énumération pour le nouveau[`StringFormat`](../) objet. |
+| options | StringFormatFlags | L'énumération [`StringFormatFlags`](../../stringformatflags/) pour le nouvel objet [`StringFormat`](../). |
 
-### Voir également
+### Voir aussi
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* espace de noms [Aspose.PSD](../../stringformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-Initialise un nouveau[`StringFormat`](../) objet de l'existant spécifié[`StringFormat`](../) objet.
+Initialise un nouvel objet [`StringFormat`](../) à partir de l'objet [`StringFormat`](../) existant spécifié.
 
 ```csharp
 public StringFormat(StringFormat format)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| format | StringFormat | Le[`StringFormat`](../) objet à partir duquel initialiser le nouveau[`StringFormat`](../) objet. |
+| format | StringFormat | L'objet [`StringFormat`](../) à partir duquel initialiser le nouvel objet [`StringFormat`](../). |
 
 ### Exceptions
 
@@ -61,10 +62,10 @@ public StringFormat(StringFormat format)
 | --- | --- |
 | ArgumentNullException | *format* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [StringFormat](../)
-* espace de noms [Aspose.PSD](../../stringformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

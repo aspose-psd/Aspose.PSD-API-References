@@ -1,11 +1,12 @@
 ---
-title: MlstResource.PsdVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MlstResource propriété. Obtient la version psd.
+title: "MlstResource.PsdVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "MlstResource propriété. Obtient la version psd"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/
 ---
+{{< psd/tize >}}
 ## MlstResource.PsdVersion property
 
 Obtient la version psd.
@@ -14,10 +15,10 @@ Obtient la version psd.
 public override int PsdVersion { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [MlstResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

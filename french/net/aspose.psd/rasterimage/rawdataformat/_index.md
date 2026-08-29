@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage propriété. Obtient le format des données brutes.
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RasterImage propriété. Obtient le format des données brutes"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
 Obtient le format des données brutes.
@@ -14,15 +15,15 @@ Obtient le format des données brutes.
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le format des données brutes.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

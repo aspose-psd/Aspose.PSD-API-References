@@ -1,27 +1,28 @@
 ---
-title: RectangleF.GetHashCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF méthode. Obtient le code de hachage pour celaRectangleFstructure.
+title: "RectangleF.GetHashCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleF. Obtient le code de hachage pour cette structure RectangleF."
 type: docs
 weight: 210
 url: /fr/net/aspose.psd/rectanglef/gethashcode/
 ---
+{{< psd/tize >}}
 ## RectangleF.GetHashCode method
 
-Obtient le code de hachage pour cela[`RectangleF`](../)structure.
+Obtient le code de hachage pour cette structure [`RectangleF`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le code de hachage pour cela[`RectangleF`](../).
+Le code de hachage pour ce [`RectangleF`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

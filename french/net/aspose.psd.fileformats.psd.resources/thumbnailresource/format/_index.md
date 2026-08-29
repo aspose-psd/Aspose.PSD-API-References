@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.Format
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ThumbnailResource propriété. Obtient ou définit le format des données des vignettes.
+title: "ThumbnailResource.Format"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ThumbnailResource. Obtient ou définit le format des données de la miniature"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/format/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Format property
 
-Obtient ou définit le format des données des vignettes.
+Obtient ou définit le format des données de la vignette.
 
 ```csharp
 public ThumbnailFormat Format { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le format des données de vignette.
+Le format des données de la miniature.
 
-### Voir également
+### Voir aussi
 
 * enum [ThumbnailFormat](../../thumbnailformat/)
 * class [ThumbnailResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

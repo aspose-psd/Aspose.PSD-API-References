@@ -1,11 +1,12 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VogkResource propriété. Obtient ou définit les paramètres dorigine de la forme.
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VogkResource. Obtient ou définit les paramètres d'origine de la forme."
 type: docs
-weight: 50
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
 Obtient ou définit les paramètres d'origine de la forme.
@@ -14,9 +15,9 @@ Obtient ou définit les paramètres d'origine de la forme.
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge de la ressource VogkResource.
+L'exemple suivant montre la prise en charge de la ressource VogkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // En lisant
+    // Lecture
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,11 +71,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

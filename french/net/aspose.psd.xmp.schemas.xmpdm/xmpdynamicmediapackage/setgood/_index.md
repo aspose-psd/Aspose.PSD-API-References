@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGood
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Définit le bien.
+title: "XmpDynamicMediaPackage.SetGood"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "XmpDynamicMediaPackage méthode. Définit le bon"
 type: docs
 weight: 230
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGood method
 
 Définit le bien.
@@ -14,14 +15,14 @@ Définit le bien.
 public void SetGood(bool good)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| good | Boolean | si réglé sur`vrai` un tir est un gardien. |
+| bon | Booléen | si défini sur `true` un tir est un gardien. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Brush.DeepClone
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Brush méthode. Crée un nouveau clone profond du courantBrush .
+title: "Brush.DeepClone"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Brush. Crée un nouveau clone profond du Brush actuel"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/brush/deepclone/
 ---
+{{< psd/tize >}}
 ## Brush.DeepClone method
 
-Crée un nouveau clone profond du courant[`Brush`](../) .
+Crée un nouveau clone profond du [`Brush`](../) actuel.
 
 ```csharp
 public virtual Brush DeepClone()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Un nouveau[`Brush`](../) qui est le clone profond de ce[`Brush`](../) exemple.
+Un nouveau [`Brush`](../) qui est le clone profond de cette instance [`Brush`](../).
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../)
-* espace de noms [Aspose.PSD](../../brush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

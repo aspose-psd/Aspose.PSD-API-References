@@ -1,23 +1,24 @@
 ---
-title: Graphics.ResetTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Réinitialise leTransform propriété à lidentité.
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Réinitialise la propriété Transform à l'identité"
 type: docs
-weight: 430
+weight: 440
 url: /fr/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-Réinitialise le[`Transform`](../transform/) propriété à l'identité.
+Réinitialise la propriété [`Transform`](../transform/) à l'identité.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

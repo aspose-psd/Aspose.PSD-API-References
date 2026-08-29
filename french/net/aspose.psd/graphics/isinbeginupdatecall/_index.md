@@ -1,11 +1,12 @@
 ---
-title: Graphics.IsInBeginUpdateCall
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient une valeur indiquant si les graphiques sont dans létat dappel BeginUpdate.
+title: "Graphics.IsInBeginUpdateCall"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient une valeur indiquant si le graphique est dans l'état d'appel BeginUpdate."
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/graphics/isinbeginupdatecall/
 ---
+{{< psd/tize >}}
 ## Graphics.IsInBeginUpdateCall property
 
 Obtient une valeur indiquant si les graphiques sont dans l'état d'appel BeginUpdate.
@@ -14,14 +15,14 @@ Obtient une valeur indiquant si les graphiques sont dans l'état d'appel BeginUp
 public bool IsInBeginUpdateCall { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`Vrai` si les graphiques sont dans l'état d'appel BeginUpdate ; sinon,`FAUX` .
+`True` si le graphique est dans l'état d'appel BeginUpdate ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

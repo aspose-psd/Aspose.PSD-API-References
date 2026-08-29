@@ -1,32 +1,33 @@
 ---
-title: CurvesDiscreteManager.GetValueInPosition
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurvesDiscreteManager méthode. Obtient la valeur en position.
+title: "CurvesDiscreteManager.GetValueInPosition"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CurvesDiscreteManager méthode. Obtient la valeur à la position"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.GetValueInPosition method
 
-Obtient la valeur en position.
+Obtient la valeur à la position.
 
 ```csharp
 public byte GetValueInPosition(int channelIndex, byte position)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| channelIndex | Int32 | Index de la chaîne. |
-| position | Byte | La position. |
+| channelIndex | Int32 | Indice du canal. |
+| position | Octet | La position. |
 
-### Return_Value
+### Valeur de retour
 
-Valeur de la courbe par sa position
+Valeur de la courbe selon sa position
 
-### Voir également
+### Voir aussi
 
 * class [CurvesDiscreteManager](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

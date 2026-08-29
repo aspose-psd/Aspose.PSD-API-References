@@ -1,27 +1,28 @@
 ---
-title: RectangleF.IsEmpty
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF propriété. Obtient une valeur indiquant si leWidth ouHeight propriété de ceRectangleF a une valeur de zéro.
+title: "RectangleF.IsEmpty"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleF. Obtient une valeur indiquant si la propriété Width ou Height de ce RectangleF a une valeur de zéro"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/rectanglef/isempty/
 ---
+{{< psd/tize >}}
 ## RectangleF.IsEmpty property
 
-Obtient une valeur indiquant si le[`Width`](../width/) ou[`Height`](../height/) propriété de ce[`RectangleF`](../) a une valeur de zéro.
+Obtient une valeur indiquant si la propriété [`Width`](../width/) ou [`Height`](../height/) de ce [`RectangleF`](../) a une valeur de zéro.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-Cette propriété renvoie vrai si le[`Width`](../width/) ou[`Height`](../height/) propriété de ce[`RectangleF`](../) a une valeur de zéro ; sinon, faux.
+Cette propriété renvoie true si la propriété [`Width`](../width/) ou [`Height`](../height/) de ce [`RectangleF`](../) a une valeur de zéro ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MaxQ
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RdOptimizerSettings propriété. Obtient ou définit la valeur de quantification maximale.
+title: "RdOptimizerSettings.MaxQ"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RdOptimizerSettings propriété. Obtient ou définit la valeur maximale de quantification"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.imageoptions/rdoptimizersettings/maxq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxQ property
 
-Obtient ou définit la valeur de quantification maximale.
+Obtient ou définit la valeur maximale de quantification.
 
 ```csharp
 public int MaxQ { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de quantification maximale.
+La valeur maximale de quantification.
 
-### Voir également
+### Voir aussi
 
 * class [RdOptimizerSettings](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

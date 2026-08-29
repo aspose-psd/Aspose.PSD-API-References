@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPComment
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit un commentaire sur limage qui est utilisé par lExplorateur Windows.
+title: "TiffOptions.XPComment"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit le commentaire sur l'image utilisé par Windows Explorer"
 type: docs
-weight: 600
+weight: 610
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPComment property
 
-Obtient ou définit un commentaire sur l'image, qui est utilisé par l'Explorateur Windows.
+Obtient ou définit le commentaire de l'image, utilisé par Windows Explorer.
 
 ```csharp
 public string XPComment { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Commentaire sur l'image, utilisé par l'Explorateur Windows.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

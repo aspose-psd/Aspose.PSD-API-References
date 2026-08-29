@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Units
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Dimensions propriété. Obtient ou définit les unités.
+title: "Dimensions.Units"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Dimensions. Obtient ou définit les unités"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/units/
 ---
+{{< psd/tize >}}
 ## Dimensions.Units property
 
 Obtient ou définit les unités.
@@ -14,18 +15,18 @@ Obtient ou définit les unités.
 public string Units { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les unités.
 
-### Exemples
+## Exemples
 
-Par exemple : pouce, mm, pixel, pica, point etc.
+Par exemple : pouce, mm, pixel, pica, point, etc.
 
-### Voir également
+### Voir aussi
 
 * class [Dimensions](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

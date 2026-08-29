@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yposition
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la position y.
+title: "TiffOptions.Yposition"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la position y"
 type: docs
-weight: 680
+weight: 690
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/yposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yposition property
 
 Obtient ou définit la position y.
@@ -14,15 +15,15 @@ Obtient ou définit la position y.
 public TiffRational Yposition { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La position y.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

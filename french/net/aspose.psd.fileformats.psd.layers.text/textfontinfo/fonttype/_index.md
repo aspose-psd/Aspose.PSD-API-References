@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.FontType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextFontInfo propriété. Obtient le type de la police.
+title: "TextFontInfo.FontType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextFontInfo. Obtient le type de la police"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FontType property
 
 Obtient le type de la police.
@@ -14,14 +15,14 @@ Obtient le type de la police.
 public int FontType { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le type de police.
+Le type de la police.
 
-### Voir également
+### Voir aussi
 
 * class [TextFontInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

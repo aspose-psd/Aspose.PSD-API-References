@@ -1,111 +1,112 @@
 ---
-title: CmykColorHelper.ToCmykIcc
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColorHelper méthode. La conversion des couleurs ARGB en couleurs CMJN à laide de la conversion Icc avec des profils personnalisés.
+title: "CmykColorHelper.ToCmykIcc"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CmykColorHelper. La conversion des couleurs ARGB en couleurs CMYK en utilisant la conversion Icc avec des profils personnalisés"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/cmykcolorhelper/tocmykicc/
 ---
+{{< psd/tize >}}
 ## ToCmykIcc(Color[], Stream, Stream) {#tocmykicc_3}
 
-La conversion des couleurs ARGB en couleurs CMJN à l'aide de la conversion Icc avec des profils personnalisés.
+La conversion des couleurs ARGB en couleurs CMYK à l'aide de la conversion Icc avec des profils personnalisés.
 
 ```csharp
 public static int[] ToCmykIcc(Color[] pixels, Stream rgbIccStream, Stream cmykIccStream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | pixels | Color[] | Les couleurs ARGB. |
-| rgbIccStream | Stream | Le flux contenant le profil RVB Icc. |
-| cmykIccStream | Stream | Le flux contenant le profil CMJN Icc. |
+| rgbIccStream | Stream | Le flux contenant le profil Icc RGB. |
+| cmykIccStream | Stream | Le flux contenant le profil Icc CMYK. |
 
-### Return_Value
+### Valeur de retour
 
-Les couleurs CMJN présentées sous forme de valeurs entières 32 bits.
+Les couleurs CMYK présentées sous forme de valeurs entières 32 bits.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmykIcc(Color[]) {#tocmykicc_2}
 
-La conversion des couleurs ARGB en couleurs CMJN à l'aide de la conversion Icc avec les profils par défaut.
+La conversion des couleurs ARGB en couleurs CMYK à l'aide de la conversion Icc avec les profils par défaut.
 
 ```csharp
 public static int[] ToCmykIcc(Color[] pixels)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | pixels | Color[] | Les couleurs ARGB. |
 
-### Return_Value
+### Valeur de retour
 
-Les couleurs CMJN présentées sous forme de valeurs entières 32 bits.
+Les couleurs CMYK présentées sous forme de valeurs entières 32 bits.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmykIcc(Color) {#tocmykicc}
 
-La conversion de la couleur ARGB en couleur CMJN à l'aide de la conversion Icc avec les profils par défaut.
+La conversion de la couleur ARGB en couleur CMYK à l'aide de la conversion Icc avec les profils par défaut.
 
 ```csharp
 public static int ToCmykIcc(Color pixel)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pixel | Color | La couleur ARGB. |
+| pixel | Couleur | La couleur ARGB. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur CMJN présentée sous la forme d'une valeur entière 32 bits.
+La couleur CMYK présentée sous forme de valeur entière 32 bits.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmykIcc(Color, Stream, Stream) {#tocmykicc_1}
 
-La conversion de la couleur ARGB en couleur CMJN à l'aide de la conversion Icc avec des profils personnalisés.
+La conversion de la couleur ARGB en couleur CMYK à l'aide de la conversion Icc avec des profils personnalisés.
 
 ```csharp
 public static int ToCmykIcc(Color pixel, Stream rgbIccStream, Stream cmykIccStream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pixel | Color | La couleur ARGB. |
-| rgbIccStream | Stream | Le flux contenant le profil RVB Icc. |
-| cmykIccStream | Stream | Le flux contenant le profil CMJN Icc. |
+| pixel | Couleur | La couleur ARGB. |
+| rgbIccStream | Stream | Le flux contenant le profil Icc RGB. |
+| cmykIccStream | Stream | Le flux contenant le profil Icc CMYK. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur CMJN présentée sous la forme d'une valeur entière 32 bits.
+La couleur CMYK présentée sous forme de valeur entière 32 bits.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

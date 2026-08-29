@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Position
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer propriété. Obtient ou définit la position actuelle dans le flux. Cette valeur représente le décalage par rapport à la position de départ du flux transmise dans le constructeur StreamContainer.
+title: "StreamContainer.Position"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StreamContainer. Obtient ou définit la position actuelle dans le flux. Cette valeur représente le décalage par rapport à la position de départ du flux passée dans le constructeur de StreamContainer"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/streamcontainer/position/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Position property
 
-Obtient ou définit la position actuelle dans le flux. Cette valeur représente le décalage par rapport à la position de départ du flux transmise dans le constructeur StreamContainer.
+Obtient ou définit la position actuelle dans le flux. Cette valeur représente le décalage par rapport à la position de départ du flux passée dans le constructeur de StreamContainer.
 
 ```csharp
 public virtual long Position { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La position actuelle du flux.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

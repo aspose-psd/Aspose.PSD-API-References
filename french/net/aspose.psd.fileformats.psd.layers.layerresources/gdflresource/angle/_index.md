@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Angle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GdFlResource propriété. Obtient ou définit langle.
+title: "GdFlResource.Angle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GdFlResource. Obtient ou définit l'angle"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Angle property
 
 Obtient ou définit l'angle.
@@ -14,13 +15,13 @@ Obtient ou définit l'angle.
 public double Angle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge du chargement des ressources GdFlResource.
+L'exemple suivant démontre la prise en charge du chargement de ressources GdFlResource.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // En lisant
+                    // Lecture
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [GdFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

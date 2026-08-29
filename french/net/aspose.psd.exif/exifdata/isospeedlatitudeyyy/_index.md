@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeYYY
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la valeur de latitude de vitesse ISO yyy dune caméra ou dun périphérique dentrée défini dans la norme ISO 12232.
+title: "ExifData.ISOSpeedLatitudeYYY"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la valeur de latitude de vitesse ISO yyy d'un appareil photo ou dispositif d'entrée définie dans la norme ISO 12232"
 type: docs
 weight: 710
 url: /fr/net/aspose.psd.exif/exifdata/isospeedlatitudeyyy/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeYYY property
 
-Obtient ou définit la valeur de latitude de vitesse ISO yyy d'une caméra ou d'un périphérique d'entrée défini dans la norme ISO 12232.
+Obtient ou définit la valeur de latitude yyy de vitesse ISO d'un appareil photo ou dispositif d'entrée telle que définie dans la norme ISO 12232.
 
 ```csharp
 public uint ISOSpeedLatitudeYYY { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur yyy de latitude de vitesse ISO d'une caméra ou d'un périphérique d'entrée définie dans la norme ISO 12232.
+La valeur de latitude de vitesse ISO yyy d'un appareil photo ou dispositif d'entrée définie dans la norme ISO 12232.
 
-### Remarques
+## Remarques
 
 Cette balise ne doit pas être enregistrée sans ISOSpeed et ISOSpeedLatitudezzz
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

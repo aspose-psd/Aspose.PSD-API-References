@@ -1,29 +1,36 @@
 ---
-title: Class ColorFillSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings classe. Paramètres deffet de remplissage de couleur
+title: "Classe ColorFillSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings. Paramètres de l'effet de remplissage de couleur"
 type: docs
-weight: 1930
+weight: 2040
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-Paramètres d'effet de remplissage de couleur
+Paramètres de l'effet de remplissage de couleur
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## Constructeurs
+
+| Nom | Description |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | Le constructeur par défaut. |
+
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Obtient ou définit la couleur. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Le type de remplissage |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge du calque d'effet de trait avec le type de remplissage - Couleur.
+Le code suivant montre la prise en charge du calque d'effet de contour avec le type de remplissage - Couleur.
 
 ```csharp
 [C#]
@@ -63,7 +70,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Tester le fichier après modification
+// Fichier de test après modification
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

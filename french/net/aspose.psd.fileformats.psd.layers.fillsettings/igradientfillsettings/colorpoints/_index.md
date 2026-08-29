@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.ColorPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IGradientFillSettings propriété. Obtient les points de couleur.
+title: "IGradientFillSettings.ColorPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IGradientFillSettings. Obtient les points de couleur"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.ColorPoints property
 
 Obtient les points de couleur.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les points de couleur.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge de Gradient FillLayer et les options d'édition IGradientFillSettings.
+L'exemple suivant montre la prise en charge du FillLayer Gradient et les options de modification de IGradientFillSettings..
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -90,11 +92,11 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IRasterImageRawDataLoader interface. Le chargeur de données brutes dimage raster.
+title: "Interface IRasterImageRawDataLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.IRasterImageRawDataLoader. Le chargeur de données brutes d'image raster."
 type: docs
-weight: 4580
+weight: 5050
 url: /fr/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
 Le chargeur de données brutes d'image raster.
@@ -16,20 +17,20 @@ public interface IRasterImageRawDataLoader
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Obtient une valeur indiquant si le chargement des données brutes est pris en charge. |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Obtient les paramètres de données brutes actuels. Notez que lorsque vous utilisez ces paramètres, les données se chargent sans conversion. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Obtient une valeur indiquant si le chargement de données brutes est pris en charge. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Obtient les paramètres actuels des données brutes. Notez que lors de l'utilisation de ces paramètres, les données se chargent sans conversion. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Charge les données brutes. |
+| [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Charge des données brutes. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

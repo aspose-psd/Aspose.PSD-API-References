@@ -1,48 +1,49 @@
 ---
-title: ImageException.ImageException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageException constructeur. Initialise une nouvelle instance duImageException classe.
+title: "ImageException.ImageException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ImageException. Initialise une nouvelle instance de la classe ImageException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.coreexceptions/imageexception/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException(string) {#constructor}
 
-Initialise une nouvelle instance du[`ImageException`](../) classe.
+Initialise une nouvelle instance de la classe [`ImageException`](../).
 
 ```csharp
 public ImageException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../imageexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`ImageException`](../) classe.
+Initialise une nouvelle instance de la classe [`ImageException`](../).
 
 ```csharp
 public ImageException(string message, Exception innerException)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| innerException | Exception | L'exception intérieure. |
+| innerException | Exception | L'exception interne. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../imageexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

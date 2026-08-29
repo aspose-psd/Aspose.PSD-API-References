@@ -1,11 +1,12 @@
 ---
-title: Class CompressorException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.CompressorException classe. Lexception du compresseur.
+title: "Classe CompressorException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.CoreExceptions.CompressorException. L'exception du compresseur"
 type: docs
 weight: 430
 url: /fr/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
 L'exception du compresseur.
@@ -16,15 +17,15 @@ public class CompressorException : FrameworkException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | Initialise une nouvelle instance du`CompressorException` classe. |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance du`CompressorException` classe. |
+| [CompressorException](compressorexception/#constructor)(string) | Initialise une nouvelle instance de la classe `CompressorException`. |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance de la classe `CompressorException`. |
 
-### Voir également
+### Voir aussi
 
 * class [FrameworkException](../frameworkexception/)
-* espace de noms [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

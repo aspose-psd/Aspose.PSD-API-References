@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Meta
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPacketWrapper propriété. Obtient la méta XMP. Facultatif.
+title: "XmpPacketWrapper.Meta"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpPacketWrapper. Obtient les métadonnées XMP. Facultatif"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp/xmppacketwrapper/meta/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Meta property
 
-Obtient la méta XMP. Facultatif.
+Obtient les métadonnées XMP. Facultatif.
 
 ```csharp
 public XmpMeta Meta { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La méta XMP. Facultatif.
+Les métadonnées XMP. Facultatif.
 
-### Voir également
+### Voir aussi
 
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

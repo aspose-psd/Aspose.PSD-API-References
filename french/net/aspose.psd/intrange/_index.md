@@ -1,14 +1,15 @@
 ---
-title: Class IntRange
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IntRange classe. Classe pour représenter la séquence déléments
+title: "Classe IntRange"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.IntRange. Classe permettant de représenter une séquence d'éléments"
 type: docs
-weight: 5010
+weight: 5500
 url: /fr/net/aspose.psd/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange class
 
-Classe pour représenter la séquence d'éléments
+Classe pour représenter une séquence d'éléments
 
 ```csharp
 public class IntRange
@@ -16,28 +17,28 @@ public class IntRange
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [IntRange](intrange/#constructor_2)(int[]) | Initialise une nouvelle instance du`IntRange` classe. |
-| [IntRange](intrange/#constructor)(int, int) | Initialise une nouvelle instance du`IntRange` classe. |
-| [IntRange](intrange/#constructor_1)(int, int, int) | Initialise une nouvelle instance du`IntRange` classe. |
+| [IntRange](intrange/#constructor_2)(int[]) | Initialise une nouvelle instance de la classe `IntRange`. |
+| [IntRange](intrange/#constructor)(int, int) | Initialise une nouvelle instance de la classe `IntRange`. |
+| [IntRange](intrange/#constructor_1)(int, int, int) | Initialise une nouvelle instance de la classe `IntRange`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Range](../../aspose.psd/intrange/range/) { get; set; } | Obtient ou définit la plage. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Renvoie un tableau d'éléments à partir de l'index spécifié |
-| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Obtient la plage de comptage des éléments int commençant à start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Renvoie un tableau d'un élément à partir de l'index spécifié. |
+| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Obtient la plage de comptage des éléments int à partir de start. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

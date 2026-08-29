@@ -1,31 +1,32 @@
 ---
-title: RasterImage.LoadPartialArgb32Pixels
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Charge les pixels ARGB 32 bits partiellement par packs.
+title: "RasterImage.LoadPartialArgb32Pixels"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Charge partiellement des pixels ARGB 32 bits par paquets"
 type: docs
-weight: 380
+weight: 390
 url: /fr/net/aspose.psd/rasterimage/loadpartialargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialArgb32Pixels method
 
-Charge les pixels ARGB 32 bits partiellement par packs.
+Charge partiellement des pixels ARGB 32 bits par paquets.
 
 ```csharp
 public void LoadPartialArgb32Pixels(Rectangle rectangle, 
     IPartialArgb32PixelLoader partialPixelLoader)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle souhaité. |
 | partialPixelLoader | IPartialArgb32PixelLoader | Le chargeur de pixels ARGB 32 bits. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

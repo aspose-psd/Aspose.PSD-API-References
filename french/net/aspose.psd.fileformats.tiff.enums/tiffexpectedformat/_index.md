@@ -1,14 +1,15 @@
 ---
-title: Enum TiffExpectedFormat
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat énumération. Le format de fichier tiff attendu.
+title: "Enumération TiffExpectedFormat"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat enum. Le format de fichier TIFF attendu"
 type: docs
-weight: 4070
+weight: 4540
 url: /fr/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
+{{< psd/tize >}}
 ## TiffExpectedFormat enumeration
 
-Le format de fichier tiff attendu.
+Le format de fichier TIFF attendu.
 
 ```csharp
 public enum TiffExpectedFormat
@@ -16,28 +17,28 @@ public enum TiffExpectedFormat
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Default | `0` | Le format tiff par défaut est sans compression avec le format N/B 1 bit par pixel uniquement. Vous pouvez également utiliser ce paramètre pour obtenir des options vides et initialiser avec vos balises ou d'autres paramètres. |
-| TiffLzwBw | `1` | Le tiff ayant une compression LZW et un format N/B 1 bit par pixel uniquement. |
-| TiffLzwRgb | `2` | Le tiff ayant une compression LZW et un format de couleur RVB. |
-| TiffLzwRgba | `3` | Le tiff ayant une compression LZW et RGBA avec un format de couleur de transparence. |
-| TiffLzwCmyk | `4` | Le tiff LZW cmyk |
-| TiffCcittFax3 | `5` | Le codage tiff CCITT FAX3. N/B 1 bit par pixel uniquement pris en charge pour ce schéma. |
-| TiffCcittFax4 | `6` | L'encodage tiff CCITT FAX4. N/B 1 bit par pixel uniquement pris en charge pour ce schéma. |
-| TiffDeflateBw | `7` | Le tiff ayant une compression dégonflée et un format N/B 1 bit par pixel uniquement. |
-| TiffDeflateRgb | `8` | Le tiff ayant une compression dégonflée et un format de couleur RVB. |
-| TiffDeflateRgba | `9` | Le tiff ayant une compression deflate et un format de couleur RGBA. |
-| TiffCcitRle | `10` | Le codage tiff CCITT RLE. N/B 1 bit par pixel uniquement pris en charge pour ce schéma. |
-| TiffJpegRgb | `11` | Le tiff ayant une compression Jpeg et un format de couleur RVB. |
-| TiffJpegYCbCr | `12` | Le tiff ayant la compression Jpeg et le format de couleur YCBCR. |
-| TiffNoCompressionBw | `13` | Le format tiff non compressé et N/B 1 bit par pixel uniquement. |
-| TiffNoCompressionRgb | `14` | Le format de couleur tiff et RVB non compressé. |
-| TiffNoCompressionRgba | `15` | Le tiff non compressé et RGBA avec le format de couleur de transparence. |
+| Default | `0` | Le format TIFF par défaut est sans compression avec un format B/W 1 bit par pixel uniquement. Vous pouvez également utiliser ce paramètre pour obtenir des options vides et les initialiser avec vos balises ou d'autres paramètres. |
+| TiffLzwBw | `1` | Le TIFF avec compression LZW et format B/W 1 bit par pixel uniquement. |
+| TiffLzwRgb | `2` | Le TIFF avec compression LZW et format couleur RGB. |
+| TiffLzwRgba | `3` | Le TIFF avec compression LZW et format couleur RGBA avec transparence. |
+| TiffLzwCmyk | `4` | Le TIFF LZW CMYK |
+| TiffCcittFax3 | `5` | Le codage TIFF CCITT FAX3. Le format B/W 1 bit par pixel uniquement pris en charge pour ce schéma. |
+| TiffCcittFax4 | `6` | Le codage TIFF CCITT FAX4. Le format B/W 1 bit par pixel uniquement pris en charge pour ce schéma. |
+| TiffDeflateBw | `7` | Le TIFF avec compression Deflate et format B/W 1 bit par pixel uniquement. |
+| TiffDeflateRgb | `8` | Le tiff ayant une compression deflate et le format couleur RGB. |
+| TiffDeflateRgba | `9` | Le tiff ayant une compression deflate et le format couleur RGBA. |
+| TiffCcitRle | `10` | Le tiff encodage CCITT RLE. B/W 1 bit per pixel uniquement pris en charge pour ce schéma. |
+| TiffJpegRgb | `11` | Le tiff ayant une compression Jpeg et le format couleur RGB. |
+| TiffJpegYCbCr | `12` | Le tiff ayant une compression Jpeg et le format couleur YCBCR. |
+| TiffNoCompressionBw | `13` | Le tiff non compressé et le format B/W 1 bit per pixel uniquement. |
+| TiffNoCompressionRgb | `14` | Le tiff non compressé et le format couleur RGB. |
+| TiffNoCompressionRgba | `15` | Le tiff non compressé et le format couleur RGBA avec transparence. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

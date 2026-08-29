@@ -1,24 +1,25 @@
 ---
-title: RasterImage.Rotate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Faire pivoter limage autour du centre.
+title: "RasterImage.Rotate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RasterImage méthode. Fait pivoter l'image autour du centre"
 type: docs
-weight: 480
+weight: 490
 url: /fr/net/aspose.psd/rasterimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Faire pivoter l'image autour du centre.
+Fait pivoter l'image autour du centre.
 
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| angle | Single | L'angle de rotation en degrés. Les valeurs positives tourneront dans le sens des aiguilles d'une montre. |
-| resizeProportionally | Boolean | si réglé sur`vrai` la taille de votre image sera modifiée en fonction des projections du rectangle pivoté (points d'angle) dans un autre cas qui laisse les dimensions intactes et seul le contenu de l'image interne est pivoté. |
-| backgroundColor | Color | Couleur du fond. |
+| angle | Single | L'angle de rotation en degrés. Les valeurs positives font pivoter dans le sens horaire. |
+| resizeProportionally | Booléen | si défini sur `true`, la taille de votre image sera modifiée selon les projections du rectangle tourné (points d'angle) ; sinon, les dimensions restent inchangées et seul le contenu interne de l'image est tourné. |
+| backgroundColor | Couleur | Couleur de l'arrière-plan. |
 
 ### Exceptions
 
@@ -26,31 +27,31 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 | --- | --- |
 | NotImplementedException |  |
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Faire pivoter l'image autour du centre.
+Fait pivoter l'image autour du centre.
 
 ```csharp
 public virtual void Rotate(float angle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| angle | Single | L'angle de rotation en degrés. Les valeurs positives tourneront dans le sens des aiguilles d'une montre. |
+| angle | Single | L'angle de rotation en degrés. Les valeurs positives font pivoter dans le sens horaire. |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.ID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceBlock propriété. Obtient ou définit lidentifiant unique de la ressource.
+title: "ResourceBlock.ID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceBlock. Obtient ou définit l'identifiant unique de la ressource"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd/resourceblock/id/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ID property
 
 Obtient ou définit l'identifiant unique de la ressource.
@@ -14,14 +15,14 @@ Obtient ou définit l'identifiant unique de la ressource.
 public short ID { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Identificateur unique de la ressource.
+L'identifiant unique de la ressource.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

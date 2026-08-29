@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.TransformMatrix
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit la matrice de transformation des données de la couche dobjet intelligent dans le fichier PSD.
+title: "SmartObjectResource.TransformMatrix"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource propriété. Obtient ou définit la matrice de transformation des données du calque d'objet intelligent dans le fichier PSD"
 type: docs
-weight: 230
+weight: 210
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.TransformMatrix property
 
-Obtient ou définit la matrice de transformation des données de la couche d'objet intelligent dans le fichier PSD.
+Obtient ou définit la matrice de transformation des données du calque d'objet dynamique dans le fichier PSD.
 
 ```csharp
 public override double[] TransformMatrix { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La matrice de transformation des données de la couche d'objet intelligent.
+La matrice de transformation des données du calque d'objet intelligent.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

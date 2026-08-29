@@ -1,23 +1,24 @@
 ---
-title: UnitArrayStructure.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnitArrayStructure propriété. Obtient cette clé de structure de tableau dunités.
+title: "UnitArrayStructure.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UnitArrayStructure. Obtient la clé de cette structure de tableau d'unités"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Key property
 
-Obtient cette clé de structure de tableau d'unités.
+Obtient cette clé de la structure de tableau d'unités.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [UnitArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

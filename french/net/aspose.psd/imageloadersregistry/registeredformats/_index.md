@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageLoadersRegistry propriété. Obtient les formats de chargement dimage enregistrés.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageLoadersRegistry. Obtient les formats de chargement d'image enregistrés"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
-Obtient les formats de chargement d'image enregistrés.
+Obtient les formats de chargement d'images enregistrés.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les formats de chargement d'image enregistrés.
 
-### Voir également
+### Voir aussi
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* espace de noms [Aspose.PSD](../../imageloadersregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

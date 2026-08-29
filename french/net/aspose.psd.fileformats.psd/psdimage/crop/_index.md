@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Crop
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Recadrage de limage.
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Recadrage de l'image"
 type: docs
-weight: 510
+weight: 570
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
 Recadrage de l'image.
@@ -14,15 +15,15 @@ Recadrage de l'image.
 public override void Crop(Rectangle rectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

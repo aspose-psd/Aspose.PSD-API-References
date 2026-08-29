@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.PerspectiveOther
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit lautre valeur de perspective du calque placé dans le fichier PSD.
+title: "PlacedResource.PerspectiveOther"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit la valeur perspective autre du calque placé dans le fichier PSD"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PerspectiveOther property
 
 Obtient ou définit l'autre valeur de perspective du calque placé dans le fichier PSD.
@@ -14,14 +15,14 @@ Obtient ou définit l'autre valeur de perspective du calque placé dans le fichi
 public double PerspectiveOther { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La perspective autre valeur du calque placé.
+La valeur perspective autre de la couche placée.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

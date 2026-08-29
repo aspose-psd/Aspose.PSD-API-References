@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OSTypeStructuresRegistry méthode. Obtient le premier descripteur pris en charge par son nom de type.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode OSTypeStructuresRegistry. Obtient le premier descripteur pris en charge par son nom de type"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
 Obtient le premier descripteur pris en charge par son nom de type.
@@ -15,23 +16,23 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
     string descriptorTypeName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| descriptorTypeName | String | Nom du type de descripteur. |
+| descriptorTypeName | String | Le nom du type de descripteur. |
 
-### Return_Value
+### Valeur de retour
 
-Le premier descripteur d'ouverture trouvé ou nul si ce descripteur n'est pas trouvé.
+Le premier descripteur d'ouverture trouvé ou null si aucun tel descripteur n'est trouvé.
 
-### Remarques
+## Remarques
 
-Le premier descripteur d'ouvreur sera en fait le dernier enregistré.
+Le premier descripteur d'ouverture sera en fait le dernier enregistré.
 
-### Voir également
+### Voir aussi
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

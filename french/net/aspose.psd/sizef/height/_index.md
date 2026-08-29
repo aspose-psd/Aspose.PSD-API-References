@@ -1,27 +1,28 @@
 ---
-title: SizeF.Height
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF propriété. Obtient ou définit la composante verticale de cetteSizeF .
+title: "SizeF.Height"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SizeF. Obtient ou définit le composant vertical de ce SizeF"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/sizef/height/
 ---
+{{< psd/tize >}}
 ## SizeF.Height property
 
-Obtient ou définit la composante verticale de cette[`SizeF`](../) .
+Obtient ou définit le composant vertical de ce [`SizeF`](../).
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-La composante verticale de ce[`SizeF`](../), généralement mesuré en pixels.
+Le composant vertical de ce [`SizeF`](../), généralement mesuré en pixels.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

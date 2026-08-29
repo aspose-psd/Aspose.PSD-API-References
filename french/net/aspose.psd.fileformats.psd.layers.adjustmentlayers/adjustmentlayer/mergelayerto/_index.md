@@ -1,11 +1,12 @@
 ---
-title: AdjustmentLayer.MergeLayerTo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AdjustmentLayer méthode. Fusionne le calque avec le calque spécifié
+title: "AdjustmentLayer.MergeLayerTo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode AdjustmentLayer. Fusionne le calque avec le calque spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayer.MergeLayerTo method
 
 Fusionne le calque avec le calque spécifié
@@ -14,15 +15,15 @@ Fusionne le calque avec le calque spécifié
 public override void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layerToMergeInto | Layer | Le calque dans lequel fusionner. |
+| layerToMergeInto | Calque | La couche dans laquelle fusionner. |
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [AdjustmentLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../adjustmentlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

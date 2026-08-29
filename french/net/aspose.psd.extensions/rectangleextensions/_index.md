@@ -1,14 +1,15 @@
 ---
-title: Class RectangleExtensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Extensions.RectangleExtensions classe. Contient des méthodes dextension pourRectangle .
+title: "Classe RectangleExtensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Extensions.RectangleExtensions. Contient les méthodes d'extension pour Rectangle"
 type: docs
-weight: 1160
+weight: 1170
 url: /fr/net/aspose.psd.extensions/rectangleextensions/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions class
 
-Contient des méthodes d'extension pour[`Rectangle`](../../aspose.psd/rectangle/) .
+Contient des méthodes d'extension pour [`Rectangle`](../../aspose.psd/rectangle/).
 
 ```csharp
 public static class RectangleExtensions
@@ -16,15 +17,15 @@ public static class RectangleExtensions
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | Convertit le[`Rectangle`](../../aspose.psd/rectangle/) auRectangle . |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | Convertit le[`RectangleF`](../../aspose.psd/rectanglef/) auRectangle . |
-| static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | Unions deux rectangle. |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | Convertit le [`Rectangle`](../../aspose.psd/rectangle/) en Rectangle. |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | Convertit le [`RectangleF`](../../aspose.psd/rectanglef/) en Rectangle. |
+| static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | Fusionne deux rectangles. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

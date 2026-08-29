@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Software
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit le logiciel.
+title: "JpegExifData.Software"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "JpegExifData propriété. Obtient ou définit le logiciel"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd.exif/jpegexifdata/software/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Software property
 
 Obtient ou définit le logiciel.
@@ -14,14 +15,14 @@ Obtient ou définit le logiciel.
 public string Software { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le logiciel.
 
-### Voir également
+### Voir aussi
 
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

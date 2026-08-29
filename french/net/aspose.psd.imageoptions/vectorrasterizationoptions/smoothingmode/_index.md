@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorRasterizationOptions propriété. Obtient ou définit le mode de lissage.
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorRasterizationOptions. Obtient ou définit le mode de lissage"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
-Obtient ou définit le mode de lissage.
+Obtient ou définit le mode d'anticrénelage.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le mode de lissage.
 
-### Voir également
+### Voir aussi
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

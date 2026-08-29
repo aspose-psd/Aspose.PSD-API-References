@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Height
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Thumbnail propriété. Obtient ou définit la hauteur.
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Thumbnail. Obtient ou définit la hauteur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
 Obtient ou définit la hauteur.
@@ -14,7 +15,7 @@ Obtient ou définit la hauteur.
 public int Height { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La hauteur.
 
@@ -22,12 +23,12 @@ La hauteur.
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | valeur ; la hauteur ne peut pas être inférieure à zéro |
+| ArgumentOutOfRangeException | valeur;Height ne peut pas être inférieur à zéro |
 
-### Voir également
+### Voir aussi
 
 * class [Thumbnail](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

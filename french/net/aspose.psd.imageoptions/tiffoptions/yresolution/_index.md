@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la résolution y.
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la résolution y"
 type: docs
-weight: 690
+weight: 700
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
 Obtient ou définit la résolution y.
@@ -14,15 +15,15 @@ Obtient ou définit la résolution y.
 public TiffRational Yresolution { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La résolution y.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

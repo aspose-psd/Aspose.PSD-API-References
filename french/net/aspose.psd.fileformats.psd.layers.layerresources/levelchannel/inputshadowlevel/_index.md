@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.InputShadowLevel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LevelChannel propriété. Obtient ou définit le niveau dombre dentrée.
+title: "LevelChannel.InputShadowLevel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LevelChannel. Obtient ou définit le niveau d'ombre d'entrée"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputShadowLevel property
 
 Obtient ou définit le niveau d'ombre d'entrée.
@@ -14,7 +15,7 @@ Obtient ou définit le niveau d'ombre d'entrée.
 public short InputShadowLevel { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le niveau d'ombre d'entrée.
 
@@ -24,10 +25,10 @@ Le niveau d'ombre d'entrée.
 | --- | --- |
 | ArgumentOutOfRangeException | Le niveau d'ombre d'entrée ne peut être défini que dans la plage de 0 à " + (this.InputHighlightLevel - 2) |
 
-### Voir également
+### Voir aussi
 
 * class [LevelChannel](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

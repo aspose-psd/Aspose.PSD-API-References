@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Sample32Float
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AudioSampleType propriété. Représente léchantillon audio 32Float.
+title: "AudioSampleType.Sample32Float"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AudioSampleType propriété. Représente l'échantillon audio 32Float"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample32Float property
 
-Représente l'échantillon audio 32Float.
+Représente un échantillon audio 32Float.
 
 ```csharp
 public static AudioSampleType Sample32Float { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AudioSampleType](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClipboardRecord constructeur. Initialise une nouvelle instance duClipboardRecord classe.
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ClipboardRecord. Initialise une nouvelle instance de la classe ClipboardRecord"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-Initialise une nouvelle instance du[`ClipboardRecord`](../) classe.
+Initialise une nouvelle instance de la classe [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClipboardRecord](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`ClipboardRecord`](../) classe.
+Initialise une nouvelle instance de la classe [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données d'enregistrement. |
+| données | Byte[] | Les données de l'enregistrement. |
 
-### Voir également
+### Voir aussi
 
 * class [ClipboardRecord](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

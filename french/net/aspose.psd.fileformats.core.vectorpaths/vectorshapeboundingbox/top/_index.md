@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Top
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeBoundingBox propriété. Obtient ou définit le top.
+title: "VectorShapeBoundingBox.Top"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeBoundingBox. Obtient ou définit le haut"
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Top property
 
-Obtient ou définit le top.
+Obtient ou définit le haut.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le haut.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeBoundingBox](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

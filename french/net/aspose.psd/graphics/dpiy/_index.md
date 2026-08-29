@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiY
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient la résolution verticale de ce Aspose.PSD.Graphics.
+title: "Graphics.DpiY"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient la résolution verticale de cet Aspose.PSD.Graphics"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/graphics/dpiy/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiY property
 
-Obtient la résolution verticale de ce Aspose.PSD.Graphics.
+Obtient la résolution verticale de cet Aspose.PSD.Graphics.
 
 ```csharp
 public float DpiY { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur, en points par pouce, pour la résolution verticale prise en charge par cet Aspose.PSD.Graphics.
+La valeur, en points par pouce, de la résolution verticale prise en charge par cet Aspose.PSD.Graphics.
 
-### Voir également
+### Voir aussi
 
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

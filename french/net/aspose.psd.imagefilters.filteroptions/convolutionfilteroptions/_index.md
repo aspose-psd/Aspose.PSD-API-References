@@ -1,11 +1,12 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions classe. Le filtre de convolution.
+title: "Classe ConvolutionFilterOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions. Le filtre de convolution"
 type: docs
-weight: 4670
+weight: 5140
 url: /fr/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
 Le filtre de convolution.
@@ -16,21 +17,21 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Initialise une nouvelle instance du`ConvolutionFilterOptions` classe. |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Initialise une nouvelle instance de la classe `ConvolutionFilterOptions`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Obtient ou définit le biais. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Obtient ou définit le facteur. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Obtient ou définit le bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Obtient ou définit le factor. |
 
-### Voir également
+### Voir aussi
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

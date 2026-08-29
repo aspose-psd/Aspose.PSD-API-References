@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeQuadrantRotation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix champ. Ce bit dindicateur indique que la transformation définie par cet objet effectue une rotation de quadrant dun certain multiple de 90 degrés en en plus des conversions indiquées par dautres bits dindicateur. Une rotation modifie les angles des vecteurs de la même quantité quelle que soit la direction dorigine du vecteur et sans modifier la longueur du vecteur. Ce bit dindicateur est mutuellement exclusif avec lindicateur TypeGeneralRotation.
+title: "Matrix.TypeQuadrantRotation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Matrix. Ce bit de drapeau indique que la transformation définie par cet objet effectue une rotation de quadrant par un multiple de 90 degrés, en plus des conversions indiquées par les autres bits de drapeau. Une rotation modifie les angles des vecteurs du même montant, quel que soit le sens d'origine du vecteur, sans changer la longueur du vecteur. Ce bit de drapeau est mutuellement exclusif avec le drapeau TypeGeneralRotation."
 type: docs
 weight: 270
 url: /fr/net/aspose.psd/matrix/typequadrantrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeQuadrantRotation field
 
-Ce bit d'indicateur indique que la transformation définie par cet objet effectue une rotation de quadrant d'un certain multiple de 90 degrés en en plus des conversions indiquées par d'autres bits d'indicateur. Une rotation modifie les angles des vecteurs de la même quantité quelle que soit la direction d'origine du vecteur et sans modifier la longueur du vecteur. Ce bit d'indicateur est mutuellement exclusif avec l'indicateur TypeGeneralRotation.
+Ce bit de drapeau indique que la transformation définie par cet objet effectue une rotation quadrante d'un multiple de 90 degrés en plus des conversions indiquées par les autres bits de drapeau. Une rotation change les angles des vecteurs de la même quantité, quel que soit le sens initial du vecteur, et sans modifier la longueur du vecteur. Ce bit de drapeau est mutuellement exclusif avec le drapeau TypeGeneralRotation.
 
 ```csharp
 public const int TypeQuadrantRotation;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

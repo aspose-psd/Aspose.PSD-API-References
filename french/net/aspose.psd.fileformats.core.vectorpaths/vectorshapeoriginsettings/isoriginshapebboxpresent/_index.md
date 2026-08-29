@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginShapeBBoxPresent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeOriginSettings propriété. Obtient une valeur indiquant si cette instance possède la propriété rectangle.
+title: "VectorShapeOriginSettings.IsOriginShapeBBoxPresent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeOriginSettings. Obtient une valeur indiquant si cette instance possède la propriété du rectangle"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginShapeBBoxPresent property
 
-Obtient une valeur indiquant si cette instance possède la propriété rectangle.
+Obtient une valeur indiquant si cette instance possède la propriété du rectangle.
 
 ```csharp
 public bool IsOriginShapeBBoxPresent { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance a la propriété origin shape rectangle ; sinon,`FAUX` .
+`true` si cette instance possède la propriété du rectangle de forme d'origine ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeOriginSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

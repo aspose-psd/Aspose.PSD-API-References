@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ToString
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat méthode. Renvoie unString qui représente cette instance.
+title: "PixelDataFormat.ToString"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PixelDataFormat. Retourne une chaîne qui représente cette instance"
 type: docs
 weight: 370
 url: /fr/net/aspose.psd/pixeldataformat/tostring/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ToString method
 
-Renvoie unString qui représente cette instance.
+Renvoie une chaîne qui représente cette instance.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return_Value
+### Valeur de retour
 
-AString qui représente cette instance.
+Une String qui représente cette instance.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskScale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix champ. Cette constante est un masque de bits pour lun des bits dindicateur déchelle.
+title: "Matrix.TypeMaskScale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Matrix. Cette constante est un masque de bits pour n'importe quel bit de drapeau d'échelle."
 type: docs
 weight: 260
 url: /fr/net/aspose.psd/matrix/typemaskscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskScale field
 
-Cette constante est un masque de bits pour l'un des bits d'indicateur d'échelle.
+Cette constante est un masque de bits pour n'importe lequel des bits de drapeau d'échelle.
 
 ```csharp
 public const int TypeMaskScale;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

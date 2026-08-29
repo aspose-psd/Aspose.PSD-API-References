@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clip
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient ou définit la région du clip.
+title: "Graphics.Clip"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient ou définit la région de découpage"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
-Obtient ou définit la région du clip.
+Obtient ou définit la région de découpage.
 
 ```csharp
 public Region Clip { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La zone de découpage.
+La région de découpage.
 
-### Voir également
+### Voir aussi
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

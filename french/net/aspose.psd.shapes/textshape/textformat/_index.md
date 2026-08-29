@@ -1,11 +1,12 @@
 ---
-title: TextShape.TextFormat
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextShape propriété. Obtient ou définit le format du texte.
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextShape. Obtient ou définit le format du texte"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
 Obtient ou définit le format du texte.
@@ -14,15 +15,15 @@ Obtient ou définit le format du texte.
 public StringFormat TextFormat { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le format texte.
+Le format du texte.
 
-### Voir également
+### Voir aussi
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../textshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LuniResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LuniResource classe. Nom de la couche ressource
+title: "Classe LuniResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LuniResource. Ressource de nom de calque"
 type: docs
-weight: 2800
+weight: 3130
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource class
 
-Nom de la couche ressource
+Ressource du nom du calque
 
 ```csharp
 public class LuniResource : LayerResource
@@ -16,37 +17,37 @@ public class LuniResource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LuniResource](luniresource/)() | Initialise une nouvelle instance du`LuniResource` classe. |
+| [LuniResource](luniresource/)() | Initialise une nouvelle instance de la classe `LuniResource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
 | [Name](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/) { get; set; } | Obtient ou définit le nom. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/psdversion/) { get; } | Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/signature/) { get; } | Obtient la signature de ressource de couche. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/save/)(StreamContainer, int) | Enregistre le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

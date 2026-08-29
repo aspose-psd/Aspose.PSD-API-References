@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorGreen
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlackWhiteAdjustmentLayer propriété. Obtient ou définit la double valeur de la couleur de la teinte verte.
+title: "BlackWhiteAdjustmentLayer.TintColorGreen"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BlackWhiteAdjustmentLayer property. Obtient ou définit la valeur double de Green Tint Color"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorgreen/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorGreen property
 
-Obtient ou définit la double valeur de la couleur de la teinte verte.
+Obtient ou définit la valeur double de la couleur de teinte verte.
 
 ```csharp
 public double TintColorGreen { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La double valeur de la teinte verte.
+La valeur double de Green Tint Color.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment modifier un BlwhResource.
+L'exemple suivant montre comment vous modifiez un BlwhResource.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Tester l'édition et l'enregistrement
+                // Test de modification et d'enregistrement
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BlackWhiteAdjustmentLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

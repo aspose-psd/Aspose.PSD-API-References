@@ -1,23 +1,24 @@
 ---
-title: Region.MakeInfinite
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Region méthode. Initialise ceciRegion objet à un intérieur infini.
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Region. Initialise cet objet Region avec un intérieur infini"
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-Initialise ceci[`Region`](../) objet à un intérieur infini.
+Initialise cet objet [`Region`](../) avec un intérieur infini.
 
 ```csharp
 public void MakeInfinite()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

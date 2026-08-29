@@ -1,11 +1,12 @@
 ---
-title: LayerState.VerticalFXRf
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerState propriété. Obtient ou définit la valeur VerticalFXRf.
+title: "LayerState.VerticalFXRf"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerState. Obtient ou définit la valeur VerticalFXRf"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/layerstate/verticalfxrf/
 ---
+{{< psd/tize >}}
 ## LayerState.VerticalFXRf property
 
 Obtient ou définit la valeur VerticalFXRf.
@@ -14,10 +15,10 @@ Obtient ou définit la valeur VerticalFXRf.
 public double VerticalFXRf { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerState](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

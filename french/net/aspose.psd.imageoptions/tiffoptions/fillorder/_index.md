@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FillOrder
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit lordre de remplissage des bits doctet.
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit l'ordre de remplissage des bits d'octet"
 type: docs
-weight: 160
+weight: 170
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
 Obtient ou définit l'ordre de remplissage des bits d'octet.
@@ -14,15 +15,15 @@ Obtient ou définit l'ordre de remplissage des bits d'octet.
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les bits d'octet remplissent l'ordre.
+L'ordre de remplissage des bits d'octet.
 
-### Voir également
+### Voir aussi
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

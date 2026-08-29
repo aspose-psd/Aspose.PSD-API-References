@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.InstanceId
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceRef propriété. Obtient ou définit lidentifiant de linstance.
+title: "ResourceRef.InstanceId"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceRef. Obtient ou définit l'identifiant d'instance"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceRef.InstanceId property
 
 Obtient ou définit l'identifiant de l'instance.
@@ -14,14 +15,14 @@ Obtient ou définit l'identifiant de l'instance.
 public string InstanceId { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'identifiant de l'instance.
+L'identifiant d'instance.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceRef](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

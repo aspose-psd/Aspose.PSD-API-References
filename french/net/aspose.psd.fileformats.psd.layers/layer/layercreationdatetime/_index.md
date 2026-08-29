@@ -1,27 +1,28 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit la date et lheure de création de la couche.
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit la date et l'heure de création du calque"
 type: docs
-weight: 200
+weight: 210
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
-Obtient ou définit la date et l'heure de création de la couche.
+Obtient ou définit la date et l'heure de création du calque.
 
 ```csharp
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La date et l'heure de création de la couche. S'il n'y a pas de données sur la création, DateTime renvoie alors l'heure Unix en premier epoch
+La date et l'heure de création du calque. S'il n'y a aucune donnée sur la DateTime de création, alors retourne le premier epoch du temps Unix
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

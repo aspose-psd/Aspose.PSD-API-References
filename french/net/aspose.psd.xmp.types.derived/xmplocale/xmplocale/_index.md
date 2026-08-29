@@ -1,27 +1,28 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpLocale constructeur. Initialise une nouvelle instance duXmpLocale classe.
+title: "XmpLocale.XmpLocale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpLocale. Initialise une nouvelle instance de la classe XmpLocale"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-Initialise une nouvelle instance du[`XmpLocale`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpLocale`](../).
 
 ```csharp
 public XmpLocale(string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | La valeur. |
+| valeur | String | La valeur. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpLocale](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

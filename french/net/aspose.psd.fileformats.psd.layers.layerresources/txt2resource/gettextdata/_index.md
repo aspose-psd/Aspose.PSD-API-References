@@ -1,27 +1,28 @@
 ---
-title: Txt2Resource.GetTextData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Txt2Resource méthode. Obtient lenregistrement de texte à partir des données de ressource.
+title: "Txt2Resource.GetTextData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Txt2Resource. Obtient l'enregistrement texte à partir des données de la ressource"
 type: docs
-weight: 80
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.GetTextData method
 
-Obtient l'enregistrement de texte à partir des données de ressource.
+Obtient l'enregistrement texte à partir des données de la ressource.
 
 ```csharp
 public string[] GetTextData()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Tableau d'enregistrement de texte
+Tableau d'enregistrements texte
 
-### Voir également
+### Voir aussi
 
 * class [Txt2Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

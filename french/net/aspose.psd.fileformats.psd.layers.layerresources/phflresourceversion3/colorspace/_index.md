@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorSpace
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhflResourceVersion3 propriété. Obtient lespace colorimétrique.
+title: "PhflResourceVersion3.ColorSpace"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PhflResourceVersion3. Obtient l'espace colorimétrique"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorSpace property
 
 Obtient l'espace colorimétrique.
@@ -14,14 +15,14 @@ Obtient l'espace colorimétrique.
 public short ColorSpace { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'espace colorimétrique.
+L'espace couleur.
 
-### Voir également
+### Voir aussi
 
 * class [PhflResourceVersion3](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

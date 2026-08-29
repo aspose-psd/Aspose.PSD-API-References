@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfo6Resource propriété. Obtient ou définit la version de warp.
+title: "TypeToolInfo6Resource.WarpVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolInfo6Resource. Obtient ou définit la version de déformation"
 type: docs
-weight: 210
+weight: 180
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpVersion property
 
-Obtient ou définit la version de warp.
+Obtient ou définit la version de la déformation.
 
 ```csharp
 public short WarpVersion { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La version déformée.
+La version de déformation.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfo6Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

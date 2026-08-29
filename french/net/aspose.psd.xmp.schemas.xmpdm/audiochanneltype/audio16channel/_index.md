@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Audio16Channel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AudioChannelType propriété. Obtient le canal audio 16.
+title: "AudioChannelType.Audio16Channel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AudioChannelType propriété. Obtient le canal audio 16"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio16Channel property
 
 Obtient le canal audio 16.
@@ -14,14 +15,14 @@ Obtient le canal audio 16.
 public static AudioChannelType Audio16Channel { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le canal audio 16.
 
-### Voir également
+### Voir aussi
 
 * class [AudioChannelType](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

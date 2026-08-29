@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetSupplementalCategories
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit des catégories supplémentaires.
+title: "PhotoshopPackage.SetSupplementalCategories"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Définit les catégories supplémentaires"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSupplementalCategories method
 
-Définit des catégories supplémentaires.
+Définit les catégories supplémentaires.
 
 ```csharp
 public void SetSupplementalCategories(string[] supplementalCategories)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | supplementalCategories | String[] | Les catégories supplémentaires. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

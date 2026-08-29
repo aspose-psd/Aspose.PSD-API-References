@@ -1,34 +1,35 @@
 ---
-title: Rational.Rational
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rational constructeur. Initialise une nouvelle instance duRational classe.
+title: "Rational.Rational"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Rational. Initialise une nouvelle instance de la classe Rational"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-Initialise une nouvelle instance du[`Rational`](../) classe.
+Initialise une nouvelle instance de la classe [`Rational`](../).
 
 ```csharp
 public Rational(int numerator, int denominator)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| numerator | Int32 | Le numérateur. |
-| denominator | Int32 | Le dénominateur. |
+| numérateur | Int32 | Le numérateur. |
+| dénominateur | Int32 | Le dénominateur. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | numérateur ; le numéro doit être supérieur à zéro. ou dénominateur ; le dénominateur doit être supérieur à zéro. |
+| ArgumentOutOfRangeException | numérateur;Le numérateur doit être supérieur à zéro. ou dénominateur;Le dénominateur doit être supérieur à zéro. |
 
-### Voir également
+### Voir aussi
 
 * class [Rational](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

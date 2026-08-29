@@ -1,23 +1,24 @@
 ---
-title: UnknownResource.Signature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnknownResource propriété. Obtient la signature de ressource de couche.
+title: "UnknownResource.Signature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UnknownResource. Obtient la signature de la ressource de calque"
 type: docs
-weight: 60
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Signature property
 
-Obtient la signature de ressource de couche.
+Obtient la signature de la ressource de calque.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [UnknownResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

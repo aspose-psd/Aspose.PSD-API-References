@@ -1,11 +1,12 @@
 ---
-title: Image.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image propriété. Obtient la largeur de limage.
+title: "Image.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Image. Obtient la largeur de l'image"
 type: docs
-weight: 150
+weight: 160
 url: /fr/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
 Obtient la largeur de l'image.
@@ -14,14 +15,14 @@ Obtient la largeur de l'image.
 public abstract int Width { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur de l'image.
 
-### Voir également
+### Voir aussi
 
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

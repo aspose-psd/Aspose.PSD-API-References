@@ -1,27 +1,28 @@
 ---
-title: FontSettings.SetFontsFolder
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Ceci est un raccourci versSetFontsFolders pour définir un seul répertoire de polices. Aucune vérification nest effectuée sur le dossier des polices.
+title: "FontSettings.SetFontsFolder"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "FontSettings method. Ceci est un raccourci vers SetFontsFolders pour définir un seul répertoire de polices. Aucun contrôle n'est effectué sur le répertoire des polices."
 type: docs
-weight: 120
+weight: 140
 url: /fr/net/aspose.psd/fontsettings/setfontsfolder/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolder method
 
-Ceci est un raccourci vers[`SetFontsFolders`](../setfontsfolders/) pour définir un seul répertoire de polices. Aucune vérification n'est effectuée sur le dossier des polices.
+Ceci est un raccourci vers [`SetFontsFolders`](../setfontsfolders/) pour définir un seul répertoire de polices. Aucun contrôle n'est effectué sur le répertoire des polices.
 
 ```csharp
 public static void SetFontsFolder(string fontFolder)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontFolder | String | Le dossier des polices. |
+| fontFolder | String | Le répertoire des polices. |
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

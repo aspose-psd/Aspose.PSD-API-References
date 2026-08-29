@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Signature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerResource propriété. Obtient la signature de ressource de couche.
+title: "LayerResource.Signature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerResource. Obtient la signature"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerResource.Signature property
 
-Obtient la signature de ressource de couche.
+Obtient la signature.
 
 ```csharp
-public abstract int Signature { get; }
+public virtual int Signature { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

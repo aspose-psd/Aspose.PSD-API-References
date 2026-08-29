@@ -1,11 +1,12 @@
 ---
-title: PsdImage.DefaultVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage champ. La version PSD par défaut.
+title: "PsdImage.DefaultVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PsdImage champ. La version PSD par défaut"
 type: docs
-weight: 620
+weight: 690
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
+{{< psd/tize >}}
 ## PsdImage.DefaultVersion field
 
 La version PSD par défaut.
@@ -14,10 +15,10 @@ La version PSD par défaut.
 public const int DefaultVersion;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

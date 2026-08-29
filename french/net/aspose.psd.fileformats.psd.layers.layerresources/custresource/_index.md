@@ -1,14 +1,15 @@
 ---
-title: Class CustResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource classe. Classe CustResource. Cette ressource contient des informations sur le mélange déléments tronqués.
+title: "Classe CustResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CustResource classe. Classe CustResource. Cette ressource contient des informations sur le mélange de l'élément découpé"
 type: docs
-weight: 2440
+weight: 2700
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource class
 
-Classe CustResource. Cette ressource contient des informations sur le mélange d'éléments tronqués.
+Classe CustResource. Cette ressource contient des informations sur le mélange de l'élément découpé.
 
 ```csharp
 public class CustResource : LayerResource
@@ -16,38 +17,38 @@ public class CustResource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [CustResource](custresource/#constructor)() | Initialise une nouvelle instance du`CustResource` classe. |
-| [CustResource](custresource/#constructor_1)(byte[]) | Initialise une nouvelle instance du`CustResource` classe. |
+| [CustResource](custresource/#constructor)() | Initialise une nouvelle instance de la classe `CustResource`. |
+| [CustResource](custresource/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `CustResource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Obtient ou définit la date de création de la couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/) { get; } | Obtient la signature. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/) { get; set; } | Obtient ou définit la date de création du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/save/)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

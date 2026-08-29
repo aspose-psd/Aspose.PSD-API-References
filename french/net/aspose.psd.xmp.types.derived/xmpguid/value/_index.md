@@ -1,11 +1,12 @@
 ---
-title: XmpGuid.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpGuid propriété. Obtient ou définit la valeur.
+title: "XmpGuid.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpGuid. Obtient ou définit la valeur"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.derived/xmpguid/value/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Value property
 
 Obtient ou définit la valeur.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur.
 public Guid Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur.
 
-### Voir également
+### Voir aussi
 
 * class [XmpGuid](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

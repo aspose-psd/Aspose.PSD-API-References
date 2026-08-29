@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ThumbnailResource propriété. Obtient la largeur de ligne en octets.
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ThumbnailResource. Obtient la largeur de ligne en octets"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
 Obtient la largeur de ligne en octets.
@@ -14,14 +15,14 @@ Obtient la largeur de ligne en octets.
 public int WidthBytes { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur de ligne en octets.
 
-### Voir également
+### Voir aussi
 
 * class [ThumbnailResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

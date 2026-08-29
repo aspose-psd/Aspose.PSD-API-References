@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.InputHighlightLevel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LevelChannel propriété. Obtient ou définit le niveau de surbrillance dentrée.
+title: "LevelChannel.InputHighlightLevel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LevelChannel. Obtient ou définit le niveau de mise en évidence d'entrée"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputHighlightLevel property
 
 Obtient ou définit le niveau de surbrillance d'entrée.
@@ -14,20 +15,20 @@ Obtient ou définit le niveau de surbrillance d'entrée.
 public short InputHighlightLevel { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le niveau de surbrillance d'entrée.
+Le niveau de mise en évidence d'entrée.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | Le niveau de surbrillance d'entrée ne peut être défini que dans la plage de " + (this.InputShadowLevel + 2) + " à 255 |
+| ArgumentOutOfRangeException | Le niveau de mise en évidence d'entrée ne peut être défini que dans la plage de " + (this.InputShadowLevel + 2) + " à 255 |
 
-### Voir également
+### Voir aussi
 
 * class [LevelChannel](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.MinimalVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: WorkingPathResource propriété. Obtient la version PSD minimale requise.
+title: "WorkingPathResource.MinimalVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété WorkingPathResource. Obtient la version minimale requise du PSD."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.MinimalVersion property
 
 Obtient la version PSD minimale requise.
@@ -14,14 +15,14 @@ Obtient la version PSD minimale requise.
 public override int MinimalVersion { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La version PSD minimale.
 
-### Voir également
+### Voir aussi
 
 * class [WorkingPathResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

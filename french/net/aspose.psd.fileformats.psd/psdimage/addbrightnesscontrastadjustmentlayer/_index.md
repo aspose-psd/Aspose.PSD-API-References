@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Ajoute le calque de réglage de la luminosité/contraste.
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Ajoute la couche d'ajustement de la luminosité/contraste"
 type: docs
-weight: 300
+weight: 310
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-Ajoute le calque de réglage de la luminosité/contraste.
+Ajoute le calque de réglage luminosité/contraste.
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brightness | Int32 | La luminosité. |
-| contrast | Int32 | Le contraste. |
+| luminosité | Int32 | La luminosité. |
+| contraste | Int32 | Le contraste. |
 
-### Return_Value
+### Valeur de retour
 
 Couche de luminosité/contraste créée
 
-### Voir également
+### Voir aussi
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

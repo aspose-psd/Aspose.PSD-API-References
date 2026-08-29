@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BuildVersionInfo champ. Le titre du produit.
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BuildVersionInfo field. Le titre du produit"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
 Le titre du produit.
@@ -14,10 +15,10 @@ Le titre du produit.
 public static readonly string Product;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BuildVersionInfo](../)
-* espace de noms [Aspose.PSD](../../buildversioninfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

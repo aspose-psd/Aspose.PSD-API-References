@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileByteCounts
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit le nombre doctets de mosaïque.
+title: "TiffOptions.TileByteCounts"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit le nombre d’octets des tuiles"
 type: docs
-weight: 520
+weight: 530
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/tilebytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileByteCounts property
 
-Obtient ou définit le nombre d'octets de mosaïque.
+Obtient ou définit le nombre d'octets par tuile.
 
 ```csharp
 public uint[] TileByteCounts { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

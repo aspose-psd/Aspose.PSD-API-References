@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions méthode. Supprime la balise.
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffOptions. Supprime le tag"
 type: docs
-weight: 740
+weight: 750
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
 Supprime la balise.
@@ -14,19 +15,19 @@ Supprime la balise.
 public bool RemoveTag(TiffTags tag)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| tag | TiffTags | La balise à supprimer. |
+| balise | TiffTags | La balise à supprimer. |
 
-### Return_Value
+### Valeur de retour
 
-vrai si supprimé avec succès
+true si supprimé avec succès
 
-### Voir également
+### Voir aussi
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

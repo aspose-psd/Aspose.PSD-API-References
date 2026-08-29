@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.PixelsDepth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FilterEffectMaskData propriété. Obtient la profondeur en pixels.
+title: "FilterEffectMaskData.PixelsDepth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "FilterEffectMaskData propriété. Obtient la profondeur des pixels"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.PixelsDepth property
 
-Obtient la profondeur en pixels.
+Obtient la profondeur des pixels.
 
 ```csharp
 public int PixelsDepth { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FilterEffectMaskData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

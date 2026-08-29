@@ -1,44 +1,45 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResolutionSetting constructeur. Initialise une nouvelle instance duResolutionSetting classe.
+title: "ResolutionSetting.ResolutionSetting"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ResolutionSetting constructor. Initialise une nouvelle instance de la classe ResolutionSetting"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/resolutionsetting/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting() {#constructor}
 
-Initialise une nouvelle instance du[`ResolutionSetting`](../) classe.
+Initialise une nouvelle instance de la classe [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ResolutionSetting](../)
-* espace de noms [Aspose.PSD](../../resolutionsetting/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResolutionSetting(double, double) {#constructor_1}
 
-Initialise une nouvelle instance du[`ResolutionSetting`](../) classe.
+Initialise une nouvelle instance de la classe [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | horizontalResolution | Double | La résolution horizontale. |
 | verticalResolution | Double | La résolution verticale. |
 
-### Voir également
+### Voir aussi
 
 * class [ResolutionSetting](../)
-* espace de noms [Aspose.PSD](../../resolutionsetting/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

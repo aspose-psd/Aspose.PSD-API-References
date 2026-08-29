@@ -1,11 +1,12 @@
 ---
-title: Namespaces.Rdf
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Espace de noms du cadre de définition des ressources.
+title: "Namespaces.Rdf"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. Espace de noms du cadre de définition des ressources"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp/namespaces/rdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Rdf field
 
 Espace de noms du cadre de définition des ressources.
@@ -14,10 +15,10 @@ Espace de noms du cadre de définition des ressources.
 public const string Rdf;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

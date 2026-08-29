@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contientLfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/ classes liées
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les classes liées Lfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/"
 type: docs
-weight: 280
+weight: 310
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/
 ---
-L'espace de noms contient[`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/) classes liées
+{{< psd/tize >}}
+L'espace de noms contient les classes liées [`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/)
 
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
 | [LayerEffectsTypes](./layereffectstypes/) | Effets de fusion des calques. |
 

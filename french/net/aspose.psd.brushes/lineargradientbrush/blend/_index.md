@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.Blend
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinearGradientBrush propriété. Obtient ou définit unBlend qui spécifie les positions et les facteurs qui définissent une atténuation personnalisée pour le gradient.
+title: "LinearGradientBrush.Blend"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinearGradientBrush. Obtient ou définit un Blend qui spécifie les positions et les facteurs qui définissent une atténuation personnalisée pour le dégradé."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.brushes/lineargradientbrush/blend/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.Blend property
 
-Obtient ou définit un[`Blend`](../../../aspose.psd/blend/) qui spécifie les positions et les facteurs qui définissent une atténuation personnalisée pour le gradient.
+Obtient ou définit un [`Blend`](../../../aspose.psd/blend/) qui spécifie les positions et les facteurs qui définissent une atténuation personnalisée pour le dégradé.
 
 ```csharp
 public Blend Blend { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`Blend`](../../../aspose.psd/blend/) qui représente une atténuation personnalisée pour le dégradé.
+Un [`Blend`](../../../aspose.psd/blend/) qui représente une atténuation personnalisée pour le dégradé.
 
-### Voir également
+### Voir aussi
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [LinearGradientBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

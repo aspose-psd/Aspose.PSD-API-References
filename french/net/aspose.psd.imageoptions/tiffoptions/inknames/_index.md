@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.InkNames
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit les noms dencre.
+title: "TiffOptions.InkNames"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit les noms d’encre"
 type: docs
-weight: 220
+weight: 230
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/inknames/
 ---
+{{< psd/tize >}}
 ## TiffOptions.InkNames property
 
 Obtient ou définit les noms d'encre.
@@ -14,14 +15,14 @@ Obtient ou définit les noms d'encre.
 public string InkNames { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les noms d'encre.
+Les noms d’encre.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

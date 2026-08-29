@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiRasterImageSection propriété. Obtient le décalage inférieur gauche.
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiRasterImageSection. Obtient le décalage en bas à gauche"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
-Obtient le décalage inférieur gauche.
+Obtient le décalage en bas à gauche.
 
 ```csharp
 public double LeftBottomShift { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le décalage en bas à gauche.
 
-### Voir également
+### Voir aussi
 
 * class [AiRasterImageSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

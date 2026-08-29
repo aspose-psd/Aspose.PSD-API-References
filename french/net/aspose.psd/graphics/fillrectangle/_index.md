@@ -1,23 +1,24 @@
 ---
-title: Graphics.FillRectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Remplit lintérieur dun rectangle spécifié par unRectanglestructure.
+title: "Graphics.FillRectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Remplit l'intérieur d'un rectangle spécifié par une structure Rectangle."
 type: docs
-weight: 390
+weight: 400
 url: /fr/net/aspose.psd/graphics/fillrectangle/
 ---
+{{< psd/tize >}}
 ## FillRectangle(Brush, Rectangle) {#fillrectangle}
 
-Remplit l'intérieur d'un rectangle spécifié par un[`Rectangle`](../../rectangle/)structure.
+Remplit l'intérieur d'un rectangle spécifié par une structure [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void FillRectangle(Brush brush, Rectangle rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) structure qui représente le rectangle à remplir. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| rect | Rectangle | Structure [`Rectangle`](../../rectangle/) qui représente le rectangle à remplir. |
 
 ### Exceptions
 
@@ -25,28 +26,28 @@ public void FillRectangle(Brush brush, Rectangle rect)
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, RectangleF) {#fillrectangle_1}
 
-Remplit l'intérieur d'un rectangle spécifié par un[`RectangleF`](../../rectanglef/)structure.
+Remplit l'intérieur d'un rectangle spécifié par une structure [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void FillRectangle(Brush brush, RectangleF rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) structure qui représente le rectangle à remplir. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| rect | RectangleF | Structure [`RectangleF`](../../rectanglef/) qui représente le rectangle à remplir. |
 
 ### Exceptions
 
@@ -54,13 +55,13 @@ public void FillRectangle(Brush brush, RectangleF rect)
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -72,13 +73,13 @@ Remplit l'intérieur d'un rectangle spécifié par une paire de coordonnées, un
 public void FillRectangle(Brush brush, float x, float y, float width, float height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| x | Single | Coordonnée x du coin supérieur gauche du rectangle à remplir. |
-| y | Single | Coordonnée y du coin supérieur gauche du rectangle à remplir. |
-| width | Single | Largeur du rectangle à remplir. |
-| height | Single | Hauteur du rectangle à remplir. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| x | Single | La coordonnée x du coin supérieur gauche du rectangle à remplir. |
+| y | Single | La coordonnée y du coin supérieur gauche du rectangle à remplir. |
+| largeur | Single | Largeur du rectangle à remplir. |
+| hauteur | Single | Hauteur du rectangle à remplir. |
 
 ### Exceptions
 
@@ -86,12 +87,12 @@ public void FillRectangle(Brush brush, float x, float y, float width, float heig
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,13 +104,13 @@ Remplit l'intérieur d'un rectangle spécifié par une paire de coordonnées, un
 public void FillRectangle(Brush brush, int x, int y, int width, int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| x | Int32 | Coordonnée x du coin supérieur gauche du rectangle à remplir. |
-| y | Int32 | Coordonnée y du coin supérieur gauche du rectangle à remplir. |
-| width | Int32 | Largeur du rectangle à remplir. |
-| height | Int32 | Hauteur du rectangle à remplir. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| x | Int32 | La coordonnée x du coin supérieur gauche du rectangle à remplir. |
+| y | Int32 | La coordonnée y du coin supérieur gauche du rectangle à remplir. |
+| largeur | Int32 | Largeur du rectangle à remplir. |
+| hauteur | Int32 | Hauteur du rectangle à remplir. |
 
 ### Exceptions
 
@@ -117,11 +118,11 @@ public void FillRectangle(Brush brush, int x, int y, int width, int height)
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

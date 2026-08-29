@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Blues
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlackWhiteAdjustmentLayer propriété. Obtient ou définit la valeur de blues.
+title: "BlackWhiteAdjustmentLayer.Blues"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BlackWhiteAdjustmentLayer property. Obtient ou définit la valeur des bleus"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blues/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Blues property
 
-Obtient ou définit la valeur de blues.
+Obtient ou définit la valeur des bleus.
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur du blues.
+La valeur des bleus.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez ajouter le calque de réglage noir blanc lors de l'exécution dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez ajouter le calque d'ajustement noir et blanc à l'exécution dans Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-L'exemple suivant montre comment vous pouvez manipuler les propriétés du calque de réglage noir blanc dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez manipuler les propriétés du calque d'ajustement noir et blanc dans Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BlackWhiteAdjustmentLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

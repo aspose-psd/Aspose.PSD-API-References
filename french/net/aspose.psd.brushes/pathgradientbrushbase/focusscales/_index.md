@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.FocusScales
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PathGradientBrushBase propriété. Obtient ou définit le point focal pour latténuation du dégradé.
+title: "PathGradientBrushBase.FocusScales"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PathGradientBrushBase. Obtient ou définit le point focal pour la chute du dégradé."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.brushes/pathgradientbrushbase/focusscales/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.FocusScales property
 
-Obtient ou définit le point focal pour l'atténuation du dégradé.
+Obtient ou définit le point de focalisation pour la chute du dégradé.
 
 ```csharp
 public PointF FocusScales { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`PointF`](../../../aspose.psd/pointf/) qui représente le point focal pour l'atténuation du gradient.
+Un [`PointF`](../../../aspose.psd/pointf/) qui représente le point de focalisation de la décroissance du dégradé.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* espace de noms [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

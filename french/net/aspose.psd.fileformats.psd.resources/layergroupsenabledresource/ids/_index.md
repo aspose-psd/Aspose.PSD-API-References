@@ -1,27 +1,28 @@
 ---
-title: LayerGroupsEnabledResource.IDs
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerGroupsEnabledResource propriété. Obtient ou définit les i ds.
+title: "LayerGroupsEnabledResource.IDs"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerGroupsEnabledResource. Obtient ou définit les i ds"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/ids/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource.IDs property
 
-Obtient ou définit les i ds.
+Obtient ou définit les ids.
 
 ```csharp
 public byte[] IDs { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les i ds.
 
-### Voir également
+### Voir aussi
 
 * class [LayerGroupsEnabledResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

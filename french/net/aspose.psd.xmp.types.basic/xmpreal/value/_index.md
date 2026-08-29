@@ -1,11 +1,12 @@
 ---
-title: XmpReal.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpReal propriété. Obtient ou définit la valeur flottante.
+title: "XmpReal.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpReal. Obtient ou définit la valeur flottante"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
 Obtient ou définit la valeur flottante.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur flottante.
 public float Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur flottante.
 
-### Voir également
+### Voir aussi
 
 * class [XmpReal](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

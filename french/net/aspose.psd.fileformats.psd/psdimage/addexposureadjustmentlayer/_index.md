@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Ajoute le calque de réglage de lexposition.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Ajoute le calque d'ajustement d'exposition"
 type: docs
-weight: 340
+weight: 350
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
 Ajoute le calque de réglage de l'exposition.
@@ -15,21 +16,21 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
     float gammaCorrection = 1)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| exposure | Single | L'exposition. |
+| exposition | Single | L'exposition. |
 | offset | Single | Le décalage. |
 | gammaCorrection | Single | La correction gamma. |
 
-### Return_Value
+### Valeur de retour
 
-Couche de réglage de l'exposition créée
+Calque d'ajustement d'exposition créé
 
-### Voir également
+### Voir aussi
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

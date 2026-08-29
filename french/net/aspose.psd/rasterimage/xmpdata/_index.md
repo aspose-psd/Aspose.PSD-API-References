@@ -1,11 +1,12 @@
 ---
-title: RasterImage.XmpData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage propriété. Obtient ou définit les métadonnées XMP.
+title: "RasterImage.XmpData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RasterImage. Obtient ou définit les métadonnées XMP"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd/rasterimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.XmpData property
 
 Obtient ou définit les métadonnées XMP.
@@ -14,15 +15,15 @@ Obtient ou définit les métadonnées XMP.
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les métadonnées XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

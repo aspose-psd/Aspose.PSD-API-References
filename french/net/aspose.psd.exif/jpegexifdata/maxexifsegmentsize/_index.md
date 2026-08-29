@@ -1,23 +1,24 @@
 ---
-title: JpegExifData.MaxExifSegmentSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData champ. La taille de segment EXIF maximale en octets autorisée.
+title: "JpegExifData.MaxExifSegmentSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "JpegExifData champ. La taille maximale du segment EXIF en octets autorisée"
 type: docs
 weight: 280
 url: /fr/net/aspose.psd.exif/jpegexifdata/maxexifsegmentsize/
 ---
+{{< psd/tize >}}
 ## JpegExifData.MaxExifSegmentSize field
 
-La taille de segment EXIF maximale en octets autorisée.
+La taille maximale autorisée du segment EXIF en octets.
 
 ```csharp
 public const int MaxExifSegmentSize;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

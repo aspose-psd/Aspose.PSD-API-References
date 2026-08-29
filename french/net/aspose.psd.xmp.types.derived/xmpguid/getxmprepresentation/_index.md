@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpGuid méthode. Obtient la valeur contenue dans la chaîne au format XMP.
+title: "XmpGuid.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpGuid. Obtient la valeur contenue sous forme de chaîne au format XMP"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpGuid.GetXmpRepresentation method
 
-Obtient la valeur contenue dans la chaîne au format XMP.
+Obtient la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la chaîne contenue dans la valeur au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpGuid](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

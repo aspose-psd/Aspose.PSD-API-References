@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.GrayscaleAlpha
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat propriété. Obtient lePixelDataFormat défini pour 16 bits par pixel avec 8 bits représentant lintensité des niveaux de gris dans lintervalle 0255 et une composante alpha supplémentaire de 8 bits.
+title: "PixelDataFormat.GrayscaleAlpha"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelDataFormat. Obtient le PixelDataFormat défini pour 16 bits par pixel avec 8 bits représentant l'intensité en niveaux de gris dans l'intervalle 0-255 et un composant alpha supplémentaire de 8 bits."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/pixeldataformat/grayscalealpha/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GrayscaleAlpha property
 
-Obtient le[`PixelDataFormat`](../) défini pour 16 bits par pixel avec 8 bits représentant l'intensité des niveaux de gris dans l'intervalle 0-255 et une composante alpha supplémentaire de 8 bits.
+Obtient le [`PixelDataFormat`](../) défini pour 16 bits par pixel avec 8 bits représentant l'intensité en niveaux de gris dans l'intervalle 0-255 et un composant alpha supplémentaire de 8 bits.
 
 ```csharp
 public static PixelDataFormat GrayscaleAlpha { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le[`PixelDataFormat`](../) défini pour 16 bits par pixel avec 8 bits représentant l'intensité des niveaux de gris dans l'intervalle 0-255 et une composante alpha supplémentaire de 8 bits.
+Le [`PixelDataFormat`](../) défini pour 16 bits par pixel avec 8 bits représentant l'intensité en niveaux de gris dans l'intervalle 0-255 et un composant alpha supplémentaire de 8 bits.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

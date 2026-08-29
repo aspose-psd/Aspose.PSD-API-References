@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.IsVisible
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: InnerShadowEffect propriété. Obtient ou définit une valeur indiquant si cette instance est visible.
+title: "InnerShadowEffect.IsVisible"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété InnerShadowEffect. Obtient ou définit une valeur indiquant si cette instance est visible"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.IsVisible property
 
 Obtient ou définit une valeur indiquant si cette instance est visible.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance est visible.
 public bool IsVisible { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est visible ; sinon,`FAUX` .
+`true` si cette instance est visible ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [InnerShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

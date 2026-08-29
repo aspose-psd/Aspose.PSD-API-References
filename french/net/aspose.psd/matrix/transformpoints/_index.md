@@ -1,28 +1,29 @@
 ---
-title: Matrix.TransformPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix méthode. Applique la transformation géométrique représentée par ceMatrix à un tableau de points spécifié.
+title: "Matrix.TransformPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Matrix. Applique la transformation géométrique représentée par cette Matrix à un tableau de points spécifié."
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-Applique la transformation géométrique représentée par ce[`Matrix`](../) à un tableau de points spécifié.
+Applique la transformation géométrique représentée par ce [`Matrix`](../) à un tableau de points spécifié.
 
 ```csharp
 public void TransformPoints(PointF[] points)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | points | PointF[] | Les points. |
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

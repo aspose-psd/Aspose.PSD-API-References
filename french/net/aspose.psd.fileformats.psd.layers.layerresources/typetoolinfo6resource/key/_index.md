@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfo6Resource propriété. Obtient la clé de ressource de couche.
+title: "TypeToolInfo6Resource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolInfo6Resource. Obtient la clé de la ressource de couche"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/key/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfo6Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegOptions constructeur. Initialise une nouvelle instance duJpegOptions classe.
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur JpegOptions. Initialise une nouvelle instance de la classe JpegOptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-Initialise une nouvelle instance du[`JpegOptions`](../) classe.
+Initialise une nouvelle instance de la classe [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [JpegOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-Initialise une nouvelle instance du[`JpegOptions`](../) classe.
+Initialise une nouvelle instance de la classe [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | jpegOptions | JpegOptions | Les options JPEG. |
 
-### Voir également
+### Voir aussi
 
 * class [JpegOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

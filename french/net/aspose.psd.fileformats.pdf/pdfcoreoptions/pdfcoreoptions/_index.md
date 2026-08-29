@@ -1,23 +1,24 @@
 ---
-title: PdfCoreOptions.PdfCoreOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfCoreOptions constructeur. Default_Constructor
+title: "PdfCoreOptions.PdfCoreOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur PdfCoreOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public PdfCoreOptions()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PdfCoreOptions](../)
-* espace de noms [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

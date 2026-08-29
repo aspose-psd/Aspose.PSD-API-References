@@ -1,14 +1,15 @@
 ---
-title: Class ResourceEvent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent classe. Contenant les dimensions dun objet dessiné.
+title: "Classe ResourceEvent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent. Contient les dimensions d'un objet dessiné."
 type: docs
-weight: 6080
+weight: 6580
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent class
 
-Contenant les dimensions d'un objet dessiné.
+Contient les dimensions d'un objet dessiné.
 
 ```csharp
 public sealed class ResourceEvent : ComplexTypeBase
@@ -16,17 +17,17 @@ public sealed class ResourceEvent : ComplexTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ResourceEvent](resourceevent/)() | Default_Constructor |
+| [ResourceEvent](resourceevent/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | Obtient ou définit l'action. |
 | [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | Obtient ou définit la date de l'action. |
-| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | Obtient ou définit la liste délimitée par des points-virgules des parties de la ressource qui ont été modifiées depuis l'historique des événements précédents. |
+| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | Obtient ou définit la liste délimitée par des points-virgules des parties de la ressource qui ont été modifiées depuis l'historique d'événements précédent. |
 | [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | Obtient ou définit la valeur de xmpMM:InstanceId. |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtient l'URI de l'espace de noms par défaut. |
 | [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | Obtient ou définit la description supplémentaire de l'action. |
@@ -35,14 +36,14 @@ public sealed class ResourceEvent : ComplexTypeBase
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../)
 
 

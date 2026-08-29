@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLatitudeRef
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la latitude GPS est la latitude nord ou sud.
+title: "ExifData.GPSLatitudeRef"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la latitude GPS (nord ou sud)"
 type: docs
 weight: 530
 url: /fr/net/aspose.psd.exif/exifdata/gpslatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitudeRef property
 
-Obtient ou définit la latitude GPS est la latitude nord ou sud.
+Obtient ou définit si la latitude GPS est une latitude nord ou sud.
 
 ```csharp
 public string GPSLatitudeRef { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La latitude GPS est la latitude nord ou sud.
+La latitude GPS est une latitude nord ou sud.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

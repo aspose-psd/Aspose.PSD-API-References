@@ -1,29 +1,30 @@
 ---
-title: RasterImage.WriteScanLine
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Écrit toute la ligne de balayage dans lindex de ligne de balayage spécifié.
+title: "RasterImage.WriteScanLine"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Écrit la ligne de balayage complète à l'index de ligne de balayage spécifié"
 type: docs
-weight: 600
+weight: 620
 url: /fr/net/aspose.psd/rasterimage/writescanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.WriteScanLine method
 
-Écrit toute la ligne de balayage dans l'index de ligne de balayage spécifié.
+Écrit la ligne de numérisation complète à l'index de ligne de numérisation spécifié.
 
 ```csharp
 public void WriteScanLine(int scanLineIndex, Color[] pixels)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Index de base zéro de la ligne de balayage. |
-| pixels | Color[] | Le tableau de couleurs de pixels à écrire. |
+| scanLineIndex | Int32 | Indice basé sur zéro de la ligne de numérisation. |
+| pixels | Color[] | Le tableau des couleurs des pixels à écrire. |
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

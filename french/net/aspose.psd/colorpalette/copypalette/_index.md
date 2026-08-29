@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.CopyPalette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorPalette méthode. Copie la palette.
+title: "ColorPalette.CopyPalette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ColorPalette. Copie la palette"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/colorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Copie la palette.
@@ -14,21 +15,21 @@ Copie la palette.
 public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | colorPalette | IColorPalette | La palette de couleurs. |
-| useCompactPalette | Boolean | Indique si palette compacte. |
+| useCompactPalette | Booléen | Indiquant si la palette compacte. |
 
-### Return_Value
+### Valeur de retour
 
-La palette nouvellement créée et copiée ou null si la palette null est passée.
+La palette nouvellement créée et copiée ou null si une palette null est passée.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* espace de noms [Aspose.PSD](../../colorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,19 +41,19 @@ Copie la palette.
 public static ColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | colorPalette | IColorPalette | La palette de couleurs. |
 
-### Return_Value
+### Valeur de retour
 
-La palette nouvellement créée et copiée ou null si la palette null est passée.
+La palette nouvellement créée et copiée ou null si une palette null est passée.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* espace de noms [Aspose.PSD](../../colorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

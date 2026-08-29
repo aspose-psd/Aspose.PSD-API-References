@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamReadException propriété. Obtient le nombre doctets lus attendus.
+title: "StreamReadException.ExpectedReadCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StreamReadException. Obtient le nombre d'octets lus attendu"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ExpectedReadCount property
 
-Obtient le nombre d'octets lus attendus.
+Obtient le nombre d'octets lus attendu.
 
 ```csharp
 public int ExpectedReadCount { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nombre d'octets lus attendus.
+Le nombre d'octets lus attendu.
 
-### Voir également
+### Voir aussi
 
 * class [StreamReadException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

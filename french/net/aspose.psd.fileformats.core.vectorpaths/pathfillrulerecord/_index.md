@@ -1,14 +1,15 @@
 ---
-title: Class PathFillRuleRecord
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord classe. Classe denregistrement de règle de remplissage de chemin
+title: "Classe PathFillRuleRecord"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord classe. Classe Path Fill Rule Record"
 type: docs
-weight: 1380
+weight: 1390
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
-Classe d'enregistrement de règle de remplissage de chemin
+Classe d'enregistrement de la règle de remplissage du chemin
 
 ```csharp
 public class PathFillRuleRecord : VectorPathRecord
@@ -16,21 +17,21 @@ public class PathFillRuleRecord : VectorPathRecord
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Initialise une nouvelle instance du`PathFillRuleRecord` classe. |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Initialise une nouvelle instance du`PathFillRuleRecord` classe. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Initialise une nouvelle instance de la classe `PathFillRuleRecord`. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `PathFillRuleRecord`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | Obtient le type. |
 
-### Voir également
+### Voir aussi
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

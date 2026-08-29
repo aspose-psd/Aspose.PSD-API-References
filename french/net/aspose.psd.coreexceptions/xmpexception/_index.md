@@ -1,14 +1,15 @@
 ---
-title: Class XmpException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.XmpException classe. Lexception levée lorsque XMP a une structure non valide.
+title: "Classe XmpException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.CoreExceptions.XmpException. L'exception qui est levée lorsque XMP a une structure invalide"
 type: docs
 weight: 690
 url: /fr/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-L'exception levée lorsque XMP a une structure non valide.
+L'exception qui est levée lorsque XMP a une structure invalide.
 
 ```csharp
 public class XmpException : FrameworkException
@@ -16,16 +17,16 @@ public class XmpException : FrameworkException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | Initialise une nouvelle instance du`XmpException` classe. |
-| [XmpException](xmpexception/#constructor_1)(string) | Initialise une nouvelle instance du`XmpException` classe. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | Initialise une nouvelle instance du`XmpException` classe. |
+| [XmpException](xmpexception/#constructor)() | Initialise une nouvelle instance de la classe `XmpException`. |
+| [XmpException](xmpexception/#constructor_1)(string) | Initialise une nouvelle instance de la classe `XmpException`. |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | Initialise une nouvelle instance de la classe `XmpException`. |
 
-### Voir également
+### Voir aussi
 
 * class [FrameworkException](../frameworkexception/)
-* espace de noms [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

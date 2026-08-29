@@ -1,33 +1,34 @@
 ---
-title: Rectangle.FromPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle méthode. Crée un nouveauRectangle à partir de deux points spécifiés. Deux verticales du crééRectangle sera égal au passépoint1 etpoint2 . Il sagirait généralement des sommets opposés.
+title: "Rectangle.FromPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Rectangle. Crée un nouveau Rectangle à partir de deux points spécifiés. Les deux verticales du Rectangle créé seront égales aux points point1 et point2 fournis. Il s'agit généralement des sommets opposés."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/rectangle/frompoints/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromPoints method
 
-Crée un nouveau[`Rectangle`](../) à partir de deux points spécifiés. Deux verticales du créé[`Rectangle`](../) sera égal au passé*point1* et*point2* . Il s'agirait généralement des sommets opposés.
+Crée un nouveau [`Rectangle`](../) à partir de deux points spécifiés. Les deux verticales du [`Rectangle`](../) créé seront égales aux *point1* et *point2* fournis. Il s'agit généralement des sommets opposés.
 
 ```csharp
 public static Rectangle FromPoints(Point point1, Point point2)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point1 | Point | La première[`Point`](../../point/) pour le nouveau rectangle. |
-| point2 | Point | La deuxième[`Point`](../../point/) pour le nouveau rectangle. |
+| point1 | Point | Le premier [`Point`](../../point/) pour le nouveau rectangle. |
+| point2 | Point | Le deuxième [`Point`](../../point/) pour le nouveau rectangle. |
 
-### Return_Value
+### Valeur de retour
 
-Un nouvellement créé[`Rectangle`](../).
+Un [`Rectangle`](../) nouvellement créé.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

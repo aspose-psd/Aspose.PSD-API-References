@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.Top
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerMaskData propriété. Obtient ou définit la position du masque de calque supérieur.
+title: "LayerMaskData.Top"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerMaskData. Obtient ou définit la position du masque de calque supérieur."
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers/layermaskdata/top/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Top property
 
 Obtient ou définit la position du masque de calque supérieur.
@@ -14,14 +15,14 @@ Obtient ou définit la position du masque de calque supérieur.
 public int Top { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La position du masque de calque supérieur.
 
-### Voir également
+### Voir aussi
 
 * class [LayerMaskData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

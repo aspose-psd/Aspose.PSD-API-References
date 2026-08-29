@@ -1,14 +1,15 @@
 ---
-title: Enum ThumbnailFormat
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat énumération. Spécifie le format des données des vignettes.
+title: "Énumération ThumbnailFormat"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat. Spécifie le format des données de la miniature."
 type: docs
-weight: 3900
+weight: 4370
 url: /fr/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
+{{< psd/tize >}}
 ## ThumbnailFormat enumeration
 
-Spécifie le format des données des vignettes.
+Spécifie le format des données de vignette.
 
 ```csharp
 public enum ThumbnailFormat
@@ -16,14 +17,14 @@ public enum ThumbnailFormat
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| KRawRgb | `0` | Format RVB brut. |
-| KJpegRgb | `1` | Format Jpeg compressé. |
+| KRawRgb | `0` | Format RGB brut. |
+| KJpegRgb | `1` | Format JPEG compressé. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

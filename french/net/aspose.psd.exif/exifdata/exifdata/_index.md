@@ -1,67 +1,68 @@
 ---
-title: ExifData.ExifData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData constructeur. Initialise une nouvelle instance duExifData classe.
+title: "ExifData.ExifData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ExifData. Initialise une nouvelle instance de la classe ExifData"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.exif/exifdata/exifdata/
 ---
+{{< psd/tize >}}
 ## ExifData() {#constructor}
 
-Initialise une nouvelle instance du[`ExifData`](../) classe.
+Initialise une nouvelle instance de la classe [`ExifData`](../).
 
 ```csharp
 public ExifData()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`ExifData`](../) classe avec les données du tableau.
+Initialise une nouvelle instance de la classe [`ExifData`](../) avec des données provenant d'un tableau.
 
 ```csharp
 public ExifData(TiffDataType[] exifdata)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | Tableau de balises EXIF avec balises communes et GPS. |
+| exifdata | TiffDataType[] | Tableau des balises EXIF ainsi que des balises communes et GPS. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Initialise une nouvelle instance du[`ExifData`](../) classe avec les données du tableau.
+Initialise une nouvelle instance de la classe [`ExifData`](../) avec des données provenant d'un tableau.
 
 ```csharp
 public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | commonTags | TiffDataType[] | Les balises communes. |
 | exifTags | TiffDataType[] | Les balises EXIF. |
 | gpsTags | TiffDataType[] | Les balises GPS. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

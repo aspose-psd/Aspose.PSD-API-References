@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.VDpi
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResolutionInfoResource propriété. PPP verticale.
+title: "ResolutionInfoResource.VDpi"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResolutionInfoResource. DPI vertical"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VDpi property
 
-PPP verticale.
+DPI vertical.
 
 ```csharp
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le ppp vertical.
+Le DPI vertical.
 
-### Voir également
+### Voir aussi
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

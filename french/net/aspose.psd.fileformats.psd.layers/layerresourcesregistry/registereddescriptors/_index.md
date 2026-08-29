@@ -1,11 +1,12 @@
 ---
-title: LayerResourcesRegistry.RegisteredDescriptors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerResourcesRegistry propriété. Obtient les descripteurs enregistrés.
+title: "LayerResourcesRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerResourcesRegistry. Obtient les descripteurs enregistrés."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisteredDescriptors property
 
 Obtient les descripteurs enregistrés.
@@ -14,15 +15,15 @@ Obtient les descripteurs enregistrés.
 public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les descripteurs enregistrés.
 
-### Voir également
+### Voir aussi
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomLeft
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeRadiiRectangle propriété. Obtient ou définit le fond.
+title: "VectorShapeRadiiRectangle.BottomLeft"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeRadiiRectangle. Obtient ou définit le bas"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-Obtient ou définit le fond.
+Obtient ou définit le bas.
 
 ```csharp
 public double BottomLeft { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le bas.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeRadiiRectangle](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

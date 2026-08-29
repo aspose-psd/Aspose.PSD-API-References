@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.FontFamily
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolFontInfo propriété. Obtient ou définit la famille de polices.
+title: "TypeToolFontInfo.FontFamily"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolFontInfo. Obtient ou définit la famille de police"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontFamily property
 
 Obtient ou définit la famille de polices.
@@ -14,14 +15,14 @@ Obtient ou définit la famille de polices.
 public string FontFamily { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La famille de polices.
+La famille de police.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolFontInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

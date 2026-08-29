@@ -1,11 +1,12 @@
 ---
-title: IAdvancedBufferProcessor.FinishRow
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IAdvancedBufferProcessor méthode. Termine la ligne.
+title: "IAdvancedBufferProcessor.FinishRow"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IAdvancedBufferProcessor. Termine la ligne"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/iadvancedbufferprocessor/finishrow/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor.FinishRow method
 
 Termine la ligne.
@@ -14,10 +15,10 @@ Termine la ligne.
 public void FinishRow()
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IAdvancedBufferProcessor](../)
-* espace de noms [Aspose.PSD](../../iadvancedbufferprocessor/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VstkResource propriété. Obtient ou définit la largeur de la ligne Stroke.
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VstkResource. Obtient ou définit la largeur de ligne du trait"
 type: docs
-weight: 160
+weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-Obtient ou définit la largeur de la ligne Stroke.
+Obtient ou définit la largeur de ligne du tracé.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource VstkResource.
+Le code suivant démontre la prise en charge de la ressource VstkResource.
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VstkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

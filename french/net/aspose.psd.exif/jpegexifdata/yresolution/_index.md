@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.YResolution
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit la résolution y.
+title: "JpegExifData.YResolution"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "JpegExifData propriété. Obtient ou définit la résolution y"
 type: docs
 weight: 260
 url: /fr/net/aspose.psd.exif/jpegexifdata/yresolution/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YResolution property
 
 Obtient ou définit la résolution y.
@@ -14,15 +15,15 @@ Obtient ou définit la résolution y.
 public TiffRational YResolution { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La résolution y.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.RemoveFigures
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GraphicsPath méthode. Supprime les chiffres.
+title: "GraphicsPath.RemoveFigures"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode GraphicsPath. Supprime les figures"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/graphicspath/removefigures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigures method
 
-Supprime les chiffres.
+Supprime des figures.
 
 ```csharp
 public void RemoveFigures(Figure[] figures)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| figures | Figure[] | Les chiffres à supprimer. |
+| figures | Figure[] | Les figures à supprimer. |
 
-### Voir également
+### Voir aussi
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

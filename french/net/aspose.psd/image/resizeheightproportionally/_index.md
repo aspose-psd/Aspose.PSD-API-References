@@ -1,11 +1,12 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image méthode. Redimensionne la hauteur proportionnellement.
+title: "Image.ResizeHeightProportionally"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Image. Redimensionne la hauteur proportionnellement"
 type: docs
-weight: 200
+weight: 210
 url: /fr/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
 Redimensionne la hauteur proportionnellement.
@@ -14,15 +15,15 @@ Redimensionne la hauteur proportionnellement.
 public void ResizeHeightProportionally(int newHeight)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newHeight | Int32 | La nouvelle hauteur. |
 
-### Voir également
+### Voir aussi
 
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ Redimensionne la hauteur proportionnellement.
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newHeight | Int32 | La nouvelle hauteur. |
-| resizeType | ResizeType | Type de redimensionnement. |
+| resizeType | ResizeType | Type du redimensionnement. |
 
-### Voir également
+### Voir aussi
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ Redimensionne la hauteur proportionnellement.
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newHeight | Int32 | La nouvelle hauteur. |
-| settings | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
+| paramètres | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

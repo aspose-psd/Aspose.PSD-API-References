@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit lauteur de limage qui est utilisé par lExplorateur Windows.
+title: "TiffOptions.XPAuthor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit l'auteur de l'image utilisé par Windows Explorer"
 type: docs
-weight: 590
+weight: 600
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-Obtient ou définit l'auteur de l'image, qui est utilisé par l'Explorateur Windows.
+Obtient ou définit l'auteur de l'image, utilisé par Windows Explorer.
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Image Author, utilisé par Windows Explorer. Le`XPAuthor` est ignoré par l'Explorateur Windows si le[`Artist`](../artist/) la balise existe.
+Auteur de l'image, utilisé par Windows Explorer. Le `XPAuthor` est ignoré par Windows Explorer si la balise [`Artist`](../artist/) existe.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

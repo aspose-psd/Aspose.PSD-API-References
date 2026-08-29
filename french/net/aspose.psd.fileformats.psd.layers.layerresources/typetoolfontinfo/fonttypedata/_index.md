@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontTypeData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolFontInfo propriété. Obtient ou définit les données de type de police.
+title: "TypeToolFontInfo.FontTypeData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolFontInfo. Obtient ou définit les données du type de police"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontTypeData property
 
-Obtient ou définit les données de type de police.
+Obtient ou définit les données du type de police.
 
 ```csharp
 public int FontTypeData { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les données de type de police.
+Les données du type de police.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolFontInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

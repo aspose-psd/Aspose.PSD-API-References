@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.CoreExceptions.ImageFormats
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des exceptions levées par lun des formats de fichiers pris en charge.
+title: "Aspose.PSD.CoreExceptions.ImageFormats"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les exceptions générées par l'un des formats de fichiers pris en charge"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.coreexceptions.imageformats/
 ---
-L'espace de noms contient des exceptions levées par l'un des formats de fichiers pris en charge.
+{{< psd/tize >}}
+L'espace de noms contient les exceptions générées par l'un des formats de fichiers pris en charge.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [BmpImageException](./bmpimageexception/) | L'exception d'image bmp. |
 | [GifImageException](./gifimageexception/) | L'exception d'image Gif. |

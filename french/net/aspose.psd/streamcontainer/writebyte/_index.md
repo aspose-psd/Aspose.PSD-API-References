@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.WriteByte
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer méthode. Écrit un octet à la position actuelle dans le flux et avance la position dans le flux dun octet.
+title: "StreamContainer.WriteByte"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode StreamContainer. Écrit un octet à la position actuelle du flux et avance la position dans le flux d'un octet"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/streamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.WriteByte method
 
 Écrit un octet à la position actuelle dans le flux et avance la position dans le flux d'un octet.
@@ -14,14 +15,14 @@ url: /fr/net/aspose.psd/streamcontainer/writebyte/
 public virtual void WriteByte(byte value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Byte | Octet à écrire dans le flux. |
+| valeur | Octet | L'octet à écrire dans le flux. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

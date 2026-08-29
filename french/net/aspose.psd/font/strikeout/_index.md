@@ -1,27 +1,28 @@
 ---
-title: Font.Strikeout
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient une valeur indiquant si celaFont spécifie une ligne horizontale à travers la police.
+title: "Font.Strikeout"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient une valeur indiquant si ce Font spécifie une ligne horizontale traversant la police"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/font/strikeout/
 ---
+{{< psd/tize >}}
 ## Font.Strikeout property
 
-Obtient une valeur indiquant si cela[`Font`](../) spécifie une ligne horizontale à travers la police.
+Obtient une valeur indiquant si ce [`Font`](../) spécifie une ligne horizontale traversant la police.
 
 ```csharp
 public bool Strikeout { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Vrai si cela[`Font`](../) a une ligne horizontale à travers elle; sinon, faux.
+Vrai si ce [`Font`](../) possède une ligne horizontale traversante ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

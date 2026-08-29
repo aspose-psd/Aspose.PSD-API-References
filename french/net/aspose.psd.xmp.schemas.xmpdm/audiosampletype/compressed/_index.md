@@ -1,11 +1,12 @@
 ---
-title: AudioSampleType.Compressed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AudioSampleType propriété. Représente un échantillon audio compressé.
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AudioSampleType propriété. Représente l'échantillon audio compressé"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
 Représente un échantillon audio compressé.
@@ -14,10 +15,10 @@ Représente un échantillon audio compressé.
 public static AudioSampleType Compressed { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AudioSampleType](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

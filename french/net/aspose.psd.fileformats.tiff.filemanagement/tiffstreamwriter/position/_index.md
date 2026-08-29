@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamWriter propriété. Obtient ou définit la position du flux.
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TiffStreamWriter propriété. Obtient ou définit la position du flux."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
 Obtient ou définit la position du flux.
@@ -14,14 +15,14 @@ Obtient ou définit la position du flux.
 public long Position { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La position du flux.
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

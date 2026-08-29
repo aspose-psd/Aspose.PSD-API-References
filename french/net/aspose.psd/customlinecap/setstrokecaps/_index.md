@@ -1,29 +1,30 @@
 ---
-title: CustomLineCap.SetStrokeCaps
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CustomLineCap méthode. Définit les majuscules utilisées pour les lignes de début et de fin qui composent cette majuscule personnalisée.
+title: "CustomLineCap.SetStrokeCaps"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CustomLineCap. Définit les caps utilisés pour commencer et terminer les lignes qui composent ce cap personnalisé."
 type: docs
 weight: 90
 url: /fr/net/aspose.psd/customlinecap/setstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.SetStrokeCaps method
 
-Définit les majuscules utilisées pour les lignes de début et de fin qui composent cette majuscule personnalisée.
+Définit les bouchons utilisés pour commencer et terminer les lignes qui composent ce bouchon personnalisé.
 
 ```csharp
 public void SetStrokeCaps(LineCap startCap, LineCap endCap)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| startCap | LineCap | Le[`LineCap`](../../linecap/) énumération utilisée au début d'une ligne dans ce cap. |
-| endCap | LineCap | Le[`LineCap`](../../linecap/) énumération utilisée à la fin d'une ligne à l'intérieur de ce plafond. |
+| startCap | LineCap | L'énumération [`LineCap`](../../linecap/) utilisée au début d'une ligne dans ce cap. |
+| endCap | LineCap | L'énumération [`LineCap`](../../linecap/) utilisée à la fin d'une ligne dans ce cap. |
 
-### Voir également
+### Voir aussi
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* espace de noms [Aspose.PSD](../../customlinecap/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

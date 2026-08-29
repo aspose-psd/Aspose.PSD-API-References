@@ -1,48 +1,49 @@
 ---
-title: OperationInterruptedException.OperationInterruptedException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OperationInterruptedException constructeur. Initialise une nouvelle instance duOperationInterruptedException classe.
+title: "OperationInterruptedException.OperationInterruptedException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur OperationInterruptedException. Initialise une nouvelle instance de la classe OperationInterruptedException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.coreexceptions/operationinterruptedexception/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException(string) {#constructor}
 
-Initialise une nouvelle instance du[`OperationInterruptedException`](../) classe.
+Initialise une nouvelle instance de la classe [`OperationInterruptedException`](../).
 
 ```csharp
 public OperationInterruptedException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
 
-### Voir également
+### Voir aussi
 
 * class [OperationInterruptedException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## OperationInterruptedException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`OperationInterruptedException`](../) classe.
+Initialise une nouvelle instance de la classe [`OperationInterruptedException`](../).
 
 ```csharp
 public OperationInterruptedException(string message, Exception innerException)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| innerException | Exception | L'exception intérieure. |
+| innerException | Exception | L'exception interne. |
 
-### Voir également
+### Voir aussi
 
 * class [OperationInterruptedException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

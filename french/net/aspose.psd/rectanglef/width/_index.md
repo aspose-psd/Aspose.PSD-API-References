@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF propriété. Obtient ou définit la largeur de cetteRectangleFstructure.
+title: "RectangleF.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleF. Obtient ou définit la largeur de cette structure RectangleF."
 type: docs
 weight: 160
 url: /fr/net/aspose.psd/rectanglef/width/
 ---
+{{< psd/tize >}}
 ## RectangleF.Width property
 
-Obtient ou définit la largeur de cette[`RectangleF`](../)structure.
+Obtient ou définit la largeur de cette structure [`RectangleF`](../).
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-La largeur de ce[`RectangleF`](../) structure.
+La largeur de cette structure [`RectangleF`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

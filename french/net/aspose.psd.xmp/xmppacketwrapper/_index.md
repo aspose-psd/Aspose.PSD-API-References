@@ -1,14 +1,15 @@
 ---
-title: Class XmpPacketWrapper
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.XmpPacketWrapper classe. Contient un package xmp sérialisé comprenant un entête et une bandeannonce.
+title: "Classe XmpPacketWrapper"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.XmpPacketWrapper. Contient le paquet XMP sérialisé incluant l’en-tête et le pied de page"
 type: docs
-weight: 6290
+weight: 6790
 url: /fr/net/aspose.psd.xmp/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper class
 
-Contient un package xmp sérialisé comprenant un en-tête et une bande-annonce.
+Contient le paquet xmp sérialisé incluant l'en-tête et le pied de page.
 
 ```csharp
 public class XmpPacketWrapper
@@ -16,38 +17,38 @@ public class XmpPacketWrapper
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpPacketWrapper](xmppacketwrapper/#constructor)() | Initialise une nouvelle instance du`XmpPacketWrapper` classe. |
-| [XmpPacketWrapper](xmppacketwrapper/#constructor_1)(XmpHeaderPi, XmpTrailerPi, XmpMeta) | Initialise une nouvelle instance du`XmpPacketWrapper` classe. |
+| [XmpPacketWrapper](xmppacketwrapper/#constructor)() | Initialise une nouvelle instance de la classe `XmpPacketWrapper`. |
+| [XmpPacketWrapper](xmppacketwrapper/#constructor_1)(XmpHeaderPi, XmpTrailerPi, XmpMeta) | Initialise une nouvelle instance de la classe `XmpPacketWrapper`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [HeaderPi](../../aspose.psd.xmp/xmppacketwrapper/headerpi/) { get; } | Obtient l'instruction de traitement d'en-tête. |
-| [Meta](../../aspose.psd.xmp/xmppacketwrapper/meta/) { get; set; } | Obtient la méta XMP. Facultatif. |
-| [Packages](../../aspose.psd.xmp/xmppacketwrapper/packages/) { get; } | Obtient un tableau de[`XmpPackage`](../xmppackage/) dans XMP. |
-| [PackagesCount](../../aspose.psd.xmp/xmppacketwrapper/packagescount/) { get; } | Obtient le nombre de packages dans la structure XMP. |
-| [TrailerPi](../../aspose.psd.xmp/xmppacketwrapper/trailerpi/) { get; } | Obtient l'instruction de traitement de fin. |
+| [HeaderPi](../../aspose.psd.xmp/xmppacketwrapper/headerpi/) { get; } | Obtient l’instruction de traitement de l’en-tête. |
+| [Meta](../../aspose.psd.xmp/xmppacketwrapper/meta/) { get; set; } | Obtient les métadonnées XMP. Facultatif. |
+| [Packages](../../aspose.psd.xmp/xmppacketwrapper/packages/) { get; } | Obtient le tableau de [`XmpPackage`](../xmppackage/) à l’intérieur du XMP. |
+| [PackagesCount](../../aspose.psd.xmp/xmppacketwrapper/packagescount/) { get; } | Obtient le nombre de paquets dans la structure XMP. |
+| [TrailerPi](../../aspose.psd.xmp/xmppacketwrapper/trailerpi/) { get; } | Obtient l’instruction de traitement du pied de page. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AddPackage](../../aspose.psd.xmp/xmppacketwrapper/addpackage/)(XmpPackage) | Ajoute le package. |
-| [ClearPackages](../../aspose.psd.xmp/xmppacketwrapper/clearpackages/)() | Supprime tout[`XmpPackage`](../xmppackage/) dans XMP. |
-| [ContainsPackage](../../aspose.psd.xmp/xmppacketwrapper/containspackage/)(string) | Détermine si le package existe dans le wrapper xmp. |
-| [GetPackage](../../aspose.psd.xmp/xmppacketwrapper/getpackage/)(string) | Obtient le package par URI d'espace de noms. |
-| [RemovePackage](../../aspose.psd.xmp/xmppacketwrapper/removepackage/)(XmpPackage) | Supprime le package XMP. |
+| [AddPackage](../../aspose.psd.xmp/xmppacketwrapper/addpackage/)(XmpPackage) | Ajoute le paquet. |
+| [ClearPackages](../../aspose.psd.xmp/xmppacketwrapper/clearpackages/)() | Supprime tous les [`XmpPackage`](../xmppackage/) à l’intérieur du XMP. |
+| [ContainsPackage](../../aspose.psd.xmp/xmppacketwrapper/containspackage/)(string) | Détermine si le paquet existe dans le wrapper XMP. |
+| [GetPackage](../../aspose.psd.xmp/xmppacketwrapper/getpackage/)(string) | Obtient le paquet par URI d’espace de noms. |
+| [RemovePackage](../../aspose.psd.xmp/xmppacketwrapper/removepackage/)(XmpPackage) | Supprime le paquet XMP. |
 
-### Remarques
+## Remarques
 
-Un wrapper composé d'une paire d'instructions de traitement XML (PI) peut être placé autour de l'élément rdf:RDF.
+Un wrapper composé d’une paire d’instructions de traitement XML (PI) peut être placé autour de l’élément rdf:RDF.
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

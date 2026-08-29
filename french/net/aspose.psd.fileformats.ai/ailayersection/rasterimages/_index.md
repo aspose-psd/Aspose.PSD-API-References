@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient les images raster.
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiLayerSection. Obtient les images raster"
 type: docs
-weight: 120
+weight: 140
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
 Obtient les images raster.
@@ -14,13 +15,13 @@ Obtient les images raster.
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les images tramées.
+Les images raster.
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment charger les paramètres des images raster dans des fichiers au format AI.
+Le code suivant montre comment charger les paramètres des images raster dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -63,11 +64,11 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

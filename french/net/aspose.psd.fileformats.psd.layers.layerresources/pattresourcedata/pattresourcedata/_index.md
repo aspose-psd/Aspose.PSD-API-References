@@ -1,23 +1,24 @@
 ---
-title: PattResourceData.PattResourceData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PattResourceData constructeur. Default_Constructor
+title: "PattResourceData.PattResourceData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur PattResourceData. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public PattResourceData()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PattResourceData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

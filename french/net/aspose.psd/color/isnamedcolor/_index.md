@@ -1,27 +1,28 @@
 ---
-title: Color.IsNamedColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color propriété. Obtient une valeur indiquant si celaColor structure est une couleur nommée ou un membre de laKnownColor énumération.
+title: "Color.IsNamedColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Color. Obtient une valeur indiquant si cette structure Color est une couleur nommée ou un membre de l'énumération KnownColor."
 type: docs
 weight: 1510
 url: /fr/net/aspose.psd/color/isnamedcolor/
 ---
+{{< psd/tize >}}
 ## Color.IsNamedColor property
 
-Obtient une valeur indiquant si cela[`Color`](../) structure est une couleur nommée ou un membre de la[`KnownColor`](../../knowncolor/) énumération.
+Obtient une valeur indiquant si cette structure [`Color`](../) est une couleur nommée ou un membre de l'énumération [`KnownColor`](../../knowncolor/).
 
 ```csharp
 public bool IsNamedColor { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Vrai si cela[`Color`](../) a été créé en utilisant soit le[`FromName`](../fromname/) méthode ou la[`FromKnownColor`](../fromknowncolor/) méthode; sinon, faux.
+Vrai si ce [`Color`](../) a été créé en utilisant soit la méthode [`FromName`](../fromname/), soit la méthode [`FromKnownColor`](../fromknowncolor/) ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

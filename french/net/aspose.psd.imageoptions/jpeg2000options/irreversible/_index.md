@@ -1,23 +1,24 @@
 ---
-title: Jpeg2000Options.Irreversible
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Jpeg2000Options propriété. Obtient ou définit une valeur indiquant si vous utilisez la compression DWT 97 irréversible vrai ou utilisez la compression DWT 53 sans perte par défaut.
+title: "Jpeg2000Options.Irreversible"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Jpeg2000Options. Obtient ou définit une valeur indiquant s'il faut utiliser le DWT irréversible 97 true ou la compression DWT sans perte 53 par défaut."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.imageoptions/jpeg2000options/irreversible/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Irreversible property
 
-Obtient ou définit une valeur indiquant si vous utilisez la compression DWT 9-7 irréversible (vrai) ou utilisez la compression DWT 5-3 sans perte (par défaut).
+Obtient ou définit une valeur indiquant s'il faut utiliser la DWT irréversible 9-7 (true) ou la compression DWT sans perte 5-3 (par défaut).
 
 ```csharp
 public bool Irreversible { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Jpeg2000Options](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

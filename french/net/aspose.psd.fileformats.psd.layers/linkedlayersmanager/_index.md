@@ -1,14 +1,15 @@
 ---
-title: Class LinkedLayersManager
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager classe. Classe de gestionnaire de couches liées.
+title: "Classe LinkedLayersManager"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager classe. Classe du gestionnaire de calques liés"
 type: docs
-weight: 3400
+weight: 3800
 url: /fr/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager class
 
-Classe de gestionnaire de couches liées.
+Classe du gestionnaire de calques liés.
 
 ```csharp
 public sealed class LinkedLayersManager
@@ -16,16 +17,16 @@ public sealed class LinkedLayersManager
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Récupère les calques par ID de groupe de liens. |
-| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Obtient l'ID du groupe de liens associé à la couche. |
-| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | Lie les couches d'entrée et renvoie LingGroupId. |
-| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Dissocie le calque.. |
+| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Obtient les calques par identifiant de groupe de liens. |
+| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Obtient l'ID du groupe de liens associé au calque. |
+| [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | Lie les calques d'entrée et renvoie LingGroupId. |
+| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Délie le calque.. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez manipuler des calques liés dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez manipuler les calques liés dans Aspose.PSD
 
 ```csharp
 [C#]
@@ -33,31 +34,31 @@ L'exemple suivant montre comment vous pouvez manipuler des calques liés dans As
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // lie toutes les couches dans un groupe lié
+    // lier tous les calques dans un groupe lié
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // obtient l'identifiant d'une couche
+    // obtient l'ID d'un calque
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // obtient toutes les couches liées par l'identifiant du groupe de liens.
+    // obtient tous les calques liés par identifiant de groupe de liens.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // dissocie chaque calque du groupe
+    // délier chaque calque du groupe
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // récupère NULL pour un ID de groupe de liens qui n'a pas de couches dans le groupe.
+    // renvoie NULL pour un ID de groupe de liens qui n'a aucun calque dans le groupe.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -67,9 +68,9 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

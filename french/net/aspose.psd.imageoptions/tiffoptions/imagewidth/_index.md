@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageWidth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la largeur de limage.
+title: "TiffOptions.ImageWidth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la largeur de l'image"
 type: docs
-weight: 210
+weight: 220
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageWidth property
 
 Obtient ou définit la largeur de l'image.
@@ -14,14 +15,14 @@ Obtient ou définit la largeur de l'image.
 public uint ImageWidth { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur de l'image.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

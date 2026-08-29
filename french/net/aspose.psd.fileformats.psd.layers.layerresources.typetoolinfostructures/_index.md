@@ -1,40 +1,42 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des entités de ressource doutil de type de format de fichier PSD.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des entités de ressources d'outil de type de format de fichier PSD"
 type: docs
-weight: 300
+weight: 320
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/
 ---
-L'espace de noms contient des entités de ressource d'outil de type de format de fichier PSD.
+{{< psd/tize >}}
+L'espace de noms contient les entités de ressources d'outil de type du format de fichier PSD.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [AliasStructure](./aliasstructure/) | La structure d'alias. |
 | [BooleanStructure](./booleanstructure/) | La structure booléenne. |
 | [ClassStructure](./classstructure/) | La structure de classe. |
-| [DescriptorStructure](./descriptorstructure/) | La structure du descripteur |
+| [DescriptorStructure](./descriptorstructure/) | La structure de descripteur |
 | [DoubleStructure](./doublestructure/) | La structure double. |
-| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure/) | La structure du descripteur énuméré. |
+| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure/) | La structure de descripteur énuméré. |
 | [EnumeratedReferenceStructure](./enumeratedreferencestructure/) | Structure de référence énumérée. |
 | [IntegerStructure](./integerstructure/) | La structure entière. |
-| [ListStructure](./liststructure/) | La structure de la liste. |
-| [ObjectArrayStructure](./objectarraystructure/) | Définit la classe ObjectArrayStructure qui contient généralement[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) array. Il est utilisé dans les ressources du fichier PSD, telles que PlLd Resource et SoLd Resource. |
+| [ListStructure](./liststructure/) | La structure de liste. |
+| [NameStructure](./namestructure/) | La structure Name (clé : 0x6E616D65, qui correspond à "name" en ASCII) est une structure simple utilisée pour stocker une chaîne Unicode ou de style Pascal représentant le nom d'un élément, tel qu'un calque, un chemin ou un réglage. |
+| [ObjectArrayStructure](./objectarraystructure/) | Définit la classe ObjectArrayStructure qui contient généralement un tableau [`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/). Elle est utilisée dans les ressources de fichiers PSD, telles que la ressource PlLd et la ressource SoLd. |
 | [OffsetStructure](./offsetstructure/) | La structure de décalage. |
-| [PathStructure](./pathstructure/) | La structure du chemin. |
-| [PropertyStructure](./propertystructure/) | La structure de la propriété. |
-| [RawDataStructure](./rawdatastructure/) | La structure des données brutes. |
+| [PathStructure](./pathstructure/) | La structure de chemin. |
+| [PropertyStructure](./propertystructure/) | La structure de propriété. |
+| [RawDataStructure](./rawdatastructure/) | La structure de données brutes. |
 | [ReferenceStructure](./referencestructure/) | La structure de référence. |
 | [StringStructure](./stringstructure/) | La structure de chaîne. |
-| [UnitArrayStructure](./unitarraystructure/) | Définit la classe UnitArrayStructure qui contientDouble tableau de valeurs et leur unité de mesure. Il est utilisé dans les ressources du fichier PSD, généralement par[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/) . |
-| [UnitStructure](./unitstructure/) | La structure de l'unité. |
+| [UnitArrayStructure](./unitarraystructure/) | Définit la classe UnitArrayStructure qui contient un tableau de valeurs Double et leur unité de mesure. Elle est utilisée dans les ressources de fichiers PSD, généralement par [`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/). |
+| [UnitStructure](./unitstructure/) | La structure d'unité. |
 | [UnknownStructure](./unknownstructure/) | La structure inconnue. |
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
-| [UnitTypes](./unittypes/) | Les types d'unités. |
+| [UnitTypes](./unittypes/) | Les types d'unité. |
 
 

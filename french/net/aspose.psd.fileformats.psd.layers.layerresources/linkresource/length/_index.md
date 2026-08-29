@@ -1,23 +1,24 @@
 ---
-title: LinkResource.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinkResource propriété. Obtient la longueur de ressource de lien global PSD en octets.
+title: "LinkResource.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LinkResource propriété. Obtient la longueur de la ressource de lien globale PSD en octets"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/
 ---
+{{< psd/tize >}}
 ## LinkResource.Length property
 
-Obtient la longueur de ressource de lien global PSD en octets.
+Obtient la longueur de la ressource de lien globale PSD en octets.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LinkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

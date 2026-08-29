@@ -1,11 +1,12 @@
 ---
-title: ColorBlend.Positions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorBlend propriété. Obtient ou définit les positions le long dune ligne de dégradé.
+title: "ColorBlend.Positions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorBlend. Obtient ou définit les positions le long d'une ligne de dégradé"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/colorblend/positions/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Positions property
 
 Obtient ou définit les positions le long d'une ligne de dégradé.
@@ -14,14 +15,14 @@ Obtient ou définit les positions le long d'une ligne de dégradé.
 public float[] Positions { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-Tableau de valeurs qui spécifient les pourcentages de distance le long de la ligne de dégradé.
+Un tableau de valeurs qui spécifient les pourcentages de distance le long de la ligne de dégradé.
 
-### Voir également
+### Voir aussi
 
 * class [ColorBlend](../)
-* espace de noms [Aspose.PSD](../../colorblend/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

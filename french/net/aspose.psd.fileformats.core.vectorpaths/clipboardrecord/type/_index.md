@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Type
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClipboardRecord propriété. Obtient le type.
+title: "ClipboardRecord.Type"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ClipboardRecord. Obtient le type"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Type property
 
 Obtient le type.
@@ -14,15 +15,15 @@ Obtient le type.
 public override VectorPathType Type { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type.
 
-### Voir également
+### Voir aussi
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [ClipboardRecord](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

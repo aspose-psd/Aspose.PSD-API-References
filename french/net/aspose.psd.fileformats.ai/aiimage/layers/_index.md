@@ -1,11 +1,12 @@
 ---
-title: AiImage.Layers
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiImage propriété. Obtient les sections de calque.
+title: "AiImage.Layers"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiImage. Obtient les sections de calque"
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
 Obtient les sections de calque.
@@ -14,15 +15,15 @@ Obtient les sections de calque.
 public AiLayerSection[] Layers { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les sections de calque.
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

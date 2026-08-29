@@ -1,119 +1,120 @@
 ---
-title: ClassID.ClassID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClassID constructeur. Initialise une nouvelle instance duClassID classe.
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ClassID. Initialise une nouvelle instance de la classe ClassID"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-Initialise une nouvelle instance du[`ClassID`](../) classe.
+Initialise une nouvelle instance de la classe [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | classID | Byte[] | L'ID de classe sous forme de série d'octets. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-Initialise une nouvelle instance du[`ClassID`](../) classe.
+Initialise une nouvelle instance de la classe [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | classID | Byte[] | L'ID de classe sous forme de série d'octets. |
-| isZeroLength | Boolean | si réglé sur`vrai` [est de longueur nulle]. La longueur de chaîne enregistrée est de zéro mais la valeur réelle est de quatre. |
+| isZeroLength | Booléen | si défini sur `true` [est de longueur zéro]. La longueur de chaîne enregistrée est zéro mais la réelle est de quatre. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | ID de classe est nul. |
+| ArgumentNullException | classID est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-Initialise une nouvelle instance du[`ClassID`](../) classe.
+Initialise une nouvelle instance de la classe [`ClassID`](../).
 
 ```csharp
 public ClassID(int classID)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| classID | Int32 | L'identifiant de la classe. |
+| classID | Int32 | L'ID de classe. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-Initialise une nouvelle instance du[`ClassID`](../) classe.
+Initialise une nouvelle instance de la classe [`ClassID`](../).
 
 ```csharp
 public ClassID(uint classID)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| classID | UInt32 | L'identifiant de la classe. |
+| classID | UInt32 | L'ID de classe. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-Initialise une nouvelle instance du[`ClassID`](../) classe.
+Initialise une nouvelle instance de la classe [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| classID | String | L'ID de classe en codage ASCII. |
-| isZeroLength | Boolean | si réglé sur`vrai` [est de longueur nulle]. |
+| classID | String | L'ID de classe en encodage ASCII. |
+| isZeroLength | Booléen | si défini sur `true` [est de longueur zéro]. |
 
-### Exemples
+## Exemples
 
-Cet exemple montre que le calque, importé à partir d'une image, est converti en calque d'objet intelligent et que le fichier PSD enregistré est correct.
+Cet exemple montre que la couche, importée depuis une image, est convertie en couche d'objet dynamique et que le fichier PSD enregistré est correct.
 
 ```csharp
 [C#]
 
-// Teste que le calque, importé à partir d'une image, est converti en calque d'objet intelligent et que le fichier PSD enregistré est correct.
+// Teste que la couche, importée depuis une image, est convertie en couche d'objet dynamique et que le fichier PSD enregistré est correct.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -152,30 +153,30 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-Initialise une nouvelle instance du[`ClassID`](../) classe.
+Initialise une nouvelle instance de la classe [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| classID | String | L'ID de classe en codage ASCII. |
+| classID | String | L'ID de classe en encodage ASCII. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

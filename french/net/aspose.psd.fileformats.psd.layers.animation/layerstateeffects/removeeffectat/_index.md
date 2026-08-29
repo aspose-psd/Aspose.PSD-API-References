@@ -1,27 +1,28 @@
 ---
-title: LayerStateEffects.RemoveEffectAt
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerStateEffects méthode. Supprime leffet de calque à lindex spécifique.
+title: "LayerStateEffects.RemoveEffectAt"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LayerStateEffects méthode. Supprime l'effet de calque à l'index spécifié"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/removeeffectat/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.RemoveEffectAt method
 
-Supprime l'effet de calque à l'index spécifique.
+Supprime l'effet de calque à l'index spécifié.
 
 ```csharp
 public void RemoveEffectAt(int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | L'indice de l'effet de calque. |
+| index | Int32 | L'index de l'effet de calque. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerStateEffects](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

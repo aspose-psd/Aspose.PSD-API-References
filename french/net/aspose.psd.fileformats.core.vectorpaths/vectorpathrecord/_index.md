@@ -1,11 +1,12 @@
 ---
-title: Class VectorPathRecord
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord classe. Classe denregistrement de chemin vectoriel
+title: "Classe VectorPathRecord"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord class. Classe d'enregistrement de chemin vectoriel"
 type: docs
-weight: 1400
+weight: 1410
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord class
 
 Classe d'enregistrement de chemin vectoriel
@@ -16,13 +17,13 @@ public abstract class VectorPathRecord
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | Obtient le type. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

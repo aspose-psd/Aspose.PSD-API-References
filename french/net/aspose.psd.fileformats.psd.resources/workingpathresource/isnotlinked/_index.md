@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.IsNotLinked
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: WorkingPathResource propriété. Obtient ou définit une valeur indiquant si cette instance nest pas liée.
+title: "WorkingPathResource.IsNotLinked"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété WorkingPathResource. Obtient ou définit une valeur indiquant si cette instance n'est pas liée."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsNotLinked property
 
 Obtient ou définit une valeur indiquant si cette instance n'est pas liée.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance n'est pas liée.
 public bool IsNotLinked { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance n'est pas liée ; sinon,`FAUX` .
+`true` si cette instance n'est pas liée; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [WorkingPathResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

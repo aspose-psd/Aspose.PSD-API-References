@@ -1,11 +1,12 @@
 ---
-title: MixerChannel.GetRawData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MixerChannel méthode. Obtient les données brutes.
+title: "MixerChannel.GetRawData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "MixerChannel méthode. Obtient les données brutes"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/
 ---
+{{< psd/tize >}}
 ## MixerChannel.GetRawData method
 
 Obtient les données brutes.
@@ -14,14 +15,14 @@ Obtient les données brutes.
 public byte[] GetRawData()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Données brutes en octets
+Données brutes d'octets
 
-### Voir également
+### Voir aussi
 
 * class [MixerChannel](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

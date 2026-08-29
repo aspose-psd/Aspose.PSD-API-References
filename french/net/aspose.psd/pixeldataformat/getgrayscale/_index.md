@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetGrayscale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat méthode. Obtient une couleur en niveaux de gris avec un nombre spécifié de bits par échantillon.
+title: "PixelDataFormat.GetGrayscale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PixelDataFormat. Obtient la couleur en niveaux de gris avec un nombre spécifié de bits par échantillon."
 type: docs
 weight: 230
 url: /fr/net/aspose.psd/pixeldataformat/getgrayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetGrayscale method
 
-Obtient une couleur en niveaux de gris avec un nombre spécifié de bits par échantillon.
+Obtient la couleur en niveaux de gris avec un nombre spécifié de bits par échantillon.
 
 ```csharp
 public static PixelDataFormat GetGrayscale(int bitsPerSample)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Le nombre de bits par échantillon. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur Niveaux de gris.
+La couleur en niveaux de gris.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion3.PhflResourceVersion3
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhflResourceVersion3 constructeur. Initialise une nouvelle instance duPhflResourceVersion3 classe.
+title: "PhflResourceVersion3.PhflResourceVersion3"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhflResourceVersion3 constructeur. Initialise une nouvelle instance de la classe PhflResourceVersion3"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3() {#constructor}
 
-Initialise une nouvelle instance du[`PhflResourceVersion3`](../) classe.
+Initialise une nouvelle instance de la classe [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3()
@@ -20,36 +21,36 @@ public PhflResourceVersion3()
 | --- | --- |
 | ArgumentException | Pris en charge uniquement les versions 2 et 3 |
 
-### Voir également
+### Voir aussi
 
 * class [PhflResourceVersion3](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`PhflResourceVersion3`](../) classe.
+Initialise une nouvelle instance de la classe [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données de la ressource. |
+| données | Byte[] | Les données de la ressource. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Longueur de données non valide |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Longueur de données invalide |
 
-### Voir également
+### Voir aussi
 
 * class [PhflResourceVersion3](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

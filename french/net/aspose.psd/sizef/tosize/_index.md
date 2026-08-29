@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF méthode. Convertit unSizeF à unSize structure avec des valeurs de taille tronquées.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SizeF. Convertit un SizeF en une structure Size avec des valeurs de taille tronquées"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-Convertit un[`SizeF`](../) à un[`Size`](../../size/) structure avec des valeurs de taille tronquées.
+Convertit un [`SizeF`](../) en une structure [`Size`](../../size/) avec des valeurs de taille tronquées.
 
 ```csharp
 public Size ToSize()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie un[`Size`](../../size/) structure.
+Retourne une structure [`Size`](../../size/).
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

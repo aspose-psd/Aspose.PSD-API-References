@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureTime
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le temps dexposition.
+title: "ExifData.ExposureTime"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le temps d'exposition"
 type: docs
 weight: 230
 url: /fr/net/aspose.psd.exif/exifdata/exposuretime/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureTime property
 
 Obtient ou définit le temps d'exposition.
@@ -14,15 +15,15 @@ Obtient ou définit le temps d'exposition.
 public TiffRational ExposureTime { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le temps d'exposition.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

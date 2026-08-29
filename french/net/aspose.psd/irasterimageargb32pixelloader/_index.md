@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImageArgb32PixelLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IRasterImageArgb32PixelLoader interface. Le chargeur de pixels ARGB 32 bits dimage raster.
+title: "Interface IRasterImageArgb32PixelLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.IRasterImageArgb32PixelLoader. Le chargeur de pixels ARGB 32 bits de l'image raster"
 type: docs
-weight: 4560
+weight: 5030
 url: /fr/net/aspose.psd/irasterimageargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader interface
 
 Le chargeur de pixels ARGB 32 bits d'image raster.
@@ -16,14 +17,14 @@ public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Charge partiellement les pixels ARGB 32 bits (par blocs). |
+| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Charge partiellement des pixels ARGB 32 bits (par blocs). |
 
-### Voir également
+### Voir aussi
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ReferenceStructure.ReferenceStructure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ReferenceStructure constructeur. Initialise une nouvelle instance duReferenceStructure classe.
+title: "ReferenceStructure.ReferenceStructure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ReferenceStructure. Initialise une nouvelle instance de la classe ReferenceStructure"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure constructor
 
-Initialise une nouvelle instance du[`ReferenceStructure`](../) classe.
+Initialise une nouvelle instance de la classe [`ReferenceStructure`](../).
 
 ```csharp
 public ReferenceStructure(ClassID keyName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | keyName | ClassID | Le nom de la clé. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ReferenceStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

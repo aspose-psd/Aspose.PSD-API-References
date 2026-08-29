@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.RotateDown
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolStyleInfo propriété. Obtient ou définit une valeur indiquant sil sagit dun style de rotation vers le bas.
+title: "TypeToolStyleInfo.RotateDown"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolStyleInfo. Obtient ou définit une valeur indiquant s'il s'agit d'un style de rotation vers le bas"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.RotateDown property
 
 Obtient ou définit une valeur indiquant s'il s'agit d'un style de rotation vers le bas.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant s'il s'agit d'un style de rotation vers
 public bool RotateDown { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` s'il s'agit d'un style de rotation vers le bas ; sinon,`FAUX` .
+`true` si c'est un style de rotation vers le bas ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolStyleInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

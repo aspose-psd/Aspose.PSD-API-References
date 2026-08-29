@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlendingOptions méthode. Ajoute la superposition de motifs.
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode BlendingOptions. Ajoute la superposition de motif"
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-Ajoute la superposition de motifs.
+Ajoute la superposition Pattern.
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
 ```
 
-### Return_Value
+### Valeur de retour
 
-créé[`PatternOverlayEffect`](../../patternoverlayeffect/) objet
+Objet [`PatternOverlayEffect`](../../patternoverlayeffect/) créé
 
-### Voir également
+### Voir aussi
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

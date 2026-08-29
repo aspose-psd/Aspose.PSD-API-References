@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.SyncRoot
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericDictionary propriété. Obtient un objet qui peut être utilisé pour synchroniser laccès au ICollection .
+title: "NonGenericDictionary.SyncRoot"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété NonGenericDictionary. Obtient un objet qui peut être utilisé pour synchroniser l'accès à l'ICollection"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/nongenericdictionary/syncroot/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.SyncRoot property
 
-Obtient un objet qui peut être utilisé pour synchroniser l'accès au ICollection .
+Obtient un objet pouvant être utilisé pour synchroniser l'accès à l'ICollection.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-Un objet qui peut être utilisé pour synchroniser l'accès auICollection.
+Un objet qui peut être utilisé pour synchroniser l'accès à l'ICollection.
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericDictionary](../)
-* espace de noms [Aspose.PSD](../../nongenericdictionary/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

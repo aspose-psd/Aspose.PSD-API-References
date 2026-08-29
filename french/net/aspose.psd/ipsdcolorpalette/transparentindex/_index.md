@@ -1,11 +1,12 @@
 ---
-title: IPsdColorPalette.TransparentIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPsdColorPalette propriété. Obtient lindex de la couleur transparente.
+title: "IPsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPsdColorPalette. Obtient l'index de la couleur transparente"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/ipsdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentIndex property
 
 Obtient l'index de la couleur transparente.
@@ -14,14 +15,14 @@ Obtient l'index de la couleur transparente.
 public short TransparentIndex { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'indice de la couleur transparente.
+L'index de la couleur transparente.
 
-### Voir également
+### Voir aussi
 
 * interface [IPsdColorPalette](../)
-* espace de noms [Aspose.PSD](../../ipsdcolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

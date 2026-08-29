@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LoopesCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TimeLine propriété. Obtient ou définit le nombre de boucles.
+title: "Timeline.LoopesCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Timeline. Obtient ou définit le nombre de boucles"
 type: docs
-weight: 80
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 ---
-## TimeLine.LoopesCount property
+{{< psd/tize >}}
+## Timeline.LoopesCount property
 
 Obtient ou définit le nombre de boucles.
 
 ```csharp
-public int LoopesCount { get; set; }
+public ushort LoopesCount { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
-* class [TimeLine](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* Assemblée [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

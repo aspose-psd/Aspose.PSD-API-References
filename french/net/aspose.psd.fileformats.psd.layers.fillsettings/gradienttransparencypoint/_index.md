@@ -1,14 +1,15 @@
 ---
-title: Class GradientTransparencyPoint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint classe. Point de transparence dégradé
+title: "Classe GradientTransparencyPoint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint. Point de transparence du dégradé"
 type: docs
-weight: 1970
+weight: 2090
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint class
 
-Point de transparence dégradé
+Point de transparence du dégradé
 
 ```csharp
 public class GradientTransparencyPoint : IGradientTransparencyPoint
@@ -16,22 +17,22 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint/)() | Initialise une nouvelle instance du`GradientTransparencyPoint` classe. |
+| [GradientTransparencyPoint](gradienttransparencypoint/)() | Initialise une nouvelle instance de la classe `GradientTransparencyPoint`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | Obtient ou définit l'emplacement. |
 | [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | Obtient ou définit l'emplacement du point médian. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/) { get; set; } | Obtient ou définit la couleur. |
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientTransparencyPoint](../igradienttransparencypoint/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykColor.K
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColor propriété. Obtient la valeur du composant noir de ceColorstructure.
+title: "CmykColor.K"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CmykColor. Obtient la valeur du composant noir de cette structure Color"
 type: docs
-weight: 40
+weight: 50
 url: /fr/net/aspose.psd/cmykcolor/k/
 ---
+{{< psd/tize >}}
 ## CmykColor.K property
 
-Obtient la valeur du composant noir de ce[`Color`](../../color/)structure.
+Obtient la valeur du composant noir de cette structure [`Color`](../../color/).
 
 ```csharp
 public byte K { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de la composante noire de ce[`Color`](../../color/) .
+La valeur du composant noir de ce [`Color`](../../color/).
 
-### Voir également
+### Voir aussi
 
 * struct [CmykColor](../)
-* espace de noms [Aspose.PSD](../../cmykcolor/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiRasterImageSection propriété. Obtient langle.
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiRasterImageSection. Obtient l'angle"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
 Obtient l'angle.
@@ -14,14 +15,14 @@ Obtient l'angle.
 public double Angle { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle.
 
-### Voir également
+### Voir aussi
 
 * class [AiRasterImageSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

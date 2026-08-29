@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSStatus
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit létat du récepteur GPS lorsque limage est enregistrée.
+title: "ExifData.GPSStatus"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit l'état du récepteur GPS lors de l'enregistrement de l'image"
 type: docs
 weight: 620
 url: /fr/net/aspose.psd.exif/exifdata/gpsstatus/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSStatus property
 
 Obtient ou définit l'état du récepteur GPS lorsque l'image est enregistrée.
@@ -14,14 +15,14 @@ Obtient ou définit l'état du récepteur GPS lorsque l'image est enregistrée.
 public string GPSStatus { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'état du récepteur GPS lorsque l'image est enregistrée.
+L'état du récepteur GPS lors de l'enregistrement de l'image.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

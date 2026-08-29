@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Audio71
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AudioChannelType propriété. Obtient le canal audio 7.1.
+title: "AudioChannelType.Audio71"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AudioChannelType propriété. Obtient le canal audio 7.1"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio71 property
 
 Obtient le canal audio 7.1.
@@ -14,14 +15,14 @@ Obtient le canal audio 7.1.
 public static AudioChannelType Audio71 { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le canal audio 7.1.
 
-### Voir également
+### Voir aussi
 
 * class [AudioChannelType](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

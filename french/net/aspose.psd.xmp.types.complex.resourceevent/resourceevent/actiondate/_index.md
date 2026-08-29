@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.ActionDate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceEvent propriété. Obtient ou définit la date de laction.
+title: "ResourceEvent.ActionDate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceEvent. Obtient ou définit la date d'action"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.ActionDate property
 
 Obtient ou définit la date de l'action.
@@ -14,14 +15,14 @@ Obtient ou définit la date de l'action.
 public DateTime ActionDate { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La date de l'action.
+La date d'action.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceEvent](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

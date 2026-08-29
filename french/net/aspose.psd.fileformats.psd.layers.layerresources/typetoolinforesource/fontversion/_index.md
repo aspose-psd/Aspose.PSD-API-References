@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.FontVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit la version de la police.
+title: "TypeToolInfoResource.FontVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolInfoResource. Obtient ou définit la version de la police"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontVersion property
 
 Obtient ou définit la version de la police.
@@ -14,14 +15,14 @@ Obtient ou définit la version de la police.
 public short FontVersion { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La version de la police.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

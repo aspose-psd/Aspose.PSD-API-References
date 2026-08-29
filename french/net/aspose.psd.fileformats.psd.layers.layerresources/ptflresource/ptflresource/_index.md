@@ -1,28 +1,45 @@
 ---
-title: PtFlResource.PtFlResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PtFlResource constructeur. Initialise une nouvelle instance duPtFlResource classe.
+title: "PtFlResource.PtFlResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur PtFlResource. Initialise une nouvelle instance de la classe PtFlResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/ptflresource/
 ---
-## PtFlResource constructor
+{{< psd/tize >}}
+## PtFlResource() {#constructor}
 
-Initialise une nouvelle instance du[`PtFlResource`](../) classe.
+Initialise une nouvelle instance de la classe [`PtFlResource`](../).
+
+```csharp
+public PtFlResource()
+```
+
+### Voir aussi
+
+* class [PtFlResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## PtFlResource(string, string) {#constructor_1}
+
+Initialise une nouvelle instance de la classe [`PtFlResource`](../).
 
 ```csharp
 public PtFlResource(string patternName, string patternId)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | patternName | String | Nom du motif. |
-| patternId | String | L'identificateur de modèle. |
+| patternId | String | L'identifiant du motif. |
 
-### Voir également
+### Voir aussi
 
 * class [PtFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

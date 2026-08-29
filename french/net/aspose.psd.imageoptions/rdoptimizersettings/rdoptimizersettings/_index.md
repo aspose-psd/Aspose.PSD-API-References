@@ -1,23 +1,24 @@
 ---
-title: RdOptimizerSettings.RdOptimizerSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RdOptimizerSettings constructeur. Default_Constructor
+title: "RdOptimizerSettings.RdOptimizerSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur RdOptimizerSettings. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public RdOptimizerSettings()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [RdOptimizerSettings](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

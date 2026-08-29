@@ -1,27 +1,55 @@
 ---
-title: PostResource.Levels
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PostResource propriété. Niveaux du calque de postérisation.
+title: "PostResource.Levels"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PostResource. Niveaux du calque Posterize"
 type: docs
-weight: 40
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/
 ---
+{{< psd/tize >}}
 ## PostResource.Levels property
 
-Niveaux du calque de postérisation.
+Niveaux du calque Posterize.
 
 ```csharp
 public short Levels { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-Valeur int des niveaux
+Valeur int Levels
 
-### Voir également
+## Exemples
+
+Le code suivant démontre la capacité de manipulation de PostResource.
+
+```csharp
+[C#]
+
+string sourceFile = "zendeya_posterize.psd";
+string outputFile = "zendeya_posterize_10.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
+{
+    Layer layer = image.Layers[1];
+
+    foreach (LayerResource resource in layer.Resources)
+    {
+        if (resource is PostResource)
+        {
+            ((PostResource)resource).Levels = 10;
+            image.Save(outputFile);
+
+            break;
+        }
+    }
+}
+```
+
+### Voir aussi
 
 * class [PostResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF propriété. Obtient une nouvelle instance duSizeF structure qui aWidth etHeight valeurs mises à zéro.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SizeF. Obtient une nouvelle instance de la structure SizeF dont les valeurs Width et Height sont définies à zéro"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-Obtient une nouvelle instance du[`SizeF`](../) structure qui a[`Width`](../width/) et[`Height`](../height/) valeurs mises à zéro.
+Obtient une nouvelle instance de la structure [`SizeF`](../) dont les valeurs [`Width`](../width/) et [`Height`](../height/) sont définies à zéro.
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

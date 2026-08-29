@@ -1,31 +1,32 @@
 ---
-title: PointF.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PointF méthode. Spécifie si celaPointF contient les mêmes coordonnées que le spécifiéObject .
+title: "PointF.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PointF. Indique si ce PointF contient les mêmes coordonnées que l'Objet spécifié"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/pointf/equals/
 ---
+{{< psd/tize >}}
 ## PointF.Equals method
 
-Spécifie si cela[`PointF`](../) contient les mêmes coordonnées que le spécifiéObject .
+Indique si ce [`PointF`](../) contient les mêmes coordonnées que l'Objet spécifié.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | LeObject tester. |
+| obj | Object | L'objet à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie true si*obj* est un[`PointF`](../) et a les mêmes coordonnées que celui-ci[`Point`](../../point/).
+Cette méthode renvoie vrai si *obj* est un [`PointF`](../) et possède les mêmes coordonnées que ce [`Point`](../../point/).
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../)
-* espace de noms [Aspose.PSD](../../pointf/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

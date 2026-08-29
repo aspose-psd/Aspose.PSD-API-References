@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.Items
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit les éléments de descripteur des données de la couche dobjets intelligents dans le fichier PSD.
+title: "SmartObjectResource.Items"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource propriété. Obtient ou définit les éléments de descripteur des données du calque d'objet intelligent dans le fichier PSD"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Items property
 
-Obtient ou définit les éléments de descripteur des données de la couche d'objets intelligents dans le fichier PSD.
+Obtient ou définit les éléments du descripteur des données du calque d'objet dynamique dans le fichier PSD.
 
 ```csharp
 public override OSTypeStructure[] Items { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les éléments descripteurs des informations de calque placé.
+Les éléments de descripteur des informations du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

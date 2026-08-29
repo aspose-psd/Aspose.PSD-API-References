@@ -1,14 +1,15 @@
 ---
-title: Class Shape
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Shape classe. La forme. Un ensemble continu de points connectés à laide dune règle spécifique.
+title: "Classe Shape"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Shape. La forme. Un ensemble continu de points reliés selon une règle spécifique"
 type: docs
-weight: 5420
+weight: 5920
 url: /fr/net/aspose.psd/shape/
 ---
+{{< psd/tize >}}
 ## Shape class
 
-La forme. Un ensemble continu de points connectés à l'aide d'une règle spécifique.
+La forme. Un ensemble continu de points connectés selon une règle spécifique.
 
 ```csharp
 public abstract class Shape : ObjectWithBounds
@@ -16,25 +17,25 @@ public abstract class Shape : ObjectWithBounds
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Obtient les limites de l'objet. |
 | abstract [Center](../../aspose.psd/shape/center/) { get; } | Obtient le centre de la forme. |
-| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Obtient une valeur indiquant si la forme a des segments. |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Obtient les segments de forme. |
+| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Obtient une valeur indiquant si la forme possède des segments. |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Obtient les segments de la forme. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix) | Obtient les limites de l'objet. |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | Obtient les limites de l'objet. |
 | abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | Applique la transformation spécifiée à la forme. |
 
-### Voir également
+### Voir aussi
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

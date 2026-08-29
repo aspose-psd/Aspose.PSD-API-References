@@ -1,34 +1,35 @@
 ---
-title: Pen.DashCap
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit le style de majuscule utilisé à la fin des tirets qui composent les lignes pointillées dessinées avec cePen .
+title: "Pen.DashCap"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Pen property. Obtient ou définit le style de cap utilisé à la fin des tirets qui composent les lignes pointillées tracées avec ce Pen"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/pen/dashcap/
 ---
+{{< psd/tize >}}
 ## Pen.DashCap property
 
-Obtient ou définit le style de majuscule utilisé à la fin des tirets qui composent les lignes pointillées dessinées avec ce[`Pen`](../) .
+Obtient ou définit le style de cap utilisé à la fin des tirets qui composent les lignes pointillées tracées avec ce [`Pen`](../).
 
 ```csharp
 public DashCap DashCap { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'un des`DashCap` valeurs qui représentent le style de majuscule utilisé au début et à la fin des tirets qui composent les lignes pointillées dessinées avec ce[`Pen`](../).
+Une des valeurs `DashCap` qui représente le style de cap utilisé au début et à la fin des tirets qui composent les lignes pointillées tracées avec ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`DashCap` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `DashCap` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

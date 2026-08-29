@@ -1,11 +1,12 @@
 ---
-title: Enum JustificationMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.JustificationMode énumération. Le mode dalignement du texte.
+title: "Enum JustificationMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. Le mode d’alignement du texte"
 type: docs
-weight: 1650
+weight: 1690
 url: /fr/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
 Le mode d'alignement du texte.
@@ -16,15 +17,15 @@ public enum JustificationMode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Left | `0` | Le texte aligné à gauche. |
-| Right | `1` | Le texte aligné à droite. |
-| Center | `2` | Le texte central. |
+| Left | `0` | Le texte aligné à gauche. En mode de gauche à droite, la position Left est Left. En mode de droite à gauche, la position Left est Right. |
+| Right | `1` | Le texte aligné à droite. En mode de gauche à droite, la position Right est Right. En mode de droite à gauche, la position Right est Left. |
+| Center | `2` | Le texte centré. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de l'énumération JustificationMode pour définir l'alignement du texte pour les portions de texte.
+Le code suivant montre la prise en charge de JustificationMode enum pour définir l’alignement du texte pour les portions de texte.
 
 ```csharp
 [C#]
@@ -55,9 +56,9 @@ using (var image = (PsdImage) Image.Load(src))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

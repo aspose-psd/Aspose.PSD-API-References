@@ -1,11 +1,12 @@
 ---
-title: Class DisposableObject
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.DisposableObject classe. Représente un objet jetable.
+title: "Classe DisposableObject"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.DisposableObject. Représente un objet jetable"
 type: docs
-weight: 750
+weight: 760
 url: /fr/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
 Représente un objet jetable.
@@ -16,25 +17,25 @@ public class DisposableObject : IDisposable
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [DisposableObject](disposableobject/)() | Default_Constructor |
+| [DisposableObject](disposableobject/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est libérée. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Supprime l'instance actuelle. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Libère l'instance actuelle. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

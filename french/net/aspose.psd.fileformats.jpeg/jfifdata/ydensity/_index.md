@@ -1,11 +1,12 @@
 ---
-title: JFIFData.YDensity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JFIFData propriété. Obtient ou définit la densité y.
+title: "JFIFData.YDensity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JFIFData. Obtient ou définit la densité y"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.jpeg/jfifdata/ydensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.YDensity property
 
 Obtient ou définit la densité y.
@@ -14,10 +15,10 @@ Obtient ou définit la densité y.
 public short YDensity { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [JFIFData](../)
-* espace de noms [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LineSegment.EndPoint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LineSegment propriété. Obtient le point de fin.
+title: "LineSegment.EndPoint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LineSegment. Obtient le point d'arrivée"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.shapesegments/linesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.EndPoint property
 
-Obtient le point de fin.
+Obtient le point final.
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le point final.
+Le point d'arrivée.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* espace de noms [Aspose.PSD.ShapeSegments](../../linesegment/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

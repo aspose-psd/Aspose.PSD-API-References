@@ -1,11 +1,12 @@
 ---
-title: ExifData.RemoveTag
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData méthode. Supprimer la balise du conteneur
+title: "ExifData.RemoveTag"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ExifData méthode. Supprime la balise du conteneur"
 type: docs
 weight: 1090
 url: /fr/net/aspose.psd.exif/exifdata/removetag/
 ---
+{{< psd/tize >}}
 ## RemoveTag(ExifProperties) {#removetag}
 
 Supprimer la balise du conteneur
@@ -14,16 +15,16 @@ Supprimer la balise du conteneur
 public void RemoveTag(ExifProperties tag)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| tag | ExifProperties | La balise à supprimer |
+| balise | ExifProperties | La balise à supprimer |
 
-### Voir également
+### Voir aussi
 
 * enum [ExifProperties](../../exifproperties/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,14 +36,14 @@ Supprimer la balise du conteneur
 public void RemoveTag(ushort tagId)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| tagId | UInt16 | L'identifiant de balise à supprimer. |
+| tagId | UInt16 | L'identifiant de la balise à supprimer. |
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

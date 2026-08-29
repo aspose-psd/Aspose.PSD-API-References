@@ -1,23 +1,24 @@
 ---
-title: Size.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size propriété. Obtient ou définit la composante horizontale de cetteSize .
+title: "Size.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Size. Obtient ou définit le composant horizontal de ce Size."
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/size/width/
 ---
+{{< psd/tize >}}
 ## Size.Width property
 
-Obtient ou définit la composante horizontale de cette[`Size`](../) .
+Obtient ou définit le composant horizontal de ce [`Size`](../).
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

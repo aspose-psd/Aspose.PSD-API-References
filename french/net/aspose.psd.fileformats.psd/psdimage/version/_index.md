@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Version
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient ou définit la version.
+title: "PsdImage.Version"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PsdImage propriété. Obtient ou définit la version"
 type: docs
-weight: 250
+weight: 260
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/version/
 ---
+{{< psd/tize >}}
 ## PsdImage.Version property
 
 Obtient ou définit la version.
@@ -14,14 +15,14 @@ Obtient ou définit la version.
 public int Version { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La version.
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

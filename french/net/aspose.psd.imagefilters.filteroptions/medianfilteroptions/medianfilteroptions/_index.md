@@ -1,27 +1,28 @@
 ---
-title: MedianFilterOptions.MedianFilterOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MedianFilterOptions constructeur. Initialise une nouvelle instance duMedianFilterOptions classe.
+title: "MedianFilterOptions.MedianFilterOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur MedianFilterOptions. Initialise une nouvelle instance de la classe MedianFilterOptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions constructor
 
-Initialise une nouvelle instance du[`MedianFilterOptions`](../) classe.
+Initialise une nouvelle instance de la classe [`MedianFilterOptions`](../).
 
 ```csharp
 public MedianFilterOptions(int size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size | Int32 | La taille du rectangle de filtre. |
+| taille | Int32 | La taille du rectangle du filtre. |
 
-### Voir également
+### Voir aussi
 
 * class [MedianFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

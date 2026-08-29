@@ -1,14 +1,15 @@
 ---
-title: Enum ProjectType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType énumération. Représente le type de projet dansXmpDynamicMediaPackage .
+title: "Énumération ProjectType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType. Représente le type de projet dans XmpDynamicMediaPackage."
 type: docs
-weight: 5870
+weight: 6370
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-Représente le type de projet dans[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+Représente le type de projet dans [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/).
 
 ```csharp
 public enum ProjectType
@@ -16,16 +17,16 @@ public enum ProjectType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Movie | `0` | Le type de projet de film |
-| Still | `1` | Le type de projet fixe |
+| Movie | `0` | Le type de projet film |
+| Still | `1` | Le type de projet image fixe |
 | Audio | `2` | Le type de projet audio |
 | Custom | `3` | Le type de projet personnalisé |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

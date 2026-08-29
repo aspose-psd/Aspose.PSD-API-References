@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPackage propriété. Obtient lespace de noms XML.
+title: "XmpPackage.XmlNamespace"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpPackage. Obtient l'espace de noms XML"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
 Obtient l'espace de noms XML.
@@ -14,14 +15,14 @@ Obtient l'espace de noms XML.
 public string XmlNamespace { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'espace de noms XML.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackage](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

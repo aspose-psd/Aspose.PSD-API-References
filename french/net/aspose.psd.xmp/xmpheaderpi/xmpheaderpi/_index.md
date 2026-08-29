@@ -1,43 +1,44 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpHeaderPi constructeur. Initialise une nouvelle instance duXmpHeaderPi classe.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpHeaderPi. Initialise une nouvelle instance de la classe XmpHeaderPi."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-Initialise une nouvelle instance du[`XmpHeaderPi`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpHeaderPi](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpHeaderPi`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi(string guid)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | guid | String | L'identifiant unique. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpHeaderPi](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

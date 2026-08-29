@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDestLatitude
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la latitude GPS du point de destination.
+title: "ExifData.GPSDestLatitude"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ExifData propriété. Obtient ou définit la latitude GPS du point de destination"
 type: docs
 weight: 440
 url: /fr/net/aspose.psd.exif/exifdata/gpsdestlatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitude property
 
 Obtient ou définit la latitude GPS du point de destination.
@@ -14,15 +15,15 @@ Obtient ou définit la latitude GPS du point de destination.
 public TiffRational[] GPSDestLatitude { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La latitude GPS du point de destination.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

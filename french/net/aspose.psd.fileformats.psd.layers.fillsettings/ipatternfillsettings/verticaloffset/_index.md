@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.VerticalOffset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPatternFillSettings propriété. Obtient ou définit le décalage vertical.
+title: "IPatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPatternFillSettings. Obtient ou définit le décalage vertical"
 type: docs
-weight: 100
+weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.VerticalOffset property
 
 Obtient ou définit le décalage vertical.
@@ -14,14 +15,14 @@ Obtient ou définit le décalage vertical.
 public int VerticalOffset { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le décalage vertical.
 
-### Voir également
+### Voir aussi
 
 * interface [IPatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

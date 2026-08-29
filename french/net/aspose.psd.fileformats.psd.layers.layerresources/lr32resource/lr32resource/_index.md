@@ -1,27 +1,24 @@
 ---
-title: Lr32Resource.Lr32Resource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lr32Resource constructeur. Initialise une nouvelle instance duLr32Resource classe.
+title: "Lr32Resource.Lr32Resource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Lr32Resource. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource constructor
 
-Initialise une nouvelle instance du[`Lr32Resource`](../) classe.
+Le constructeur par défaut.
 
 ```csharp
-public Lr32Resource(int length)
+public Lr32Resource()
 ```
 
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| length | Int32 | La longueur. |
-
-### Voir également
+### Voir aussi
 
 * class [Lr32Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

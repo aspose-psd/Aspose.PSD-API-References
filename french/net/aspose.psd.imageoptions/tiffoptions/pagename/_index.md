@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit le nom de la page.
+title: "TiffOptions.PageName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit le nom de la page"
 type: docs
-weight: 290
+weight: 300
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
 Obtient ou définit le nom de la page.
@@ -14,14 +15,14 @@ Obtient ou définit le nom de la page.
 public string PageName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de la page.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

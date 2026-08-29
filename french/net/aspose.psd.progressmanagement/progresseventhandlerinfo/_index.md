@@ -1,14 +1,15 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo classe. Cette classe représente des informations sur la progression des opérations de chargement/sauvegarde/exportation dimage qui peuvent être utilisées dans une application externe pour montrer la progression de la conversion à lutilisateur final
+title: "Classe ProgressEventHandlerInfo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo. Cette classe représente les informations sur la progression des opérations de chargement/enregistrement/exportation d'image qui peuvent être utilisées dans une application externe pour afficher la progression de la conversion à l'utilisateur final."
 type: docs
-weight: 5300
+weight: 5800
 url: /fr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-Cette classe représente des informations sur la progression des opérations de chargement/sauvegarde/exportation d'image, qui peuvent être utilisées dans une application externe pour montrer la progression de la conversion à l'utilisateur final
+Cette classe représente les informations sur la progression des opérations de chargement/enregistrement/exportation d'images, qui peuvent être utilisées dans une application externe pour afficher la progression de la conversion à l'utilisateur final
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -16,16 +17,16 @@ public class ProgressEventHandlerInfo
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | Obtient la description de l'événement |
 | [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | Obtient le type de l'événement. |
 | [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | Obtient la limite supérieure de la valeur de progression. |
 | [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | Obtient la valeur de progression actuelle. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre que la progression de la conversion du document fonctionne correctement et sans exception.
+L'exemple suivant montre que la progression de la conversion de document fonctionne correctement et sans exception.
 
 ```csharp
 [C#]
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

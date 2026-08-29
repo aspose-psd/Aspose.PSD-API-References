@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethods
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.DitheringMethods énumération. Les méthodes de tramage utilisées pour contrôler la conversion des couleurs.
+title: "Enum DitheringMethods"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.DitheringMethods enum. Les méthodes de tramage utilisées pour contrôler la conversion des couleurs"
 type: docs
-weight: 780
+weight: 790
 url: /fr/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
 Les méthodes de tramage utilisées pour contrôler la conversion des couleurs.
@@ -16,15 +17,15 @@ public enum DitheringMethods
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | PaletteIgnore | `0` | La palette est ignorée |
 | PaletteConversion | `1` | La palette n'est pas ignorée et une conversion de couleur judicieuse doit être appliquée. |
 | CustomConverter | `2` | Le convertisseur personnalisé. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

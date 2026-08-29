@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetLabel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpBasicPackage méthode. Définit létiquette.
+title: "XmpBasicPackage.SetLabel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpBasicPackage. Définit l'étiquette"
 type: docs
-weight: 60
+weight: 80
 url: /fr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetLabel method
 
 Définit l'étiquette.
@@ -14,14 +15,14 @@ Définit l'étiquette.
 public void SetLabel(string label)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| label | String | L'étiquette. |
+| étiquette | String | L'étiquette. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpBasicPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

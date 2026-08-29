@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Brushes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms fournit des classes dassistance et des méthodes pour travailler avec différents types de pinceaux.
+title: "Aspose.PSD.Brushes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms fournit des classes et des méthodes d'aide pour travailler avec différents types de pinceaux."
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.brushes/
 ---
-L'espace de noms fournit des classes d'assistance et des méthodes pour travailler avec différents types de pinceaux.
+{{< psd/tize >}}
+L'espace de noms fournit des classes et des méthodes d'aide pour travailler avec différents types de pinceaux.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [HatchBrush](./hatchbrush/) | Définit un pinceau rectangulaire avec un style de hachures, une couleur de premier plan et une couleur d'arrière-plan. Cette classe ne peut pas être héritée. |
-| [LinearGradientBrush](./lineargradientbrush/) | Encapsule un[`Brush`](../aspose.psd/brush/) avec un dégradé linéaire. Cette classe ne peut pas être héritée. |
-| [LinearGradientBrushBase](./lineargradientbrushbase/) | Représente un[`Brush`](../aspose.psd/brush/) avec des capacités de dégradé et des propriétés appropriées. |
-| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | Représente un[`Brush`](../aspose.psd/brush/) avec dégradé linéaire défini par plusieurs couleurs et positions appropriées. Cette classe ne peut pas être héritée. |
-| [PathGradientBrush](./pathgradientbrush/) | Encapsule un[`Brush`](../aspose.psd/brush/) objet avec un dégradé. Cette classe ne peut pas être héritée. |
-| [PathGradientBrushBase](./pathgradientbrushbase/) | Représente un[`Brush`](../aspose.psd/brush/) avec fonctionnalité de gradient de chemin de base. |
-| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Encapsule un[`Brush`](../aspose.psd/brush/) objet avec un dégradé. Cette classe ne peut pas être héritée. |
-| [SolidBrush](./solidbrush/) | Le pinceau solide est destiné à dessiner en continu avec une couleur spécifique. Cette classe ne peut pas être héritée. |
-| [TextureBrush](./texturebrush/) | Chaque propriété du[`TextureBrush`](../aspose.psd.brushes/texturebrush/) la classe est une[`Brush`](../aspose.psd/brush/) objet qui utilise une image pour remplir l'intérieur d'une forme. Cette classe ne peut pas être héritée. |
-| [TransformBrush](./transformbrush/) | A[`Brush`](../aspose.psd/brush/) avec des capacités de transformation. |
+| [HatchBrush](./hatchbrush/) | Définit un pinceau rectangulaire avec un style hachuré, une couleur de premier plan et une couleur d'arrière-plan. Cette classe ne peut pas être héritée. |
+| [LinearGradientBrush](./lineargradientbrush/) | Encapsule un [`Brush`](../aspose.psd/brush/) avec un dégradé linéaire. Cette classe ne peut pas être héritée. |
+| [LinearGradientBrushBase](./lineargradientbrushbase/) | Représente un [`Brush`](../aspose.psd/brush/) avec des capacités de dégradé et des propriétés appropriées. |
+| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | Représente un [`Brush`](../aspose.psd/brush/) avec un dégradé linéaire défini par plusieurs couleurs et des positions appropriées. Cette classe ne peut pas être héritée. |
+| [PathGradientBrush](./pathgradientbrush/) | Encapsule un objet [`Brush`](../aspose.psd/brush/) avec un dégradé. Cette classe ne peut pas être héritée. |
+| [PathGradientBrushBase](./pathgradientbrushbase/) | Représente un [`Brush`](../aspose.psd/brush/) avec une fonctionnalité de dégradé de chemin de base. |
+| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | Encapsule un objet [`Brush`](../aspose.psd/brush/) avec un dégradé. Cette classe ne peut pas être héritée. |
+| [SolidBrush](./solidbrush/) | Le pinceau plein est destiné au dessin continu avec une couleur spécifique. Cette classe ne peut pas être héritée. |
+| [TextureBrush](./texturebrush/) | Chaque propriété de la classe [`TextureBrush`](../aspose.psd.brushes/texturebrush/) est un objet [`Brush`](../aspose.psd/brush/) qui utilise une image pour remplir l'intérieur d'une forme. Cette classe ne peut pas être héritée. |
+| [TransformBrush](./transformbrush/) | Un [`Brush`](../aspose.psd/brush/) avec des capacités de transformation. |
 
 

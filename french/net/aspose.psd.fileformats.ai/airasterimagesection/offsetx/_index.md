@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.OffsetX
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiRasterImageSection propriété. Obtient le décalage X.
+title: "AiRasterImageSection.OffsetX"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiRasterImageSection. Obtient le décalage X"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.ai/airasterimagesection/offsetx/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetX property
 
 Obtient le décalage X.
@@ -14,14 +15,14 @@ Obtient le décalage X.
 public double OffsetX { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le décalage X.
 
-### Voir également
+### Voir aussi
 
 * class [AiRasterImageSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

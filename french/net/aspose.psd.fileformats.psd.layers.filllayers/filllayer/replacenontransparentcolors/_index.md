@@ -1,31 +1,36 @@
 ---
-title: FillLayer.ReplaceNonTransparentColors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FillLayer méthode. Remplace toutes les couleurs non transparentes par une nouvelle couleur et conserve la valeur alpha dorigine pour économiser des bords lisses. Remarque  si vous lutilisez sur des images sans transparence toutes les couleurs seront remplacées par une seule.
+title: "FillLayer.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FillLayer. Remplace toutes les couleurs non transparentes par une nouvelle couleur et préserve la valeur alpha originale pour conserver des bords lisses. Notez que si vous l'utilisez sur des images sans transparence, toutes les couleurs seront remplacées par une seule."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## FillLayer.ReplaceNonTransparentColors method
 
-Remplace toutes les couleurs non transparentes par une nouvelle couleur et conserve la valeur alpha d'origine pour économiser des bords lisses. Remarque : si vous l'utilisez sur des images sans transparence, toutes les couleurs seront remplacées par une seule.
+Remplace toutes les couleurs non transparentes par une nouvelle couleur et préserve la valeur alpha originale pour conserver des bords lisses. Remarque : si vous l'utilisez sur des images sans transparence, toutes les couleurs seront remplacées par une seule.
 
 ```csharp
 public override void ReplaceNonTransparentColors(int newColorArgb)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newColorArgb | Int32 | Nouvelle valeur ARGB de couleur pour remplacer les couleurs non transparentes. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge du CMJN ColorMode 16 bits et la possibilité de dessiner à l'aide de la classe Aspose.PSD.Graphics.
+Le code suivant montre la prise en charge du mode couleur CMYK 16 bits et la capacité de dessiner en utilisant la classe Aspose.PSD.Graphics.
 
 ```csharp
 [C#]
 
-using (PsdImage image = (PsdImage)Image.Load("cub16bit_cmyk.psd"))
+string srcFile = "cub16bit_cmyk.psd";
+string outputPsd = "output.psd";
+string outputPng = "output.png";
+
+using (PsdImage image = (PsdImage)Image.Load(srcFile))
 {
     RasterCachedImage raster = image.Layers[0];
     Aspose.PSD.Graphics graphics = new Graphics(raster);
@@ -33,15 +38,15 @@ using (PsdImage image = (PsdImage)Image.Load("cub16bit_cmyk.psd"))
     int height = raster.Height;
     Rectangle rect = new Rectangle(width / 3, height / 3, width - (2 * (width / 3)) - 1, height - (2 * (height / 3)) - 1);
     graphics.DrawRectangle(new Aspose.PSD.Pen(Color.DarkGray, 1), rect);
-    image.Save("output.psd");
-    image.Save("output.png", new PngOptions());
+    image.Save(outputPsd);
+    image.Save(outputPng, new PngOptions());
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FillLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

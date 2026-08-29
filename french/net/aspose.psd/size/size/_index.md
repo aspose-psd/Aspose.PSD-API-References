@@ -1,49 +1,50 @@
 ---
-title: Size.Size
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size constructeur. Initialise une nouvelle instance duSize structure du spécifiéPoint .
+title: "Size.Size"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Size. Initialise une nouvelle instance de la structure Size à partir du Point spécifié."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-Initialise une nouvelle instance du[`Size`](../) structure du spécifié[`Point`](../../point/) .
+Initialise une nouvelle instance de la structure [`Size`](../) à partir du [`Point`](../../point/) spécifié.
 
 ```csharp
 public Size(Point point)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | Point | Le[`Point`](../../point/) à partir duquel initialiser ce[`Size`](../). |
+| point | Point | Le [`Point`](../../point/) à partir duquel initialiser cette [`Size`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-Initialise une nouvelle instance du[`Size`](../) structure à partir des dimensions spécifiées.
+Initialise une nouvelle instance de la structure [`Size`](../) à partir des dimensions spécifiées.
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| width | Int32 | La composante largeur du nouveau[`Size`](../). |
-| height | Int32 | La composante hauteur du nouveau[`Size`](../). |
+| width | Int32 | Le composant largeur du nouveau [`Size`](../). |
+| height | Int32 | Le composant hauteur du nouveau [`Size`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

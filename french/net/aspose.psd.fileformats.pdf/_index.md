@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Pdf
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes pour lintégration du format de fichier PDF.
+title: "Aspose.PSD.FileFormats.Pdf"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes pour l'intégration du format de fichier PDF."
 type: docs
-weight: 180
+weight: 190
 url: /fr/net/aspose.psd.fileformats.pdf/
 ---
+{{< psd/tize >}}
 L'espace de noms contient des classes pour l'intégration du format de fichier PDF.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [PdfCoreOptions](./pdfcoreoptions/) | Les options courantes de conversion en PDF |
+| [PdfCoreOptions](./pdfcoreoptions/) | Les options communes pour la conversion en PDF. |
 | [PdfDocumentInfo](./pdfdocumentinfo/) | Cette classe représente un ensemble de métadonnées pour la description du document. |
 
 

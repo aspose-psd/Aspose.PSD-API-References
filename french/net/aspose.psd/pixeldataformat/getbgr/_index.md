@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetBgr
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat méthode. Obtient la couleur BGR avec un nombre spécifié de bits par échantillon.
+title: "PixelDataFormat.GetBgr"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PixelDataFormat. Obtient la couleur BGR avec un nombre spécifié de bits par échantillon"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/pixeldataformat/getbgr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetBgr method
 
 Obtient la couleur BGR avec un nombre spécifié de bits par échantillon.
@@ -14,18 +15,18 @@ Obtient la couleur BGR avec un nombre spécifié de bits par échantillon.
 public static PixelDataFormat GetBgr(int bitsPerSample)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Le nombre de bits par échantillon. |
 
-### Return_Value
+### Valeur de retour
 
 La couleur BGR.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

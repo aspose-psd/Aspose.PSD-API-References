@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSProcessingMethod
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la chaîne de caractères GPS enregistrant le nom de la méthode utilisée pour la localisation.
+title: "ExifData.GPSProcessingMethod"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la chaîne de caractères GPS enregistrant le nom de la méthode utilisée pour la localisation"
 type: docs
 weight: 580
 url: /fr/net/aspose.psd.exif/exifdata/gpsprocessingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSProcessingMethod property
 
 Obtient ou définit la chaîne de caractères GPS enregistrant le nom de la méthode utilisée pour la localisation.
@@ -14,14 +15,14 @@ Obtient ou définit la chaîne de caractères GPS enregistrant le nom de la mét
 public byte[] GPSProcessingMethod { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La chaîne de caractères GPS enregistrant le nom de la méthode utilisée pour la localisation.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

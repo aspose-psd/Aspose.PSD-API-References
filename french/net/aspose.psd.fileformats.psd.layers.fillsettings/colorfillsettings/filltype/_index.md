@@ -1,11 +1,12 @@
 ---
-title: ColorFillSettings.FillType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorFillSettings propriété. Le type de remplissage
+title: "ColorFillSettings.FillType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ColorFillSettings propriété. Le type de remplissage"
 type: docs
-weight: 20
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings.FillType property
 
 Le type de remplissage
@@ -14,11 +15,11 @@ Le type de remplissage
 public override FillType FillType { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [FillType](../../filltype/)
 * class [ColorFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../colorfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

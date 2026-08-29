@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.PlacedLayerType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit le type des données de la couche dobjet intelligent dans le fichier PSD.
+title: "SmartObjectResource.PlacedLayerType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SmartObjectResource. Obtient ou définit le type des données de calque d'objet intelligent dans le fichier PSD."
 type: docs
 weight: 170
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PlacedLayerType property
 
-Obtient ou définit le type des données de la couche d'objet intelligent dans le fichier PSD.
+Obtient ou définit le type des données du calque d'objet dynamique dans le fichier PSD.
 
 ```csharp
 public override PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le type de données de la couche d'objets intelligents.
+Le type des données de calque d'objet intelligent.
 
-### Voir également
+### Voir aussi
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

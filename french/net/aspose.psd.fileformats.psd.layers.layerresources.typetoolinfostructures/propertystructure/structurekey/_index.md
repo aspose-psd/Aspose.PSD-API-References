@@ -1,11 +1,12 @@
 ---
-title: PropertyStructure.StructureKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PropertyStructure champ. Identifie la clé de structure.
+title: "PropertyStructure.StructureKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ PropertyStructure. Identifie la clé de la structure"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.StructureKey field
 
 Identifie la clé de structure.
@@ -14,10 +15,10 @@ Identifie la clé de structure.
 public const int StructureKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PropertyStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AsyncTaskProgress.AsyncTaskProgress
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AsyncTaskProgress constructeur. Initialise une nouvelle instance duAsyncTaskProgress classe.
+title: "AsyncTaskProgress.AsyncTaskProgress"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur AsyncTaskProgress. Initialise une nouvelle instance de la classe AsyncTaskProgress"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress constructor
 
-Initialise une nouvelle instance du[`AsyncTaskProgress`](../) classe.
+Initialise une nouvelle instance de la classe [`AsyncTaskProgress`](../).
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | progressPercentage | Int32 | Le pourcentage de progression. |
-| duration | TimeSpan | La durée. |
+| durée | TimeSpan | La durée. |
 
-### Voir également
+### Voir aussi
 
 * class [AsyncTaskProgress](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

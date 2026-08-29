@@ -1,27 +1,28 @@
 ---
-title: XmpDate.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDate méthode. Renvoie la valeur contenue dans la chaîne au format XMP.
+title: "XmpDate.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpDate. Retourne la valeur contenue sous forme de chaîne au format XMP"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpDate.GetXmpRepresentation method
 
-Renvoie la valeur contenue dans la chaîne au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la valeur contenue dans la chaîne au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpDate](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

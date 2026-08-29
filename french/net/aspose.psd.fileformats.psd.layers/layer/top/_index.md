@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit la position de la couche supérieure.
+title: "Layer.Top"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit la position du calque supérieur"
 type: docs
-weight: 310
+weight: 320
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-Obtient ou définit la position de la couche supérieure.
+Obtient ou définit la position du calque supérieur.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La position de la couche supérieure.
+La position du calque supérieur.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

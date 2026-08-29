@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternId
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPatternFillSettings propriété. Obtient ou définit lidentifiant du modèle.
+title: "IPatternFillSettings.PatternId"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPatternFillSettings. Obtient ou définit l'identifiant du motif"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternId property
 
-Obtient ou définit l'identifiant du modèle.
+Obtient ou définit l'identifiant du motif.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'identifiant du modèle.
+L'identifiant du motif.
 
-### Voir également
+### Voir aussi
 
 * interface [IPatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

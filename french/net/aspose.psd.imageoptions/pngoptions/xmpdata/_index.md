@@ -1,11 +1,12 @@
 ---
-title: PngOptions.XmpData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PngOptions propriété. Obtient ou définit le conteneur de métadonnées XMP.
+title: "PngOptions.XmpData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PngOptions. Obtient ou définit le conteneur de métadonnées XMP"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.imageoptions/pngoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## PngOptions.XmpData property
 
 Obtient ou définit le conteneur de métadonnées XMP.
@@ -14,15 +15,15 @@ Obtient ou définit le conteneur de métadonnées XMP.
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le conteneur de données XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PngOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../pngoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

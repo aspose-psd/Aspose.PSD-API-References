@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SamplesPerPixel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient les échantillons par pixel. Pour modifier cette valeur de propriété utilisez leBitsPerSample propriété setter.
+title: "TiffOptions.SamplesPerPixel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient les échantillons par pixel. Pour changer la valeur de cette propriété, utilisez le setter de la propriété BitsPerSample"
 type: docs
-weight: 400
+weight: 410
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SamplesPerPixel property
 
-Obtient les échantillons par pixel. Pour modifier cette valeur de propriété, utilisez le[`BitsPerSample`](../bitspersample/) propriété setter.
+Obtient les échantillons par pixel. Pour changer la valeur de cette propriété, utilisez le setter de la propriété [`BitsPerSample`](../bitspersample/).
 
 ```csharp
 public ushort SamplesPerPixel { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les échantillons par pixel.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

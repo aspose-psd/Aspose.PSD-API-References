@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionStructure.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AnimatedDataSectionStructure propriété. Obtient la clé de structure.
+title: "AnimatedDataSectionStructure.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AnimatedDataSectionStructure. Obtient la clé de structure"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Key property
 
 Obtient la clé de structure.
@@ -14,10 +15,10 @@ Obtient la clé de structure.
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AnimatedDataSectionStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

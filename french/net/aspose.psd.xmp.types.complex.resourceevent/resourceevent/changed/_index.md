@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Changed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceEvent propriété. Obtient ou définit la liste délimitée par des pointsvirgules des parties de la ressource qui ont été modifiées depuis lhistorique des événements précédents.
+title: "ResourceEvent.Changed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceEvent. Obtient ou définit la liste séparée par des points-virgules des parties de la ressource qui ont été modifiées depuis l'historique d'événements précédent"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Changed property
 
-Obtient ou définit la liste délimitée par des points-virgules des parties de la ressource qui ont été modifiées depuis l'historique des événements précédents.
+Obtient ou définit la liste délimitée par des points-virgules des parties de la ressource qui ont été modifiées depuis l'historique d'événements précédent.
 
 ```csharp
 public string Changed { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La liste délimitée par des points-virgules des parties de la ressource qui ont été modifiées depuis l'historique des événements précédents.
+La liste séparée par des points-virgules des parties de la ressource qui ont été modifiées depuis l'historique d'événements précédent.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceEvent](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum WarpMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.WarpMode énumération. Spécifie le type de transformation Warp appliquée.
+title: "Énumération WarpMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.WarpMode enum. Spécifie le type de transformation de déformation appliqué"
 type: docs
-weight: 5730
+weight: 6230
 url: /fr/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
-Spécifie le type de transformation Warp appliquée.
+Spécifie le type de transformation de déformation appliquée.
 
 ```csharp
 public enum WarpMode
@@ -16,14 +17,14 @@ public enum WarpMode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Perspective | `0` | Spécifie une déformation de perspective. |
+| Perspective | `0` | Spécifie une déformation en perspective. |
 | Bilinear | `1` | Spécifie une déformation bilinéaire. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

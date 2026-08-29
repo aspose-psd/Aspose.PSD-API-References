@@ -1,11 +1,12 @@
 ---
-title: Font.ChildFontFiles
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient ou définit le tableau des noms de fichiers pour les polices qui composent une police composite.
+title: "Font.ChildFontFiles"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient ou définit le tableau des noms de fichiers pour les polices qui composent une police composite"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.complex.font/font/childfontfiles/
 ---
+{{< psd/tize >}}
 ## Font.ChildFontFiles property
 
 Obtient ou définit le tableau des noms de fichiers pour les polices qui composent une police composite.
@@ -14,14 +15,14 @@ Obtient ou définit le tableau des noms de fichiers pour les polices qui compose
 public string[] ChildFontFiles { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le tableau des noms de fichiers pour les polices qui composent une police composite.
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

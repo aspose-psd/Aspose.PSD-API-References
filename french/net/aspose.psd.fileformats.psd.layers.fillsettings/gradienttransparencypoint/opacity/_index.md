@@ -1,11 +1,12 @@
 ---
-title: GradientTransparencyPoint.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientTransparencyPoint propriété. Obtient ou définit la couleur.
+title: "GradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GradientTransparencyPoint. Obtient ou définit la couleur"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.Opacity property
 
 Obtient ou définit la couleur.
@@ -14,14 +15,14 @@ Obtient ou définit la couleur.
 public double Opacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La couleur.
 
-### Voir également
+### Voir aussi
 
 * class [GradientTransparencyPoint](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

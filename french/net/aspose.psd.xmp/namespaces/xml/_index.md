@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Xml
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Espace de noms XML.
+title: "Namespaces.Xml"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. espace de noms Xml"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp/namespaces/xml/
 ---
+{{< psd/tize >}}
 ## Namespaces.Xml field
 
-Espace de noms XML.
+Espace de noms Xml.
 
 ```csharp
 public const string Xml;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

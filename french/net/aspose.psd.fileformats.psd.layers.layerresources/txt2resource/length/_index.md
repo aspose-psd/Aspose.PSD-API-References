@@ -1,23 +1,24 @@
 ---
-title: Txt2Resource.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Txt2Resource propriété. Obtient la longueur de la ressource de couche en octets.
+title: "Txt2Resource.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Txt2Resource. Obtient la longueur de la ressource de couche en octets"
 type: docs
-weight: 40
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Length property
 
-Obtient la longueur de la ressource de couche en octets.
+Obtient la longueur de la ressource du calque en octets.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Txt2Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

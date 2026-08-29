@@ -1,11 +1,12 @@
 ---
-title: TransparencyIndexResource.TransparencyIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TransparencyIndexResource propriété. Obtient ou définit lindex de couleur de transparence.
+title: "TransparencyIndexResource.TransparencyIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TransparencyIndexResource. Obtient ou définit l'index de couleur de transparence"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindex/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.TransparencyIndex property
 
 Obtient ou définit l'index de couleur de transparence.
@@ -14,14 +15,14 @@ Obtient ou définit l'index de couleur de transparence.
 public short TransparencyIndex { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'indice de couleur de transparence.
+L'index de couleur de transparence.
 
-### Voir également
+### Voir aussi
 
 * class [TransparencyIndexResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

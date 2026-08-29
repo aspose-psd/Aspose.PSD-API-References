@@ -1,11 +1,12 @@
 ---
-title: NonGenericList.GetEnumerator
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericList méthode. Renvoie un énumérateur qui parcourt une collection.
+title: "NonGenericList.GetEnumerator"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "NonGenericList méthode. Retourne un énumérateur qui parcourt une collection"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/nongenericlist/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericList.GetEnumerator method
 
 Renvoie un énumérateur qui parcourt une collection.
@@ -14,14 +15,14 @@ Renvoie un énumérateur qui parcourt une collection.
 public IEnumerator GetEnumerator()
 ```
 
-### Return_Value
+### Valeur de retour
 
-UnIEnumerator objet qui peut être utilisé pour parcourir la collection.
+Un objet IEnumerator qui peut être utilisé pour parcourir la collection.
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericList](../)
-* espace de noms [Aspose.PSD](../../nongenericlist/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

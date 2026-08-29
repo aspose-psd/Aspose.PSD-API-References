@@ -1,11 +1,12 @@
 ---
-title: ILayerEffect.EffectType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ILayerEffect propriété. Obtient un type deffet
+title: "ILayerEffect.EffectType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ILayerEffect. Obtient le type d'effet"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.EffectType property
 
 Obtient un type d'effet
@@ -14,9 +15,9 @@ Obtient un type d'effet
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la propriété ILayerEffect.EffectType.
+Le code suivant montre la prise en charge de la propriété ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -47,11 +48,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * interface [ILayerEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LnsrResource.TypeToolKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LnsrResource champ. La clé dinformations sur loutil de type.
+title: "LnsrResource.TypeToolKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LnsrResource champ. La clé d'information de l'outil de type"
 type: docs
-weight: 90
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LnsrResource.TypeToolKey field
 
-La clé d'informations sur l'outil de type.
+La clé d'information de l'outil de type.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LnsrResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

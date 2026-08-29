@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetSigmaBellShape
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinearGradientBrush méthode. Crée une atténuation du dégradé basée sur une courbe en forme de cloche.
+title: "LinearGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LinearGradientBrush. Crée une atténuation du dégradé basée sur une courbe en forme de cloche."
 type: docs
-weight: 60
+weight: 80
 url: /fr/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-Crée une atténuation du dégradé basée sur une courbe en forme de cloche.
+Crée une décroissance de dégradé basée sur une courbe en cloche.
 
 ```csharp
 public void SetSigmaBellShape(float focus)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| focus | Single | Une valeur comprise entre 0 et 1 qui spécifie le centre du dégradé (le point où la couleur de départ et la couleur de fin sont mélangées de manière égale). |
+| focus | Single | Une valeur comprise entre 0 et 1 qui spécifie le centre du dégradé (le point où la couleur de départ et la couleur de fin sont mélangées à parts égales). |
 
-### Voir également
+### Voir aussi
 
 * class [LinearGradientBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-Crée une atténuation du dégradé basée sur une courbe en forme de cloche.
+Crée une décroissance de dégradé basée sur une courbe en cloche.
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | focus | Single | Une valeur comprise entre 0 et 1 qui spécifie le centre du dégradé (le point où le dégradé est composé uniquement de la couleur de fin). |
-| scale | Single | Une valeur comprise entre 0 et 1 qui spécifie la vitesse à laquelle les couleurs tombent du*focus*. |
+| scale | Single | Une valeur comprise entre 0 et 1 qui spécifie la rapidité avec laquelle les couleurs s’atténuent depuis le *focus*. |
 
-### Voir également
+### Voir aussi
 
 * class [LinearGradientBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

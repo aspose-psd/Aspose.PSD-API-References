@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.CenterCropMark
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PrintFlagsResource propriété. Obtient ou définit la marque de coupe centrale.
+title: "PrintFlagsResource.CenterCropMark"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PrintFlagsResource. Obtient ou définit la marque de recadrage centrale"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.CenterCropMark property
 
-Obtient ou définit la marque de coupe centrale.
+Obtient ou définit la marque de recadrage centrale.
 
 ```csharp
 public byte CenterCropMark { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La marque de coupe centrale.
+La marque de recadrage centrale.
 
-### Voir également
+### Voir aussi
 
 * class [PrintFlagsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

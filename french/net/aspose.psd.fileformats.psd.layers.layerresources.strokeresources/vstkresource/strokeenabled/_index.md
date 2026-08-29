@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeEnabled
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VstkResource propriété. Obtient ou définit une valeur indiquant si leffet de contour est activé.
+title: "VstkResource.StrokeEnabled"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VstkResource. Obtient ou définit une valeur indiquant si l'effet de trait est activé"
 type: docs
-weight: 70
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeEnabled property
 
-Obtient ou définit une valeur indiquant si l'effet de contour est activé.
+Obtient ou définit une valeur indiquant si l'effet de tracé est activé.
 
 ```csharp
 public bool StrokeEnabled { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VstkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

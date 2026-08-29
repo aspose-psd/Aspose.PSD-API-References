@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.AddValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Ajoute une propriété de chaîne.
+title: "XmpDynamicMediaPackage.AddValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpDynamicMediaPackage. Ajoute une propriété de chaîne"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.AddValue method
 
 Ajoute une propriété de chaîne.
@@ -14,21 +15,21 @@ Ajoute une propriété de chaîne.
 public override void AddValue(string key, string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | La représentation sous forme de chaîne de la clé qui est identifiée avec une valeur ajoutée. |
-| value | String | La valeur de chaîne. |
+| clé | String | La représentation sous forme de chaîne de la clé qui est identifiée avec la valeur ajoutée. |
+| valeur | String | La valeur de chaîne. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | clé ; la propriété DynamicMedia ne peut pas être nulle |
+| ArgumentNullException | clé; la propriété DynamicMedia ne peut pas être nulle |
 
-### Voir également
+### Voir aussi
 
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

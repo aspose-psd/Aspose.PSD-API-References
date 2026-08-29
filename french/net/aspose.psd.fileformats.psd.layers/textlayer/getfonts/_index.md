@@ -1,26 +1,27 @@
 ---
-title: TextLayer.GetFonts
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextLayer méthode. Obtient le jeu de polices du calque de texte.
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TextLayer. Obtient l'ensemble de polices du calque texte"
 type: docs
-weight: 80
+weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
-Obtient le jeu de polices du calque de texte.
+Obtient l'ensemble des polices du calque de texte.
 
 ```csharp
 public TextFontInfo[] GetFonts()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le jeu de polices du calque de texte.
+L'ensemble de polices du calque texte.
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment Aspose.PSD obtient les propriétés de mise en forme en ligne du calque de texte.
+Le code suivant montre comment Aspose.PSD récupère les propriétés du formatage en ligne du calque de texte.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // obtient les polices contenues dans le calque de texte
+        // récupère les polices contenues dans le calque de texte
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

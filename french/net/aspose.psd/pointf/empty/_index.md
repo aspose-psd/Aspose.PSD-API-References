@@ -1,23 +1,24 @@
 ---
-title: PointF.Empty
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PointF propriété. Obtient une nouvelle instance duPointF structure qui aX etY valeurs mises à zéro.
+title: "PointF.Empty"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PointF. Obtient une nouvelle instance de la structure PointF dont les valeurs X et Y sont réglées à zéro"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/pointf/empty/
 ---
+{{< psd/tize >}}
 ## PointF.Empty property
 
-Obtient une nouvelle instance du[`PointF`](../) structure qui a[`X`](../x/) et[`Y`](../y/) valeurs mises à zéro.
+Obtient une nouvelle instance de la structure [`PointF`](../) dont les valeurs [`X`](../x/) et [`Y`](../y/) sont réglées à zéro.
 
 ```csharp
 public static PointF Empty { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../)
-* espace de noms [Aspose.PSD](../../pointf/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

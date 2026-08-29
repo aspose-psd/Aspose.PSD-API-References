@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.GetHeaderLength
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OSTypeStructure méthode. Obtient la longueur de lentête.
+title: "OSTypeStructure.GetHeaderLength"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode OSTypeStructure. Obtient la longueur de l’en-tête"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.GetHeaderLength method
 
 Obtient la longueur de l'en-tête.
@@ -14,14 +15,14 @@ Obtient la longueur de l'en-tête.
 public virtual int GetHeaderLength()
 ```
 
-### Return_Value
+### Valeur de retour
 
-La longueur de l'en-tête
+La longueur d'en-tête
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

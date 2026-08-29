@@ -1,38 +1,39 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpArrayHelper méthode. Obtient le code RDF pour desXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpArrayHelper. Obtient le code RDF pour un XmpArrayType spécifique"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-Obtient le code RDF pour des[`XmpArrayType`](../../xmparraytype/) .
+Obtient le code RDF pour un [`XmpArrayType`](../../xmparraytype/) spécifique.
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | xmpArrayType | XmpArrayType | Type du tableau XMP. |
 
-### Return_Value
+### Valeur de retour
 
-Renvoie le code RDF pour des[`XmpArrayType`](../../xmparraytype/).
+Retourne le code RDF pour un [`XmpArrayType`](../../xmparraytype/) spécifique.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Exception d'argument enum non valide |
+| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Exception d'argument d'énumération invalide |
 
-### Voir également
+### Voir aussi
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

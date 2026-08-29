@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Top
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle propriété. Obtient ou définit la coordonnée y du bord supérieur de ceRectanglestructure.
+title: "Rectangle.Top"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Rectangle. Obtient ou définit la coordonnée y du bord supérieur de cette structure Rectangle"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/rectangle/top/
 ---
+{{< psd/tize >}}
 ## Rectangle.Top property
 
-Obtient ou définit la coordonnée y du bord supérieur de ce[`Rectangle`](../)structure.
+Obtient ou définit la coordonnée y du bord supérieur de cette structure [`Rectangle`](../).
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La coordonnée y du bord supérieur de ce[`Rectangle`](../)structure.
+La coordonnée y du bord supérieur de cette structure [`Rectangle`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Size
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DropShadowEffect propriété. Obtient ou définit la valeur de flou en pixels.
+title: "DropShadowEffect.Size"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DropShadowEffect. Obtient ou définit la valeur de flou en pixels"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Size property
 
 Obtient ou définit la valeur de flou en pixels.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur de flou en pixels.
 public int Size { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La taille.
 
-### Voir également
+### Voir aussi
 
 * class [DropShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

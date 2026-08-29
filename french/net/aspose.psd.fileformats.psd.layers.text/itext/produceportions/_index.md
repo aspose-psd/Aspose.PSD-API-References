@@ -1,39 +1,40 @@
 ---
-title: IText.ProducePortions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IText méthode. Produit les nouvelles portions avec des paramètres dentrée ou par défaut.
+title: "IText.ProducePortions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "IText méthode. Produit les nouvelles portions avec des paramètres d'entrée ou par défaut"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itext/produceportions/
 ---
+{{< psd/tize >}}
 ## IText.ProducePortions method
 
-Produit les nouvelles portions avec des paramètres d'entrée ou par défaut.
+Produit les nouvelles portions avec les paramètres d'entrée ou par défaut.
 
 ```csharp
 public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle stylePrototype, 
     ITextParagraph paragraphPrototype)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| portionsOfText | String[] | Les portions de texte à créer[`ITextPortion`](../../itextportion/). |
-| stylePrototype | ITextStyle | Un style qui, s'il n'est pas nul, sera appliqué dans le nouveau, sinon sera par défaut. |
-| paragraphPrototype | ITextParagraph | Un paragraphe qui, s'il n'est pas nul, sera appliqué dans le nouveau, sinon sera par défaut. |
+| portionsOfText | String[] | Les portions de texte pour créer le nouveau [`ITextPortion`](../../itextportion/). |
+| stylePrototype | ITextStyle | Un style qui, s'il n'est pas nul, sera appliqué dans le nouveau [`ITextPortion`](../../itextportion/), sinon il sera par défaut. |
+| paragraphPrototype | ITextParagraph | Un paragraphe qui, s'il n'est pas nul, sera appliqué dans le nouveau [`ITextPortion`](../../itextportion/), sinon il sera par défaut. |
 
-### Return_Value
+### Valeur de retour
 
-Renvoie les nouvelles portions[`ITextPortion`](../../itextportion/) en fonction des paramètres d'entrée.
+Renvoie les nouvelles portions [`ITextPortion`](../../itextportion/) basées sur les paramètres d'entrée.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez rendre différents styles dans un calque de texte dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez rendre différents styles dans une couche de texte dans Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -56,12 +57,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // édite le style de texte "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // édite le style de texte "2\r"
-    newPortions[2].Style.FauxBold = true; // édite le style de texte "Gras"
-    newPortions[3].Style.FauxItalic = true; // édite le style de texte "Italique\r"
-    newPortions[3].Style.BaselineShift = -25; // édite le style de texte "Italique\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // édite le style de texte "Lowercasetext"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -73,13 +74,13 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextPortion](../../itextportion/)
 * interface [ITextStyle](../../itextstyle/)
 * interface [ITextParagraph](../../itextparagraph/)
 * interface [IText](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

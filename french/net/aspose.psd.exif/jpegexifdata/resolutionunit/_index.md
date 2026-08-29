@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit lunité de résolution.
+title: "JpegExifData.ResolutionUnit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegExifData. Obtient ou définit l'unité de résolution"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ResolutionUnit property
 
 Obtient ou définit l'unité de résolution.
@@ -14,15 +15,15 @@ Obtient ou définit l'unité de résolution.
 public ExifUnit ResolutionUnit { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'unité de résolution.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

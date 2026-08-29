@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color propriété. Obtient le nom de ceciColor .
+title: "Color.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Color. Obtient le nom de cette couleur"
 type: docs
 weight: 1520
 url: /fr/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-Obtient le nom de ceci[`Color`](../) .
+Obtient le nom de cette [`Color`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nom de ce[`Color`](../).
+Le nom de cette [`Color`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

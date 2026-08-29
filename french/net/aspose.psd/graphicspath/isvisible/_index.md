@@ -1,215 +1,216 @@
 ---
-title: GraphicsPath.IsVisible
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GraphicsPath méthode. Indique si le point spécifié est contenu dans ceGraphicsPath .
+title: "GraphicsPath.IsVisible"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode GraphicsPath. Indique si le point spécifié est contenu dans ce GraphicsPath"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/graphicspath/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_6}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(float x, float y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Single | Coordonnée x du point à tester. |
-| y | Single | Coordonnée y du point à tester. |
+| x | Single | La coordonnée x du point à tester. |
+| y | Single | La coordonnée y du point à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans ce[`GraphicsPath`](../) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans ce [`GraphicsPath`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(PointF point)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | PointF | UN[`PointF`](../../pointf/) qui représente le point à tester. |
+| point | PointF | Un [`PointF`](../../pointf/) qui représente le point à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans ce[`GraphicsPath`](../) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans ce [`GraphicsPath`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int) {#isvisible_4}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(int x, int y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Int32 | Coordonnée x du point à tester. |
-| y | Int32 | Coordonnée y du point à tester. |
+| x | Int32 | La coordonnée x du point à tester. |
+| y | Int32 | La coordonnée y du point à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans ce[`GraphicsPath`](../) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans ce [`GraphicsPath`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(Point point)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | Point | UN[`Point`](../../point/) qui représente le point à tester. |
+| point | Point | Un [`Point`](../../point/) qui représente le point à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans ce[`GraphicsPath`](../) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans ce [`GraphicsPath`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_7}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) dans la zone de clip visible du fichier spécifié[`Graphics`](../../graphics/) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../) dans la région de découpage visible du [`Graphics`](../../graphics/) spécifié.
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Single | Coordonnée x du point à tester. |
-| y | Single | Coordonnée y du point à tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| x | Single | La coordonnée x du point à tester. |
+| y | Single | La coordonnée y du point à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans ce[`GraphicsPath`](../) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans ce [`GraphicsPath`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(PointF pt, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pt | PointF | UN[`PointF`](../../pointf/) qui représente le point à tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| pt | PointF | Un [`PointF`](../../pointf/) qui représente le point à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie true si le point spécifié est contenu dans this ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans cet objet ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_5}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) , en utilisant le spécifié[`Graphics`](../../graphics/) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../), en utilisant le [`Graphics`](../../graphics/) spécifié.
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Int32 | Coordonnée x du point à tester. |
-| y | Int32 | Coordonnée y du point à tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| x | Int32 | La coordonnée x du point à tester. |
+| y | Int32 | La coordonnée y du point à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans ce[`GraphicsPath`](../) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans ce [`GraphicsPath`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Indique si le point spécifié est contenu dans ce[`GraphicsPath`](../) .
+Indique si le point spécifié est contenu dans ce [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(Point pt, Graphics graphics)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pt | Point | UN[`Point`](../../point/) qui représente le point à tester. |
-| graphics | Graphics | Le[`Graphics`](../../graphics/) pour lesquels tester la visibilité. |
+| pt | Point | Un [`Point`](../../point/) qui représente le point à tester. |
+| graphics | Graphics | Le [`Graphics`](../../graphics/) pour lequel tester la visibilité. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie vrai si le point spécifié est contenu dans ce[`GraphicsPath`](../) ; sinon, faux.
+Cette méthode renvoie true si le point spécifié est contenu dans ce [`GraphicsPath`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

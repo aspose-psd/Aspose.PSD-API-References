@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PolygonShape propriété. Obtient ou définit une valeur indiquant si la forme est fermée.
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PolygonShape. Obtient ou définit une valeur indiquant si la forme est fermée"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
 Obtient ou définit une valeur indiquant si la forme est fermée.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si la forme est fermée.
 public bool IsClosed { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si la forme est fermée ; sinon,`FAUX`.
+`true` si la forme est fermée ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

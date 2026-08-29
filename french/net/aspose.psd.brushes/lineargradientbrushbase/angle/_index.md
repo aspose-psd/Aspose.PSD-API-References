@@ -1,11 +1,12 @@
 ---
-title: LinearGradientBrushBase.Angle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinearGradientBrushBase propriété. Obtient ou définit langle du dégradé.
+title: "LinearGradientBrushBase.Angle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinearGradientBrushBase. Obtient ou définit l'angle du dégradé"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.brushes/lineargradientbrushbase/angle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Angle property
 
 Obtient ou définit l'angle du dégradé.
@@ -14,14 +15,14 @@ Obtient ou définit l'angle du dégradé.
 public float Angle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'angle de dégradé.
+L'angle du dégradé.
 
-### Voir également
+### Voir aussi
 
 * class [LinearGradientBrushBase](../)
-* espace de noms [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

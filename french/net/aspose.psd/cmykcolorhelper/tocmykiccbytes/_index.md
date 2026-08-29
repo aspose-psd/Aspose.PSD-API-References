@@ -1,36 +1,37 @@
 ---
-title: CmykColorHelper.ToCmykIccBytes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColorHelper méthode. Convertit RVB en CMJN à laide de profils ICC personnalisés.
+title: "CmykColorHelper.ToCmykIccBytes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CmykColorHelper. Convertit le RGB en CMYK en utilisant des profils ICC personnalisés"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/cmykcolorhelper/tocmykiccbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykIccBytes method
 
-Convertit RVB en CMJN à l'aide de profils ICC personnalisés.
+Convertit le RGB en CMYK en utilisant des profils ICC personnalisés.
 
 ```csharp
 public static byte[] ToCmykIccBytes(int[] pixels, int startIndex, int length, Stream rgbIccStream, 
     Stream cmykIccStream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pixels | Int32[] | Les couleurs RVB présentées sous forme de valeurs entières 32 bits. |
-| startIndex | Int32 | L'indice de départ de la couleur RVB. |
-| length | Int32 | Le nombre de pixels RVB à convertir. |
-| rgbIccStream | Stream | Le flux de profil RVB. |
-| cmykIccStream | Stream | Le flux de profil CMJN. |
+| pixels | Int32[] | Les couleurs RGB présentées sous forme de valeurs entières 32 bits. |
+| startIndex | Int32 | L'index de départ de la couleur RGB. |
+| longueur | Int32 | Le nombre de pixels RGB à convertir. |
+| rgbIccStream | Stream | Le flux du profil RGB. |
+| cmykIccStream | Stream | Le flux du profil CMYK. |
 
-### Return_Value
+### Valeur de retour
 
-Les couleurs CMJN présentées sous forme de tableau d'octets.
+Les couleurs CMYK présentées sous forme de tableau d'octets.
 
-### Voir également
+### Voir aussi
 
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

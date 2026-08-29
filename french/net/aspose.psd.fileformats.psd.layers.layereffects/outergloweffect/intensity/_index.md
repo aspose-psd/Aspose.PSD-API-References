@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OuterGlowEffect propriété. Obtient ou définit langle en degrés.
+title: "OuterGlowEffect.Intensity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété OuterGlowEffect. Obtient ou définit l'angle en degrés"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
 Obtient ou définit l'angle en degrés.
@@ -14,13 +15,13 @@ Obtient ou définit l'angle en degrés.
 public int Intensity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge d'OuterGlowEffect.
+Le code suivant montre la prise en charge de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OuterGlowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IOSTypeStructureLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader interface. LeOSTypeStructure chargeur de ressources.
+title: "Interface IOSTypeStructureLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader interface. Le chargeur de ressources OSTypeStructure."
 type: docs
-weight: 2520
+weight: 2790
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader interface
 
-Le[`OSTypeStructure`](../ostypestructure/) chargeur de ressources.
+Le chargeur de ressources [`OSTypeStructure`](../ostypestructure/).
 
 ```csharp
 public interface IOSTypeStructureLoader
@@ -16,14 +17,14 @@ public interface IOSTypeStructureLoader
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | Détermine si[`OSTypeStructure`](../ostypestructure/) la ressource peut être chargée à partir du spécifié[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | Charge le[`OSTypeStructure`](../ostypestructure/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | Détermine si la ressource [`OSTypeStructure`](../ostypestructure/) peut être chargée depuis le [`StreamContainer`](../../aspose.psd/streamcontainer/) spécifié. |
+| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | Charge la ressource [`OSTypeStructure`](../ostypestructure/). |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

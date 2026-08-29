@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ChannelInformation propriété. Obtient ou définit lID de chaîne.
+title: "ChannelInformation.ChannelID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ChannelInformation. Obtient ou définit l'ID du canal"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
-Obtient ou définit l'ID de chaîne.
+Obtient ou définit l'ID du canal.
 
 ```csharp
 public short ChannelID { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'identifiant de la chaîne.
+L'ID du canal.
 
-### Voir également
+### Voir aussi
 
 * class [ChannelInformation](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

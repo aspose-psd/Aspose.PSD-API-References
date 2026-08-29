@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSSpeed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la vitesse de déplacement du récepteur GPS.
+title: "ExifData.GPSSpeed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la vitesse du mouvement du récepteur GPS"
 type: docs
 weight: 600
 url: /fr/net/aspose.psd.exif/exifdata/gpsspeed/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeed property
 
-Obtient ou définit la vitesse de déplacement du récepteur GPS.
+Obtient ou définit la vitesse du mouvement du récepteur GPS.
 
 ```csharp
 public TiffRational GPSSpeed { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La vitesse de mouvement du récepteur GPS.
+La vitesse du mouvement du récepteur GPS.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit leBrush qui détermine les attributs de cePen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit le Brush qui détermine les attributs de ce Pen"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-Obtient ou définit le`Brush` qui détermine les attributs de ce[`Pen`](../) .
+Obtient ou définit le `Brush` qui détermine les attributs de ce [`Pen`](../).
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN`Brush` qui détermine les attributs de ce[`Pen`](../).
+Un `Brush` qui détermine les attributs de ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`Brush` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `Brush` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

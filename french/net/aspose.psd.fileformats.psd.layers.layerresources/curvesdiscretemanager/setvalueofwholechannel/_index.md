@@ -1,34 +1,35 @@
 ---
-title: CurvesDiscreteManager.SetValueOfWholeChannel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurvesDiscreteManager méthode. Définit la valeur de lensemble du canal.
+title: "CurvesDiscreteManager.SetValueOfWholeChannel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CurvesDiscreteManager méthode. Définit la valeur du canal complet"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueOfWholeChannel method
 
-Définit la valeur de l'ensemble du canal.
+Définit la valeur de tout le canal.
 
 ```csharp
 public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| channelIndex | Int32 | Index de la chaîne. |
+| channelIndex | Int32 | Indice du canal. |
 | channelValue | Byte[] | La valeur du canal. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Pour définir la valeur Whole Channel, vous devez utiliser un tableau d'octets avec une longueur = 256 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Pour définir la valeur du canal complet, vous devez utiliser un tableau d'octets de longueur = 256 |
 
-### Voir également
+### Voir aussi
 
 * class [CurvesDiscreteManager](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

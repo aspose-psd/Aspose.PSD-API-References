@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetCieLab
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat méthode. Obtient la couleur CIE Lab avec un nombre spécifié de bits par échantillon.
+title: "PixelDataFormat.GetCieLab"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PixelDataFormat. Obtient la couleur CIE Lab avec un nombre spécifié de bits par échantillon"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd/pixeldataformat/getcielab/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCieLab method
 
 Obtient la couleur CIE Lab avec un nombre spécifié de bits par échantillon.
@@ -14,20 +15,20 @@ Obtient la couleur CIE Lab avec un nombre spécifié de bits par échantillon.
 public static PixelDataFormat GetCieLab(int bitsPerL, int bitsPerA, int bitsPerB)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | bitsPerL | Int32 | Le nombre de bits par canal L. |
 | bitsPerA | Int32 | Le nombre de bits par canal A. |
 | bitsPerB | Int32 | Le nombre de bits par canal B. |
 
-### Return_Value
+### Valeur de retour
 
 La couleur CIE Lab.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

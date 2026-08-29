@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color propriété. Obtient un videColor .
+title: "Color.Empty"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Color. Obtient une couleur vide"
 type: docs
 weight: 430
 url: /fr/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-Obtient un vide[`Color`](../) .
+Obtient une couleur vide [`Color`](../).
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le vide[`Color`](../).
+La couleur vide [`Color`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

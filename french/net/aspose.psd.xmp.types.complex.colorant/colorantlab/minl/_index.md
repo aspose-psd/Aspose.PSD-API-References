@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MinL
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantLab champ. La valeur minimale de la composante L
+title: "ColorantLab.MinL"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ ColorantLab. La valeur minimale du composant L"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minl/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinL field
 
-La valeur minimale de la composante L
+La valeur minimale du composant L
 
 ```csharp
 public const float MinL;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorantLab](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

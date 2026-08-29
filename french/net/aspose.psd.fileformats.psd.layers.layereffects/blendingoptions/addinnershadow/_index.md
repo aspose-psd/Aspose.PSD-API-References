@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddInnerShadow
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlendingOptions méthode. Ajoute leffet dombre intérieure.
+title: "BlendingOptions.AddInnerShadow"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode BlendingOptions. Ajoute l'effet d'ombre interne"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddInnerShadow method
 
-Ajoute l'effet d'ombre intérieure.
+Ajoute l'effet d'ombre interne.
 
 ```csharp
 public InnerShadowEffect AddInnerShadow()
 ```
 
-### Return_Value
+### Valeur de retour
 
-créé[`InnerShadowEffect`](../../innershadoweffect/) objet
+Objet [`InnerShadowEffect`](../../innershadoweffect/) créé
 
-### Voir également
+### Voir aussi
 
 * class [InnerShadowEffect](../../innershadoweffect/)
 * class [BlendingOptions](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

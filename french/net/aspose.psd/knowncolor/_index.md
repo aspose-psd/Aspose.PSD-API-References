@@ -1,11 +1,12 @@
 ---
-title: Enum KnownColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.KnownColor énumération. Spécifie les couleurs système connues.
+title: "Enum KnownColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Enum Aspose.PSD.KnownColor. Spécifie les couleurs système connues"
 type: docs
-weight: 5040
+weight: 5530
 url: /fr/net/aspose.psd/knowncolor/
 ---
+{{< psd/tize >}}
 ## KnownColor enumeration
 
 Spécifie les couleurs système connues.
@@ -16,7 +17,7 @@ public enum KnownColor
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Transparent | `27` | Une couleur définie par le système. |
 | AliceBlue | `28` | Une couleur définie par le système. |
@@ -160,9 +161,9 @@ public enum KnownColor
 | Yellow | `166` | Une couleur définie par le système. |
 | YellowGreen | `167` | Une couleur définie par le système. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

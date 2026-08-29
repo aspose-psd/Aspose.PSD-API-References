@@ -1,32 +1,33 @@
 ---
-title: BezierSegment.BezierSegment
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BezierSegment constructeur. Initialise une nouvelle instance duBezierSegment classe.
+title: "BezierSegment.BezierSegment"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur BezierSegment. Initialise une nouvelle instance de la classe BezierSegment"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.shapesegments/beziersegment/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment constructor
 
-Initialise une nouvelle instance du[`BezierSegment`](../) classe.
+Initialise une nouvelle instance de la classe [`BezierSegment`](../).
 
 ```csharp
 public BezierSegment(PointF startPoint, PointF firstControlPoint, PointF secondControlPoint, 
     PointF endPoint)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | startPoint | PointF | Le point de départ. |
 | firstControlPoint | PointF | Le premier point de contrôle. |
 | secondControlPoint | PointF | Le deuxième point de contrôle. |
-| endPoint | PointF | Le point final. |
+| endPoint | PointF | Le point d'arrivée. |
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* espace de noms [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

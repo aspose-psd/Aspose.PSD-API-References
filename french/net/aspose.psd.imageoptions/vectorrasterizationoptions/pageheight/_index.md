@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.PageHeight
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorRasterizationOptions propriété. Obtient ou définit la hauteur de la page.
+title: "VectorRasterizationOptions.PageHeight"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorRasterizationOptions propriété. Obtient ou définit la hauteur de la page"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.imageoptions/vectorrasterizationoptions/pageheight/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageHeight property
 
 Obtient ou définit la hauteur de la page.
@@ -14,10 +15,10 @@ Obtient ou définit la hauteur de la page.
 public float PageHeight { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VectorRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

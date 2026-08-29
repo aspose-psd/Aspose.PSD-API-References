@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TransformMatrix
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextLayer propriété. Obtient ou définit la matrice de transformation
+title: "TextLayer.TransformMatrix"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextLayer. Obtient ou définit la matrice de transformation"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TextLayer.TransformMatrix property
 
 Obtient ou définit la matrice de transformation
@@ -14,18 +15,18 @@ Obtient ou définit la matrice de transformation
 public double[] TransformMatrix { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La matrice de transformation
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment obtenir la taille de la police pour n'importe quelle partie de texte dans le calque de texte.
+Le code suivant montre comment obtenir la taille de police pour n'importe quelle portion de texte dans le calque de texte.
 
 ```csharp
 [C#]
 
-// Extraction de la mauvaise taille de police 
+// Taille de police extraite incorrecte 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -39,30 +40,30 @@ using (var image = Image.Load(filePath))
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // Vérification de la taille de la police de base
+    // Vérification de la taille de police de base
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Vérification de la taille réelle de la police
+    // Vérification de la taille de police réelle
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // Nouvelle API (Un calque de texte peut contenir n'importe quelle quantité de tailles de police)
+    // Nouvelle API (Une couche de texte peut contenir n'importe quelle quantité de tailles de police)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Vérification de la taille de la police de la portion de base
+    // Vérification de la taille de police de la partie de base
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Vérification de la taille de police de la portion réelle
+    // Vérification de la taille de police de la partie réelle
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -70,10 +71,10 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TextLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

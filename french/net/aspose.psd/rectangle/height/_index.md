@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Height
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle propriété. Obtient ou définit la hauteur de ceRectanglestructure.
+title: "Rectangle.Height"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Rectangle. Obtient ou définit la hauteur de cette structure Rectangle"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/rectangle/height/
 ---
+{{< psd/tize >}}
 ## Rectangle.Height property
 
-Obtient ou définit la hauteur de ce[`Rectangle`](../)structure.
+Obtient ou définit la hauteur de cette structure [`Rectangle`](../).
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-La hauteur de ce[`Rectangle`](../) structure.
+La hauteur de cette structure [`Rectangle`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

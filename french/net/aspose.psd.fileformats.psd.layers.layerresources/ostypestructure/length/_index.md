@@ -1,23 +1,24 @@
 ---
-title: OSTypeStructure.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OSTypeStructure propriété. Obtient leOSTypeStructure longueur en octets.
+title: "OSTypeStructure.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété OSTypeStructure. Obtient la longueur de OSTypeStructure en octets"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Length property
 
-Obtient le[`OSTypeStructure`](../) longueur en octets.
+Obtient la longueur de [`OSTypeStructure`](../) en octets.
 
 ```csharp
 public abstract int Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

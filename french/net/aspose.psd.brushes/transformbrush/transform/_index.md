@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.Transform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TransformBrush propriété. Obtient ou définit une copieMatrix qui définit une transformée géométrique locale pour cetteTransformBrush .
+title: "TransformBrush.Transform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TransformBrush. Obtient ou définit une copie de la Matrix qui définit une transformation géométrique locale pour ce TransformBrush."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.brushes/transformbrush/transform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.Transform property
 
-Obtient ou définit une copie[`Matrix`](../../../aspose.psd/matrix/) qui définit une transformée géométrique locale pour cette[`TransformBrush`](../) .
+Obtient ou définit une copie de la [`Matrix`](../../../aspose.psd/matrix/) qui définit une transformation géométrique locale pour ce [`TransformBrush`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une copie du[`Matrix`](../../../aspose.psd/matrix/) qui définit une transformation géométrique qui s'applique uniquement aux remplissages dessinés avec cette[`TransformBrush`](../).
+Une copie de la [`Matrix`](../../../aspose.psd/matrix/) qui définit une transformation géométrique qui s'applique uniquement aux remplissages dessinés avec ce [`TransformBrush`](../).
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

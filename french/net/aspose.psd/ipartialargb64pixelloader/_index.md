@@ -1,11 +1,12 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IPartialArgb64PixelLoader interface. Le chargeur de pixels ARGB 64 bits.
+title: "Interface IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.IPartialArgb64PixelLoader interface. Le chargeur de pixels ARGB 64 bits."
 type: docs
-weight: 4520
+weight: 4990
 url: /fr/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
 Le chargeur de pixels ARGB 64 bits.
@@ -16,14 +17,14 @@ public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | Traite les pixels chargés. |
 
-### Voir également
+### Voir aussi
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

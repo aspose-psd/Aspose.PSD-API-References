@@ -1,49 +1,50 @@
 ---
-title: Region.Translate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Region méthode. Décale les coordonnées de ceRegionpar le montant spécifié.
+title: "Region.Translate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Region. Décale les coordonnées de ce Region du montant spécifié"
 type: docs
-weight: 130
+weight: 140
 url: /fr/net/aspose.psd/region/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float) {#translate_1}
 
-Décale les coordonnées de ce[`Region`](../)par le montant spécifié.
+Décale les coordonnées de ce [`Region`](../) du montant spécifié.
 
 ```csharp
 public void Translate(float dx, float dy)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| dx | Single | Le montant pour compenser cela[`Region`](../) horizontalement. |
-| dy | Single | Le montant pour compenser cela[`Region`](../) verticalement. |
+| dx | Single | Le montant pour décaler ce [`Region`](../) horizontalement. |
+| dy | Single | Le montant pour décaler ce [`Region`](../) verticalement. |
 
-### Voir également
+### Voir aussi
 
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(int, int) {#translate}
 
-Décale les coordonnées de ce[`Region`](../)par le montant spécifié.
+Décale les coordonnées de ce [`Region`](../) du montant spécifié.
 
 ```csharp
 public void Translate(int dx, int dy)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| dx | Int32 | Le montant pour compenser cela[`Region`](../) horizontalement. |
-| dy | Int32 | Le montant pour compenser cela[`Region`](../) verticalement. |
+| dx | Int32 | Le montant pour décaler ce [`Region`](../) horizontalement. |
+| dy | Int32 | Le montant pour décaler ce [`Region`](../) verticalement. |
 
-### Voir également
+### Voir aussi
 
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

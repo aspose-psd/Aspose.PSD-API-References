@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingRight
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerMaskDataFull propriété. Obtient ou définit la position du masque raster droit englobant dans la couche de fichier PSD.
+title: "LayerMaskDataFull.EnclosingRight"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerMaskDataFull. Obtient ou définit la position raster droite englobante dans le calque du fichier PSD"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingRight property
 
-Obtient ou définit la position du masque raster droit englobant dans la couche de fichier PSD.
+Obtient ou définit la position droite du masque raster englobant dans le calque du fichier PSD.
 
 ```csharp
 public int EnclosingRight { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La bonne position du masque de calque.
+La position du masque de calque droit.
 
-### Voir également
+### Voir aussi
 
 * class [LayerMaskDataFull](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

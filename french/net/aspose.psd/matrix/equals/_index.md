@@ -1,38 +1,39 @@
 ---
-title: Matrix.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix méthode. Détermine si la valeur spécifiéeObject est égal à cette instance.
+title: "Matrix.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Matrix. Détermine si l'Object spécifié est égal à cette instance."
 type: docs
 weight: 90
 url: /fr/net/aspose.psd/matrix/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object)
 
-Détermine si la valeur spécifiéeObject est égal à cette instance.
+Détermine si l'Objet spécifié est égal à cette instance.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | LeObject à comparer avec cet exemple. |
+| obj | Object | L'Object à comparer avec cette instance. |
 
-### Return_Value
+### Valeur de retour
 
-`vrai` si le spécifiéObject est égal à cette instance ; sinon,`FAUX` .
+`true` si l'Object spécifié est égal à cette instance ; sinon, `false`.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| NullReferenceException | Le*obj* le paramètre est nul. |
+| NullReferenceException | Le paramètre *obj* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -44,19 +45,19 @@ Détermine si deux matrices sont égales.
 public static bool Equals(Matrix a, Matrix b)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | a | Matrix | La première matrice à comparer. |
 | b | Matrix | La deuxième matrice à comparer. |
 
-### Return_Value
+### Valeur de retour
 
 Vrai si les matrices sont égales.
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

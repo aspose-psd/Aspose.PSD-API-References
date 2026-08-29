@@ -1,28 +1,29 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StringFormat méthode. Définit des taquets de tabulation pour celaStringFormat objet.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode StringFormat. Définit les tabulations pour cet objet StringFormat"
 type: docs
-weight: 140
+weight: 170
 url: /fr/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-Définit des taquets de tabulation pour cela[`StringFormat`](../) objet.
+Définit les tabulations pour cet objet [`StringFormat`](../).
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| firstTabOffset | Single | Le nombre d'espaces entre le début d'une ligne de texte et le premier taquet de tabulation. |
-| tabStops | Single[] | Un tableau de distances entre les taquets de tabulation dans les unités spécifiées par le[`PageUnit`](../../graphics/pageunit/) propriété. |
+| firstTabOffset | Single | Le nombre d'espaces entre le début d'une ligne de texte et la première tabulation. |
+| tabStops | Single[] | Un tableau de distances entre les arrêts de tabulation dans les unités spécifiées par la propriété [`PageUnit`](../../graphics/pageunit/). |
 
-### Voir également
+### Voir aussi
 
 * class [StringFormat](../)
-* espace de noms [Aspose.PSD](../../stringformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

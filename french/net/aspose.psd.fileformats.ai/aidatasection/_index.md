@@ -1,14 +1,15 @@
 ---
-title: Class AiDataSection
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Ai.AiDataSection classe. La section des données au format Ai
+title: "Classe AiDataSection"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Ai.AiDataSection. La section de données du format Ai"
 type: docs
-weight: 1220
+weight: 1230
 url: /fr/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
-La section des données au format Ai
+La section de données du format Ai
 
 ```csharp
 public class AiDataSection : DisposableObject
@@ -16,21 +17,21 @@ public class AiDataSection : DisposableObject
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est libérée. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Supprime l'instance actuelle. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Libère l'instance actuelle. |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Obtient les données de chaîne. |
 
-### Voir également
+### Voir aussi
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

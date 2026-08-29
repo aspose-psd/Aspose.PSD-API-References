@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est affiché. Affiche toutes les illustrations contenues dans le calque sur la planche graphique si vrai.
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est affiché. Affiche toutes les illustrations contenues dans le calque sur le plan de travail si vrai"
 type: docs
-weight: 90
+weight: 110
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-Obtient ou définit une valeur indiquant si ce calque est affiché. Affiche toutes les illustrations contenues dans le calque sur la planche graphique si vrai.
+Obtient ou définit une valeur indiquant si ce calque est affiché. Affiche tout le dessin contenu dans le calque sur le plan de travail si vrai.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette couche est affichée ; sinon,`FAUX` .
+`true` si ce calque est affiché ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

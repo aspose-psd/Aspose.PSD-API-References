@@ -1,14 +1,15 @@
 ---
-title: Enum PositioningTypes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ImageOptions.PositioningTypes énumération. Positionnement et types de taille pour la scène graphique.
+title: "Enum PositioningTypes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.ImageOptions.PositioningTypes enum. Types de positionnement et de taille pour la scène graphique."
 type: docs
-weight: 4890
+weight: 5380
 url: /fr/net/aspose.psd.imageoptions/positioningtypes/
 ---
+{{< psd/tize >}}
 ## PositioningTypes enumeration
 
-Positionnement et types de taille pour la scène graphique.
+Types de positionnement et de taille pour la scène graphique.
 
 ```csharp
 public enum PositioningTypes
@@ -16,15 +17,15 @@ public enum PositioningTypes
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| DefinedByDocument | `0` | Le positionnement absolu sur la page défini par les paramètres de page du document. |
+| DefinedByDocument | `0` | Le positionnement absolu sur la page qui est défini par les paramètres de la page du document. |
 | DefinedByOptions | `1` | Le positionnement absolu sur la page qui est défini par les paramètres de la page d'options. |
-| Relative | `2` | Le positionnement relatif et la taille. Déterminé par la limite de tous les objets graphiques. |
+| Relative | `2` | Le positionnement relatif et la taille. Déterminés par la frontière de tous les objets graphiques. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

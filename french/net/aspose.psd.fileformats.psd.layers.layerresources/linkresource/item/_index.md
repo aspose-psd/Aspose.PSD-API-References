@@ -1,34 +1,35 @@
 ---
-title: LinkResource.Item
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinkResource propriété. Obtient leLinkDataSource à lindex spécifié qui est lidentifiant unique de la source de données du lien..
+title: "LinkResource.Item"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LinkResource propriété. Obtient le LinkDataSource à l'index spécifié qui est l'identifiant unique de la source de données de lien"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-Obtient le[`LinkDataSource`](../../linkdatasource/) à l'index spécifié qui est l'identifiant unique de la source de données du lien..
+Obtient le [`LinkDataSource`](../../linkdatasource/) à l'index spécifié qui est l'identifiant unique de la source de données de lien..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
 ```
 
-| Paramètre | La description |
+| Paramètre | Description |
 | --- | --- |
-| index | L'index en tant qu'identifiant unique de la source de données du lien. |
+| index | L'index en tant qu'identifiant unique de la source de données de lien. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`LinkDataSource`](../../linkdatasource/) instance.
+L'instance du [`LinkDataSource`](../../linkdatasource/).
 
-### Valeur de la propriété
+### Property Value
 
-Le[`LinkDataSource`](../../linkdatasource/) .
+Le [`LinkDataSource`](../../linkdatasource/).
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des objets intelligents intégrés.
+Le code suivant démontre la prise en charge des objets dynamiques intégrés.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter/mettre à jour le contenu intégré d'origine de l'objet intelligent.
+// Cet exemple montre comment modifier le calque d'objet dynamique dans le fichier PSD et exporter / mettre à jour le contenu intégré original de l'objet dynamique.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -70,10 +71,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Exportons l'image de l'objet intelligent intégré à partir du calque d'objet intelligent PSD
+        // Exportons l'image d'objet dynamique intégré depuis le calque d'objet dynamique du PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Vérifions si l'image d'origine est correctement enregistrée
+        // Vérifions si l'image originale est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -81,7 +82,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Inversons l'image originale de l'objet intelligent
+            // Inversons l'image originale de l'objet dynamique
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -92,22 +93,22 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Remplaçons l'image de l'objet intelligent intégré dans la couche PSD
+            // Remplaçons l'image d'objet dynamique intégré dans le calque PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Vérifions si l'image mise à jour est correctement enregistrée
+        // Vérifions si l'image mise à jour est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

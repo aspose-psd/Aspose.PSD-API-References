@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPackageBaseCollection méthode. Obtenir un tableau deXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpPackageBaseCollection. Obtenir un tableau de XmpPackage"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-Obtenir un tableau de[`XmpPackage`](../../xmppackage/) .
+Obtenir un tableau de [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public XmpPackage[] GetPackages()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie un tableau de packages XMP.
+Retourne un tableau de packages XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

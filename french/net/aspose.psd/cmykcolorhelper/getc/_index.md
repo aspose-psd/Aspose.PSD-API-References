@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.GetC
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColorHelper méthode. Obtient la valeur du composant cyan.
+title: "CmykColorHelper.GetC"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CmykColorHelper. Obtient la valeur du composant cyan"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/cmykcolorhelper/getc/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetC method
 
 Obtient la valeur du composant cyan.
@@ -14,18 +15,18 @@ Obtient la valeur du composant cyan.
 public static int GetC(int cmyk)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| cmyk | Int32 | La couleur CMJN présentée sous la forme d'une valeur entière 32 bits. |
+| cmyk | Int32 | La couleur CMYK présentée sous forme de valeur entière 32 bits. |
 
-### Return_Value
+### Valeur de retour
 
 La valeur du composant cyan.
 
-### Voir également
+### Voir aussi
 
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

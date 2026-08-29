@@ -1,11 +1,12 @@
 ---
-title: WatermarkResource.IsWatermark
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: WatermarkResource propriété. Obtient ou définit une valeur indiquant si cette instance est un filigrane.
+title: "WatermarkResource.IsWatermark"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "WatermarkResource property. Obtient ou définit une valeur indiquant si cette instance est un filigrane"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.IsWatermark property
 
 Obtient ou définit une valeur indiquant si cette instance est un filigrane.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance est un filigrane.
 public bool IsWatermark { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est un filigrane ; sinon,`FAUX` .
+`true` si cette instance est un filigrane ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [WatermarkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

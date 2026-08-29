@@ -1,33 +1,34 @@
 ---
-title: IOSTypeStructureLoader.Load
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IOSTypeStructureLoader méthode. Charge leOSTypeStructure .
+title: "IOSTypeStructureLoader.Load"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IOSTypeStructureLoader. Charge le OSTypeStructure"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.Load method
 
-Charge le[`OSTypeStructure`](../../ostypestructure/) .
+Charge le [`OSTypeStructure`](../../ostypestructure/).
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Le conteneur de flux à partir duquel charger. |
+| streamContainer | StreamContainer | Le conteneur de flux à charger depuis. |
 
-### Return_Value
+### Valeur de retour
 
-Le chargé[`OSTypeStructure`](../../ostypestructure/) ressource.
+La ressource [`OSTypeStructure`](../../ostypestructure/) chargée.
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

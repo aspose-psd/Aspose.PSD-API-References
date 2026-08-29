@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.Validate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions méthode. Valide si les options ont une combinaison valide de balises
+title: "TiffOptions.Validate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffOptions. Valide si les options ont une combinaison valide d'étiquettes"
 type: docs
-weight: 750
+weight: 760
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/validate/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Validate method
 
-Valide si les options ont une combinaison valide de balises
+Valide si les options ont une combinaison valide de balises.
 
 ```csharp
 public void Validate()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

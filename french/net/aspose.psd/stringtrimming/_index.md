@@ -1,14 +1,15 @@
 ---
-title: Enum StringTrimming
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.StringTrimming énumération. Spécifie comment couper les caractères dune chaîne qui ne rentre pas complètement dans une forme de mise en page.
+title: "Énumération StringTrimming"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.StringTrimming. Spécifie comment tronquer les caractères d'une chaîne qui ne tient pas complètement dans une forme de mise en page"
 type: docs
-weight: 5690
+weight: 6190
 url: /fr/net/aspose.psd/stringtrimming/
 ---
+{{< psd/tize >}}
 ## StringTrimming enumeration
 
-Spécifie comment couper les caractères d'une chaîne qui ne rentre pas complètement dans une forme de mise en page.
+Spécifie comment tronquer les caractères d'une chaîne qui ne tient pas complètement dans une forme de mise en page.
 
 ```csharp
 public enum StringTrimming
@@ -16,18 +17,18 @@ public enum StringTrimming
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| None | `0` | Spécifie aucun découpage. |
-| Character | `1` | Spécifie que le texte est coupé au caractère le plus proche. |
-| Word | `2` | Spécifie que le texte est coupé au mot le plus proche. |
-| EllipsisCharacter | `3` | Spécifie que le texte est coupé au caractère le plus proche et qu'une ellipse est insérée à la fin d'une ligne coupée. |
-| EllipsisWord | `4` | Spécifie que le texte est coupé au mot le plus proche et des points de suspension sont insérés à la fin d'une ligne coupée. |
-| EllipsisPath | `5` | Le centre est supprimé des lignes coupées et remplacé par une ellipse. L'algorithme conserve autant que possible le dernier segment délimité par des barres obliques de la ligne. |
+| None | `0` | Spécifie aucun rognage. |
+| Character | `1` | Spécifie que le texte est tronqué au caractère le plus proche. |
+| Word | `2` | Spécifie que le texte est tronqué au mot le plus proche. |
+| EllipsisCharacter | `3` | Spécifie que le texte est tronqué au caractère le plus proche, et qu'une ellipse est insérée à la fin d'une ligne tronquée. |
+| EllipsisWord | `4` | Spécifie que le texte est tronqué au mot le plus proche, et qu'une ellipse est insérée à la fin d'une ligne tronquée. |
+| EllipsisPath | `5` | Le centre est supprimé des lignes tronquées et remplacé par une ellipse. L'algorithme conserve autant que possible le dernier segment de la ligne délimité par des barres obliques. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

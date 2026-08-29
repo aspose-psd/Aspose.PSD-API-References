@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.ColorQuantizationMethod
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageResizeSettings propriété. Obtient ou définit la méthode de quantification des couleurs.
+title: "ImageResizeSettings.ColorQuantizationMethod"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageResizeSettings. Obtient ou définit la méthode de quantification des couleurs"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/imageresizesettings/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorQuantizationMethod property
 
 Obtient ou définit la méthode de quantification des couleurs.
@@ -14,15 +15,15 @@ Obtient ou définit la méthode de quantification des couleurs.
 public ColorQuantizationMethod ColorQuantizationMethod { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La méthode de quantification des couleurs.
 
-### Voir également
+### Voir aussi
 
 * enum [ColorQuantizationMethod](../../colorquantizationmethod/)
 * class [ImageResizeSettings](../)
-* espace de noms [Aspose.PSD](../../imageresizesettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

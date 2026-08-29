@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericList méthode. Copie les éléments duICollection à unArray  à partir dun certainArray index.
+title: "NonGenericList.CopyTo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "NonGenericList méthode. Copie les éléments de l'ICollection dans un tableau en commençant à un index de tableau particulier"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-Copie les éléments duICollection à unArray , à partir d'un certainArray index.
+Copie les éléments de l'ICollection dans un Array, en commençant à un indice d'Array particulier.
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| array | Array | Le unidimensionnelArray qui est la destination des éléments copiés à partir deICollection . LeArray doit avoir une indexation de base zéro. |
-| index | Int32 | L'indice de base zéro dans*array* à laquelle la copie commence. |
+| array | Array | Le Array unidimensionnel qui est la destination des éléments copiés depuis l'ICollection. Le Array doit avoir un indexage à base zéro. |
+| index | Int32 | L'indice à base zéro dans *array* où la copie commence. |
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericList](../)
-* espace de noms [Aspose.PSD](../../nongenericlist/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

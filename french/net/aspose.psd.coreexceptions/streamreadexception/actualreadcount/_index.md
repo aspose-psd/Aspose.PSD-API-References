@@ -1,11 +1,12 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamReadException propriété. Obtient le nombre réel doctets lus.
+title: "StreamReadException.ActualReadCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StreamReadException. Obtient le nombre réel d'octets lus"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
 Obtient le nombre réel d'octets lus.
@@ -14,14 +15,14 @@ Obtient le nombre réel d'octets lus.
 public int ActualReadCount { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nombre réel d'octets lus.
 
-### Voir également
+### Voir aussi
 
 * class [StreamReadException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.Size
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image propriété. Obtient la taille de limage.
+title: "Image.Size"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Image. Obtient la taille de l'image"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
 Obtient la taille de l'image.
@@ -14,15 +15,15 @@ Obtient la taille de l'image.
 public Size Size { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La taille de l'image.
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../../size/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

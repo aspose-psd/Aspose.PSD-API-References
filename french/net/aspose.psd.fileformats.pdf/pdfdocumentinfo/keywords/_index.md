@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfDocumentInfo propriété. Obtient ou définit les motsclés du document.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PdfDocumentInfo. Obtient ou définit les mots‑clés du document"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Keywords property
 
-Obtient ou définit les mots-clés du document.
+Obtient ou définit les mots‑clés du document.
 
 ```csharp
 public string Keywords { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PdfDocumentInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

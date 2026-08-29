@@ -1,11 +1,12 @@
 ---
-title: Struct Color
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Color structure. La couleur du pixel.
+title: "Structure Color"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Structure Aspose.PSD.Color. La couleur du pixel."
 type: docs
 weight: 290
 url: /fr/net/aspose.psd/color/
 ---
+{{< psd/tize >}}
 ## Color structure
 
 La couleur du pixel.
@@ -16,7 +17,7 @@ public struct Color
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | static [AliceBlue](../../aspose.psd/color/aliceblue/) { get; } | Obtient une couleur définie par le système. |
 | static [AntiqueWhite](../../aspose.psd/color/antiquewhite/) { get; } | Obtient une couleur définie par le système. |
@@ -60,7 +61,7 @@ public struct Color
 | static [DeepSkyBlue](../../aspose.psd/color/deepskyblue/) { get; } | Obtient une couleur définie par le système. |
 | static [DimGray](../../aspose.psd/color/dimgray/) { get; } | Obtient une couleur définie par le système. |
 | static [DodgerBlue](../../aspose.psd/color/dodgerblue/) { get; } | Obtient une couleur définie par le système. |
-| static [Empty](../../aspose.psd/color/empty/) { get; } | Obtient un vide`Color` . |
+| static [Empty](../../aspose.psd/color/empty/) { get; } | Obtient un `Color` vide. |
 | static [Firebrick](../../aspose.psd/color/firebrick/) { get; } | Obtient une couleur définie par le système. |
 | static [FloralWhite](../../aspose.psd/color/floralwhite/) { get; } | Obtient une couleur définie par le système. |
 | static [ForestGreen](../../aspose.psd/color/forestgreen/) { get; } | Obtient une couleur définie par le système. |
@@ -160,39 +161,45 @@ public struct Color
 | static [WhiteSmoke](../../aspose.psd/color/whitesmoke/) { get; } | Obtient une couleur définie par le système. |
 | static [Yellow](../../aspose.psd/color/yellow/) { get; } | Obtient une couleur définie par le système. |
 | static [YellowGreen](../../aspose.psd/color/yellowgreen/) { get; } | Obtient une couleur définie par le système. |
-| [A](../../aspose.psd/color/a/) { get; } | Obtient la valeur du composant alpha de ce`Color`structure. |
-| [B](../../aspose.psd/color/b/) { get; } | Obtient la valeur du composant bleu de ce`Color`structure. |
-| [G](../../aspose.psd/color/g/) { get; } | Obtient la valeur du composant vert de ce`Color`structure. |
-| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | Obtient une valeur indiquant si cela`Color` la structure n'est pas initialisée. |
-| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | Obtient une valeur indiquant si cela`Color` la structure est une couleur prédéfinie. Les couleurs prédéfinies sont représentées par les éléments du[`KnownColor`](../knowncolor/) énumération. |
-| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | Obtient une valeur indiquant si cela`Color` structure est une couleur nommée ou un membre de la[`KnownColor`](../knowncolor/) énumération. |
-| [Name](../../aspose.psd/color/name/) { get; } | Obtient le nom de ceci`Color` . |
-| [R](../../aspose.psd/color/r/) { get; } | Obtient la valeur du composant rouge de ce`Color`structure. |
+| [A](../../aspose.psd/color/a/) { get; } | Obtient la valeur du composant alpha de cette structure `Color`. |
+| [B](../../aspose.psd/color/b/) { get; } | Obtient la valeur du composant bleu de cette structure `Color`. |
+| [G](../../aspose.psd/color/g/) { get; } | Obtient la valeur du composant vert de cette structure `Color`. |
+| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | Obtient une valeur indiquant si cette structure `Color` n'est pas initialisée. |
+| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | Obtient une valeur indiquant si cette structure `Color` est une couleur prédéfinie. Les couleurs prédéfinies sont représentées par les éléments de l'énumération [`KnownColor`](../knowncolor/). |
+| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | Obtient une valeur indiquant si cette structure `Color` est une couleur nommée ou un membre de l'énumération [`KnownColor`](../knowncolor/). |
+| [Name](../../aspose.psd/color/name/) { get; } | Obtient le nom de cette `Color`. |
+| [R](../../aspose.psd/color/r/) { get; } | Obtient la valeur du composant rouge de cette structure `Color`. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | Crée un`Color` structure à partir d'une valeur ARGB 32 bits. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | Crée un`Color` structure du spécifié`Color` structure, mais avec la nouvelle valeur alpha spécifiée. Bien que cette méthode permette de transmettre une valeur 32 bits pour la valeur alpha, la valeur est limitée à 8 bits. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | Crée un`Color` structure à partir des valeurs de couleur 8 bits spécifiées (rouge, vert et bleu). La valeur alpha est implicitement 255 (entièrement opaque). Bien que cette méthode permette de transmettre une valeur de 32 bits pour chaque composant de couleur, la valeur de chaque composant est limitée à 8 bits. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | Crée un`Color` structure à partir des quatre valeurs du composant ARGB (alpha, rouge, vert et bleu). Bien que cette méthode permette de transmettre une valeur 32 bits pour chaque composant, la valeur de chaque composant est limitée à 8 bits. |
-| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | Crée un`Color` structure de la couleur prédéfinie spécifiée. |
-| static [FromName](../../aspose.psd/color/fromname/)(string) | Crée un`Color`structure à partir du nom spécifié d'une couleur prédéfinie. |
-| override [Equals](../../aspose.psd/color/equals/)(object) | Teste si l'objet spécifié est un`Color` structure et équivaut à celle-ci`Color`structure. |
-| [GetBrightness](../../aspose.psd/color/getbrightness/)() | Obtient la valeur de luminosité teinte-saturation-luminosité (HSB) pour ce`Color`structure. |
-| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | Renvoie un code de hachage pour cela`Color`structure. |
-| [GetHue](../../aspose.psd/color/gethue/)() | Obtient la valeur de teinte teinte-saturation-luminosité (HSB), en degrés, pour ce`Color`structure. |
-| [GetSaturation](../../aspose.psd/color/getsaturation/)() | Obtient la valeur de saturation teinte-saturation-luminosité (HSB) pour ce`Color`structure. |
-| [ToArgb](../../aspose.psd/color/toargb/)() | Obtient la valeur ARGB 32 bits de ce`Color`structure. |
-| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | Obtient le[`KnownColor`](../knowncolor/) valeur de ce`Color`structure. |
-| override [ToString](../../aspose.psd/color/tostring/)() | Convertit ceci`Color` structure en une chaîne lisible par l'homme. |
-| [operator ==](../../aspose.psd/color/op_equality/) | Teste si deux spécifiés`Color`les structures sont équivalentes. |
-| [operator !=](../../aspose.psd/color/op_inequality/) | Teste si deux spécifiés`Color` les structures sont différentes. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | Crée une structure `Color` à partir d'une valeur ARGB de 32 bits. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | Crée une structure `Color` à partir de la structure `Color` spécifiée, mais avec la nouvelle valeur alpha spécifiée. Bien que cette méthode permette de transmettre une valeur de 32 bits pour la valeur alpha, celle‑ci est limitée à 8 bits. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | Crée une structure `Color` à partir des valeurs de couleur 8 bits spécifiées (rouge, vert et bleu). La valeur alpha est implicitement 255 (totalement opaque). Bien que cette méthode permette de transmettre une valeur de 32 bits pour chaque composant de couleur, la valeur de chaque composant est limitée à 8 bits. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | Crée une structure `Color` à partir des quatre valeurs de composants ARGB (alpha, rouge, vert et bleu). Bien que cette méthode permette de transmettre une valeur de 32 bits pour chaque composant, la valeur de chaque composant est limitée à 8 bits. |
+| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | Crée une structure `Color` à partir de la couleur prédéfinie spécifiée. |
+| static [FromName](../../aspose.psd/color/fromname/)(string) | Crée une structure `Color` à partir du nom spécifié d'une couleur prédéfinie. |
+| override [Equals](../../aspose.psd/color/equals/)(object) | Teste si l'objet spécifié est une structure `Color` et est équivalent à cette structure `Color`. |
+| [GetBrightness](../../aspose.psd/color/getbrightness/)() | Obtient la valeur de luminosité (brightness) hue‑saturation‑brightness (HSB) pour cette structure `Color`. |
+| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | Renvoie un code de hachage pour cette structure `Color`. |
+| [GetHue](../../aspose.psd/color/gethue/)() | Obtient la valeur de teinte (hue) hue‑saturation‑brightness (HSB), en degrés, pour cette structure `Color`. |
+| [GetSaturation](../../aspose.psd/color/getsaturation/)() | Obtient la valeur de saturation hue‑saturation‑brightness (HSB) pour cette structure `Color`. |
+| [ToArgb](../../aspose.psd/color/toargb/)() | Obtient la valeur ARGB de 32 bits de cette structure `Color`. |
+| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | Obtient la valeur [`KnownColor`](../knowncolor/) de cette structure `Color`. |
+| override [ToString](../../aspose.psd/color/tostring/)() | Convertit cette structure `Color` en une chaîne lisible par l'homme. |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk)(Color) | La conversion de Color vers CMYKColor. Cette méthode est obsolète. Veuillez utiliser le plus efficace [`ToCmyk`](../cmykcolorhelper/tocmyk/). |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk_1)(Color[]) | La conversion de Color vers CMYKColor. Cette méthode est obsolète. Veuillez utiliser le plus efficace [`ToCmyk`](../cmykcolorhelper/tocmyk/). |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc)(Color) | La conversion de Color vers CMYKColor en utilisant la conversion icc avec les profils par défaut. Cette méthode est obsolète. Veuillez utiliser le plus efficace [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/). |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_2)(Color[]) | La conversion de Color vers CMYKColor en utilisant la conversion icc avec les profils par défaut. Cette méthode est obsolète. Veuillez utiliser le plus efficace [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/). |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_1)(Color, Stream, Stream) | La conversion de Color vers CMYKColor en utilisant la conversion icc avec les profils par défaut. Cette méthode est obsolète. Veuillez utiliser le plus efficace [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/). |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_3)(Color[], Stream, Stream) | La conversion de Color vers CMYKColor en utilisant la conversion icc. Cette méthode est obsolète. Veuillez utiliser le plus efficace [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/). |
+| [operator ==](../../aspose.psd/color/op_equality/) | Teste si deux structures `Color` spécifiées sont équivalentes. |
+| [operator !=](../../aspose.psd/color/op_inequality/) | Teste si deux structures `Color` spécifiées sont différentes. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

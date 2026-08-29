@@ -1,54 +1,55 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpGuid constructeur. Initialise une nouvelle instance duXmpGuid classe.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpGuid. Initialise une nouvelle instance de la classe XmpGuid"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpGuid`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | La valeur. |
+| valeur | String | La valeur. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | la valeur est nulle. |
-| ArgumentException | Valeur guid non valide ; valeur |
+| ArgumentException | Valeur guid invalide;value |
 
-### Voir également
+### Voir aussi
 
 * class [XmpGuid](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-Initialise une nouvelle instance du[`XmpGuid`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(Guid guid)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | guid | Guid | L'identifiant unique. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpGuid](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

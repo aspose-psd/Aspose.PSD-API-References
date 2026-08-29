@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FileStreamContainer propriété. Obtient une valeur indiquant si le flux a été créé explicitement.
+title: "FileStreamContainer.IsCreated"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété FileStreamContainer. Obtient une valeur indiquant si le flux a été créé explicitement"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/filestreamcontainer/iscreated/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsCreated property
 
 Obtient une valeur indiquant si le flux a été créé explicitement.
@@ -14,14 +15,14 @@ Obtient une valeur indiquant si le flux a été créé explicitement.
 public bool IsCreated { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si le flux a été créé explicitement ; sinon,`FAUX` .
+`true` si le flux a été créé explicitement ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [FileStreamContainer](../)
-* espace de noms [Aspose.PSD](../../filestreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

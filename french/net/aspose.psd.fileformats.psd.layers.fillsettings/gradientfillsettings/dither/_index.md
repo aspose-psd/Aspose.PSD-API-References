@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientFillSettings propriété. Obtient ou définit une valeur indiquant si cetteGradientFillSettings est le tramage.
+title: "GradientFillSettings.Dither"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GradientFillSettings. Obtient ou définit une valeur indiquant si cet GradientFillSettings est en tramage"
 type: docs
-weight: 60
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-Obtient ou définit une valeur indiquant si cette[`GradientFillSettings`](../) est le tramage.
+Obtient ou définit une valeur indiquant si ce [`GradientFillSettings`](../) est en tramage.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si tramage ; sinon,`FAUX` .
+`true` si tramage; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [GradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

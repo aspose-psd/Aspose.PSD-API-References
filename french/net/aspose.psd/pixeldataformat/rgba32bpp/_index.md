@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgba32Bpp
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat propriété. Obtient lePixelDataFormat défini pour 32 bits par pixel avec 8 bits pour chacun des alpha rouge vert et bleu.
+title: "PixelDataFormat.Rgba32Bpp"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelDataFormat. Obtient le PixelDataFormat défini pour 32 bits par pixel avec 8 bits pour chacun des canaux alpha, rouge, vert et bleu"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/pixeldataformat/rgba32bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgba32Bpp property
 
-Obtient le[`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacun des alpha, rouge, vert et bleu.
+Obtient le [`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacun des canaux alpha, rouge, vert et bleu.
 
 ```csharp
 public static PixelDataFormat Rgba32Bpp { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le[`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacun des alpha, rouge, vert et bleu.
+Le [`PixelDataFormat`](../) défini pour 32 bits par pixel avec 8 bits pour chacun des canaux alpha, rouge, vert et bleu.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

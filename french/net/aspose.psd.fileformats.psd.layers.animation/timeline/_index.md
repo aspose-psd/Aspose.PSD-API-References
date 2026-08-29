@@ -1,46 +1,47 @@
 ---
-title: Class TimeLine
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine classe. Le modèle doptions de ligne de temps.
+title: "Classe Timeline"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline classe. Le modèle d'options de la timeline"
 type: docs
-weight: 1880
+weight: 1980
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
-## TimeLine class
+{{< psd/tize >}}
+## Timeline class
 
-Le modèle d'options de ligne de temps.
+Le modèle d'options de la chronologie.
 
 ```csharp
-public sealed class TimeLine
+public sealed class Timeline
 ```
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [TimeLine](timeline/)() | Default_Constructor |
+| [Timeline](timeline/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/) { get; set; } | Obtient ou définit l'index de la trame active. |
+| [ActiveFrameIndex](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframeindex/) { get; } | Obtient l'index du cadre actif. |
 | [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | Obtient ou définit la valeur AFSt. |
 | [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | Obtient la liste des cadres. |
 | [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | Obtient ou définit la valeur FsID. |
-| [LayerIds](../../aspose.psd.fileformats.psd.layers.animation/timeline/layerids/) { get; set; } | Obtient ou définit le tableau des identifiants des couches. |
 | [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | Obtient ou définit le nombre de boucles. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [InitializeFrom](../../aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/)(PsdImage) | Crée la nouvelle instance de`TimeLine` , initialisé à partir de l'entrée[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
-| [ApplyTo](../../aspose.psd.fileformats.psd.layers.animation/timeline/applyto/)(PsdImage) | Appliquer les valeurs de ligne de temps actuelles à l'entrée[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save)(Stream, ImageOptionsBase) | Enregistre les données du PsdImage et de la Timeline dans le flux spécifié au format spécifié selon les options d'enregistrement. |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save_1)(string, ImageOptionsBase) | Enregistre les données du PsdImage et de la Timeline à l'emplacement de fichier spécifié au format spécifié selon les options d'enregistrement. |
+| [SwitchActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/switchactiveframe/)(int) | Bascule le cadre actif vers la cible. |
 
-### Exemples
+## Exemples
 
-La classe TimeLine offre une capacité de haut niveau pour manipuler la chronologie de PsdImage, comme modifier le délai d'image ou modifier l'état du calque sur une image spécifique.
+La classe Timeline offre une capacité de haut niveau pour manipuler la chronologie du PsdImage, comme modifier le délai d'un cadre ou éditer l'état du calque sur un cadre spécifique.
 
 ```csharp
 [C#]
@@ -50,40 +51,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Changer la méthode de disposition de l'image 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Modifier la méthode de libération du cadre 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Modification du délai de l'image 2
-    timeLine.Frames[1].Delay = 15;
+    // Modifier le délai du cadre 2
+    timeline.Frames[1].Delay = 15;
 
-    // Modification de l'opacité du 'Calque 1' sur l'image 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Modifier l'opacité de 'Layer 1' sur le cadre 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // déplacer 'Calque 1' dans le coin inférieur gauche de l'image 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // Déplacer 'Layer 1' vers le coin inférieur gauche sur le cadre 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // Ajoute un nouveau cadre
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Change blendMode de 'Calque 1' sur l'image 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Modifier le blendMode de 'Layer 1' sur la trame 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
     // Appliquer les modifications à l'instance PsdImage
-    timeLine.ApplyTo(psdImage);
     psdImage.Save(outputPsd);
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

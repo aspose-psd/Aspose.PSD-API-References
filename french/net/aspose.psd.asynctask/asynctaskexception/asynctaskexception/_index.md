@@ -1,27 +1,28 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AsyncTaskException constructeur. Initialise une nouvelle instance duAsyncTaskException classe.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur AsyncTaskException. Initialise une nouvelle instance de la classe AsyncTaskException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-Initialise une nouvelle instance du[`AsyncTaskException`](../) classe.
+Initialise une nouvelle instance de la classe [`AsyncTaskException`](../).
 
 ```csharp
 public AsyncTaskException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message qui décrit l'erreur. |
 
-### Voir également
+### Voir aussi
 
 * class [AsyncTaskException](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

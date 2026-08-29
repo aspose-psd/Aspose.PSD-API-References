@@ -1,32 +1,33 @@
 ---
-title: LevelsLayer.GetChannel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LevelsLayer méthode. Obtient la chaîne.
+title: "LevelsLayer.GetChannel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LevelsLayer. Obtient le canal"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.GetChannel method
 
-Obtient la chaîne.
+Obtient le canal.
 
 ```csharp
 public LevelChannel GetChannel(int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | index | Int32 | L'index. |
 
-### Return_Value
+### Valeur de retour
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) par indice
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) by index
 
-### Voir également
+### Voir aussi
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

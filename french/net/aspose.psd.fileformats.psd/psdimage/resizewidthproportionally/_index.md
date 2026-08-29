@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Redimensionne la largeur proportionnellement.
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Redimensionne la largeur proportionnellement"
 type: docs
-weight: 600
+weight: 660
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
 Redimensionne la largeur proportionnellement.
@@ -14,17 +15,17 @@ Redimensionne la largeur proportionnellement.
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newWidth | Int32 | La nouvelle largeur. |
-| settings | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
+| paramètres | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,16 +37,16 @@ Redimensionne la largeur proportionnellement.
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newWidth | Int32 | La nouvelle largeur. |
-| resizeType | ResizeType | Type de redimensionnement. |
+| resizeType | ResizeType | Type du redimensionnement. |
 
-### Voir également
+### Voir aussi
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

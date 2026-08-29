@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NvrtResource propriété. Obtient la longueur de la ressource de couche en octets.
+title: "NvrtResource.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété NvrtResource. Obtient la longueur de la ressource de calque en octets"
 type: docs
-weight: 30
+weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/
 ---
+{{< psd/tize >}}
 ## NvrtResource.Length property
 
-Obtient la longueur de la ressource de couche en octets.
+Obtient la longueur de la ressource du calque en octets.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [NvrtResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

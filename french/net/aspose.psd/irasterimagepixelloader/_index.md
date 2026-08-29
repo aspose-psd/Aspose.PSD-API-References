@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IRasterImagePixelLoader interface. Le chargeur de pixels dimage raster.
+title: "Interface IRasterImagePixelLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.IRasterImagePixelLoader. Le chargeur de pixels d'image raster"
 type: docs
-weight: 4570
+weight: 5040
 url: /fr/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
 Le chargeur de pixels d'image raster.
@@ -16,14 +17,14 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Charge partiellement les pixels (par blocs). |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Charge les pixels partiellement (par blocs). |
 
-### Voir également
+### Voir aussi
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StringFormat propriété. Obtient ou définit leStringTrimming énumération pour celaStringFormat objet.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StringFormat. Obtient ou définit l'énumération StringTrimming pour cet objet StringFormat."
 type: docs
-weight: 120
+weight: 130
 url: /fr/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-Obtient ou définit le[`StringTrimming`](../../stringtrimming/) énumération pour cela[`StringFormat`](../) objet.
+Obtient ou définit l'énumération [`StringTrimming`](../../stringtrimming/) pour cet objet [`StringFormat`](../).
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`StringTrimming`](../../stringtrimming/) énumération qui indique comment le texte est dessiné avec cette[`StringFormat`](../) L'objet est coupé lorsqu'il dépasse les bords du rectangle de mise en page.
+Une énumération [`StringTrimming`](../../stringtrimming/) qui indique comment le texte dessiné avec cet objet [`StringFormat`](../) est tronqué lorsqu'il dépasse les bords du rectangle de mise en page.
 
-### Voir également
+### Voir aussi
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* espace de noms [Aspose.PSD](../../stringformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

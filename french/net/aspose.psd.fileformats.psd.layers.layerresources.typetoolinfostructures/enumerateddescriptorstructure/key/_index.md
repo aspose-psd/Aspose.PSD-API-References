@@ -1,11 +1,12 @@
 ---
-title: EnumeratedDescriptorStructure.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: EnumeratedDescriptorStructure propriété. Obtient la clé.
+title: "EnumeratedDescriptorStructure.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété EnumeratedDescriptorStructure. Obtient la clé"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/key/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.Key property
 
 Obtient la clé.
@@ -14,10 +15,10 @@ Obtient la clé.
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [EnumeratedDescriptorStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

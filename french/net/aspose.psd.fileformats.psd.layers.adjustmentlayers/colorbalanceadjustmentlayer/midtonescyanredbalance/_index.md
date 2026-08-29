@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorBalanceAdjustmentLayer propriété. Obtient ou définit la balance des tons moyens cyan rouge.
+title: "ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorBalanceAdjustmentLayer. Obtient ou définit l'équilibre Cyan Rouge des tons moyens."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonescyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance property
 
-Obtient ou définit la balance des tons moyens cyan rouge.
+Obtient ou définit le Midtones Cyan Red Balance.
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'équilibre des tons moyens cyan rouge.
+L'équilibre Cyan Rouge des tons moyens.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | Midtones Cyan Red Balance doit être compris entre -100 et +100. |
+| ArgumentOutOfRangeException | L'équilibre Cyan Rouge des tons moyens doit être compris entre -100 et +100. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de ColorBalanceAdjustmentLayer.
+Le code suivant démontre la prise en charge de la ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorBalanceAdjustmentLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

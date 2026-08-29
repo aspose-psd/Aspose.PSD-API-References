@@ -1,27 +1,28 @@
 ---
-title: Size.GetHashCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Renvoie un code de hachage pour celaSizestructure.
+title: "Size.GetHashCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Retourne un code de hachage pour cette structure Size."
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/size/gethashcode/
 ---
+{{< psd/tize >}}
 ## Size.GetHashCode method
 
-Renvoie un code de hachage pour cela[`Size`](../)structure.
+Retourne un code de hachage pour cette structure [`Size`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une valeur entière qui spécifie une valeur de hachage pour ce[`Size`](../) structure.
+Une valeur entière qui spécifie une valeur de hachage pour cette structure [`Size`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

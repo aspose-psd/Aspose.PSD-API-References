@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OuterGlowEffect propriété. Obtient la valeur de flou en pixels.
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété OuterGlowEffect. Obtient la valeur du flou en pixels"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
 Obtient la valeur de flou en pixels.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La taille.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge d'OuterGlowEffect.
+Le code suivant montre la prise en charge de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OuterGlowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

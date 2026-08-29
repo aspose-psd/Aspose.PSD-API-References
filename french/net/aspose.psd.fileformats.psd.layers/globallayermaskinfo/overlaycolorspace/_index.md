@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GlobalLayerMaskInfo propriété. Obtient ou définit lespace colorimétrique de superposition valeur non documentée.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GlobalLayerMaskInfo. Obtient ou définit la valeur non documentée de l'espace colorimétrique de superposition"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
 Obtient ou définit l'espace colorimétrique de superposition (valeur non documentée).
@@ -14,14 +15,14 @@ Obtient ou définit l'espace colorimétrique de superposition (valeur non docume
 public short OverlayColorSpace { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'espace colorimétrique de superposition.
 
-### Voir également
+### Voir aussi
 
 * class [GlobalLayerMaskInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.ImageFilters.FilterOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms gère les options de filtre.
+title: "Aspose.PSD.ImageFilters.FilterOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms gère les options de filtre"
 type: docs
-weight: 410
+weight: 450
 url: /fr/net/aspose.psd.imagefilters.filteroptions/
 ---
+{{< psd/tize >}}
 L'espace de noms gère les options de filtre.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | Options de filtre grand rectangle |
-| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Les options de filtre de lissage bilatéral. |
+| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | Grandes options de filtre rectangulaires |
+| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Les options du filtre de lissage bilatéral. |
 | [ConvolutionFilterOptions](./convolutionfilteroptions/) | Le filtre de convolution. |
-| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | Options de filtre de déconvolution, classe abstraite |
-| [FilterOptionsBase](./filteroptionsbase/) | Base des options de filtrage, classe abstraite |
+| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | Options du filtre de déconvolution, classe abstraite |
+| [FilterOptionsBase](./filteroptionsbase/) | Base des options de filtre, classe abstraite |
 | [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | Le flou gaussien |
-| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | Gauss Wiener Filter Options Deblur gauss |
+| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | Options du filtre Gauss Wiener Deblur gauss |
 | [MedianFilterOptions](./medianfilteroptions/) | Filtre médian |
-| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Options de filtre de déconvolution deblur motion |
-| [SharpenFilterOptions](./sharpenfilteroptions/) | Les options du filtre Netteté |
-| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | Options de petit filtre rectangulaire |
+| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Options du filtre de déconvolution défloutage mouvement |
+| [SharpenFilterOptions](./sharpenfilteroptions/) | Les options du filtre d'accentuation |
+| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | Petites options de filtre rectangulaires |
 
 

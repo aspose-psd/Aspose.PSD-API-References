@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.X
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FxrpResource propriété. Obtient ou définit le x du point de référence
+title: "FxrpResource.X"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "FxrpResource propriété. Obtient ou définit le x du point de référence"
 type: docs
-weight: 60
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
+{{< psd/tize >}}
 ## FxrpResource.X property
 
 Obtient ou définit le x du point de référence
@@ -14,14 +15,14 @@ Obtient ou définit le x du point de référence
 public double X { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le x du point de référence
 
-### Voir également
+### Voir aussi
 
 * class [FxrpResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

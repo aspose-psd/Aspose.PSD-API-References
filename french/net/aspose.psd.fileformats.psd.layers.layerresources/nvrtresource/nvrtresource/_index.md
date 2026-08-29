@@ -1,49 +1,50 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NvrtResource constructeur. Initialise une nouvelle instance duNvrtResource classe.
+title: "NvrtResource.NvrtResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur NvrtResource. Initialise une nouvelle instance de la classe NvrtResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-Initialise une nouvelle instance du[`NvrtResource`](../) classe.
+Initialise une nouvelle instance de la classe [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [NvrtResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`NvrtResource`](../) classe.
+Initialise une nouvelle instance de la classe [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données de la ressource. |
+| données | Byte[] | Les données de la ressource. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Données NvrtResource non valides. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Données NvrtResource invalides. |
 
-### Voir également
+### Voir aussi
 
 * class [NvrtResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

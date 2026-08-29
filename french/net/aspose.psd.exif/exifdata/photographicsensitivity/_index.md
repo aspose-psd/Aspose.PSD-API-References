@@ -1,11 +1,12 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la sensibilité photographique.
+title: "ExifData.PhotographicSensitivity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ExifData propriété. Obtient ou définit la sensibilité photographique"
 type: docs
 weight: 830
 url: /fr/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.PhotographicSensitivity property
 
 Obtient ou définit la sensibilité photographique.
@@ -14,14 +15,14 @@ Obtient ou définit la sensibilité photographique.
 public uint PhotographicSensitivity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La sensibilité photographique.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

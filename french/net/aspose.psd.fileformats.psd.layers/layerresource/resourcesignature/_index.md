@@ -1,11 +1,12 @@
 ---
-title: LayerResource.ResourceSignature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerResource champ. La signature de ressource commune.
+title: "LayerResource.ResourceSignature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ LayerResource. La signature de ressource commune"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.ResourceSignature field
 
 La signature de ressource commune.
@@ -14,10 +15,10 @@ La signature de ressource commune.
 public const int ResourceSignature;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

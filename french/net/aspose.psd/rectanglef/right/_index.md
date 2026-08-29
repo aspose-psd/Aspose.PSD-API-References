@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Right
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF propriété. Obtient ou définit la coordonnée x qui est la somme deX etWidth de celaRectangleFstructure.
+title: "RectangleF.Right"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleF. Obtient ou définit la coordonnée x qui est la somme de X et Width de cette structure RectangleF."
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-Obtient ou définit la coordonnée x qui est la somme de[`X`](../x/) et[`Width`](../width/) de cela[`RectangleF`](../)structure.
+Obtient ou définit la coordonnée x qui est la somme de [`X`](../x/) et [`Width`](../width/) de cette [`RectangleF`](../) structure.
 
 ```csharp
 public float Right { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-L'abscisse qui est la somme de[`X`](../x/) et[`Width`](../width/) de cela[`RectangleF`](../) structure.
+La coordonnée x qui est la somme de [`X`](../x/) et [`Width`](../width/) de cette [`RectangleF`](../) structure.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

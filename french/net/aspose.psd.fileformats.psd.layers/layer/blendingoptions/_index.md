@@ -1,11 +1,12 @@
 ---
-title: Layer.BlendingOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient les options de fusion.
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient les options de fusion"
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
 Obtient les options de fusion.
@@ -14,15 +15,15 @@ Obtient les options de fusion.
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les options de fusion.
 
-### Voir également
+### Voir aussi
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

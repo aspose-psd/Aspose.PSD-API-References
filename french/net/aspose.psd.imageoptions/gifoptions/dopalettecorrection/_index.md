@@ -1,11 +1,12 @@
 ---
-title: GifOptions.DoPaletteCorrection
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GifOptions propriété. Obtient ou définit une valeur indiquant si la correction de palette est appliquée.
+title: "GifOptions.DoPaletteCorrection"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GifOptions. Obtient ou définit une valeur indiquant si la correction de palette est appliquée"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.imageoptions/gifoptions/dopalettecorrection/
 ---
+{{< psd/tize >}}
 ## GifOptions.DoPaletteCorrection property
 
 Obtient ou définit une valeur indiquant si la correction de palette est appliquée.
@@ -14,18 +15,18 @@ Obtient ou définit une valeur indiquant si la correction de palette est appliqu
 public bool DoPaletteCorrection { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si la correction de palette est appliquée ; sinon,`FAUX` .
+`true` si la correction de palette est appliquée ; sinon, `false`.
 
-### Remarques
+## Remarques
 
-La correction de la palette signifie que chaque fois que l'image est exportée au format GIF, les couleurs de l'image source seront analysées afin de créer la meilleure palette correspondante (au cas où la palette d'image n'existe pas ou n'est pas spécifiée dans les options). Le processus d'analyse prend un certain temps, mais le l'image de sortie aura la meilleure palette de couleurs correspondante et le résultat est visuellement meilleur.
+La correction de palette signifie que chaque fois qu'une image est exportée au format GIF, les couleurs de l'image source sont analysées afin de créer la palette la mieux adaptée (dans le cas où la palette de l'image n'existe pas ou n'est pas spécifiée dans les options). Le processus d'analyse prend un certain temps, cependant l'image résultante disposera de la palette de couleurs la mieux adaptée et le résultat sera visuellement meilleur.
 
-### Voir également
+### Voir aussi
 
 * class [GifOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

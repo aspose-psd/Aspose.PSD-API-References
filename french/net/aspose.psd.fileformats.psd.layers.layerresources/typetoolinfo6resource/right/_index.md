@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Right
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfo6Resource propriété. Obtient ou définit le bon emplacement.
+title: "TypeToolInfo6Resource.Right"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolInfo6Resource. Obtient ou définit l'emplacement droit"
 type: docs
-weight: 110
+weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/right/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Right property
 
-Obtient ou définit le bon emplacement.
+Obtient ou définit la position droite.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le bon emplacement.
+L'emplacement droit.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfo6Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

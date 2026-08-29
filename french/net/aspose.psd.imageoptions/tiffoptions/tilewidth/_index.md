@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileWidth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la largeur des tuiles.
+title: "TiffOptions.TileWidth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la largeur de la tuile"
 type: docs
-weight: 550
+weight: 560
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/tilewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileWidth property
 
-Obtient ou définit la largeur des tuiles.
+Obtient ou définit la largeur de la tuile.
 
 ```csharp
 public uint TileWidth { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

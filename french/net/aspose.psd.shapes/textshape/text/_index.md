@@ -1,11 +1,12 @@
 ---
-title: TextShape.Text
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextShape propriété. Obtient ou définit le texte dessiné.
+title: "TextShape.Text"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextShape. Obtient ou définit le texte dessiné"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
 Obtient ou définit le texte dessiné.
@@ -14,14 +15,14 @@ Obtient ou définit le texte dessiné.
 public string Text { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le texte dessiné.
 
-### Voir également
+### Voir aussi
 
 * class [TextShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../textshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

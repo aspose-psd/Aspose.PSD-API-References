@@ -1,28 +1,29 @@
 ---
-title: RectangleF.Location
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF propriété. Obtient ou définit les coordonnées du coin supérieur gauche de cetteRectangleFstructure.
+title: "RectangleF.Location"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleF. Obtient ou définit les coordonnées du coin supérieur gauche de cette structure RectangleF"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/rectanglef/location/
 ---
+{{< psd/tize >}}
 ## RectangleF.Location property
 
-Obtient ou définit les coordonnées du coin supérieur gauche de cette[`RectangleF`](../)structure.
+Obtient ou définit les coordonnées du coin supérieur gauche de cette structure [`RectangleF`](../).
 
 ```csharp
 public PointF Location { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-UN[`PointF`](../../pointf/) qui représente le coin supérieur gauche de cette[`RectangleF`](../) structure.
+Un [`PointF`](../../pointf/) qui représente le coin supérieur gauche de cette structure [`RectangleF`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

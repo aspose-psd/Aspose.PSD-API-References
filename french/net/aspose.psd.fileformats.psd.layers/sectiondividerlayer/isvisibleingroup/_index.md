@@ -1,40 +1,41 @@
 ---
-title: SectionDividerLayer.IsVisibleInGroup
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SectionDividerLayer propriété. Obtient une valeur indiquant si cette instance est visible dans le groupe si la couche nest pas dans le groupe cela signifie le groupe racine.
+title: "SectionDividerLayer.IsVisibleInGroup"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SectionDividerLayer. Obtient une valeur indiquant si cette instance est visible dans le groupe. Si le calque n'est pas dans un groupe, cela signifie le groupe racine"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers/sectiondividerlayer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## SectionDividerLayer.IsVisibleInGroup property
 
-Obtient une valeur indiquant si cette instance est visible dans le groupe (si la couche n'est pas dans le groupe, cela signifie le groupe racine).
+Obtient une valeur indiquant si cette instance est visible dans le groupe (si le calque n'est pas dans un groupe, cela signifie le groupe racine).
 
 ```csharp
 public override bool IsVisibleInGroup { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est visible dans le groupe ; sinon,`FAUX` .
+`true` si cette instance est visible dans le groupe ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre les couches SectionDividerLayer et comment obtenir le LayerGroup associé.
+Le code suivant montre les calques SectionDividerLayer et comment obtenir le LayerGroup qui leur est lié.
 
 ```csharp
 [C#]
 
-// Le code suivant illustre les couches SectionDividerLayer et comment obtenir le LayerGroup associé.
+// Le code suivant montre les calques SectionDividerLayer et comment obtenir le LayerGroup qui leur est lié.
 
 // Hiérarchie des calques
-// [0] : '</Groupe de calques>' SectionDividerLayer pour le groupe 1
-// [1] : 'Calque 1' Couche régulière
-// [2] : '</Groupe de calques>' SectionDividerLayer pour le groupe 2
-// [3] : '</Groupe de calques>' SectionDividerLayer pour le groupe 3
-// [4] : 'Groupe 3' GroupLayer
-// [5] : couche de groupe 'Groupe 2'
-// [6] : 'Groupe 1' GroupLayer
+//    [0]: '</Layer group>' SectionDividerLayer pour le groupe 1
+//    [1]: 'Layer 1' Calque régulier
+//    [2]: '</Layer group>' SectionDividerLayer pour le groupe 2
+//    [3]: '</Layer group>' SectionDividerLayer pour le groupe 3
+//    [4]: 'Group 3' GroupLayer
+//    [5]: 'Group 2' GroupLayer
+//    [6]: 'Group 1' GroupLayer
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -47,15 +48,15 @@ void AssertAreEqual(object expected, object actual, string message = null)
 using (var image = new PsdImage(100, 100))
 {
     // Création de la hiérarchie des calques
-    // Ajouter le LayerGroup 'Groupe 1'
+    // Ajouter le LayerGroup 'Group 1'
     LayerGroup group1 = image.AddLayerGroup("Group 1", 0, true);
-    // Ajout d'un calque normal
+    // Ajouter un calque ordinaire
     Layer layer1 = new Layer();
     layer1.DisplayName = "Layer 1";
     group1.AddLayer(layer1);
-    // Ajouter le LayerGroup 'Groupe 2'
+    // Ajouter le LayerGroup 'Group 2'
     LayerGroup group2 = group1.AddLayerGroup("Group 2", 1);
-    // Ajouter le LayerGroup 'Groupe 3'
+    // Ajouter le LayerGroup 'Group 3'
     LayerGroup group3 = group2.AddLayerGroup("Group 3", 0);
 
     // Obtient le SectionDividerLayer
@@ -63,20 +64,20 @@ using (var image = new PsdImage(100, 100))
     SectionDividerLayer divider2 = (SectionDividerLayer)image.Layers[2];
     SectionDividerLayer divider3 = (SectionDividerLayer)image.Layers[3];
 
-    // à l'aide de la méthode SectionDividerLayer.GetRelatedLayerGroup(), obtient l'instance LayerGroup associée.
-    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // le même LayerGroup
-    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // le même LayerGroup
-    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // le même LayerGroup
+    // en utilisant la méthode SectionDividerLayer.GetRelatedLayerGroup(), obtient l'instance du LayerGroup associé.
+    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
 
     LayerGroup folder1 = divider1.GetRelatedLayerGroup();
-    AssertAreEqual(5, folder1.Layers.Length); // 'Groupe 1' contient 5 calques
+    AssertAreEqual(5, folder1.Layers.Length); // 'Group 1' contains 5 layers
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [SectionDividerLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../sectiondividerlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

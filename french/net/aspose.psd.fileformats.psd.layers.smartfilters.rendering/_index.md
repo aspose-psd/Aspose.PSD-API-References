@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des entités de format de fichier PSD contenues dans des couches.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les entités du format de fichier PSD contenues dans les calques"
 type: docs
-weight: 320
+weight: 340
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/
 ---
-L'espace de noms contient des entités de format de fichier PSD contenues dans des couches.
+{{< psd/tize >}}
+L'espace de noms contient les entités du format de fichier PSD contenues dans les calques.
 
 ## Interfaces
 
-| Interface | La description |
+| Interface | Description |
 | --- | --- |
-| [ISmartFilterRenderer](./ismartfilterrenderer/) | L'interface pour un rendu de filtre intelligent spécifique. |
+| [ISmartFilterRenderer](./ismartfilterrenderer/) | L'interface d'un rendu de filtre intelligent spécifique. |
 
 

@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MultiPageOptions propriété. Obtient ou définit les titres de page.
+title: "MultiPageOptions.PageTitles"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "MultiPageOptions propriété. Obtient ou définit les titres de page"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageTitles property
 
 Obtient ou définit les titres de page.
@@ -14,14 +15,14 @@ Obtient ou définit les titres de page.
 public string[] PageTitles { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les titres des pages.
+Les titres de page.
 
-### Voir également
+### Voir aussi
 
 * class [MultiPageOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

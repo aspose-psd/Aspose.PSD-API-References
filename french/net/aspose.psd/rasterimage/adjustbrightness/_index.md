@@ -1,27 +1,28 @@
 ---
-title: RasterImage.AdjustBrightness
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Réglage dune luminosité pour limage.
+title: "RasterImage.AdjustBrightness"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Ajustement de la luminosité de l'image"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/rasterimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustBrightness method
 
-Réglage d'une luminosité pour l'image.
+Ajuste la luminosité de l'image.
 
 ```csharp
 public virtual void AdjustBrightness(int brightness)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brightness | Int32 | Valeur de luminosité. |
+| luminosité | Int32 | Valeur de la luminosité. |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

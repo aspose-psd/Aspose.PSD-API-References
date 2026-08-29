@@ -1,28 +1,29 @@
 ---
-title: AiImage.AddLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiImage méthode. Ajoute la section de couche AI.
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiImage méthode. Ajoute la section de couche AI"
 type: docs
-weight: 130
+weight: 160
 url: /fr/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
-Ajoute la section de couche AI.
+Ajoute la section de calque AI.
 
 ```csharp
 public void AddLayer(AiLayerSection layer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layer | AiLayerSection | La section de la couche AI. |
+| calque | AiLayerSection | La section de couche AI. |
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

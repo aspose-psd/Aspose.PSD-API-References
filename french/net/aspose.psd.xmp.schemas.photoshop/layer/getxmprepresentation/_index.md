@@ -1,27 +1,28 @@
 ---
-title: Layer.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer méthode. Renvoie la valeur contenue dans la chaîne au format XMP.
+title: "Layer.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Layer méthode. Retourne la valeur contenue sous forme de chaîne au format XMP"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Layer.GetXmpRepresentation method
 
-Renvoie la valeur contenue dans la chaîne au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la valeur contenue dans la chaîne au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

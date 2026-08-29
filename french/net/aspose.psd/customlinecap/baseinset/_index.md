@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.BaseInset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CustomLineCap propriété. Obtient ou définit la distance entre le capuchon et la ligne.
+title: "CustomLineCap.BaseInset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CustomLineCap. Obtient ou définit la distance entre le cap et la ligne."
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/customlinecap/baseinset/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseInset property
 
-Obtient ou définit la distance entre le capuchon et la ligne.
+Obtient ou définit la distance entre le bouchon et la ligne.
 
 ```csharp
 public float BaseInset { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La distance entre le début de la casquette et la fin de la ligne.
+La distance entre le début du cap et la fin de la ligne.
 
-### Voir également
+### Voir aussi
 
 * class [CustomLineCap](../)
-* espace de noms [Aspose.PSD](../../customlinecap/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

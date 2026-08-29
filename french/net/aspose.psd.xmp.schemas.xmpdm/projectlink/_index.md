@@ -1,11 +1,12 @@
 ---
-title: Class ProjectLink
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink classe. Représente le chemin du projet.
+title: "Classe ProjectLink"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink. Représente le chemin du projet"
 type: docs
-weight: 5860
+weight: 6360
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink class
 
 Représente le chemin du projet.
@@ -16,27 +17,27 @@ public sealed class ProjectLink : XmpTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ProjectLink](projectlink/)() | Default_Constructor |
+| [ProjectLink](projectlink/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Obtient ou définit le chemin d'accès complet au projet. |
+| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Obtient ou définit le chemin complet du projet. |
 | [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | Obtient ou définit le type de fichier. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | Renvoie la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | Renvoie la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

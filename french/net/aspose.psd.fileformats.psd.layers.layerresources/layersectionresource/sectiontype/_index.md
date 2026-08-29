@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerSectionResource propriété. Obtient ou définit le type de section.
+title: "LayerSectionResource.SectionType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerSectionResource. Obtient ou définit le type de section"
 type: docs
-weight: 60
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
 Obtient ou définit le type de section.
@@ -14,11 +15,11 @@ Obtient ou définit le type de section.
 public LayerSectionType SectionType { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

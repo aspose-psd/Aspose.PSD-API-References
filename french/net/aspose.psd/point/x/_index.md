@@ -1,23 +1,24 @@
 ---
-title: Point.X
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point propriété. Obtient ou définit la coordonnée x de cePoint .
+title: "Point.X"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Point. Obtient ou définit la coordonnée x de ce Point"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd/point/x/
 ---
+{{< psd/tize >}}
 ## Point.X property
 
-Obtient ou définit la coordonnée x de ce[`Point`](../) .
+Obtient ou définit la coordonnée x de ce [`Point`](../).
 
 ```csharp
 public int X { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginRadiiRectanglePresent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeOriginSettings propriété. Obtient une valeur indiquant si cette instance a la propriété de rectangle de rayons dorigine.
+title: "VectorShapeOriginSettings.IsOriginRadiiRectanglePresent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeOriginSettings. Obtient une valeur indiquant si cette instance possède la propriété du rectangle des rayons d'origine"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginRadiiRectanglePresent property
 
-Obtient une valeur indiquant si cette instance a la propriété de rectangle de rayons d'origine.
+Obtient une valeur indiquant si cette instance possède la propriété du rectangle des rayons d'origine.
 
 ```csharp
 public bool IsOriginRadiiRectanglePresent { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance a la propriété origin radii rectangle ; sinon,`FAUX` .
+`true` si cette instance possède la propriété du rectangle des rayons d'origine ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeOriginSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: SplitStreamContainer.SplitStreamContainer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SplitStreamContainer constructeur. Initialise une nouvelle instance duSplitStreamContainer classe.
+title: "SplitStreamContainer.SplitStreamContainer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur SplitStreamContainer. Initialise une nouvelle instance de la classe SplitStreamContainer"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/splitstreamcontainer/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer(Stream) {#constructor_1}
 
-Initialise une nouvelle instance du[`SplitStreamContainer`](../) classe.
+Initialise une nouvelle instance de la classe [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(Stream stream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux. |
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(Stream, bool) {#constructor_2}
 
-Initialise une nouvelle instance du[`SplitStreamContainer`](../) classe.
+Initialise une nouvelle instance de la classe [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(Stream stream, bool disposeStream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux de données. |
-| disposeStream | Boolean | si réglé sur`vrai` le flux sera éliminé lors de l'élimination du conteneur. |
+| disposeStream | Booléen | si défini sur `true`, le flux sera libéré lorsque le conteneur sera libéré. |
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(StreamContainer, bool) {#constructor}
 
-Initialise une nouvelle instance du[`SplitStreamContainer`](../) classe.
+Initialise une nouvelle instance de la classe [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(StreamContainer stream, bool disposeStream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | StreamContainer | Le conteneur de flux. |
-| disposeStream | Boolean | si réglé sur`vrai` dispose flux. |
+| disposeStream | Booléen | si défini sur `true` libère le flux. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

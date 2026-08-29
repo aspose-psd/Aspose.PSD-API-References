@@ -1,11 +1,12 @@
 ---
-title: AliasStructure.DataLength
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AliasStructure propriété. Obtient la longueur exacte des données en octets.
+title: "AliasStructure.DataLength"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AliasStructure. Obtient la longueur exacte des données en octets"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/
 ---
+{{< psd/tize >}}
 ## AliasStructure.DataLength property
 
 Obtient la longueur exacte des données en octets.
@@ -14,14 +15,14 @@ Obtient la longueur exacte des données en octets.
 public int DataLength { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La longueur des données en octets.
 
-### Voir également
+### Voir aussi
 
 * class [AliasStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

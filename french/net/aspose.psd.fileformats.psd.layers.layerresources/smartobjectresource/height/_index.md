@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.Height
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit la hauteur.
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SmartObjectResource. Obtient ou définit la hauteur."
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
 Obtient ou définit la hauteur.
@@ -14,14 +15,14 @@ Obtient ou définit la hauteur.
 public double Height { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La hauteur.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

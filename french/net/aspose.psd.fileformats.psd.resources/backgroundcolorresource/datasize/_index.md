@@ -1,26 +1,27 @@
 ---
-title: BackgroundColorResource.DataSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BackgroundColorResource propriété. Obtient la taille des données de ressource en octets.
+title: "BackgroundColorResource.DataSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BackgroundColorResource. Obtient la taille des données de la ressource en octets"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.DataSize property
 
-Obtient la taille des données de ressource en octets.
+Obtient la taille des données de la ressource en octets.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La taille des données de ressource.
+La taille des données de la ressource.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge de la ressource BackgroundColorResource.
+L'exemple suivant montre la prise en charge de la ressource BackgroundColorResource.
 
 ```csharp
 [C#]
@@ -41,17 +42,17 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // met à jour BackgroundColorResource
+    // mettre à jour BackgroundColorResource
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BackgroundColorResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

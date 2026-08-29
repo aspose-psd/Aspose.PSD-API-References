@@ -1,11 +1,12 @@
 ---
-title: PdfOptions.PageSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfOptions propriété. Obtient ou définit la taille de la page.
+title: "PdfOptions.PageSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PdfOptions propriété. Obtient ou définit la taille de la page"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.imageoptions/pdfoptions/pagesize/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PageSize property
 
 Obtient ou définit la taille de la page.
@@ -14,15 +15,15 @@ Obtient ou définit la taille de la page.
 public SizeF PageSize { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La taille de la page.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [PdfOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

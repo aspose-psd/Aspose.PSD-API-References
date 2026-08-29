@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Palette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la palette de couleurs.
+title: "TiffOptions.Palette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la palette de couleurs"
 type: docs
-weight: 310
+weight: 320
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/palette/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Palette property
 
 Obtient ou définit la palette de couleurs.
@@ -14,15 +15,15 @@ Obtient ou définit la palette de couleurs.
 public override IColorPalette Palette { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La palette de couleurs.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

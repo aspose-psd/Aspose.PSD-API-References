@@ -1,23 +1,24 @@
 ---
-title: InfxResource.TypeToolKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: InfxResource champ. La clé dinformations sur loutil de type.
+title: "InfxResource.TypeToolKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ InfxResource. La clé d'information de l'outil de type"
 type: docs
-weight: 40
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## InfxResource.TypeToolKey field
 
-La clé d'informations sur l'outil de type.
+La clé d'information de l'outil de type.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [InfxResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

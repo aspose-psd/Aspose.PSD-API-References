@@ -1,11 +1,12 @@
 ---
-title: LevlResource.PsdVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LevlResource propriété. Obtient la version psd.
+title: "LevlResource.PsdVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LevlResource propriété. Obtient la version psd"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LevlResource.PsdVersion property
 
 Obtient la version psd.
@@ -14,10 +15,10 @@ Obtient la version psd.
 public override int PsdVersion { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LevlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

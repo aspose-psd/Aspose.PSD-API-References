@@ -1,11 +1,12 @@
 ---
-title: LayerStateEffects.ClearLayerStyle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerStateEffects méthode. Efface tous les effets de style de calque.
+title: "LayerStateEffects.ClearLayerStyle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LayerStateEffects méthode. Efface tous les effets de style de calque"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/clearlayerstyle/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.ClearLayerStyle method
 
 Efface tous les effets de style de calque.
@@ -14,10 +15,10 @@ Efface tous les effets de style de calque.
 public void ClearLayerStyle()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerStateEffects](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

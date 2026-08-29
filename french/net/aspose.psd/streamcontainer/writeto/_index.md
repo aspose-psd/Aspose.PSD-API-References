@@ -1,54 +1,55 @@
 ---
-title: StreamContainer.WriteTo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer méthode. Copie les données contenues dans un autreStreamContainer .
+title: "StreamContainer.WriteTo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode StreamContainer. Copie les données contenues vers un autre StreamContainer"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd/streamcontainer/writeto/
 ---
+{{< psd/tize >}}
 ## WriteTo(StreamContainer) {#writeto}
 
-Copie les données contenues dans un autre[`StreamContainer`](../) .
+Copie les données contenues vers un autre [`StreamContainer`](../).
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux vers lequel copier. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## WriteTo(StreamContainer, long) {#writeto_1}
 
-Copie les données contenues dans un autre[`StreamContainer`](../) .
+Copie les données contenues vers un autre [`StreamContainer`](../).
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer, long length)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux vers lequel copier. |
-| length | Int64 | Les octets comptent pour écrire. |
+| longueur | Int64 | Le nombre d'octets à écrire. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | L'opération de copie ne peut pas se terminer. Impossible de lire + compter + octets. |
+| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | L'opération de copie ne peut pas se terminer. Impossible de lire + le nombre + d'octets. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.DuplicateLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectLayer méthode. Crée un nouveau calque dobjet intelligent en copiant celuici. Notez que pour les objets intelligents intégrés limage intégrée est partagée. Si vous souhaitez copier limage intégrée utilisezNewSmartObjectViaCopy méthode.
+title: "SmartObjectLayer.DuplicateLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SmartObjectLayer. Crée un nouveau calque d'objet dynamique en copiant celui-ci. Notez que pour les objets dynamiques intégrés, l'image intégrée est partagée. Si vous souhaitez copier l'image intégrée, utilisez la méthode NewSmartObjectViaCopy."
 type: docs
-weight: 80
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.DuplicateLayer method
 
-Crée un nouveau calque d'objet intelligent en copiant celui-ci. Notez que pour les objets intelligents intégrés, l'image intégrée est partagée. Si vous souhaitez copier l'image intégrée, utilisez[`NewSmartObjectViaCopy`](../newsmartobjectviacopy/) méthode.
+Crée un nouveau calque d'objet dynamique en copiant celui-ci. Notez que pour les objets dynamiques incorporés, l'image incorporée est partagée. Si vous souhaitez copier l'image incorporée, utilisez la méthode [`NewSmartObjectViaCopy`](../newsmartobjectviacopy/).
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le cloné[`SmartObjectLayer`](../) instance.
+L'instance clonée de [`SmartObjectLayer`](../).
 
-### Exemples
+## Exemples
 
-Ces exemples montrent comment copier des calques d'objets intelligents dans une image PSD.
+Ces exemples montrent comment copier des calques d'objet dynamique dans une image PSD.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Ces exemples montrent comment copier des calques d'objets intelligents dans une 
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Ces exemples montrent comment copier des calques d'objets intelligents dans une image PSD.
+// Ces exemples montrent comment copier des calques d'objet dynamique dans une image PSD.
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // Le numéro du calque à copier
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,16 +58,16 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Inversons l'image de l'objet intelligent intégré (pour une image PSD interne, nous inversons uniquement sa première couche)
+            // Inversons l'image d'objet dynamique intégré (pour une image PSD interne, nous n'invertissons que son premier calque).
             InvertImage(innerImage);
 
-            // Remplaçons l'image de l'objet intelligent intégré dans la couche PSD
+            // Remplaçons l'image d'objet dynamique intégré dans le calque PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Le calque dupliqué partage son image intégrée avec l'objet intelligent d'origine
-        // et il doit être mis à jour explicitement sinon son cache de rendu reste inchangé.
-        // Nous mettons à jour chaque objet intelligent pour nous assurer que le nouveau calque créé par NewSmartObjectViaCopy
+        // Le calque dupliqué partage son image intégrée avec l'objet dynamique original
+        // et il doit être mis à jour explicitement, sinon son cache de rendu reste inchangé.
+        // Nous mettons à jour chaque objet dynamique pour nous assurer que le nouveau calque créé par NewSmartObjectViaCopy
         // ne partage pas l'image intégrée avec les autres.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
@@ -112,10 +113,10 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IImageCreatorDescriptor méthode. Crée une nouvelle instance de créateur.
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IImageCreatorDescriptor. Crée une nouvelle instance du créateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
 Crée une nouvelle instance de créateur.
@@ -14,15 +15,15 @@ Crée une nouvelle instance de créateur.
 public IImageCreator CreateInstance()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une nouvelle instance de créateur.
+Une nouvelle instance du créateur.
 
-### Voir également
+### Voir aussi
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* espace de noms [Aspose.PSD](../../iimagecreatordescriptor/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

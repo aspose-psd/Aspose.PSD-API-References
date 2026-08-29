@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est verrouillé. Empêche les modifications de lélément.
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est verrouillé. Empêche les modifications de l'élément"
 type: docs
-weight: 60
+weight: 80
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
 Obtient ou définit une valeur indiquant si ce calque est verrouillé. Empêche les modifications de l'élément.
@@ -14,13 +15,13 @@ Obtient ou définit une valeur indiquant si ce calque est verrouillé. Empêche 
 public bool IsLocked { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si ce calque est verrouillé ; sinon,`FAUX` .
+`true` si ce calque est verrouillé ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorOverlayEffect.Color
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorOverlayEffect propriété. Obtient ou définit la couleur.
+title: "ColorOverlayEffect.Color"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorOverlayEffect. Obtient ou définit la couleur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Color property
 
 Obtient ou définit la couleur.
@@ -14,15 +15,15 @@ Obtient ou définit la couleur.
 public Color Color { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La couleur.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorOverlayEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

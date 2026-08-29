@@ -1,46 +1,47 @@
 ---
-title: ColorantCmyk.ColorantCmyk
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantCmyk constructeur. Initialise une nouvelle instance duColorantCmyk classe.
+title: "ColorantCmyk.ColorantCmyk"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ColorantCmyk. Initialise une nouvelle instance de la classe ColorantCmyk"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk() {#constructor}
 
-Initialise une nouvelle instance du[`ColorantCmyk`](../) classe.
+Initialise une nouvelle instance de la classe [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorantCmyk](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-Initialise une nouvelle instance du[`ColorantCmyk`](../) classe.
+Initialise une nouvelle instance de la classe [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| black | Single | La valeur du composant noir. |
+| noir | Single | La valeur du composant noir. |
 | cyan | Single | La valeur du composant de couleur cyan. |
 | magenta | Single | La valeur du composant magenta. |
-| yellow | Single | La valeur du composant jaune. |
+| jaune | Single | La valeur du composant jaune. |
 
-### Voir également
+### Voir aussi
 
 * class [ColorantCmyk](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class OperationInterruptedException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException classe. Se produit lorsquune opération est interrompue.
+title: "Classe OperationInterruptedException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.CoreExceptions.OperationInterruptedException. Se produit lorsqu'une opération est interrompue"
 type: docs
 weight: 660
 url: /fr/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
 Se produit lorsqu'une opération est interrompue.
@@ -16,15 +17,15 @@ public class OperationInterruptedException : FrameworkException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | Initialise une nouvelle instance du`OperationInterruptedException` classe. |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance du`OperationInterruptedException` classe. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | Initialise une nouvelle instance de la classe `OperationInterruptedException`. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance de la classe `OperationInterruptedException`. |
 
-### Voir également
+### Voir aussi
 
 * class [FrameworkException](../frameworkexception/)
-* espace de noms [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

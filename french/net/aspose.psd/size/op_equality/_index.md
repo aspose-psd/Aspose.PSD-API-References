@@ -1,32 +1,33 @@
 ---
-title: Size.op_Equality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Teste si deuxSize les structures sont égales.
+title: "Size.op_Equality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Vérifie si deux structures Size sont égales."
 type: docs
 weight: 150
 url: /fr/net/aspose.psd/size/op_equality/
 ---
+{{< psd/tize >}}
 ## Size Equality operator
 
-Teste si deux[`Size`](../) les structures sont égales.
+Vérifie si deux structures [`Size`](../) sont égales.
 
 ```csharp
 public static bool operator ==(Size size1, Size size2)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size1 | Size | Le[`Size`](../) structure sur le côté gauche de l'opérateur d'égalité. |
-| size2 | Size | Le[`Size`](../) structure à droite de l'opérateur d'égalité. |
+| size1 | Size | La structure [`Size`](../) du côté gauche de l'opérateur d'égalité. |
+| size2 | Size | La structure [`Size`](../) du côté droit de l'opérateur d'égalité. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si*size1* et*size2* avoir une largeur et une hauteur égales ; sinon, faux.
+Vrai si *size1* et *size2* ont la même largeur et hauteur ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

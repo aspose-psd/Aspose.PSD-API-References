@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient le nom du visage de ceFont .
+title: "Font.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient le nom de la police de cette Font"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-Obtient le nom du visage de ce[`Font`](../) .
+Obtient le nom de la police de cette [`Font`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Une représentation sous forme de chaîne du nom du visage de ce[`Font`](../).
+Une représentation sous forme de chaîne du nom de la police de cette [`Font`](../).
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

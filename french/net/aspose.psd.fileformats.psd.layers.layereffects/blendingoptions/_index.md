@@ -1,14 +1,15 @@
 ---
-title: Class BlendingOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions classe. Options de fusion. Cest un wrapper pour Lfx2Resource qui fournit une API pour les effets de calque
+title: "Classe BlendingOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions class. BlendingOptions. C'est un wrapper pour BaseFxResource qui fournit une API pour les effets de calque"
 type: docs
-weight: 2100
+weight: 2290
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-Options de fusion. C'est un wrapper pour Lfx2Resource qui fournit une API pour les effets de calque
+BlendingOptions. C'est un wrapper pour BaseFxResource qui fournit une API pour les effets de calque.
 
 ```csharp
 public class BlendingOptions
@@ -16,25 +17,26 @@ public class BlendingOptions
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | Obtient les effets. |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | Obtient ou définit la visibilité de tous les effets de calque. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | Obtient les effets. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Ajoute la superposition de couleurs. |
+| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Ajoute la superposition de couleur. |
 | [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Ajoute l'effet d'ombre portée. |
-| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Ajoute la superposition de dégradé. |
-| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Ajoute l'effet d'ombre intérieure. |
+| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Ajoute la superposition Gradient. |
+| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Ajoute l'effet d'ombre interne. |
 | [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Ajoute l'effet de lueur externe. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Ajoute la superposition de motifs. |
-| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Ajoute l'effet de trait. |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Ajoute la superposition Pattern. |
+| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Ajoute l'effet de contour. |
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment modifier les paramètres de l'effet de couche d'ombre intérieure.
+Le code suivant montre comment modifier les paramètres de l'effet de calque Ombre interne.
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ Le code suivant montre comment modifier les paramètres de l'effet de couche d'o
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -63,9 +65,9 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpBasicPackage méthode. Ajoute la date de la dernière modification des métadonnées.
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpBasicPackage. Ajoute la date de dernière modification des métadonnées"
 type: docs
-weight: 70
+weight: 90
 url: /fr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
-Ajoute la date de la dernière modification des métadonnées.
+Ajoute la date de dernière modification des métadonnées.
 
 ```csharp
 public void SetMetadataDate(DateTime metadataDate)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | metadataDate | DateTime | Date des métadonnées. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpBasicPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetMetadataDate(string) {#setmetadatadate_1}
 
-Ajoute la date de la dernière modification des métadonnées.
+Ajoute la date de dernière modification des métadonnées.
 
 ```csharp
 public void SetMetadataDate(string metadataDate)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | metadataDate | String | Date des métadonnées. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpBasicPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

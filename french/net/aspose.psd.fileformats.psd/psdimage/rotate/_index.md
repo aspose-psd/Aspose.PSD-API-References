@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Rotate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Faire pivoter limage autour du centre.
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Faire pivoter l'image autour du centre"
 type: docs
-weight: 610
+weight: 670
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-Faire pivoter l'image autour du centre.
+Fait pivoter l'image autour du centre.
 
 ```csharp
 public override void Rotate(float angle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| angle | Single | L'angle de rotation en degrés. Les valeurs positives tourneront dans le sens des aiguilles d'une montre. |
+| angle | Single | L'angle de rotation en degrés. Les valeurs positives font pivoter dans le sens horaire. |
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de faire pivoter l'image selon une valeur d'angle spécifique.
+Le code suivant démontre la capacité de faire pivoter l'image d'une valeur d'angle spécifique.
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-// Couche tournante
+// Rotation du calque
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -57,33 +58,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Faire pivoter l'image autour du centre.
+Fait pivoter l'image autour du centre.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| angle | Single | L'angle de rotation en degrés. Les valeurs positives tourneront dans le sens des aiguilles d'une montre. |
-| resizeProportionally | Boolean | si réglé sur`vrai` la taille de votre image sera modifiée en fonction des projections du rectangle pivoté (points d'angle) dans un autre cas qui laisse les dimensions intactes et seul le contenu de l'image interne est pivoté. |
-| backgroundColor | Color | Couleur du fond. |
+| angle | Single | L'angle de rotation en degrés. Les valeurs positives font pivoter dans le sens horaire. |
+| resizeProportionally | Booléen | si défini sur `true`, la taille de votre image sera modifiée selon les projections du rectangle tourné (points d'angle) ; sinon, les dimensions restent inchangées et seul le contenu interne de l'image est tourné. |
+| backgroundColor | Couleur | Couleur de l'arrière-plan. |
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

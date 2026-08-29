@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUShortArray
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamWriter méthode. Écrit un tableau de valeurs courtes non signées dans le flux.
+title: "TiffStreamWriter.WriteUShortArray"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamWriter. Écrit un tableau de valeurs unsigned short dans le flux"
 type: docs
 weight: 230
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShortArray method
 
-Écrit un tableau de valeurs courtes non signées dans le flux.
+Écrit un tableau de valeurs unsigned short dans le flux.
 
 ```csharp
 public void WriteUShortArray(ushort[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | UInt16[] | Le tableau à écrire. |
+| données | UInt16[] | Le tableau à écrire. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

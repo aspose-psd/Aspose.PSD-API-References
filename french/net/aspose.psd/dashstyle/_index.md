@@ -1,14 +1,15 @@
 ---
-title: Enum DashStyle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.DashStyle énumération. Spécifie le style des lignes pointillées dessinées avec unPen objet.
+title: "Enum DashStyle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.DashStyle enum. Spécifie le style des lignes pointillées dessinées avec un objet Pen"
 type: docs
-weight: 720
+weight: 730
 url: /fr/net/aspose.psd/dashstyle/
 ---
+{{< psd/tize >}}
 ## DashStyle enumeration
 
-Spécifie le style des lignes pointillées dessinées avec un[`Pen`](../pen/) objet.
+Spécifie le style des lignes pointillées dessinées avec un objet [`Pen`](../pen/).
 
 ```csharp
 public enum DashStyle
@@ -16,18 +17,18 @@ public enum DashStyle
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Solid | `0` | Spécifie une ligne continue. |
+| Solid | `0` | Spécifie une ligne pleine. |
 | Dash | `1` | Spécifie une ligne composée de tirets. |
 | Dot | `2` | Spécifie une ligne composée de points. |
-| DashDot | `3` | Spécifie une ligne composée d'un motif répétitif de tiret-point. |
-| DashDotDot | `4` | Spécifie une ligne composée d'un motif répétitif de tiret-point-point. |
+| DashDot | `3` | Spécifie une ligne composée d'un motif répété tiret-point. |
+| DashDotDot | `4` | Spécifie une ligne composée d'un motif répété tiret-point-point. |
 | Custom | `5` | Spécifie un style de tiret personnalisé défini par l'utilisateur. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,92 +1,93 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions constructeur. Initialise une nouvelle instance duTiffOptions classe.
+title: "TiffOptions.TiffOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur TiffOptions. Initialise une nouvelle instance de la classe TiffOptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/tiffoptions/
 ---
+{{< psd/tize >}}
 ## TiffOptions(TiffExpectedFormat, TiffByteOrder) {#constructor_1}
 
-Initialise une nouvelle instance du[`TiffOptions`](../) classe.
+Initialise une nouvelle instance de la classe [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| expectedFormat | TiffExpectedFormat | Le format de fichier tiff attendu. |
-| byteOrder | TiffByteOrder | L'ordre des octets du format de fichier tiff à utiliser. |
+| expectedFormat | TiffExpectedFormat | Le format de fichier TIFF attendu. |
+| byteOrder | TiffByteOrder | L'ordre des octets du format de fichier TIFF à utiliser. |
 
-### Voir également
+### Voir aussi
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffExpectedFormat) {#constructor}
 
-Initialise une nouvelle instance du[`TiffOptions`](../) classe. Par défaut, la convention Little Endian est utilisée.
+Initialise une nouvelle instance de la classe [`TiffOptions`](../). Par défaut, la convention little endian est utilisée.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| expectedFormat | TiffExpectedFormat | Le format de fichier tiff attendu. |
+| expectedFormat | TiffExpectedFormat | Le format de fichier TIFF attendu. |
 
-### Voir également
+### Voir aussi
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffOptions) {#constructor_3}
 
-Initialise une nouvelle instance du[`TiffOptions`](../) classe.
+Initialise une nouvelle instance de la classe [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffOptions options)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| options | TiffOptions | Les options à partir desquelles copier. |
+| options | TiffOptions | Les options à copier depuis. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffDataType[]) {#constructor_2}
 
-Initialise une nouvelle instance du[`TiffOptions`](../) classe.
+Initialise une nouvelle instance de la classe [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffDataType[] tags)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| tags | TiffDataType[] | Les balises avec lesquelles initialiser les options. |
+| étiquettes | TiffDataType[] | Les balises avec lesquelles initialiser les options. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

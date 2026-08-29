@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat propriété. Obtient le format de pixel.
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelDataFormat. Obtient le format de pixel"
 type: docs
 weight: 340
 url: /fr/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
 Obtient le format de pixel.
@@ -14,15 +15,15 @@ Obtient le format de pixel.
 public PixelFormat PixelFormat { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le format pixel.
+Le format de pixel.
 
-### Voir également
+### Voir aussi
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

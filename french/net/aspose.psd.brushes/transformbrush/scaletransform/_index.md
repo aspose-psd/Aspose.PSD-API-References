@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.ScaleTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TransformBrush méthode. Met à léchelle la transformation géométrique locale selon les quantités spécifiées. Cette méthode ajoute la matrice de mise à léchelle à la transformation.
+title: "TransformBrush.ScaleTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TransformBrush. Met à l'échelle la transformation géométrique locale par les valeurs spécifiées. Cette méthode préfixe la matrice d'échelle à la transformation."
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.brushes/transformbrush/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-Met à l'échelle la transformation géométrique locale selon les quantités spécifiées. Cette méthode ajoute la matrice de mise à l'échelle à la transformation.
+Redimensionne la transformation géométrique locale des valeurs spécifiées. Cette méthode préfixe la matrice d'échelle à la transformation.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sx | Single | Quantité de mise à l'échelle de la transformation dans la direction de l'axe des x. |
-| sy | Single | Quantité de mise à l'échelle de la transformation dans la direction de l'axe y. |
+| sx | Single | La quantité par laquelle mettre à l'échelle la transformation dans la direction de l'axe x. |
+| sy | Single | La quantité par laquelle mettre à l'échelle la transformation dans la direction de l'axe y. |
 
-### Voir également
+### Voir aussi
 
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-Met à l'échelle la transformation géométrique locale selon les quantités spécifiées dans l'ordre spécifié.
+Redimensionne la transformation géométrique locale des valeurs spécifiées dans l'ordre indiqué.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sx | Single | Quantité de mise à l'échelle de la transformation dans la direction de l'axe des x. |
-| sy | Single | Quantité de mise à l'échelle de la transformation dans la direction de l'axe y. |
-| order | MatrixOrder | UN[`MatrixOrder`](../../../aspose.psd/matrixorder/) qui spécifie s'il faut ajouter ou préfixer la matrice de mise à l'échelle. |
+| sx | Single | La quantité par laquelle mettre à l'échelle la transformation dans la direction de l'axe x. |
+| sy | Single | La quantité par laquelle mettre à l'échelle la transformation dans la direction de l'axe y. |
+| order | MatrixOrder | Un [`MatrixOrder`](../../../aspose.psd/matrixorder/) qui indique s'il faut ajouter ou préfixer la matrice d'échelle. |
 
-### Voir également
+### Voir aussi
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

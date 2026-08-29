@@ -1,11 +1,12 @@
 ---
-title: Class UnknownResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource classe. La ressource inconnue.
+title: "Classe UnknownResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource. La ressource inconnue"
 type: docs
-weight: 3330
+weight: 3720
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource class
 
 La ressource inconnue.
@@ -16,31 +17,31 @@ public class UnknownResource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [UnknownResource](unknownresource/)(int, int) | Initialise une nouvelle instance du`UnknownResource` classe. |
+| [UnknownResource](unknownresource/)(int, int) | Initialise une nouvelle instance de la classe `UnknownResource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/) { get; set; } | Obtient ou définit les données. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion/) { get; } | Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | Obtient la signature de ressource de couche. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | Obtient la signature de la ressource de calque. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/)(StreamContainer, int) | Enregistre le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

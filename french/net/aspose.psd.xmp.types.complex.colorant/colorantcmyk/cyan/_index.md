@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantCmyk propriété. Obtient ou définit la valeur du composant cyan.
+title: "ColorantCmyk.Cyan"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorantCmyk. Obtient ou définit la valeur du composant cyan"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
 Obtient ou définit la valeur du composant cyan.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur du composant cyan.
 public float Cyan { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur du composant cyan.
 
-### Voir également
+### Voir aussi
 
 * class [ColorantCmyk](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Graphics.DrawRectangles
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Dessine une série de rectangles spécifiés parRectangleF structures.
+title: "Graphics.DrawRectangles"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Dessine une série de rectangles spécifiés par des structures RectangleF."
 type: docs
-weight: 310
+weight: 320
 url: /fr/net/aspose.psd/graphics/drawrectangles/
 ---
+{{< psd/tize >}}
 ## DrawRectangles(Pen, RectangleF[]) {#drawrectangles}
 
-Dessine une série de rectangles spécifiés par[`RectangleF`](../../rectanglef/) structures.
+Dessine une série de rectangles spécifiés par des structures [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void DrawRectangles(Pen pen, RectangleF[] rects)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style des contours des rectangles. |
-| rects | RectangleF[] | Tableau de[`RectangleF`](../../rectanglef/) structures qui représentent les rectangles à dessiner. |
+| rects | RectangleF[] | Tableau de structures [`RectangleF`](../../rectanglef/) qui représentent les rectangles à dessiner. |
 
 ### Exceptions
 
@@ -25,28 +26,28 @@ public void DrawRectangles(Pen pen, RectangleF[] rects)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. -ou- *rects* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangles(Pen, Rectangle[]) {#drawrectangles_1}
 
-Dessine une série de rectangles spécifiés par[`Rectangle`](../../rectangle/) structures.
+Dessine une série de rectangles spécifiés par des structures [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void DrawRectangles(Pen pen, Rectangle[] rects)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style des contours des rectangles. |
-| rects | Rectangle[] | Tableau de[`Rectangle`](../../rectangle/) structures qui représentent les rectangles à dessiner. |
+| rects | Rectangle[] | Tableau de structures [`Rectangle`](../../rectangle/) qui représentent les rectangles à dessiner. |
 
 ### Exceptions
 
@@ -54,54 +55,54 @@ public void DrawRectangles(Pen pen, Rectangle[] rects)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. -ou- *rects* est nul. |
 
-### Exemples
+## Exemples
 
-Cet exemple montre la création et l'utilisation des objets Pen. L'exemple crée une nouvelle image et dessine des rectangles sur la surface de l'image.
+Cet exemple montre la création et l'utilisation d'objets Pen. L'exemple crée une nouvelle Image et dessine des Rectangles sur la surface de l'Image.
 
 ```csharp
 [C#]
 
-//Créer une instance de Image
+//Créez une instance d'Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Créer une instance de Graphics et l'initialiser avec l'objet Image
+    //Créez une instance de Graphics et initialisez-la avec un objet Image
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Effacer la surface graphique avec la couleur blanche
+    //Effacez la surface Graphics avec la couleur blanche
     graphics.Clear(Aspose.PSD.Color.White);
 
-    //Crée une instance de Pen avec la couleur Rouge et la largeur 5
+    //Créez une instance de Pen avec la couleur Rouge et une largeur de 5
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
-    //Créer une instance de HatchBrush et définir ses propriétés
+    //Créez une instance de HatchBrush et définissez ses propriétés
     Aspose.PSD.Brushes.HatchBrush brush = new Aspose.PSD.Brushes.HatchBrush();
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
-    //Créer une instance de Pen
-    // l'initialise avec l'objet HatchBrush et sa largeur
+    //Créez une instance de Pen
+    //initialisez-la avec un objet HatchBrush et une largeur
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    // Dessiner des rectangles en spécifiant l'objet Pen
+    //Dessinez des Rectangles en spécifiant l'objet Pen
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    // Dessiner des rectangles en spécifiant l'objet Pen
+    //Dessinez des Rectangles en spécifiant l'objet Pen
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
-    // Créer des options d'exportation et les initialiser.
+    // Créez des options d'exportation et initialisez-les.
     Aspose.PSD.ImageOptions.Jpeg2000Options options = new Aspose.PSD.ImageOptions.Jpeg2000Options();
 
-    // Enregistrer toutes les modifications.
+    // Enregistrez toutes les modifications.
     image.Save("c:\\temp\\output.jp2", options);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

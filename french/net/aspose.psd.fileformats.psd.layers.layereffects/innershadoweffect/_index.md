@@ -1,14 +1,15 @@
 ---
-title: Class InnerShadowEffect
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect classe. Effet de couche dombre intérieure
+title: "Classe InnerShadowEffect"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect class. Effet de calque Ombre interne"
 type: docs
-weight: 2160
+weight: 2350
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-Effet de couche d'ombre intérieure
+Effet de calque d'ombre interne.
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
@@ -16,7 +17,7 @@ public class InnerShadowEffect : IShadowEffect
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | Obtient ou définit l'angle en degrés. |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | Obtient ou définit le mode de fusion. |
@@ -27,12 +28,18 @@ public class InnerShadowEffect : IShadowEffect
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Obtient ou définit le bruit. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Obtient ou définit l'opacité. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Obtient ou définit la valeur de flou en pixels. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Obtient ou définit la propagation (étranglement) en pourcentage. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Obtient ou définit une valeur indiquant si [utiliser cet angle dans tous les effets de calque]. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Obtient ou définit la diffusion (étranglement) en pourcentage. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Obtient ou définit une valeur indiquant si [use this angle in all of the layer effects]. |
 
-### Exemples
+## Méthodes
 
-Le code suivant montre comment modifier les paramètres de l'effet de couche d'ombre intérieure.
+| Nom | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | Calcule et obtient les limites des pixels d'effet basées sur les limites des pixels du calque d'entrée. |
+
+## Exemples
+
+Le code suivant montre comment modifier les paramètres de l'effet de calque Ombre interne.
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ Le code suivant montre comment modifier les paramètres de l'effet de couche d'o
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -61,10 +68,10 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IShadowEffect](../ishadoweffect/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

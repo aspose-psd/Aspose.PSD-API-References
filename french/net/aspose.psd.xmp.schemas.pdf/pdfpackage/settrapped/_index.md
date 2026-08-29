@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfPackage méthode. Définit le piégé.
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PdfPackage. Définit le trapped"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-Définit le piégé.
+Définit le trapped.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| isTrapped | Boolean | si réglé sur`vrai` le document a été piégé. |
+| isTrapped | Booléen | si défini sur `true`, le document a été trapped. |
 
-### Voir également
+### Voir aussi
 
 * class [PdfPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

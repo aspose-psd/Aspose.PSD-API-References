@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Right
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerMaskData propriété. Obtient ou définit la bonne position du masque de calque.
+title: "LayerMaskData.Right"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerMaskData. Obtient ou définit la position du masque de calque droit."
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers/layermaskdata/right/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Right property
 
-Obtient ou définit la bonne position du masque de calque.
+Obtient ou définit la position du masque de calque droit.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La bonne position du masque de calque.
+La position du masque de calque droit.
 
-### Voir également
+### Voir aussi
 
 * class [LayerMaskData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

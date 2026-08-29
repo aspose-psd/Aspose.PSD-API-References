@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.Reds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlwhResource propriété. Obtient ou définit la valeur des rouges.
+title: "BlwhResource.Reds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BlwhResource. Obtient ou définit la valeur des rouges"
 type: docs
-weight: 110
+weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Reds property
 
 Obtient ou définit la valeur des rouges.
@@ -14,13 +15,13 @@ Obtient ou définit la valeur des rouges.
 public int Reds { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur des rouges.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment modifier un BlwhResource.
+L'exemple suivant montre comment vous modifiez un BlwhResource.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Tester l'édition et l'enregistrement
+                // Test de modification et d'enregistrement
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BlwhResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Round
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle méthode. Convertit le spécifiéRectangleF à unRectangle en arrondissant leRectangleF valeurs aux valeurs entières les plus proches.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Rectangle. Convertit le RectangleF spécifié en Rectangle en arrondissant les valeurs du RectangleF aux entiers les plus proches"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-Convertit le spécifié[`RectangleF`](../../rectanglef/) à un[`Rectangle`](../) en arrondissant le[`RectangleF`](../../rectanglef/) valeurs aux valeurs entières les plus proches.
+Convertit le [`RectangleF`](../../rectanglef/) spécifié en [`Rectangle`](../) en arrondissant les valeurs du [`RectangleF`](../../rectanglef/) aux entiers les plus proches.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | RectangleF | Le[`RectangleF`](../../rectanglef/) à convertir. |
+| value | RectangleF | Le [`RectangleF`](../../rectanglef/) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Un nouveau[`Rectangle`](../).
+Un nouveau [`Rectangle`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

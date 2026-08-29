@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.PageNumber
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit le numéro de page du calque placé dans le fichier PSD.
+title: "PlacedResource.PageNumber"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit le numéro de page de la couche placée dans le fichier PSD"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PageNumber property
 
 Obtient ou définit le numéro de page du calque placé dans le fichier PSD.
@@ -14,13 +15,13 @@ Obtient ou définit le numéro de page du calque placé dans le fichier PSD.
 public virtual int PageNumber { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le numéro de page du calque placé.
+Le numéro de page de la couche placée.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource PlLdResource.
+Le code suivant démontre la prise en charge de la ressource PlLdResource.
 
 ```csharp
 [C#]
@@ -202,15 +203,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Attention à certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®
-                ////ressource.UOrder = 6;
-                ////ressource.VOrder = 9;
+                // Soyez prudent avec certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Ne changez rien sinon vous ne pourrez pas utiliser la transformation libre
-                // ou changez l'objet intelligent de soulignement en type vectoriel
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // Ne modifiez pas cela sinon vous ne pourrez pas utiliser la transformation libre.
+                // ou changez l'objet intelligent sous-jacent en type vecteur.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Il devrait y avoir une PlLdResource valide avec cet identifiant unique
+                // Il doit exister une PlLdResource valide avec cet identifiant unique.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -223,12 +224,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Le code suivant illustre la prise en charge de la ressource SoLdResource.
+Le code suivant démontre la prise en charge de la ressource SoLdResource.
 
 ```csharp
 [C#]
 
-// Cet exemple montre comment obtenir ou définir les propriétés de données de la couche d'objet intelligent du fichier PSD.
+// Cet exemple montre comment obtenir ou définir les propriétés des données du calque d'objet dynamique du fichier PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +463,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Ces valeurs doivent également être modifiées dans PlLdResource (avec l'UniqueId spécifié)
-                // et certains d'entre eux doivent être en accord avec l'objet intelligent de soulignement dans le LinkDataSource
+                // Ces valeurs doivent également être modifiées dans la PlLdResource (avec l'UniqueId spécifié).
+                // et certaines d'entre elles doivent être en accord avec l'objet intelligent sous-jacent dans le LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,18 +509,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Cet identifiant unique doit être modifié dans les références s'il y en a
+                // Cet identifiant unique doit être modifié dans les références, le cas échéant.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Attention à certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®
-                ////ressource.UOrder = 6;
-                ////ressource.VOrder = 9;
+                // Soyez prudent avec certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Ne changez rien sinon vous ne pourrez pas utiliser la transformation libre
-                // ou changez l'objet intelligent de soulignement en type vectoriel
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // Ne modifiez pas cela sinon vous ne pourrez pas utiliser la transformation libre.
+                // ou changez l'objet intelligent sous-jacent en type vecteur.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Il devrait y avoir une PlLdResource valide avec cet identifiant unique
+                // Il doit exister une PlLdResource valide avec cet identifiant unique.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -532,10 +533,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

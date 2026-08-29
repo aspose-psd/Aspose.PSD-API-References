@@ -1,23 +1,24 @@
 ---
-title: GradientFillSettings.GradientFillSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientFillSettings constructeur. Initialise une nouvelle instance duGradientFillSettings classe.
+title: "GradientFillSettings.GradientFillSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "GradientFillSettings constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings constructor
 
-Initialise une nouvelle instance du[`GradientFillSettings`](../) classe.
+Le constructeur par défaut.
 
 ```csharp
 public GradientFillSettings()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [GradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

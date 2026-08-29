@@ -1,23 +1,24 @@
 ---
-title: ColorHalftoneInformationResource.ColorHalftoneInformationResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorHalftoneInformationResource constructeur. Default_Constructor
+title: "ColorHalftoneInformationResource.ColorHalftoneInformationResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ColorHalftoneInformationResource. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/colorhalftoneinformationresource/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public ColorHalftoneInformationResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorHalftoneInformationResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BilateralSmoothingFilterOptions propriété. Obtient ou définit le facteur de couleur.
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BilateralSmoothingFilterOptions propriété. Obtient ou définit le facteur de couleur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
 Obtient ou définit le facteur de couleur.
@@ -14,14 +15,14 @@ Obtient ou définit le facteur de couleur.
 public double ColorFactor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le facteur de couleur.
 
-### Voir également
+### Voir aussi
 
 * class [BilateralSmoothingFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

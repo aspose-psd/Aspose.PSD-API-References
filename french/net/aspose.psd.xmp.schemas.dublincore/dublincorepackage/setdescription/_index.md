@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DublinCorePackage méthode. Ajoute la description.
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode DublinCorePackage. Ajoute la description"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 Ajoute la description.
@@ -14,15 +15,15 @@ Ajoute la description.
 public void SetDescription(string desc)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | desc | String | La description. |
 
-### Voir également
+### Voir aussi
 
 * class [DublinCorePackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Ajoute la description.
 public void SetDescription(LangAlt desc)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | desc | LangAlt | La description. |
 
-### Voir également
+### Voir aussi
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

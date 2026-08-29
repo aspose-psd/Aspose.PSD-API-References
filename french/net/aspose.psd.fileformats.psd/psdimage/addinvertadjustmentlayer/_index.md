@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Ajoute un calque de réglage inversé.
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Ajoute un calque d'ajustement d'inversion"
 type: docs
-weight: 360
+weight: 380
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
-Ajoute un calque de réglage inversé.
+Ajoute un calque de réglage d'inversion.
 
 ```csharp
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le calque inversé créé
+Le calque d'inversion créé
 
-### Exemples
+## Exemples
 
-Le code suivant montre la prise en charge de InvertAdjustmentLayer et comment ajouter InvertAdjustmentLayer.
+Le code suivant montre la prise en charge de l'InvertAdjustmentLayer et comment ajouter InvertAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -34,11 +35,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: Point.Offset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Traduit ceciPoint par le spécifiéPoint .
+title: "Point.Offset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Déplace ce Point selon le Point spécifié."
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Traduit ceci[`Point`](../) par le spécifié[`Point`](../) .
+Déplace ce [`Point`](../) selon le [`Point`](../) spécifié.
 
 ```csharp
 public void Offset(Point point)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | Point | Le[`Point`](../) utilisé pour compenser cela[`Point`](../). |
+| point | Point | Le [`Point`](../) utilisé pour décaler ce [`Point`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Traduit ceci[`Point`](../)par le montant spécifié.
+Déplace ce [`Point`](../) du montant spécifié.
 
 ```csharp
 public void Offset(int dx, int dy)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| dx | Int32 | La quantité de décalage de la coordonnée x. |
-| dy | Int32 | La quantité de décalage de la coordonnée y. |
+| dx | Int32 | Le montant pour décaler la coordonnée x. |
+| dy | Int32 | Le montant pour décaler la coordonnée y. |
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

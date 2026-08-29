@@ -1,25 +1,26 @@
 ---
-title: Graphics.DrawPie
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Dessine une forme circulaire définie par une ellipse spécifiée par unRectangleF structure et deux lignes radiales.
+title: "Graphics.DrawPie"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Dessine une forme de secteur définie par une ellipse spécifiée par une structure RectangleF et deux lignes radiales."
 type: docs
-weight: 280
+weight: 290
 url: /fr/net/aspose.psd/graphics/drawpie/
 ---
+{{< psd/tize >}}
 ## DrawPie(Pen, RectangleF, float, float) {#drawpie_1}
 
-Dessine une forme circulaire définie par une ellipse spécifiée par un[`RectangleF`](../../rectanglef/) structure et deux lignes radiales.
+Dessine une forme de secteur définie par une ellipse spécifiée par une structure [`RectangleF`](../../rectanglef/) et deux lignes radiales.
 
 ```csharp
 public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style de la forme circulaire. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) structure qui représente le rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| startAngle | Single | Angle mesuré en degrés dans le sens des aiguilles d'une montre entre l'axe des x et le premier côté de la forme circulaire. |
-| sweepAngle | Single | Angle mesuré en degrés dans le sens des aiguilles d'une montre à partir du*startAngle* paramètre au deuxième côté de la forme du secteur. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du secteur. |
+| rect | RectangleF | Structure [`RectangleF`](../../rectanglef/) qui représente le rectangle englobant définissant l'ellipse dont provient le secteur. |
+| startAngle | Single | Angle mesuré en degrés dans le sens horaire depuis l'axe x jusqu'au premier côté du secteur. |
+| sweepAngle | Single | Angle mesuré en degrés dans le sens horaire depuis le paramètre *startAngle* jusqu'au deuxième côté du secteur. |
 
 ### Exceptions
 
@@ -27,34 +28,34 @@ public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, float, float, float, float, float, float) {#drawpie_3}
 
-Dessine une forme circulaire définie par une ellipse spécifiée par une paire de coordonnées, une largeur, une hauteur et deux lignes radiales.
+Dessine une forme de secteur définie par une ellipse spécifiée par une paire de coordonnées, une largeur, une hauteur et deux lignes radiales.
 
 ```csharp
 public void DrawPie(Pen pen, float x, float y, float width, float height, float startAngle, 
     float sweepAngle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style de la forme circulaire. |
-| x | Single | Coordonnée x du coin supérieur gauche du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| y | Single | Coordonnée y du coin supérieur gauche du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| width | Single | Largeur du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| height | Single | Hauteur du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| startAngle | Single | Angle mesuré en degrés dans le sens des aiguilles d'une montre entre l'axe des x et le premier côté de la forme circulaire. |
-| sweepAngle | Single | Angle mesuré en degrés dans le sens des aiguilles d'une montre à partir du*startAngle* paramètre au deuxième côté de la forme du secteur. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du secteur. |
+| x | Single | La coordonnée x du coin supérieur gauche du rectangle englobant qui définit l'ellipse dont provient le secteur. |
+| y | Single | La coordonnée y du coin supérieur gauche du rectangle englobant qui définit l'ellipse dont provient la forme de tarte. |
+| largeur | Single | Largeur du rectangle englobant qui définit l'ellipse dont provient la forme de tarte. |
+| hauteur | Single | Hauteur du rectangle englobant qui définit l'ellipse dont provient la forme de tarte. |
+| startAngle | Single | Angle mesuré en degrés dans le sens horaire depuis l'axe x jusqu'au premier côté du secteur. |
+| sweepAngle | Single | Angle mesuré en degrés dans le sens horaire depuis le paramètre *startAngle* jusqu'au deuxième côté du secteur. |
 
 ### Exceptions
 
@@ -62,29 +63,29 @@ public void DrawPie(Pen pen, float x, float y, float width, float height, float 
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, Rectangle, float, float) {#drawpie}
 
-Dessine une forme circulaire définie par une ellipse spécifiée par un[`Rectangle`](../../rectangle/) structure et deux lignes radiales.
+Dessine une forme de tarte définie par une ellipse spécifiée par une structure [`Rectangle`](../../rectangle/) et deux lignes radiales.
 
 ```csharp
 public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style de la forme circulaire. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) structure qui représente le rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| startAngle | Single | Angle mesuré en degrés dans le sens des aiguilles d'une montre entre l'axe des x et le premier côté de la forme circulaire. |
-| sweepAngle | Single | Angle mesuré en degrés dans le sens des aiguilles d'une montre à partir du*startAngle* paramètre au deuxième côté de la forme du secteur. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du secteur. |
+| rect | Rectangle | Structure [`Rectangle`](../../rectangle/) qui représente le rectangle englobant qui définit l'ellipse dont provient la forme de tarte. |
+| startAngle | Single | Angle mesuré en degrés dans le sens horaire depuis l'axe x jusqu'au premier côté du secteur. |
+| sweepAngle | Single | Angle mesuré en degrés dans le sens horaire depuis le paramètre *startAngle* jusqu'au deuxième côté du secteur. |
 
 ### Exceptions
 
@@ -92,33 +93,33 @@ public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, int, int, int, int, int, int) {#drawpie_2}
 
-Dessine une forme circulaire définie par une ellipse spécifiée par une paire de coordonnées, une largeur, une hauteur et deux lignes radiales.
+Dessine une forme de secteur définie par une ellipse spécifiée par une paire de coordonnées, une largeur, une hauteur et deux lignes radiales.
 
 ```csharp
 public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle, int sweepAngle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style de la forme circulaire. |
-| x | Int32 | Coordonnée x du coin supérieur gauche du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| y | Int32 | Coordonnée y du coin supérieur gauche du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| width | Int32 | Largeur du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| height | Int32 | Hauteur du rectangle englobant qui définit l'ellipse d'où provient la forme circulaire. |
-| startAngle | Int32 | Angle mesuré en degrés dans le sens des aiguilles d'une montre entre l'axe des x et le premier côté de la forme circulaire. |
-| sweepAngle | Int32 | Angle mesuré en degrés dans le sens des aiguilles d'une montre à partir du*startAngle* paramètre au deuxième côté de la forme du secteur. |
+| pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du secteur. |
+| x | Int32 | La coordonnée x du coin supérieur gauche du rectangle englobant qui définit l'ellipse dont provient le secteur. |
+| y | Int32 | La coordonnée y du coin supérieur gauche du rectangle englobant qui définit l'ellipse dont provient la forme de tarte. |
+| largeur | Int32 | Largeur du rectangle englobant qui définit l'ellipse dont provient la forme de tarte. |
+| hauteur | Int32 | Hauteur du rectangle englobant qui définit l'ellipse dont provient la forme de tarte. |
+| startAngle | Int32 | Angle mesuré en degrés dans le sens horaire depuis l'axe x jusqu'au premier côté du secteur. |
+| sweepAngle | Int32 | Angle mesuré en degrés dans le sens horaire depuis le paramètre *startAngle* jusqu'au deuxième côté du secteur. |
 
 ### Exceptions
 
@@ -126,11 +127,11 @@ public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: FontSettings.Reset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Réinitialise le dossier des polices et le nom de la police par défaut à la valeur par défaut du système.
+title: "FontSettings.Reset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Réinitialise le dossier des polices et le nom de police par défaut aux paramètres système"
 type: docs
-weight: 90
+weight: 110
 url: /fr/net/aspose.psd/fontsettings/reset/
 ---
+{{< psd/tize >}}
 ## FontSettings.Reset method
 
-Réinitialise le dossier des polices et le nom de la police par défaut à la valeur par défaut du système.
+Réinitialise le dossier des polices et le nom de police par défaut aux valeurs par défaut du système.
 
 ```csharp
 public static void Reset()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

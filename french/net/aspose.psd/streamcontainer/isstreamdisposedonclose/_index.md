@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.IsStreamDisposedOnClose
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer propriété. Obtient une valeur indiquant si ce flux est supprimé à la fermeture.
+title: "StreamContainer.IsStreamDisposedOnClose"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StreamContainer. Obtient une valeur indiquant si ce flux est libéré à la fermeture"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/streamcontainer/isstreamdisposedonclose/
 ---
+{{< psd/tize >}}
 ## StreamContainer.IsStreamDisposedOnClose property
 
-Obtient une valeur indiquant si ce flux est supprimé à la fermeture.
+Obtient une valeur indiquant si ce flux est libéré à la fermeture.
 
 ```csharp
 public virtual bool IsStreamDisposedOnClose { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si le flux est supprimé à la fermeture ; sinon,`FAUX`.
+`true` si le flux est libéré à la fermeture ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

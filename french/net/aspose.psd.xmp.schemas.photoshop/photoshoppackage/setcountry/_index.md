@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCountry
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit le pays.
+title: "PhotoshopPackage.SetCountry"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Définit le pays"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCountry method
 
 Définit le pays.
@@ -14,14 +15,14 @@ Définit le pays.
 public void SetCountry(string country)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| country | String | Le pays. |
+| pays | String | Le pays. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

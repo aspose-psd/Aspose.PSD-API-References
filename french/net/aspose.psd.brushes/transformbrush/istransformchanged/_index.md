@@ -1,27 +1,28 @@
 ---
-title: TransformBrush.IsTransformChanged
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TransformBrush propriété. Obtient une valeur indiquant si les transformations ont été modifiées dune manière ou dune autre. Par exemple définir la matrice de transformation ou appeler lune des méthodes modifiant la matrice de transformation. La propriété est introduite pour la rétrocompatibilité avec GDI.
+title: "TransformBrush.IsTransformChanged"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TransformBrush. Obtient une valeur indiquant si les transformations ont été modifiées d'une manière ou d'une autre. Par exemple en définissant la matrice de transformation ou en appelant l'une des méthodes modifiant la matrice de transformation. La propriété est introduite pour la compatibilité descendante avec GDI"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.brushes/transformbrush/istransformchanged/
 ---
+{{< psd/tize >}}
 ## TransformBrush.IsTransformChanged property
 
-Obtient une valeur indiquant si les transformations ont été modifiées d'une manière ou d'une autre. Par exemple, définir la matrice de transformation ou appeler l'une des méthodes modifiant la matrice de transformation. La propriété est introduite pour la rétrocompatibilité avec GDI+.
+Obtient une valeur indiquant si les transformations ont été modifiées d'une manière ou d'une autre. Par exemple en définissant la matrice de transformation ou en appelant l'une des méthodes modifiant la matrice de transformation. La propriété est introduite pour assurer la compatibilité descendante avec GDI+.
 
 ```csharp
 public bool IsTransformChanged { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`Vrai` si la transformation a été modifiée ; sinon,`FAUX` .
+`True` si la transformation a été modifiée ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

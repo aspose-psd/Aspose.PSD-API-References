@@ -1,23 +1,24 @@
 ---
-title: LayerStateInformationResource.LayerStateInformationResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerStateInformationResource constructeur. Default_Constructor
+title: "LayerStateInformationResource.LayerStateInformationResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur LayerStateInformationResource. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerstateinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public LayerStateInformationResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerStateInformationResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

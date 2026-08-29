@@ -1,28 +1,29 @@
 ---
-title: Timecode.Format
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Timecode propriété. Obtient ou définit le format utilisé dans leTimeValue .
+title: "Timecode.Format"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Timecode. Obtient ou définit le format utilisé dans le TimeValue"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/timecode/format/
 ---
+{{< psd/tize >}}
 ## Timecode.Format property
 
-Obtient ou définit le format utilisé dans le[`TimeValue`](../timevalue/) .
+Obtient ou définit le format utilisé dans le [`TimeValue`](../timevalue/).
 
 ```csharp
 public TimeFormat Format { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le format utilisé dans le[`TimeValue`](../timevalue/) .
+Le format utilisé dans le [`TimeValue`](../timevalue/).
 
-### Voir également
+### Voir aussi
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

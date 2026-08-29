@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Left
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfo6Resource propriété. Obtient ou définit lemplacement de gauche.
+title: "TypeToolInfo6Resource.Left"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolInfo6Resource. Obtient ou définit l'emplacement gauche"
 type: docs
-weight: 80
+weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Left property
 
-Obtient ou définit l'emplacement de gauche.
+Obtient ou définit la position gauche.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'emplacement de gauche.
+L'emplacement gauche.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfo6Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

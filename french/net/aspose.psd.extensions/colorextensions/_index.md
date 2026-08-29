@@ -1,14 +1,15 @@
 ---
-title: Class ColorExtensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Extensions.ColorExtensions classe. LeColor méthodes dextension.
+title: "Classe ColorExtensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Extensions.ColorExtensions classe. Les méthodes d'extension Color"
 type: docs
-weight: 1050
+weight: 1060
 url: /fr/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
-Le[`Color`](../../aspose.psd/color/) méthodes d'extension.
+Les méthodes d'extension du [`Color`](../../aspose.psd/color/).
 
 ```csharp
 public static class ColorExtensions
@@ -16,14 +17,14 @@ public static class ColorExtensions
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Convertit le[`Color`](../../aspose.psd/color/) auColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Convertit le[`Color`](../../aspose.psd/color/) tableau à laColor tableau. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Convertit le [`Color`](../../aspose.psd/color/) en Color. |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Convertit le tableau de [`Color`](../../aspose.psd/color/) en tableau de Color. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

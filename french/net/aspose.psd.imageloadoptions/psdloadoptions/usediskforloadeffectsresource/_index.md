@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdLoadOptions propriété. Obtient ou définit une valeur indiquant si utiliser le disque pour charger la ressource deffets par défaut le disque utilisé pour charger la ressource deffets mais peut être utilisé la mémoire si elle est suffisante en définissant cette valeur sur false.
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdLoadOptions. Obtient ou définit une valeur indiquant s'il faut utiliser le disque pour charger les ressources d'effets. Par défaut, le disque est utilisé pour charger les ressources d'effets, mais la mémoire peut être utilisée si elle est suffisante en réglant cette valeur sur false."
 type: docs
-weight: 70
+weight: 90
 url: /fr/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-Obtient ou définit une valeur indiquant si [utiliser le disque pour charger la ressource d'effets] (par défaut, le disque utilisé pour charger la ressource d'effets, mais peut être utilisé la mémoire si elle est suffisante en définissant cette valeur sur false).
+Obtient ou définit une valeur indiquant si [use disk for load effects resource] (par défaut, le disque est utilisé pour charger les ressources d'effets, mais la mémoire peut être utilisée si elle est suffisante en réglant cette valeur sur false).
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` if [utiliser le disque pour la ressource des effets de charge] ; sinon,`FAUX` .
+`true` si [utiliser le disque pour charger les ressources d'effets]; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [PsdLoadOptions](../)
-* espace de noms [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

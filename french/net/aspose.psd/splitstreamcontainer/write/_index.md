@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Write
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SplitStreamContainer méthode. Écrit tous les octets spécifiés dans le flux.
+title: "SplitStreamContainer.Write"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SplitStreamContainer. Écrit tous les octets spécifiés dans le flux"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd/splitstreamcontainer/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[]) {#write}
 
 Écrit tous les octets spécifiés dans le flux.
@@ -14,15 +15,15 @@ url: /fr/net/aspose.psd/splitstreamcontainer/write/
 public override void Write(byte[] bytes)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| bytes | Byte[] | Les octets à écrire. |
+| octets | Byte[] | Les octets à écrire. |
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ public override void Write(byte[] bytes)
 public override void Write(byte[] buffer, int offset, int count)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| buffer | Byte[] | Un tableau d'octets. Cette méthode copie*count* octets de*buffer* au flux actuel. |
-| offset | Int32 | Le décalage d'octet de base zéro dans*buffer*à partir de laquelle commencer à copier des octets dans le flux actuel. |
+| tampon | Byte[] | Un tableau d'octets. Cette méthode copie *count* octets de *buffer* vers le flux actuel. |
+| offset | Int32 | Le décalage d'octet basé sur zéro dans *buffer* à partir duquel commencer à copier les octets vers le flux actuel. |
 | count | Int32 | Le nombre d'octets à écrire dans le flux actuel. |
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Radius
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GaussWienerFilterOptions propriété. Obtient ou définit le rayon.
+title: "GaussWienerFilterOptions.Radius"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GaussWienerFilterOptions. Obtient ou définit le rayon"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Radius property
 
-Obtient ou définit le rayon.
+Obtient ou définit le radius.
 
 ```csharp
 public int Radius { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le rayon.
 
-### Voir également
+### Voir aussi
 
 * class [GaussWienerFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

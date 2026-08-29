@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Définit le commentaire du journal de lutilisateur.
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpDynamicMediaPackage. Définit le commentaire de journal de l'utilisateur"
 type: docs
 weight: 270
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
 Définit le commentaire du journal de l'utilisateur.
@@ -14,14 +15,14 @@ Définit le commentaire du journal de l'utilisateur.
 public void SetLogComment(string comment)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| comment | String | Le commentaire. |
+| commentaire | String | Le commentaire. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

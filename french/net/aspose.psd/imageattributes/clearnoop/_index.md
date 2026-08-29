@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearNoOp
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Efface le paramètre NoOp pour la catégorie par défaut.
+title: "ImageAttributes.ClearNoOp"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Efface le paramètre NoOp pour la catégorie par défaut"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/imageattributes/clearnoop/
 ---
+{{< psd/tize >}}
 ## ClearNoOp() {#clearnoop}
 
 Efface le paramètre NoOp pour la catégorie par défaut.
@@ -14,11 +15,11 @@ Efface le paramètre NoOp pour la catégorie par défaut.
 public void ClearNoOp()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ Efface le paramètre NoOp pour une catégorie spécifiée.
 public void ClearNoOp(ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| type | ColorAdjustType | Un élément de[`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle le paramètre NoOp est effacé. |
+| type | ColorAdjustType | Un élément de [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle le paramètre NoOp est effacé. |
 
-### Voir également
+### Voir aussi
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

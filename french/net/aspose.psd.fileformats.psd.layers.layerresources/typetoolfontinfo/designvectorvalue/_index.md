@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.DesignVectorValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolFontInfo propriété. Obtient ou définit la valeur du vecteur de conception.
+title: "TypeToolFontInfo.DesignVectorValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolFontInfo. Obtient ou définit la valeur du vecteur de conception"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignVectorValue property
 
 Obtient ou définit la valeur du vecteur de conception.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur du vecteur de conception.
 public int DesignVectorValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur du vecteur de conception.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolFontInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

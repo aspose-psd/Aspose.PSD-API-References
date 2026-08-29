@@ -1,11 +1,12 @@
 ---
-title: Class XmpDate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Basic.XmpDate classe. Représente la date dans le paquet XMP.
+title: "Classe XmpDate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Types.Basic.XmpDate. Représente la date dans le paquet XMP"
 type: docs
-weight: 5950
+weight: 6450
 url: /fr/net/aspose.psd.xmp.types.basic/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate class
 
 Représente la date dans le paquet XMP.
@@ -16,38 +17,38 @@ public sealed class XmpDate : XmpTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpDate](xmpdate/#constructor)(DateTime) | Initialise une nouvelle instance du`XmpDate` classe. |
-| [XmpDate](xmpdate/#constructor_1)(string) | Initialise une nouvelle instance du`XmpDate` classe. |
+| [XmpDate](xmpdate/#constructor)(DateTime) | Initialise une nouvelle instance de la classe `XmpDate`. |
+| [XmpDate](xmpdate/#constructor_1)(string) | Initialise une nouvelle instance de la classe `XmpDate`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Format](../../aspose.psd.xmp.types.basic/xmpdate/format/) { get; } | Obtient la chaîne de format pour la valeur actuelle. |
 | [Value](../../aspose.psd.xmp.types.basic/xmpdate/value/) { get; set; } | Obtient ou définit la valeur de date. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | Renvoie la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | Renvoie la valeur de chaîne contenue au format XMP. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | La chaîne de format ISO 8601 (aller-retour). |
 
-### Remarques
+## Remarques
 
-Une valeur date-heure est représentée à l'aide d'un sous-ensemble des formats définis dans Formats de date et d'heure : AAAA AAAA-MM AAAA-MM-JJ AAAA-MM-JJThh:mmTZD AAAA-MM-JJThh:mm:ssTZD AAAA- MM-JJThh:mm:ss.sTZD
+Une valeur date-heure est représentée en utilisant un sous-ensemble des formats définis dans Date and Time Formats : YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ss.sTZD
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

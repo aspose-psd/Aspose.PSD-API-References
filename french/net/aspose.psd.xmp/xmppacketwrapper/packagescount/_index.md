@@ -1,27 +1,28 @@
 ---
-title: XmpPacketWrapper.PackagesCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPacketWrapper propriété. Obtient le nombre de packages dans la structure XMP.
+title: "XmpPacketWrapper.PackagesCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpPacketWrapper. Obtient le nombre de packages dans la structure XMP"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp/xmppacketwrapper/packagescount/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.PackagesCount property
 
-Obtient le nombre de packages dans la structure XMP.
+Obtient le nombre de paquets dans la structure XMP.
 
 ```csharp
 public int PackagesCount { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nombre de packages dans la structure XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPacketWrapper](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le relèvement GPS vers le point de destination.
+title: "ExifData.GPSDestBearing"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit l'orientation GPS vers le point de destination"
 type: docs
 weight: 400
 url: /fr/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearing property
 
-Obtient ou définit le relèvement GPS vers le point de destination.
+Obtient ou définit l'azimut GPS vers le point de destination.
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le relèvement GPS du point de destination.
+L'orientation GPS vers le point de destination.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

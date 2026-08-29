@@ -1,11 +1,12 @@
 ---
-title: Class AggregateException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.AggregateException classe. Regroupe plusieurs exceptions.
+title: "Classe AggregateException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.AggregateException. Regroupe plusieurs exceptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/aggregateexception/
 ---
+{{< psd/tize >}}
 ## AggregateException class
 
 Regroupe plusieurs exceptions.
@@ -14,9 +15,9 @@ Regroupe plusieurs exceptions.
 public class AggregateException : Exception
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

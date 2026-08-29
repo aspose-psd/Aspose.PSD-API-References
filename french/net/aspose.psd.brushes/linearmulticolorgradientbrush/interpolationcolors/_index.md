@@ -1,28 +1,29 @@
 ---
-title: LinearMulticolorGradientBrush.InterpolationColors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinearMulticolorGradientBrush propriété. Obtient ou définit unColorBlend qui définit un dégradé linéaire multicolore.
+title: "LinearMulticolorGradientBrush.InterpolationColors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinearMulticolorGradientBrush. Obtient ou définit un ColorBlend qui définit un dégradé linéaire multicolore"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.brushes/linearmulticolorgradientbrush/interpolationcolors/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush.InterpolationColors property
 
-Obtient ou définit un[`ColorBlend`](../../../aspose.psd/colorblend/) qui définit un dégradé linéaire multicolore.
+Obtient ou définit un [`ColorBlend`](../../../aspose.psd/colorblend/) qui définit un dégradé linéaire multicolore.
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`ColorBlend`](../../../aspose.psd/colorblend/) qui définit un dégradé linéaire multicolore.
+Un [`ColorBlend`](../../../aspose.psd/colorblend/) qui définit un dégradé linéaire multicolore.
 
-### Voir également
+### Voir aussi
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [LinearMulticolorGradientBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

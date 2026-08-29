@@ -1,31 +1,32 @@
 ---
-title: Color.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color méthode. Teste si lobjet spécifié est unColor structure et équivaut à celleciColorstructure.
+title: "Color.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Color. Vérifie si l'objet spécifié est une structure Color et équivaut à cette structure Color."
 type: docs
 weight: 1540
 url: /fr/net/aspose.psd/color/equals/
 ---
+{{< psd/tize >}}
 ## Color.Equals method
 
-Teste si l'objet spécifié est un[`Color`](../) structure et équivaut à celle-ci[`Color`](../)structure.
+Vérifie si l'objet spécifié est une structure [`Color`](../) et équivaut à cette structure [`Color`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | obj | Object | L'objet à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si*obj* est un[`Color`](../) structure équivalente à celle-ci[`Color`](../) structure; sinon, faux.
+Vrai si *obj* est une structure [`Color`](../) équivalente à cette structure [`Color`](../) ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

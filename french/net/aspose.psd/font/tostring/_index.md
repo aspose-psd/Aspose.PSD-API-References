@@ -1,27 +1,28 @@
 ---
-title: Font.ToString
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font méthode. Renvoie une représentation sous forme de chaîne lisible par lhomme de ceFont .
+title: "Font.ToString"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Font. Retourne une représentation sous forme de chaîne lisible de cette Font"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/font/tostring/
 ---
+{{< psd/tize >}}
 ## Font.ToString method
 
-Renvoie une représentation sous forme de chaîne lisible par l'homme de ce[`Font`](../) .
+Retourne une représentation sous forme de chaîne lisible de cette [`Font`](../).
 
 ```csharp
 public override string ToString()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une chaîne qui représente ceci[`Font`](../).
+Une chaîne qui représente cette [`Font`](../).
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

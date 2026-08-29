@@ -1,51 +1,52 @@
 ---
-title: Matrix.Scale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix méthode. Applique le vecteur déchelle spécifié scaleX et scaleY à ceMatrix en utilisant lordre spécifié.
+title: "Matrix.Scale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Matrix method. Applique le vecteur d'échelle spécifié scaleX et scaleY à cette Matrix en utilisant l'ordre spécifié"
 type: docs
 weight: 160
 url: /fr/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-Applique le vecteur d'échelle spécifié (scaleX et scaleY) à ce[`Matrix`](../) en utilisant l'ordre spécifié.
+Applique le vecteur d'échelle spécifié (scaleX et scaleY) à ce [`Matrix`](../) en utilisant l'ordre spécifié.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | scaleX | Single | L'échelle X. |
 | scaleY | Single | L'échelle Y. |
-| order | MatrixOrder | L'ordre. |
+| ordre | MatrixOrder | L'ordre. |
 
-### Voir également
+### Voir aussi
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-Applique le vecteur d'échelle spécifié (scaleX et scaleY) à cette matrice en utilisant (par défaut) l'ordre de préfixe.
+Applique le vecteur d'échelle spécifié (scaleX et scaleY) à cette Matrix en utilisant l'ordre (par défaut) Prepend.
 
 ```csharp
 public void Scale(float sx, float sy)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sx | Single | Le sexe. Le sexe. Le sexe. |
-| sy | Single | Le si. Le si. Le si. |
+| sx | Single | Le sx. Le sx. Le sx. |
+| sy | Single | Le sy. Le sy. Le sy. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

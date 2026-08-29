@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerSelectionIdsResource propriété. Obtient ou définit le nombre.
+title: "LayerSelectionIdsResource.Count"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerSelectionIdsResource. Obtient ou définit le nombre"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
 Obtient ou définit le nombre.
@@ -14,14 +15,14 @@ Obtient ou définit le nombre.
 public short Count { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le décompte.
+Le nombre.
 
-### Voir également
+### Voir aussi
 
 * class [LayerSelectionIdsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

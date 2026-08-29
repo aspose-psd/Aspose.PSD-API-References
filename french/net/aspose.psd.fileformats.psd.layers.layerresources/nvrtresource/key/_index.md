@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NvrtResource propriété. Obtient la clé de ressource de couche.
+title: "NvrtResource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété NvrtResource. Obtient la clé de la ressource de calque"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/
 ---
+{{< psd/tize >}}
 ## NvrtResource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [NvrtResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

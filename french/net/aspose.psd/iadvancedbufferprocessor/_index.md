@@ -1,11 +1,12 @@
 ---
-title: Interface IAdvancedBufferProcessor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IAdvancedBufferProcessor interface. Le processeur de tampon avancé.
+title: "Interface IAdvancedBufferProcessor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.IAdvancedBufferProcessor. Le processeur de tampon avancé"
 type: docs
-weight: 4360
+weight: 4830
 url: /fr/net/aspose.psd/iadvancedbufferprocessor/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor interface
 
 Le processeur de tampon avancé.
@@ -16,15 +17,15 @@ public interface IAdvancedBufferProcessor : IBufferProcessor
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | Termine la ligne. |
-| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | Termine les rangées. |
+| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | Termine les lignes. |
 
-### Voir également
+### Voir aussi
 
 * interface [IBufferProcessor](../ibufferprocessor/)
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

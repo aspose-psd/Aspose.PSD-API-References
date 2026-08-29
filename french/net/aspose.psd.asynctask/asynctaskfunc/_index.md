@@ -1,31 +1,32 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Le délégué dopération longue pour la tâche asynchrone avec un résultat de type générique.
+title: "Délégué AsyncTaskFunc"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Le délégué d'opération longue pour la tâche asynchrone avec un type de résultat générique"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-Le délégué d'opération longue pour la tâche asynchrone avec un résultat de type générique.
+Le délégué d'opération longue pour la tâche asynchrone avec type générique de résultat.
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| taskState | IAsyncTaskState | Etat de la tâche asynchrone. |
+| taskState | IAsyncTaskState | État de la tâche asynchrone. |
 
-### Return_Value
+### Valeur de retour
 
-Résultat de la longue opération.
+Résultat de l'opération longue.
 
-### Voir également
+### Voir aussi
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* espace de noms [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

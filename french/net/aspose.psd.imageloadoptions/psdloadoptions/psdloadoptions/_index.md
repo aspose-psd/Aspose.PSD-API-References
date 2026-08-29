@@ -1,23 +1,24 @@
 ---
-title: PsdLoadOptions.PsdLoadOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdLoadOptions constructeur. Default_Constructor
+title: "PsdLoadOptions.PsdLoadOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur PsdLoadOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imageloadoptions/psdloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public PsdLoadOptions()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PsdLoadOptions](../)
-* espace de noms [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

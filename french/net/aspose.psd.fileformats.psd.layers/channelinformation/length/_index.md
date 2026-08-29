@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ChannelInformation propriété. Obtient la longueur du canal en octets.
+title: "ChannelInformation.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ChannelInformation. Obtient la longueur du canal en octets"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.Length property
 
 Obtient la longueur du canal en octets.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La longueur.
 
-### Voir également
+### Voir aussi
 
 * class [ChannelInformation](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

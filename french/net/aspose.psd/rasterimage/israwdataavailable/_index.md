@@ -1,11 +1,12 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage propriété. Obtient une valeur indiquant si le chargement des données brutes est disponible.
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RasterImage propriété. Obtient une valeur indiquant si le chargement des données brutes est disponible"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
 Obtient une valeur indiquant si le chargement des données brutes est disponible.
@@ -14,14 +15,14 @@ Obtient une valeur indiquant si le chargement des données brutes est disponible
 public bool IsRawDataAvailable { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si ce chargement de données brutes est disponible ; sinon,`FAUX` .
+`true` si ce chargement de données brutes est disponible ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

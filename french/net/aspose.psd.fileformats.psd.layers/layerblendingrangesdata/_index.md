@@ -1,14 +1,15 @@
 ---
-title: Class LayerBlendingRangesData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData classe. Les données des plages de fusion des calques.
+title: "Classe LayerBlendingRangesData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData. Les données de plages de fusion du calque"
 type: docs
-weight: 2090
+weight: 2280
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData class
 
-Les données des plages de fusion des calques.
+Les données des plages de fusion du calque.
 
 ```csharp
 public sealed class LayerBlendingRangesData
@@ -16,21 +17,21 @@ public sealed class LayerBlendingRangesData
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LayerBlendingRangesData](layerblendingrangesdata/)() | Default_Constructor |
+| [LayerBlendingRangesData](layerblendingrangesdata/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Obtient ou définit les plages de fusion des canaux. |
-| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Obtient ou définit les plages de mélange composites. |
-| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Obtient la longueur des données des plages de fusion des calques en octets. |
+| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Obtient ou définit les plages de fusion du canal. |
+| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Obtient ou définit les plages de fusion composites. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Obtient la longueur des données de plages de fusion du calque en octets. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

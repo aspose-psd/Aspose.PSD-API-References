@@ -1,11 +1,12 @@
 ---
-title: ExifData.ISOSpeed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la vitesse ISO
+title: "ExifData.ISOSpeed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la vitesse ISO"
 type: docs
 weight: 700
 url: /fr/net/aspose.psd.exif/exifdata/isospeed/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeed property
 
 Obtient ou définit la vitesse ISO
@@ -14,14 +15,14 @@ Obtient ou définit la vitesse ISO
 public uint ISOSpeed { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La vitesse ISO.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

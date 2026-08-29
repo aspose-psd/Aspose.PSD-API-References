@@ -1,14 +1,15 @@
 ---
-title: Class StringFormatExtensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Extensions.StringFormatExtensions classe. Contient des méthodes dextension pour leStringFormat classe.
+title: "Classe StringFormatExtensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Extensions.StringFormatExtensions. Contient les méthodes d'extension pour la classe StringFormat"
 type: docs
-weight: 1190
+weight: 1200
 url: /fr/net/aspose.psd.extensions/stringformatextensions/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions class
 
-Contient des méthodes d'extension pour le[`StringFormat`](../../aspose.psd/stringformat/) classe.
+Contient des méthodes d'extension pour la classe [`StringFormat`](../../aspose.psd/stringformat/).
 
 ```csharp
 public static class StringFormatExtensions
@@ -16,13 +17,13 @@ public static class StringFormatExtensions
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | Convertit le[`StringFormat`](../../aspose.psd/stringformat/) auStringFormat . |
+| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | Convertit le [`StringFormat`](../../aspose.psd/stringformat/) en StringFormat. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: IopaResource.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IopaResource propriété. Obtient la longueur de la ressource de couche en octets.
+title: "IopaResource.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "IopaResource propriété. Obtient la longueur de la ressource de calque en octets"
 type: docs
-weight: 40
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/
 ---
+{{< psd/tize >}}
 ## IopaResource.Length property
 
-Obtient la longueur de la ressource de couche en octets.
+Obtient la longueur de la ressource du calque en octets.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [IopaResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

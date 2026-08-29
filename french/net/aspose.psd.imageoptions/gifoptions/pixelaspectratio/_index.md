@@ -1,31 +1,32 @@
 ---
-title: GifOptions.PixelAspectRatio
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GifOptions propriété. Obtient ou définit le format des pixels GIF.
+title: "GifOptions.PixelAspectRatio"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GifOptions. Obtient ou définit le ratio d'aspect du pixel GIF"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.imageoptions/gifoptions/pixelaspectratio/
 ---
+{{< psd/tize >}}
 ## GifOptions.PixelAspectRatio property
 
-Obtient ou définit le format des pixels GIF.
+Obtient ou définit le rapport d'aspect des pixels du GIF.
 
 ```csharp
 public byte PixelAspectRatio { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le format des pixels GIF.
+Le ratio d'aspect du pixel GIF.
 
-### Remarques
+## Remarques
 
-Pixel Aspect Ratio - Facteur utilisé pour calculer une approximation du rapport d'aspect du pixel dans l'image d'origine. Si la valeur du champ n'est pas 0, cette approximation du rapport d'aspect est calculée sur la base de la formule : Aspect Ratio = (Pixel Aspect Ratio + 15) / 64 Le Pixel Aspect Ratio est défini comme étant le quotient du pixel' s largeur sur sa hauteur. La plage de valeurs dans ce champ permet la spécification du pixel le plus large de 4:1 au pixel le plus haut de 1:4 par incréments de 1/64e. Valeurs : 0 - Aucune information de rapport d'aspect n'est donnée. 1..255 - Valeur utilisée dans le calcul.
+Ratio d'aspect du pixel - Facteur utilisé pour calculer une approximation du ratio d'aspect du pixel dans l'image originale. Si la valeur du champ n'est pas 0, cette approximation du ratio d'aspect est calculée selon la formule : Ratio d'aspect = (Ratio d'aspect du pixel + 15) / 64 Le Ratio d'aspect du pixel est défini comme le quotient de la largeur du pixel sur sa hauteur. L'intervalle de valeurs de ce champ permet de spécifier le pixel le plus large de 4 :1 au pixel le plus haut de 1 :4 par incréments de 1/64. Valeurs : 0 - Aucune information de ratio d'aspect fournie. 1..255 - Valeur utilisée dans le calcul.
 
-### Voir également
+### Voir aussi
 
 * class [GifOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

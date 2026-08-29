@@ -1,11 +1,12 @@
 ---
-title: Version.Comments
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Version propriété. Obtient ou définit les commentaires.
+title: "Version.Comments"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Version propriété. Obtient ou définit les commentaires"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.complex.version/version/comments/
 ---
+{{< psd/tize >}}
 ## Version.Comments property
 
 Obtient ou définit les commentaires.
@@ -14,14 +15,14 @@ Obtient ou définit les commentaires.
 public string Comments { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les commentaires.
 
-### Voir également
+### Voir aussi
 
 * class [Version](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

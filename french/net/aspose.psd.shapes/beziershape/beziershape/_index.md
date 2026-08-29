@@ -1,66 +1,67 @@
 ---
-title: BezierShape.BezierShape
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BezierShape constructeur. Initialise une nouvelle instance duBezierShape classe.
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur BezierShape. Initialise une nouvelle instance de la classe BezierShape"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-Initialise une nouvelle instance du[`BezierShape`](../) classe.
+Initialise une nouvelle instance de la classe [`BezierShape`](../).
 
 ```csharp
 public BezierShape()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BezierShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../beziershape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`BezierShape`](../) classe.
+Initialise une nouvelle instance de la classe [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | points | PointF[] | Le tableau de points. |
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../beziershape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-Initialise une nouvelle instance du[`BezierShape`](../) classe.
+Initialise une nouvelle instance de la classe [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | points | PointF[] | Le tableau de points. |
-| isClosed | Boolean | Si réglé sur`vrai` la spline de Bézier est fermée. |
+| isClosed | Booléen | Si défini sur `true`, la spline de Bézier est fermée. |
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../beziershape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

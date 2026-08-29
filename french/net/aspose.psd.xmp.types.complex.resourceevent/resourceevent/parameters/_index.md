@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.Parameters
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceEvent propriété. Obtient ou définit la description supplémentaire de laction.
+title: "ResourceEvent.Parameters"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceEvent. Obtient ou définit la description supplémentaire de l'action"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Parameters property
 
 Obtient ou définit la description supplémentaire de l'action.
@@ -14,14 +15,14 @@ Obtient ou définit la description supplémentaire de l'action.
 public string Parameters { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La description supplémentaire de l'action.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceEvent](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

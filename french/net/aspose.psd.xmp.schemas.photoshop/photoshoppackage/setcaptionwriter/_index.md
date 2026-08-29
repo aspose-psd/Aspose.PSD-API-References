@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCaptionWriter
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit le rédacteur de soustitres.
+title: "PhotoshopPackage.SetCaptionWriter"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PhotoshopPackage. Définit le rédacteur de légende"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCaptionWriter method
 
-Définit le rédacteur de sous-titres.
+Définit l'auteur de la légende.
 
 ```csharp
 public void SetCaptionWriter(string captionWriter)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| captionWriter | String | L'auteur de la légende. |
+| captionWriter | String | Le rédacteur de légende. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

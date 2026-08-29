@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.PhotoshopPackage
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage constructeur. Default_Constructor
+title: "PhotoshopPackage.PhotoshopPackage"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/photoshoppackage/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public PhotoshopPackage()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

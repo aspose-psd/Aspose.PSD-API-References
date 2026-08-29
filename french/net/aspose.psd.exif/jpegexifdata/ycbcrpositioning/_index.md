@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.YCbCrPositioning
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit la position des composants de chrominance par rapport au composant de luminance.
+title: "JpegExifData.YCbCrPositioning"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegExifData. Obtient ou définit la position des composants de chrominance par rapport au composant de luminance"
 type: docs
 weight: 240
 url: /fr/net/aspose.psd.exif/jpegexifdata/ycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrPositioning property
 
 Obtient ou définit la position des composants de chrominance par rapport au composant de luminance.
@@ -14,15 +15,15 @@ Obtient ou définit la position des composants de chrominance par rapport au com
 public ExifYCbCrPositioning YCbCrPositioning { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La position des composantes de chrominance par rapport à la composante de luminance.
+La position des composants de chrominance par rapport au composant de luminance.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifYCbCrPositioning](../../../aspose.psd.exif.enums/exifycbcrpositioning/)
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: CmxRasterizationOptions.CmxRasterizationOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmxRasterizationOptions constructeur. Default_Constructor
+title: "CmxRasterizationOptions.CmxRasterizationOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur CmxRasterizationOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imageoptions/cmxrasterizationoptions/cmxrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public CmxRasterizationOptions()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [CmxRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

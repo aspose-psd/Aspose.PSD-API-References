@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Grayscale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DeconvolutionFilterOptions propriété. Obtient ou définit une valeur indiquant si cetteDeconvolutionFilterOptions est en niveaux de gris. Renvoie le mode niveaux de gris ou le mode RVB.
+title: "DeconvolutionFilterOptions.Grayscale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DeconvolutionFilterOptions. Obtient ou définit une valeur indiquant si ce DeconvolutionFilterOptions est en niveaux de gris. Retourne le mode niveaux de gris ou le mode RVB"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Grayscale property
 
-Obtient ou définit une valeur indiquant si cette[`DeconvolutionFilterOptions`](../) est en niveaux de gris. Renvoie le mode niveaux de gris ou le mode RVB.
+Obtient ou définit une valeur indiquant si ce [`DeconvolutionFilterOptions`](../) est en niveaux de gris. Retourne le mode niveaux de gris ou le mode RVB.
 
 ```csharp
 public bool Grayscale { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si niveaux de gris ; sinon,`FAUX` .
+`true` si en niveaux de gris ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [DeconvolutionFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

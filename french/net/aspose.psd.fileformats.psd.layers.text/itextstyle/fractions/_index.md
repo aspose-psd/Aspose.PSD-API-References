@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.Fractions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Les symboles de fractions peuvent être remplacés par un glyphe spécial.
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. Les symboles de fractions peuvent être remplacés par un glyphe spécial"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
 Les symboles de fractions peuvent être remplacés par un glyphe spécial.
@@ -14,9 +15,9 @@ Les symboles de fractions peuvent être remplacés par un glyphe spécial.
 public bool Fractions { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
+Le code suivant démontre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

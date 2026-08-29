@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LayerIds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TimeLine propriété. Obtient ou définit le tableau des identifiants des couches.
+title: "TimeLine.LayerIds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TimeLine. Obtient ou définit le tableau d'identifiants des calques"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/timeline/layerids/
 ---
+{{< psd/tize >}}
 ## TimeLine.LayerIds property
 
-Obtient ou définit le tableau des identifiants des couches.
+Obtient ou définit le tableau d'identifiants des calques.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TimeLine](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

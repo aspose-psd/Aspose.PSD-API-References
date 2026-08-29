@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceEvent méthode. Obtient la valeur contenue dans la chaîne au format XMP.
+title: "ResourceEvent.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ResourceEvent. Obtient la valeur de chaîne contenue au format XMP"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.GetXmpRepresentation method
 
-Obtient la valeur contenue dans la chaîne au format XMP.
+Obtient la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la chaîne contenue dans la valeur au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceEvent](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

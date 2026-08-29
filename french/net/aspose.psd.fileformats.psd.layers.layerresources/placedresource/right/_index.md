@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Right
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit le bon emplacement du calque placé dans le fichier PSD.
+title: "PlacedResource.Right"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit l'emplacement droit de la couche placée dans le fichier PSD"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Right property
 
-Obtient ou définit le bon emplacement du calque placé dans le fichier PSD.
+Obtient ou définit la position droite du calque placé dans le fichier PSD.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le bon emplacement du calque placé.
+L'emplacement droit de la couche placée.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

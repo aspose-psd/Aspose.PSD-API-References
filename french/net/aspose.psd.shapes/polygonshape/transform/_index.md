@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Transform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PolygonShape méthode. Applique la transformation spécifiée à la forme.
+title: "PolygonShape.Transform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PolygonShape. Applique la transformation spécifiée à la forme"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.shapes/polygonshape/transform/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Transform method
 
 Applique la transformation spécifiée à la forme.
@@ -14,15 +15,15 @@ Applique la transformation spécifiée à la forme.
 public override void Transform(Matrix transform)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | transform | Matrix | La transformation à appliquer. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

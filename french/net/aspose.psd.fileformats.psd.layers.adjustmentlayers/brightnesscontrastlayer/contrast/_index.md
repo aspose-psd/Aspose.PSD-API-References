@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BrightnessContrastLayer propriété. Obtient ou définit le contraste. Pour PS la plage de contraste est de 50 à 100. Mais nous ignorons cela.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BrightnessContrastLayer. Obtient ou définit le contraste. Pour la plage PS, le contraste va de 50 à 100. Mais nous l'ignorons."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-Obtient ou définit le contraste. Pour PS, la plage de contraste est de -50 à +100. Mais nous ignorons cela.
+Obtient ou définit le contraste. Pour PS, la plage de contraste va de -50 à +100. Mais nous l'ignorons.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le contraste.
 
-### Voir également
+### Voir aussi
 
 * class [BrightnessContrastLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

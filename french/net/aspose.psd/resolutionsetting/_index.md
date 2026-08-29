@@ -1,14 +1,15 @@
 ---
-title: Class ResolutionSetting
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ResolutionSetting classe. Le paramètre de résolution pour les options denregistrement dimage.
+title: "Classe ResolutionSetting"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ResolutionSetting. Le paramètre de résolution pour les options d'enregistrement d'image"
 type: docs
-weight: 5380
+weight: 5880
 url: /fr/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
-Le paramètre de résolution pour les options d'enregistrement d'image.
+Le paramètre de résolution pour les options d’enregistrement d’image.
 
 ```csharp
 public class ResolutionSetting
@@ -16,21 +17,21 @@ public class ResolutionSetting
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | Initialise une nouvelle instance du`ResolutionSetting` classe. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Initialise une nouvelle instance du`ResolutionSetting` classe. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | Initialise une nouvelle instance de la classe `ResolutionSetting`. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Initialise une nouvelle instance de la classe `ResolutionSetting`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Obtient ou définit la résolution horizontale. |
 | [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Obtient ou définit la résolution verticale. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

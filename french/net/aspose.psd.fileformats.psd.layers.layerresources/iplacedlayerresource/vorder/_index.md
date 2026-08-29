@@ -1,11 +1,12 @@
 ---
-title: IPlacedLayerResource.VOrder
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPlacedLayerResource propriété. Obtient ou définit la valeur dordre V du calque placé dans le fichier PSD.
+title: "IPlacedLayerResource.VOrder"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "IPlacedLayerResource propriété. Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD"
 type: docs
 weight: 230
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VOrder property
 
 Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD.
 public int VOrder { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur d'ordre V du calque placé.
 
-### Voir également
+### Voir aussi
 
 * interface [IPlacedLayerResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

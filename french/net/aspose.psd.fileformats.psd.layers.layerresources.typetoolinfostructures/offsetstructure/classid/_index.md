@@ -1,28 +1,29 @@
 ---
-title: OffsetStructure.ClassID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OffsetStructure propriété. Obtient ou définit lID de classe.
+title: "OffsetStructure.ClassID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété OffsetStructure. Obtient ou définit l'ID de la classe"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classid/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.ClassID property
 
-Obtient ou définit l'ID de classe.
+Obtient ou définit l'ID de la classe.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'ID de classe.
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

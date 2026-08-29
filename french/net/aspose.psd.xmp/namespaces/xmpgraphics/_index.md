@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpGraphics
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Espace de noms graphique XMP.
+title: "Namespaces.XmpGraphics"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. espace de noms graphique XMP"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.xmp/namespaces/xmpgraphics/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpGraphics field
 
-Espace de noms graphique XMP.
+Espace de noms XMP graphics.
 
 ```csharp
 public const string XmpGraphics;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

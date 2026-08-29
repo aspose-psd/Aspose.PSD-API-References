@@ -1,27 +1,28 @@
 ---
-title: Rectangle.ToString
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle méthode. Convertit les attributs de ceRectangle en une chaîne lisible par lhomme.
+title: "Rectangle.ToString"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Rectangle. Convertit les attributs de ce Rectangle en une chaîne lisible par l'homme"
 type: docs
 weight: 280
 url: /fr/net/aspose.psd/rectangle/tostring/
 ---
+{{< psd/tize >}}
 ## Rectangle.ToString method
 
-Convertit les attributs de ce[`Rectangle`](../) en une chaîne lisible par l'homme.
+Convertit les attributs de ce [`Rectangle`](../) en une chaîne lisible par l'homme.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une chaîne qui contient la position, la largeur et la hauteur de ce[`Rectangle`](../) structure.
+Une chaîne qui contient la position, la largeur et la hauteur de cette structure [`Rectangle`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

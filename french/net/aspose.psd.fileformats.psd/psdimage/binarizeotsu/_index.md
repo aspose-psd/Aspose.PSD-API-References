@@ -1,23 +1,24 @@
 ---
-title: PsdImage.BinarizeOtsu
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Binarisation dune image avec seuillage Otsu
+title: "PsdImage.BinarizeOtsu"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Binarisation d'une image avec le seuillage d'Otsu"
 type: docs
-weight: 490
+weight: 550
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeOtsu method
 
-Binarisation d'une image avec seuillage Otsu
+Binarisation d'une image avec le seuillage d'Otsu
 
 ```csharp
 public override void BinarizeOtsu()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

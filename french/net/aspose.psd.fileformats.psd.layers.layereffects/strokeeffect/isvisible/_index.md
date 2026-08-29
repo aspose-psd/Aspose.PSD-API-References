@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.IsVisible
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StrokeEffect propriété. Obtient ou définit une valeur indiquant si cette instance est visible.
+title: "StrokeEffect.IsVisible"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StrokeEffect. Obtient ou définit une valeur indiquant si cette instance est visible"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.IsVisible property
 
 Obtient ou définit une valeur indiquant si cette instance est visible.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance est visible.
 public bool IsVisible { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est visible ; sinon,`FAUX` .
+`true` si cette instance est visible ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [StrokeEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

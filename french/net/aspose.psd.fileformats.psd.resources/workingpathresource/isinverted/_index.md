@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.IsInverted
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: WorkingPathResource propriété. Obtient ou définit une valeur indiquant si cette instance est inversée.
+title: "WorkingPathResource.IsInverted"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété WorkingPathResource. Obtient ou définit une valeur indiquant si cette instance est inversée."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsInverted property
 
 Obtient ou définit une valeur indiquant si cette instance est inversée.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance est inversée.
 public bool IsInverted { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est inversée ; sinon,`FAUX` .
+`true` si cette instance est inversée; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [WorkingPathResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

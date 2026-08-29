@@ -1,11 +1,12 @@
 ---
-title: AsyncTask.Create
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AsyncTask méthode. Crée la tâche asynchrone sans aucun résultat.
+title: "AsyncTask.Create"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode AsyncTask. Crée la tâche asynchrone sans aucun résultat"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
 Crée la tâche asynchrone sans aucun résultat.
@@ -14,21 +15,21 @@ Crée la tâche asynchrone sans aucun résultat.
 public static IAsyncTask Create(AsyncTaskAction taskAction)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | taskAction | AsyncTaskAction | L'action de la tâche. |
 
-### Return_Value
+### Valeur de retour
 
 La tâche asynchrone
 
-### Voir également
+### Voir aussi
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../asynctask/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,20 +41,20 @@ Crée la tâche asynchrone avec un résultat de type générique.
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| taskFunc | AsyncTaskFunc | La fonction tâche. |
+| taskFunc | AsyncTaskFunc | La fonction de tâche. |
 
-### Return_Value
+### Valeur de retour
 
 La tâche asynchrone
 
-### Voir également
+### Voir aussi
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../asynctask/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

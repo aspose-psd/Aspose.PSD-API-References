@@ -1,72 +1,73 @@
 ---
-title: LspfResource.LspfResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LspfResource constructeur. Initialise une nouvelle instance duLspfResource class. Avec valeur personnalisée ou inconnue
+title: "LspfResource.LspfResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur LspfResource. Initialise une nouvelle instance de la classe LspfResource. Avec une valeur personnalisée ou inconnue"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-Initialise une nouvelle instance du[`LspfResource`](../) class. Avec valeur personnalisée ou inconnue
+Initialise une nouvelle instance de la classe [`LspfResource`](../). Avec une valeur personnalisée ou inconnue
 
 ```csharp
 public LspfResource(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données de ressources. |
+| données | Byte[] | Les données de la ressource. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Longueur des données de ressource Lspf non valide |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Longueur de données Lspf Resource invalide |
 
-### Voir également
+### Voir aussi
 
 * class [LspfResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-Initialise une nouvelle instance du[`LspfResource`](../) classe.
+Initialise une nouvelle instance de la classe [`LspfResource`](../).
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
     bool isPositionProtected)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | si réglé sur`vrai` [est protégé par la transparence]. |
-| isCompositeProtected | Boolean | si réglé sur`vrai` [est composite protégé]. |
-| isPositionProtected | Boolean | si réglé sur`vrai` [est une position protégée]. |
+| isTransparencyProtected | Booléen | si défini sur `true` [est protégé contre la transparence]. |
+| isCompositeProtected | Booléen | si défini sur `true` [est protégé contre le composite]. |
+| isPositionProtected | Booléen | si défini sur `true` [est protégé contre la position]. |
 
-### Voir également
+### Voir aussi
 
 * class [LspfResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-Initialise une nouvelle instance du[`LspfResource`](../) classe.
+Initialise une nouvelle instance de la classe [`LspfResource`](../).
 
 ```csharp
 public LspfResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LspfResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

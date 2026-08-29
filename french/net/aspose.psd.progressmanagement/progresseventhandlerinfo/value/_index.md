@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ProgressEventHandlerInfo propriété. Obtient la valeur de progression actuelle.
+title: "ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ProgressEventHandlerInfo propriété. Obtient la valeur de progression actuelle"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Value property
 
 Obtient la valeur de progression actuelle.
@@ -14,14 +15,14 @@ Obtient la valeur de progression actuelle.
 public int Value { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur de progression.
 
-### Voir également
+### Voir aussi
 
 * class [ProgressEventHandlerInfo](../)
-* espace de noms [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

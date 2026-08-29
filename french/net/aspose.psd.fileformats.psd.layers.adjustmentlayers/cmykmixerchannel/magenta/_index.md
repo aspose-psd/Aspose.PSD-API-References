@@ -1,11 +1,12 @@
 ---
-title: CmykMixerChannel.Magenta
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykMixerChannel propriété. Obtient ou définit le magenta.
+title: "CmykMixerChannel.Magenta"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CmykMixerChannel. Obtient ou définit le magenta."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Magenta property
 
 Obtient ou définit le magenta.
@@ -14,14 +15,14 @@ Obtient ou définit le magenta.
 public short Magenta { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le magenta.
 
-### Voir également
+### Voir aussi
 
 * class [CmykMixerChannel](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

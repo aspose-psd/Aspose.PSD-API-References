@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.AddNoiseSmartFilter
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AddNoiseSmartFilter constructeur. Initialise une nouvelle instance duAddNoiseSmartFilter classe.
+title: "AddNoiseSmartFilter.AddNoiseSmartFilter"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AddNoiseSmartFilter constructeur. Initialise une nouvelle instance de la classe AddNoiseSmartFilter"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter constructor
 
-Initialise une nouvelle instance du[`AddNoiseSmartFilter`](../) classe.
+Initialise une nouvelle instance de la classe [`AddNoiseSmartFilter`](../).
 
 ```csharp
 public AddNoiseSmartFilter()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AddNoiseSmartFilter](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

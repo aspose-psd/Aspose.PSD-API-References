@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartObjectLayerResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource interface. Définit linterface ISmartObjectLayerResource qui contient des informations sur une ressource de couche dobjet intelligent dans le fichier PSD. Est également une interface de balisage utilisée pour désigner les ressources Vendu et Sole dans les images Adobe Photoshop.
+title: "Interface ISmartObjectLayerResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource interface. Définit l'interface ISmartObjectLayerResource qui contient des informations sur une ressource de calque d'objet dynamique dans le fichier PSD. C'est également une interface de balisage utilisée pour désigner les ressources Sold et Sole dans les images Adobe Photoshop."
 type: docs
-weight: 2540
+weight: 2830
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource interface
 
-Définit l'interface ISmartObjectLayerResource qui contient des informations sur une ressource de couche d'objet intelligent dans le fichier PSD. Est également une interface de balisage utilisée pour désigner les ressources Vendu et Sole dans les images Adobe® Photoshop®.
+Définit l’interface ISmartObjectLayerResource qui contient des informations sur une ressource de calque d’objet intelligent dans le fichier PSD. C’est également une interface de balisage utilisée pour désigner les ressources Sold et Sole dans les images Adobe® Photoshop®.
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource
@@ -16,13 +17,13 @@ public interface ISmartObjectLayerResource : IPlacedLayerResource
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Obtient ou définit l'identifiant unique de ces données de couche d'objet intelligent dans l'image PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Obtient ou définit l'identifiant unique de ces données de calque d'objet dynamique dans l'image PSD. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des objets intelligents intégrés.
+Le code suivant démontre la prise en charge des objets dynamiques intégrés.
 
 ```csharp
 [C#]
@@ -35,7 +36,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter/mettre à jour le contenu intégré d'origine de l'objet intelligent.
+// Cet exemple montre comment modifier le calque d'objet dynamique dans le fichier PSD et exporter / mettre à jour le contenu intégré original de l'objet dynamique.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -64,10 +65,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Exportons l'image de l'objet intelligent intégré à partir du calque d'objet intelligent PSD
+        // Exportons l'image d'objet dynamique intégré depuis le calque d'objet dynamique du PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Vérifions si l'image d'origine est correctement enregistrée
+        // Vérifions si l'image originale est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -75,7 +76,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Inversons l'image originale de l'objet intelligent
+            // Inversons l'image originale de l'objet dynamique
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -86,21 +87,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Remplaçons l'image de l'objet intelligent intégré dans la couche PSD
+            // Remplaçons l'image d'objet dynamique intégré dans le calque PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Vérifions si l'image mise à jour est correctement enregistrée
+        // Vérifions si l'image mise à jour est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

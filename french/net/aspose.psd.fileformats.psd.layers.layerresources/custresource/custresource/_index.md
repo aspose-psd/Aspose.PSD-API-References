@@ -1,43 +1,44 @@
 ---
-title: CustResource.CustResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CustResource constructeur. Initialise une nouvelle instance duCustResource classe.
+title: "CustResource.CustResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CustResource constructeur. Initialise une nouvelle instance de la classe CustResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource() {#constructor}
 
-Initialise une nouvelle instance du[`CustResource`](../) classe.
+Initialise une nouvelle instance de la classe [`CustResource`](../).
 
 ```csharp
 public CustResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [CustResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustResource(byte[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`CustResource`](../) classe.
+Initialise une nouvelle instance de la classe [`CustResource`](../).
 
 ```csharp
 public CustResource(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données de la ressource. |
+| données | Byte[] | Les données de la ressource. |
 
-### Voir également
+### Voir aussi
 
 * class [CustResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

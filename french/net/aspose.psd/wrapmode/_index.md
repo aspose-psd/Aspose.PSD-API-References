@@ -1,14 +1,15 @@
 ---
-title: Enum WrapMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.WrapMode énumération. Spécifie comment une texture ou un dégradé est carrelé lorsquil est plus petit que la zone à remplir.
+title: "Énumération WrapMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.WrapMode enum. Spécifie comment une texture ou un dégradé est répété lorsque celui-ci est plus petit que la zone à remplir"
 type: docs
-weight: 5740
+weight: 6240
 url: /fr/net/aspose.psd/wrapmode/
 ---
+{{< psd/tize >}}
 ## WrapMode enumeration
 
-Spécifie comment une texture ou un dégradé est carrelé lorsqu'il est plus petit que la zone à remplir.
+Spécifie comment une texture ou un dégradé est répété lorsqu'il est plus petit que la zone à remplir.
 
 ```csharp
 public enum WrapMode
@@ -16,17 +17,17 @@ public enum WrapMode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Tile | `0` | Mosaïque du dégradé ou de la texture. |
-| TileFlipX | `1` | Inverse la texture ou le dégradé horizontalement, puis mosaïque la texture ou le dégradé. |
-| TileFlipY | `2` | Inverse la texture ou le dégradé verticalement, puis mosaïque la texture ou le dégradé. |
-| TileFlipXY | `3` | Inverse la texture ou le dégradé horizontalement et verticalement, puis mosaïque la texture ou le dégradé. |
-| Clamp | `4` | La texture ou le dégradé n'est pas en mosaïque. |
+| Tile | `0` | Répète le dégradé ou la texture. |
+| TileFlipX | `1` | Inverse la texture ou le dégradé horizontalement, puis répète la texture ou le dégradé. |
+| TileFlipY | `2` | Inverse la texture ou le dégradé verticalement, puis répète la texture ou le dégradé. |
+| TileFlipXY | `3` | Inverse la texture ou le dégradé horizontalement et verticalement, puis répète la texture ou le dégradé. |
+| Clamp | `4` | La texture ou le dégradé n'est pas répété. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

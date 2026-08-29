@@ -1,14 +1,15 @@
 ---
-title: Class BaseFillSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings classe. Paramètres deffet de remplissage de base
+title: "Classe BaseFillSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings. Paramètres de l'effet de remplissage de base"
 type: docs
-weight: 1920
+weight: 2030
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-Paramètres d'effet de remplissage de base
+Paramètres de l'effet de remplissage de base
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
@@ -16,14 +17,14 @@ public abstract class BaseFillSettings : IFillSettings
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Obtient le type de remplissage. |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Obtient le type du remplissage. |
 
-### Voir également
+### Voir aussi
 
 * interface [IFillSettings](../ifillsettings/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

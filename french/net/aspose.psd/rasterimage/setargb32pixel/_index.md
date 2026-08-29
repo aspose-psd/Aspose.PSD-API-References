@@ -1,29 +1,30 @@
 ---
-title: RasterImage.SetArgb32Pixel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Définit un pixel ARGB 32 bits dimage pour la position spécifiée.
+title: "RasterImage.SetArgb32Pixel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Définit un pixel ARGB 32 bits d'une image pour la position spécifiée"
 type: docs
-weight: 540
+weight: 560
 url: /fr/net/aspose.psd/rasterimage/setargb32pixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetArgb32Pixel method
 
-Définit un pixel ARGB 32 bits d'image pour la position spécifiée.
+Définit un pixel ARGB 32 bits de l'image pour la position spécifiée.
 
 ```csharp
 public void SetArgb32Pixel(int x, int y, int argb32Color)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Int32 | L'emplacement pixel x. |
-| y | Int32 | L'emplacement du pixel y. |
+| x | Int32 | La position x du pixel. |
+| y | Int32 | La position y du pixel. |
 | argb32Color | Int32 | Le pixel ARGB 32 bits pour la position spécifiée. |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est imprimé. Rend lillustration contenue dans le calque imprimable si vrai.
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiLayerSection. Obtient ou définit une valeur indiquant si cette couche est imprimée. Rend l'œuvre contenue dans la couche imprimable si vrai"
 type: docs
-weight: 80
+weight: 100
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Obtient ou définit une valeur indiquant si ce calque est imprimé. Rend l'illustration contenue dans le calque imprimable si vrai.
+Obtient ou définit une valeur indiquant si ce calque est imprimé. Rend le dessin contenu dans le calque imprimable si vrai.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si ce calque est imprimé ; sinon,`FAUX` .
+`true` si cette couche est imprimée ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

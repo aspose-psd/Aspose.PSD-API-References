@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerGroup propriété. Obtient la largeur du groupe de calques.
+title: "LayerGroup.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerGroup. Obtient la largeur du groupe de calques"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers/layergroup/width/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Width property
 
 Obtient la largeur du groupe de calques.
@@ -14,10 +15,10 @@ Obtient la largeur du groupe de calques.
 public override int Width { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerGroup](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

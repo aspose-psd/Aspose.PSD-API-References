@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorRangeHsl propriété. Obtient ou définit la bordure gauche.
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorRangeHsl. Obtient ou définit la bordure gauche"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
 Obtient ou définit la bordure gauche.
@@ -14,14 +15,14 @@ Obtient ou définit la bordure gauche.
 public short LeftBorder { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La bordure gauche.
 
-### Voir également
+### Voir aussi
 
 * class [ColorRangeHsl](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

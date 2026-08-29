@@ -1,29 +1,30 @@
 ---
-title: Delegate CompleteCallback
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Fonction de rappel pour recevoir lévénement dachèvement de tâche.
+title: "Délégué CompleteCallback"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Fonction de rappel pour recevoir l'événement de fin de tâche"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.asynctask/completecallback/
 ---
+{{< psd/tize >}}
 ## CompleteCallback delegate
 
-Fonction de rappel pour recevoir l'événement d'achèvement de tâche.
+Fonction de rappel pour recevoir l'événement de fin de tâche.
 
 ```csharp
 public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Exception error);
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | task | IAsyncTask | La tâche asynchrone. |
-| wasCancelled | Boolean | si réglé sur`vrai` [a été annulé]. |
-| error | Exception | L'erreur. |
+| wasCancelled | Booléen | si défini sur `true` [a été annulé]. |
+| erreur | Exception | L'erreur. |
 
-### Voir également
+### Voir aussi
 
 * interface [IAsyncTask](../iasynctask/)
-* espace de noms [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

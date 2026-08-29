@@ -1,11 +1,12 @@
 ---
-title: IColorPalette.GetNearestColorIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IColorPalette méthode. Obtient lindex de la couleur ARGB 32 bits la plus proche.
+title: "IColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IColorPalette. Obtient l'indice de la couleur ARGB 32 bits la plus proche"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/icolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
 Obtient l'index de la couleur ARGB 32 bits la plus proche.
@@ -14,43 +15,43 @@ Obtient l'index de la couleur ARGB 32 bits la plus proche.
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | argb32Color | Int32 | La couleur ARGB 32 bits. |
 
-### Return_Value
+### Valeur de retour
 
-L'indice de la couleur la plus proche.
+L'index de la couleur la plus proche.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../)
-* espace de noms [Aspose.PSD](../../icolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-Obtient l'index de la couleur la plus proche.
+Obtient l'indice de la couleur la plus proche.
 
 ```csharp
 public int GetNearestColorIndex(Color color)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| color | Color | La couleur. |
+| couleur | Couleur | La couleur. |
 
-### Return_Value
+### Valeur de retour
 
-L'indice de la couleur la plus proche.
+L'index de la couleur la plus proche.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* espace de noms [Aspose.PSD](../../icolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

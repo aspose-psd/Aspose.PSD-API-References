@@ -1,33 +1,34 @@
 ---
-title: CurvesContinuousManager.GetCurvePointByIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurvesContinuousManager méthode. Obtient le point de courbe par index.
+title: "CurvesContinuousManager.GetCurvePointByIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CurvesContinuousManager. Récupère le point de courbe par indice"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointByIndex method
 
-Obtient le point de courbe par index.
+Obtient le point de la courbe par indice.
 
 ```csharp
 public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| channelIndex | Int32 | Index de la chaîne. |
+| channelIndex | Int32 | Indice du canal. |
 | pointIndex | Int32 | Indice du point. |
 
-### Return_Value
+### Valeur de retour
 
-Point de courbe par index de canal
+Point de courbe par indice du canal
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

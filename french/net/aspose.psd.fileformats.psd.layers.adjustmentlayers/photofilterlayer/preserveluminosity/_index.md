@@ -1,27 +1,28 @@
 ---
-title: PhotoFilterLayer.PreserveLuminosity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoFilterLayer propriété. Obtient ou définit une valeur indiquant si préserver la luminosité.
+title: "PhotoFilterLayer.PreserveLuminosity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PhotoFilterLayer. Obtient ou définit une valeur indiquant s’il faut préserver la luminosité"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.PreserveLuminosity property
 
-Obtient ou définit une valeur indiquant si [préserver la luminosité].
+Obtient ou définit une valeur indiquant si [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si [préserver la luminosité] ; sinon,`FAUX` .
+`true` si [preserve luminosity] ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [PhotoFilterLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

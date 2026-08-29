@@ -1,11 +1,12 @@
 ---
-title: Class CmykMixerChannel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel classe. CmykChannel. Cest un wrapper pour les données brutes du canal. Utilisé dans MixrResource
+title: "Classe CmykMixerChannel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel class. CmykChannel. Son wrapper pour les données brutes du canal. Utilisé dans MixrResource"
 type: docs
-weight: 1710
+weight: 1760
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel class
 
 CmykChannel. C'est un wrapper pour les données brutes du canal. Utilisé dans MixrResource
@@ -16,30 +17,30 @@ public class CmykMixerChannel : MixerChannel
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | Initialise une nouvelle instance du`CmykMixerChannel` classe. |
+| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | Initialise une nouvelle instance de la classe `CmykMixerChannel`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/) { get; set; } | Obtient ou définit le noir. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtient ou définit la constante.du canal. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtient ou définit la constante du canal. |
 | [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/) { get; set; } | Obtient ou définit le cyan. |
 | [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/) { get; set; } | Obtient ou définit le magenta. |
 | [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/) { get; set; } | Obtient ou définit le jaune. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Obtient les données brutes. |
 
-### Voir également
+### Voir aussi
 
 * class [MixerChannel](../mixerchannel/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit lurgence.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Définit l'urgence"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
 Définit l'urgence.
@@ -14,9 +15,9 @@ Définit l'urgence.
 public void SetUrgency(int urgency)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| urgency | Int32 | L'urgence. |
+| urgence | Int32 | L'urgence. |
 
 ### Exceptions
 
@@ -24,14 +25,14 @@ public void SetUrgency(int urgency)
 | --- | --- |
 | ArgumentOutOfRangeException | urgence;La plage valide est de 1 à 8 |
 
-### Remarques
+## Remarques
 
-L'urgence devrait être en rage de 1 à 8.
+L'urgence doit être comprise entre 1 et 8.
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

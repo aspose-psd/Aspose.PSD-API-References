@@ -1,29 +1,30 @@
 ---
-title: Image.SetPalette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image méthode. Définit la palette dimages.
+title: "Image.SetPalette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Image. Définit la palette de l'image"
 type: docs
-weight: 240
+weight: 250
 url: /fr/net/aspose.psd/image/setpalette/
 ---
+{{< psd/tize >}}
 ## Image.SetPalette method
 
-Définit la palette d'images.
+Définit la palette de l'image.
 
 ```csharp
 public abstract void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | palette | IColorPalette | La palette à définir. |
-| updateColors | Boolean | si défini sur`vrai` les couleurs seront mises à jour en fonction de la nouvelle palette ; sinon, les index de couleur restent inchangés. Notez que les index inchangés peuvent planter l'image lors du chargement si certains index n'ont pas d'entrées de palette correspondantes. |
+| updateColors | Booléen | si elle est définie sur `true`, les couleurs seront mises à jour selon la nouvelle palette ; sinon les index de couleur restent inchangés. Notez que les index inchangés peuvent provoquer un plantage de l'image lors du chargement si certains index n'ont aucune entrée correspondante dans la palette. |
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

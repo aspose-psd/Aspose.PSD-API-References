@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.IsNotLinked
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorPathDataResource propriété. Obtient ou définit une valeur indiquant si cette instance nest pas liée.
+title: "VectorPathDataResource.IsNotLinked"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorPathDataResource propriété. Obtient ou définit une valeur indiquant si cette instance n'est pas liée"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsNotLinked property
 
 Obtient ou définit une valeur indiquant si cette instance n'est pas liée.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance n'est pas liée.
 public bool IsNotLinked { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance n'est pas liée ; sinon,`FAUX` .
+`true` si cette instance n'est pas liée; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [VectorPathDataResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

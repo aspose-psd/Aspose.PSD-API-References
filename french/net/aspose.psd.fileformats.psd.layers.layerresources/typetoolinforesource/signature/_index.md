@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.Signature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient la signature de ressource de couche.
+title: "TypeToolInfoResource.Signature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfoResource propriété. Obtient la signature de la ressource de couche"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/signature/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Signature property
 
-Obtient la signature de ressource de couche.
+Obtient la signature de la ressource de calque.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

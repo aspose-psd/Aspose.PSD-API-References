@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.BezierKnotRecordsCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LengthRecord propriété. Obtient ou définit le nombre denregistrements de nœuds de Bézier.
+title: "LengthRecord.BezierKnotRecordsCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LengthRecord. Obtient ou définit le nombre d'enregistrements de nœuds Bézier"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/
 ---
+{{< psd/tize >}}
 ## LengthRecord.BezierKnotRecordsCount property
 
-Obtient ou définit le nombre d'enregistrements de nœuds de Bézier.
+Obtient ou définit le nombre d'enregistrements de nœuds Bézier.
 
 ```csharp
 public int BezierKnotRecordsCount { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-L'exemple de code suivant illustre la prise en charge des nouvelles propriétés LengthRecord, PathOperations (opérations booléennes), ShapeIndex et BezierKnotRecordsCount.
+L'exemple de code suivant démontre la prise en charge des nouvelles propriétés LengthRecord, PathOperations (opérations booléennes), ShapeIndex et BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Ici, nous changeons la façon de combiner entre les formes.
+    // Ici nous modifions la façon de combiner les formes.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,10 +50,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LengthRecord](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IccUntaggedResource.DataSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IccUntaggedResource propriété. Obtient la taille des données de ressource en octets.
+title: "IccUntaggedResource.DataSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IccUntaggedResource. Obtient la taille des données de la ressource en octets"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/datasize/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.DataSize property
 
-Obtient la taille des données de ressource en octets.
+Obtient la taille des données de la ressource en octets.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La taille des données de ressource.
+La taille des données de la ressource.
 
-### Voir également
+### Voir aussi
 
 * class [IccUntaggedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

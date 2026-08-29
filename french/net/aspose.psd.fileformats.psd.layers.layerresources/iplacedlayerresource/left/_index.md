@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Left
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPlacedLayerResource propriété. Obtient ou définit lemplacement de gauche du calque placé dans le fichier PSD.
+title: "IPlacedLayerResource.Left"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPlacedLayerResource. Obtient ou définit la position gauche du calque placé dans le fichier PSD."
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Left property
 
-Obtient ou définit l'emplacement de gauche du calque placé dans le fichier PSD.
+Obtient ou définit la position gauche du calque placé dans le fichier PSD.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'emplacement de gauche du calque placé.
+L'emplacement gauche de la couche placée.
 
-### Voir également
+### Voir aussi
 
 * interface [IPlacedLayerResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

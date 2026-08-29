@@ -1,14 +1,15 @@
 ---
-title: Enum VectorPathType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType énumération. Type de chemin vectoriel selon la spécification de format PSD
+title: "Enumération VectorPathType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Enumération Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType. Type de chemin vectoriel selon la spécification du format PSD"
 type: docs
-weight: 1420
+weight: 1430
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-Type de chemin vectoriel selon la spécification de format PSD
+Type de chemin vectoriel selon la spécification du format PSD
 
 ```csharp
 public enum VectorPathType : short
@@ -16,21 +17,21 @@ public enum VectorPathType : short
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| ClosedSubpathLengthRecord | `0` | L'enregistrement de longueur de sous-chemin fermé |
-| ClosedSubpathBezierKnotLinked | `1` | Le nœud de Bézier sous-chemin fermé lié |
-| ClosedSubpathBezierKnotUnlinked | `2` | Le nœud de Bézier du sous-chemin fermé unlinked |
-| OpenSubpathLengthRecord | `3` | L'enregistrement de longueur de sous-chemin ouvert |
-| OpenSubpathBezierKnotLinked | `4` | Le nœud de Bézier sous-chemin ouvert lié |
-| OpenSubpathBezierKnotUnlinked | `5` | Le nœud de Bézier sous-chemin ouvert non lié |
-| PathFillRuleRecord | `6` | La règle de remplissage du chemin record |
-| ClipboardRecord | `7` | L'enregistrement du presse-papiers |
-| InitialFillRuleRecord | `8` | L'enregistrement de règle de remplissage initial |
+| ClosedSubpathLengthRecord | `0` | Enregistrement de la longueur du sous‑chemin fermé |
+| ClosedSubpathBezierKnotLinked | `1` | Nœud Bézier du sous‑chemin fermé lié |
+| ClosedSubpathBezierKnotUnlinked | `2` | Nœud Bézier du sous‑chemin fermé non lié |
+| OpenSubpathLengthRecord | `3` | L'enregistrement de longueur du sous‑chemin ouvert |
+| OpenSubpathBezierKnotLinked | `4` | Le nœud Bézier du sous‑chemin ouvert lié |
+| OpenSubpathBezierKnotUnlinked | `5` | Le nœud Bézier du sous‑chemin ouvert non lié |
+| PathFillRuleRecord | `6` | L'enregistrement de la règle de remplissage du chemin |
+| ClipboardRecord | `7` | L'enregistrement du presse‑papiers |
+| InitialFillRuleRecord | `8` | L'enregistrement de la règle de remplissage initiale |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

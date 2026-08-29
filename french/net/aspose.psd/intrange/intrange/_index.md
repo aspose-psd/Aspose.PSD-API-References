@@ -1,70 +1,71 @@
 ---
-title: IntRange.IntRange
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IntRange constructeur. Initialise une nouvelle instance duIntRange classe.
+title: "IntRange.IntRange"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur IntRange. Initialise une nouvelle instance de la classe IntRange"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/intrange/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange(int, int) {#constructor}
 
-Initialise une nouvelle instance du[`IntRange`](../) classe.
+Initialise une nouvelle instance de la classe [`IntRange`](../).
 
 ```csharp
 public IntRange(int start, int count)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| start | Int32 | Le début. |
-| count | Int32 | Le décompte. |
+| start | Int32 | Le start. |
+| count | Int32 | Le nombre. |
 
-### Voir également
+### Voir aussi
 
 * class [IntRange](../)
-* espace de noms [Aspose.PSD](../../intrange/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int, int, int) {#constructor_1}
 
-Initialise une nouvelle instance du[`IntRange`](../) classe.
+Initialise une nouvelle instance de la classe [`IntRange`](../).
 
 ```csharp
 public IntRange(int start, int count, int delta)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| start | Int32 | Le début. |
-| count | Int32 | Le décompte. |
+| start | Int32 | Le start. |
+| count | Int32 | Le nombre. |
 | delta | Int32 | Le delta. |
 
-### Voir également
+### Voir aussi
 
 * class [IntRange](../)
-* espace de noms [Aspose.PSD](../../intrange/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int[]) {#constructor_2}
 
-Initialise une nouvelle instance du[`IntRange`](../) classe.
+Initialise une nouvelle instance de la classe [`IntRange`](../).
 
 ```csharp
 public IntRange(int[] range)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| range | Int32[] | La gamme. |
+| range | Int32[] | Le range. |
 
-### Voir également
+### Voir aussi
 
 * class [IntRange](../)
-* espace de noms [Aspose.PSD](../../intrange/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

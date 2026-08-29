@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit le style utilisé pour les lignes en pointillés dessinées avec cePen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit le style utilisé pour les lignes pointillées tracées avec ce Pen"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-Obtient ou définit le style utilisé pour les lignes en pointillés dessinées avec ce[`Pen`](../) .
+Obtient ou définit le style utilisé pour les lignes pointillées tracées avec ce [`Pen`](../).
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN`DashStyle` qui représente le style utilisé pour les lignes pointillées dessinées avec ce[`Pen`](../).
+Un `DashStyle` qui représente le style utilisé pour les lignes pointillées tracées avec ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`DashStyle` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `DashStyle` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

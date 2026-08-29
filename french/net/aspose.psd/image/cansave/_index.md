@@ -1,32 +1,33 @@
 ---
-title: Image.CanSave
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image méthode. Détermine si limage peut être enregistrée dans le format de fichier spécifié représenté par les options denregistrement transmises.
+title: "Image.CanSave"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Image. Détermine si l'image peut être enregistrée au format de fichier spécifié représenté par les options d'enregistrement transmises"
 type: docs
-weight: 160
+weight: 170
 url: /fr/net/aspose.psd/image/cansave/
 ---
+{{< psd/tize >}}
 ## Image.CanSave method
 
-Détermine si l'image peut être enregistrée dans le format de fichier spécifié représenté par les options d'enregistrement transmises.
+Détermine si l'image peut être enregistrée au format de fichier spécifié représenté par les options d'enregistrement fournies.
 
 ```csharp
 public bool CanSave(ImageOptionsBase options)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| options | ImageOptionsBase | Les options de sauvegarde à utiliser. |
+| options | ImageOptionsBase | Les options d'enregistrement à utiliser. |
 
-### Return_Value
+### Valeur de retour
 
-`vrai` si l'image peut être enregistrée dans le format de fichier spécifié représenté par les options d'enregistrement passées ; sinon,`FAUX` .
+`true` si l'image peut être enregistrée au format de fichier spécifié représenté par les options d'enregistrement transmises ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

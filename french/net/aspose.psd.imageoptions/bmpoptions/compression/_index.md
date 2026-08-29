@@ -1,11 +1,12 @@
 ---
-title: BmpOptions.Compression
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BmpOptions propriété. Obtient ou définit la compression.
+title: "BmpOptions.Compression"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BmpOptions. Obtient ou définit la compression"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.imageoptions/bmpoptions/compression/
 ---
+{{< psd/tize >}}
 ## BmpOptions.Compression property
 
 Obtient ou définit la compression.
@@ -14,15 +15,15 @@ Obtient ou définit la compression.
 public BitmapCompression Compression { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La compression.
 
-### Voir également
+### Voir aussi
 
 * enum [BitmapCompression](../../../aspose.psd.fileformats.bmp/bitmapcompression/)
 * class [BmpOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

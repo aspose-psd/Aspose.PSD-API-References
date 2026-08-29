@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit le composant de couleur verte.
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiLayerSection propriété. Obtient ou définit le composant de couleur verte"
 type: docs
-weight: 40
+weight: 50
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-Obtient ou définit le composant de couleur verte.
+Obtient ou définit le composant couleur vert.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La composante de couleur verte.
+Le composant de couleur verte.
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

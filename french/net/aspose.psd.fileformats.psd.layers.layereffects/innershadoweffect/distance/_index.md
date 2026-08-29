@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Distance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: InnerShadowEffect propriété. Obtient ou définit la distance en pixels.
+title: "InnerShadowEffect.Distance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété InnerShadowEffect. Obtient ou définit la distance en pixels"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Distance property
 
 Obtient ou définit la distance en pixels.
@@ -14,14 +15,14 @@ Obtient ou définit la distance en pixels.
 public int Distance { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La distance.
 
-### Voir également
+### Voir aussi
 
 * class [InnerShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

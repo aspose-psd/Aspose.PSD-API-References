@@ -1,11 +1,12 @@
 ---
-title: ExifData.GainControl
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le degré dajustement global du gain de limage.
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le degré d'ajustement global du gain de l'image"
 type: docs
 weight: 340
 url: /fr/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
 Obtient ou définit le degré d'ajustement global du gain de l'image.
@@ -14,15 +15,15 @@ Obtient ou définit le degré d'ajustement global du gain de l'image.
 public ExifGainControl GainControl { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le degré d'ajustement global du gain d'image.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

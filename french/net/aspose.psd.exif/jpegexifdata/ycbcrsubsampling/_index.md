@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit le taux déchantillonnage des composants de chrominance par rapport au composant de luminance.
+title: "JpegExifData.YCbCrSubSampling"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegExifData. Obtient ou définit le rapport d'échantillonnage des composants de chrominance par rapport au composant de luminance"
 type: docs
 weight: 250
 url: /fr/net/aspose.psd.exif/jpegexifdata/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrSubSampling property
 
-Obtient ou définit le taux d'échantillonnage des composants de chrominance par rapport au composant de luminance.
+Obtient ou définit le rapport d'échantillonnage des composants de chrominance par rapport au composant de luminance.
 
 ```csharp
 public ushort[] YCbCrSubSampling { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le taux d'échantillonnage des composantes de chrominance par rapport à la composante de luminance.
+Le rapport d'échantillonnage des composants de chrominance par rapport au composant de luminance.
 
-### Voir également
+### Voir aussi
 
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

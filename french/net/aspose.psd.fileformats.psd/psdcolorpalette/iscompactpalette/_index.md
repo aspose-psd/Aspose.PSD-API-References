@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.IsCompactPalette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdColorPalette propriété. Obtient une valeur indiquant si la palette est compacte.
+title: "PsdColorPalette.IsCompactPalette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdColorPalette. Obtient une valeur indiquant si la palette est compacte"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd/psdcolorpalette/iscompactpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.IsCompactPalette property
 
 Obtient une valeur indiquant si la palette est compacte.
@@ -14,18 +15,18 @@ Obtient une valeur indiquant si la palette est compacte.
 public bool IsCompactPalette { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si compact il palette; sinon,`FAUX`.
+`true` si la palette est compacte ; sinon, `false`.
 
-### Remarques
+## Remarques
 
-Palette compacte signifie que l'image ne contiendra que les entrées de palette spécifiées si possible ou, en d'autres termes, l'image sera plus compacte et occupera moins d'espace ; sinon il y aura 2 entrées ^ BitsPerPixel et l'image réservera plus d'espace pour toutes les entrées de palette possibles . Définir cette valeur sur true et modifier les entrées de la palette peut entraîner une baisse des performances car un mouvement de données peut se produire, utilisez-la donc avec précaution.
+Une palette compacte signifie que l'image ne contiendra que les entrées de palette spécifiées si possible, ou en d'autres termes, l'image sera plus compacte et occupera moins d'espace ; sinon il y aura 2^BitsPerPixel entrées et l'image réservera plus d'espace pour toutes les entrées de palette possibles. Définir cette valeur sur true et modifier les entrées de palette peut entraîner une pénalité de performance puisque des déplacements de données peuvent se produire, donc utilisez-le avec précaution.
 
-### Voir également
+### Voir aussi
 
 * class [PsdColorPalette](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

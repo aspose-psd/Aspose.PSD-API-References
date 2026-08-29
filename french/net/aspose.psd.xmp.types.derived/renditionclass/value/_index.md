@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RenditionClass propriété. Obtient ou définit la valeur.
+title: "RenditionClass.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RenditionClass. Obtient ou définit la valeur"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.derived/renditionclass/value/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Value property
 
 Obtient ou définit la valeur.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur.
 public string Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur.
 
-### Voir également
+### Voir aussi
 
 * class [RenditionClass](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

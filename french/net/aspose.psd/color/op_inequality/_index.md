@@ -1,32 +1,33 @@
 ---
-title: Color.op_Inequality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color méthode. Teste si deux spécifiésColor les structures sont différentes.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Color. Vérifie si deux structures Color spécifiées sont différentes"
 type: docs
-weight: 1630
+weight: 1650
 url: /fr/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-Teste si deux spécifiés[`Color`](../) les structures sont différentes.
+Vérifie si deux structures [`Color`](../) spécifiées sont différentes.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| left | Color | Le[`Color`](../) c'est-à-dire à gauche de l'opérateur d'inégalité. |
-| right | Color | Le[`Color`](../) c'est-à-dire à droite de l'opérateur d'inégalité. |
+| left | Color | Le [`Color`](../) qui se trouve à gauche de l'opérateur d'inégalité. |
+| right | Color | Le [`Color`](../) qui se trouve à droite de l'opérateur d'inégalité. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si les deux[`Color`](../) les structures sont différentes; sinon, faux.
+Vrai si les deux structures [`Color`](../) sont différentes ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

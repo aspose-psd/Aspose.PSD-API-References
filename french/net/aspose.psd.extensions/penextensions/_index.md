@@ -1,14 +1,15 @@
 ---
-title: Class PenExtensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Extensions.PenExtensions classe. Contient des méthodes dextension pourPen etPen .
+title: "Classe PenExtensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Extensions.PenExtensions. Contient des méthodes d'extension pour Pen et Pen"
 type: docs
-weight: 1140
+weight: 1150
 url: /fr/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-Contient des méthodes d'extension pour[`Pen`](../../aspose.psd/pen/) etPen .
+Contient des méthodes d'extension pour [`Pen`](../../aspose.psd/pen/) et Pen.
 
 ```csharp
 public static class PenExtensions
@@ -16,13 +17,13 @@ public static class PenExtensions
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Convertit le[`Pen`](../../aspose.psd/pen/) auPen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Convertit le [`Pen`](../../aspose.psd/pen/) en Pen. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

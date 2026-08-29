@@ -1,26 +1,27 @@
 ---
-title: ISmartObjectLayerResource.PlacedId
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ISmartObjectLayerResource propriété. Obtient ou définit lidentifiant unique de ces données de couche dobjet intelligent dans limage PSD.
+title: "ISmartObjectLayerResource.PlacedId"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ISmartObjectLayerResource. Obtient ou définit l'identifiant unique de ces données de calque d'objet intelligent dans l'image PSD"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource.PlacedId property
 
-Obtient ou définit l'identifiant unique de ces données de couche d'objet intelligent dans l'image PSD.
+Obtient ou définit l'identifiant unique de ces données de calque d'objet dynamique dans l'image PSD.
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'identifiant unique de cette ressource de couche d'objet intelligent.
+L'identifiant unique de cette ressource de calque d'objet dynamique.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des objets intelligents intégrés.
+Le code suivant démontre la prise en charge des objets dynamiques intégrés.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter/mettre à jour le contenu intégré d'origine de l'objet intelligent.
+// Cet exemple montre comment modifier le calque d'objet dynamique dans le fichier PSD et exporter / mettre à jour le contenu intégré original de l'objet dynamique.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Exportons l'image de l'objet intelligent intégré à partir du calque d'objet intelligent PSD
+        // Exportons l'image d'objet dynamique intégré depuis le calque d'objet dynamique du PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Vérifions si l'image d'origine est correctement enregistrée
+        // Vérifions si l'image originale est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Inversons l'image originale de l'objet intelligent
+            // Inversons l'image originale de l'objet dynamique
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,21 +85,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Remplaçons l'image de l'objet intelligent intégré dans la couche PSD
+            // Remplaçons l'image d'objet dynamique intégré dans le calque PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Vérifions si l'image mise à jour est correctement enregistrée
+        // Vérifions si l'image mise à jour est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ISmartObjectLayerResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ismartobjectlayerresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

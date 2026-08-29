@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetRgba
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat méthode. Obtient la couleur RGBA avec un nombre spécifié de bits par échantillon.
+title: "PixelDataFormat.GetRgba"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PixelDataFormat. Obtient la couleur RGBA avec un nombre spécifié de bits par échantillon."
 type: docs
 weight: 260
 url: /fr/net/aspose.psd/pixeldataformat/getrgba/
 ---
+{{< psd/tize >}}
 ## GetRgba(int) {#getrgba}
 
 Obtient la couleur RGBA avec un nombre spécifié de bits par échantillon.
@@ -14,19 +15,19 @@ Obtient la couleur RGBA avec un nombre spécifié de bits par échantillon.
 public static PixelDataFormat GetRgba(int bitsPerSample)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Le nombre de bits par échantillon. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur RVB.
+La couleur RGBA.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,21 +40,21 @@ public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenCha
     int bitsPerBlueChannel, int bitsPerAlphaChannel)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | Le nombre de bits par canal rouge. |
-| bitsPerGreenChannel | Int32 | Le nombre de bits par canal vert. |
-| bitsPerBlueChannel | Int32 | Le nombre de bits par canal bleu. |
+| bitsPerRedChannel | Int32 | Le nombre de bits par canal Rouge. |
+| bitsPerGreenChannel | Int32 | Le nombre de bits par canal Vert. |
+| bitsPerBlueChannel | Int32 | Le nombre de bits par canal Bleu. |
 | bitsPerAlphaChannel | Int32 | Le nombre de bits par canal Alpha. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur RVB.
+La couleur RGBA.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

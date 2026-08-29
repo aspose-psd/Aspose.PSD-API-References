@@ -1,11 +1,12 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Obtient les dossiers de polices par défaut.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Obtient les dossiers de polices par défaut"
 type: docs
-weight: 40
+weight: 50
 url: /fr/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
 Obtient les dossiers de polices par défaut.
@@ -14,14 +15,14 @@ Obtient les dossiers de polices par défaut.
 public static string[] GetDefaultFontsFolders()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Renvoie le dossier système
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

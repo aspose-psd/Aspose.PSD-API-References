@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetGamma
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Définit la valeur gamma pour la catégorie par défaut.
+title: "ImageAttributes.SetGamma"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Définit la valeur gamma pour la catégorie par défaut"
 type: docs
 weight: 150
 url: /fr/net/aspose.psd/imageattributes/setgamma/
 ---
+{{< psd/tize >}}
 ## SetGamma(float) {#setgamma}
 
 Définit la valeur gamma pour la catégorie par défaut.
@@ -14,15 +15,15 @@ Définit la valeur gamma pour la catégorie par défaut.
 public void SetGamma(float gamma)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | gamma | Single | La valeur de correction gamma. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ Définit la valeur gamma pour une catégorie spécifiée.
 public void SetGamma(float gamma, ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | gamma | Single | La valeur de correction gamma. |
-| type | ColorAdjustType | Un élément de la[`ColorAdjustType`](../../coloradjusttype/) énumération qui spécifie la catégorie pour laquelle la valeur gamma est définie. |
+| type | ColorAdjustType | Un élément de l'énumération [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la valeur gamma est définie. |
 
-### Voir également
+### Voir aussi
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

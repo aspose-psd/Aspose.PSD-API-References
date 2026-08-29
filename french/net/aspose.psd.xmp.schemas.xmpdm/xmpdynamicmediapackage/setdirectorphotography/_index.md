@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDirectorPhotography
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Définit le directeur de la photographie.
+title: "XmpDynamicMediaPackage.SetDirectorPhotography"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpDynamicMediaPackage. Définit le directeur de la photographie"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphotography/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirectorPhotography method
 
 Définit le directeur de la photographie.
@@ -14,14 +15,14 @@ Définit le directeur de la photographie.
 public void SetDirectorPhotography(string directorPhotography)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | directorPhotography | String | Le directeur de la photographie. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

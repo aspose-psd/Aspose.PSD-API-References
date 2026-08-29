@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.AddRasterImage
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection méthode. Ajoute limage raster.
+title: "AiLayerSection.AddRasterImage"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiLayerSection méthode. Ajoute l'image raster"
 type: docs
-weight: 140
+weight: 160
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.AddRasterImage method
 
 Ajoute l'image raster.
@@ -14,15 +15,15 @@ Ajoute l'image raster.
 public void AddRasterImage(AiRasterImageSection rasterImage)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rasterImage | AiRasterImageSection | L'image tramée. |
+| rasterImage | AiRasterImageSection | L'image raster. |
 
-### Voir également
+### Voir aussi
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

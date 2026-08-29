@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix01
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorMatrix propriété. Obtient ou définit lélément à la ligne 0 zéro et à la première colonne de ceColorMatrix .
+title: "ColorMatrix.Matrix01"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorMatrix. Obtient ou définit l'élément à la ligne 0 (zéro) et première colonne de ce ColorMatrix"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/colormatrix/matrix01/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix01 property
 
-Obtient ou définit l'élément à la ligne 0 (zéro) et à la première colonne de ce[`ColorMatrix`](../) .
+Obtient ou définit l'élément à la ligne 0 (zéro) et première colonne de ce [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix01 { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'élément à la ligne 0 et à la première colonne de ce[`ColorMatrix`](../) .
+L'élément à la ligne 0 et première colonne de ce [`ColorMatrix`](../) .
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../)
-* espace de noms [Aspose.PSD](../../colormatrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

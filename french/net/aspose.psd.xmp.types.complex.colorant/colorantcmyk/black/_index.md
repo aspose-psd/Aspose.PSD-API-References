@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Black
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantCmyk propriété. Obtient ou définit la valeur du composant noir.
+title: "ColorantCmyk.Black"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorantCmyk. Obtient ou définit la valeur du composant noir"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Black property
 
 Obtient ou définit la valeur du composant noir.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur du composant noir.
 public float Black { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de la composante noire.
+La valeur du composant noir.
 
-### Voir également
+### Voir aussi
 
 * class [ColorantCmyk](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

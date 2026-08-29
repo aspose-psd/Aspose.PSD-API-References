@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Convert
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Convertit ce format dimage en celui spécifié dans les options.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Convertit ce format d'image en celui spécifié dans les options"
 type: docs
-weight: 500
+weight: 560
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-Convertit ce format d'image en celui spécifié dans les options.
+Convertit le format de cette image en celui spécifié dans les options.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| newOptions | PsdOptions | Les nouvelles possibilités. |
+| newOptions | PsdOptions | Les nouvelles options. |
 
-### Exemples
+## Exemples
 
-Ces exemples illustrent la conversion du format d'image PSD en d'autres modes de couleur/BitDepth.
+Ces exemples démontrent la conversion du format d'image PSD vers d'autres modes couleur/profondeur de bits.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Ces exemples illustrent la conversion du format d'image PSD en d'autres modes de
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Ces exemples illustrent la conversion du format d'image PSD vers d'autres modes de couleur/BitDepth.
+// Ces exemples démontrent la conversion du format d'image PSD vers d'autres modes couleur/profondeur de bits.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// Enregistre au format PSD puis charge le fichier enregistré et enregistre au format PNG.
+// Enregistre au format PSD, puis charge le fichier enregistré et l'enregistre au format PNG.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -112,11 +113,11 @@ void SaveToPsdThenLoadAndSaveToPng(
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

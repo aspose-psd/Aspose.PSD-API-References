@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.LayerIds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerSelectionIdsResource propriété. Obtient ou définit les identifiants de couche.
+title: "LayerSelectionIdsResource.LayerIds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerSelectionIdsResource. Obtient ou définit les identifiants des calques"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.LayerIds property
 
-Obtient ou définit les identifiants de couche.
+Obtient ou définit les identifiants de calque.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les identifiants de couche.
+Les identifiants des calques.
 
-### Voir également
+### Voir aussi
 
 * class [LayerSelectionIdsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

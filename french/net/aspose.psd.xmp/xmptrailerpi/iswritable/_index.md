@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.IsWritable
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpTrailerPi propriété. Obtient ou définit une valeur indiquant si cette instance est accessible en écriture.
+title: "XmpTrailerPi.IsWritable"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpTrailerPi. Obtient ou définit une valeur indiquant si cette instance est modifiable"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.IsWritable property
 
-Obtient ou définit une valeur indiquant si cette instance est accessible en écriture.
+Obtient ou définit une valeur indiquant si cette instance est modifiable.
 
 ```csharp
 public bool IsWritable { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est accessible en écriture ; sinon,`FAUX` .
+`true` si cette instance est modifiable ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [XmpTrailerPi](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpArray
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.XmpArray classe. Représente le tableau Xmp dansXmpPackage . À FAIRE  Le tableau peut contenir des données complexes.
+title: "Classe XmpArray"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.XmpArray. Représente le tableau Xmp dans XmpPackage. TODO Le tableau peut contenir des données complexes"
 type: docs
-weight: 6210
+weight: 6710
 url: /fr/net/aspose.psd.xmp/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray class
 
-Représente le tableau Xmp dans[`XmpPackage`](../xmppackage/) . À FAIRE : Le tableau peut contenir des données complexes.
+Représente le tableau Xmp dans [`XmpPackage`](../xmppackage/). TODO : Le tableau peut contenir des données complexes.
 
 ```csharp
 public class XmpArray : IXmlValue
@@ -16,29 +17,29 @@ public class XmpArray : IXmlValue
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpArray](xmparray/#constructor)(XmpArrayType) | Initialise une nouvelle instance du`XmpArray` classe. |
-| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | Initialise une nouvelle instance du`XmpArray` classe. |
+| [XmpArray](xmparray/#constructor)(XmpArrayType) | Initialise une nouvelle instance de la classe `XmpArray`. |
+| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | Initialise une nouvelle instance de la classe `XmpArray`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | Obtient un tableau de valeurs à l'intérieur`XmpArray` . |
+| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | Obtient le tableau des valeurs à l'intérieur de `XmpArray`. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [AddItem](../../aspose.psd.xmp/xmparray/additem/)(string) | Ajoute un nouvel élément. |
 | [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | Convertit la valeur XMP en représentation XML. |
-| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-### Voir également
+### Voir aussi
 
 * interface [IXmlValue](../ixmlvalue/)
-* espace de noms [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

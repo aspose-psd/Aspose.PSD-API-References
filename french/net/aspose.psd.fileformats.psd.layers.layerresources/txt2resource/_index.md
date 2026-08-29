@@ -1,14 +1,15 @@
 ---
-title: Class Txt2Resource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Txt2Resource classe. classe de ressources Txt2
+title: "Classe Txt2Resource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Txt2Resource. Classe de ressource Txt2"
 type: docs
-weight: 3070
+weight: 3450
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/
 ---
+{{< psd/tize >}}
 ## Txt2Resource class
 
-classe de ressources Txt2
+Classe de ressource Txt2
 
 ```csharp
 public class Txt2Resource : LayerResource
@@ -16,39 +17,39 @@ public class Txt2Resource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Txt2Resource](txt2resource/)() | Default_Constructor |
+| [Txt2Resource](txt2resource/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/) { get; set; } | Obtient ou définit les données. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/psdversion/) { get; } | Obtient la version minimale de psd requise pour la ressource de couche. 0 indique aucune restriction. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signature/) { get; } | Obtient la signature de ressource de couche. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AddTextRecord](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/)(string, RectangleF) | Ajoute l'enregistrement de texte à la ressource et renvoie l'ID de l'enregistrement de texte. |
-| [GetTextData](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/)() | Obtient l'enregistrement de texte à partir des données de ressource. |
+| [AddTextRecord](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/)(string, RectangleF) | Ajoute l'enregistrement texte à la Ressource et renvoie l'identifiant de l'enregistrement texte. |
+| [GetTextData](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/)() | Obtient l'enregistrement texte à partir des données de la ressource. |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save/)(StreamContainer, int) | Enregistre le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

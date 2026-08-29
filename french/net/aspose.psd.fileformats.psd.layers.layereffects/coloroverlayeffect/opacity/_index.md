@@ -1,11 +1,12 @@
 ---
-title: ColorOverlayEffect.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorOverlayEffect propriété. Obtient ou définit lopacité.
+title: "ColorOverlayEffect.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorOverlayEffect. Obtient ou définit l'opacité"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Opacity property
 
 Obtient ou définit l'opacité.
@@ -14,14 +15,14 @@ Obtient ou définit l'opacité.
 public byte Opacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'opacité.
 
-### Voir également
+### Voir aussi
 
 * class [ColorOverlayEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

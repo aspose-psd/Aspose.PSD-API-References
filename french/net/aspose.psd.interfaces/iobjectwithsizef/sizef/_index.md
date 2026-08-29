@@ -1,11 +1,12 @@
 ---
-title: IObjectWithSizeF.SizeF
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IObjectWithSizeF propriété. Obtient la taille de lobjet en pouces.
+title: "IObjectWithSizeF.SizeF"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IObjectWithSizeF. Obtient la taille de l'objet en pouces"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.interfaces/iobjectwithsizef/sizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.SizeF property
 
 Obtient la taille de l'objet, en pouces.
@@ -14,15 +15,15 @@ Obtient la taille de l'objet, en pouces.
 public SizeF SizeF { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La taille de l'objet, en pouces.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * interface [IObjectWithSizeF](../)
-* espace de noms [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

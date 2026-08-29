@@ -1,27 +1,28 @@
 ---
-title: Layer.Clipping
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit lécrêtage du calque. 0  base 1  non base.
+title: "Layer.Clipping"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété du calque. Obtient ou définit le rognage du calque. 0  base 1  nonbase"
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
-Obtient ou définit l'écrêtage du calque. 0 = base, 1 = non base.
+Obtient ou définit le rognage du calque. 0 = base, 1 = non-base.
 
 ```csharp
 public byte Clipping { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'écrêtage des calques.
+Le rognage du calque.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

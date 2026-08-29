@@ -1,11 +1,12 @@
 ---
-title: GlobalAngleResource.MinimalVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GlobalAngleResource propriété. Obtient la version PSD minimale requise.
+title: "GlobalAngleResource.MinimalVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GlobalAngleResource. Obtient la version minimale requise du PSD"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/globalangleresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.MinimalVersion property
 
 Obtient la version PSD minimale requise.
@@ -14,14 +15,14 @@ Obtient la version PSD minimale requise.
 public override int MinimalVersion { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La version PSD minimale.
 
-### Voir également
+### Voir aussi
 
 * class [GlobalAngleResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

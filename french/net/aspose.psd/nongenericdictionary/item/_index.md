@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericDictionary propriété. Obtient ou définit lélément avec la clé spécifiée.
+title: "Propriété NonGenericDictionary. Obtient ou définit l'élément avec la clé spécifiée"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "La clé de l'élément."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
 Obtient ou définit l'élément avec la clé spécifiée.
@@ -14,18 +15,18 @@ Obtient ou définit l'élément avec la clé spécifiée.
 public object this[object key] { get; set; }
 ```
 
-| Paramètre | La description |
+| Paramètre | Description |
 | --- | --- |
-| key | La clé de l'élément. |
+| clé | L'élément avec la clé spécifiée. |
 
-### Return_Value
+### Valeur de retour
 
-L'élément avec la clé spécifiée.
+NonGenericDictionary.Contains
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericDictionary](../)
-* espace de noms [Aspose.PSD](../../nongenericdictionary/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

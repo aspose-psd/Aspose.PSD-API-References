@@ -1,14 +1,15 @@
 ---
-title: Class XmpReal
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal classe. Représente XMP réel.
+title: "Classe XmpReal"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Types.Basic.XmpReal. Représente XMP Real"
 type: docs
-weight: 5970
+weight: 6470
 url: /fr/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
-Représente XMP réel.
+Représente XMP Real.
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
@@ -16,27 +17,27 @@ public sealed class XmpReal : XmpTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | Initialise une nouvelle instance du`XmpReal` classe. |
-| [XmpReal](xmpreal/#constructor_1)(string) | Initialise une nouvelle instance du`XmpReal` classe. |
+| [XmpReal](xmpreal/#constructor)(float) | Initialise une nouvelle instance de la classe `XmpReal`. |
+| [XmpReal](xmpreal/#constructor_1)(string) | Initialise une nouvelle instance de la classe `XmpReal`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Obtient ou définit la valeur flottante. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

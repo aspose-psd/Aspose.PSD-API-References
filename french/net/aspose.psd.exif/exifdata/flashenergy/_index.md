@@ -1,11 +1,12 @@
 ---
-title: ExifData.FlashEnergy
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit lénergie du flash.
+title: "ExifData.FlashEnergy"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit l'énergie du flash"
 type: docs
 weight: 260
 url: /fr/net/aspose.psd.exif/exifdata/flashenergy/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashEnergy property
 
 Obtient ou définit l'énergie du flash.
@@ -14,15 +15,15 @@ Obtient ou définit l'énergie du flash.
 public TiffRational FlashEnergy { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'énergie du flash.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

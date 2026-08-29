@@ -1,28 +1,29 @@
 ---
-title: UnknownResource.UnknownResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnknownResource constructeur. Initialise une nouvelle instance duUnknownResource classe.
+title: "UnknownResource.UnknownResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur UnknownResource. Initialise une nouvelle instance de la classe UnknownResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource constructor
 
-Initialise une nouvelle instance du[`UnknownResource`](../) classe.
+Initialise une nouvelle instance de la classe [`UnknownResource`](../).
 
 ```csharp
 public UnknownResource(int signature, int key)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | signature | Int32 | La signature. |
-| key | Int32 | La clé de ressource. |
+| clé | Int32 | La clé de ressource. |
 
-### Voir également
+### Voir aussi
 
 * class [UnknownResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

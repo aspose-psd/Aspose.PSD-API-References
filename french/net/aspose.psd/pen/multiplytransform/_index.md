@@ -1,51 +1,52 @@
 ---
-title: Pen.MultiplyTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen méthode. Multiplie la matrice de transformation pour cettePen par le spécifiéMatrix .
+title: "Pen.MultiplyTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Pen. Multiplie la matrice de transformation de ce Pen par la Matrix spécifiée"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd/pen/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Multiplie la matrice de transformation pour cette[`Pen`](../) par le spécifié[`Matrix`](../../matrix/) .
+Multiplie la matrice de transformation de ce [`Pen`](../) par la [`Matrix`](../../matrix/) spécifiée.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Le[`Matrix`](../../matrix/) objet par lequel multiplier la matrice de transformation. |
+| matrix | Matrix | L'objet [`Matrix`](../../matrix/) par lequel multiplier la matrice de transformation. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Multiplie la matrice de transformation pour cette[`Pen`](../) par le spécifié[`Matrix`](../../matrix/) dans l'ordre spécifié.
+Multiplie la matrice de transformation de ce [`Pen`](../) par la [`Matrix`](../../matrix/) spécifiée dans l'ordre indiqué.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Le[`Matrix`](../../matrix/) par lequel multiplier la matrice de transformation. |
-| order | MatrixOrder | L'ordre dans lequel effectuer l'opération de multiplication. |
+| matrix | Matrix | La [`Matrix`](../../matrix/) par laquelle multiplier la matrice de transformation. |
+| ordre | MatrixOrder | L'ordre dans lequel effectuer l'opération de multiplication. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

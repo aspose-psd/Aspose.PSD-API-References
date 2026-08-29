@@ -1,23 +1,24 @@
 ---
-title: LnkeResource.TypeToolKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LnkeResource champ. La clé dinformations sur loutil de type.
+title: "LnkeResource.TypeToolKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ LnkeResource. La clé d'information de l'outil de type"
 type: docs
-weight: 40
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LnkeResource.TypeToolKey field
 
-La clé d'informations sur l'outil de type.
+La clé d'information de l'outil de type.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LnkeResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

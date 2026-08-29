@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSaturation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifSaturation énumération. énumération de saturation exif.
+title: "Enum ExifSaturation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation enum. énumération de la saturation exif"
 type: docs
-weight: 920
+weight: 930
 url: /fr/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-énumération de saturation exif.
+énumération de la saturation exif.
 
 ```csharp
 public enum ExifSaturation
@@ -16,15 +17,15 @@ public enum ExifSaturation
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Normal | `0` | Saturation normale. |
 | Low | `1` | Faible saturation. |
 | High | `2` | Saturation élevée. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

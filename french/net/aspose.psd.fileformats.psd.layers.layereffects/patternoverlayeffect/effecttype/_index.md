@@ -1,22 +1,23 @@
 ---
-title: PatternOverlayEffect.EffectType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PatternOverlayEffect propriété. Obtient un type deffet type
+title: "PatternOverlayEffect.EffectType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PatternOverlayEffect. Obtient un type d'effet"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.EffectType property
 
-Obtient un type d'effet type
+Obtient un type d'effet
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la propriété ILayerEffect.EffectType.
+Le code suivant montre la prise en charge de la propriété ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -47,11 +48,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [PatternOverlayEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

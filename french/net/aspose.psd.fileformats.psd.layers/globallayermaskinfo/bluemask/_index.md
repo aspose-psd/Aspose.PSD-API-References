@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.BlueMask
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GlobalLayerMaskInfo propriété. Obtient ou définit le masque bleu.
+title: "GlobalLayerMaskInfo.BlueMask"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GlobalLayerMaskInfo. Obtient ou définit le masque bleu"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.BlueMask property
 
 Obtient ou définit le masque bleu.
@@ -14,14 +15,14 @@ Obtient ou définit le masque bleu.
 public short BlueMask { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le masque bleu.
 
-### Voir également
+### Voir aussi
 
 * class [GlobalLayerMaskInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

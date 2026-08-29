@@ -1,14 +1,15 @@
 ---
-title: Class FixedPointDecimal
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal classe. Décimal à virgule fixe avec entier 16 bits et fraction 16 bits.
+title: "Classe FixedPointDecimal"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal. Décimal à point fixe avec entier de 16 bits et fraction de 16 bits"
 type: docs
-weight: 3700
+weight: 4170
 url: /fr/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-Décimal à virgule fixe, avec entier 16 bits et fraction 16 bits.
+Décimal à point fixe, avec entier de 16 bits et fraction de 16 bits.
 
 ```csharp
 public class FixedPointDecimal
@@ -16,28 +17,28 @@ public class FixedPointDecimal
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Initialise une nouvelle instance du`FixedPointDecimal` classe. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Initialise une nouvelle instance du`FixedPointDecimal` classe. Divisez les mots haut et bas d'un entier 32 bits en un nombre à virgule fixe. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Initialise une nouvelle instance du`FixedPointDecimal` classe. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Initialise une nouvelle instance de la classe `FixedPointDecimal`. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Initialise une nouvelle instance de la classe `FixedPointDecimal`. Divise les mots haut et bas d'un entier 32 bits en un nombre à virgule fixe. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Initialise une nouvelle instance de la classe `FixedPointDecimal`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Obtient ou définit la fraction. |
 | [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Obtient ou définit l'entier. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Convertit la décimale à virgule fixe actuelle en double. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Convertit le décimal à point fixe actuel en double. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

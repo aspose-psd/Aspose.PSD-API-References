@@ -1,20 +1,21 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnitArrayStructure propriété. Obtient ou définit les valeurs de structure de tableau dunités.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UnitArrayStructure. Obtient ou définit les valeurs de la structure du tableau d'unités"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-Obtient ou définit les valeurs de structure de tableau d'unités.
+Obtient ou définit les valeurs de la structure de tableau d'unités.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les valeurs de la structure du tableau d'unités.
 
@@ -24,9 +25,9 @@ Les valeurs de la structure du tableau d'unités.
 | --- | --- |
 | ArgumentNullException | La propriété Values ne doit pas être nulle. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des signatures ObAr et UnFl.
+Le code suivant montre la prise en charge des signatures ObAr et UnFl.
 
 ```csharp
 [C#]
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [UnitArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

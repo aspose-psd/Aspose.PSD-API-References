@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MaxL
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantLab champ. La valeur maximale de la composante A
+title: "ColorantLab.MaxL"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ ColorantLab. La valeur maximale du composant A"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxl/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MaxL field
 
-La valeur maximale de la composante A
+La valeur maximale du composant A
 
 ```csharp
 public const float MaxL;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorantLab](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

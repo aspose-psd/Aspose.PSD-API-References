@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntries
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdColorPalette propriété. Obtient les données dentrées de la palette de couleurs brutes.
+title: "PsdColorPalette.RawEntries"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdColorPalette. Obtient les données des entrées brutes de la palette de couleurs"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntries property
 
-Obtient les données d'entrées de la palette de couleurs brutes.
+Obtient les données brutes des entrées de la palette de couleurs.
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les données d'entrées de la palette de couleurs brutes.
+Les données brutes des entrées de la palette de couleurs.
 
-### Voir également
+### Voir aussi
 
 * class [PsdColorPalette](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

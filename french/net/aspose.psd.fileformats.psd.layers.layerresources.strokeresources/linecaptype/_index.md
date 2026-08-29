@@ -1,14 +1,15 @@
 ---
-title: Enum LineCapType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType énumération. Type de limite de ligne.
+title: "Enum LineCapType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. type de terminaison de ligne"
 type: docs
-weight: 3040
+weight: 3400
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-Type de limite de ligne.
+Type d'extrémité de ligne.
 
 ```csharp
 public enum LineCapType : short
@@ -16,15 +17,15 @@ public enum LineCapType : short
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| RoundCap | `0` | Type de bouchon rond. |
-| SquareCap | `1` | Type de bouchon carré. |
-| ButtCap | `2` | Type de bouchon bout à bout. |
+| RoundCap | `0` | Type de terminaison ronde. |
+| SquareCap | `1` | Type de terminaison carrée. |
+| ButtCap | `2` | Type de terminaison bout. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource VstkResource.
+Le code suivant démontre la prise en charge de la ressource VstkResource.
 
 ```csharp
 [C#]
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

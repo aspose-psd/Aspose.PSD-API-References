@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.Method
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DitheringMode propriété. Sélection de lalgorithme de tramage.
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DitheringMode. Sélection de l'algorithme de tramage"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
 Sélection de l'algorithme de tramage.
@@ -14,11 +15,11 @@ Sélection de l'algorithme de tramage.
 public DitheringMethod Method { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* espace de noms [Aspose.PSD.Dithering](../../ditheringmode/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

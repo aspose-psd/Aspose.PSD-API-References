@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PrintFlagsResource propriété. Obtient ou définit la largeur du fond perdu.
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PrintFlagsResource. Obtient ou définit la largeur du débordement"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-Obtient ou définit la largeur du fond perdu.
+Obtient ou définit la largeur du débordement.
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La largeur du fond perdu.
+La largeur du débordement.
 
-### Voir également
+### Voir aussi
 
 * class [PrintFlagsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

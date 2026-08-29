@@ -1,11 +1,12 @@
 ---
-title: Class JpegLoadException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException classe. Représente lexception de chargement dimage JPEG.
+title: "Classe JpegLoadException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException. Représente l'exception de chargement d'image JPEG"
 type: docs
 weight: 550
 url: /fr/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException class
 
 Représente l'exception de chargement d'image JPEG.
@@ -16,23 +17,23 @@ public class JpegLoadException : JpegException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [JpegLoadException](jpegloadexception/#constructor)(string) | Initialise une nouvelle instance du`JpegLoadException` classe. |
-| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | Initialise une nouvelle instance du`JpegLoadException` classe. |
-| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | Initialise une nouvelle instance du`JpegLoadException` classe. |
-| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | Initialise une nouvelle instance du`JpegLoadException` classe. |
+| [JpegLoadException](jpegloadexception/#constructor)(string) | Initialise une nouvelle instance de la classe `JpegLoadException`. |
+| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | Initialise une nouvelle instance de la classe `JpegLoadException`. |
+| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | Initialise une nouvelle instance de la classe `JpegLoadException`. |
+| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | Initialise une nouvelle instance de la classe `JpegLoadException`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Reason](../../aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/) { get; set; } | Obtient ou définit la raison de l'erreur. |
 
-### Voir également
+### Voir aussi
 
 * class [JpegException](../jpegexception/)
-* espace de noms [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

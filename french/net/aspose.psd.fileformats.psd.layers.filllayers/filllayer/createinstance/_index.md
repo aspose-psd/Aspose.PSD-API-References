@@ -1,30 +1,31 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FillLayer méthode. Créez une nouvelle instance deFillLayer classer par type de remplissage.
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FillLayer. Crée une nouvelle instance de la classe FillLayer selon le type de remplissage."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-Créez une nouvelle instance de[`FillLayer`](../) classer par type de remplissage.
+Créez une nouvelle instance de la classe [`FillLayer`](../) selon le type de remplissage.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fillType | FillType | Le type de calque de remplissage. |
+| fillType | FillType | Le type de couche de remplissage. |
 
-### Return_Value
+### Valeur de retour
 
-Renvoie une nouvelle instance de[`FillLayer`](../) classer par type de remplissage.
+Renvoie une nouvelle instance de la classe [`FillLayer`](../) selon le type de remplissage.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment ajouter le calque de type FillLayer au moment de l'exécution.
+L'exemple suivant montre comment ajouter la couche de type FillLayer à l'exécution.
 
 ```csharp
 [C#]
@@ -50,11 +51,11 @@ using (var image = new PsdImage(100, 100))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

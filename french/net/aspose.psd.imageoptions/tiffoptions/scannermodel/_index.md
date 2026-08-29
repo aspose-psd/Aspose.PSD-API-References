@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ScannerModel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit le modèle du scanner.
+title: "TiffOptions.ScannerModel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit le modèle du scanner"
 type: docs
-weight: 420
+weight: 430
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/scannermodel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerModel property
 
 Obtient ou définit le modèle du scanner.
@@ -14,14 +15,14 @@ Obtient ou définit le modèle du scanner.
 public string ScannerModel { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le modèle de scanner.
+Le modèle du scanner.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

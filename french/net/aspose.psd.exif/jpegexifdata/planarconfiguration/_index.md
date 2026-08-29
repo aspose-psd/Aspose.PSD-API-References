@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.PlanarConfiguration
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit la configuration planaire.
+title: "JpegExifData.PlanarConfiguration"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegExifData. Obtient ou définit la configuration planaire"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.exif/jpegexifdata/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PlanarConfiguration property
 
 Obtient ou définit la configuration planaire.
@@ -14,14 +15,14 @@ Obtient ou définit la configuration planaire.
 public ushort PlanarConfiguration { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La configuration planaire.
 
-### Voir également
+### Voir aussi
 
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

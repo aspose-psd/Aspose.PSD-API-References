@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.ScaleFactor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit le facteur déchelle.
+title: "TypeToolInfoResource.ScaleFactor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfoResource property. Obtient ou définit le facteur d'échelle"
 type: docs
-weight: 170
+weight: 150
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ScaleFactor property
 
 Obtient ou définit le facteur d'échelle.
@@ -14,14 +15,14 @@ Obtient ou définit le facteur d'échelle.
 public int ScaleFactor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le facteur d'échelle.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

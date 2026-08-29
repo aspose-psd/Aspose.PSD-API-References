@@ -1,14 +1,15 @@
 ---
-title: Enum StringDigitSubstitute
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.StringDigitSubstitute énumération. Lénumération spécifie comment substituer des chiffres dans une chaîne en fonction des paramètres régionaux ou de la langue dun utilisateur.
+title: "Enum StringDigitSubstitute"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.StringDigitSubstitute enum. L'énumération spécifie comment substituer les chiffres dans une chaîne selon la locale ou la langue de l'utilisateur."
 type: docs
-weight: 5660
+weight: 6160
 url: /fr/net/aspose.psd/stringdigitsubstitute/
 ---
+{{< psd/tize >}}
 ## StringDigitSubstitute enumeration
 
-L'énumération spécifie comment substituer des chiffres dans une chaîne en fonction des paramètres régionaux ou de la langue d'un utilisateur.
+L'énumération spécifie comment substituer les chiffres dans une chaîne selon la locale ou la langue de l'utilisateur.
 
 ```csharp
 public enum StringDigitSubstitute
@@ -16,16 +17,16 @@ public enum StringDigitSubstitute
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | User | `0` | Spécifie un schéma de substitution défini par l'utilisateur. |
-| None | `1` | Spécifie de désactiver les substitutions. |
-| National | `2` | Spécifie les chiffres de substitution qui correspondent à la langue nationale officielle des paramètres régionaux de l'utilisateur. |
-| Traditional | `3` | Spécifie les chiffres de substitution qui correspondent à l'écriture ou à la langue native de l'utilisateur, qui peut être différente de la langue nationale officielle des paramètres régionaux de l'utilisateur. |
+| None | `1` | Spécifie la désactivation des substitutions. |
+| National | `2` | Spécifie les chiffres de substitution qui correspondent à la langue nationale officielle de la locale de l'utilisateur. |
+| Traditional | `3` | Spécifie les chiffres de substitution qui correspondent à l'écriture ou à la langue native de l'utilisateur, qui peut différer de la langue nationale officielle de la locale de l'utilisateur. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 
