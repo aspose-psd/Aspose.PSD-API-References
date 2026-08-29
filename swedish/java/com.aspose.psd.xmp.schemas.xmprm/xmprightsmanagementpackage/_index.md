@@ -1,0 +1,483 @@
+---
+title: "XmpRightsManagementPackage"
+second_title: "Aspose.PSD för Java API-referens"
+description: "Representerar XMP Rights Management-namnutrymmet."
+type: docs
+weight: 10
+url: /sv/java/com.aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/
+---
+
+**Inheritance:**
+java.lang.Object, [com.aspose.psd.xmp.XmpPackage](../../com.aspose.psd.xmp/xmppackage)
+```
+public final class XmpRightsManagementPackage extends XmpPackage
+```
+
+Representerar XMP Rights Management-namnutrymmet.
+## Konstruktörer
+
+| Konstruktör | Beskrivning |
+| --- | --- |
+| [XmpRightsManagementPackage()](#XmpRightsManagementPackage--) | Initierar en ny instans av klassen  XmpRightsManagementPackage  . |
+## Metoder
+
+| Metod | Beskrivning |
+| --- | --- |
+| [addComplexTypeNamespace_internalized(String typePrefix, String typeNamespaceUri)](#addComplexTypeNamespace-internalized-java.lang.String-java.lang.String-) | Lägger till namnrymden för komplex typ. |
+| [addValue(String key, String value)](#addValue-java.lang.String-java.lang.String-) | Lägger till strängegenskap. |
+| [assign_internalized(XmpPackage xmpPackege)](#assign-internalized-com.aspose.psd.xmp.XmpPackage-) | Tilldelar det angivna XMP-paketet till det aktuella. |
+| [clear()](#clear--) | Rensar denna instans. |
+| [combinePackage_internalized(XmpPackage other)](#combinePackage-internalized-com.aspose.psd.xmp.XmpPackage-) | Kombinerar paketet. |
+| [containsKey(String key)](#containsKey-java.lang.String-) | Avgör om den angivna nyckeln innehåller nyckeln. |
+| [deepClone_internalized()](#deepClone-internalized--) | Klonar den här instansen. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getKeys()](#getKeys--) | Hämtar nycklarna i XMP-paketet. |
+| [getNamespaceUri()](#getNamespaceUri--) | Hämtar namnrymdens URI. |
+| [getPrefix()](#getPrefix--) | Hämtar prefixet. |
+| [getXmlNamespace()](#getXmlNamespace--) | Hämtar XML-namnrymden. |
+| [getXmlValue()](#getXmlValue--) | Konverterar XMP‑värdet till XML‑representationen. |
+| [get_Item(String key)](#get-Item-java.lang.String-) | Hämtar eller anger objektet med den angivna nyckeln. |
+| [hashCode()](#hashCode--) |  |
+| [iterator()](#iterator--) | Returnerar en enumerator som itererar genom samlingen. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [remove(String key)](#remove-java.lang.String-) | Ta bort värdet med den angivna nyckeln. |
+| [setCertificate(String certificate)](#setCertificate-java.lang.String-) | Ställer in certifikatet. |
+| [setMarkedAsRightManagement(boolean value)](#setMarkedAsRightManagement-boolean-) | Markerar som rättighetsstyrt innehåll |
+| [setOwners(String[] owners)](#setOwners-java.lang.String---) | Ställer in ägare. |
+| [setUsageTerms(LangAlt usageTerms)](#setUsageTerms-com.aspose.psd.xmp.LangAlt-) | Ställer in användningsvillkoren. |
+| [setValue(String key, IXmlValue value)](#setValue-java.lang.String-com.aspose.psd.xmp.IXmlValue-) | Ställer in värdet. |
+| [setWebStatement(String webStatementUrl)](#setWebStatement-java.lang.String-) | Ställer in webbutlåtandet. |
+| [setXmpBoolean(String key, String boolValue)](#setXmpBoolean-java.lang.String-java.lang.String-) | Ställer in XMP:s booleska värde. |
+| [setXmpGuid(String key, String guid)](#setXmpGuid-java.lang.String-java.lang.String-) | Ställer in XMP:s unika identifierare. |
+| [setXmpTypeValue(String key, XmpTypeBase value)](#setXmpTypeValue-java.lang.String-com.aspose.psd.xmp.types.XmpTypeBase-) | Ställer in XMP-typvärdet. |
+| [set_Item(String key, Object value)](#set-Item-java.lang.String-java.lang.Object-) | Ställer in  Object  med den angivna nyckeln. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### XmpRightsManagementPackage() {#XmpRightsManagementPackage--}
+```
+public XmpRightsManagementPackage()
+```
+
+
+Initierar en ny instans av klassen  XmpRightsManagementPackage  .
+
+### addComplexTypeNamespace_internalized(String typePrefix, String typeNamespaceUri) {#addComplexTypeNamespace-internalized-java.lang.String-java.lang.String-}
+```
+public void addComplexTypeNamespace_internalized(String typePrefix, String typeNamespaceUri)
+```
+
+
+Lägger till namnrymden för komplex typ.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| typePrefix | java.lang.String | Typprefixet. |
+| typeNamespaceUri | java.lang.String | Typnamnutrymmets URI. |
+
+### addValue(String key, String value) {#addValue-java.lang.String-java.lang.String-}
+```
+public void addValue(String key, String value)
+```
+
+
+Lägger till strängegenskap.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Strängrepresentationen av nyckeln som identifieras med det tillagda värdet. |
+| värde | java.lang.String | Strängvärdet. |
+
+### assign_internalized(XmpPackage xmpPackege) {#assign-internalized-com.aspose.psd.xmp.XmpPackage-}
+```
+public void assign_internalized(XmpPackage xmpPackege)
+```
+
+
+Tilldelar det angivna XMP-paketet till det aktuella.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| xmpPackege | [XmpPackage](../../com.aspose.psd.xmp/xmppackage) | XMP-paketet. |
+
+### clear() {#clear--}
+```
+public void clear()
+```
+
+
+Rensar denna instans.
+
+### combinePackage_internalized(XmpPackage other) {#combinePackage-internalized-com.aspose.psd.xmp.XmpPackage-}
+```
+public void combinePackage_internalized(XmpPackage other)
+```
+
+
+Kombinerar paketet.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| other | [XmpPackage](../../com.aspose.psd.xmp/xmppackage) | Det andra paketet att kombinera. |
+
+### containsKey(String key) {#containsKey-java.lang.String-}
+```
+public boolean containsKey(String key)
+```
+
+
+Avgör om den angivna nyckeln innehåller nyckeln.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Nyckeln som ska kontrolleras. |
+
+**Returns:**
+boolean - Returnerar true om den angivna nyckeln innehåller nyckeln.
+### deepClone_internalized() {#deepClone-internalized--}
+```
+public final XmpPackage deepClone_internalized()
+```
+
+
+Klonar den här instansen.
+
+**Returns:**
+[XmpPackage](../../com.aspose.psd.xmp/xmppackage) - The cloned object
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getKeys() {#getKeys--}
+```
+public System.Collections.Generic.Dictionary.KeyCollection<String,Object> getKeys()
+```
+
+
+Hämtar nycklarna i XMP-paketet.
+
+Värde: Nycklarna i XMP-paketet.
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.Dictionary.KeyCollection<java.lang.String,java.lang.Object>
+### getNamespaceUri() {#getNamespaceUri--}
+```
+public String getNamespaceUri()
+```
+
+
+Hämtar namnrymdens URI.
+
+Värde: Namnutrymmets URI.
+
+**Returns:**
+java.lang.String
+### getPrefix() {#getPrefix--}
+```
+public String getPrefix()
+```
+
+
+Hämtar prefixet.
+
+Värde: Prefixet.
+
+**Returns:**
+java.lang.String
+### getXmlNamespace() {#getXmlNamespace--}
+```
+public String getXmlNamespace()
+```
+
+
+Hämtar XML-namnrymden.
+
+Värde: XML-namnutrymmet.
+
+**Returns:**
+java.lang.String
+### getXmlValue() {#getXmlValue--}
+```
+public String getXmlValue()
+```
+
+
+Konverterar XMP‑värdet till XML‑representationen.
+
+**Returns:**
+java.lang.String - Returnerar XMP-värdet konverterat till XML-representationen.
+### get_Item(String key) {#get-Item-java.lang.String-}
+```
+public Object get_Item(String key)
+```
+
+
+Hämtar eller anger objektet med den angivna nyckeln.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Nyckeln som identifierar värdet. |
+
+**Returns:**
+java.lang.Object - Returnerar  Object  med den angivna nyckeln.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### iterator() {#iterator--}
+```
+public System.Collections.Generic.IGenericEnumerator<System.Collections.Generic.KeyValuePair<String,Object>> iterator()
+```
+
+
+Returnerar en enumerator som itererar genom samlingen.
+
+**Returns:**
+com.aspose.ms.System.Collections.Generic.IGenericEnumerator<com.aspose.ms.System.Collections.Generic.KeyValuePair<java.lang.String,java.lang.Object>> - En  T:System.Collections.Generic.IEnumerator1  som kan användas för att iterera genom samlingen.
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### remove(String key) {#remove-java.lang.String-}
+```
+public boolean remove(String key)
+```
+
+
+Ta bort värdet med den angivna nyckeln.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Strängrepresentationen av nyckeln som identifieras med borttaget värde. |
+
+**Returns:**
+boolean - Returnerar true om värdet med den angivna nyckeln togs bort.
+### setCertificate(String certificate) {#setCertificate-java.lang.String-}
+```
+public void setCertificate(String certificate)
+```
+
+
+Ställer in certifikatet.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| certifikat | java.lang.String | Certifikatet. |
+
+### setMarkedAsRightManagement(boolean value) {#setMarkedAsRightManagement-boolean-}
+```
+public void setMarkedAsRightManagement(boolean value)
+```
+
+
+Markerar som rättighetsstyrt innehåll
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | boolean | om inställt på  true  betyder att detta är en rättighetsstyrd resurs. |
+
+### setOwners(String[] owners) {#setOwners-java.lang.String---}
+```
+public void setOwners(String[] owners)
+```
+
+
+Ställer in ägare.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| ägare | java.lang.String[] | Ägarna. |
+
+### setUsageTerms(LangAlt usageTerms) {#setUsageTerms-com.aspose.psd.xmp.LangAlt-}
+```
+public void setUsageTerms(LangAlt usageTerms)
+```
+
+
+Ställer in användningsvillkoren.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| usageTerms | [LangAlt](../../com.aspose.psd.xmp/langalt) | Användningsvillkoren. |
+
+### setValue(String key, IXmlValue value) {#setValue-java.lang.String-com.aspose.psd.xmp.IXmlValue-}
+```
+public void setValue(String key, IXmlValue value)
+```
+
+
+Ställer in värdet.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Strängrepresentationen av nyckeln som identifieras med det tillagda värdet. |
+| value | [IXmlValue](../../com.aspose.psd.xmp/ixmlvalue) | Värdet att lägga till i. |
+
+### setWebStatement(String webStatementUrl) {#setWebStatement-java.lang.String-}
+```
+public void setWebStatement(String webStatementUrl)
+```
+
+
+Ställer in webbutlåtandet.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| webStatementUrl | java.lang.String | Webutlåtandets URL. |
+
+### setXmpBoolean(String key, String boolValue) {#setXmpBoolean-java.lang.String-java.lang.String-}
+```
+public void setXmpBoolean(String key, String boolValue)
+```
+
+
+Ställer in XMP:s booleska värde.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Strängrepresentationen av nyckeln som identifieras med angivet värde. |
+| boolVärde | java.lang.String | Det booleska värdet. |
+
+### setXmpGuid(String key, String guid) {#setXmpGuid-java.lang.String-java.lang.String-}
+```
+public void setXmpGuid(String key, String guid)
+```
+
+
+Ställer in XMP:s unika identifierare.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Strängrepresentationen av nyckeln som identifieras med angivet GUID‑värde. |
+| guid | java.lang.String | Den unika identifieraren. |
+
+### setXmpTypeValue(String key, XmpTypeBase value) {#setXmpTypeValue-java.lang.String-com.aspose.psd.xmp.types.XmpTypeBase-}
+```
+public void setXmpTypeValue(String key, XmpTypeBase value)
+```
+
+
+Ställer in XMP-typvärdet.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Strängrepresentationen av nyckeln som identifieras med angivet värde. |
+| value | [XmpTypeBase](../../com.aspose.psd.xmp.types/xmptypebase) | Värdet att sätta till. |
+
+### set_Item(String key, Object value) {#set-Item-java.lang.String-java.lang.Object-}
+```
+public void set_Item(String key, Object value)
+```
+
+
+Ställer in  Object  med den angivna nyckeln.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | java.lang.String | Nyckeln som identifierar värdet. |
+| värde | java.lang.Object | Objektvärdet. |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+

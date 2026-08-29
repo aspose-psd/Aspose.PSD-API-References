@@ -1,0 +1,625 @@
+---
+title: "PhflResourceVersion3"
+second_title: "Aspose.PSD för Java API-referens"
+description: "Klass PhflResource."
+type: docs
+weight: 70
+url: /sv/java/com.aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/
+---
+
+**Inheritance:**
+java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerResource](../../com.aspose.psd.fileformats.psd.layers/layerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.AdjustmentLayerResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource), [com.aspose.psd.fileformats.psd.layers.layerresources.PhflResource](../../com.aspose.psd.fileformats.psd.layers.layerresources/phflresource)
+```
+public class PhflResourceVersion3 extends PhflResource
+```
+
+Klass PhflResource. Resurs för Exponeringjusteringslager 2 Version (= 3) eller (= 2) 12 4 byte vardera för XYZ-färg (Endast i version 3) 10 2 byte färgrymd följt av 4 \\* 2 byte färgkomponent (Endast i version 2) 4 Densitet 1 Bevara luminans
+## Konstruktörer
+
+| Konstruktör | Beskrivning |
+| --- | --- |
+| [PhflResourceVersion3()](#PhflResourceVersion3--) | Initierar en ny instans av klassen [PhflResourceVersion3](../../com.aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3). |
+| [PhflResourceVersion3(byte[] data)](#PhflResourceVersion3-byte---) | Initierar en ny instans av klassen [PhflResourceVersion3](../../com.aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3). |
+## Fält
+
+| Fält | Beskrivning |
+| --- | --- |
+| [PsbHeaderVersion_internalized](#PsbHeaderVersion-internalized) | PSB‑huvudversionen |
+| [PsbResourceSignature](#PsbResourceSignature) | Den PSB‑specifika resurs‑signaturen. |
+| [PsdHeaderVersion_internalized](#PsdHeaderVersion-internalized) | PSD‑huvudversionen. |
+| [ResourceSignature](#ResourceSignature) | Den gemensamma resurs‑signaturen. |
+| [TypeToolKey](#TypeToolKey) | Nyckeln för typverktygsinformation. |
+| [ventureLicense_internalized](#ventureLicense-internalized) | Venture‑licensen. |
+## Metoder
+
+| Metod | Beskrivning |
+| --- | --- |
+| [checkAndSetIfResourceIsPsbSpecific_internalized(int key)](#checkAndSetIfResourceIsPsbSpecific-internalized-int-) | Kontrollerar och sätter om resursen är PSB‑specifik. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getClass()](#getClass--) |  |
+| [getColorSpace()](#getColorSpace--) | Hämtar färgrymden. |
+| [getColorX()](#getColorX--) | Hämtar eller anger X‑färgen. |
+| [getColorY()](#getColorY--) | Hämtar eller anger Y‑färgen. |
+| [getColorZ()](#getColorZ--) | Hämtar eller anger Z‑färgen. |
+| [getData()](#getData--) | Hämtar eller anger data. |
+| [getDensity()](#getDensity--) | Hämtar eller anger densiteten. |
+| [getHeader_internalized()](#getHeader-internalized--) | Hämtar eller anger rubriken. |
+| [getKey()](#getKey--) | Hämtar lagrets resursnyckel. |
+| [getLength()](#getLength--) | Hämtar lagrets resurslängd i byte. |
+| [getPrefixLength_internalized(int psdVersion)](#getPrefixLength-internalized-int-) | Hämtar prefixlängden. |
+| [getPreserveLuminosity()](#getPreserveLuminosity--) | Hämtar eller anger ett värde som indikerar om [preserve luminosity]. |
+| [getPsdVersion()](#getPsdVersion--) | Hämtar den minsta PSD‑versionen som krävs för lagrets resurs. |
+| [getRgbColor()](#getRgbColor--) | Hämtar färgen. |
+| [getSignature()](#getSignature--) | Hämtar lagrets resurs‑signatur. |
+| [getVersion()](#getVersion--) | Hämtar versionen. |
+| [hashCode()](#hashCode--) |  |
+| [isResourcePsbSpecificByKey_internalized(int key)](#isResourcePsbSpecificByKey-internalized-int-) | Bestämmer om resursen är PSB‑specifik. |
+| [isResourcePsbSpecific_internalized()](#isResourcePsbSpecific-internalized--) | Hämtar ett värde som indikerar om denna instans är PSB‑specifik resurs. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [save(StreamContainer streamContainer, int psdVersion)](#save-com.aspose.psd.StreamContainer-int-) | Sparar resursen till den angivna strömbehållaren. |
+| [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-) | Sparar den anpassade resursrubriken. |
+| [saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)](#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-) | Sparar rubrikens signatur, identifierare och längd. |
+| [setColorSpace(short value)](#setColorSpace-short-) | Hämtar färgrymden. |
+| [setColorX(float value)](#setColorX-float-) | Hämtar eller anger X‑färgen. |
+| [setColorY(float value)](#setColorY-float-) | Hämtar eller anger Y‑färgen. |
+| [setColorZ(float value)](#setColorZ-float-) | Hämtar eller anger Z‑färgen. |
+| [setDensity(int value)](#setDensity-int-) | Hämtar eller anger densiteten. |
+| [setHeader_internalized(PsdHeader value)](#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-) | Hämtar eller anger rubriken. |
+| [setPreserveLuminosity(boolean value)](#setPreserveLuminosity-boolean-) | Hämtar eller anger ett värde som indikerar om [preserve luminosity]. |
+| [setRgbColor(Color color)](#setRgbColor-com.aspose.psd.Color-) | Anger RGB-färgen. |
+| [setVersion(short value)](#setVersion-short-) | Hämtar versionen. |
+| [toString()](#toString--) | Returnerar en String som representerar detta objekt. |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### PhflResourceVersion3() {#PhflResourceVersion3--}
+```
+public PhflResourceVersion3()
+```
+
+
+Initierar en ny instans av klassen [PhflResourceVersion3](../../com.aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3).
+
+### PhflResourceVersion3(byte[] data) {#PhflResourceVersion3-byte---}
+```
+public PhflResourceVersion3(byte[] data)
+```
+
+
+Initierar en ny instans av klassen [PhflResourceVersion3](../../com.aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3).
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| data | byte[] | Data för resursen. |
+
+### PsbHeaderVersion_internalized {#PsbHeaderVersion-internalized}
+```
+public static final int PsbHeaderVersion_internalized
+```
+
+
+PSB‑huvudversionen
+
+### PsbResourceSignature {#PsbResourceSignature}
+```
+public static final int PsbResourceSignature
+```
+
+
+Den PSB‑specifika resurs‑signaturen.
+
+### PsdHeaderVersion_internalized {#PsdHeaderVersion-internalized}
+```
+public static final int PsdHeaderVersion_internalized
+```
+
+
+PSD‑huvudversionen.
+
+### ResourceSignature {#ResourceSignature}
+```
+public static final int ResourceSignature
+```
+
+
+Den gemensamma resurs‑signaturen.
+
+### TypeToolKey {#TypeToolKey}
+```
+public static final int TypeToolKey
+```
+
+
+Nyckeln för typverktygsinformation.
+
+### ventureLicense_internalized {#ventureLicense-internalized}
+```
+public Object ventureLicense_internalized
+```
+
+
+Venture‑licensen.
+
+### checkAndSetIfResourceIsPsbSpecific_internalized(int key) {#checkAndSetIfResourceIsPsbSpecific-internalized-int-}
+```
+public final void checkAndSetIfResourceIsPsbSpecific_internalized(int key)
+```
+
+
+Kontrollerar och anger om resursen är PSB-specifik. Vissa resurser känns inte igen för närvarande, men vi har en fullständig lista över PSB-specifika resurser som ändrar deras beteende vid sparning. Så vi måste åtminstone kontrollera detta i UnknownResource.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | int | Nyckeln. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getColorSpace() {#getColorSpace--}
+```
+public final short getColorSpace()
+```
+
+
+Hämtar färgrymden.
+
+Värde: färgrymden.
+
+**Returns:**
+short
+### getColorX() {#getColorX--}
+```
+public final float getColorX()
+```
+
+
+Hämtar eller anger X‑färgen.
+
+Värde: X‑färgen.
+
+**Returns:**
+float
+### getColorY() {#getColorY--}
+```
+public final float getColorY()
+```
+
+
+Hämtar eller anger Y‑färgen.
+
+Värde: Y‑färgen.
+
+**Returns:**
+float
+### getColorZ() {#getColorZ--}
+```
+public final float getColorZ()
+```
+
+
+Hämtar eller anger Z‑färgen.
+
+Värde: Z‑färgen.
+
+**Returns:**
+float
+### getData() {#getData--}
+```
+public final byte[] getData()
+```
+
+
+Hämtar eller anger data.
+
+Värde: Data.
+
+**Returns:**
+byte[]
+### getDensity() {#getDensity--}
+```
+public final int getDensity()
+```
+
+
+Hämtar eller anger densiteten.
+
+Värde: Densiteten.
+
+**Returns:**
+int
+### getHeader_internalized() {#getHeader-internalized--}
+```
+public final PsdHeader getHeader_internalized()
+```
+
+
+Hämtar eller anger rubriken.
+
+Värde: Headern.
+
+**Returns:**
+com.aspose.internal.fileformats.psd.sections.PsdHeader
+### getKey() {#getKey--}
+```
+public final int getKey()
+```
+
+
+Hämtar lagrets resursnyckel.
+
+**Returns:**
+int
+### getLength() {#getLength--}
+```
+public int getLength()
+```
+
+
+Hämtar lagrets resurslängd i byte.
+
+**Returns:**
+int
+### getPrefixLength_internalized(int psdVersion) {#getPrefixLength-internalized-int-}
+```
+public final int getPrefixLength_internalized(int psdVersion)
+```
+
+
+Hämtar prefixlängden. Standardvärdet är 12 för 8BIM-resurser och 16 för 8B64.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| psdVersion | int | PSD-versionen. |
+
+**Returns:**
+int - Prefixlängden.
+### getPreserveLuminosity() {#getPreserveLuminosity--}
+```
+public final boolean getPreserveLuminosity()
+```
+
+
+Hämtar eller anger ett värde som indikerar om [preserve luminosity].
+
+Värde:  true  om [preserve luminosity]; annars,  false .
+
+**Returns:**
+boolean
+### getPsdVersion() {#getPsdVersion--}
+```
+public int getPsdVersion()
+```
+
+
+Hämtar den minsta psd-version som krävs för lagerresursen. 0 indikerar inga begränsningar.
+
+**Returns:**
+int
+### getRgbColor() {#getRgbColor--}
+```
+public Color getRgbColor()
+```
+
+
+Hämtar färgen.
+
+**Returns:**
+[Color](../../com.aspose.psd/color) - The RGB color
+### getSignature() {#getSignature--}
+```
+public int getSignature()
+```
+
+
+Hämtar lagrets resurs‑signatur.
+
+**Returns:**
+int
+### getVersion() {#getVersion--}
+```
+public short getVersion()
+```
+
+
+Hämtar versionen. Standard är 2 eller 3
+
+**Returns:**
+short
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isResourcePsbSpecificByKey_internalized(int key) {#isResourcePsbSpecificByKey-internalized-int-}
+```
+public static boolean isResourcePsbSpecificByKey_internalized(int key)
+```
+
+
+Bestämmer om resursen är PSB‑specifik.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| nyckel | int | Resursnyckeln. |
+
+**Returns:**
+boolean - true om resursen är PSB-specifik; annars false.
+### isResourcePsbSpecific_internalized() {#isResourcePsbSpecific-internalized--}
+```
+public final boolean isResourcePsbSpecific_internalized()
+```
+
+
+Hämtar ett värde som indikerar om denna instans är PSB‑specifik resurs.
+
+Värde: true om detta objekt är PSB-specifik resurs; annars false.
+
+**Returns:**
+boolean
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### save(StreamContainer streamContainer, int psdVersion) {#save-com.aspose.psd.StreamContainer-int-}
+```
+public void save(StreamContainer streamContainer, int psdVersion)
+```
+
+
+Sparar resursen till den angivna strömbehållaren.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | Strömbehållaren att spara till. |
+| psdVersion | int | PSD-versionen. |
+
+### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-}
+```
+public final void saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature)
+```
+
+
+Sparar den anpassade resursrubriken.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | Strömbehållaren. |
+| signatur | int | Signaturen. |
+
+### saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong) {#saveCustomResourceHeader-internalized-com.aspose.psd.StreamContainer-int-boolean-}
+```
+public final void saveCustomResourceHeader_internalized(StreamContainer streamContainer, int signature, boolean isLengthLong)
+```
+
+
+Sparar rubrikens signatur, identifierare och längd.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | Strömbehållaren. |
+| signatur | int | Signaturen. |
+| isLengthLong | boolean | Om satt till true är längden lång. |
+
+### setColorSpace(short value) {#setColorSpace-short-}
+```
+public void setColorSpace(short value)
+```
+
+
+Hämtar färgrymden.
+
+Värde: färgrymden.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | short |  |
+
+### setColorX(float value) {#setColorX-float-}
+```
+public final void setColorX(float value)
+```
+
+
+Hämtar eller anger X‑färgen.
+
+Värde: X‑färgen.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | float |  |
+
+### setColorY(float value) {#setColorY-float-}
+```
+public final void setColorY(float value)
+```
+
+
+Hämtar eller anger Y‑färgen.
+
+Värde: Y‑färgen.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | float |  |
+
+### setColorZ(float value) {#setColorZ-float-}
+```
+public final void setColorZ(float value)
+```
+
+
+Hämtar eller anger Z‑färgen.
+
+Värde: Z‑färgen.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | float |  |
+
+### setDensity(int value) {#setDensity-int-}
+```
+public final void setDensity(int value)
+```
+
+
+Hämtar eller anger densiteten.
+
+Värde: Densiteten.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | int |  |
+
+### setHeader_internalized(PsdHeader value) {#setHeader-internalized-com.aspose.internal.fileformats.psd.sections.PsdHeader-}
+```
+public final void setHeader_internalized(PsdHeader value)
+```
+
+
+Hämtar eller anger rubriken.
+
+Värde: Headern.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | com.aspose.internal.fileformats.psd.sections.PsdHeader |  |
+
+### setPreserveLuminosity(boolean value) {#setPreserveLuminosity-boolean-}
+```
+public final void setPreserveLuminosity(boolean value)
+```
+
+
+Hämtar eller anger ett värde som indikerar om [preserve luminosity].
+
+Värde:  true  om [preserve luminosity]; annars,  false .
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | boolean |  |
+
+### setRgbColor(Color color) {#setRgbColor-com.aspose.psd.Color-}
+```
+public void setRgbColor(Color color)
+```
+
+
+Anger RGB-färgen.
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| color | [Color](../../com.aspose.psd/color) | Färgen. |
+
+### setVersion(short value) {#setVersion-short-}
+```
+public void setVersion(short value)
+```
+
+
+Hämtar versionen. Standard är 2 eller 3
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| värde | short |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+Returnerar en String som representerar detta objekt.
+
+**Returns:**
+java.lang.String - En String som representerar detta objekt.
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
