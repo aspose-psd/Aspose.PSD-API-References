@@ -1,0 +1,418 @@
+---
+title: "ColorantLab"
+second_title: "Java için Aspose.PSD API Referansı"
+description: "LAB Renkörneği temsil eder."
+type: docs
+weight: 14
+url: /tr/java/com.aspose.psd.xmp.types.complex.colorant/colorantlab/
+---
+
+**Inheritance:**
+java.lang.Object, [com.aspose.psd.xmp.types.XmpTypeBase](../../com.aspose.psd.xmp.types/xmptypebase), [com.aspose.psd.xmp.types.complex.ComplexTypeBase](../../com.aspose.psd.xmp.types.complex/complextypebase), [com.aspose.psd.xmp.types.complex.colorant.ColorantBase](../../com.aspose.psd.xmp.types.complex.colorant/colorantbase)
+```
+public final class ColorantLab extends ColorantBase
+```
+
+LAB Renkörneği temsil eder.
+## Yapıcılar
+
+| Yapıcı | Açıklama |
+| --- | --- |
+| [ColorantLab()](#ColorantLab--) | ColorantLab sınıfının yeni bir örneğini başlatır. |
+| [ColorantLab(int a, int b, float l)](#ColorantLab-int-int-float-) | ColorantLab sınıfının yeni bir örneğini başlatır. |
+## Alanlar
+
+| Alan | Açıklama |
+| --- | --- |
+| [MaxA](#MaxA) | Maksimum A bileşen değeri |
+| [MaxB](#MaxB) | Maksimum A bileşen değeri |
+| [MaxL](#MaxL) | Maksimum A bileşen değeri |
+| [MinA](#MinA) | Minimum A bileşen değeri |
+| [MinB](#MinB) | Minimum B bileşen değeri |
+| [MinL](#MinL) | Minimum L bileşen değeri |
+## Yöntemler
+
+| Yöntem | Açıklama |
+| --- | --- |
+| [add(String key, Object value)](#add-java.lang.String-java.lang.Object-) | Belirtilen anahtarı ekler. |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getA()](#getA--) | A bileşenini alır veya ayarlar. |
+| [getB()](#getB--) | B bileşenini alır veya ayarlar. |
+| [getClass()](#getClass--) |  |
+| [getColorType()](#getColorType--) | Rengin türünü alır veya ayarlar. |
+| [getL()](#getL--) | L bileşenini alır veya ayarlar. |
+| [getMode()](#getMode--) | ColorMode değerini alır. |
+| [getNamespaceUri()](#getNamespaceUri--) | Varsayılan ad alanı URI'sını alır. |
+| [getPrefix()](#getPrefix--) | Ön eki alır. |
+| [getSwatchName()](#getSwatchName--) | Örnek rengin adını alır veya ayarlar. |
+| [getXmpRepresentation()](#getXmpRepresentation--) | XMP formatında içerilen dize değerini alır. |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setA(int value)](#setA-int-) | A bileşenini alır veya ayarlar. |
+| [setB(int value)](#setB-int-) | B bileşenini alır veya ayarlar. |
+| [setColorType(int value)](#setColorType-int-) | Rengin türünü alır veya ayarlar. |
+| [setL(float value)](#setL-float-) | L bileşenini alır veya ayarlar. |
+| [setSwatchName(String value)](#setSwatchName-java.lang.String-) | Örnek rengin adını alır veya ayarlar. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### ColorantLab() {#ColorantLab--}
+```
+public ColorantLab()
+```
+
+
+ColorantLab sınıfının yeni bir örneğini başlatır.
+
+### ColorantLab(int a, int b, float l) {#ColorantLab-int-int-float-}
+```
+public ColorantLab(int a, int b, float l)
+```
+
+
+ColorantLab sınıfının yeni bir örneğini başlatır.
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| a | int | A bileşeni. |
+| b | int | B bileşeni. |
+| l | float | L bileşeni. |
+
+### MaxA {#MaxA}
+```
+public static final int MaxA
+```
+
+
+Maksimum A bileşen değeri
+
+### MaxB {#MaxB}
+```
+public static final int MaxB
+```
+
+
+Maksimum A bileşen değeri
+
+### MaxL {#MaxL}
+```
+public static final float MaxL
+```
+
+
+Maksimum A bileşen değeri
+
+### MinA {#MinA}
+```
+public static final int MinA
+```
+
+
+Minimum A bileşen değeri
+
+### MinB {#MinB}
+```
+public static final int MinB
+```
+
+
+Minimum B bileşen değeri
+
+### MinL {#MinL}
+```
+public static final float MinL
+```
+
+
+Minimum L bileşen değeri
+
+### add(String key, Object value) {#add-java.lang.String-java.lang.Object-}
+```
+public void add(String key, Object value)
+```
+
+
+Belirtilen anahtarı ekler.
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| anahtar | java.lang.String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | java.lang.Object | Eklenecek değer. |
+
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getA() {#getA--}
+```
+public int getA()
+```
+
+
+A bileşenini alır veya ayarlar.
+
+Değer: A bileşeni.
+
+**Returns:**
+int
+### getB() {#getB--}
+```
+public int getB()
+```
+
+
+B bileşenini alır veya ayarlar.
+
+Değer: B bileşeni.
+
+**Returns:**
+int
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getColorType() {#getColorType--}
+```
+public int getColorType()
+```
+
+
+Rengin türünü alır veya ayarlar.
+
+Değer: Renk türü.
+
+**Returns:**
+int
+### getL() {#getL--}
+```
+public float getL()
+```
+
+
+L bileşenini alır veya ayarlar.
+
+Değer: L bileşeni.
+
+**Returns:**
+float
+### getMode() {#getMode--}
+```
+public int getMode()
+```
+
+
+ColorMode değerini alır.
+
+Değer: Renk modu.
+
+**Returns:**
+int
+### getNamespaceUri() {#getNamespaceUri--}
+```
+public String getNamespaceUri()
+```
+
+
+Varsayılan ad alanı URI'sını alır.
+
+**Returns:**
+java.lang.String - Varsayılan ad alanı URI'si.
+### getPrefix() {#getPrefix--}
+```
+public String getPrefix()
+```
+
+
+Ön eki alır.
+
+**Returns:**
+java.lang.String - Önek.
+### getSwatchName() {#getSwatchName--}
+```
+public String getSwatchName()
+```
+
+
+Örnek rengin adını alır veya ayarlar.
+
+Değer: Renk örneği adı.
+
+**Returns:**
+java.lang.String
+### getXmpRepresentation() {#getXmpRepresentation--}
+```
+public String getXmpRepresentation()
+```
+
+
+XMP formatında içerilen dize değerini alır.
+
+**Returns:**
+java.lang.String - XMP formatında içerilen dize değerini döndürür.
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setA(int value) {#setA-int-}
+```
+public void setA(int value)
+```
+
+
+A bileşenini alır veya ayarlar.
+
+Değer: A bileşeni.
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| değer | int |  |
+
+### setB(int value) {#setB-int-}
+```
+public void setB(int value)
+```
+
+
+B bileşenini alır veya ayarlar.
+
+Değer: B bileşeni.
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| değer | int |  |
+
+### setColorType(int value) {#setColorType-int-}
+```
+public void setColorType(int value)
+```
+
+
+Rengin türünü alır veya ayarlar.
+
+Değer: Renk türü.
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| değer | int |  |
+
+### setL(float value) {#setL-float-}
+```
+public void setL(float value)
+```
+
+
+L bileşenini alır veya ayarlar.
+
+Değer: L bileşeni.
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| değer | float |  |
+
+### setSwatchName(String value) {#setSwatchName-java.lang.String-}
+```
+public void setSwatchName(String value)
+```
+
+
+Örnek rengin adını alır veya ayarlar.
+
+Değer: Renk örneği adı.
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| değer | java.lang.String |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
