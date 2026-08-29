@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternWidth
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPatternFillSettings propiedad. Obtiene o establece el ancho del patrón.
+title: "IPatternFillSettings.PatternWidth"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IPatternFillSettings. Obtiene o establece el ancho del patrón"
 type: docs
-weight: 70
+weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternWidth property
 
 Obtiene o establece el ancho del patrón.
@@ -14,14 +15,14 @@ Obtiene o establece el ancho del patrón.
 public int PatternWidth { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ancho del patrón.
 
 ### Ver también
 
 * interface [IPatternFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DataStreamSupporter método. Guarda los datos del objeto en el actualDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método DataStreamSupporter. Guarda los datos del objeto en el DataStreamSupporter actual."
 type: docs
 weight: 40
 url: /es/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Guarda los datos del objeto en el actual[`DataStreamSupporter`](../) .
+Guarda los datos del objeto en el [`DataStreamSupporter`](../) actual.
 
 ```csharp
 public virtual void Save()
@@ -17,8 +18,8 @@ public virtual void Save()
 ### Ver también
 
 * class [DataStreamSupporter](../)
-* espacio de nombres [Aspose.PSD](../../datastreamsupporter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ Guarda los datos del objeto en el flujo especificado.
 public virtual void Save(Stream stream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La secuencia en la que guardar los datos del objeto. |
+| flujo | Flujo | El flujo donde guardar los datos del objeto. |
 
 ### Ver también
 
 * class [DataStreamSupporter](../)
-* espacio de nombres [Aspose.PSD](../../datastreamsupporter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -50,15 +51,15 @@ Guarda los datos del objeto en la ubicación de archivo especificada.
 public void Save(string filePath)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| filePath | String | La ruta del archivo para guardar los datos del objeto. |
+| filePath | String | La ruta del archivo donde guardar los datos del objeto. |
 
 ### Ver también
 
 * class [DataStreamSupporter](../)
-* espacio de nombres [Aspose.PSD](../../datastreamsupporter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -70,15 +71,15 @@ Guarda los datos del objeto en la ubicación de archivo especificada.
 public virtual void Save(string filePath, bool overWrite)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| filePath | String | La ruta del archivo para guardar los datos del objeto. |
-| overWrite | Boolean | si se establece en`verdadero` sobrescriba el contenido del archivo, de lo contrario, se agregará. |
+| filePath | String | La ruta del archivo donde guardar los datos del objeto. |
+| overWrite | Boolean | si se establece en `true` sobrescribe el contenido del archivo, de lo contrario se producirá una adición. |
 
 ### Ver también
 
 * class [DataStreamSupporter](../)
-* espacio de nombres [Aspose.PSD](../../datastreamsupporter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

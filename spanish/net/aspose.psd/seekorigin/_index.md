@@ -1,14 +1,15 @@
 ---
-title: Enum SeekOrigin
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.SeekOrigin enumeración. Proporciona los campos que representan puntos de referencia enStreamContainer por buscar.
+title: "Enumeración SeekOrigin"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.SeekOrigin. Proporciona los campos que representan puntos de referencia en StreamContainer para la búsqueda"
 type: docs
-weight: 5410
+weight: 5910
 url: /es/net/aspose.psd/seekorigin/
 ---
+{{< psd/tize >}}
 ## SeekOrigin enumeration
 
-Proporciona los campos que representan puntos de referencia en[`StreamContainer`](../streamcontainer/) por buscar.
+Proporciona los campos que representan puntos de referencia en [`StreamContainer`](../streamcontainer/) para la búsqueda.
 
 ```csharp
 public enum SeekOrigin
@@ -18,13 +19,13 @@ public enum SeekOrigin
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Begin | `0` | Especifica el comienzo de una secuencia. |
-| Current | `1` | Especifica la posición actual dentro de una secuencia. |
-| End | `2` | Especifica el final de una secuencia. |
+| Begin | `0` | Especifica el inicio de un flujo. |
+| Current | `1` | Especifica la posición actual dentro de un flujo. |
+| End | `2` | Especifica el final de un flujo. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

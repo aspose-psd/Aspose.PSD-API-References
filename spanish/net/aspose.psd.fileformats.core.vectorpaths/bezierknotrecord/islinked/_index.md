@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.IsLinked
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BezierKnotRecord propiedad. Obtiene o establece un valor que indica si esta instancia está vinculada.
+title: "BezierKnotRecord.IsLinked"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BezierKnotRecord. Obtiene o establece un valor que indica si esta instancia está vinculada"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsLinked property
 
 Obtiene o establece un valor que indica si esta instancia está vinculada.
@@ -14,14 +15,14 @@ Obtiene o establece un valor que indica si esta instancia está vinculada.
 public bool IsLinked { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia está vinculada; de lo contrario,`FALSO` .
+`true` si esta instancia está vinculada; de lo contrario, `false`.
 
 ### Ver también
 
 * class [BezierKnotRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class NonGenericList
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.NonGenericList clase. Lista no genérica de objetos
+title: "Clase NonGenericList"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.NonGenericList. Lista no genérica de objetos"
 type: docs
-weight: 5150
+weight: 5640
 url: /es/net/aspose.psd/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList class
 
 Lista no genérica de objetos
@@ -18,36 +19,36 @@ public class NonGenericList : IList
 
 | Nombre | Descripción |
 | --- | --- |
-| [NonGenericList](nongenericlist/)(IList) | Inicializa una nueva instancia del`NonGenericList` clase. |
+| [NonGenericList](nongenericlist/)(IList) | Inicializa una nueva instancia de la clase `NonGenericList`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericlist/count/) { get; } | Obtiene el número de elementos contenidos en elICollection . |
-| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | Obtiene un valor que indica si elIList tiene un tamaño fijo. |
-| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | Obtiene un valor que indica si elIList es de solo lectura. |
-| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | Obtiene un valor que indica si el acceso a laICollection está sincronizado (seguro para subprocesos). |
+| [Count](../../aspose.psd/nongenericlist/count/) { get; } | Obtiene el número de elementos contenidos en la ICollection. |
+| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | Obtiene un valor que indica si IList tiene un tamaño fijo. |
+| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | Obtiene un valor que indica si IList es de solo lectura. |
+| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | Obtiene un valor que indica si el acceso a la ICollection está sincronizado (seguro para subprocesos). |
 | [Item](../../aspose.psd/nongenericlist/item/) { get; set; } | Obtiene o establece el elemento en el índice especificado. |
-| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | Obtiene un objeto que se puede usar para sincronizar el acceso alICollection . |
+| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | Obtiene un objeto que puede usarse para sincronizar el acceso a la ICollection. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericlist/add/)(object) | Agrega un elemento alIList . |
-| [Clear](../../aspose.psd/nongenericlist/clear/)() | Elimina todos los elementos de laIList . |
-| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | Determina si elIList contiene un valor específico. |
-| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | Copia los elementos delICollection a unaArray , a partir de un determinadoArray índice. |
-| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | Devuelve un enumerador que itera a través de una colección. |
-| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | Determina el índice de un elemento específico en elIList . |
-| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | Inserta un elemento en elIList en el índice especificado. |
-| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | Elimina la primera aparición de un objeto específico de laIList . |
-| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | Elimina elIList elemento en el índice especificado. |
+| [Add](../../aspose.psd/nongenericlist/add/)(object) | Agrega un elemento a IList. |
+| [Clear](../../aspose.psd/nongenericlist/clear/)() | Elimina todos los elementos de IList. |
+| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | Determina si IList contiene un valor específico. |
+| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | Copia los elementos de la ICollection a un Array, comenzando en un índice de Array específico. |
+| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | Devuelve un enumerador que recorre una colección. |
+| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | Determina el índice de un elemento específico en IList. |
+| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | Inserta un elemento en IList en el índice especificado. |
+| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | Elimina la primera aparición de un objeto específico de IList. |
+| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | Elimina el elemento de IList en el índice especificado. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

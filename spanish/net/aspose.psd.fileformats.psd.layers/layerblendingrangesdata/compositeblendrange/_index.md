@@ -1,20 +1,21 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerBlendingRangesData propiedad. Obtiene o establece los rangos de combinación compuestos.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LayerBlendingRangesData. Obtiene o establece los rangos de mezcla compuesta"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-Obtiene o establece los rangos de combinación compuestos.
+Obtiene o establece los rangos de fusión compuesta.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los rangos de mezcla compuesta.
 
@@ -22,7 +23,7 @@ Los rangos de mezcla compuesta.
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.VerticalMeshPoints
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PlacedResource propiedad. Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD.
+title: "PlacedResource.VerticalMeshPoints"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PlacedResource. Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD"
 type: docs
-weight: 220
+weight: 210
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPoints property
 
-Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD.
+Obtiene o establece los puntos de malla horizontales de la capa colocada en el archivo PSD.
 
 ```csharp
 public double[] VerticalMeshPoints { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los puntos de malla horizontal de la capa colocada.
 
 ### Ver también
 
 * class [PlacedResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

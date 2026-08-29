@@ -1,11 +1,12 @@
 ---
-title: Class ChannelInformation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation clase. La información del canal.
+title: "Clase ChannelInformation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation clase. La información del canal."
 type: docs
-weight: 1900
+weight: 2010
 url: /es/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation class
 
 La información del canal.
@@ -18,7 +19,7 @@ public class ChannelInformation
 
 | Nombre | Descripción |
 | --- | --- |
-| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Inicializa una nueva instancia del`ChannelInformation` clase. |
+| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Inicializa una nueva instancia de la clase `ChannelInformation`. |
 
 ## Propiedades
 
@@ -30,7 +31,7 @@ public class ChannelInformation
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

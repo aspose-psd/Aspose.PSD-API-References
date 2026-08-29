@@ -1,14 +1,15 @@
 ---
-title: Class MedianFilterOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions clase. Filtro de mediana
+title: "Clase MedianFilterOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions. Filtro mediano"
 type: docs
-weight: 4720
+weight: 5190
 url: /es/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
-Filtro de mediana
+Filtro mediano
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
@@ -18,7 +19,7 @@ public class MedianFilterOptions : FilterOptionsBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | Inicializa una nueva instancia del`MedianFilterOptions` clase. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | Inicializa una nueva instancia de la clase `MedianFilterOptions`. |
 
 ## Propiedades
 
@@ -29,7 +30,7 @@ public class MedianFilterOptions : FilterOptionsBase
 ### Ver también
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

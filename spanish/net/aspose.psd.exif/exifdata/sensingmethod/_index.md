@@ -1,11 +1,12 @@
 ---
-title: ExifData.SensingMethod
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el método de detección.
+title: "ExifData.SensingMethod"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el método de detección"
 type: docs
 weight: 920
 url: /es/net/aspose.psd.exif/exifdata/sensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.SensingMethod property
 
 Obtiene o establece el método de detección.
@@ -14,7 +15,7 @@ Obtiene o establece el método de detección.
 public ExifSensingMethod SensingMethod { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El método de detección.
 
@@ -22,7 +23,7 @@ El método de detección.
 
 * enum [ExifSensingMethod](../../../aspose.psd.exif.enums/exifsensingmethod/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

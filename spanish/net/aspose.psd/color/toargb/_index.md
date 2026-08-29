@@ -1,27 +1,28 @@
 ---
-title: Color.ToArgb
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Color método. Obtiene el valor ARGB de 32 bits de esteColorestructura.
+title: "Color.ToArgb"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Color. Obtiene el valor ARGB de 32 bits de esta estructura Color"
 type: docs
 weight: 1590
 url: /es/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-Obtiene el valor ARGB de 32 bits de este[`Color`](../)estructura.
+Obtiene el valor ARGB de 32 bits de esta estructura [`Color`](../).
 
 ```csharp
 public int ToArgb()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-El valor ARGB de 32 bits de este[`Color`](../).
+El valor ARGB de 32 bits de este [`Color`](../).
 
 ### Ver también
 
 * struct [Color](../)
-* espacio de nombres [Aspose.PSD](../../color/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

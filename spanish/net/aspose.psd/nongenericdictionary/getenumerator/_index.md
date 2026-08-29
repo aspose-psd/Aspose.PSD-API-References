@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: NonGenericDictionary método. Obtiene el enumerador.
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método NonGenericDictionary. Obtiene el enumerador"
 type: docs
 weight: 140
 url: /es/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
 Obtiene el enumerador.
@@ -14,14 +15,14 @@ Obtiene el enumerador.
 public IDictionaryEnumerator GetEnumerator()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 El enumerador del diccionario
 
 ### Ver también
 
 * class [NonGenericDictionary](../)
-* espacio de nombres [Aspose.PSD](../../nongenericdictionary/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

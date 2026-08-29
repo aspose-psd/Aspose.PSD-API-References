@@ -1,11 +1,12 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el índice de exposición recomendado.
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el índice de exposición recomendado"
 type: docs
 weight: 870
 url: /es/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
 Obtiene o establece el índice de exposición recomendado.
@@ -14,14 +15,14 @@ Obtiene o establece el índice de exposición recomendado.
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El índice de exposición recomendado.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

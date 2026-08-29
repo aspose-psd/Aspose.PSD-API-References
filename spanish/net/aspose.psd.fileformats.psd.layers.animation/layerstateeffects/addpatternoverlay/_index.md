@@ -1,26 +1,27 @@
 ---
-title: LayerStateEffects.AddPatternOverlay
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerStateEffects método. Agrega el efecto de superposición de patrones.
+title: "LayerStateEffects.AddPatternOverlay"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LayerStateEffects. Añade el efecto de superposición de patrón"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddPatternOverlay method
 
-Agrega el efecto de superposición de patrones.
+Agrega el efecto de superposición de patrón.
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-La nueva instancia de la[`PatternOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/) clase.
+La nueva instancia de la clase [`PatternOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/).
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con los efectos en los marcos de la línea de tiempo.
+El siguiente código demuestra el soporte de efectos en los fotogramas de Timeline.
 
 ```csharp
 [C#]
@@ -30,19 +31,16 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
@@ -52,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [PatternOverlayEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/)
 * class [LayerStateEffects](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

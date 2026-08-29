@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.AntiAliasPolicy
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectResource propiedad. Obtiene o establece la política antialiasing de los datos de la capa de objetos inteligentes en la imagen PSD.
+title: "SmartObjectResource.AntiAliasPolicy"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SmartObjectResource. Obtiene o establece la política de antialias de los datos de la capa de objeto inteligente en la imagen PSD"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.AntiAliasPolicy property
 
-Obtiene o establece la política antialiasing de los datos de la capa de objetos inteligentes en la imagen PSD.
+Obtiene o establece la política de antialiasing de los datos de la capa de objeto inteligente en la imagen PSD.
 
 ```csharp
 public override int AntiAliasPolicy { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La política antialiasing de los datos de la capa de objetos inteligentes.
+La política de antialias de los datos de la capa de objeto inteligente.
 
 ### Ver también
 
 * class [SmartObjectResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

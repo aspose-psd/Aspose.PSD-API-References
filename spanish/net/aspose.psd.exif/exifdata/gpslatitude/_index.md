@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSLatitude
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la latitud del GPS.
+title: "ExifData.GPSLatitude"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la latitud GPS"
 type: docs
 weight: 520
 url: /es/net/aspose.psd.exif/exifdata/gpslatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitude property
 
-Obtiene o establece la latitud del GPS.
+Obtiene o establece la latitud GPS.
 
 ```csharp
 public TiffRational[] GPSLatitude { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La latitud del GPS.
+La latitud GPS.
 
 ### Ver también
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialPower
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BilateralSmoothingFilterOptions propiedad. Obtiene o establece la potencia espacial.
+title: "BilateralSmoothingFilterOptions.SpatialPower"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BilateralSmoothingFilterOptions. Obtiene o establece la potencia espacial"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialPower property
 
 Obtiene o establece la potencia espacial.
@@ -14,14 +15,14 @@ Obtiene o establece la potencia espacial.
 public double SpatialPower { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El poder espacial.
+La potencia espacial.
 
 ### Ver también
 
 * class [BilateralSmoothingFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Lr16Resource.Layers
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Lr16Resource propiedad. Obtiene o establece las capas.
+title: "Lr16Resource.Layers"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Lr16Resource. Obtiene o establece las capas"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/layers/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Layers property
 
 Obtiene o establece las capas.
@@ -14,7 +15,7 @@ Obtiene o establece las capas.
 public Layer[] Layers { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las capas.
 
@@ -22,7 +23,7 @@ Las capas.
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [Lr16Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

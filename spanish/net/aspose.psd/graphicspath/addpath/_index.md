@@ -1,48 +1,49 @@
 ---
-title: GraphicsPath.AddPath
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GraphicsPath método. Agrega el especificadoGraphicsPath a este camino.
+title: "GraphicsPath.AddPath"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método GraphicsPath. Añade el GraphicsPath especificado a esta ruta."
 type: docs
 weight: 70
 url: /es/net/aspose.psd/graphicspath/addpath/
 ---
+{{< psd/tize >}}
 ## AddPath(GraphicsPath) {#addpath}
 
-Agrega el especificado[`GraphicsPath`](../) a este camino.
+Añade el [`GraphicsPath`](../) especificado a esta ruta.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| addingPath | GraphicsPath | El[`GraphicsPath`](../) para agregar |
+| addingPath | GraphicsPath | El [`GraphicsPath`](../) a añadir. |
 
 ### Ver también
 
 * class [GraphicsPath](../)
-* espacio de nombres [Aspose.PSD](../../graphicspath/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AddPath(GraphicsPath, bool) {#addpath_1}
 
-Agrega el especificado[`GraphicsPath`](../) a este camino.
+Añade el [`GraphicsPath`](../) especificado a esta ruta.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath, bool connect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| addingPath | GraphicsPath | El[`GraphicsPath`](../) para agregar |
-| connect | Boolean | Un valor booleano que especifica si la primera figura en la ruta añadida es parte de la última figura en esta ruta. Un valor de true especifica que la primera figura en la ruta añadida es parte de la última figura en esta ruta. Un valor falso especifica que la primera figura en la ruta añadida está separada de la última figura en esta ruta. |
+| addingPath | GraphicsPath | El [`GraphicsPath`](../) a añadir. |
+| conectar | Boolean | Un valor Booleano que indica si la primera figura en la ruta añadida forma parte de la última figura en esta ruta. Un valor true indica que la primera figura en la ruta añadida forma parte de la última figura en esta ruta. Un valor false indica que la primera figura en la ruta añadida está separada de la última figura en esta ruta. |
 
 ### Ver también
 
 * class [GraphicsPath](../)
-* espacio de nombres [Aspose.PSD](../../graphicspath/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

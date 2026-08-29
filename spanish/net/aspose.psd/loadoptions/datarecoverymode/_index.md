@@ -1,11 +1,12 @@
 ---
-title: LoadOptions.DataRecoveryMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LoadOptions propiedad. Obtiene o establece el modo de recuperación de datos.
+title: "LoadOptions.DataRecoveryMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LoadOptions. Obtiene o establece el modo de recuperación de datos"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/loadoptions/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataRecoveryMode property
 
 Obtiene o establece el modo de recuperación de datos.
@@ -14,7 +15,7 @@ Obtiene o establece el modo de recuperación de datos.
 public DataRecoveryMode DataRecoveryMode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El modo de recuperación de datos.
 
@@ -22,7 +23,7 @@ El modo de recuperación de datos.
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* espacio de nombres [Aspose.PSD](../../loadoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

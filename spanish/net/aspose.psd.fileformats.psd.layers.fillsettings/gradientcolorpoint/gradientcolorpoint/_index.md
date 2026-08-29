@@ -1,14 +1,15 @@
 ---
-title: GradientColorPoint.GradientColorPoint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GradientColorPoint constructor. Inicializa una nueva instancia delGradientColorPoint clase.
+title: "GradientColorPoint.GradientColorPoint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor GradientColorPoint. Inicializa una nueva instancia de la clase GradientColorPoint"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint() {#constructor}
 
-Inicializa una nueva instancia del[`GradientColorPoint`](../) clase.
+Inicializa una nueva instancia de la clase [`GradientColorPoint`](../).
 
 ```csharp
 public GradientColorPoint()
@@ -17,28 +18,28 @@ public GradientColorPoint()
 ### Ver también
 
 * class [GradientColorPoint](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-Inicializa una nueva instancia del[`GradientColorPoint`](../) clase.
+Inicializa una nueva instancia de la clase [`GradientColorPoint`](../).
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| color | Color | Punto de color en degradado. |
-| location | Int32 | La ubicación del punto de color en el degradado. |
-| medianPointLocation | Int32 | La ubicación del punto de gradiente medio. |
+| color | Color | Punto de color en el degradado. |
+| ubicación | Int32 | La ubicación del punto de color en el degradado. |
+| medianPointLocation | Int32 | La ubicación del punto medio del degradado. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo muestra cómo crear/editar el objeto de efecto GradientOverlayEffect en la capa.
+El siguiente ejemplo muestra cómo crear/editar el objeto de efecto GradientOverlayEffect en una capa.
 
 ```csharp
 [C#]
@@ -64,38 +65,39 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
     if (gradientOverlayEffect == null)
     {
-        // Puede crear un nuevo GradientOverlayEffect si no existe.
+        // Puedes crear un nuevo GradientOverlayEffect si no existe.
         gradientOverlayEffect = layerBlendOptions.AddGradientOverlay();
     }
 
-    // Agrega un poco de transparencia al efecto.
+    // Añade un poco de transparencia al efecto.
     gradientOverlayEffect.Opacity = 200;
 
-    // Cambiar el modo de fusión del efecto degradado.
+    // Cambia el modo de fusión del efecto de degradado.
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
     // Obtiene el objeto GradientFillSettings para configurar los ajustes de superposición de degradado.
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
-    // Establecer un nuevo degradado con dos colores.
-    settings.ColorPoints = new IGradientColorPoint[]
+    // Estableciendo un nuevo degradado con dos colores.
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
     };
 
-    // Establece una inclinación del gradiente en un ángulo de 80 grados.
+    // Establece una inclinación del degradado en un ángulo de 80 grados.
     settings.Angle = 80;
 
-    // Escale el efecto de degradado hasta un 150 %.
+    // Escala el efecto de degradado hasta un 150%.
     settings.Scale = 150;
 
     // Establece el tipo de degradado.
     settings.GradientType = GradientType.Linear;
 
-    // Haga que el degradado sea opaco configurando la opacidad al 100% en cada punto de transparencia.
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    // Haz que el degradado sea opaco estableciendo la opacidad al 100% en cada punto de transparencia.
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }
@@ -105,7 +107,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

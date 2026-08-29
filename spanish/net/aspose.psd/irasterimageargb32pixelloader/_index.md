@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImageArgb32PixelLoader
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IRasterImageArgb32PixelLoader interfaz. El cargador de píxeles ARGB de 32 bits de imagen ráster.
+title: "Interfaz IRasterImageArgb32PixelLoader"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IRasterImageArgb32PixelLoader. El cargador de píxeles ARGB de 32 bits de la imagen rasterizada"
 type: docs
-weight: 4560
+weight: 5030
 url: /es/net/aspose.psd/irasterimageargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader interface
 
-El cargador de píxeles ARGB de 32 bits de imagen ráster.
+El cargador de píxeles ARGB de 32 bits de imagen raster.
 
 ```csharp
 public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
@@ -23,7 +24,7 @@ public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 ### Ver también
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

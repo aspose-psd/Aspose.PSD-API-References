@@ -1,14 +1,15 @@
 ---
-title: PdfDocumentInfo.PdfDocumentInfo
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PdfDocumentInfo constructor. Constructor predeterminado
+title: "PdfDocumentInfo.PdfDocumentInfo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PdfDocumentInfo constructor. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public PdfDocumentInfo()
@@ -17,7 +18,7 @@ public PdfDocumentInfo()
 ### Ver también
 
 * class [PdfDocumentInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

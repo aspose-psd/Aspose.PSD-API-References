@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.LayerSectionResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerSectionResource constructor. Inicializa una nueva instancia delLayerSectionResource clase.
+title: "LayerSectionResource.LayerSectionResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor LayerSectionResource. Inicializa una nueva instancia de la clase LayerSectionResource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource constructor
 
-Inicializa una nueva instancia del[`LayerSectionResource`](../) clase.
+Inicializa una nueva instancia de la clase [`LayerSectionResource`](../).
 
 ```csharp
 public LayerSectionResource()
@@ -17,7 +18,7 @@ public LayerSectionResource()
 ### Ver también
 
 * class [LayerSectionResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

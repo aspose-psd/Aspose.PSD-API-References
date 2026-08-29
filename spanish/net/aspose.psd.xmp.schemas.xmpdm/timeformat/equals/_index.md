@@ -1,11 +1,12 @@
 ---
-title: TimeFormat.Equals
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TimeFormat método. Indica si el objeto actual es igual a otro objeto del mismo tipo.
+title: "TimeFormat.Equals"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TimeFormat. Indica si el objeto actual es igual a otro objeto del mismo tipo"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/timeformat/equals/
 ---
+{{< psd/tize >}}
 ## Equals(TimeFormat) {#equals}
 
 Indica si el objeto actual es igual a otro objeto del mismo tipo.
@@ -14,42 +15,42 @@ Indica si el objeto actual es igual a otro objeto del mismo tipo.
 public bool Equals(TimeFormat other)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| other | TimeFormat | Un objeto para comparar con este objeto. |
+| otro | TimeFormat | Un objeto para comparar con este objeto. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero si el objeto actual es igual al*other* parámetro; de lo contrario, false.
+true si el objeto actual es igual al parámetro *other*; de lo contrario, false.
 
 ### Ver también
 
 * class [TimeFormat](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Determina si el especificadoObject , es igual a esta instancia.
+Determina si el Object especificado es igual a esta instancia.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| obj | Object | ElObject para comparar con esta instancia. |
+| obj | Object | El Object para comparar con esta instancia. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si el especificadoObject es igual a esta instancia; de lo contrario,`FALSO` .
+`true` si el Object especificado es igual a esta instancia; de lo contrario, `false`.
 
 ### Ver también
 
 * class [TimeFormat](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

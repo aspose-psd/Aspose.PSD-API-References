@@ -1,20 +1,21 @@
 ---
-title: Hue2Resource.Ranges
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Hue2Resource propiedad. Obtiene los rangos de la capa de ajuste de tono/saturación. Los rangos en PS pueden cambiar de nombre si se cambia el rango por lo que deberíamos trabajar con index
+title: "Hue2Resource.Ranges"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Hue2Resource. Obtiene los rangos de la capa de ajuste de tono/saturación. Los rangos en PS pueden cambiar de nombre si se modifica el rango, por lo que debemos trabajar por índice."
 type: docs
-weight: 80
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Ranges property
 
-Obtiene los rangos de la capa de ajuste de tono/saturación. Los rangos en PS pueden cambiar de nombre si se cambia el rango, por lo que deberíamos trabajar con index
+Obtiene los rangos de la capa de ajuste de tono/saturación. Los rangos en PS pueden cambiar de nombre si se modifica el rango, por lo que debemos trabajar por índice.
 
 ```csharp
 public ColorRangeHsl[] Ranges { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los rangos.
 
@@ -22,7 +23,7 @@ Los rangos.
 
 * class [ColorRangeHsl](../../colorrangehsl/)
 * class [Hue2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

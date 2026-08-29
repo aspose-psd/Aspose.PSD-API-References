@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageLength
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece la longitud de la imagen.
+title: "TiffOptions.ImageLength"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece la longitud de la imagen"
 type: docs
-weight: 200
+weight: 210
 url: /es/net/aspose.psd.imageoptions/tiffoptions/imagelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageLength property
 
 Obtiene o establece la longitud de la imagen.
@@ -14,14 +15,14 @@ Obtiene o establece la longitud de la imagen.
 public uint ImageLength { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La longitud de la imagen.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

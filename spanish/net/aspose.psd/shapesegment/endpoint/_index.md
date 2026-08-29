@@ -1,11 +1,12 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ShapeSegment propiedad. Obtiene el punto final.
+title: "ShapeSegment.EndPoint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ShapeSegment. Obtiene el punto final"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
 Obtiene el punto final.
@@ -14,7 +15,7 @@ Obtiene el punto final.
 public abstract PointF EndPoint { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El punto final.
 
@@ -22,7 +23,7 @@ El punto final.
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* espacio de nombres [Aspose.PSD](../../shapesegment/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

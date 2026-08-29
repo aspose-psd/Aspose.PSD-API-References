@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextureBrush propiedad. Obtiene elImage objeto asociado con esteTextureBrush objeto.
+title: "TextureBrush.Image"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextureBrush. Obtiene el objeto Image asociado a este objeto TextureBrush"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-Obtiene el[`Image`](../../../aspose.psd/image/) objeto asociado con este[`TextureBrush`](../) objeto.
+Obtiene el objeto [`Image`](../../../aspose.psd/image/) asociado a este objeto [`TextureBrush`](../).
 
 ```csharp
 public Image Image { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Un[`Image`](../../../aspose.psd/image/) objeto que representa la imagen con la que esta[`TextureBrush`](../) objeto llena formas.
+Un objeto [`Image`](../../../aspose.psd/image/) que representa la imagen con la que este objeto [`TextureBrush`](../) rellena formas.
 
 ### Ver también
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../texturebrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

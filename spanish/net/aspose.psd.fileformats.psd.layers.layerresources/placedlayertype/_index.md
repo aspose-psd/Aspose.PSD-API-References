@@ -1,14 +1,15 @@
 ---
-title: Enum PlacedLayerType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType enumeración. Define la enumeración PlacedLayerType para el recurso PlLd de la capa colocada.
+title: "Enumeración PlacedLayerType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType. Define la enumeración PlacedLayerType para el recurso de capa colocada PlLd"
 type: docs
-weight: 2930
+weight: 3280
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-Define la enumeración PlacedLayerType para el recurso PlLd de la capa colocada.
+Define la enumeración PlacedLayerType para el recurso de capa colocada PlLd.
 
 ```csharp
 public enum PlacedLayerType
@@ -18,14 +19,14 @@ public enum PlacedLayerType
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Unknown | `0` | La capa colocada desconocida type |
-| Vector | `1` | La capa colocada vectorial type |
-| Raster | `2` | El ráster colocado tipo de capa |
-| ImageStack | `3` | La pila de imágenes colocó la capa type |
+| Unknown | `0` | El tipo de capa colocada desconocido |
+| Vector | `1` | El tipo de capa colocada vectorial |
+| Raster | `2` | El tipo de capa colocada raster |
+| ImageStack | `3` | El tipo de capa colocada de pila de imágenes |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con el recurso PlLdResource.
+El siguiente código demuestra el soporte del recurso PlLdResource.
 
 ```csharp
 [C#]
@@ -207,16 +208,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible con Adobe® Photoshop®
-                ////recurso.UOrder = 6;
-                ////recurso.VOrden = 9;
+                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible para Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // No cambie esto, de lo contrario no podrá usar la transformación libre
-                // o cambie el objeto inteligente subrayado al tipo de vector
-                ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+                // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+                // o cambie el objeto inteligente subyacente al tipo vector
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Debería haber un PlLdResource válido con este ID único
-                ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Debe haber un PlLdResource válido con este Unique Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -230,7 +232,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

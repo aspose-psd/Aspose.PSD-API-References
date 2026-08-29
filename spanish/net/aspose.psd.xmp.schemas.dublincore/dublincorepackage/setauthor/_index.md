@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DublinCorePackage método. Agrega el autor.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método DublinCorePackage. Añade el autor"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
-Agrega el autor.
+Añade el autor.
 
 ```csharp
 public void SetAuthor(string author)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| author | String | El autor. |
+| autor | String | El autor. |
 
 ### Ver también
 
 * class [DublinCorePackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetAuthor(string[]) {#setauthor_1}
 
-Agrega el autor.
+Añade el autor.
 
 ```csharp
 public void SetAuthor(string[] author)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| author | String[] | El autor. |
+| autor | String[] | El autor. |
 
 ### Ver también
 
 * class [DublinCorePackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

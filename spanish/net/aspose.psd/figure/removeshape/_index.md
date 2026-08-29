@@ -1,11 +1,12 @@
 ---
-title: Figure.RemoveShape
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Figure método. Elimina una forma de la figura.
+title: "Figure.RemoveShape"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Figure. Elimina una forma de la figura"
 type: docs
 weight: 90
 url: /es/net/aspose.psd/figure/removeshape/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShape method
 
 Elimina una forma de la figura.
@@ -14,15 +15,15 @@ Elimina una forma de la figura.
 public void RemoveShape(Shape shape)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| shape | Shape | La forma a eliminar. |
+| forma | Forma | La forma a eliminar. |
 
 ### Ver también
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* espacio de nombres [Aspose.PSD](../../figure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

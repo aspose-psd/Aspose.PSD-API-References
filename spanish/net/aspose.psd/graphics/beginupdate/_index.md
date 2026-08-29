@@ -1,27 +1,28 @@
 ---
-title: Graphics.BeginUpdate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics método. Inicia el almacenamiento en caché de las siguientes operaciones gráficas. Los efectos gráficos aplicados después no se aplicarán inmediatamente sino que EndUpdate hará que se apliquen todos los efectos a la vez.
+title: "Graphics.BeginUpdate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Graphics. Inicia el almacenamiento en caché de las siguientes operaciones gráficas. Los efectos gráficos aplicados después no se aplicarán inmediatamente; en su lugar, EndUpdate provocará la aplicación de todos los efectos de una vez."
 type: docs
-weight: 140
+weight: 150
 url: /es/net/aspose.psd/graphics/beginupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.BeginUpdate method
 
-Inicia el almacenamiento en caché de las siguientes operaciones gráficas. Los efectos gráficos aplicados después no se aplicarán inmediatamente, sino que EndUpdate hará que se apliquen todos los efectos a la vez.
+Inicia el almacenamiento en caché de las siguientes operaciones gráficas. Los efectos gráficos aplicados después no se aplicarán inmediatamente; en su lugar, el EndUpdate provocará la aplicación de todos los efectos de una vez.
 
 ```csharp
 public void BeginUpdate()
 ```
 
-### Observaciones
+## Observaciones
 
-Tenga en cuenta que los efectos después de llamar a BeginUpdate no se aplicarán en caso de que no se llame a EndUpdate.
+Nota: los efectos después de llamar a BeginUpdate no se aplicarán si EndUpdate no se llama.
 
 ### Ver también
 
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

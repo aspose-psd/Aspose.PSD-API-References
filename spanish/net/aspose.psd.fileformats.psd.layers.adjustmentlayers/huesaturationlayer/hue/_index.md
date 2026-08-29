@@ -1,20 +1,21 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: HueSaturationLayer propiedad. Obtiene o establece el matiz.
+title: "HueSaturationLayer.Hue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad HueSaturationLayer. Obtiene o establece el matiz"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
-Obtiene o establece el matiz.
+Obtiene o establece el tono.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El matiz.
 
@@ -22,12 +23,12 @@ El matiz.
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | El tono debe estar en el rango de -180 a +180 |
+| ArgumentOutOfRangeException | El matiz debe estar en el rango de -180 a +180 |
 
 ### Ver también
 
 * class [HueSaturationLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

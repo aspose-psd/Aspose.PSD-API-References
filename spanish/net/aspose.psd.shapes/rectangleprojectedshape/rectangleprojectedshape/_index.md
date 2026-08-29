@@ -1,14 +1,15 @@
 ---
-title: RectangleProjectedShape.RectangleProjectedShape
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RectangleProjectedShape constructor. Inicializa una nueva instancia delRectangleProjectedShape clase.
+title: "RectangleProjectedShape.RectangleProjectedShape"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor RectangleProjectedShape. Inicializa una nueva instancia de la clase RectangleProjectedShape"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape() {#constructor}
 
-Inicializa una nueva instancia del[`RectangleProjectedShape`](../) clase.
+Inicializa una nueva instancia de la clase [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape()
@@ -17,28 +18,28 @@ public RectangleProjectedShape()
 ### Ver también
 
 * class [RectangleProjectedShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-Inicializa una nueva instancia del[`RectangleProjectedShape`](../) clase.
+Inicializa una nueva instancia de la clase [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | RectangleF | El rectángulo desde el que inicializar. |
+| rectángulo | RectangleF | El rectángulo del cual inicializar. |
 
 ### Ver también
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

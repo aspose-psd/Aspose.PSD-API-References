@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.EffectType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GradientOverlayEffect propiedad. Obtiene un tipo de efecto
+title: "GradientOverlayEffect.EffectType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GradientOverlayEffect. Obtiene un tipo de efecto"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.EffectType property
 
 Obtiene un tipo de efecto
@@ -14,9 +15,9 @@ Obtiene un tipo de efecto
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con la propiedad ILayerEffect.EffectType.
+El siguiente código demuestra el soporte de la propiedad ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // atrapó
+            // lo atrapó
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -49,9 +50,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Ver también
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [GradientOverlayEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

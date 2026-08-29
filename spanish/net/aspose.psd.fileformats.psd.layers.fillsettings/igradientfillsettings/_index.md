@@ -1,14 +1,15 @@
 ---
-title: Interface IGradientFillSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings interfaz. Interfaz base para configuración de relleno
+title: "Interfaz IGradientFillSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings. Interfaz base para la configuración de relleno Gradient."
 type: docs
-weight: 2010
+weight: 2130
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings interface
 
-Interfaz base para configuración de relleno
+Interfaz base para la configuración de relleno de degradado.
 
 ```csharp
 public interface IGradientFillSettings : IFillSettings
@@ -18,22 +19,20 @@ public interface IGradientFillSettings : IFillSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [alinear con la capa]. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/) { get; set; } | Obtiene o establece un valor que indica si [align with layer]. |
 | [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle/) { get; set; } | Obtiene o establece el ángulo. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color/) { get; set; } | Obtiene o establece el color. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/) { get; set; } | Obtiene los puntos de color. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Obtiene o establece un valor que indica si este`IGradientFillSettings` es tramado. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/) { get; set; } | Obtiene o establece el nombre del gradiente. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Obtiene o establece el tipo de gradiente. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Obtiene o establece un valor que indica si este `IGradientFillSettings` tiene dithering. |
+| [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradient/) { get; set; } | Obtiene o establece una instancia de definición de degradado específica (Solid/Noise). |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Obtiene o establece el tipo del degradado. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset/) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/) { get; set; } | Obtiene o establece un valor que indica si este`IGradientFillSettings` es inversa. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/) { get; set; } | Obtiene o establece la escala. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/) { get; set; } | Obtiene los puntos de transparencia. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/interpolationmethod/) { get; set; } | Obtiene o establece el método de interpolación para el degradado. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/) { get; set; } | Obtiene o establece un valor que indica si este `IGradientFillSettings` está invertido. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/) { get; set; } | Obtiene o establece la escala de degradado **normalizada** (en porcentaje). |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset/) { get; set; } | Obtiene o establece el desplazamiento vertical. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con Gradient FillLayer y las opciones de edición de IGradientFillSettings.
+El siguiente ejemplo demuestra el soporte de Gradient FillLayer y las opciones de edición de IGradientFillSettings.
 
 ```csharp
 [C#]
@@ -52,7 +51,8 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
+            var solidGradient = (SolidGradient)settings.Gradient;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -60,14 +60,14 @@ using (im)
              settings.Reverse != false ||
              Math.Abs(settings.HorizontalOffset - (-39)) > 0.25 ||
              Math.Abs(settings.VerticalOffset - (-5)) > 0.25 ||
-             settings.TransparencyPoints.Length != 3 ||
-             settings.ColorPoints.Length != 2 ||
-             Math.Abs(100.0 - settings.TransparencyPoints[0].Opacity) > 0.25 ||
-             settings.TransparencyPoints[0].Location != 0 ||
-             settings.TransparencyPoints[0].MedianPointLocation != 50 ||
-             settings.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
-             settings.ColorPoints[0].Location != 0 ||
-             settings.ColorPoints[0].MedianPointLocation != 50)
+             solidGradient.TransparencyPoints.Length != 3 ||
+             solidGradient.ColorPoints.Length != 2 ||
+             Math.Abs(100.0 - solidGradient.TransparencyPoints[0].Opacity) > 0.25 ||
+             solidGradient.TransparencyPoints[0].Location != 0 ||
+             solidGradient.TransparencyPoints[0].MedianPointLocation != 50 ||
+             solidGradient.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+             solidGradient.ColorPoints[0].Location != 0 ||
+             solidGradient.ColorPoints[0].MedianPointLocation != 50)
             {
                 throw new Exception("Gradient Fill was not read correctly");
             }
@@ -77,8 +77,8 @@ using (im)
             settings.Reverse = true;
             settings.HorizontalOffset = 25;
             settings.VerticalOffset = -15;
-            var colorPoints = new List<IGradientColorPoint>(settings.ColorPoints);
-            var transparencyPoints = new List<IGradientTransparencyPoint>(settings.TransparencyPoints);
+            var colorPoints = new List<IGradientColorPoint>(solidGradient.ColorPoints);
+            var transparencyPoints = new List<IGradientTransparencyPoint>(solidGradient.TransparencyPoints);
             colorPoints.Add(new GradientColorPoint()
             {
                 Color = Color.Violet,
@@ -93,8 +93,8 @@ using (im)
                 MedianPointLocation = 25
             });
             transparencyPoints[2].Location = 3000;
-            settings.ColorPoints = colorPoints.ToArray();
-            settings.TransparencyPoints = transparencyPoints.ToArray();
+            solidGradient.ColorPoints = colorPoints.ToArray();
+            solidGradient.TransparencyPoints = transparencyPoints.ToArray();
             fillLayer.Update();
             im.Save(outputFile, new PsdOptions(im));
             break;
@@ -106,7 +106,7 @@ using (im)
 ### Ver también
 
 * interface [IFillSettings](../ifillsettings/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpBasicPackage método. Agrega la fecha de creación del recurso.
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpBasicPackage. Añade la fecha de creación del recurso"
 type: docs
-weight: 30
+weight: 50
 url: /es/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
 Agrega la fecha de creación del recurso.
@@ -14,15 +15,15 @@ Agrega la fecha de creación del recurso.
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | createdDate | DateTime | Fecha de creación. |
 
 ### Ver también
 
 * class [XmpBasicPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Agrega la fecha de creación del recurso.
 public void SetCreatedDate(string createdDate)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | createdDate | String | Fecha de creación. |
 
 ### Ver también
 
 * class [XmpBasicPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

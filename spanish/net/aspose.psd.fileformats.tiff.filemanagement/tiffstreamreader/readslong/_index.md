@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSLong
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Lee el valor entero con signo de la secuencia.
+title: "TiffStreamReader.ReadSLong"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee un valor entero con signo del flujo"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSLong method
 
-Lee el valor entero con signo de la secuencia.
+Lee un valor entero con signo del flujo.
 
 ```csharp
 public int ReadSLong(long position)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
+| posición | Int64 | La posición desde la cual leer. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Un valor entero con signo.
 
 ### Ver también
 
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

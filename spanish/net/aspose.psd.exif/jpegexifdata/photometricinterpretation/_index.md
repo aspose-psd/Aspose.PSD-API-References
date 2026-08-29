@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.PhotometricInterpretation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegExifData propiedad. Obtiene o establece la interpretación fotométrica.
+title: "JpegExifData.PhotometricInterpretation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad JpegExifData. Obtiene o establece la interpretación fotométrica"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.exif/jpegexifdata/photometricinterpretation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PhotometricInterpretation property
 
 Obtiene o establece la interpretación fotométrica.
@@ -14,14 +15,14 @@ Obtiene o establece la interpretación fotométrica.
 public ushort PhotometricInterpretation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La interpretación fotométrica.
 
 ### Ver también
 
 * class [JpegExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../jpegexifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

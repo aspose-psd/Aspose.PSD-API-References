@@ -1,11 +1,12 @@
 ---
-title: SmartResourceCreator.GenerateSmartEmbeddedResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartResourceCreator método. Genera el recurso de objeto inteligente incrustado.
+title: "SmartResourceCreator.GenerateSmartEmbeddedResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SmartResourceCreator. Genera el recurso incrustado de objeto inteligente"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartEmbeddedResource method
 
 Genera el recurso de objeto inteligente incrustado.
@@ -14,15 +15,15 @@ Genera el recurso de objeto inteligente incrustado.
 public SoLdResource GenerateSmartEmbeddedResource()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-lo generado[`SoLdResource`](../../soldresource/) instancia.
+La instancia generada de [`SoLdResource`](../../soldresource/).
 
 ### Ver también
 
 * class [SoLdResource](../../soldresource/)
 * class [SmartResourceCreator](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

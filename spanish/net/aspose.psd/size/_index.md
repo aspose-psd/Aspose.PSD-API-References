@@ -1,11 +1,12 @@
 ---
-title: Struct Size
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Size estructura. Representa el tamaño.
+title: "Estructura Size"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Estructura Aspose.PSD.Size. Representa el tamaño"
 type: docs
-weight: 5550
+weight: 6050
 url: /es/net/aspose.psd/size/
 ---
+{{< psd/tize >}}
 ## Size structure
 
 Representa el tamaño.
@@ -18,40 +19,40 @@ public struct Size
 
 | Nombre | Descripción |
 | --- | --- |
-| [Size](size/#constructor)(Point) | Inicializa una nueva instancia del`Size` estructura de lo especificado[`Point`](../point/) . |
-| [Size](size/#constructor_1)(int, int) | Inicializa una nueva instancia del`Size` estructura de las dimensiones especificadas. |
+| [Size](size/#constructor)(Point) | Inicializa una nueva instancia de la estructura `Size` a partir del [`Point`](../point/) especificado. |
+| [Size](size/#constructor_1)(int, int) | Inicializa una nueva instancia de la estructura `Size` a partir de las dimensiones especificadas. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| static [Empty](../../aspose.psd/size/empty/) { get; } | Obtiene una nueva instancia del`Size` estructura que tiene[`Width`](./width/) y[`Height`](./height/) valores establecidos en cero. |
-| [Height](../../aspose.psd/size/height/) { get; set; } | Obtiene o establece el componente vertical de este`Size` . |
-| [IsEmpty](../../aspose.psd/size/isempty/) { get; } | Obtiene un valor que indica si este`Size` tiene ancho y alto de 0. |
-| [Width](../../aspose.psd/size/width/) { get; set; } | Obtiene o establece el componente horizontal de este`Size` . |
+| static [Empty](../../aspose.psd/size/empty/) { get; } | Obtiene una nueva instancia de la estructura `Size` que tiene los valores de [`Width`](./width/) y [`Height`](./height/) establecidos en cero. |
+| [Height](../../aspose.psd/size/height/) { get; set; } | Obtiene o establece el componente vertical de este `Size`. |
+| [IsEmpty](../../aspose.psd/size/isempty/) { get; } | Obtiene un valor que indica si este `Size` tiene ancho y alto de 0. |
+| [Width](../../aspose.psd/size/width/) { get; set; } | Obtiene o establece el componente horizontal de este `Size`. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [Add](../../aspose.psd/size/add/)(Size, Size) | Suma el ancho y alto de uno`Size` estructura a la anchura y altura de otra`Size`estructura. |
-| static [Ceiling](../../aspose.psd/size/ceiling/)(SizeF) | Convierte el especificado[`SizeF`](../sizef/) estructura a un`Size` estructura redondeando los valores de la`Size` estructura a los siguientes valores enteros más altos. |
-| static [Round](../../aspose.psd/size/round/)(SizeF) | Convierte el especificado[`SizeF`](../sizef/) estructura a un`Size` estructura redondeando los valores de la[`SizeF`](../sizef/) estructura a los valores enteros más cercanos. |
-| static [Subtract](../../aspose.psd/size/subtract/)(Size, Size) | Resta el ancho y el alto de uno`Size` estructura de la anchura y la altura de otra`Size`estructura. |
-| static [Truncate](../../aspose.psd/size/truncate/)(SizeF) | Convierte el especificado[`SizeF`](../sizef/) estructura a un`Size` estructura truncando los valores de la[`SizeF`](../sizef/) estructura a los siguientes valores enteros más bajos. |
-| override [Equals](../../aspose.psd/size/equals/)(object) | Pruebas para ver si el objeto especificado es un`Size` con las mismas dimensiones que este`Size` . |
-| override [GetHashCode](../../aspose.psd/size/gethashcode/)() | Devuelve un código hash para este`Size`estructura. |
-| override [ToString](../../aspose.psd/size/tostring/)() | Crea una cadena legible por humanos que representa este`Size` . |
-| [operator +](../../aspose.psd/size/op_addition/) | Suma el ancho y alto de uno`Size` estructura a la anchura y altura de otra`Size`estructura. |
-| [operator ==](../../aspose.psd/size/op_equality/) | Comprueba si dos`Size` las estructuras son iguales. |
-| [explicit operator](../../aspose.psd/size/op_explicit/) | Convierte el especificado`Size` a un[`Point`](../point/) . |
-| [implicit operator](../../aspose.psd/size/op_implicit/) | Convierte el especificado`Size` a un[`SizeF`](../sizef/) . |
-| [operator !=](../../aspose.psd/size/op_inequality/) | Comprueba si dos`Size` las estructuras son diferentes. |
-| [operator -](../../aspose.psd/size/op_subtraction/) | Resta el ancho y el alto de uno`Size` estructura de la anchura y la altura de otra`Size`estructura. |
+| static [Add](../../aspose.psd/size/add/)(Size, Size) | Suma el ancho y alto de una estructura `Size` al ancho y alto de otra estructura `Size`. |
+| static [Ceiling](../../aspose.psd/size/ceiling/)(SizeF) | Convierte la estructura [`SizeF`](../sizef/) especificada a una estructura `Size` redondeando los valores de la estructura `Size` al siguiente entero mayor. |
+| static [Round](../../aspose.psd/size/round/)(SizeF) | Convierte la estructura [`SizeF`](../sizef/) especificada a una estructura `Size` redondeando los valores de la estructura [`SizeF`](../sizef/) al entero más cercano. |
+| static [Subtract](../../aspose.psd/size/subtract/)(Size, Size) | Resta el ancho y alto de una estructura `Size` del ancho y alto de otra estructura `Size`. |
+| static [Truncate](../../aspose.psd/size/truncate/)(SizeF) | Convierte la estructura [`SizeF`](../sizef/) especificada a una estructura `Size` truncando los valores de la estructura [`SizeF`](../sizef/) al siguiente entero inferior. |
+| override [Equals](../../aspose.psd/size/equals/)(object) | Comprueba si el objeto especificado es un `Size` con las mismas dimensiones que este `Size`. |
+| override [GetHashCode](../../aspose.psd/size/gethashcode/)() | Devuelve un código hash para esta estructura `Size`. |
+| override [ToString](../../aspose.psd/size/tostring/)() | Crea una cadena legible que representa este `Size`. |
+| [operator +](../../aspose.psd/size/op_addition/) | Suma el ancho y alto de una estructura `Size` al ancho y alto de otra estructura `Size`. |
+| [operator ==](../../aspose.psd/size/op_equality/) | Comprueba si dos estructuras `Size` son iguales. |
+| [explicit operator](../../aspose.psd/size/op_explicit/) | Convierte el `Size` especificado a un [`Point`](../point/). |
+| [implicit operator](../../aspose.psd/size/op_implicit/) | Convierte el `Size` especificado a un [`SizeF`](../sizef/). |
+| [operator !=](../../aspose.psd/size/op_inequality/) | Comprueba si dos estructuras `Size` son diferentes. |
+| [operator -](../../aspose.psd/size/op_subtraction/) | Resta el ancho y alto de una estructura `Size` del ancho y alto de otra estructura `Size`. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

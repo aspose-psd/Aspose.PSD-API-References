@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.VerticalOffset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GradientFillSettings propiedad. Obtiene o establece el desplazamiento vertical en porcentaje.
+title: "GradientFillSettings.VerticalOffset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GradientFillSettings. Obtiene o establece el desplazamiento vertical en porcentaje"
 type: docs
-weight: 140
+weight: 120
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.VerticalOffset property
 
 Obtiene o establece el desplazamiento vertical en porcentaje.
@@ -14,14 +15,14 @@ Obtiene o establece el desplazamiento vertical en porcentaje.
 public double VerticalOffset { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El desplazamiento vertical.
 
 ### Ver también
 
 * class [GradientFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class Time
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.Time clase. Representación de un valor de tiempo en segundos.
+title: "Clase Time"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Schemas.XmpDm.Time. Representación de un valor de tiempo en segundos"
 type: docs
-weight: 5880
+weight: 6380
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
+{{< psd/tize >}}
 ## Time class
 
 Representación de un valor de tiempo en segundos.
@@ -18,25 +19,25 @@ public sealed class Time : XmpTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [Time](time/)(Rational, int) | Inicializa una nueva instancia del`Time` clase. |
+| [Time](time/)(Rational, int) | Inicializa una nueva instancia de la clase `Time`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Obtiene o establece la escala para el valor de tiempo. |
+| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Obtiene o establece la escala del valor de tiempo. |
 | [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Obtiene o establece el valor de tiempo en la escala especificada. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator clase. Define la clase SmartResourceCreator que puede crear recursos PlLd SoLd y SoLe. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe Photoshop.
+title: "Clase SmartResourceCreator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator. Define la clase SmartResourceCreator que puede crear recursos PlLd, SoLd y SoLe. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe Photoshop."
 type: docs
-weight: 3000
+weight: 3350
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-Define la clase SmartResourceCreator que puede crear recursos PlLd, SoLd y SoLe. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe® Photoshop®.
+Define la clase SmartResourceCreator que puede crear recursos PlLd, SoLd y SoLe. Se usa para soportar capas de objetos inteligentes en las imágenes de Adobe® Photoshop®.
 
 ```csharp
 public class SmartResourceCreator
@@ -18,9 +19,9 @@ public class SmartResourceCreator
 
 | Nombre | Descripción |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | Inicializa una nueva instancia del`SmartResourceCreator` clase. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Inicializa una nueva instancia del`SmartResourceCreator` class con la plantilla dada. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Inicializa una nueva instancia del`SmartResourceCreator` clase. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | Inicializa una nueva instancia de la clase `SmartResourceCreator`. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Inicializa una nueva instancia de la clase `SmartResourceCreator` con la plantilla proporcionada. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Inicializa una nueva instancia de la clase `SmartResourceCreator`. |
 
 ## Métodos
 
@@ -30,9 +31,9 @@ public class SmartResourceCreator
 | [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Genera el recurso de objeto inteligente incrustado. |
 | [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Genera el recurso de objeto inteligente externo. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con los recursos SoLEResource, SmartObjectResource y PlacedResource.
+El siguiente código demuestra el soporte de los recursos SoLEResource, SmartObjectResource y PlacedResource.
 
 ```csharp
 [C#]
@@ -126,8 +127,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+    // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Esta identificación única debe cambiarse en las referencias, si las hay
+    // Este Unique Id debe cambiarse en las referencias, si las hay
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -164,15 +165,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     }
 
     // Tenga cuidado con algunos parámetros: la imagen guardada puede volverse ilegible para Adobe® Photoshop®
-    ////recurso.UOrder = 6;
-    ////recurso.VOrden = 9;
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // No cambie esto, de lo contrario no podrá usar la transformación libre
-    // o cambie el objeto inteligente subrayado al tipo de vector
-    ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+    // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+    // o cambie el objeto inteligente subyacente al tipo vector
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Debería haber un PlLdResource válido con este ID único
-    ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Debe haber un PlLdResource válido con este Unique Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -340,7 +342,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

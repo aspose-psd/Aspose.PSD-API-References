@@ -1,28 +1,29 @@
 ---
-title: FXidResource.FXidResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FXidResource constructor. Inicializa una nueva instancia delFXidResource clase.
+title: "FXidResource.FXidResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor FXidResource. Inicializa una nueva instancia de la clase FXidResource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource constructor
 
-Inicializa una nueva instancia del[`FXidResource`](../) clase.
+Inicializa una nueva instancia de la clase [`FXidResource`](../).
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | Int32 | La clave del recurso. |
+| clave | Int32 | La clave del recurso. |
 | version | Int32 | La versión. |
-| filterEffectMasks | FilterEffectMaskData[] | El efecto de filtro enmascara. |
+| filterEffectMasks | FilterEffectMaskData[] | Las máscaras de efecto de filtro. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra cómo obtener y establecer propiedades del recurso FXidResource.
+Este ejemplo muestra cómo obtener y establecer propiedades del recurso FXidResource.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -54,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// comprobar después de guardar
+// verificar después de guardar
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -71,7 +72,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

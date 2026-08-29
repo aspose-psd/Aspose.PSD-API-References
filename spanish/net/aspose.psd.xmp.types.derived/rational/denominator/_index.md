@@ -1,11 +1,12 @@
 ---
-title: Rational.Denominator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rational propiedad. Obtiene o establece el denominador.
+title: "Rational.Denominator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Rational. Obtiene o establece el denominador"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
 Obtiene o establece el denominador.
@@ -14,14 +15,14 @@ Obtiene o establece el denominador.
 public int Denominator { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El denominador.
 
 ### Ver también
 
 * class [Rational](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

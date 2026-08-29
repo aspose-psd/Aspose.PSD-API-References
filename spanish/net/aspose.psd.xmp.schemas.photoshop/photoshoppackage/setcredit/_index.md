@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCredit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhotoshopPackage método. Establece el crédito.
+title: "PhotoshopPackage.SetCredit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PhotoshopPackage método. Establece el crédito"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCredit method
 
 Establece el crédito.
@@ -14,14 +15,14 @@ Establece el crédito.
 public void SetCredit(string credit)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| credit | String | El credito. |
+| crédito | String | El crédito. |
 
 ### Ver también
 
 * class [PhotoshopPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

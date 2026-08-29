@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepNumerator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectResource propiedad. Obtiene o establece el numerador de pasos de cuadro.
+title: "SmartObjectResource.FrameStepNumerator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SmartObjectResource. Obtiene o establece el numerador del paso de fotogramas"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepNumerator property
 
-Obtiene o establece el numerador de pasos de cuadro.
+Obtiene o establece el numerador del paso de fotograma.
 
 ```csharp
 public int FrameStepNumerator { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El numerador de pasos de cuadro.
+El numerador del paso de fotogramas.
 
 ### Ver también
 
 * class [SmartObjectResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

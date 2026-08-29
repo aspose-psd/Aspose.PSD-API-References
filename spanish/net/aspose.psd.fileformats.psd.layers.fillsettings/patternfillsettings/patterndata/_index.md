@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PatternData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PatternFillSettings propiedad. Obtiene o establece los datos del patrón.
+title: "PatternFillSettings.PatternData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PatternFillSettings propiedad. Obtiene o establece los datos del patrón"
 type: docs
-weight: 60
+weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternData property
 
 Obtiene o establece los datos del patrón.
@@ -14,13 +15,13 @@ Obtiene o establece los datos del patrón.
 public int[] PatternData { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los datos del patrón.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con la edición de patrón de capa de relleno.
+El siguiente código demuestra el soporte de la edición del patrón de capa de relleno.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Edición 
+            // Editando 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Ver también
 
 * class [PatternFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

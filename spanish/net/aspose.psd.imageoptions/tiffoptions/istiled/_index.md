@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene un valor que indica si la imagen está en mosaico.
+title: "TiffOptions.IsTiled"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene un valor que indica si la imagen está en mosaico"
 type: docs
-weight: 240
+weight: 250
 url: /es/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
 Obtiene un valor que indica si la imagen está en mosaico.
@@ -14,14 +15,14 @@ Obtiene un valor que indica si la imagen está en mosaico.
 public bool IsTiled { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero`si la imagen está en mosaico; de lo contrario,`FALSO` .
+`true` si la imagen está en mosaico; de lo contrario, `false`.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

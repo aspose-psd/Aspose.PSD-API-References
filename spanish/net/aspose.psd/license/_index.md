@@ -1,11 +1,12 @@
 ---
-title: Class License
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.License clase. Proporciona métodos para licenciar el componente.
+title: "Clase License"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.License. Proporciona métodos para licenciar el componente."
 type: docs
-weight: 5050
+weight: 5540
 url: /es/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
 Proporciona métodos para licenciar el componente.
@@ -27,7 +28,7 @@ public class License
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | Licencia el componente. |
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | Licencia el componente. |
 
-### Ejemplos
+## Ejemplos
 
 En este ejemplo, se intentará encontrar un archivo de licencia llamado MyLicense.lic en la carpeta que contiene el componente, en la carpeta que contiene el ensamblado que llama, en la carpeta del ensamblado de entrada y luego en los recursos incrustados del ensamblado que llama.
 
@@ -46,7 +47,7 @@ License.SetLicense("MyLicense.lic")
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

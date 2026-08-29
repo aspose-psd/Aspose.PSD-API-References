@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Offset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PtFlResource propiedad. Obtiene o establece el desplazamiento.
+title: "PtFlResource.Offset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PtFlResource. Obtiene o establece el desplazamiento"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Offset property
 
 Obtiene o establece el desplazamiento.
@@ -14,11 +15,11 @@ Obtiene o establece el desplazamiento.
 public Point Offset { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El desplazamiento.
 
-### Ejemplos
+## Ejemplos
 
 El siguiente ejemplo demuestra el soporte de la carga y edición de un recurso PtFlResource.
 
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // No tenemos datos de patrones en PattResource, por lo que podemos agregarlos.
+                    // No tenemos datos de patrón en PattResource, así que podemos añadirlos.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -90,7 +91,7 @@ using (im)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PtFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

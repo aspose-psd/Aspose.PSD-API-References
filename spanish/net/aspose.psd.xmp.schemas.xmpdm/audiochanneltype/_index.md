@@ -1,11 +1,12 @@
 ---
-title: Class AudioChannelType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType clase. Representa el tipo de canal de audio.
+title: "Clase AudioChannelType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType. Representa el tipo de canal de audio"
 type: docs
-weight: 5840
+weight: 6340
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
+{{< psd/tize >}}
 ## AudioChannelType class
 
 Representa el tipo de canal de audio.
@@ -18,7 +19,7 @@ public sealed class AudioChannelType
 
 | Nombre | Descripción |
 | --- | --- |
-| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | Obtiene los 16 canales de audio. |
+| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | Obtiene el canal de audio 16. |
 | static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | Obtiene el canal de audio 5.1. |
 | static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | Obtiene el canal de audio 7.1. |
 | static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/) { get; } | Obtiene el canal de audio mono. |
@@ -29,11 +30,11 @@ public sealed class AudioChannelType
 
 | Nombre | Descripción |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

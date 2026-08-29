@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsOriginBoxCornersPresent
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeOriginSettings propiedad. Obtiene un valor que indica si esta instancia tiene la propiedad de esquinas del cuadro de origen.
+title: "VectorShapeOriginSettings.IsOriginBoxCornersPresent"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeOriginSettings. Obtiene un valor que indica si esta instancia tiene la propiedad de esquinas del cuadro de origen"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginBoxCornersPresent property
 
-Obtiene un valor que indica si esta instancia tiene la propiedad de esquinas del cuadro de origen.
+Obtiene un valor que indica si esta instancia tiene la propiedad de esquinas de la caja de origen.
 
 ```csharp
 public bool IsOriginBoxCornersPresent { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia tiene la propiedad de esquinas de la caja de origen; de lo contrario,`FALSO` .
+`true` si esta instancia tiene la propiedad de esquinas del cuadro de origen; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de cambiar el tamaño de las capas de una forma que contiene rutas vectoriales.
+El siguiente código demuestra la capacidad de redimensionar capas de forma que contienen rutas vectoriales.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 ### Ver también
 
 * class [VectorShapeOriginSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.Type
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LengthRecord propiedad. Obtiene el tipo.
+title: "LengthRecord.Type"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LengthRecord propiedad. Obtiene el tipo"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/
 ---
+{{< psd/tize >}}
 ## LengthRecord.Type property
 
 Obtiene el tipo.
@@ -14,7 +15,7 @@ Obtiene el tipo.
 public override VectorPathType Type { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo.
 
@@ -22,7 +23,7 @@ El tipo.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [LengthRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

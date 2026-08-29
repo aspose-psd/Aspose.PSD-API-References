@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerResourcesRegistry método. Obtiene el primer descriptor admitido por su nombre de tipo.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LayerResourcesRegistry. Obtiene el primer descriptor compatible por su nombre de tipo"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Obtiene el primer descriptor admitido por su nombre de tipo.
+Obtiene el primer descriptor compatible por su nombre de tipo.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string descriptorTypeName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | descriptorTypeName | String | El nombre del tipo de descriptor. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El primer descriptor de apertura encontrado o nulo si no se encuentra dicho descriptor.
+El primer descriptor de apertura encontrado o null si no se encuentra tal descriptor.
 
-### Observaciones
+## Observaciones
 
 El primer descriptor de apertura será en realidad el último registrado.
 
@@ -30,7 +31,7 @@ El primer descriptor de apertura será en realidad el último registrado.
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

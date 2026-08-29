@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetIdentifier
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpBasicPackage método. Establece el identificador.
+title: "XmpBasicPackage.SetIdentifier"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "XmpBasicPackage método. Establece el identificador"
 type: docs
-weight: 50
+weight: 70
 url: /es/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetIdentifier method
 
 Establece el identificador.
@@ -14,14 +15,14 @@ Establece el identificador.
 public void SetIdentifier(string[] idenfifier)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| idenfifier | String[] | El identificador. |
+| identificador | String[] | El identificador. |
 
 ### Ver también
 
 * class [XmpBasicPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.AlignWithLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PatternFillSettings propiedad. Obtiene o establece un valor que indica si enlace con capa.
+title: "PatternFillSettings.AlignWithLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PatternFillSettings propiedad. Obtiene o establece un valor que indica si está enlazado con la capa"
 type: docs
-weight: 10
+weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.AlignWithLayer property
 
-Obtiene o establece un valor que indica si [enlace con capa].
+Obtiene o establece un valor que indica si [link with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si [enlace con capa]; de lo contrario,`FALSO` .
+`true` si [enlace con la capa]; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con la edición de patrón de capa de relleno.
+El siguiente código demuestra el soporte de la edición del patrón de capa de relleno.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Edición 
+            // Editando 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Ver también
 
 * class [PatternFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

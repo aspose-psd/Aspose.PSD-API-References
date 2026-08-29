@@ -1,14 +1,15 @@
 ---
-title: Enum PixelFormat
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.PixelFormat enumeración. El significado real del formato de datos de píxeles.
+title: "Enumeración PixelFormat"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.PixelFormat enum. El significado real del formato de datos de píxel"
 type: docs
-weight: 5240
+weight: 5730
 url: /es/net/aspose.psd/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelFormat enumeration
 
-El significado real del formato de datos de píxeles.
+El significado real del formato de datos de píxel.
 
 ```csharp
 public enum PixelFormat
@@ -24,11 +25,11 @@ public enum PixelFormat
 | YCbCr | `3` | El espacio de color YCbCr. |
 | Cmyk | `4` | El espacio de color CMYK. |
 | Ycck | `5` | El espacio de color YCCK. |
-| CieLab | `6` | El espacio de color CIE lab. |
+| CieLab | `6` | El espacio de color CIE Lab. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

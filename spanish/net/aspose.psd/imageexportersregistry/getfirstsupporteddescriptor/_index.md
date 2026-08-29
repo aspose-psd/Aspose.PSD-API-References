@@ -1,32 +1,33 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageExportersRegistry método. Obtiene el primer descriptor admitido adecuado para las opciones de guardado y la imagen especificados.
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageExportersRegistry. Obtiene el primer descriptor compatible encontrado adecuado para las opciones de guardado y la imagen especificadas."
 type: docs
 weight: 40
 url: /es/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-Obtiene el primer descriptor admitido adecuado para las opciones de guardado y la imagen especificados.
+Obtiene el primer descriptor compatible encontrado que sea adecuado para las opciones de guardado e imagen especificadas.
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
     ImageOptionsBase options)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| image | Image | La imagen a exportar. |
-| options | ImageOptionsBase | Las opciones. |
+| imagen | Image | La imagen a exportar. |
+| opciones | ImageOptionsBase | Las opciones. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El descriptor del exportador que admite la imagen especificada y las opciones de guardado o nulo si no se encuentra dicho descriptor.
+El descriptor del exportador que admite la imagen y las opciones de guardado especificadas o null si no se encuentra dicho descriptor.
 
-### Observaciones
+## Observaciones
 
-El primer descriptor de exportador será en realidad el último registrado.
+El primer descriptor del exportador será en realidad el último registrado.
 
 ### Ver también
 
@@ -34,7 +35,7 @@ El primer descriptor de exportador será en realidad el último registrado.
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* espacio de nombres [Aspose.PSD](../../imageexportersregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

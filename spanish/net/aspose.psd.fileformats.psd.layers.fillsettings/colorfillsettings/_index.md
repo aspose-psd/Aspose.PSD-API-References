@@ -1,11 +1,12 @@
 ---
-title: Class ColorFillSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings clase. Configuración del efecto de relleno de color
+title: "Clase ColorFillSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings. Configuración del efecto de relleno de color"
 type: docs
-weight: 1930
+weight: 2040
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
 Configuración del efecto de relleno de color
@@ -14,6 +15,12 @@ Configuración del efecto de relleno de color
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## Constructores
+
+| Nombre | Descripción |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | El constructor predeterminado. |
+
 ## Propiedades
 
 | Nombre | Descripción |
@@ -21,9 +28,9 @@ public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Obtiene o establece el color. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | El tipo de relleno |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad de la capa de efecto de trazo con el tipo de relleno - Color.
+El siguiente código demuestra el soporte de la capa de efecto de trazo con tipo de relleno - Color.
 
 ```csharp
 [C#]
@@ -63,7 +70,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Archivo de prueba después de editar
+// Archivo de prueba después de la edición
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -82,7 +89,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

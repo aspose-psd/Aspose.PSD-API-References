@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineAlignment
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VstkResource propiedad. Obtiene o establece la alineación de línea de estilo de trazo.
+title: "VstkResource.StrokeStyleLineAlignment"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VstkResource property. Obtiene o establece la alineación de la línea del estilo de trazo"
 type: docs
-weight: 100
+weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineAlignment property
 
-Obtiene o establece la alineación de línea de estilo de trazo.
+Obtiene o establece la alineación de línea del estilo de trazo.
 
 ```csharp
 public StrokePosition StrokeStyleLineAlignment { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con el recurso VstkResource.
+El siguiente código demuestra el soporte del recurso VstkResource.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 * enum [StrokePosition](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeposition/)
 * class [VstkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

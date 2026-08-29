@@ -1,11 +1,12 @@
 ---
-title: Figure.Bounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Figure propiedad. Obtiene o establece los límites del objeto.
+title: "Figure.Bounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Figure. Obtiene o establece los límites del objeto"
 type: docs
 weight: 20
 url: /es/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
 Obtiene o establece los límites del objeto.
@@ -14,7 +15,7 @@ Obtiene o establece los límites del objeto.
 public override RectangleF Bounds { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los límites del objeto.
 
@@ -22,7 +23,7 @@ Los límites del objeto.
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* espacio de nombres [Aspose.PSD](../../figure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

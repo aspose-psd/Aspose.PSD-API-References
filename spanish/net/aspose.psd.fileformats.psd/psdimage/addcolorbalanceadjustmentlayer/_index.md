@@ -1,20 +1,21 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa de ajuste de balance de color.
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa de ajuste de balance de color"
 type: docs
-weight: 320
+weight: 330
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-Agrega la capa de ajuste de balance de color.
+Añade la capa de ajuste de balance de color.
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 Una capa de balance de color recién creada.
 
@@ -22,7 +23,7 @@ Una capa de balance de color recién creada.
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

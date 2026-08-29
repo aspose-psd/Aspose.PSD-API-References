@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.FaceMarkValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolStyleInfo propiedad. Obtiene o establece el valor de la marca facial.
+title: "TypeToolStyleInfo.FaceMarkValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolStyleInfo. Obtiene o establece el valor de la marca facial"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.FaceMarkValue property
 
-Obtiene o establece el valor de la marca facial.
+Obtiene o establece el valor de la marca de cara.
 
 ```csharp
 public short FaceMarkValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor de la marca facial.
 
 ### Ver también
 
 * class [TypeToolStyleInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

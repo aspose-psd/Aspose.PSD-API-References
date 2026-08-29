@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Copyright
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el copyright.
+title: "TiffOptions.Copyright"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece los derechos de autor"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.imageoptions/tiffoptions/copyright/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Copyright property
 
 Obtiene o establece el copyright.
@@ -14,14 +15,14 @@ Obtiene o establece el copyright.
 public string Copyright { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los derechos de autor.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

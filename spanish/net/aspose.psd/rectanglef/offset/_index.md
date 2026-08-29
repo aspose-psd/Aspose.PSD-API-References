@@ -1,11 +1,12 @@
 ---
-title: RectangleF.Offset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RectangleF método. Ajusta la ubicación de este rectángulo en la cantidad especificada.
+title: "RectangleF.Offset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RectangleF. Ajusta la ubicación de este rectángulo por la cantidad especificada"
 type: docs
 weight: 240
 url: /es/net/aspose.psd/rectanglef/offset/
 ---
+{{< psd/tize >}}
 ## Offset(PointF) {#offset}
 
 Ajusta la ubicación de este rectángulo en la cantidad especificada.
@@ -14,16 +15,16 @@ Ajusta la ubicación de este rectángulo en la cantidad especificada.
 public void Offset(PointF pos)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pos | PointF | La cantidad para compensar la ubicación. |
+| pos | PointF | La cantidad para desplazar la ubicación. |
 
 ### Ver también
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* espacio de nombres [Aspose.PSD](../../rectanglef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,15 +36,15 @@ Ajusta la ubicación de este rectángulo en la cantidad especificada.
 public void Offset(float x, float y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| x | Single | La cantidad para compensar la ubicación horizontalmente. |
-| y | Single | La cantidad para compensar la ubicación verticalmente. |
+| x | Single | La cantidad para desplazar la ubicación horizontalmente. |
+| y | Single | La cantidad para desplazar la ubicación verticalmente. |
 
 ### Ver también
 
 * struct [RectangleF](../)
-* espacio de nombres [Aspose.PSD](../../rectanglef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

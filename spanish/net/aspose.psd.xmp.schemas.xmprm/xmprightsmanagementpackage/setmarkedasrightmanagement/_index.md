@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetMarkedAsRightManagement
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpRightsManagementPackage método. Marca como contenido de gestión de derechos
+title: "XmpRightsManagementPackage.SetMarkedAsRightManagement"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpRightsManagementPackage. Marca como contenido de gestión de derechos"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetMarkedAsRightManagement method
 
 Marca como contenido de gestión de derechos
@@ -14,14 +15,14 @@ Marca como contenido de gestión de derechos
 public void SetMarkedAsRightManagement(bool value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | Boolean | si se establece en`verdadero`que este es un recurso con derechos gestionados. |
+| valor | Boolean | si se establece a `true` que este es un recurso gestionado por derechos. |
 
 ### Ver también
 
 * class [XmpRightsManagementPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

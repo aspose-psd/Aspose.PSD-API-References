@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.PixelDataFormat
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RawDataSettings propiedad. Obtiene o establece el formato de datos de píxeles
+title: "RawDataSettings.PixelDataFormat"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad RawDataSettings. Obtiene o establece el formato de datos de píxel"
 type: docs
 weight: 80
 url: /es/net/aspose.psd/rawdatasettings/pixeldataformat/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.PixelDataFormat property
 
 Obtiene o establece el formato de datos de píxeles
@@ -14,15 +15,15 @@ Obtiene o establece el formato de datos de píxeles
 public PixelDataFormat PixelDataFormat { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El formato de datos de píxeles
+El formato de datos de píxel
 
 ### Ver también
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RawDataSettings](../)
-* espacio de nombres [Aspose.PSD](../../rawdatasettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

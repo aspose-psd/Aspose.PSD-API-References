@@ -1,27 +1,28 @@
 ---
-title: Rectangle.IsEmpty
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rectangle propiedad. Obtiene un valor que indica si todas las propiedades numéricas de esteRectangle tener valores de cero.
+title: "Rectangle.IsEmpty"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Rectangle. Obtiene un valor que indica si todas las propiedades numéricas de este Rectangle tienen valores cero"
 type: docs
 weight: 130
 url: /es/net/aspose.psd/rectangle/isempty/
 ---
+{{< psd/tize >}}
 ## Rectangle.IsEmpty property
 
-Obtiene un valor que indica si todas las propiedades numéricas de este[`Rectangle`](../) tener valores de cero.
+Obtiene un valor que indica si todas las propiedades numéricas de este [`Rectangle`](../) tienen valores cero.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Esta propiedad devuelve verdadero si el[`Width`](../width/) ,[`Height`](../height/) ,[`X`](../x/) , y[`Y`](../y/) propiedades de este[`Rectangle`](../) todos tienen valores de cero; en caso contrario, falso.
+Esta propiedad devuelve true si las propiedades [`Width`](../width/), [`Height`](../height/), [`X`](../x/) y [`Y`](../y/) de este [`Rectangle`](../) tienen todas valores cero; de lo contrario, false.
 
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDOP
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el DOP GPS grado de precisión de los datos.
+title: "ExifData.GPSDOP"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el grado de precisión de los datos DOP GPS"
 type: docs
 weight: 490
 url: /es/net/aspose.psd.exif/exifdata/gpsdop/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDOP property
 
 Obtiene o establece el DOP GPS (grado de precisión de los datos).
@@ -14,15 +15,15 @@ Obtiene o establece el DOP GPS (grado de precisión de los datos).
 public TiffRational GPSDOP { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El GPS DOP (grado de precisión de los datos).
+El DOP GPS (grado de precisión de los datos).
 
 ### Ver también
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

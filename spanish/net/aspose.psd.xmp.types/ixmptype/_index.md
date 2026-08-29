@@ -1,14 +1,15 @@
 ---
-title: Interface IXmpType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.IXmpType interfaz. Interfaz base para tipo XMP.
+title: "Interfaz IXmpType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.Xmp.Types.IXmpType. Interfaz base para el tipo XMP"
 type: docs
-weight: 6190
+weight: 6690
 url: /es/net/aspose.psd.xmp.types/ixmptype/
 ---
+{{< psd/tize >}}
 ## IXmpType interface
 
-Interfaz base para tipo XMP.
+Interfaz base para el tipo XMP.
 
 ```csharp
 public interface IXmpType
@@ -18,11 +19,11 @@ public interface IXmpType
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

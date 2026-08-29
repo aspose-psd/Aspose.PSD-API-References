@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AddNoiseSmartFilter propiedad. Obtiene o establece la cantidad del valor de ruido.
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "AddNoiseSmartFilter propiedad. Obtiene o establece la cantidad del valor de ruido"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
 Obtiene o establece la cantidad del valor de ruido.
@@ -14,7 +15,7 @@ Obtiene o establece la cantidad del valor de ruido.
 public double AmountNoise { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
 Este ejemplo demuestra el soporte de la interfaz de filtros inteligentes.
 
@@ -39,13 +40,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // editar filtros inteligentes
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // comprobar los valores del filtro
+    // verificar valores del filtro
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // actualizar los valores del filtro
+    // actualizar valores del filtro
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -75,7 +76,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // comprobar los valores del filtro
+    // verificar valores del filtro
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Ver también
 
 * class [AddNoiseSmartFilter](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

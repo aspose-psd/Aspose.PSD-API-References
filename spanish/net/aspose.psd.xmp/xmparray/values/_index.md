@@ -1,14 +1,15 @@
 ---
-title: XmpArray.Values
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpArray propiedad. Obtiene una matriz de valores dentroXmpArray .
+title: "XmpArray.Values"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad XmpArray. Obtiene una matriz de valores dentro de XmpArray"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp/xmparray/values/
 ---
+{{< psd/tize >}}
 ## XmpArray.Values property
 
-Obtiene una matriz de valores dentro[`XmpArray`](../) .
+Obtiene una matriz de valores dentro de [`XmpArray`](../).
 
 ```csharp
 public string[] Values { get; }
@@ -17,7 +18,7 @@ public string[] Values { get; }
 ### Ver también
 
 * class [XmpArray](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmparray/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiHeader.TemplateBox
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiHeader propiedad. Obtiene o establece el cuadro de plantilla.
+title: "AiHeader.TemplateBox"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiHeader. Obtiene o establece la caja de plantilla"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
 Obtiene o establece el cuadro de plantilla.
@@ -14,7 +15,7 @@ Obtiene o establece el cuadro de plantilla.
 public RectangleF TemplateBox { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La caja de plantilla.
 
@@ -22,7 +23,7 @@ La caja de plantilla.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

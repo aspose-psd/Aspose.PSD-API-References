@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerGroup método. Agrega la capa al grupo de capas.
+title: "LayerGroup.AddLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LayerGroup. Añade la capa al grupo de capas"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
 Agrega la capa al grupo de capas.
@@ -14,13 +15,13 @@ Agrega la capa al grupo de capas.
 public void AddLayer(Layer layer)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| layer | Layer | La capa. |
+| capa | Capa | La capa. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede agregar imágenes Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif como capas a PsdImage
+El siguiente ejemplo muestra cómo puede agregar imágenes Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif como capas a PsdImage
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var image = new PsdImage(200, 200))
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Lr32Resource.Layers
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Lr32Resource propiedad. Obtiene o establece las capas.
+title: "Lr32Resource.Layers"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Lr32Resource propiedad. Obtiene o establece las capas"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Layers property
 
 Obtiene o establece las capas.
@@ -14,7 +15,7 @@ Obtiene o establece las capas.
 public Layer[] Layers { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las capas.
 
@@ -22,7 +23,7 @@ Las capas.
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [Lr32Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

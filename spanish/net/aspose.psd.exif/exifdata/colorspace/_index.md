@@ -1,11 +1,12 @@
 ---
-title: ExifData.ColorSpace
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el espacio de color.
+title: "ExifData.ColorSpace"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el espacio de color"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.exif/exifdata/colorspace/
 ---
+{{< psd/tize >}}
 ## ExifData.ColorSpace property
 
 Obtiene o establece el espacio de color.
@@ -14,7 +15,7 @@ Obtiene o establece el espacio de color.
 public ExifColorSpace ColorSpace { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El espacio de color.
 
@@ -22,7 +23,7 @@ El espacio de color.
 
 * enum [ExifColorSpace](../../../aspose.psd.exif.enums/exifcolorspace/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

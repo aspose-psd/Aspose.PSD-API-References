@@ -1,14 +1,15 @@
 ---
-title: Class CgEdResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource clase. Clase CgEdResource. Datos adicionales del generador de contenido Photoshop CS5
+title: "Clase CgEdResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource. Clase CgEdResource. Datos extra del generador de contenido Photoshop CS5"
 type: docs
-weight: 2350
+weight: 2610
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource class
 
-Clase CgEdResource. Datos adicionales del generador de contenido (Photoshop CS5)
+Clase CgEdResource. Datos extra del generador de contenido (Photoshop CS5)
 
 ```csharp
 public class CgEdResource : AdjustmentLayerResource
@@ -18,22 +19,22 @@ public class CgEdResource : AdjustmentLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [CgEdResource](cgedresource/)() | Constructor predeterminado |
+| [CgEdResource](cgedresource/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | Obtiene o establece un valor que indica si este`CgEdResource` es automático. |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | Obtiene o establece un valor que indica si este `CgEdResource` es automático. |
 | [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | Obtiene o establece el brillo. |
 | [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | Obtiene o establece el contraste. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | Obtiene o establece un valor que indica si se usa [color de laboratorio]. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | Obtiene o establece el valor medio de brillo y contraste. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtiene la firma. |
-| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | Obtiene o establece un valor que indica si [usar legado]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | Obtiene o establece un valor que indica si se usa [lab color]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | Obtiene o establece el valor medio para el brillo y el contraste. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | Obtiene o establece un valor que indica si se [use legacy]. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | Obtiene o establece la versión. |
 
 ## Métodos
@@ -41,7 +42,7 @@ public class CgEdResource : AdjustmentLayerResource
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -53,7 +54,7 @@ public class CgEdResource : AdjustmentLayerResource
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

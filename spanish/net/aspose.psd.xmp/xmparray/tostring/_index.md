@@ -1,27 +1,28 @@
 ---
-title: XmpArray.ToString
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpArray método. Devuelve unString que representa esta instancia.
+title: "XmpArray.ToString"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpArray. Devuelve una cadena que representa esta instancia"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.xmp/xmparray/tostring/
 ---
+{{< psd/tize >}}
 ## XmpArray.ToString method
 
-Devuelve unString que representa esta instancia.
+Devuelve una String que representa esta instancia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-AString que representa esta instancia.
+Una String que representa esta instancia.
 
 ### Ver también
 
 * class [XmpArray](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmparray/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

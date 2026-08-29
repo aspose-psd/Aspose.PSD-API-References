@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Mode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MultiPageOptions propiedad. Obtiene o establece el modo.
+title: "MultiPageOptions.Mode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad MultiPageOptions. Obtiene o establece el modo"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.imageoptions/multipageoptions/mode/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Mode property
 
 Obtiene o establece el modo.
@@ -14,7 +15,7 @@ Obtiene o establece el modo.
 public MultiPageMode Mode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El modo.
 
@@ -22,7 +23,7 @@ El modo.
 
 * enum [MultiPageMode](../../multipagemode/)
 * class [MultiPageOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

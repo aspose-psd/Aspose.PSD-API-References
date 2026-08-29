@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSByteArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamWriter método. Escribe una matriz de valores de bytes firmados en la secuencia.
+title: "TiffStreamWriter.WriteSByteArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamWriter. Escribe una matriz de valores signed byte en el flujo"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByteArray method
 
-Escribe una matriz de valores de bytes firmados en la secuencia.
+Escribe una matriz de valores de byte con signo al flujo.
 
 ```csharp
 public void WriteSByteArray(sbyte[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | SByte[] | La matriz a escribir. |
+| datos | SByte[] | La matriz a escribir. |
 
 ### Ver también
 
 * class [TiffStreamWriter](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

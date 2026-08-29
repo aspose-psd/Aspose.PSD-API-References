@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.UnitType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: UnitStructure propiedad. Obtiene o establece el tipo de unidad.
+title: "UnitStructure.UnitType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad UnitStructure. Obtiene o establece el tipo de unidad"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitStructure.UnitType property
 
 Obtiene o establece el tipo de unidad.
@@ -14,7 +15,7 @@ Obtiene o establece el tipo de unidad.
 public UnitTypes UnitType { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de unidad.
 
@@ -22,7 +23,7 @@ El tipo de unidad.
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

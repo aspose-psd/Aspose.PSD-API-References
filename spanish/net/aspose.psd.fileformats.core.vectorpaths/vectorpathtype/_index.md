@@ -1,14 +1,15 @@
 ---
-title: Enum VectorPathType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType enumeración. Tipo de ruta de vector según la especificación de formato PSD
+title: "Enumeración VectorPathType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType. Tipo de ruta vectorial según la especificación del formato PSD"
 type: docs
-weight: 1420
+weight: 1430
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-Tipo de ruta de vector según la especificación de formato PSD
+Tipo de ruta vectorial según la especificación del formato PSD
 
 ```csharp
 public enum VectorPathType : short
@@ -18,19 +19,19 @@ public enum VectorPathType : short
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| ClosedSubpathLengthRecord | `0` | La longitud del subtrayecto cerrado record |
-| ClosedSubpathBezierKnotLinked | `1` | El nudo bezier del subtrayecto cerrado vinculado |
-| ClosedSubpathBezierKnotUnlinked | `2` | El nudo bezier del subtrayecto cerrado unlinked |
-| OpenSubpathLengthRecord | `3` | La longitud del subtrayecto abierto record |
-| OpenSubpathBezierKnotLinked | `4` | El nudo bezier del subtrayecto abierto vinculado |
-| OpenSubpathBezierKnotUnlinked | `5` | El nudo bezier del subtrayecto abierto unlinked |
-| PathFillRuleRecord | `6` | La regla de relleno de ruta record |
+| ClosedSubpathLengthRecord | `0` | Registro de longitud del subtrazo cerrado |
+| ClosedSubpathBezierKnotLinked | `1` | Nudo bezier del subtrazo cerrado enlazado |
+| ClosedSubpathBezierKnotUnlinked | `2` | Nudo bezier del subtrazo cerrado sin enlazar |
+| OpenSubpathLengthRecord | `3` | El registro de longitud del subtrayecto abierto |
+| OpenSubpathBezierKnotLinked | `4` | El nudo Bézier del subtrayecto abierto enlazado |
+| OpenSubpathBezierKnotUnlinked | `5` | El nudo Bézier del subtrayecto abierto desenlazado |
+| PathFillRuleRecord | `6` | El registro de regla de relleno de ruta |
 | ClipboardRecord | `7` | El registro del portapapeles |
-| InitialFillRuleRecord | `8` | La regla de llenado inicial record |
+| InitialFillRuleRecord | `8` | El registro de regla de relleno inicial |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: UnitArrayStructure propiedad. Obtiene el valor contador.
+title: "UnitArrayStructure.ValueCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de UnitArrayStructure. Obtiene el recuento de valores"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-Obtiene el valor contador.
+Obtiene la cantidad de valores.
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El recuento de valores en la estructura de matriz de unidades.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con las firmas ObAr y UnFl.
+El siguiente código demuestra el soporte de las firmas ObAr y UnFl.
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [UnitArrayStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

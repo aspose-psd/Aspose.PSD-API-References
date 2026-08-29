@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Types
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene clases que representan los valores de las propiedades XMP en tres categorías básicas tipos básicos tipos complejos y derivados.
+title: "Aspose.PSD.Xmp.Types"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene clases que representan los valores de las propiedades XMP en tres categorías básicas: tipos básicos, complejos y tipos derivados."
 type: docs
-weight: 600
+weight: 640
 url: /es/net/aspose.psd.xmp.types/
 ---
-El espacio de nombres contiene clases que representan los valores de las propiedades XMP en tres categorías básicas: tipos básicos, tipos complejos y derivados.
+{{< psd/tize >}}
+El espacio de nombres contiene clases que representan los valores de las propiedades XMP en tres categorías básicas: tipos básicos, complejos y derivados.
 
 ## Clases
 
@@ -17,6 +18,6 @@ El espacio de nombres contiene clases que representan los valores de las propied
 
 | Interfaz | Descripción |
 | --- | --- |
-| [IXmpType](./ixmptype/) | Interfaz base para tipo XMP. |
+| [IXmpType](./ixmptype/) | Interfaz base para el tipo XMP. |
 
 

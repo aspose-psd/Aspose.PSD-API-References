@@ -1,27 +1,28 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DataMissmatchError constructor. Inicializa una nueva instancia delDataMissmatchError clase.
+title: "DataMissmatchError.DataMissmatchError"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de DataMissmatchError. Inicializa una nueva instancia de la clase DataMissmatchError"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError constructor
 
-Inicializa una nueva instancia del[`DataMissmatchError`](../) clase.
+Inicializa una nueva instancia de la clase [`DataMissmatchError`](../).
 
 ```csharp
 public DataMissmatchError(string message)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | message | String | El mensaje que describe el error. |
 
 ### Ver también
 
 * class [DataMissmatchError](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

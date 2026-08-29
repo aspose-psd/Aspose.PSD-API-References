@@ -1,11 +1,12 @@
 ---
-title: Enum ResourceBlock.ResourceBlockState
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState enumeración. Representa el estado del bloque de recursos.
+title: "Enumeración ResourceBlock.ResourceBlockState"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState. Representa el estado del bloque de recursos."
 type: docs
-weight: 3620
+weight: 4080
 url: /es/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResourceBlockState enumeration
 
 Representa el estado del bloque de recursos.
@@ -24,7 +25,7 @@ public enum ResourceBlockState
 ### Ver también
 
 * class [ResourceBlock](../resourceblock/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

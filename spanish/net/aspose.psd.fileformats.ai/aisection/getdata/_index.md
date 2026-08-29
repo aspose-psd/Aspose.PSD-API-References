@@ -1,27 +1,28 @@
 ---
-title: AiSection.GetData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiSection método. Obtiene los datos de la cadena.
+title: "AiSection.GetData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método AiSection. Obtiene los datos de cadena"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.ai/aisection/getdata/
 ---
+{{< psd/tize >}}
 ## AiSection.GetData method
 
-Obtiene los datos de la cadena.
+Obtiene los datos de cadena.
 
 ```csharp
 public string GetData()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-La cadena de datos de la sección
+Los datos de cadena de la sección
 
 ### Ver también
 
 * class [AiSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aisection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

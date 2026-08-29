@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PattResourceData método. Guarda los datos del patrón.
+title: "PattResourceData.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PattResourceData. Guarda los datos del patrón."
 type: docs
 weight: 100
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Save method
 
 Guarda los datos del patrón.
@@ -14,15 +15,15 @@ Guarda los datos del patrón.
 public void Save(StreamContainer streamContainer)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| streamContainer | StreamContainer | El contenedor de secuencias en el que guardar. |
+| streamContainer | StreamContainer | El contenedor de flujo donde guardar. |
 
 ### Ver también
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResourceData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

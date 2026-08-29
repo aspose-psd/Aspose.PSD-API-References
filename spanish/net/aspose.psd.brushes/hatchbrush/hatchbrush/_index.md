@@ -1,14 +1,15 @@
 ---
-title: HatchBrush.HatchBrush
-second_title: Referencia de API de Aspose.PSD para .NET
-description: HatchBrush constructor. Constructor predeterminado
+title: "HatchBrush.HatchBrush"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor HatchBrush. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.brushes/hatchbrush/hatchbrush/
 ---
+{{< psd/tize >}}
 ## HatchBrush constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public HatchBrush()
@@ -17,7 +18,7 @@ public HatchBrush()
 ### Ver también
 
 * class [HatchBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../hatchbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

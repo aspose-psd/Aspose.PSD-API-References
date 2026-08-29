@@ -1,14 +1,15 @@
 ---
-title: Class ImageResizeSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageResizeSettings clase. Configuración de cambio de tamaño de imagen class
+title: "Clase ImageResizeSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ImageResizeSettings. Clase de configuración de redimensionamiento de imágenes"
 type: docs
-weight: 5000
+weight: 5490
 url: /es/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-Configuración de cambio de tamaño de imagen class
+Clase de configuración de redimensionamiento de imagen
 
 ```csharp
 public class ImageResizeSettings
@@ -18,21 +19,21 @@ public class ImageResizeSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| [ImageResizeSettings](imageresizesettings/)() | Constructor predeterminado |
+| [ImageResizeSettings](imageresizesettings/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | Obtiene o establece el método de comparación de colores. |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Obtiene o establece el método de cuantificación de color. |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Obtiene o establece el método de cuantización de colores. |
 | [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Obtiene o establece el recuento de entradas |
 | [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Obtiene o establece el tipo de filtro. |
 | [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Obtiene o establece el modo de interpolación. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

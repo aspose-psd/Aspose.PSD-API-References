@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SplitStreamContainer método. Inserta el contenedor de flujo en la posición especificada.
+title: "SplitStreamContainer.Insert"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SplitStreamContainer. Inserta el contenedor de flujo en la posición especificada."
 type: docs
 weight: 100
 url: /es/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
 Inserta el contenedor de flujo en la posición especificada.
@@ -14,11 +15,11 @@ Inserta el contenedor de flujo en la posición especificada.
 public void Insert(int position, StreamContainer stream, bool disposeStream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int32 | La posición para insertar. |
-| stream | StreamContainer | El contenedor de flujo para insertar. |
-| disposeStream | Boolean | si se establece en`verdadero` dispone corriente. |
+| posición | Int32 | La posición donde insertar. |
+| flujo | StreamContainer | El contenedor de flujo a insertar. |
+| disposeStream | Boolean | si se establece a `true` libera el flujo. |
 
 ### Excepciones
 
@@ -30,7 +31,7 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../splitstreamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

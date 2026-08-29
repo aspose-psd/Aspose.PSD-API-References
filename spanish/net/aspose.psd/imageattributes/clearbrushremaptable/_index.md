@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageAttributes método. Borra la tabla de reasignación de color del pincel de esteImageAttributes objeto.
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageAttributes. Elimina la tabla de remapeo de color del pincel de este objeto ImageAttributes."
 type: docs
 weight: 20
 url: /es/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-Borra la tabla de reasignación de color del pincel de este[`ImageAttributes`](../) objeto.
+Elimina la tabla de remapeo de color del pincel de este objeto [`ImageAttributes`](../).
 
 ```csharp
 public void ClearBrushRemapTable()
@@ -17,7 +18,7 @@ public void ClearBrushRemapTable()
 ### Ver también
 
 * class [ImageAttributes](../)
-* espacio de nombres [Aspose.PSD](../../imageattributes/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

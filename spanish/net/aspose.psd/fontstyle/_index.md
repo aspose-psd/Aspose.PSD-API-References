@@ -1,11 +1,12 @@
 ---
-title: Enum FontStyle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FontStyle enumeración. Especifica la información de estilo aplicada al texto.
+title: "Enumeración FontStyle."
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FontStyle. Especifica la información de estilo aplicada al texto."
 type: docs
-weight: 4300
+weight: 4770
 url: /es/net/aspose.psd/fontstyle/
 ---
+{{< psd/tize >}}
 ## FontStyle enumeration
 
 Especifica la información de estilo aplicada al texto.
@@ -27,7 +28,7 @@ public enum FontStyle
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

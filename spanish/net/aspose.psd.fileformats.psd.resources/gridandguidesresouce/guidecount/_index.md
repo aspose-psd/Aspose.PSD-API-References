@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GuideCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GridAndGuidesResouce propiedad. Obtiene el recuento de bloques de recursos de la guía.
+title: "GridAndGuidesResouce.GuideCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GridAndGuidesResouce. Obtiene el recuento de bloques de recursos de guía"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GuideCount property
 
-Obtiene el recuento de bloques de recursos de la guía.
+Obtiene el recuento de bloques de recurso de guía.
 
 ```csharp
 public int GuideCount { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los bloques de recursos de la guía cuentan.
+El recuento de bloques de recursos de guía.
 
 ### Ver también
 
 * class [GridAndGuidesResouce](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

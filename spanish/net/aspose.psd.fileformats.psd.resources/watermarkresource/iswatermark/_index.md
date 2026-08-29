@@ -1,11 +1,12 @@
 ---
-title: WatermarkResource.IsWatermark
-second_title: Referencia de API de Aspose.PSD para .NET
-description: WatermarkResource propiedad. Obtiene o establece un valor que indica si esta instancia es una marca de agua.
+title: "WatermarkResource.IsWatermark"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad WatermarkResource. Obtiene o establece un valor que indica si esta instancia es una marca de agua"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.IsWatermark property
 
 Obtiene o establece un valor que indica si esta instancia es una marca de agua.
@@ -14,14 +15,14 @@ Obtiene o establece un valor que indica si esta instancia es una marca de agua.
 public bool IsWatermark { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia es una marca de agua; de lo contrario,`FALSO` .
+`true` si esta instancia es una marca de agua; de lo contrario, `false`.
 
 ### Ver también
 
 * class [WatermarkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

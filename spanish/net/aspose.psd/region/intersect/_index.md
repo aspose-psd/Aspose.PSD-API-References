@@ -1,90 +1,91 @@
 ---
-title: Region.Intersect
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Region método. Actualiza estoRegion a la intersección de sí mismo con el especificadoRectangleFestructura.
+title: "Region.Intersect"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Region. Actualiza este Region a la intersección de sí mismo con la estructura RectangleF especificada"
 type: docs
-weight: 60
+weight: 70
 url: /es/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-Actualiza esto[`Region`](../) a la intersección de sí mismo con el especificado[`RectangleF`](../../rectanglef/)estructura.
+Actualiza este [`Region`](../) a la intersección de sí mismo con la estructura [`RectangleF`](../../rectanglef/) especificada.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | RectangleF | El[`RectangleF`](../../rectanglef/) estructura para cruzarse con esta[`Region`](../). |
+| rect | RectangleF | La estructura [`RectangleF`](../../rectanglef/) para intersectar con este [`Region`](../). |
 
 ### Ver también
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-Actualiza esto[`Region`](../) a la intersección de sí mismo con el especificado[`Rectangle`](../../rectangle/)estructura.
+Actualiza este [`Region`](../) a la intersección de sí mismo con la estructura [`Rectangle`](../../rectangle/) especificada.
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El[`Rectangle`](../../rectangle/) estructura para cruzarse con esta[`Region`](../). |
+| rect | Rectangle | La estructura [`Rectangle`](../../rectangle/) para intersectar con este [`Region`](../). |
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-Actualiza esto[`Region`](../) a la intersección de sí mismo con el especificado[`GraphicsPath`](../../graphicspath/) .
+Actualiza este [`Region`](../) a la intersección de sí mismo con el [`GraphicsPath`](../../graphicspath/) especificado.
 
 ```csharp
 public void Intersect(GraphicsPath path)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| path | GraphicsPath | El[`GraphicsPath`](../../graphicspath/) cruzarse con esto[`Region`](../). |
+| path | GraphicsPath | El [`GraphicsPath`](../../graphicspath/) para intersectar con este [`Region`](../). |
 
 ### Ver también
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-Actualiza esto[`Region`](../) a la intersección de sí mismo con el especificado[`Region`](../) .
+Actualiza este [`Region`](../) a la intersección de sí mismo con el [`Region`](../) especificado.
 
 ```csharp
 public void Intersect(Region region)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| region | Region | El[`Region`](../) cruzarse con esto[`Region`](../). |
+| region | Region | El [`Region`](../) para intersectar con este [`Region`](../). |
 
 ### Ver también
 
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

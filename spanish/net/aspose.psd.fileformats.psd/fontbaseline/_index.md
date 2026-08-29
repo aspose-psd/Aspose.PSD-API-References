@@ -1,14 +1,15 @@
 ---
-title: Enum FontBaseline
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.FontBaseline enumeración. Esta es la fuente de referencia.
+title: "Enum FontBaseline"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.FontBaseline enum. Esta es la línea base de la fuente"
 type: docs
-weight: 1630
+weight: 1670
 url: /es/net/aspose.psd.fileformats.psd/fontbaseline/
 ---
+{{< psd/tize >}}
 ## FontBaseline enumeration
 
-Esta es la fuente de referencia.
+Esta es la línea base de la fuente.
 
 ```csharp
 public enum FontBaseline
@@ -18,13 +19,13 @@ public enum FontBaseline
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| None | `0` | Sin valor de referencia |
-| Superscript | `1` | Superíndice línea base. |
+| None | `0` | Sin valor de línea base |
+| Superscript | `1` | Línea base de superíndice. |
 | Subscript | `2` | Línea base de subíndice. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

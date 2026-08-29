@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.GUID
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FilterEffectMaskData propiedad. Obtiene el GUID.
+title: "FilterEffectMaskData.GUID"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FilterEffectMaskData. Obtiene el GUID"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.GUID property
 
 Obtiene el GUID.
@@ -14,9 +15,9 @@ Obtiene el GUID.
 public string GUID { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra cómo obtener y establecer propiedades del recurso FXidResource.
+Este ejemplo muestra cómo obtener y establecer propiedades del recurso FXidResource.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -48,7 +49,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// comprobar después de guardar
+// verificar después de guardar
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -64,7 +65,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 ### Ver también
 
 * class [FilterEffectMaskData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

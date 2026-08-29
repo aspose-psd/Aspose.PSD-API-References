@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.SetRgbColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhflResourceVersion2 método. Establece el color RGB.
+title: "PhflResourceVersion2.SetRgbColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PhflResourceVersion2. Establece el color RGB"
 type: docs
-weight: 120
+weight: 100
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.SetRgbColor method
 
 Establece el color RGB.
@@ -14,7 +15,7 @@ Establece el color RGB.
 public override void SetRgbColor(Color color)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | color | Color | El color. |
 
@@ -22,7 +23,7 @@ public override void SetRgbColor(Color color)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion2](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

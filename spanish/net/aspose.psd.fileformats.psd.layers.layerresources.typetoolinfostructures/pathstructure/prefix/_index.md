@@ -1,24 +1,25 @@
 ---
-title: PathStructure.Prefix
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PathStructure propiedad. Obtiene o establece el prefijo de ruta.
+title: "PathStructure.Prefix"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PathStructure. Obtiene o establece el prefijo de la ruta"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/
 ---
+{{< psd/tize >}}
 ## PathStructure.Prefix property
 
-Obtiene o establece el prefijo de ruta.
+Obtiene o establece el prefijo de la ruta.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La ruta completa.
 
-### Ejemplos
+## Ejemplos
 
 El siguiente código demuestra la capacidad de cargar un archivo con la estructura PathStructure.
 
@@ -37,7 +38,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Ver también
 
 * class [PathStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.SmartObjectProvider
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage propiedad. Obtiene el proveedor de objetos inteligentes.
+title: "PsdImage.SmartObjectProvider"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de PsdImage. Obtiene el proveedor de objetos inteligentes."
 type: docs
 weight: 240
 url: /es/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## PsdImage.SmartObjectProvider property
 
 Obtiene el proveedor de objetos inteligentes.
@@ -14,15 +15,15 @@ Obtiene el proveedor de objetos inteligentes.
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El proveedor de objetos inteligentes.
+El proveedor de objeto inteligente.
 
 ### Ver también
 
 * class [SmartObjectProvider](../../smartobjectprovider/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

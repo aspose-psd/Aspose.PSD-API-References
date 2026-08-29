@@ -1,14 +1,15 @@
 ---
-title: Enum ExifExposureProgram
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Exif.Enums.ExifExposureProgram enumeración. exif exposición programa enum.
+title: "Enumeración ExifExposureProgram"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Exif.Enums.ExifExposureProgram enumeración. enumeración de programa de exposición exif"
 type: docs
-weight: 840
+weight: 850
 url: /es/net/aspose.psd.exif.enums/exifexposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifExposureProgram enumeration
 
-exif exposición programa enum.
+enumeración de programa de exposición exif.
 
 ```csharp
 public enum ExifExposureProgram
@@ -22,7 +23,7 @@ public enum ExifExposureProgram
 | Manual | `1` | Programa manual. |
 | Auto | `2` | Exposición automática. |
 | Aperturepriority | `3` | Prioridad de apertura. |
-| Shutterpriority | `4` | Prioridad de obturador. |
+| Shutterpriority | `4` | Prioridad de obturación. |
 | Creativeprogram | `5` | Programa creativo. |
 | Actionprogram | `6` | Programa de acción. |
 | Portraitmode | `7` | Modo retrato. |
@@ -30,7 +31,7 @@ public enum ExifExposureProgram
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

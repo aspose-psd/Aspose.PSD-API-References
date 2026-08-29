@@ -1,14 +1,15 @@
 ---
-title: Enum JpegLoadException.ErrorReason
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason enumeración. Representa las razones del error.
+title: "Enumeración JpegLoadException.ErrorReason"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason. Representa las causas del error"
 type: docs
 weight: 560
 url: /es/net/aspose.psd.coreexceptions.imageformats/jpegloadexception.errorreason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.ErrorReason enumeration
 
-Representa las razones del error.
+Representa las causas del error.
 
 ```csharp
 public enum ErrorReason
@@ -19,12 +20,12 @@ public enum ErrorReason
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
 | BasicError | `0` | El tipo de error básico. |
-| NotEnoughData | `1` | No hay suficientes datos en la secuencia. |
+| NotEnoughData | `1` | No hay suficientes datos en el flujo. |
 
 ### Ver también
 
 * class [JpegLoadException](../jpegloadexception/)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

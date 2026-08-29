@@ -1,14 +1,15 @@
 ---
-title: Class ColorBlendExtensions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Extensions.ColorBlendExtensions clase. ContieneColorBlend métodos de extensión.
+title: "Clase ColorBlendExtensions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Extensions.ColorBlendExtensions. Contiene métodos de extensión de ColorBlend"
 type: docs
-weight: 1040
+weight: 1050
 url: /es/net/aspose.psd.extensions/colorblendextensions/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions class
 
-Contiene[`ColorBlend`](../../aspose.psd/colorblend/) métodos de extensión.
+Contiene métodos de extensión de [`ColorBlend`](../../aspose.psd/colorblend/).
 
 ```csharp
 public static class ColorBlendExtensions
@@ -18,11 +19,11 @@ public static class ColorBlendExtensions
 
 | Nombre | Descripción |
 | --- | --- |
-| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Convierte el[`ColorBlend`](../../aspose.psd/colorblend/) aColorBlend . |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Convierte el [`ColorBlend`](../../aspose.psd/colorblend/) a ColorBlend. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

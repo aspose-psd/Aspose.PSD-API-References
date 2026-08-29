@@ -1,11 +1,12 @@
 ---
-title: LayerGroupInformationResource.Groups
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerGroupInformationResource propiedad. Obtiene o establece los grupos.
+title: "LayerGroupInformationResource.Groups"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LayerGroupInformationResource. Obtiene o establece los grupos"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/groups/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource.Groups property
 
 Obtiene o establece los grupos.
@@ -14,14 +15,14 @@ Obtiene o establece los grupos.
 public short[] Groups { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los grupos.
 
 ### Ver también
 
 * class [LayerGroupInformationResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

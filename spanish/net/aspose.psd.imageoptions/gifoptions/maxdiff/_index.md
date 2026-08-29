@@ -1,14 +1,15 @@
 ---
-title: GifOptions.MaxDiff
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GifOptions propiedad. Obtiene o establece la diferencia de píxeles máxima permitida. Si es mayor que cero se usará compresión con pérdida. El valor recomendado para una compresión con pérdida óptima es 80. 30 es una compresión muy ligera 200 es pesada. Funciona mejor cuando se introduce poca pérdida y debido a la limitación del algoritmo de compresión niveles de pérdida muy altos no darán tanta ganancia. El rango de valores permitidos es 0 1000.
+title: "GifOptions.MaxDiff"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GifOptions. Obtiene o establece la diferencia máxima de píxeles permitida. Si es mayor que cero se utilizará compresión con pérdida. El valor recomendado para una compresión con pérdida óptima es 80. 30 es compresión muy ligera, 200 es pesada. Funciona mejor cuando solo se introduce poca pérdida y, debido a la limitación del algoritmo de compresión, niveles de pérdida muy altos no proporcionan tanto beneficio. El rango de valores permitidos es 0‑1000."
 type: docs
 weight: 80
 url: /es/net/aspose.psd.imageoptions/gifoptions/maxdiff/
 ---
+{{< psd/tize >}}
 ## GifOptions.MaxDiff property
 
-Obtiene o establece la diferencia de píxeles máxima permitida. Si es mayor que cero, se usará compresión con pérdida. El valor recomendado para una compresión con pérdida óptima es 80. 30 es una compresión muy ligera, 200 es pesada. Funciona mejor cuando se introduce poca pérdida y debido a la limitación del algoritmo de compresión niveles de pérdida muy altos no darán tanta ganancia. El rango de valores permitidos es [0, 1000].
+Obtiene o establece la diferencia máxima de píxeles permitida. Si es mayor que cero, se utilizará compresión con pérdida. El valor recomendado para una compresión con pérdida óptima es 80. 30 es una compresión muy ligera, 200 es pesada. Funciona mejor cuando solo se introduce poca pérdida, y debido a la limitación del algoritmo de compresión, niveles de pérdida muy altos no proporcionarán tanto beneficio. El rango de valores permitidos es [0, 1000].
 
 ```csharp
 public int MaxDiff { get; set; }
@@ -17,7 +18,7 @@ public int MaxDiff { get; set; }
 ### Ver también
 
 * class [GifOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../gifoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

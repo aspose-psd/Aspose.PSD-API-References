@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDestDistance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la distancia GPS al punto de destino.
+title: "ExifData.GPSDestDistance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la distancia GPS al punto de destino"
 type: docs
 weight: 420
 url: /es/net/aspose.psd.exif/exifdata/gpsdestdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistance property
 
 Obtiene o establece la distancia GPS al punto de destino.
@@ -14,7 +15,7 @@ Obtiene o establece la distancia GPS al punto de destino.
 public TiffRational GPSDestDistance { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La distancia GPS al punto de destino.
 
@@ -22,7 +23,7 @@ La distancia GPS al punto de destino.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

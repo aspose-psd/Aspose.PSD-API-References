@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.PlacedId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectResource propiedad. Obtiene o establece el identificador único de los datos de esta capa de objeto inteligente en la imagen PSD.
+title: "SmartObjectResource.PlacedId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SmartObjectResource. Obtiene o establece el identificador único de estos datos de capa de objeto inteligente en la imagen PSD"
 type: docs
 weight: 160
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PlacedId property
 
-Obtiene o establece el identificador único de los datos de esta capa de objeto inteligente en la imagen PSD.
+Obtiene o establece el identificador único de estos datos de capa de objeto inteligente en la imagen PSD.
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El identificador único de este recurso de capa de objeto inteligente.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con los recursos SoLEResource, SmartObjectResource y PlacedResource.
+El siguiente código demuestra el soporte de los recursos SoLEResource, SmartObjectResource y PlacedResource.
 
 ```csharp
 [C#]
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+    // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Esta identificación única debe cambiarse en las referencias, si las hay
+    // Este Unique Id debe cambiarse en las referencias, si las hay
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -152,15 +153,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     }
 
     // Tenga cuidado con algunos parámetros: la imagen guardada puede volverse ilegible para Adobe® Photoshop®
-    ////recurso.UOrder = 6;
-    ////recurso.VOrden = 9;
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // No cambie esto, de lo contrario no podrá usar la transformación libre
-    // o cambie el objeto inteligente subrayado al tipo de vector
-    ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+    // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+    // o cambie el objeto inteligente subyacente al tipo vector
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Debería haber un PlLdResource válido con este ID único
-    ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Debe haber un PlLdResource válido con este Unique Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -323,12 +325,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-El siguiente código demuestra la compatibilidad con el recurso SoLdResource.
+El siguiente código demuestra el soporte del recurso SoLdResource.
 
 ```csharp
 [C#]
 
-// Este ejemplo muestra cómo obtener o establecer las propiedades de datos de la capa de objeto inteligente del archivo PSD.
+// Este ejemplo muestra cómo obtener o establecer las propiedades de los datos de la capa de objeto inteligente del archivo PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +564,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-                // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+                // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+                // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,19 +610,20 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Esta identificación única debe cambiarse en las referencias, si las hay
+                // Este Unique Id debe cambiarse en las referencias, si las hay
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible con Adobe® Photoshop®
-                ////recurso.UOrder = 6;
-                ////recurso.VOrden = 9;
+                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible para Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // No cambie esto, de lo contrario no podrá usar la transformación libre
-                // o cambie el objeto inteligente subrayado al tipo de vector
-                ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+                // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+                // o cambie el objeto inteligente subyacente al tipo vector
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Debería haber un PlLdResource válido con este ID único
-                ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Debe haber un PlLdResource válido con este Unique Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -635,7 +638,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [SmartObjectResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

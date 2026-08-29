@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.TypeToolKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExpaResource campo. La clave de información de la herramienta de tipo.
+title: "ExpaResource.TypeToolKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo ExpaResource. La clave de información de la herramienta de tipo"
 type: docs
-weight: 90
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ExpaResource.TypeToolKey field
 
 La clave de información de la herramienta de tipo.
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Ver también
 
 * class [ExpaResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Name
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PattResourceData propiedad. Obtiene o establece el nombre.
+title: "PattResourceData.Name"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PattResourceData. Obtiene o establece el nombre."
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Name property
 
 Obtiene o establece el nombre.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre.
 public string Name { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre.
 
 ### Ver también
 
 * class [PattResourceData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

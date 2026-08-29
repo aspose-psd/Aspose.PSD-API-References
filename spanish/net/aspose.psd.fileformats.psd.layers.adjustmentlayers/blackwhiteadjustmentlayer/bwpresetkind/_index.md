@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BwPresetKind
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlackWhiteAdjustmentLayer propiedad. Obtiene o establece el valor de tipo predeterminado en blanco y negro.
+title: "BlackWhiteAdjustmentLayer.BwPresetKind"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "BlackWhiteAdjustmentLayer propiedad. Obtiene o establece el valor del tipo de preset en blanco y negro"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-Obtiene o establece el valor de tipo predeterminado en blanco y negro.
+Obtiene o establece el valor del tipo de preset blanco y negro.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor de tipo predeterminado en blanco y negro.
+El valor del tipo de preset en blanco y negro.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede manipular las propiedades de la capa de ajuste de blanco y negro en Aspose.PSD
+El siguiente ejemplo muestra cómo puede manipular las propiedades de la capa de ajuste blanco y negro en Aspose.PSD
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * class [BlackWhiteAdjustmentLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

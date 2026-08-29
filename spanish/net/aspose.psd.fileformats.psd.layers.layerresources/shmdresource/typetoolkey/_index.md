@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.TypeToolKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ShmdResource campo. La clave de información de la herramienta de tipo.
+title: "ShmdResource.TypeToolKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo de ShmdResource. La clave de información de la herramienta de tipo"
 type: docs
-weight: 100
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ShmdResource.TypeToolKey field
 
 La clave de información de la herramienta de tipo.
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Ver también
 
 * class [ShmdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

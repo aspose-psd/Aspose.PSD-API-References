@@ -1,11 +1,12 @@
 ---
-title: RgbMixerChannel.Green
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RgbMixerChannel propiedad. Obtiene o establece el verde.
+title: "RgbMixerChannel.Green"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "RgbMixerChannel propiedad. Obtiene o establece el verde"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Green property
 
 Obtiene o establece el verde.
@@ -14,14 +15,14 @@ Obtiene o establece el verde.
 public short Green { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El verde.
 
 ### Ver también
 
 * class [RgbMixerChannel](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

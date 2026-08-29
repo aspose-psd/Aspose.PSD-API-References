@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa de ajuste del mezclador de canales con los parámetros predeterminados
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa de ajuste de mezclador de canales con parámetros predeterminados"
 type: docs
-weight: 310
+weight: 320
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-Agrega la capa de ajuste del mezclador de canales con los parámetros predeterminados
+Añade la capa de ajuste de mezclador de canales con parámetros predeterminados
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Capa de mezclador de canales agregada
+Capa de mezclador de canales añadida
 
 ### Ver también
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

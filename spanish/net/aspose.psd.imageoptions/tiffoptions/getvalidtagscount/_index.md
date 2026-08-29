@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.GetValidTagsCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions método. Obtiene el recuento de etiquetas válidas.
+title: "TiffOptions.GetValidTagsCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffOptions. Obtiene el recuento de etiquetas válidas"
 type: docs
-weight: 760
+weight: 770
 url: /es/net/aspose.psd.imageoptions/tiffoptions/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetValidTagsCount method
 
 Obtiene el recuento de etiquetas válidas.
@@ -14,19 +15,19 @@ Obtiene el recuento de etiquetas válidas.
 public static int GetValidTagsCount(TiffDataType[] tags)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| tags | TiffDataType[] | Las etiquetas a validar. |
+| etiquetas | TiffDataType[] | Las etiquetas a validar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Las etiquetas válidas cuentan.
+El recuento de etiquetas válidas.
 
 ### Ver también
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.SeekBegin
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SplitStreamContainer método. Establece la posición de la transmisión al comienzo de la transmisión. Este valor representa el desplazamiento desde la posición inicial de la secuencia pasada en el constructor StreamContainer.
+title: "SplitStreamContainer.SeekBegin"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SplitStreamContainer. Establece la posición del flujo al comienzo del flujo. Este valor representa el desplazamiento desde la posición inicial del flujo pasada en el constructor de StreamContainer"
 type: docs
 weight: 150
 url: /es/net/aspose.psd/splitstreamcontainer/seekbegin/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.SeekBegin method
 
-Establece la posición de la transmisión al comienzo de la transmisión. Este valor representa el desplazamiento desde la posición inicial de la secuencia pasada en el constructor StreamContainer.
+Establece la posición del flujo al inicio del mismo. Este valor representa el desplazamiento desde la posición inicial del flujo pasada en el constructor de StreamContainer.
 
 ```csharp
 public override void SeekBegin()
@@ -17,7 +18,7 @@ public override void SeekBegin()
 ### Ver también
 
 * class [SplitStreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../splitstreamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

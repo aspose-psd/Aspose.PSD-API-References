@@ -1,14 +1,15 @@
 ---
-title: Class Thumbnail
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail clase. Representa la imagen en miniatura de un archivo.
+title: "Clase Thumbnail"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail. Representa la imagen miniatura de un archivo"
 type: docs
-weight: 6100
+weight: 6600
 url: /es/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail class
 
-Representa la imagen en miniatura de un archivo.
+Representa una imagen miniatura para un archivo.
 
 ```csharp
 public sealed class Thumbnail : ComplexTypeBase
@@ -18,8 +19,8 @@ public sealed class Thumbnail : ComplexTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [Thumbnail](thumbnail/#constructor)() | Inicializa una nueva instancia del`Thumbnail` clase. |
-| [Thumbnail](thumbnail/#constructor_1)(int, int) | Inicializa una nueva instancia del`Thumbnail` clase. |
+| [Thumbnail](thumbnail/#constructor)() | Inicializa una nueva instancia de la clase `Thumbnail`. |
+| [Thumbnail](thumbnail/#constructor_1)(int, int) | Inicializa una nueva instancia de la clase `Thumbnail`. |
 
 ## Propiedades
 
@@ -27,7 +28,7 @@ public sealed class Thumbnail : ComplexTypeBase
 | --- | --- |
 | [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Obtiene o establece la altura. |
 | [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Obtiene o establece la imagen en formato base64. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtiene el URI de espacio de nombres predeterminado. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtiene el URI del espacio de nombres predeterminado. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Obtiene el prefijo. |
 | [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | Obtiene o establece el ancho. |
 
@@ -35,12 +36,12 @@ public sealed class Thumbnail : ComplexTypeBase
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../)
 
 

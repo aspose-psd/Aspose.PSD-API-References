@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.IsLinkedWithLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PtFlResource propiedad. Obtiene o establece un valor que indica si esta instancia está vinculada con la capa.
+title: "PtFlResource.IsLinkedWithLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PtFlResource propiedad. Obtiene o establece un valor que indica si esta instancia está vinculada con la capa"
 type: docs
-weight: 30
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.IsLinkedWithLayer property
 
 Obtiene o establece un valor que indica si esta instancia está vinculada con la capa.
@@ -14,11 +15,11 @@ Obtiene o establece un valor que indica si esta instancia está vinculada con la
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia está vinculada con la capa; de lo contrario,`FALSO` .
+`true` si esta instancia está vinculada con la capa; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
 El siguiente ejemplo demuestra el soporte de la carga y edición de un recurso PtFlResource.
 
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // No tenemos datos de patrones en PattResource, por lo que podemos agregarlos.
+                    // No tenemos datos de patrón en PattResource, así que podemos añadirlos.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -89,7 +90,7 @@ using (im)
 ### Ver también
 
 * class [PtFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FillLayer método. Actualiza los datos de píxeles de la capa de relleno de acuerdo conIFillSettings .
+title: "FillLayer.Update"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método FillLayer. Actualiza los datos de píxeles de la capa de relleno basándose en el IFillSettings actual."
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Actualiza los datos de píxeles de la capa de relleno de acuerdo con[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Actualiza los datos de píxeles de la capa de relleno basándose en el [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) actual.
 
 ```csharp
 public void Update()
@@ -18,16 +19,16 @@ public void Update()
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | Tipo desconocido de FillType |
+| ArgumentOutOfRangeException | Se lanza cuando se encuentra un FillType desconocido. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con las capas de relleno: Relleno de color.
+El siguiente código demuestra el soporte de capas Fill: relleno de color.
 
 ```csharp
 [C#]
 
-// Agregar soporte de capas de relleno: relleno de color
+// Agregar soporte de capas Fill: relleno de color
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-El siguiente código guarda imágenes con patrón de capa de relleno y demuestra cómo Aspose.PSD representa el patrón.
+El siguiente código guarda imágenes con capa de relleno de patrón y demuestra cómo Aspose.PSD renderiza el patrón.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -134,7 +135,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### Ver también
 
 * class [FillLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

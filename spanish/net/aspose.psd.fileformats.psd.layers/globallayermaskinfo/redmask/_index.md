@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.RedMask
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GlobalLayerMaskInfo propiedad. Obtiene o establece la máscara roja.
+title: "GlobalLayerMaskInfo.RedMask"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GlobalLayerMaskInfo. Obtiene o establece la máscara roja"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.RedMask property
 
 Obtiene o establece la máscara roja.
@@ -14,14 +15,14 @@ Obtiene o establece la máscara roja.
 public short RedMask { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La máscara roja.
 
 ### Ver también
 
 * class [GlobalLayerMaskInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

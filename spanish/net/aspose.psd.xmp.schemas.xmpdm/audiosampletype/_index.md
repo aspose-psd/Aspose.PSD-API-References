@@ -1,14 +1,15 @@
 ---
-title: Class AudioSampleType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType clase. Representa el tipo de muestra de audio enXmpDynamicMediaPackage .
+title: "Clase AudioSampleType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType. Representa el tipo de muestra de audio en XmpDynamicMediaPackage"
 type: docs
-weight: 5850
+weight: 6350
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
+{{< psd/tize >}}
 ## AudioSampleType class
 
-Representa el tipo de muestra de audio en[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+Representa el tipo de muestra de audio en [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/).
 
 ```csharp
 public sealed class AudioSampleType
@@ -20,21 +21,21 @@ public sealed class AudioSampleType
 | --- | --- |
 | static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | Representa una muestra de audio comprimida. |
 | static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | Representa una muestra de audio empaquetada. |
-| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | Representa una muestra de audio de 16 Int. |
-| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | Representa una muestra de audio de 24 int. |
+| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | Representa una muestra de audio 16Int. |
+| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | Representa una muestra de audio 24Int. |
 | static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | Representa una muestra de audio 32Float. |
-| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | Representa una muestra de audio de 32 int. |
-| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | Representa una muestra de audio de 8 int. |
+| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | Representa una muestra de audio 32Int. |
+| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | Representa una muestra de audio 8Int. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

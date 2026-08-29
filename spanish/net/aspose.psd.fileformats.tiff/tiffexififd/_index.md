@@ -1,14 +1,15 @@
 ---
-title: Class TiffExifIfd
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Tiff.TiffExifIfd clase. La clase de directorio del archivo de imagen TIFF Exif.
+title: "Clase TiffExifIfd"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Tiff.TiffExifIfd. La clase de directorio de archivo de imagen Exif TIFF"
 type: docs
-weight: 4220
+weight: 4690
 url: /es/net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd class
 
-La clase de directorio del archivo de imagen TIFF Exif.
+La clase de directorio de archivo de imagen Exif TIFF.
 
 ```csharp
 public class TiffExifIfd
@@ -18,23 +19,23 @@ public class TiffExifIfd
 
 | Nombre | Descripción |
 | --- | --- |
-| [TiffExifIfd](tiffexififd/#constructor)() | Inicializa una nueva instancia del`TiffExifIfd` clase. |
-| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | Inicializa una nueva instancia del`TiffExifIfd` clase. |
+| [TiffExifIfd](tiffexififd/#constructor)() | Inicializa una nueva instancia de la clase `TiffExifIfd`. |
+| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | Inicializa una nueva instancia de la clase `TiffExifIfd`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
 | [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Obtiene un valor que indica si esta instancia tiene valor. |
-| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | Obtiene o establece el puntero a EXIF IFD. |
+| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | Obtiene o establece el puntero al EXIF IFD. |
 
-### Observaciones
+## Observaciones
 
-Encapsula un puntero al IFD Exif. Interoperabilidad, Exif IFD tiene la misma estructura que el IFD especificado en TIFF. normalmente, sin embargo, no contiene datos de imagen como en el caso de TIFF. Consulte http://www.exiv2.org/tags.html y http://www.awaresystems.be/imaging/tiff/tifftags/exififd .html para más detalles.
+Encapsula un puntero al Exif IFD. Interoperabilidad, Exif IFD tiene la misma estructura que el IFD especificado en TIFF. Sin embargo, normalmente no contiene datos de imagen como en el caso de TIFF. Consulte http://www.exiv2.org/tags.html y http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html para más detalles.
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

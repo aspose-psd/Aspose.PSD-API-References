@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorPathDataResource método. Guarda el recurso en el contenedor de flujo especificado.
+title: "VectorPathDataResource.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de VectorPathDataResource. Guarda el recurso en el contenedor de flujo especificado"
 type: docs
-weight: 90
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Save method
 
 Guarda el recurso en el contenedor de flujo especificado.
@@ -14,16 +15,16 @@ Guarda el recurso en el contenedor de flujo especificado.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| streamContainer | StreamContainer | El contenedor de secuencias en el que guardar. |
+| streamContainer | StreamContainer | El contenedor de flujo donde guardar. |
 | psdVersion | Int32 | La versión PSD. |
 
 ### Ver también
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VectorPathDataResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

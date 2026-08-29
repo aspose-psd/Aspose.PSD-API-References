@@ -1,116 +1,117 @@
 ---
-title: PathGradientBrush.PathGradientBrush
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PathGradientBrush constructor. Inicializa una nueva instancia delPathGradientBrush clase con los puntos especificados.
+title: "PathGradientBrush.PathGradientBrush"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor PathGradientBrush. Inicializa una nueva instancia de la clase PathGradientBrush con los puntos especificados."
 type: docs
 weight: 10
 url: /es/net/aspose.psd.brushes/pathgradientbrush/pathgradientbrush/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush(PointF[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`PathGradientBrush`](../) clase con los puntos especificados.
+Inicializa una nueva instancia de la clase [`PathGradientBrush`](../) con los puntos especificados.
 
 ```csharp
 public PathGradientBrush(PointF[] points)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| points | PointF[] | una matriz de[`PointF`](../../../aspose.psd/pointf/) estructuras que representan los puntos que forman los vértices del camino. |
+| points | PointF[] | Una matriz de estructuras [`PointF`](../../../aspose.psd/pointf/) que representa los puntos que forman los vértices de la ruta. |
 
 ### Ver también
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-Inicializa una nueva instancia del[`PathGradientBrush`](../) clase con los puntos especificados y modo de ajuste.
+Inicializa una nueva instancia de la clase [`PathGradientBrush`](../) con los puntos especificados y el modo de ajuste.
 
 ```csharp
 public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| points | PointF[] | una matriz de[`PointF`](../../../aspose.psd/pointf/) estructuras que representan los puntos que forman los vértices del camino. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) que especifica cómo se dibujan los rellenos con este[`PathGradientBrush`](../) están embaldosados. |
+| points | PointF[] | Una matriz de estructuras [`PointF`](../../../aspose.psd/pointf/) que representa los puntos que forman los vértices de la ruta. |
+| wrapMode | WrapMode | Un [`WrapMode`](../../../aspose.psd/wrapmode/) que especifica cómo se repiten los rellenos dibujados con este [`PathGradientBrush`](../). |
 
 ### Ver también
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[]) {#constructor_3}
 
-Inicializa una nueva instancia del[`PathGradientBrush`](../) clase con los puntos especificados.
+Inicializa una nueva instancia de la clase [`PathGradientBrush`](../) con los puntos especificados.
 
 ```csharp
 public PathGradientBrush(Point[] points)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| points | Point[] | una matriz de[`Point`](../../../aspose.psd/point/) estructuras que representan los puntos que forman los vértices del camino. |
+| points | Point[] | Una matriz de estructuras [`Point`](../../../aspose.psd/point/) que representa los puntos que forman los vértices de la ruta. |
 
 ### Ver también
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[], WrapMode) {#constructor_4}
 
-Inicializa una nueva instancia del[`PathGradientBrush`](../) clase con los puntos especificados y modo de ajuste.
+Inicializa una nueva instancia de la clase [`PathGradientBrush`](../) con los puntos especificados y el modo de ajuste.
 
 ```csharp
 public PathGradientBrush(Point[] points, WrapMode wrapMode)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| points | Point[] | una matriz de[`Point`](../../../aspose.psd/point/) estructuras que representan los puntos que forman los vértices del camino. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) que especifica cómo se dibujan los rellenos con este[`PathGradientBrush`](../) están embaldosados. |
+| points | Point[] | Una matriz de estructuras [`Point`](../../../aspose.psd/point/) que representa los puntos que forman los vértices de la ruta. |
+| wrapMode | WrapMode | Un [`WrapMode`](../../../aspose.psd/wrapmode/) que especifica cómo se repiten los rellenos dibujados con este [`PathGradientBrush`](../). |
 
 ### Ver también
 
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(GraphicsPath) {#constructor}
 
-Inicializa una nueva instancia del[`PathGradientBrush`](../) clase con la ruta especificada.
+Inicializa una nueva instancia de la clase [`PathGradientBrush`](../) con la ruta especificada.
 
 ```csharp
 public PathGradientBrush(GraphicsPath path)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| path | GraphicsPath | El[`GraphicsPath`](../../../aspose.psd/graphicspath/) que define el área ocupada por este[`PathGradientBrush`](../). |
+| path | GraphicsPath | El [`GraphicsPath`](../../../aspose.psd/graphicspath/) que define el área rellenada por este [`PathGradientBrush`](../). |
 
 ### Ver también
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

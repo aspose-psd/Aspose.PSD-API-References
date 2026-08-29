@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsMagentaGreenBalance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlncResource propiedad. Obtiene o establece el balance de verde magenta de reflejos.
+title: "BlncResource.HighlightsMagentaGreenBalance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BlncResource. Obtiene o establece el equilibrio de magenta y verde de los resaltados"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsMagentaGreenBalance property
 
-Obtiene o establece el balance de verde magenta de reflejos.
+Obtiene o establece el balance Magenta Verde de Highlights.
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los Destacados Magenta Green Balance.
+El Balance de Magenta/Verde de los Destacados.
 
 ### Ver también
 
 * class [BlncResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

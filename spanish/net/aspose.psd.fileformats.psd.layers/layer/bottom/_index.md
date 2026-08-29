@@ -1,27 +1,28 @@
 ---
-title: Layer.Bottom
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece la posición de la capa inferior.
+title: "Layer.Bottom"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene o establece la posición inferior de la capa"
 type: docs
-weight: 60
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
+{{< psd/tize >}}
 ## Layer.Bottom property
 
 Obtiene o establece la posición de la capa inferior.
 
 ```csharp
-public int Bottom { get; set; }
+public virtual int Bottom { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La posición de la capa inferior.
+La posición inferior de la capa.
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

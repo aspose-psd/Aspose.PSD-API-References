@@ -1,11 +1,12 @@
 ---
-title: FileCreateSource.IsTemporal
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FileCreateSource propiedad. Obtiene un valor que indica si el archivo será temporal.
+title: "FileCreateSource.IsTemporal"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FileCreateSource. Obtiene un valor que indica si el archivo será temporal"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.sources/filecreatesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.IsTemporal property
 
 Obtiene un valor que indica si el archivo será temporal.
@@ -14,14 +15,14 @@ Obtiene un valor que indica si el archivo será temporal.
 public override bool IsTemporal { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si el archivo será temporal; de lo contrario,`FALSO`.
+`true` si el archivo será temporal; de lo contrario, `false`.
 
 ### Ver también
 
 * class [FileCreateSource](../)
-* espacio de nombres [Aspose.PSD.Sources](../../filecreatesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

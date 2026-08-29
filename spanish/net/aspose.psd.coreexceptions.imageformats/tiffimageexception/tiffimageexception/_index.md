@@ -1,61 +1,62 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffImageException constructor. Inicializa una nueva instancia delTiffImageException clase.
+title: "TiffImageException.TiffImageException"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor TiffImageException. Inicializa una nueva instancia de la clase TiffImageException"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-Inicializa una nueva instancia del[`TiffImageException`](../) clase.
+Inicializa una nueva instancia de la clase [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| message | String | El mensaje de excepción. |
+| message | String | El mensaje de la excepción. |
 
 ### Ver también
 
 * class [TiffImageException](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-Inicializa una nueva instancia del[`TiffImageException`](../) clase.
+Inicializa una nueva instancia de la clase [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | message | String | El mensaje. |
-| innerException | Exception | La excepción interior. |
+| innerException | Excepción | La excepción interna. |
 
 ### Ver también
 
 * class [TiffImageException](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-Inicializa una nueva instancia del[`TiffImageException`](../) clase.
+Inicializa una nueva instancia de la clase [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | message | String | El mensaje. |
 | error | TiffOptionsError | El error. |
@@ -64,20 +65,20 @@ public TiffImageException(string message, TiffOptionsError error)
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-Inicializa una nueva instancia del[`TiffImageException`](../) clase.
+Inicializa una nueva instancia de la clase [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | error | TiffOptionsError | El error. |
 
@@ -85,7 +86,7 @@ public TiffImageException(TiffOptionsError error)
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

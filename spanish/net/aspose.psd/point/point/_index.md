@@ -1,20 +1,21 @@
 ---
-title: Point.Point
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Point constructor. Inicializa una nueva instancia delPoint estructura con las coordenadas especificadas.
+title: "Point.Point"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de Point. Inicializa una nueva instancia de la estructura Point con las coordenadas especificadas"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/point/point/
 ---
+{{< psd/tize >}}
 ## Point(int, int) {#constructor_2}
 
-Inicializa una nueva instancia del[`Point`](../) estructura con las coordenadas especificadas.
+Inicializa una nueva instancia de la estructura [`Point`](../) con las coordenadas especificadas.
 
 ```csharp
 public Point(int x, int y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Int32 | La posición horizontal del punto. |
 | y | Int32 | La posición vertical del punto. |
@@ -22,48 +23,48 @@ public Point(int x, int y)
 ### Ver también
 
 * struct [Point](../)
-* espacio de nombres [Aspose.PSD](../../point/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(Size) {#constructor}
 
-Inicializa una nueva instancia del[`Point`](../) estructura de la[`Size`](../../size/)estructura.
+Inicializa una nueva instancia de la estructura [`Point`](../) a partir de la estructura [`Size`](../../size/).
 
 ```csharp
 public Point(Size size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| size | Size | Contiene las coordenadas del nuevo punto. |
+| tamaño | Tamaño | Contiene las nuevas coordenadas del punto. |
 
 ### Ver también
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* espacio de nombres [Aspose.PSD](../../point/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(int) {#constructor_1}
 
-Inicializa una nueva instancia del[`Point`](../) estructura usando coordenadas especificadas por un valor entero.
+Inicializa una nueva instancia de la estructura [`Point`](../) usando coordenadas especificadas por un valor entero.
 
 ```csharp
 public Point(int dw)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | dw | Int32 | Un entero de 32 bits que especifica las coordenadas del nuevo punto. |
 
 ### Ver también
 
 * struct [Point](../)
-* espacio de nombres [Aspose.PSD](../../point/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

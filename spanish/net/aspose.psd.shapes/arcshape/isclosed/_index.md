@@ -1,27 +1,28 @@
 ---
-title: ArcShape.IsClosed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ArcShape propiedad. Obtiene o establece un valor que indica si la forma ordenada está cerrada. Cuando se procesa una forma ordenada cerrada los puntos inicial y final no tienen significado.
+title: "ArcShape.IsClosed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ArcShape. Obtiene o establece un valor que indica si la forma ordenada está cerrada. Al procesar una forma ordenada cerrada, los puntos de inicio y fin no tienen significado"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.shapes/arcshape/isclosed/
 ---
+{{< psd/tize >}}
 ## ArcShape.IsClosed property
 
-Obtiene o establece un valor que indica si la forma ordenada está cerrada. Cuando se procesa una forma ordenada cerrada, los puntos inicial y final no tienen significado.
+Obtiene o establece un valor que indica si la forma ordenada está cerrada. Al procesar una forma ordenada cerrada, los puntos de inicio y fin no tienen significado.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`Verdadero` si esta forma ordenada es cerrada; de lo contrario,`FALSO` .
+`True` si esta forma ordenada está cerrada; de lo contrario, `false`.
 
 ### Ver también
 
 * class [ArcShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../arcshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

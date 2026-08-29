@@ -1,11 +1,12 @@
 ---
-title: Class EnumeratedReferenceStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedReferenceStructure clase. Estructura de referencia enumerada.
+title: "Clase EnumeratedReferenceStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.EnumeratedReferenceStructure class. Estructura de referencia enumerada"
 type: docs
-weight: 3170
+weight: 3550
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure class
 
 Estructura de referencia enumerada.
@@ -18,19 +19,19 @@ public sealed class EnumeratedReferenceStructure : EnumeratedDescriptorStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [EnumeratedReferenceStructure](enumeratedreferencestructure/)(ClassID, ClassID, ClassID, ClassID) | Inicializa una nueva instancia del`EnumeratedReferenceStructure` clase. |
+| [EnumeratedReferenceStructure](enumeratedreferencestructure/)(ClassID, ClassID, ClassID, ClassID) | Inicializa una nueva instancia de la clase `EnumeratedReferenceStructure`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classid/) { get; set; } | Obtiene o establece el ID de clase. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classid/) { get; set; } | Obtiene o establece el ID de la clase. |
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classname/) { get; set; } | Obtiene o establece el nombre de la clase. |
-| [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname/) { get; set; } | Obtiene o establece el nombre de la enumeración. |
+| [EnumName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname/) { get; set; } | Obtiene o establece el nombre del enum. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/key/) { get; } | Obtiene la clave. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes. |
-| [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/) { get; set; } | Obtiene o establece el tipo ID. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/length/) { get; } | Obtiene la longitud en bytes de [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
+| [TypeID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/) { get; set; } | Obtiene o establece el ID del tipo. |
 
 ## Métodos
 
@@ -44,12 +45,12 @@ public sealed class EnumeratedReferenceStructure : EnumeratedDescriptorStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| const [EnumeratedStructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedstructurekey/) | Identifica la clave de estructura. |
+| const [EnumeratedStructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedstructurekey/) | Identifica la clave de la estructura. |
 
 ### Ver también
 
 * class [EnumeratedDescriptorStructure](../enumerateddescriptorstructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

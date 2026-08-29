@@ -1,11 +1,12 @@
 ---
-title: ExifData.MakerNoteRawData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece los datos sin procesar de la nota del fabricante.
+title: "ExifData.MakerNoteRawData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece los datos sin procesar de la nota del fabricante"
 type: docs
 weight: 790
 url: /es/net/aspose.psd.exif/exifdata/makernoterawdata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteRawData property
 
 Obtiene o establece los datos sin procesar de la nota del fabricante.
@@ -14,14 +15,14 @@ Obtiene o establece los datos sin procesar de la nota del fabricante.
 public byte[] MakerNoteRawData { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El fabricante anota los datos sin procesar.
+Los datos sin procesar de la nota del fabricante.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

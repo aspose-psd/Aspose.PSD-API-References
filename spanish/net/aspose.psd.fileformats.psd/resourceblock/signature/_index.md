@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Signature
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResourceBlock propiedad. Obtiene la firma del recurso. Debe ser siempre 8BIM.
+title: "ResourceBlock.Signature"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResourceBlock. Obtiene la firma del recurso. Debe ser siempre 8BIM"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd/resourceblock/signature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Signature property
 
-Obtiene la firma del recurso. Debe ser siempre '8BIM'.
+Obtiene la firma del recurso. Siempre debe ser '8BIM'.
 
 ```csharp
 public int Signature { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La firma del recurso.
 
 ### Ver también
 
 * class [ResourceBlock](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

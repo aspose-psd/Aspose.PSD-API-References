@@ -1,11 +1,12 @@
 ---
-title: Interface IBufferProcessor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IBufferProcessor interfaz. El procesador de búfer.
+title: "Interfaz IBufferProcessor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IBufferProcessor. El procesador de búfer"
 type: docs
-weight: 4370
+weight: 4840
 url: /es/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
 El procesador de búfer.
@@ -22,7 +23,7 @@ public interface IBufferProcessor
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

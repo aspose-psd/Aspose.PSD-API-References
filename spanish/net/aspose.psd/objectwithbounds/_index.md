@@ -1,11 +1,12 @@
 ---
-title: Class ObjectWithBounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ObjectWithBounds clase. El objeto que tiene límites.
+title: "Clase ObjectWithBounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ObjectWithBounds. El objeto con límites"
 type: docs
-weight: 5160
+weight: 5650
 url: /es/net/aspose.psd/objectwithbounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds class
 
 El objeto que tiene límites.
@@ -30,7 +31,7 @@ public abstract class ObjectWithBounds
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Complement
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Region método. Actualiza estoRegion para contener la porción de lo especificadoRectangleF estructura que no se cruza con estaRegion .
+title: "Region.Complement"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de Region. Actualiza este Region para que contenga la porción de la estructura [`RectangleF`](../../rectanglef/) especificada que no intersecta con este Region"
 type: docs
 weight: 20
 url: /es/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-Actualiza esto[`Region`](../) para contener la porción de lo especificado[`RectangleF`](../../rectanglef/) estructura que no se cruza con esta[`Region`](../) .
+Actualiza este [`Region`](../) para que contenga la porción de la estructura [`RectangleF`](../../rectanglef/) especificada que no intersecta con este [`Region`](../).
 
 ```csharp
 public void Complement(RectangleF rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | RectangleF | El[`RectangleF`](../../rectanglef/) estructura para complementar este[`Region`](../). |
+| rect | RectangleF | La estructura [`RectangleF`](../../rectanglef/) para complementar este [`Region`](../). |
 
 ### Ver también
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-Actualiza esto[`Region`](../) para contener la porción de lo especificado[`Rectangle`](../../rectangle/) estructura que no se cruza con esta[`Region`](../) .
+Actualiza este [`Region`](../) para que contenga la porción de la estructura [`Rectangle`](../../rectangle/) especificada que no intersecta con este [`Region`](../).
 
 ```csharp
 public void Complement(Rectangle rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rect | Rectangle | El[`Rectangle`](../../rectangle/) estructura para complementar este[`Region`](../). |
+| rect | Rectangle | La estructura [`Rectangle`](../../rectangle/) para complementar este [`Region`](../). |
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-Actualiza esto[`Region`](../) para contener la porción de lo especificado[`GraphicsPath`](../../graphicspath/) que no se cruza con esto[`Region`](../) .
+Actualiza este [`Region`](../) para que contenga la porción de la ruta gráfica [`GraphicsPath`](../../graphicspath/) especificada que no intersecta con este [`Region`](../).
 
 ```csharp
 public void Complement(GraphicsPath path)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| path | GraphicsPath | El[`GraphicsPath`](../../graphicspath/) para complementar esto[`Region`](../). |
+| path | GraphicsPath | La ruta gráfica [`GraphicsPath`](../../graphicspath/) para complementar este [`Region`](../). |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | *path*es nulo. |
+| ArgumentNullException | *path* es nulo. |
 
 ### Ver también
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-Actualiza esto[`Region`](../) para contener la porción de lo especificado[`Region`](../) que no se cruza con esto[`Region`](../) .
+Actualiza este [`Region`](../) para que contenga la porción del [`Region`](../) especificado que no intersecta con este [`Region`](../).
 
 ```csharp
 public void Complement(Region region)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| region | Region | El[`Region`](../) objeto de complementar este[`Region`](../) objeto. |
+| region | Region | El objeto [`Region`](../) para complementar este objeto [`Region`](../). |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | *region*es nulo. |
+| ArgumentNullException | *region* es nulo. |
 
 ### Ver también
 
 * class [Region](../)
-* espacio de nombres [Aspose.PSD](../../region/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

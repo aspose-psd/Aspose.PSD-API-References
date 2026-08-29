@@ -1,59 +1,60 @@
 ---
-title: PointF.Subtract
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PointF método. Traduce unPointF por el negativo de un tamaño especificado.
+title: "PointF.Subtract"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PointF. Traslada un PointF por el negativo de un tamaño especificado"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/pointf/subtract/
 ---
+{{< psd/tize >}}
 ## Subtract(PointF, Size) {#subtract}
 
-Traduce un[`PointF`](../) por el negativo de un tamaño especificado.
+Traslada un [`PointF`](../) por el negativo de un tamaño especificado.
 
 ```csharp
 public static PointF Subtract(PointF point, Size size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | PointF | El[`PointF`](../) traducir. |
-| size | Size | El[`Size`](../../size/) que especifica los números a restar de las coordenadas de*point*. |
+| point | PointF | El [`PointF`](../) a trasladar. |
+| size | Size | El [`Size`](../../size/) que especifica los números a restar de las coordenadas del *point*. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el traducido[`PointF`](../).
+El [`PointF`](../) trasladado.
 
 ### Ver también
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* espacio de nombres [Aspose.PSD](../../pointf/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Subtract(PointF, SizeF) {#subtract_1}
 
-Traduce un[`PointF`](../) por el negativo de un tamaño especificado.
+Traslada un [`PointF`](../) por el negativo de un tamaño especificado.
 
 ```csharp
 public static PointF Subtract(PointF point, SizeF size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | PointF | El[`PointF`](../) traducir. |
-| size | SizeF | El[`SizeF`](../../sizef/) que especifica los números a restar de las coordenadas de*point*. |
+| point | PointF | El [`PointF`](../) a trasladar. |
+| size | SizeF | El [`SizeF`](../../sizef/) que especifica los números a restar de las coordenadas del *point*. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el traducido[`PointF`](../).
+El [`PointF`](../) trasladado.
 
 ### Ver también
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* espacio de nombres [Aspose.PSD](../../pointf/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

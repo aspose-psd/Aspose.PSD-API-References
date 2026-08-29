@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.TransformMatrix
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolInfo6Resource propiedad. Obtiene o establece la matriz de transformación.
+title: "TypeToolInfo6Resource.TransformMatrix"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolInfo6Resource. Obtiene o establece la matriz de transformación"
 type: docs
-weight: 150
+weight: 120
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TransformMatrix property
 
 Obtiene o establece la matriz de transformación.
@@ -14,14 +15,14 @@ Obtiene o establece la matriz de transformación.
 public double[] TransformMatrix { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La matriz de transformación.
 
 ### Ver también
 
 * class [TypeToolInfo6Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

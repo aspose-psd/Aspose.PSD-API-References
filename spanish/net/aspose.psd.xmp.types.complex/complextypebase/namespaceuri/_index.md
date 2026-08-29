@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ComplexTypeBase propiedad. Obtiene el URI de espacio de nombres predeterminado.
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ComplexTypeBase. Obtiene el URI del espacio de nombres predeterminado"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
-Obtiene el URI de espacio de nombres predeterminado.
+Obtiene el URI del espacio de nombres predeterminado.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El URI de espacio de nombres predeterminado.
+El URI del espacio de nombres predeterminado.
 
 ### Ver también
 
 * class [ComplexTypeBase](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IIndexedColorConverter interfaz. El convertidor de color para formatos de imagen indexados.
+title: "Interfaz IIndexedColorConverter"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IIndexedColorConverter. El convertidor de color para formatos de imagen indexados"
 type: docs
-weight: 4470
+weight: 4940
 url: /es/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
 El convertidor de color para formatos de imagen indexados.
@@ -22,7 +23,7 @@ public interface IIndexedColorConverter
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

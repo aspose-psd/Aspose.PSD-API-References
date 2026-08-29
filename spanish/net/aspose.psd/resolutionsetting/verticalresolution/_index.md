@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.VerticalResolution
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResolutionSetting propiedad. Obtiene o establece la resolución vertical.
+title: "ResolutionSetting.VerticalResolution"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResolutionSetting. Obtiene o establece la resolución vertical"
 type: docs
 weight: 30
 url: /es/net/aspose.psd/resolutionsetting/verticalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.VerticalResolution property
 
 Obtiene o establece la resolución vertical.
@@ -17,7 +18,7 @@ public double VerticalResolution { get; set; }
 ### Ver también
 
 * class [ResolutionSetting](../)
-* espacio de nombres [Aspose.PSD](../../resolutionsetting/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

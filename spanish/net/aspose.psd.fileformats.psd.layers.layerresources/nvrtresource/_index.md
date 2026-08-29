@@ -1,14 +1,15 @@
 ---
-title: Class NvrtResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource clase. Clase NvrtResource. Recurso de Invertir Capa de Ajuste.
+title: "Clase NvrtResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource. Clase NvrtResource. Recurso de la capa de ajuste Invert"
 type: docs
-weight: 2840
+weight: 3180
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource class
 
-Clase NvrtResource. Recurso de Invertir Capa de Ajuste.
+Clase NvrtResource. Recurso de capa de ajuste Invert.
 
 ```csharp
 public class NvrtResource : AdjustmentLayerResource
@@ -18,32 +19,32 @@ public class NvrtResource : AdjustmentLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [NvrtResource](nvrtresource/#constructor)() | Inicializa una nueva instancia del`NvrtResource` clase. |
-| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | Inicializa una nueva instancia del`NvrtResource` clase. |
+| [NvrtResource](nvrtresource/#constructor)() | Inicializa una nueva instancia de la clase `NvrtResource`. |
+| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `NvrtResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/) { get; } | Obtiene la versión PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtiene la firma. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
 | Nombre | Descripción |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | La tecla de información de la herramienta de tipo. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
-### Ejemplos
+## Ejemplos
 
 El siguiente ejemplo muestra cómo obtener NvrtResource.
 
@@ -62,7 +63,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
             {
                 if (layerResource is NvrtResource)
                 {
-                    // Se admite NvrtResource.
+                    // NvrtResource es compatible.
                     resource = (NvrtResource)layerResource;
                     break;
                 }
@@ -76,7 +77,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

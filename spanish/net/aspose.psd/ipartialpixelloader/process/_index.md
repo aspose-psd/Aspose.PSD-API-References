@@ -1,11 +1,12 @@
 ---
-title: IPartialPixelLoader.Process
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPartialPixelLoader método. Procesa los píxeles cargados.
+title: "IPartialPixelLoader.Process"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IPartialPixelLoader. Procesa los píxeles cargados"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/ipartialpixelloader/process/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader.Process method
 
 Procesa los píxeles cargados.
@@ -14,12 +15,12 @@ Procesa los píxeles cargados.
 public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Point end)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pixelsRectangle | Rectangle | El rectángulo de píxeles. |
-| pixels | Color[] | Los píxeles. |
-| start | Point | El punto de píxeles de inicio. Si no es igual a (izquierda, arriba), lo que significa que no es un rectángulo completo que tenemos. |
-| end | Point | El punto final de los píxeles. Si no es igual a (derecha, abajo), lo que significa que no es un rectángulo completo que tenemos. |
+| píxeles | Color[] | Los píxeles. |
+| start | Punto | El punto de píxeles inicial. Si no es igual a (left,top) significa que no tenemos un rectángulo completo. |
+| fin | Punto | El punto de píxeles final. Si no es igual a (right,bottom) significa que no tenemos un rectángulo completo. |
 
 ### Ver también
 
@@ -27,7 +28,7 @@ public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Poin
 * struct [Color](../../color/)
 * struct [Point](../../point/)
 * interface [IPartialPixelLoader](../)
-* espacio de nombres [Aspose.PSD](../../ipartialpixelloader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

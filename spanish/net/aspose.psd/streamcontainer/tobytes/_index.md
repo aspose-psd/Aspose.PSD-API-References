@@ -1,52 +1,53 @@
 ---
-title: StreamContainer.ToBytes
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StreamContainer método. Convierte los datos de flujo alByte matriz.
+title: "StreamContainer.ToBytes"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de StreamContainer. Convierte los datos del flujo a la matriz de bytes"
 type: docs
 weight: 160
 url: /es/net/aspose.psd/streamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-Convierte los datos de flujo alByte matriz.
+Convierte los datos del flujo a la matriz de bytes.
 
 ```csharp
 public virtual byte[] ToBytes()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Los datos de flujo convertidos alByte matriz.
+Los datos del flujo convertidos al arreglo Byte.
 
 ### Ver también
 
 * class [StreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../streamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-Convierte los datos de flujo alByte matriz.
+Convierte los datos del flujo a la matriz de bytes.
 
 ```csharp
 public virtual byte[] ToBytes(long position, long bytesCount)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que empezar a leer bytes. |
-| bytesCount | Int64 | Los bytes cuentan para leer. |
+| posición | Int64 | La posición desde la cual comenzar a leer bytes. |
+| bytesCount | Int64 | La cantidad de bytes a leer. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Los datos de flujo convertidos alByte matriz.
+Los datos del flujo convertidos al arreglo Byte.
 
 ### Ver también
 
 * class [StreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../streamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

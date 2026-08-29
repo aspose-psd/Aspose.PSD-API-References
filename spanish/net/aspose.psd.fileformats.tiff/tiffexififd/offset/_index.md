@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffExifIfd propiedad. Obtiene o establece el puntero a EXIF IFD.
+title: "TiffExifIfd.Offset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffExifIfd. Obtiene o establece el puntero al IFD EXIF"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-Obtiene o establece el puntero a EXIF IFD.
+Obtiene o establece el puntero al EXIF IFD.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El puntero a EXIF IFD.
+El puntero al IFD EXIF.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | No hay puntero a EXIF IFD. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | No hay puntero al IFD EXIF. |
 
 ### Ver también
 
 * class [TiffExifIfd](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

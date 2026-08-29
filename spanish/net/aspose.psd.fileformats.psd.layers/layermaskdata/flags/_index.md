@@ -1,28 +1,29 @@
 ---
-title: LayerMaskData.Flags
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerMaskData propiedad. Obtiene o establece los indicadores de máscara de capa.
+title: "LayerMaskData.Flags"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LayerMaskData propiedad. Obtiene o establece los flags de la máscara de capa"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Flags property
 
-Obtiene o establece los indicadores de máscara de capa.
+Obtiene o establece los indicadores de la máscara de capa.
 
 ```csharp
 public LayerMaskFlags Flags { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Las banderas de máscara de capa.
+Los flags de la máscara de capa.
 
 ### Ver también
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

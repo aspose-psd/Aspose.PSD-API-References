@@ -1,11 +1,12 @@
 ---
-title: Class GlobalAltitudeResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.GlobalAltitudeResource clase. Recurso de altitud global
+title: "Clase GlobalAltitudeResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GlobalAltitudeResource class. Recurso de altitud global"
 type: docs
-weight: 3710
+weight: 4180
 url: /es/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource class
 
 Recurso de altitud global
@@ -18,7 +19,7 @@ public sealed class GlobalAltitudeResource : ResourceBlock
 
 | Nombre | Descripción |
 | --- | --- |
-| [GlobalAltitudeResource](globalaltituderesource/)() | Constructor predeterminado |
+| [GlobalAltitudeResource](globalaltituderesource/)() | El constructor predeterminado. |
 
 ## Propiedades
 
@@ -27,22 +28,22 @@ public sealed class GlobalAltitudeResource : ResourceBlock
 | [Altitude](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/) { get; set; } | Obtiene o establece la altitud. |
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/datasize/) { get; } | Obtiene el tamaño de los datos del recurso en bytes. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtiene o establece el identificador único del recurso. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/minimalversion/) { get; } | Obtiene la versión PSD mínima requerida. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea uniforme (un nombre nulo consta de dos bytes de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Debe ser siempre '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recursos en bytes, incluidos sus datos. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/globalaltituderesource/minimalversion/) { get; } | Obtiene la versión mínima requerida del PSD. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea par (un nombre nulo consta de dos bytes de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Siempre debe ser '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recurso en bytes, incluidos sus datos. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recursos en el flujo especificado. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recurso en el flujo especificado. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valida los valores del recurso. |
 
 ### Ver también
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class WorkingPathResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.WorkingPathResource clase. Ruta de trabajo recurso.
+title: "Clase WorkingPathResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Resources.WorkingPathResource. Recurso de ruta de trabajo"
 type: docs
-weight: 3980
+weight: 4450
 url: /es/net/aspose.psd.fileformats.psd.resources/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource class
 
-Ruta de trabajo recurso.
+Recurso de ruta de trabajo.
 
 ```csharp
 public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
@@ -18,7 +19,7 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 
 | Nombre | Descripción |
 | --- | --- |
-| [WorkingPathResource](workingpathresource/)(byte[]) | Inicializa una nueva instancia del`WorkingPathResource` clase. |
+| [WorkingPathResource](workingpathresource/)(byte[]) | Inicializa una nueva instancia de la clase `WorkingPathResource`. |
 
 ## Propiedades
 
@@ -29,31 +30,31 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 | [IsDisabled](../../aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está deshabilitada. |
 | [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/) { get; set; } | Obtiene o establece un valor que indica si esta instancia está invertida. |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/) { get; set; } | Obtiene o establece un valor que indica si esta instancia no está vinculada. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/) { get; } | Obtiene la versión PSD mínima requerida. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea uniforme (un nombre nulo consta de dos bytes de 0). |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/) { get; } | Obtiene la versión mínima requerida del PSD. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtiene o establece el nombre del recurso. Cadena Pascal, rellenada para que el tamaño sea par (un nombre nulo consta de dos bytes de 0). |
 | [Paths](../../aspose.psd.fileformats.psd.resources/workingpathresource/paths/) { get; set; } | Obtiene o establece los registros de ruta. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Debe ser siempre '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recursos en bytes, incluidos sus datos. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtiene la firma del recurso. Siempre debe ser '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtiene el tamaño del bloque de recurso en bytes, incluidos sus datos. |
 | [Version](../../aspose.psd.fileformats.psd.resources/workingpathresource/version/) { get; set; } | Obtiene o establece la versión. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recursos en el flujo especificado. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Guarda el bloque de recurso en el flujo especificado. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valida los valores del recurso. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra la compatibilidad del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación Recortar.
+Este ejemplo demuestra el soporte del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación de recorte.
 
 ```csharp
 [C#]
 
-// Recorta la imagen y guarda.
+// Recortar imagen y guardar.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -76,10 +77,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Carga la imagen guardada y verifica los cambios.
+// Cargar imagen guardada y verificar los cambios.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -103,7 +104,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
 * interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

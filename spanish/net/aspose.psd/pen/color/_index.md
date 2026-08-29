@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen propiedad. Obtiene o establece el color de estePen .
+title: "Pen.Color"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Pen. Obtiene o establece el color de este Pen"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-Obtiene o establece el color de este[`Pen`](../) .
+Obtiene o establece el color de este [`Pen`](../).
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-A`Color` estructura que representa el color de este[`Pen`](../).
+Una estructura `Color` que representa el color de este [`Pen`](../).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | El`Color` propiedad se establece en un inmutable[`Pen`](../) , como los devueltos por el[`Pen`](../) clase. |
+| ArgumentException | La propiedad `Color` se establece en un [`Pen`](../) inmutable, como los devueltos por la clase [`Pen`](../). |
 
 ### Ver también
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

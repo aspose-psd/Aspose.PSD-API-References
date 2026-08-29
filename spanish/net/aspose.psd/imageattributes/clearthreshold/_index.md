@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearThreshold
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageAttributes método. Borra el valor de umbral para la categoría predeterminada.
+title: "ImageAttributes.ClearThreshold"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageAttributes. Borra el valor del umbral para la categoría predeterminada."
 type: docs
 weight: 100
 url: /es/net/aspose.psd/imageattributes/clearthreshold/
 ---
+{{< psd/tize >}}
 ## ClearThreshold() {#clearthreshold}
 
 Borra el valor de umbral para la categoría predeterminada.
@@ -17,28 +18,28 @@ public void ClearThreshold()
 ### Ver también
 
 * class [ImageAttributes](../)
-* espacio de nombres [Aspose.PSD](../../imageattributes/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearThreshold(ColorAdjustType) {#clearthreshold_1}
 
-Borra el valor de umbral para una categoría específica.
+Borra el valor de umbral para una categoría especificada.
 
 ```csharp
 public void ClearThreshold(ColorAdjustType type)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| type | ColorAdjustType | un elemento de[`ColorAdjustType`](../../coloradjusttype/) que especifica la categoría para la que se borra el umbral. |
+| type | ColorAdjustType | Un elemento de [`ColorAdjustType`](../../coloradjusttype/) que especifica la categoría para la cual se borra el umbral. |
 
 ### Ver también
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espacio de nombres [Aspose.PSD](../../imageattributes/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

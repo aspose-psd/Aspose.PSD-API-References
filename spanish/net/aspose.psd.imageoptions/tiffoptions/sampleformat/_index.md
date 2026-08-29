@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el formato de muestra.
+title: "TiffOptions.SampleFormat"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el formato de muestra"
 type: docs
-weight: 390
+weight: 400
 url: /es/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SampleFormat property
 
 Obtiene o establece el formato de muestra.
@@ -14,7 +15,7 @@ Obtiene o establece el formato de muestra.
 public TiffSampleFormats[] SampleFormat { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El formato de muestra.
 
@@ -23,13 +24,13 @@ El formato de muestra.
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | valor |
-| ArgumentOutOfRangeException | value;La longitud de la matriz debe corresponder a las muestras por conteo de píxeles. |
+| ArgumentOutOfRangeException | value;La longitud del arreglo debe corresponder al número de muestras por píxel. |
 
 ### Ver también
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

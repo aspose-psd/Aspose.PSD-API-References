@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HDpi
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResolutionInfoResource propiedad. PPP horizontales.
+title: "ResolutionInfoResource.HDpi"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResolutionInfoResource. DPI horizontal"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HDpi property
 
-PPP horizontales.
+DPI horizontal.
 
 ```csharp
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los ppp horizontales.
+El DPI horizontal.
 
 ### Ver también
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

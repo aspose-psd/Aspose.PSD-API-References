@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.WidthDisplayUnit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResolutionInfoResource propiedad. Obtiene o establece la unidad de visualización de ancho.
+title: "ResolutionInfoResource.WidthDisplayUnit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResolutionInfoResource. Obtiene o establece la unidad de visualización del ancho"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.WidthDisplayUnit property
 
-Obtiene o establece la unidad de visualización de ancho.
+Obtiene o establece la unidad de visualización del ancho.
 
 ```csharp
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La unidad de visualización de ancho.
+La unidad de visualización del ancho.
 
 ### Ver también
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

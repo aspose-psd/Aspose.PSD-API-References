@@ -1,11 +1,12 @@
 ---
-title: IPartialArgb64PixelLoader.Process64
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPartialArgb64PixelLoader método. Procesa los píxeles cargados.
+title: "IPartialArgb64PixelLoader.Process64"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IPartialArgb64PixelLoader. Procesa los píxeles cargados"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/ipartialargb64pixelloader/process64/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader.Process64 method
 
 Procesa los píxeles cargados.
@@ -14,19 +15,19 @@ Procesa los píxeles cargados.
 public void Process64(Rectangle pixelsRectangle, long[] pixels, Point start, Point end)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pixelsRectangle | Rectangle | El rectángulo de píxeles. |
-| pixels | Int64[] | Los píxeles ARGB de 64 bits. |
-| start | Point | El punto de píxeles de inicio. Si no es igual a (izquierda, arriba), lo que significa que no es un rectángulo completo que tenemos. |
-| end | Point | El punto final de los píxeles. Si no es igual a (derecha, abajo), lo que significa que no es un rectángulo completo que tenemos. |
+| píxeles | Int64[] | Los píxeles ARGB de 64 bits. |
+| start | Punto | El punto de píxeles inicial. Si no es igual a (left,top) significa que no tenemos un rectángulo completo. |
+| fin | Punto | El punto de píxeles final. Si no es igual a (right,bottom) significa que no tenemos un rectángulo completo. |
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb64PixelLoader](../)
-* espacio de nombres [Aspose.PSD](../../ipartialargb64pixelloader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

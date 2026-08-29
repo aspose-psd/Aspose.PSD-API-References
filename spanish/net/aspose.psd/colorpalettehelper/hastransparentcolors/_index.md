@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorPaletteHelper método. Determina si la paleta especificada tiene colores transparentes.
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ColorPaletteHelper. Determina si la paleta especificada tiene colores transparentes."
 type: docs
 weight: 90
 url: /es/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
 Determina si la paleta especificada tiene colores transparentes.
@@ -14,13 +15,13 @@ Determina si la paleta especificada tiene colores transparentes.
 public static bool HasTransparentColors(IColorPalette palette)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| palette | IColorPalette | la paleta |
+| paleta | IColorPalette | La paleta. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si la paleta especificada tiene colores transparentes; de lo contrario,`FALSO` .
+`true` si la paleta especificada tiene colores transparentes; de lo contrario, `false`.
 
 ### Excepciones
 
@@ -32,7 +33,7 @@ public static bool HasTransparentColors(IColorPalette palette)
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* espacio de nombres [Aspose.PSD](../../colorpalettehelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

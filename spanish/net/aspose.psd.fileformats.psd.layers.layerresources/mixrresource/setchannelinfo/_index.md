@@ -1,11 +1,12 @@
 ---
-title: MixrResource.SetChannelInfo
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MixrResource método. Establece la información del canal.
+title: "MixrResource.SetChannelInfo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método MixrResource. Establece la información del canal"
 type: docs
-weight: 80
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.SetChannelInfo method
 
 Establece la información del canal.
@@ -14,10 +15,10 @@ Establece la información del canal.
 public void SetChannelInfo(int channelIndex, byte[] value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | channelIndex | Int32 | Índice del canal. |
-| value | Byte[] | El valor. |
+| valor | Byte[] | El valor. |
 
 ### Excepciones
 
@@ -28,7 +29,7 @@ public void SetChannelInfo(int channelIndex, byte[] value)
 ### Ver también
 
 * class [MixrResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

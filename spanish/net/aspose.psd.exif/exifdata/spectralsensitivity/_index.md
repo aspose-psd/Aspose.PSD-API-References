@@ -1,11 +1,12 @@
 ---
-title: ExifData.SpectralSensitivity
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la sensibilidad espectral.
+title: "ExifData.SpectralSensitivity"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la sensibilidad espectral"
 type: docs
 weight: 970
 url: /es/net/aspose.psd.exif/exifdata/spectralsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.SpectralSensitivity property
 
 Obtiene o establece la sensibilidad espectral.
@@ -14,14 +15,14 @@ Obtiene o establece la sensibilidad espectral.
 public string SpectralSensitivity { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La sensibilidad espectral.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

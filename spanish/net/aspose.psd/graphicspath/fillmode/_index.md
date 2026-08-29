@@ -1,24 +1,25 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GraphicsPath propiedad. Obtiene o establece unFillMode enumeración que determina cómo los interiores de las formas en esteGraphicsPath están llenos.
+title: "GraphicsPath.FillMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GraphicsPath. Obtiene o establece una enumeración FillMode que determina cómo se rellenan los interiores de las formas en este GraphicsPath"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-Obtiene o establece un[`FillMode`](../../fillmode/) enumeración que determina cómo los interiores de las formas en este[`GraphicsPath`](../) están llenos.
+Obtiene o establece una enumeración [`FillMode`](../../fillmode/) que determina cómo se rellenan los interiores de las formas en este [`GraphicsPath`](../).
 
 ```csharp
 public FillMode FillMode { get; set; }
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-A[`FillMode`](../../fillmode/) enumeración que especifica cómo los interiores de las formas en este[`GraphicsPath`](../) están llenos.
+Una enumeración [`FillMode`](../../fillmode/) que especifica cómo se rellenan los interiores de las formas en este [`GraphicsPath`](../).
 
-### El valor de la propiedad
+### Property Value
 
 El modo de relleno.
 
@@ -26,7 +27,7 @@ El modo de relleno.
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* espacio de nombres [Aspose.PSD](../../graphicspath/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

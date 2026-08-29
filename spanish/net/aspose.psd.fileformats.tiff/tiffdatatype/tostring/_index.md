@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.ToString
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffDataType método. Devuelve unString que representa esta instancia.
+title: "TiffDataType.ToString"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffDataType. Devuelve una cadena que representa esta instancia"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.fileformats.tiff/tiffdatatype/tostring/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ToString method
 
-Devuelve unString que representa esta instancia.
+Devuelve una String que representa esta instancia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-AString que representa esta instancia.
+Una String que representa esta instancia.
 
 ### Ver también
 
 * class [TiffDataType](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

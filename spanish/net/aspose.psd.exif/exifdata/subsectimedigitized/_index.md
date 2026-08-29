@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeDigitized
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece las fracciones de segundos para la etiqueta DateTimeDigitized.
+title: "ExifData.SubsecTimeDigitized"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece las fracciones de segundo para la etiqueta DateTimeDigitized"
 type: docs
 weight: 1040
 url: /es/net/aspose.psd.exif/exifdata/subsectimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeDigitized property
 
-Obtiene o establece las fracciones de segundos para la etiqueta DateTimeDigitized.
+Obtiene o establece las fracciones de segundo para la etiqueta DateTimeDigitized.
 
 ```csharp
 public string SubsecTimeDigitized { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Las fracciones de segundos para la etiqueta DateTimeDigitized.
+Las fracciones de segundo para la etiqueta DateTimeDigitized.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

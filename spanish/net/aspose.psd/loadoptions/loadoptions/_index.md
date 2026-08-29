@@ -1,14 +1,15 @@
 ---
-title: LoadOptions.LoadOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LoadOptions constructor. Constructor predeterminado
+title: "LoadOptions.LoadOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor LoadOptions. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/loadoptions/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public LoadOptions()
@@ -17,7 +18,7 @@ public LoadOptions()
 ### Ver también
 
 * class [LoadOptions](../)
-* espacio de nombres [Aspose.PSD](../../loadoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

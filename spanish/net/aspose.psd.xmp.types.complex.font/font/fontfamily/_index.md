@@ -1,11 +1,12 @@
 ---
-title: Font.FontFamily
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font propiedad. Obtiene o establece la familia de fuentes.
+title: "Font.FontFamily"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Font. Obtiene o establece la familia de fuentes"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp.types.complex.font/font/fontfamily/
 ---
+{{< psd/tize >}}
 ## Font.FontFamily property
 
 Obtiene o establece la familia de fuentes.
@@ -14,14 +15,14 @@ Obtiene o establece la familia de fuentes.
 public string FontFamily { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La familia tipográfica.
+La familia de fuentes.
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

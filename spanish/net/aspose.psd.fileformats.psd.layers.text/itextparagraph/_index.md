@@ -1,14 +1,15 @@
 ---
-title: Interface ITextParagraph
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph interfaz. La interfaz para trabajar con el párrafo
+title: "Interfaz ITextParagraph"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph. La interfaz para trabajar con párrafos"
 type: docs
-weight: 3520
+weight: 3940
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-La interfaz para trabajar con el párrafo
+La interfaz para trabajar con párrafos
 
 ```csharp
 public interface ITextParagraph
@@ -18,26 +19,26 @@ public interface ITextParagraph
 
 | Nombre | Descripción |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Obtiene o establece un valor que indica si [guión automático]. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Obtiene o establece un valor que indica si [automatic hyphenate]. |
 | [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Obtiene o establece el interlineado automático. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Obtiene o establece un valor que indica si este`ITextParagraph`es burasagiri. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Obtiene o establece un valor que indica si este `ITextParagraph` es burasagiri. |
 | [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Obtiene o establece los guiones consecutivos. |
 | [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Obtiene o establece la sangría final. |
 | [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Obtiene o establece un valor que indica si [every line composer]. |
 | [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Obtiene o establece la sangría de la primera línea. |
 | [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Obtiene o establece el espaciado de glifos. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Obtiene o establece un valor que indica si este`ITextParagraph` esta colgando. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Obtiene o establece el tamaño de la palabra con guión. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Obtiene o establece un valor que indica si este `ITextParagraph` está colgando. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Obtiene o establece el tamaño de la palabra con guiones. |
 | [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Obtiene o establece la justificación. |
 | [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Obtiene o establece el orden kinsoku. |
 | [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Obtiene o establece el tipo de interlineado. |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Obtiene o establece el espaciado entre letras. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Obtiene o establece el guión de publicación. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Obtiene o establece el guión previo. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Obtiene o establece el espacio después de. |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Obtiene o establece el espaciado de letras. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Obtiene o establece el guión posterior. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Obtiene o establece el guión anterior. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Obtiene o establece el espacio posterior. |
 | [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Obtiene o establece el espacio anterior. |
 | [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Obtiene o establece la sangría inicial. |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Obtiene o establece el espaciado entre palabras. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Obtiene o establece el espaciado de palabras. |
 | [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Obtiene o establece la zona. |
 
 ## Métodos
@@ -47,9 +48,9 @@ public interface ITextParagraph
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Aplica el párrafo especificado. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Determina si el párrafo especificado es igual. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra que la alineación de texto a través de ITextPortion para idiomas de derecha a izquierda funciona correctamente.
+El siguiente ejemplo demuestra que la alineación de texto mediante ITextPortion para idiomas de derecha a izquierda funciona correctamente.
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-El siguiente ejemplo de código muestra la edición de porciones de texto y su estilo de texto.
+El siguiente ejemplo de código demuestra la edición de porciones de texto y su estilo de texto.
 
 ```csharp
 [C#]
@@ -92,7 +93,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando el texto de cada porción
+            // Comprobando el texto de cada porción
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -101,8 +102,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando los datos de los párrafos
-            // Los párrafos tienen diferente justificación
+            // Comprobando los datos de los párrafos
+            // Los párrafos tienen justificación diferente
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -151,8 +152,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Comprobando datos de estilo
-            // Los estilos tienen diferentes colores y tamaños de letra
+            // Comprobando los datos de estilo
+            // Los estilos tienen colores diferentes y tamaño de fuente
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -192,7 +193,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Ejemplo de cómo agregar una nueva porción de texto
+            // Ejemplo de agregar una nueva porción de texto
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -200,17 +201,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Ejemplo de edición de párrafo y estilo para porciones
-            // Establecer justificación correcta
+            // Establecer justificación a la derecha
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Diferentes colores para cada estilo. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Diferentes colores para cada estilo. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Fuente diferente. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Fuente diferente. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -227,7 +228,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

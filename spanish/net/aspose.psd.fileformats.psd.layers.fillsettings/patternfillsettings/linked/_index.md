@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PatternFillSettings propiedad. Obtiene o establece un valor que indica si estePatternFillSettingsestá vinculado.
+title: "PatternFillSettings.Linked"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PatternFillSettings propiedad. Obtiene o establece un valor que indica si este PatternFillSettings está vinculado"
 type: docs
-weight: 50
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-Obtiene o establece un valor que indica si este[`PatternFillSettings`](../)está vinculado.
+Obtiene o establece un valor que indica si este [`PatternFillSettings`](../) está vinculado.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si está vinculado; de lo contrario,`FALSO` .
+`true` si está vinculado; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con la edición de patrón de capa de relleno.
+El siguiente código demuestra el soporte de la edición del patrón de capa de relleno.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Edición 
+            // Editando 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Ver también
 
 * class [PatternFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IKeyedObject.Key
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IKeyedObject propiedad. Obtiene la clave del objeto.
+title: "IKeyedObject.Key"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IKeyedObject. Obtiene la clave del objeto"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
 Obtiene la clave del objeto.
@@ -14,14 +15,14 @@ Obtiene la clave del objeto.
 public string Key { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La clave del objeto.
 
 ### Ver también
 
 * interface [IKeyedObject](../)
-* espacio de nombres [Aspose.PSD](../../ikeyedobject/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

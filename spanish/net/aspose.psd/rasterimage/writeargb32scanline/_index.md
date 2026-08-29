@@ -1,11 +1,12 @@
 ---
-title: RasterImage.WriteArgb32ScanLine
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Escribe toda la línea de escaneo en el índice de línea de escaneo especificado.
+title: "RasterImage.WriteArgb32ScanLine"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterImage. Escribe toda la línea de escaneo en el índice de línea de escaneo especificado."
 type: docs
-weight: 590
+weight: 610
 url: /es/net/aspose.psd/rasterimage/writeargb32scanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.WriteArgb32ScanLine method
 
 Escribe toda la línea de escaneo en el índice de línea de escaneo especificado.
@@ -14,15 +15,15 @@ Escribe toda la línea de escaneo en el índice de línea de escaneo especificad
 public void WriteArgb32ScanLine(int scanLineIndex, int[] argb32Pixels)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Índice basado en cero de la línea de exploración. |
-| argb32Pixels | Int32[] | La matriz de colores ARGB de 32 bits para escribir. |
+| scanLineIndex | Int32 | Índice basado en cero de la línea de escaneo. |
+| argb32Pixels | Int32[] | El array de colores ARGB de 32 bits a escribir. |
 
 ### Ver también
 
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

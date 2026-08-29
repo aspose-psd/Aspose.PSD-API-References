@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StringFormat propiedad. Obtiene una matriz de distancias entre tabulaciones en las unidades especificadas por elPageUnit propiedad.
+title: "StringFormat.TabStops"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StringFormat. Obtiene una matriz de distancias entre tabuladores en las unidades especificadas por la propiedad PageUnit."
 type: docs
-weight: 110
+weight: 120
 url: /es/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-Obtiene una matriz de distancias entre tabulaciones en las unidades especificadas por el[`PageUnit`](../../graphics/pageunit/) propiedad.
+Obtiene una matriz de distancias entre tabuladores en las unidades especificadas por la propiedad [`PageUnit`](../../graphics/pageunit/).
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La pestaña se detiene.
+Los tabuladores.
 
-### Observaciones
+## Observaciones
 
 La propiedad se introduce para el método eliminado GetTabStops.
 
 ### Ver también
 
 * class [StringFormat](../)
-* espacio de nombres [Aspose.PSD](../../stringformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

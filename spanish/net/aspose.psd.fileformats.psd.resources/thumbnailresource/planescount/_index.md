@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ThumbnailResource propiedad. Obtiene o establece el recuento de aviones.
+title: "ThumbnailResource.PlanesCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ThumbnailResource. Obtiene o establece el recuento de planos"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-Obtiene o establece el recuento de aviones.
+Obtiene o establece el recuento de planos.
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los planos en miniatura cuentan.
+El recuento de planos de la miniatura.
 
 ### Ver también
 
 * class [ThumbnailResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

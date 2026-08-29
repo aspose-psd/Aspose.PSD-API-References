@@ -1,11 +1,12 @@
 ---
-title: Class ReferenceStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ReferenceStructure clase. La estructura de referencia.
+title: "Clase ReferenceStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ReferenceStructure clase. La estructura de referencia"
 type: docs
-weight: 3250
+weight: 3640
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure class
 
 La estructura de referencia.
@@ -18,16 +19,16 @@ public sealed class ReferenceStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [ReferenceStructure](referencestructure/)(ClassID) | Inicializa una nueva instancia del`ReferenceStructure` clase. |
+| [ReferenceStructure](referencestructure/)(ClassID) | Inicializa una nueva instancia de la clase `ReferenceStructure`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/) { get; set; } | Obtiene o establece una copia de una matriz de estructuras. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key/) { get; } | Obtiene la clave de estructura. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key/) { get; } | Obtiene la clave de la estructura. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length/) { get; } | Obtiene la longitud en bytes de [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
 
 ## Métodos
 
@@ -41,12 +42,12 @@ public sealed class ReferenceStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/structurekey/) | Identifica la clave de estructura. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/structurekey/) | Identifica la clave de la estructura. |
 
 ### Ver también
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

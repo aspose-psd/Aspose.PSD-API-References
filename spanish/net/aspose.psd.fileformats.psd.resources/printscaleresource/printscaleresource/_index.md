@@ -1,14 +1,15 @@
 ---
-title: PrintScaleResource.PrintScaleResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PrintScaleResource constructor. Constructor predeterminado
+title: "PrintScaleResource.PrintScaleResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PrintScaleResource constructor. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.resources/printscaleresource/printscaleresource/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public PrintScaleResource()
@@ -17,7 +18,7 @@ public PrintScaleResource()
 ### Ver también
 
 * class [PrintScaleResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

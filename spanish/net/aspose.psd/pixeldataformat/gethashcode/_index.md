@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetHashCode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PixelDataFormat método. Devuelve un código hash para esta instancia.
+title: "PixelDataFormat.GetHashCode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PixelDataFormat. Devuelve un código hash para esta instancia"
 type: docs
 weight: 360
 url: /es/net/aspose.psd/pixeldataformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetHashCode method
 
 Devuelve un código hash para esta instancia.
@@ -14,14 +15,14 @@ Devuelve un código hash para esta instancia.
 public override int GetHashCode()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Un código hash para esta instancia, adecuado para usar en algoritmos hash y estructuras de datos como una tabla hash.
+Un código hash para esta instancia, adecuado para su uso en algoritmos de hash y estructuras de datos como una tabla hash.
 
 ### Ver también
 
 * class [PixelDataFormat](../)
-* espacio de nombres [Aspose.PSD](../../pixeldataformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

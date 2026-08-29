@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidatedPresent
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeOriginSettings propiedad. Obtiene un valor que indica si esta instancia tiene un conjunto de propiedades de forma invalidada.
+title: "VectorShapeOriginSettings.IsShapeInvalidatedPresent"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeOriginSettings. Obtiene un valor que indica si esta instancia tiene establecida la propiedad de forma invalidada"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidatedPresent property
 
-Obtiene un valor que indica si esta instancia tiene un conjunto de propiedades de forma invalidada.
+Obtiene un valor que indica si esta instancia tiene un conjunto de la propiedad shape invalidated.
 
 ```csharp
 public bool IsShapeInvalidatedPresent { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia tiene un conjunto de propiedades de forma invalidada; de lo contrario,`FALSO` .
+`true` si esta instancia tiene establecida la propiedad de forma invalidada; de lo contrario, `false`.
 
 ### Ver también
 
 * class [VectorShapeOriginSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

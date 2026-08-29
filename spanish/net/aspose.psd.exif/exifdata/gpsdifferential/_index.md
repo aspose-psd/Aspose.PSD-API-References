@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDifferential
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece un valor GPS que indica si se aplica corrección diferencial al receptor GPS.
+title: "ExifData.GPSDifferential"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece un valor GPS que indica si se aplica corrección diferencial al receptor GPS"
 type: docs
 weight: 480
 url: /es/net/aspose.psd.exif/exifdata/gpsdifferential/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDifferential property
 
 Obtiene o establece un valor GPS que indica si se aplica corrección diferencial al receptor GPS.
@@ -14,14 +15,14 @@ Obtiene o establece un valor GPS que indica si se aplica corrección diferencial
 public ushort GPSDifferential { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor GPS que indica si se aplica corrección diferencial al receptor GPS.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

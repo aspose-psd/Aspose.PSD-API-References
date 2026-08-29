@@ -1,11 +1,12 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorRed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlackWhiteAdjustmentLayer propiedad. Obtiene o establece el valor doble de Red Tint Color.
+title: "BlackWhiteAdjustmentLayer.TintColorRed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BlackWhiteAdjustmentLayer. Obtiene o establece el valor doble del color de tinte rojo"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorred/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorRed property
 
 Obtiene o establece el valor doble de Red Tint Color.
@@ -14,13 +15,13 @@ Obtiene o establece el valor doble de Red Tint Color.
 public double TintColorRed { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor doble de Red Tint Color.
+El valor doble del color de tinte rojo.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede manipular las propiedades de la capa de ajuste de blanco y negro en Aspose.PSD
+El siguiente ejemplo muestra cómo puede manipular las propiedades de la capa de ajuste blanco y negro en Aspose.PSD
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-El siguiente ejemplo muestra cómo se edita un BlwhResource.
+El siguiente ejemplo muestra cómo edita un BlwhResource.
 
 ```csharp
 [C#]
@@ -91,7 +92,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Prueba de edición y guardado
+                // Prueba de edición y guardado.
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -154,7 +155,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Ver también
 
 * class [BlackWhiteAdjustmentLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

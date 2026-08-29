@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Spread
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OuterGlowEffect propiedad. Obtiene o establece la intensidad en porcentaje.
+title: "OuterGlowEffect.Spread"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OuterGlowEffect propiedad. Obtiene o establece la intensidad como un porcentaje"
 type: docs
 weight: 130
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Spread property
 
-Obtiene o establece la intensidad en porcentaje.
+Obtiene o establece la intensidad como un porcentaje.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La tirada.
+La propagación.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con OuterGlowEffect.
+El siguiente código demuestra el soporte de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Ver también
 
 * class [OuterGlowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

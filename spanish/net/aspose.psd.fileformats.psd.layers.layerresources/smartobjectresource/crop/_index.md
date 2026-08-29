@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartObjectResource propiedad. Obtiene o establece el recorte de los datos de la capa del objeto inteligente en la imagen PSD.
+title: "SmartObjectResource.Crop"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "SmartObjectResource propiedad. Obtiene o establece el recorte de los datos de la capa de objeto inteligente en la imagen PSD"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-Obtiene o establece el recorte de los datos de la capa del objeto inteligente en la imagen PSD.
+Obtiene o establece el recorte de los datos de la capa de objeto inteligente en la imagen PSD.
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor de recorte de la información de la capa colocada.
+El valor de recorte de la información de capa colocada.
 
 ### Ver también
 
 * class [SmartObjectResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

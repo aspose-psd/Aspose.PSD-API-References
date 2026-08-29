@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleBlendMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VstkResource propiedad. Obtiene o establece el modo de combinación de trazos.
+title: "VstkResource.StrokeStyleBlendMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VstkResource. Obtiene o establece el modo de fusión del trazo"
 type: docs
-weight: 80
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleBlendMode property
 
-Obtiene o establece el modo de combinación de trazos.
+Obtiene o establece el modo de fusión de Stroke.
 
 ```csharp
 public BlendMode StrokeStyleBlendMode { get; set; }
@@ -18,7 +19,7 @@ public BlendMode StrokeStyleBlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [VstkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

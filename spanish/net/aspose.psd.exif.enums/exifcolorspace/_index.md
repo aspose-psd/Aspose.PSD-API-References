@@ -1,14 +1,15 @@
 ---
-title: Enum ExifColorSpace
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Exif.Enums.ExifColorSpace enumeración. exif color espacio enum.
+title: "Enumeración ExifColorSpace"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace enum. enumeración de espacio de color exif"
 type: docs
-weight: 800
+weight: 810
 url: /es/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
-exif color espacio enum.
+enumeración de espacio de color exif.
 
 ```csharp
 public enum ExifColorSpace
@@ -19,12 +20,12 @@ public enum ExifColorSpace
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
 | SRgb | `1` | Espacio de color SRGB. |
-| AdobeRgb | `2` | Espacio de color Adobe rgb. |
-| Uncalibrated | `65535` | Espacio de color sin calibrar. |
+| AdobeRgb | `2` | Espacio de color Adobe RGB. |
+| Uncalibrated | `65535` | Espacio de color no calibrado. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

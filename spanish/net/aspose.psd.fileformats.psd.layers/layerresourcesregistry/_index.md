@@ -1,14 +1,15 @@
 ---
-title: Class LayerResourcesRegistry
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry clase. Definir el registro de recursos de capa para la carga de archivos PSD.
+title: "Clase LayerResourcesRegistry"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResourcesRegistry clase. Define el registro de recursos de capa para la carga de archivos PSD"
 type: docs
-weight: 3390
+weight: 3790
 url: /es/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry class
 
-Definir el registro de recursos de capa para la carga de archivos PSD.
+Define el registro de recursos de capa para la carga de archivos PSD.
 
 ```csharp
 public static class LayerResourcesRegistry
@@ -25,14 +26,14 @@ public static class LayerResourcesRegistry
 | Nombre | Descripción |
 | --- | --- |
 | static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/)(Stream, int) | Obtiene el primer descriptor de apertura compatible. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Obtiene el primer descriptor admitido por su nombre de tipo. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Cargas[`LayerResource`](../layerresource/) usando el primer abridor encontrado adecuado para el especificado*stream* . |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/)(string) | Obtiene el primer descriptor compatible por su nombre de tipo. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/)(Stream, int) | Carga [`LayerResource`](../layerresource/) usando el primer abridor encontrado adecuado para el *stream* especificado. |
 | static [RegisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener/)(ILayerResourceLoader) | Registra el abridor. |
-| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/)(ILayerResourceLoader) | Da de baja al abridor. |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/)(ILayerResourceLoader) | Desregistra el abridor. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: InnerShadowEffect propiedad. Obtiene o establece el ángulo en grados.
+title: "InnerShadowEffect.Angle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "InnerShadowEffect propiedad. Obtiene o establece el ángulo en grados"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
 Obtiene o establece el ángulo en grados.
@@ -14,14 +15,14 @@ Obtiene o establece el ángulo en grados.
 public int Angle { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ángulo.
 
 ### Ver también
 
 * class [InnerShadowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

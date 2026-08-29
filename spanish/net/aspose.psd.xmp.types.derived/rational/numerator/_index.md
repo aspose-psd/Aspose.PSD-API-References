@@ -1,11 +1,12 @@
 ---
-title: Rational.Numerator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rational propiedad. Obtiene el numerador.
+title: "Rational.Numerator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Rational. Obtiene el numerador"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp.types.derived/rational/numerator/
 ---
+{{< psd/tize >}}
 ## Rational.Numerator property
 
 Obtiene el numerador.
@@ -14,14 +15,14 @@ Obtiene el numerador.
 public int Numerator { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El numerador.
 
 ### Ver también
 
 * class [Rational](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

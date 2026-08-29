@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.BlackAndWhitePresetFileName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlwhResource propiedad. Obtiene o establece el nombre del archivo predeterminado en blanco y negro.
+title: "BlwhResource.BlackAndWhitePresetFileName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "BlwhResource propiedad. Obtiene o establece el nombre de archivo del preset en blanco y negro"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BlackAndWhitePresetFileName property
 
-Obtiene o establece el nombre del archivo predeterminado en blanco y negro.
+Obtiene o establece el nombre de archivo de preset blanco y negro.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El nombre de archivo predeterminado en blanco y negro.
+El nombre de archivo del preset blanco y negro.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo muestra cómo se edita un BlwhResource.
+El siguiente ejemplo muestra cómo edita un BlwhResource.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Prueba de edición y guardado
+                // Prueba de edición y guardado.
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Ver también
 
 * class [BlwhResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

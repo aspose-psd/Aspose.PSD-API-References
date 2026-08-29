@@ -1,11 +1,12 @@
 ---
-title: Layer.Clipping
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece el recorte de la capa. 0  base 1  no base.
+title: "Layer.Clipping"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de Layer. Obtiene o establece el recorte de la capa. 0 base 1 no base"
 type: docs
-weight: 90
+weight: 100
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
 Obtiene o establece el recorte de la capa. 0 = base, 1 = no base.
@@ -14,14 +15,14 @@ Obtiene o establece el recorte de la capa. 0 = base, 1 = no base.
 public byte Clipping { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La capa recortada.
+El recorte de la capa.
 
 ### Ver también
 
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Bounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BezierShape propiedad. Obtiene los límites del objeto.
+title: "BezierShape.Bounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BezierShape. Obtiene los límites del objeto"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.shapes/beziershape/bounds/
 ---
+{{< psd/tize >}}
 ## BezierShape.Bounds property
 
 Obtiene los límites del objeto.
@@ -14,7 +15,7 @@ Obtiene los límites del objeto.
 public override RectangleF Bounds { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los límites del objeto.
 
@@ -22,7 +23,7 @@ Los límites del objeto.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [BezierShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../beziershape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

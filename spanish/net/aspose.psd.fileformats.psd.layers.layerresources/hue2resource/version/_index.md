@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Version
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Hue2Resource propiedad. Obtiene la versión. El valor predeterminado es 2
+title: "Hue2Resource.Version"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Hue2Resource. Obtiene la versión. El valor predeterminado es 2"
 type: docs
-weight: 100
+weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Version property
 
 Obtiene la versión. El valor predeterminado es 2
@@ -14,14 +15,14 @@ Obtiene la versión. El valor predeterminado es 2
 public short Version { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión.
 
 ### Ver también
 
 * class [Hue2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

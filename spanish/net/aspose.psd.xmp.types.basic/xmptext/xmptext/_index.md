@@ -1,27 +1,28 @@
 ---
-title: XmpText.XmpText
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpText constructor. Inicializa una nueva instancia delXmpText clase.
+title: "XmpText.XmpText"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor XmpText. Inicializa una nueva instancia de la clase XmpText"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-Inicializa una nueva instancia del[`XmpText`](../) clase.
+Inicializa una nueva instancia de la clase [`XmpText`](../).
 
 ```csharp
 public XmpText(string value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| value | String | El valor. |
+| valor | String | El valor. |
 
 ### Ver también
 
 * class [XmpText](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

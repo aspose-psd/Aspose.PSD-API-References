@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanWrite
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StreamContainer propiedad. Obtiene un valor que indica si la secuencia admite escritura.
+title: "StreamContainer.CanWrite"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StreamContainer. Obtiene un valor que indica si la secuencia admite escritura"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/streamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanWrite property
 
-Obtiene un valor que indica si la secuencia admite escritura.
+Obtiene un valor que indica si el flujo admite escritura.
 
 ```csharp
 public virtual bool CanWrite { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si el flujo admite la escritura; de lo contrario,`FALSO`.
+`true` si el stream admite escritura; de lo contrario, `false`.
 
 ### Ver también
 
 * class [StreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../streamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

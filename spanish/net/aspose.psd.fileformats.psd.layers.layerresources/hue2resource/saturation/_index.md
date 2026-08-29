@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Saturation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Hue2Resource propiedad. Obtiene o establece la saturación maestra.
+title: "Hue2Resource.Saturation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Hue2Resource propiedad. Obtiene o establece la saturación maestra"
 type: docs
-weight: 90
+weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
 Obtiene o establece la saturación maestra.
@@ -14,14 +15,14 @@ Obtiene o establece la saturación maestra.
 public short Saturation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La saturación maestra.
 
 ### Ver también
 
 * class [Hue2Resource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

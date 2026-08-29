@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed4Bpp
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PixelDataFormat propiedad. Obtiene elPixelDataFormat definido para 4 bits indexados por color. El almacenamiento de datos de píxeles indexados está diseñado para permitir el almacenamiento y la recuperación de datos en cualquier lugar donde se utilice la paleta de colores. Úselo con precaución ya que puede requerir la conversión de una paleta a otra o de RGBA a un modelo de color indexado .
+title: "PixelDataFormat.RgbIndexed4Bpp"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PixelDataFormat. Obtiene el PixelDataFormat definido para índices de 4 bits por color. El almacenamiento de datos de píxeles indexados está destinado a permitir el almacenamiento y la recuperación de datos donde se use la paleta de colores. Use con precaución porque puede requerir conversión de una paleta a otra o de RGBA a modelo de color indexado."
 type: docs
 weight: 140
 url: /es/net/aspose.psd/pixeldataformat/rgbindexed4bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed4Bpp property
 
-Obtiene el[`PixelDataFormat`](../) definido para 4 bits indexados por color. El almacenamiento de datos de píxeles indexados está diseñado para permitir el almacenamiento y la recuperación de datos en cualquier lugar donde se utilice la paleta de colores. Úselo con precaución, ya que puede requerir la conversión de una paleta a otra o de RGBA a un modelo de color indexado .
+Obtiene el [`PixelDataFormat`](../) definido para índices de 4 bits por color. El almacenamiento de datos de píxeles indexados está destinado a permitir el almacenamiento y la recuperación de datos donde se use la paleta de colores. Use con precaución, porque puede requerir conversión de una paleta a otra o de RGBA a modelo de color indexado.
 
 ```csharp
 public static PixelDataFormat RgbIndexed4Bpp { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El[`PixelDataFormat`](../) definido para 4 bits indexados por color.
+El [`PixelDataFormat`](../) definido para índices de 4 bits por color.
 
 ### Ver también
 
 * class [PixelDataFormat](../)
-* espacio de nombres [Aspose.PSD](../../pixeldataformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Binarización de una imagen con umbral predefinido
+title: "PsdImage.BinarizeFixed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Binarización de una imagen con umbral predefinido"
 type: docs
-weight: 480
+weight: 540
 url: /es/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
 Binarización de una imagen con umbral predefinido
@@ -14,14 +15,14 @@ Binarización de una imagen con umbral predefinido
 public override void BinarizeFixed(byte threshold)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| threshold | Byte | Valor umbral. Si el valor de gris correspondiente de un píxel es mayor que el umbral, se le asignará un valor de 255, 0 de lo contrario. |
+| umbral | Byte | Valor del umbral. Si el valor gris correspondiente de un píxel es mayor que el umbral, se le asignará un valor de 255; de lo contrario, 0. |
 
 ### Ver también
 
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Graphics.DrawEllipse
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics método. Dibuja una elipse definida por un límiteRectangleF .
+title: "Graphics.DrawEllipse"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Graphics. Dibuja una elipse definida por un RectangleF delimitador."
 type: docs
-weight: 210
+weight: 220
 url: /es/net/aspose.psd/graphics/drawellipse/
 ---
+{{< psd/tize >}}
 ## DrawEllipse(Pen, RectangleF) {#drawellipse_1}
 
-Dibuja una elipse definida por un límite[`RectangleF`](../../rectanglef/) .
+Dibuja una elipse definida por un [`RectangleF`](../../rectanglef/) delimitador.
 
 ```csharp
 public void DrawEllipse(Pen pen, RectangleF rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) que determina el color, el ancho y el estilo de la elipse. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) estructura que define los límites de la elipse. |
+| rect | RectangleF | Estructura [`RectangleF`](../../rectanglef/) que define los límites de la elipse. |
 
 ### Excepciones
 
@@ -30,8 +31,8 @@ public void DrawEllipse(Pen pen, RectangleF rect)
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,7 +44,7 @@ Dibuja una elipse definida por un rectángulo delimitador especificado por un pa
 public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) que determina el color, el ancho y el estilo de la elipse. |
 | x | Single | La coordenada x de la esquina superior izquierda del rectángulo delimitador que define la elipse. |
@@ -61,23 +62,23 @@ public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, Rectangle) {#drawellipse}
 
-Dibuja una elipse especificada por un límite[`Rectangle`](../../rectangle/)estructura.
+Dibuja una elipse especificada por una estructura [`Rectangle`](../../rectangle/) delimitadora.
 
 ```csharp
 public void DrawEllipse(Pen pen, Rectangle rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) que determina el color, el ancho y el estilo de la elipse. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) estructura que define los límites de la elipse. |
+| rect | Rectangle | Estructura [`Rectangle`](../../rectangle/) que define los límites de la elipse. |
 
 ### Excepciones
 
@@ -90,8 +91,8 @@ public void DrawEllipse(Pen pen, Rectangle rect)
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,7 +104,7 @@ Dibuja una elipse definida por un rectángulo delimitador especificado por un pa
 public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) que determina el color, el ancho y el estilo de la elipse. |
 | x | Int32 | La coordenada x de la esquina superior izquierda del rectángulo delimitador que define la elipse. |
@@ -121,7 +122,7 @@ public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

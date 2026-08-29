@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerGroup método. Agrega el grupo de capas.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método LayerGroup. Añade el grupo de capas"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
 Agrega el grupo de capas.
@@ -14,25 +15,25 @@ Agrega el grupo de capas.
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | groupName | String | Nombre del grupo. |
-| index | Int32 | El índice de la capa que se va a insertar después. |
+| index | Int32 | El índice de la capa después de la cual insertar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Capa de grupo de apertura
+Abriendo capa de grupo
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo agregar LayerGroup a otro LayerGroup.
+El siguiente ejemplo muestra cómo agregar LayerGroup dentro de otro LayerGroup.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// haciendo una jerarquía de capas como esta:
+// creando una jerarquía de capas como esta:
 // -Grupo 1
 // --Capa 1
 // --Grupo 2
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 ### Ver también
 
 * class [LayerGroup](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

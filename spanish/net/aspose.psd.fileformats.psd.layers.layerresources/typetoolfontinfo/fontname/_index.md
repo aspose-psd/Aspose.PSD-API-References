@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.FontName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolFontInfo propiedad. Obtiene o establece el nombre de la fuente.
+title: "TypeToolFontInfo.FontName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TypeToolFontInfo. Obtiene o establece el nombre de la fuente"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontName property
 
 Obtiene o establece el nombre de la fuente.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre de la fuente.
 public string FontName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre de la fuente.
 
 ### Ver también
 
 * class [TypeToolFontInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

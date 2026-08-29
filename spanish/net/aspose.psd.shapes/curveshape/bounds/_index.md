@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Bounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurveShape propiedad. Obtiene los límites del objeto.
+title: "CurveShape.Bounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CurveShape. Obtiene los límites del objeto"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.shapes/curveshape/bounds/
 ---
+{{< psd/tize >}}
 ## CurveShape.Bounds property
 
 Obtiene los límites del objeto.
@@ -14,7 +15,7 @@ Obtiene los límites del objeto.
 public override RectangleF Bounds { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los límites del objeto.
 
@@ -22,7 +23,7 @@ Los límites del objeto.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [CurveShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../curveshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

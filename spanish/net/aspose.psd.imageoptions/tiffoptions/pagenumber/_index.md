@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece la etiqueta del número de página.
+title: "TiffOptions.PageNumber"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece la etiqueta del número de página."
 type: docs
-weight: 300
+weight: 310
 url: /es/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
 Obtiene o establece la etiqueta del número de página.
@@ -14,7 +15,7 @@ Obtiene o establece la etiqueta del número de página.
 public ushort[] PageNumber { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La etiqueta del número de página.
 
@@ -23,12 +24,12 @@ La etiqueta del número de página.
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | valor |
-| ArgumentOutOfRangeException | value; 2 valores esperados en la matriz: PageNumber[0] es el número de página y PageNumber[1] es el número total de páginas del documento. |
+| ArgumentOutOfRangeException | valor;Se esperan 2 valores en la matriz: PageNumber[0] es el número de página y PageNumber[1] es el número total de páginas en el documento. |
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

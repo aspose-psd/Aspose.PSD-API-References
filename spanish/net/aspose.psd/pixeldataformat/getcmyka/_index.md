@@ -1,36 +1,37 @@
 ---
-title: PixelDataFormat.GetCmyka
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PixelDataFormat método. Obtiene color CMYKA con un número específico de bits por muestra.
+title: "PixelDataFormat.GetCmyka"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PixelDataFormat. Obtiene el color CMYKA con un número especificado de bits por muestra"
 type: docs
 weight: 220
 url: /es/net/aspose.psd/pixeldataformat/getcmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCmyka method
 
-Obtiene color CMYKA con un número específico de bits por muestra.
+Obtiene el color CMYKA con un número especificado de bits por muestra.
 
 ```csharp
 public static PixelDataFormat GetCmyka(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
     int bitsPerYellowChannel, int bitsPerKeyChannel, int bitsPerAlphaChannel)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| bitsPerCyanChannel | Int32 | El número de bits por canal cian. |
+| bitsPerCyanChannel | Int32 | El número de bits por canal Cian. |
 | bitsPerMagentaChannel | Int32 | El número de bits por canal Magenta. |
-| bitsPerYellowChannel | Int32 | El número de bits por canal amarillo. |
-| bitsPerKeyChannel | Int32 | El número de bits por canal de clave. |
-| bitsPerAlphaChannel | Int32 | El número de bits por canal alfa. |
+| bitsPerYellowChannel | Int32 | El número de bits por canal Amarillo. |
+| bitsPerKeyChannel | Int32 | El número de bits por canal Key. |
+| bitsPerAlphaChannel | Int32 | El número de bits por canal Alpha. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El color CMYK.
 
 ### Ver también
 
 * class [PixelDataFormat](../)
-* espacio de nombres [Aspose.PSD](../../pixeldataformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

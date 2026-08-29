@@ -1,40 +1,41 @@
 ---
-title: SectionDividerLayer.IsVisibleInGroup
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SectionDividerLayer propiedad. Obtiene un valor que indica si esta instancia está visible en el grupo si la capa no está en el grupo significa grupo raíz.
+title: "SectionDividerLayer.IsVisibleInGroup"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SectionDividerLayer. Obtiene un valor que indica si esta instancia es visible en el grupo. Si la capa no está en un grupo, significa grupo raíz"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers/sectiondividerlayer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## SectionDividerLayer.IsVisibleInGroup property
 
-Obtiene un valor que indica si esta instancia está visible en el grupo (si la capa no está en el grupo, significa grupo raíz).
+Obtiene un valor que indica si esta instancia es visible en el grupo(Si la capa no está en un grupo significa que es el grupo raíz).
 
 ```csharp
 public override bool IsVisibleInGroup { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia es visible en el grupo; de lo contrario,`FALSO` .
+`true` si esta instancia es visible en el grupo; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código muestra las capas SectionDividerLayer y cómo obtener el LayerGroup relacionado.
+El siguiente código demuestra capas SectionDividerLayer y cómo obtener el LayerGroup relacionado con ellas.
 
 ```csharp
 [C#]
 
-// El siguiente código muestra las capas SectionDividerLayer y cómo obtener el LayerGroup relacionado.
+// El siguiente código demuestra capas SectionDividerLayer y cómo obtener el LayerGroup relacionado con ellas.
 
-// jerarquía de capas
-// [0]: '</Grupo de capas>' SectionDividerLayer para el Grupo 1
-// [1]: 'Capa 1' Capa normal
-// [2]: '</Grupo de capas>' SectionDividerLayer para el Grupo 2
-// [3]: '</Grupo de capas>' SectionDividerLayer para el Grupo 3
-// [4]: 'Grupo 3' CapaGrupo
-// [5]: 'Grupo 2' CapaGrupo
-// [6]: 'Grupo 1' CapaGrupo
+// Jerarquía de capas
+//    [0]: '</Layer group>' SectionDividerLayer para el Grupo 1
+//    [1]: 'Layer 1' Capa regular
+//    [2]: '</Layer group>' SectionDividerLayer para el Grupo 2
+//    [3]: '</Layer group>' SectionDividerLayer para el Grupo 3
+//    [4]: 'Group 3' GroupLayer
+//    [5]: 'Group 2' GroupLayer
+//    [6]: 'Group 1' GroupLayer
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -46,37 +47,37 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 using (var image = new PsdImage(100, 100))
 {
-    // Creando jerarquía de capas
-    // Agrega el LayerGroup 'Grupo 1'
+    // Creando la jerarquía de capas
+    // Agregar el LayerGroup 'Group 1'
     LayerGroup group1 = image.AddLayerGroup("Group 1", 0, true);
     // Agregar capa regular
     Layer layer1 = new Layer();
     layer1.DisplayName = "Layer 1";
     group1.AddLayer(layer1);
-    // Agrega el LayerGroup 'Grupo 2'
+    // Agregar el LayerGroup 'Group 2'
     LayerGroup group2 = group1.AddLayerGroup("Group 2", 1);
-    // Agrega el LayerGroup 'Grupo 3'
+    // Agregar el LayerGroup 'Group 3'
     LayerGroup group3 = group2.AddLayerGroup("Group 3", 0);
 
-    // Obtiene la SectionDividerLayer
+    // Obtiene el SectionDividerLayer
     SectionDividerLayer divider1 = (SectionDividerLayer)image.Layers[0];
     SectionDividerLayer divider2 = (SectionDividerLayer)image.Layers[2];
     SectionDividerLayer divider3 = (SectionDividerLayer)image.Layers[3];
 
     // usando el método SectionDividerLayer.GetRelatedLayerGroup(), obtiene la instancia de LayerGroup relacionada.
-    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // el mismo grupo de capas
-    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // el mismo grupo de capas
-    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // el mismo grupo de capas
+    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
 
     LayerGroup folder1 = divider1.GetRelatedLayerGroup();
-    AssertAreEqual(5, folder1.Layers.Length); // 'Grupo 1' contiene 5 capas
+    AssertAreEqual(5, folder1.Layers.Length); // 'Group 1' contains 5 layers
 }
 ```
 
 ### Ver también
 
 * class [SectionDividerLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../sectiondividerlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

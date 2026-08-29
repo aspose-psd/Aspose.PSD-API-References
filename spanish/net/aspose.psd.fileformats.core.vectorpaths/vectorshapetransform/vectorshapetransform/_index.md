@@ -1,22 +1,23 @@
 ---
-title: VectorShapeTransform.VectorShapeTransform
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeTransform constructor. Inicializa una nueva instancia delVectorShapeTransform clase.
+title: "VectorShapeTransform.VectorShapeTransform"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de VectorShapeTransform. Inicializa una nueva instancia de la clase VectorShapeTransform"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/vectorshapetransform/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform constructor
 
-Inicializa una nueva instancia del[`VectorShapeTransform`](../) clase.
+Inicializa una nueva instancia de la clase [`VectorShapeTransform`](../).
 
 ```csharp
 public VectorShapeTransform()
 ```
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo muestra cómo obtener y establecer nuevas propiedades Transform y OriginBoxCorners de ShapeOriginSettings en el recurso Vogk de FillLayer en el archivo PSD.
+Este ejemplo muestra cómo obtener y establecer las nuevas propiedades Transform y OriginBoxCorners de ShapeOriginSettings en el recurso Vogt de FillLayer en el archivo PSD.
 
 ```csharp
 [C#]
@@ -34,11 +35,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Afirmar después de leer
+    // Verificar después de leer
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // Afirmar nuevas propiedades
+    // Verificar nuevas propiedades
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -79,19 +80,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // Guarde esta imagen PSD con propiedades modificadas.
+    // Guardar esta imagen PSD con propiedades modificadas.
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// Cargue la imagen PSD guardada con las propiedades modificadas.
+// Cargar la imagen PSD guardada con propiedades modificadas.
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Comprueba que las propiedades se guardan y cargan correctamente 
+    // Verificar que las propiedades se guarden y carguen correctamente
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -164,7 +165,7 @@ void AssertAreEqual(object actual, object expected)
 ### Ver también
 
 * class [VectorShapeTransform](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapetransform/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

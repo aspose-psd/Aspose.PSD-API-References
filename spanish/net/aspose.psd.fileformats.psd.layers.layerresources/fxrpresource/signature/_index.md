@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.Signature
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FxrpResource propiedad. Obtiene la firma.
+title: "FxrpResource.Signature"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad FxrpResource. Obtiene la firma"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Signature property
 
 Obtiene la firma.
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Ver también
 
 * class [FxrpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

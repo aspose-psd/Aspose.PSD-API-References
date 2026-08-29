@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.IsOpen
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LengthRecord propiedad. Obtiene o establece un valor que indica si esta instancia está abierta.
+title: "LengthRecord.IsOpen"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LengthRecord propiedad. Obtiene o establece un valor que indica si esta instancia está abierta"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isopen/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsOpen property
 
 Obtiene o establece un valor que indica si esta instancia está abierta.
@@ -14,14 +15,14 @@ Obtiene o establece un valor que indica si esta instancia está abierta.
 public bool IsOpen { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia está abierta; de lo contrario,`FALSO` .
+`true` si esta instancia está abierta; de lo contrario, `false`.
 
 ### Ver también
 
 * class [LengthRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

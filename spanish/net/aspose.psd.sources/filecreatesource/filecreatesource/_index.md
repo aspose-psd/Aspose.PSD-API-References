@@ -1,87 +1,88 @@
 ---
-title: FileCreateSource.FileCreateSource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FileCreateSource constructor. Inicializa una nueva instancia delFileCreateSource clase.
+title: "FileCreateSource.FileCreateSource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor FileCreateSource. Inicializa una nueva instancia de la clase FileCreateSource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.sources/filecreatesource/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource(string) {#constructor}
 
-Inicializa una nueva instancia del[`FileCreateSource`](../) clase.
+Inicializa una nueva instancia de la clase [`FileCreateSource`](../).
 
 ```csharp
 public FileCreateSource(string filePath)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo a crear. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo crea un nuevo archivo de imagen en alguna ubicación del disco según lo especificado por la propiedad Source de la instancia de BmpOptions. Si el segundo parámetro no se pasa al constructor de FileCreateSource, entonces, de manera predeterminada, el archivo que se creará tiene la propiedad IsTemporal establecida en True. Con IsTemporal establecido en True, no se guardará ningún archivo en el disco al final de la ejecución.
+Este ejemplo crea un nuevo archivo Image en una ubicación de disco especificada por la propiedad Source de la instancia BmpOptions. Si no se pasa el segundo parámetro al constructor de FileCreateSource, entonces, por defecto, el archivo a crear tiene la propiedad IsTemporal establecida en True. Con IsTemporal establecida en True, no se guardará ningún archivo en disco al final de la ejecución.
 
 ```csharp
 [C#]
 
 string path = "C:\\temp\\image.psd";
     
-//Crea una instancia de PsdOptions y establece sus diversas propiedades
+//Crea una instancia de PsdOptions y establece sus diversas propiedades.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Cree una instancia de FileCreateSource y asígnela como Fuente para la instancia de PsdOptions
-//Si no se pasa el segundo parámetro, entonces, de forma predeterminada, el archivo tiene IsTemporal establecido en True
+//Cree una instancia de FileCreateSource y asígnela como Source para la instancia de PsdOptions
+//Si no se pasa el segundo parámetro, entonces, por defecto, el archivo tiene IsTemporal establecida en True.
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\output.bmp");
 
-//Crea una instancia de Imagen 
+//Crea una instancia de Image
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //hacer un poco de procesamiento de imagen
+    //realiza algún procesamiento de imagen
 }
 ```
 
 ### Ver también
 
 * class [FileCreateSource](../)
-* espacio de nombres [Aspose.PSD.Sources](../../filecreatesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FileCreateSource(string, bool) {#constructor_1}
 
-Inicializa una nueva instancia del[`FileCreateSource`](../) clase.
+Inicializa una nueva instancia de la clase [`FileCreateSource`](../).
 
 ```csharp
 public FileCreateSource(string filePath, bool isTemporal)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | filePath | String | La ruta del archivo a crear. |
-| isTemporal | Boolean | Si se establece en`verdadero` el archivo creado será temporal. |
+| isTemporal | Boolean | Si se establece en `true`, el archivo creado será temporal. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo crea un nuevo archivo de imagen en alguna ubicación del disco según lo especificado por la propiedad Source de la instancia de PsdOptions. Se establecen varias propiedades para la instancia de PsdOptions antes de crear la imagen real. Especialmente la propiedad Source, que se refiere a la ubicación real del disco en este caso.
+Este ejemplo crea un nuevo archivo Image en una ubicación de disco especificada por la propiedad Source de la instancia PsdOptions. Se establecen varias propiedades de la instancia PsdOptions antes de crear la imagen real. Especialmente la propiedad Source, que en este caso se refiere a la ubicación real del disco.
 
 ```csharp
 [C#]
 
-//Cree una instancia de PsdOptions y configure sus diversas propiedades
+//Cree una instancia de PsdOptions y establezca sus diversas propiedades
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Cree una instancia de FileCreateSource y asígnela como Fuente para la instancia de PsdOptions
-//El segundo parámetro booleano determina si el archivo a crear es temporal o no
+//Cree una instancia de FileCreateSource y asígnela como Source para la instancia de PsdOptions
+//El segundo parámetro Boolean determina si el archivo a crear es Temporal o no
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
 //Cree una instancia de Image e inicialícela con una instancia de PsdOptions llamando al método Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //hacer un poco de procesamiento de imagen
+    //realiza algún procesamiento de imagen
 
-    // guarda todos los cambios
+    // guarde todos los cambios
     image.Save();
 }
 ```
@@ -89,7 +90,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 ### Ver también
 
 * class [FileCreateSource](../)
-* espacio de nombres [Aspose.PSD.Sources](../../filecreatesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

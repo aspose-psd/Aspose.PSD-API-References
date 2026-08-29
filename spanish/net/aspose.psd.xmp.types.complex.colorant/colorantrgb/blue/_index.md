@@ -1,11 +1,12 @@
 ---
-title: ColorantRgb.Blue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorantRgb propiedad. Obtiene o establece el valor del componente azul.
+title: "ColorantRgb.Blue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorantRgb. Obtiene o establece el valor del componente azul"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Blue property
 
 Obtiene o establece el valor del componente azul.
@@ -14,14 +15,14 @@ Obtiene o establece el valor del componente azul.
 public byte Blue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor del componente azul.
 
 ### Ver también
 
 * class [ColorantRgb](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

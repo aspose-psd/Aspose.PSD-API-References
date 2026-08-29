@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorX
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PhflResourceVersion3 propiedad. Obtiene o establece el color X.
+title: "PhflResourceVersion3.ColorX"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PhflResourceVersion3. Obtiene o establece el color X"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorx/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorX property
 
 Obtiene o establece el color X.
@@ -14,14 +15,14 @@ Obtiene o establece el color X.
 public float ColorX { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El color X.
 
 ### Ver también
 
 * class [PhflResourceVersion3](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

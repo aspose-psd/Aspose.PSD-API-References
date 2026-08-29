@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.HeaderVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GridAndGuidesResouce propiedad. Obtiene o establece la versión del encabezado. Este valor debe ser siempre 1.
+title: "GridAndGuidesResouce.HeaderVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GridAndGuidesResouce. Obtiene o establece la versión del encabezado. Este valor debe ser siempre 1"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.HeaderVersion property
 
 Obtiene o establece la versión del encabezado. Este valor debe ser siempre 1.
@@ -14,14 +15,14 @@ Obtiene o establece la versión del encabezado. Este valor debe ser siempre 1.
 public int HeaderVersion { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La versión del encabezado.
 
 ### Ver también
 
 * class [GridAndGuidesResouce](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

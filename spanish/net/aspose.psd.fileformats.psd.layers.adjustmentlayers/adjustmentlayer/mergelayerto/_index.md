@@ -1,11 +1,12 @@
 ---
-title: AdjustmentLayer.MergeLayerTo
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AdjustmentLayer método. Fusiona la capa con la capa especificada
+title: "AdjustmentLayer.MergeLayerTo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "AdjustmentLayer método. Fusiona la capa a la capa especificada"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayer.MergeLayerTo method
 
 Fusiona la capa con la capa especificada
@@ -14,15 +15,15 @@ Fusiona la capa con la capa especificada
 public override void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| layerToMergeInto | Layer | La capa en la que se fusionará. |
+| layerToMergeInto | Capa | La capa en la que fusionar. |
 
 ### Ver también
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [AdjustmentLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../adjustmentlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

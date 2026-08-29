@@ -1,11 +1,12 @@
 ---
-title: DescriptorStructure.GetHeaderLength
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DescriptorStructure método. Obtiene la longitud del encabezado.
+title: "DescriptorStructure.GetHeaderLength"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método DescriptorStructure. Obtiene la longitud del encabezado"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.GetHeaderLength method
 
 Obtiene la longitud del encabezado.
@@ -14,14 +15,14 @@ Obtiene la longitud del encabezado.
 public override int GetHeaderLength()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 La longitud del encabezado
 
 ### Ver también
 
 * class [DescriptorStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum ExifUnit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Exif.Enums.ExifUnit enumeración. enumeración de unidad exif.
+title: "Enumeración ExifUnit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Exif.Enums.ExifUnit enumeración. exif unidad enumeración"
 type: docs
-weight: 960
+weight: 970
 url: /es/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
 enumeración de unidad exif.
@@ -18,13 +19,13 @@ public enum ExifUnit
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| None | `1` | Unidades no definidas |
-| Inch | `2` | Unidades de pulgada |
-| Cm | `3` | Unidades métricas en centímetros |
+| None | `1` | Unidades indefinidas |
+| Inch | `2` | Unidades en pulgadas |
+| Cm | `3` | Unidades métricas de centímetros |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

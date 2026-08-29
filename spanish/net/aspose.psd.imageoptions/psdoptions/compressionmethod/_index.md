@@ -1,20 +1,21 @@
 ---
-title: PsdOptions.CompressionMethod
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdOptions propiedad. Obtiene o establece el método de compresión psd.
+title: "PsdOptions.CompressionMethod"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PsdOptions. Obtiene o establece el método de compresión psd."
 type: docs
-weight: 50
+weight: 60
 url: /es/net/aspose.psd.imageoptions/psdoptions/compressionmethod/
 ---
+{{< psd/tize >}}
 ## PsdOptions.CompressionMethod property
 
-Obtiene o establece el método de compresión psd.
+Obtiene o establece el método de compresión PSD.
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El método de compresión.
 
@@ -22,7 +23,7 @@ El método de compresión.
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [PsdOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../psdoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

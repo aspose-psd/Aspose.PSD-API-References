@@ -1,27 +1,28 @@
 ---
-title: DisposableObject.Disposed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DisposableObject propiedad. Obtiene un valor que indica si esta instancia se desecha.
+title: "DisposableObject.Disposed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad DisposableObject. Obtiene un valor que indica si esta instancia está descartada"
 type: docs
 weight: 20
 url: /es/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
-Obtiene un valor que indica si esta instancia se desecha.
+Obtiene un valor que indica si esta instancia está eliminada.
 
 ```csharp
 public bool Disposed { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si se desecha; de lo contrario,`FALSO`.
+`true` si está descartada; de lo contrario, `false`.
 
 ### Ver también
 
 * class [DisposableObject](../)
-* espacio de nombres [Aspose.PSD](../../disposableobject/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

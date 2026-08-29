@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IAsyncTask método. Ejecuta esta tarea.
+title: "IAsyncTask.RunAsync"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IAsyncTask. Ejecuta esta tarea"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 Ejecuta esta tarea.
@@ -17,8 +18,8 @@ public void RunAsync()
 ### Ver también
 
 * interface [IAsyncTask](../)
-* espacio de nombres [Aspose.PSD.AsyncTask](../../iasynctask/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,14 +31,14 @@ Ejecuta esta tarea.
 public void RunAsync(ThreadPriority priority)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| priority | ThreadPriority | La prioridad del hilo. |
+| prioridad | ThreadPriority | La prioridad del hilo. |
 
 ### Ver también
 
 * interface [IAsyncTask](../)
-* espacio de nombres [Aspose.PSD.AsyncTask](../../iasynctask/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

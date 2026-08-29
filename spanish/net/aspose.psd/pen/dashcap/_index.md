@@ -1,34 +1,35 @@
 ---
-title: Pen.DashCap
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen propiedad. Obtiene o establece el estilo de mayúscula utilizado al final de los guiones que forman las líneas discontinuas dibujadas con estePen .
+title: "Pen.DashCap"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Pen. Obtiene o establece el estilo de tapa usado al final de los guiones que forman líneas discontinuas dibujadas con este Pen"
 type: docs
 weight: 80
 url: /es/net/aspose.psd/pen/dashcap/
 ---
+{{< psd/tize >}}
 ## Pen.DashCap property
 
-Obtiene o establece el estilo de mayúscula utilizado al final de los guiones que forman las líneas discontinuas dibujadas con este[`Pen`](../) .
+Obtiene o establece el estilo de tapa usado al final de los guiones que forman líneas discontinuas dibujadas con este [`Pen`](../).
 
 ```csharp
 public DashCap DashCap { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Uno de los`DashCap` valores que representan el estilo de tapa utilizado al principio y al final de los guiones que forman las líneas discontinuas dibujadas con este[`Pen`](../).
+Uno de los valores `DashCap` que representa el estilo de tapa usado al principio y al final de los guiones que forman líneas discontinuas dibujadas con este [`Pen`](../).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | El`DashCap` propiedad se establece en un inmutable[`Pen`](../) , como los devueltos por el[`Pen`](../) clase. |
+| ArgumentException | La propiedad `DashCap` se establece en un [`Pen`](../) inmutable, como los que devuelve la clase [`Pen`](../). |
 
 ### Ver también
 
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

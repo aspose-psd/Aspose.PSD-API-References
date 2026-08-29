@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSImgDirection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la dirección GPS de la imagen cuando fue capturada.
+title: "ExifData.GPSImgDirection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la dirección GPS de la imagen cuando fue capturada"
 type: docs
 weight: 500
 url: /es/net/aspose.psd.exif/exifdata/gpsimgdirection/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSImgDirection property
 
 Obtiene o establece la dirección GPS de la imagen cuando fue capturada.
@@ -14,7 +15,7 @@ Obtiene o establece la dirección GPS de la imagen cuando fue capturada.
 public TiffRational GPSImgDirection { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La dirección GPS de la imagen cuando fue capturada.
 
@@ -22,7 +23,7 @@ La dirección GPS de la imagen cuando fue capturada.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BilateralSmoothingFilterOptions constructor. Inicializa una nueva instancia delBilateralSmoothingFilterOptions clase.
+title: "BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor BilateralSmoothingFilterOptions. Inicializa una nueva instancia de la clase BilateralSmoothingFilterOptions"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions(int) {#constructor_1}
 
-Inicializa una nueva instancia del[`BilateralSmoothingFilterOptions`](../) clase.
+Inicializa una nueva instancia de la clase [`BilateralSmoothingFilterOptions`](../).
 
 ```csharp
 public BilateralSmoothingFilterOptions(int size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| size | Int32 | Tamaño del núcleo. |
+| tamaño | Int32 | Tamaño del kernal. |
 
 ### Ver también
 
 * class [BilateralSmoothingFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BilateralSmoothingFilterOptions() {#constructor}
 
-Inicializa una nueva instancia del[`BilateralSmoothingFilterOptions`](../) clase.
+Inicializa una nueva instancia de la clase [`BilateralSmoothingFilterOptions`](../).
 
 ```csharp
 public BilateralSmoothingFilterOptions()
@@ -37,7 +38,7 @@ public BilateralSmoothingFilterOptions()
 ### Ver también
 
 * class [BilateralSmoothingFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

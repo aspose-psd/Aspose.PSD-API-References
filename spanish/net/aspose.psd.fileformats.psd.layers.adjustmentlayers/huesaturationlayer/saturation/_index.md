@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Saturation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: HueSaturationLayer propiedad. Obtiene o establece la saturación.
+title: "HueSaturationLayer.Saturation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad HueSaturationLayer. Obtiene o establece la saturación"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/saturation/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Saturation property
 
 Obtiene o establece la saturación.
@@ -14,7 +15,7 @@ Obtiene o establece la saturación.
 public short Saturation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La saturación.
 
@@ -27,7 +28,7 @@ La saturación.
 ### Ver también
 
 * class [HueSaturationLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Figure.Shapes
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Figure propiedad. Obtiene las formas de las figuras.
+title: "Figure.Shapes"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Figure. Obtiene las formas de la figura"
 type: docs
 weight: 50
 url: /es/net/aspose.psd/figure/shapes/
 ---
+{{< psd/tize >}}
 ## Figure.Shapes property
 
-Obtiene las formas de las figuras.
+Obtiene las formas de la figura.
 
 ```csharp
 public Shape[] Shapes { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La figura da forma.
+Las formas de la figura.
 
 ### Ver también
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* espacio de nombres [Aspose.PSD](../../figure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

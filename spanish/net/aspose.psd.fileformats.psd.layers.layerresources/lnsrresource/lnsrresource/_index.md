@@ -1,60 +1,61 @@
 ---
-title: LnsrResource.LnsrResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LnsrResource constructor. Inicializa una nueva instancia delLnsrResource clase.
+title: "LnsrResource.LnsrResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LnsrResource constructor. Inicializa una nueva instancia de la clase LnsrResource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-Inicializa una nueva instancia del[`LnsrResource`](../) clase.
+Inicializa una nueva instancia de la clase [`LnsrResource`](../).
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| lnsrResourceType | LnsrResourceType | Tipo de LNSR. |
+| lnsrResourceType | LnsrResourceType | Tipo del LNSR. |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | No puede crear lnsr con valor de tipo Desconocido |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | No se puede crear lnsr con un valor de tipo Unknown |
 
 ### Ver también
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`LnsrResource`](../) class. Con valor personalizado o desconocido
+Inicializa una nueva instancia de la clase [`LnsrResource`](../). Con valor personalizado o desconocido
 
 ```csharp
 public LnsrResource(byte[] bytes)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| bytes | Byte[] | los bytes |
+| bytes | Byte[] | Los bytes. |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| Exception | Valor de recurso lnsr no válido |
+| Excepción | Valor de recurso lnsr inválido |
 
 ### Ver también
 
 * class [LnsrResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

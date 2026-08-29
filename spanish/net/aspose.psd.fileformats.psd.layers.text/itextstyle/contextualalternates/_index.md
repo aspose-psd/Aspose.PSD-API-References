@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.ContextualAlternates
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextStyle propiedad. Las alternativas contextuales utilizadas para conectar letras.
+title: "ITextStyle.ContextualAlternates"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ITextStyle. Los alternantes contextuales utilizados para conectar letras entre sí"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
+{{< psd/tize >}}
 ## ITextStyle.ContextualAlternates property
 
-Las alternativas contextuales utilizadas para conectar letras.
+Los alternados contextuales utilizados para conectar letras entre sí.
 
 ```csharp
 public bool ContextualAlternates { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad de las nuevas propiedades ITextStyle.
+El siguiente código demuestra el soporte del soporte de las nuevas propiedades ITextStyle.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Ver también
 
 * interface [ITextStyle](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdLoadOptions propiedad. Obtiene o establece un valor que indica si usar disco para cargar el recurso de efectos de forma predeterminada se usa el disco para cargar el recurso de efectos pero se puede usar la memoria si es suficiente configurando este valor en falso.
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PsdLoadOptions. Obtiene o establece un valor que indica si se usa el disco para cargar recursos de efectos; por defecto se usa el disco, pero se puede usar la memoria si es suficiente al establecer este valor en false"
 type: docs
-weight: 70
+weight: 90
 url: /es/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-Obtiene o establece un valor que indica si [usar disco para cargar el recurso de efectos] (de forma predeterminada, se usa el disco para cargar el recurso de efectos, pero se puede usar la memoria si es suficiente configurando este valor en falso).
+Obtiene o establece un valor que indica si se debe [use disk for load effects resource] (por defecto se usa el disco para cargar recursos de efectos, pero se puede usar memoria si es suficiente al establecer este valor en false).
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` if [usar disco para el recurso de efectos de carga]; de lo contrario,`FALSO` .
+`true` si [usar disco para cargar recursos de efectos]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [PsdLoadOptions](../)
-* espacio de nombres [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

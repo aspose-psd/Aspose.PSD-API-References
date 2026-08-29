@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Tension
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurveShape propiedad. Obtiene o establece la tensión de la curva.
+title: "CurveShape.Tension"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CurveShape. Obtiene o establece la tensión de la curva"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
 Obtiene o establece la tensión de la curva.
@@ -14,14 +15,14 @@ Obtiene o establece la tensión de la curva.
 public float Tension { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La tensión de la curva.
 
 ### Ver también
 
 * class [CurveShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../curveshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.InputHighlightLevel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LevelChannel propiedad. Obtiene o establece el nivel de resaltado de entrada.
+title: "LevelChannel.InputHighlightLevel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LevelChannel. Obtiene o establece el nivel de resaltado de entrada"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputHighlightLevel property
 
 Obtiene o establece el nivel de resaltado de entrada.
@@ -14,7 +15,7 @@ Obtiene o establece el nivel de resaltado de entrada.
 public short InputHighlightLevel { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nivel de resaltado de entrada.
 
@@ -22,12 +23,12 @@ El nivel de resaltado de entrada.
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | El nivel de resaltado de entrada solo se puede configurar en un rango de " + (this.InputShadowLevel + 2) + " a 255 |
+| ArgumentOutOfRangeException | El nivel de resaltado de entrada solo se puede establecer en el rango de " + (this.InputShadowLevel + 2) + " a 255 |
 
 ### Ver también
 
 * class [LevelChannel](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

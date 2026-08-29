@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega una capa de ajuste de inversión.
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade una capa de ajuste de inversión"
 type: docs
-weight: 360
+weight: 380
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
-Agrega una capa de ajuste de inversión.
+Añade una capa de ajuste de inversión.
 
 ```csharp
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 La capa de inversión creada
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código muestra la compatibilidad con InvertAdjustmentLayer y cómo agregar InvertAdjustmentLayer.
+El siguiente código muestra el soporte para InvertAdjustmentLayer y cómo agregar InvertAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

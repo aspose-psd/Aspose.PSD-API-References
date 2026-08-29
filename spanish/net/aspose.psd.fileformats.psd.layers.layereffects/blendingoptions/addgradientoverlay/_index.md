@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlendingOptions método. Agrega la superposición de degradado.
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método BlendingOptions. Añade la superposición de degradado"
 type: docs
-weight: 40
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
 Agrega la superposición de degradado.
@@ -14,15 +15,15 @@ Agrega la superposición de degradado.
 public GradientOverlayEffect AddGradientOverlay()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Creado[`GradientOverlayEffect`](../../gradientoverlayeffect/) objeto
+Objeto creado [`GradientOverlayEffect`](../../gradientoverlayeffect/)
 
 ### Ver también
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

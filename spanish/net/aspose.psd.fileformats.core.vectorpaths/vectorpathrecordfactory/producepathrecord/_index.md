@@ -1,38 +1,33 @@
 ---
-title: VectorPathRecordFactory.ProducePathRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorPathRecordFactory método. Produce el registro de ruta.
+title: "VectorPathRecordFactory.ProducePathRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método VectorPathRecordFactory. Produce el registro de ruta"
 type: docs
-weight: 20
+weight: 10
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory.ProducePathRecord method
 
 Produce el registro de ruta.
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Byte[] | Los datos de registro. |
+| datos | Byte[] | Los datos del registro. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Creado[`VectorPathRecord`](../../vectorpathrecord/)
-
-### Excepciones
-
-| excepción | condición |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
+Creado [`VectorPathRecord`](../../vectorpathrecord/).
 
 ### Ver también
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

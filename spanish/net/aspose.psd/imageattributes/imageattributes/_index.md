@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ImageAttributes
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageAttributes constructor. Constructor predeterminado
+title: "ImageAttributes.ImageAttributes"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ImageAttributes. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/imageattributes/imageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributes constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public ImageAttributes()
@@ -17,7 +18,7 @@ public ImageAttributes()
 ### Ver también
 
 * class [ImageAttributes](../)
-* espacio de nombres [Aspose.PSD](../../imageattributes/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

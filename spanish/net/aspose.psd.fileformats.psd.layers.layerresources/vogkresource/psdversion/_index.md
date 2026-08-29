@@ -1,22 +1,23 @@
 ---
-title: VogkResource.PsdVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VogkResource propiedad. Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones.
+title: "VogkResource.PsdVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VogkResource. Obtiene la versión mínima de psd requerida para el recurso de capa. 0 indica que no hay restricciones"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VogkResource.PsdVersion property
 
-Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones.
+Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra el soporte del recurso VogkResource.
+El siguiente ejemplo muestra el soporte del recurso VogkResource.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [VogkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

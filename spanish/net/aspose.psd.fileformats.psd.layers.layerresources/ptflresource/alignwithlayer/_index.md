@@ -1,24 +1,25 @@
 ---
-title: PtFlResource.AlignWithLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PtFlResource propiedad. Obtiene o establece un valor que indica si alinear con la capa.
+title: "PtFlResource.AlignWithLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PtFlResource propiedad. Obtiene o establece un valor que indica si se alinea con la capa"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.AlignWithLayer property
 
-Obtiene o establece un valor que indica si [alinear con la capa].
+Obtiene o establece un valor que indica si [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si [alinear con la capa]; de lo contrario,`FALSO` .
+`true` si [alinear con la capa]; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
 El siguiente ejemplo demuestra el soporte de la carga y edición de un recurso PtFlResource.
 
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // No tenemos datos de patrones en PattResource, por lo que podemos agregarlos.
+                    // No tenemos datos de patrón en PattResource, así que podemos añadirlos.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -89,7 +90,7 @@ using (im)
 ### Ver también
 
 * class [PtFlResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

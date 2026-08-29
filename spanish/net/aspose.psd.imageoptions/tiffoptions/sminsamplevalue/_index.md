@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el valor de muestra mínimo. El valor tiene un tipo de campo que coincide mejor con los datos de muestra tipo Byte Corto o Largo.
+title: "TiffOptions.SminSampleValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el valor de muestra mínimo. El valor tiene un tipo de campo que mejor coincide con los datos de muestra tipo Byte, Short o Long"
 type: docs
-weight: 440
+weight: 450
 url: /es/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-Obtiene o establece el valor de muestra mínimo. El valor tiene un tipo de campo que coincide mejor con los datos de muestra (tipo Byte, Corto o Largo).
+Obtiene o establece el valor mínimo de muestra. El valor tiene un tipo de campo que mejor coincide con los datos de muestra (tipo Byte, Short o Long).
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor de muestra mínimo.
+El valor mínimo de muestra.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

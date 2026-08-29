@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.InstanceId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ResourceEvent propiedad. Obtiene o establece el valor de xmpMMInstanceId.
+title: "ResourceEvent.InstanceId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ResourceEvent. Obtiene o establece el valor de xmpMMInstanceId"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.InstanceId property
 
 Obtiene o establece el valor de xmpMM:InstanceId.
@@ -14,14 +15,14 @@ Obtiene o establece el valor de xmpMM:InstanceId.
 public Guid InstanceId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor de xmpMM:InstanceId.
 
 ### Ver también
 
 * class [ResourceEvent](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

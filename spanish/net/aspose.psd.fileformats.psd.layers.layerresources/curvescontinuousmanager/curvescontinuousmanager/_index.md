@@ -1,27 +1,28 @@
 ---
-title: CurvesContinuousManager.CurvesContinuousManager
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CurvesContinuousManager constructor. Inicializa una nueva instancia delCurvesContinuousManager clase.
+title: "CurvesContinuousManager.CurvesContinuousManager"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor CurvesContinuousManager. Inicializa una nueva instancia de la clase CurvesContinuousManager"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager constructor
 
-Inicializa una nueva instancia del[`CurvesContinuousManager`](../) clase.
+Inicializa una nueva instancia de la clase [`CurvesContinuousManager`](../).
 
 ```csharp
 public CurvesContinuousManager(int maxChannelCount)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | maxChannelCount | Int32 | El número máximo de canales. |
 
 ### Ver también
 
 * class [CurvesContinuousManager](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: PropertyStructure.PropertyStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PropertyStructure constructor. Inicializa una nueva instancia delPropertyStructure clase.
+title: "PropertyStructure.PropertyStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de PropertyStructure. Inicializa una nueva instancia de la clase PropertyStructure"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/propertystructure/
 ---
+{{< psd/tize >}}
 ## PropertyStructure constructor
 
-Inicializa una nueva instancia del[`PropertyStructure`](../) clase.
+Inicializa una nueva instancia de la clase [`PropertyStructure`](../).
 
 ```csharp
 public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | keyName | ClassID | Nombre de la clave. |
-| classID | ClassID | El identificador de clase. |
-| keyID | ClassID | El identificador de clave. |
+| classID | ClassID | El ID de la clase. |
+| keyID | ClassID | El ID de la clave. |
 
 ### Ver también
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

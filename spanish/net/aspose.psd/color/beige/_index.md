@@ -1,11 +1,12 @@
 ---
-title: Color.Beige
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Color propiedad. Obtiene un color definido por el sistema.
+title: "Color.Beige"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Color. Obtiene un color definido por el sistema"
 type: docs
 weight: 60
 url: /es/net/aspose.psd/color/beige/
 ---
+{{< psd/tize >}}
 ## Color.Beige property
 
 Obtiene un color definido por el sistema.
@@ -14,14 +15,14 @@ Obtiene un color definido por el sistema.
 public static Color Beige { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-A[`Color`](../) que representa un color definido por el sistema.
+Un [`Color`](../) que representa un color definido por el sistema.
 
 ### Ver también
 
 * struct [Color](../)
-* espacio de nombres [Aspose.PSD](../../color/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

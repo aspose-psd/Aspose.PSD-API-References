@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.ForegroundColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: HatchBrush propiedad. Obtiene o establece el color de las líneas de sombreado.
+title: "HatchBrush.ForegroundColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad HatchBrush. Obtiene o establece el color de las líneas de trama"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.brushes/hatchbrush/foregroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.ForegroundColor property
 
-Obtiene o establece el color de las líneas de sombreado.
+Obtiene o establece el color de las líneas de trama.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El color de las líneas de sombreado.
+El color de las líneas de trama.
 
 ### Ver también
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../hatchbrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

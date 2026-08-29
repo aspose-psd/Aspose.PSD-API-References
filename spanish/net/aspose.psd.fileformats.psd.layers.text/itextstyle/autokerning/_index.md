@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextStyle propiedad. Obtiene o establece el interletraje automático.
+title: "ITextStyle.AutoKerning"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ITextStyle. Obtiene o establece el auto kerning"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
-Obtiene o establece el interletraje automático.
+Obtiene o establece el kerning automático.
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Interletraje automático entre dos caracteres.
+El auto kerning entre dos caracteres.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad de las nuevas propiedades ITextStyle.
+El siguiente código demuestra el soporte del soporte de las nuevas propiedades ITextStyle.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

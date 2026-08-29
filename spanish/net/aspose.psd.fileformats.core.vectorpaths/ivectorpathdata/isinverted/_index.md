@@ -1,11 +1,12 @@
 ---
-title: IVectorPathData.IsInverted
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IVectorPathData propiedad. Obtiene o establece un valor que indica si esta instancia está invertida.
+title: "IVectorPathData.IsInverted"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IVectorPathData. Obtiene o establece un valor que indica si esta instancia está invertida"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.IsInverted property
 
 Obtiene o establece un valor que indica si esta instancia está invertida.
@@ -14,21 +15,21 @@ Obtiene o establece un valor que indica si esta instancia está invertida.
 public bool IsInverted { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia está invertida; de lo contrario,`FALSO` .
+`true` si esta instancia está invertida; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra la compatibilidad del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación Recortar.
+Este ejemplo demuestra el soporte del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación de recorte.
 
 ```csharp
 [C#]
 
-// Recorta la imagen y guarda.
+// Recortar imagen y guardar.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Carga la imagen guardada y verifica los cambios.
+// Cargar imagen guardada y verificar los cambios.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### Ver también
 
 * interface [IVectorPathData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

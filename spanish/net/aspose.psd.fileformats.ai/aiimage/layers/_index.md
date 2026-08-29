@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiImage propiedad. Obtiene las secciones de la capa.
+title: "AiImage.Layers"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiImage. Obtiene las secciones de capa"
 type: docs
-weight: 90
+weight: 100
 url: /es/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-Obtiene las secciones de la capa.
+Obtiene las secciones de capa.
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Las secciones de la capa.
+Las secciones de capa.
 
 ### Ver también
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

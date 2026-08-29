@@ -1,14 +1,15 @@
 ---
-title: Class FlatArrayException
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FlatArray.Exceptions.FlatArrayException clase. Excepción especial paraFlatArray clase.
+title: "Clase FlatArrayException"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FlatArray.Exceptions.FlatArrayException. Excepción especial para la clase FlatArray"
 type: docs
-weight: 4270
+weight: 4740
 url: /es/net/aspose.psd.flatarray.exceptions/flatarrayexception/
 ---
+{{< psd/tize >}}
 ## FlatArrayException class
 
-Excepción especial paraFlatArray clase.
+Excepción especial para la clase FlatArray.
 
 ```csharp
 public class FlatArrayException : Exception
@@ -16,7 +17,7 @@ public class FlatArrayException : Exception
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FlatArray.Exceptions](../../aspose.psd.flatarray.exceptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FlatArray.Exceptions](../../aspose.psd.flatarray.exceptions/)
+* assembly [Aspose.PSD](../../)
 
 

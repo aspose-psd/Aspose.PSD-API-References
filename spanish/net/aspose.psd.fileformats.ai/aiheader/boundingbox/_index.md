@@ -1,11 +1,12 @@
 ---
-title: AiHeader.BoundingBox
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiHeader propiedad. Obtiene o establece el cuadro delimitador.
+title: "AiHeader.BoundingBox"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiHeader. Obtiene o establece el cuadro delimitador"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 ---
+{{< psd/tize >}}
 ## AiHeader.BoundingBox property
 
 Obtiene o establece el cuadro delimitador.
@@ -14,7 +15,7 @@ Obtiene o establece el cuadro delimitador.
 public Rectangle BoundingBox { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El cuadro delimitador.
 
@@ -22,7 +23,7 @@ El cuadro delimitador.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

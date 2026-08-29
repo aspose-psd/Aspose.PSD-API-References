@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMapDatum
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece los datos del levantamiento geodésico GPS utilizados por el receptor GPS.
+title: "ExifData.GPSMapDatum"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece los datos de la encuesta geodésica GPS utilizados por el receptor GPS"
 type: docs
 weight: 560
 url: /es/net/aspose.psd.exif/exifdata/gpsmapdatum/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMapDatum property
 
-Obtiene o establece los datos del levantamiento geodésico GPS utilizados por el receptor GPS.
+Obtiene o establece los datos de levantamiento geodésico GPS utilizados por el receptor GPS.
 
 ```csharp
 public string GPSMapDatum { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los datos del levantamiento geodésico GPS utilizados por el receptor GPS.
+Los datos de la encuesta geodésica GPS utilizados por el receptor GPS.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

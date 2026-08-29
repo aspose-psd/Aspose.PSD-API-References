@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ProductMajor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BuildVersionInfo campo. La versión principal del producto.
+title: "BuildVersionInfo.ProductMajor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "BuildVersionInfo campo. La versión principal del producto"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/buildversioninfo/productmajor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMajor field
 
 La versión principal del producto.
@@ -17,7 +18,7 @@ public static readonly int ProductMajor;
 ### Ver también
 
 * class [BuildVersionInfo](../)
-* espacio de nombres [Aspose.PSD](../../buildversioninfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

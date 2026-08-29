@@ -1,14 +1,15 @@
 ---
-title: Enum PathOperations
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations enumeración. Las operaciones para la combinación de formas de ruta operaciones booleanas.
+title: "Enumeración PathOperations"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations. Las operaciones para las formas de ruta que combinan operaciones booleanas."
 type: docs
-weight: 1390
+weight: 1400
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
-Las operaciones para la combinación de formas de ruta (operaciones booleanas).
+Las operaciones para combinar formas de ruta (operaciones booleanas).
 
 ```csharp
 public enum PathOperations
@@ -20,12 +21,12 @@ public enum PathOperations
 | --- | --- | --- |
 | ExcludeOverlappingShapes | `0` | Excluir formas superpuestas (operación XOR). |
 | CombineShapes | `1` | Combinar formas (operación OR). Este es el valor predeterminado en Photoshop. |
-| SubtractFrontShape | `2` | Restar forma frontal (NO operación). |
-| IntersectShapeAreas | `3` | Áreas de forma de intersección (operación AND). |
+| SubtractFrontShape | `2` | Restar forma frontal (operación NOT). |
+| IntersectShapeAreas | `3` | Intersectar áreas de forma (operación AND). |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código de ejemplo demuestra la compatibilidad con las nuevas propiedades de LengthRecord, PathOperations (operaciones booleanas), ShapeIndex y BezierKnotRecordsCount.
+El siguiente ejemplo de código demuestra el soporte de nuevas propiedades LengthRecord, PathOperations (operaciones booleanas), ShapeIndex y BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Aquí cambiamos la forma de combinar entre formas.
+    // Aquí cambiamos la forma de combinar entre shapes.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

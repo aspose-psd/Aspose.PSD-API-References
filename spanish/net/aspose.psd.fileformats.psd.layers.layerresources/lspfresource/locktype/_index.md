@@ -1,11 +1,12 @@
 ---
-title: LspfResource.LockType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LspfResource propiedad. Obtiene o establece el tipo de bloqueo.
+title: "LspfResource.LockType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LspfResource. Obtiene o establece el tipo de bloqueo"
 type: docs
-weight: 70
+weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/
 ---
+{{< psd/tize >}}
 ## LspfResource.LockType property
 
 Obtiene o establece el tipo de bloqueo.
@@ -14,7 +15,7 @@ Obtiene o establece el tipo de bloqueo.
 public LayerLockType LockType { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de bloqueo.
 
@@ -22,7 +23,7 @@ El tipo de bloqueo.
 
 * enum [LayerLockType](../../layerlocktype/)
 * class [LspfResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

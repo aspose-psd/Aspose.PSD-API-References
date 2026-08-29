@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Addition
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SizeF método. Suma el ancho y alto de unoSizeF estructura a la anchura y altura de otraSizeFestructura.
+title: "SizeF.op_Addition"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SizeF. Suma el ancho y alto de una estructura SizeF al ancho y alto de otra estructura SizeF."
 type: docs
 weight: 130
 url: /es/net/aspose.psd/sizef/op_addition/
 ---
+{{< psd/tize >}}
 ## SizeF Addition operator
 
-Suma el ancho y alto de uno[`SizeF`](../) estructura a la anchura y altura de otra[`SizeF`](../)estructura.
+Suma el ancho y alto de una estructura [`SizeF`](../) al ancho y alto de otra estructura [`SizeF`](../).
 
 ```csharp
 public static SizeF operator +(SizeF size1, SizeF size2)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| size1 | SizeF | La primera[`SizeF`](../) para agregar |
-| size2 | SizeF | El segundo[`SizeF`](../) para agregar |
+| size1 | SizeF | El primer [`SizeF`](../) a sumar. |
+| size2 | SizeF | El segundo [`SizeF`](../) a sumar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-A[`SizeF`](../) estructura que es el resultado de la operación de suma.
+Una estructura [`SizeF`](../) que es el resultado de la operación de suma.
 
 ### Ver también
 
 * struct [SizeF](../)
-* espacio de nombres [Aspose.PSD](../../sizef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,25 +1,26 @@
 ---
-title: PsdImage.AddTextLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega una nueva capa de Texto.
+title: "PsdImage.AddTextLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade una nueva capa de Texto"
 type: docs
-weight: 420
+weight: 470
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddTextLayer method
 
-Agrega una nueva capa de Texto.
+Añade una nueva capa Text.
 
 ```csharp
 public TextLayer AddTextLayer(string text, Rectangle rect)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| text | String | El texto de la capa. |
+| texto | String | El texto de la capa. |
 | rect | Rectangle | El rectángulo de la capa. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Capa de texto creada.
 
@@ -28,7 +29,7 @@ Capa de texto creada.
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

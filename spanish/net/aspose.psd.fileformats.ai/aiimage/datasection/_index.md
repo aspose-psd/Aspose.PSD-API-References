@@ -1,11 +1,12 @@
 ---
-title: AiImage.DataSection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiImage propiedad. Obtiene la sección de datos.
+title: "AiImage.DataSection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiImage. Obtiene la sección de datos"
 type: docs
-weight: 30
+weight: 40
 url: /es/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
 Obtiene la sección de datos.
@@ -14,7 +15,7 @@ Obtiene la sección de datos.
 public AiDataSection DataSection { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La sección de datos.
 
@@ -22,7 +23,7 @@ La sección de datos.
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

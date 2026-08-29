@@ -1,11 +1,12 @@
 ---
-title: QuickMaskInformationResource.IsMaskEmpty
-second_title: Referencia de API de Aspose.PSD para .NET
-description: QuickMaskInformationResource propiedad. Obtiene o establece un valor que indica si esta instancia tiene la máscara vacía.
+title: "QuickMaskInformationResource.IsMaskEmpty"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad QuickMaskInformationResource. Obtiene o establece un valor que indica si esta instancia está vacía de máscara"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.IsMaskEmpty property
 
 Obtiene o establece un valor que indica si esta instancia tiene la máscara vacía.
@@ -14,14 +15,14 @@ Obtiene o establece un valor que indica si esta instancia tiene la máscara vac�
 public bool IsMaskEmpty { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia tiene una máscara vacía; de lo contrario,`FALSO` .
+`true` si esta instancia está vacía de máscara; de lo contrario, `false`.
 
 ### Ver también
 
 * class [QuickMaskInformationResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

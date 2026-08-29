@@ -1,35 +1,36 @@
 ---
-title: GaussWienerFilterOptions.GaussWienerFilterOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GaussWienerFilterOptions constructor. Inicializa una nueva instancia delGaussWienerFilterOptions clase.
+title: "GaussWienerFilterOptions.GaussWienerFilterOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de GaussWienerFilterOptions. Inicializa una nueva instancia de la clase GaussWienerFilterOptions."
 type: docs
 weight: 10
 url: /es/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/gausswienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions(int, double) {#constructor_1}
 
-Inicializa una nueva instancia del[`GaussWienerFilterOptions`](../) clase.
+Inicializa una nueva instancia de la clase [`GaussWienerFilterOptions`](../).
 
 ```csharp
 public GaussWienerFilterOptions(int radius, double smooth)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| radius | Int32 | el radio |
-| smooth | Double | El suave. |
+| radio | Int32 | El radio. |
+| suavizado | Double | El suavizado. |
 
 ### Ver también
 
 * class [GaussWienerFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GaussWienerFilterOptions() {#constructor}
 
-Inicializa una nueva instancia del[`GaussWienerFilterOptions`](../) class. Con configuración predeterminada.
+Inicializa una nueva instancia de la clase [`GaussWienerFilterOptions`](../). Con la configuración predeterminada.
 
 ```csharp
 public GaussWienerFilterOptions()
@@ -38,7 +39,7 @@ public GaussWienerFilterOptions()
 ### Ver también
 
 * class [GaussWienerFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

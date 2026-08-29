@@ -1,14 +1,15 @@
 ---
-title: Class CurvesManager
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager clase. Clase base para administrar CurvResource
+title: "Clase CurvesManager"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager. Clase base para gestionar CurvResource"
 type: docs
-weight: 2430
+weight: 2690
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
-Clase base para administrar CurvResource
+Clase base para gestionar CurvResource
 
 ```csharp
 public abstract class CurvesManager
@@ -18,17 +19,17 @@ public abstract class CurvesManager
 
 | Nombre | Descripción |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | Inicializa una nueva instancia del`CurvesManager` clase. |
+| [CurvesManager](curvesmanager/)(int) | Inicializa una nueva instancia de la clase `CurvesManager`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Obtiene el número máximo de canales. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Obtiene el recuento máximo de canales. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

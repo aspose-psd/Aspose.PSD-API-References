@@ -1,14 +1,15 @@
 ---
-title: TypeToolLineInfo.TypeToolLineInfo
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolLineInfo constructor. Constructor predeterminado
+title: "TypeToolLineInfo.TypeToolLineInfo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de TypeToolLineInfo. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public TypeToolLineInfo()
@@ -17,7 +18,7 @@ public TypeToolLineInfo()
 ### Ver también
 
 * class [TypeToolLineInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

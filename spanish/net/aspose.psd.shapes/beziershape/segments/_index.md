@@ -1,28 +1,29 @@
 ---
-title: BezierShape.Segments
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BezierShape propiedad. Obtiene los segmentos de forma.
+title: "BezierShape.Segments"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BezierShape. Obtiene los segmentos de la forma"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.shapes/beziershape/segments/
 ---
+{{< psd/tize >}}
 ## BezierShape.Segments property
 
-Obtiene los segmentos de forma.
+Obtiene los segmentos de la forma.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los segmentos de forma.
+Los segmentos de la forma.
 
 ### Ver también
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [BezierShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../beziershape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

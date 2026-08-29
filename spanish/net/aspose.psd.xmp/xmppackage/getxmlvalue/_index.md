@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.GetXmlValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPackage método. Convierte el valor XMP a la representación XML.
+title: "XmpPackage.GetXmlValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "XmpPackage método. Convierte el valor XMP a la representación XML"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.xmp/xmppackage/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.GetXmlValue method
 
 Convierte el valor XMP a la representación XML.
@@ -14,14 +15,14 @@ Convierte el valor XMP a la representación XML.
 public virtual string GetXmlValue()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 Devuelve el valor XMP convertido a la representación XML.
 
 ### Ver también
 
 * class [XmpPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

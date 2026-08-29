@@ -1,11 +1,12 @@
 ---
-title: Class BooleanStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.BooleanStructure clase. La estructura booleana.
+title: "Clase BooleanStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.BooleanStructure. La estructura booleana"
 type: docs
-weight: 3120
+weight: 3500
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/
 ---
+{{< psd/tize >}}
 ## BooleanStructure class
 
 La estructura booleana.
@@ -18,15 +19,15 @@ public sealed class BooleanStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [BooleanStructure](booleanstructure/)(ClassID) | Inicializa una nueva instancia del`BooleanStructure` clase. |
+| [BooleanStructure](booleanstructure/)(ClassID) | Inicializa una nueva instancia de la clase `BooleanStructure`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key/) { get; } | Obtiene la clave de estructura. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key/) { get; } | Obtiene la clave de la estructura. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/length/) { get; } | Obtiene la longitud en bytes de [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value/) { get; set; } | Obtiene o establece un valor booleano. |
 
 ## Métodos
@@ -41,12 +42,12 @@ public sealed class BooleanStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/structurekey/) | Identifica la clave de estructura. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/structurekey/) | Identifica la clave de la estructura. |
 
 ### Ver también
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

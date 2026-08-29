@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.MasterChannel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LevelsLayer propiedad. Obtiene el canal maestro.
+title: "LevelsLayer.MasterChannel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "LevelsLayer propiedad. Obtiene el canal maestro"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/masterchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.MasterChannel property
 
 Obtiene el canal maestro.
@@ -14,7 +15,7 @@ Obtiene el canal maestro.
 public LevelChannel MasterChannel { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El canal maestro.
 
@@ -22,7 +23,7 @@ El canal maestro.
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa de ajuste de exposición.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa de ajuste de exposición"
 type: docs
-weight: 340
+weight: 350
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-Agrega la capa de ajuste de exposición.
+Añade la capa de ajuste de exposición.
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
     float gammaCorrection = 1)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| exposure | Single | La exposición. |
-| offset | Single | El desplazamiento. |
+| exposición | Single | La exposición. |
+| desplazamiento | Single | El desplazamiento. |
 | gammaCorrection | Single | La corrección gamma. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Capa de ajuste de exposición creada
 
@@ -29,7 +30,7 @@ Capa de ajuste de exposición creada
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

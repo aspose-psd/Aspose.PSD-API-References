@@ -1,11 +1,12 @@
 ---
-title: Class Cache
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Cache clase. Contiene la configuración de caché.
+title: "Clase Cache"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Cache. Contiene la configuración de caché."
 type: docs
 weight: 240
 url: /es/net/aspose.psd/cache/
 ---
+{{< psd/tize >}}
 ## Cache class
 
 Contiene la configuración de caché.
@@ -18,29 +19,29 @@ public static class Cache
 
 | Nombre | Descripción |
 | --- | --- |
-| static [AllocatedDiskBytesCount](../../aspose.psd/cache/allocateddiskbytescount/) { get; } | Obtiene el recuento de bytes del disco asignado. |
-| static [AllocatedMemoryBytesCount](../../aspose.psd/cache/allocatedmemorybytescount/) { get; } | Obtiene el recuento de bytes en memoria asignado. |
+| static [AllocatedDiskBytesCount](../../aspose.psd/cache/allocateddiskbytescount/) { get; } | Obtiene el recuento de bytes asignados en disco. |
+| static [AllocatedMemoryBytesCount](../../aspose.psd/cache/allocatedmemorybytescount/) { get; } | Obtiene el recuento de bytes asignados en memoria. |
 | static [CacheFolder](../../aspose.psd/cache/cachefolder/) { get; set; } | Obtiene o establece la carpeta de caché. |
 | static [CacheType](../../aspose.psd/cache/cachetype/) { get; set; } | Obtiene o establece el esquema de caché utilizado. |
 | static [ExactReallocateOnly](../../aspose.psd/cache/exactreallocateonly/) { get; set; } | Obtiene o establece un valor que indica si la reasignación debe ser exacta o no. Si la reasignación no es exacta, el rendimiento debería ser mayor. |
-| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache/) { get; set; } | Obtiene o establece el espacio de disco máximo disponible para la memoria caché. El valor especificado es megabytes count. |
-| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache/) { get; set; } | Obtiene o establece la memoria máxima disponible para la memoria caché en la memoria. El valor especificado es megabytes count. |
+| static [MaxDiskSpaceForCache](../../aspose.psd/cache/maxdiskspaceforcache/) { get; set; } | Obtiene o establece el espacio máximo disponible en disco para la caché. El valor especificado es el recuento de megabytes. |
+| static [MaxMemoryForCache](../../aspose.psd/cache/maxmemoryforcache/) { get; set; } | Obtiene o establece la memoria máxima disponible para la caché en memoria. El valor especificado es el recuento de megabytes. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [SetDefaults](../../aspose.psd/cache/setdefaults/)() | Establece el`Cache` configuración a los valores predeterminados. |
+| static [SetDefaults](../../aspose.psd/cache/setdefaults/)() | Establece la configuración de `Cache` a los valores predeterminados. |
 
-### Ejemplos
+## Ejemplos
 
 Este ejemplo demuestra el uso de Aspose.PSD.Cache
 
 ```csharp
 [C#]
 
-// De forma predeterminada, la carpeta de caché se establece en el directorio temporal local del usuario.
-// También puede especificar otra carpeta de caché que no sea la predeterminada, como la siguiente:
+// Por defecto, la carpeta de caché se establece en el directorio temporal local del usuario.
+// También puedes especificar otra carpeta de caché distinta a la predeterminada como se muestra a continuación:
 // Cache.CacheFolder = @"D:\\MyTemp";
 
 string path = "C:\\temp\\image.psd";
@@ -52,15 +53,15 @@ Cache.CacheType = CacheType.Auto;
 Cache.MaxDiskSpaceForCache = 1073741824; // 1 gigabyte
 Cache.MaxMemoryForCache = 1073741824; // 1 gigabyte
 
-// No se recomienda cambiar la siguiente propiedad ya que puede afectar en gran medida el rendimiento
+// No se recomienda cambiar la siguiente propiedad ya que puede afectar significativamente el rendimiento
 Cache.ExactReallocateOnly = false;
 
-// En cualquier momento puede verificar cuántos bytes están asignados actualmente para la memoria o el disco 
+// En cualquier momento puedes comprobar cuántos bytes están actualmente asignados para memoria o disco 
 // caché examinando las siguientes propiedades
 long l1 = Cache.AllocatedDiskBytesCount;
 long l2 = Cache.AllocatedMemoryBytesCount;
 
-// Haz un poco de procesamiento de imágenes como se muestra a continuación
+// Realiza algún procesamiento de imágenes como se muestra a continuación
 using (RasterImage image = (RasterImage)Image.Load(path))
 {
     Color[] pixels = new Color[image.Width * image.Height];
@@ -71,20 +72,20 @@ using (RasterImage image = (RasterImage)Image.Load(path))
 
     image.SavePixels(image.Bounds, pixels);
 
-    // después de ejecutar el código anterior, se asignarán 40000 bytes en memoria.
+    // Después de ejecutar el código anterior, se asignarán 40000 bytes en memoria.
     long diskBytes = Cache.AllocatedDiskBytesCount;
     long memoryBytes = Cache.AllocatedMemoryBytesCount;
 }
 
-// Las propiedades de asignación se pueden usar para verificar si todos los objetos Aspose.PSD se eliminaron correctamente.
-// En caso de que haya olvidado llamar a dispose en algún objeto, los valores de caché serán diferentes de 0.            
+// Las propiedades de asignación pueden usarse para comprobar si todos los objetos de Aspose.PSD fueron eliminados correctamente.
+// En caso de que hayas olvidado llamar a dispose en algún objeto, los valores de caché serán diferentes de 0.
 l1 = Cache.AllocatedDiskBytesCount;
 l2 = Cache.AllocatedMemoryBytesCount;
 ```
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

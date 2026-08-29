@@ -1,46 +1,47 @@
 ---
-title: Class TimeLine
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine clase. El modelo de opciones de línea de tiempo.
+title: "Clase Timeline"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline. El modelo de opciones de Timeline"
 type: docs
-weight: 1880
+weight: 1980
 url: /es/net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
-## TimeLine class
+{{< psd/tize >}}
+## Timeline class
 
-El modelo de opciones de línea de tiempo.
+El modelo de opciones de la línea de tiempo.
 
 ```csharp
-public sealed class TimeLine
+public sealed class Timeline
 ```
 
 ## Constructores
 
 | Nombre | Descripción |
 | --- | --- |
-| [TimeLine](timeline/)() | Constructor predeterminado |
+| [Timeline](timeline/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [ActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/) { get; set; } | Obtiene o establece el índice del cuadro activo. |
+| [ActiveFrameIndex](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframeindex/) { get; } | Obtiene el índice del fotograma activo. |
 | [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | Obtiene o establece el valor AFSt. |
 | [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | Obtiene la lista de fotogramas. |
-| [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | Obtiene o establece el valor de FsID. |
-| [LayerIds](../../aspose.psd.fileformats.psd.layers.animation/timeline/layerids/) { get; set; } | Obtiene o establece la matriz de ID de capas. |
+| [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | Obtiene o establece el valor FsID. |
 | [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | Obtiene o establece el recuento de bucles. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| static [InitializeFrom](../../aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/)(PsdImage) | Crea la nueva instancia de`TimeLine` , inicializado desde la entrada[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
-| [ApplyTo](../../aspose.psd.fileformats.psd.layers.animation/timeline/applyto/)(PsdImage) | Aplicar valores de línea de tiempo actuales a la entrada[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save)(Stream, ImageOptionsBase) | Guarda los datos de PsdImage y Timeline en el flujo especificado en el formato especificado según las opciones de guardado. |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save_1)(string, ImageOptionsBase) | Guarda los datos de PsdImage y Timeline en la ubicación de archivo especificada en el formato especificado según las opciones de guardado. |
+| [SwitchActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/switchactiveframe/)(int) | Cambia el fotograma activo al objetivo. |
 
-### Ejemplos
+## Ejemplos
 
-La clase TimeLine brinda una capacidad de alto nivel para manipular la línea de tiempo de PsdImage, como cambiar el retraso del cuadro o editar el estado de la capa en un cuadro específico.
+La clase Timeline brinda una capacidad de alto nivel para manipular la línea de tiempo de PsdImage, como cambiar el retardo del fotograma o editar el estado de capa en un fotograma específico.
 
 ```csharp
 [C#]
@@ -50,40 +51,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Cambiar el método de eliminación del cuadro 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Cambiar el método de eliminación del fotograma 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Cambiar el retraso del cuadro 2
-    timeLine.Frames[1].Delay = 15;
+    // Cambiar el retardo del fotograma 2
+    timeline.Frames[1].Delay = 15;
 
-    // Cambiar la opacidad de 'Layer 1' en el cuadro 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Cambiar la opacidad de 'Layer 1' en el fotograma 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // mover 'Capa 1' a la esquina inferior izquierda en el cuadro 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // Mover 'Layer 1' a la esquina inferior izquierda en el fotograma 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Agrega un nuevo marco
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // Agrega un nuevo fotograma
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Cambiar blendMode de 'Layer 1' en el cuadro 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Cambiar blendMode de 'Layer 1' en el fotograma 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Aplicar los cambios de nuevo a la instancia de PsdImage
-    timeLine.ApplyTo(psdImage);
+    // Aplicar los cambios a la instancia de PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

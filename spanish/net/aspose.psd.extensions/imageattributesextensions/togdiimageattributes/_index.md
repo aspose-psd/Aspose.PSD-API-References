@@ -1,32 +1,33 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageAttributesExtensions método. Convierte elImageAttributes haciaImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageAttributesExtensions. Convierte los ImageAttributes a los ImageAttributes"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-Convierte el[`ImageAttributes`](../../../aspose.psd/imageattributes/) haciaImageAttributes .
+Convierte los [`ImageAttributes`](../../../aspose.psd/imageattributes/) a los ImageAttributes.
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | El[`ImageAttributes`](../../../aspose.psd/imageattributes/) para convertir. |
+| imageAttributes | ImageAttributes | Los [`ImageAttributes`](../../../aspose.psd/imageattributes/) a convertir. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el convertidoImageAttributes.
+Los ImageAttributes convertidos.
 
 ### Ver también
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* espacio de nombres [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

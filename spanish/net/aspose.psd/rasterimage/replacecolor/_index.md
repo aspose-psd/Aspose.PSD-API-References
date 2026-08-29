@@ -1,52 +1,53 @@
 ---
-title: RasterImage.ReplaceColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Reemplaza un color por otro con la diferencia permitida y conserva el valor alfa original para guardar bordes suaves.
+title: "RasterImage.ReplaceColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterImage. Reemplaza un color por otro con diferencia permitida y preserva el valor alfa original para mantener bordes suaves"
 type: docs
-weight: 450
+weight: 460
 url: /es/net/aspose.psd/rasterimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## ReplaceColor(Color, byte, Color) {#replacecolor}
 
-Reemplaza un color por otro con la diferencia permitida y conserva el valor alfa original para guardar bordes suaves.
+Reemplaza un color por otro con diferencia permitida y conserva el valor alfa original para mantener bordes suaves.
 
 ```csharp
 public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| oldColor | Color | Color antiguo a sustituir. |
-| oldColorDiff | Byte | Permitió la diferencia en el color antiguo para poder ampliar el tono del color reemplazado. |
-| newColor | Color | Nuevo color para reemplazar el color anterior. |
+| oldColor | Color | Color antiguo a ser reemplazado. |
+| oldColorDiff | Byte | Diferencia permitida en el color antiguo para poder ampliar el tono del color reemplazado. |
+| newColor | Color | Nuevo color con el que reemplazar el color antiguo. |
 
 ### Ver también
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceColor(int, byte, int) {#replacecolor_1}
 
-Reemplaza un color por otro con la diferencia permitida y conserva el valor alfa original para guardar bordes suaves.
+Reemplaza un color por otro con diferencia permitida y conserva el valor alfa original para mantener bordes suaves.
 
 ```csharp
 public virtual void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| oldColorArgb | Int32 | Se reemplazará el valor ARGB de color anterior. |
-| oldColorDiff | Byte | Permitió la diferencia en el color antiguo para poder ampliar el tono del color reemplazado. |
-| newColorArgb | Int32 | Nuevo valor ARGB de color para reemplazar el color anterior. |
+| oldColorArgb | Int32 | Valor ARGB del color antiguo a ser reemplazado. |
+| oldColorDiff | Byte | Diferencia permitida en el color antiguo para poder ampliar el tono del color reemplazado. |
+| newColorArgb | Int32 | Valor ARGB del nuevo color con el que reemplazar el color antiguo. |
 
 ### Ver también
 
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

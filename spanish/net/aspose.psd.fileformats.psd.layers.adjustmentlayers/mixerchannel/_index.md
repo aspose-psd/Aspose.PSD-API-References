@@ -1,14 +1,15 @@
 ---
-title: Class MixerChannel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel clase. Canal mezclador. Es un envoltorio para los datos sin procesar del canal. Usado en MixrResource
+title: "Clase MixerChannel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel clase. MixerChannel. Su contenedor para datos sin procesar del canal. Usado en MixrResource"
 type: docs
-weight: 1780
+weight: 1850
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
+{{< psd/tize >}}
 ## MixerChannel class
 
-Canal mezclador. Es un envoltorio para los datos sin procesar del canal. Usado en MixrResource
+MixerChannel. Es un contenedor para datos sin procesar del canal. Usado en MixrResource.
 
 ```csharp
 public abstract class MixerChannel
@@ -18,7 +19,7 @@ public abstract class MixerChannel
 
 | Nombre | Descripción |
 | --- | --- |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtiene o establece la constante.del canal. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtiene o establece la constante del canal. |
 
 ## Métodos
 
@@ -28,7 +29,7 @@ public abstract class MixerChannel
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

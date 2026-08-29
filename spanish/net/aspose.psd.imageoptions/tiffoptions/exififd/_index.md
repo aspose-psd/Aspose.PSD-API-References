@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el puntero a EXIF IFD.
+title: "TiffOptions.ExifIfd"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el puntero a EXIF IFD"
 type: docs
-weight: 130
+weight: 140
 url: /es/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-Obtiene o establece el puntero a EXIF IFD.
+Obtiene o establece el puntero al EXIF IFD.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El puntero a EXIF IFD.
+El puntero al IFD EXIF.
 
 ### Ver también
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterCachedImage método. Recortando la imagen.
+title: "RasterCachedImage.Crop"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterCachedImage. Recortando la imagen"
 type: docs
 weight: 90
 url: /es/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
 Recortando la imagen.
@@ -14,13 +15,13 @@ Recortando la imagen.
 public override void Crop(Rectangle rectangle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | el rectángulo |
+| rectángulo | Rectangle | El rectángulo. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de recortar la imagen por un rectángulo específico.
+El siguiente código demuestra la capacidad de recortar la imagen mediante un rectángulo específico.
 
 ```csharp
 [C#]
@@ -82,7 +83,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* espacio de nombres [Aspose.PSD](../../rastercachedimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

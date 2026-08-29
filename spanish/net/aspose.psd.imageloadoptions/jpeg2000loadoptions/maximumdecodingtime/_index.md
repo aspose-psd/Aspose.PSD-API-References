@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000LoadOptions.MaximumDecodingTime
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Jpeg2000LoadOptions propiedad. Obtiene o establece el tiempo máximo de decodificación en segundos esta opción se puede usar en máquinas muy lentas con memoria para evitar que el proceso se detenga en imágenes muy grandes resolución de más de 5500x6500 píxeles.
+title: "Jpeg2000LoadOptions.MaximumDecodingTime"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Jpeg2000LoadOptions. Obtiene o establece el tiempo máximo de decodificación en segundos; esta opción puede usarse en máquinas muy lentas o con poca memoria para evitar que el proceso se bloquee con imágenes muy grandes con una resolución superior a 5500x6500 píxeles."
 type: docs
 weight: 20
 url: /es/net/aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime/
 ---
+{{< psd/tize >}}
 ## Jpeg2000LoadOptions.MaximumDecodingTime property
 
-Obtiene o establece el tiempo máximo de decodificación en segundos (esta opción se puede usar en máquinas muy lentas con memoria para evitar que el proceso se detenga en imágenes muy grandes: resolución de más de 5500x6500 píxeles).
+Obtiene o establece el tiempo máximo de decodificación en segundos (esta opción puede usarse en máquinas muy lentas o con poca memoria para evitar que el proceso se bloquee con imágenes muy grandes - resolución superior a 5500x6500 píxeles).
 
 ```csharp
 public int MaximumDecodingTime { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tiempo máximo de decodificación.
 
 ### Ver también
 
 * class [Jpeg2000LoadOptions](../)
-* espacio de nombres [Aspose.PSD.ImageLoadOptions](../../jpeg2000loadoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

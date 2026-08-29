@@ -1,41 +1,42 @@
 ---
-title: Class Lr32Resource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource clase. El recurso lr32.
+title: "Clase Lr32Resource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource class. El recurso lr32"
 type: docs
-weight: 2780
+weight: 3090
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource class
 
 El recurso lr32.
 
 ```csharp
-public class Lr32Resource : LayerResource
+public class Lr32Resource : LrXxResource
 ```
 
 ## Constructores
 
 | Nombre | Descripción |
 | --- | --- |
-| [Lr32Resource](lr32resource/)(int) | Inicializa una nueva instancia del`Lr32Resource` clase. |
+| [Lr32Resource](lr32resource/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/) { get; set; } | Obtiene o establece las capas. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/length/) { get; } | Obtiene la longitud. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/signature/) { get; } | Obtiene la firma. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/) { get; set; } | Obtiene o establece las capas. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/length/) { get; } | Obtiene la longitud del recurso para la versión de encabezado PSD de la imagen. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save/)(StreamContainer, int) | Guarda el registro de la capa. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/)(StreamContainer, int) | Guarda el registro de capa. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -45,8 +46,8 @@ public class Lr32Resource : LayerResource
 
 ### Ver también
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* class [LrXxResource](../lrxxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

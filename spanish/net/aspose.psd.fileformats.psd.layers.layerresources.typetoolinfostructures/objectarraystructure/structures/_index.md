@@ -1,11 +1,12 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ObjectArrayStructure propiedad. Obtiene o establece una copia de una matriz de estructuras.
+title: "ObjectArrayStructure.Structures"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ObjectArrayStructure property. Obtiene o establece una copia de un arreglo de estructuras"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
 Obtiene o establece una copia de una matriz de estructuras.
@@ -14,13 +15,13 @@ Obtiene o establece una copia de una matriz de estructuras.
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Las subestructuras en la estructura de la matriz de objetos.
+Las subestructuras en la estructura del arreglo de objetos.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con las firmas ObAr y UnFl.
+El siguiente código demuestra el soporte de las firmas ObAr y UnFl.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

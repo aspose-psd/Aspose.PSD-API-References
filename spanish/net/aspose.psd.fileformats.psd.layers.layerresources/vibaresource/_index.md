@@ -1,11 +1,12 @@
 ---
-title: Class VibAResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VibAResource clase. Recurso VibA.
+title: "Clase VibAResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VibAResource. Recurso VibA"
 type: docs
-weight: 3350
+weight: 3750
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/
 ---
+{{< psd/tize >}}
 ## VibAResource class
 
 Recurso VibA.
@@ -18,25 +19,25 @@ public class VibAResource : AdjustmentLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [VibAResource](vibaresource/)() | Inicializa una nueva instancia del`VibAResource` clase. |
+| [VibAResource](vibaresource/)() | Inicializa una nueva instancia de la clase `VibAResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/) { get; } | Obtiene la versión psd. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
 | [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/) { get; set; } | Obtiene o establece el valor de saturación |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtiene la firma. |
-| [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/) { get; set; } | Obtiene o establece el valor de vibración |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
+| [Vibrance](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/) { get; set; } | Obtiene o establece el valor de vibrancia |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -44,14 +45,14 @@ public class VibAResource : AdjustmentLayerResource
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vibaresource/typetoolkey/) | La clave de información de la herramienta de tipo. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo de código demuestra la compatibilidad con el recurso VibAResource.
+El siguiente ejemplo de código muestra el soporte del recurso VibAResource.
 
 ```csharp
 [C#]
 
-// Ejemplo del soporte de lectura y escritura de Vibration Resource en tiempo de ejecución.
+// Ejemplo del soporte de lectura y escritura del Recurso de Vibración en tiempo de ejecución.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

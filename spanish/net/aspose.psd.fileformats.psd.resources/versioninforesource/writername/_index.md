@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.WriterName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VersionInfoResource propiedad. Obtiene o establece el nombre del escritor.
+title: "VersionInfoResource.WriterName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VersionInfoResource propiedad. Obtiene o establece el nombre del escritor"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.psd.resources/versioninforesource/writername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.WriterName property
 
 Obtiene o establece el nombre del escritor.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre del escritor.
 public string WriterName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre del escritor.
 
 ### Ver también
 
 * class [VersionInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

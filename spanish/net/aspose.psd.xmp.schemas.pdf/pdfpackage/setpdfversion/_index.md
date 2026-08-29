@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetPdfVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PdfPackage método. Establece la versión PDF.
+title: "PdfPackage.SetPdfVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PdfPackage. Establece la versión PDF"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetPdfVersion method
 
-Establece la versión PDF.
+Establece la versión del PDF.
 
 ```csharp
 public void SetPdfVersion(string version)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| version | String | Versión en pdf, por ejemplo: 1.0, 1.3, etc. |
+| version | String | Versión PDF, por ejemplo: 1.0, 1.3 etc. |
 
 ### Ver también
 
 * class [PdfPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

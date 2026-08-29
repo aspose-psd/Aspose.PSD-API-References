@@ -1,11 +1,12 @@
 ---
-title: PlLdResource.Save
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PlLdResource método. Guarda el recurso PlLD en el contenedor de flujo especificado.
+title: "PlLdResource.Save"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PlLdResource método. Guarda el recurso PlLD en el contenedor de flujo especificado"
 type: docs
-weight: 50
+weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
 Guarda el recurso PlLD en el contenedor de flujo especificado.
@@ -14,14 +15,14 @@ Guarda el recurso PlLD en el contenedor de flujo especificado.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| streamContainer | StreamContainer | El contenedor de secuencias en el que guardar. |
+| streamContainer | StreamContainer | El contenedor de flujo donde guardar. |
 | psdVersion | Int32 | La versión PSD. |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con el recurso PlLdResource.
+El siguiente código demuestra el soporte del recurso PlLdResource.
 
 ```csharp
 [C#]
@@ -203,16 +204,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible con Adobe® Photoshop®
-                ////recurso.UOrder = 6;
-                ////recurso.VOrden = 9;
+                // Tenga cuidado con algunos parámetros: la imagen puede volverse ilegible para Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // No cambie esto, de lo contrario no podrá usar la transformación libre
-                // o cambie el objeto inteligente subrayado al tipo de vector
-                ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+                // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+                // o cambie el objeto inteligente subyacente al tipo vector
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Debería haber un PlLdResource válido con este ID único
-                ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Debe haber un PlLdResource válido con este Unique Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -228,7 +230,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

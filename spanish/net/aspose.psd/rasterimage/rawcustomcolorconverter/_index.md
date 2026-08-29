@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawCustomColorConverter
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage propiedad. Obtiene o establece el convertidor de color personalizado
+title: "RasterImage.RawCustomColorConverter"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad RasterImage. Obtiene o establece el convertidor de color personalizado"
 type: docs
 weight: 70
 url: /es/net/aspose.psd/rasterimage/rawcustomcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawCustomColorConverter property
 
 Obtiene o establece el convertidor de color personalizado
@@ -14,7 +15,7 @@ Obtiene o establece el convertidor de color personalizado
 public IColorConverter RawCustomColorConverter { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El convertidor de color personalizado
 
@@ -22,7 +23,7 @@ El convertidor de color personalizado
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

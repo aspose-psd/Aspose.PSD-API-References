@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Pen propiedad. Obtiene o establece el estilo de mayúscula utilizado al comienzo de las líneas dibujadas con estePen .
+title: "Pen.StartCap"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Pen. Obtiene o establece el estilo de extremo usado al inicio de las líneas dibujadas con este Pen"
 type: docs
 weight: 160
 url: /es/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-Obtiene o establece el estilo de mayúscula utilizado al comienzo de las líneas dibujadas con este[`Pen`](../) .
+Obtiene o establece el estilo de extremo usado al inicio de las líneas dibujadas con este [`Pen`](../).
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Uno de los[`LineCap`](../../linecap/) valores que representan el estilo de gorra utilizado al comienzo de las líneas dibujadas con este[`Pen`](../).
+Uno de los valores de [`LineCap`](../../linecap/) que representa el estilo de extremo usado al inicio de las líneas dibujadas con este [`Pen`](../).
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | El`StartCap` propiedad se establece en un inmutable[`Pen`](../) , como los devueltos por el[`Pen`](../) clase. |
+| ArgumentException | La propiedad `StartCap` se establece en un [`Pen`](../) inmutable, como los devueltos por la clase [`Pen`](../). |
 
 ### Ver también
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* espacio de nombres [Aspose.PSD](../../pen/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

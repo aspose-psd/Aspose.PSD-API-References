@@ -1,14 +1,15 @@
 ---
-title: PattResource.PattResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PattResource constructor. Inicializa una nueva instancia delPattResource clase.
+title: "PattResource.PattResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de PattResource. Inicializa una nueva instancia de la clase PattResource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-Inicializa una nueva instancia del[`PattResource`](../) clase.
+Inicializa una nueva instancia de la clase [`PattResource`](../).
 
 ```csharp
 public PattResource()
@@ -17,29 +18,29 @@ public PattResource()
 ### Ver también
 
 * class [PattResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`PattResource`](../) clase.
+Inicializa una nueva instancia de la clase [`PattResource`](../).
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | Int32 | La clave del tipo de recurso. |
-| patterns | PattResourceData[] | Los datos de patrones. |
+| clave | Int32 | La clave del tipo de recurso. |
+| patrones | PattResourceData[] | Los datos de los patrones. |
 
 ### Ver también
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

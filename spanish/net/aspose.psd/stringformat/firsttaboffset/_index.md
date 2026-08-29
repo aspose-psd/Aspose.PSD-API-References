@@ -1,11 +1,12 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StringFormat propiedad. Obtiene el número de espacios entre el comienzo de una línea de texto y la primera tabulación.
+title: "StringFormat.FirstTabOffset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StringFormat. Obtiene el número de espacios entre el comienzo de una línea de texto y la primera tabulación."
 type: docs
-weight: 70
+weight: 80
 url: /es/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
 Obtiene el número de espacios entre el comienzo de una línea de texto y la primera tabulación.
@@ -14,18 +15,18 @@ Obtiene el número de espacios entre el comienzo de una línea de texto y la pri
 public float FirstTabOffset { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El desplazamiento de la primera pestaña.
+El primer desplazamiento de tabulación.
 
-### Observaciones
+## Observaciones
 
 La propiedad se introduce para el método eliminado GetTabStops.
 
 ### Ver también
 
 * class [StringFormat](../)
-* espacio de nombres [Aspose.PSD](../../stringformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

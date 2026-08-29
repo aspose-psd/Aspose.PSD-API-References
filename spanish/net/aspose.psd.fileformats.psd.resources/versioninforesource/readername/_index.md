@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.ReaderName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VersionInfoResource propiedad. Obtiene o establece el nombre del lector.
+title: "VersionInfoResource.ReaderName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VersionInfoResource propiedad. Obtiene o establece el nombre del lector"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.resources/versioninforesource/readername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.ReaderName property
 
 Obtiene o establece el nombre del lector.
@@ -14,14 +15,14 @@ Obtiene o establece el nombre del lector.
 public string ReaderName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nombre del lector.
 
 ### Ver también
 
 * class [VersionInfoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

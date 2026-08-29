@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Values
-second_title: Referencia de API de Aspose.PSD para .NET
-description: NonGenericDictionary propiedad. Obtiene un ICollection objeto que contiene los valores en IDictionary objeto.
+title: "NonGenericDictionary.Values"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad NonGenericDictionary. Obtiene un objeto ICollection que contiene los valores del objeto IDictionary"
 type: docs
 weight: 90
 url: /es/net/aspose.psd/nongenericdictionary/values/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Values property
 
-Obtiene un ICollection objeto que contiene los valores en IDictionary objeto.
+Obtiene un objeto ICollection que contiene los valores del objeto IDictionary.
 
 ```csharp
 public ICollection Values { get; }
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-UnICollection objeto que contiene los valores en elIDictionary objeto.
+Un objeto ICollection que contiene los valores del objeto IDictionary.
 
 ### Ver también
 
 * class [NonGenericDictionary](../)
-* espacio de nombres [Aspose.PSD](../../nongenericdictionary/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

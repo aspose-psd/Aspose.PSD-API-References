@@ -1,11 +1,12 @@
 ---
-title: Class ColorantLab
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantLab clase. Representa el colorante LAB.
+title: "Class ColorantLab"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantLab class. Representa un colorante LAB."
 type: docs
-weight: 6030
+weight: 6530
 url: /es/net/aspose.psd.xmp.types.complex.colorant/colorantlab/
 ---
+{{< psd/tize >}}
 ## ColorantLab class
 
 Representa el colorante LAB.
@@ -18,8 +19,8 @@ public sealed class ColorantLab : ColorantBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [ColorantLab](colorantlab/#constructor)() | Inicializa una nueva instancia del`ColorantLab` clase. |
-| [ColorantLab](colorantlab/#constructor_1)(int, int, float) | Inicializa una nueva instancia del`ColorantLab` clase. |
+| [ColorantLab](colorantlab/#constructor)() | Inicializa una nueva instancia de la clase `ColorantLab`. |
+| [ColorantLab](colorantlab/#constructor_1)(int, int, float) | Inicializa una nueva instancia de la clase `ColorantLab`. |
 
 ## Propiedades
 
@@ -29,8 +30,8 @@ public sealed class ColorantLab : ColorantBase
 | [B](../../aspose.psd.xmp.types.complex.colorant/colorantlab/b/) { get; set; } | Obtiene o establece el componente B. |
 | [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Obtiene o establece el tipo de color. |
 | [L](../../aspose.psd.xmp.types.complex.colorant/colorantlab/l/) { get; set; } | Obtiene o establece el componente L. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Obtiene[`ColorMode`](../colormode/) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtiene el URI de espacio de nombres predeterminado. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Obtiene [`ColorMode`](../colormode/). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtiene el URI del espacio de nombres predeterminado. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Obtiene el prefijo. |
 | [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Obtiene o establece el nombre de la muestra. |
 
@@ -38,7 +39,7 @@ public sealed class ColorantLab : ColorantBase
 
 | Nombre | Descripción |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ## Campos
 
@@ -54,7 +55,7 @@ public sealed class ColorantLab : ColorantBase
 ### Ver también
 
 * class [ColorantBase](../colorantbase/)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

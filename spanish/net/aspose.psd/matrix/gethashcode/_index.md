@@ -1,11 +1,12 @@
 ---
-title: Matrix.GetHashCode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Matrix método. Devuelve un código hash para esta instancia.
+title: "Matrix.GetHashCode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Matrix. Devuelve un código hash para esta instancia."
 type: docs
 weight: 110
 url: /es/net/aspose.psd/matrix/gethashcode/
 ---
+{{< psd/tize >}}
 ## Matrix.GetHashCode method
 
 Devuelve un código hash para esta instancia.
@@ -14,14 +15,14 @@ Devuelve un código hash para esta instancia.
 public override int GetHashCode()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Un código hash para esta instancia, adecuado para usar en algoritmos hash y estructuras de datos como una tabla hash.
+Un código hash para esta instancia, adecuado para su uso en algoritmos de hash y estructuras de datos como una tabla hash.
 
 ### Ver también
 
 * class [Matrix](../)
-* espacio de nombres [Aspose.PSD](../../matrix/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

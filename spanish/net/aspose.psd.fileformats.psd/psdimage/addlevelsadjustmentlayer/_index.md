@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddLevelsAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa de ajuste de Niveles.
+title: "PsdImage.AddLevelsAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa de ajuste Levels."
 type: docs
-weight: 390
+weight: 410
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLevelsAdjustmentLayer method
 
-Agrega la capa de ajuste de Niveles.
+Añade la capa de ajuste de niveles.
 
 ```csharp
 public LevelsLayer AddLevelsAdjustmentLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Una capa de niveles recién creada
+Una capa Levels recién creada
 
 ### Ver también
 
 * class [LevelsLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,58 +1,59 @@
 ---
-title: PixelDataFormat.GetRgb
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PixelDataFormat método. Obtiene color RGB con un número específico de bits por muestra.
+title: "PixelDataFormat.GetRgb"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PixelDataFormat. Obtiene el color RGB con un número especificado de bits por muestra."
 type: docs
 weight: 250
 url: /es/net/aspose.psd/pixeldataformat/getrgb/
 ---
+{{< psd/tize >}}
 ## GetRgb(int) {#getrgb}
 
-Obtiene color RGB con un número específico de bits por muestra.
+Obtiene el color RGB con un número especificado de bits por muestra.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerSample)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | bitsPerSample | Int32 | El número de bits por muestra. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El color RGB.
 
 ### Ver también
 
 * class [PixelDataFormat](../)
-* espacio de nombres [Aspose.PSD](../../pixeldataformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgb(int, int, int) {#getrgb_1}
 
-Obtiene color RGB con un número específico de bits por muestra.
+Obtiene el color RGB con un número especificado de bits por muestra.
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerRedChannel, int bitsPerGreenChannel, 
     int bitsPerBlueChannel)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | El número de bits por canal rojo. |
-| bitsPerGreenChannel | Int32 | El número de bits por canal verde. |
+| bitsPerRedChannel | Int32 | El número de bits por canal Rojo. |
+| bitsPerGreenChannel | Int32 | El número de bits por canal Verde. |
 | bitsPerBlueChannel | Int32 | El número de bits por canal azul. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El color RGB.
 
 ### Ver también
 
 * class [PixelDataFormat](../)
-* espacio de nombres [Aspose.PSD](../../pixeldataformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

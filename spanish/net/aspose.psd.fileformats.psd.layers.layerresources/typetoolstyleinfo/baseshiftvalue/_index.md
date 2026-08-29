@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TypeToolStyleInfo propiedad. Obtiene o establece el valor de desplazamiento base.
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "TypeToolStyleInfo propiedad. Obtiene o establece el valor de desplazamiento base"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
 Obtiene o establece el valor de desplazamiento base.
@@ -14,14 +15,14 @@ Obtiene o establece el valor de desplazamiento base.
 public int BaseShiftValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El valor de desplazamiento base.
 
 ### Ver también
 
 * class [TypeToolStyleInfo](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PointF.X
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PointF propiedad. Obtiene o establece la coordenada x de estePointF .
+title: "PointF.X"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PointF. Obtiene o establece la coordenada x de este PointF"
 type: docs
 weight: 60
 url: /es/net/aspose.psd/pointf/x/
 ---
+{{< psd/tize >}}
 ## PointF.X property
 
-Obtiene o establece la coordenada x de este[`PointF`](../) .
+Obtiene o establece la coordenada x de este [`PointF`](../).
 
 ```csharp
 public float X { get; set; }
@@ -17,7 +18,7 @@ public float X { get; set; }
 ### Ver también
 
 * struct [PointF](../)
-* espacio de nombres [Aspose.PSD](../../pointf/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TileLength
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene ot establece la longitud del mosaico.
+title: "TiffOptions.TileLength"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece la longitud del mosaico"
 type: docs
-weight: 530
+weight: 540
 url: /es/net/aspose.psd.imageoptions/tiffoptions/tilelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileLength property
 
-Obtiene ot establece la longitud del mosaico.
+Obtiene o establece la longitud del mosaico.
 
 ```csharp
 public uint TileLength { get; set; }
@@ -17,7 +18,7 @@ public uint TileLength { get; set; }
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

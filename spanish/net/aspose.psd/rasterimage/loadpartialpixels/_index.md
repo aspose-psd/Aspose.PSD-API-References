@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RasterImage método. Carga píxeles parcialmente por paquetes.
+title: "RasterImage.LoadPartialPixels"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método RasterImage. Carga píxeles parcialmente por paquetes"
 type: docs
-weight: 390
+weight: 400
 url: /es/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
 Carga píxeles parcialmente por paquetes.
@@ -14,7 +15,7 @@ Carga píxeles parcialmente por paquetes.
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | desiredRectangle | Rectangle | El rectángulo deseado. |
 | pixelLoader | IPartialPixelLoader | El cargador de píxeles. |
@@ -24,7 +25,7 @@ public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pi
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* espacio de nombres [Aspose.PSD](../../rasterimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

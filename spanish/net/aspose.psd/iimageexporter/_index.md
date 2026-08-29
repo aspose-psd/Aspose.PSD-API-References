@@ -1,14 +1,15 @@
 ---
-title: Interface IImageExporter
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IImageExporter interfaz. El exportador de imágenes. Puede exportar datos del formato Aspose.PSD interno a un formato de datos especificado.
+title: "Interfaz IImageExporter"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IImageExporter. El exportador de imágenes. Puede exportar datos del formato interno de Aspose.PSD a un formato de datos especificado"
 type: docs
-weight: 4430
+weight: 4900
 url: /es/net/aspose.psd/iimageexporter/
 ---
+{{< psd/tize >}}
 ## IImageExporter interface
 
-El exportador de imágenes. Puede exportar datos del formato Aspose.PSD interno a un formato de datos especificado.
+El exportador de imágenes. Puede exportar datos del formato interno Aspose.PSD a un formato de datos especificado.
 
 ```csharp
 public interface IImageExporter
@@ -23,7 +24,7 @@ public interface IImageExporter
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

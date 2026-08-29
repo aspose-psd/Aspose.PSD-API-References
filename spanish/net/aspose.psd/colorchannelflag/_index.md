@@ -1,14 +1,15 @@
 ---
-title: Enum ColorChannelFlag
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ColorChannelFlag enumeración. Especifica canales individuales en el espacio de color CMYK cian magenta amarillo negro. Esta enumeración es utilizada por los métodos SetOutputChannel.
+title: "Enumeración ColorChannelFlag"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.ColorChannelFlag enum. Especifica canales individuales en el espacio de color CMYK (cian, magenta, amarillo, negro). Esta enumeración es utilizada por los métodos SetOutputChannel."
 type: docs
 weight: 320
 url: /es/net/aspose.psd/colorchannelflag/
 ---
+{{< psd/tize >}}
 ## ColorChannelFlag enumeration
 
-Especifica canales individuales en el espacio de color CMYK (cian, magenta, amarillo, negro). Esta enumeración es utilizada por los métodos SetOutputChannel.
+Especifica los canales individuales en el espacio de color CMYK (cian, magenta, amarillo, negro). Esta enumeración es utilizada por los métodos SetOutputChannel.
 
 ```csharp
 public enum ColorChannelFlag
@@ -22,11 +23,11 @@ public enum ColorChannelFlag
 | ColorChannelM | `1` | El canal de color magenta. |
 | ColorChannelY | `2` | El canal de color amarillo. |
 | ColorChannelK | `3` | El canal de color negro. |
-| ColorChannelLast | `4` | Debe utilizarse el último canal seleccionado. |
+| ColorChannelLast | `4` | Se debe usar el último canal seleccionado. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

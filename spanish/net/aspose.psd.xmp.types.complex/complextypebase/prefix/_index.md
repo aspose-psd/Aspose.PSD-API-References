@@ -1,11 +1,12 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ComplexTypeBase propiedad. Obtiene el prefijo.
+title: "ComplexTypeBase.Prefix"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ComplexTypeBase. Obtiene el prefijo"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
 Obtiene el prefijo.
@@ -14,14 +15,14 @@ Obtiene el prefijo.
 public string Prefix { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El prefijo.
 
 ### Ver también
 
 * class [ComplexTypeBase](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

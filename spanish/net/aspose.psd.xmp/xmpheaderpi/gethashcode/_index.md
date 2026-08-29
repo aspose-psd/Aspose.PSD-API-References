@@ -1,11 +1,12 @@
 ---
-title: XmpHeaderPi.GetHashCode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpHeaderPi método. Devuelve un código hash para esta instancia.
+title: "XmpHeaderPi.GetHashCode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpHeaderPi. Devuelve un código hash para esta instancia"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.xmp/xmpheaderpi/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.GetHashCode method
 
 Devuelve un código hash para esta instancia.
@@ -14,14 +15,14 @@ Devuelve un código hash para esta instancia.
 public override int GetHashCode()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Un código hash para esta instancia, adecuado para usar en algoritmos hash y estructuras de datos como una tabla hash.
+Un código hash para esta instancia, adecuado para su uso en algoritmos de hash y estructuras de datos como una tabla hash.
 
 ### Ver también
 
 * class [XmpHeaderPi](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

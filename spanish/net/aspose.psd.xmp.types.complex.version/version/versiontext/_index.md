@@ -1,27 +1,28 @@
 ---
-title: Version.VersionText
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Version propiedad. Obtiene o establece el texto de la versión.
+title: "Version.VersionText"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Version. Obtiene o establece el texto de la versión"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 ---
+{{< psd/tize >}}
 ## Version.VersionText property
 
-Obtiene o establece el texto de la versión.
+Obtiene o establece el texto de versión.
 
 ```csharp
 public string VersionText { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El texto de la versión.
 
 ### Ver también
 
 * class [Version](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

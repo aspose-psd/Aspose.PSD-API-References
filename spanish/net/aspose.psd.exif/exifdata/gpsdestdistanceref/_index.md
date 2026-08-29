@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDestDistanceRef
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la unidad GPS utilizada para expresar la distancia al punto de destino.
+title: "ExifData.GPSDestDistanceRef"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la unidad GPS utilizada para expresar la distancia al punto de destino"
 type: docs
 weight: 430
 url: /es/net/aspose.psd.exif/exifdata/gpsdestdistanceref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistanceRef property
 
 Obtiene o establece la unidad GPS utilizada para expresar la distancia al punto de destino.
@@ -14,14 +15,14 @@ Obtiene o establece la unidad GPS utilizada para expresar la distancia al punto 
 public string GPSDestDistanceRef { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La unidad GPS utilizada para expresar la distancia al punto de destino.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

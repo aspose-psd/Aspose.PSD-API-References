@@ -1,14 +1,15 @@
 ---
-title: PostResource.PostResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PostResource constructor. Constructor predeterminado
+title: "PostResource.PostResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor PostResource. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/postresource/
 ---
+{{< psd/tize >}}
 ## PostResource constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public PostResource()
@@ -17,7 +18,7 @@ public PostResource()
 ### Ver también
 
 * class [PostResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

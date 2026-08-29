@@ -1,14 +1,15 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils clase. La clase de utilidad de opciones de formato de archivo tiff.
+title: "Clase TiffOptionsUtils"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ImageOptions.TiffOptionsUtils. La clase de utilidad de opciones del formato de archivo tiff"
 type: docs
-weight: 4960
+weight: 5450
 url: /es/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-La clase de utilidad de opciones de formato de archivo tiff.
+Clase de utilidad de opciones del formato de archivo tiff.
 
 ```csharp
 public class TiffOptionsUtils
@@ -18,7 +19,7 @@ public class TiffOptionsUtils
 
 | Nombre | Descripción |
 | --- | --- |
-| [TiffOptionsUtils](tiffoptionsutils/)() | Constructor predeterminado |
+| [TiffOptionsUtils](tiffoptionsutils/)() | El constructor predeterminado. |
 
 ## Métodos
 
@@ -28,7 +29,7 @@ public class TiffOptionsUtils
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

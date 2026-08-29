@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlackWhiteAdjustmentLayer propiedad. Obtiene o establece el nombre del archivo predeterminado en blanco y negro.
+title: "BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BlackWhiteAdjustmentLayer. Obtiene o establece el nombre de archivo del preset blanco y negro"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName property
 
-Obtiene o establece el nombre del archivo predeterminado en blanco y negro.
+Obtiene o establece el nombre de archivo de preset blanco y negro.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El nombre de archivo predeterminado en blanco y negro.
+El nombre de archivo del preset blanco y negro.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede manipular las propiedades de la capa de ajuste de blanco y negro en Aspose.PSD
+El siguiente ejemplo muestra cómo puede manipular las propiedades de la capa de ajuste blanco y negro en Aspose.PSD
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * class [BlackWhiteAdjustmentLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

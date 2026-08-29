@@ -1,25 +1,26 @@
 ---
-title: TiffStreamReader.ReadUShortArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Lee una matriz de valores enteros sin signo de la secuencia.
+title: "TiffStreamReader.ReadUShortArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee una matriz de valores enteros sin signo del flujo"
 type: docs
 weight: 220
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadUShortArray method
 
-Lee una matriz de valores enteros sin signo de la secuencia.
+Lee una matriz de valores enteros sin signo del flujo.
 
 ```csharp
 public ushort[] ReadUShortArray(long position, long count)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
-| count | Int64 | Los elementos cuentan. |
+| posición | Int64 | La posición desde la cual leer. |
+| count | Int64 | El recuento de elementos. |
 
-### Valor_devuelto
+### Valor devuelto
 
 La matriz de valores enteros sin signo.
 
@@ -27,12 +28,12 @@ La matriz de valores enteros sin signo.
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | count;El recuento total de bytes es negativo. + cuenta + x2= + bytes totales |
+| ArgumentOutOfRangeException | count;El recuento total de bytes es negativo. + count + x2= + totalBytes |
 
 ### Ver también
 
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

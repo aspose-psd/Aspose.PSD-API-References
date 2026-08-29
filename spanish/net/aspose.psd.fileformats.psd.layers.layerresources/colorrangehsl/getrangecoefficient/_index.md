@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorRangeHsl método. Obtiene el Coeficiente de rango.
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ColorRangeHsl. Obtiene el coeficiente de rango"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
-Obtiene el Coeficiente de rango.
+Obtiene el coeficiente del rango.
 
 ```csharp
 public double GetRangeCoefficient(double hue)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| hue | Double | El valor del matiz. |
+| matiz | Double | El valor del matiz. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Coeficiente de rango de saturación.
+Coeficiente del rango de saturación.
 
 ### Ver también
 
 * class [ColorRangeHsl](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

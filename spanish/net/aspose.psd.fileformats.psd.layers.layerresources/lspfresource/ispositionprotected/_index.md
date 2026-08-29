@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsPositionProtected
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LspfResource propiedad. Obtiene o establece un valor que indica si esta instancia tiene protección de posición.
+title: "LspfResource.IsPositionProtected"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LspfResource. Obtiene o establece un valor que indica si esta instancia está protegida de posición"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsPositionProtected property
 
-Obtiene o establece un valor que indica si esta instancia tiene protección de posición.
+Obtiene o establece un valor que indica si esta instancia está protegida de posición.
 
 ```csharp
 public bool IsPositionProtected { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta instancia tiene protección de posición; de lo contrario,`FALSO` .
+`true` si esta instancia está protegida de posición; de lo contrario, `false`.
 
 ### Ver también
 
 * class [LspfResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

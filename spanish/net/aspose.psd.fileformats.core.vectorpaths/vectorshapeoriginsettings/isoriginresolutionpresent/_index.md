@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginResolutionPresent
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeOriginSettings propiedad. Obtiene un valor que indica si esta instancia tiene la propiedad de resolución de origen.
+title: "VectorShapeOriginSettings.IsOriginResolutionPresent"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeOriginSettings. Obtiene un valor que indica si esta instancia tiene la propiedad de resolución de origen"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginResolutionPresent property
 
-Obtiene un valor que indica si esta instancia tiene la propiedad de resolución de origen.
+Obtiene un valor que indica si esta instancia tiene la propiedad origin resolution.
 
 ```csharp
 public bool IsOriginResolutionPresent { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero`si esta instancia tiene la propiedad de resolución de origen; de lo contrario,`FALSO` .
+`true` si esta instancia tiene la propiedad de resolución de origen; de lo contrario, `false`.
 
 ### Ver también
 
 * class [VectorShapeOriginSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

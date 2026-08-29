@@ -1,59 +1,60 @@
 ---
-title: PointF.Add
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PointF método. Traduce un determinadoPointF por el especificadoSize .
+title: "PointF.Add"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PointF. Traslada un PointF dado por el Size especificado"
 type: docs
 weight: 30
 url: /es/net/aspose.psd/pointf/add/
 ---
+{{< psd/tize >}}
 ## Add(PointF, Size) {#add}
 
-Traduce un determinado[`PointF`](../) por el especificado[`Size`](../../size/) .
+Traslada un [`PointF`](../) dado por el [`Size`](../../size/) especificado.
 
 ```csharp
 public static PointF Add(PointF point, Size size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | PointF | El[`PointF`](../) traducir. |
-| size | Size | El[`Size`](../../size/) que especifica los números a sumar a las coordenadas de*point*. |
+| point | PointF | El [`PointF`](../) a trasladar. |
+| size | Size | El [`Size`](../../size/) que especifica los números a añadir a las coordenadas de *point*. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el traducido[`PointF`](../).
+El [`PointF`](../) trasladado.
 
 ### Ver también
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* espacio de nombres [Aspose.PSD](../../pointf/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Add(PointF, SizeF) {#add_1}
 
-Traduce un determinado[`PointF`](../) por un especificado[`SizeF`](../../sizef/) .
+Traslada un [`PointF`](../) dado por un [`SizeF`](../../sizef/) especificado.
 
 ```csharp
 public static PointF Add(PointF point, SizeF size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | PointF | El[`PointF`](../) traducir. |
-| size | SizeF | El[`SizeF`](../../sizef/) que especifica los números a sumar a las coordenadas de*point*. |
+| point | PointF | El [`PointF`](../) a trasladar. |
+| size | SizeF | El [`SizeF`](../../sizef/) que especifica los números a añadir a las coordenadas de *point*. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el traducido[`PointF`](../).
+El [`PointF`](../) trasladado.
 
 ### Ver también
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* espacio de nombres [Aspose.PSD](../../pointf/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

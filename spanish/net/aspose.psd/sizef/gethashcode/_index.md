@@ -1,27 +1,28 @@
 ---
-title: SizeF.GetHashCode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SizeF método. Devuelve un código hash para esteSizeestructura.
+title: "SizeF.GetHashCode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SizeF. Devuelve un código hash para esta estructura Size"
 type: docs
 weight: 90
 url: /es/net/aspose.psd/sizef/gethashcode/
 ---
+{{< psd/tize >}}
 ## SizeF.GetHashCode method
 
-Devuelve un código hash para este[`Size`](../../size/)estructura.
+Devuelve un código hash para esta estructura [`Size`](../../size/).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Un valor entero que especifica un valor hash para este[`Size`](../../size/) estructura.
+Un valor entero que especifica un valor hash para esta estructura [`Size`](../../size/).
 
 ### Ver también
 
 * struct [SizeF](../)
-* espacio de nombres [Aspose.PSD](../../sizef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Remove
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPackage método. Elimina el valor con la clave especificada.
+title: "XmpPackage.Remove"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "XmpPackage método. Elimina el valor con la clave especificada"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
 Elimina el valor con la clave especificada.
@@ -14,18 +15,18 @@ Elimina el valor con la clave especificada.
 public virtual bool Remove(string key)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | String | La representación de cadena de la clave que se identifica con el valor eliminado. |
+| clave | String | La representación en cadena de la clave que se identifica con el valor eliminado. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Devuelve verdadero si se eliminó el valor con la clave especificada.
+Devuelve true si el valor con la clave especificada fue eliminado.
 
 ### Ver también
 
 * class [XmpPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

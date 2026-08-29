@@ -1,28 +1,29 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IImageExporterDescriptor método. Crea una nueva instancia de exportador.
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IImageExporterDescriptor. Crea una nueva instancia del exportador"
 type: docs
 weight: 20
 url: /es/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
-Crea una nueva instancia de exportador.
+Crea una nueva instancia del exportador.
 
 ```csharp
 public IImageExporter CreateInstance()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Una nueva instancia de exportador.
+Una nueva instancia del exportador.
 
 ### Ver también
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* espacio de nombres [Aspose.PSD](../../iimageexporterdescriptor/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics propiedad. Obtiene o establece la sugerencia de representación de texto.
+title: "Graphics.TextRenderingHint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de Graphics. Obtiene o establece la sugerencia de renderizado de texto."
 type: docs
-weight: 120
+weight: 130
 url: /es/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
-Obtiene o establece la sugerencia de representación de texto.
+Obtiene o establece la sugerencia de renderizado de texto.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La sugerencia de representación de texto.
+La sugerencia de renderizado de texto.
 
 ### Ver también
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

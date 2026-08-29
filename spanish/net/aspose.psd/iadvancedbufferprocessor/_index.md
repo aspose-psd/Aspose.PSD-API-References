@@ -1,14 +1,15 @@
 ---
-title: Interface IAdvancedBufferProcessor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IAdvancedBufferProcessor interfaz. El procesador de búfer avanzado.
+title: "Interfaz IAdvancedBufferProcessor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IAdvancedBufferProcessor. El procesador avanzado de búfer"
 type: docs
-weight: 4360
+weight: 4830
 url: /es/net/aspose.psd/iadvancedbufferprocessor/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor interface
 
-El procesador de búfer avanzado.
+El procesador avanzado de búfer.
 
 ```csharp
 public interface IAdvancedBufferProcessor : IBufferProcessor
@@ -18,13 +19,13 @@ public interface IAdvancedBufferProcessor : IBufferProcessor
 
 | Nombre | Descripción |
 | --- | --- |
-| [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | Termina la fila. |
-| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | Termina las filas. |
+| [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | Finaliza la fila. |
+| [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | Finaliza las filas. |
 
 ### Ver también
 
 * interface [IBufferProcessor](../ibufferprocessor/)
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

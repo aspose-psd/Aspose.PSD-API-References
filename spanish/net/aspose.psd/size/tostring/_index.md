@@ -1,27 +1,28 @@
 ---
-title: Size.ToString
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Size método. Crea una cadena legible por humanos que representa esteSize .
+title: "Size.ToString"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Size. Crea una cadena legible por humanos que representa este Size"
 type: docs
 weight: 130
 url: /es/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-Crea una cadena legible por humanos que representa este[`Size`](../) .
+Crea una cadena legible por humanos que representa este [`Size`](../).
 
 ```csharp
 public override string ToString()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Una cadena que representa esto[`Size`](../).
+Una cadena que representa este [`Size`](../).
 
 ### Ver también
 
 * struct [Size](../)
-* espacio de nombres [Aspose.PSD](../../size/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

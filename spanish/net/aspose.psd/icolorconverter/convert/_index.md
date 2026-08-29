@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IColorConverter método. Convierte los datos pasados al formato de salida.
+title: "IColorConverter.Convert"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IColorConverter. Convierte los datos proporcionados al formato de salida"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-Convierte los datos pasados al formato de salida.
+Convierte los datos proporcionados al formato de salida.
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -16,27 +17,27 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
     int outputOffset)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | El formato de origen. |
-| data | Byte[] | Los datos de origen. |
-| offset | Int32 | El desplazamiento en bytes donde debe comenzar la copia de datos. |
-| bitStart | Int32 | El comienzo del bit. Tenga en cuenta que este valor no es un valor alineado por bytes, sino que es un bit real donde debe comenzar la copia. |
-| samplesCount | Int32 | Las muestras cuentan. |
-| linesCount | Int32 | Las líneas cuentan. |
+| datos | Byte[] | Los datos de origen. |
+| desplazamiento | Int32 | El desplazamiento en bytes donde debe comenzar la copia de datos. |
+| bitStart | Int32 | El inicio de bit. Nota: este valor no está alineado a bytes, sino que es el bit real donde debe comenzar la copia. |
+| samplesCount | Int32 | El recuento de muestras. |
+| linesCount | Int32 | El recuento de líneas. |
 | destFormat | PixelDataFormat | El formato de destino. |
 | outputData | Byte[] | Los datos de salida. |
 | outputOffset | Int32 | El desplazamiento de salida donde debe comenzar la copia de datos. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El conteo de bytes convertidos.
+El recuento de bytes convertidos.
 
 ### Ver también
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* espacio de nombres [Aspose.PSD](../../icolorconverter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

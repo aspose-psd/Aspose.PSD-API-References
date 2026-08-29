@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece las sugerencias de medios tonos.
+title: "TiffOptions.HalfToneHints"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece las pistas de semitono"
 type: docs
-weight: 170
+weight: 180
 url: /es/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
-Obtiene o establece las sugerencias de medios tonos.
+Obtiene o establece las sugerencias de semitono.
 
 ```csharp
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Las pistas de medios tonos.
+Las pistas de semitono.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | valor |
-| ArgumentOutOfRangeException | value;La longitud de la matriz de sugerencias de medios tonos debe ser igual a 2. |
+| ArgumentOutOfRangeException | value;La longitud del arreglo de pistas de semitono debe ser igual a 2. |
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

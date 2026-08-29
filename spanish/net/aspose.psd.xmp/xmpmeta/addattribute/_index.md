@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpMeta método. Agrega el atributo.
+title: "XmpMeta.AddAttribute"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpMeta. Añade el atributo"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
 Agrega el atributo.
@@ -14,15 +15,15 @@ Agrega el atributo.
 public override void AddAttribute(string attribute, string value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| attribute | String | el atributo |
-| value | String | El valor. |
+| atributo | String | El atributo. |
+| valor | String | El valor. |
 
 ### Ver también
 
 * class [XmpMeta](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmpmeta/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

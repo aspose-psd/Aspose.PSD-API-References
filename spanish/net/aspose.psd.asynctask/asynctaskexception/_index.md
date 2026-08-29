@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskException
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.AsyncTask.AsyncTaskException clase. La excepción para la tarea asíncrona.
+title: "Clase AsyncTaskException"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.AsyncTask.AsyncTaskException. La excepción para la tarea asíncrona"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.asynctask/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException class
 
 La excepción para la tarea asíncrona.
@@ -18,11 +19,11 @@ public class AsyncTaskException : Exception
 
 | Nombre | Descripción |
 | --- | --- |
-| [AsyncTaskException](asynctaskexception/)(string) | Inicializa una nueva instancia del`AsyncTaskException` clase. |
+| [AsyncTaskException](asynctaskexception/)(string) | Inicializa una nueva instancia de la clase `AsyncTaskException`. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

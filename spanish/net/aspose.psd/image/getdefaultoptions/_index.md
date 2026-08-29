@@ -1,11 +1,12 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image método. Obtiene las opciones predeterminadas.
+title: "Image.GetDefaultOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Image. Obtiene las opciones predeterminadas"
 type: docs
-weight: 170
+weight: 180
 url: /es/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
 Obtiene las opciones predeterminadas.
@@ -14,11 +15,11 @@ Obtiene las opciones predeterminadas.
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | args | Object[] | Los argumentos. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Opciones predeterminadas
 
@@ -26,7 +27,7 @@ Opciones predeterminadas
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

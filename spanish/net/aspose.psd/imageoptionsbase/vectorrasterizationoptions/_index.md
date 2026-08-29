@@ -1,28 +1,25 @@
 ---
-title: ImageOptionsBase.VectorRasterizationOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageOptionsBase propiedad. Obtiene o establece las opciones de rasterización de vectores.
+title: "ImageOptionsBase.VectorRasterizationOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ImageOptionsBase. Obtiene o establece las opciones de rasterización vectorial"
 type: docs
 weight: 90
 url: /es/net/aspose.psd/imageoptionsbase/vectorrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.VectorRasterizationOptions property
 
-Obtiene o establece las opciones de rasterización de vectores.
+Obtiene o establece las opciones de rasterización vectorial.
 
 ```csharp
 public VectorRasterizationOptions VectorRasterizationOptions { get; set; }
 ```
 
-### El valor de la propiedad
-
-Las opciones de rasterización de vectores.
-
 ### Ver también
 
 * class [VectorRasterizationOptions](../../../aspose.psd.imageoptions/vectorrasterizationoptions/)
 * class [ImageOptionsBase](../)
-* espacio de nombres [Aspose.PSD](../../imageoptionsbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

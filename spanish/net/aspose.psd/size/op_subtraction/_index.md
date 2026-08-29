@@ -1,32 +1,33 @@
 ---
-title: Size.op_Subtraction
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Size método. Resta el ancho y el alto de unoSize estructura de la anchura y la altura de otraSizeestructura.
+title: "Size.op_Subtraction"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de Size. Resta el ancho y la altura de una estructura Size del ancho y la altura de otra estructura Size."
 type: docs
 weight: 190
 url: /es/net/aspose.psd/size/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Size Subtraction operator
 
-Resta el ancho y el alto de uno[`Size`](../) estructura de la anchura y la altura de otra[`Size`](../)estructura.
+Resta el ancho y la altura de una estructura [`Size`](../) del ancho y la altura de otra estructura [`Size`](../).
 
 ```csharp
 public static Size operator -(Size size1, Size size2)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| size1 | Size | El[`Size`](../) estructura en el lado izquierdo del operador de resta. |
-| size2 | Size | El[`Size`](../) estructura en el lado derecho del operador de resta. |
+| size1 | Size | La estructura [`Size`](../) en el lado izquierdo del operador de sustracción. |
+| size2 | Size | La estructura [`Size`](../) en el lado derecho del operador de sustracción. |
 
-### Valor_devuelto
+### Valor devuelto
 
-A[`Size`](../) estructura que es el resultado de la operación de resta.
+Una estructura [`Size`](../) que es el resultado de la operación de sustracción.
 
 ### Ver también
 
 * struct [Size](../)
-* espacio de nombres [Aspose.PSD](../../size/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

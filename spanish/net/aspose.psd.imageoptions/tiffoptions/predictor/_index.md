@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Predictor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el predictor para la compresión LZW.
+title: "TiffOptions.Predictor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el predictor para la compresión LZW"
 type: docs
-weight: 340
+weight: 350
 url: /es/net/aspose.psd.imageoptions/tiffoptions/predictor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Predictor property
 
 Obtiene o establece el predictor para la compresión LZW.
@@ -14,7 +15,7 @@ Obtiene o establece el predictor para la compresión LZW.
 public TiffPredictor Predictor { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de predictor.
 
@@ -22,7 +23,7 @@ El tipo de predictor.
 
 * enum [TiffPredictor](../../../aspose.psd.fileformats.tiff.enums/tiffpredictor/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

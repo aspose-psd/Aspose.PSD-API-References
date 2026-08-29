@@ -1,11 +1,12 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LimitMemoryException propiedad. Obtiene o establece el factor de reducción de memoria.
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de LimitMemoryException. Obtiene o establece el factor de reducción de memoria"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
 Obtiene o establece el factor de reducción de memoria.
@@ -14,14 +15,14 @@ Obtiene o establece el factor de reducción de memoria.
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El factor de reducción de memoria.
 
 ### Ver también
 
 * class [LimitMemoryException](../)
-* espacio de nombres [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

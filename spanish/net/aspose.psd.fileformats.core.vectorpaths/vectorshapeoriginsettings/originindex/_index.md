@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.OriginIndex
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorShapeOriginSettings propiedad. Obtiene o establece el índice de forma de origen.
+title: "VectorShapeOriginSettings.OriginIndex"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorShapeOriginSettings. Obtiene o establece el índice de forma de origen"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginIndex property
 
-Obtiene o establece el índice de forma de origen.
+Obtiene o establece el origin shape index.
 
 ```csharp
 public int OriginIndex { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra el soporte del recurso VogkResource.
+El siguiente ejemplo muestra el soporte del recurso VogkResource.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [VectorShapeOriginSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

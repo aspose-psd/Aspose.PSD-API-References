@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Filter
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Filtra el rectángulo especificado.
+title: "PsdImage.Filter"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Filtra el rectángulo especificado"
 type: docs
-weight: 530
+weight: 590
 url: /es/net/aspose.psd.fileformats.psd/psdimage/filter/
 ---
+{{< psd/tize >}}
 ## PsdImage.Filter method
 
 Filtra el rectángulo especificado.
@@ -14,17 +15,17 @@ Filtra el rectángulo especificado.
 public override void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | el rectángulo |
-| options | FilterOptionsBase | Las opciones. |
+| rectángulo | Rectangle | El rectángulo. |
+| opciones | FilterOptionsBase | Las opciones. |
 
 ### Ver también
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

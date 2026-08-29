@@ -1,14 +1,15 @@
 ---
-title: Class BrushExtensions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Extensions.BrushExtensions clase. Contiene métodos de extensión paraBrush yBrush .
+title: "Clase BrushExtensions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Extensions.BrushExtensions. Contiene métodos de extensión para Brush y Brush"
 type: docs
-weight: 1030
+weight: 1040
 url: /es/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-Contiene métodos de extensión para[`Brush`](../../aspose.psd/brush/) yBrush .
+Contiene métodos de extensión para [`Brush`](../../aspose.psd/brush/) y Brush.
 
 ```csharp
 public static class BrushExtensions
@@ -18,11 +19,11 @@ public static class BrushExtensions
 
 | Nombre | Descripción |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Convierte el[`Brush`](../../aspose.psd/brush/) haciaBrush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Convierte el [`Brush`](../../aspose.psd/brush/) a Brush. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

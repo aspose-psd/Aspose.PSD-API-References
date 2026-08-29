@@ -1,11 +1,12 @@
 ---
-title: Enum PngColorType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Png.PngColorType enumeración. Representa el tipo de color de la imagen PNG.
+title: "Enumeración PngColorType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Png.PngColorType enum. Representa el tipo de color de imagen PNG"
 type: docs
-weight: 1580
+weight: 1590
 url: /es/net/aspose.psd.fileformats.png/pngcolortype/
 ---
+{{< psd/tize >}}
 ## PngColorType enumeration
 
 Representa el tipo de color de la imagen PNG.
@@ -19,14 +20,14 @@ public enum PngColorType
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
 | Grayscale | `0` | Representa el tipo de color donde cada píxel es una muestra en escala de grises. |
-| Truecolor | `2` | Representa el tipo de color donde cada píxel es un triple R,G,B. |
-| IndexedColor | `3` | Representa el tipo de color donde cada píxel es un índice de paleta; aparecerá un trozo de PLTE. |
-| GrayscaleWithAlpha | `4` | Representa el tipo de color donde cada píxel es una muestra de escala de grises seguida de una muestra alfa. |
-| TruecolorWithAlpha | `6` | Representa el tipo de color donde cada píxel es un triple R,G,B seguido de una muestra alfa. |
+| Truecolor | `2` | Representa el tipo de color donde cada píxel es una triple R,G,B. |
+| IndexedColor | `3` | Representa el tipo de color donde cada píxel es un índice de paleta; debe aparecer un bloque PLTE. |
+| GrayscaleWithAlpha | `4` | Representa el tipo de color donde cada píxel es una muestra en escala de grises seguida de una muestra alfa. |
+| TruecolorWithAlpha | `6` | Representa el tipo de color donde cada píxel es una triple R,G,B seguida de una muestra alfa. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

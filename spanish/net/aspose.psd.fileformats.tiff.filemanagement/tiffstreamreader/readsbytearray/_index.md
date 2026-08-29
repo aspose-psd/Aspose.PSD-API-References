@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadSByteArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Lee una matriz de valores de bytes firmados de la secuencia.
+title: "TiffStreamReader.ReadSByteArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee una matriz de valores byte con signo del flujo."
 type: docs
 weight: 120
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSByteArray method
 
-Lee una matriz de valores de bytes firmados de la secuencia.
+Lee una matriz de valores de byte con signo del flujo.
 
 ```csharp
 public sbyte[] ReadSByteArray(long position, long count)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
-| count | Int64 | Los elementos cuentan. |
+| posición | Int64 | La posición desde la cual leer. |
+| count | Int64 | El recuento de elementos. |
 
-### Valor_devuelto
+### Valor devuelto
 
-La matriz de valores de bytes firmados.
+La matriz de valores byte con signo.
 
 ### Ver también
 
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

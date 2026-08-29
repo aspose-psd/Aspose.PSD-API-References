@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene una API para manipular los datos de la capa de objetos inteligentes
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartObjects"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene una API para manipular los datos de capa de objeto inteligente"
 type: docs
-weight: 330
+weight: 350
 url: /es/net/aspose.psd.fileformats.psd.layers.smartobjects/
 ---
-El espacio de nombres contiene una API para manipular los datos de la capa de objetos inteligentes
+{{< psd/tize >}}
+El espacio de nombres contiene una API para manipular los datos de capa de objeto inteligente
 
 ## Clases
 
 | Clase | Descripción |
 | --- | --- |
-| [SmartObjectLayer](./smartobjectlayer/) | Define la clase SmartObjectLayer que contiene incrustado en el archivo PSD o el objeto inteligente vinculado en el archivo externo. Con Objetos inteligentes, puede: Realizar transformaciones no destructivas. Puede escalar, rotar, sesgar, distorsionar, transformar la perspectiva o deformar una capa sin perder los datos o la calidad de la imagen original porque las transformaciones no afectan los datos originales. Trabaje con datos vectoriales, como ilustraciones vectoriales de Illustrator, que de otro modo se rasterizaría. Realice un filtrado no destructivo. Puede editar los filtros aplicados a los objetos inteligentes en cualquier momento. Edite un objeto inteligente y actualice automáticamente todas sus instancias vinculadas. Aplique una máscara de capa que esté vinculada o no vinculada a la capa del objeto inteligente. Pruebe varios diseños con imágenes de marcador de posición de resolución que luego reemplaza con versiones finales. En Adobe� Photoshop�, puede incrustar el contenido de una imagen en un documento PSD. Más información está aquí:[https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Una capa con un objeto inteligente incrustado contiene recursos colocados (PlLd) y SoLd con propiedades de objeto inteligente. El recurso PlLd puede estar solo para versiones de PSD anteriores a la 10. Estos recursos contienen UniqueId de LiFdDataSource en el Lnk2Resource global con el incrustado filename y otros parámetros, incluido el contenido del archivo incrustado en el formato original como una matriz de bytes. |
+| [SmartObjectLayer](./smartobjectlayer/) | Define la clase SmartObjectLayer que contiene un objeto inteligente incrustado en el archivo PSD o vinculado en un archivo externo. Con Smart Objects, puedes: Realizar transformaciones no destructivas. Puedes escalar, rotar, sesgar, distorsionar, aplicar transformaciones de perspectiva o deformar una capa sin perder los datos de imagen originales ni la calidad porque las transformaciones no afectan los datos originales. Trabajar con datos vectoriales, como arte vectorial de Illustrator, que de otro modo se rasterizaría. Realizar filtrado no destructivo. Puedes editar los filtros aplicados a Smart Objects en cualquier momento. Editar un Smart Object y actualizar automáticamente todas sus instancias vinculadas. Aplicar una máscara de capa que esté vinculada o desvinculada de la capa Smart Object. Probar varios diseños con imágenes de marcador de posición de baja resolución que luego reemplazas con versiones finales. En Adobe Photoshop, puedes incrustar el contenido de una imagen en un documento PSD. Más información aquí: [https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Una capa con un objeto inteligente incrustado contiene recursos placed (PlLd) y SoLd con propiedades del objeto inteligente. El recurso PlLd puede estar solo para versiones de PSD anteriores a la 10. Estos recursos contienen UniqueId del LiFdDataSource en el recurso global Lnk2Resource con el nombre de archivo incrustado y otros parámetros, incluido el contenido del archivo incrustado en el formato original como una matriz de bytes. |
 ## Enumeración
 
 | Enumeración | Descripción |
 | --- | --- |
-| [SmartObjectType](./smartobjecttype/) | Define la enumeración SmartObjectType para el tipo de contenido de objeto inteligente |
+| [SmartObjectType](./smartobjecttype/) | Define la enumeración SmartObjectType para el tipo de contenido del objeto inteligente |
 
 

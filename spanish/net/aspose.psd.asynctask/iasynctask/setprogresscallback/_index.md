@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.SetProgressCallback
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IAsyncTask método. Establece el delegado de devolución de llamada de progreso.
+title: "IAsyncTask.SetProgressCallback"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IAsyncTask. Establece el delegado de callback de progreso"
 type: docs
 weight: 110
 url: /es/net/aspose.psd.asynctask/iasynctask/setprogresscallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetProgressCallback method
 
 Establece el delegado de devolución de llamada de progreso.
@@ -14,15 +15,15 @@ Establece el delegado de devolución de llamada de progreso.
 public void SetProgressCallback(ProgressCallback progressCallback)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| progressCallback | ProgressCallback | La devolución de llamada de progreso. |
+| progressCallback | ProgressCallback | El callback de progreso. |
 
 ### Ver también
 
 * delegate [ProgressCallback](../../progresscallback/)
 * interface [IAsyncTask](../)
-* espacio de nombres [Aspose.PSD.AsyncTask](../../iasynctask/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntriesCount
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdColorPalette propiedad. Obtiene el recuento de entradas de la paleta de colores sin procesar.
+title: "PsdColorPalette.RawEntriesCount"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "PsdColorPalette propiedad. Obtiene el recuento de entradas de la paleta de colores sin procesar"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntriesCount property
 
-Obtiene el recuento de entradas de la paleta de colores sin procesar.
+Obtiene el recuento sin procesar de las entradas de la paleta de colores.
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Las entradas de la paleta de colores sin procesar cuentan.
+El recuento de entradas crudas de la paleta de colores.
 
 ### Ver también
 
 * class [PsdColorPalette](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

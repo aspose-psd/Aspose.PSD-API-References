@@ -1,11 +1,12 @@
 ---
-title: Class ClipboardRecord
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord clase. Clase de registro del portapapeles
+title: "Clase ClipboardRecord"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord. Clase Clipboard Record"
 type: docs
-weight: 1340
+weight: 1350
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord class
 
 Clase de registro del portapapeles
@@ -18,21 +19,21 @@ public class ClipboardRecord : VectorPathRecord
 
 | Nombre | Descripción |
 | --- | --- |
-| [ClipboardRecord](clipboardrecord/#constructor)() | Inicializa una nueva instancia del`ClipboardRecord` clase. |
-| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | Inicializa una nueva instancia del`ClipboardRecord` clase. |
+| [ClipboardRecord](clipboardrecord/#constructor)() | Inicializa una nueva instancia de la clase `ClipboardRecord`. |
+| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `ClipboardRecord`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | Obtiene o establece el límite rect. |
+| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | Obtiene o establece el rectángulo delimitador. |
 | [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | Obtiene o establece la resolución. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/) { get; } | Obtiene el tipo. |
 
 ### Ver también
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

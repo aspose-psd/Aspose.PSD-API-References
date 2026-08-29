@@ -1,14 +1,15 @@
 ---
-title: ThumbnailResource.ThumbnailResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ThumbnailResource constructor. Constructor predeterminado
+title: "ThumbnailResource.ThumbnailResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ThumbnailResource. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailresource/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public ThumbnailResource()
@@ -17,7 +18,7 @@ public ThumbnailResource()
 ### Ver también
 
 * class [ThumbnailResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

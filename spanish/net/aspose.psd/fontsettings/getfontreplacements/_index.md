@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FontSettings método. Obtiene la matriz de reemplazos de fuente por el nombre de fuente
+title: "FontSettings.GetFontReplacements"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método FontSettings. Obtiene el arreglo de reemplazos de fuentes por el nombre de la fuente."
 type: docs
-weight: 50
+weight: 60
 url: /es/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-Obtiene la matriz de reemplazos de fuente por el nombre de fuente
+Obtiene la matriz de sustituciones de fuentes por el nombre de la fuente.
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontName | String | Nombre de la fuente. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Matriz de nombres de reemplazos para las fuentes proporcionadas
+Arreglo de nombres de reemplazos para las fuentes proporcionadas
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de limitar mediante programación las fuentes usando.
+El siguiente código demuestra la capacidad de limitar fuentes programáticamente usando.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Ver también
 
 * class [FontSettings](../)
-* espacio de nombres [Aspose.PSD](../../fontsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

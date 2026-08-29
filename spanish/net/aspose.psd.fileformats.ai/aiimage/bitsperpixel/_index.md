@@ -1,11 +1,12 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiImage propiedad. Obtiene el recuento de bits por píxel de la imagen.
+title: "AiImage.BitsPerPixel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiImage. Obtiene el recuento de bits por píxel de la imagen"
 type: docs
-weight: 20
+weight: 30
 url: /es/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
 Obtiene el recuento de bits por píxel de la imagen.
@@ -14,14 +15,14 @@ Obtiene el recuento de bits por píxel de la imagen.
 public override int BitsPerPixel { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los bits de imagen por píxel cuentan.
+El recuento de bits por píxel de la imagen.
 
 ### Ver también
 
 * class [AiImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

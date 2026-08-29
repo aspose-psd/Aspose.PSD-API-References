@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorBalanceAdjustmentLayer propiedad. Obtiene o establece el balance de reflejos cian rojo.
+title: "ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorBalanceAdjustmentLayer. Obtiene o establece el Balance de Cian/Rojo de los Destacados"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance property
 
-Obtiene o establece el balance de reflejos cian rojo.
+Obtiene o establece el balance Cyan Rojo de Highlights.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los reflejos Cyan Red Balance.
+El Balance de Cian/Rojo de los Destacados.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | Destacados Cian Rojo El balance debe estar en el rango de -100 a +100. |
+| ArgumentOutOfRangeException | El Balance de Cian/Rojo de los Destacados debe estar en el rango de -100 a +100. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con ColorBalanceAdjustmentLayer.
+El siguiente código demuestra el soporte para la ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Ver también
 
 * class [ColorBalanceAdjustmentLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

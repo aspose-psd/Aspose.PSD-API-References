@@ -1,14 +1,15 @@
 ---
-title: Enum StrokePosition
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition enumeración. La configuración de posición controla la alineación de su trazo con la capa a la que se aplica en elStrokeEffect .
+title: "Enumeración StrokePosition"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition. La configuración de posición controla la alineación de tu trazo con la capa a la que se aplica en el StrokeEffect"
 type: docs
-weight: 2200
+weight: 2400
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
+{{< psd/tize >}}
 ## StrokePosition enumeration
 
-La configuración de posición controla la alineación de su trazo con la capa a la que se aplica en el[`StrokeEffect`](../strokeeffect/) .
+La configuración de posición controla la alineación de tu trazo con la capa a la que se aplica en el [`StrokeEffect`](../strokeeffect/).
 
 ```csharp
 public enum StrokePosition : short
@@ -20,9 +21,9 @@ public enum StrokePosition : short
 | --- | --- | --- |
 | Inside | `0` | El trazo se creará desde el borde de la forma y crecerá hacia adentro, hasta el centro del objeto. |
 | Center | `1` | El trazo se creará desde el borde de la forma y crecerá tanto hacia adentro como hacia afuera. |
-| Outside | `2` | El trazo se creará desde el borde de la forma y crecerá hacia afuera, alejándose del objeto. |
+| Outside | `2` | El trazo se creará desde el borde de la forma y crecerá hacia afuera, alejado del objeto. |
 
-### Ejemplos
+## Ejemplos
 
 Este ejemplo demuestra la capacidad de agregar el efecto de trazo con diferentes tipos de relleno como Color, Degradado o Patrón.
 
@@ -36,28 +37,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Agrega relleno de color, en la posición Interior
+    // 1. Añade relleno de Color, en posición Dentro
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Agrega relleno de color, en la posición Exterior
+    // 2. Añade relleno de Color, en posición Fuera
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Agrega relleno de color, en la posición Centro
+    // 3. Añade relleno de Color, en posición Centro
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Agrega relleno degradado, en la posición Interior
+    // 4. Añade relleno de Degradado, en posición Dentro
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Agrega relleno degradado, en la posición Exterior
+    // 5. Añade relleno de Degradado, en posición Fuera
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Agrega relleno degradado, en la posición Centro
+    // 6. Añade relleno de Degradado, en posición Centro
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -81,21 +82,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Agrega relleno de patrón, en la posición Interior
+    // 7. Añade relleno de Patrón, en posición Dentro
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Agrega relleno de patrón, en la posición Exterior
+    // 8. Añade relleno de Patrón, en posición Fuera
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Agrega relleno de patrón, en la posición Centro
+    // 9. Añade relleno de Patrón, en posición Centro
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -108,7 +109,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

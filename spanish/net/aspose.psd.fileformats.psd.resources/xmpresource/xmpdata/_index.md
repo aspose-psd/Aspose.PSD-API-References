@@ -1,14 +1,15 @@
 ---
-title: XmpResource.XmpData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpResource propiedad. Obtener o establecer contenedor de datos XMP
+title: "XmpResource.XmpData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad XmpResource. Obtiene o establece el contenedor de datos XMP"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpdata/
 ---
+{{< psd/tize >}}
 ## XmpResource.XmpData property
 
-Obtener o establecer contenedor de datos XMP
+Obtener o establecer el contenedor de datos XMP
 
 ```csharp
 public XmpPacketWrapper XmpData { get; set; }
@@ -18,7 +19,7 @@ public XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [XmpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

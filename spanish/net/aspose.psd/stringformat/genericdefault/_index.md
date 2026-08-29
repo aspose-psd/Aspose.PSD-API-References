@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericDefault
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StringFormat propiedad. Obtiene un valor predeterminado genéricoStringFormat objeto.
+title: "StringFormat.GenericDefault"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StringFormat. Obtiene un objeto StringFormat genérico predeterminado"
 type: docs
 weight: 20
 url: /es/net/aspose.psd/stringformat/genericdefault/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericDefault property
 
-Obtiene un valor predeterminado genérico[`StringFormat`](../) objeto.
+Obtiene un objeto [`StringFormat`](../) genérico predeterminado.
 
 ```csharp
 public static StringFormat GenericDefault { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor predeterminado genérico[`StringFormat`](../) objeto.
+El objeto [`StringFormat`](../) genérico predeterminado.
 
 ### Ver también
 
 * class [StringFormat](../)
-* espacio de nombres [Aspose.PSD](../../stringformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres maneja el procesamiento del formato de archivo Png.
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres maneja el procesamiento del formato de archivo Png"
 type: docs
-weight: 190
+weight: 200
 url: /es/net/aspose.psd.fileformats.png/
 ---
-El espacio de nombres maneja el procesamiento del formato de archivo Png.
+{{< psd/tize >}}
+El espacio de nombres maneja el procesamiento del formato de archivo PNG.
 
 ## Enumeración
 

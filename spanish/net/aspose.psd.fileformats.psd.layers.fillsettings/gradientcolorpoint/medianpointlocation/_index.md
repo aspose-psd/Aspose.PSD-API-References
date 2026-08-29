@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.MedianPointLocation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GradientColorPoint propiedad. Obtiene o establece la ubicación del punto de gradiente medio.
+title: "GradientColorPoint.MedianPointLocation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GradientColorPoint. Obtiene o establece la ubicación del punto medio del gradiente"
 type: docs
-weight: 30
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.MedianPointLocation property
 
-Obtiene o establece la ubicación del punto de gradiente medio.
+Obtiene o establece la ubicación del punto medio del degradado.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La ubicación del punto medio.
 
 ### Ver también
 
 * class [GradientColorPoint](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

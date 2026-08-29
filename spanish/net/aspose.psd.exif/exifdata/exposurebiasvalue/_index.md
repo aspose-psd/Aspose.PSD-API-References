@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureBiasValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el valor del sesgo de exposición.
+title: "ExifData.ExposureBiasValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el valor de sesgo de exposición"
 type: docs
 weight: 190
 url: /es/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureBiasValue property
 
-Obtiene o establece el valor del sesgo de exposición.
+Obtiene o establece el valor de sesgo de exposición.
 
 ```csharp
 public TiffSRational ExposureBiasValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor de sesgo de exposición.
+El valor de compensación de exposición.
 
 ### Ver también
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

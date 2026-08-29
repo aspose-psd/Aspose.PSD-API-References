@@ -1,11 +1,12 @@
 ---
-title: IVectorPathData.Paths
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IVectorPathData propiedad. Obtiene o establece los registros de ruta.
+title: "IVectorPathData.Paths"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IVectorPathData. Obtiene o establece los registros de ruta"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Paths property
 
 Obtiene o establece los registros de ruta.
@@ -14,21 +15,21 @@ Obtiene o establece los registros de ruta.
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los caminos.
+Las rutas.
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra la compatibilidad del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación Recortar.
+Este ejemplo demuestra el soporte del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación de recorte.
 
 ```csharp
 [C#]
 
-// Recorta la imagen y guarda.
+// Recortar imagen y guardar.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Carga la imagen guardada y verifica los cambios.
+// Cargar imagen guardada y verificar los cambios.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * interface [IVectorPathData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

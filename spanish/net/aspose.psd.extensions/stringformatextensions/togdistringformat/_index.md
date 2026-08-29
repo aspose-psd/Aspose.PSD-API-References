@@ -1,32 +1,33 @@
 ---
-title: StringFormatExtensions.ToGdiStringFormat
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StringFormatExtensions método. Convierte elStringFormat haciaStringFormat .
+title: "StringFormatExtensions.ToGdiStringFormat"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método StringFormatExtensions. Convierte el StringFormat al StringFormat"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions.ToGdiStringFormat method
 
-Convierte el[`StringFormat`](../../../aspose.psd/stringformat/) haciaStringFormat .
+Convierte el [`StringFormat`](../../../aspose.psd/stringformat/) al StringFormat.
 
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stringFormat | StringFormat | El[`StringFormat`](../../../aspose.psd/stringformat/) para convertir. |
+| stringFormat | StringFormat | El [`StringFormat`](../../../aspose.psd/stringformat/) para convertir. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el convertidoStringFormat.
+El StringFormat convertido.
 
 ### Ver también
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [StringFormatExtensions](../)
-* espacio de nombres [Aspose.PSD.Extensions](../../stringformatextensions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

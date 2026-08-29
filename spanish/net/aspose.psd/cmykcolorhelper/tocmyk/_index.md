@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmyk
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CmykColorHelper método. La conversión de colores ARGB a colores CMYK.
+title: "CmykColorHelper.ToCmyk"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método CmykColorHelper. La conversión de colores ARGB a colores CMYK"
 type: docs
 weight: 90
 url: /es/net/aspose.psd/cmykcolorhelper/tocmyk/
 ---
+{{< psd/tize >}}
 ## ToCmyk(int[]) {#tocmyk_3}
 
 La conversión de colores ARGB a colores CMYK.
@@ -14,19 +15,19 @@ La conversión de colores ARGB a colores CMYK.
 public static int[] ToCmyk(int[] argbPixels)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | argbPixels | Int32[] | Los colores ARGB presentados como valores enteros de 32 bits. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Los colores CMYK presentados como valores enteros de 32 bits.
 
 ### Ver también
 
 * class [CmykColorHelper](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolorhelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,19 +39,19 @@ La conversión de color ARGB a color CMYK.
 public static int ToCmyk(int argbPixel)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | argbPixel | Int32 | El color ARGB presentado como un valor entero de 32 bits. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El color CMYK presentado como un valor entero de 32 bits.
 
 ### Ver también
 
 * class [CmykColorHelper](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolorhelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -62,11 +63,11 @@ La conversión de color ARGB a color CMYK.
 public static int ToCmyk(Color pixel)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pixel | Color | El color ARGB. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El color CMYK presentado como un valor entero de 32 bits.
 
@@ -74,8 +75,8 @@ El color CMYK presentado como un valor entero de 32 bits.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolorhelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -87,11 +88,11 @@ La conversión de colores ARGB a colores CMYK.
 public static int[] ToCmyk(Color[] pixels)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pixels | Color[] | Los colores ARGB. |
+| píxeles | Color[] | Los colores ARGB. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Los colores CMYK presentados como valores enteros de 32 bits.
 
@@ -99,7 +100,7 @@ Los colores CMYK presentados como valores enteros de 32 bits.
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolorhelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

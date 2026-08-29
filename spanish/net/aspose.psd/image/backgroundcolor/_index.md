@@ -1,11 +1,12 @@
 ---
-title: Image.BackgroundColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image propiedad. Obtiene o establece un valor para el color de fondo.
+title: "Image.BackgroundColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Image. Obtiene o establece un valor para el color de fondo"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/image/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.BackgroundColor property
 
 Obtiene o establece un valor para el color de fondo.
@@ -18,7 +19,7 @@ public virtual Color BackgroundColor { get; set; }
 
 * struct [Color](../../color/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

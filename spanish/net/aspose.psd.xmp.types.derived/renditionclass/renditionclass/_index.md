@@ -1,14 +1,15 @@
 ---
-title: RenditionClass.RenditionClass
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RenditionClass constructor. Inicializa una nueva instancia delRenditionClass clase.
+title: "RenditionClass.RenditionClass"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor RenditionClass. Inicializa una nueva instancia de la clase RenditionClass"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.types.derived/renditionclass/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass() {#constructor}
 
-Inicializa una nueva instancia del[`RenditionClass`](../) clase.
+Inicializa una nueva instancia de la clase [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass()
@@ -17,28 +18,28 @@ public RenditionClass()
 ### Ver también
 
 * class [RenditionClass](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RenditionClass(string, string) {#constructor_1}
 
-Inicializa una nueva instancia del[`RenditionClass`](../) clase.
+Inicializa una nueva instancia de la clase [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass(string token, string value)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| token | String | la ficha |
-| value | String | El valor. |
+| token | String | El token. |
+| valor | String | El valor. |
 
 ### Ver también
 
 * class [RenditionClass](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.CreateFirstSupportedCreator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageCreatorsRegistry método. Crea el primer creador encontrado adecuado para el especificado.
+title: "ImageCreatorsRegistry.CreateFirstSupportedCreator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageCreatorsRegistry. Crea el primer creador encontrado adecuado para lo especificado"
 type: docs
 weight: 30
 url: /es/net/aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.CreateFirstSupportedCreator method
 
-Crea el primer creador encontrado adecuado para el especificado.
+Crea el primer creador encontrado adecuado para lo especificado.
 
 ```csharp
 public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOptions)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | Las opciones de imagen. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El creador que admite el especificado o nulo si no se encuentra dicho creador.
+El creador que soporta lo especificado o null si no se encuentra tal creador.
 
-### Observaciones
+## Observaciones
 
 El primer creador será en realidad el último registrado.
 
@@ -31,7 +32,7 @@ El primer creador será en realidad el último registrado.
 * interface [IImageCreator](../../iimagecreator/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* espacio de nombres [Aspose.PSD](../../imagecreatorsregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

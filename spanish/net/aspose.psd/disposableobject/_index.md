@@ -1,14 +1,15 @@
 ---
-title: Class DisposableObject
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.DisposableObject clase. Representa objeto desechable.
+title: "Clase DisposableObject"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.DisposableObject. Representa un objeto desechable"
 type: docs
-weight: 750
+weight: 760
 url: /es/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
-Representa objeto desechable.
+Representa un objeto desechable.
 
 ```csharp
 public class DisposableObject : IDisposable
@@ -18,23 +19,23 @@ public class DisposableObject : IDisposable
 
 | Nombre | Descripción |
 | --- | --- |
-| [DisposableObject](disposableobject/)() | Constructor predeterminado |
+| [DisposableObject](disposableobject/)() | El constructor predeterminado. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtiene un valor que indica si esta instancia se desecha. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtiene un valor que indica si esta instancia está eliminada. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Elimina la instancia actual. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Descarta la instancia actual. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

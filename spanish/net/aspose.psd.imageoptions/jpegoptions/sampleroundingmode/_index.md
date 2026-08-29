@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.SampleRoundingMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegOptions propiedad. Obtiene o establece el modo de redondeo de muestra para ajustar un valor de 8 bits a un valor de n bits.BitsPerChannel
+title: "JpegOptions.SampleRoundingMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad JpegOptions. Obtiene o establece el modo de redondeo de muestra para ajustar un valor de 8 bits a un valor de n bits. BitsPerChannel"
 type: docs
-weight: 180
+weight: 190
 url: /es/net/aspose.psd.imageoptions/jpegoptions/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.SampleRoundingMode property
 
-Obtiene o establece el modo de redondeo de muestra para ajustar un valor de 8 bits a un valor de n bits.BitsPerChannel
+Obtiene o establece el modo de redondeo de muestra para ajustar un valor de 8 bits a un valor de n bits. BitsPerChannel
 
 ```csharp
 public SampleRoundingMode SampleRoundingMode { get; set; }
@@ -18,7 +19,7 @@ public SampleRoundingMode SampleRoundingMode { get; set; }
 
 * enum [SampleRoundingMode](../../../aspose.psd.fileformats.jpeg/sampleroundingmode/)
 * class [JpegOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

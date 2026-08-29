@@ -1,14 +1,15 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Extensions.ColorMatrixExtensions clase. ElColorMatrix métodos de extensión.
+title: "Clase ColorMatrixExtensions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Extensions.ColorMatrixExtensions. Los métodos de extensión de ColorMatrix"
 type: docs
-weight: 1070
+weight: 1080
 url: /es/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-El[`ColorMatrix`](../../aspose.psd/colormatrix/) métodos de extensión.
+Los métodos de extensión de [`ColorMatrix`](../../aspose.psd/colormatrix/).
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -18,11 +19,11 @@ public static class ColorMatrixExtensions
 
 | Nombre | Descripción |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Convierte el[`ColorMatrix`](../../aspose.psd/colormatrix/) haciaColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Convierte el [`ColorMatrix`](../../aspose.psd/colormatrix/) al ColorMatrix. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

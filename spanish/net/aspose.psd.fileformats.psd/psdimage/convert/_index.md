@@ -1,24 +1,25 @@
 ---
-title: PsdImage.Convert
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Convierte este formato de imagen al especificado en opciones.
+title: "PsdImage.Convert"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método de PsdImage. Convierte este formato de imagen al especificado en las opciones"
 type: docs
-weight: 500
+weight: 560
 url: /es/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-Convierte este formato de imagen al especificado en opciones.
+Convierte el formato de esta imagen al especificado en las opciones.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | newOptions | PsdOptions | Las nuevas opciones. |
 
-### Ejemplos
+## Ejemplos
 
 Estos ejemplos demuestran la conversión del formato de imagen PSD a otros modos de color/profundidad de bits.
 
@@ -116,7 +117,7 @@ void SaveToPsdThenLoadAndSaveToPng(
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

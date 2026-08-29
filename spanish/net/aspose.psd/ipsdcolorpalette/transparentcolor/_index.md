@@ -1,11 +1,12 @@
 ---
-title: IPsdColorPalette.TransparentColor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPsdColorPalette propiedad. Obtiene el color transparente.
+title: "IPsdColorPalette.TransparentColor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IPsdColorPalette. Obtiene el color transparente"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/ipsdcolorpalette/transparentcolor/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentColor property
 
 Obtiene el color transparente.
@@ -14,7 +15,7 @@ Obtiene el color transparente.
 public Color TransparentColor { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El color transparente.
 
@@ -22,7 +23,7 @@ El color transparente.
 
 * struct [Color](../../color/)
 * interface [IPsdColorPalette](../)
-* espacio de nombres [Aspose.PSD](../../ipsdcolorpalette/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

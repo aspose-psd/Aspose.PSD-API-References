@@ -1,33 +1,34 @@
 ---
-title: Point.op_Addition
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Point método. Traduce unPoint por un dadoSize .
+title: "Point.op_Addition"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Point. Traslada un Point mediante un Size dado."
 type: docs
 weight: 150
 url: /es/net/aspose.psd/point/op_addition/
 ---
+{{< psd/tize >}}
 ## Point Addition operator
 
-Traduce un[`Point`](../) por un dado[`Size`](../../size/) .
+Traslada un [`Point`](../) mediante un [`Size`](../../size/) dado.
 
 ```csharp
 public static Point operator +(Point point, Size size)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | Point | El[`Point`](../) traducir. |
-| size | Size | A[`Size`](../../size/) que especifica el par de números a sumar a las coordenadas de*point*. |
+| point | Point | El [`Point`](../) a trasladar. |
+| size | Size | Un [`Size`](../../size/) que especifica el par de números a añadir a las coordenadas de *point*. |
 
-### Valor_devuelto
+### Valor devuelto
 
-el traducido[`Point`](../).
+El [`Point`](../) trasladado.
 
 ### Ver también
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* espacio de nombres [Aspose.PSD](../../point/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

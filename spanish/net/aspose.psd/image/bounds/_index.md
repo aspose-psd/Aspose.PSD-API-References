@@ -1,11 +1,12 @@
 ---
-title: Image.Bounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image propiedad. Obtiene los límites de la imagen.
+title: "Image.Bounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Image. Obtiene los límites de la imagen"
 type: docs
 weight: 60
 url: /es/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
 Obtiene los límites de la imagen.
@@ -14,7 +15,7 @@ Obtiene los límites de la imagen.
 public Rectangle Bounds { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Los límites de la imagen.
 
@@ -22,7 +23,7 @@ Los límites de la imagen.
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

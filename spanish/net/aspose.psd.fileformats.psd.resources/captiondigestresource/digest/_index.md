@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.Digest
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CaptionDigestResource propiedad. Obtiene o establece el resumen.
+title: "CaptionDigestResource.Digest"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad CaptionDigestResource. Obtiene o establece el digest"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.Digest property
 
 Obtiene o establece el resumen.
@@ -14,14 +15,14 @@ Obtiene o establece el resumen.
 public byte[] Digest { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El resumen.
 
 ### Ver también
 
 * class [CaptionDigestResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

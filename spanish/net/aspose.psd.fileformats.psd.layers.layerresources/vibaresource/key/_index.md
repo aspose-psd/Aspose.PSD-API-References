@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Key
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VibAResource propiedad. Obtiene la clave de recurso de la capa.
+title: "VibAResource.Key"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de VibAResource. Obtiene la clave del recurso de capa"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key/
 ---
+{{< psd/tize >}}
 ## VibAResource.Key property
 
-Obtiene la clave de recurso de la capa.
+Obtiene la clave del recurso de capa.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo de código demuestra la compatibilidad con el recurso VibAResource.
+El siguiente ejemplo de código muestra el soporte del recurso VibAResource.
 
 ```csharp
 [C#]
 
-// Ejemplo del soporte de lectura y escritura de Vibration Resource en tiempo de ejecución.
+// Ejemplo del soporte de lectura y escritura del Recurso de Vibración en tiempo de ejecución.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Ver también
 
 * class [VibAResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

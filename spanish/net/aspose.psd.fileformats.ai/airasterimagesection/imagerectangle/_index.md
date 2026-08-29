@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiRasterImageSection propiedad. Obtiene el rectángulo de la imagen.
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiRasterImageSection. Obtiene el rectángulo de la imagen."
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
 Obtiene el rectángulo de la imagen.
@@ -14,7 +15,7 @@ Obtiene el rectángulo de la imagen.
 public Rectangle ImageRectangle { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El rectángulo de la imagen.
 
@@ -22,7 +23,7 @@ El rectángulo de la imagen.
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

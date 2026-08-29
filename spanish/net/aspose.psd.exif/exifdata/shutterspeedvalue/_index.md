@@ -1,11 +1,12 @@
 ---
-title: ExifData.ShutterSpeedValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el valor de la velocidad de obturación.
+title: "ExifData.ShutterSpeedValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el valor de la velocidad de obturación"
 type: docs
 weight: 950
 url: /es/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ShutterSpeedValue property
 
 Obtiene o establece el valor de la velocidad de obturación.
@@ -14,15 +15,15 @@ Obtiene o establece el valor de la velocidad de obturación.
 public TiffSRational ShutterSpeedValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor de la velocidad de obturación.
+El valor de velocidad de obturación.
 
 ### Ver también
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

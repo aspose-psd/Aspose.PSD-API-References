@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.PatternId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PattResourceData propiedad. Obtiene o establece el identificador del patrón.
+title: "PattResourceData.PatternId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PattResourceData. Obtiene o establece el identificador del patrón."
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternId property
 
 Obtiene o establece el identificador del patrón.
@@ -14,14 +15,14 @@ Obtiene o establece el identificador del patrón.
 public string PatternId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El identificador del patrón.
 
 ### Ver también
 
 * class [PattResourceData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

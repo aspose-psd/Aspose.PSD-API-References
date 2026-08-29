@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.UniqueId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPlacedLayerResource propiedad. Obtiene o establece el identificador único global de la capa colocada en la imagen PSD.
+title: "IPlacedLayerResource.UniqueId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IPlacedLayerResource. Obtiene o establece el identificador único global de la capa colocada o del objeto inteligente en la imagen PSD"
 type: docs
 weight: 170
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.UniqueId property
 
-Obtiene o establece el identificador único global de la capa colocada en la imagen PSD.
+Obtiene o establece el identificador único global de la capa colocada del objeto inteligente en la imagen PSD.
 
 ```csharp
 public Guid UniqueId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El identificador único de la capa colocada.
 
 ### Ver también
 
 * interface [IPlacedLayerResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

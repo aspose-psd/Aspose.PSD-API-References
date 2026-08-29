@@ -1,11 +1,12 @@
 ---
-title: RgbMixerChannel.Red
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RgbMixerChannel propiedad. Obtiene o establece el rojo.
+title: "RgbMixerChannel.Red"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "RgbMixerChannel propiedad. Obtiene o establece el rojo"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Red property
 
 Obtiene o establece el rojo.
@@ -14,14 +15,14 @@ Obtiene o establece el rojo.
 public short Red { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El rojo.
 
 ### Ver también
 
 * class [RgbMixerChannel](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

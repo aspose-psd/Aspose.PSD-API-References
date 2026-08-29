@@ -1,23 +1,24 @@
 ---
-title: Graphics.FillRegion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics método. Llena el interior de unRegion .
+title: "Graphics.FillRegion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Graphics. Rellena el interior de una Región"
 type: docs
-weight: 410
+weight: 420
 url: /es/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-Llena el interior de un[`Region`](../../region/) .
+Rellena el interior de una [`Region`](../../region/).
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)que determina las características del relleno. |
-| region | Region | [`Region`](../../region/) que representa el área a llenar. |
+| brush | Brush | [`Brush`](../../brush/) que determina las características del relleno. |
+| region | Region | [`Region`](../../region/) que representa el área a rellenar. |
 
 ### Excepciones
 
@@ -30,7 +31,7 @@ public void FillRegion(Brush brush, Region region)
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

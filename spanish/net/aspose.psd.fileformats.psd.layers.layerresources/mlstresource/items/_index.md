@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Items
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MlstResource propiedad. Obtiene o establece las estructuras.
+title: "MlstResource.Items"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "MlstResource propiedad. Obtiene o establece las estructuras"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/
 ---
+{{< psd/tize >}}
 ## MlstResource.Items property
 
 Obtiene o establece las estructuras.
@@ -14,9 +15,9 @@ Obtiene o establece las estructuras.
 public OSTypeStructure[] Items { get; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con el recurso MlstResource que brinda un mecanismo de bajo nivel para manipular los estados de la capa.
+El siguiente código demuestra el soporte del recurso MlstResource que brinda un mecanismo de bajo nivel para manipular los estados de la capa.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Deshabilitar la capa 1 en el marco 1
+    // Desactivar la capa 1 en el fotograma 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [MlstResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

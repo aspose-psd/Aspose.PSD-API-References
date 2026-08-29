@@ -1,14 +1,15 @@
 ---
-title: Class RgbMixerChannel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel clase. RgbChannel. Es un envoltorio para los datos sin procesar del canal. Usado en MixrResource
+title: "Clase RgbMixerChannel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel. RgbChannel. Su contenedor para datos sin procesar del canal. Usado en MixrResource"
 type: docs
-weight: 1820
+weight: 1890
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel class
 
-RgbChannel. Es un envoltorio para los datos sin procesar del canal. Usado en MixrResource
+RgbChannel. Es un contenedor para datos sin procesar del canal. Usado en MixrResource
 
 ```csharp
 public class RgbMixerChannel : MixerChannel
@@ -18,8 +19,8 @@ public class RgbMixerChannel : MixerChannel
 
 | Nombre | Descripción |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Obtiene o establece el blue. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtiene o establece la constante.del canal. |
+| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Obtiene o establece el azul. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtiene o establece la constante del canal. |
 | [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Obtiene o establece el verde. |
 | [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Obtiene o establece el rojo. |
 
@@ -32,7 +33,7 @@ public class RgbMixerChannel : MixerChannel
 ### Ver también
 
 * class [MixerChannel](../mixerchannel/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

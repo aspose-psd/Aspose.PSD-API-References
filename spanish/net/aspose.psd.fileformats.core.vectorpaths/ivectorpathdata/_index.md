@@ -1,14 +1,15 @@
 ---
-title: Interface IVectorPathData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData interfaz. La interfaz para acceder a los datos de la ruta del vector.
+title: "Interfaz IVectorPathData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData interface. La interfaz para acceder a los datos de la ruta vectorial."
 type: docs
-weight: 1350
+weight: 1360
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
+{{< psd/tize >}}
 ## IVectorPathData interface
 
-La interfaz para acceder a los datos de la ruta del vector.
+La interfaz para acceder a los datos de la ruta vectorial.
 
 ```csharp
 public interface IVectorPathData
@@ -24,17 +25,17 @@ public interface IVectorPathData
 | [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | Obtiene o establece los registros de ruta. |
 | [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | Obtiene o establece la versión. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra la compatibilidad del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación Recortar.
+Este ejemplo demuestra el soporte del recurso 'WorkingPathResource' en PsdImage.ImageResources para el correcto funcionamiento de la operación de recorte.
 
 ```csharp
 [C#]
 
-// Recorta la imagen y guarda.
+// Recortar imagen y guardar.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -57,10 +58,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Carga la imagen guardada y verifica los cambios.
+// Cargar imagen guardada y verificar los cambios.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Buscar el recurso WorkingPathResource.
+    // Buscar recurso WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -82,7 +83,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

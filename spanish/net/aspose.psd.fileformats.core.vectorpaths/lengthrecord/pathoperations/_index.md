@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.PathOperations
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LengthRecord propiedad. Obtiene o establece las operaciones de ruta.
+title: "LengthRecord.PathOperations"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LengthRecord. Obtiene o establece las operaciones de ruta"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/
 ---
+{{< psd/tize >}}
 ## LengthRecord.PathOperations property
 
 Obtiene o establece las operaciones de ruta.
@@ -14,9 +15,9 @@ Obtiene o establece las operaciones de ruta.
 public PathOperations PathOperations { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código de ejemplo demuestra la compatibilidad con las nuevas propiedades de LengthRecord, PathOperations (operaciones booleanas), ShapeIndex y BezierKnotRecordsCount.
+El siguiente ejemplo de código demuestra el soporte de nuevas propiedades LengthRecord, PathOperations (operaciones booleanas), ShapeIndex y BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Aquí cambiamos la forma de combinar entre formas.
+    // Aquí cambiamos la forma de combinar entre shapes.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -53,7 +54,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: ITextParagraph.Hanging
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ITextParagraph propiedad. Obtiene o establece un valor que indica si esteITextParagraph esta colgando.
+title: "ITextParagraph.Hanging"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ITextParagraph. Obtiene o establece un valor que indica si este ITextParagraph está colgante"
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/
 ---
+{{< psd/tize >}}
 ## ITextParagraph.Hanging property
 
-Obtiene o establece un valor que indica si este[`ITextParagraph`](../) esta colgando.
+Obtiene o establece un valor que indica si este [`ITextParagraph`](../) está colgante.
 
 ```csharp
 public bool Hanging { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si está colgado; de lo contrario,`FALSO` .
+`true` si está colgando; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo de código muestra la edición de porciones de texto y su estilo de texto.
+El siguiente ejemplo de código demuestra la edición de porciones de texto y su estilo de texto.
 
 ```csharp
 [C#]
@@ -43,7 +44,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando el texto de cada porción
+            // Comprobando el texto de cada porción
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -52,8 +53,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Verificando los datos de los párrafos
-            // Los párrafos tienen diferente justificación
+            // Comprobando los datos de los párrafos
+            // Los párrafos tienen justificación diferente
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -87,7 +88,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -102,8 +103,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Comprobando datos de estilo
-            // Los estilos tienen diferentes colores y tamaños de letra
+            // Comprobando los datos de estilo
+            // Los estilos tienen colores diferentes y tamaño de fuente
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -143,7 +144,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Ejemplo de cómo agregar una nueva porción de texto
+            // Ejemplo de agregar una nueva porción de texto
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -151,17 +152,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Ejemplo de edición de párrafo y estilo para porciones
-            // Establecer justificación correcta
+            // Establecer justificación a la derecha
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Diferentes colores para cada estilo. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Diferentes colores para cada estilo. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Fuente diferente. Se cambiará, pero el renderizado no es totalmente compatible.
+            // Fuente diferente. Se cambiará, pero la renderización no está totalmente soportada
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -179,7 +180,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Ver también
 
 * interface [ITextParagraph](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextparagraph/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GlobalAngleResource propiedad. Obtiene o establece el ángulo global.
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad GlobalAngleResource. Obtiene o establece el ángulo global"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
 Obtiene o establece el ángulo global.
@@ -14,14 +15,14 @@ Obtiene o establece el ángulo global.
 public int GlobalAngle { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ángulo global.
 
 ### Ver también
 
 * class [GlobalAngleResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class BaseFillSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings clase. Configuración del efecto de relleno base
+title: "Clase BaseFillSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings. Configuración del efecto de relleno base"
 type: docs
-weight: 1920
+weight: 2030
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-Configuración del efecto de relleno base
+Configuración base del efecto de relleno
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
@@ -18,12 +19,12 @@ public abstract class BaseFillSettings : IFillSettings
 
 | Nombre | Descripción |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Obtiene el tipo de relleno. |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Obtiene el tipo del relleno. |
 
 ### Ver también
 
 * interface [IFillSettings](../ifillsettings/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

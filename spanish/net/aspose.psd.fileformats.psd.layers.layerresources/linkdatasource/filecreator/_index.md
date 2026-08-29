@@ -1,20 +1,21 @@
 ---
-title: LinkDataSource.FileCreator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinkDataSource propiedad. Obtiene o establece el creador del archivo en formato PSD LnkE / Lnk2 resource.
+title: "LinkDataSource.FileCreator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinkDataSource. Obtiene o establece el creador del archivo en el recurso PSD formato LnkE / Lnk2"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileCreator property
 
-Obtiene o establece el creador del archivo en formato PSD LnkE / Lnk2 resource.
+Obtiene o establece el creador del archivo en el recurso de formato PSD LnkE / Lnk2.
 
 ```csharp
 public string FileCreator { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El creador del archivo que contiene la fuente de datos PSD LiFE / LiFD.
 
@@ -27,7 +28,7 @@ El creador del archivo que contiene la fuente de datos PSD LiFE / LiFD.
 ### Ver también
 
 * class [LinkDataSource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

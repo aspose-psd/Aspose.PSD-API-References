@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.GetRange
-second_title: Referencia de API de Aspose.PSD para .NET
-description: HueSaturationLayer método. Obtiene el rango.
+title: "HueSaturationLayer.GetRange"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "HueSaturationLayer método. Obtiene el rango"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/getrange/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.GetRange method
 
 Obtiene el rango.
@@ -14,19 +15,19 @@ Obtiene el rango.
 public ColorRangeHsl GetRange(int index)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | index | Int32 | El índice. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Gama de colores Hsl
+Rango de color Hsl
 
 ### Ver también
 
 * class [ColorRangeHsl](../../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/)
 * class [HueSaturationLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

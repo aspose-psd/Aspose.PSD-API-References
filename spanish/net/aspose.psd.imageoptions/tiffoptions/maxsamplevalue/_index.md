@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el valor de muestra máximo.
+title: "TiffOptions.MaxSampleValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el valor máximo de muestra"
 type: docs
-weight: 260
+weight: 270
 url: /es/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
-Obtiene o establece el valor de muestra máximo.
+Obtiene o establece el valor máximo de muestra.
 
 ```csharp
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor de muestra máximo.
+El valor máximo de muestra.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
 | ArgumentNullException | valor |
-| ArgumentOutOfRangeException | value;La longitud de la matriz debe corresponder a las muestras por conteo de píxeles. |
+| ArgumentOutOfRangeException | value;La longitud del arreglo debe corresponder al número de muestras por píxel. |
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

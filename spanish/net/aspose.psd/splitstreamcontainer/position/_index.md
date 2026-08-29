@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Position
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SplitStreamContainer propiedad. Obtiene o establece la posición actual dentro de la secuencia. Este valor representa el desplazamiento desde la posición inicial de la secuencia pasada en el constructor StreamContainer.
+title: "SplitStreamContainer.Position"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SplitStreamContainer. Obtiene o establece la posición actual dentro del flujo. Este valor representa el desplazamiento desde la posición inicial del flujo pasada en el constructor de StreamContainer."
 type: docs
 weight: 60
 url: /es/net/aspose.psd/splitstreamcontainer/position/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Position property
 
-Obtiene o establece la posición actual dentro de la secuencia. Este valor representa el desplazamiento desde la posición inicial de la secuencia pasada en el constructor StreamContainer.
+Obtiene o establece la posición actual dentro del flujo. Este valor representa el desplazamiento desde la posición inicial del flujo pasada en el constructor de StreamContainer.
 
 ```csharp
 public override long Position { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La posición actual de la transmisión.
+La posición actual del flujo.
 
 ### Ver también
 
 * class [SplitStreamContainer](../)
-* espacio de nombres [Aspose.PSD](../../splitstreamcontainer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

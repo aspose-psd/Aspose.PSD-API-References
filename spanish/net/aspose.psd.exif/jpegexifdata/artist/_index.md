@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Artist
-second_title: Referencia de API de Aspose.PSD para .NET
-description: JpegExifData propiedad. Obtiene o establece el artista.
+title: "JpegExifData.Artist"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad JpegExifData. Obtiene o establece el artista"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.exif/jpegexifdata/artist/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Artist property
 
 Obtiene o establece el artista.
@@ -14,14 +15,14 @@ Obtiene o establece el artista.
 public string Artist { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El artista.
 
 ### Ver también
 
 * class [JpegExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../jpegexifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

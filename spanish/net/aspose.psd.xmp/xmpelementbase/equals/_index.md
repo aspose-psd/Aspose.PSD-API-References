@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.Equals
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpElementBase método. Indica si el objeto actual es igual a otro objeto del mismo tipo.
+title: "XmpElementBase.Equals"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpElementBase. Indica si el objeto actual es igual a otro objeto del mismo tipo"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp/xmpelementbase/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpElementBase) {#equals}
 
 Indica si el objeto actual es igual a otro objeto del mismo tipo.
@@ -14,42 +15,42 @@ Indica si el objeto actual es igual a otro objeto del mismo tipo.
 public bool Equals(XmpElementBase other)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| other | XmpElementBase | Un objeto para comparar con este objeto. |
+| otro | XmpElementBase | Un objeto para comparar con este objeto. |
 
-### Valor_devuelto
+### Valor devuelto
 
-verdadero si el objeto actual es igual al*other* parámetro; de lo contrario, false.
+true si el objeto actual es igual al parámetro *other*; de lo contrario, false.
 
 ### Ver también
 
 * class [XmpElementBase](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmpelementbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Determina si el especificadoObject , es igual a esta instancia.
+Determina si el Object especificado es igual a esta instancia.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| obj | Object | ElObject para comparar con esta instancia. |
+| obj | Object | El Object para comparar con esta instancia. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si el especificadoObject es igual a esta instancia; de lo contrario,`FALSO` .
+`true` si el Object especificado es igual a esta instancia; de lo contrario, `false`.
 
 ### Ver también
 
 * class [XmpElementBase](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmpelementbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

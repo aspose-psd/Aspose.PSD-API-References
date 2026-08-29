@@ -1,11 +1,12 @@
 ---
-title: ExifData.WhitePoint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece la cromaticidad del punto blanco de la imagen.
+title: "ExifData.WhitePoint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece la cromaticidad del punto blanco de la imagen"
 type: docs
 weight: 1080
 url: /es/net/aspose.psd.exif/exifdata/whitepoint/
 ---
+{{< psd/tize >}}
 ## ExifData.WhitePoint property
 
 Obtiene o establece la cromaticidad del punto blanco de la imagen.
@@ -14,7 +15,7 @@ Obtiene o establece la cromaticidad del punto blanco de la imagen.
 public TiffRational[] WhitePoint { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La cromaticidad del punto blanco de la imagen.
 
@@ -22,7 +23,7 @@ La cromaticidad del punto blanco de la imagen.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

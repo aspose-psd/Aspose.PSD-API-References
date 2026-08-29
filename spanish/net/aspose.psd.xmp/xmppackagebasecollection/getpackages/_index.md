@@ -1,20 +1,21 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPackageBaseCollection método. Obtener matriz deXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpPackageBaseCollection. Obtener matriz de XmpPackage"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-Obtener matriz de[`XmpPackage`](../../xmppackage/) .
+Obtener matriz de [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public XmpPackage[] GetPackages()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
 Devuelve una matriz de paquetes XMP.
 
@@ -22,7 +23,7 @@ Devuelve una matriz de paquetes XMP.
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

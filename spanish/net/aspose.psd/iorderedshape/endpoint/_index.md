@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.EndPoint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IOrderedShape propiedad. Obtiene el punto de forma final.
+title: "IOrderedShape.EndPoint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IOrderedShape. Obtiene el punto final de la forma"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/iorderedshape/endpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.EndPoint property
 
-Obtiene el punto de forma final.
+Obtiene el punto final de la forma.
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El punto de forma final.
+El punto final de la forma.
 
 ### Ver también
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* espacio de nombres [Aspose.PSD](../../iorderedshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

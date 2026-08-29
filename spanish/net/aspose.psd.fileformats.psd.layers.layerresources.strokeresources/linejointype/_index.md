@@ -1,11 +1,12 @@
 ---
-title: Enum LineJoinType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enumeración. Tipo de unión de línea.
+title: "Enumeración LineJoinType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Tipo de unión de línea"
 type: docs
-weight: 3050
+weight: 3410
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
 Tipo de unión de línea.
@@ -18,13 +19,13 @@ public enum LineJoinType : short
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| BevelJoin | `0` | Tipo de unión en bisel. |
-| RoundJoin | `1` | Tipo de unión redonda. |
-| MiterJoin | `2` | Tipo de unión a inglete. |
+| BevelJoin | `0` | Tipo de unión biselada. |
+| RoundJoin | `1` | Tipo de unión redondeada. |
+| MiterJoin | `2` | Tipo de unión en inglete. |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con el recurso VstkResource.
+El siguiente código demuestra el soporte del recurso VstkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifCustomRendered
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered enumeración. Exif enumeración renderizada personalizada.
+title: "Enumeración ExifCustomRendered"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered enumeración. exif renderizado personalizado enumeración"
 type: docs
-weight: 820
+weight: 830
 url: /es/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
-Exif enumeración renderizada personalizada.
+enumeración exif personalizada renderizada.
 
 ```csharp
 public enum ExifCustomRendered
@@ -23,7 +24,7 @@ public enum ExifCustomRendered
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: SmartFilter.BlendMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartFilter propiedad. Obtiene o establece el modo de fusión.
+title: "SmartFilter.BlendMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "SmartFilter propiedad. Obtiene o establece el modo de fusión."
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/
 ---
+{{< psd/tize >}}
 ## SmartFilter.BlendMode property
 
 Obtiene o establece el modo de fusión.
@@ -18,7 +19,7 @@ public BlendMode BlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [SmartFilter](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Red
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece el componente de color rojo.
+title: "AiLayerSection.Red"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece el componente de color rojo"
 type: docs
-weight: 130
+weight: 150
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
 Obtiene o establece el componente de color rojo.
@@ -14,13 +15,13 @@ Obtiene o establece el componente de color rojo.
 public int Red { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El componente de color rojo.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

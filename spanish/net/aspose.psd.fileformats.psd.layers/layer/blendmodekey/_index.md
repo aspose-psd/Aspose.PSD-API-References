@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Layer propiedad. Obtiene o establece la clave del modo de combinación.
+title: "Layer.BlendModeKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Layer. Obtiene o establece la clave del modo de fusión"
 type: docs
-weight: 40
+weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-Obtiene o establece la clave del modo de combinación.
+Obtiene o establece la clave del modo de fusión.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La tecla de modo de mezcla.
+La clave del modo de fusión.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra cómo puede usar el modo de fusión de capas PassThrough en Aspose.PSD
+El siguiente ejemplo muestra cómo puede usar el modo de fusión de capa PassThrough en Aspose.PSD
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

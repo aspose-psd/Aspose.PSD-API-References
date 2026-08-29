@@ -1,11 +1,12 @@
 ---
-title: Class LyidResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource clase. Clase LyidResource.
+title: "Clase LyidResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource class. Clase LyidResource"
 type: docs
-weight: 2810
+weight: 3140
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource class
 
 Clase LyidResource.
@@ -18,17 +19,17 @@ public class LyidResource : LayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [LyidResource](lyidresource/#constructor)(byte[]) | Inicializa una nueva instancia del`LyidResource` class. Con valor personalizado o desconocido |
-| [LyidResource](lyidresource/#constructor_1)(int) | Inicializa una nueva instancia del`LyidResource` clase. |
+| [LyidResource](lyidresource/#constructor)(byte[]) | Inicializa una nueva instancia de la clase `LyidResource`. Con valor personalizado o desconocido |
+| [LyidResource](lyidresource/#constructor_1)(int) | Inicializa una nueva instancia de la clase `LyidResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/) { get; } | Obtiene la firma. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Obtiene el valor. |
 
 ## Métodos
@@ -36,7 +37,7 @@ public class LyidResource : LayerResource
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Guarda en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -47,7 +48,7 @@ public class LyidResource : LayerResource
 ### Ver también
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

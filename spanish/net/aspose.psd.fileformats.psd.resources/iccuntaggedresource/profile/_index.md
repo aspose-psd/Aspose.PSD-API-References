@@ -1,11 +1,12 @@
 ---
-title: IccUntaggedResource.Profile
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IccUntaggedResource propiedad. Obtiene o establece el perfil.
+title: "IccUntaggedResource.Profile"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IccUntaggedResource. Obtiene o establece el perfil"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.Profile property
 
 Obtiene o establece el perfil.
@@ -14,14 +15,14 @@ Obtiene o establece el perfil.
 public byte Profile { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El perfil.
 
 ### Ver también
 
 * class [IccUntaggedResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum JpegLsInterleaveMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enumeración. Define el modo intercalado para datos de píxeles de varios componentes color.
+title: "Enum JpegLsInterleaveMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. Define el modo de entrelazado para datos de píxeles de color multicomponente"
 type: docs
-weight: 1510
+weight: 1520
 url: /es/net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegLsInterleaveMode enumeration
 
-Define el modo intercalado para datos de píxeles de varios componentes (color).
+Define el modo de entrelazado para datos de píxeles multicomponente (color).
 
 ```csharp
 public enum JpegLsInterleaveMode
@@ -18,13 +19,13 @@ public enum JpegLsInterleaveMode
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| None | `0` | Los datos se codifican y almacenan como componente para componente: RRRGGGBBB. |
-| Line | `1` | El modo intercalado es por línea. Se codifica una línea completa de cada componente antes de pasar a la siguiente línea. |
-| Sample | `2` | Los datos se codifican y almacenan por muestra. Para imágenes en color, este es el formato como RGBRGBRGB. |
+| None | `0` | Los datos se codifican y almacenan como componente por componente: RRRGGGBBB. |
+| Line | `1` | El modo de entrelazado es por línea. Una línea completa de cada componente se codifica antes de pasar a la siguiente línea. |
+| Sample | `2` | Los datos se codifican y almacenan por muestra. Para imágenes en color este es el formato como RGBRGBRGB. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

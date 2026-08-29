@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.GammaCorrection
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinearGradientBrushBase propiedad. Obtiene o establece un valor que indica si la corrección gamma está habilitada para esteLinearGradientBrushBase .
+title: "LinearGradientBrushBase.GammaCorrection"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinearGradientBrushBase. Obtiene o establece un valor que indica si la corrección gamma está habilitada para este LinearGradientBrushBase."
 type: docs
 weight: 20
 url: /es/net/aspose.psd.brushes/lineargradientbrushbase/gammacorrection/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.GammaCorrection property
 
-Obtiene o establece un valor que indica si la corrección gamma está habilitada para este[`LinearGradientBrushBase`](../) .
+Obtiene o establece un valor que indica si la corrección gamma está habilitada para este [`LinearGradientBrushBase`](../).
 
 ```csharp
 public bool GammaCorrection { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor es verdadero si la corrección gamma está habilitada para este[`LinearGradientBrushBase`](../); en caso contrario, falso.
+El valor es true si la corrección gamma está habilitada para este [`LinearGradientBrushBase`](../); de lo contrario, false.
 
 ### Ver también
 
 * class [LinearGradientBrushBase](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

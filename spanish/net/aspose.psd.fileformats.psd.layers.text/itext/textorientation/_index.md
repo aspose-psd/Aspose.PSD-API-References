@@ -1,11 +1,12 @@
 ---
-title: IText.TextOrientation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IText propiedad. Obtiene o establece la orientación del texto.
+title: "IText.TextOrientation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IText. Obtiene o establece la orientación del texto"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.text/itext/textorientation/
 ---
+{{< psd/tize >}}
 ## IText.TextOrientation property
 
 Obtiene o establece la orientación del texto.
@@ -14,13 +15,13 @@ Obtiene o establece la orientación del texto.
 public TextOrientation TextOrientation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La orientación del texto.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de editar la nueva propiedad TextOrientation. Esto no afecta el renderizado en este momento, pero solo le permite editar el valor de la propiedad.
+El siguiente código demuestra la capacidad de editar la nueva propiedad TextOrientation. Esto no afecta la renderización en este momento, pero solo permite editar el valor de la propiedad.
 
 ```csharp
 [C#]
@@ -64,7 +65,7 @@ using (var image = (PsdImage)Image.Load(output))
 
 * enum [TextOrientation](../../../aspose.psd.fileformats.psd/textorientation/)
 * interface [IText](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

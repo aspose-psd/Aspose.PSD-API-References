@@ -1,11 +1,12 @@
 ---
-title: Figure.Segments
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Figure propiedad. Obtiene los segmentos completos de la figura.
+title: "Figure.Segments"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Figure. Obtiene los segmentos completos de la figura"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
 Obtiene los segmentos completos de la figura.
@@ -14,15 +15,15 @@ Obtiene los segmentos completos de la figura.
 public ShapeSegment[] Segments { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La figura segmenta.
+Los segmentos de la figura.
 
 ### Ver también
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* espacio de nombres [Aspose.PSD](../../figure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

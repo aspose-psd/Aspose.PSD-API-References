@@ -1,11 +1,12 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image método. Obtiene el rectángulo que se ajusta a la imagen actual.
+title: "Image.GetFittingRectangle"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Image. Obtiene el rectángulo que se ajusta a la imagen actual"
 type: docs
-weight: 270
+weight: 280
 url: /es/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
 Obtiene el rectángulo que se ajusta a la imagen actual.
@@ -14,22 +15,22 @@ Obtiene el rectángulo que se ajusta a la imagen actual.
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | El rectángulo para obtener el rectángulo adecuado. |
+| rectángulo | Rectangle | El rectángulo para el cual obtener el rectángulo de ajuste. |
 | width | Int32 | El ancho del objeto. |
 | height | Int32 | La altura del objeto. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El rectángulo de ajuste o excepción si no se encuentra ningún rectángulo de ajuste.
+El rectángulo de ajuste o excepción si no se puede encontrar ningún rectángulo de ajuste.
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,22 +43,22 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, i
     int height)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | El rectángulo para obtener el rectángulo adecuado. |
-| pixels | Int32[] | Los píxeles ARGB de 32 bits. |
+| rectángulo | Rectangle | El rectángulo para el cual obtener el rectángulo de ajuste. |
+| píxeles | Int32[] | Los píxeles ARGB de 32 bits. |
 | width | Int32 | El ancho del objeto. |
 | height | Int32 | La altura del objeto. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El rectángulo de ajuste o excepción si no se encuentra ningún rectángulo de ajuste.
+El rectángulo de ajuste o excepción si no se puede encontrar ningún rectángulo de ajuste.
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

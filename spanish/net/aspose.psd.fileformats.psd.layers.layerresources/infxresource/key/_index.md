@@ -1,14 +1,15 @@
 ---
-title: InfxResource.Key
-second_title: Referencia de API de Aspose.PSD para .NET
-description: InfxResource propiedad. Obtiene la clave de recurso de la capa.
+title: "InfxResource.Key"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad InfxResource. Obtiene la clave del recurso de capa"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/
 ---
+{{< psd/tize >}}
 ## InfxResource.Key property
 
-Obtiene la clave de recurso de la capa.
+Obtiene la clave del recurso de capa.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Ver también
 
 * class [InfxResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

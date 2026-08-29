@@ -1,14 +1,15 @@
 ---
-title: Class FxrpResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource clase. Clase FxrpResource. El punto de referencia de layer
+title: "Clase FxrpResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource. Clase FxrpResource. El punto de referencia de la capa"
 type: docs
-weight: 2490
+weight: 2750
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource class
 
-Clase FxrpResource. El punto de referencia de layer
+Clase FxrpResource. El punto de referencia de la capa
 
 ```csharp
 public class FxrpResource : LayerResource
@@ -18,18 +19,18 @@ public class FxrpResource : LayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| [FxrpResource](fxrpresource/#constructor)() | Inicializa una nueva instancia del`FxrpResource` clase. |
-| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Inicializa una nueva instancia del`FxrpResource` class. Con valor personalizado o desconocido |
-| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Inicializa una nueva instancia del`FxrpResource` clase. |
+| [FxrpResource](fxrpresource/#constructor)() | Inicializa una nueva instancia de la clase `FxrpResource`. |
+| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Inicializa una nueva instancia de la clase `FxrpResource`. Con valor personalizado o desconocido |
+| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Inicializa una nueva instancia de la clase `FxrpResource`. |
 
 ## Propiedades
 
 | Nombre | Descripción |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/) { get; } | Obtiene la versión psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/) { get; } | Obtiene la firma. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 | [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/) { get; set; } | Obtiene o establece la x del punto de referencia |
 | [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/) { get; set; } | Obtiene o establece la y del punto de referencia |
 
@@ -38,7 +39,7 @@ public class FxrpResource : LayerResource
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/)(StreamContainer, int) | Guarda en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
 ## Campos
 
@@ -49,7 +50,7 @@ public class FxrpResource : LayerResource
 ### Ver también
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SizeF.IsEmpty
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SizeF propiedad. Obtiene un valor que indica si esteSizeF tiene ancho y alto cero.
+title: "SizeF.IsEmpty"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad SizeF. Obtiene un valor que indica si este SizeF tiene ancho y alto cero."
 type: docs
 weight: 60
 url: /es/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-Obtiene un valor que indica si este[`SizeF`](../) tiene ancho y alto cero.
+Obtiene un valor que indica si este [`SizeF`](../) tiene ancho y alto cero.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Esta propiedad devuelve verdadero cuando esto[`SizeF`](../) tiene un ancho y alto de cero; en caso contrario, falso.
+Esta propiedad devuelve true cuando este [`SizeF`](../) tiene tanto ancho como alto iguales a cero; de lo contrario, false.
 
 ### Ver también
 
 * struct [SizeF](../)
-* espacio de nombres [Aspose.PSD](../../sizef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

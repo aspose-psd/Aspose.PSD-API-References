@@ -1,11 +1,12 @@
 ---
-title: BooleanResource.Signature
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BooleanResource propiedad. Obtiene la firma.
+title: "BooleanResource.Signature"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "BooleanResource propiedad. Obtiene la firma"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Signature property
 
 Obtiene la firma.
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Ver también
 
 * class [BooleanResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

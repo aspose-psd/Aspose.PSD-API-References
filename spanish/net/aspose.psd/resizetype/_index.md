@@ -1,14 +1,15 @@
 ---
-title: Enum ResizeType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ResizeType enumeración. Especifica el tipo de cambio de tamaño.
+title: "Enumeración ResizeType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.ResizeType. Especifica el tipo de redimensionamiento"
 type: docs
-weight: 5370
+weight: 5870
 url: /es/net/aspose.psd/resizetype/
 ---
+{{< psd/tize >}}
 ## ResizeType enumeration
 
-Especifica el tipo de cambio de tamaño.
+Especifica el tipo de redimensionamiento.
 
 ```csharp
 public enum ResizeType
@@ -18,27 +19,27 @@ public enum ResizeType
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| None | `0` | Los píxeles no se conservan durante la operación de cambio de tamaño. |
+| None | `0` | Los píxeles no se conservan durante la operación de redimensionamiento. |
 | LeftTopToLeftTop | `1` | El punto superior izquierdo de la nueva imagen coincidirá con el punto superior izquierdo de la imagen original. Se recortará si es necesario. |
 | RightTopToRightTop | `2` | El punto superior derecho de la nueva imagen coincidirá con el punto superior derecho de la imagen original. Se recortará si es necesario. |
 | RightBottomToRightBottom | `3` | El punto inferior derecho de la nueva imagen coincidirá con el punto inferior derecho de la imagen original. Se recortará si es necesario. |
 | LeftBottomToLeftBottom | `4` | El punto inferior izquierdo de la nueva imagen coincidirá con el punto inferior izquierdo de la imagen original. Se recortará si es necesario. |
 | CenterToCenter | `5` | El centro de la nueva imagen coincidirá con el centro de la imagen original. Se recortará si es necesario. |
-| LanczosResample | `6` | Remuestrear usando el algoritmo lanczos con a=3. |
-| NearestNeighbourResample | `7` | Remuestrear usando el algoritmo del vecino más cercano. |
-| AdaptiveResample | `8` | Remuestreo usando algoritmo adaptativo basado en función racional ponderada y combinada y algoritmos de interpolación lanczos3. |
-| BilinearResample | `9` | Volver a muestrear mediante interpolación bilineal. Se permite el prefiltrado de imágenes para eliminar el ruido antes de volver a muestrear, cuando sea necesario |
-| HighQualityResample | `10` | La remuestra de alta calidad |
+| LanczosResample | `6` | Remuestrear usando el algoritmo Lanczos con a=3. |
+| NearestNeighbourResample | `7` | Remuestrear usando el algoritmo de vecino más cercano. |
+| AdaptiveResample | `8` | Remuestrear usando un algoritmo adaptativo basado en funciones racionales ponderadas y combinadas y algoritmos de interpolación Lanczos3. |
+| BilinearResample | `9` | Remuestrear usando interpolación bilineal. Se permite el prefiltrado de la imagen para eliminar el ruido antes del remuestreo, cuando sea necesario. |
+| HighQualityResample | `10` | El remuestreo de alta calidad |
 | CatmullRom | `11` | El método de interpolación cúbica Catmull-Rom. |
-| CubicConvolution | `12` | El método de interpolación de convolución cúbica |
+| CubicConvolution | `12` | El método de interpolación Cubic Convolution |
 | CubicBSpline | `13` | El método de interpolación cúbica CubicBSpline |
-| Mitchell | `14` | El método de interpolación cúbica de Mitchell |
+| Mitchell | `14` | El método de interpolación cúbica Mitchell |
 | SinC | `15` | El método de interpolación cúbica Sinc (Lanczos3) |
-| Bell | `16` | El método de interpolación de Bell |
+| Bell | `16` | El método de interpolación Bell |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de cambio de tamaño SinC.
+El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de redimensionado SinC.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de cambio de tamaño de Bell.
+El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de redimensionado Bell.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-El código siguiente muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de cambio de tamaño de Mitchell.
+El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de redimensionado Mitchell.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ El código siguiente muestra cómo cambiar el tamaño de una imagen con un nuevo
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-El código siguiente muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de cambio de tamaño CatmullRom.
+El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de redimensionado CatmullRom.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ El código siguiente muestra cómo cambiar el tamaño de una imagen con un nuevo
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de cambio de tamaño CubicBSpline.
+El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de redimensionado CubicBSpline.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de cambio de tamaño CubicConvolution.
+El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo tipo de redimensionado CubicConvolution.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ El siguiente código muestra cómo cambiar el tamaño de una imagen con un nuevo
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -136,7 +137,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

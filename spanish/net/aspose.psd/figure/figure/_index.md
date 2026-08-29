@@ -1,14 +1,15 @@
 ---
-title: Figure.Figure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Figure constructor. Constructor predeterminado
+title: "Figure.Figure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor de Figure. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/figure/figure/
 ---
+{{< psd/tize >}}
 ## Figure constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public Figure()
@@ -17,7 +18,7 @@ public Figure()
 ### Ver también
 
 * class [Figure](../)
-* espacio de nombres [Aspose.PSD](../../figure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

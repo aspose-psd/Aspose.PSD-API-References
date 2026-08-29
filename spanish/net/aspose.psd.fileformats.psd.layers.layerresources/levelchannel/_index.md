@@ -1,14 +1,15 @@
 ---
-title: Class LevelChannel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel clase. Clase para trabajar con canales en Capa de Ajuste de Niveles
+title: "Clase LevelChannel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel. Clase para trabajar con canales en la capa de ajuste de niveles"
 type: docs
-weight: 2630
+weight: 2940
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
+{{< psd/tize >}}
 ## LevelChannel class
 
-Clase para trabajar con canales en Capa de Ajuste de Niveles
+Clase para trabajar con canales en la capa de ajuste de niveles
 
 ```csharp
 public class LevelChannel
@@ -19,14 +20,14 @@ public class LevelChannel
 | Nombre | Descripción |
 | --- | --- |
 | [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | Obtiene o establece el nivel de resaltado de entrada. |
-| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | Obtiene o establece el nivel flotante de medios tonos de entrada. |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | Obtiene o establece el nivel de tono medio de entrada como flotante. |
 | [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/) { get; set; } | Obtiene o establece el nivel de sombra de entrada. |
 | [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | Obtiene o establece el nivel de resaltado de salida. |
 | [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | Obtiene o establece el nivel de sombra de salida. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

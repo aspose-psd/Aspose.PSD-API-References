@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Photometric
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece la fotométrica.
+title: "TiffOptions.Photometric"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el fotométrico."
 type: docs
-weight: 320
+weight: 330
 url: /es/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
-Obtiene o establece la fotométrica.
+Obtiene o establece el fotométrico.
 
 ```csharp
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La fotométrica.
+El fotométrico.
 
 ### Ver también
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

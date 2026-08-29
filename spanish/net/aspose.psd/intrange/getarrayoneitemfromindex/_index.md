@@ -1,26 +1,27 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IntRange método. Devuelve una matriz de elementos del índice especificado
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IntRange. Devuelve un arreglo de un elemento del índice especificado."
 type: docs
 weight: 30
 url: /es/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-Devuelve una matriz de elementos del índice especificado
+Devuelve una matriz de un elemento desde el índice especificado
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | index | Int32 | El índice de rango. |
 
-### Valor_devuelto
+### Valor devuelto
 
-la matriz deInt32
+El arreglo de Int32
 
 ### Excepciones
 
@@ -31,7 +32,7 @@ la matriz deInt32
 ### Ver también
 
 * class [IntRange](../)
-* espacio de nombres [Aspose.PSD](../../intrange/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

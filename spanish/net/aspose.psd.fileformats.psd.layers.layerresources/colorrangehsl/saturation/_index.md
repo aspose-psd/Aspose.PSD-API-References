@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Saturation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorRangeHsl propiedad. Obtiene o establece la saturación.
+title: "ColorRangeHsl.Saturation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ColorRangeHsl. Obtiene o establece la saturación"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Saturation property
 
 Obtiene o establece la saturación.
@@ -14,14 +15,14 @@ Obtiene o establece la saturación.
 public short Saturation { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La saturación.
 
 ### Ver también
 
 * class [ColorRangeHsl](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

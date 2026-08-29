@@ -1,11 +1,12 @@
 ---
-title: Enum TiffPredictor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor enumeración. Esquema de predicción para LZW
+title: "Enumeración TiffPredictor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor enum. Esquema de predicción para LZW"
 type: docs
-weight: 4140
+weight: 4610
 url: /es/net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 ---
+{{< psd/tize >}}
 ## TiffPredictor enumeration
 
 Esquema de predicción para LZW
@@ -18,12 +19,12 @@ public enum TiffPredictor : ushort
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| None | `1` | No se utilizó esquema de predicción. |
+| None | `1` | No se usa esquema de predicción. |
 | Horizontal | `2` | Diferenciación horizontal. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Widen
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GraphicsPath método. Agrega un contorno adicional a la ruta.
+title: "GraphicsPath.Widen"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método GraphicsPath. Añade un contorno adicional a la ruta."
 type: docs
 weight: 190
 url: /es/net/aspose.psd/graphicspath/widen/
 ---
+{{< psd/tize >}}
 ## Widen(Pen) {#widen}
 
 Agrega un contorno adicional a la ruta.
@@ -14,62 +15,62 @@ Agrega un contorno adicional a la ruta.
 public void Widen(Pen pen)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) que especifica el ancho entre el contorno original de la ruta y el nuevo contorno que crea este método. |
+| pen | Pen | Un [`Pen`](../../pen/) que especifica el ancho entre el contorno original de la ruta y el nuevo contorno que crea este método. |
 
 ### Ver también
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* espacio de nombres [Aspose.PSD](../../graphicspath/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix) {#widen_1}
 
-Agrega un esquema adicional al[`GraphicsPath`](../) .
+Añade un contorno adicional al [`GraphicsPath`](../).
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) que especifica el ancho entre el contorno original de la ruta y el nuevo contorno que crea este método. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) que especifica una transformación para aplicar a la ruta antes de ampliar. |
+| pen | Pen | Un [`Pen`](../../pen/) que especifica el ancho entre el contorno original de la ruta y el nuevo contorno que crea este método. |
+| matrix | Matrix | Una [`Matrix`](../../matrix/) que especifica una transformación a aplicar a la ruta antes de ensanchar. |
 
 ### Ver también
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* espacio de nombres [Aspose.PSD](../../graphicspath/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix, float) {#widen_2}
 
-Reemplaza esto[`GraphicsPath`](../) con curvas que encierran el área que se rellena cuando la pluma especificada dibuja esta ruta.
+Reemplaza este [`GraphicsPath`](../) con curvas que encierran el área que se rellena cuando esta ruta se dibuja con la pluma especificada.
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix, float flatness)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) que especifica el ancho entre el contorno original de la ruta y el nuevo contorno que crea este método. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) que especifica una transformación para aplicar a la ruta antes de ampliar. |
-| flatness | Single | Un valor que especifica la planitud de las curvas. |
+| pen | Pen | Un [`Pen`](../../pen/) que especifica el ancho entre el contorno original de la ruta y el nuevo contorno que crea este método. |
+| matrix | Matrix | Una [`Matrix`](../../matrix/) que especifica una transformación a aplicar a la ruta antes de ensanchar. |
+| planitud | Single | Un valor que especifica la planitud para curvas. |
 
 ### Ver también
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* espacio de nombres [Aspose.PSD](../../graphicspath/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: Point.Offset
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Point método. Traduce estoPoint por el especificadoPoint .
+title: "Point.Offset"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Point. Traslada este Point por el Point especificado."
 type: docs
 weight: 130
 url: /es/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Traduce esto[`Point`](../) por el especificado[`Point`](../) .
+Traslada este [`Point`](../) por el [`Point`](../) especificado.
 
 ```csharp
 public void Offset(Point point)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | Point | El[`Point`](../) utilizado para compensar esto[`Point`](../). |
+| point | Point | El [`Point`](../) usado para desplazar este [`Point`](../). |
 
 ### Ver también
 
 * struct [Point](../)
-* espacio de nombres [Aspose.PSD](../../point/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Traduce esto[`Point`](../)por la cantidad especificada.
+Traslada este [`Point`](../) por la cantidad especificada.
 
 ```csharp
 public void Offset(int dx, int dy)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| dx | Int32 | La cantidad para compensar la coordenada x. |
-| dy | Int32 | La cantidad para compensar la coordenada y. |
+| dx | Int32 | La cantidad para desplazar la coordenada x. |
+| dy | Int32 | La cantidad para desplazar la coordenada y. |
 
 ### Ver también
 
 * struct [Point](../)
-* espacio de nombres [Aspose.PSD](../../point/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

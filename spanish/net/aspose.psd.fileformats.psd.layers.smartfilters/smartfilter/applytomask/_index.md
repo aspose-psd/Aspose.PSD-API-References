@@ -1,28 +1,29 @@
 ---
-title: SmartFilter.ApplyToMask
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SmartFilter método. Aplica el filtro actual a la entradaLayer enmascarar datos.
+title: "SmartFilter.ApplyToMask"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "SmartFilter método. Aplica el filtro actual a los datos de máscara de entrada de Layer."
 type: docs
 weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/
 ---
+{{< psd/tize >}}
 ## SmartFilter.ApplyToMask method
 
-Aplica el filtro actual a la entrada[`Layer`](../../../aspose.psd.fileformats.psd.layers/layer/) enmascarar datos.
+Aplica el filtro actual a los datos de máscara de entrada de [`Layer`](../../../aspose.psd.fileformats.psd.layers/layer/).
 
 ```csharp
 public void ApplyToMask(Layer layerWithMask)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| layerWithMask | Layer | La capa con datos de máscara. |
+| layerWithMask | Capa | La capa con datos de máscara. |
 
 ### Ver también
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartFilter](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

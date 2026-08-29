@@ -1,23 +1,24 @@
 ---
-title: Graphics.DrawPolygon
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics método. Dibuja un polígono definido por una matriz dePointF estructuras.
+title: "Graphics.DrawPolygon"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Graphics. Dibuja un polígono definido por una matriz de estructuras PointF"
 type: docs
-weight: 290
+weight: 300
 url: /es/net/aspose.psd/graphics/drawpolygon/
 ---
+{{< psd/tize >}}
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-Dibuja un polígono definido por una matriz de[`PointF`](../../pointf/) estructuras.
+Dibuja un polígono definido por una matriz de [`PointF`](../../pointf/) estructuras.
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) que determina el color, el ancho y el estilo del polígono. |
-| points | PointF[] | Gama de[`PointF`](../../pointf/) estructuras que representan los vértices del polígono. |
+| points | PointF[] | Matriz de [`PointF`](../../pointf/) estructuras que representan los vértices del polígono. |
 
 ### Excepciones
 
@@ -30,23 +31,23 @@ public void DrawPolygon(Pen pen, PointF[] points)
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-Dibuja un polígono definido por una matriz de[`Point`](../../point/) estructuras.
+Dibuja un polígono definido por una matriz de [`Point`](../../point/) estructuras.
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) que determina el color, el ancho y el estilo del polígono. |
-| points | Point[] | Gama de[`Point`](../../point/) estructuras que representan los vértices del polígono. |
+| points | Point[] | Matriz de [`Point`](../../point/) estructuras que representan los vértices del polígono. |
 
 ### Excepciones
 
@@ -59,7 +60,7 @@ public void DrawPolygon(Pen pen, Point[] points)
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IObjectWithBounds
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IObjectWithBounds interfaz. Representa un objeto con límites.
+title: "Interfaz IObjectWithBounds"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IObjectWithBounds. Representa un objeto con límites"
 type: docs
-weight: 4490
+weight: 4960
 url: /es/net/aspose.psd/iobjectwithbounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds interface
 
 Representa un objeto con límites.
@@ -25,7 +26,7 @@ public interface IObjectWithBounds
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

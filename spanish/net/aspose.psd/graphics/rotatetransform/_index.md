@@ -1,49 +1,50 @@
 ---
-title: Graphics.RotateTransform
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics método. Gira la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a transform.
+title: "Graphics.RotateTransform"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Graphics. Rota la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a la transformación."
 type: docs
-weight: 440
+weight: 450
 url: /es/net/aspose.psd/graphics/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Gira la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a transform.
+Rota la transformación geométrica local en la cantidad especificada. Este método antepone la rotación a la transformación.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| angle | Single | El ángulo de rotación. |
+| ángulo | Single | El ángulo de rotación. |
 
 ### Ver también
 
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Gira la transformación geométrica local en la cantidad especificada en el orden especificado.
+Rota la transformación geométrica local en la cantidad especificada en el orden indicado.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| angle | Single | El ángulo de rotación. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) que especifica si agregar o anteponer la matriz de rotación. |
+| ángulo | Single | El ángulo de rotación. |
+| order | MatrixOrder | Un [`MatrixOrder`](../../matrixorder/) que especifica si se debe añadir o anteponer la matriz de rotación. |
 
 ### Ver también
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

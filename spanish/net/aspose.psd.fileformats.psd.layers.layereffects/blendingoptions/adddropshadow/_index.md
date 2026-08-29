@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BlendingOptions método. Añade el efecto de sombra paralela.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método BlendingOptions. Añade el efecto de sombra paralela"
 type: docs
-weight: 30
+weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
 Añade el efecto de sombra paralela.
@@ -14,15 +15,15 @@ Añade el efecto de sombra paralela.
 public DropShadowEffect AddDropShadow()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Creado[`DropShadowEffect`](../../dropshadoweffect/) objeto
+Objeto creado [`DropShadowEffect`](../../dropshadoweffect/)
 
 ### Ver también
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

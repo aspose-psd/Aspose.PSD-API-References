@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: Referencia de API de Aspose.PSD para .NET
-description: StringFormat propiedad. Obtiene o establece la alineación de la línea en el plano horizontal.
+title: "StringFormat.LineAlignment"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad StringFormat. Obtiene o establece la alineación de línea en el plano horizontal"
 type: docs
-weight: 100
+weight: 110
 url: /es/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-Obtiene o establece la alineación de la línea en el plano horizontal.
+Obtiene o establece la alineación de línea en el plano horizontal.
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-A[`StringAlignment`](../../stringalignment/) enumeración que representa la alineación de línea.
+Una enumeración [`StringAlignment`](../../stringalignment/) que representa la alineación de línea.
 
 ### Ver también
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* espacio de nombres [Aspose.PSD](../../stringformat/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

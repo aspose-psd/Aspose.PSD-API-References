@@ -1,14 +1,15 @@
 ---
-title: Interface IPatternFillSettings
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings interfaz. Interfaz para configuración de relleno de patrón
+title: "Interfaz IPatternFillSettings"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings. Interfaz para la configuración de relleno de patrón"
 type: docs
-weight: 2030
+weight: 2150
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
-Interfaz para configuración de relleno de patrón
+Interfaz para la configuración de relleno de patrón
 
 ```csharp
 public interface IPatternFillSettings : IFillSettings
@@ -18,9 +19,10 @@ public interface IPatternFillSettings : IFillSettings
 
 | Nombre | Descripción |
 | --- | --- |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | Obtiene o establece el ángulo. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Obtiene o establece el desplazamiento horizontal. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Obtiene o establece un valor que indica si este`IPatternFillSettings`está vinculado. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Obtiene o establece los datos del patrón. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Obtiene o establece un valor que indica si este `IPatternFillSettings` está vinculado. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Obtiene los datos del patrón. |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Obtiene o establece la altura del patrón. |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Obtiene o establece el identificador del patrón. |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Obtiene o establece el nombre del patrón. |
@@ -29,9 +31,9 @@ public interface IPatternFillSettings : IFillSettings
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Obtiene o establece la escala. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Obtiene o establece el desplazamiento vertical. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código guarda imágenes con patrón de capa de relleno y demuestra cómo Aspose.PSD representa el patrón.
+El siguiente código guarda imágenes con capa de relleno de patrón y demuestra cómo Aspose.PSD renderiza el patrón.
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Carga una imagen existente en una instancia de la clase PsdImage
+// Cargar una imagen existente en una instancia de la clase PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -84,7 +86,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### Ver también
 
 * interface [IFillSettings](../ifillsettings/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

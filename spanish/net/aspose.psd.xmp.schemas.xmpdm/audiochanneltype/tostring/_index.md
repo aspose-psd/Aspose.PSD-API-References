@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.ToString
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AudioChannelType método. Devuelve unString que representa esta instancia.
+title: "AudioChannelType.ToString"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método AudioChannelType. Devuelve una cadena que representa esta instancia"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.ToString method
 
-Devuelve unString que representa esta instancia.
+Devuelve una String que representa esta instancia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-AString que representa esta instancia.
+Una String que representa esta instancia.
 
 ### Ver también
 
 * class [AudioChannelType](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

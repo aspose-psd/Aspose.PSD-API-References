@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.XmpMediaManagementPackage
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpMediaManagementPackage constructor. Constructor predeterminado
+title: "XmpMediaManagementPackage.XmpMediaManagementPackage"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor XmpMediaManagementPackage. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/xmpmediamanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public XmpMediaManagementPackage()
@@ -17,7 +18,7 @@ public XmpMediaManagementPackage()
 ### Ver también
 
 * class [XmpMediaManagementPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

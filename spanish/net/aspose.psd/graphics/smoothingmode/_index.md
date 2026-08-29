@@ -1,11 +1,12 @@
 ---
-title: Graphics.SmoothingMode
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Graphics propiedad. Obtiene o establece el modo de suavizado.
+title: "Graphics.SmoothingMode"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Graphics. Obtiene o establece el modo de suavizado"
 type: docs
-weight: 110
+weight: 120
 url: /es/net/aspose.psd/graphics/smoothingmode/
 ---
+{{< psd/tize >}}
 ## Graphics.SmoothingMode property
 
 Obtiene o establece el modo de suavizado.
@@ -14,7 +15,7 @@ Obtiene o establece el modo de suavizado.
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El modo de suavizado.
 
@@ -22,7 +23,7 @@ El modo de suavizado.
 
 * enum [SmoothingMode](../../smoothingmode/)
 * class [Graphics](../)
-* espacio de nombres [Aspose.PSD](../../graphics/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

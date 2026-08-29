@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpDm
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Namespaces campo. Espacio de nombres de medios dinámicos XMP.
+title: "Namespaces.XmpDm"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Namespaces campo. Espacio de nombres de medios dinámicos XMP"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.xmp/namespaces/xmpdm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpDm field
 
-Espacio de nombres de medios dinámicos XMP.
+Espacio de nombres de medios dinámicos de XMP.
 
 ```csharp
 public const string XmpDm;
@@ -17,7 +18,7 @@ public const string XmpDm;
 ### Ver también
 
 * class [Namespaces](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../namespaces/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

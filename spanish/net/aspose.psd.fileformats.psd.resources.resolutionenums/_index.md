@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres maneja unidades de resolución de recursos Psd
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres maneja unidades de resolución de recursos PSD"
 type: docs
-weight: 360
+weight: 400
 url: /es/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-El espacio de nombres maneja unidades de resolución de recursos Psd
+{{< psd/tize >}}
+El espacio de nombres maneja unidades de resolución de recursos PSD
 
 ## Enumeración
 
 | Enumeración | Descripción |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | La unidad física de resoulutionInfo enum |
-| [ResolutionUnit](./resolutionunit/) | La unidad de resolución de información de resolución |
+| [PhysicalUnit](./physicalunit/) | El enum de unidad física de resoulutionInfo |
+| [ResolutionUnit](./resolutionunit/) | La unidad de resolución de resolution info |
 
 

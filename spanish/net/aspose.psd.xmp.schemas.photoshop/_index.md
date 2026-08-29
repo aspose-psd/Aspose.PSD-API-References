@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Photoshop
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene clases auxiliares constantes y métodos utilizados por Adobe Photoshop.
+title: "Aspose.PSD.Xmp.Schemas.Photoshop"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene clases auxiliares, constantes y métodos relacionados utilizados por Adobe Photoshop"
 type: docs
-weight: 550
+weight: 590
 url: /es/net/aspose.psd.xmp.schemas.photoshop/
 ---
-El espacio de nombres contiene clases auxiliares, constantes y métodos utilizados por Adobe Photoshop.
+{{< psd/tize >}}
+El espacio de nombres contiene clases, constantes y métodos auxiliares relacionados utilizados por Adobe Photoshop.
 
 ## Clases
 
@@ -18,6 +19,6 @@ El espacio de nombres contiene clases auxiliares, constantes y métodos utilizad
 
 | Enumeración | Descripción |
 | --- | --- |
-| [ColorMode](./colormode/) | Representa el modo de color en[`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) . |
+| [ColorMode](./colormode/) | Representa el modo de color en [`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/). |
 
 

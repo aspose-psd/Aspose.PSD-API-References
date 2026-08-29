@@ -1,11 +1,12 @@
 ---
-title: NonGenericList.Item
-second_title: Referencia de API de Aspose.PSD para .NET
-description: NonGenericList propiedad. Obtiene o establece el elemento en el índice especificado.
+title: "NonGenericList.Item"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad NonGenericList. Obtiene o establece el elemento en el índice especificado"
 type: docs
 weight: 60
 url: /es/net/aspose.psd/nongenericlist/item/
 ---
+{{< psd/tize >}}
 ## NonGenericList indexer
 
 Obtiene o establece el elemento en el índice especificado.
@@ -21,7 +22,7 @@ public object this[int index] { get; set; }
 ### Ver también
 
 * class [NonGenericList](../)
-* espacio de nombres [Aspose.PSD](../../nongenericlist/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

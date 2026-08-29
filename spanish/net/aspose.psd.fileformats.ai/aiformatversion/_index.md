@@ -1,11 +1,12 @@
 ---
-title: Enum AiFormatVersion
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Ai.AiFormatVersion enumeración. La versión de Adobe Illustrator
+title: "Enumeración AiFormatVersion"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Enumeración Aspose.PSD.FileFormats.Ai.AiFormatVersion. La versión de Adobe Illustrator"
 type: docs
-weight: 1240
+weight: 1250
 url: /es/net/aspose.psd.fileformats.ai/aiformatversion/
 ---
+{{< psd/tize >}}
 ## AiFormatVersion enumeration
 
 La versión de Adobe Illustrator
@@ -18,14 +19,17 @@ public enum AiFormatVersion
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| PsAdobe20 | `0` | El encabezado PS-Adobe-2.0 |
-| PsAdobe30 | `1` | El encabezado PS-Adobe-3.0 |
-| Pdf14 | `2` | El PDF-1.4 Encabezado |
-| Pdf15 | `3` | El PDF-1.5 Encabezado |
+| PsAdobeEpsf | `0` | El encabezado PS-Adobe EPSF |
+| PsAdobe20 | `1` | El encabezado PS-Adobe-2.0 |
+| PsAdobe30 | `2` | El encabezado PS-Adobe-3.0 |
+| Pdf14 | `3` | El encabezado PDF-1.4 |
+| Pdf15 | `4` | El encabezado PDF-1.5 |
+| Pdf16 | `5` | El encabezado PDF-1.6 |
+| Pdf17 | `6` | El encabezado PDF-1.7 |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

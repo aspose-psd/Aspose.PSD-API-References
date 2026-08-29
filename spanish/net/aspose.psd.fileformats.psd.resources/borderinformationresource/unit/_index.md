@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Referencia de API de Aspose.PSD para .NET
-description: BorderInformationResource propiedad. Obtiene o establece las unidades del borde.
+title: "BorderInformationResource.Unit"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad BorderInformationResource. Obtiene o establece las unidades del borde."
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
-Obtiene o establece las unidades del borde.
+Obtiene o establece las unidades de borde.
 
 ```csharp
 public PhysicalUnit Unit { get; set; }
 ```
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad del recurso BorderInformationResource.
+El siguiente ejemplo muestra el soporte del recurso BorderInformationResource.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

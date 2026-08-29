@@ -1,11 +1,12 @@
 ---
-title: PsdImage.MergeLayers
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Fusiona las capas.
+title: "PsdImage.MergeLayers"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Fusiona las capas"
 type: docs
-weight: 560
+weight: 620
 url: /es/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
+{{< psd/tize >}}
 ## PsdImage.MergeLayers method
 
 Fusiona las capas.
@@ -14,12 +15,12 @@ Fusiona las capas.
 public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| bottomLayer | Layer | La capa inferior. |
-| topLayer | Layer | La capa superior. |
+| bottomLayer | Capa | La capa inferior. |
+| topLayer | Capa | La capa superior. |
 
-### Valor_devuelto
+### Valor devuelto
 
 Capa inferior después de la fusión
 
@@ -27,7 +28,7 @@ Capa inferior después de la fusión
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

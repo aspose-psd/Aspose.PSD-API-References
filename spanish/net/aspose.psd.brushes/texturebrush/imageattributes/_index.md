@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageAttributes
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TextureBrush propiedad. Obtiene elImageAttributes asociado con esteTextureBrush .
+title: "TextureBrush.ImageAttributes"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TextureBrush. Obtiene los ImageAttributes asociados a este TextureBrush"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.brushes/texturebrush/imageattributes/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageAttributes property
 
-Obtiene el`ImageAttributes` asociado con este[`TextureBrush`](../) .
+Obtiene los `ImageAttributes` asociados a este [`TextureBrush`](../).
 
 ```csharp
 public ImageAttributes ImageAttributes { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El`ImageAttributes`.
+Los `ImageAttributes`.
 
 ### Ver también
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* espacio de nombres [Aspose.PSD.Brushes](../../texturebrush/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

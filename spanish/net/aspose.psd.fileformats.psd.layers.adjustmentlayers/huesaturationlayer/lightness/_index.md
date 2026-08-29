@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: Referencia de API de Aspose.PSD para .NET
-description: HueSaturationLayer propiedad. Obtiene o establece la luminosidad.
+title: "HueSaturationLayer.Lightness"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad HueSaturationLayer. Obtiene o establece la luminosidad"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
 Obtiene o establece la luminosidad.
@@ -14,7 +15,7 @@ Obtiene o establece la luminosidad.
 public short Lightness { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La luminosidad.
 
@@ -27,7 +28,7 @@ La luminosidad.
 ### Ver también
 
 * class [HueSaturationLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecord.Type
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VectorPathRecord propiedad. Obtiene el tipo.
+title: "VectorPathRecord.Type"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad VectorPathRecord. Obtiene el tipo"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
 Obtiene el tipo.
@@ -14,7 +15,7 @@ Obtiene el tipo.
 public abstract VectorPathType Type { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El tipo de ruta vectorial.
 
@@ -22,7 +23,7 @@ El tipo de ruta vectorial.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions clase. El filtro de convolución.
+title: "Clase ConvolutionFilterOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions. El filtro de convolución"
 type: docs
-weight: 4670
+weight: 5140
 url: /es/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
 El filtro de convolución.
@@ -18,7 +19,7 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 
 | Nombre | Descripción |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Inicializa una nueva instancia del`ConvolutionFilterOptions` clase. |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Inicializa una nueva instancia de la clase `ConvolutionFilterOptions`. |
 
 ## Propiedades
 
@@ -30,7 +31,7 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 ### Ver también
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

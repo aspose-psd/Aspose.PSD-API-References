@@ -1,11 +1,12 @@
 ---
-title: ExifData.RelatedSoundFile
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el archivo de sonido relacionado.
+title: "ExifData.RelatedSoundFile"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el archivo de sonido relacionado"
 type: docs
 weight: 880
 url: /es/net/aspose.psd.exif/exifdata/relatedsoundfile/
 ---
+{{< psd/tize >}}
 ## ExifData.RelatedSoundFile property
 
 Obtiene o establece el archivo de sonido relacionado.
@@ -14,14 +15,14 @@ Obtiene o establece el archivo de sonido relacionado.
 public string RelatedSoundFile { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El archivo de sonido relacionado.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

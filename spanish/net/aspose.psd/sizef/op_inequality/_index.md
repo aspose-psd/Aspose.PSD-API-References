@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Inequality
-second_title: Referencia de API de Aspose.PSD para .NET
-description: SizeF método. Comprueba si dosSizeF las estructuras son diferentes.
+title: "SizeF.op_Inequality"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método SizeF. Prueba si dos estructuras SizeF son diferentes"
 type: docs
 weight: 160
 url: /es/net/aspose.psd/sizef/op_inequality/
 ---
+{{< psd/tize >}}
 ## SizeF Inequality operator
 
-Comprueba si dos[`SizeF`](../) las estructuras son diferentes.
+Prueba si dos estructuras [`SizeF`](../) son diferentes.
 
 ```csharp
 public static bool operator !=(SizeF size1, SizeF size2)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| size1 | SizeF | El[`SizeF`](../) estructura a la izquierda del operador de desigualdad. |
-| size2 | SizeF | El[`SizeF`](../) estructura a la derecha del operador de desigualdad. |
+| size1 | SizeF | La estructura [`SizeF`](../) a la izquierda del operador de desigualdad. |
+| size2 | SizeF | La estructura [`SizeF`](../) a la derecha del operador de desigualdad. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Este operador devuelve verdadero si*size1* y*size2* difieren en ancho o alto; falso si*size1* y*size2* son iguales.
+Este operador devuelve true si *size1* y *size2* difieren ya sea en ancho o en alto; false si *size1* y *size2* son iguales.
 
 ### Ver también
 
 * struct [SizeF](../)
-* espacio de nombres [Aspose.PSD](../../sizef/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

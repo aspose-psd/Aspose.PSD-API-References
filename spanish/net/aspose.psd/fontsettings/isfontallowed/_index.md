@@ -1,30 +1,31 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FontSettings método. Determina si está permitida la fuente el nombre de fuente especificado.
+title: "FontSettings.IsFontAllowed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "FontSettings method. Determina si la fuente especificada está permitida"
 type: docs
-weight: 80
+weight: 90
 url: /es/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-Determina si [está permitida la fuente] [el nombre de fuente especificado].
+Determina si [la fuente está permitida] [el nombre de fuente especificado].
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | fontName | String | Nombre de la fuente. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si [está permitida la fuente] [el nombre de fuente especificado]; de lo contrario,`FALSO` .
+`true` si [is font allowed] [the specified font name]; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la capacidad de limitar mediante programación las fuentes usando.
+El siguiente código demuestra la capacidad de limitar fuentes programáticamente usando.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Ver también
 
 * class [FontSettings](../)
-* espacio de nombres [Aspose.PSD](../../fontsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ReadSRationalArray
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffStreamReader método. Lee una matriz de valores racionales con signo del flujo.
+title: "TiffStreamReader.ReadSRationalArray"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método TiffStreamReader. Lee una matriz de valores racionales con signo del flujo."
 type: docs
 weight: 160
 url: /es/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRationalArray method
 
 Lee una matriz de valores racionales con signo del flujo.
@@ -14,12 +15,12 @@ Lee una matriz de valores racionales con signo del flujo.
 public TiffSRational[] ReadSRationalArray(long position, long count)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| position | Int64 | La posición desde la que leer. |
-| count | Int64 | Los elementos cuentan. |
+| posición | Int64 | La posición desde la cual leer. |
+| count | Int64 | El recuento de elementos. |
 
-### Valor_devuelto
+### Valor devuelto
 
 La matriz de valores racionales con signo.
 
@@ -33,7 +34,7 @@ La matriz de valores racionales con signo.
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

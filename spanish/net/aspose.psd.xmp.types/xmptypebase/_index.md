@@ -1,11 +1,12 @@
 ---
-title: Class XmpTypeBase
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.Xmp.Types.XmpTypeBase clase. Representa la clase base para el tipo XMP básico.
+title: "Clase XmpTypeBase"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.Xmp.Types.XmpTypeBase. Representa la clase base para el tipo XMP básico"
 type: docs
-weight: 6200
+weight: 6700
 url: /es/net/aspose.psd.xmp.types/xmptypebase/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase class
 
 Representa la clase base para el tipo XMP básico.
@@ -18,12 +19,12 @@ public abstract class XmpTypeBase : IXmpType
 
 | Nombre | Descripción |
 | --- | --- |
-| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | Obtiene el valor de la cadena contenida en formato XMP. |
+| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | Obtiene el valor de cadena contenido en formato XMP. |
 
 ### Ver también
 
 * interface [IXmpType](../ixmptype/)
-* espacio de nombres [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

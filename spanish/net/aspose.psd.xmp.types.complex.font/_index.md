@@ -1,11 +1,12 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Font
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene clases que representan la estructura que contiene las características de una fuente utilizada en un documento.
+title: "Aspose.PSD.Xmp.Types.Complex.Font"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene clases que representan la estructura que contiene las características de una fuente utilizada en un documento"
 type: docs
-weight: 650
+weight: 690
 url: /es/net/aspose.psd.xmp.types.complex.font/
 ---
+{{< psd/tize >}}
 El espacio de nombres contiene clases que representan la estructura que contiene las características de una fuente utilizada en un documento.
 
 ## Clases

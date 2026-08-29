@@ -1,14 +1,15 @@
 ---
-title: LinkResource.Item
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinkResource propiedad. Obtiene elLinkDataSource en el índice especificado que es el identificador único de la fuente de datos del vínculo...
+title: "LinkResource.Item"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinkResource. Obtiene el LinkDataSource en el índice especificado, que es el identificador único de la fuente de datos de enlace"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-Obtiene el[`LinkDataSource`](../../linkdatasource/) en el índice especificado que es el identificador único de la fuente de datos del vínculo...
+Obtiene el [`LinkDataSource`](../../linkdatasource/) en el índice especificado, que es el identificador único de la fuente de datos de enlace..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
@@ -16,19 +17,19 @@ public LinkDataSource this[Guid index] { get; }
 
 | Parámetro | Descripción |
 | --- | --- |
-| index | El índice como identificador único de fuente de datos de enlace. |
+| index | El índice como identificador único de la fuente de datos de enlace. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El[`LinkDataSource`](../../linkdatasource/) instancia.
+La instancia del [`LinkDataSource`](../../linkdatasource/).
 
-### El valor de la propiedad
+### Property Value
 
-El[`LinkDataSource`](../../linkdatasource/) .
+El [`LinkDataSource`](../../linkdatasource/).
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con los objetos inteligentes integrados.
+El siguiente código demuestra el soporte de objetos inteligentes incrustados.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Este ejemplo demuestra cómo cambiar la capa del objeto inteligente en el archivo PSD y exportar/actualizar el contenido incrustado original del objeto inteligente.
+// Este ejemplo demuestra cómo cambiar la capa de objeto inteligente en el archivo PSD y exportar/actualizar el contenido original incrustado del objeto inteligente.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -70,10 +71,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Exportemos la imagen del objeto inteligente incrustado desde la capa de objetos inteligentes PSD
+        // Exportemos la imagen del objeto inteligente incrustado de la capa de objeto inteligente del PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Verifiquemos si la imagen original se guardó correctamente
+        // Verifiquemos si la imagen original se guarda correctamente
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -81,7 +82,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Vamos a invertir la imagen original del objeto inteligente
+            // Invertamos la imagen original del objeto inteligente
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -92,11 +93,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Reemplacemos la imagen del objeto inteligente incrustado en la capa PSD
+            // Reemplacemos la imagen del objeto inteligente incrustada en la capa del PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Verifiquemos si la imagen actualizada se guardó correctamente
+        // Verifiquemos si la imagen actualizada se guarda correctamente
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -107,7 +108,7 @@ foreach (FileFormat format in formats)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

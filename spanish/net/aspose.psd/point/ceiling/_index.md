@@ -1,32 +1,33 @@
 ---
-title: Point.Ceiling
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Point método. Convierte el especificadoPointF a unPoint redondeando los valores dePointF a los siguientes valores enteros más altos.
+title: "Point.Ceiling"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Point. Convierte el PointF especificado a un Point redondeando los valores del PointF al siguiente entero superior."
 type: docs
 weight: 40
 url: /es/net/aspose.psd/point/ceiling/
 ---
+{{< psd/tize >}}
 ## Point.Ceiling method
 
-Convierte el especificado[`PointF`](../../pointf/) a un[`Point`](../) redondeando los valores de[`PointF`](../../pointf/) a los siguientes valores enteros más altos.
+Convierte el [`PointF`](../../pointf/) especificado a un [`Point`](../) redondeando los valores del [`PointF`](../../pointf/) al siguiente entero superior.
 
 ```csharp
 public static Point Ceiling(PointF point)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | PointF | El[`PointF`](../../pointf/) para convertir. |
+| point | PointF | El [`PointF`](../../pointf/) a convertir. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El[`Point`](../) este método se convierte en.
+El [`Point`](../) al que convierte este método.
 
 ### Ver también
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* espacio de nombres [Aspose.PSD](../../point/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

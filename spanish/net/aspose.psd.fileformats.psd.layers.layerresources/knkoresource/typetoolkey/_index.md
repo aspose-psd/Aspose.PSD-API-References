@@ -1,11 +1,12 @@
 ---
-title: KnkoResource.TypeToolKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: KnkoResource campo. La clave de información de la herramienta de tipo.
+title: "KnkoResource.TypeToolKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Campo KnkoResource. La clave de información de la herramienta de tipo"
 type: docs
-weight: 40
+weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## KnkoResource.TypeToolKey field
 
 La clave de información de la herramienta de tipo.
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Ver también
 
 * class [KnkoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

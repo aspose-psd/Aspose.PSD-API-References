@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Referencia de API de Aspose.PSD para .NET
-description: AiLayerSection propiedad. Obtiene o establece un valor que indica si esta capa está atenuada. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad AiLayerSection. Obtiene o establece un valor que indica si esta capa está atenuada. Reduce la intensidad de las imágenes vinculadas y de las imágenes de mapa de bits contenidas en la capa"
 type: docs
-weight: 50
+weight: 70
 url: /es/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Obtiene o establece un valor que indica si esta capa está atenuada. Reduce la intensidad de las imágenes vinculadas y las imágenes de mapa de bits contenidas en la capa.
+Obtiene o establece un valor que indica si esta capa está atenuada. Reduce la intensidad de las imágenes vinculadas y de los mapas de bits contenidos en la capa.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero` si esta capa está atenuada; de lo contrario,`FALSO` .
+`true` si esta capa está atenuada; de lo contrario, `false`.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo demuestra la compatibilidad con capas en archivos de formato AI.
+El siguiente ejemplo demuestra el soporte de capas en archivos de formato AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Ver también
 
 * class [AiLayerSection](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

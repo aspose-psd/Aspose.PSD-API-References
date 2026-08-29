@@ -1,11 +1,12 @@
 ---
-title: Class JpegException
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegException clase. Excepciones para archivos Jpeg
+title: "Clase JpegException"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.CoreExceptions.ImageFormats.JpegException. Excepciones para archivos Jpeg"
 type: docs
 weight: 540
 url: /es/net/aspose.psd.coreexceptions.imageformats/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException class
 
 Excepciones para archivos Jpeg
@@ -18,13 +19,13 @@ public class JpegException : ImageException
 
 | Nombre | Descripción |
 | --- | --- |
-| [JpegException](jpegexception/#constructor)(string) | Inicializa una nueva instancia del`JpegException` clase. |
-| [JpegException](jpegexception/#constructor_1)(string, Exception) | Inicializa una nueva instancia del`JpegException` clase. |
+| [JpegException](jpegexception/#constructor)(string) | Inicializa una nueva instancia de la clase `JpegException`. |
+| [JpegException](jpegexception/#constructor_1)(string, Exception) | Inicializa una nueva instancia de la clase `JpegException`. |
 
 ### Ver también
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

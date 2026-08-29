@@ -1,11 +1,12 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene clases que representan las estructuras que contienen las características de un colorante muestra utilizado en un documento.
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene clases que representan las estructuras que contienen las características de una muestra de colorante utilizada en un documento"
 type: docs
-weight: 630
+weight: 670
 url: /es/net/aspose.psd.xmp.types.complex.colorant/
 ---
+{{< psd/tize >}}
 El espacio de nombres contiene clases que representan las estructuras que contienen las características de un colorante (muestra) utilizado en un documento.
 
 ## Clases

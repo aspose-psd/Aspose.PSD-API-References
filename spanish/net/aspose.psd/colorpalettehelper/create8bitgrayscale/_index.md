@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.Create8BitGrayscale
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorPaletteHelper método. Crea la paleta de escala de grises de 8 bits.
+title: "ColorPaletteHelper.Create8BitGrayscale"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ColorPaletteHelper. Crea la paleta de escala de grises de 8 bits."
 type: docs
 weight: 40
 url: /es/net/aspose.psd/colorpalettehelper/create8bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8BitGrayscale method
 
 Crea la paleta de escala de grises de 8 bits.
@@ -14,11 +15,11 @@ Crea la paleta de escala de grises de 8 bits.
 public static IColorPalette Create8BitGrayscale(bool minIsWhite)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| minIsWhite | Boolean | si se establece en`verdadero` la paleta comienza con el color blanco, de lo contrario comienza con el color negro. |
+| minIsWhite | Boolean | si se establece en `true` la paleta comienza con color blanco, de lo contrario comienza con color negro. |
 
-### Valor_devuelto
+### Valor devuelto
 
 La paleta de escala de grises de 8 bits.
 
@@ -26,7 +27,7 @@ La paleta de escala de grises de 8 bits.
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* espacio de nombres [Aspose.PSD](../../colorpalettehelper/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

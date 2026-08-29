@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.Items
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPlacedLayerResource propiedad. Obtiene o establece los elementos warp.
+title: "IPlacedLayerResource.Items"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IPlacedLayerResource. Obtiene o establece los elementos de deformación"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Items property
 
-Obtiene o establece los elementos warp.
+Obtiene o establece los elementos de deformación.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-Los elementos warp.
+Los elementos de deformación.
 
 ### Ver también
 
 * class [OSTypeStructure](../../ostypestructure/)
 * interface [IPlacedLayerResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,39 +1,40 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ImageLoadersRegistry método. Obtiene el primer descriptor compatible encontrado adecuado para el especificadostream y opcionalmente elloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ImageLoadersRegistry. Obtiene el primer descriptor compatible encontrado adecuado para el *stream* especificado y opcionalmente los *loadOptions*"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-Obtiene el primer descriptor compatible encontrado adecuado para el especificado*stream* y opcionalmente el*loadOptions* .
+Obtiene el primer descriptor compatible encontrado que sea adecuado para el *stream* especificado y, opcionalmente, para los *loadOptions*.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
     LoadOptions loadOptions)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La corriente. |
+| flujo | Flujo | El flujo. |
 | loadOptions | LoadOptions | Las opciones de carga. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El descriptor del cargador que soporta el especificado*stream* y*loadOptions* o nulo si no se encuentra dicho descriptor.
+El descriptor de cargador que soporta el *stream* y los *loadOptions* especificados o null si no se encuentra tal descriptor.
 
-### Observaciones
+## Observaciones
 
-El primer descriptor del cargador será en realidad el último registrado.
+El primer descriptor de cargador será en realidad el último registrado.
 
 ### Ver también
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* espacio de nombres [Aspose.PSD](../../imageloadersregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OSTypeStructuresRegistry método. Obtiene el primer descriptor de apertura compatible.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OSTypeStructuresRegistry método. Obtiene el primer descriptor de abridor compatible"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptor method
 
 Obtiene el primer descriptor de apertura compatible.
@@ -14,15 +15,15 @@ Obtiene el primer descriptor de apertura compatible.
 public static IOSTypeStructureLoader GetFirstSupportedDescriptor(Stream stream)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| stream | Stream | La corriente. |
+| flujo | Flujo | El flujo. |
 
-### Valor_devuelto
+### Valor devuelto
 
-El descriptor del cargador de recursos de la capa o nulo si no se admite ningún descriptor del cargador para dicha secuencia.
+El descriptor cargador de recursos de capa o null si no hay descriptor cargador compatible para dicho flujo.
 
-### Observaciones
+## Observaciones
 
 El primer cargador será en realidad el último registrado.
 
@@ -30,7 +31,7 @@ El primer cargador será en realidad el último registrado.
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

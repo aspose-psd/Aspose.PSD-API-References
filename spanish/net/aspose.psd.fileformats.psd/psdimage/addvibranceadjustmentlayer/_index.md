@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PsdImage método. Agrega la capa de ajuste de Intensidad.
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PsdImage. Añade la capa de ajuste Vibrance"
 type: docs
-weight: 430
+weight: 490
 url: /es/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-Agrega la capa de ajuste de Intensidad.
+Añade la capa de ajuste de vibrancia.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Una capa de Intensidad recién creada.
+Una capa Vibrance recién creada.
 
-### Ejemplos
+## Ejemplos
 
-El siguiente ejemplo de código demuestra la compatibilidad con la capa VibranceLayer y la capacidad de editar este ajuste.
+El siguiente ejemplo de código demuestra el soporte de la capa VibranceLayer y la capacidad de editar este ajuste.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

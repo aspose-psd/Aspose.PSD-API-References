@@ -1,11 +1,12 @@
 ---
-title: CmykChannelMixerLayer.GetChannelByIndex
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CmykChannelMixerLayer método. Obtiene el índice del canal por. Devuelve CmykMixerChannel
+title: "CmykChannelMixerLayer.GetChannelByIndex"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "CmykChannelMixerLayer método. Obtiene el índice del canal por. Devuelve CmykMixerChannel"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.GetChannelByIndex method
 
 Obtiene el índice del canal por. Devuelve CmykMixerChannel
@@ -14,11 +15,11 @@ Obtiene el índice del canal por. Devuelve CmykMixerChannel
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | index | Int32 | El índice. |
 
-### Valor_devuelto
+### Valor devuelto
 
 [`CmykMixerChannel`](../../cmykmixerchannel/)
 
@@ -32,7 +33,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 * class [MixerChannel](../../mixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

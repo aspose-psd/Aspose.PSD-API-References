@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ColorRangeHsl método. Determina si el matiz está en gran rango.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método ColorRangeHsl. Determina si el matiz está en un rango grande"
 type: docs
 weight: 100
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-Determina si el matiz está en gran rango.
+Determina si el tono está en un rango grande.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| hue | Double | El valor del matiz. |
+| matiz | Double | El valor del matiz. |
 
-### Valor_devuelto
+### Valor devuelto
 
-`verdadero` si el tono está en gran variedad; de lo contrario,`FALSO` .
+`true` si el matiz está en un rango grande; de lo contrario, `false`.
 
 ### Ver también
 
 * class [ColorRangeHsl](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

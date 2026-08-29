@@ -1,11 +1,12 @@
 ---
-title: IPartialRawDataLoader.Process
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IPartialRawDataLoader método. Procesa los datos cargados.
+title: "IPartialRawDataLoader.Process"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método IPartialRawDataLoader. Procesa los datos cargados"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/ipartialrawdataloader/process/
 ---
+{{< psd/tize >}}
 ## Process(Rectangle, byte[], Point, Point) {#process}
 
 Procesa los datos cargados.
@@ -14,20 +15,20 @@ Procesa los datos cargados.
 public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | El rectángulo de datos. |
-| data | Byte[] | Los datos en bruto. |
-| start | Point | El punto de datos de inicio. Si no es igual a (izquierda, arriba), lo que significa que no es un rectángulo completo que tenemos. |
-| end | Point | El punto final de datos. Si no es igual a (derecha, abajo), lo que significa que no es un rectángulo completo que tenemos. |
+| rectángulo | Rectangle | El rectángulo de datos. |
+| datos | Byte[] | Los datos sin procesar. |
+| start | Punto | El punto de datos inicial. Si no es igual a (left,top) significa que no es un rectángulo completo. |
+| fin | Punto | El punto de datos final. Si no es igual a (right,bottom) significa que no es un rectángulo completo. |
 
 ### Ver también
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialRawDataLoader](../)
-* espacio de nombres [Aspose.PSD](../../ipartialrawdataloader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,12 +41,12 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
     LoadOptions loadOptions)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| rectangle | Rectangle | El rectángulo de datos. |
-| data | Byte[] | Los datos en bruto. |
-| start | Point | El punto de datos de inicio. Si no es igual a (izquierda, arriba), lo que significa que no es un rectángulo completo que tenemos. |
-| end | Point | El punto final de datos. Si no es igual a (derecha, abajo), lo que significa que no es un rectángulo completo que tenemos. |
+| rectángulo | Rectangle | El rectángulo de datos. |
+| datos | Byte[] | Los datos sin procesar. |
+| start | Punto | El punto de datos inicial. Si no es igual a (left,top) significa que no es un rectángulo completo. |
+| fin | Punto | El punto de datos final. Si no es igual a (right,bottom) significa que no es un rectángulo completo. |
 | loadOptions | LoadOptions | Las opciones de carga. |
 
 ### Ver también
@@ -54,7 +55,7 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 * struct [Point](../../point/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IPartialRawDataLoader](../)
-* espacio de nombres [Aspose.PSD](../../ipartialrawdataloader/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

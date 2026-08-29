@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: Referencia de API de Aspose.PSD para .NET
-description: OuterGlowEffect propiedad. Obtiene o establece un valor que indica si noquea.
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "OuterGlowEffect propiedad. Obtiene o establece un valor que indica si elimina"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
-Obtiene o establece un valor que indica si [noquea].
+Obtiene o establece un valor que indica si [knocks out].
 
 ```csharp
 public bool IsSoftBlend { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-`verdadero`si [noquea]; de lo contrario,`FALSO` .
+`true` si [elimina]; de lo contrario, `false`.
 
 ### Ver también
 
 * class [OuterGlowEffect](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

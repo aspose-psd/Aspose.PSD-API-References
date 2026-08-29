@@ -1,11 +1,12 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enumeración. Define la enumeración LinkDataSourceType para las fuentes de datos en el recurso de enlace PSD.
+title: "Enumeración LinkDataSourceType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. Define la enumeración LinkDataSourceType para las fuentes de datos en el recurso de enlace PSD"
 type: docs
-weight: 2700
+weight: 3000
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
 Define la enumeración LinkDataSourceType para las fuentes de datos en el recurso de enlace PSD.
@@ -19,13 +20,13 @@ public enum LinkDataSourceType
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
 | None | `0` | El recurso de enlace vacío. |
-| liFD | `1` | El archivo vinculado incrustado data |
-| liFE | `2` | El archivo vinculado externo data |
-| liFA | `3` | El alias del archivo vinculado data |
+| liFD | `1` | Los datos del archivo vinculado incrustado |
+| liFE | `2` | Los datos del archivo externo vinculado |
+| liFA | `3` | Los datos del alias del archivo vinculado |
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con el recurso LnkeResource.
+El siguiente código muestra el soporte del recurso LnkeResource.
 
 ```csharp
 [C#]
@@ -249,7 +250,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

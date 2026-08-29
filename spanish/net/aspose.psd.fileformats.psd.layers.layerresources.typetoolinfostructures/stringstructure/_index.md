@@ -1,14 +1,15 @@
 ---
-title: Class StringStructure
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.StringStructure clase. La estructura de cadenas.
+title: "Clase StringStructure"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.StringStructure clase. La estructura de cadena."
 type: docs
-weight: 3260
+weight: 3650
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/
 ---
+{{< psd/tize >}}
 ## StringStructure class
 
-La estructura de cadenas.
+La estructura de cadena.
 
 ```csharp
 public sealed class StringStructure : OSTypeStructure
@@ -18,8 +19,8 @@ public sealed class StringStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| [StringStructure](stringstructure/#constructor)(ClassID) | Inicializa una nueva instancia del`StringStructure` clase. |
-| [StringStructure](stringstructure/#constructor_1)(ClassID, string) | Inicializa una nueva instancia del`StringStructure`clase con valor. |
+| [StringStructure](stringstructure/#constructor)(ClassID) | Inicializa una nueva instancia de la clase `StringStructure`. |
+| [StringStructure](stringstructure/#constructor_1)(ClassID, string) | Inicializa una nueva instancia de la clase `StringStructure` con valor. |
 
 ## Propiedades
 
@@ -27,7 +28,7 @@ public sealed class StringStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/key/) { get; } | Obtiene la clave. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtiene o establece el nombre de la clave. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length/) { get; } | Obtiene el[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longitud en bytes. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length/) { get; } | Obtiene la longitud en bytes de [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value/) { get; set; } | Obtiene o establece el valor. |
 
 ## Métodos
@@ -42,12 +43,12 @@ public sealed class StringStructure : OSTypeStructure
 
 | Nombre | Descripción |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/structurekey/) | Identifica la clave de estructura. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/structurekey/) | Identifica la clave de la estructura. |
 
 ### Ver también
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.DataSize
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LayerMaskData propiedad. Obtiene el tamaño de los datos de máscara de máscara de capa.
+title: "LayerMaskData.DataSize"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LayerMaskData. Obtiene el tamaño de los datos de la máscara de capa"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DataSize property
 
-Obtiene el tamaño de los datos de máscara de máscara de capa.
+Obtiene el tamaño de los datos de la máscara de capa.
 
 ```csharp
 public int DataSize { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El tamaño de los datos de máscara de máscara de capa.
+El tamaño de los datos de la máscara de capa.
 
 ### Ver también
 
 * class [LayerMaskData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class Jpeg2000Exception
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception clase. Excepciones para archivos Jpeg
+title: "Clase Jpeg2000Exception"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception. Excepciones para archivos Jpeg"
 type: docs
 weight: 530
 url: /es/net/aspose.psd.coreexceptions.imageformats/jpeg2000exception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Exception class
 
 Excepciones para archivos Jpeg
@@ -18,13 +19,13 @@ public class Jpeg2000Exception : ImageException
 
 | Nombre | Descripción |
 | --- | --- |
-| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | Inicializa una nueva instancia del`Jpeg2000Exception` clase. |
-| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | Inicializa una nueva instancia del`Jpeg2000Exception` clase. |
+| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | Inicializa una nueva instancia de la clase `Jpeg2000Exception`. |
+| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | Inicializa una nueva instancia de la clase `Jpeg2000Exception`. |
 
 ### Ver también
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* espacio de nombres [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

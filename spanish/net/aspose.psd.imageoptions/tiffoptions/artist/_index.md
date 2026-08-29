@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Artist
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el artista.
+title: "TiffOptions.Artist"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el artista"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
 Obtiene o establece el artista.
@@ -14,14 +15,14 @@ Obtiene o establece el artista.
 public string Artist { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El artista.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

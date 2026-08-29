@@ -1,34 +1,35 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ComplexTypeBase constructor. Inicializa una nueva instancia delComplexTypeBase clase.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor ComplexTypeBase. Inicializa una nueva instancia de la clase ComplexTypeBase"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-Inicializa una nueva instancia del[`ComplexTypeBase`](../) clase.
+Inicializa una nueva instancia de la clase [`ComplexTypeBase`](../).
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| prefix | String | el prefijo |
+| prefijo | String | El prefijo. |
 | namespaceUri | String | El URI del espacio de nombres. |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentNullException | El prefijo es nulo o namespaceUri es nulo |
+| ArgumentNullException | el prefijo es nulo o namespaceUri es nulo |
 
 ### Ver también
 
 * class [ComplexTypeBase](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Font.Font
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Font constructor. Inicializa una nueva instancia delFont clase.
+title: "Font.Font"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor Font. Inicializa una nueva instancia de la clase Font"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-Inicializa una nueva instancia del[`Font`](../) clase.
+Inicializa una nueva instancia de la clase [`Font`](../).
 
 ```csharp
 public Font()
@@ -17,27 +18,27 @@ public Font()
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-Inicializa una nueva instancia del[`Font`](../) clase.
+Inicializa una nueva instancia de la clase [`Font`](../).
 
 ```csharp
 public Font(string fontFamily)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| fontFamily | String | Familia tipográfica. |
+| fontFamily | String | Familia de fuentes. |
 
 ### Ver también
 
 * class [Font](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

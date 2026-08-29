@@ -1,20 +1,21 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FxrpResource constructor. Inicializa una nueva instancia delFxrpResource clase.
+title: "FxrpResource.FxrpResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor FxrpResource. Inicializa una nueva instancia de la clase FxrpResource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-Inicializa una nueva instancia del[`FxrpResource`](../) clase.
+Inicializa una nueva instancia de la clase [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource(double x, double y)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
 | x | Double | La coordenada x del punto de referencia |
 | y | Double | La coordenada y del punto de referencia |
@@ -22,14 +23,14 @@ public FxrpResource(double x, double y)
 ### Ver también
 
 * class [FxrpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-Inicializa una nueva instancia del[`FxrpResource`](../) clase.
+Inicializa una nueva instancia de la clase [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource()
@@ -38,22 +39,22 @@ public FxrpResource()
 ### Ver también
 
 * class [FxrpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-Inicializa una nueva instancia del[`FxrpResource`](../) class. Con valor personalizado o desconocido
+Inicializa una nueva instancia de la clase [`FxrpResource`](../). Con valor personalizado o desconocido
 
 ```csharp
 public FxrpResource(byte[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Byte[] | Los datos del recurso. |
+| datos | Byte[] | Los datos del recurso. |
 
 ### Excepciones
 
@@ -64,7 +65,7 @@ public FxrpResource(byte[] data)
 ### Ver también
 
 * class [FxrpResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

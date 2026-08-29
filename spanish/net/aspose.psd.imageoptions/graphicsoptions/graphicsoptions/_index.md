@@ -1,14 +1,15 @@
 ---
-title: GraphicsOptions.GraphicsOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GraphicsOptions constructor. Constructor predeterminado
+title: "GraphicsOptions.GraphicsOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor GraphicsOptions. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public GraphicsOptions()
@@ -17,7 +18,7 @@ public GraphicsOptions()
 ### Ver también
 
 * class [GraphicsOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

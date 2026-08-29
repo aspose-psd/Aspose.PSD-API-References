@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MultiPageOptions propiedad. Obtiene o establece las páginas.
+title: "MultiPageOptions.Pages"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad MultiPageOptions. Obtiene o establece las páginas"
 type: docs
 weight: 70
 url: /es/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
 Obtiene o establece las páginas.
@@ -14,14 +15,14 @@ Obtiene o establece las páginas.
 public int[] Pages { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las páginas.
 
 ### Ver también
 
 * class [MultiPageOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

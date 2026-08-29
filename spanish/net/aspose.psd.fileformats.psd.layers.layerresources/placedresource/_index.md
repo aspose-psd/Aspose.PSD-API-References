@@ -1,14 +1,15 @@
 ---
-title: Class PlacedResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedResource clase. Define la clase PlacedResource que contiene información común sobre una capa colocada o una capa de objeto inteligente en el archivo PSD. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe Photoshop.
+title: "Clase PlacedResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedResource. Define la clase PlacedResource que contiene información común sobre una capa colocada o una capa de objeto inteligente en el archivo PSD. Se utiliza para soportar capas de objetos inteligentes en las imágenes de Adobe Photoshop."
 type: docs
-weight: 2940
+weight: 3290
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/
 ---
+{{< psd/tize >}}
 ## PlacedResource class
 
-Define la clase PlacedResource que contiene información común sobre una capa colocada o una capa de objeto inteligente en el archivo PSD. Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe® Photoshop®.
+Define la clase PlacedResource que contiene información común sobre una capa colocada o una capa de objeto inteligente en el archivo PSD. Se utiliza para admitir capas de objetos inteligentes en las imágenes Adobe® Photoshop®.
 
 ```csharp
 public abstract class PlacedResource : LayerResource, IPlacedLayerResource
@@ -18,31 +19,31 @@ public abstract class PlacedResource : LayerResource, IPlacedLayerResource
 
 | Nombre | Descripción |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Obtiene o establece la política de suavizado de la capa colocada en la imagen PSD. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Obtiene o establece la política de antialias de la capa colocada en la imagen PSD. |
 | [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Obtiene o establece la ubicación inferior de la capa colocada en la imagen PSD. |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Obtiene o establece los límites de la capa colocada en el archivo PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de la malla horizontal. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Obtiene o establece un valor que indica si el estilo de deformación de esta instancia es personalizado. Si es verdadero, contiene puntos de malla. Si se establece en falso, borra los puntos de malla. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Obtiene o establece los elementos warp. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontales de la capa colocada en el archivo PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de malla horizontales. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Obtiene o establece un valor que indica si el estilo de deformación de esta instancia es personalizado. Si es verdadero, contiene puntos de malla. Si se establece en falso, elimina los puntos de malla. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Obtiene o establece los elementos de deformación. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Obtiene o establece la ubicación izquierda de la capa colocada en el archivo PSD. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Obtiene la longitud del recurso de la capa en bytes. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Obtiene la longitud del recurso de capa en bytes. |
 | virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Obtiene o establece el número de página de la capa colocada en el archivo PSD. |
 | [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Obtiene o establece el valor de perspectiva de la capa colocada en el archivo PSD. |
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Obtiene o establece el otro valor de perspectiva de la capa colocada en el archivo PSD. |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Obtiene o establece el tipo de capa colocada en el archivo PSD. |
-| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de capa. 0 indica que no hay restricciones. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Obtiene o establece la ubicación correcta de la capa colocada en el archivo PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/) { get; } | Obtiene la firma del recurso colocado. |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Obtiene o establece el tipo de la capa colocada en el archivo PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Obtiene o establece la ubicación derecha de la capa colocada en el archivo PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Obtiene o establece la ubicación superior de la capa colocada en la imagen PSD. |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Obtiene o establece el total de páginas de la capa colocada en el archivo PSD. |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Obtiene o establece el número total de páginas de la capa colocada en el archivo PSD. |
 | virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Obtiene o establece la matriz de transformación de la capa colocada en el archivo PSD. |
 | virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Obtiene o establece el identificador único global de la capa colocada en la imagen PSD. |
 | [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Obtiene o establece el valor de orden U de la capa colocada en el archivo PSD. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Obtiene o establece el valor de deformación de la capa colocada en la imagen PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Obtiene la versión de la capa colocada en el archivo PSD, generalmente 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Obtiene la versión de la capa colocada en el archivo PSD, normalmente 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontales de la capa colocada en el archivo PSD. |
 | [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de malla vertical. |
 | [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Obtiene o establece el valor de orden V de la capa colocada en el archivo PSD. |
 
@@ -51,11 +52,11 @@ public abstract class PlacedResource : LayerResource, IPlacedLayerResource
 | Nombre | Descripción |
 | --- | --- |
 | abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save/)(StreamContainer, int) | Guarda el recurso en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con los recursos SoLEResource, SmartObjectResource y PlacedResource.
+El siguiente código demuestra el soporte de los recursos SoLEResource, SmartObjectResource y PlacedResource.
 
 ```csharp
 [C#]
@@ -149,8 +150,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+    // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -176,7 +177,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Esta identificación única debe cambiarse en las referencias, si las hay
+    // Este Unique Id debe cambiarse en las referencias, si las hay
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -187,15 +188,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     }
 
     // Tenga cuidado con algunos parámetros: la imagen guardada puede volverse ilegible para Adobe® Photoshop®
-    ////recurso.UOrder = 6;
-    ////recurso.VOrden = 9;
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // No cambie esto, de lo contrario no podrá usar la transformación libre
-    // o cambie el objeto inteligente subrayado al tipo de vector
-    ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+    // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+    // o cambie el objeto inteligente subyacente al tipo vector
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Debería haber un PlLdResource válido con este ID único
-    ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Debe haber un PlLdResource válido con este Unique Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -362,7 +364,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

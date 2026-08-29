@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Equality
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PointF método. Compara dosPointF estructuras El resultado especifica si los valores de laX yY propiedades de los dosPointF las estructuras son iguales.
+title: "PointF.op_Equality"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método PointF. Compara dos estructuras PointF. El resultado indica si los valores de las propiedades X y Y de las dos estructuras PointF son iguales"
 type: docs
 weight: 120
 url: /es/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-Compara dos[`PointF`](../) estructuras El resultado especifica si los valores de la[`X`](../x/) y[`Y`](../y/) propiedades de los dos[`PointF`](../) las estructuras son iguales.
+Compara dos estructuras [`PointF`](../). El resultado indica si los valores de las propiedades [`X`](../x/) y [`Y`](../y/) de las dos estructuras [`PointF`](../) son iguales.
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point1 | PointF | Un primero[`PointF`](../) comparar. |
-| point2 | PointF | Un segundo[`PointF`](../) comparar. |
+| point1 | PointF | Un primer [`PointF`](../) para comparar. |
+| point2 | PointF | Un segundo [`PointF`](../) para comparar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-cierto si el[`X`](../x/) y[`Y`](../y/) valores del primero y segundo[`PointF`](../) las estructuras son iguales; en caso contrario, falso.
+True si los valores [`X`](../x/) y [`Y`](../y/) de las primeras y segundas estructuras [`PointF`](../) son iguales; de lo contrario, false.
 
 ### Ver también
 
 * struct [PointF](../)
-* espacio de nombres [Aspose.PSD](../../pointf/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

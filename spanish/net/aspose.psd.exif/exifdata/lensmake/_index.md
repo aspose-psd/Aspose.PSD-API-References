@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensMake
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el fabricante de la lente.
+title: "ExifData.LensMake"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el fabricante de la lente"
 type: docs
 weight: 730
 url: /es/net/aspose.psd.exif/exifdata/lensmake/
 ---
+{{< psd/tize >}}
 ## ExifData.LensMake property
 
-Obtiene o establece el fabricante de la lente.
+Obtiene o establece el fabricante del objetivo.
 
 ```csharp
 public string LensMake { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El fabricante de lentes.
+El fabricante de la lente.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.GetProportionalWidth
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Image método. Obtiene un ancho proporcional.
+title: "Image.GetProportionalWidth"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método Image. Obtiene un ancho proporcional"
 type: docs
-weight: 290
+weight: 300
 url: /es/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
 Obtiene un ancho proporcional.
@@ -14,20 +15,20 @@ Obtiene un ancho proporcional.
 public static int GetProportionalWidth(int width, int height, int newHeight)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| width | Int32 | La anchura. |
-| height | Int32 | La altura. |
-| newHeight | Int32 | La nueva altura. |
+| width | Int32 | El ancho. |
+| height | Int32 | El alto. |
+| newHeight | Int32 | El nuevo alto. |
 
-### Valor_devuelto
+### Valor devuelto
 
 El ancho proporcional.
 
 ### Ver también
 
 * class [Image](../)
-* espacio de nombres [Aspose.PSD](../../image/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

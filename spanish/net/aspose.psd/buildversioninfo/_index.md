@@ -1,11 +1,12 @@
 ---
-title: Class BuildVersionInfo
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.BuildVersionInfo clase. Contiene la información de la versión de compilación actual.
+title: "Clase BuildVersionInfo"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.BuildVersionInfo. Contiene la información de la versión de compilación actual"
 type: docs
 weight: 230
 url: /es/net/aspose.psd/buildversioninfo/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo class
 
 Contiene la información de la versión de compilación actual.
@@ -18,7 +19,7 @@ public static class BuildVersionInfo
 
 | Nombre | Descripción |
 | --- | --- |
-| static readonly [AssemblyVersion](../../aspose.psd/buildversioninfo/assemblyversion/) | La versión de ensamblaje. |
+| static readonly [AssemblyVersion](../../aspose.psd/buildversioninfo/assemblyversion/) | La versión del ensamblado. |
 | static readonly [FileVersion](../../aspose.psd/buildversioninfo/fileversion/) | La versión del archivo. |
 | static readonly [Product](../../aspose.psd/buildversioninfo/product/) | El título del producto. |
 | static readonly [ProductMajor](../../aspose.psd/buildversioninfo/productmajor/) | La versión principal del producto. |
@@ -27,7 +28,7 @@ public static class BuildVersionInfo
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

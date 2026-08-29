@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Right
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Rectangle propiedad. Obtiene o establece la coordenada x que es la suma deX yWidth valores de propiedad de esteRectangleestructura.
+title: "Rectangle.Right"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad Rectangle. Obtiene o establece la coordenada x que es la suma de los valores de las propiedades X y Width de esta estructura Rectangle"
 type: docs
 weight: 160
 url: /es/net/aspose.psd/rectangle/right/
 ---
+{{< psd/tize >}}
 ## Rectangle.Right property
 
-Obtiene o establece la coordenada x que es la suma de[`X`](../x/) y[`Width`](../width/) valores de propiedad de este[`Rectangle`](../)estructura.
+Obtiene o establece la coordenada x que es la suma de los valores de las propiedades [`X`](../x/) y [`Width`](../width/) de esta estructura [`Rectangle`](../).
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-La coordenada x que es la suma de[`X`](../x/) y[`Width`](../width/) de esta[`Rectangle`](../) .
+La coordenada x que es la suma de [`X`](../x/) y [`Width`](../width/) de este [`Rectangle`](../).
 
 ### Ver también
 
 * struct [Rectangle](../)
-* espacio de nombres [Aspose.PSD](../../rectangle/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

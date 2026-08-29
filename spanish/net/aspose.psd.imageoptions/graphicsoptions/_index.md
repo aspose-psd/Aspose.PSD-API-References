@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsOptions
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ImageOptions.GraphicsOptions clase. Representa opciones de gráficos para mapa de bits incrustado.
+title: "Clase GraphicsOptions"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ImageOptions.GraphicsOptions. Representa opciones gráficas para mapas de bits incrustados"
 type: docs
-weight: 4820
+weight: 5310
 url: /es/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
-Representa opciones de gráficos para mapa de bits incrustado.
+Representa opciones gráficas para bitmap incrustado.
 
 ```csharp
 public class GraphicsOptions
@@ -18,7 +19,7 @@ public class GraphicsOptions
 
 | Nombre | Descripción |
 | --- | --- |
-| [GraphicsOptions](graphicsoptions/)() | Constructor predeterminado |
+| [GraphicsOptions](graphicsoptions/)() | El constructor predeterminado. |
 
 ## Propiedades
 
@@ -26,11 +27,11 @@ public class GraphicsOptions
 | --- | --- |
 | [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Obtiene o establece el modo de interpolación. |
 | [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Obtiene o establece el modo de suavizado. |
-| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Obtiene o establece una sugerencia de representación de texto. |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Obtiene o establece la sugerencia de renderizado de texto. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: XmpChoise1.GetXmpRepresentation
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpChoise método. Obtiene el valor de la cadena contenida en formato XMP.
+title: "XmpChoise1.GetXmpRepresentation"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método XmpChoise. Obtiene el valor contenido en cadena en formato XMP"
 type: docs
 weight: 30
 url: /es/net/aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.GetXmpRepresentation method
 
-Obtiene el valor de la cadena contenida en formato XMP.
+Obtiene el valor de cadena contenido en formato XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-Devuelve el valor contenido en la cadena en formato XMP.
+Devuelve el valor de cadena contenido en formato XMP.
 
 ### Excepciones
 
@@ -27,7 +28,7 @@ Devuelve el valor contenido en la cadena en formato XMP.
 ### Ver también
 
 * class [XmpChoise&lt;T&gt;](../)
-* espacio de nombres [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

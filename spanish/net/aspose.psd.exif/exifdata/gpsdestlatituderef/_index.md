@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDestLatitudeRef
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el valor GPS que indica si la latitud del punto de destino es latitud norte o sur.
+title: "ExifData.GPSDestLatitudeRef"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad ExifData. Obtiene o establece el valor GPS que indica si la latitud del punto de destino es norte o sur"
 type: docs
 weight: 450
 url: /es/net/aspose.psd.exif/exifdata/gpsdestlatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitudeRef property
 
 Obtiene o establece el valor GPS que indica si la latitud del punto de destino es latitud norte o sur.
@@ -14,14 +15,14 @@ Obtiene o establece el valor GPS que indica si la latitud del punto de destino e
 public string GPSDestLatitudeRef { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El valor GPS que indica si la latitud del punto de destino es latitud norte o sur.
+El valor GPS que indica si la latitud del punto de destino es norte o sur.
 
 ### Ver también
 
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

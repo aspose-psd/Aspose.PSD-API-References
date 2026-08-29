@@ -1,11 +1,12 @@
 ---
-title: DescriptorStructure.Structures
-second_title: Referencia de API de Aspose.PSD para .NET
-description: DescriptorStructure propiedad. Obtiene o establece una copia de una matriz de estructuras.
+title: "DescriptorStructure.Structures"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad DescriptorStructure. Obtiene o establece una copia de una matriz de estructuras"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.Structures property
 
 Obtiene o establece una copia de una matriz de estructuras.
@@ -14,7 +15,7 @@ Obtiene o establece una copia de una matriz de estructuras.
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 Las estructuras.
 
@@ -22,7 +23,7 @@ Las estructuras.
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

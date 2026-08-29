@@ -1,14 +1,15 @@
 ---
-title: Class SmartObjectResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource clase. Define la clase SmartObjectResource que contiene información sobre una capa de objeto inteligente en un archivo PSD. Es la clase base para recursos Vendidos y Únicos que se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe Photoshop.
+title: "Clase SmartObjectResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource. Define la clase SmartObjectResource que contiene información sobre una capa de objeto inteligente en un archivo PSD. Es la clase base para los recursos Sold y Sole que se utilizan para admitir capas de objetos inteligentes en las imágenes de Adobe Photoshop."
 type: docs
-weight: 2990
+weight: 3340
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource class
 
-Define la clase SmartObjectResource que contiene información sobre una capa de objeto inteligente en un archivo PSD. Es la clase base para recursos Vendidos y Únicos que se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe® Photoshop®.
+Define la clase SmartObjectResource que contiene información sobre una capa de objeto inteligente en un archivo PSD. Es la clase base para los recursos Sold y Sole que se utilizan para admitir capas de objetos inteligentes en las imágenes Adobe® Photoshop®.
 
 ```csharp
 public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerResource
@@ -18,45 +19,45 @@ public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerRes
 
 | Nombre | Descripción |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Obtiene o establece la política antialiasing de los datos de la capa de objetos inteligentes en la imagen PSD. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Obtiene o establece la política de antialiasing de los datos de la capa de objeto inteligente en la imagen PSD. |
 | [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Obtiene o establece la ubicación inferior de la capa colocada en la imagen PSD. |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Obtiene o establece los límites de la capa colocada en el archivo PSD. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Obtiene o establece el valor de compensación de los datos de la capa del objeto inteligente en el archivo PSD. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Obtiene o establece el ID de la composición actualmente seleccionada para el documento secundario, que será -1 si no se selecciona ninguna. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Con las composiciones de capas, puede crear, administrar y ver varias versiones de un diseño en un solo archivo de Adobe® Photoshop®. Una composición de capa es una instantánea de un estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de composición de capa para la capa de objeto inteligente en el archivo PSD. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Obtiene o establece el recorte de los datos de la capa del objeto inteligente en la imagen PSD. |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Obtiene o establece el denominador de duración. |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Obtiene o establece el numerador de duración. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Obtiene o establece el número de fotogramas de los datos de la capa del objeto inteligente en el archivo PSD. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Obtiene o establece el denominador de paso de cuadro. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Obtiene o establece el numerador de pasos de cuadro. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Obtiene o establece el valor de composición de los datos de la capa de objeto inteligente en el archivo PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Obtiene o establece el ID de la composición seleccionada actualmente para el documento hijo, que será -1 si no hay ninguna seleccionada. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Usando composiciones de capa, puedes crear, gestionar y ver múltiples versiones de un diseño en un solo archivo Adobe Photoshop. Una composición de capa es una instantánea del estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de la composición de capa para la capa de objeto inteligente en el archivo PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Obtiene o establece el recorte de los datos de la capa de objeto inteligente en la imagen PSD. |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Obtiene o establece el denominador de la duración. |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Obtiene o establece el numerador de la duración. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Obtiene o establece el recuento de fotogramas de los datos de la capa de objeto inteligente en el archivo PSD. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Obtiene o establece el denominador del paso de fotograma. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Obtiene o establece el numerador del paso de fotograma. |
 | [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Obtiene o establece la altura. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de la malla horizontal. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Obtiene o establece un valor que indica si el estilo de deformación de esta instancia es personalizado. Si es verdadero, contiene puntos de malla. Si se establece en falso, borra los puntos de malla. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Obtiene o establece los elementos descriptores de los datos de la capa de objeto inteligente en el archivo PSD. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave de recurso de la capa. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontales de la capa colocada en el archivo PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de malla horizontales. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Obtiene o establece un valor que indica si el estilo de deformación de esta instancia es personalizado. Si es verdadero, contiene puntos de malla. Si se establece en falso, elimina los puntos de malla. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Obtiene o establece los elementos del descriptor de los datos de la capa de objeto inteligente en el archivo PSD. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtiene la clave del recurso de capa. |
 | [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Obtiene o establece la ubicación izquierda de la capa colocada en el archivo PSD. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Obtiene la longitud del recurso del objeto inteligente en bytes. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Obtiene la longitud del recurso de objeto inteligente en bytes. |
 | [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Obtiene o establece la matriz de transformación no afín de los datos de la capa de objeto inteligente en el archivo PSD. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Obtiene el ID original del Comp seleccionado actualmente para el documento secundario, que será -1 si no se selecciona ninguno. Esta propiedad obtiene el identificador de selección de Comp de capa original para la capa de objeto inteligente en el archivo PSD. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Obtiene o establece el número de página de los datos de la capa del objeto inteligente en el archivo PSD. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Obtiene el ID original del Comp actualmente seleccionado para el documento hijo, que será -1 si no hay ninguno seleccionado. Esta propiedad obtiene el identificador de selección original del Comp de capa para la capa de objeto inteligente en el archivo PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Obtiene o establece el número de página de los datos de la capa de objeto inteligente en el archivo PSD. |
 | [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Obtiene o establece el valor de perspectiva de la capa colocada en el archivo PSD. |
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Obtiene o establece el otro valor de perspectiva de la capa colocada en el archivo PSD. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Obtiene o establece el identificador único de los datos de esta capa de objeto inteligente en la imagen PSD. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Obtiene o establece el tipo de datos de la capa de objeto inteligente en el archivo PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Obtiene la versión psd mínima necesaria para el recurso de objeto inteligente. 0 indica que no hay restricciones. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Obtiene o establece la resolución de los datos de la capa del objeto inteligente en el archivo PSD. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Obtiene o establece la unidad de medida de resolución de los datos de la capa de objeto inteligente en el archivo PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Obtiene o establece la ubicación correcta de la capa colocada en el archivo PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Obtiene la firma del recurso del objeto inteligente. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Obtiene o establece el identificador único de estos datos de capa de objeto inteligente en la imagen PSD. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Obtiene o establece el tipo de los datos de la capa de objeto inteligente en el archivo PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtiene la versión mínima de PSD requerida para el recurso de capa. 0 indica que no hay restricciones. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Obtiene o establece la resolución de los datos de la capa de objeto inteligente en el archivo PSD. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Obtiene o establece la unidad de medida de la resolución de los datos de la capa de objeto inteligente en el archivo PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Obtiene o establece la ubicación derecha de la capa colocada en el archivo PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtiene la firma. |
 | [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Obtiene o establece la ubicación superior de la capa colocada en la imagen PSD. |
 | override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Obtiene o establece el número total de páginas de los datos de la capa de objeto inteligente en el archivo PSD. |
 | override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Obtiene o establece la matriz de transformación de los datos de la capa de objeto inteligente en el archivo PSD. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Obtiene o establece el identificador único global de los datos de la capa de objeto inteligente`SmartObjectResource` en la imagen PSD. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Obtiene o establece el identificador único global de los datos de la capa de objeto inteligente `SmartObjectResource` en la imagen PSD. |
 | [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Obtiene o establece el valor de orden U de la capa colocada en el archivo PSD. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Obtiene o establece el valor de deformación de la capa colocada en la imagen PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Obtiene la versión de la capa colocada en el archivo PSD, generalmente 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontal de la capa colocada en el archivo PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Obtiene la versión de la capa colocada en el archivo PSD, normalmente 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Obtiene o establece los puntos de malla horizontales de la capa colocada en el archivo PSD. |
 | [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Obtiene o establece la unidad de medida de los puntos de malla vertical. |
 | [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Obtiene o establece el valor de orden V de la capa colocada en el archivo PSD. |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Obtiene o establece el ancho. |
@@ -66,11 +67,11 @@ public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerRes
 | Nombre | Descripción |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Guarda el recurso de objeto inteligente en el contenedor de flujo especificado. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve unString que representa esta instancia. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Devuelve una String que representa esta instancia. |
 
-### Ejemplos
+## Ejemplos
 
-El siguiente código demuestra la compatibilidad con los recursos SoLEResource, SmartObjectResource y PlacedResource.
+El siguiente código demuestra el soporte de los recursos SoLEResource, SmartObjectResource y PlacedResource.
 
 ```csharp
 [C#]
@@ -164,8 +165,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Estos valores también deben cambiarse en PlLdResource (con el UniqueId especificado)
-    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subrayado en LinkDataSource
+    // Estos valores también deben cambiarse en el PlLdResource (con el UniqueId especificado)
+    // y algunos de ellos deben estar de acuerdo con el objeto inteligente subyacente en el LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -191,7 +192,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Esta identificación única debe cambiarse en las referencias, si las hay
+    // Este Unique Id debe cambiarse en las referencias, si las hay
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -202,15 +203,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     }
 
     // Tenga cuidado con algunos parámetros: la imagen guardada puede volverse ilegible para Adobe® Photoshop®
-    ////recurso.UOrder = 6;
-    ////recurso.VOrden = 9;
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // No cambie esto, de lo contrario no podrá usar la transformación libre
-    // o cambie el objeto inteligente subrayado al tipo de vector
-    ////recurso.PlacedLayerType = PlacedLayerType.Vector;
+    // No cambie esto de lo contrario 
+ no podrá usar la transformación libre
+    // o cambie el objeto inteligente subyacente al tipo vector
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Debería haber un PlLdResource válido con este ID único
-    ////recurso.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Debe haber un PlLdResource válido con este Unique Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -379,7 +381,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [SoLeResource](../soleresource/)
 * class [PlacedResource](../placedresource/)
 * interface [ISmartObjectLayerResource](../ismartobjectlayerresource/)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

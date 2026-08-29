@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.OutputHighlightLevel
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LevelChannel propiedad. Obtiene o establece el nivel de resaltado de salida.
+title: "LevelChannel.OutputHighlightLevel"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LevelChannel. Obtiene o establece el nivel de resaltado de salida"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputHighlightLevel property
 
 Obtiene o establece el nivel de resaltado de salida.
@@ -14,7 +15,7 @@ Obtiene o establece el nivel de resaltado de salida.
 public short OutputHighlightLevel { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El nivel de resaltado de salida.
 
@@ -22,12 +23,12 @@ El nivel de resaltado de salida.
 
 | excepción | condición |
 | --- | --- |
-| ArgumentOutOfRangeException | El nivel de resaltado de salida solo se puede configurar en un rango de " + (this.OutputShadowLevel + 2) + " a 255 |
+| ArgumentOutOfRangeException | El nivel de resaltado de salida solo se puede establecer en el rango de " + (this.OutputShadowLevel + 2) + " a 255 |
 
 ### Ver también
 
 * class [LevelChannel](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PatternHeight
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PatternFillSettings propiedad. Obtiene o establece la altura del patrón.
+title: "PatternFillSettings.PatternHeight"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad PatternFillSettings. Obtiene o establece la altura del patrón"
 type: docs
-weight: 70
+weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternHeight property
 
 Obtiene o establece la altura del patrón.
@@ -14,13 +15,13 @@ Obtiene o establece la altura del patrón.
 public int PatternHeight { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 La altura del patrón.
 
-### Ejemplos
+## Ejemplos
 
-El código siguiente demuestra la compatibilidad con la edición de patrón de capa de relleno.
+El siguiente código demuestra el soporte de la edición del patrón de capa de relleno.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Edición 
+            // Editando 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Ver también
 
 * class [PatternFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

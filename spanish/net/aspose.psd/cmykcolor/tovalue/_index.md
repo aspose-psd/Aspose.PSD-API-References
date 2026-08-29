@@ -1,27 +1,28 @@
 ---
-title: CmykColor.ToValue
-second_title: Referencia de API de Aspose.PSD para .NET
-description: CmykColor método. El valor a.
+title: "CmykColor.ToValue"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método CmykColor. El valor resultante"
 type: docs
-weight: 90
+weight: 100
 url: /es/net/aspose.psd/cmykcolor/tovalue/
 ---
+{{< psd/tize >}}
 ## CmykColor.ToValue method
 
-El valor a.
+Obtiene el valor.
 
 ```csharp
 public long ToValue()
 ```
 
-### Valor_devuelto
+### Valor devuelto
 
-ElInt64 .
+El Int64.
 
 ### Ver también
 
 * struct [CmykColor](../)
-* espacio de nombres [Aspose.PSD](../../cmykcolor/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

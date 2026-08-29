@@ -1,34 +1,35 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Referencia de API de Aspose.PSD para .NET
-description: KnkoResource constructor. Inicializa una nueva instancia delKnkoResource clase.
+title: "KnkoResource.KnkoResource"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor KnkoResource. Inicializa una nueva instancia de la clase KnkoResource"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-Inicializa una nueva instancia del[`KnkoResource`](../) clase.
+Inicializa una nueva instancia de la clase [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource(bool knockout)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| knockout | Boolean | si se establece en`verdadero` [mezclar elementos interiores]. |
+| knockout | Boolean | si se establece en `true` [blend interior elements]. |
 
 ### Ver también
 
 * class [KnkoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-Inicializa una nueva instancia del[`KnkoResource`](../) clase.
+Inicializa una nueva instancia de la clase [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource()
@@ -37,33 +38,33 @@ public KnkoResource()
 ### Ver también
 
 * class [KnkoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-Inicializa una nueva instancia del[`KnkoResource`](../) class. Con valor personalizado o desconocido
+Inicializa una nueva instancia de la clase [`KnkoResource`](../). Con valor personalizado o desconocido
 
 ```csharp
 public KnkoResource(byte[] data)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| data | Byte[] | Los datos del recurso. |
+| datos | Byte[] | Los datos del recurso. |
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Valor de recurso de Knko no válido |
+| ArgumentException | Valor de recurso Knko no válido |
 
 ### Ver también
 
 * class [KnkoResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

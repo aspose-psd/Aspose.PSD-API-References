@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.CompId
-second_title: Referencia de API de Aspose.PSD para .NET
-description: LinkDataSource propiedad. Obtiene o establece el ID de la composición actualmente seleccionada para el documento secundario que será 1 si no se selecciona ninguna. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Con las composiciones de capas puede crear administrar y ver varias versiones de un diseño en un solo archivo de Adobe Photoshop. Una composición de capa es una instantánea de un estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de composición de capa para objetos inteligentes. Composiciones de capas en objetos inteligentes
+title: "LinkDataSource.CompId"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad LinkDataSource. Obtiene o establece el ID del comp seleccionado actualmente para el documento hijo, que será 1 si no hay ninguno seleccionado. Los comps son composiciones de un diseño de página que los diseñadores pueden crear. Usando comps de capa puedes crear, gestionar y ver múltiples versiones de un diseño en un solo archivo de Adobe Photoshop. Un comp de capa es una captura del estado del panel Capas. Los comps de capa guardan tres tipos de opciones de capa, pero esta propiedad obtiene el identificador de selección de Layer Comp para Smart Objects. Comp de capa en Smart Objects"
 type: docs
 weight: 40
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.CompId property
 
-Obtiene o establece el ID de la composición actualmente seleccionada para el documento secundario, que será -1 si no se selecciona ninguna. Las composiciones son composiciones de un diseño de página que los diseñadores pueden crear. Con las composiciones de capas, puede crear, administrar y ver varias versiones de un diseño en un solo archivo de Adobe® Photoshop®. Una composición de capa es una instantánea de un estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de composición de capa para objetos inteligentes. [Composiciones de capas en objetos inteligentes](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Obtiene o establece el ID de la composición (comp) actualmente seleccionada para el documento hijo, que será -1 si no hay ninguna seleccionada. Las composiciones son combinaciones de un diseño de página que los diseñadores pueden crear. Usando composiciones de capas, puedes crear, gestionar y ver múltiples versiones de un diseño en un solo archivo de Adobe® Photoshop®. Una composición de capa es una captura instantánea del estado del panel Capas. Las composiciones de capa guardan tres tipos de opciones de capa pero esta propiedad obtiene el identificador de selección de la composición de capa para objetos inteligentes. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El ID de la composición actualmente seleccionada para el documento secundario, que será -1 si no se selecciona ninguno.
+El ID del comp seleccionado actualmente para el documento hijo, que será -1 si no hay ninguno seleccionado.
 
 ### Excepciones
 
 | excepción | condición |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | No puede acceder a la propiedad CompId |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | No puedes acceder a la propiedad CompId |
 
 ### Ver también
 
 * class [LinkDataSource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

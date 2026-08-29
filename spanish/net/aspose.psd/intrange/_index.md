@@ -1,14 +1,15 @@
 ---
-title: Class IntRange
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IntRange clase. Clase para representar secuencia de elementos
+title: "Clase IntRange"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.IntRange. Clase para representar una secuencia de elementos"
 type: docs
-weight: 5010
+weight: 5500
 url: /es/net/aspose.psd/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange class
 
-Clase para representar secuencia de elementos
+Clase para representar una secuencia de elementos
 
 ```csharp
 public class IntRange
@@ -18,9 +19,9 @@ public class IntRange
 
 | Nombre | Descripción |
 | --- | --- |
-| [IntRange](intrange/#constructor_2)(int[]) | Inicializa una nueva instancia del`IntRange` clase. |
-| [IntRange](intrange/#constructor)(int, int) | Inicializa una nueva instancia del`IntRange` clase. |
-| [IntRange](intrange/#constructor_1)(int, int, int) | Inicializa una nueva instancia del`IntRange` clase. |
+| [IntRange](intrange/#constructor_2)(int[]) | Inicializa una nueva instancia de la clase `IntRange`. |
+| [IntRange](intrange/#constructor)(int, int) | Inicializa una nueva instancia de la clase `IntRange`. |
+| [IntRange](intrange/#constructor_1)(int, int, int) | Inicializa una nueva instancia de la clase `IntRange`. |
 
 ## Propiedades
 
@@ -32,12 +33,12 @@ public class IntRange
 
 | Nombre | Descripción |
 | --- | --- |
-| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Devuelve una matriz de elementos del índice especificado |
-| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Obtiene el rango de conteo de elementos int comenzando en start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Devuelve una matriz de un elemento desde el índice especificado |
+| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Obtiene el rango de recuento de elementos int que comienzan en start |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

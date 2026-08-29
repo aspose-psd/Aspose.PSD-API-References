@@ -1,11 +1,12 @@
 ---
-title: ExifData.CustomRendered
-second_title: Referencia de API de Aspose.PSD para .NET
-description: ExifData propiedad. Obtiene o establece el renderizado personalizado.
+title: "ExifData.CustomRendered"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "ExifData property. Obtiene o establece la representación personalizada"
 type: docs
 weight: 120
 url: /es/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
 Obtiene o establece el renderizado personalizado.
@@ -14,15 +15,15 @@ Obtiene o establece el renderizado personalizado.
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El renderizado personalizado.
+La representación personalizada.
 
 ### Ver también
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* espacio de nombres [Aspose.PSD.Exif](../../exifdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: VstkResource.StrokeStyleLineCapType
-second_title: Referencia de API de Aspose.PSD para .NET
-description: VstkResource propiedad. Obtiene o establece el tipo de línea de estilo de trazo cap.
+title: "VstkResource.StrokeStyleLineCapType"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "VstkResource property. Obtiene o establece el tipo de la tapa de línea del estilo de trazo"
 type: docs
-weight: 110
+weight: 90
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapType property
 
-Obtiene o establece el tipo de línea de estilo de trazo cap.
+Obtiene o establece el tipo de la tapa de línea del estilo de trazo.
 
 ```csharp
 public LineCapType StrokeStyleLineCapType { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El tipo de línea de estilo de trazo cap.
+El tipo de la tapa de línea del estilo de trazo.
 
 ### Ver también
 
 * enum [LineCapType](../../linecaptype/)
 * class [VstkResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

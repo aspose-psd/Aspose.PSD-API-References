@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftBottom
-second_title: Referencia de API de Aspose.PSD para .NET
-description: RectangleProjectedShape propiedad. Obtiene el punto del rectángulo inferior izquierdo.
+title: "RectangleProjectedShape.LeftBottom"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad RectangleProjectedShape. Obtiene el punto inferior izquierdo del rectángulo"
 type: docs
 weight: 50
 url: /es/net/aspose.psd.shapes/rectangleprojectedshape/leftbottom/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftBottom property
 
-Obtiene el punto del rectángulo inferior izquierdo.
+Obtiene el punto inferior izquierdo del rectángulo.
 
 ```csharp
 public PointF LeftBottom { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El punto del rectángulo inferior izquierdo.
+El punto inferior izquierdo del rectángulo.
 
 ### Ver también
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* espacio de nombres [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

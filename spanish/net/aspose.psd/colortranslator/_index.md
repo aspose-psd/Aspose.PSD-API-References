@@ -1,14 +1,15 @@
 ---
-title: Class ColorTranslator
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.ColorTranslator clase. Traduce colores hacia y desde estructuras de color GDI. Esta clase no se puede heredar.
+title: "Clase ColorTranslator"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Clase Aspose.PSD.ColorTranslator. Traduce colores a y desde estructuras GDI Color. Esta clase no puede heredarse"
 type: docs
 weight: 400
 url: /es/net/aspose.psd/colortranslator/
 ---
+{{< psd/tize >}}
 ## ColorTranslator class
 
-Traduce colores hacia y desde estructuras de color GDI+. Esta clase no se puede heredar.
+Traduce colores hacia y desde estructuras GDI+ Color. Esta clase no puede heredarse.
 
 ```csharp
 public sealed class ColorTranslator
@@ -18,16 +19,16 @@ public sealed class ColorTranslator
 
 | Nombre | Descripción |
 | --- | --- |
-| static [FromHtml](../../aspose.psd/colortranslator/fromhtml/)(string) | Toma color del HTML color. |
-| static [FromOle](../../aspose.psd/colortranslator/fromole/)(int) | Toma color del color OLE. |
-| static [FromWin32](../../aspose.psd/colortranslator/fromwin32/)(int) | Toma color del HTML color. |
-| static [ToHtml](../../aspose.psd/colortranslator/tohtml/)(Color) | Crea color HTML a partir del color. |
-| static [ToOle](../../aspose.psd/colortranslator/toole/)(Color) | Traduce color OLE a color. |
-| static [ToWin32](../../aspose.psd/colortranslator/towin32/)(Color) | Traduce el color a win32 color. |
+| static [FromHtml](../../aspose.psd/colortranslator/fromhtml/)(string) | Obtiene el color del color HTML. |
+| static [FromOle](../../aspose.psd/colortranslator/fromole/)(int) | Obtiene el color del color OLE. |
+| static [FromWin32](../../aspose.psd/colortranslator/fromwin32/)(int) | Obtiene el color del color HTML. |
+| static [ToHtml](../../aspose.psd/colortranslator/tohtml/)(Color) | Crea un color HTML a partir del color. |
+| static [ToOle](../../aspose.psd/colortranslator/toole/)(Color) | Traduce el color OLE a color. |
+| static [ToWin32](../../aspose.psd/colortranslator/towin32/)(Color) | Traduce el color a color win32. |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

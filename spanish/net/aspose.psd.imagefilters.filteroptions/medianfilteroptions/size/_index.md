@@ -1,11 +1,12 @@
 ---
-title: MedianFilterOptions.Size
-second_title: Referencia de API de Aspose.PSD para .NET
-description: MedianFilterOptions propiedad. Obtiene o establece el tamaño.
+title: "MedianFilterOptions.Size"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "MedianFilterOptions propiedad. Obtiene o establece el tamaño"
 type: docs
 weight: 20
 url: /es/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
 Obtiene o establece el tamaño.
@@ -14,14 +15,14 @@ Obtiene o establece el tamaño.
 public int Size { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
-El tamaño del rectángulo de filtro.
+El tamaño del rectángulo del filtro.
 
 ### Ver también
 
 * class [MedianFilterOptions](../)
-* espacio de nombres [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

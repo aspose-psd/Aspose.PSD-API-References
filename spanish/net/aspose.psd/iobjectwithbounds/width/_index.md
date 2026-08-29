@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Referencia de API de Aspose.PSD para .NET
-description: IObjectWithBounds propiedad. Obtiene el ancho del objeto.
+title: "IObjectWithBounds.Width"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad IObjectWithBounds. Obtiene el ancho del objeto"
 type: docs
 weight: 40
 url: /es/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
 Obtiene el ancho del objeto.
@@ -14,14 +15,14 @@ Obtiene el ancho del objeto.
 public int Width { get; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El ancho del objeto.
 
 ### Ver también
 
 * interface [IObjectWithBounds](../)
-* espacio de nombres [Aspose.PSD](../../iobjectwithbounds/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

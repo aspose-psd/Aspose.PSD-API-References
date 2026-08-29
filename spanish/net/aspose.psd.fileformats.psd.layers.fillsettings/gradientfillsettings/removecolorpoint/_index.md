@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.RemoveColorPoint
-second_title: Referencia de API de Aspose.PSD para .NET
-description: GradientFillSettings método. Elimina el punto de color.
+title: "GradientFillSettings.RemoveColorPoint"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Método GradientFillSettings. Elimina el punto de color"
 type: docs
-weight: 170
+weight: 80
 url: /es/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removecolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveColorPoint method
 
 Elimina el punto de color.
@@ -14,15 +15,15 @@ Elimina el punto de color.
 public void RemoveColorPoint(IGradientColorPoint point)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| point | IGradientColorPoint | El punto. |
+| punto | IGradientColorPoint | El punto. |
 
 ### Ver también
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GradientFillSettings](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

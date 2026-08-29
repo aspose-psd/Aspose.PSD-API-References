@@ -1,14 +1,15 @@
 ---
-title: Interface IImageLoaderDescriptor
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.IImageLoaderDescriptor interfaz. El descriptor del cargador de imágenes que especifica las propiedades del cargador. El descriptor del cargador se usa para superar la necesidad de contener cada instancia del cargador de imágenes en la memoria y problemas de subprocesos múltiples.
+title: "Interfaz IImageLoaderDescriptor"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Interfaz Aspose.PSD.IImageLoaderDescriptor. El descriptor del cargador de imágenes que especifica las propiedades del cargador. El descriptor del cargador se utiliza para superar la necesidad de contener cada instancia del cargador de imágenes en memoria y los problemas de multihilo."
 type: docs
-weight: 4460
+weight: 4930
 url: /es/net/aspose.psd/iimageloaderdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor interface
 
-El descriptor del cargador de imágenes que especifica las propiedades del cargador. El descriptor del cargador se usa para superar la necesidad de contener cada instancia del cargador de imágenes en la memoria y problemas de subprocesos múltiples.
+El descriptor del cargador de imágenes que especifica las propiedades del cargador. El descriptor del cargador se usa para superar la necesidad de contener cada instancia del cargador de imágenes en memoria y los problemas de multihilo.
 
 ```csharp
 public interface IImageLoaderDescriptor : IImageDescriptor
@@ -18,13 +19,13 @@ public interface IImageLoaderDescriptor : IImageDescriptor
 
 | Nombre | Descripción |
 | --- | --- |
-| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | Determina si el cargador de imágenes puede leer una nueva imagen del flujo especificado y, opcionalmente, usar el*loadOptions* . |
-| [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance/)() | Crea una nueva instancia de cargador. |
+| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | Determina si el cargador de imágenes puede leer una nueva imagen del flujo especificado y opcionalmente usando *loadOptions*. |
+| [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance/)() | Crea una nueva instancia del cargador. |
 
 ### Ver también
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* espacio de nombres [Aspose.PSD](../../aspose.psd/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

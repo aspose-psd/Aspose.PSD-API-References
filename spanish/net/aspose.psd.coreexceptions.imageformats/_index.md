@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.CoreExceptions.ImageFormats
-second_title: Referencia de API de Aspose.PSD para .NET
-description: El espacio de nombres contiene excepciones generadas por uno de los formatos de archivo admitidos.
+title: "Aspose.PSD.CoreExceptions.ImageFormats"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "El espacio de nombres contiene excepciones lanzadas por uno de los formatos de archivo compatibles"
 type: docs
 weight: 60
 url: /es/net/aspose.psd.coreexceptions.imageformats/
 ---
-El espacio de nombres contiene excepciones generadas por uno de los formatos de archivo admitidos.
+{{< psd/tize >}}
+El espacio de nombres contiene excepciones lanzadas por uno de los formatos de archivo compatibles.
 
 ## Clases
 
 | Clase | Descripción |
 | --- | --- |
 | [BmpImageException](./bmpimageexception/) | La excepción de imagen bmp. |
-| [GifImageException](./gifimageexception/) | La excepción de imagen GIF. |
+| [GifImageException](./gifimageexception/) | La excepción de imagen Gif. |
 | [Jpeg2000Exception](./jpeg2000exception/) | Excepciones para archivos Jpeg |
 | [JpegException](./jpegexception/) | Excepciones para archivos Jpeg |
-| [JpegLoadException](./jpegloadexception/) | Representa la excepción de carga de imágenes JPEG. |
+| [JpegLoadException](./jpegloadexception/) | Representa la excepción de carga de imagen JPEG. |
 | [PngImageException](./pngimageexception/) | La excepción de imagen png. |
-| [PsdImageArgumentException](./psdimageargumentexception/) | La excepción del argumento de la imagen psd. |
+| [PsdImageArgumentException](./psdimageargumentexception/) | La excepción de argumento de imagen psd. |
 | [PsdImageException](./psdimageexception/) | La excepción de imagen psd. |
 | [PsdImageResourceException](./psdimageresourceexception/) | La excepción de recurso de imagen psd. |
 | [TiffImageException](./tiffimageexception/) | La excepción de imagen Tiff |

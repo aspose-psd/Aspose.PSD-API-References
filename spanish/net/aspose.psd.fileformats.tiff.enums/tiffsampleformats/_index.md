@@ -1,14 +1,15 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Referencia de API de Aspose.PSD para .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enumeración. Formato de muestra enum
+title: "Enum TiffSampleFormats"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Enum de formato de muestra."
 type: docs
-weight: 4160
+weight: 4630
 url: /es/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-Formato de muestra enum
+Enumerado de formato de muestra
 
 ```csharp
 public enum TiffSampleFormats
@@ -18,16 +19,16 @@ public enum TiffSampleFormats
 
 | Nombre | Valor | Descripción |
 | --- | --- | --- |
-| Uint | `1` | Datos enteros sin signo |
-| Int | `2` | Datos enteros con signo |
+| Uint | `1` | Datos de entero sin signo |
+| Int | `2` | Datos de entero con signo |
 | IeeeFp | `3` | Datos de punto flotante IEEE |
 | Void | `4` | Datos sin tipo |
-| ComplexInt | `5` | Complejo firmado int |
-| ComplexIeeeFp | `6` | ieee complejo flotante |
+| ComplexInt | `5` | Entero complejo con signo |
+| ComplexIeeeFp | `6` | Flotante complejo ieee |
 
 ### Ver también
 
-* espacio de nombres [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* asamblea [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

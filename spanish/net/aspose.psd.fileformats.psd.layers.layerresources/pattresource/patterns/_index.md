@@ -1,11 +1,12 @@
 ---
-title: PattResource.Patterns
-second_title: Referencia de API de Aspose.PSD para .NET
-description: PattResource propiedad. Obtiene o establece los datos de los patrones
+title: "PattResource.Patterns"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad de PattResource. Obtiene o establece los datos de los patrones"
 type: docs
-weight: 40
+weight: 30
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
+{{< psd/tize >}}
 ## PattResource.Patterns property
 
 Obtiene o establece los datos de los patrones;
@@ -18,7 +19,7 @@ public PattResourceData[] Patterns { get; set; }
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

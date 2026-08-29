@@ -1,14 +1,15 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TransparencySupporter constructor. Constructor predeterminado
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor TransparencySupporter. El constructor predeterminado"
 type: docs
 weight: 10
 url: /es/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
-Constructor predeterminado
+El constructor predeterminado.
 
 ```csharp
 public TransparencySupporter()
@@ -17,7 +18,7 @@ public TransparencySupporter()
 ### Ver también
 
 * class [TransparencySupporter](../)
-* espacio de nombres [Aspose.PSD](../../transparencysupporter/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

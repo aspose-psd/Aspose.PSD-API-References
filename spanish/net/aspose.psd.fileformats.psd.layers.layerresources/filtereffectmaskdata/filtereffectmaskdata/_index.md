@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.FilterEffectMaskData
-second_title: Referencia de API de Aspose.PSD para .NET
-description: FilterEffectMaskData constructor. Inicializa una nueva instancia delFilterEffectMaskData clase.
+title: "FilterEffectMaskData.FilterEffectMaskData"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Constructor FilterEffectMaskData. Inicializa una nueva instancia de la clase FilterEffectMaskData"
 type: docs
 weight: 10
 url: /es/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData constructor
 
-Inicializa una nueva instancia del[`FilterEffectMaskData`](../) clase.
+Inicializa una nueva instancia de la clase [`FilterEffectMaskData`](../).
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -16,20 +17,20 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
     ChannelInformation sheetMask)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| guid | String | La guía de recursos. |
-| rectangle | Rectangle | El rectángulo de los canales. |
+| guid | String | El guid del recurso. |
+| rectángulo | Rectangle | El rectángulo de canales. |
 | pixelsDepth | Int32 | La profundidad de píxeles. |
 | maxChannels | Int32 | El valor máximo de canales. |
-| channels | ChannelInformation[] | los canales |
+| channels | ChannelInformation[] | Los canales. |
 | userMask | ChannelInformation | La máscara de usuario. |
 | maskRectangle | Rectangle | El rectángulo de máscara de hoja. |
 | sheetMask | ChannelInformation | La máscara de hoja. |
 
-### Ejemplos
+## Ejemplos
 
-Este ejemplo demuestra cómo obtener y establecer propiedades del recurso FXidResource.
+Este ejemplo muestra cómo obtener y establecer propiedades del recurso FXidResource.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,7 +62,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// comprobar después de guardar
+// verificar después de guardar
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -79,7 +80,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* espacio de nombres [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IccProfile
-second_title: Referencia de API de Aspose.PSD para .NET
-description: TiffOptions propiedad. Obtiene o establece el flujo de perfil Icc.
+title: "TiffOptions.IccProfile"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "Propiedad TiffOptions. Obtiene o establece el flujo del perfil Icc"
 type: docs
-weight: 180
+weight: 190
 url: /es/net/aspose.psd.imageoptions/tiffoptions/iccprofile/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IccProfile property
 
-Obtiene o establece el flujo de perfil Icc.
+Obtiene o establece el flujo del perfil Icc.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### El valor de la propiedad
+### Property Value
 
 El perfil icc.
 
 ### Ver también
 
 * class [TiffOptions](../)
-* espacio de nombres [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

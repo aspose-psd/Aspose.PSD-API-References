@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.ContainsKey
-second_title: Referencia de API de Aspose.PSD para .NET
-description: XmpPackage método. Determina si la clave especificada contiene key.
+title: "XmpPackage.ContainsKey"
+second_title: "Referencia de API de Aspose.PSD para .NET"
+description: "XmpPackage método. Determina si la clave especificada contiene la clave"
 type: docs
 weight: 80
 url: /es/net/aspose.psd.xmp/xmppackage/containskey/
 ---
+{{< psd/tize >}}
 ## XmpPackage.ContainsKey method
 
-Determina si la clave especificada contiene key.
+Determina si la clave especificada contiene la clave.
 
 ```csharp
 public virtual bool ContainsKey(string key)
 ```
 
-| Parámetro | Escribe | Descripción |
+| Parámetro | Tipo | Descripción |
 | --- | --- | --- |
-| key | String | La clave a comprobar. |
+| clave | String | La clave a comprobar. |
 
-### Valor_devuelto
+### Valor devuelto
 
-Devuelve verdadero si la clave especificada contiene clave.
+Devuelve true si la clave especificada contiene la clave.
 
 ### Ver también
 
 * class [XmpPackage](../)
-* espacio de nombres [Aspose.PSD.Xmp](../../xmppackage/)
-* asamblea [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 
