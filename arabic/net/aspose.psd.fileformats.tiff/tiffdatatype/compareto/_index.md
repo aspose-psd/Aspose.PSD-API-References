@@ -1,37 +1,38 @@
 ---
-title: TiffDataType.CompareTo
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffDataType طريقة. يقارن المثيل الحالي بكائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كان المثيل الحالي يسبق أو يتبع أو يحدث في نفس الموضع في ترتيب الفرز مثل الكائن الآخر.
+title: "TiffDataType.CompareTo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffDataType. تقارن النسخة الحالية مع كائن آخر من نفس النوع وتُرجع عددًا صحيحًا يشير إلى ما إذا كانت النسخة الحالية تسبق أو تتبع أو تقع في نفس الموضع في ترتيب الفرز مقارنةً بالكائن الآخر"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.tiff/tiffdatatype/compareto/
 ---
+{{< psd/tize >}}
 ## TiffDataType.CompareTo method
 
-يقارن المثيل الحالي بكائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كان المثيل الحالي يسبق أو يتبع أو يحدث في نفس الموضع في ترتيب الفرز مثل الكائن الآخر.
+يقارن المثيل الحالي بكائن آخر من نفس النوع ويعيد عددًا صحيحًا يشير إلى ما إذا كان المثيل الحالي يسبق أو يتبع أو يقع في نفس الموضع في ترتيب الفرز مثل الكائن الآخر.
 
 ```csharp
 public int CompareTo(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | كائن للمقارنة مع هذا المثال. |
+| obj | Object | كائن للمقارنة مع هذه النسخة. |
 
 ### قيمة الإرجاع
 
-عدد صحيح ذو إشارة 32 بت يشير إلى الترتيب النسبي للكائنات التي تتم مقارنتها. قيمة الإرجاع لها هذه المعاني: القيمة المعنى أقل من صفر هذا المثيل أقل من*obj* . Zero هذا المثال يساوي*obj* . أكبر من 0 هذا المثيل أكبر من*obj* .
+عدد صحيح موقع 32 بت يشير إلى الترتيب النسبي للكائنات التي يتم مقارنتها. قيمة الإرجاع لها هذه المعاني: القيمة المعنى أقل من الصفر هذه النسخة أقل من *obj*. صفر هذه النسخة مساوية لـ *obj*. أكبر من الصفر هذه النسخة أكبر من *obj*.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | نوع TiffDataType المتوقع. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | النوع المتوقع هو TiffDataType. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

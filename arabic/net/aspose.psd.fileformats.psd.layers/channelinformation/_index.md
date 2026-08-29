@@ -1,36 +1,37 @@
 ---
-title: Class ChannelInformation
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation فصل. معلومات القناة .
+title: "فئة ChannelInformation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation فئة. معلومات القناة"
 type: docs
-weight: 1900
+weight: 2010
 url: /ar/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation class
 
-معلومات القناة .
+معلومات القناة.
 
 ```csharp
 public class ChannelInformation
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | يقوم بتهيئة مثيل جديد لملف`ChannelInformation` فئة . |
+| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | يقوم بتهيئة نسخة جديدة من الفئة `ChannelInformation`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | الحصول على أو تحديد معرف القناة . |
-| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | الحصول على أو تحديد طريقة الضغط . |
-| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | الحصول على طول القناة بالبايت. |
+| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | يحصل أو يضبط معرف القناة. |
+| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | يحصل أو يضبط طريقة الضغط. |
+| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | يحصل على طول القناة بالبايت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

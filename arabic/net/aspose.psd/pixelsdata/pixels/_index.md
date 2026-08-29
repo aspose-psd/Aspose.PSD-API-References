@@ -1,32 +1,33 @@
 ---
-title: PixelsData.Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelsData ملكية. الحصول على أو تعيين بيانات البكسل .
+title: "PixelsData.Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PixelsData property. يحصل أو يضبط بيانات البكسل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/pixelsdata/pixels/
 ---
+{{< psd/tize >}}
 ## PixelsData.Pixels property
 
-الحصول على أو تعيين بيانات البكسل .
+يحصل أو يعيّن بيانات البكسلات.
 
 ```csharp
 public int[] Pixels { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح لك الكود التالي كيفية إنشاء عامل تصفية ذكي مخصص به عارض مخصص.
+الكود التالي يوضح لك كيفية إنشاء مرشح ذكي مخصص يمتلك مصيّرًا مخصصًا.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // يدخل المرشح الذكي "التبلور" غير المدعوم في صفيف الإدخال
+    // يُهيئ المرشح الذكي غير المدعوم 'Crystallize' في مصفوفة الإدخال
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // معرّف الفلتر الذكي "Crystallize".
+        // معرّف المرشح الذكي 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -52,14 +53,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // تطبيق عامل التصفية على SmartObject
+        // تطبيق المرشح على SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // تطبيق مرشح على قناع الطبقة
+        // تطبيق المرشح على قناع الطبقة
         smartFilter.ApplyToMask(maskLayer);
 
-        // تطبيق مرشح على طبقة
+        //تطبيق المرشح على الطبقة
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -76,15 +77,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // معرّف الفلتر الذكي "Crystallize".
+        // معرّف المرشح الذكي 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // الحصول على هيكل المرشح
+        // احصل على بنية المرشح
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // الحصول على قيمة حجم التبلور
+        // احصل على قيمة حجم Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -100,10 +101,10 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelsData](../)
-* مساحة الاسم [Aspose.PSD](../../pixelsdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

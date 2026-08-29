@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Changed
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceEvent ملكية. الحصول على أو تعيين قائمة بأجزاء المورد التي تم تغييرها منذ تاريخ الحدث السابق أو تعيينها.
+title: "ResourceEvent.Changed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceEvent. تحصل أو تعين القائمة المفصولة بفواصل منقوطة لأجزاء المورد التي تم تغييرها منذ سجل الأحداث السابق"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Changed property
 
-الحصول على أو تعيين قائمة بأجزاء المورد التي تم تغييرها منذ تاريخ الحدث السابق أو تعيينها.
+يحصل أو يضبط القائمة المفصولة بفواصل منقوطة لأجزاء المورد التي تم تغييرها منذ سجل الأحداث السابق.
 
 ```csharp
 public string Changed { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القائمة المفصولة بفاصلة منقوطة لأجزاء المورد التي تم تغييرها منذ تاريخ الحدث السابق.
+القائمة المفصولة بفواصل منقوطة لأجزاء المورد التي تم تغييرها منذ سجل الأحداث السابق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceEvent](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

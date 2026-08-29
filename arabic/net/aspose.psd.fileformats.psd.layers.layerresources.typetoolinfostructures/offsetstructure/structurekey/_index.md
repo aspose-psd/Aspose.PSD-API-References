@@ -1,23 +1,24 @@
 ---
-title: OffsetStructure.StructureKey
-second_title: Aspose.PSD لمرجع .NET API
-description: OffsetStructure مجال. يحدد مفتاح الهيكل .
+title: "OffsetStructure.StructureKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل OffsetStructure. يحدد مفتاح البنية"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.StructureKey field
 
-يحدد مفتاح الهيكل .
+يحدد مفتاح البنية.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OffsetStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

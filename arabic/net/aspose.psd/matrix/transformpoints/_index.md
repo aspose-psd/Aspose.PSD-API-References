@@ -1,28 +1,29 @@
 ---
-title: Matrix.TransformPoints
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. يطبق التحويل الهندسي الذي يمثله هذاMatrix إلى مجموعة محددة من النقاط.
+title: "Matrix.TransformPoints"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تُطبق التحويل الهندسي المُمَثَّل بواسطة هذا Matrix على مصفوفة محددة من النقاط."
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-يطبق التحويل الهندسي الذي يمثله هذا[`Matrix`](../) إلى مجموعة محددة من النقاط.
+تُطبق التحويل الهندسي المُمَثَّل بواسطة هذا [`Matrix`](../) على مصفوفة محددة من النقاط.
 
 ```csharp
 public void TransformPoints(PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | النقاط. |
+| نقاط | PointF[] | النقاط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

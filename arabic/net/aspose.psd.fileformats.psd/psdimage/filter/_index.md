@@ -1,30 +1,31 @@
 ---
-title: PsdImage.Filter
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يقوم بتصفية المستطيل المحدد .
+title: "PsdImage.Filter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تصفي المستطيل المحدد"
 type: docs
-weight: 530
+weight: 590
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/filter/
 ---
+{{< psd/tize >}}
 ## PsdImage.Filter method
 
-يقوم بتصفية المستطيل المحدد .
+يفلتر المستطيل المحدد.
 
 ```csharp
 public override void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل. |
-| options | FilterOptionsBase | الخيارات. |
+| مستطيل | Rectangle | المستطيل. |
+| خيارات | FilterOptionsBase | الخيارات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

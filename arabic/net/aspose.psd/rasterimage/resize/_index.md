@@ -1,53 +1,54 @@
 ---
-title: RasterImage.Resize
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تغيير حجم الصورة .
+title: "RasterImage.Resize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تغير حجم الصورة"
 type: docs
-weight: 470
+weight: 480
 url: /ar/net/aspose.psd/rasterimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-تغيير حجم الصورة .
+يعيد تحجيم الصورة.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
 | newHeight | Int32 | الارتفاع الجديد. |
 | resizeType | ResizeType | نوع تغيير الحجم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-تغيير حجم الصورة بخيارات موسعة.
+يعيد تحجيم الصورة مع خيارات موسعة.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
 | newHeight | Int32 | الارتفاع الجديد. |
-| settings | ImageResizeSettings | إعدادات تغيير الحجم. |
+| الإعدادات | ImageResizeSettings | إعدادات تغيير الحجم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Lfx2Resource.DescriptorVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: Lfx2Resource ملكية. يحصل على نسخة الوصف .
+title: "Lfx2Resource.DescriptorVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Lfx2Resource. تحصل على إصدار الوصف"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.DescriptorVersion property
 
-يحصل على نسخة الوصف .
+يحصل على إصدار الوصف.
 
 ```csharp
 public int DescriptorVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار الوصف .
+إصدار الوصف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Lfx2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

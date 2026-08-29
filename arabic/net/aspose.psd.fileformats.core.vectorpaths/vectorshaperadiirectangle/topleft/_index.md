@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.TopLeft
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeRadiiRectangle ملكية. يحصل أو يحدد أعلى اليسار.
+title: "VectorShapeRadiiRectangle.TopLeft"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeRadiiRectangle. يحصل أو يعيّن الزاوية العلوية اليسرى"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.TopLeft property
 
-يحصل أو يحدد أعلى اليسار.
+يحصل أو يعيّن الخاصية العلوية اليسرى.
 
 ```csharp
 public double TopLeft { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أعلى اليسار .
+الزاوية العلوية اليسرى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeRadiiRectangle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

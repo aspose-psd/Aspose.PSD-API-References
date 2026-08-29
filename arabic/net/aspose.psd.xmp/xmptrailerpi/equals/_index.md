@@ -1,55 +1,56 @@
 ---
-title: XmpTrailerPi.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpTrailerPi طريقة. يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+title: "XmpTrailerPi.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpTrailerPi. تشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp/xmptrailerpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpTrailerPi) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(XmpTrailerPi other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | other | XmpTrailerPi | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي*other* معامل؛ وإلا ، خطأ .
+صحيح إذا كان الكائن الحالي مساويًا للمعامل *other*؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTrailerPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذا المثيل.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTrailerPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط Vibrance .
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. إضافة طبقة تعديل Vibrance"
 type: docs
-weight: 430
+weight: 490
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-يضيف طبقة ضبط Vibrance .
+يضيف طبقة تعديل الحيوية.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
@@ -16,11 +17,11 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 ### قيمة الإرجاع
 
-طبقة Vibrance تم إنشاؤها حديثًا.
+طبقة Vibrance جديدة تم إنشاؤها.
 
-### أمثلة
+## أمثلة
 
-يوضح مثال الكود التالي دعم طبقة VibranceLayer والقدرة على تحرير هذا الضبط.
+مثال الشيفرة التالي يوضح دعم طبقة VibranceLayer والقدرة على تعديل هذا الضبط.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // إنشاء طبقة Vibrance جديدة
+    // إنشاء VibranceLayer جديد
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

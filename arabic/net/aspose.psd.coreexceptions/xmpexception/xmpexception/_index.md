@@ -1,64 +1,65 @@
 ---
-title: XmpException.XmpException
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpException البناء. يقوم بتهيئة مثيل جديد لملفXmpException فئة .
+title: "XmpException.XmpException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpException. يهيئ نسخة جديدة من فئة XmpException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions/xmpexception/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpException`](../).
 
 ```csharp
 public XmpException()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpException`](../).
 
 ```csharp
 public XmpException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpException`](../).
 
 ```csharp
 public XmpException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

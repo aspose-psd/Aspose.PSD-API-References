@@ -1,14 +1,15 @@
 ---
-title: Class OuterGlowEffect
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect فصل. تأثير طبقة التوهج الخارجي
+title: "الفئة OuterGlowEffect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect. تأثير طبقة التوهج الخارجي."
 type: docs
-weight: 2170
+weight: 2370
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect class
 
-تأثير طبقة التوهج الخارجي
+تأثير طبقة التوهج الخارجي.
 
 ```csharp
 public class OuterGlowEffect : ILayerEffect
@@ -16,25 +17,31 @@ public class OuterGlowEffect : ILayerEffect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | يحصل على نوع من نوع التأثير |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | الحصول على اللون أو تحديده . |
-| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | الحصول على الزاوية أو تحديدها بالدرجات . |
-| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | الحصول على أو تعيين تأثير AntiAliasing الممكّن |
-| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [يقرع] . |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرئيًا. |
-| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | الحصول على الضوضاء أو ضبطها . |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | الحصول على الضوضاء أو ضبطها . |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | الحصول على التعتيم أو تعيينه . |
-| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | الحصول على الضوضاء أو ضبطها . |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; } | الحصول على قيمة التمويه بالبكسل . |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | الحصول على الكثافة أو تحديدها كنسبة مئوية . |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | يحصل أو يعيّن اللون. |
+| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | يحصل أو يضبط الزاوية بالدرجات. |
+| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | يحصل أو يعيّن تأثير AntiAliasing الممكّن |
+| [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [knocks out]. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه الحالة مرئية. |
+| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | يحصل أو يضبط الضوضاء. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | يحصل أو يضبط الضوضاء. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | يحصل أو يعيّن الشفافية. |
+| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | يحصل أو يضبط الضوضاء. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; set; } | يحصل على قيمة الضبابية بالبكسل. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | يحصل أو يضبط الشدة كنسبة مئوية. |
 
-### أمثلة
+## الطرق
 
-يوضح الكود التالي دعم OuterGlowEffect.
+| الاسم | الوصف |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/geteffectbounds/)(Rectangle, int) | احسب واحصل على حدود بكسلات التأثير بناءً على حدود بكسلات الطبقة المدخلة. |
+
+## أمثلة
+
+يوضح الشيفرة التالية دعم OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -55,10 +62,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILayerEffect](../ilayereffect/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

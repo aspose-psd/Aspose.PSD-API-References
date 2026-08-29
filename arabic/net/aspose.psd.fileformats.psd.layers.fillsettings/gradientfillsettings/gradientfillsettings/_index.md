@@ -1,23 +1,24 @@
 ---
-title: GradientFillSettings.GradientFillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings البناء. يقوم بتهيئة مثيل جديد لملفGradientFillSettings فئة .
+title: "GradientFillSettings.GradientFillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GradientFillSettings. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings constructor
 
-يقوم بتهيئة مثيل جديد لملف[`GradientFillSettings`](../) فئة .
+الباني الافتراضي.
 
 ```csharp
 public GradientFillSettings()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

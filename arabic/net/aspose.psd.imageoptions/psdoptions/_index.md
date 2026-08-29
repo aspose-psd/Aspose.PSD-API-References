@@ -1,62 +1,65 @@
 ---
-title: Class PsdOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.PsdOptions فصل. خيارات إنشاء تنسيق ملف psd .
+title: "الفئة PsdOptions."
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.ImageOptions.PsdOptions. خيارات إنشاء تنسيق ملف PSD."
 type: docs
-weight: 4900
+weight: 5390
 url: /ar/net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
-خيارات إنشاء تنسيق ملف psd .
+خيارات إنشاء تنسيق ملف psd.
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PsdOptions](psdoptions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`PsdOptions` فئة . |
-| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | يقوم بتهيئة مثيل جديد لملف`PsdOptions` فئة . |
-| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | يقوم بتهيئة مثيل جديد لملف`PsdOptions` فئة . |
+| [PsdOptions](psdoptions/#constructor)() | تهيئ مثيلاً جديداً من الفئة `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | تهيئ مثيلاً جديداً من الفئة `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | تهيئ مثيلاً جديداً من الفئة `PsdOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية. |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | الحصول على أو تعيين عدد البتات لكل قناة لون. |
-| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | الحصول على أو تعيين عدد قنوات اللون . |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | الحصول على أو تعيين وضع لون psd . |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | الحصول على أو تعيين طريقة ضغط psd. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | الحصول على الخط البديل الافتراضي أو تعيينه (الخط الذي سيتم استخدامه لرسم النص عند التصدير إلى خطوط المسح ، إذا لم يتم تقديم خط الطبقة الموجود في ملف PSD في النظام). : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection ()؛ System.Drawing.FontFamily [] Families = col.Families؛ string افتراضي PsdLoadOptions psdLoadOptions = new PsdLoadOptions () {DefaultReplacementFont = defaultFontName})؛ |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [إطار كامل] . |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | خيارات متعدد الصفحات |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | الحصول على لوحة الألوان أو تعيينها . |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | الحصول على معالج حدث التقدم أو تعيينه. |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | الحصول على إصدار تنسيق الملف أو تحديده. يمكن أن يكون PSD أو PSB. |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [تحديث بيانات معاينة الصورة] - الخيار المستخدم لزيادة التوافق مع برامج عرض صور PSD الأخرى. |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان - إزالة مورد محرك النص العام - يُستخدم لبعض ملفات psd ذات طبقات النص ، في الحالة فقط ، عندما يتعذر فتحها في Adobe Photoshop بعد المعالجة (غالبًا بالنسبة لطبقات النص الخاصة بالخطوط الغائبة). بعد استخدام هذا الخيار ، يحتاج المستخدم إلى جعل التالي مفتوحًا في ملف Photoshop: قائمة "نص" -&gt; "معالجة الخطوط الغائبة". بعد هذه العملية سيظهر النص بالكامل مرة أخرى. يرجى ملاحظة أن هذه العملية قد تسبب بعض التغييرات النهائية في التخطيط. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | الحصول على إعدادات الدقة أو تعيينها . |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | الحصول على موارد psd أو تعيينها. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | الحصول على أو تعيين المصدر لإنشاء الصورة فيه. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | الحصول على أو تعيين خيارات التحويل النقطي للمتجه. |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | الحصول على أو تعيين إصدار ملف psd. |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | الحصول على أو تعيين حاوية بيانات XMP |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | يحصل أو يضبط لون الخلفية. يمكن رؤيته تحت الكائنات الشفافة. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | يحصل أو يعيّن تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن المؤقتة الداخلية. |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | يحصل أو يضبط عدد البتات لكل قناة لونية. |
+| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | يحصل أو يضبط عدد قنوات اللون. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | يحصل أو يضبط وضع اللون في PSD. |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | يحصل أو يضبط طريقة ضغط PSD. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | يحصل أو يعيّن الخط البديل الافتراضي (الخط الذي سيُستخدم لرسم النص عند التصدير إلى نقطية، إذا لم يكن خط الطبقة الموجود في ملف PSD موجودًا في النظام). للحصول على اسم الخط الافتراضي الصحيح يمكن استخدام المقتطف البرمجي التالي: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [الإطار الكامل]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | خيارات الصفحات المتعددة |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | يحصل أو يعيّن لوحة الألوان. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | يحصل أو يعيّن معالج حدث التقدم. |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | يحصل أو يضبط إصدار تنسيق الملف. يمكن أن يكون PSD أو PSB. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [refresh image preview data] - خيار يُستخدم لتعزيز التوافق مع عارضات صور PSD الأخرى. يرجى ملاحظة أن رسم طبقات النص إلى التخطيط النهائي غير مدعوم على منصة Compact Framework. |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان - إزالة مورد محرك النص العالمي - يُستخدم لبعض ملفات PSD ذات الطبقات النصية، في الحالة الوحيدة التي لا يمكن فتحها في Adobe Photoshop بعد المعالجة (غالبًا ما يتعلق بطبقات النص التي تفتقد الخطوط). بعد استخدام هذا الخيار، يحتاج المستخدم إلى القيام بما يلي في الملف المفتوح في Photoshop: القائمة "Text" -> "Process absent fonts". بعد تلك العملية سيظهر جميع النص مرة أخرى. يرجى ملاحظة أن هذه العملية قد تتسبب في بعض تغييرات التخطيط النهائي. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | يحصل أو يعيّن إعدادات الدقة. |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | يحصل أو يضبط موارد PSD. إذا كانت القيمة: NULL - فاحفظ موارد ImageResources الأصلية (السلوك الافتراضي) غير فارغ - فاحفظ الموارد الممررة إلى هذه الخاصية + [required resources] فارغ - فاحفظ فقط [required resources]. الموارد المطلوبة: ResolutionInfoResource, XmpResource |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | يحصل أو يعيّن المصدر لإنشاء الصورة فيه. |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان [update metadata]. إذا كانت القيمة true، سيتم تحديث البيانات الوصفية أثناء حفظ الصورة. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | يحصل أو يعيّن خيارات تحويل المتجه إلى نقطية. |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | يحصل أو يضبط إصدار ملف PSD. |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | احصل أو اضبط حاوية بيانات XMP |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | استنساخ هذا المثال . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | ينسخ هذه المثيل. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك تصدير ملف AI إلى تنسيق PSD و PNG في Aspose.PSD
+المثال التالي يوضح كيف يمكنك تصدير ملف AI إلى صيغة PSD و PNG في Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,29 +73,29 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-يقوم هذا المثال بإنشاء ملف صورة جديد في بعض مواقع القرص كما هو محدد بواسطة خاصية المصدر لمثيل PsdOptions. يتم تعيين العديد من الخصائص لمثيل PsdOptions قبل إنشاء الصورة الفعلية. خاصة خاصية المصدر ، التي تشير إلى موقع القرص الفعلي في هذه الحالة.
+هذا المثال ينشئ ملف Image جديد في موقع على القرص كما هو محدد بخصية Source لكائن PsdOptions. يتم تعيين عدة خصائص لكائن PsdOptions قبل إنشاء الصورة الفعلية. خاصة خاصية Source التي تشير إلى موقع القرص الفعلي في هذه الحالة.
 
 ```csharp
 [C#]
 
-// أنشئ مثيلاً من PsdOptions وعيّن خصائصه المختلفة
+//إنشاء مثال من PsdOptions وتعيين خصائصه المتنوعة
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// قم بإنشاء مثيل لـ FileCreateSource وقم بتعيينه كمصدر لمثيل PsdOptions
-// تحدد المعلمة المنطقية الثانية ما إذا كان الملف المراد إنشاؤه ثابتًا أم لا
+//إنشاء مثال من FileCreateSource وتعيينه كـ Source لكائن PsdOptions
+//المعامل البولياني الثاني يحدد ما إذا كان الملف الذي سيتم إنشاؤه مؤقتًا أم لا
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-// قم بإنشاء مثيل للصورة وقم بتهيئته باستخدام مثيل PsdOptions عن طريق استدعاء طريقة الإنشاء
+//إنشاء مثال من Image وتهيئته بمثال من PsdOptions عن طريق استدعاء طريقة Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // القيام ببعض معالجة الصور
+    //قم ببعض معالجة الصورة.
 
     // احفظ جميع التغييرات
     image.Save();
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها إلى 16 بت لكل قناة RGB تعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت رمادية إلى 16 بت لكل قناة RGB يعمل بشكل صحيح دون أي استثناء.
 
 ```csharp
 [C#]
@@ -120,12 +123,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // هنا يجب ألا يكون هناك استثناء.
+    // هنا لا ينبغي أن يكون هناك أي استثناء.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها إلى 8 بت لكل قناة تعمل بتدرج الرمادي بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت رمادية إلى 8 بت لكل قناة رمادية يعمل بشكل صحيح دون أي استثناء.
 
 ```csharp
 [C#]
@@ -153,12 +156,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // هنا يجب ألا يكون هناك استثناء.
+    // هنا لا ينبغي أن يكون هناك أي استثناء.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-يوضح المثال التالي كيف يمكنك استخدام وضع مزج طبقة PassThrough في Aspose.PSD
+المثال التالي يوضح كيف يمكنك استخدام وضع دمج الطبقة PassThrough في Aspose.PSD
 
 ```csharp
 [C#]
@@ -199,7 +202,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-يوضح المثال التالي أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -243,52 +246,52 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-يوضح هذا المثال كيفية تحميل معلومات البكسل في مصفوفة من نوع اللون ، ومعالجة المصفوفة وإعادة تعيينها إلى الصورة. لإجراء هذه العمليات ، يقوم هذا المثال بإنشاء ملف صورة جديد (بتنسيق PSD) باستخدام كائن MemoryStream.
+هذا المثال يوضح كيفية تحميل معلومات البكسل في مصفوفة من نوع Color، تعديل المصفوفة وإعادتها إلى الصورة. لتنفيذ هذه العمليات، ينشئ هذا المثال ملف Image جديد (بتنسيق PSD) باستخدام كائن MemoryStream.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل لـ MemoryStream
+//إنشاء مثال من MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    // أنشئ مثيلاً من PsdOptions وعيّن خصائصه المتنوعة بما في ذلك خاصية المصدر
+    //إنشاء مثال من PsdOptions وتعيين خصائصه المتنوعة بما في ذلك خاصية Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    // إنشاء مثيل للصورة
+    //إنشاء مثال من Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        // احصل على وحدات البكسل في الصورة عن طريق تحديد المنطقة كحدود للصورة
+        //احصل على بكسلات الصورة عن طريق تحديد المنطقة كحدود الصورة
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // حلقة فوق المصفوفة وتعيين لون البكسل المفهرس
+        //تكرار عبر المصفوفة وتعيين لون البكسل المفهرس البديل
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                // اضبط لون البكسل المفهرس على اللون الأصفر
+                //تعيين لون البكسل المفهرس إلى الأصفر
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                // اضبط لون البكسل المفهرس على اللون الأزرق
+                //تعيين لون البكسل المفهرس إلى الأزرق
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // قم بتطبيق تغييرات البكسل على الصورة
+        //تطبيق تغييرات البكسل على الصورة
         image.SavePixels(image.Bounds, pixels);
 
         // احفظ جميع التغييرات.
         image.Save();
     }
 
-    // اكتب MemoryStream إلى ملف
+    //اكتب MemoryStream إلى ملف
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها تعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت بالدرجات الرمادية يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -334,7 +337,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // هنا يجب ألا يكون هناك استثناء.
+        // هنا لا ينبغي أن يكون هناك أي استثناء.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -350,10 +353,10 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

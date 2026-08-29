@@ -1,32 +1,33 @@
 ---
-title: PsdImage.Dither
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يقوم بالتردد على الصورة الحالية.
+title: "PsdImage.Dither"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. ينفذ تمويه نقطي على الصورة الحالية"
 type: docs
-weight: 520
+weight: 580
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/dither/
 ---
+{{< psd/tize >}}
 ## PsdImage.Dither method
 
-يقوم بالتردد على الصورة الحالية.
+يقوم بتطبيق التدرج النقطي على الصورة الحالية.
 
 ```csharp
 public override void Dither(DitheringMethod ditheringMethod, int bitsCount, 
     IColorPalette customPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | طريقة التردد. |
-| bitsCount | Int32 | البتات النهائية تحسب للتردد. |
-| customPalette | IColorPalette | اللوحة المخصصة لثبات الألوان. |
+| ditheringMethod | DitheringMethod | طريقة التمويه. |
+| bitsCount | Int32 | عدد البتات النهائي للتمويه. |
+| customPalette | IColorPalette | لوحة الألوان المخصصة للتخفيض. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

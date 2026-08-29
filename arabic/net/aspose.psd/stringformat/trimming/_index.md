@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. يحصل أو يحدد ملفStringTrimming تعداد لهذاStringFormat الكائن .
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تحصل أو تعين تعداد StringTrimming لهذا الكائن StringFormat"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-يحصل أو يحدد ملف[`StringTrimming`](../../stringtrimming/) تعداد لهذا[`StringFormat`](../) الكائن .
+تحصل أو تعين تعداد [`StringTrimming`](../../stringtrimming/) لهذا الكائن [`StringFormat`](../).
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`StringTrimming`](../../stringtrimming/) التعداد الذي يشير إلى كيفية رسم النص بهذا[`StringFormat`](../) يتم قطع الكائن عندما يتجاوز حواف مستطيل التخطيط.
+تعداد [`StringTrimming`](../../stringtrimming/) يوضح كيفية تقليم النص المرسوم بهذا الكائن [`StringFormat`](../) عندما يتجاوز حدود مستطيل التخطيط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

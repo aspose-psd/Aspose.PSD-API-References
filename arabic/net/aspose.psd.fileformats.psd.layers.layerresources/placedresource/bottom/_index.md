@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Bottom
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تحديد الموقع السفلي للطبقة الموضوعة في صورة PSD.
+title: "PlacedResource.Bottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط الموقع السفلي للطبقة الموضوعة في صورة PSD"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bottom property
 
-الحصول على أو تحديد الموقع السفلي للطبقة الموضوعة في صورة PSD.
+يحصل أو يضبط موقع الأسفل للطبقة الموضوعة في صورة PSD.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع السفلي للطبقة الموضوعة .
+الموقع السفلي للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

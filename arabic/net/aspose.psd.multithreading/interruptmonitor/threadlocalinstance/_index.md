@@ -1,23 +1,24 @@
 ---
-title: InterruptMonitor.ThreadLocalInstance
-second_title: Aspose.PSD لمرجع .NET API
-description: InterruptMonitor ملكية. الحصول على أو تعيين مثيل InterruptMonitor الفريد لكل مؤشر ترابط.
+title: "InterruptMonitor.ThreadLocalInstance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InterruptMonitor. يحصل أو يعيّن نسخة InterruptMonitor الفريدة لكل خيط"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.multithreading/interruptmonitor/threadlocalinstance/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.ThreadLocalInstance property
 
-الحصول على أو تعيين مثيل InterruptMonitor الفريد لكل مؤشر ترابط.
+يحصل أو يضبط نسخة InterruptMonitor التي هي فريدة لكل خيط.
 
 ```csharp
 public static InterruptMonitor ThreadLocalInstance { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InterruptMonitor](../)
-* مساحة الاسم [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

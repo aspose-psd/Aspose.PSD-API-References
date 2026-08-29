@@ -1,28 +1,29 @@
 ---
-title: XmpMediaManagementPackage.SetDerivedFrom
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMediaManagementPackage طريقة. يعين المشتق من .
+title: "XmpMediaManagementPackage.SetDerivedFrom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpMediaManagementPackage. تعيين المصدر المشتق"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setderivedfrom/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.SetDerivedFrom method
 
-يعين المشتق من .
+يضبط المستمد من.
 
 ```csharp
 public void SetDerivedFrom(ResourceRef resourceRef)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| resourceRef | ResourceRef | مرجع الموارد. |
+| resourceRef | ResourceRef | مرجع المورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/resourceref/)
 * class [XmpMediaManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة مؤمنة . يمنع التغييرات على العنصر.
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين قيمة تشير إلى ما إذا كانت هذه الطبقة مقفلة. تمنع التغييرات على العنصر"
 type: docs
-weight: 60
+weight: 80
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة مؤمنة . يمنع التغييرات على العنصر.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة مقفلة. يمنع التغييرات على العنصر.
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم قفل هذه الطبقة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الطبقة مقفلة؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

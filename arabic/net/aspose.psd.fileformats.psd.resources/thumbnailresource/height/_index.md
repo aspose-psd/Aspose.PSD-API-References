@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على أو تحديد ارتفاع الصورة المصغرة بالبكسل.
+title: "ThumbnailResource.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. يحصل أو يضبط ارتفاع الصورة المصغرة بالبكسل"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/height/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Height property
 
-الحصول على أو تحديد ارتفاع الصورة المصغرة بالبكسل.
+يحصل أو يضبط ارتفاع الصورة المصغرة بالبكسل.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 ارتفاع الصورة المصغرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: BlwhResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "BlwhResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlwhResource. تحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 80
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/length/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlwhResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Y
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF ملكية. الحصول على أو تحديد إحداثيات y للركن الأيسر العلوي لهذاRectangleFهيكل .
+title: "RectangleF.Y"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleF. يحصل أو يضبط إحداثي y للزاوية العليا اليسرى لهذا الهيكل RectangleF"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/rectanglef/y/
 ---
+{{< psd/tize >}}
 ## RectangleF.Y property
 
-الحصول على أو تحديد إحداثيات y للركن الأيسر العلوي لهذا[`RectangleF`](../)هيكل .
+يحصل أو يضبط الإحداثي y للزاوية العليا اليسرى لهذا الهيكل [`RectangleF`](../).
 
 ```csharp
 public float Y { get; set; }
@@ -16,12 +17,12 @@ public float Y { get; set; }
 
 ### قيمة الإرجاع
 
-إحداثي ص للركن الأيسر العلوي لهذا[`RectangleF`](../) بناء.
+إحداثي y للزاوية العليا اليسرى لهذه البنية [`RectangleF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

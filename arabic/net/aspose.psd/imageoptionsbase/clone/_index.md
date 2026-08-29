@@ -1,14 +1,15 @@
 ---
-title: ImageOptionsBase.Clone
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageOptionsBase طريقة. استنساخ هذا المثال .
+title: "ImageOptionsBase.Clone"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageOptionsBase. تستنسخ هذه الحالة."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/imageoptionsbase/clone/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذه المثيل.
 
 ```csharp
 public virtual ImageOptionsBase Clone()
@@ -16,12 +17,12 @@ public virtual ImageOptionsBase Clone()
 
 ### قيمة الإرجاع
 
-إرجاع نسخة ضحلة من هذا المثال
+يعيد نسخة سطحية من هذه الحالة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../)
-* مساحة الاسم [Aspose.PSD](../../imageoptionsbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

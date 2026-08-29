@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.GetTextData
-second_title: Aspose.PSD لمرجع .NET API
-description: Txt2Resource طريقة. الحصول على السجل النصي من بيانات الموارد .
+title: "Txt2Resource.GetTextData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Txt2Resource. تحصل على سجل النص من بيانات المورد"
 type: docs
-weight: 80
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.GetTextData method
 
-الحصول على السجل النصي من بيانات الموارد .
+يحصل على سجل النص من بيانات المورد.
 
 ```csharp
 public string[] GetTextData()
@@ -16,12 +17,12 @@ public string[] GetTextData()
 
 ### قيمة الإرجاع
 
-صفيف سجل النص
+مصفوفة من سجلات النص
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Txt2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

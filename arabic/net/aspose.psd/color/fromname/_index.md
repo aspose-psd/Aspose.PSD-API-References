@@ -1,31 +1,32 @@
 ---
-title: Color.FromName
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. ينشئ ملفColorبنية من الاسم المحدد للون محدد مسبقًا.
+title: "Color.FromName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. تنشئ بنية Color من الاسم المحدد للون مسبق التعريف"
 type: docs
 weight: 1450
 url: /ar/net/aspose.psd/color/fromname/
 ---
+{{< psd/tize >}}
 ## Color.FromName method
 
-ينشئ ملف[`Color`](../)بنية من الاسم المحدد للون محدد مسبقًا.
+ينشئ بنية [`Color`](../) من الاسم المحدد للون مسبق التعريف.
 
 ```csharp
 public static Color FromName(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | سلسلة هي اسم لون محدد مسبقًا. الأسماء الصالحة هي نفس أسماء عناصر[`KnownColor`](../../knowncolor/) تعداد. |
+| name | String | سلسلة تمثل اسم لون مسبق التعريف. الأسماء الصالحة هي نفسها أسماء عناصر تعداد [`KnownColor`](../../knowncolor/). |
 
 ### قيمة الإرجاع
 
-ال[`Color`](../) التي تخلقها هذه الطريقة.
+الـ [`Color`](../) الذي تنشئه هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

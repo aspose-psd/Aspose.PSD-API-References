@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Ceiling
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. تحويل المحددRectangleF هيكل لRectangle هيكل عن طريق تقريبRectangleF القيم إلى قيم الأعداد الصحيحة الأعلى التالية.
+title: "Rectangle.Ceiling"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تحول بنية RectangleF المحددة إلى بنية Rectangle عن طريق تقريب قيم RectangleF إلى القيم الصحيحة الأعلى."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/rectangle/ceiling/
 ---
+{{< psd/tize >}}
 ## Rectangle.Ceiling method
 
-تحويل المحدد[`RectangleF`](../../rectanglef/) هيكل ل[`Rectangle`](../) هيكل عن طريق تقريب[`RectangleF`](../../rectanglef/) القيم إلى قيم الأعداد الصحيحة الأعلى التالية.
+تحول البنية المحددة [`RectangleF`](../../rectanglef/) إلى بنية [`Rectangle`](../) عن طريق تقريب قيم [`RectangleF`](../../rectanglef/) إلى القيم الصحيحة الأعلى.
 
 ```csharp
 public static Rectangle Ceiling(RectangleF value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | RectangleF | ال[`RectangleF`](../../rectanglef/) الهيكل المراد تحويله. |
+| value | RectangleF | بنية [`RectangleF`](../../rectanglef/) التي سيتم تحويلها. |
 
 ### قيمة الإرجاع
 
-يعود أ[`Rectangle`](../).
+تُرجع [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

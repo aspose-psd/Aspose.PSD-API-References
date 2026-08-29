@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.StartPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: PolygonShape ملكية. يحصل على نقطة شكل البداية .
+title: "PolygonShape.StartPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PolygonShape. يحصل على نقطة بداية الشكل"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.shapes/polygonshape/startpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.StartPoint property
 
-يحصل على نقطة شكل البداية .
+يحصل على نقطة بداية الشكل.
 
 ```csharp
 public virtual PointF StartPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة شكل البداية.
+نقطة بداية الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

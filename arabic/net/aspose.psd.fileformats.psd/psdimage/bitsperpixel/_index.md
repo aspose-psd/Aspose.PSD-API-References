@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على عدد بتات الصورة لكل بكسل .
+title: "PsdImage.BitsPerPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل على عدد البتات لكل بكسل في الصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerPixel property
 
-الحصول على عدد بتات الصورة لكل بكسل .
+يحصل على عدد البتات في كل بكسل للصورة.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد بتات الصورة لكل بكسل.
+عدد البتات لكل بكسل في الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

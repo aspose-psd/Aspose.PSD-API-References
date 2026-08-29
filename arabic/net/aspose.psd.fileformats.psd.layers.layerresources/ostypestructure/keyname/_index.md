@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructure ملكية. الحصول على أو تحديد اسم المفتاح .
+title: "OSTypeStructure.KeyName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OSTypeStructure. تحصل أو تعيين اسم المفتاح"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
-الحصول على أو تحديد اسم المفتاح .
+يحصل أو يضبط اسم المفتاح.
 
 ```csharp
 public ClassID KeyName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم المفتاح .
+اسم المفتاح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

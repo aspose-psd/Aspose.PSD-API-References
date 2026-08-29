@@ -1,14 +1,15 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo فصل. تمثل هذه الفئة معلومات حول تقدم عمليات تحميل / حفظ / تصدير الصور  التي يمكن استخدامها في تطبيق خارجي لإظهار تقدم التحويل إلى user
+title: "الفئة ProgressEventHandlerInfo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo. تمثل هذه الفئة معلومات حول تقدم عمليات تحميل/حفظ/تصدير الصورة التي يمكن استخدامها في تطبيق خارجي لعرض تقدم التحويل للمستخدم النهائي"
 type: docs
-weight: 5300
+weight: 5800
 url: /ar/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-تمثل هذه الفئة معلومات حول تقدم عمليات تحميل / حفظ / تصدير الصور ، التي يمكن استخدامها في تطبيق خارجي لإظهار تقدم التحويل إلى user
+هذه الفئة تمثل معلومات حول تقدم عمليات تحميل/حفظ/تصدير الصورة، والتي يمكن استخدامها في تطبيق خارجي لعرض تقدم التحويل للمستخدم النهائي
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -16,16 +17,16 @@ public class ProgressEventHandlerInfo
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | يحصل على وصف الحدث |
 | [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | يحصل على نوع الحدث. |
-| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | يحصل على الحد الأعلى لقيمة التقدم . |
-| [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | يحصل على قيمة التقدم الحالية . |
+| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | يحصل على الحد الأعلى لقيمة التقدم. |
+| [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | يحصل على قيمة التقدم الحالية. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

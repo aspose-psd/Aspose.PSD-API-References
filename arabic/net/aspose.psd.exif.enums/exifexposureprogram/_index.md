@@ -1,36 +1,37 @@
 ---
-title: Enum ExifExposureProgram
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifExposureProgram تعداد. تعداد برنامج التعرض exif .
+title: "تعداد ExifExposureProgram"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifExposureProgram تعداد. exif برنامج التعرض تعداد"
 type: docs
-weight: 840
+weight: 850
 url: /ar/net/aspose.psd.exif.enums/exifexposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifExposureProgram enumeration
 
-تعداد برنامج التعرض exif .
+exif تعداد برنامج التعرض.
 
 ```csharp
 public enum ExifExposureProgram
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Notdefined | `0` | غير معرّف . |
-| Manual | `1` | البرنامج اليدوي . |
-| Auto | `2` | التعريض التلقائي . |
-| Aperturepriority | `3` | أولوية الفتحة . |
-| Shutterpriority | `4` | أولوية الغالق . |
-| Creativeprogram | `5` | برنامج إبداعي . |
-| Actionprogram | `6` | برنامج العمل . |
-| Portraitmode | `7` | الوضع الرأسي . |
-| Landscapemode | `8` | الوضع الأفقي . |
+| Notdefined | `0` | غير معرف. |
+| Manual | `1` | برنامج يدوي. |
+| Auto | `2` | تعرض تلقائي. |
+| Aperturepriority | `3` | أولوية الفتحة. |
+| Shutterpriority | `4` | أولوية الغالق. |
+| Creativeprogram | `5` | برنامج إبداعي. |
+| Actionprogram | `6` | برنامج حركة. |
+| Portraitmode | `7` | وضع بورتريه. |
+| Landscapemode | `8` | وضع المنظر الطبيعي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

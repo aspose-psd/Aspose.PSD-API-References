@@ -1,14 +1,15 @@
 ---
-title: DescriptorStructure.GetHeaderLength
-second_title: Aspose.PSD لمرجع .NET API
-description: DescriptorStructure طريقة. الحصول على طول الرأس .
+title: "DescriptorStructure.GetHeaderLength"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DescriptorStructure. تحصل على طول الرأس"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.GetHeaderLength method
 
-الحصول على طول الرأس .
+يحصل على طول الرأس.
 
 ```csharp
 public override int GetHeaderLength()
@@ -18,10 +19,10 @@ public override int GetHeaderLength()
 
 طول الرأس
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DescriptorStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

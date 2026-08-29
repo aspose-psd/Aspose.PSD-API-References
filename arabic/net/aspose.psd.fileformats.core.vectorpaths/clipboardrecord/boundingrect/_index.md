@@ -1,28 +1,29 @@
 ---
-title: ClipboardRecord.BoundingRect
-second_title: Aspose.PSD لمرجع .NET API
-description: ClipboardRecord ملكية. الحصول على أو تعيين المستقيم المحيط.
+title: "ClipboardRecord.BoundingRect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ClipboardRecord. تحصل أو تعين مستطيل الإحاطة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.BoundingRect property
 
-الحصول على أو تعيين المستقيم المحيط.
+يحصل أو يضبط المستطيل المحيط.
 
 ```csharp
 public RectangleF BoundingRect { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المستقيم المحيط.
+مستطيل الإحاطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ClipboardRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

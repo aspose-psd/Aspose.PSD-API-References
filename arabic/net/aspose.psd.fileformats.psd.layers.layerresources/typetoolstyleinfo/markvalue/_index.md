@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.MarkValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolStyleInfo ملكية. الحصول على قيمة العلامة أو تعيينها.
+title: "TypeToolStyleInfo.MarkValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolStyleInfo. يحصل أو يضبط قيمة العلامة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.MarkValue property
 
-الحصول على قيمة العلامة أو تعيينها.
+يحصل أو يضبط قيمة العلامة.
 
 ```csharp
 public short MarkValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة العلامة .
+قيمة العلامة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolStyleInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

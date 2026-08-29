@@ -1,30 +1,31 @@
 ---
-title: RasterImage.SetPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يضبط بكسل الصورة للوضع المحدد.
+title: "RasterImage.SetPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تعيين بكسل الصورة للموقع المحدد"
 type: docs
-weight: 560
+weight: 580
 url: /ar/net/aspose.psd/rasterimage/setpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPixel method
 
-يضبط بكسل الصورة للوضع المحدد.
+يضبط بكسل صورة للموقع المحدد.
 
 ```csharp
 public void SetPixel(int x, int y, Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | x | Int32 | موقع البكسل x. |
-| y | Int32 | موقع البكسل ص. |
-| color | Color | لون البكسل للموضع المحدد. |
+| y | Int32 | موقع البكسل y. |
+| لون | لون | لون البكسل للموقع المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

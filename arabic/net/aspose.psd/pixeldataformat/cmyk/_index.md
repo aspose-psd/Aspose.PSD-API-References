@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على ملفPixelDataFormat محددة لـ 32 بت لكل بكسل مع 8 بت لكل من السماوي والأرجواني والأصفر والأسود.
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. يحصل على PixelDataFormat المعرفة بـ 32 بت لكل بكسل مع 8 بت لكل من السماوي، الأرجواني، الأصفر والأسود"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-يحصل على ملف[`PixelDataFormat`](../) محددة لـ 32 بت لكل بكسل مع 8 بت لكل من السماوي والأرجواني والأصفر والأسود.
+يحصل على [`PixelDataFormat`](../) المعرفة بـ 32 بت لكل بكسل مع 8 بت لكل من السماوي، الأرجواني، الأصفر والأسود.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../) محددة لـ 32 بت لكل بكسل مع 8 بت لكل من السماوي والأرجواني والأصفر والأسود.
+الـ [`PixelDataFormat`](../) المعرفة بـ 32 بت لكل بكسل مع 8 بت لكل من السماوي، الأرجواني، الأصفر والأسود.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: RenderResult.RenderResult
-second_title: Aspose.PSD لمرجع .NET API
-description: RenderResult البناء. Default_Constructor
+title: "RenderResult.RenderResult"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ RenderResult. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/renderresult/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public RenderResult()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenderResult](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../renderresult/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

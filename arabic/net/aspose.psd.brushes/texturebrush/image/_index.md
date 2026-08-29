@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Aspose.PSD لمرجع .NET API
-description: TextureBrush ملكية. يحصل على ملفImage كائن مرتبط بهذاTextureBrush الكائن .
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextureBrush. تحصل على كائن Image المرتبط بهذا كائن TextureBrush."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-يحصل على ملف[`Image`](../../../aspose.psd/image/) كائن مرتبط بهذا[`TextureBrush`](../) الكائن .
+تحصل على كائن [`Image`](../../../aspose.psd/image/) المرتبط بهذا كائن [`TextureBrush`](../).
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ان[`Image`](../../../aspose.psd/image/) الكائن الذي يمثل الصورة التي بها هذا[`TextureBrush`](../) كائن يملأ الأشكال.
+كائن [`Image`](../../../aspose.psd/image/) يمثل الصورة التي يستخدمها كائن [`TextureBrush`](../) لملء الأشكال.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../texturebrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

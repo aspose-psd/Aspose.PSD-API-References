@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Compressed
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioSampleType ملكية. يمثل عينة صوتية مضغوطة .
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AudioSampleType. يمثل عينة صوتية مضغوطة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
-يمثل عينة صوتية مضغوطة .
+يمثل عينة صوتية مضغوطة.
 
 ```csharp
 public static AudioSampleType Compressed { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioSampleType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

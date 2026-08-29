@@ -1,44 +1,45 @@
 ---
-title: RenditionClass.RenditionClass
-second_title: Aspose.PSD لمرجع .NET API
-description: RenditionClass البناء. يقوم بتهيئة مثيل جديد لملفRenditionClass فئة .
+title: "RenditionClass.RenditionClass"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ RenditionClass. يهيئ نسخة جديدة من الفئة RenditionClass"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.derived/renditionclass/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`RenditionClass`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenditionClass](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RenditionClass(string, string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`RenditionClass`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass(string token, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | token | String | الرمز. |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RenditionClass](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokeJoin
-second_title: Aspose.PSD لمرجع .NET API
-description: CustomLineCap ملكية. يحصل أو يحدد ملفLineJoin التعداد الذي يحدد كيفية إنشاء الخطوطCustomLineCapتم ضم الكائن.
+title: "CustomLineCap.StrokeJoin"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CustomLineCap. تحصل أو تعين تعداد LineJoin الذي يحدد كيفية ربط الخطوط التي تشكل كائن CustomLineCap هذا"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/customlinecap/strokejoin/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokeJoin property
 
-يحصل أو يحدد ملف[`LineJoin`](../../linejoin/) التعداد الذي يحدد كيفية إنشاء الخطوط[`CustomLineCap`](../)تم ضم الكائن.
+تحصل أو تعين تعداد [`LineJoin`](../../linejoin/) الذي يحدد كيفية ربط الخطوط التي تشكل كائن [`CustomLineCap`](../) هذا.
 
 ```csharp
 public LineJoin StrokeJoin { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ال[`LineJoin`](../../linejoin/) تعداد هذا[`CustomLineCap`](../) يستخدم الكائن لربط الأسطر.
+تعداد [`LineJoin`](../../linejoin/) الذي يستخدمه كائن [`CustomLineCap`](../) لربط الخطوط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* مساحة الاسم [Aspose.PSD](../../customlinecap/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

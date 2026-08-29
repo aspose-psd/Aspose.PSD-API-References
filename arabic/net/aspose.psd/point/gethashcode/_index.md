@@ -1,14 +1,15 @@
 ---
-title: Point.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. إرجاع رمز تجزئة لهذا الغرضPoint .
+title: "Point.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تُرجِع رمز تجزئة لهذا Point."
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/point/gethashcode/
 ---
+{{< psd/tize >}}
 ## Point.GetHashCode method
 
-إرجاع رمز تجزئة لهذا الغرض[`Point`](../) .
+تُرجِع رمز تجزئة لهذا [`Point`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

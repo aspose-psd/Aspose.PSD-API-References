@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: Aspose.PSD لمرجع .NET API
-description: Color ملكية. يحصل على فارغةColor .
+title: "Color.Empty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Color. تحصل على Color فارغ"
 type: docs
 weight: 430
 url: /ar/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-يحصل على فارغة[`Color`](../) .
+يحصل على [`Color`](../) فارغ.
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-فارغة[`Color`](../).
+الـ[`Color`](../) الفارغ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

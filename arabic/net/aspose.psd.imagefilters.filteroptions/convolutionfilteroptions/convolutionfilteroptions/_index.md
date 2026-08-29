@@ -1,23 +1,24 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: ConvolutionFilterOptions البناء. يقوم بتهيئة مثيل جديد لملفConvolutionFilterOptions فئة .
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ConvolutionFilterOptions. يهيئ مثلاً جديدًا من فئة ConvolutionFilterOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ConvolutionFilterOptions`](../) فئة .
+يهيئ مثلاً جديدًا من فئة [`ConvolutionFilterOptions`](../).
 
 ```csharp
 public ConvolutionFilterOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ConvolutionFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Matrix.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "Matrix.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تُرجع رمز تجزئة لهذه الحالة"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/matrix/gethashcode/
 ---
+{{< psd/tize >}}
 ## Matrix.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة لهذه المثيلة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

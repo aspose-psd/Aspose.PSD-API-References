@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetInstrument
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يضبط الأداة.
+title: "XmpDynamicMediaPackage.SetInstrument"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. تُعيّن الأداة"
 type: docs
 weight: 240
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setinstrument/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetInstrument method
 
-يضبط الأداة.
+يضبط الآلة.
 
 ```csharp
 public void SetInstrument(string instrument)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| instrument | String | الآلة. |
+| instrument | String | الأداة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

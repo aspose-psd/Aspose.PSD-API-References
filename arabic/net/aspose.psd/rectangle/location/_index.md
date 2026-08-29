@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Location
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على إحداثيات الزاوية اليسرى العلوية أو تحديدهاRectangleهيكل .
+title: "Rectangle.Location"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل أو تعين إحداثيات الزاوية العلوية اليسرى لهذا هيكل Rectangle."
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/rectangle/location/
 ---
+{{< psd/tize >}}
 ## Rectangle.Location property
 
-الحصول على إحداثيات الزاوية اليسرى العلوية أو تحديدها[`Rectangle`](../)هيكل .
+تحصل أو تعين إحداثيات الزاوية العلوية اليسرى لهذا هيكل [`Rectangle`](../).
 
 ```csharp
 public Point Location { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`Point`](../../point/) التي تمثل الزاوية العلوية اليسرى من هذا[`Rectangle`](../) بناء.
+نقطة [`Point`](../../point/) تمثل الزاوية العلوية اليسرى لهذا هيكل [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

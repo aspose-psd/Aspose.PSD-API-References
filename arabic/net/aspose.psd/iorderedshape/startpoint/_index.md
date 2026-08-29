@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.StartPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: IOrderedShape ملكية. يحصل على نقطة شكل البداية .
+title: "IOrderedShape.StartPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IOrderedShape. تُحصل على نقطة البداية للشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/iorderedshape/startpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.StartPoint property
 
-يحصل على نقطة شكل البداية .
+يحصل على نقطة بداية الشكل.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة شكل البداية.
+نقطة بداية الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* مساحة الاسم [Aspose.PSD](../../iorderedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Pen.DashPattern
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تعيين مصفوفة من الشرطات والمسافات المخصصة.
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين مصفوفة من الشرطات والمسافات المخصصة"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
-الحصول على أو تعيين مصفوفة من الشرطات والمسافات المخصصة.
+يحصل أو يضبط مصفوفة من الشرطات والمسافات المخصصة.
 
 ```csharp
 public float[] DashPattern { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مصفوفة من الأرقام الحقيقية تحدد أطوال الشرط والمسافات المتناوبة في خطوط متقطعة.
+مصفوفة من الأعداد الحقيقية التي تحدد أطوال الشرطات والمسافات المتناوبة في الخطوط المتقطعة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`DashPattern` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `DashPattern` يتم تعيينها على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

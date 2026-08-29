@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale فصل. يمثل رمز اللغة.
+title: "الفئة XmpLocale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale الفئة. يمثل رمز اللغة"
 type: docs
-weight: 6170
+weight: 6670
 url: /ar/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 يمثل رمز اللغة.
@@ -14,32 +15,32 @@ url: /ar/net/aspose.psd.xmp.types.derived/xmplocale/
 public sealed class XmpLocale : XmpText
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | يقوم بتهيئة مثيل جديد لملف`XmpLocale` فئة . |
+| [XmpLocale](xmplocale/)(string) | يُنشئ مثيلة جديدة من الفئة `XmpLocale`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | الحصول على القيمة النصية أو تعيينها. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | يحصل أو يعيّن قيمة النص. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### ملاحظات
+## ملاحظات
 
-راجع IETF RFC 3066.
+انظر IETF RFC 3066.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

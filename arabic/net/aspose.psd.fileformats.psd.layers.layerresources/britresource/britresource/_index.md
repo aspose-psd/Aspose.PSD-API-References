@@ -1,67 +1,68 @@
 ---
-title: BritResource.BritResource
-second_title: Aspose.PSD لمرجع .NET API
-description: BritResource البناء. يقوم بتهيئة مثيل جديد لملفBritResource فئة .
+title: "BritResource.BritResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BritResource. يتهيئ نسخة جديدة من الفئة BritResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/britresource/
 ---
+{{< psd/tize >}}
 ## BritResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`BritResource`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`BritResource`](../).
 
 ```csharp
 public BritResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(short, short, short, bool) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`BritResource`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`BritResource`](../).
 
 ```csharp
 public BritResource(short brightness, short contrast, short meanValueForBrightnessAndContrast, 
     bool labColor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brightness | Int16 | السطوع. |
-| contrast | Int16 | الإختلاف. |
+| السطوع | Int16 | السطوع. |
+| التباين | Int16 | التباين. |
 | meanValueForBrightnessAndContrast | Int16 | القيمة المتوسطة للسطوع والتباين. |
-| labColor | Boolean | إذا تم التعيين على`حقيقي` [لون المعمل]. |
+| labColor | Boolean | إذا تم تعيينه إلى `true` [lab color]. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`BritResource`](../)class. تحتوي مواصفات تنسيق PSD على الوصف التالي: 2 Brightness 2 Contrast 2 متوسط قيمة السطوع والتباين 1 Lab color only لا يتم استخدامه في PSD الحديثة (CS5 وما فوق) حيث CgEd. معلومات مخازن CgEd Properties
+تهيئ نسخة جديدة من الفئة [`BritResource`](../). مواصفات تنسيق PSD تحتوي على الوصف التالي: 2 Brightness 2 Contrast 2 Mean value for brightness and contrast 1 Lab color only. لا يتم استخدامها في PSD الحديثة (CS5 وما فوق) حيث CgEd موجود. CgEd يخزن خصائص المعلومات.
 
 ```csharp
 public BritResource(byte[] bytes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bytes | Byte[] | البايت. |
+| بايت | Byte[] | البايتات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

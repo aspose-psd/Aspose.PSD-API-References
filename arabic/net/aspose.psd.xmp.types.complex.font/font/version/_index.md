@@ -1,31 +1,32 @@
 ---
-title: Font.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. الحصول على إصدار الخط أو تحديده.
+title: "Font.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل أو تعين إصدار الخط"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.xmp.types.complex.font/font/version/
 ---
+{{< psd/tize >}}
 ## Font.Version property
 
-الحصول على إصدار الخط أو تحديده.
+يحصل أو يضبط إصدار الخط.
 
 ```csharp
 public string Version { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 إصدار الخط.
 
-### أمثلة
+## أمثلة
 
-/ إصدار لخطوط Type1 nameId 5 لـ Apple True Type و OpenType / CIDFontVersion لخطوط CID السلسلة الفارغة لخطوط الصور النقطية
+/version للخطوط Type1 nameId 5 لـ Apple True Type و OpenType /CIDFontVersion للخطوط CID السلسلة الفارغة للخطوط bitmap
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.UrgencyMax
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage مجال. الحد الأقصى للقيمة العاجلة .
+title: "PhotoshopPackage.UrgencyMax"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل PhotoshopPackage. قيمة الحد الأقصى للإلحاح"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMax field
 
-الحد الأقصى للقيمة العاجلة .
+القيمة القصوى للإلحاح.
 
 ```csharp
 public const int UrgencyMax;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

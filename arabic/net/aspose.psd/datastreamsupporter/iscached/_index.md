@@ -1,27 +1,28 @@
 ---
-title: DataStreamSupporter.IsCached
-second_title: Aspose.PSD لمرجع .NET API
-description: DataStreamSupporter ملكية. يحصل على قيمة تشير إلى ما إذا كانت بيانات الكائن مخزنة مؤقتًا حاليًا ولا يلزم قراءة البيانات.
+title: "DataStreamSupporter.IsCached"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DataStreamSupporter. تُرجع قيمة تُشير إلى ما إذا كانت بيانات الكائن مخزنة مؤقتًا حاليًا ولا يلزم قراءة البيانات."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/datastreamsupporter/iscached/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.IsCached property
 
-يحصل على قيمة تشير إلى ما إذا كانت بيانات الكائن مخزنة مؤقتًا حاليًا ولا يلزم قراءة البيانات.
+يحصل على قيمة تشير إلى ما إذا كانت بيانات الكائن مخزنة مؤقتاً حالياً ولا يلزم قراءة البيانات.
 
 ```csharp
 public abstract bool IsCached { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تخزين بيانات الكائن مؤقتًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت بيانات الكائن مخزنة مؤقتًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DataStreamSupporter](../)
-* مساحة الاسم [Aspose.PSD](../../datastreamsupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

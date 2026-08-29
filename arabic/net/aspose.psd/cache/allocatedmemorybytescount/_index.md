@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedMemoryBytesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: Cache ملكية. الحصول على عدد البايت المخصص في الذاكرة.
+title: "Cache.AllocatedMemoryBytesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Cache. تحصل على عدد البايتات المخصصة في الذاكرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/cache/allocatedmemorybytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedMemoryBytesCount property
 
-الحصول على عدد البايت المخصص في الذاكرة.
+يحصل على عدد البايتات المخصصة في الذاكرة.
 
 ```csharp
 public static long AllocatedMemoryBytesCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد البايتات المخصصة في الذاكرة .
+عدد البايتات المخصصة في الذاكرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Cache](../)
-* مساحة الاسم [Aspose.PSD](../../cache/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

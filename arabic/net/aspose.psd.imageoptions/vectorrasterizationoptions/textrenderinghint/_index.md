@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.TextRenderingHint
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorRasterizationOptions ملكية. الحصول على تلميح عرض النص أو تعيينه.
+title: "VectorRasterizationOptions.TextRenderingHint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorRasterizationOptions. يحصل أو يضبط تلميح عرض النص"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.TextRenderingHint property
 
-الحصول على تلميح عرض النص أو تعيينه.
+يحصل أو يعيّن تلميح عرض النص.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تلميح عرض النص .
+تلميح عرض النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

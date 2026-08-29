@@ -1,28 +1,29 @@
 ---
-title: UnitStructure.UnitType
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitStructure ملكية. الحصول على نوع الوحدة أو تحديده.
+title: "UnitStructure.UnitType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnitStructure. يحصل على أو يضبط نوع الوحدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitStructure.UnitType property
 
-الحصول على نوع الوحدة أو تحديده.
+يحصل أو يعيّن نوع الوحدة.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الوحدة .
+نوع الوحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

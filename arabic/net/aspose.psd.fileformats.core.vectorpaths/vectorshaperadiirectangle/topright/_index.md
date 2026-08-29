@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.TopRight
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeRadiiRectangle ملكية. الحصول على أعلى اليمين أو تحديده.
+title: "VectorShapeRadiiRectangle.TopRight"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeRadiiRectangle. يحصل أو يعيّن الزاوية العلوية اليمنى"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.TopRight property
 
-الحصول على أعلى اليمين أو تحديده.
+يحصل أو يعيّن الخاصية العلوية اليمنى.
 
 ```csharp
 public double TopRight { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أعلى اليمين .
+الزاوية العلوية اليمنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeRadiiRectangle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

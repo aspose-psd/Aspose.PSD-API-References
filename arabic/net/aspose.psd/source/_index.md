@@ -1,28 +1,29 @@
 ---
-title: Class Source
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Source فصل. يتم استخدام المصدر لاحتواء جميع المعلومات ذات الصلة بأنبوب الكائن.
+title: "الفئة Source"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Source. يُستخدم المصدر لاحتواء جميع المعلومات ذات الصلة لأنبوب كائن"
 type: docs
-weight: 5580
+weight: 6080
 url: /ar/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-يتم استخدام المصدر لاحتواء جميع المعلومات ذات الصلة بأنبوب الكائن.
+المصدر يُستخدم لاحتواء جميع المعلومات ذات الصلة لأنبوب الكائن.
 
 ```csharp
 public abstract class Source
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | يحصل على حاوية التدفق . |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | يحصل على حاوية الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

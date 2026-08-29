@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: ChannelInformation ملكية. الحصول على طول القناة بالبايت.
+title: "ChannelInformation.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ChannelInformation. يحصل على طول القناة بالبايت."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.Length property
 
-الحصول على طول القناة بالبايت.
+يحصل على طول القناة بالبايت.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الطول .
+الطول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ChannelInformation](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

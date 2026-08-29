@@ -1,11 +1,12 @@
 ---
-title: IAsyncTaskState.Progress
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTaskState ملكية. يحصل على تقدم المهمة غير المتزامنة.
+title: "IAsyncTaskState.Progress"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IAsyncTaskState. تسترجع تقدم المهمة غير المتزامنة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.asynctask/iasynctaskstate/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.Progress property
 
 يحصل على تقدم المهمة غير المتزامنة.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.asynctask/iasynctaskstate/progress/
 public AsyncTaskProgress Progress { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تقدم المهمة غير المتزامنة .
+تقدم المهمة غير المتزامنة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTaskState](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

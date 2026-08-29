@@ -1,54 +1,55 @@
 ---
-title: Class LnkeResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource فصل. يحدد فئة LnkeResource التي تحتوي على معلومات حول الملفات أو الأصول المرتبطة الخارجية في صورة تنسيق PSD . قد يحتوي مورد الارتباط على عدةLiFeDataSource المثيلات التي يمكن الوصول إليها بواسطة المفهرس.
+title: "الفئة LnkeResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource class. يعرّف فئة LnkeResource التي تحتوي على معلومات حول الملفات أو الأصول المرتبطة خارجيًا في صورة بتنسيق PSD. قد يحتوي مورد الارتباط على عدة مثيلات LiFeDataSource يمكن الوصول إليها عبر الفهرس. هذا جزء من واجهة برمجة تطبيقات معالجة تنسيق ملفات PSD التي تساعد على تعديل ملفات Adobe Photoshop برمجيًا."
 type: docs
-weight: 2740
+weight: 3050
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-يحدد فئة LnkeResource التي تحتوي على معلومات حول الملفات أو الأصول المرتبطة الخارجية في صورة تنسيق PSD . قد يحتوي مورد الارتباط على عدة[`LiFeDataSource`](../lifedatasource/) المثيلات التي يمكن الوصول إليها بواسطة المفهرس.
+يعرّف فئة LnkeResource التي تحتوي على معلومات حول الملفات أو الأصول المرتبطة خارجيًا في صورة بتنسيق PSD. قد يحتوي مورد الارتباط على عدة مثيلات [`LiFeDataSource`](../lifedatasource/) يمكن الوصول إليها عبر الفهرس. هذا جزء من واجهة برمجة تطبيقات معالجة تنسيق ملفات PSD التي تساعد على تعديل ملفات Adobe® Photoshop® برمجيًا.
 
 ```csharp
 public class LnkeResource : LinkResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LnkeResource](lnkeresource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`LnkeResource` فئة . |
-| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | يقوم بتهيئة مثيل جديد لملف`LnkeResource` فئة . |
+| [LnkeResource](lnkeresource/#constructor)() | ينشئ مثيلًا جديدًا من الفئة `LnkeResource`. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | ينشئ مثيلًا جديدًا من الفئة `LnkeResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | الحصول على عدد مصادر بيانات الارتباط التي يمكن للمفهرس الوصول إليها. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كان مثيل مورد الارتباط فارغًا. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | يحصل على ملف[`LiFeDataSource`](../lifedatasource/) في الفهرس المحدد. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | الحصول على مفتاح موارد Adobe® Photoshop® العام . |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | الحصول على طول مورد الارتباط العام لـ PSD بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | الحصول على إصدار تنسيق PSD . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | الحصول على توقيع مورد الارتباط العالمي لـ PSD . |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | يحصل على عدد مصادر بيانات الرابط التي يمكن الوصول إليها عبر الفهرس. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل من مورد الرابط فارغًا. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | يحصل على [`LiFeDataSource`](../lifedatasource/) في الفهرس المحدد. (مؤشرين) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | يحصل على طول مورد الرابط العام لملف PSD بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | يحفظ بيانات كتلة المورد. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد LnkeResource.
+يوضح الكود التالي دعم مورد LnkeResource.
 
 ```csharp
 [C#]
@@ -243,7 +244,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png ";
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -270,11 +271,11 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

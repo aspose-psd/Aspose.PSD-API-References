@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageResizeSettings ملكية. الحصول على أو تعيين عدد الإدخالات
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageResizeSettings. تحصل أو تعين عدد المدخلات"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-الحصول على أو تعيين عدد الإدخالات
+يحصل أو يضبط عدد الإدخالات.
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الإدخالات
+عدد المدخلات
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageResizeSettings](../)
-* مساحة الاسم [Aspose.PSD](../../imageresizesettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Interface IPartialPixelLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IPartialPixelLoader واجهه المستخدم. يتوافق مع وحدات البكسل المحملة جزئيًا.
+title: "واجهة IPartialPixelLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IPartialPixelLoader. تتوافق مع البكسلات التي تم تحميلها جزئيًا"
 type: docs
-weight: 4530
+weight: 5000
 url: /ar/net/aspose.psd/ipartialpixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader interface
 
-يتوافق مع وحدات البكسل المحملة جزئيًا.
+يتوافق مع البكسلات التي تم تحميلها جزئيًا.
 
 ```csharp
 public interface IPartialPixelLoader
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | يعالج وحدات البكسل المحملة . |
+| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | يعالج البكسلات المحمّلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

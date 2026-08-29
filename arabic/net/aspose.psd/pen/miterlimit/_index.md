@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تعيين حد سماكة الوصلة في الزاوية الميتة .
+title: "Pen.MiterLimit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين حد سمك الوصلة عند زاوية مِترية"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-الحصول على أو تعيين حد سماكة الوصلة في الزاوية الميتة .
+يحصل أو يضبط حد سمك الوصل عند زاوية ميتير.
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حد سماكة الوصلة في الزاوية الميتة.
+حد سمك الوصلة عند زاوية مِترية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`MiterLimit` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `MiterLimit` تُحدد على كائن [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

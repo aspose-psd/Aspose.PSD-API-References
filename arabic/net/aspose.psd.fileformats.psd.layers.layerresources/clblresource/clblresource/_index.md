@@ -1,69 +1,70 @@
 ---
-title: ClblResource.ClblResource
-second_title: Aspose.PSD لمرجع .NET API
-description: ClblResource البناء. يقوم بتهيئة مثيل جديد لملفClblResource فئة .
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ClblResource. يُنشئ مثيلاً جديدًا للفئة ClblResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-يقوم بتهيئة مثيل جديد لملف[`ClblResource`](../) فئة .
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| blendClippedElements | Boolean | إذا تم التعيين على`حقيقي` [مزيج العناصر المقصوصة]. |
-
-### أنظر أيضا
-
-* class [ClblResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* المجسم [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ClblResource`](../) فئة .
+يُنشئ مثيلاً جديدًا للفئة [`ClblResource`](../).
 
 ```csharp
 public ClblResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClblResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+يُنشئ مثيلاً جديدًا للفئة [`ClblResource`](../).
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| blendClippedElements | Boolean | إذا تم تعيينه إلى `true` [blend clipped elements]. |
+
+### انظر أيضًا
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`ClblResource`](../) class. بقيمة مخصصة أو غير معروفة
+يُنشئ مثيلاً جديدًا للفئة [`ClblResource`](../). بقيمة مخصصة أو غير معروفة
 
 ```csharp
 public ClblResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات الموارد. |
+| البيانات | Byte[] | بيانات المورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | قيمة مورد clbl غير صالحة |
+| ArgumentException | قيمة clbl Resource غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClblResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

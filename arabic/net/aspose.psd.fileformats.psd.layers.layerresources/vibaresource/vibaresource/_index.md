@@ -1,27 +1,28 @@
 ---
-title: VibAResource.VibAResource
-second_title: Aspose.PSD لمرجع .NET API
-description: VibAResource البناء. يقوم بتهيئة مثيل جديد لملفVibAResource فئة .
+title: "VibAResource.VibAResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ VibAResource. يهيئ نسخة جديدة من فئة VibAResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibaresource/
 ---
+{{< psd/tize >}}
 ## VibAResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`VibAResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`VibAResource`](../).
 
 ```csharp
 public VibAResource()
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم مورد VibAResource.
+يوضح مثال الشيفرة التالي دعم مورد VibAResource.
 
 ```csharp
 [C#]
 
-// مثال على دعم قراءة وكتابة مورد الاهتزاز في وقت التشغيل.
+// مثال على دعم قراءة وكتابة مورد الاهتزاز أثناء التشغيل.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VibAResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

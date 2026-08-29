@@ -1,23 +1,24 @@
 ---
-title: PointF.Empty
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF ملكية. يحصل على مثيل جديد لملفPointF هيكل لديهX وY تم ضبط القيم على الصفر.
+title: "PointF.Empty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PointF. تُعيد نسخة جديدة من بنية PointF التي تكون قيم X و Y فيها صفرًا."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/pointf/empty/
 ---
+{{< psd/tize >}}
 ## PointF.Empty property
 
-يحصل على مثيل جديد لملف[`PointF`](../) هيكل لديه[`X`](../x/) و[`Y`](../y/) تم ضبط القيم على الصفر.
+تُعيد نسخة جديدة من بنية [`PointF`](../) التي تكون قيم [`X`](../x/) و [`Y`](../y/) فيها صفرًا.
 
 ```csharp
 public static PointF Empty { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

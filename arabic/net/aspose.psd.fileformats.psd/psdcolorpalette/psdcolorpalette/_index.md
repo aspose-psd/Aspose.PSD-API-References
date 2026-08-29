@@ -1,243 +1,244 @@
 ---
-title: PsdColorPalette.PsdColorPalette
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdColorPalette البناء. يقوم بتهيئة مثيل جديد لملفPsdColorPalette فئة .
+title: "PsdColorPalette.PsdColorPalette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PsdColorPalette. يهيئ مثيلًا جديدًا لفئة PsdColorPalette"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd/psdcolorpalette/psdcolorpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette(IColorPalette) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) فئة .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPalette | IColorPalette | لوحة الألوان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(IColorPalette, short) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) فئة .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPalette | IColorPalette | لوحة الألوان. |
-| transparentIndex | Int16 | مؤشر اللون الشفاف. |
+| transparentIndex | Int16 | فهرس اللون الشفاف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], bool) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) فئة .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | بيانات المدخلات الأولية. |
-| isCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| rawEntriesData | Byte[] | بيانات الإدخالات الخام. |
+| isCompactPalette | Boolean | تشير إلى ما إذا كانت اللوحة مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[]) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) class و IsCompactPalette خطأ .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../) وتكون IsCompactPalette خاطئة.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | بيانات المدخلات الأولية. |
+| rawEntriesData | Byte[] | بيانات الإدخالات الخام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short, bool) {#constructor_9}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) فئة .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | بيانات المدخلات الأولية. |
-| transparentIndex | Int16 | مؤشر اللون الشفاف. لاحظ أن الفهرس ليس فهرس الإدخالات الأولية بدلاً من ذلك فهو خاص بمصفوفة الألوان المحولة. |
-| useCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| rawEntriesData | Byte[] | بيانات الإدخالات الخام. |
+| transparentIndex | Int16 | فهرس اللون الشفاف. لاحظ أن الفهرس ليس فهرس الإدخالات الخام، بل هو للفئة المحوّلة من مصفوفة الألوان. |
+| useCompactPalette | Boolean | تشير إلى ما إذا كانت اللوحة مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short) {#constructor_8}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) class و IsCompactPalette خطأ .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../) وتكون IsCompactPalette خاطئة.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | بيانات المدخلات الأولية. |
-| transparentIndex | Int16 | مؤشر اللون الشفاف. لاحظ أن الفهرس ليس فهرس الإدخالات الأولية بدلاً من ذلك فهو خاص بمصفوفة الألوان المحولة. |
+| rawEntriesData | Byte[] | بيانات الإدخالات الخام. |
+| transparentIndex | Int16 | فهرس اللون الشفاف. لاحظ أن الفهرس ليس فهرس الإدخالات الخام، بل هو للفئة المحوّلة من مصفوفة الألوان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(int[], bool) {#constructor_10}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) فئة .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| colorPaletteArgb32Entries | Int32[] | مدخلات ARGB 32 بت لوحة الألوان. |
-| isCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| colorPaletteArgb32Entries | Int32[] | إدخالات لوحة الألوان 32-بت ARGB. |
+| isCompactPalette | Boolean | تشير إلى ما إذا كانت اللوحة مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) فئة .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | إدخالات لوحة الألوان. |
-| isCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| isCompactPalette | Boolean | تشير إلى ما إذا كانت اللوحة مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[]) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) class و IsCompactPalette خطأ .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../) وتكون IsCompactPalette خاطئة.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | إدخالات لوحة الألوان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short, bool) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) فئة .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool useCompactPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | إدخالات لوحة الألوان. |
-| transparentIndex | Int16 | مؤشر اللون الشفاف. |
-| useCompactPalette | Boolean | مبينا ما إذا كانت لوحة مضغوطة. |
+| transparentIndex | Int16 | فهرس اللون الشفاف. |
+| useCompactPalette | Boolean | تشير إلى ما إذا كانت اللوحة مضغوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdColorPalette`](../) class و IsCompactPalette خطأ .
+يهيئ مثيلًا جديدًا للفئة [`PsdColorPalette`](../) وتكون IsCompactPalette خاطئة.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | إدخالات لوحة الألوان. |
-| transparentIndex | Int16 | مؤشر اللون الشفاف. |
+| transparentIndex | Int16 | فهرس اللون الشفاف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

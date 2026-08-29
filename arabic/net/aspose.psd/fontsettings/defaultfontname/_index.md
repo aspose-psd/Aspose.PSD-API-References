@@ -1,27 +1,28 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings ملكية. الحصول على الاسم الافتراضي للخط أو تعيينه.
+title: "FontSettings.DefaultFontName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FontSettings. تحصل أو تعين الاسم الافتراضي للخط"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
-الحصول على الاسم الافتراضي للخط أو تعيينه.
+يحصل أو يعيّن الاسم الافتراضي للخط.
 
 ```csharp
 public static string DefaultFontName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الاسم الافتراضي للخط .
+الاسم الافتراضي للخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

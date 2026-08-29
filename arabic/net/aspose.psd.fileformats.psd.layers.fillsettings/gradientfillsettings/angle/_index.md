@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Angle
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings ملكية. الحصول على الزاوية أو تحديدها .
+title: "GradientFillSettings.Angle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientFillSettings. يحصل أو يعيّن الزاوية"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Angle property
 
-الحصول على الزاوية أو تحديدها .
+يحصل أو يعيّن الزاوية.
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الزاوية .
+الزاوية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن تتراوح الزاوية من -180.0 إلى 180.0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن تكون الزاوية في النطاق من -180.0 إلى 180.0 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

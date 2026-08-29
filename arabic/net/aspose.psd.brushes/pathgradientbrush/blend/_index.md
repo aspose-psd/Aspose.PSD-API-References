@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.Blend
-second_title: Aspose.PSD لمرجع .NET API
-description: PathGradientBrush ملكية. يحصل أو يحدد أBlend التي تحدد المواضع والعوامل التي تحدد تراجعًا مخصصًا للتدرج اللوني.
+title: "PathGradientBrush.Blend"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PathGradientBrush. يحصل أو يعيّن Blend الذي يحدد المواقع والعوامل التي تعرف انخفاضًا مخصصًا للتدرج."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.brushes/pathgradientbrush/blend/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.Blend property
 
-يحصل أو يحدد أ[`Blend`](../../../aspose.psd/blend/) التي تحدد المواضع والعوامل التي تحدد تراجعًا مخصصًا للتدرج اللوني.
+تحصل أو تعين كائن [`Blend`](../../../aspose.psd/blend/) يحدد المواقع والعوامل التي تعرف انخفاضًا مخصصًا للتدرج.
 
 ```csharp
 public Blend Blend { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`Blend`](../../../aspose.psd/blend/) التي تمثل هبوطًا مخصصًا للتدرج.
+كائن [`Blend`](../../../aspose.psd/blend/) يمثل انخفاضًا مخصصًا للتدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [PathGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

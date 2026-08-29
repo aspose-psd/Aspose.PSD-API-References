@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AddTags
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions طريقة. يضيف العلامات .
+title: "TiffOptions.AddTags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions طريقة. يضيف العلامات"
 type: docs
-weight: 710
+weight: 720
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/addtags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTags method
 
-يضيف العلامات .
+يضيف العلامات.
 
 ```csharp
 public void AddTags(TiffDataType[] tagsToAdd)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tagsToAdd | TiffDataType[] | العلامات المراد إضافتها. |
+| tagsToAdd | TiffDataType[] | العلامات للإضافة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

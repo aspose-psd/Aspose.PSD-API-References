@@ -1,28 +1,29 @@
 ---
-title: LineSegment.StartPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: LineSegment ملكية. يحصل على نقطة البداية .
+title: "LineSegment.StartPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LineSegment. يحصل على نقطة البداية"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapesegments/linesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.StartPoint property
 
-يحصل على نقطة البداية .
+يحصل على نقطة البداية.
 
 ```csharp
 public override PointF StartPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
 نقطة البداية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* مساحة الاسم [Aspose.PSD.ShapeSegments](../../linesegment/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

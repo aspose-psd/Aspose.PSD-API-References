@@ -1,49 +1,50 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl البناء. يقوم بتهيئة مثيل جديد لملفColorRangeHsl فئة .
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ColorRangeHsl. يهيئ نسخة جديدة من فئة ColorRangeHsl"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorRangeHsl`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ColorRangeHsl`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ColorRangeHsl`](../).
 
 ```csharp
 public ColorRangeHsl(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات نطاق اللون. |
+| البيانات | Byte[] | بيانات نطاق اللون. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | الطول المتوقع لـ "+ this.GetType () +" هو 14 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | الطول المتوقع لـ " + this.GetType() + " هو 14 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.SaveWithoutKeyName
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructure طريقة. يحفظ الهيكل في حاوية التدفق المحددة.
+title: "OSTypeStructure.SaveWithoutKeyName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة OSTypeStructure. تحفظ البنية في حاوية الدفق المحددة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.SaveWithoutKeyName method
 
-يحفظ الهيكل في حاوية التدفق المحددة.
+يحفظ البنية إلى حاوية الدفق المحددة.
 
 ```csharp
 public void SaveWithoutKeyName(StreamContainer streamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [OSTypeStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب قيمة عددية واحدة للتيار.
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. يكتب قيمة عدد صحيح واحدة إلى الدفق"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
-يكتب قيمة عددية واحدة للتيار.
+يكتب قيمة عدد صحيح واحد إلى التدفق.
 
 ```csharp
 public void WriteSlong(int data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Int32 | قيمة الكتابة. |
+| البيانات | Int32 | القيمة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

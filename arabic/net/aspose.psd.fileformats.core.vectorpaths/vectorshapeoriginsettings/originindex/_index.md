@@ -1,20 +1,21 @@
 ---
-title: VectorShapeOriginSettings.OriginIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeOriginSettings ملكية. الحصول على فهرس شكل الأصل أو تعيينه.
+title: "VectorShapeOriginSettings.OriginIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeOriginSettings. يحصل أو يضبط فهرس الشكل الأصلي"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginIndex property
 
-الحصول على فهرس شكل الأصل أو تعيينه.
+يحصل أو يضبط فهرس شكل الأصل.
 
 ```csharp
 public int OriginIndex { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح المثال التالي دعم مورد VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // التحرير
+    // تحرير
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeOriginSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

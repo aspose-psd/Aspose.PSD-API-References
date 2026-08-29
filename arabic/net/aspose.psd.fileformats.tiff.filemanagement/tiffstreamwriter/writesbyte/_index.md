@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSByte
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب قيمة بايت واحدة موقعة إلى الدفق.
+title: "TiffStreamWriter.WriteSByte"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب قيمة بايت موقعة واحدة إلى التدفق"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByte method
 
-يكتب قيمة بايت واحدة موقعة إلى الدفق.
+يكتب قيمة بايت موقعة واحدة إلى التدفق.
 
 ```csharp
 public void WriteSByte(sbyte data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | SByte | قيمة الكتابة. |
+| البيانات | SByte | القيمة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

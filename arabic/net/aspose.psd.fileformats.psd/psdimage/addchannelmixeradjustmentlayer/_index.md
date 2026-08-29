@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط مازج القنوات بالمعلمات الافتراضية
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يضيف طبقة تعديل خالط القنوات مع المعلمات الافتراضية"
 type: docs
-weight: 310
+weight: 320
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-يضيف طبقة ضبط مازج القنوات بالمعلمات الافتراضية
+يضيف طبقة تعديل خالط القنوات بالمعلمات الافتراضية
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
@@ -16,13 +17,13 @@ public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 
 ### قيمة الإرجاع
 
-تمت إضافة طبقة خالط القنوات
+تم إضافة طبقة خالط القنوات
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SmartFilter.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilter ملكية. الحصول على أو تعيين قيمة عتامة المرشح الذكي.
+title: "SmartFilter.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartFilter. يحصل أو يضبط قيمة الشفافية للفلتر الذكي"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Opacity property
 
-الحصول على أو تعيين قيمة عتامة المرشح الذكي.
+يحصل أو يضبط قيمة الشفافية للفلتر الذكي.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

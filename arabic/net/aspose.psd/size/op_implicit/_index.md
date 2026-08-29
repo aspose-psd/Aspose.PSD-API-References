@@ -1,32 +1,33 @@
 ---
-title: Size.op_Implicit
-second_title: Aspose.PSD لمرجع .NET API
-description: Size طريقة. تحويل المحددSize إلى أSizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Size. تحول الـ Size المحدد إلى SizeF"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-تحويل المحدد[`Size`](../) إلى أ[`SizeF`](../../sizef/) .
+تحول الـ [`Size`](../) المحدد إلى [`SizeF`](../../sizef/).
 
 ```csharp
 public static implicit operator SizeF(Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Size | ال[`Size`](../) لتحويل. |
+| size | Size | الـ [`Size`](../) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`SizeF`](../../sizef/) الهيكل الذي يتحول إليه هذا المشغل.
+الهيكل [`SizeF`](../../sizef/) الذي يحول إليه هذا المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

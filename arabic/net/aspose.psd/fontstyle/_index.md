@@ -1,33 +1,34 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FontStyle تعداد. تحديد معلومات النمط المطبقة على النص .
+title: "تعداد FontStyle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FontStyle. يحدد معلومات النمط المطبقة على النص"
 type: docs
-weight: 4300
+weight: 4770
 url: /ar/net/aspose.psd/fontstyle/
 ---
+{{< psd/tize >}}
 ## FontStyle enumeration
 
-تحديد معلومات النمط المطبقة على النص .
+يحدد معلومات النمط المطبقة على النص.
 
 ```csharp
 [Flags]
 public enum FontStyle
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Regular | `0` | نص عادي . |
-| Bold | `1` | نص عريض. |
-| Italic | `2` | نص مائل . |
-| Underline | `4` | نص مسطر . |
-| Strikeout | `8` | نص يتوسطه خط . |
+| Regular | `0` | نص عادي. |
+| Bold | `1` | نص غامق. |
+| Italic | `2` | نص مائل. |
+| Underline | `4` | نص تحته خط. |
+| Strikeout | `8` | نص مع خط عبر الوسط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearThreshold
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. مسح القيمة الحدية للفئة الافتراضية.
+title: "ImageAttributes.ClearThreshold"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تمسح قيمة العتبة للفئة الافتراضية"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/imageattributes/clearthreshold/
 ---
+{{< psd/tize >}}
 ## ClearThreshold() {#clearthreshold}
 
-مسح القيمة الحدية للفئة الافتراضية.
+يمسح قيمة العتبة للفئة الافتراضية.
 
 ```csharp
 public void ClearThreshold()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearThreshold(ColorAdjustType) {#clearthreshold_1}
 
-مسح القيمة الحدية لفئة محددة.
+يمسح قيمة العتبة لفئة محددة.
 
 ```csharp
 public void ClearThreshold(ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) التي تحدد الفئة التي تم مسح العتبة لها. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم مسح العتبة لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

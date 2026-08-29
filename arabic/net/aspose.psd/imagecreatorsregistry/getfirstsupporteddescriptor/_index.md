@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageCreatorsRegistry طريقة. الحصول على القبضة التي تم العثور عليها واصفًا مدعومًا ومناسبًا للموصف المحدد.
+title: "ImageCreatorsRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageCreatorsRegistry. تحصل على أول وصف مدعوم تم العثور عليه مناسب للمحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.GetFirstSupportedDescriptor method
 
-الحصول على القبضة التي تم العثور عليها واصفًا مدعومًا ومناسبًا للموصف المحدد.
+يحصل على أول موصّف مدعوم تم العثور عليه مناسب للمحدد.
 
 ```csharp
 public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBase imageOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | خيارات الصورة. |
 
 ### قيمة الإرجاع
 
-واصف المنشئ الذي يدعم المحدد أو الفارغ إذا لم يتم العثور على هذا الواصف .
+وصف المنشئ الذي يدعم المحدد أو null إذا لم يُعثر على مثل هذا الوصف.
 
-### ملاحظات
+## ملاحظات
 
-سيكون أول واصف منشئ المحتوى هو آخر مرة تم تسجيلها.
+سيكون أول وصف للمنشئ هو في الواقع آخر ما تم تسجيله.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imagecreatorsregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

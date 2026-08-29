@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.PerspectiveOther
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تحديد قيمة المنظور الأخرى للطبقة الموضوعة في ملف PSD.
+title: "PlacedResource.PerspectiveOther"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط قيمة منظور أخرى للطبقة الموضوعة في ملف PSD"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PerspectiveOther property
 
-الحصول على أو تحديد قيمة المنظور الأخرى للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط قيمة المنظور الأخرى للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public double PerspectiveOther { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة الأخرى للمنظور للطبقة الموضوعة .
+القيمة الأخرى للمنظور للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PSD لمرجع .NET API
-description: BuildVersionInfo مجال. عنوان المنتج .
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل BuildVersionInfo. عنوان المنتج"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
-عنوان المنتج .
+عنوان المنتج.
 
 ```csharp
 public static readonly string Product;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BuildVersionInfo](../)
-* مساحة الاسم [Aspose.PSD](../../buildversioninfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

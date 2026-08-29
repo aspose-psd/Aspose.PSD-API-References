@@ -1,20 +1,21 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. الحصول على خط الاستبدال الأنسب . إذا لم يتم السماح بجميع البدائل  فسيتم إرجاع الخط المسموح به والمتوفر أولاً.
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. تحصل على الخط البديل الأنسب. إذا لم يُسمح بجميع الاستبدالات فسيتم إرجاع أول خط مسموح ومتوفر. إذا لم تتوفر أي خطوط فسيتم إرجاع الخط الممرّر كمعامل."
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-الحصول على خط الاستبدال الأنسب . إذا لم يتم السماح بجميع البدائل ، فسيتم إرجاع الخط المسموح به والمتوفر أولاً.
+يحصل على الخط البديل الأنسب. إذا لم يُسمح بجميع الاستبدالات فسيتم إرجاع أول خط مسموح ومتوفر. إذا لم تكن هناك خطوط متوفرة فسيتم إرجاع الخط من الوسيط.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 
@@ -22,9 +23,9 @@ public static string GetReplacementFont(string fontName)
 
 اسم الخط المستبدل
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تقييد الخطوط برمجيًا باستخدام.
+الكود التالي يوضح القدرة على تقييد الخطوط برمجياً باستخدام.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LinearMulticolorGradientBrush.InterpolationColors
-second_title: Aspose.PSD لمرجع .NET API
-description: LinearMulticolorGradientBrush ملكية. يحصل أو يحدد أColorBlend التي تحدد تدرج خطي متعدد الألوان.
+title: "LinearMulticolorGradientBrush.InterpolationColors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinearMulticolorGradientBrush. تحصل أو تعين كائن ColorBlend يحدد تدرجًا خطيًا متعدد الألوان"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.brushes/linearmulticolorgradientbrush/interpolationcolors/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush.InterpolationColors property
 
-يحصل أو يحدد أ[`ColorBlend`](../../../aspose.psd/colorblend/) التي تحدد تدرج خطي متعدد الألوان.
+تحصل أو تعين [`ColorBlend`](../../../aspose.psd/colorblend/) يحدد تدرجًا خطيًا متعدد الألوان.
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`ColorBlend`](../../../aspose.psd/colorblend/) التي تحدد تدرج خطي متعدد الألوان.
+[`ColorBlend`](../../../aspose.psd/colorblend/) يحدد تدرجًا خطيًا متعدد الألوان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [LinearMulticolorGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

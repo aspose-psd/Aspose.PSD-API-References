@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageOptionsBase ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان إطار كامل .
+title: "ImageOptionsBase.FullFrame"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageOptionsBase. تحصل أو تعيين قيمة تشير إلى ما إذا كان الإطار الكامل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [إطار كامل] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [الإطار الكامل].
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [إطار كامل] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [full frame]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../)
-* مساحة الاسم [Aspose.PSD](../../imageoptionsbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

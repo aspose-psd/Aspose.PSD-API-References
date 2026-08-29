@@ -1,28 +1,29 @@
 ---
-title: ArcShape.StartPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: ArcShape ملكية. يحصل على نقطة شكل البداية .
+title: "ArcShape.StartPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ArcShape. يحصل على نقطة بداية الشكل"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.shapes/arcshape/startpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.StartPoint property
 
-يحصل على نقطة شكل البداية .
+يحصل على نقطة بداية الشكل.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة شكل البداية.
+نقطة بداية الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../arcshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

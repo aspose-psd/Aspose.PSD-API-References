@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestLongitude
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين خط طول GPS لنقطة الوجهة.
+title: "ExifData.GPSDestLongitude"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط خط طول GPS لنقطة الوجهة"
 type: docs
 weight: 460
 url: /ar/net/aspose.psd.exif/exifdata/gpsdestlongitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLongitude property
 
-الحصول على أو تعيين خط طول GPS لنقطة الوجهة.
+الحصول أو تعيين خط طول GPS لنقطة الوجهة.
 
 ```csharp
 public TiffRational[] GPSDestLongitude { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-خط طول GPS لنقطة الوجهة .
+خط طول GPS لنقطة الوجهة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

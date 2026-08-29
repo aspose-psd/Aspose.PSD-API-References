@@ -1,28 +1,29 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: ShapeSegment ملكية. يحصل على نقطة النهاية .
+title: "ShapeSegment.EndPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ShapeSegment خاصية. يحصل على نقطة النهاية"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
-يحصل على نقطة النهاية .
+يحصل على نقطة النهاية.
 
 ```csharp
 public abstract PointF EndPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
 نقطة النهاية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* مساحة الاسم [Aspose.PSD](../../shapesegment/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

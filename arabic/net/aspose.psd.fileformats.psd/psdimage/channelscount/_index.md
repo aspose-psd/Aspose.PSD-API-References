@@ -1,27 +1,28 @@
 ---
-title: PsdImage.ChannelsCount
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على عدد قنوات PSD .
+title: "PsdImage.ChannelsCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل على عدد قنوات PSD"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdImage.ChannelsCount property
 
-الحصول على عدد قنوات PSD .
+يحصل على عدد قنوات PSD.
 
 ```csharp
 public int ChannelsCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تحسب قنوات PSD.
+عدد قنوات PSD.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

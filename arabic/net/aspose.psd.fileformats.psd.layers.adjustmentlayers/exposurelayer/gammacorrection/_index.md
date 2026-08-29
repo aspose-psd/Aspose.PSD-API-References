@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.GammaCorrection
-second_title: Aspose.PSD لمرجع .NET API
-description: ExposureLayer ملكية. الحصول على تصحيح جاما أو تعيينه. بالنسبة لنطاق PS من GammaCorrection من 9.99 إلى  0.01
+title: "ExposureLayer.GammaCorrection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExposureLayer. يحصل أو يضبط GammaCorrection. النطاق في PS للـ GammaCorrection هو من 9.99 إلى 0.01"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.GammaCorrection property
 
-الحصول على تصحيح جاما أو تعيينه. بالنسبة لنطاق PS من GammaCorrection من 9.99 إلى + 0.01
+الحصول أو تعيين تصحيح جاما. النطاق في PS لتصحيح جاما هو من 9.99 إلى +0.01
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تصحيح جاما .
+ال GammaCorrection.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExposureLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

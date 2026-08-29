@@ -1,29 +1,30 @@
 ---
-title: RasterImage.SetArgb32Pixel
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يضبط صورة ARGB بكسل 32 بت للوضع المحدد.
+title: "RasterImage.SetArgb32Pixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تعيين بكسل ARGB 32‑بت للصورة في الموضع المحدد"
 type: docs
-weight: 540
+weight: 560
 url: /ar/net/aspose.psd/rasterimage/setargb32pixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetArgb32Pixel method
 
-يضبط صورة ARGB بكسل 32 بت للوضع المحدد.
+يضبط بكسل صورة ARGB 32-بت للموقع المحدد.
 
 ```csharp
 public void SetArgb32Pixel(int x, int y, int argb32Color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | x | Int32 | موقع البكسل x. |
-| y | Int32 | موقع البكسل ص. |
-| argb32Color | Int32 | 32 بت ARGB بكسل للوضع المحدد. |
+| y | Int32 | موقع البكسل y. |
+| argb32Color | Int32 | بكسل ARGB 32‑بت للموضع المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

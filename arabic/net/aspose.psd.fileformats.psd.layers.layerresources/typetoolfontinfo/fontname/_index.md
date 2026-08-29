@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontName
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolFontInfo ملكية. الحصول على اسم الخط أو تحديده.
+title: "TypeToolFontInfo.FontName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolFontInfo. يحصل أو يضبط اسم الخط"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontName property
 
-الحصول على اسم الخط أو تحديده.
+يحصل أو يضبط اسم الخط.
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الخط .
+اسم الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

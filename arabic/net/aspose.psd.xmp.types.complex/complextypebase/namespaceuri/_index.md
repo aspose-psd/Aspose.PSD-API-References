@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: Aspose.PSD لمرجع .NET API
-description: ComplexTypeBase ملكية. يحصل على مساحة الاسم الافتراضية URI.
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ComplexTypeBase. يحصل على معرف URI للمساحة الاسمية الافتراضية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
-يحصل على مساحة الاسم الافتراضية URI.
+يحصل على URI مساحة الاسم الافتراضية.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف مساحة الاسم الافتراضي URI.
+معرف URI للمساحة الاسمية الافتراضية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

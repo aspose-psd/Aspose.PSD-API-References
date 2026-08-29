@@ -1,28 +1,29 @@
 ---
-title: DescriptorStructure.ClassID
-second_title: Aspose.PSD لمرجع .NET API
-description: DescriptorStructure ملكية. الحصول على معرف الفئة أو تعيينه .
+title: "DescriptorStructure.ClassID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DescriptorStructure. تحصل أو تعين معرف الفئة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classid/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.ClassID property
 
-الحصول على معرف الفئة أو تعيينه .
+يحصل أو يضبط معرف الفئة.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف الفئة .
+معرّف الفئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [DescriptorStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

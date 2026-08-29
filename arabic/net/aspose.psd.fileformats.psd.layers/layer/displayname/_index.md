@@ -1,31 +1,32 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد اسم عرض الطبقة.
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل على أو تعيين الاسم المعروض للطبقة"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
-الحصول على أو تحديد اسم عرض الطبقة.
+يحصل أو يعيّن الاسم المعروض للطبقة.
 
 ```csharp
 public string DisplayName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم عرض الطبقة .
+الاسم المعروض للطبقة.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي القدرة على تعيين قيمة DisplayName ، في ما يعرضه اسم الطبقة بشكل صحيح.
+المثال التالي يوضح القدرة على تعيين قيمة DisplayName، بحيث يتم عرض اسم الطبقة بشكل صحيح.
 
 ```csharp
 [C#]
 
-// إجراء تغييرات في أسماء الطبقات وحفظها
+// قم بإجراء تغييرات على أسماء الطبقات واحفظها.
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -42,10 +43,10 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

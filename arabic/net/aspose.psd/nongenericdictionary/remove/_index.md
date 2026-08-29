@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary طريقة. يزيل العنصر بالمفتاح المحدد من IDictionary الكائن .
+title: "NonGenericDictionary.Remove"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericDictionary. تزيل العنصر بالمفتاح المحدد من كائن IDictionary"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/nongenericdictionary/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Remove method
 
-يزيل العنصر بالمفتاح المحدد من IDictionary الكائن .
+يزيل العنصر بالمفتاح المحدد من كائن IDictionary.
 
 ```csharp
 public void Remove(object key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | Object | مفتاح العنصر المراد إزالته. |
+| المفتاح | Object | المفتاح الخاص بالعنصر الذي سيتم إزالته. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

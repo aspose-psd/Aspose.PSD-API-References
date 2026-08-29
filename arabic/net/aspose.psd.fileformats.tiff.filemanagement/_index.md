@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.FileManagement
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات معالجة دفق تنسيق ملف Tiff.
+title: "Aspose.PSD.FileFormats.Tiff.FileManagement"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الأسماء على فئات معالجة تدفق تنسيق ملف Tiff."
 type: docs
-weight: 390
+weight: 430
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/
 ---
-تحتوي مساحة الاسم على فئات معالجة دفق تنسيق ملف Tiff.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على فئات معالجة تدفق تنسيق ملف TIFF.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [TiffStreamReader](./tiffstreamreader/) | تيار tiff لمعالجة تنسيق ملف tiff الصغير. |
-| [TiffStreamWriter](./tiffstreamwriter/) | كاتب تيار Tiff . |
+| [TiffStreamReader](./tiffstreamreader/) | تدفق tiff لمعالجة تنسيق ملف tiff little endian. |
+| [TiffStreamWriter](./tiffstreamwriter/) | كاتب تدفق Tiff. |
 
 

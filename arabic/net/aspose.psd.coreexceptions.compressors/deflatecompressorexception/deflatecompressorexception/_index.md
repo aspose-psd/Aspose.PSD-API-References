@@ -1,48 +1,49 @@
 ---
-title: DeflateCompressorException.DeflateCompressorException
-second_title: Aspose.PSD لمرجع .NET API
-description: DeflateCompressorException البناء. يقوم بتهيئة مثيل جديد لملفDeflateCompressorException فئة .
+title: "DeflateCompressorException.DeflateCompressorException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ DeflateCompressorException. يهيئ مثيلاً جديدًا من الفئة DeflateCompressorException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`DeflateCompressorException`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DeflateCompressorException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DeflateCompressorException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`DeflateCompressorException`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DeflateCompressorException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

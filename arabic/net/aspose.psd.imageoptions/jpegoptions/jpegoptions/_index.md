@@ -1,43 +1,44 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions البناء. يقوم بتهيئة مثيل جديد لملفJpegOptions فئة .
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ JpegOptions. يهيئ نسخة جديدة من فئة JpegOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegOptions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| jpegOptions | JpegOptions | خيارات JPEG . |
+| jpegOptions | JpegOptions | خيارات JPEG. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

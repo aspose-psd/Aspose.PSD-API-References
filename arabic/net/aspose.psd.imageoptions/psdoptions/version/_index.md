@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdOptions ملكية. الحصول على أو تعيين إصدار ملف psd.
+title: "PsdOptions.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdOptions. يحصل أو يضبط نسخة ملف psd"
 type: docs
-weight: 100
+weight: 120
 url: /ar/net/aspose.psd.imageoptions/psdoptions/version/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Version property
 
-الحصول على أو تعيين إصدار ملف psd.
+يحصل أو يضبط إصدار ملف PSD.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار ملف psd.
+نسخة ملف psd.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../psdoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

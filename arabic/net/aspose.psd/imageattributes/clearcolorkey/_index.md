@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearColorKey
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يمسح مفتاح اللون نطاق الشفافية للفئة الافتراضية.
+title: "ImageAttributes.ClearColorKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تمسح نطاق شفافية مفتاح اللون للفئة الافتراضية"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/imageattributes/clearcolorkey/
 ---
+{{< psd/tize >}}
 ## ClearColorKey() {#clearcolorkey}
 
 يمسح مفتاح اللون (نطاق الشفافية) للفئة الافتراضية.
@@ -14,11 +15,11 @@ url: /ar/net/aspose.psd/imageattributes/clearcolorkey/
 public void ClearColorKey()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ public void ClearColorKey()
 public void ClearColorKey(ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي تم مسح مفتاح اللون لها. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم مسح مفتاح اللون لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

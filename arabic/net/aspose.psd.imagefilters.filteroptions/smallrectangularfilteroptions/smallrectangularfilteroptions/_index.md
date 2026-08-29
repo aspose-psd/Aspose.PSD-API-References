@@ -1,23 +1,24 @@
 ---
-title: SmallRectangularFilterOptions.SmallRectangularFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: SmallRectangularFilterOptions البناء. Default_Constructor
+title: "SmallRectangularFilterOptions.SmallRectangularFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "SmallRectangularFilterOptions مُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public SmallRectangularFilterOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmallRectangularFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../smallrectangularfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

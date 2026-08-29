@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Subtraction
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF طريقة. طرح عرض وارتفاع واحدSizeF هيكل من عرض وارتفاع آخرSizeFهيكل .
+title: "SizeF.op_Subtraction"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SizeF. تطرح عرض وارتفاع هيكل SizeF من عرض وارتفاع هيكل SizeF آخر."
 type: docs
 weight: 170
 url: /ar/net/aspose.psd/sizef/op_subtraction/
 ---
+{{< psd/tize >}}
 ## SizeF Subtraction operator
 
-طرح عرض وارتفاع واحد[`SizeF`](../) هيكل من عرض وارتفاع آخر[`SizeF`](../)هيكل .
+تطرح عرض وارتفاع هيكل [`SizeF`](../) من عرض وارتفاع هيكل [`SizeF`](../) آخر.
 
 ```csharp
 public static SizeF operator -(SizeF size1, SizeF size2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size1 | SizeF | ال[`SizeF`](../) على الجانب الأيسر من عملية الطرح. |
-| size2 | SizeF | ال[`SizeF`](../) على الجانب الأيمن من عملية الطرح. |
+| size1 | SizeF | الـ [`SizeF`](../) على الجانب الأيسر من عامل الطرح. |
+| size2 | SizeF | الـ [`SizeF`](../) على الجانب الأيمن من عامل الطرح. |
 
 ### قيمة الإرجاع
 
-أ[`SizeF`](../) هذا هو نتيجة عملية الطرح.
+الـ [`SizeF`](../) هو نتيجة عملية الطرح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

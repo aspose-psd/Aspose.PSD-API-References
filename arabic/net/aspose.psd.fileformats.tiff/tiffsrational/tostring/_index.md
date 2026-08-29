@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffSRational طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "TiffSRational.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffSRational. يعيد String يمثل هذه المثيلة"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.tiff/tiffsrational/tostring/
 ---
+{{< psd/tize >}}
 ## TiffSRational.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+إرجاع String تمثل هذا المثيل.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذا الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

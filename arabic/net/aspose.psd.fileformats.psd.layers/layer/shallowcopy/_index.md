@@ -1,14 +1,15 @@
 ---
-title: Layer.ShallowCopy
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer طريقة. لإنشاء نسخة سطحية من الطبقة الحالية. من فضلكhttps//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx للشرح .
+title: "Layer.ShallowCopy"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Layer. تنشئ نسخة سطحية من Layer الحالي. يرجى زيارة https//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx للتوضيح"
 type: docs
-weight: 380
+weight: 400
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/shallowcopy/
 ---
+{{< psd/tize >}}
 ## Layer.ShallowCopy method
 
-لإنشاء نسخة سطحية من الطبقة الحالية. من فضلك[https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) للشرح .
+ينشئ نسخة سطحية من الطبقة الحالية. يرجى زيارة [https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) للحصول على شرح.
 
 ```csharp
 public Layer ShallowCopy()
@@ -16,12 +17,12 @@ public Layer ShallowCopy()
 
 ### قيمة الإرجاع
 
-نسخة ضحلة من الطبقة الحالية.
+نسخة سطحية من Layer الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

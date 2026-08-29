@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.ReadOnlyMode
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdLoadOptions ملكية. الحصول على أو تحديد قيمة تشير إلى استخدام وضع القراءة فقط. هذا وضع للقراءة فقط  مدعوم للتوافق المماثل مع Adobe Photoshop . عند تعيين هذا الخيار  لن يتم حفظ جميع التغييرات المطبقة على الطبقات في الصورة النهائية. يتم استخدام جميع البيانات من قسم ImageData  لذا فهي مطابقة لبرنامج Photoshop. افتراضيًا  لا تكون جميع الصور المحملة متطابقة مع Adobe Photoshop المتوافقة.
+title: "PsdLoadOptions.ReadOnlyMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdLoadOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يتم استخدام وضع القراءة فقط. هذا هو وضع القراءة فقط المدعوم لتوافق مماثل مع Adobe Photoshop. عندما يتم تعيين هذا الخيار، لن يتم حفظ جميع التغييرات المطبقة على الطبقات في الصورة النهائية. جميع البيانات تُستخدم من قسم ImageData لذا فهي مطابقة لبرنامج Photoshop. بشكل افتراضي، جميع الصور المحملة ليست متوافقة تمامًا مع Adobe Photoshop."
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.ReadOnlyMode property
 
-الحصول على أو تحديد قيمة تشير إلى [استخدام وضع القراءة فقط]. هذا وضع للقراءة فقط ، مدعوم للتوافق المماثل مع Adobe Photoshop . عند تعيين هذا الخيار ، لن يتم حفظ جميع التغييرات المطبقة على الطبقات في الصورة النهائية. يتم استخدام جميع البيانات من قسم ImageData ، لذا فهي مطابقة لبرنامج Photoshop. افتراضيًا ، لا تكون جميع الصور المحملة متطابقة مع Adobe Photoshop المتوافقة.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [استخدام وضع القراءة فقط]. هذا هو وضع القراءة فقط، مدعوم لتوافق تام مع Adobe Photoshop. عندما يتم تعيين هذا الخيار، لن يتم حفظ جميع التغييرات التي تم تطبيقها على الطبقات في الصورة النهائية. يتم استخدام جميع البيانات من قسم ImageData، لذا فهو مطابق لـ Photoshop. بشكل افتراضي، جميع الصور المحملة ليست متوافقة تماماً مع Adobe Photoshop.
 
 ```csharp
 public bool ReadOnlyMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [استخدم وضع توافق Photoshop] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [استخدام وضع توافق Photoshop]; وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdLoadOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

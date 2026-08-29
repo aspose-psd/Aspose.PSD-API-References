@@ -1,23 +1,24 @@
 ---
-title: LoadOptions.LoadOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: LoadOptions البناء. Default_Constructor
+title: "LoadOptions.LoadOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LoadOptions. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/loadoptions/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public LoadOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LoadOptions](../)
-* مساحة الاسم [Aspose.PSD](../../loadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

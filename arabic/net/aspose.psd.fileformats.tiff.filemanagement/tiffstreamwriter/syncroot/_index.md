@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.SyncRoot
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter ملكية. الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
+title: "TiffStreamWriter.SyncRoot"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffStreamWriter. تحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.SyncRoot property
 
-الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
+يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الكائن الذي يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

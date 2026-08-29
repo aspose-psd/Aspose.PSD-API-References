@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. يحصل أو يحدد ملفBrush التي تحدد سمات هذاPen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين الـ Brush الذي يحدد خصائص هذا Pen."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-يحصل أو يحدد ملف`Brush` التي تحدد سمات هذا[`Pen`](../) .
+تحصل أو تعيين الـ `Brush` الذي يحدد خصائص هذا [`Pen`](../).
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ`Brush` التي تحدد سمات هذا[`Pen`](../).
+`Brush` الذي يحدد خصائص هذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`Brush` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `Brush` تُحدد على كائن [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

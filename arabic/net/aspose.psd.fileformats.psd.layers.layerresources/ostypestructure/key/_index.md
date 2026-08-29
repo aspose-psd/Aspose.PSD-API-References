@@ -1,23 +1,24 @@
 ---
-title: OSTypeStructure.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructure ملكية. يحصل على مفتاح الهيكل .
+title: "OSTypeStructure.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OSTypeStructure. تحصل على مفتاح البنية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Key property
 
-يحصل على مفتاح الهيكل .
+يحصل على مفتاح البنية.
 
 ```csharp
 public abstract int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

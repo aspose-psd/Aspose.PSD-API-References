@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.FontVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على إصدار الخط أو تحديده.
+title: "TypeToolInfoResource.FontVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. تحصل أو تعين إصدار الخط"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontVersion property
 
-الحصول على إصدار الخط أو تحديده.
+يحصل أو يضبط إصدار الخط.
 
 ```csharp
 public short FontVersion { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 إصدار الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructuresRegistry طريقة. يحصل على أول واصف مدعوم حسب نوعه.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة OSTypeStructuresRegistry. يحصل على أول موصّف مدعوم حسب اسم النوع"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
-يحصل على أول واصف مدعوم حسب نوعه.
+يحصل على أول مُوَصِّف مدعوم حسب اسم النوع الخاص به.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
     string descriptorTypeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| descriptorTypeName | String | اسم نوع الواصف. |
+| descriptorTypeName | String | اسم نوع الوصف. |
 
 ### قيمة الإرجاع
 
-تم العثور على أول واصف افتتاحية أو لاغٍ إذا لم يتم العثور على هذا الواصف.
+الوصف المفتاح الأول الذي تم العثور عليه أو null إذا لم يُعثر على مثل هذا الوصف.
 
-### ملاحظات
+## ملاحظات
 
-سيكون أول واصف افتتاحية هو آخر تسجيل تم تسجيله.
+الوصف المفتاح الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PattResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "PattResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PattResource. تحصل على طول مورد الطبقة بالبايتات"
 type: docs
-weight: 30
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/
 ---
+{{< psd/tize >}}
 ## PattResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ClipboardRecord.Resolution
-second_title: Aspose.PSD لمرجع .NET API
-description: ClipboardRecord ملكية. الحصول على الدقة أو تعيينها .
+title: "ClipboardRecord.Resolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ClipboardRecord. تحصل أو تعين الدقة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Resolution property
 
-الحصول على الدقة أو تعيينها .
+يحصل أو يضبط الدقة.
 
 ```csharp
 public float Resolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القرار .
+الدقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClipboardRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

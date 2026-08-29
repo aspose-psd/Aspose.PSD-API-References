@@ -1,27 +1,28 @@
 ---
-title: VectorImage.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorImage ملكية. الحصول على عرض الصورة .
+title: "VectorImage.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorImage. يحصل على عرض الصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/vectorimage/width/
 ---
+{{< psd/tize >}}
 ## VectorImage.Width property
 
-الحصول على عرض الصورة .
+يحصل على عرض الصورة.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض الصورة .
+عرض الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorImage](../)
-* مساحة الاسم [Aspose.PSD](../../vectorimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

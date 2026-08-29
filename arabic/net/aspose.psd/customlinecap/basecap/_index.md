@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.BaseCap
-second_title: Aspose.PSD لمرجع .NET API
-description: CustomLineCap ملكية. يحصل أو يحدد ملفLineCap التعداد الذي على هذاCustomLineCap يستند .
+title: "CustomLineCap.BaseCap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CustomLineCap. يحصل أو يضبط تعداد LineCap الذي يستند إليه هذا CustomLineCap"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/customlinecap/basecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseCap property
 
-يحصل أو يحدد ملف[`LineCap`](../../linecap/) التعداد الذي على هذا[`CustomLineCap`](../) يستند .
+يحصل أو يضبط تعداد [`LineCap`](../../linecap/) الذي يستند إليه هذا [`CustomLineCap`](../).
 
 ```csharp
 public LineCap BaseCap { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ال[`LineCap`](../../linecap/) التعداد الذي على هذا[`CustomLineCap`](../) مبني على.
+تعداد [`LineCap`](../../linecap/) الذي يستند إليه هذا [`CustomLineCap`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* مساحة الاسم [Aspose.PSD](../../customlinecap/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

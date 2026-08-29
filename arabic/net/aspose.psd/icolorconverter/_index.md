@@ -1,28 +1,29 @@
 ---
-title: Interface IColorConverter
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IColorConverter واجهه المستخدم. محول اللون .
+title: "الواجهة IColorConverter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.IColorConverter. محول الألوان."
 type: docs
-weight: 4380
+weight: 4850
 url: /ar/net/aspose.psd/icolorconverter/
 ---
+{{< psd/tize >}}
 ## IColorConverter interface
 
-محول اللون .
+محول اللون.
 
 ```csharp
 public interface IColorConverter
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | تحويل البيانات التي تم تمريرها إلى تنسيق الإخراج. |
+| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | يحوِّل البيانات الممرَّرة إلى صيغة الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

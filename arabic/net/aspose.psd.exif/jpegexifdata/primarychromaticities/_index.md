@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.PrimaryChromaticities
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تعيين لونية الألوان الأساسية الثلاثة للصورة.
+title: "JpegExifData.PrimaryChromaticities"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين اللونية للألوان الثلاثة الأساسية في الصورة"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd.exif/jpegexifdata/primarychromaticities/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PrimaryChromaticities property
 
-الحصول على أو تعيين لونية الألوان الأساسية الثلاثة للصورة.
+يحصل أو يضبط اللونية للألوان الثلاثة الأساسية في الصورة.
 
 ```csharp
 public TiffRational[] PrimaryChromaticities { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-لونية الألوان الأساسية الثلاثة للصورة.
+اللونية للألوان الثلاثة الأساسية في الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

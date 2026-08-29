@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.WidthDisplayUnit
-second_title: Aspose.PSD لمرجع .NET API
-description: ResolutionInfoResource ملكية. الحصول على أو تحديد وحدة عرض العرض.
+title: "ResolutionInfoResource.WidthDisplayUnit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResolutionInfoResource. تسترجع أو تعيين وحدة عرض العرض"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.WidthDisplayUnit property
 
-الحصول على أو تحديد وحدة عرض العرض.
+يحصل أو يضبط وحدة عرض العرض.
 
 ```csharp
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وحدة عرض العرض .
+وحدة عرض العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

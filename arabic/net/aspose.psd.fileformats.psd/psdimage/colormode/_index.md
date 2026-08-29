@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ColorMode
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على أو تحديد وضع الألوان.
+title: "PsdImage.ColorMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل أو تعين وضع اللون"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/colormode/
 ---
+{{< psd/tize >}}
 ## PsdImage.ColorMode property
 
-الحصول على أو تحديد وضع الألوان.
+يحصل أو يعيّن وضع اللون.
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع اللون .
+وضع اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorModes](../../colormodes/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

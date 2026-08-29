@@ -1,43 +1,44 @@
 ---
-title: Jpeg2000Options.Jpeg2000Options
-second_title: Aspose.PSD لمرجع .NET API
-description: Jpeg2000Options البناء. يقوم بتهيئة مثيل جديد لملفJpeg2000Options فئة .
+title: "Jpeg2000Options.Jpeg2000Options"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Jpeg2000Options. يهيئ نسخة جديدة من الفئة Jpeg2000Options"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/jpeg2000options/jpeg2000options/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Jpeg2000Options`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`Jpeg2000Options`](../).
 
 ```csharp
 public Jpeg2000Options()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Jpeg2000Options](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Jpeg2000Options(Jpeg2000Options) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Jpeg2000Options`](../) فئة .
+تهيئ نسخة جديدة من الفئة [`Jpeg2000Options`](../).
 
 ```csharp
 public Jpeg2000Options(Jpeg2000Options jpeg2000Options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| jpeg2000Options | Jpeg2000Options | خيارات تنسيق ملف Jpeg2000 لنسخ الإعدادات من. |
+| jpeg2000Options | Jpeg2000Options | خيارات تنسيق ملف Jpeg2000 لنسخ الإعدادات منها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Jpeg2000Options](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

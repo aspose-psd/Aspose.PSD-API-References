@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.ShapeIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: LengthRecord ملكية. الحصول على أو تحديد فهرس شكل المسار الحالي في الطبقة.
+title: "LengthRecord.ShapeIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LengthRecord. يحصل أو يعيّن فهرس الشكل الحالي للمسار في الطبقة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/
 ---
+{{< psd/tize >}}
 ## LengthRecord.ShapeIndex property
 
-الحصول على أو تحديد فهرس شكل المسار الحالي في الطبقة.
+يحصل أو يعيّن فهرس الشكل المساري الحالي في الطبقة.
 
 ```csharp
 public ushort ShapeIndex { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم خصائص LengthRecord الجديدة و PathOperations (العمليات المنطقية) و ShapeIndex و BezierKnotRecordsCount.
+يوضح مثال الشيفرة التالي دعم الخصائص الجديدة LengthRecord، وPathOperations (العمليات البوليانية)، وShapeIndex وBezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // هنا نغير الطريق إلى الجمع بين الأشكال.
+    // هنا نغير الطريقة التي نجمع بها الأشكال.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,10 +50,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LengthRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FillLayerResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: FillLayerResource ملكية. يحصل على التوقيع.
+title: "FillLayerResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "FillLayerResource خاصية. يحصل على التوقيع"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/signature/
 ---
+{{< psd/tize >}}
 ## FillLayerResource.Signature property
 
 يحصل على التوقيع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FillLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filllayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

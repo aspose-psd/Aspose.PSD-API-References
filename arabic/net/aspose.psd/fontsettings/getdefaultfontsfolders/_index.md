@@ -1,11 +1,12 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. يحصل على مجلدات الخطوط الافتراضية.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. يحصل على مجلدات الخطوط الافتراضية"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
 يحصل على مجلدات الخطوط الافتراضية.
@@ -16,12 +17,12 @@ public static string[] GetDefaultFontsFolders()
 
 ### قيمة الإرجاع
 
-إرجاع مجلد النظام
+يرجع مجلد النظام
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RdOptimizerSettings.Create
-second_title: Aspose.PSD لمرجع .NET API
-description: RdOptimizerSettings طريقة. لإنشاء هذا المثيل .
+title: "RdOptimizerSettings.Create"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RdOptimizerSettings. تنشئ هذا المثيل"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imageoptions/rdoptimizersettings/create/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.Create method
 
-لإنشاء هذا المثيل .
+ينشئ هذا الكائن.
 
 ```csharp
 public static RdOptimizerSettings Create()
@@ -16,12 +17,12 @@ public static RdOptimizerSettings Create()
 
 ### قيمة الإرجاع
 
-إرجاع مثيل فئة RDOptimizerSettings
+يعيد مثيل فئة RDOptimizerSettings
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RdOptimizerSettings](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

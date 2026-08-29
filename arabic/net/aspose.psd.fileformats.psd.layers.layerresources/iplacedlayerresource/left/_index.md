@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Left
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. الحصول على أو تحديد الموقع الأيسر للطبقة الموضوعة في ملف PSD.
+title: "IPlacedLayerResource.Left"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل أو يضبط موقع اليسار للطبقة الموضوعة في ملف PSD"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Left property
 
-الحصول على أو تحديد الموقع الأيسر للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط موقع اليسار للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع الأيسر للطبقة الموضوعة .
+الموقع الأيسر للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

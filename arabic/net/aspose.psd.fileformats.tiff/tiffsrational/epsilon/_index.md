@@ -1,23 +1,24 @@
 ---
-title: TiffSRational.Epsilon
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffSRational مجال. الإبسيلون لحساب الكسر
+title: "TiffSRational.Epsilon"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل TiffSRational. إبسيلون لحساب الكسر"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.tiff/tiffsrational/epsilon/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Epsilon field
 
-الإبسيلون لحساب الكسر
+الإبسيلون لحساب الكسر.
 
 ```csharp
 public const double Epsilon;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

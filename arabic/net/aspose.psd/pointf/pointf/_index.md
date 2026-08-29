@@ -1,28 +1,29 @@
 ---
-title: PointF.PointF
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF البناء. يقوم بتهيئة مثيل جديد لملفPointF هيكل مع الإحداثيات المحددة.
+title: "PointF.PointF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PointF. يهيئ نسخة جديدة من بنية PointF بالإحداثيات المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-يقوم بتهيئة مثيل جديد لملف[`PointF`](../) هيكل مع الإحداثيات المحددة.
+يهيئ نسخة جديدة من بنية [`PointF`](../) بالإحداثيات المحددة.
 
 ```csharp
 public PointF(float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | الوضع الأفقي للنقطة. |
-| y | Single | الوضع الرأسي للنقطة. |
+| x | Single | الموضع الأفقي للنقطة. |
+| y | Single | الموضع الرأسي للنقطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Lr16Resource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: Lr16Resource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "Lr16Resource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Lr16Resource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Lr16Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

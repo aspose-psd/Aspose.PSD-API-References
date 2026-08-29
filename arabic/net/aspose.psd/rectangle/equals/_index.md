@@ -1,31 +1,32 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. اختبارات سواءobj هوRectangleهيكل مع نفس الموقع والحجم من هذاRectangleهيكل .
+title: "Rectangle.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تختبر ما إذا كان obj هو هيكل Rectangle له نفس الموقع والحجم لهذا الهيكل Rectangle."
 type: docs
 weight: 230
 url: /ar/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-اختبارات سواء*obj* هو[`Rectangle`](../)هيكل مع نفس الموقع والحجم من هذا[`Rectangle`](../)هيكل .
+تختبر ما إذا كان *obj* هو هيكل [`Rectangle`](../) له نفس الموقع والحجم لهذا الهيكل [`Rectangle`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject لاختبار. |
+| obj | Object | الكائن للاختبار. |
 
 ### قيمة الإرجاع
 
-هذا الأسلوب يعود صحيحا إذا*obj* هو[`Rectangle`](../) هيكل و[`X`](../x/) و[`Y`](../y/) و[`Width`](../width/) ، و[`Height`](../height/) الخصائص تساوي الخصائص المقابلة لهذا[`Rectangle`](../) بناء؛ خلاف ذلك ، خطأ.
+تعيد هذه الطريقة القيمة true إذا كان *obj* هو هيكل [`Rectangle`](../) وكانت خصائصه [`X`](../x/)، [`Y`](../y/)، [`Width`](../width/)، و[`Height`](../height/) مساوية للخصائص المقابلة لهذا الهيكل [`Rectangle`](../)؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تحميل 64 بت ARGB بكسل .
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تقوم بتحميل بكسلات ARGB 64 بت"
 type: docs
 weight: 360
 url: /ar/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
-تحميل 64 بت ARGB بكسل .
+يقوم بتحميل بكسلات ARGB 64‑بت.
 
 ```csharp
 public long[] LoadArgb64Pixels(Rectangle rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل المراد تحميل البكسل منه. |
+| مستطيل | Rectangle | المستطيل الذي يتم تحميل البكسلات منه. |
 
 ### قيمة الإرجاع
 
-مصفوفة بكسل ARGB 64 بت المحملة .
+مصفوفة بكسلات ARGB 64‑بت التي تم تحميلها.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

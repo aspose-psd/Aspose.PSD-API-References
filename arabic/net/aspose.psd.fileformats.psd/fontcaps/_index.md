@@ -1,30 +1,31 @@
 ---
-title: Enum FontCaps
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.FontCaps تعداد. هذا هو خط الأساس .
+title: "التعداد FontCaps"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.FontCaps enum. هذا هو خط الأساس للخط"
 type: docs
-weight: 1640
+weight: 1680
 url: /ar/net/aspose.psd.fileformats.psd/fontcaps/
 ---
+{{< psd/tize >}}
 ## FontCaps enumeration
 
-هذا هو خط الأساس .
+هذا هو خط الأساس للخط.
 
 ```csharp
 public enum FontCaps
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا توجد قيمة للحد الأقصى للخط . |
-| SmallCaps | `1` | القبعات الصغيرة . |
-| AllCaps | `2` | كل القبعات . |
+| None | `0` | لا قيمة لرؤوس الخط. |
+| SmallCaps | `1` | الحروف الصغيرة. |
+| AllCaps | `2` | كل الحروف الكبيرة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

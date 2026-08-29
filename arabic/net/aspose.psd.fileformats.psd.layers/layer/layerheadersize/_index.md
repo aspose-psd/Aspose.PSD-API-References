@@ -1,23 +1,24 @@
 ---
-title: Layer.LayerHeaderSize
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer مجال. حجم رأس الطبقة .
+title: "Layer.LayerHeaderSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Layer. حجم رأس الطبقة"
 type: docs
-weight: 400
+weight: 420
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
+{{< psd/tize >}}
 ## Layer.LayerHeaderSize field
 
-حجم رأس الطبقة .
+حجم رأس الطبقة.
 
 ```csharp
 public const int LayerHeaderSize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

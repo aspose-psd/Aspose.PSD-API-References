@@ -1,14 +1,15 @@
 ---
-title: Color.GetBrightness
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. الحصول على قيمة سطوع huesaturationbrightness HSB لهذا الغرضColorهيكل .
+title: "Color.GetBrightness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. تحصل على قيمة السطوع HSB (huesaturationbrightness) لهذا هيكل Color."
 type: docs
 weight: 1550
 url: /ar/net/aspose.psd/color/getbrightness/
 ---
+{{< psd/tize >}}
 ## Color.GetBrightness method
 
-الحصول على قيمة سطوع hue-saturation-brightness (HSB) لهذا الغرض[`Color`](../)هيكل .
+تحصل على قيمة السطوع (hue-saturation-brightness) (HSB) لهذا الهيكل [`Color`](../).
 
 ```csharp
 public float GetBrightness()
@@ -16,12 +17,12 @@ public float GetBrightness()
 
 ### قيمة الإرجاع
 
-سطوع هذا[`Color`](../). يتراوح السطوع من 0.0 إلى 1.0 ، حيث يمثل 0.0 اللون الأسود ويمثل 1.0 اللون الأبيض.
+سطوع هذا [`Color`](../). يتراوح السطوع من 0.0 إلى 1.0، حيث يمثل 0.0 اللون الأسود و1.0 اللون الأبيض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

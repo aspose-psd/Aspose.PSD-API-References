@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على أو تحديد عرض الصورة المصغرة بالبكسل.
+title: "ThumbnailResource.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. تحصل أو تعين عرض الصورة المصغرة بالبكسل"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/width/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Width property
 
-الحصول على أو تحديد عرض الصورة المصغرة بالبكسل.
+يحصل أو يضبط عرض الصورة المصغرة بالبكسل.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 عرض الصورة المصغرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

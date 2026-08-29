@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.WriterName
-second_title: Aspose.PSD لمرجع .NET API
-description: VersionInfoResource ملكية. الحصول على أو تحديد اسم الكاتب.
+title: "VersionInfoResource.WriterName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VersionInfoResource. يحصل أو يضبط اسم الكاتب"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.resources/versioninforesource/writername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.WriterName property
 
-الحصول على أو تحديد اسم الكاتب.
+يحصل أو يعيّن اسم الكاتب.
 
 ```csharp
 public string WriterName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الكاتب .
+اسم الكاتب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VersionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

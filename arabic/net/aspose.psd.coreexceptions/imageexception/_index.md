@@ -1,29 +1,30 @@
 ---
-title: Class ImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageException فصل. استثناء الصورة .
+title: "الفئة ImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.ImageException. استثناء الصورة."
 type: docs
 weight: 500
 url: /ar/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
-استثناء الصورة .
+استثناء الصورة.
 
 ```csharp
 public class ImageException : Exception
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`ImageException` فئة . |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`ImageException` فئة . |
+| [ImageException](imageexception/#constructor)(string) | ينشئ مثالا جديدا من الفئة `ImageException`. |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | ينشئ مثالا جديدا من الفئة `ImageException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

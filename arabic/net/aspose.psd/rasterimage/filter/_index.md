@@ -1,30 +1,31 @@
 ---
-title: RasterImage.Filter
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يقوم بتصفية المستطيل المحدد .
+title: "RasterImage.Filter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تصفي المستطيل المحدد"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd/rasterimage/filter/
 ---
+{{< psd/tize >}}
 ## RasterImage.Filter method
 
-يقوم بتصفية المستطيل المحدد .
+يفلتر المستطيل المحدد.
 
 ```csharp
 public virtual void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل. |
-| options | FilterOptionsBase | الخيارات. |
+| مستطيل | Rectangle | المستطيل. |
+| خيارات | FilterOptionsBase | الخيارات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

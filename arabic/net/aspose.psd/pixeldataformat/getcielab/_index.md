@@ -1,33 +1,34 @@
 ---
-title: PixelDataFormat.GetCieLab
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون CIE Lab بعدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetCieLab"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PixelDataFormat طريقة. يحصل على لون CIE Lab بعدد محدد من البتات لكل عينة"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/pixeldataformat/getcielab/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCieLab method
 
-الحصول على لون CIE Lab بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون CIE Lab بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetCieLab(int bitsPerL, int bitsPerA, int bitsPerB)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerL | Int32 | عدد البتات لكل قناة L. |
-| bitsPerA | Int32 | عدد البتات لكل قناة. |
+| bitsPerA | Int32 | عدد البتات لكل قناة A. |
 | bitsPerB | Int32 | عدد البتات لكل قناة B. |
 
 ### قيمة الإرجاع
 
-لون مختبر CIE.
+لون CIE Lab.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

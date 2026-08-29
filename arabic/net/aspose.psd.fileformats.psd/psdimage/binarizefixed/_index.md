@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. ثنائية الصورة مع عتبة محددة مسبقًا
+title: "PsdImage.BinarizeFixed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تحويل الصورة إلى ثنائية باستخدام عتبة محددة مسبقًا"
 type: docs
-weight: 480
+weight: 540
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
-ثنائية الصورة مع عتبة محددة مسبقًا
+تحويل الصورة إلى ثنائية باستخدام عتبة معرفة مسبقًا
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| threshold | Byte | قيمة العتبة. إذا كانت القيمة الرمادية المقابلة للبكسل أكبر من العتبة ، فسيتم تعيين قيمة لها 255 ، وإلا فسيتم تعيينها إلى 0. |
+| العتبة | بايت | قيمة العتبة. إذا كانت القيمة الرمادية المقابلة للبكسل أكبر من العتبة، سيتم تعيين القيمة 255 له، وإلا 0. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed8Bpp
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على ملفPixelDataFormat معرّفة لـ 8 بت لكل لون . تم تصميم تخزين بيانات البكسل المفهرس للسماح بتخزين البيانات واسترجاعها في كل مكان يتم استخدام لوحة الألوان. .
+title: "PixelDataFormat.RgbIndexed8Bpp"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. يحصل على PixelDataFormat المعرفة بـ 8 بت لكل لون مفهرس. تم تصميم تخزين بيانات البكسل المفهرسة للسماح بتخزين البيانات واسترجاعها في كل مكان تُستخدم فيه لوحة الألوان. استخدمها بحذر لأن ذلك قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج ألوان مفهرس."
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/pixeldataformat/rgbindexed8bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed8Bpp property
 
-يحصل على ملف[`PixelDataFormat`](../) معرّفة لـ 8 بت لكل لون . تم تصميم تخزين بيانات البكسل المفهرس للسماح بتخزين البيانات واسترجاعها في كل مكان يتم استخدام لوحة الألوان. .
+يحصل على [`PixelDataFormat`](../) المعرفة بـ 8 بت لكل لون مفهرس. تم تصميم تخزين بيانات البكسل المفهرسة للسماح بتخزين البيانات واسترجاعها في كل مكان تُستخدم فيه لوحة الألوان. استخدمها بحذر، لأن ذلك قد يتطلب تحويلًا من لوحة ألوان إلى أخرى أو من RGBA إلى نموذج ألوان مفهرس.
 
 ```csharp
 public static PixelDataFormat RgbIndexed8Bpp { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../) محددة لمفهرسة 8 بت لكل لون.
+الـ [`PixelDataFormat`](../) المعرفة بـ 8 بت لكل لون مفهرس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

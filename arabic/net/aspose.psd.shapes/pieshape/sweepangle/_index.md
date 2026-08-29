@@ -1,27 +1,28 @@
 ---
-title: PieShape.SweepAngle
-second_title: Aspose.PSD لمرجع .NET API
-description: PieShape ملكية. الحصول على زاوية المسح أو تحديدها.
+title: "PieShape.SweepAngle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PieShape. يحصل على أو يضبط زاوية المسح"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
-الحصول على زاوية المسح أو تحديدها.
+يحصل أو يضبط زاوية القوس.
 
 ```csharp
 public float SweepAngle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-زاوية الاجتياح.
+زاوية المسح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PieShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../pieshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

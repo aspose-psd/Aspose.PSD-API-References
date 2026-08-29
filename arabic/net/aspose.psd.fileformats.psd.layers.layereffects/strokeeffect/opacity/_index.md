@@ -1,27 +1,28 @@
 ---
-title: StrokeEffect.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: StrokeEffect ملكية. الحصول على التعتيم أو تعيينه .
+title: "StrokeEffect.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StrokeEffect. يحصل على أو يضبط الشفافية"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Opacity property
 
-الحصول على التعتيم أو تعيينه .
+يحصل أو يعيّن الشفافية.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التعتيم .
+الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StrokeEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry طريقة. يحصل على أول واصف مدعوم حسب نوعه.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageLoadersRegistry. تحصل على أول موصّف مدعوم باسم النوع"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-يحصل على أول واصف مدعوم حسب نوعه.
+يحصل على أول مُوَصِّف مدعوم حسب اسم النوع الخاص به.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
     string descriptorTypeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| descriptorTypeName | String | اسم نوع الواصف. |
+| descriptorTypeName | String | اسم نوع الوصف. |
 
 ### قيمة الإرجاع
 
-تم العثور على أول واصف محمل أو لاغٍ إذا لم يتم العثور على هذا الواصف.
+الوصف الأول للتحميل الموجود أو null إذا لم يتم العثور على مثل هذا الوصف.
 
-### ملاحظات
+## ملاحظات
 
-سيكون واصف المحمل الأول هو آخر واصف تم تسجيله.
+وصف التحميل الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

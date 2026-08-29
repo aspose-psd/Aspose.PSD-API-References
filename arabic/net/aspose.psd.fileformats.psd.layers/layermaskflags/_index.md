@@ -1,33 +1,35 @@
 ---
-title: Enum LayerMaskFlags
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskFlags تعداد. أعلام قناع الطبقة
+title: "تعداد LayerMaskFlags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.Layers.LayerMaskFlags. علامات قناع الطبقة"
 type: docs
-weight: 2270
+weight: 2470
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskFlags enumeration
 
-أعلام قناع الطبقة
+علامات قناع الطبقة
 
 ```csharp
 [Flags]
 public enum LayerMaskFlags : byte
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لم يتم تحديد إشارات . |
-| RelativeToLayer | `1` | الموضع متعلق بالطبقة . |
-| Disabled | `2` | تم تعطيل قناع الطبقة . |
-| InvertedWhenBlending | `4` | عكس قناع الطبقة عند المزج . |
-| UserMaskFromRenderingOtherData | `8` | يشير إلى أن قناع المستخدم قد أتى بالفعل من تقديم بيانات أخرى |
+| None | `0` | لم يتم تعريف أي علامات. |
+| RelativeToLayer | `1` | الموضع نسبي للطبقة. |
+| Disabled | `2` | قناع الطبقة معطل. |
+| InvertedWhenBlending | `4` | عكس قناع الطبقة عند الدمج. |
+| UserMaskFromRenderingOtherData | `8` | يشير إلى أن قناع المستخدم جاء فعليًا من عرض بيانات أخرى. |
+| UserOrVectorMasksHaveParameters | `10` | يشير إلى أن أقنعة المستخدم و/أو أقنعة المتجه لديها معلمات مطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

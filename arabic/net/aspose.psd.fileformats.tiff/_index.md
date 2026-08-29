@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff
-second_title: Aspose.PSD لمرجع .NET API
-description: تعالج مساحة الاسم معالجة تنسيق ملف Tiff.
+title: "Aspose.PSD.FileFormats.Tiff"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المجال الاسمي يتعامل مع معالجة تنسيق ملف Tiff"
 type: docs
-weight: 370
+weight: 410
 url: /ar/net/aspose.psd.fileformats.tiff/
 ---
-تعالج مساحة الاسم معالجة تنسيق ملف Tiff.
+{{< psd/tize >}}
+تتعامل مساحة الاسم مع معالجة تنسيق ملف TIFF.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [TiffDataType](./tiffdatatype/) | نوع بيانات tiff . |
-| [TiffExifIfd](./tiffexififd/) | فئة دليل ملف صور TIFF Exif . |
-| [TiffRational](./tiffrational/) | النوع العقلاني tiff . |
-| [TiffSRational](./tiffsrational/) | النوع العقلاني tiff . |
+| [TiffDataType](./tiffdatatype/) | نوع بيانات tiff. |
+| [TiffExifIfd](./tiffexififd/) | فئة دليل ملف صورة TIFF Exif. |
+| [TiffRational](./tiffrational/) | نوع tiff النسبي. |
+| [TiffSRational](./tiffsrational/) | نوع tiff النسبي. |
 
 

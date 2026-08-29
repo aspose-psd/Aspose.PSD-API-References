@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleX
-second_title: Aspose.PSD لمرجع .NET API
-description: GridAndGuidesResouce ملكية. الحصول على أو تعيين دورة الشبكة الأفقية. الافتراضي هو 576.
+title: "GridAndGuidesResouce.GridCycleX"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GridAndGuidesResouce. يحصل أو يضبط دورة الشبكة الأفقية. القيمة الافتراضية هي 576"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleX property
 
-الحصول على أو تعيين دورة الشبكة الأفقية. الافتراضي هو 576.
+يحصل أو يضبط دورة الشبكة الأفقية. القيمة الافتراضية هي 576.
 
 ```csharp
 public int GridCycleX { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 دورة الشبكة الأفقية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GridAndGuidesResouce](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

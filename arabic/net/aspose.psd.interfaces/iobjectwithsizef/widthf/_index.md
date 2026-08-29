@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.WidthF
-second_title: Aspose.PSD لمرجع .NET API
-description: IObjectWithSizeF ملكية. الحصول على عرض الكائن بالبوصة .
+title: "IObjectWithSizeF.WidthF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IObjectWithSizeF. تحصل على عرض الكائن بالبوصة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.interfaces/iobjectwithsizef/widthf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.WidthF property
 
-الحصول على عرض الكائن بالبوصة .
+يحصل على عرض الكائن، بالبوصة.
 
 ```csharp
 public float WidthF { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض الكائن بالبوصة .
+عرض الكائن، بالبوصة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IObjectWithSizeF](../)
-* مساحة الاسم [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

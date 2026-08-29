@@ -1,23 +1,24 @@
 ---
-title: ColorMap.ColorMap
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMap البناء. Default_Constructor
+title: "ColorMap.ColorMap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ColorMap constructor. البنية الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/colormap/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public ColorMap()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMap](../)
-* مساحة الاسم [Aspose.PSD](../../colormap/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

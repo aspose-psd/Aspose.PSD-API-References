@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Angle
-second_title: Aspose.PSD لمرجع .NET API
-description: MotionWienerFilterOptions ملكية. الحصول على الزاوية أو تعيينها في gradus .
+title: "MotionWienerFilterOptions.Angle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MotionWienerFilterOptions. تحصل أو تعين الزاوية بالدرجات"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Angle property
 
-الحصول على الزاوية أو تعيينها في gradus .
+يحصل أو يضبط الزاوية بالدرجات.
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الزاوية .
+الزاوية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MotionWienerFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

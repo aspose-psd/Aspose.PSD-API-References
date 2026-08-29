@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownResource ملكية. يحصل على الحد الأدنى من إصدار psd المطلوب.
+title: "UnknownResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnknownResource. يحصل على الحد الأدنى للإصدار المطلوب من psd"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## UnknownResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار psd المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نسخة مديرية الأمن العام الحد الأدنى.
+الإصدار الأدنى لـ psd.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnknownResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

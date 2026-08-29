@@ -1,52 +1,53 @@
 ---
-title: RectangleF.Intersect
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. إرجاع أRectangleF الهيكل الذي يمثل تقاطع مستطيلين. إذا لم يكن هناك تقاطع وخالٍRectangleF تم إرجاعه .
+title: "RectangleF.Intersect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تُرجع هيكل RectangleF يمثل تقاطع مستطيلين. إذا لم يكن هناك تقاطع، يتم إرجاع RectangleF فارغ."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/rectanglef/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF, RectangleF)
 
-إرجاع أ[`RectangleF`](../) الهيكل الذي يمثل تقاطع مستطيلين. إذا لم يكن هناك تقاطع وخالٍ[`RectangleF`](../) تم إرجاعه .
+تُرجع هيكل [`RectangleF`](../) يمثل تقاطع مستطيلين. إذا لم يكن هناك تقاطع، يتم إرجاع [`RectangleF`](../) فارغ.
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | RectangleF | مستطيل أول يتقاطع. |
-| b | RectangleF | مستطيل ثان للتقاطع. |
+| a | RectangleF | المستطيل الأول للتقاطع. |
+| b | RectangleF | المستطيل الثاني للتقاطع. |
 
 ### قيمة الإرجاع
 
-الثالث[`RectangleF`](../) هيكل يمثل حجمه المساحة المتداخلة للمستطيلين المحددين.
+هيكل [`RectangleF`](../) ثالث يمثل حجمه المنطقة المتداخلة للمستطيلين المحددين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(RectangleF)
 
-يستبدل هذا[`RectangleF`](../)هيكل مع تقاطع نفسه والمحددة[`RectangleF`](../)هيكل .
+يستبدل هذا الهيكل [`RectangleF`](../) بتقاطع نفسه مع الهيكل [`RectangleF`](../) المحدد.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | يتقاطع المستطيل. |
+| rect | RectangleF | المستطيل للتقاطع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

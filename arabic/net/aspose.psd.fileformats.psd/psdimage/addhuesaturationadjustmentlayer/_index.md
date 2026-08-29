@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddHueSaturationAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط الصبغة / التشبع.
+title: "PsdImage.AddHueSaturationAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يضيف طبقة تعديل الصبغة/التشبع"
 type: docs
-weight: 350
+weight: 370
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddHueSaturationAdjustmentLayer method
 
-يضيف طبقة ضبط الصبغة / التشبع.
+يضيف طبقة تعديل الصبغة/التشبع.
 
 ```csharp
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
@@ -16,13 +17,13 @@ public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 
 ### قيمة الإرجاع
 
-طبقة صبغة / تشبع تم إنشاؤها حديثًا.
+طبقة صبغة/تشبع تم إنشاؤها حديثًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

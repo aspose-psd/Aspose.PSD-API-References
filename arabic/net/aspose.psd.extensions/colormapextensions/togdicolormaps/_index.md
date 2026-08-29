@@ -1,32 +1,33 @@
 ---
-title: ColorMapExtensions.ToGdiColorMaps
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMapExtensions طريقة. يحول ملفColorMap مجموعة لColorMap مجموعة .
+title: "ColorMapExtensions.ToGdiColorMaps"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorMapExtensions. يحول مصفوفة ColorMap إلى مصفوفة ColorMap"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.extensions/colormapextensions/togdicolormaps/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMaps method
 
-يحول ملف[`ColorMap`](../../../aspose.psd/colormap/) مجموعة لColorMap مجموعة .
+يحول مصفوفة [`ColorMap`](../../../aspose.psd/colormap/) إلى مصفوفة ColorMap.
 
 ```csharp
 public static ColorMap[] ToGdiColorMaps(ColorMap[] colorMaps)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| colorMaps | ColorMap[] | الخرائط الملونة للتحويل. |
+| colorMaps | ColorMap[] | خرائط الألوان للتحويل. |
 
 ### قيمة الإرجاع
 
-المحولةColorMap مجموعة .
+مصفوفة ColorMap المحوّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../colormapextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

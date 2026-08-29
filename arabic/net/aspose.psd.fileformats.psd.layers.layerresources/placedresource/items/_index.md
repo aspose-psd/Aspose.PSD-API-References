@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Items
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تعيين عناصر الالتواء.
+title: "PlacedResource.Items"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط عناصر الالتواء."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Items property
 
-الحصول على أو تعيين عناصر الالتواء.
+يحصل أو يضبط عناصر الالتواء.
 
 ```csharp
 public virtual OSTypeStructure[] Items { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عناصر الالتواء .
+عناصر الالتواء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Dither
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاGdFlResource هو ثبات .
+title: "GdFlResource.Dither"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا GdFlResource هو Dither"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Dither property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`GdFlResource`](../) هو ثبات .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا [`GdFlResource`](../) هو Dither.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تردد خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يستخدم التمويه؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم تحميل مورد GdFlResource.
+المثال التالي يوضح دعم تحميل موارد GdFlResource.
 
 ```csharp
 [C#]
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // التحرير
+                    // تحرير
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

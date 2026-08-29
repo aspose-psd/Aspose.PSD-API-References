@@ -1,23 +1,24 @@
 ---
-title: MlstResource.DescriptorVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: MlstResource ملكية. الحصول على إصدار الوصف أو تعيينه .
+title: "MlstResource.DescriptorVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MlstResource. يحصل على أو يضبط إصدار الوصف"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## MlstResource.DescriptorVersion property
 
-الحصول على إصدار الوصف أو تعيينه .
+يحصل أو يضبط نسخة الوصف.
 
 ```csharp
 public int DescriptorVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MlstResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

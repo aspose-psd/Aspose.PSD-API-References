@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة PhotoFilter .
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يضيف طبقة PhotoFilter"
 type: docs
-weight: 400
+weight: 420
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
-يضيف طبقة PhotoFilter .
+يضيف طبقة مرشح الصورة.
 
 ```csharp
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | Color | اللون. |
+| لون | لون | اللون. |
 
 ### قيمة الإرجاع
 
 تم إنشاء طبقة PhotoFilter
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

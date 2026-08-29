@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataSettings ملكية. الحصول على الفهرس الاحتياطي أو تعيينه لاستخدامه عندما يكون فهرس اللوحة خارج الحدود
+title: "RawDataSettings.FallbackIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RawDataSettings. الحصول على أو تعيين فهرس الاحتياطي لاستخدامه عندما يكون فهرس لوحة الألوان خارج النطاق."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/rawdatasettings/fallbackindex/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.FallbackIndex property
 
-الحصول على الفهرس الاحتياطي أو تعيينه لاستخدامه عندما يكون فهرس اللوحة خارج الحدود
+يحصل أو يضبط فهرس الاحتياطي للاستخدام عندما يكون فهرس لوحة الألوان خارج النطاق
 
 ```csharp
 public int FallbackIndex { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الفهرس الاحتياطي الذي سيتم استخدامه عندما يكون فهرس اللوحة خارج الحدود
+فهرس الاحتياطي لاستخدامه عندما يكون فهرس لوحة الألوان خارج النطاق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RawDataSettings](../)
-* مساحة الاسم [Aspose.PSD](../../rawdatasettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

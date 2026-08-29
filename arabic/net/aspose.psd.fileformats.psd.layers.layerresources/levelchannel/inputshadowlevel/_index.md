@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputShadowLevel
-second_title: Aspose.PSD لمرجع .NET API
-description: LevelChannel ملكية. الحصول على أو تحديد مستوى ظل الإدخال.
+title: "LevelChannel.InputShadowLevel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LevelChannel. تحصل أو تعيّن مستوى الظل الإدخالي"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputShadowLevel property
 
-الحصول على أو تحديد مستوى ظل الإدخال.
+يحصل أو يضبط مستوى الظل للمدخل.
 
 ```csharp
 public short InputShadowLevel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مستوى ظل الإدخال .
+مستوى الظل الإدخالي.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يمكن ضبط مستوى ظل الإدخال فقط في النطاق من 0 إلى "+ (this.InputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | يمكن تعيين مستوى الظل الإدخالي فقط في النطاق من 0 إلى " + (this.InputHighlightLevel - 2) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LevelChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

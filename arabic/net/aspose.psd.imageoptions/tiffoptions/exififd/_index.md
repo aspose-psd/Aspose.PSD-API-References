@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على المؤشر أو تعيينه إلى EXIF IFD .
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين المؤشر إلى EXIF IFD"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-الحصول على المؤشر أو تعيينه إلى EXIF IFD .
+يحصل أو يضبط المؤشر إلى EXIF IFD.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### Property_Value
+### Property Value
 
 المؤشر إلى EXIF IFD.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,36 +1,37 @@
 ---
-title: Enum VectorPathType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType تعداد. نوع مسار المتجه وفقًا لمواصفات تنسيق PSD
+title: "التعداد VectorPathType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType. نوع مسار المتجه وفقًا لمواصفات تنسيق PSD"
 type: docs
-weight: 1420
+weight: 1430
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-نوع مسار المتجه وفقًا لمواصفات تنسيق PSD
+نوع المسار المتجه وفقًا لمواصفات تنسيق PSD
 
 ```csharp
 public enum VectorPathType : short
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | ClosedSubpathLengthRecord | `0` | سجل طول المسار الفرعي المغلق |
-| ClosedSubpathBezierKnotLinked | `1` | المسار الفرعي المغلق عقدة بيزير مرتبطة |
-| ClosedSubpathBezierKnotUnlinked | `2` | المسار الفرعي المغلق عقدة بيزير غير مرتبطة |
+| ClosedSubpathBezierKnotLinked | `1` | العقدة بيزيه للمسار الفرعي المغلق مرتبطة |
+| ClosedSubpathBezierKnotUnlinked | `2` | العقدة بيزيه للمسار الفرعي المغلق غير مرتبطة |
 | OpenSubpathLengthRecord | `3` | سجل طول المسار الفرعي المفتوح |
-| OpenSubpathBezierKnotLinked | `4` | المسار الفرعي المفتوح عقدة بيزير مرتبطة |
-| OpenSubpathBezierKnotUnlinked | `5` | المسار الفرعي المفتوح عقدة بيزير غير مرتبطة |
-| PathFillRuleRecord | `6` | مسار ملء القاعدة record |
-| ClipboardRecord | `7` | الحافظة record |
-| InitialFillRuleRecord | `8` | قاعدة التعبئة الأولية record |
+| OpenSubpathBezierKnotLinked | `4` | العقدة البيزية للمسار الفرعي المفتوح مرتبطة |
+| OpenSubpathBezierKnotUnlinked | `5` | العقدة البيزية للمسار الفرعي المفتوح غير مرتبطة |
+| PathFillRuleRecord | `6` | سجل قاعدة تعبئة المسار |
+| ClipboardRecord | `7` | سجل الحافظة |
+| InitialFillRuleRecord | `8` | سجل قاعدة التعبئة الأولية |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

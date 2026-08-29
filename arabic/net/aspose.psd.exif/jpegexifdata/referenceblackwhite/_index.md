@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.ReferenceBlackWhite
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على المرجع أو تعيينه أسود أبيض.
+title: "JpegExifData.ReferenceBlackWhite"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعيين المرجع الأسود والأبيض"
 type: docs
 weight: 160
 url: /ar/net/aspose.psd.exif/jpegexifdata/referenceblackwhite/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ReferenceBlackWhite property
 
-الحصول على المرجع أو تعيينه أسود أبيض.
+يحصل أو يضبط اللونين الأسود والأبيض المرجعيين.
 
 ```csharp
 public TiffRational[] ReferenceBlackWhite { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المرجع أسود أبيض .
+المرجع الأسود والأبيض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

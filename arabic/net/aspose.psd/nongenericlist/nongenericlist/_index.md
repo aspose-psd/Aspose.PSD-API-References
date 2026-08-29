@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList البناء. يقوم بتهيئة مثيل جديد لملفNonGenericList فئة .
+title: "NonGenericList.NonGenericList"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ NonGenericList. يهيئ مثيلاً جديداً من الفئة NonGenericList"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-يقوم بتهيئة مثيل جديد لملف[`NonGenericList`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`NonGenericList`](../).
 
 ```csharp
 public NonGenericList(IList list)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| list | IList | القائمة - حاوية الكائنات. |
+| قائمة | IList | القائمة - حاوية الكائنات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

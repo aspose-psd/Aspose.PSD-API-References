@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomRight
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeRadiiRectangle ملكية. الحصول على أو تحديد الجزء السفلي الأيمن .
+title: "VectorShapeRadiiRectangle.BottomRight"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeRadiiRectangle. يحصل أو يعيّن الزاوية السفلية اليمنى"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomRight property
 
-الحصول على أو تحديد الجزء السفلي الأيمن .
+يحصل أو يعيّن الخاصية السفلية اليمنى.
 
 ```csharp
 public double BottomRight { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أسفل اليمين .
+الزاوية السفلية اليمنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeRadiiRectangle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

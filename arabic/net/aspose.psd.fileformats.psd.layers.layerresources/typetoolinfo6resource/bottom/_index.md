@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Bottom
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على الموقع السفلي أو تعيينه.
+title: "TypeToolInfo6Resource.Bottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfo6Resource. تحصل أو تعيين الموقع السفلي"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/bottom/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Bottom property
 
-الحصول على الموقع السفلي أو تعيينه.
+يحصل أو يضبط موقع القاع.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع السفلي .
+الموقع السفلي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

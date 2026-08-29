@@ -1,29 +1,30 @@
 ---
-title: TypeToolLineInfo.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolLineInfo طريقة. يحفظ ملفTypeToolLineInfo المعلومات إلى حاوية التدفق المحددة.
+title: "TypeToolLineInfo.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TypeToolLineInfo. يحفظ معلومات TypeToolLineInfo إلى حاوية الدفق المحددة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Save method
 
-يحفظ ملف[`TypeToolLineInfo`](../) المعلومات إلى حاوية التدفق المحددة.
+يحفظ معلومات [`TypeToolLineInfo`](../) إلى حاوية الدفق المحددة.
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolLineInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

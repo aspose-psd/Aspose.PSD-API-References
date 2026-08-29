@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskScale
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix مجال. هذا الثابت هو قناع بت لأي من بتات علم المقياس.
+title: "Matrix.TypeMaskScale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Matrix. هذا الثابت هو قناع بت لأي من بتات flag الخاصة بالمقياس."
 type: docs
 weight: 260
 url: /ar/net/aspose.psd/matrix/typemaskscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskScale field
 
-هذا الثابت هو قناع بت لأي من بتات علم المقياس.
+هذه الثابت هي قناع بت لأي من بتات flag التحجيم.
 
 ```csharp
 public const int TypeMaskScale;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

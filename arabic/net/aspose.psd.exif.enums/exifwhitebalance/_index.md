@@ -1,29 +1,30 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance تعداد. تعداد موازنة اللون الأبيض exif .
+title: "تعداد ExifWhiteBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance تعداد. exif توازن أبيض تعداد"
 type: docs
-weight: 970
+weight: 980
 url: /ar/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-تعداد موازنة اللون الأبيض exif .
+exif تعداد توازن الأبيض.
 
 ```csharp
 public enum ExifWhiteBalance
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Auto | `0` | توازن اللون الأبيض التلقائي |
-| Manual | `1` | توازن اللون الأبيض اليدوي |
+| Auto | `0` | توازن أبيض تلقائي |
+| Manual | `1` | توازن أبيض يدوي |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

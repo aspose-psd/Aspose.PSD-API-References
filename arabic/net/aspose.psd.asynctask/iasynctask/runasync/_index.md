@@ -1,43 +1,44 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask طريقة. يقوم بتشغيل هذه المهمة.
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "IAsyncTask method. تُشغّل هذه المهمة"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
-يقوم بتشغيل هذه المهمة.
+يشغّل هذه المهمة.
 
 ```csharp
 public void RunAsync()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RunAsync(ThreadPriority) {#runasync_1}
 
-يقوم بتشغيل هذه المهمة.
+يشغّل هذه المهمة.
 
 ```csharp
 public void RunAsync(ThreadPriority priority)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| priority | ThreadPriority | أولوية الموضوع. |
+| الأولوية | ThreadPriority | أولوية الخيط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

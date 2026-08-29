@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.ShapeSegments
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على مقاطع شكل مختلفة تجمع بين الأشكال.
+title: "Aspose.PSD.ShapeSegments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المجال يحتوي على مقاطع أشكال مختلفة تجمع الأشكال"
 type: docs
-weight: 500
+weight: 540
 url: /ar/net/aspose.psd.shapesegments/
 ---
-تحتوي مساحة الاسم على مقاطع شكل مختلفة تجمع بين الأشكال.
+{{< psd/tize >}}
+النطاق يحتوي على مقاطع شكل مختلفة تجمع الأشكال.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [BezierSegment](./beziersegment/) | ينتقل مقطع بيزير من نقطة واحدة إلى النقطة التالية ويستخدم نقطتي تحكم. |
-| [LineSegment](./linesegment/) | يمثل مقطعًا يؤدي إلى انحراف المسافة من نقطة معينة إلى النقطة التالية. |
+| [BezierSegment](./beziersegment/) | مقطع بيزيير ينتقل من نقطة إلى النقطة التالية باستخدام نقطتي تحكم. |
+| [LineSegment](./linesegment/) | يمثل مقطعًا يؤدي مباشرةً من نقطة محددة إلى النقطة التالية. |
 
 

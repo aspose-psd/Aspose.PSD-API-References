@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: LyidResource ملكية. يحصل على التوقيع.
+title: "LyidResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LyidResource. تحصل على التوقيع"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/
 ---
+{{< psd/tize >}}
 ## LyidResource.Signature property
 
 يحصل على التوقيع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LyidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

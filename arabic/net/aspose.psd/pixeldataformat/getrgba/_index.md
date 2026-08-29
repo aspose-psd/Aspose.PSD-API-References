@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetRgba
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون RGBA بعدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetRgba"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. يحصل على لون RGBA بعدد محدد من البتات لكل عينة"
 type: docs
 weight: 260
 url: /ar/net/aspose.psd/pixeldataformat/getrgba/
 ---
+{{< psd/tize >}}
 ## GetRgba(int) {#getrgba}
 
-الحصول على لون RGBA بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون RGBA بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerSample)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerSample | Int32 | عدد البتات لكل عينة. |
 
@@ -22,27 +23,27 @@ public static PixelDataFormat GetRgba(int bitsPerSample)
 
 لون RGBA.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgba(int, int, int, int) {#getrgba_1}
 
-الحصول على لون RGBA بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون RGBA بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenChannel, 
     int bitsPerBlueChannel, int bitsPerAlphaChannel)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | عدد البتات لكل قناة حمراء. |
-| bitsPerGreenChannel | Int32 | عدد البتات لكل قناة خضراء. |
+| bitsPerRedChannel | Int32 | عدد البتات لكل قناة الأحمر. |
+| bitsPerGreenChannel | Int32 | عدد البتات لكل قناة الأخضر. |
 | bitsPerBlueChannel | Int32 | عدد البتات لكل قناة زرقاء. |
 | bitsPerAlphaChannel | Int32 | عدد البتات لكل قناة ألفا. |
 
@@ -50,10 +51,10 @@ public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenCha
 
 لون RGBA.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

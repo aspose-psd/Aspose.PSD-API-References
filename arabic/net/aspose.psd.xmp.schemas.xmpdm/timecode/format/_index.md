@@ -1,28 +1,29 @@
 ---
-title: Timecode.Format
-second_title: Aspose.PSD لمرجع .NET API
-description: Timecode ملكية. الحصول على التنسيق المستخدم في ملفTimeValue .
+title: "Timecode.Format"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Timecode. تحصل أو تعيّن التنسيق المستخدم في TimeValue"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/timecode/format/
 ---
+{{< psd/tize >}}
 ## Timecode.Format property
 
-الحصول على التنسيق المستخدم في ملف[`TimeValue`](../timevalue/) .
+تحصل أو تعيّن التنسيق المستخدم في [`TimeValue`](../timevalue/).
 
 ```csharp
 public TimeFormat Format { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التنسيق المستخدم في ملف[`TimeValue`](../timevalue/) .
+التنسيق المستخدم في [`TimeValue`](../timevalue/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

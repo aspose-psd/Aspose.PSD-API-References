@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IccProfile
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على دفق ملف تعريف Icc أو تعيينه.
+title: "TiffOptions.IccProfile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين تدفق ملف تعريف Icc"
 type: docs
-weight: 180
+weight: 190
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/iccprofile/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IccProfile property
 
-الحصول على دفق ملف تعريف Icc أو تعيينه.
+يحصل أو يعيّن تدفق ملف تعريف Icc.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف تعريف icc .
+ملف تعريف icc.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: StringFormat.StringFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat البناء. يقوم بتهيئة ملفStringFormat الكائن .
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ StringFormat. يهيئ كائن StringFormat جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-يقوم بتهيئة ملف[`StringFormat`](../) الكائن .
+يهيئ كائن [`StringFormat`](../) جديد.
 
 ```csharp
 public StringFormat()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-يقوم بتهيئة ملف[`StringFormat`](../) كائن مع المحدد[`StringFormatFlags`](../../stringformatflags/) التعداد واللغة.
+يهيئ كائن [`StringFormat`](../) جديد باستخدام تعداد [`StringFormatFlags`](../../stringformatflags/) المحدد واللغة.
 
 ```csharp
 public StringFormat(StringFormatFlags options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | StringFormatFlags | ال[`StringFormatFlags`](../../stringformatflags/) تعداد جديد[`StringFormat`](../) هدف. |
+| options | StringFormatFlags | تعداد [`StringFormatFlags`](../../stringformatflags/) للكائن [`StringFormat`](../) الجديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-يقوم بتهيئة ملف[`StringFormat`](../) كائن من المحدد الموجود[`StringFormat`](../) الكائن .
+يهيئ كائن [`StringFormat`](../) جديد من الكائن [`StringFormat`](../) الموجود المحدد.
 
 ```csharp
 public StringFormat(StringFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| format | StringFormat | ال[`StringFormat`](../) كائن يمكن من خلاله تهيئة الملف الجديد[`StringFormat`](../) هدف. |
+| format | StringFormat | الكائن [`StringFormat`](../) الذي سيُستخدم لتهيئة الكائن [`StringFormat`](../) الجديد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *format* باطل. |
+| ArgumentNullException | *format* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

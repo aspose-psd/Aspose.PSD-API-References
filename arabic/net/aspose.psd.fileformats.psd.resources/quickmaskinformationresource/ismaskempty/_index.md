@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.IsMaskEmpty
-second_title: Aspose.PSD لمرجع .NET API
-description: QuickMaskInformationResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+title: "QuickMaskInformationResource.IsMaskEmpty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية QuickMaskInformationResource. يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه العينة فارغة القناع"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.IsMaskEmpty property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن قناعًا فارغًا.
 
 ```csharp
 public bool IsMaskEmpty { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال هو قناع فارغ ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه العينة فارغة القناع؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [QuickMaskInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

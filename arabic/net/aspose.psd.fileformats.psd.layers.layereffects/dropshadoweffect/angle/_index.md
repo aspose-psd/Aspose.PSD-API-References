@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.Angle
-second_title: Aspose.PSD لمرجع .NET API
-description: DropShadowEffect ملكية. الحصول على الزاوية أو تحديدها بالدرجات .
+title: "DropShadowEffect.Angle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DropShadowEffect. يحصل أو يضبط الزاوية بالدرجات"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Angle property
 
-الحصول على الزاوية أو تحديدها بالدرجات .
+يحصل أو يضبط الزاوية بالدرجات.
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الزاوية .
+الزاوية.
 
-### أمثلة
+## أمثلة
 
-توضح التعليمة البرمجية التالية استخدام خاصية Opacity لـ DropShadowEffect.
+يوضح الشيفرة التالية استخدام الخاصية Opacity في DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,20 +38,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // مثال مع التعتيم = 20
+    // مثال مع Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // مثال مع التعتيم = 200
+    // مثال مع Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DropShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

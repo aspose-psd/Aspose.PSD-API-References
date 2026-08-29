@@ -1,46 +1,47 @@
 ---
-title: Class ResourceRef
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef فصل. يُستخدم للإشارة إلى الإصدارات السابقة  والأصول الأصلية لعمليات التسليم  والنسخ الأصلية للمستندات المشتقة  وما إلى ذلك.
+title: "فئة ResourceRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceRef.ResourceRef class. يستخدم للإشارة إلى النسخ الأصلية للإصدارات السابقة من النسخ المشتقة للمستندات وما إلى ذلك"
 type: docs
-weight: 6090
+weight: 6590
 url: /ar/net/aspose.psd.xmp.types.complex.resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef class
 
-يُستخدم للإشارة إلى الإصدارات السابقة ، والأصول الأصلية لعمليات التسليم ، والنسخ الأصلية للمستندات المشتقة ، وما إلى ذلك.
+تُستخدم للإشارة إلى الإصدارات السابقة، وأصول النسخ المشتقة، وأصول الوثائق المستندة، وما إلى ذلك.
 
 ```csharp
 public sealed class ResourceRef : ComplexTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ResourceRef](resourceref/)() | Default_Constructor |
+| [ResourceRef](resourceref/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/) { get; set; } | الحصول على أو تعيين مصفوفة المسار البديل. |
-| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | الحصول على أو تعيين عنوان URI للمستند . |
-| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | الحصول على أو تحديد عنوان URL لمسار الملف . |
-| [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/) { get; set; } | الحصول على معرف المثيل أو تعيينه. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على مساحة الاسم الافتراضية URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة . |
+| [AlternatePaths](../../aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/) { get; set; } | يحصل أو يضبط مصفوفة المسارات البديلة. |
+| [DocumentUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/) { get; set; } | يحصل أو يضبط URI المستند. |
+| [FilePathUri](../../aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/) { get; set; } | يحصل أو يضبط URI مسار الملف. |
+| [InstanceId](../../aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/) { get; set; } | يحصل أو يضبط معرف المثيل. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على URI مساحة الاسم الافتراضية. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.MultiplyTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: TransformBrush طريقة. يضاعفMatrix التي تمثل التحويل الهندسي المحلي لهذاLinearGradientBrush حسب المحددMatrix عن طريق إضافة الملف المحدد مسبقًاMatrix .
+title: "TransformBrush.MultiplyTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TransformBrush. تضرب الـ Matrix التي تمثل التحويل الهندسي المحلي لهذا LinearGradientBrush بالمصفوفة المحددة عن طريق إلحاق المصفوفة المحددة مسبقًا."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.brushes/transformbrush/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-يضاعف[`Matrix`](../../../aspose.psd/matrix/) التي تمثل التحويل الهندسي المحلي لهذا[`LinearGradientBrush`](../../lineargradientbrush/) حسب المحدد[`Matrix`](../../../aspose.psd/matrix/) عن طريق إضافة الملف المحدد مسبقًا[`Matrix`](../../../aspose.psd/matrix/) .
+تضرب الـ [`Matrix`](../../../aspose.psd/matrix/) التي تمثل التحويل الهندسي المحلي لهذا [`LinearGradientBrush`](../../lineargradientbrush/) بالمصفوفة المحددة عن طريق إلحاق الـ [`Matrix`](../../../aspose.psd/matrix/) المحدد مسبقًا.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | ال[`Matrix`](../../../aspose.psd/matrix/) بمضاعفة التحويل الهندسي. |
+| matrix | Matrix | الـ [`Matrix`](../../../aspose.psd/matrix/) التي يتم ضرب التحويل الهندسي بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../transformbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-يضاعف[`Matrix`](../../../aspose.psd/matrix/) التي تمثل التحويل الهندسي المحلي لهذا[`LinearGradientBrush`](../../lineargradientbrush/) حسب المحدد[`Matrix`](../../../aspose.psd/matrix/) بالترتيب المحدد.
+تضرب الـ [`Matrix`](../../../aspose.psd/matrix/) التي تمثل التحويل الهندسي المحلي لهذا [`LinearGradientBrush`](../../lineargradientbrush/) بالمصفوفة المحددة الـ [`Matrix`](../../../aspose.psd/matrix/) بالترتيب المحدد.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | ال[`Matrix`](../../../aspose.psd/matrix/) بمضاعفة التحويل الهندسي. |
-| order | MatrixOrder | أ[`MatrixOrder`](../../../aspose.psd/matrixorder/) التي تحدد ترتيب ضرب المصفوفتين. |
+| matrix | Matrix | الـ [`Matrix`](../../../aspose.psd/matrix/) التي يتم ضرب التحويل الهندسي بها. |
+| order | MatrixOrder | ـ [`MatrixOrder`](../../../aspose.psd/matrixorder/) يحدد الترتيب الذي يتم به ضرب المصفوفتين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../transformbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: SmartFilter.Apply
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilter طريقة. يطبق عامل التصفية الحالي على الإدخالRasterImage الصورة .
+title: "SmartFilter.Apply"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartFilter. يطبق الفلتر الحالي على صورة RasterImage المدخلة"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Apply method
 
-يطبق عامل التصفية الحالي على الإدخال[`RasterImage`](../../../aspose.psd/rasterimage/) الصورة .
+يطبق الفلتر الحالي على صورة [`RasterImage`](../../../aspose.psd/rasterimage/) المدخلة.
 
 ```csharp
 public void Apply(RasterImage rasterImage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rasterImage | RasterImage | الصورة النقطية. |
+| rasterImage | RasterImage | صورة نقطية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [SmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

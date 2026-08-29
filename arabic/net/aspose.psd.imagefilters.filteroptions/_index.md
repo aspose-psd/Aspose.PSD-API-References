@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.ImageFilters.FilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: تعالج مساحة الاسم خيارات التصفية .
+title: "Aspose.PSD.ImageFilters.FilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "مساحة الاسم تتعامل مع خيارات الفلتر"
 type: docs
-weight: 410
+weight: 450
 url: /ar/net/aspose.psd.imagefilters.filteroptions/
 ---
-تعالج مساحة الاسم خيارات التصفية .
+{{< psd/tize >}}
+تتعامل مساحة الاسم مع خيارات الفلتر.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | خيارات مرشح مستطيل كبير |
-| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | خيارات مرشح التنعيم الثنائي . |
-| [ConvolutionFilterOptions](./convolutionfilteroptions/) | مرشح الالتفاف . |
-| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | خيارات تصفية Deconvolution ، فئة مجردة |
-| [FilterOptionsBase](./filteroptionsbase/) | قاعدة خيارات التصفية ، فئة مجردة |
-| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | الضبابية الغاوسية |
-| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | خيارات مرشح Gauss Wiener Deblur gauss |
-| [MedianFilterOptions](./medianfilteroptions/) | مرشح متوسط |
-| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | خيارات مرشح Deconvolution deblur motion |
-| [SharpenFilterOptions](./sharpenfilteroptions/) | خيارات مرشح Sharpen |
-| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | خيارات مرشح مستطيل صغير |
+| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | خيارات الفلتر المستطيلة الكبيرة |
+| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | خيارات فلتر التنعيم الثنائي. |
+| [ConvolutionFilterOptions](./convolutionfilteroptions/) | فلتر الالتفاف. |
+| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | خيارات فلتر فك الالتفاف، فئة مجردة |
+| [FilterOptionsBase](./filteroptionsbase/) | قاعدة خيارات الفلتر، فئة مجردة |
+| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | الطمس الغاوسي |
+| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | خيارات فلتر غاوس واينر لإزالة الضبابية غاوس |
+| [MedianFilterOptions](./medianfilteroptions/) | فلتر المتوسط |
+| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | خيارات فلتر فك الالتفاف لإزالة الضبابية الحركية |
+| [SharpenFilterOptions](./sharpenfilteroptions/) | خيارات فلتر الشحذ |
+| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | خيارات الفلتر المستطيلة الصغيرة |
 
 

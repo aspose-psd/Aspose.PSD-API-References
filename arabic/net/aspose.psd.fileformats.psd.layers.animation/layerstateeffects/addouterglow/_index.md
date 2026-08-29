@@ -1,11 +1,12 @@
 ---
-title: LayerStateEffects.AddOuterGlow
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerStateEffects طريقة. يضيف تأثير التوهج الخارجي.
+title: "LayerStateEffects.AddOuterGlow"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LayerStateEffects. تضيف تأثير التوهج الخارجي"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addouterglow/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddOuterGlow method
 
 يضيف تأثير التوهج الخارجي.
@@ -16,11 +17,11 @@ public OuterGlowEffect AddOuterGlow()
 
 ### قيمة الإرجاع
 
-المثيل الجديد لـ[`OuterGlowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/) فصل.
+مثال جديد من الفئة [`OuterGlowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/).
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم التأثيرات في إطارات الخط الزمني.
+الكود التالي يوضح دعم التأثيرات في إطارات Timeline.
 
 ```csharp
 [C#]
@@ -30,29 +31,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OuterGlowEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/)
 * class [LayerStateEffects](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ColorSpaceValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على أو تعيين قيمة مساحة اللون.
+title: "TypeToolInfoResource.ColorSpaceValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. تحصل أو تعين قيمة مساحة اللون"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ColorSpaceValue property
 
-الحصول على أو تعيين قيمة مساحة اللون.
+يحصل أو يضبط قيمة مساحة اللون.
 
 ```csharp
 public short ColorSpaceValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة مساحة اللون .
+قيمة مساحة اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

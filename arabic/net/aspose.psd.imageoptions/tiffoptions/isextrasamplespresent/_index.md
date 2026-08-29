@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على قيمة تشير إلى وجود العينات الإضافية .
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل على قيمة تشير إلى ما إذا كانت العينات الإضافية موجودة"
 type: docs
-weight: 230
+weight: 240
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-الحصول على قيمة تشير إلى وجود العينات الإضافية .
+يحصل على قيمة تشير إلى ما إذا كانت العينات الإضافية موجودة.
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت العينات الإضافية موجودة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت العينات الإضافية موجودة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

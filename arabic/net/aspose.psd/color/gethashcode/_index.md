@@ -1,14 +1,15 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. إرجاع رمز تجزئة لهذا الغرضColorهيكل .
+title: "Color.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. تُرجع رمز تجزئة (hash code) لهذه البنية Color"
 type: docs
 weight: 1560
 url: /ar/net/aspose.psd/color/gethashcode/
 ---
+{{< psd/tize >}}
 ## Color.GetHashCode method
 
-إرجاع رمز تجزئة لهذا الغرض[`Color`](../)هيكل .
+تُرجع رمز تجزئة لهذه البنية [`Color`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-قيمة عددية تحدد رمز التجزئة لهذا[`Color`](../).
+قيمة عددية صحيحة تحدد رمز التجزئة لهذه البنية [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

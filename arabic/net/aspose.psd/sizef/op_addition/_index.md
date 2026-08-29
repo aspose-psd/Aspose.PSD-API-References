@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Addition
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF طريقة. إضافة عرض وارتفاع واحدSizeF هيكل لعرض وارتفاع آخرSizeFهيكل .
+title: "SizeF.op_Addition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SizeF. تُضيف عرض وارتفاع هيكل SizeF واحد إلى عرض وارتفاع هيكل SizeF آخر."
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/sizef/op_addition/
 ---
+{{< psd/tize >}}
 ## SizeF Addition operator
 
-إضافة عرض وارتفاع واحد[`SizeF`](../) هيكل لعرض وارتفاع آخر[`SizeF`](../)هيكل .
+تُضيف عرض وارتفاع هيكل [`SizeF`](../) واحد إلى عرض وارتفاع هيكل [`SizeF`](../) آخر.
 
 ```csharp
 public static SizeF operator +(SizeF size1, SizeF size2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size1 | SizeF | الأول[`SizeF`](../) لتضيف. |
-| size2 | SizeF | الثاني[`SizeF`](../) لتضيف. |
+| size1 | SizeF | الـ[`SizeF`](../) الأول للإضافة. |
+| size2 | SizeF | الـ[`SizeF`](../) الثاني للإضافة. |
 
 ### قيمة الإرجاع
 
-أ[`SizeF`](../) الهيكل الناتج عن عملية الإضافة.
+هيكل [`SizeF`](../) هو نتيجة عملية الجمع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ResolutionUnit
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين وحدة الدقة .
+title: "TiffOptions.ResolutionUnit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. يحصل أو يضبط وحدة الدقة"
 type: docs
-weight: 370
+weight: 380
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionUnit property
 
-الحصول على أو تعيين وحدة الدقة .
+يحصل أو يضبط وحدة الدقة.
 
 ```csharp
 public TiffResolutionUnits ResolutionUnit { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وحدة الدقة .
+وحدة الدقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffResolutionUnits](../../../aspose.psd.fileformats.tiff.enums/tiffresolutionunits/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

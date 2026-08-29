@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartObjectLayerResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource واجهه المستخدم. يحدد واجهة ISmartObjectLayerResource التي تحتوي على معلومات حول مورد طبقة الكائن الذكي في ملف PSD. هي أيضًا واجهة ترميز تُستخدم لتعيين كل من الموارد المباعة والوحيدة في صور Adobe Photoshop.
+title: "الواجهة ISmartObjectLayerResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource. تُعرّف الواجهة ISmartObjectLayerResource التي تحتوي على معلومات حول مورد طبقة كائن ذكي في ملف PSD. كما أنها واجهة توصيف تُستخدم لتحديد كل من الموارد Sold و Sole في صور Adobe Photoshop."
 type: docs
-weight: 2540
+weight: 2830
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource interface
 
-يحدد واجهة ISmartObjectLayerResource التي تحتوي على معلومات حول مورد طبقة الكائن الذكي في ملف PSD. هي أيضًا واجهة ترميز تُستخدم لتعيين كل من الموارد المباعة والوحيدة في صور Adobe® Photoshop®.
+يعرّف واجهة ISmartObjectLayerResource التي تحتوي على معلومات حول مورد طبقة كائن ذكي في ملف PSD. هي أيضًا واجهة توصيف تُستخدم لتعيين كل من موارد Sold و Sole في صور Adobe® Photoshop®.
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource
@@ -16,13 +17,13 @@ public interface ISmartObjectLayerResource : IPlacedLayerResource
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | الحصول على أو تعيين المعرف الفريد لبيانات طبقة الكائن الذكي هذه في صورة PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | يحصل أو يعيّن المعرف الفريد لهذه البيانات طبقة الكائن الذكي في صورة PSD. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم الكائنات الذكية المضمنة.
+الكود التالي يوضح دعم الكائنات الذكية المدمجة.
 
 ```csharp
 [C#]
@@ -35,7 +36,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات المضمنة الأصلية للكائن الذكي.
+// هذا المثال يوضح كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات الأصلية المدمجة للكائن الذكي.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -64,10 +65,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // لنقوم بتصدير صورة الكائن الذكي المضمنة من طبقة الكائن الذكي PSD
+        // لنقوم بتصدير صورة الكائن الذكي المدمج من طبقة الكائن الذكي في PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة الأصلية بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة الأصلية محفوظة بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -75,7 +76,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // لنقلب صورة الكائن الذكية الأصلية
+            // لنقلب صورة الكائن الذكي الأصلية
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -86,21 +87,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // لنستبدل صورة الكائن الذكي المضمنة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المدمج في طبقة PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحدثة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحدثة محفوظة بشكل صحيح
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

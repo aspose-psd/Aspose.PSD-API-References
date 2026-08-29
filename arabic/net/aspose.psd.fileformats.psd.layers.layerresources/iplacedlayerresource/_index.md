@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource واجهه المستخدم. يحدد واجهة IPlacedLayerResource التي تحتوي على معلومات حول الطبقة الموضوعة في ملف PSD . هي واجهة ترميز تُستخدم لتعيين موارد PlLd والمباعة والوحيد في صور Adobe Photoshop . يتم استخدامها لدعم طبقات الكائنات الذكية في صور Adobe Photoshop .
+title: "الواجهة IPlacedLayerResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource الواجهة. يحدد واجهة IPlacedLayerResource التي تحتوي على معلومات حول طبقة موضوعة في ملف PSD. هي واجهة توصيفية تُستخدم لتعيين موارد PlLd Sold و Sole في صور Adobe Photoshop. تُستخدم لدعم طبقات الكائنات الذكية في صور Adobe Photoshop."
 type: docs
-weight: 2530
+weight: 2820
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-يحدد واجهة IPlacedLayerResource التي تحتوي على معلومات حول الطبقة الموضوعة في ملف PSD . هي واجهة ترميز تُستخدم لتعيين موارد PlLd والمباعة والوحيد في صور Adobe® Photoshop® . يتم استخدامها لدعم طبقات الكائنات الذكية في صور Adobe® Photoshop® .
+يعرّف واجهة IPlacedLayerResource التي تحتوي على معلومات حول طبقة موضوعة في ملف PSD. هي واجهة توصيف تُستخدم لتعيين موارد PlLd و Sold و Sole في صور Adobe® Photoshop®. تُستخدم لدعم طبقات الكائنات الذكية في صور Adobe® Photoshop®.
 
 ```csharp
 public interface IPlacedLayerResource
@@ -16,40 +17,40 @@ public interface IPlacedLayerResource
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | الحصول على أو تحديد سياسة الصقل للطبقة الموضوعة في صورة PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | الحصول على أو تحديد الموقع السفلي للطبقة الموضوعة في صورة PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | الحصول على أو تعيين حدود الطبقة الموضوعة في ملف PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | الحصول على أو تعيين وحدة قياس نقاط الشبكة الأفقية . |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان نمط التواء في المثيل مخصصًا أم لا. إذا تم الضبط على خطأ ، فإنه يمحو نقاط الشبكة. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | الحصول على أو تعيين عناصر الالتواء. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | الحصول على أو تحديد الموقع الأيسر للطبقة الموضوعة في ملف PSD. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | الحصول على أو تحديد رقم الصفحة للطبقة الموضوعة في ملف PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | الحصول على أو تعيين قيمة المنظور للطبقة الموضوعة في ملف PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | الحصول على أو تحديد قيمة المنظور الأخرى للطبقة الموضوعة في ملف PSD. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | الحصول على أو تحديد نوع الطبقة الموضوعة في ملف PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | الحصول على أو تحديد الموقع الصحيح للطبقة الموضوعة في ملف PSD. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | الحصول على أو تحديد الموقع العلوي للطبقة الموضوعة في صورة PSD. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | الحصول على أو تعيين إجمالي صفحات الطبقة الموضوعة في ملف PSD. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | الحصول على أو تعيين مصفوفة التحويل للطبقة الموضوعة في ملف PSD. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | الحصول على أو تعيين المعرف الفريد العام للطبقة الموضوعة للكائن الذكي في صورة PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | الحصول على أو تعيين قيمة طلب U للطبقة الموضوعة في ملف PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | الحصول على أو تعيين قيمة التواء للطبقة الموضوعة في صورة PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | يحصل على نسخة الطبقة الموضوعة في ملف PSD ، عادة 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | الحصول على أو تحديد وحدة قياس نقاط الشبكة العمودية. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | الحصول على أو تعيين قيمة ترتيب V للطبقة الموضوعة في ملف PSD. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | يحصل أو يضبط سياسة إلغاء التسنين للطبقة الموضوعة في صورة PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | يحصل أو يضبط موقع الأسفل للطبقة الموضوعة في صورة PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | يحصل أو يضبط حدود الطبقة الموضوعة في ملف PSD. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | يحصل أو يضبط وحدة القياس لنقاط الشبكة الأفقية. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان نمط الالتواء لهذا المثيل مخصصًا. إذا كان صحيحًا فإنه يحتوي على نقاط الشبكة. إذا تم ضبطه على false فإنه يمسح نقاط الشبكة. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | يحصل أو يضبط عناصر الالتواء. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | يحصل أو يضبط موقع اليسار للطبقة الموضوعة في ملف PSD. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | يحصل أو يضبط رقم الصفحة للطبقة الموضوعة في ملف PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | يحصل أو يضبط قيمة المنظور للطبقة الموضوعة في ملف PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | يحصل أو يضبط قيمة المنظور الأخرى للطبقة الموضوعة في ملف PSD. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | يحصل أو يضبط نوع الطبقة الموضوعة في ملف PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | يحصل أو يضبط موقع اليمين للطبقة الموضوعة في ملف PSD. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | يحصل أو يضبط الموقع العلوي للطبقة الموضوعة في صورة PSD. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | يحصل أو يضبط إجمالي الصفحات للطبقة الموضوعة في ملف PSD. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | يحصل أو يضبط مصفوفة التحويل للطبقة الموضوعة في ملف PSD. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | يحصل أو يعيّن المعرف الفريد العالمي للطبقة الموضعية للكائن الذكي في صورة PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | يحصل أو يضبط قيمة ترتيب U للطبقة الموضوعة في ملف PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | يحصل أو يضبط قيمة الالتواء للطبقة الموضوعة في صورة PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | يحصل على إصدار الطبقة الموضعية في ملف PSD، عادةً 3-5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | يحصل أو يضبط وحدة القياس لنقاط الشبكة العمودية. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | يحصل أو يضبط قيمة ترتيب V للطبقة الموضوعة في ملف PSD. |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد SoLdResource.
+الكود التالي يوضح دعم مورد SoLdResource.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال كيفية الحصول على أو تعيين خصائص بيانات طبقة الكائن الذكية لملف PSD.
+// يوضح هذا المثال كيفية الحصول على خصائص بيانات طبقة الكائن الذكي أو تعيينها في ملف PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضًا
-                // ويجب أن يكون بعضها متوافقًا مع الكائن الذكي الذي تحته خط في LinkDataSource
+                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضاً.
+                // ويجب أن تكون بعضها متوافقة مع الكائن الذكي الأساسي في LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,19 +330,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // يجب تغيير هذا المعرف الفريد في المراجع إن وجدت
+                // يجب تغيير هذا المعرف الفريد في المراجع إذا وجدت.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // كن حذرًا مع بعض المعلمات: قد تصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-                ////resource.UOrder = 6 ;
-                ////resource.VOrder = 9 ;
+                // احذر من بعض المعلمات: قد يصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-                // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+                // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-                ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+                // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -353,9 +356,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

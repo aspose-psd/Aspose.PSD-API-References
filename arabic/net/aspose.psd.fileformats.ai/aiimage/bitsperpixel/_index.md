@@ -1,27 +1,28 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. الحصول على عدد بتات الصورة لكل بكسل .
+title: "AiImage.BitsPerPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. يحصل على عدد البتات لكل بكسل في الصورة"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
-الحصول على عدد بتات الصورة لكل بكسل .
+يحصل على عدد البتات في كل بكسل للصورة.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد وحدات بت الصورة لكل بكسل .
+عدد البتات لكل بكسل في الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

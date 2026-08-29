@@ -1,11 +1,12 @@
 ---
-title: Enum WarpMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.WarpMode تعداد. يحدد نوع تحويل الالتواء المطبق.
+title: "تعداد WarpMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.WarpMode. يحدد نوع التحويل المشوه المطبق"
 type: docs
-weight: 5730
+weight: 6230
 url: /ar/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
 يحدد نوع تحويل الالتواء المطبق.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd/warpmode/
 public enum WarpMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Perspective | `0` | تحديد التواء منظور . |
-| Bilinear | `1` | تحديد التواء ثنائي الخطوط . |
+| Perspective | `0` | يحدد تشويهًا منظورياً. |
+| Bilinear | `1` | يحدد تشويهًا ثنائي الخطية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

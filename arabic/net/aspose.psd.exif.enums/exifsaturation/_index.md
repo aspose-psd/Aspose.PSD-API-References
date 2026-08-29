@@ -1,30 +1,31 @@
 ---
-title: Enum ExifSaturation
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifSaturation تعداد. تعداد تشبع exif .
+title: "تعداد ExifSaturation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation تعداد. exif تشبع تعداد"
 type: docs
-weight: 920
+weight: 930
 url: /ar/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-تعداد تشبع exif .
+exif تعداد التشبع.
 
 ```csharp
 public enum ExifSaturation
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Normal | `0` | تشبع عادي . |
-| Low | `1` | تشبع منخفض . |
-| High | `2` | تشبع عالي . |
+| Normal | `0` | تشبع طبيعي. |
+| Low | `1` | تشبع منخفض. |
+| High | `2` | تشبع عالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

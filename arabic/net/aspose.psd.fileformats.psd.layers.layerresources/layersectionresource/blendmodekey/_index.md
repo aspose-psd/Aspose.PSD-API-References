@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.BlendModeKey
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerSectionResource ملكية. الحصول على أو تعيين مفتاح وضع المزج.
+title: "LayerSectionResource.BlendModeKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerSectionResource. تحصل أو تعيين مفتاح وضع المزج"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.BlendModeKey property
 
-الحصول على أو تعيين مفتاح وضع المزج.
+يحصل أو يعيّن مفتاح وضع الدمج.
 
 ```csharp
 public BlendMode BlendModeKey { get; set; }
@@ -16,15 +17,15 @@ public BlendMode BlendModeKey { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون طول BlendModeKey 4 أحرف. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون BlendModeKey بطول 4 أحرف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerSectionResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

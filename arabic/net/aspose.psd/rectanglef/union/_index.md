@@ -1,32 +1,33 @@
 ---
-title: RectangleF.Union
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. لإنشاء أصغر مستطيل ثالث ممكن يمكن أن يحتوي على كلا المستطيلين اللذين يشكلان اتحادًا.
+title: "RectangleF.Union"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تنشئ أصغر مستطيل ثالث ممكن يمكنه احتواء كلا المستطيلين الذين يشكلان اتحادًا"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/rectanglef/union/
 ---
+{{< psd/tize >}}
 ## RectangleF.Union method
 
-لإنشاء أصغر مستطيل ثالث ممكن يمكن أن يحتوي على كلا المستطيلين اللذين يشكلان اتحادًا.
+ينشئ أصغر مستطيل ثالث ممكن يمكنه احتواء المستطيلين الذين يشكلان اتحادًا.
 
 ```csharp
 public static RectangleF Union(RectangleF a, RectangleF b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | RectangleF | أول مستطيل للاتحاد. |
-| b | RectangleF | مستطيل ثانٍ للاتحاد. |
+| a | RectangleF | المستطيل الأول للاتحاد. |
+| b | RectangleF | المستطيل الثاني للاتحاد. |
 
 ### قيمة الإرجاع
 
-الثالث[`RectangleF`](../) الهيكل الذي يحتوي على كلا المستطيلين اللذين يشكلان الاتحاد.
+البنية الثالثة [`RectangleF`](../) التي تحتوي على كلا المستطيلين الذين يشكلان الاتحاد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

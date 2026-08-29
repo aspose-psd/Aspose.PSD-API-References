@@ -1,31 +1,32 @@
 ---
-title: CurvesContinuousManager.GetCurvePointCount
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesContinuousManager طريقة. الحصول على عدد نقاط المنحنى .
+title: "CurvesContinuousManager.GetCurvePointCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvesContinuousManager. يحصل على عدد نقاط المنحنى"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointCount method
 
-الحصول على عدد نقاط المنحنى .
+يحصل على عدد نقاط المنحنى.
 
 ```csharp
 public int GetCurvePointCount(int channelIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
 
 ### قيمة الإرجاع
 
-عدد منحنى نقطة في القناة
+عدد نقاط المنحنى في القناة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesContinuousManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

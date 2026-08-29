@@ -1,14 +1,15 @@
 ---
-title: SmartResourceCreator.GeneratePlacedResource
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartResourceCreator طريقة. يولد المورد الموضوع .
+title: "SmartResourceCreator.GeneratePlacedResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartResourceCreator. تُنشئ المورد الموضوع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GeneratePlacedResource method
 
-يولد المورد الموضوع .
+ينشئ المورد الموضّع.
 
 ```csharp
 public PlLdResource GeneratePlacedResource()
@@ -16,13 +17,13 @@ public PlLdResource GeneratePlacedResource()
 
 ### قيمة الإرجاع
 
-ولدت[`PlLdResource`](../../plldresource/) مثال.
+المثيل المُنشأ [`PlLdResource`](../../plldresource/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlLdResource](../../plldresource/)
 * class [SmartResourceCreator](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

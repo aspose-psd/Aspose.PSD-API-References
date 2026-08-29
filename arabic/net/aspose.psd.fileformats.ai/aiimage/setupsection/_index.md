@@ -1,28 +1,29 @@
 ---
-title: AiImage.SetupSection
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. يحصل على قسم الإعداد .
+title: "AiImage.SetupSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. تحصل على قسم الإعداد."
 type: docs
-weight: 100
+weight: 120
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
-يحصل على قسم الإعداد .
+يحصل على قسم الإعداد.
 
 ```csharp
 public AiSetupSection SetupSection { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قسم الإعداد .
+قسم الإعداد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

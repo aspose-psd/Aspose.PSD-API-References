@@ -1,34 +1,35 @@
 ---
-title: LinkResource.Item
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkResource ملكية. يحصل على ملفLinkDataSource في الفهرس المحدد وهو المعرف الفريد لمصدر بيانات الارتباط ..
+title: "LinkResource.Item"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkResource. يحصل على LinkDataSource عند الفهرس المحدد والذي هو المعرف الفريد لمصدر بيانات الارتباط"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-يحصل على ملف[`LinkDataSource`](../../linkdatasource/) في الفهرس المحدد وهو المعرف الفريد لمصدر بيانات الارتباط ..
+يحصل على [`LinkDataSource`](../../linkdatasource/) عند الفهرس المحدد والذي هو المعرف الفريد لمصدر بيانات الارتباط..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس كمعرف فريد لمصدر بيانات الارتباط. |
+| فهرس | الفهرس كمعرف فريد لمصدر بيانات الارتباط. |
 
 ### قيمة الإرجاع
 
-ملف[`LinkDataSource`](../../linkdatasource/) المثال.
+مثيل [`LinkDataSource`](../../linkdatasource/).
 
-### Property_Value
+### Property Value
 
-ملف[`LinkDataSource`](../../linkdatasource/) .
+الـ [`LinkDataSource`](../../linkdatasource/).
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم الكائنات الذكية المضمنة.
+الكود التالي يوضح دعم الكائنات الذكية المدمجة.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات المضمنة الأصلية للكائن الذكي.
+// هذا المثال يوضح كيفية تغيير طبقة الكائن الذكي في ملف PSD وتصدير / تحديث المحتويات الأصلية المدمجة للكائن الذكي.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -70,10 +71,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // لنقوم بتصدير صورة الكائن الذكي المضمنة من طبقة الكائن الذكي PSD
+        // لنقوم بتصدير صورة الكائن الذكي المدمج من طبقة الكائن الذكي في PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة الأصلية بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة الأصلية محفوظة بشكل صحيح
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -81,7 +82,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // لنقلب صورة الكائن الذكية الأصلية
+            // لنقلب صورة الكائن الذكي الأصلية
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -92,22 +93,22 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // لنستبدل صورة الكائن الذكي المضمنة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المدمج في طبقة PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // دعنا نتحقق مما إذا تم حفظ الصورة المحدثة بشكل صحيح
+        // لنتحقق مما إذا كانت الصورة المحدثة محفوظة بشكل صحيح
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

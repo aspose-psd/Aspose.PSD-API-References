@@ -1,27 +1,28 @@
 ---
-title: PsdImage.GlobalAngle
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على الزاوية العامة أو تحديدها .
+title: "PsdImage.GlobalAngle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. يحصل على أو يعيّن الزاوية العامة"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/globalangle/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalAngle property
 
-الحصول على الزاوية العامة أو تحديدها .
+يحصل أو يضبط الزاوية العامة.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-توضح التعليمة البرمجية التالية دعم الخاصية PsdImage.GlobalAngle لتغيير قيمة الزاوية العامة.
+يوضح الشيفرة التالية دعم الخاصية PsdImage.GlobalAngle لتغيير قيمة الزاوية العامة.
 
 ```csharp
 [C#]
 
-// عندما تكون خاصية DropShadowEffect.UseGlobalLight هي "true" ، فإن كائن DropShadowEffect يستخدم قيمة الزاوية من خاصية PsdImage.GlobalAngle.
+// عند كون الخاصية DropShadowEffect.UseGlobalLight مساوية لـ 'true'، يستخدم كائن DropShadowEffect قيمة الزاوية من الخاصية PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

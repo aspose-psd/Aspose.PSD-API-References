@@ -1,32 +1,33 @@
 ---
-title: Time.Scale
-second_title: Aspose.PSD لمرجع .NET API
-description: Time ملكية. الحصول على أو تعيين مقياس لقيمة الوقت.
+title: "Time.Scale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Time. يحصل أو يضبط المقياس لقيمة الوقت"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/time/scale/
 ---
+{{< psd/tize >}}
 ## Time.Scale property
 
-الحصول على أو تعيين مقياس لقيمة الوقت.
+يحصل أو يضبط المقياس لقيمة الوقت.
 
 ```csharp
 public Rational Scale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مقياس القيمة الزمنية .
+المقياس لقيمة الوقت.
 
-### أمثلة
+## أمثلة
 
-بالنسبة إلى NTSC ، استخدم 1001/30000 ، أو أقل دقة 100 / 2997. بالنسبة إلى PAL ، استخدم 1/25 .
+لـ NTSC، استخدم 1001/30000، أو الأقل دقة 100/2997. لـ PAL، استخدم 1/25.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

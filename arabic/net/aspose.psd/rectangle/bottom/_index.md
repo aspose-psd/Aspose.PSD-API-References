@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على أو تحديد إحداثي ص الذي يمثل مجموعY وHeight قيم خاصية هذاRectangleهيكل .
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل أو تعين إحداثي y الذي هو مجموع قيمتي الخاصيتين Y و Height لهذه بنية Rectangle."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-الحصول على أو تحديد إحداثي ص الذي يمثل مجموع[`Y`](../y/) و[`Height`](../height/) قيم خاصية هذا[`Rectangle`](../)هيكل .
+تحصل أو تعين إحداثي y الذي هو مجموع قيمتي الخاصيتين [`Y`](../y/) و [`Height`](../height/) لهذه بنية [`Rectangle`](../).
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إحداثي y هو مجموع[`Y`](../y/) و[`Height`](../height/) من هذا[`Rectangle`](../) .
+إحداثي y الذي هو مجموع [`Y`](../y/) و [`Height`](../height/) لهذا [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

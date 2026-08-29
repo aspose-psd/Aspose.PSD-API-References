@@ -1,31 +1,32 @@
 ---
-title: SizeF.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF طريقة. اختبارات لمعرفة ما إذا كان الكائن المحدد بتنسيقSizeF بنفس أبعاد هذاSizeF .
+title: "SizeF.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SizeF. تختبر ما إذا كان الكائن المحدد هو SizeF بنفس الأبعاد مثل هذا SizeF"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/sizef/equals/
 ---
+{{< psd/tize >}}
 ## SizeF.Equals method
 
-اختبارات لمعرفة ما إذا كان الكائن المحدد بتنسيق[`SizeF`](../) بنفس أبعاد هذا[`SizeF`](../) .
+تختبر ما إذا كان الكائن المحدد هو [`SizeF`](../) بنفس الأبعاد مثل هذا [`SizeF`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject لاختبار. |
+| obj | Object | الكائن للاختبار. |
 
 ### قيمة الإرجاع
 
-هذا الأسلوب يعود صحيحا إذا*obj* هو[`SizeF`](../) ولها نفس العرض والارتفاع مثل هذا[`SizeF`](../)؛ خلاف ذلك ، خطأ.
+ترجع هذه الطريقة true إذا كان *obj* هو [`SizeF`](../) وله نفس العرض والارتفاع مثل هذا [`SizeF`](../)؛ وإلا، false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.PaletteHelper
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات لتعديل لوحة الألوان لألوان الصورة والعكس بالعكس.
+title: "Aspose.PSD.PaletteHelper"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على فئات لضبط لوحة الألوان لتتناسب مع ألوان الصورة والعكس."
 type: docs
-weight: 470
+weight: 510
 url: /ar/net/aspose.psd.palettehelper/
 ---
-تحتوي مساحة الاسم على فئات لتعديل لوحة الألوان لألوان الصورة والعكس بالعكس.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على فئات لضبط لوحة ألوان إلى ألوان الصورة والعكس.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
 | [AdjustPalette](./adjustpalette/) | فئة ضبط لوحة الألوان |
 

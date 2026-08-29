@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetX
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على تعويض X.
+title: "AiRasterImageSection.OffsetX"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على الإزاحة X"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/offsetx/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetX property
 
-يحصل على تعويض X.
+يحصل على الإزاحة X.
 
 ```csharp
 public double OffsetX { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الإزاحة X.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SmartFilter.SmartFilter
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilter البناء. يقوم بتهيئة مثيل جديد لملفSmartFilter فئة .
+title: "SmartFilter.SmartFilter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ SmartFilter. يهيئ نسخة جديدة من فئة SmartFilter"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter constructor
 
-يقوم بتهيئة مثيل جديد لملف[`SmartFilter`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`SmartFilter`](../).
 
 ```csharp
 public SmartFilter()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

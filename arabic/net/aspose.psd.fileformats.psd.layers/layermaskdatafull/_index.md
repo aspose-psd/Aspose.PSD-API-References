@@ -1,51 +1,52 @@
 ---
-title: Class LayerMaskDataFull
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataFull فصل. يحدد فئة LayerMaskDataFull التي تحتوي على معلومات حول بيانات القناع في ملف PSD layer عندما تحتوي الطبقة على أقنعة طبقة وأقنعة متجهة. خلاف ذلك  أLayerMaskDataShort . تحتوي ImageData على القناع النقطي وقناع المتجه النقطي معًا.
+title: "الفئة LayerMaskDataFull"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataFull class. يعرّف الفئة LayerMaskDataFull التي تحتوي على معلومات حول بيانات القناع في طبقة ملف PSD عندما تحتوي الطبقة على كل من أقنعة الطبقة وأقنعة المتجه. وإلا يتم استخدام LayerMaskDataShort. يحتوي ImageData على القناع النقطي والقناع المتجه المرسوم معًا. يجب أن يكون طول بايتات ImageData مساويًا لخصائص MaskRectangle.Width  MaskRectangle.Height."
 type: docs
-weight: 2250
+weight: 2450
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull class
 
-يحدد فئة LayerMaskDataFull التي تحتوي على معلومات حول بيانات القناع في ملف PSD layer عندما تحتوي الطبقة على أقنعة طبقة وأقنعة متجهة. خلاف ذلك ، أ[`LayerMaskDataShort`](../layermaskdatashort/) . تحتوي ImageData على القناع النقطي وقناع المتجه النقطي معًا.
+يعرّف الفئة LayerMaskDataFull التي تحتوي على معلومات حول بيانات القناع في طبقة ملف PSD عندما تحتوي الطبقة على كل من أقنعة الطبقة وأقنعة المتجه. وإلا يتم استخدام [`LayerMaskDataShort`](../layermaskdatashort/). يحتوي ImageData على القناع النقطي والقناع المتجه المرسوم معًا. يجب أن يكون طول بايتات ImageData مساويًا لخصائص MaskRectangle.Width * MaskRectangle.Height.
 
 ```csharp
 public sealed class LayerMaskDataFull : LayerMaskData
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LayerMaskDataFull](layermaskdatafull/)() | Default_Constructor |
+| [LayerMaskDataFull](layermaskdatafull/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/) { get; set; } | الحصول على لون الخلفية أو تعيينه. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | الحصول على أو تحديد موضع قناع الطبقة السفلية. |
+| [BackgroundColor](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/) { get; set; } | يحصل أو يضبط لون الخلفية. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | يحصل أو يضبط موضع قناع الطبقة السفلي. |
 | [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | يحصل على حجم بيانات قناع الطبقة. |
-| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/) { get; set; } | الحصول على اللون الافتراضي أو تعيينه. |
-| [EnclosingBottom](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingbottom/) { get; set; } | الحصول على أو تعيين موضع قناع المسح النقطي السفلي في طبقة صورة PSD. |
-| [EnclosingLeft](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft/) { get; set; } | الحصول على أو تعيين موضع القناع النقطي الأيسر المتضمن في طبقة ملف PSD. |
-| [EnclosingRight](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/) { get; set; } | الحصول على أو تعيين موضع القناع النقطي الأيمن في طبقة ملف PSD. |
-| [EnclosingTop](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingtop/) { get; set; } | الحصول على أو تعيين الموضع العلوي المحيط للقناع النقطي في طبقة صورة PSD. |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | الحصول على أو تعيين أعلام قناع الطبقة. |
-| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | الحصول على أو تعيين بيانات قناع الطبقة (أو القناع المدمج / النهائي إذا كان هناك قناع متجه) في ملف PSD. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | الحصول على أو تحديد موضع قناع الطبقة الأيسر. |
-| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | الحصول على القناع أو تحديده[`Rectangle`](../../aspose.psd/rectangle/)قناع الطبقة في ملف PSD. يأخذ خصائص وينشئ اليسار واليمين والعلوي والسفلي[`Rectangle`](../../aspose.psd/rectangle/) |
-| [RealFlags](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/) { get; set; } | الحصول على أو تعيين إشارات قناع الطبقة المستخدمة لقناع المستخدم / قناع البيانات النقطية. بالنسبة لقناع المتجه ، يتم استخدام خاصية الإشارات. |
-| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | الحصول على أو تحديد موضع قناع الطبقة الصحيح. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | الحصول على أو تحديد موضع قناع الطبقة العليا. |
-| [UserMaskData](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata/) { get; set; } | الحصول على أو تعيين بيانات قناع المستخدم (النقطية) لطبقة في ملف PSD. (يوجد قناع متجه مقيم في الخاصية MaskData) . |
-| [UserMaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle/) { get; set; } | الحصول على أو تعيين مستطيل قناع المستخدم (المتضمن) في طبقة صورة PSD .. |
+| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/) { get; set; } | يحصل أو يضبط اللون الافتراضي. |
+| [EnclosingBottom](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingbottom/) { get; set; } | يحصل أو يضبط موضع القناع النقطي السفلي المحيط في طبقة صورة PSD. |
+| [EnclosingLeft](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft/) { get; set; } | يحصل أو يضبط موضع القناع النقطي الأيسر المحيط في طبقة ملف PSD. |
+| [EnclosingRight](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/) { get; set; } | يحصل أو يضبط موضع القناع النقطي الأيمن المحيط في طبقة ملف PSD. |
+| [EnclosingTop](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingtop/) { get; set; } | يحصل أو يضبط الموضع العلوي القائم للقناع النقطي في طبقة صورة PSD. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | يحصل أو يضبط أعلام قناع الطبقة. |
+| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | يحصل أو يضبط بيانات قناع الطبقة (أو القناع المدمج / النهائي إذا كان هناك قناع متجه) في ملف PSD. |
+| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | يحصل أو يضبط موضع قناع الطبقة الأيسر. |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | يحصل أو يضبط قناع [`Rectangle`](../../aspose.psd/rectangle/) لقناع الطبقة في ملف PSD. يأخذ الخصائص اليسار، اليمين، الأعلى والأسفل وينشئ [`Rectangle`](../../aspose.psd/rectangle/). |
+| [RealFlags](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/) { get; set; } | يحصل أو يضبط أعلام قناع الطبقة المستخدمة للقناع المستخدم / النقطي. بالنسبة لقناع المتجه تُستخدم خاصية Flags. |
+| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | يحصل أو يضبط موضع قناع الطبقة الأيمن. |
+| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | يحصل أو يضبط موضع قناع الطبقة العلوي. |
+| [UserMaskData](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata/) { get; set; } | يحصل أو يضبط بيانات القناع المستخدم (النقطي) لطبقة في ملف PSD. (هناك قناع متجه مرسوم في خاصية MaskData). |
+| [UserMaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle/) { get; set; } | يحصل أو يضبط مستطيل القناع المستخدم (المحيط) في طبقة صورة PSD.. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskData](../layermaskdata/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. يقرأ مصفوفة من قيم البايت من الدفق.
+title: "TiffStreamReader.ReadBytes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. قراءة مصفوفة من قيم البايت من الدفق"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
 ---
+{{< psd/tize >}}
 ## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
 يقرأ مصفوفة من قيم البايت من الدفق.
@@ -14,22 +15,22 @@ url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbyt
 public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| array | Byte[] | المصفوفة المراد تعبئتها. |
-| arrayIndex | Int32 | فهرس الصفيف لبدء وضع القيم عليه. |
-| position | Int64 | موضع الدفق للقراءة منه. |
-| count | Int64 | عدد العناصر للقراءة. |
+| المصفوفة | Byte[] | المصفوفة للتعبئة. |
+| arrayIndex | Int32 | فهرس المصفوفة للبدء بوضع القيم فيه. |
+| الموضع | Int64 | موضع الدفق للقراءة منه. |
+| العدد | Int64 | عدد العناصر للقراءة. |
 
 ### قيمة الإرجاع
 
-مصفوفة قيم البايت .
+مصفوفة قيم البايت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,19 +42,19 @@ public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 public byte[] ReadBytes(long position, long count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
-| count | Int64 | عدد العناصر. |
+| الموضع | Int64 | الموضع للقراءة منه. |
+| العدد | Int64 | عدد العناصر. |
 
 ### قيمة الإرجاع
 
-صفيف قيم البايت غير الموقعة.
+مصفوفة قيم البايت غير الموقعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,41 +1,42 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Multithreading.InterruptMonitor فصل. يمثل معلومات حول الانقطاع .
+title: "الفئة InterruptMonitor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Multithreading.InterruptMonitor فئة. تمثل معلومات حول الانقطاع"
 type: docs
-weight: 5130
+weight: 5620
 url: /ar/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
-يمثل معلومات حول الانقطاع .
+يمثل معلومات حول الانقطاع.
 
 ```csharp
 public class InterruptMonitor
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | Default_Constructor |
+| [InterruptMonitor](interruptmonitor/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | الحصول على أو تعيين مثيل InterruptMonitor الفريد لكل مؤشر ترابط. |
-| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | الحصول على القيمة التي تشير إلى ما إذا كان يجب مقاطعة العمليات. |
+| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | يحصل أو يضبط نسخة InterruptMonitor التي هي فريدة لكل خيط. |
+| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | يحصل على القيمة التي تشير إلى ما إذا كان يجب مقاطعة العمليات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | يرسل طلبًا بمقاطعة العمليات. |
+| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | يرسل طلبًا لمقاطعة العمليات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

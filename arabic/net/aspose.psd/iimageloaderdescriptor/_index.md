@@ -1,30 +1,31 @@
 ---
-title: Interface IImageLoaderDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IImageLoaderDescriptor واجهه المستخدم. واصف أداة تحميل الصور الذي يحدد خصائص أداة التحميل. يتم استخدام واصف أداة التحميل للتغلب على ضرورة احتواء كل مثيل محمل للصور في الذاكرة ومشكلات تعدد مؤشرات الترابط.
+title: "الواجهة IImageLoaderDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IImageLoaderDescriptor. موصِّف محمِّل الصورة الذي يحدد خصائص المحمِّل. يُستخدم موصِّف المحمِّل لتجاوز الحاجة إلى احتواء كل مثيل من محمِّل الصورة في الذاكرة ومشكلات تعدد الخيوط."
 type: docs
-weight: 4460
+weight: 4930
 url: /ar/net/aspose.psd/iimageloaderdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor interface
 
-واصف أداة تحميل الصور الذي يحدد خصائص أداة التحميل. يتم استخدام واصف أداة التحميل للتغلب على ضرورة احتواء كل مثيل محمل للصور في الذاكرة ومشكلات تعدد مؤشرات الترابط.
+image loader descriptor الذي يحدد خصائص المحمل. يُستخدم loader descriptor لتجاوز الحاجة إلى احتواء كل مثال من image loader في الذاكرة ومشكلات تعدد الخيوط.
 
 ```csharp
 public interface IImageLoaderDescriptor : IImageDescriptor
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | تحديد ما إذا كان بإمكان أداة تحميل الصور قراءة صورة جديدة من التدفق المحدد واختيارياً باستخدام امتداد*loadOptions* . |
-| [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance/)() | إنشاء مثيل مُحمل جديد. |
+| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | يحدد ما إذا كان محمِّل الصورة يمكنه قراءة صورة جديدة من الدفق المحدد واختياريًا باستخدام *loadOptions*. |
+| [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance/)() | ينشئ مثيلًا جديدًا للمحمِّل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Color.ToKnownColor
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. يحصل على ملفKnownColor قيمة هذاColorهيكل .
+title: "Color.ToKnownColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. يحصل على قيمة KnownColor لهذا الهيكل Color"
 type: docs
 weight: 1600
 url: /ar/net/aspose.psd/color/toknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.ToKnownColor method
 
-يحصل على ملف[`KnownColor`](../../knowncolor/) قيمة هذا[`Color`](../)هيكل .
+يحصل على قيمة [`KnownColor`](../../knowncolor/) لهذا الهيكل [`Color`](../).
 
 ```csharp
 public KnownColor ToKnownColor()
@@ -16,13 +17,13 @@ public KnownColor ToKnownColor()
 
 ### قيمة الإرجاع
 
-عنصر من عناصر[`KnownColor`](../../knowncolor/)التعداد ، إذا كان[`Color`](../) يتم إنشاؤه من لون محدد مسبقًا باستخدام إما[`FromName`](../fromname/) طريقة أو[`FromKnownColor`](../fromknowncolor/) طريقة؛ خلاف ذلك ، 0.
+عنصر من تعداد [`KnownColor`](../../knowncolor/) ، إذا تم إنشاء [`Color`](../) من لون مسبق التعريف باستخدام إما طريقة [`FromName`](../fromname/) أو طريقة [`FromKnownColor`](../fromknowncolor/)؛ وإلا، 0.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.SyncRoot
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer ملكية. الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
+title: "SplitStreamContainer.SyncRoot"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SplitStreamContainer. الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/splitstreamcontainer/syncroot/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.SyncRoot property
 
-الحصول على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
+يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الكائن الذي يمكن استخدامه لمزامنة الوصول إلى المورد المتزامن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

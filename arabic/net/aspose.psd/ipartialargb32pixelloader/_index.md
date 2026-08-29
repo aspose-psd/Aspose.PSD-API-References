@@ -1,28 +1,29 @@
 ---
-title: Interface IPartialArgb32PixelLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IPartialArgb32PixelLoader واجهه المستخدم. يتوافق مع وحدات البكسل ARGB 32 بت التي تم تحميلها جزئيًا.
+title: "الواجهة IPartialArgb32PixelLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IPartialArgb32PixelLoader. تتوافق مع بكسلات ARGB 32 بت التي تم تحميلها جزئياً"
 type: docs
-weight: 4510
+weight: 4980
 url: /ar/net/aspose.psd/ipartialargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb32PixelLoader interface
 
-يتوافق مع وحدات البكسل ARGB 32 بت التي تم تحميلها جزئيًا.
+يتوافق مع بكسلات ARGB 32-بت التي تم تحميلها جزئيًا.
 
 ```csharp
 public interface IPartialArgb32PixelLoader
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialargb32pixelloader/process/)(Rectangle, int[], Point, Point) | يعالج وحدات البكسل المحملة . |
+| [Process](../../aspose.psd/ipartialargb32pixelloader/process/)(Rectangle, int[], Point, Point) | يعالج البكسلات المحمّلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: Aspose.PSD لمرجع .NET API
-description: ChannelInformation ملكية. الحصول على أو تحديد معرف القناة .
+title: "ChannelInformation.ChannelID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ChannelInformation. تحصّل أو تضبط معرف القناة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
-الحصول على أو تحديد معرف القناة .
+يحصل أو يضبط معرف القناة.
 
 ```csharp
 public short ChannelID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف القناة .
+معرف القناة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ChannelInformation](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

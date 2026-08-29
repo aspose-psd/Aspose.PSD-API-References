@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على عدد بايتات الشريط أو تعيينه.
+title: "TiffOptions.StripByteCounts"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يضبط عدد بايتات الشريط"
 type: docs
-weight: 460
+weight: 470
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
-الحصول على عدد بايتات الشريط أو تعيينه.
+يحصل أو يعيّن عدد بايتات الشريط.
 
 ```csharp
 public uint[] StripByteCounts { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد بايت الشريط .
+عدد بايتات الشريط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

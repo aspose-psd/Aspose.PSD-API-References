@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.HorizontalOffset
-second_title: Aspose.PSD لمرجع .NET API
-description: IPatternFillSettings ملكية. الحصول على أو تعيين الإزاحة الأفقية.
+title: "IPatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPatternFillSettings. يحصل أو يضبط الإزاحة الأفقية"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.HorizontalOffset property
 
-الحصول على أو تعيين الإزاحة الأفقية.
+يحصل أو يعيّن الإزاحة الأفقية.
 
 ```csharp
 public int HorizontalOffset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإزاحة الأفقية .
+الإزاحة الأفقية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

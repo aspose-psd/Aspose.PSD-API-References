@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ImageResources
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على موارد صور PSD أو تعيينها.
+title: "PsdImage.ImageResources"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. يسترجع أو يعيّن موارد صورة PSD"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
-الحصول على موارد صور PSD أو تعيينها.
+يحصل أو يعيّن موارد صورة PSD.
 
 ```csharp
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موارد صور PSD.
+موارد صورة PSD.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

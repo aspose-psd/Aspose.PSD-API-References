@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: FxrpResource مجال. مفتاح معلومات أداة النوع.
+title: "FxrpResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل FxrpResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 90
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## FxrpResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FxrpResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcessColors
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على أو تعيين ألوان معالجة المستند.
+title: "AiHeader.DocumentProcessColors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. يحصل أو يضبط ألوان معالجة المستند"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/documentprocesscolors/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcessColors property
 
-الحصول على أو تعيين ألوان معالجة المستند.
+يحصل أو يضبط ألوان معالجة المستند.
 
 ```csharp
 public string DocumentProcessColors { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ألوان معالجة المستند .
+ألوان معالجة المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

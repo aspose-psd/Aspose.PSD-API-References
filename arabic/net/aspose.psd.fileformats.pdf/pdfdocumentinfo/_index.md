@@ -1,37 +1,38 @@
 ---
-title: Class PdfDocumentInfo
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo فصل. تمثل هذه الفئة مجموعة من البيانات الوصفية لوصف الوثيقة.
+title: "فئة PdfDocumentInfo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo. تمثل هذه الفئة مجموعة من البيانات الوصفية لوصف المستند"
 type: docs
-weight: 1570
+weight: 1580
 url: /ar/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo class
 
-تمثل هذه الفئة مجموعة من البيانات الوصفية لوصف الوثيقة.
+تمثل هذه الفئة مجموعة من البيانات الوصفية لوصف المستند.
 
 ```csharp
 public class PdfDocumentInfo
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PdfDocumentInfo](pdfdocumentinfo/)() | Default_Constructor |
+| [PdfDocumentInfo](pdfdocumentinfo/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | الحصول على مؤلف المستند أو تعيينه. |
-| [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | الحصول على أو تعيين الكلمات الأساسية للمستند. |
-| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | الحصول على أو تعيين موضوع المستند. |
-| [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | الحصول على عنوان المستند أو تعيينه. |
+| [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | يحصل أو يضبط مؤلف المستند. |
+| [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | يحصل أو يضبط كلمات مفتاحية للمستند. |
+| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | يحصل أو يضبط موضوع المستند. |
+| [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | يحصل أو يضبط عنوان المستند |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

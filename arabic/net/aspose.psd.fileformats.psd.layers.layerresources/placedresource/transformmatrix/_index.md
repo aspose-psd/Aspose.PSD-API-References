@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.TransformMatrix
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تعيين مصفوفة التحويل للطبقة الموضوعة في ملف PSD.
+title: "PlacedResource.TransformMatrix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط مصفوفة التحويل للطبقة الموضوعة في ملف PSD."
 type: docs
-weight: 170
+weight: 160
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TransformMatrix property
 
-الحصول على أو تعيين مصفوفة التحويل للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط مصفوفة التحويل للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مصفوفة التحويل للطبقة الموضوعة .
+مصفوفة التحويل للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

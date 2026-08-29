@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustContrast
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. تباين الصورة
+title: "PsdImage.AdjustContrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تعديل تباين الصورة"
 type: docs
-weight: 450
+weight: 510
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustContrast method
 
 تباين الصورة
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.psd/psdimage/adjustcontrast/
 public override void AdjustContrast(float contrast)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| contrast | Single | قيمة التباين (في النطاق [-100 ؛ 100]) |
+| التباين | Single | قيمة التباين (في النطاق [-100; 100]) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

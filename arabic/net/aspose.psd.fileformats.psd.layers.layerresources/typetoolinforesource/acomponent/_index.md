@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.AComponent
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على أحد المكونات أو تعيينه.
+title: "TypeToolInfoResource.AComponent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط مكوّنًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/acomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.AComponent property
 
-الحصول على أحد المكونات أو تعيينه.
+يحصل أو يضبط مكوّنًا.
 
 ```csharp
 public short AComponent { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مكون .
+مكوّنًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

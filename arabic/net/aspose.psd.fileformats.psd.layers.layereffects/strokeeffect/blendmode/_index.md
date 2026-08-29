@@ -1,28 +1,29 @@
 ---
-title: StrokeEffect.BlendMode
-second_title: Aspose.PSD لمرجع .NET API
-description: StrokeEffect ملكية. الحصول على أو تحديد وضع المزج .
+title: "StrokeEffect.BlendMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StrokeEffect. يحصل على أو يضبط وضع الدمج"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.BlendMode property
 
-الحصول على أو تحديد وضع المزج .
+يحصل أو يضبط وضع المزج.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع المزج .
+وضع الدمج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [StrokeEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

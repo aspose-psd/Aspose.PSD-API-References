@@ -1,28 +1,29 @@
 ---
-title: Shape.Segments
-second_title: Aspose.PSD لمرجع .NET API
-description: Shape ملكية. الحصول على شرائح الشكل .
+title: "Shape.Segments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Shape. تحصل على مقاطع الشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
-الحصول على شرائح الشكل .
+يحصل على مقاطع الشكل.
 
 ```csharp
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مقاطع الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* مساحة الاسم [Aspose.PSD](../../shape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

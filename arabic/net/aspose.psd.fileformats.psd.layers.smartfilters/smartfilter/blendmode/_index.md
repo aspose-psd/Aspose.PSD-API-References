@@ -1,24 +1,25 @@
 ---
-title: SmartFilter.BlendMode
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilter ملكية. الحصول على أو تحديد وضع المزج .
+title: "SmartFilter.BlendMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartFilter. يحصل أو يضبط وضع المزج"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/
 ---
+{{< psd/tize >}}
 ## SmartFilter.BlendMode property
 
-الحصول على أو تحديد وضع المزج .
+يحصل أو يضبط وضع المزج.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [SmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

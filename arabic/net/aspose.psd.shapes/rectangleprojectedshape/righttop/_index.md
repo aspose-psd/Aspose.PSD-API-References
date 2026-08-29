@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.RightTop
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleProjectedShape ملكية. الحصول على نقطة المستطيل العلوية اليمنى .
+title: "RectangleProjectedShape.RightTop"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleProjectedShape. تُرجع نقطة الزاوية اليمنى العليا للمستطيل"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/righttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RightTop property
 
-الحصول على نقطة المستطيل العلوية اليمنى .
+يحصل على نقطة الزاوية اليمنى العليا للمستطيل.
 
 ```csharp
 public PointF RightTop { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة المستطيل العلوية اليمنى.
+نقطة الزاوية اليمنى العليا للمستطيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

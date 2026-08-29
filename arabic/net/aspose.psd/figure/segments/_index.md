@@ -1,28 +1,29 @@
 ---
-title: Figure.Segments
-second_title: Aspose.PSD لمرجع .NET API
-description: Figure ملكية. يحصل على شرائح الشكل بالكامل.
+title: "Figure.Segments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Figure. تحصل على جميع مقاطع الشكل"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
-يحصل على شرائح الشكل بالكامل.
+يحصل على جميع مقاطع الشكل.
 
 ```csharp
 public ShapeSegment[] Segments { get; }
 ```
 
-### Property_Value
+### Property Value
 
-شرائح الشكل.
+مقاطع الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* مساحة الاسم [Aspose.PSD](../../figure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

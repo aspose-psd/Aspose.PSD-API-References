@@ -1,27 +1,28 @@
 ---
-title: TextLayer.Text
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer ملكية. يحصل على النص.
+title: "TextLayer.Text"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextLayer. تحصل على النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/text/
 ---
+{{< psd/tize >}}
 ## TextLayer.Text property
 
-يحصل على النص.
+يسترجع النص.
 
 ```csharp
 public string Text { get; }
 ```
 
-### Property_Value
+### Property Value
 
 النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

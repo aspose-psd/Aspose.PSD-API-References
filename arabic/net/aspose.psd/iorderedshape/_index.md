@@ -1,14 +1,15 @@
 ---
-title: Interface IOrderedShape
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IOrderedShape واجهه المستخدم. يمثل شكلاً مرتبًا. الشكل المرتب عبارة عن مجموعة متصلة من النقاط لها نقطة بداية ونقطة نهاية . المجموعة المستمرة من النقاط المتصلة باستخدام قاعدة محددة.
+title: "الواجهة IOrderedShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IOrderedShape. تمثل شكلاً مرتباً. الشكل المرتب هو مجموعة مستمرة من النقاط لها نقطة بداية ونقطة نهاية. المجموعة المستمرة من النقاط متصلة باستخدام قاعدة محددة."
 type: docs
-weight: 4500
+weight: 4970
 url: /ar/net/aspose.psd/iorderedshape/
 ---
+{{< psd/tize >}}
 ## IOrderedShape interface
 
-يمثل شكلاً مرتبًا. الشكل المرتب عبارة عن مجموعة متصلة من النقاط لها نقطة بداية ونقطة نهاية . المجموعة المستمرة من النقاط المتصلة باستخدام قاعدة محددة.
+يمثل شكلًا مرتبًا. الشكل المرتب هو مجموعة مستمرة من النقاط لها نقطة بداية ونقطة نهاية. المجموعة المستمرة من النقاط متصلة باستخدام قاعدة محددة.
 
 ```csharp
 public interface IOrderedShape
@@ -16,21 +17,21 @@ public interface IOrderedShape
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | الحصول على نقطة شكل النهاية . |
-| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة الشكل المرتب المغلق ، لا معنى لنقطتي البداية والنهاية. |
-| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | يحصل على نقطة شكل البداية . |
+| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | يحصل على نقطة النهاية للشكل. |
+| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة شكل مرتب مغلق لا يكون للنقطة البداية والنهاية أي معنى. |
+| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | يحصل على نقطة بداية الشكل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | عكس ترتيب النقاط لهذا الشكل. |
+| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | يعكس ترتيب النقاط لهذا الشكل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

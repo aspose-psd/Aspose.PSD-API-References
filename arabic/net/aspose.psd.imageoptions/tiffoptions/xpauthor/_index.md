@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين مؤلف الصورة  والذي يستخدمه مستكشف Windows.
+title: "TiffOptions.XPAuthor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين مؤلف الصورة الذي يستخدمه Windows Explorer"
 type: docs
-weight: 590
+weight: 600
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-الحصول على أو تعيين مؤلف الصورة ، والذي يستخدمه مستكشف Windows.
+يحصل أو يعيّن مؤلف الصورة، والذي يستخدمه Windows Explorer.
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مؤلف الصورة ، المستخدم بواسطة مستكشف Windows . ملف`XPAuthor` يتم تجاهله بواسطة مستكشف Windows إذا كان ملف[`Artist`](../artist/) العلامة موجودة .
+مؤلف الصورة، يستخدمه Windows Explorer. يتم تجاهل `XPAuthor` من قبل Windows Explorer إذا كان وسم [`Artist`](../artist/) موجودًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

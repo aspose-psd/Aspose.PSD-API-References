@@ -1,14 +1,15 @@
 ---
-title: AiDataSection.GetData
-second_title: Aspose.PSD لمرجع .NET API
-description: AiDataSection طريقة. يحصل على بيانات السلسلة .
+title: "AiDataSection.GetData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AiDataSection. تحصل على بيانات السلسلة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.ai/aidatasection/getdata/
 ---
+{{< psd/tize >}}
 ## AiDataSection.GetData method
 
-يحصل على بيانات السلسلة .
+يحصل على بيانات السلسلة.
 
 ```csharp
 public string GetData()
@@ -16,12 +17,12 @@ public string GetData()
 
 ### قيمة الإرجاع
 
-سلسلة البيانات من القسم
+بيانات السلسلة للقسم
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiDataSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aidatasection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

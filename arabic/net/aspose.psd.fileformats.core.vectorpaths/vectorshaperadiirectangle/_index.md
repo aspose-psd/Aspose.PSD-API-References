@@ -1,43 +1,44 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle فصل. يحدد فئة مستطيل نصف قطر الشكل المتجه
+title: "الفئة VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle فئة. يعرّف فئة مستطيل نصف قطر الشكل المتجه"
 type: docs
-weight: 1450
+weight: 1460
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-يحدد فئة مستطيل نصف قطر الشكل المتجه
+يعرّف فئة مستطيل نصف قطر الشكل المتجه
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Default_Constructor |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | يحصل على القاع أو يحدده. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | الحصول على أو تحديد الجزء السفلي الأيمن . |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | الحصول على أو تحديد إصدار رباعي لقيمة الوحدة. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | يحصل أو يحدد أعلى اليسار. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | الحصول على أعلى اليمين أو تحديده. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | يحصل أو يعيّن الخاصية السفلية. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | يحصل أو يعيّن الخاصية السفلية اليمنى. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | يحصل أو يعيّن نسخة رباعية لقيمة الوحدة. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | يحصل أو يعيّن الخاصية العلوية اليسرى. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | يحصل أو يعيّن الخاصية العلوية اليمنى. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال أن تحميل وحفظ صورة PSD بطبقات الشكل ومسارات المتجهات يعمل بشكل صحيح.
+يوضح هذا المثال أن تحميل وحفظ صورة PSD مع طبقات الشكل والمسارات المتجهة يعمل بشكل صحيح.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال أن تحميل وحفظ صورة PSD بطبقات الشكل ومسارات المتجهات يعمل بشكل صحيح.
+// يوضح هذا المثال أن تحميل وحفظ صورة PSD مع طبقات الشكل والمسارات المتجهة يعمل بشكل صحيح.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

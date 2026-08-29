@@ -1,27 +1,28 @@
 ---
-title: PropertyStructure.ClassName
-second_title: Aspose.PSD لمرجع .NET API
-description: PropertyStructure ملكية. الحصول على أو تحديد اسم الفئة .
+title: "PropertyStructure.ClassName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PropertyStructure. تحصل أو تعيّن اسم الفئة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classname/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.ClassName property
 
-الحصول على أو تحديد اسم الفئة .
+يحصل أو يضبط اسم الفئة.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الفئة .
+اسم الفئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PropertyStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

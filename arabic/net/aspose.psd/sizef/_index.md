@@ -1,56 +1,57 @@
 ---
-title: Struct SizeF
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.SizeF هيكل. يخزن زوجًا مرتبًا من أرقام الفاصلة العائمة  وعادة ما يكون عرض المستطيل وارتفاعه.
+title: "الهيكل SizeF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الهيكل Aspose.PSD.SizeF. يخزن زوجًا مرتبًا من الأعداد العشرية عادةً العرض والارتفاع لمستطيل."
 type: docs
-weight: 5560
+weight: 6060
 url: /ar/net/aspose.psd/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF structure
 
-يخزن زوجًا مرتبًا من أرقام الفاصلة العائمة ، وعادة ما يكون عرض المستطيل وارتفاعه.
+يخزن زوجًا مرتبًا من الأعداد العائمة، عادةً العرض والارتفاع لمستطيل.
 
 ```csharp
 public struct SizeF
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SizeF](sizef/#constructor)(PointF) | يقوم بتهيئة مثيل جديد لملف`SizeF` هيكل من المحدد[`PointF`](../pointf/) . |
-| [SizeF](sizef/#constructor_1)(SizeF) | يقوم بتهيئة مثيل جديد لملف`SizeF` هيكل من المحدد`SizeF` . |
-| [SizeF](sizef/#constructor_2)(float, float) | يقوم بتهيئة مثيل جديد لملف`SizeF` هيكل من الأبعاد المحددة. |
+| [SizeF](sizef/#constructor)(PointF) | يُهيئ نسخة جديدة من الهيكل `SizeF` من الـ [`PointF`](../pointf/) المحدد. |
+| [SizeF](sizef/#constructor_1)(SizeF) | يُهيئ نسخة جديدة من الهيكل `SizeF` من الـ `SizeF` المحدد. |
+| [SizeF](sizef/#constructor_2)(float, float) | يُهيئ نسخة جديدة من بنية `SizeF` من الأبعاد المحددة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Empty](../../aspose.psd/sizef/empty/) { get; } | يحصل على مثيل جديد لملف`SizeF` هيكل لديه[`Width`](./width/) و[`Height`](./height/) تم ضبط القيم على الصفر. |
-| [Height](../../aspose.psd/sizef/height/) { get; set; } | الحصول على أو تحديد المكون الرأسي لهذا`SizeF` . |
-| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا`SizeF` العرض والارتفاع صفر. |
-| [Width](../../aspose.psd/sizef/width/) { get; set; } | الحصول على أو تحديد المكون الأفقي لهذا`SizeF` . |
+| static [Empty](../../aspose.psd/sizef/empty/) { get; } | يحصل على نسخة جديدة من بنية `SizeF` التي تحتوي على قيم [`Width`](./width/) و[`Height`](./height/) مضبوطة على الصفر. |
+| [Height](../../aspose.psd/sizef/height/) { get; set; } | يحصل أو يعيّن المكوّن العمودي لهذا `SizeF`. |
+| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا `SizeF` يملك عرضًا وارتفاعًا صفرًا. |
+| [Width](../../aspose.psd/sizef/width/) { get; set; } | يحصل أو يعيّن المكوّن الأفقي لهذا `SizeF`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | إضافة عرض وارتفاع واحد`SizeF` هيكل لعرض وارتفاع آخر`SizeF`هيكل . |
-| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | طرح عرض وارتفاع واحد`SizeF` هيكل من عرض وارتفاع آخر`SizeF`هيكل . |
-| override [Equals](../../aspose.psd/sizef/equals/)(object) | اختبارات لمعرفة ما إذا كان الكائن المحدد بتنسيق`SizeF` بنفس أبعاد هذا`SizeF` . |
-| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | إرجاع رمز تجزئة لهذا الغرض[`Size`](../size/)هيكل . |
-| [ToPointF](../../aspose.psd/sizef/topointf/)() | تحويل أ`SizeF` إلى أ[`PointF`](../pointf/) . |
-| [ToSize](../../aspose.psd/sizef/tosize/)() | تحويل أ`SizeF` إلى أ[`Size`](../size/) هيكل بقيم حجم مقطوعة. |
-| override [ToString](../../aspose.psd/sizef/tostring/)() | لإنشاء سلسلة يمكن للبشر قراءتها تمثل هذا`SizeF` . |
-| [operator +](../../aspose.psd/sizef/op_addition/) | إضافة عرض وارتفاع واحد`SizeF` هيكل لعرض وارتفاع آخر`SizeF`هيكل . |
-| [operator ==](../../aspose.psd/sizef/op_equality/) | اختبار ما إذا كان اثنان`SizeF` الهياكل متساوية. |
-| [explicit operator](../../aspose.psd/sizef/op_explicit/) | تحويل المحدد`SizeF` إلى أ[`PointF`](../pointf/) . |
-| [operator !=](../../aspose.psd/sizef/op_inequality/) | اختبار ما إذا كان اثنان`SizeF` الهياكل مختلفة. |
-| [operator -](../../aspose.psd/sizef/op_subtraction/) | طرح عرض وارتفاع واحد`SizeF` هيكل من عرض وارتفاع آخر`SizeF`هيكل . |
+| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | يضيف عرض وارتفاع بنية `SizeF` واحدة إلى عرض وارتفاع بنية `SizeF` أخرى. |
+| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | يطرح عرض وارتفاع بنية `SizeF` واحدة من عرض وارتفاع بنية `SizeF` أخرى. |
+| override [Equals](../../aspose.psd/sizef/equals/)(object) | يفحص ما إذا كان الكائن المحدد هو `SizeF` له نفس الأبعاد مثل هذا `SizeF`. |
+| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | يرجع رمز تجزئة لهذه بنية [`Size`](../size/). |
+| [ToPointF](../../aspose.psd/sizef/topointf/)() | يحوّل `SizeF` إلى [`PointF`](../pointf/). |
+| [ToSize](../../aspose.psd/sizef/tosize/)() | يحوّل `SizeF` إلى بنية [`Size`](../size/) مع قيم حجم مقصوصة. |
+| override [ToString](../../aspose.psd/sizef/tostring/)() | ينشئ سلسلة قابلة للقراءة تمثّل هذا `SizeF`. |
+| [operator +](../../aspose.psd/sizef/op_addition/) | يضيف عرض وارتفاع بنية `SizeF` واحدة إلى عرض وارتفاع بنية `SizeF` أخرى. |
+| [operator ==](../../aspose.psd/sizef/op_equality/) | يفحص ما إذا كانت بنيتا `SizeF` متساويتين. |
+| [explicit operator](../../aspose.psd/sizef/op_explicit/) | يحوّل `SizeF` المحدد إلى [`PointF`](../pointf/). |
+| [operator !=](../../aspose.psd/sizef/op_inequality/) | يفحص ما إذا كانت بنيتا `SizeF` مختلفتين. |
+| [operator -](../../aspose.psd/sizef/op_subtraction/) | يطرح عرض وارتفاع بنية `SizeF` واحدة من عرض وارتفاع بنية `SizeF` أخرى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

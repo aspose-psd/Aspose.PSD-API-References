@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.DataRecoveryMode
-second_title: Aspose.PSD لمرجع .NET API
-description: LoadOptions ملكية. الحصول على أو تعيين وضع استعادة البيانات.
+title: "LoadOptions.DataRecoveryMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LoadOptions. تحصل أو تعين وضع استعادة البيانات."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/loadoptions/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataRecoveryMode property
 
-الحصول على أو تعيين وضع استعادة البيانات.
+يحصل أو يعيّن وضع استعادة البيانات.
 
 ```csharp
 public DataRecoveryMode DataRecoveryMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 وضع استعادة البيانات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* مساحة الاسم [Aspose.PSD](../../loadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

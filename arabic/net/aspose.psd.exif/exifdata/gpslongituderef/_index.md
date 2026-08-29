@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين خط طول GPS هو خط الطول الشرقي أو الغربي.
+title: "ExifData.GPSLongitudeRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط ما إذا كان خط الطول GPS شرقًا أو غربًا"
 type: docs
 weight: 550
 url: /ar/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-الحصول على أو تعيين خط طول GPS هو خط الطول الشرقي أو الغربي.
+الحصول أو تعيين ما إذا كان خط طول GPS شرقًا أم غربًا.
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-خط طول GPS هو خط الطول الشرقي أو الغربي .
+خط الطول GPS هو شرق أو غرب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

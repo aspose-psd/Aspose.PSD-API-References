@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.BitsPerSample
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تعيين وحدات البت لكل عينة.
+title: "JpegExifData.BitsPerSample"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين عدد البتات لكل عينة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.exif/jpegexifdata/bitspersample/
 ---
+{{< psd/tize >}}
 ## JpegExifData.BitsPerSample property
 
-الحصول على أو تعيين وحدات البت لكل عينة.
+يحصل أو يضبط عدد البتات لكل عينة.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وحدات البت لكل عينة .
+عدد البتات لكل عينة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

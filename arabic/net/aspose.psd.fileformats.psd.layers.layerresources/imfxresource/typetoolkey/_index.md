@@ -1,0 +1,24 @@
+---
+title: "ImfxResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ImfxResource. مفتاح معلومات أداة النوع"
+type: docs
+weight: 20
+url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/imfxresource/typetoolkey/
+---
+{{< psd/tize >}}
+## ImfxResource.TypeToolKey field
+
+مفتاح معلومات أداة النوع.
+
+```csharp
+public const int TypeToolKey;
+```
+
+### انظر أيضًا
+
+* class [ImfxResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+

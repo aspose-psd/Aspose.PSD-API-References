@@ -1,27 +1,28 @@
 ---
-title: ExifData.PixelXDimension
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد أبعاد البكسل  .
+title: "ExifData.PixelXDimension"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط بُعد البكسل x"
 type: docs
 weight: 840
 url: /ar/net/aspose.psd.exif/exifdata/pixelxdimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelXDimension property
 
-الحصول على أو تحديد أبعاد البكسل × .
+يحصل أو يعيّن البعد السيني للبكسل.
 
 ```csharp
 public uint PixelXDimension { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-البُعد × البكسل .
+بُعد البكسل x.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

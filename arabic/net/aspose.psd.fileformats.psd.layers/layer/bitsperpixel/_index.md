@@ -1,27 +1,28 @@
 ---
-title: Layer.BitsPerPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على عدد بتات الصورة لكل بكسل .
+title: "Layer.BitsPerPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل على عدد بتات الصورة لكل بكسل"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Layer.BitsPerPixel property
 
-الحصول على عدد بتات الصورة لكل بكسل .
+يحصل على عدد البتات في كل بكسل للصورة.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد وحدات بت الصورة لكل بكسل .
+عدد البتات لكل بكسل في الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

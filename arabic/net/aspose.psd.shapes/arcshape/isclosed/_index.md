@@ -1,27 +1,28 @@
 ---
-title: ArcShape.IsClosed
-second_title: Aspose.PSD لمرجع .NET API
-description: ArcShape ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة الشكل المرتب المغلق  لا معنى لنقطتي البداية والنهاية.
+title: "ArcShape.IsClosed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ArcShape. يحصل على أو يضبط قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة شكل مرتب مغلق لا يكون للنقطة البداية والنهاية أي معنى"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapes/arcshape/isclosed/
 ---
+{{< psd/tize >}}
 ## ArcShape.IsClosed property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة الشكل المرتب المغلق ، لا معنى لنقطتي البداية والنهاية.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان الشكل المرتب مغلقًا. عند معالجة شكل مرتب مغلق لا يكون للنقطة البداية والنهاية أي معنى.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا الشكل المرتب مغلقًا ؛ خلاف ذلك،`خطأ شنيع` .
+`True` إذا كان هذا الشكل المرتب مغلقًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ArcShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../arcshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

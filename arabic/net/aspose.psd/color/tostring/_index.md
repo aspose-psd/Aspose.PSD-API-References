@@ -1,14 +1,15 @@
 ---
-title: Color.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. يحول هذاColor بنية لسلسلة يمكن للبشر قراءتها.
+title: "Color.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. تحول بنية Color هذه إلى سلسلة قابلة للقراءة من قبل الإنسان"
 type: docs
 weight: 1610
 url: /ar/net/aspose.psd/color/tostring/
 ---
+{{< psd/tize >}}
 ## Color.ToString method
 
-يحول هذا[`Color`](../) بنية لسلسلة يمكن للبشر قراءتها.
+تحول بنية [`Color`](../) هذه إلى سلسلة قابلة للقراءة من قبل الإنسان.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة هذا هو اسم هذا[`Color`](../) ، إذا كان[`Color`](../) يتم إنشاؤه من لون محدد مسبقًا باستخدام إما[`FromName`](../fromname/) طريقة أو[`FromKnownColor`](../fromknowncolor/) طريقة؛ خلاف ذلك ، سلسلة تتكون من أسماء مكونات ARGB وقيمها.
+سلسلة تمثل اسم هذا [`Color`](../) إذا تم إنشاء [`Color`](../) من لون مسبق التعريف باستخدام إما طريقة [`FromName`](../fromname/) أو طريقة [`FromKnownColor`](../fromknowncolor/)؛ وإلا، تكون سلسلة تتكون من أسماء مكونات ARGB وقيمها.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.AutoKern
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolStyleInfo ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان تقنين الأحرف التلقائي في وضع التشغيل أو الإيقاف .
+title: "TypeToolStyleInfo.AutoKern"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolStyleInfo. تحصل أو تعين قيمة تشير إلى ما إذا كان الضبط التلقائي للمسافات مفعلاً أو معطلاً."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.AutoKern property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان تقنين الأحرف التلقائي في وضع التشغيل أو الإيقاف .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان الضبط التلقائي للمسافات (auto kerning) مفعلاً أم معطلاً.
 
 ```csharp
 public bool AutoKern { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` في حالة تشغيل قرن الحروف التلقائي ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الضبط التلقائي للمسافات مفعلاً؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolStyleInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

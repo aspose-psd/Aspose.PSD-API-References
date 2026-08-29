@@ -1,23 +1,24 @@
 ---
-title: LayerSelectionIdsResource.LayerSelectionIdsResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerSelectionIdsResource البناء. Default_Constructor
+title: "LayerSelectionIdsResource.LayerSelectionIdsResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LayerSelectionIdsResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerselectionidsresource/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public LayerSelectionIdsResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerSelectionIdsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

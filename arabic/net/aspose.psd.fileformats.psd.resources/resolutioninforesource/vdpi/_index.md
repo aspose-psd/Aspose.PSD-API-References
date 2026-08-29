@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.VDpi
-second_title: Aspose.PSD لمرجع .NET API
-description: ResolutionInfoResource ملكية. نقطة في البوصة العمودية .
+title: "ResolutionInfoResource.VDpi"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResolutionInfoResource. DPI عمودي"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VDpi property
 
-نقطة في البوصة العمودية .
+دقة DPI العمودية.
 
 ```csharp
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة في البوصة الرأسية .
+دقة DPI العمودية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

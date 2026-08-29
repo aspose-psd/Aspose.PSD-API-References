@@ -1,23 +1,24 @@
 ---
-title: Namespaces.DublinCore
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. مساحة أسماء النوى العامة .
+title: "Namespaces.DublinCore"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. مساحة اسم Dublic Core"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/namespaces/dublincore/
 ---
+{{< psd/tize >}}
 ## Namespaces.DublinCore field
 
-مساحة أسماء النوى العامة .
+مساحة الاسم Dublic Core.
 
 ```csharp
 public const string DublinCore;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

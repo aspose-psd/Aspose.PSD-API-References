@@ -1,31 +1,32 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpRdfRoot طريقة. يحصل على مساحة الاسم URI ببادئة معينة. قد تبدأ البادئة بدون xmlns.
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpRdfRoot. يحصل على URI للمساحة الاسمية بواسطة بادئة محددة. قد تبدأ البادئة بدون xmlns"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-يحصل على مساحة الاسم URI ببادئة معينة. قد تبدأ البادئة بدون xmlns.
+يحصل على URI مساحة الاسم وفقًا للبادئة المحددة. قد تبدأ البادئة بدون xmlns.
 
 ```csharp
 public string GetNamespaceUri(string prefix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| prefix | String | البادئة. |
+| بادئة | String | البادئة. |
 
 ### قيمة الإرجاع
 
-إرجاع مخطط حزمة URI.
+يعيد URI لمخطط الحزمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpRdfRoot](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmprdfroot/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

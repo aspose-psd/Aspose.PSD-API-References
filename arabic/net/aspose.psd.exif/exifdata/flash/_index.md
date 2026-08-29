@@ -1,28 +1,29 @@
 ---
-title: ExifData.Flash
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على الفلاش أو ضبطه .
+title: "ExifData.Flash"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يسترجع أو يعيّن الوميض"
 type: docs
 weight: 250
 url: /ar/net/aspose.psd.exif/exifdata/flash/
 ---
+{{< psd/tize >}}
 ## ExifData.Flash property
 
-الحصول على الفلاش أو ضبطه .
+يحصل أو يضبط الفلاش.
 
 ```csharp
 public ExifFlash Flash { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الفلاش .
+الفلاش.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifFlash](../../../aspose.psd.exif.enums/exifflash/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

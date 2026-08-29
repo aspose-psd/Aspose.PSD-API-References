@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExifTags
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين العلامات التي تنتمي إلى قسم EXIF فقط.
+title: "ExifData.ExifTags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط العلامات التي تنتمي إلى قسم EXIF فقط"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd.exif/exifdata/exiftags/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifTags property
 
-الحصول على أو تعيين العلامات التي تنتمي إلى قسم EXIF فقط.
+يحصل أو يضبط العلامات التي تنتمي إلى قسم EXIF فقط.
 
 ```csharp
 public TiffDataType[] ExifTags { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-علامات قسم EXIF .
+علامات قسم EXIF.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

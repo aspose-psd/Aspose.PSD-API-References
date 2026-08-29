@@ -1,32 +1,33 @@
 ---
-title: LevlResource.GetChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: LevlResource طريقة. يحصل على القناة .
+title: "LevlResource.GetChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LevlResource. يحصل على القناة"
 type: docs
-weight: 60
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/
 ---
+{{< psd/tize >}}
 ## LevlResource.GetChannel method
 
-يحصل على القناة .
+يحصل على القناة.
 
 ```csharp
 public LevelChannel GetChannel(int channelIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
 
 ### قيمة الإرجاع
 
-بيانات مستوى القناة
+بيانات المستوى للقناة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LevelChannel](../../levelchannel/)
 * class [LevlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantBase ملكية. الحصول على أو تحديد اسم العينة .
+title: "ColorantBase.SwatchName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantBase. تحصل أو تعين اسم العينة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
-الحصول على أو تحديد اسم العينة .
+يحصل أو يعيّن اسم العينة.
 
 ```csharp
 public string SwatchName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم العينة .
+اسم العينة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

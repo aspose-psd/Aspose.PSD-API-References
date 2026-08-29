@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitArrayStructure ملكية. الحصول على أو تحديد نوع وحدة القياس لملفUnitArrayStructure القيم .
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnitArrayStructure. يحصل على أو يضبط نوع وحدة القياس لقيم UnitArrayStructure"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-الحصول على أو تحديد نوع وحدة القياس لملف[`UnitArrayStructure`](../) القيم .
+يحصل على أو يضبط نوع وحدة القياس لقيم [`UnitArrayStructure`](../).
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع وحدة القياس .
+نوع وحدة القياس.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,61 +1,62 @@
 ---
-title: Figure.GetBounds
-second_title: Aspose.PSD لمرجع .NET API
-description: Figure طريقة. يحصل على حدود الكائن .
+title: "Figure.GetBounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Figure طريقة. يسترجع حدود الكائن"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/figure/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
-يحصل على حدود الكائن .
+يحصل على حدود الكائن.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | المصفوفة التي سيتم تطبيقها قبل حساب الحدود. |
+| مصفوفة | Matrix | المصفوفة التي سيتم تطبيقها قبل حساب الحدود. |
 
 ### قيمة الإرجاع
 
 حدود الكائن المقدرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* مساحة الاسم [Aspose.PSD](../../figure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetBounds(Matrix, Pen) {#getbounds_1}
 
-يحصل على حدود الكائن .
+يحصل على حدود الكائن.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | المصفوفة التي سيتم تطبيقها قبل حساب الحدود. |
-| pen | Pen | القلم المطلوب استخدامه للكائن. يمكن أن يؤثر هذا على حجم حدود الكائن. |
+| مصفوفة | Matrix | المصفوفة التي سيتم تطبيقها قبل حساب الحدود. |
+| قلم | قلم | القلم المستخدم للكائن. يمكن أن يؤثر ذلك على حجم حدود الكائن. |
 
 ### قيمة الإرجاع
 
 حدود الكائن المقدرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [Figure](../)
-* مساحة الاسم [Aspose.PSD](../../figure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: XmpPackageBaseCollection.XmpPackageBaseCollection
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackageBaseCollection البناء. Default_Constructor
+title: "XmpPackageBaseCollection.XmpPackageBaseCollection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpPackageBaseCollection. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmppackagebasecollection/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public XmpPackageBaseCollection()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackageBaseCollection](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

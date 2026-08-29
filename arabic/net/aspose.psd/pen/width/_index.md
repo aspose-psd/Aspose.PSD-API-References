@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تحديد عرض هذاPen  بوحدات كائن الرسومات المستخدمة للرسم .
+title: "Pen.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيّن عرض هذا Pen بوحدات كائن Graphics المستخدم للرسم"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-الحصول على أو تحديد عرض هذا[`Pen`](../) ، بوحدات كائن الرسومات المستخدمة للرسم .
+تحصل أو تعيّن عرض هذا [`Pen`](../)، بوحدات كائن Graphics المستخدم للرسم.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض هذا[`Pen`](../).
+عرض هذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`Width` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `Width` تُعيّن على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

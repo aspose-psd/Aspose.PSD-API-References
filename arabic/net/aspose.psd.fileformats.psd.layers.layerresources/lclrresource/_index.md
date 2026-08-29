@@ -1,53 +1,54 @@
 ---
-title: Class LclrResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource فصل. Class LclrResource. يحتوي هذا المورد على معلومات حول لون الطبقة في قائمة الطبقات PS. انها only
+title: "الفئة LclrResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource. الفئة LclrResource. هذا المورد يحتوي على معلومات حول لون الطبقة في قائمة الطبقات في PS. هو الوحيد"
 type: docs
-weight: 2620
+weight: 2930
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource class
 
-Class LclrResource. يحتوي هذا المورد على معلومات حول لون الطبقة في قائمة الطبقات PS. انها only
+الفئة LclrResource. هذا المورد يحتوي على معلومات حول لون الطبقة في قائمة الطبقات في PS. إنه فقط
 
 ```csharp
 public class LclrResource : LayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LclrResource](lclrresource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`LclrResource` فئة . |
-| [LclrResource](lclrresource/#constructor_2)(byte[]) | يقوم بتهيئة مثيل جديد لملف`LclrResource` فئة . |
-| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | يقوم بتهيئة مثيل جديد لملف`LclrResource` فئة . |
+| [LclrResource](lclrresource/#constructor)() | ينشئ مثيلاً جديدًا للفئة `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_2)(byte[]) | ينشئ مثيلاً جديدًا للفئة `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | ينشئ مثيلاً جديدًا للفئة `LclrResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | الحصول على لون الطبقة أو تحديده . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/) { get; } | يحصل على التوقيع. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | يحصل أو يضبط لون الطبقة. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك تغيير تمييز لون الورقة في Aspose.PSD (إعداد لون الورقة)
+المثال التالي يوضح كيف يمكنك تغيير تمييز لون الورقة في Aspose.PSD (إعداد لون الورقة)
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ public class LclrResource : LayerResource
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// في ملف ألوان تمييز الطبقات بالترتيب
+// في الملف، ألوان تمييز الطبقات بهذا الترتيب
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -67,8 +68,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// لون ورقة الطبقة يُستخدم لتمييز الطبقات بصريًا. 
-// على سبيل المثال ، يمكنك تحديث بعض الطبقات في PSD ثم تمييز الطبقة التي تريد جذب الانتباه إليها من خلال تلوينها.
+// يُستخدم لون ورقة الطبقة لتمييز الطبقات بصريًا.
+// على سبيل المثال يمكنك تحديث بعض الطبقات في PSD ثم تمييز باللون الطبقة التي تريد جذب الانتباه إليها.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -91,7 +92,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // يعرض مورد lcrl دائمًا في قائمة موارد ملف psd.
+            // المورد lcrl يظهر دائمًا في قائمة موارد ملف PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -109,10 +110,10 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.TransparentIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: IPsdColorPalette ملكية. يحصل على فهرس اللون الشفاف .
+title: "IPsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPsdColorPalette. تحصل على فهرس اللون الشفاف"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/ipsdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentIndex property
 
-يحصل على فهرس اللون الشفاف .
+يحصل على فهرس اللون الشفاف.
 
 ```csharp
 public short TransparentIndex { get; }
 ```
 
-### Property_Value
+### Property Value
 
 فهرس اللون الشفاف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../ipsdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

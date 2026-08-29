@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SamplesPerPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. يحصل على عينات لكل بكسل. لتغيير قيمة هذه الخاصية  استخدم ملحقBitsPerSample واضع الممتلكات.
+title: "TiffOptions.SamplesPerPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل على العينات لكل بكسل. لتغيير قيمة هذه الخاصية استخدم مُعيّن خاصية BitsPerSample"
 type: docs
-weight: 400
+weight: 410
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SamplesPerPixel property
 
-يحصل على عينات لكل بكسل. لتغيير قيمة هذه الخاصية ، استخدم ملحق[`BitsPerSample`](../bitspersample/) واضع الممتلكات.
+تحصل على العينات لكل بكسل. لتغيير قيمة هذه الخاصية استخدم خاصية [`BitsPerSample`](../bitspersample/) المُعيّن.
 
 ```csharp
 public ushort SamplesPerPixel { get; }
 ```
 
-### Property_Value
+### Property Value
 
 العينات لكل بكسل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

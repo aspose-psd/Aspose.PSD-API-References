@@ -1,18 +1,25 @@
 ---
-title: Aspose.PSD.ImageLoadOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على خيارات مختلفة لتحميل تنسيق الملف.
+title: "Aspose.PSD.ImageLoadOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على خيارات تحميل صيغ ملفات مختلفة"
 type: docs
-weight: 420
+weight: 460
 url: /ar/net/aspose.psd.imageloadoptions/
 ---
-تحتوي مساحة الاسم على خيارات مختلفة لتحميل تنسيق الملف.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على خيارات تحميل مختلفة لتنسيقات الملفات.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
 | [Jpeg2000LoadOptions](./jpeg2000loadoptions/) | خيارات تحميل JPEG2000 |
-| [PsdLoadOptions](./psdloadoptions/) | خيارات تحميل Psd |
+| [PngLoadOptions](./pngloadoptions/) | خيارات تحميل PNG. |
+| [PsdLoadOptions](./psdloadoptions/) | خيارات تحميل PSD |
+## تعداد
+
+| تعداد | الوصف |
+| --- | --- |
+| [ReadOnlyMode](./readonlymode/) | يحدد أوضاع القراءة فقط المتاحة عند تحميل صورة PSD. |
 
 

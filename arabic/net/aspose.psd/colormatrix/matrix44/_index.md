@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix44
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix ملكية. الحصول على أو تعيين العنصر في الصف الرابع والعمود الرابع من هذاColorMatrix .
+title: "ColorMatrix.Matrix44"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorMatrix. يحصل أو يعيّن العنصر في الصف الرابع والعمود الرابع من هذا ColorMatrix"
 type: docs
 weight: 270
 url: /ar/net/aspose.psd/colormatrix/matrix44/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix44 property
 
-الحصول على أو تعيين العنصر في الصف الرابع والعمود الرابع من هذا[`ColorMatrix`](../) .
+يحصل أو يعيّن العنصر في الصف الرابع والعمود الرابع من هذا [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix44 { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العنصر في الصف الرابع والعمود الرابع من هذا[`ColorMatrix`](../).
+العنصر في الصف الرابع والعمود الرابع من هذا [`ColorMatrix`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

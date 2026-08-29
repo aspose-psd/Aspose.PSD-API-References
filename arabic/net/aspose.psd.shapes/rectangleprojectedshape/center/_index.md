@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Center
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleProjectedShape ملكية. يحصل على مركز الشكل.
+title: "RectangleProjectedShape.Center"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleProjectedShape. تحصّل على مركز الشكل."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/center/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Center property
 
 يحصل على مركز الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/center/
 public override PointF Center { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مركز الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

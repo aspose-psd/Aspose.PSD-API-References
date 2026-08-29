@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.Register
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry طريقة. يسجل واصف أداة تحميل الصور المحدد.
+title: "ImageLoadersRegistry.Register"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageLoadersRegistry. تسجل وصف محمل الصورة المحدد"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/imageloadersregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.Register method
 
-يسجل واصف أداة تحميل الصور المحدد.
+يسجل وصف محمل الصورة المحدد.
 
 ```csharp
 public static void Register(IImageLoaderDescriptor imageLoaderDescriptor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| imageLoaderDescriptor | IImageLoaderDescriptor | واصف أداة تحميل الصور. |
+| imageLoaderDescriptor | IImageLoaderDescriptor | وصف محمل الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

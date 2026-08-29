@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: SharpenFilterOptions ملكية. الحصول على الحجم أو تحديده.
+title: "SharpenFilterOptions.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "SharpenFilterOptions خاصية. يحصل أو يضبط الحجم"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Size property
 
-الحصول على الحجم أو تحديده.
+يحصل أو يضبط الحجم.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحجم .
+الحجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SharpenFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

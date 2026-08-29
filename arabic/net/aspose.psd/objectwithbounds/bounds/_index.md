@@ -1,28 +1,29 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: ObjectWithBounds ملكية. يحصل على حدود الكائن .
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "`خاصية ObjectWithBounds. تحصل على حدود الكائن`"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
-يحصل على حدود الكائن .
+يحصل على حدود الكائن.
 
 ```csharp
 public abstract RectangleF Bounds { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حدود الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* مساحة الاسم [Aspose.PSD](../../objectwithbounds/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

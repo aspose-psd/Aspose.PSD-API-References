@@ -1,27 +1,28 @@
 ---
-title: GifOptions.IsPaletteSorted
-second_title: Aspose.PSD لمرجع .NET API
-description: GifOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت مدخلات اللوحة مرتبة أم لا.
+title: "GifOptions.IsPaletteSorted"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GifOptions. تحصل أو تعين قيمة تشير إلى ما إذا كانت مدخلات اللوحة مرتبة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.imageoptions/gifoptions/ispalettesorted/
 ---
+{{< psd/tize >}}
 ## GifOptions.IsPaletteSorted property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت مدخلات اللوحة مرتبة أم لا.
+يحصل أو يضبط قيمة تُشير إلى ما إذا كانت مدخلات اللوحة مرتبة.
 
 ```csharp
 public bool IsPaletteSorted { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم فرز إدخالات لوح الألوان ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت مدخلات اللوحة مرتبة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../gifoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

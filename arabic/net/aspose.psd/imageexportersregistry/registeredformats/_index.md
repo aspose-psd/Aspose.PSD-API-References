@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageExportersRegistry ملكية. الحصول على تنسيقات التصدير المسجلة.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageExportersRegistry. تحصل على صيغ التصدير المسجَّلة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
-الحصول على تنسيقات التصدير المسجلة.
+يحصل على صيغ التصدير المسجلة.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيقات التصدير المسجلة.
+صيغ التصدير المسجَّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageexportersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

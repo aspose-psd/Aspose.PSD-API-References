@@ -1,31 +1,32 @@
 ---
-title: PointF.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF طريقة. يحدد ما إذا كان هذاPointF يحتوي على نفس الإحداثيات المحددةObject .
+title: "PointF.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PointF. تحدد ما إذا كان هذا PointF يحتوي على نفس الإحداثيات كما في الكائن المحدد."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/pointf/equals/
 ---
+{{< psd/tize >}}
 ## PointF.Equals method
 
-يحدد ما إذا كان هذا[`PointF`](../) يحتوي على نفس الإحداثيات المحددةObject .
+تحدد ما إذا كان هذا [`PointF`](../) يحتوي على نفس الإحداثيات كما في الكائن المحدد.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject لاختبار. |
+| obj | Object | الكائن للاختبار. |
 
 ### قيمة الإرجاع
 
-هذا الأسلوب يعود صحيحا إذا*obj* هو[`PointF`](../) ولها نفس إحداثيات هذا[`Point`](../../point/).
+تُعيد هذه الطريقة قيمة صحيحة إذا كان *obj* هو [`PointF`](../) ويملك نفس الإحداثيات كما هذا [`Point`](../../point/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

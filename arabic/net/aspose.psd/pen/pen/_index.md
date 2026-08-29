@@ -1,105 +1,106 @@
 ---
-title: Pen.Pen
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen البناء. يقوم بتهيئة مثيل جديد لملفPen فئة باللون المحدد.
+title: "Pen.Pen"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Pen. يهيئ نسخة جديدة من فئة Pen باللون المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Pen`](../) فئة باللون المحدد.
+يهيئ نسخة جديدة من فئة [`Pen`](../) باللون المحدد.
 
 ```csharp
 public Pen(Color color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | Color | أ[`Color`](../color/) الهيكل الذي يشير إلى لون هذا[`Pen`](../). |
+| color | Color | [`Color`](../color/) هو هيكل يوضح لون هذا [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`Pen`](../) فئة مع المحدد[`Color`](../color/) و[`Width`](../width/) الخصائص .
+يهيئ نسخة جديدة من فئة [`Pen`](../) بالخصائص المحددة [`Color`](../color/) و [`Width`](../width/).
 
 ```csharp
 public Pen(Color color, float width)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | Color | أ[`Color`](../color/) الهيكل الذي يشير إلى لون هذا[`Pen`](../). |
-| width | Single | قيمة تشير إلى عرض هذا[`Pen`](../). |
+| color | Color | [`Color`](../color/) هو هيكل يوضح لون هذا [`Pen`](../). |
+| width | Single | قيمة تشير إلى عرض هذا [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Pen`](../) فئة مع المحدد[`Brush`](../brush/) .
+يهيئ نسخة جديدة من فئة [`Pen`](../) بالـ[`Brush`](../brush/) المحدد.
 
 ```csharp
 public Pen(Brush brush)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | أ[`Brush`](../brush/) التي تحدد خصائص التعبئة لهذا[`Pen`](../). |
+| brush | Brush | [`Brush`](../brush/) يحدد خصائص التعبئة لهذا [`Pen`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* باطل. |
+| ArgumentNullException | *brush* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Pen`](../) فئة مع المحدد[`Brush`](../brush/) و[`Width`](../width/) .
+يهيئ نسخة جديدة من فئة [`Pen`](../) بالـ[`Brush`](../brush/) و [`Width`](../width/) المحددين.
 
 ```csharp
 public Pen(Brush brush, float width)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | أ[`Brush`](../brush/) التي تحدد خصائص هذا[`Pen`](../). |
-| width | Single | عرض الجديد[`Pen`](../). |
+| brush | Brush | [`Brush`](../brush/) يحدد خصائص هذا [`Pen`](../). |
+| width | Single | عرض الـ[`Pen`](../) الجديد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* باطل. |
+| ArgumentNullException | *brush* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

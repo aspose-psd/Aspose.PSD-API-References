@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على الطابعة المستهدفة أو تعيينها .
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين الطابعة الهدف"
 type: docs
-weight: 500
+weight: 510
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
-الحصول على الطابعة المستهدفة أو تعيينها .
+يحصل أو يعيّن الطابعة المستهدفة.
 
 ```csharp
 public string TargetPrinter { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الطابعة المستهدفة .
+الطابعة الهدف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

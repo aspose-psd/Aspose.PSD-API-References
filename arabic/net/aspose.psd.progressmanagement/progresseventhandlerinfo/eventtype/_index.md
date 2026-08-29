@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.EventType
-second_title: Aspose.PSD لمرجع .NET API
-description: ProgressEventHandlerInfo ملكية. يحصل على نوع الحدث.
+title: "ProgressEventHandlerInfo.EventType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ProgressEventHandlerInfo. يحصل على نوع الحدث"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.EventType property
 
 يحصل على نوع الحدث.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 public EventType EventType { get; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع الحدث.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [EventType](../../eventtype/)
 * class [ProgressEventHandlerInfo](../)
-* مساحة الاسم [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

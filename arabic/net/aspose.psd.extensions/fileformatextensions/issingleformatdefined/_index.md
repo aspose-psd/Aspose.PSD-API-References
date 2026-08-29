@@ -1,32 +1,33 @@
 ---
-title: FileFormatExtensions.IsSingleFormatDefined
-second_title: Aspose.PSD لمرجع .NET API
-description: FileFormatExtensions طريقة. لتحديد ما إذا كان تنسيق الملف الفردي محددًا أم لا.
+title: "FileFormatExtensions.IsSingleFormatDefined"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FileFormatExtensions. يحدد ما إذا كان تنسيق ملف واحد معرفًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.extensions/fileformatextensions/issingleformatdefined/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions.IsSingleFormatDefined method
 
-لتحديد ما إذا كان تنسيق الملف الفردي محددًا أم لا.
+يحدد ما إذا كان تنسيق ملف واحد معرفاً.
 
 ```csharp
 public static bool IsSingleFormatDefined(FileFormat fileFormat)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| fileFormat | FileFormat | تنسيق الملف المطلوب التحقق منه. |
+| fileFormat | FileFormat | تنسيق الملف المراد التحقق منه. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا تم تعريف تنسيق ملف واحد ؛ خلاف ذلك،`خطأ شنيع` .
+`True` إذا كان تنسيق ملف واحد معرفًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../fileformatextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

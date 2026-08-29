@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.PatternId
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResourceData ملكية. الحصول على أو تحديد معرف النمط.
+title: "PattResourceData.PatternId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PattResourceData. تحصل أو تعين معرف النمط"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternId property
 
-الحصول على أو تحديد معرف النمط.
+يحصل أو يعيّن معرف النمط.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 معرف النمط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResourceData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

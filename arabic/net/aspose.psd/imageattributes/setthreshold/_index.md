@@ -1,49 +1,50 @@
 ---
-title: ImageAttributes.SetThreshold
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يضبط الحد الأدنى نطاق الشفافية للفئة الافتراضية.
+title: "ImageAttributes.SetThreshold"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تحدد نطاق شفافية العتبة للفئة الافتراضية"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/imageattributes/setthreshold/
 ---
+{{< psd/tize >}}
 ## SetThreshold(float) {#setthreshold}
 
-يضبط الحد الأدنى (نطاق الشفافية) للفئة الافتراضية.
+يضبط العتبة (نطاق الشفافية) للفئة الافتراضية.
 
 ```csharp
 public void SetThreshold(float threshold)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| threshold | Single | رقم حقيقي يحدد قيمة الحد. |
+| العتبة | Single | عدد حقيقي يحدد قيمة العتبة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetThreshold(float, ColorAdjustType) {#setthreshold_1}
 
-يضبط العتبة (نطاق الشفافية) لفئة محددة .
+يضبط العتبة (نطاق الشفافية) لفئة محددة.
 
 ```csharp
 public void SetThreshold(float threshold, ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| threshold | Single | قيمة حد من 0.0 إلى 1.0 تُستخدم كنقطة توقف لفرز الألوان التي سيتم تعيينها إلى قيمة قصوى أو أدنى قيمة. |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) التي تحدد الفئة التي تم تعيين عتبة اللون لها. |
+| العتبة | Single | قيمة عتبة من 0.0 إلى 1.0 تُستخدم كنقطة فاصل لفرز الألوان التي سيتم تعيينها إما إلى قيمة قصوى أو دنيا. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي تُضبط لها عتبة اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

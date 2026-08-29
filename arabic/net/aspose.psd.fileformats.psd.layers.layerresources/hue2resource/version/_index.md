@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: Hue2Resource ملكية. يحصل على الإصدار. الافتراضي هو 2
+title: "Hue2Resource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Hue2Resource. يحصل على الإصدار. القيمة الافتراضية هي 2"
 type: docs
-weight: 100
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Version property
 
-يحصل على الإصدار. الافتراضي هو 2
+يحصل على الإصدار. القيمة الافتراضية هي 2
 
 ```csharp
 public short Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Hue2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

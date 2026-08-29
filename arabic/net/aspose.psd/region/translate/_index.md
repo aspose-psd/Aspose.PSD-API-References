@@ -1,49 +1,50 @@
 ---
-title: Region.Translate
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يزيح إحداثيات هذاRegionبالمبلغ المحدد.
+title: "Region.Translate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُزاح إحداثيات هذا Region بالمقدار المحدد"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.psd/region/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float) {#translate_1}
 
-يزيح إحداثيات هذا[`Region`](../)بالمبلغ المحدد.
+يُزاح إحداثيات هذا [`Region`](../) بالمقدار المحدد.
 
 ```csharp
 public void Translate(float dx, float dy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Single | المبلغ لتعويض هذا[`Region`](../) أفقيا. |
-| dy | Single | المبلغ لتعويض هذا[`Region`](../) عموديا. |
+| dx | Single | المقدار المطلوب إزاحة هذا [`Region`](../) أفقيًا. |
+| dy | Single | المقدار المطلوب إزاحة هذا [`Region`](../) عموديًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(int, int) {#translate}
 
-يزيح إحداثيات هذا[`Region`](../)بالمبلغ المحدد.
+يُزاح إحداثيات هذا [`Region`](../) بالمقدار المحدد.
 
 ```csharp
 public void Translate(int dx, int dy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Int32 | المبلغ لتعويض هذا[`Region`](../) أفقيا. |
-| dy | Int32 | المبلغ لتعويض هذا[`Region`](../) عموديا. |
+| dx | Int32 | المقدار المطلوب إزاحة هذا [`Region`](../) أفقيًا. |
+| dy | Int32 | المقدار المطلوب إزاحة هذا [`Region`](../) عموديًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PatternFillSettings.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: PatternFillSettings ملكية. الحصول على اللون أو تحديده .
+title: "PatternFillSettings.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PatternFillSettings. يحصل أو يضبط اللون"
 type: docs
-weight: 20
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Color property
 
-الحصول على اللون أو تحديده .
+يحصل أو يعيّن اللون.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اللون .
+اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

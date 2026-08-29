@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.IsCustom
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان نمط التواء في المثيل مخصصًا أم لا. إذا تم الضبط على خطأ  فإنه يمحو نقاط الشبكة.
+title: "IPlacedLayerResource.IsCustom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل أو يضبط قيمة تشير إلى ما إذا كان نمط التشويه لهذا المثال مخصصًا. إذا كان true فإنه يحتوي على نقاط الشبكة. إذا تم تعيينه إلى false فإنه يمحو نقاط الشبكة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.IsCustom property
 
-الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان نمط التواء في المثيل مخصصًا أم لا. إذا تم الضبط على خطأ ، فإنه يمحو نقاط الشبكة.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان نمط الالتواء لهذا المثيل مخصصًا. إذا كان صحيحًا فإنه يحتوي على نقاط الشبكة. إذا تم ضبطه على false فإنه يمسح نقاط الشبكة.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان مورد طبقة الكائن الموضوع أو الذكي له نمط مخصص ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان مورد طبقة العنصر الموضوعة أو الذكية يحتوي على نمط مخصص؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

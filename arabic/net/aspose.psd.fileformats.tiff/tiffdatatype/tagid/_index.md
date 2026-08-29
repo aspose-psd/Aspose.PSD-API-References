@@ -1,28 +1,29 @@
 ---
-title: TiffDataType.TagId
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffDataType ملكية. يحصل على معرف العلامة .
+title: "TiffDataType.TagId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffDataType خاصية. يحصل على معرف العلامة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
-يحصل على معرف العلامة .
+يحصل على معرف العلامة.
 
 ```csharp
 public TiffTags TagId { get; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف العلامة .
+معرف العلامة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

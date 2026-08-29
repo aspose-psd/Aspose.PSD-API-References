@@ -1,27 +1,28 @@
 ---
-title: IntegerStructure.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: IntegerStructure ملكية. الحصول على قيمة عدد صحيح أو تعيينها.
+title: "IntegerStructure.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IntegerStructure. تحصل أو تعين قيمة عدد صحيح"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Value property
 
-الحصول على قيمة عدد صحيح أو تعيينها.
+يحصل أو يضبط قيمة عدد صحيح.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة عدد صحيح .
+قيمة عددية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntegerStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ScaleFactor
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على عامل المقياس أو تعيينه.
+title: "TypeToolInfoResource.ScaleFactor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط عامل القياس"
 type: docs
-weight: 170
+weight: 150
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ScaleFactor property
 
-الحصول على عامل المقياس أو تعيينه.
+يحصل أو يضبط عامل المقياس.
 
 ```csharp
 public int ScaleFactor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عامل المقياس .
+عامل القياس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

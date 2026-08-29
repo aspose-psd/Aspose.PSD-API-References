@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Center
-second_title: Aspose.PSD لمرجع .NET API
-description: PolygonShape ملكية. يحصل على مركز الشكل.
+title: "PolygonShape.Center"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PolygonShape. يحصل على مركز الشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapes/polygonshape/center/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Center property
 
 يحصل على مركز الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.shapes/polygonshape/center/
 public override PointF Center { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مركز الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

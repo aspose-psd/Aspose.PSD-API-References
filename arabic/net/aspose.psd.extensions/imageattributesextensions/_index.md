@@ -1,28 +1,29 @@
 ---
-title: Class ImageAttributesExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.ImageAttributesExtensions فصل. يحتوي على طرق تمديد لـImageAttributes وImageAttributes .
+title: "الفئة ImageAttributesExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Extensions.ImageAttributesExtensions. تحتوي على طرق امتداد لـ ImageAttributes و ImageAttributes."
 type: docs
-weight: 1110
+weight: 1120
 url: /ar/net/aspose.psd.extensions/imageattributesextensions/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions class
 
-يحتوي على طرق تمديد لـ[`ImageAttributes`](../../aspose.psd/imageattributes/) وImageAttributes .
+يحتوي على أساليب امتداد لـ [`ImageAttributes`](../../aspose.psd/imageattributes/) و ImageAttributes.
 
 ```csharp
 public static class ImageAttributesExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | يحول ملف[`ImageAttributes`](../../aspose.psd/imageattributes/) الىImageAttributes . |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | يحوّل الـ [`ImageAttributes`](../../aspose.psd/imageattributes/) إلى ImageAttributes. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

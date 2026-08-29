@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignVectorValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolFontInfo ملكية. الحصول على أو تعيين قيمة متجه التصميم.
+title: "TypeToolFontInfo.DesignVectorValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolFontInfo. يحصل أو يضبط قيمة متجه التصميم"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignVectorValue property
 
-الحصول على أو تعيين قيمة متجه التصميم.
+يحصل أو يضبط قيمة متجه التصميم.
 
 ```csharp
 public int DesignVectorValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة متجه التصميم .
+قيمة متجه التصميم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

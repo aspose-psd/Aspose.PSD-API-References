@@ -1,11 +1,12 @@
 ---
-title: Class AiLayerSection
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Ai.AiLayerSection فصل. قسم طبقة تنسيق Ai
+title: "الفئة AiLayerSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Ai.AiLayerSection. قسم طبقة تنسيق Ai"
 type: docs
-weight: 1270
+weight: 1280
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
 قسم طبقة تنسيق Ai
@@ -16,34 +17,36 @@ public sealed class AiLayerSection : AiDataSection
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | الحصول على أو تعيين مكون اللون الأزرق. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | الحصول على رقم اللون أو تحديده. -1 هي قيمة اللون المخصصة من خصائص الأحمر والأخضر والأزرق . يحدد إعداد لون الطبقة. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | الحصول على القيمة المعتمة أو تعيينها كنسبة مئوية . تقليل كثافة الصور المرتبطة والصور النقطية الموجودة في الطبقة إلى النسبة المئوية المحددة. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | الحصول على أو تعيين مكون اللون الأخضر. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة باهتة. يقلل من شدة الصور المرتبطة والصور النقطية الموجودة في الطبقة. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة مؤمنة . يمنع التغييرات على العنصر. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة هي معاينة . يعرض العمل الفني الموجود في الطبقة بالألوان بدلاً من الخطوط العريضة . |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة قد تمت طباعتها. يجعل العمل الفني الموجود في الطبقة قابلاً للطباعة إذا كان صحيحًا. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | الحصول على قيمة أو تعيينها تشير إلى ما إذا كانت هذه الطبقة ستظهر أم لا. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة عبارة عن طبقة قالب. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | الحصول على اسم الطبقة أو تعيينه . يحدد اسم العنصر كما يظهر في لوحة الطبقات. |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | الحصول على الصور النقطية . |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | الحصول على أو تعيين مكون اللون الأحمر. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | يحصل أو يعيّن مكوّن اللون الأزرق. |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | يحصل أو يعيّن فهرس اللون. يمكن أن يأخذ هذا المتغيّر قيمًا بين –1 و 26. كل عدد صحيح يمثل لونًا يمكن تعيينه للطبقة لأغراض تعريف المستخدم. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | يحصل أو يعيّن رقم اللون. القيمة -1 هي قيمة اللون المخصصة من خصائص الأحمر والأخضر والأزرق. يحدد إعداد لون الطبقة. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | يحصل أو يعيّن قيمة التعتيم كنسبة مئوية. يقلل شدة الصور المرتبطة وصور البت ماب الموجودة في الطبقة إلى النسبة المحددة. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | يحصل أو يعيّن مكوّن اللون الأخضر. |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على أقنعة متعددة الطبقات. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة مخفّضة. يقلل شدة الصور المرتبطة وصور البت ماب الموجودة في الطبقة. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة مقفلة. يمنع التغييرات على العنصر. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة في وضع المعاينة. يعرض الأعمال الفنية الموجودة في الطبقة بالألوان بدلاً من الخطوط الخارجية. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة مطبوعة. يجعل الأعمال الفنية الموجودة في الطبقة قابلة للطباعة إذا كانت true. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة معروضة. يعرض جميع الأعمال الفنية الموجودة في الطبقة على لوحة الرسم إذا كانت true. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة طبقة قالب. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | يحصل أو يعيّن اسم الطبقة. يحدد اسم العنصر كما يظهر في لوحة الطبقات. |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | يحصل على الصور النقطية. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | يحصل أو يضبط مكوّن اللون الأحمر. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | يضيف الصورة النقطية. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | يحصل على بيانات السلسلة . |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | يحصل على بيانات السلسلة. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تحميل إعدادات الصور النقطية في ملفات تنسيق AI.
+الكود التالي يوضح كيفية تحميل إعدادات الصور النقطية في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -86,10 +89,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiDataSection](../aidatasection/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

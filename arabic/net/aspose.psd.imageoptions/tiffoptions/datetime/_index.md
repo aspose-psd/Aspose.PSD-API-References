@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.DateTime
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تحديد التاريخ والوقت.
+title: "TiffOptions.DateTime"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تضبط التاريخ والوقت"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/datetime/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DateTime property
 
-الحصول على أو تحديد التاريخ والوقت.
+يحصل أو يعيّن التاريخ والوقت.
 
 ```csharp
 public string DateTime { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التاريخ والوقت .
+التاريخ والوقت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

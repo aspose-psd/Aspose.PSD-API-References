@@ -1,23 +1,24 @@
 ---
-title: ResourceEvent.ResourceEvent
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceEvent البناء. Default_Constructor
+title: "ResourceEvent.ResourceEvent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ResourceEvent. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public ResourceEvent()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceEvent](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

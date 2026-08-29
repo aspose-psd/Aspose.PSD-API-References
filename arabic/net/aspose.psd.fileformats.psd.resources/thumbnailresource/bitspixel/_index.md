@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.BitsPixel
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على أو تعيين وحدات البكسل .
+title: "ThumbnailResource.BitsPixel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. يحصل أو يضبط عدد البتات للبكسل"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.BitsPixel property
 
-الحصول على أو تعيين وحدات البكسل .
+يحصل أو يضبط بتات البكسل.
 
 ```csharp
 public short BitsPixel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الصورة المصغرة بت بكسل.
+عدد البتات للبكسل المصغّر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureProgram
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو ضبط برنامج التعريض .
+title: "ExifData.ExposureProgram"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط برنامج التعرض"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd.exif/exifdata/exposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureProgram property
 
-الحصول على أو ضبط برنامج التعريض .
+يحصل أو يضبط برنامج التعرض.
 
 ```csharp
 public ExifExposureProgram ExposureProgram { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-برنامج التعريض .
+برنامج التعرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifExposureProgram](../../../aspose.psd.exif.enums/exifexposureprogram/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

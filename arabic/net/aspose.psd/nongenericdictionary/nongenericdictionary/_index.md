@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary البناء. يقوم بتهيئة مثيل جديد لملفNonGenericDictionary فئة .
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ NonGenericDictionary. يهيئ مثيلًا جديدًا من الفئة NonGenericDictionary"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-يقوم بتهيئة مثيل جديد لملف[`NonGenericDictionary`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`NonGenericDictionary`](../).
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dictionary | IDictionary | القاموس المراد استخدامه. |
+| القاموس | IDictionary | القاموس المراد استخدامه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

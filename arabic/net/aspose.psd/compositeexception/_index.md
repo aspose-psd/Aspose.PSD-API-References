@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CompositeException فصل. الاستثناء المركب
+title: "الفئة CompositeException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CompositeException. الاستثناء المركب."
 type: docs
 weight: 410
 url: /ar/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 الاستثناء المركب
@@ -14,9 +15,9 @@ url: /ar/net/aspose.psd/compositeexception/
 public class CompositeException : Exception
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: RectangleF.Empty
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF ملكية. يحصل على مثيل جديد لملفRectangleF هيكل لديهX وY وWidth وHeight تم ضبط القيم على الصفر.
+title: "RectangleF.Empty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleF. يحصل على نسخة جديدة من هيكل RectangleF تكون قيم X و Y والعرض والارتفاع فيها صفرًا."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/rectanglef/empty/
 ---
+{{< psd/tize >}}
 ## RectangleF.Empty property
 
-يحصل على مثيل جديد لملف[`RectangleF`](../) هيكل لديه[`X`](../x/) و[`Y`](../y/) و[`Width`](../width/) و[`Height`](../height/) تم ضبط القيم على الصفر.
+يحصل على نسخة جديدة من هيكل [`RectangleF`](../) تكون قيم [`X`](../x/)، [`Y`](../y/)، [`Width`](../width/) و[`Height`](../height/) فيها صفرًا.
 
 ```csharp
 public static RectangleF Empty { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

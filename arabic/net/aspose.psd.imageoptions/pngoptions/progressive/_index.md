@@ -1,27 +1,28 @@
 ---
-title: PngOptions.Progressive
-second_title: Aspose.PSD لمرجع .NET API
-description: PngOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاPngOptions تقدمية.
+title: "PngOptions.Progressive"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PngOptions. يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا PngOptions تدريجياً"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
+{{< psd/tize >}}
 ## PngOptions.Progressive property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`PngOptions`](../) تقدمية.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا [`PngOptions`](../) تدريجياً.
 
 ```csharp
 public bool Progressive { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت تقدمية خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان تدريجياً؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PngOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pngoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,57 +1,58 @@
 ---
-title: Class LiFeDataSource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource فصل. يحدد فئة LnkeDataSource التي تحتوي على معلومات حول ملف مرتبط خارجي . هذا جزء من PSD File Format Manipulation API الذي يساعد على تعديل ملفات Adobe Photoshop
+title: "الفئة LiFeDataSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource. تعرف فئة LnkeDataSource التي تحتوي على معلومات حول الملف المرتبط الخارجي. هذه جزء من واجهة برمجة تطبيقات تعديل تنسيق ملفات PSD التي تساعد على تعديل ملفات Adobe Photoshop."
 type: docs
-weight: 2680
+weight: 2980
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
-يحدد فئة LnkeDataSource التي تحتوي على معلومات حول ملف مرتبط خارجي . هذا جزء من PSD File Format Manipulation API الذي يساعد على تعديل ملفات Adobe® Photoshop®
+يعرّف فئة LnkeDataSource التي تحتوي على معلومات حول ملف مرتبط خارجي. هذا جزء من واجهة برمجة تطبيقات تعديل تنسيق ملف PSD التي تساعد على تعديل ملفات Adobe® Photoshop®.
 
 ```csharp
 public class LiFeDataSource : LinkDataSource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LiFeDataSource](lifedatasource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`LiFeDataSource` فئة . |
-| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | يقوم بتهيئة مثيل جديد لملف`LiFeDataSource` فئة . |
+| [LiFeDataSource](lifedatasource/#constructor)() | يُنشئ مثلاً جديداً من الفئة `LiFeDataSource`. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | يُنشئ مثلاً جديداً من الفئة `LiFeDataSource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | الحصول على مكتبة الرسومات أو تعيينها AdobeStockId ، لمكتبات Adobe® Photoshop® CC . |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | يحصل على حالة ترخيص مخزون Adobe ، إذا كان متاحًا ، لمكتبات Adobe® Photoshop® CC . |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان أصل PSD مؤمنًا. حالة تأمين الأصل ، لأصول مكتبات Adobe® Photoshop® СС . |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | الحصول على وقت تعديل الأصل أو تعيينه ، لأصول مكتبات Adobe® Photoshop® СС . |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | الحصول على أو تعيين معرف المستند الفرعي في مصدر بيانات liFE أو liFD لمورد Lnk2 / LnkE Adobe® Photoshop®. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | الحصول على أو تعيين معرف التركيب المحدد حاليًا للمستند الفرعي ، والذي سيكون -1 إذا لم يتم تحديد أي منها . التركيبات هي تركيبات لتخطيط الصفحة والتي يمكن للمصممين إنشاؤها. باستخدام تركيبات الطبقة ، يمكنك إنشاء إصدارات متعددة من التخطيط وإدارتها وعرضها في ملف Adobe® Photoshop® واحد. تراكب الطبقة هو لقطة لحالة لوحة Layers. تقوم تركيبات الطبقة بحفظ ثلاثة أنواع من خيارات الطبقة ولكن تحصل هذه الخاصية على معرف تحديد تراكب الطبقة للكائنات الذكية.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | الحصول على أو تعيين آخر تاريخ كتابة ووقت للملف الخارجي في مصدر بيانات LiFE لمورد PSD LnkE. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | الحصول على أو تعيين اسم عنصر مكتبة الرسومات لمكتبات Adobe® Photoshop® CC . |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | الحصول على مرجع عنصر مكتبة الرسومات أو تعيينه ، لمكتبات Adobe® Photoshop® CC . |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | الحصول على أو تعيين منشئ الملف بتنسيق PSD LnkE / Lnk2 Resource. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | الحصول على أو تحديد اسم الملف الخارجي أو المضمن في مورد ارتباط PSD . |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | الحصول على أو تعيين حجم الملف الخارجي في مصدر بيانات LiFE لمورد PSD LnkE. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | الحصول على أو تحديد نوع الملف المضمن أو الخارجي الذي يحتوي أو يرتبط مورد Adobe® Photoshop® Lnk2 / LnkE. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | الحصول على المسار الكامل للملف الخارجي في مصدر بيانات LiFE لمورد PSD LnkE أو تعيينه. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان مصدر بيانات الارتباط هذا يحتوي على واصف فتح الملف: CompId و OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | يحصل على قيمة تشير إلى ما إذا كان مصدر بيانات ارتباط PSD هذا يرتبط بعنصر مكتبة Adobe® Photoshop® СС. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | الحصول على طول مصدر بيانات الارتباط بالبايت. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | يحصل على المعرف الأصلي لـ Comp المحدد حاليًا للمستند الفرعي ، والذي سيكون -1 إذا لم يتم تحديد أي منها.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | الحصول على اسم الملف الأصلي لمصدر البيانات في مورد الارتباط العالمي Adobe® Photoshop® . |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | الحصول على أو تعيين المسار النسبي للملف الخارجي في مصدر بيانات LiFE لمورد PSD LnkE. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | الحصول على نوع مصدر بيانات الارتباط العالمي Adobe® Photoshop® الذي يمكن أن يكون أحد الأنواع التالية أو لا شيء: liFD الملف المرتبط المضمن الذي يتوافق مع PSD Lnk2Resource ملف PSD المرتبط الخارجي liFE الذي يتوافق مع LnkeResource الاسم المستعار للملف المرتبط liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | الحصول على المعرف الفريد العام لمصدر البيانات في مورد ارتباط PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | يحصل على نسخة مصدر البيانات في مصدر PSD LnkE / Lnk2. |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | يحصل أو يعيّن معرف مكتبة الرسومات AdobeStockId، لمكتبات Adobe® Photoshop® CC. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | يحصل على حالة ترخيص Adobe Stock إذا كان متاحاً، لمكتبات Adobe® Photoshop® CC. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان أصل PSD مقفولًا. حالة القفل للأصل، لأصول مكتبات Adobe® Photoshop® СС. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | يحصل أو يعيّن وقت تعديل الأصل، لأصول مكتبات Adobe® Photoshop® СС. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | يحصل أو يعيّن معرف المستند الفرعي في مصدر البيانات liFE أو liFD الخاص بموارد Lnk2 / LnkE لـ Adobe® Photoshop®. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | يحصل أو يعيّن معرف الـ comp المحدد حاليًا للمستند الفرعي، والذي سيكون -1 إذا لم يتم اختيار أيٍّ. الـ comps هي تركيبات لتخطيط الصفحة يمكن للمصممين إنشاؤها. باستخدام الـ layer comps، يمكنك إنشاء وإدارة وعرض إصدارات متعددة من التخطيط في ملف Adobe® Photoshop® واحد. الـ layer comp هو لقطة لحالة لوحة Layers. الـ layer comps تحفظ ثلاثة أنواع من خيارات الطبقة لكن هذه الخاصية تحصل على معرف اختيار الـ Layer Comp للكائنات الذكية. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | يحصل أو يعيّن تاريخ ووقت الكتابة الأخير للملف الخارجي في مصدر البيانات LiFE الخاص بموارد PSD LnkE. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | يحصل أو يعيّن اسم عنصر مكتبة الرسومات، لأدوب® Photoshop® CC Libraries. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | يحصل أو يعيّن مرجع عنصر مكتبة الرسومات، لأدوب® Photoshop® CC Libraries. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | يحصل أو يعيّن مُنشئ الملف في مورد PSD بصيغة LnkE / Lnk2. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | يحصل أو يعيّن اسم الملف الخارجي أو المدمج في مورد ربط PSD. |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | يحصل أو يعيّن حجم الملف الخارجي في مصدر البيانات LiFE الخاص بموارد PSD LnkE. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | يحصل أو يعيّن نوع الملف المدمج أو الخارجي الذي يحتويه أو يربطه مورد Adobe® Photoshop® Lnk2 / LnkE. |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | يحصل أو يعيّن المسار الكامل للملف الخارجي في مصدر البيانات LiFE الخاص بموارد PSD LnkE. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان مصدر بيانات الارتباط هذا يحتوي على واصف فتح الملف: CompId و OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | يحصل على قيمة تشير إلى ما إذا كان مصدر بيانات ربط PSD هذا يربط إلى عنصر مكتبة Adobe® Photoshop® СС. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | يحصل على طول مصدر بيانات الارتباط بالبايت. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | يحصل على المعرف الأصلي للـ Comp المحدد حاليًا للمستند الفرعي، والذي سيكون -1 إذا لم يتم اختيار أيٍّ. هذه الخاصية تحصل على معرف اختيار الـ layer Comp الأصلي للكائنات الذكية. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | يحصل على اسم الملف الأصلي لمصدر البيانات في مورد ربط عالمي لـ Adobe® Photoshop®. |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | يحصل أو يعيّن المسار النسبي للملف الخارجي في مصدر البيانات LiFE الخاص بموارد PSD LnkE. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | يحصل على نوع مصدر بيانات الارتباط العالمي لـ Adobe® Photoshop® والذي يمكن أن يكون أحد التالي أو لا شيء: ملف الارتباط المدمج liFD الذي يت对应 مع مورد PSD Lnk2Resource، ملف الارتباط الخارجي liFE الذي يت对应 مع مورد PSD LnkeResource، اسم مستعار ملف الارتباط liFA. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | يحصل على المعرف العالمي الفريد لمصدر البيانات في مورد ربط PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | يحصل على إصدار مصدر البيانات في مورد PSD LnkE / Lnk2. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال كيفية الحصول على خصائص مصدر Psd LnkE وتعيينها.
+يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد Psd LnkE.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// يوضح هذا المثال كيفية الحصول على خصائص مصدر Psd LnkE الذي يحتوي على معلومات حول ملف مرتبط خارجي وتعيينها.
+// يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد Psd LnkE الذي يحتوي على معلومات حول ملف مرتبط خارجي.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -120,7 +121,7 @@ void ExampleOfLnkEResourceSupport(
                 }
 
                 lifeSource.FullPath =
-                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png ";
+                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                 AssertAreEqual(lnkeResource.Length, length2);
                 lifeSource.FileName = "rgb8_2x23.png";
                 AssertAreEqual(lnkeResource.Length, length3);
@@ -142,14 +143,14 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// يوضح هذا المثال كيفية الحصول على خصائص Psd LnkeResource التي تحتوي على معلومات حول ملف JPEG المرتبط الخارجي وتعيينها.
+// يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد Psd LnkeResource الذي يحتوي على معلومات حول ملف JPEG مرتبط خارجي.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
     0x26c,
     0x274,
     0x27c,
-    @"file:///C:/Users/cvallejo/Desktop/photo.jpg "،
+    @"file:///C:/Users/cvallejo/Desktop/photo.jpg",
     "05/09/2017 22:24:51",
     0,
     "F062B9DB73E8D124167A4186E54664B0",
@@ -161,14 +162,14 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// يوضح هذا المثال كيفية الحصول على خصائص PSD LnkeResource التي تحتوي على معلومات حول ملف PNG مرتبط خارجي وتعيينها.
+// يوضح هذا المثال كيفية الحصول على وتعيين خصائص مورد PSD LnkeResource الذي يحتوي على معلومات حول ملف PNG مرتبط خارجي.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
     0x290,
     0x294,
     0x2dc,
-    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Issues/PSDNET-491/rgb8_2x2.png "،
+    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Issues/PSDNET-491/rgb8_2x2.png",
     "04/14/2020 14:23:44",
     0,
     string.Empty,
@@ -180,14 +181,14 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// يوضح هذا المثال كيفية الحصول على خصائص PSD LnkeResource وتعيينها التي تحتوي على معلومات حول ملفي PNG و PSD مرتبطين خارجيين.
+// يوضح هذا المثال كيفية الحصول على الخصائص وتعيينها لمورد PSD LnkeResource الذي يحتوي على معلومات حول ملفين مرتبطين خارجيًا بصيغة PNG و PSD.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
     0x580,
     0x554,
     0x528,
-    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/AddColorBalanceAdjustmentLayer.psd "،
+    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/AddColorBalanceAdjustmentLayer.psd",
     "01/15/2020 13:02:00",
     0,
     "adobe:docid:photoshop:9312f484-3403-a644-8973-e725abc95fb7",
@@ -199,7 +200,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// يوضح هذا المثال كيفية الحصول على خصائص Photoshop Psd LnkeResource وتعيينها والتي تحتوي على معلومات حول أصل مكتبات CC مرتبط خارجي.
+// يوضح هذا المثال كيفية الحصول على الخصائص وتعيينها لمورد Photoshop Psd LnkeResource الذي يحتوي على معلومات حول أصل مكتبة CC مرتبط خارجيًا.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -219,7 +220,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-يوضح التعليمة البرمجية التالية دعم مورد LnkeResource.
+يوضح الكود التالي دعم مورد LnkeResource.
 
 ```csharp
 [C#]
@@ -414,7 +415,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png ";
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -441,10 +442,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkDataSource](../linkdatasource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

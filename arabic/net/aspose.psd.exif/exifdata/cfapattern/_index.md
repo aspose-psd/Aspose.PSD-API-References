@@ -1,27 +1,28 @@
 ---
-title: ExifData.CFAPattern
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين نمط CFA .
+title: "ExifData.CFAPattern"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط نمط CFA"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.exif/exifdata/cfapattern/
 ---
+{{< psd/tize >}}
 ## ExifData.CFAPattern property
 
-الحصول على أو تعيين نمط CFA .
+يحصل أو يضبط نمط CFA.
 
 ```csharp
 public byte[] CFAPattern { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نمط CFA .
+نمط CFA.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

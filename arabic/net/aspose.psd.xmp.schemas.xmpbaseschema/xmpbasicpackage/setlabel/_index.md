@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetLabel
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage طريقة. يعين التسمية.
+title: "XmpBasicPackage.SetLabel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpBasicPackage. تعيّن التسمية"
 type: docs
-weight: 60
+weight: 80
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetLabel method
 
-يعين التسمية.
+يضبط التسمية.
 
 ```csharp
 public void SetLabel(string label)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| label | String | الملصق. |
+| التسمية | String | التسمية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

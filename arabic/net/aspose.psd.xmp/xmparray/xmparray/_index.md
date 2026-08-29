@@ -1,50 +1,51 @@
 ---
-title: XmpArray.XmpArray
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpArray البناء. يقوم بتهيئة مثيل جديد لملفXmpArray فئة .
+title: "XmpArray.XmpArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpArray. يهيئ مثالًا جديدًا من فئة XmpArray"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmparray/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpArray`](../) فئة .
+يهيئ مثالًا جديدًا من فئة [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | XmpArrayType | نوع المصفوفة. |
-| items | String[] | قائمة العناصر. |
+| نوع | XmpArrayType | نوع المصفوفة. |
+| العناصر | String[] | قائمة العناصر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmparray/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpArray`](../) فئة .
+يهيئ مثالًا جديدًا من فئة [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | XmpArrayType | نوع المصفوفة. |
+| نوع | XmpArrayType | نوع المصفوفة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmparray/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

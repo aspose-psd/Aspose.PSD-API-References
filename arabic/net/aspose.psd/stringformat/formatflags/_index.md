@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. يحصل أو يحدد أStringFormatFlags التعداد الذي يحتوي على معلومات التنسيق.
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تُرجع أو تُعيّن تعداد StringFormatFlags يحتوي على معلومات التنسيق"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-يحصل أو يحدد أ[`StringFormatFlags`](../../stringformatflags/) التعداد الذي يحتوي على معلومات التنسيق.
+تُرجع أو تُعيّن تعداد [`StringFormatFlags`](../../stringformatflags/) يحتوي على معلومات التنسيق.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`StringFormatFlags`](../../stringformatflags/) التعداد الذي يحتوي على معلومات التنسيق.
+تعداد [`StringFormatFlags`](../../stringformatflags/) يحتوي على معلومات التنسيق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: IObjectWithBounds ملكية. الحصول على ارتفاع الكائن .
+title: "IObjectWithBounds.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IObjectWithBounds. يحصل على ارتفاع الكائن"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/iobjectwithbounds/height/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Height property
 
-الحصول على ارتفاع الكائن .
+يحصل على ارتفاع الكائن.
 
 ```csharp
 public int Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع الجسم.
+ارتفاع الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IObjectWithBounds](../)
-* مساحة الاسم [Aspose.PSD](../../iobjectwithbounds/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

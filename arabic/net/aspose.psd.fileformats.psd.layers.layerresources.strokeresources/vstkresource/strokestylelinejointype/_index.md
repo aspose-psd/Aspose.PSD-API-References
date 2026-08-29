@@ -1,24 +1,25 @@
 ---
-title: VstkResource.StrokeStyleLineJoinType
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على أو تعيين نوع ربط خط نمط ضربة الفرشاة.
+title: "VstkResource.StrokeStyleLineJoinType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعين نوع وصل خط نمط الخط"
 type: docs
-weight: 150
+weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineJoinType property
 
-الحصول على أو تعيين نوع ربط خط نمط ضربة الفرشاة.
+يحصل أو يضبط نوع وصل خط نمط الضربة.
 
 ```csharp
 public LineJoinType StrokeStyleLineJoinType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineJoinType](../../linejointype/)
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolFontInfo ملكية. الحصول على أو تعيين متجه محاور التصميم للمتابعة.
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolFontInfo. يحصل على أو يضبط متجه محاور التصميم للمتابعة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
-الحصول على أو تعيين متجه محاور التصميم للمتابعة.
+يحصل أو يضبط متجه محاور التصميم للمتابعة.
 
 ```csharp
 public int DesignAxes { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-متجه محاور التصميم الذي يجب اتباعه .
+متجه محاور التصميم للمتابعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

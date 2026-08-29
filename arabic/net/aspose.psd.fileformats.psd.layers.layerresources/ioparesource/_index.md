@@ -1,53 +1,54 @@
 ---
-title: Class IopaResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IopaResource فصل. Class IopaResource. يحتوي هذا المورد على معلومات حول خاصية عتامة التعبئة من نمط الطبقة form
+title: "الفئة IopaResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IopaResource. الفئة IopaResource. يحتوي هذا المورد على معلومات حول خاصية شفافية التعبئة من نموذج نمط الطبقة"
 type: docs
-weight: 2560
+weight: 2870
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
+{{< psd/tize >}}
 ## IopaResource class
 
-Class IopaResource. يحتوي هذا المورد على معلومات حول خاصية عتامة التعبئة من نمط الطبقة form
+الفئة IopaResource. هذا المورد يحتوي على معلومات حول خاصية شفافية التعبئة من نموذج نمط الطبقة
 
 ```csharp
 public class IopaResource : LayerResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IopaResource](ioparesource/#constructor)() | يقوم بتهيئة مثيل جديد لملف`IopaResource` فئة . |
-| [IopaResource](ioparesource/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`IopaResource` فئة . |
+| [IopaResource](ioparesource/#constructor)() | ينشئ مثيلاً جديدًا للفئة `IopaResource`. |
+| [IopaResource](ioparesource/#constructor_1)(byte[]) | ينشئ مثيلاً جديدًا للفئة `IopaResource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/) { get; set; } | الحصول على أو تعيين تعتيم التعبئة. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/) { get; } | الحصول على طول مورد الطبقة بالبايت. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion/) { get; } | يحصل على نسخة مديرية الأمن العام . |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature/) { get; } | يحصل على التوقيع. |
+| [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/) { get; set; } | يحصل أو يعيّن شفافية التعبئة. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | يحصل على مفتاح مورد الطبقة. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/) { get; } | يحصل على طول مورد الطبقة بالبايت. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | يحصل على التوقيع. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/save/)(StreamContainer, int) | يحفظ المورد في حاوية التدفق المحددة. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/save/)(StreamContainer, int) | يحفظ المورد في حاوية الدفق المحددة. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey/) | مفتاح معلومات أداة النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

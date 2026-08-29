@@ -1,26 +1,27 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. يقيد الخط باستخدام قائمة الخطوط. يرجى التحقق من أسماء الخطوط الحقيقية قبل قيود قم بتعيين قائمة الخطوط المسموح بها على Null لإزالة القيود
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. تقيد الخط باستخدام قائمة من الخطوط. يرجى التحقق من أسماء الخطوط الحقيقية قبل التقييد. Set Allowed font list إلى Null لإزالة القيود"
 type: docs
-weight: 100
+weight: 120
 url: /ar/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-يقيد الخط باستخدام قائمة الخطوط. يرجى التحقق من أسماء الخطوط الحقيقية قبل قيود قم بتعيين قائمة الخطوط المسموح بها على Null لإزالة القيود
+يقيد استخدام الخط بواسطة قائمة الخطوط. يرجى التحقق من أسماء الخطوط الفعلية قبل التقييد. اضبط قائمة الخطوط المسموح بها إلى Null لإزالة القيود.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontList | String[] | قائمة الخطوط. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تقييد الخطوط برمجيًا باستخدام.
+الكود التالي يوضح القدرة على تقييد الخطوط برمجياً باستخدام.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -55,10 +57,10 @@ finally
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

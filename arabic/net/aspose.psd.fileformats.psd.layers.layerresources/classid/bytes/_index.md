@@ -1,23 +1,24 @@
 ---
-title: ClassID.Bytes
-second_title: Aspose.PSD لمرجع .NET API
-description: ClassID ملكية. يحصل على وحدات البايت التي تمثل معرف الفئة.
+title: "ClassID.Bytes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ClassID. تحصل على البايتات التي تمثل معرف الفئة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
+{{< psd/tize >}}
 ## ClassID.Bytes property
 
-يحصل على وحدات البايت التي تمثل معرف الفئة.
+يحصل على البايتات التي تمثل معرف الفئة.
 
 ```csharp
 public byte[] Bytes { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

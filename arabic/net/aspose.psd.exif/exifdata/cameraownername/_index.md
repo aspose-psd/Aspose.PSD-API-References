@@ -1,27 +1,28 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين اسم مالك الكاميرا
+title: "ExifData.CameraOwnerName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط اسم مالك الكاميرا"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.exif/exifdata/cameraownername/
 ---
+{{< psd/tize >}}
 ## ExifData.CameraOwnerName property
 
-الحصول على أو تعيين اسم مالك الكاميرا
+يحصل أو يضبط اسم مالك الكاميرا
 
 ```csharp
 public string CameraOwnerName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم صاحب الكاميرا .
+اسم مالك الكاميرا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PngOptions.XmpData
-second_title: Aspose.PSD لمرجع .NET API
-description: PngOptions ملكية. الحصول على أو تعيين حاوية بيانات تعريف XMP.
+title: "PngOptions.XmpData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PngOptions. تحصل أو تضبط حاوية بيانات التعريف XMP"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.imageoptions/pngoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## PngOptions.XmpData property
 
-الحصول على أو تعيين حاوية بيانات تعريف XMP.
+يحصل أو يضبط حاوية بيانات التعريف XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حاوية بيانات XMP .
+حاوية بيانات XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PngOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pngoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

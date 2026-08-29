@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Aspose.PSD لمرجع .NET API
-description: MultiPageOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان دمج الطبقات .
+title: "MultiPageOptions.MergeLayers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MultiPageOptions. يحصل أو يحدد قيمة تشير إلى ما إذا كان دمج الطبقات"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [دمج الطبقات] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [merege layers].
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [دمج الطبقات] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [merege layers]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiPageOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class JpegException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegException فصل. استثناءات لملفات Jpeg
+title: "الفئة JpegException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.CoreExceptions.ImageFormats.JpegException. استثناءات لملفات Jpeg"
 type: docs
 weight: 540
 url: /ar/net/aspose.psd.coreexceptions.imageformats/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException class
 
 استثناءات لملفات Jpeg
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd.coreexceptions.imageformats/jpegexception/
 public class JpegException : ImageException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [JpegException](jpegexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`JpegException` فئة . |
-| [JpegException](jpegexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`JpegException` فئة . |
+| [JpegException](jpegexception/#constructor)(string) | يقوم بإنشاء نسخة جديدة من الفئة `JpegException`. |
+| [JpegException](jpegexception/#constructor_1)(string, Exception) | يقوم بإنشاء نسخة جديدة من الفئة `JpegException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

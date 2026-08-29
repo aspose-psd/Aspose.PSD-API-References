@@ -1,52 +1,53 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. إرجاع ثلثRectangle الهيكل الذي يمثل تقاطع اثنين آخرينRectangle الهياكل. إذا لم يكن هناك تقاطع  فارغRectangle تم إرجاعه .
+title: "Rectangle.Intersect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تُرجع بنية Rectangle ثالثة تمثل تقاطع بنيتين Rectangle أخريين. إذا لم يكن هناك تقاطع تُرجع مستطيل فارغ."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-إرجاع ثلث[`Rectangle`](../) الهيكل الذي يمثل تقاطع اثنين آخرين[`Rectangle`](../) الهياكل. إذا لم يكن هناك تقاطع ، فارغ[`Rectangle`](../) تم إرجاعه .
+تُرجع بنية [`Rectangle`](../) ثالثة تمثل تقاطع بنيتين [`Rectangle`](../) أخريين. إذا لم يكن هناك تقاطع، تُرجع [`Rectangle`](../) فارغًا.
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Rectangle | مستطيل أول يتقاطع. |
-| b | Rectangle | مستطيل ثان للتقاطع. |
+| a | Rectangle | المستطيل الأول للتقاطع. |
+| b | Rectangle | المستطيل الثاني للتقاطع. |
 
 ### قيمة الإرجاع
 
-أ[`Rectangle`](../) الذي يمثل تقاطع*a* و*b*.
+[`Rectangle`](../) الذي يمثل تقاطع *a* و *b*.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-يستبدل هذا[`Rectangle`](../) مع تقاطع نفسها والمحددة[`Rectangle`](../) .
+يستبدل هذا [`Rectangle`](../) بتقاطع نفسه مع [`Rectangle`](../) المحدد.
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../) التي تتقاطع معها. |
+| rect | Rectangle | [`Rectangle`](../) الذي سيتم التقاطع معه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

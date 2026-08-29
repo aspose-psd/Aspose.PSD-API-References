@@ -1,27 +1,28 @@
 ---
-title: AiImage.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. الحصول على ارتفاع الصورة .
+title: "AiImage.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. تحصل على ارتفاع الصورة."
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
-الحصول على ارتفاع الصورة .
+يحصل على ارتفاع الصورة.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع الصورة .
+ارتفاع الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

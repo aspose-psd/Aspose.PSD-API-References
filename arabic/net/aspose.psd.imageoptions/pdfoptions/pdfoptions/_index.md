@@ -1,23 +1,24 @@
 ---
-title: PdfOptions.PdfOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfOptions البناء. Default_Constructor
+title: "PdfOptions.PdfOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PdfOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/pdfoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public PdfOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

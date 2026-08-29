@@ -1,28 +1,29 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. الحصول على المحاذاة الرومانية الرأسية القياسية أو تعيينها.Vertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. يحصل أو يضبط محاذاة الرومانية العمودية القياسية. هذا يعتمد على قيمة مورد BaselineDirection ويطبق فقط عندما يكون اتجاه النص عموديًا"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-الحصول على المحاذاة الرومانية الرأسية القياسية أو تعيينها.Vertical .
+يحصل أو يعيّن المحاذاة الرومانية العمودية القياسية. هذا يعتمد على قيمة مورد BaselineDirection ويطبق فقط عندما يكون اتجاه النص عموديًا.
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-توضح التعليمة البرمجية التالية دعم الخاصية IsStandardVerticalRomanAlignmentEnabled الجديدة.
+الكود التالي يوضح دعم الخاصية الجديدة IsStandardVerticalRomanAlignmentEnabled.
 
 ```csharp
 [C#]
 
-// توضح التعليمات البرمجية التالية القدرة على تحرير خاصية IsStandardVerticalRomanAlignmentEnabled الجديدة.
-// لا يؤثر هذا على العرض في الوقت الحالي ، ولكنه يسمح لك فقط بتحرير قيمة الخاصية.
+// الكود التالي يوضح القدرة على تعديل الخاصية الجديدة IsStandardVerticalRomanAlignmentEnabled.
+// هذا لا يؤثر على العرض في الوقت الحالي، لكنه يسمح لك فقط بتعديل قيمة الخاصية.
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -33,7 +34,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textPortion = textLayer.TextData.Items[0];
     if (textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // القراءة الصحيحة
+        // قراءة صحيحة
     }
     else
     {
@@ -52,7 +53,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textPortion = textLayer.TextData.Items[0];
     if (!textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // القراءة الصحيحة
+        // قراءة صحيحة
     }
     else
     {
@@ -61,10 +62,10 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

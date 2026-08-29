@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "TypeToolInfo6Resource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TypeToolInfo6Resource خاصية. يسترجع طول مورد الطبقة بالبايت"
 type: docs
-weight: 90
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LoopesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeLine ملكية. الحصول على أو تحديد عدد الحلقات .
+title: "Timeline.LoopesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Timeline. تُرجع أو تُعيّن عدد الحلقات"
 type: docs
-weight: 80
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 ---
-## TimeLine.LoopesCount property
+{{< psd/tize >}}
+## Timeline.LoopesCount property
 
-الحصول على أو تحديد عدد الحلقات .
+يحصل على أو يضبط عدد الحلقات.
 
 ```csharp
-public int LoopesCount { get; set; }
+public ushort LoopesCount { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TimeLine](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* المجسم [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

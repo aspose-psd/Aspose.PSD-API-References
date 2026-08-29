@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Saturation
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl ملكية. الحصول على أو تعيين التشبع.
+title: "ColorRangeHsl.Saturation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorRangeHsl. تحصل أو تعيّن التشبع"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Saturation property
 
-الحصول على أو تعيين التشبع.
+الحصول أو تعيين التشبع.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 التشبع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Aspose.PSD لمرجع .NET API
-description: TransparencySupporter البناء. Default_Constructor
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TransparencySupporter. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public TransparencySupporter()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransparencySupporter](../)
-* مساحة الاسم [Aspose.PSD](../../transparencysupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

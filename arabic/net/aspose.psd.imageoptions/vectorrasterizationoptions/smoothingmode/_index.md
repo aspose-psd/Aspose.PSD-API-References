@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorRasterizationOptions ملكية. الحصول على أو تحديد وضع التجانس .
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorRasterizationOptions. يحصل أو يضبط وضع التنعيم"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
-الحصول على أو تحديد وضع التجانس .
+يحصل أو يعيّن وضعية التنعيم.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع التنعيم .
+وضع التنعيم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

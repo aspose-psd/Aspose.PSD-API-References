@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.EffectType
-second_title: Aspose.PSD لمرجع .NET API
-description: InnerShadowEffect ملكية. يحصل على نوع من التأثير
+title: "InnerShadowEffect.EffectType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InnerShadowEffect. يحصل على نوع التأثير"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.EffectType property
 
 يحصل على نوع من التأثير
@@ -14,9 +15,9 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/ef
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-توضح التعليمات البرمجية التالية دعم الخاصية ILayerEffect.EffectType.
+الكود التالي يوضح دعم الخاصية ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -40,18 +41,18 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // اشتعلت
+            // تم التقاطه
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [InnerShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrushBase.Rectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: LinearGradientBrushBase ملكية. الحصول على أو تعيين منطقة مستطيلة تحدد نقطتي البداية والنهاية للتدرج.
+title: "LinearGradientBrushBase.Rectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinearGradientBrushBase. يحصل أو يضبط منطقة مستطيلة تحدد نقاط البداية والنهاية للتدرج"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.brushes/lineargradientbrushbase/rectangle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Rectangle property
 
-الحصول على أو تعيين منطقة مستطيلة تحدد نقطتي البداية والنهاية للتدرج.
+يحصل أو يضبط منطقة مستطيلة تحدد نقطتي البداية والنهاية للتدرج.
 
 ```csharp
 public RectangleF Rectangle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`RectangleF`](../../../aspose.psd/rectanglef/) الهيكل الذي يحدد نقطتي البداية والنهاية للتدرج.
+هيكل [`RectangleF`](../../../aspose.psd/rectanglef/) يحدد نقاط البداية والنهاية للتدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearGradientBrushBase](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

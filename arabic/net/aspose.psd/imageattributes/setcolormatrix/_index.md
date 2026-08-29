@@ -1,76 +1,77 @@
 ---
-title: ImageAttributes.SetColorMatrix
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يضبط مصفوفة ضبط اللون للفئة الافتراضية.
+title: "ImageAttributes.SetColorMatrix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. يضبط مصفوفة تعديل اللون للفئة الافتراضية"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/imageattributes/setcolormatrix/
 ---
+{{< psd/tize >}}
 ## SetColorMatrix(ColorMatrix) {#setcolormatrix}
 
-يضبط مصفوفة ضبط اللون للفئة الافتراضية.
+يضبط مصفوفة تعديل اللون للفئة الافتراضية.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | مصفوفة ضبط اللون. |
+| newColorMatrix | ColorMatrix | مصفوفة تعديل اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag) {#setcolormatrix_1}
 
-يضبط مصفوفة ضبط اللون للفئة الافتراضية.
+يضبط مصفوفة تعديل اللون للفئة الافتراضية.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag flags)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | مصفوفة ضبط اللون. |
-| flags | ColorMatrixFlag | عنصر[`ColorMatrixFlag`](../../colormatrixflag/) يحدد نوع الصورة واللون الذي سيتأثر بمصفوفة ضبط اللون. |
+| newColorMatrix | ColorMatrix | مصفوفة تعديل اللون. |
+| flags | ColorMatrixFlag | عنصر من [`ColorMatrixFlag`](../../colormatrixflag/) يحدد نوع الصورة واللون الذي سيتأثر بمصفوفة تعديل اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrix_2}
 
-يضبط مصفوفة ضبط اللون لفئة محددة.
+يضبط مصفوفة تعديل اللون لفئة محددة.
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | مصفوفة ضبط اللون. |
-| mode | ColorMatrixFlag | عنصر[`ColorMatrixFlag`](../../colormatrixflag/) يحدد نوع الصورة واللون الذي سيتأثر بمصفوفة ضبط اللون. |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) تحدد الفئة التي تم تعيين مصفوفة ضبط اللون لها. |
+| newColorMatrix | ColorMatrix | مصفوفة تعديل اللون. |
+| mode | ColorMatrixFlag | عنصر من [`ColorMatrixFlag`](../../colormatrixflag/) يحدد نوع الصورة واللون الذي سيتأثر بمصفوفة تعديل اللون. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم تعيين مصفوفة تعديل اللون لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: FilterEffectMaskData.SheetMask
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData ملكية. الحصول على قناع الورقة .
+title: "FilterEffectMaskData.SheetMask"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FilterEffectMaskData. يحصل على قناع الورقة"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SheetMask property
 
-الحصول على قناع الورقة .
+يحصل على قناع الورقة.
 
 ```csharp
 public ChannelInformation SheetMask { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: BlncResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: BlncResource ملكية. الحصول على إصدار PSD .
+title: "BlncResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlncResource. يحصل على إصدار PSD"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion/
 ---
+{{< psd/tize >}}
 ## BlncResource.PsdVersion property
 
-الحصول على إصدار PSD .
+يحصل على إصدار PSD.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlncResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

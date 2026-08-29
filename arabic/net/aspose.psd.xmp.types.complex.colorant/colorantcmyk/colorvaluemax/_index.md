@@ -1,23 +1,24 @@
 ---
-title: ColorantCmyk.ColorValueMax
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantCmyk مجال. الحد الأقصى لقيمة اللون في تلوين CMYK .
+title: "ColorantCmyk.ColorValueMax"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ColorantCmyk. القيمة القصوى للون في صبغة CMYK"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMax field
 
-الحد الأقصى لقيمة اللون في تلوين CMYK .
+القيمة القصوى للون في صبغة CMYK.
 
 ```csharp
 public const float ColorValueMax;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

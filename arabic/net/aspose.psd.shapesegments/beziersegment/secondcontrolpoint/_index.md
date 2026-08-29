@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierSegment ملكية. يحصل على نقطة التحكم الثانية في شريحة بيزير.
+title: "BezierSegment.SecondControlPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierSegment. يحصل على نقطة التحكم الثانية لمنحنى بيزير"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-يحصل على نقطة التحكم الثانية في شريحة بيزير.
+يحصل على نقطة التحكم الثانية لمنحنى بيزيير.
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
 نقطة التحكم الثانية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* مساحة الاسم [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

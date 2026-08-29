@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData ملكية. الحصول على طول بيانات قناع المرشح بالبايت.
+title: "FilterEffectMaskData.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FilterEffectMaskData. تحصل على طول بيانات قناع الفلتر بالبايتات"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Length property
 
-الحصول على طول بيانات قناع المرشح بالبايت.
+يحصل على طول بيانات قناع الفلتر بالبايت.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

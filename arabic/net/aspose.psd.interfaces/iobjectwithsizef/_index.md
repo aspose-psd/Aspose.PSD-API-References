@@ -1,14 +1,15 @@
 ---
-title: Interface IObjectWithSizeF
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Interfaces.IObjectWithSizeF واجهه المستخدم. يمثل الكائن بالحجم الذي يتم التعبير عنه بأرقام حقيقية بالبوصة.
+title: "الواجهة IObjectWithSizeF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.Interfaces.IObjectWithSizeF. تمثّل كائنًا بالحجم الذي يُعبّر عنه بأعداد حقيقية بالبوصة."
 type: docs
-weight: 5020
+weight: 5510
 url: /ar/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF interface
 
-يمثل الكائن بالحجم الذي يتم التعبير عنه بأرقام حقيقية (بالبوصة).
+يمثّل كائنًا مع Size يتم التعبير عنه بأعداد حقيقية (بالبوصة).
 
 ```csharp
 public interface IObjectWithSizeF
@@ -16,15 +17,15 @@ public interface IObjectWithSizeF
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | الحصول على ارتفاع الكائن بالبوصة . |
-| [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | الحصول على حجم الكائن بالبوصة . |
-| [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | الحصول على عرض الكائن بالبوصة . |
+| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | يحصل على ارتفاع الكائن، بالبوصة. |
+| [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | يحصل على حجم الكائن، بالبوصة. |
+| [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | يحصل على عرض الكائن، بالبوصة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../)
 
 

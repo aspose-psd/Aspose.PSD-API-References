@@ -1,11 +1,12 @@
 ---
-title: Class XmpReal
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal فصل. يمثل XMP Real.
+title: "الفئة XmpReal"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Basic.XmpReal. تمثّل XMP Real"
 type: docs
-weight: 5970
+weight: 6470
 url: /ar/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
 يمثل XMP Real.
@@ -14,29 +15,29 @@ url: /ar/net/aspose.psd.xmp.types.basic/xmpreal/
 public sealed class XmpReal : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | يقوم بتهيئة مثيل جديد لملف`XmpReal` فئة . |
-| [XmpReal](xmpreal/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`XmpReal` فئة . |
+| [XmpReal](xmpreal/#constructor)(float) | يُهيئ مثيلًا جديدًا من الفئة `XmpReal`. |
+| [XmpReal](xmpreal/#constructor_1)(string) | يُهيئ مثيلًا جديدًا من الفئة `XmpReal`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | الحصول على القيمة أو تعيينها. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | يحصل أو يعيّن قيمة الفاصلة العائمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IImageDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IImageDescriptor واجهه المستخدم. واصف الصورة. يحتوي على خصائص وطرق أساسية لجميع أنواع واصفات الصور الأخرى.
+title: "الواجهة IImageDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IImageDescriptor. موصّف الصورة. يحتوي على الخصائص والطرق الأساسية لجميع أنواع موصّفات الصورة الأخرى"
 type: docs
-weight: 4420
+weight: 4890
 url: /ar/net/aspose.psd/iimagedescriptor/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor interface
 
-واصف الصورة. يحتوي على خصائص وطرق أساسية لجميع أنواع واصفات الصور الأخرى.
+وصف image descriptor. يحتوي على الخصائص والطرق الأساسية لجميع أنواع image descriptor الأخرى.
 
 ```csharp
 public interface IImageDescriptor
@@ -16,13 +17,13 @@ public interface IImageDescriptor
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | يحصل على التنسيق المدعوم . |
+| [SupportedFormat](../../aspose.psd/iimagedescriptor/supportedformat/) { get; } | يحصل على الصيغة المدعومة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

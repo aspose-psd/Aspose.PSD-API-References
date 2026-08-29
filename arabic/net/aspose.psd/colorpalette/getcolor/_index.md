@@ -1,38 +1,39 @@
 ---
-title: ColorPalette.GetColor
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPalette طريقة. الحصول على لون اللوحة حسب الفهرس .
+title: "ColorPalette.GetColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorPalette. تحصل على لون اللوحة حسب الفهرس"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/colorpalette/getcolor/
 ---
+{{< psd/tize >}}
 ## ColorPalette.GetColor method
 
-الحصول على لون اللوحة حسب الفهرس .
+يحصل على لون لوحة الألوان حسب الفهرس.
 
 ```csharp
 public Color GetColor(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر لون لوح الألوان. |
+| فهرس | Int32 | فهرس لون اللوحة. |
 
 ### قيمة الإرجاع
 
-إدخال لوحة الألوان المحدد بواسطة*index*.
+إدخال لوحة الألوان المحدد بواسطة *الفهرس*.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | إذا لوح الألوان*index* المحدد خارج نطاق إدخالات اللوحة. |
+| ArgumentOutOfRangeException | إذا كان *فهرس* لوحة الألوان المحدد خارج نطاق إدخالات اللوحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

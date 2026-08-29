@@ -1,59 +1,60 @@
 ---
-title: AsyncTask.Create
-second_title: Aspose.PSD لمرجع .NET API
-description: AsyncTask طريقة. لإنشاء المهمة غير المتزامنة بدون أي نتيجة.
+title: "AsyncTask.Create"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AsyncTask. تنشئ مهمة غير متزامنة بدون أي نتيجة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
-لإنشاء المهمة غير المتزامنة بدون أي نتيجة.
+ينشئ المهمة غير المتزامنة دون أي نتيجة.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskAction taskAction)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| taskAction | AsyncTaskAction | عمل المهمة. |
+| taskAction | AsyncTaskAction | إجراء المهمة. |
 
 ### قيمة الإرجاع
 
 المهمة غير المتزامنة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../asynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Create(AsyncTaskFunc) {#create_1}
 
-لإنشاء المهمة غير المتزامنة بنتيجة النوع العام.
+ينشئ المهمة غير المتزامنة مع نتيجة من نوع عام.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| taskFunc | AsyncTaskFunc | وظيفة المهمة. |
+| taskFunc | AsyncTaskFunc | دالة المهمة. |
 
 ### قيمة الإرجاع
 
 المهمة غير المتزامنة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../asynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

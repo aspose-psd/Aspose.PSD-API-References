@@ -1,27 +1,28 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: Aspose.PSD لمرجع .NET API
-description: IccProfileResource ملكية. الحصول على أو تعيين ملف تعريف ICC .
+title: "IccProfileResource.IccProfile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IccProfileResource. تحصل أو تعين ملف ICC"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
-الحصول على أو تعيين ملف تعريف ICC .
+يحصل أو يضبط ملف تعريف ICC.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف تعريف ICC .
+ملف ICC.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IccProfileResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

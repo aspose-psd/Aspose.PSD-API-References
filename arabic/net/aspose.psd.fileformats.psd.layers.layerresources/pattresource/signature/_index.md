@@ -1,11 +1,12 @@
 ---
-title: PattResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResource ملكية. يحصل على توقيع مورد الطبقة.
+title: "PattResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PattResource. تسترجع توقيع مورد الطبقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature/
 ---
+{{< psd/tize >}}
 ## PattResource.Signature property
 
 يحصل على توقيع مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

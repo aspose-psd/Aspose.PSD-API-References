@@ -1,23 +1,24 @@
 ---
-title: VectorPathRecordFactory.VectorPathRecordFactory
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorPathRecordFactory البناء. Default_Constructor
+title: "VectorPathRecordFactory.VectorPathRecordFactory"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ VectorPathRecordFactory. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public VectorPathRecordFactory()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathRecordFactory](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
+* assembly [Aspose.PSD](../../../)
 
 

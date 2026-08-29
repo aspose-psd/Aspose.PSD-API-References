@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.HeaderPi
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper ملكية. يحصل على تعليمات معالجة الرأس.
+title: "XmpPacketWrapper.HeaderPi"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPacketWrapper. تحصل على تعليمات المعالجة للرأس."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.HeaderPi property
 
 يحصل على تعليمات معالجة الرأس.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 public XmpHeaderPi HeaderPi { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تعليمات معالجة الرأس.
+تعليمات المعالجة للرأس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: GaussianBlurSmartFilter.Name
-second_title: Aspose.PSD لمرجع .NET API
-description: GaussianBlurSmartFilter ملكية. الحصول على اسم المرشح الذكي .
+title: "GaussianBlurSmartFilter.Name"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GaussianBlurSmartFilter. يحصل على اسم الفلتر الذكي"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.Name property
 
-الحصول على اسم المرشح الذكي .
+يحصل على اسم الفلتر الذكي.
 
 ```csharp
 public override string Name { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussianBlurSmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

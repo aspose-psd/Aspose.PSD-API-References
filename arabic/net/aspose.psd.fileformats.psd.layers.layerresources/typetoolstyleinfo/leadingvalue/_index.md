@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolStyleInfo ملكية. الحصول على القيمة البادئة أو تعيينها .
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolStyleInfo. تحصل أو تعين قيمة السطر الرائد."
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-الحصول على القيمة البادئة أو تعيينها .
+يحصل أو يضبط قيمة السطر الرأسي.
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة البادئة .
+قيمة السطر الرائد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolStyleInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

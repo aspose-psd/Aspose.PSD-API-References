@@ -1,46 +1,47 @@
 ---
-title: Class ComplexTypeBase
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase فصل. يمثل التجريد الأساسي لنوع القيمة المعقدة لـ XMP.
+title: "فئة ComplexTypeBase"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase class. يمثل التجريد الأساسي لنوع قيمة XMP Complex."
 type: docs
-weight: 6050
+weight: 6550
 url: /ar/net/aspose.psd.xmp.types.complex/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase class
 
-يمثل التجريد الأساسي لنوع القيمة المعقدة لـ XMP.
+يمثل التجريد الأساسي لنوع القيمة المعقدة في XMP.
 
 ```csharp
 public class ComplexTypeBase : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ComplexTypeBase](complextypebase/)(string, string) | يقوم بتهيئة مثيل جديد لملف`ComplexTypeBase` فئة . |
+| [ComplexTypeBase](complextypebase/)(string, string) | ينشئ مثيلاً جديداً من الفئة `ComplexTypeBase`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على مساحة الاسم الافتراضية URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة . |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على URI مساحة الاسم الافتراضية. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### ملاحظات
+## ملاحظات
 
-انظر المزيد: مواصفات XMP الجزء 2 ، الفصل 1.2.2
+انظر المزيد: XMP Specification Part 2, Chapter 1.2.2
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../)
 
 

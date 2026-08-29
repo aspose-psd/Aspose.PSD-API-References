@@ -1,91 +1,92 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffImageException البناء. يقوم بتهيئة مثيل جديد لملفTiffImageException فئة .
+title: "TiffImageException.TiffImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffImageException. يهيئ مثيلاً جديداً من فئة TiffImageException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffImageException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffImageException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffImageException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| error | TiffOptionsError | الخطأ. |
+| خطأ | TiffOptionsError | الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`TiffImageException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| error | TiffOptionsError | الخطأ. |
+| خطأ | TiffOptionsError | الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

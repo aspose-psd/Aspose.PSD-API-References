@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Lightness
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl ملكية. الحصول على الإضاءة أو ضبطها .
+title: "ColorRangeHsl.Lightness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorRangeHsl. تحصل أو تعين الإضاءة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Lightness property
 
-الحصول على الإضاءة أو ضبطها .
+يحصل أو يعيّن الإضاءة.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الخفة .
+السطوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

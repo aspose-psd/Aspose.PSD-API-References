@@ -1,49 +1,50 @@
 ---
-title: Size.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: Size البناء. يقوم بتهيئة مثيل جديد لملفSize هيكل من المحددPoint .
+title: "Size.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Size. يهيئ نسخة جديدة من هيكل Size من النقطة المحددة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Size`](../) هيكل من المحدد[`Point`](../../point/) .
+يهيئ نسخة جديدة من هيكل [`Size`](../) من الـ [`Point`](../../point/) المحدد.
 
 ```csharp
 public Size(Point point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | Point | ال[`Point`](../../point/) من خلالها لتهيئة هذا[`Size`](../). |
+| point | Point | الـ [`Point`](../../point/) الذي يُستخدم لتهيئة هذا الـ [`Size`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Size`](../) هيكل من الأبعاد المحددة.
+يهيئ نسخة جديدة من هيكل [`Size`](../) من الأبعاد المحددة.
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | مكون العرض الجديد[`Size`](../). |
-| height | Int32 | مكون الارتفاع الجديد[`Size`](../). |
+| width | Int32 | مكوّن العرض للـ [`Size`](../) الجديد. |
+| height | Int32 | مكوّن الارتفاع للـ [`Size`](../) الجديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

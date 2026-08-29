@@ -1,75 +1,76 @@
 ---
-title: RectangleF.Inflate
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. إنشاء وإرجاع نسخة مضخمة من المحددRectangleFبناء. يتم تضخيم النسخة بالمبلغ المحدد. يظل المستطيل الأصلي غير معدل.
+title: "RectangleF.Inflate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تنشئ وتعيد نسخة مُضخمة من الهيكل RectangleF المحدد. يتم تضخيم النسخة بالمقدار المحدد. يظل المستطيل الأصلي غير معدل."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/rectanglef/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(RectangleF, float, float)
 
-إنشاء وإرجاع نسخة مضخمة من المحدد[`RectangleF`](../)بناء. يتم تضخيم النسخة بالمبلغ المحدد. يظل المستطيل الأصلي غير معدل.
+تنشئ وتعيد نسخة مُضخمة من الهيكل [`RectangleF`](../) المحدد. يتم تضخيم النسخة بالمقدار المحدد. يظل المستطيل الأصلي غير معدل.
 
 ```csharp
 public static RectangleF Inflate(RectangleF rect, float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | ال[`RectangleF`](../) ليتم نسخها. لم يتم تعديل هذا المستطيل. |
-| x | Single | مقدار تضخيم نسخة المستطيل أفقيًا. |
-| y | Single | مقدار تضخيم نسخة المستطيل عموديًا. |
+| rect | RectangleF | الـ[`RectangleF`](../) الذي سيُنسخ. هذا المستطيل غير معدل. |
+| x | Single | المقدار لتضخيم نسخة المستطيل أفقياً. |
+| y | Single | المقدار لتضخيم نسخة المستطيل عمودياً. |
 
 ### قيمة الإرجاع
 
-تضخم[`RectangleF`](../).
+الـ[`RectangleF`](../) المُضخم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(float, float) {#inflate_1}
 
-ينفخ هذا[`RectangleF`](../) هيكل بالمبلغ المحدد.
+يضخم هذا الهيكل [`RectangleF`](../) بالمقدار المحدد.
 
 ```csharp
 public void Inflate(float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | مقدار تضخيم هذا[`RectangleF`](../) هيكل أفقي. |
-| y | Single | مقدار تضخيم هذا[`RectangleF`](../) هيكل عمودي. |
+| x | Single | المقدار لتضخيم هذا الهيكل [`RectangleF`](../) أفقياً. |
+| y | Single | المقدار لتضخيم هذا الهيكل [`RectangleF`](../) عمودياً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(SizeF) {#inflate}
 
-ينفخ هذا[`RectangleF`](../)بالمبلغ المحدد.
+يضخم هذا [`RectangleF`](../) بالمقدار المحدد.
 
 ```csharp
 public void Inflate(SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | SizeF | مقدار تضخيم هذا المستطيل. |
+| الحجم | SizeF | المقدار لتضخيم هذا المستطيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Font.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: Font طريقة. إرجاع تمثيل سلسلة يمكن قراءته بواسطة الإنسانFont .
+title: "Font.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Font. تُرجِع تمثيلًا نصيًا قابلًا للقراءة للإنسان لهذا Font"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/font/tostring/
 ---
+{{< psd/tize >}}
 ## Font.ToString method
 
-إرجاع تمثيل سلسلة يمكن قراءته بواسطة الإنسان[`Font`](../) .
+تُرجِع تمثيلًا نصيًا قابلًا للقراءة للإنسان لهذا [`Font`](../).
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تمثل هذا[`Font`](../).
+سلسلة نصية تمثل هذا [`Font`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

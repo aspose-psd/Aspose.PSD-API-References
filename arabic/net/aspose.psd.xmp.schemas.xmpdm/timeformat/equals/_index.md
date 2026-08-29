@@ -1,55 +1,56 @@
 ---
-title: TimeFormat.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeFormat طريقة. يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+title: "TimeFormat.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TimeFormat طريقة. يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/timeformat/equals/
 ---
+{{< psd/tize >}}
 ## Equals(TimeFormat) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(TimeFormat other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | other | TimeFormat | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي*other* معامل؛ وإلا ، خطأ .
+صحيح إذا كان الكائن الحالي مساويًا للمعامل *other*؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeFormat](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذا المثيل.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeFormat](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

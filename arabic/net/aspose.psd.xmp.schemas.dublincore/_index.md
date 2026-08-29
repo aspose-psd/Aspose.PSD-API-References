@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب المرتبطة ببيانات تعريف دبلن كور.
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على الفئات المساعدة المرتبطة ببيانات Dublin Core الوصفية والثوابت والطرق"
 type: docs
-weight: 530
+weight: 570
 url: /ar/net/aspose.psd.xmp.schemas.dublincore/
 ---
-تحتوي مساحة الاسم على فئات المساعدة والثوابت والأساليب المرتبطة ببيانات تعريف دبلن كور.
+{{< psd/tize >}}
+النطاق يحتوي على فئات وثوابت ومناهج مساعدة متعلقة ببيانات ميتا Dublin Core.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [DublinCorePackage](./dublincorepackage/) | يمثل مخطط النواة العامة . |
+| [DublinCorePackage](./dublincorepackage/) | يمثل مخطط Dublic Core. |
 
 

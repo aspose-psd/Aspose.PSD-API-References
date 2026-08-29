@@ -1,24 +1,25 @@
 ---
-title: ImageOptionsBase.MultiPageOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageOptionsBase ملكية. خيارات متعدد الصفحات
+title: "ImageOptionsBase.MultiPageOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageOptionsBase. خيارات الصفحات المتعددة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/imageoptionsbase/multipageoptions/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.MultiPageOptions property
 
-خيارات متعدد الصفحات
+خيارات الصفحات المتعددة
 
 ```csharp
 public MultiPageOptions MultiPageOptions { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiPageOptions](../../../aspose.psd.imageoptions/multipageoptions/)
 * class [ImageOptionsBase](../)
-* مساحة الاسم [Aspose.PSD](../../imageoptionsbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

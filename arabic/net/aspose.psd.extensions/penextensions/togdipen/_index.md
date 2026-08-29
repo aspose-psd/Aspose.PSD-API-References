@@ -1,32 +1,33 @@
 ---
-title: PenExtensions.ToGdiPen
-second_title: Aspose.PSD لمرجع .NET API
-description: PenExtensions طريقة. يحول ملفPen الىPen .
+title: "PenExtensions.ToGdiPen"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PenExtensions. يحول Pen إلى Pen"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.extensions/penextensions/togdipen/
 ---
+{{< psd/tize >}}
 ## PenExtensions.ToGdiPen method
 
-يحول ملف[`Pen`](../../../aspose.psd/pen/) الىPen .
+يحول [`Pen`](../../../aspose.psd/pen/) إلى Pen.
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | ال[`Pen`](../../../aspose.psd/pen/) لتحويل. |
+| pen | Pen | الـ[`Pen`](../../../aspose.psd/pen/) للتحويل. |
 
 ### قيمة الإرجاع
 
-المحولةPen.
+Pen المحول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../penextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

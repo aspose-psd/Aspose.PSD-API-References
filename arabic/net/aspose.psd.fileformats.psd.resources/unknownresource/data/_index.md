@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.Data
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownResource ملكية. يحصل على بيانات المورد .
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnknownResource. يحصل على بيانات المورد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
-يحصل على بيانات المورد .
+يحصل على بيانات المورد.
 
 ```csharp
 public byte[] Data { get; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات الموارد.
+بيانات المورد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnknownResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

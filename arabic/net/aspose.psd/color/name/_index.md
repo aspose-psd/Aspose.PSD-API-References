@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: Aspose.PSD لمرجع .NET API
-description: Color ملكية. يحصل على اسم هذاColor .
+title: "Color.Name"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Color. يحصل على اسم هذا Color"
 type: docs
 weight: 1520
 url: /ar/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-يحصل على اسم هذا[`Color`](../) .
+يحصل على اسم هذا [`Color`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم هذا[`Color`](../).
+اسم هذا [`Color`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

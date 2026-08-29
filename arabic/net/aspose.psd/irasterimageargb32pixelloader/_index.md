@@ -1,29 +1,30 @@
 ---
-title: Interface IRasterImageArgb32PixelLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IRasterImageArgb32PixelLoader واجهه المستخدم. محمل بكسل ARGB 32 بت للصورة النقطية .
+title: "واجهة IRasterImageArgb32PixelLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IRasterImageArgb32PixelLoader. محمل بكسل ARGB 32‑بت لصورة الراستر."
 type: docs
-weight: 4560
+weight: 5030
 url: /ar/net/aspose.psd/irasterimageargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader interface
 
-محمل بكسل ARGB 32 بت للصورة النقطية .
+محمل بكسل ARGB 32-بت raster image.
 
 ```csharp
 public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | تحميل 32 بت ARGB بكسل جزئيًا (بالكتل) . |
+| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | يقوم بتحميل بكسلات ARGB 32‑بت جزئيًا (حسب الكتل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

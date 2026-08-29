@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. يحصل أو يحدد ملفHotkeyPrefix كائن لهذاStringFormat الكائن .
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تحصل أو تعين كائن HotkeyPrefix لهذا الكائن StringFormat"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-يحصل أو يحدد ملف[`HotkeyPrefix`](../../hotkeyprefix/) كائن لهذا[`StringFormat`](../) الكائن .
+تحصل أو تعين كائن [`HotkeyPrefix`](../../hotkeyprefix/) لهذا الكائن [`StringFormat`](../).
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ال[`HotkeyPrefix`](../../hotkeyprefix/) كائن لهذا[`StringFormat`](../) الكائن الافتراضي هوNone.
+الكائن [`HotkeyPrefix`](../../hotkeyprefix/) لهذا الكائن [`StringFormat`](../) ، الافتراضي هو None.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Scale
-second_title: Aspose.PSD لمرجع .NET API
-description: PatternFillSettings ملكية. الحصول على المقياس أو تعيينه.
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PatternFillSettings. يحصل أو يضبط المقياس"
 type: docs
-weight: 120
+weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
-الحصول على المقياس أو تعيينه.
+يحصل أو يضبط المقياس.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المقياس .
+المقياس.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تحرير نمط طبقة التعبئة.
+يوضح الشيفرة التالية دعم تحرير نمط طبقة التعبئة.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // التحرير 
+            // تحرير 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

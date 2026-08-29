@@ -1,44 +1,47 @@
 ---
-title: Class PsdLoadOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageLoadOptions.PsdLoadOptions فصل. خيارات تحميل Psd
+title: "فئة PsdLoadOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.ImageLoadOptions.PsdLoadOptions. خيارات تحميل Psd."
 type: docs
-weight: 4770
+weight: 5250
 url: /ar/net/aspose.psd.imageloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions class
 
-خيارات تحميل Psd
+خيارات تحميل PSD
 
 ```csharp
 public class PsdLoadOptions : LoadOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PsdLoadOptions](psdloadoptions/)() | Default_Constructor |
+| [PsdLoadOptions](psdloadoptions/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | الحصول على أو تعيين ما إذا كان سيتم الحفظ مع الصورة المقدمة ، مع أو بدون تحويل الالتواء. |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | يحصل أو يحدد ملف[`Image`](../../aspose.psd/image/) خلفية[`Color`](../../aspose.psd/color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | الحصول على أو تعيين وضع استعادة البيانات. |
-| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [تجاهل قناة ألفا] . |
-| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم تجاهل العرض الثابت لطبقة نص PSD عند تنفيذ عملية UpdateText. |
-| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان [تحميل مورد التأثيرات] (افتراضيًا لم يتم تحميل المورد). عند تعيين هذا الخيار ، سيتم عرض التأثيرات المدعومة فقط على الصورة المدمجة النهائية. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | الحصول على معالج حدث التقدم أو تعيينه. |
-| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | الحصول على أو تحديد قيمة تشير إلى [استخدام وضع القراءة فقط]. هذا وضع للقراءة فقط ، مدعوم للتوافق المماثل مع Adobe Photoshop . عند تعيين هذا الخيار ، لن يتم حفظ جميع التغييرات المطبقة على الطبقات في الصورة النهائية. يتم استخدام جميع البيانات من قسم ImageData ، لذا فهي مطابقة لبرنامج Photoshop. افتراضيًا ، لا تكون جميع الصور المحملة متطابقة مع Adobe Photoshop المتوافقة. |
-| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى [استخدام القرص لمورد تأثيرات التحميل] (القرص المستخدم افتراضيًا لتحميل مورد التأثيرات ، ولكن يمكن استخدام الذاكرة إذا كانت كافية عن طريق تعيين هذه القيمة على خطأ) . |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب تطبيق تحويل ملف تعريف ICC . |
+| [AllowNonChangedLayerRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allownonchangedlayerrepaint/) { get; set; } | يحصل أو يعيّن ما إذا كان يجب الحفاظ على بكسلات الطبقة الأصلية أثناء العرض إذا لم يتم تعديل الطبقة. |
+| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | يحصل أو يعيّن ما إذا كان يجب الحفظ مع الصورة المرسومة، مع أو بدون تحويل التشويه. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | يحصل أو يعيّن تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن المؤقتة الداخلية. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | يحصل أو يعيّن خلفية [`Image`](../../aspose.psd/image/) [`Color`](../../aspose.psd/color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | يحصل أو يعيّن وضع استعادة البيانات. |
+| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [تجاهل قناة ألفا]. |
+| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان سيتم تجاهل عرض النص الثابت لطبقة النص PSD عند تنفيذ عملية UpdateText. |
+| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [تحميل موارد التأثيرات] (بشكل افتراضي لا يتم تحميل المورد). عند تعيين هذا الخيار سيتم عرض التأثيرات المدعومة فقط في الصورة المدمجة النهائية. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | يحصل أو يعيّن معالج حدث التقدم. |
+| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [استخدام وضع القراءة فقط]. هذا هو وضع القراءة فقط، مدعوم لتوافق تام مع Adobe Photoshop. عندما يتم تعيين هذا الخيار، لن يتم حفظ جميع التغييرات التي تم تطبيقها على الطبقات في الصورة النهائية. يتم استخدام جميع البيانات من قسم ImageData، لذا فهو مطابق لـ Photoshop. بشكل افتراضي، جميع الصور المحملة ليست متوافقة تماماً مع Adobe Photoshop. |
+| [ReadOnlyType](../../aspose.psd.imageloadoptions/psdloadoptions/readonlytype/) { get; set; } | يحصل أو يعيّن وضع القراءة فقط المستخدم عند تحميل صورة PSD. |
+| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان [استخدام القرص لتحميل موارد التأثيرات] (بشكل افتراضي يُستخدم القرص لتحميل موارد التأثيرات، ولكن يمكن استخدام الذاكرة إذا كان ذلك كافياً بتعيين هذه القيمة إلى false). |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب تطبيق تحويل ملف تعريف ICC. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -82,10 +85,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

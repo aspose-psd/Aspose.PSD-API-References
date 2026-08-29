@@ -1,47 +1,48 @@
 ---
-title: Class ClassID
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClassID فصل. كائن معرف فئة PSD .
+title: "الفئة ClassID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClassID. كائن معرف الفئة في PSD"
 type: docs
-weight: 2360
+weight: 2620
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
+{{< psd/tize >}}
 ## ClassID class
 
-كائن معرف فئة PSD .
+كائن معرف الفئة PSD.
 
 ```csharp
 public class ClassID
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ClassID](classid/#constructor)(byte[]) | يقوم بتهيئة مثيل جديد لملف`ClassID` فئة . |
-| [ClassID](classid/#constructor_2)(int) | يقوم بتهيئة مثيل جديد لملف`ClassID` فئة . |
-| [ClassID](classid/#constructor_3)(string) | يقوم بتهيئة مثيل جديد لملف`ClassID` فئة . |
-| [ClassID](classid/#constructor_5)(uint) | يقوم بتهيئة مثيل جديد لملف`ClassID` فئة . |
-| [ClassID](classid/#constructor_1)(byte[], bool) | يقوم بتهيئة مثيل جديد لملف`ClassID` فئة . |
-| [ClassID](classid/#constructor_4)(string, bool) | يقوم بتهيئة مثيل جديد لملف`ClassID` فئة . |
+| [ClassID](classid/#constructor)(byte[]) | ينشئ مثيلاً جديداً للفئة `ClassID`. |
+| [ClassID](classid/#constructor_2)(int) | ينشئ مثيلاً جديداً للفئة `ClassID`. |
+| [ClassID](classid/#constructor_3)(string) | ينشئ مثيلاً جديداً للفئة `ClassID`. |
+| [ClassID](classid/#constructor_5)(uint) | ينشئ مثيلاً جديداً للفئة `ClassID`. |
+| [ClassID](classid/#constructor_1)(byte[], bool) | ينشئ مثيلاً جديداً للفئة `ClassID`. |
+| [ClassID](classid/#constructor_4)(string, bool) | ينشئ مثيلاً جديداً للفئة `ClassID`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bytes](../../aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/) { get; } | يحصل على وحدات البايت التي تمثل معرف الفئة. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname/) { get; } | الحصول على اسم الفئة كتشفير ASCII . |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length/) { get; } | الحصول على طول معرف الفئة بالبايت. |
+| [Bytes](../../aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/) { get; } | يحصل على البايتات التي تمثل معرف الفئة. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname/) { get; } | يحصل على اسم الفئة بترميز ASCII. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length/) { get; } | يحصل على طول معرف الفئة بالبايت. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save/)(StreamContainer) | يحفظ معلومات الفئة في حاوية التدفق المحددة. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save/)(StreamContainer) | يحفظ معلومات الفئة إلى حاوية الدفق المحددة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

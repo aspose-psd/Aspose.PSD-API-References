@@ -1,66 +1,67 @@
 ---
-title: BezierShape.BezierShape
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierShape البناء. يقوم بتهيئة مثيل جديد لملفBezierShape فئة .
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BezierShape. يهيئ نسخة جديدة من فئة BezierShape"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`BezierShape`](../) فئة .
+يهيئ نسخة جديدة من فئة [`BezierShape`](../).
 
 ```csharp
 public BezierShape()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BezierShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../beziershape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`BezierShape`](../) فئة .
+يهيئ نسخة جديدة من فئة [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
+| نقاط | PointF[] | مصفوفة النقاط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../beziershape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`BezierShape`](../) فئة .
+يهيئ نسخة جديدة من فئة [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
-| isClosed | Boolean | إذا تم التعيين على`حقيقي` تم إغلاق شريحة بيزير. |
+| نقاط | PointF[] | مصفوفة النقاط. |
+| isClosed | Boolean | إذا تم تعيينه إلى `true` فإن منحنى البيزيير مغلق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../beziershape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

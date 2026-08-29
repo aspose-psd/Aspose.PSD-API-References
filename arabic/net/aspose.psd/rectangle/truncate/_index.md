@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Truncate
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle طريقة. تحويل المحددRectangleF إلى أRectangle عن طريق اقتطاعRectangleF القيم .
+title: "Rectangle.Truncate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Rectangle. تحول الـRectangleF المحدد إلى Rectangle عن طريق تقليم قيم الـRectangleF"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/rectangle/truncate/
 ---
+{{< psd/tize >}}
 ## Rectangle.Truncate method
 
-تحويل المحدد[`RectangleF`](../../rectanglef/) إلى أ[`Rectangle`](../) عن طريق اقتطاع[`RectangleF`](../../rectanglef/) القيم .
+تحول الـ[`RectangleF`](../../rectanglef/) المحدد إلى [`Rectangle`](../) عن طريق تقليم قيم الـ[`RectangleF`](../../rectanglef/).
 
 ```csharp
 public static Rectangle Truncate(RectangleF value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | RectangleF | ال[`RectangleF`](../../rectanglef/) ليتم تحويلها. |
+| value | RectangleF | الـ [`RectangleF`](../../rectanglef/) الذي سيُحوَّل. |
 
 ### قيمة الإرجاع
 
-جديد[`Rectangle`](../).
+`[`Rectangle`](../)` جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

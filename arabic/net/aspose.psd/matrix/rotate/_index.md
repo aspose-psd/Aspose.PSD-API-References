@@ -1,49 +1,50 @@
 ---
-title: Matrix.Rotate
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. يطبق دورانًا في اتجاه عقارب الساعة لمبلغ محدد في معامل الزاوية  حول الأصل إحداثيات صفر x و y لهذه المصفوفة بالترتيب المحدد .
+title: "Matrix.Rotate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تُطبق دورانًا باتجاه عقارب الساعة بمقدار محدد في معامل الزاوية حول نقطة الأصل (صفر إحداثيات x و y) لهذا Matrix بالترتيب المحدد."
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-يطبق دورانًا في اتجاه عقارب الساعة لمبلغ محدد في معامل الزاوية ، حول الأصل (إحداثيات صفر x و y) لهذه المصفوفة بالترتيب المحدد .
+يطبق دورانًا باتجاه عقارب الساعة بمقدار محدد في معامل angle، حول الأصل (إحداثيات x و y الصفرية) لهذه Matrix بالترتيب المحدد.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران. |
-| order | MatrixOrder | ترتيب المصفوفة. |
+| الزاوية | Single | زاوية الدوران. |
+| الترتيب | MatrixOrder | ترتيب المصفوفة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-يطبق دورانًا في اتجاه عقارب الساعة لمبلغ محدد في معلمة الزاوية ، حول الأصل (إحداثيات صفر x و y) لهذه المصفوفة بالترتيب الافتراضي (الإيداع المسبق) .
+يطبق دورانًا باتجاه عقارب الساعة بمقدار محدد في معامل angle، حول الأصل (إحداثيات x و y الصفرية) لهذه Matrix بالترتيب الافتراضي (Prepend).
 
 ```csharp
 public void Rotate(float angle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| angle | Single | زاوية الدوران. |
+| الزاوية | Single | زاوية الدوران. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.Contrast
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على التباين أو تعيينه .
+title: "ExifData.Contrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط التباين"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.exif/exifdata/contrast/
 ---
+{{< psd/tize >}}
 ## ExifData.Contrast property
 
-الحصول على التباين أو تعيينه .
+يحصل أو يضبط التباين.
 
 ```csharp
 public ExifContrast Contrast { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التباين .
+التباين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifContrast](../../../aspose.psd.exif.enums/exifcontrast/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

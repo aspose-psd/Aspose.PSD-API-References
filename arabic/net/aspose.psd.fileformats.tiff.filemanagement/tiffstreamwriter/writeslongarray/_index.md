@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSLongArray
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب مصفوفة من القيم الصحيحة للتيار.
+title: "TiffStreamWriter.WriteSLongArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب مصفوفة من القيم الصحيحة إلى التدفق"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSLongArray method
 
-يكتب مصفوفة من القيم الصحيحة للتيار.
+يكتب مصفوفة من قيم الأعداد الصحيحة إلى التدفق.
 
 ```csharp
 public void WriteSLongArray(int[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Int32[] | المصفوفة للكتابة. |
+| البيانات | Int32[] | المصفوفة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

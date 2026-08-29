@@ -1,14 +1,15 @@
 ---
-title: Matrix.GetElements
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. الحصول على نسخة من عناصر المصفوفة .
+title: "Matrix.GetElements"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تحصل على نسخة من عناصر المصفوفة"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/matrix/getelements/
 ---
+{{< psd/tize >}}
 ## Matrix.GetElements method
 
-الحصول على نسخة من عناصر المصفوفة .
+يحصل على نسخة من عناصر المصفوفة.
 
 ```csharp
 public float[] GetElements()
@@ -16,12 +17,12 @@ public float[] GetElements()
 
 ### قيمة الإرجاع
 
-نسخ عناصر المصفوفة.
+نسخة من عناصر المصفوفة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

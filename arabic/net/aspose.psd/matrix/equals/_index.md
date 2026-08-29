@@ -1,62 +1,63 @@
 ---
-title: Matrix.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+title: "Matrix.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تحدد ما إذا كان الكائن المحدد Object يساوي هذه الحالة"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/matrix/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object)
 
-تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذه المثيلة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NullReferenceException | ملف*obj* المعلمة فارغة. |
+| NullReferenceException | المعامل *obj* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(Matrix, Matrix)
 
-لتحديد ما إذا كانت مصفوفتان متساويتين.
+يحدد ما إذا كان مصفوفتان متساويتان.
 
 ```csharp
 public static bool Equals(Matrix a, Matrix b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Matrix | أول مصفوفة للمقارنة. |
+| a | Matrix | المصفوفة الأولى للمقارنة. |
 | b | Matrix | المصفوفة الثانية للمقارنة. |
 
 ### قيمة الإرجاع
 
 صحيح إذا كانت المصفوفات متساوية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

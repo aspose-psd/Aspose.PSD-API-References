@@ -1,14 +1,15 @@
 ---
-title: Class UnknownSmartFilter
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UnknownSmartFilter فصل. فئة الاحتفاظ ببيانات عامل التصفية الذكية غير المعروفة.
+title: "الفئة UnknownSmartFilter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UnknownSmartFilter class. الفئة لتخزين بيانات الفلاتر الذكية غير المعروفة"
 type: docs
-weight: 3480
+weight: 3900
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter class
 
-فئة الاحتفاظ ببيانات عامل التصفية الذكية غير المعروفة.
+الفئة لتخزين بيانات مرشح ذكي غير معروف.
 
 ```csharp
 public sealed class UnknownSmartFilter : SmartFilter
@@ -16,27 +17,27 @@ public sealed class UnknownSmartFilter : SmartFilter
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/) { get; } | يحصل على معرف نوع المرشح الذكي. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | الحصول على أو تعيين حالة تمكين عامل التصفية الذكي. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/) { get; } | الحصول على اسم المرشح الذكي . |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | الحصول على أو تعيين قيمة عتامة المرشح الذكي. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | هيكل واصف المصدر ببيانات التصفية الذكية. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/) { get; } | يحصل على معرف نوع الفلتر الذكي. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | يحصل أو يضبط حالة التمكين للفلتر الذكي. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/) { get; } | يحصل على اسم الفلتر الذكي. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | يحصل أو يضبط قيمة الشفافية للفلتر الذكي. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | هيكل الوصف المصدر مع بيانات الفلتر الذكي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | يطبق عامل التصفية الحالي على الإدخال[`RasterImage`](../../aspose.psd/rasterimage/) الصورة . |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | يطبق عامل التصفية الحالي على الإدخال[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) قناع البيانات. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | يجعل استنساخ العضو للمثيل الحالي من النوع. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | يطبق الفلتر الحالي على صورة الإدخال [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | يطبق الفلتر الحالي على بيانات قناع الإدخال [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/). |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | ينشئ نسخة مستنسخة عضوًا بعضًا من النسخة الحالية لهذا النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilter](../smartfilter/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Timecode.Timecode
-second_title: Aspose.PSD لمرجع .NET API
-description: Timecode البناء. يقوم بتهيئة مثيل جديد لملفTimecode فئة .
+title: "Timecode.Timecode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Timecode. ينشئ مثيلاً جديداً من الفئة Timecode"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/timecode/timecode/
 ---
+{{< psd/tize >}}
 ## Timecode constructor
 
-يقوم بتهيئة مثيل جديد لملف[`Timecode`](../) فئة .
+ينشئ مثيلاً جديداً من الفئة [`Timecode`](../).
 
 ```csharp
 public Timecode(TimeFormat format, string timeValue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| format | TimeFormat | تنسيق الوقت. |
+| صيغة | TimeFormat | صيغة الوقت. |
 | timeValue | String | قيمة الوقت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

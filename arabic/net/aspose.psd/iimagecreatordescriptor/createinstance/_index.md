@@ -1,14 +1,15 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageCreatorDescriptor طريقة. لإنشاء مثيل جديد لمنشئ المحتوى .
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IImageCreatorDescriptor. تنشئ مثيلًا جديدًا للمنشئ"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
-لإنشاء مثيل جديد لمنشئ المحتوى .
+ينشئ مثالًا جديدًا للمنشئ.
 
 ```csharp
 public IImageCreator CreateInstance()
@@ -18,11 +19,11 @@ public IImageCreator CreateInstance()
 
 مثيل منشئ جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* مساحة الاسم [Aspose.PSD](../../iimagecreatordescriptor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

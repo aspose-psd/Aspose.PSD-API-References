@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. يحصل على صفيف بدائل الخط بواسطة اسم الخط
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. تحصل على مصفوفة استبدالات الخط حسب اسم الخط"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-يحصل على صفيف بدائل الخط بواسطة اسم الخط
+يحصل على مصفوفة استبدالات الخط بناءً على اسم الخط
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 
 ### قيمة الإرجاع
 
-صفيف من أسماء البدائل للخطوط المتوفرة
+مصفوفة من أسماء الاستبدالات للخطوط المقدمة
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تقييد الخطوط برمجيًا باستخدام.
+الكود التالي يوضح القدرة على تقييد الخطوط برمجياً باستخدام.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

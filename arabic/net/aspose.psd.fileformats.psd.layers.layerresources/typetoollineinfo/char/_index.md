@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolLineInfo ملكية. الحصول على الحرف أو تعيينه.
+title: "TypeToolLineInfo.Char"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolLineInfo. يحصل أو يضبط الحرف"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-الحصول على الحرف أو تعيينه.
+يحصل أو يعيّن الحرف.
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحرف .
+الحرف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolLineInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

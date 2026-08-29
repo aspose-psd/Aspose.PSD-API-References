@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMap ملكية. الحصول على الملف الحالي أو تعيينهColor الهيكل المراد تحويله.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ColorMap property. يحصل أو يضبط بنية Color الحالية للتحويل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-الحصول على الملف الحالي أو تعيينه[`Color`](../../color/) الهيكل المراد تحويله.
+يحصل أو يضبط بنية [`Color`](../../color/) الحالية للتحويل.
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموجود[`Color`](../../color/) الهيكل المراد تحويله.
+بنية [`Color`](../../color/) الحالية للتحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* مساحة الاسم [Aspose.PSD](../../colormap/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

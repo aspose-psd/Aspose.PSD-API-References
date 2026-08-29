@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.PixelDataFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataSettings ملكية. الحصول على أو تعيين تنسيق بيانات البكسل
+title: "RawDataSettings.PixelDataFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RawDataSettings. الحصول على أو تعيين تنسيق بيانات البكسل."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/rawdatasettings/pixeldataformat/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.PixelDataFormat property
 
-الحصول على أو تعيين تنسيق بيانات البكسل
+يحصل أو يعيّن تنسيق بيانات البكسل
 
 ```csharp
 public PixelDataFormat PixelDataFormat { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 تنسيق بيانات البكسل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RawDataSettings](../)
-* مساحة الاسم [Aspose.PSD](../../rawdatasettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

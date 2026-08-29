@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion3.PhflResourceVersion3
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion3 البناء. يقوم بتهيئة مثيل جديد لملفPhflResourceVersion3 فئة .
+title: "PhflResourceVersion3.PhflResourceVersion3"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhflResourceVersion3 منشئ. يهيئ مثيلاً جديداً من الفئة PhflResourceVersion3"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PhflResourceVersion3`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3()
@@ -16,40 +17,40 @@ public PhflResourceVersion3()
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | يدعم الإصدار 2 و 3 فقط |
+| ArgumentException | مدعوم فقط الإصدار 2 و 3 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion3](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PhflResourceVersion3`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات المورد. |
+| البيانات | Byte[] | البيانات الخاصة بالمورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | طول البيانات غير صالح |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion3](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

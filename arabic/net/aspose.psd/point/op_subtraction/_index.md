@@ -1,33 +1,34 @@
 ---
-title: Point.op_Subtraction
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. يترجم أPoint من سالب معينSize .
+title: "Point.op_Subtraction"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تُترجم Point بالسالب لحجم Size معين."
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/point/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Point Subtraction operator
 
-يترجم أ[`Point`](../) من سالب معين[`Size`](../../size/) .
+يُترجم [`Point`](../) بالسالب لحجم [`Size`](../../size/) معين.
 
 ```csharp
 public static Point operator -(Point point, Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | Point | ال[`Point`](../) لترجمة. |
-| size | Size | أ[`Size`](../../size/) التي تحدد زوج الأرقام لطرحها من إحداثيات*point*. |
+| point | Point | الـ[`Point`](../) للترجمة. |
+| size | Size | حجم [`Size`](../../size/) يحدد زوج الأرقام التي تُطرح من إحداثيات *point*. |
 
 ### قيمة الإرجاع
 
-أ[`Point`](../) الهيكل الذي يتم ترجمته بالنفي المعطى[`Size`](../../size/) بناء.
+بنية [`Point`](../) يتم ترجمتها بواسطة السالب لبنية [`Size`](../../size/) المعطاة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

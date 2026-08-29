@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: DropShadowEffect ملكية. الحصول على أو تعيين قيمة التمويه بالبكسل.
+title: "DropShadowEffect.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DropShadowEffect. يحصل أو يضبط قيمة الضبابية بالبكسل"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Size property
 
-الحصول على أو تعيين قيمة التمويه بالبكسل.
+يحصل أو يضبط قيمة الضبابية بالبكسل.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحجم .
+الحجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DropShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

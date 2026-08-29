@@ -1,23 +1,24 @@
 ---
-title: ResourceBlock.ValidateValues
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceBlock طريقة. يتحقق من صحة قيم المورد .
+title: "ResourceBlock.ValidateValues"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ResourceBlock. يتحقق من قيم المورد"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/validatevalues/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ValidateValues method
 
-يتحقق من صحة قيم المورد .
+يتحقق من صحة قيم المورد.
 
 ```csharp
 public virtual void ValidateValues()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

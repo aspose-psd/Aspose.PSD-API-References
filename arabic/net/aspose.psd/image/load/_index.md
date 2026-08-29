@@ -1,69 +1,70 @@
 ---
-title: Image.Load
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يقوم بتحميل صورة جديدة من الملف المحدد.
+title: "Image.Load"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تُحمِّل صورة جديدة من الملف المحدد."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
-يقوم بتحميل صورة جديدة من الملف المحدد.
+يحمّل صورة جديدة من الملف المحدد.
 
 ```csharp
 public static Image Load(string filePath, LoadOptions loadOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار الملف لتحميل الصورة منه. |
 | loadOptions | LoadOptions | خيارات التحميل. |
 
 ### قيمة الإرجاع
 
-الصورة المحملة .
+الصورة المحمَّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(string) {#load_2}
 
-يقوم بتحميل صورة جديدة من الملف المحدد.
+يحمّل صورة جديدة من الملف المحدد.
 
 ```csharp
 public static Image Load(string filePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف المراد تحميل الصورة منه . |
+| filePath | String | مسار الملف لتحميل الصورة منه. |
 
 ### قيمة الإرجاع
 
-الصورة المحملة .
+الصورة المحمَّلة.
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال تحميل ملف صورة موجود في مثيل Aspose.PSD.Image باستخدام مسار الملف المحدد
+يوضح هذا المثال تحميل ملف صورة موجود إلى نسخة من Aspose.PSD.Image باستخدام مسار الملف المحدد.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل صورة وتهيئته بملف صورة موجود من موقع القرص
+//إنشاء نسخة من Image وتهيئتها بملف صورة موجود من موقع القرص.
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    // القيام ببعض معالجة الصور
+    //قم ببعض معالجة الصورة.
 }
 ```
 
-يوضح المثال التالي أن محاذاة النص من خلال ITextPortion للغات التي تُكتب من اليمين إلى اليسار تعمل بشكل صحيح.
+المثال التالي يوضح أن محاذاة النص عبر ITextPortion للغات من اليمين إلى اليسار تعمل بشكل صحيح.
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها إلى 16 بت لكل قناة RGB تعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت رمادية إلى 16 بت لكل قناة RGB يعمل بشكل صحيح دون أي استثناء.
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // هنا يجب ألا يكون هناك استثناء.
+    // هنا لا ينبغي أن يكون هناك أي استثناء.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها إلى 8 بت لكل قناة تعمل بتدرج الرمادي بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت رمادية إلى 8 بت لكل قناة رمادية يعمل بشكل صحيح دون أي استثناء.
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // هنا يجب ألا يكون هناك استثناء.
+    // هنا لا ينبغي أن يكون هناك أي استثناء.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-يوضح المثال التالي أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن تقدم تحويل المستند يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-يوضح المثال التالي أن قراءة ملفات PSD ذات 16 بت بتدرج الرمادي وحفظها تعمل بشكل صحيح وبدون استثناء.
+المثال التالي يوضح أن قراءة وحفظ ملفات PSD ذات 16 بت بالدرجات الرمادية يعمل بشكل صحيح وبدون استثناء.
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // هنا يجب ألا يكون هناك استثناء.
+        // هنا لا ينبغي أن يكون هناك أي استثناء.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -255,78 +256,78 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream, LoadOptions) {#load_1}
 
-يتم تحميل صورة جديدة من التدفق المحدد.
+يحمّل صورة جديدة من الدفق المحدد.
 
 ```csharp
 public static Image Load(Stream stream, LoadOptions loadOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | الدفق لتحميل الصورة منه. |
 | loadOptions | LoadOptions | خيارات التحميل. |
 
 ### قيمة الإرجاع
 
-الصورة المحملة .
+الصورة المحمَّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream) {#load}
 
-يتم تحميل صورة جديدة من التدفق المحدد.
+يحمّل صورة جديدة من الدفق المحدد.
 
 ```csharp
 public static Image Load(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق لتحميل الصورة منه . |
+| stream | Stream | الدفق لتحميل الصورة منه. |
 
 ### قيمة الإرجاع
 
-الصورة المحملة .
+الصورة المحمَّلة.
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال استخدام كائنات System.IO.Stream لتحميل ملف صورة موجود
+يوضح هذا المثال استخدام كائنات System.IO.Stream لتحميل ملف صورة موجود.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل لـ FileStream
+//إنشاء نسخة من FileStream
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    // إنشاء مثيل لفئة الصورة وتحميل ملف موجود من خلال كائن FileStream عن طريق استدعاء طريقة التحميل
+    //إنشاء نسخة من الفئة Image وتحميل ملف موجود عبر كائن FileStream عن طريق استدعاء طريقة Load
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        // القيام ببعض معالجة الصور.
+        //قم ببعض معالجة الصور.
     }
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

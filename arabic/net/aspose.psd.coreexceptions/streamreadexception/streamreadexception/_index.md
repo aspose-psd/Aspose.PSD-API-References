@@ -1,94 +1,95 @@
 ---
-title: StreamReadException.StreamReadException
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamReadException البناء. يقوم بتهيئة مثيل جديد لملفStreamReadException فئة .
+title: "StreamReadException.StreamReadException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ StreamReadException. يقوم بإنشاء نسخة جديدة من الفئة StreamReadException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions/streamreadexception/streamreadexception/
 ---
+{{< psd/tize >}}
 ## StreamReadException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamReadException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamReadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamReadException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamReadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception, int, int) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamReadException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message, Exception innerException, int expectedReadCount, 
     int actualReadCount)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 | expectedReadCount | Int32 | عدد القراءة المتوقع. |
 | actualReadCount | Int32 | عدد القراءة الفعلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamReadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamReadException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message, int expectedReadCount, int actualReadCount)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
 | expectedReadCount | Int32 | عدد القراءة المتوقع. |
 | actualReadCount | Int32 | عدد القراءة الفعلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamReadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

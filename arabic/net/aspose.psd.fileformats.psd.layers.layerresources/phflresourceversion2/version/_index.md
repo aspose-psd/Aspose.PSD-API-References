@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion2 ملكية. يحصل على الإصدار .
+title: "PhflResourceVersion2.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhflResourceVersion2 property. يحصل على الإصدار"
 type: docs
-weight: 90
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Version property
 
-يحصل على الإصدار .
+يحصل على الإصدار.
 
 ```csharp
 public override short Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | NotImplementedException |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion2](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

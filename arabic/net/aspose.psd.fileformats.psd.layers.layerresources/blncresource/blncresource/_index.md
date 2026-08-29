@@ -1,23 +1,24 @@
 ---
-title: BlncResource.BlncResource
-second_title: Aspose.PSD لمرجع .NET API
-description: BlncResource البناء. يقوم بتهيئة مثيل جديد لملفBlncResource فئة .
+title: "BlncResource.BlncResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "BlncResource منشئ. يهيئ نسخة جديدة من فئة BlncResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`BlncResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`BlncResource`](../).
 
 ```csharp
 public BlncResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlncResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface ILayerEffect
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect واجهه المستخدم. واجهة Layer Effects
+title: "الواجهة ILayerEffect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect interface. واجهة لتأثيرات الطبقة"
 type: docs
-weight: 2140
+weight: 2330
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
+{{< psd/tize >}}
 ## ILayerEffect interface
 
-واجهة Layer Effects
+واجهة لتأثيرات الطبقة.
 
 ```csharp
 public interface ILayerEffect
@@ -16,16 +17,22 @@ public interface ILayerEffect
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/) { get; set; } | الحصول على أو تحديد وضع المزج . |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/) { get; set; } | يحصل أو يضبط وضع المزج. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/) { get; } | يحصل على نوع من التأثير |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرئيًا. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/) { get; set; } | الحصول على أو تعيين التعتيم حيث 255 = 100٪ |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/) { get; set; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه الحالة مرئية. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/) { get; set; } | يحصل أو يضبط الشفافية حيث 255 = 100% |
 
-### أنظر أيضا
+## الطرق
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+| الاسم | الوصف |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/geteffectbounds/)(Rectangle, int) | احسب واحصل على حدود بكسلات التأثير بناءً على حدود بكسلات الطبقة المدخلة. |
+
+### انظر أيضًا
+
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

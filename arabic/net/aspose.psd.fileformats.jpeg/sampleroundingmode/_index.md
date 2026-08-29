@@ -1,29 +1,30 @@
 ---
-title: Enum SampleRoundingMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode تعداد. يحدد طريقة يتم بها تحويل قيمة n بت إلى قيمة 8 بت.
+title: "التعداد SampleRoundingMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode. يحدد طريقة تحويل قيمة nbit إلى قيمة 8bit."
 type: docs
-weight: 1530
+weight: 1540
 url: /ar/net/aspose.psd.fileformats.jpeg/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## SampleRoundingMode enumeration
 
-يحدد طريقة يتم بها تحويل قيمة n بت إلى قيمة 8 بت.
+يحدد طريقة يتم فيها تحويل قيمة n-بت إلى قيمة 8-بت.
 
 ```csharp
 public enum SampleRoundingMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Extrapolate | `0` | استقراء قيمة 8 بت لملاءمتها في n بت ، حيث 1 &lt;n &lt;8. عدد جميع قيم 8 بت الممكنة هو 1 &lt;&lt; 8 = 256 ، من 0 إلى 255. عدد كل ما هو ممكن قيم n-bit هي 1 &lt;&lt; n ، من 0 إلى (1 &lt;&lt; n) - 1. قيمة n-bit الأكثر منطقية Vn المقابلة لبعض قيمة 8 بت V8 تساوي Vn = V8 &gt;&gt; (8 - ن). |
-| Truncate | `1` | اقتطاع قيمة 8 بت لملاءمتها في n بت ، حيث 1 &lt;n &lt;8. عدد جميع قيم n بت الممكنة هو 1 &lt;&lt; n ، من 0 إلى (1 &lt;&lt; n) - 1. قيمة n-bit الأكثر منطقية Vn المقابلة لبعض قيمة 8 بت V8 تساوي Vn = V8 &amp; ((1 &lt;&lt; n) - 1) . |
+| Extrapolate | `0` | استنتاج قيمة 8-بت لتناسب n بت، حيث 1 &lt; n &lt; 8. عدد جميع القيم الممكنة للـ 8-بت هو 1 &lt;&lt; 8 = 256، من 0 إلى 255. عدد جميع القيم الممكنة للـ n-بت هو 1 &lt;&lt; n، من 0 إلى (1 &lt;&lt; n) - 1. أكثر قيمة n-بت منطقية تتطابق مع قيمة 8-بت V8 هي Vn = V8 &gt;&gt; (8 - n). |
+| Truncate | `1` | اقتطاع قيمة 8-بت لتناسب n بت، حيث 1 &lt; n &lt; 8. عدد جميع القيم الممكنة للـ n-بت هو 1 &lt;&lt; n، من 0 إلى (1 &lt;&lt; n) - 1. أكثر قيمة n-بت منطقية تتطابق مع قيمة 8-بت V8 هي Vn = V8 &amp; ((1 &lt;&lt; n) - 1). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

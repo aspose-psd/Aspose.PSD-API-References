@@ -1,67 +1,68 @@
 ---
-title: ExifData.ExifData
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData البناء. يقوم بتهيئة مثيل جديد لملفExifData فئة .
+title: "ExifData.ExifData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "مُنشئ ExifData. يهيئ نسخة جديدة من فئة ExifData"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.exif/exifdata/exifdata/
 ---
+{{< psd/tize >}}
 ## ExifData() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ExifData`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ExifData`](../).
 
 ```csharp
 public ExifData()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ExifData`](../) فئة مع بيانات من مجموعة .
+يهيئ نسخة جديدة من الفئة [`ExifData`](../) باستخدام البيانات من المصفوفة.
 
 ```csharp
 public ExifData(TiffDataType[] exifdata)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | صفيف من علامات EXIF مع العلامات الشائعة وعلامات GPS. |
+| exifdata | TiffDataType[] | مصفوفة من وسوم EXIF مع الوسوم العامة ووسوم GPS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`ExifData`](../) فئة مع بيانات من مجموعة .
+يهيئ نسخة جديدة من الفئة [`ExifData`](../) باستخدام البيانات من المصفوفة.
 
 ```csharp
 public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| commonTags | TiffDataType[] | العلامات المشتركة. |
-| exifTags | TiffDataType[] | علامات EXIF. |
+| commonTags | TiffDataType[] | الوسوم العامة. |
+| exifTags | TiffDataType[] | وسوم EXIF. |
 | gpsTags | TiffDataType[] | علامات GPS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

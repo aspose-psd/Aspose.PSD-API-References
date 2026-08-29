@@ -1,14 +1,15 @@
 ---
-title: Class FileSource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Sources.FileSource فصل. يمثل مصدر ملف قادر على معالجة الملفات.
+title: "الفئة FileSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Sources.FileSource. تمثل مصدر ملف قادر على معالجة الملفات"
 type: docs
-weight: 5610
+weight: 6110
 url: /ar/net/aspose.psd.sources/filesource/
 ---
+{{< psd/tize >}}
 ## FileSource class
 
-يمثل مصدر ملف قادر على معالجة الملفات.
+يمثّل مصدر ملف قادر على معالجة الملفات.
 
 ```csharp
 public abstract class FileSource : Source
@@ -16,20 +17,20 @@ public abstract class FileSource : Source
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الملف سيكون مؤقتًا. |
+| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الملف سيكون مؤقتاً. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | يحصل على حاوية التدفق . |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | يحصل على حاوية الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Source](../../aspose.psd/source/)
-* مساحة الاسم [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

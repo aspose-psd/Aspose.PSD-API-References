@@ -1,36 +1,37 @@
 ---
-title: Enum TiffOptionsError
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageOptions.TiffOptionsError تعداد. رموز خطأ خيارات tiff .
+title: "تعداد TiffOptionsError"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.ImageOptions.TiffOptionsError. رموز أخطاء خيارات TIFF"
 type: docs
-weight: 4950
+weight: 5440
 url: /ar/net/aspose.psd.imageoptions/tiffoptionserror/
 ---
+{{< psd/tize >}}
 ## TiffOptionsError enumeration
 
-رموز خطأ خيارات tiff .
+رموز خطأ خيارات tiff.
 
 ```csharp
 public enum TiffOptionsError
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| NoError | `0` | لا يوجد رمز خطأ . |
-| NoColorMap | `1` | لم يتم تحديد خريطة الألوان . |
-| ColorMapLengthInvalid | `2` | طول خريطة الألوان غير صالح . |
-| CompressionSppMismatch | `3` | لا يتطابق الضغط مع عدد العينات لكل بكسل . |
-| PhotometricCompressionMismatch | `4` | الضغط لا يتطابق مع الإعدادات الضوئية. |
-| PhotometricSppMismatch | `5` | القياس الضوئي لا يتطابق مع العينات لكل عدد بكسل . |
-| NotSupportedAlphaStorage | `6` | تخزين ألفا غير مدعوم . |
-| PhotometricBitsPerSampleMismatch | `7` | وحدات البت الضوئية لكل عينة غير صالحة |
-| Baseline6OptionsMismatch | `8` | معلمات خيارات TIFF المحددة لا تتوافق مع TIFF Baseline 6.0 standard |
+| NoError | `0` | لا يوجد رمز خطأ. |
+| NoColorMap | `1` | خريطة الألوان غير معرفة. |
+| ColorMapLengthInvalid | `2` | طول خريطة الألوان غير صالح. |
+| CompressionSppMismatch | `3` | ضغط الصورة لا يتطابق مع عدد العينات لكل بكسل. |
+| PhotometricCompressionMismatch | `4` | ضغط الصورة لا يتطابق مع إعدادات الفوتومتري. |
+| PhotometricSppMismatch | `5` | الإعداد الفوتومتري لا يتطابق مع عدد العينات لكل بكسل. |
+| NotSupportedAlphaStorage | `6` | تخزين ألفا غير مدعوم. |
+| PhotometricBitsPerSampleMismatch | `7` | عدد البتات الفوتومترية لكل عينة غير صالح |
+| Baseline6OptionsMismatch | `8` | معلمات خيارات TIFF المحددة لا تتوافق مع معيار TIFF Baseline 6.0 |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

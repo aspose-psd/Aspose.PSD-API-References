@@ -1,29 +1,30 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.DitheringMethod تعداد. طريقة ثبات الألوان .
+title: "تعداد DitheringMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.DitheringMethod. طريقة التظليل"
 type: docs
-weight: 770
+weight: 780
 url: /ar/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
-طريقة ثبات الألوان .
+طريقة التدرج.
 
 ```csharp
 public enum DitheringMethod
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| ThresholdDithering | `0` | ثبات الألوان العتبة. أبسط وأسرع خوارزمية ثبات الألوان. |
-| FloydSteinbergDithering | `1` | تردد فلويد شتاينبرغ. خوارزمية ثبات الألوان أكثر تعقيدًا ، تستخدم قيم كثافة الجيران الأقرب. |
+| ThresholdDithering | `0` | تظليل العتبة. أبسط وأسرع خوارزمية تظليل. |
+| FloydSteinbergDithering | `1` | تظليل Floyd‑Steinberg. خوارزمية تظليل أكثر تعقيدًا، تستخدم قيم شدة الجيران الأقرب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

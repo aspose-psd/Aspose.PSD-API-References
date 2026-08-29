@@ -1,27 +1,28 @@
 ---
-title: XmpHeaderPi.Guid
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpHeaderPi ملكية. يمثل دليل الرأس .
+title: "XmpHeaderPi.Guid"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpHeaderPi. تمثل Guid العنوان."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/xmpheaderpi/guid/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.Guid property
 
-يمثل دليل الرأس .
+يمثّل معرف الرأس (Guid).
 
 ```csharp
 public string Guid { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-يحتوي نص الرأس PI على GUID ، مما يجعل من غير المحتمل أن يظهر بالصدفة في دفق البيانات.
+نص رأس الـ PI يحتوي على GUID، مما يجعل ظهوره عن طريق الخطأ في تدفق البيانات غير محتمل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpHeaderPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

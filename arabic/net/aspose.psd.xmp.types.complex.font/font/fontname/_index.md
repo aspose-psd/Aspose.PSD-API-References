@@ -1,27 +1,28 @@
 ---
-title: Font.FontName
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. الحصول على اسم خط PostScript أو تعيينه.
+title: "Font.FontName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل أو تعين اسم خط PostScript"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.types.complex.font/font/fontname/
 ---
+{{< psd/tize >}}
 ## Font.FontName property
 
-الحصول على اسم خط PostScript أو تعيينه.
+يحصل أو يعيّن اسم خط PostScript.
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم خط PostScript .
+اسم خط PostScript.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

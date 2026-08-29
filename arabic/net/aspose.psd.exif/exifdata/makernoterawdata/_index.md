@@ -1,27 +1,28 @@
 ---
-title: ExifData.MakerNoteRawData
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على البيانات الأولية لملاحظة المُصمم أو تعيينها .
+title: "ExifData.MakerNoteRawData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط البيانات الأولية لملاحظة الصانع"
 type: docs
 weight: 790
 url: /ar/net/aspose.psd.exif/exifdata/makernoterawdata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteRawData property
 
-الحصول على البيانات الأولية لملاحظة المُصمم أو تعيينها .
+يحصل أو يعيّن البيانات الخام لملاحظة الصانع.
 
 ```csharp
 public byte[] MakerNoteRawData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-يلاحظ المصمم البيانات الأولية .
+البيانات الأولية لملاحظة الصانع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

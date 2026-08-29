@@ -1,27 +1,28 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: Aspose.PSD لمرجع .NET API
-description: CmlsResource البناء. يقوم بتهيئة مثيل جديد لملفCmlsResource فئة .
+title: "CmlsResource.CmlsResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ CmlsResource. يهيئ مثيلاً جديداً من الفئة CmlsResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`CmlsResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`CmlsResource`](../).
 
 ```csharp
 public CmlsResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات المورد. |
+| البيانات | Byte[] | البيانات الخاصة بالمورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmlsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

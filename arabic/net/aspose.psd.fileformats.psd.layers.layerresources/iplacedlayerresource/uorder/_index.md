@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.UOrder
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. الحصول على أو تعيين قيمة طلب U للطبقة الموضوعة في ملف PSD.
+title: "IPlacedLayerResource.UOrder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل أو يضبط قيمة ترتيب U للطبقة الموضوعة في ملف PSD"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.UOrder property
 
-الحصول على أو تعيين قيمة طلب U للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط قيمة ترتيب U للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public int UOrder { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة أمر U للطبقة الموضوعة .
+قيمة ترتيب U للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

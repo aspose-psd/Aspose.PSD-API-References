@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesYellowBlueBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: BlncResource ملكية. الحصول على توازن الدرجات اللونية النصفية الزرقاء أو تعيينه.
+title: "BlncResource.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlncResource. يحصل على أو يضبط توازن الأصفر والأزرق للمتوسطات"
 type: docs
-weight: 90
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesYellowBlueBalance property
 
-الحصول على توازن الدرجات اللونية النصفية الزرقاء أو تعيينه.
+يحصل أو يضبط توازن النغمات المتوسطة للأصفر الأزرق.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-توازن الدرجات اللونية النصفية الصفراء.
+توازن المتوسطات الأصفر الأزرق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlncResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

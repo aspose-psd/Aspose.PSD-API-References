@@ -1,28 +1,29 @@
 ---
-title: DescriptorStructure.Structures
-second_title: Aspose.PSD لمرجع .NET API
-description: DescriptorStructure ملكية. الحصول على نسخة من مصفوفة الهياكل أو تعيينها.
+title: "DescriptorStructure.Structures"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DescriptorStructure. تحصل أو تعين نسخة من مصفوفة من الهياكل"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.Structures property
 
-الحصول على نسخة من مصفوفة الهياكل أو تعيينها.
+يحصل أو يعيّن نسخة من مصفوفة البُنى.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الهياكل .
+الهياكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

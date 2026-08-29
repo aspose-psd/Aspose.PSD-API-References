@@ -1,71 +1,72 @@
 ---
-title: ExpaResource.ExpaResource
-second_title: Aspose.PSD لمرجع .NET API
-description: ExpaResource البناء. يقوم بتهيئة مثيل جديد لملفExpaResource فئة .
+title: "ExpaResource.ExpaResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExpaResource مُنشئ. يهيئ نسخة جديدة من فئة ExpaResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ExpaResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(float, float, float) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`ExpaResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource(float exposure, float offset, float gamma)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| exposure | Single | التعرض. |
+| التعريض | Single | التعريض. |
 | offset | Single | الإزاحة. |
-| gamma | Single | جاما. |
+| جاما | Single | الجاما. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ExpaResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource(byte[] bytes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bytes | Byte[] | البايت. |
+| بايت | Byte[] | البايتات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | بيانات مصدر Expa غير صالحة |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | بيانات مورد Expa غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

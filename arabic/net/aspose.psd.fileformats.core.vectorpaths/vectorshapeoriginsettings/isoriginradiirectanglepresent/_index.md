@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginRadiiRectanglePresent
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeOriginSettings ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل له خاصية مستطيل أصل نصف القطر.
+title: "VectorShapeOriginSettings.IsOriginRadiiRectanglePresent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeOriginSettings. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على خاصية مستطيل أقطار الأصل"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginRadiiRectanglePresent property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل له خاصية مستطيل أصل نصف القطر.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية مستطيل أقطار الأصل.
 
 ```csharp
 public bool IsOriginRadiiRectanglePresent { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان لهذا المثال خاصية مستطيل أصل نصف القطر ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن يحتوي على خاصية مستطيل أقطار الأصل؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeOriginSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

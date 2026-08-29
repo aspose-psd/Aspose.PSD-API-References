@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix11
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix ملكية. الحصول على العنصر أو تحديده في الصف الأول والعمود الأول من هذاColorMatrix .
+title: "ColorMatrix.Matrix11"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorMatrix. تحصل أو تعين العنصر في الصف الأول والعمود الأول من هذا ColorMatrix."
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/colormatrix/matrix11/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix11 property
 
-الحصول على العنصر أو تحديده في الصف الأول والعمود الأول من هذا[`ColorMatrix`](../) .
+تحصل أو تعين العنصر في الصف الأول والعمود الأول من هذا [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix11 { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العنصر الموجود في الصف الأول والعمود الأول من هذا[`ColorMatrix`](../).
+العنصر في الصف الأول والعمود الأول من هذا [`ColorMatrix`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

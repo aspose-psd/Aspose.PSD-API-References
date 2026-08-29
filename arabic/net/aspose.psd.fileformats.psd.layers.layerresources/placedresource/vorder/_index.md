@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.VOrder
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تعيين قيمة ترتيب V للطبقة الموضوعة في ملف PSD.
+title: "PlacedResource.VOrder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط قيمة ترتيب V للطبقة الموضوعة في ملف PSD"
 type: docs
-weight: 240
+weight: 230
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VOrder property
 
-الحصول على أو تعيين قيمة ترتيب V للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط قيمة ترتيب V للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة الأمر V للطبقة الموضوعة .
+قيمة ترتيب V للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

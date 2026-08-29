@@ -1,23 +1,24 @@
 ---
-title: ColorMatrix.MatrixDimensionsCount
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix مجال. عدد أبعاد المصفوفة .
+title: "ColorMatrix.MatrixDimensionsCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ColorMatrix. عدد أبعاد المصفوفة"
 type: docs
 weight: 300
 url: /ar/net/aspose.psd/colormatrix/matrixdimensionscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionsCount field
 
-عدد أبعاد المصفوفة .
+عدد أبعاد المصفوفة.
 
 ```csharp
 public const int MatrixDimensionsCount;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

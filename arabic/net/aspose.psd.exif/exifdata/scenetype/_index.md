@@ -1,27 +1,28 @@
 ---
-title: ExifData.SceneType
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على نوع المشهد أو تحديده.
+title: "ExifData.SceneType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين نوع المشهد"
 type: docs
 weight: 910
 url: /ar/net/aspose.psd.exif/exifdata/scenetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneType property
 
-الحصول على نوع المشهد أو تحديده.
+يحصل أو يعيّن نوع المشهد.
 
 ```csharp
 public byte SceneType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع المشهد .
+نوع المشهد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

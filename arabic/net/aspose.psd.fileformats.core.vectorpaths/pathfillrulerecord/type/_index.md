@@ -1,11 +1,12 @@
 ---
-title: PathFillRuleRecord.Type
-second_title: Aspose.PSD لمرجع .NET API
-description: PathFillRuleRecord ملكية. يحصل على النوع.
+title: "PathFillRuleRecord.Type"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PathFillRuleRecord. تحصل على النوع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord.Type property
 
 يحصل على النوع.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/
 public override VectorPathType Type { get; }
 ```
 
-### Property_Value
+### Property Value
 
-النوع .
+النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [PathFillRuleRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YCbCrPositioning
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تحديد موضع مكونات التلون بالنسبة لمكون النصوع.
+title: "JpegExifData.YCbCrPositioning"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين موضع مكونات اللون بالنسبة لمكون الإضاءة"
 type: docs
 weight: 240
 url: /ar/net/aspose.psd.exif/jpegexifdata/ycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrPositioning property
 
-الحصول على أو تحديد موضع مكونات التلون بالنسبة لمكون النصوع.
+يحصل أو يضبط موضع مكونات التشبع اللوني بالنسبة إلى مكون الإضاءة.
 
 ```csharp
 public ExifYCbCrPositioning YCbCrPositioning { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع مكونات التلون بالنسبة لمكون النصوع.
+موضع مكونات اللون بالنسبة لمكون الإضاءة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifYCbCrPositioning](../../../aspose.psd.exif.enums/exifycbcrpositioning/)
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

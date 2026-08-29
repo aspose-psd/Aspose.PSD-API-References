@@ -1,28 +1,29 @@
 ---
-title: ExifData.LensSpecification
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين مواصفات العدسة
+title: "ExifData.LensSpecification"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعين مواصفات العدسة"
 type: docs
 weight: 760
 url: /ar/net/aspose.psd.exif/exifdata/lensspecification/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSpecification property
 
-الحصول على أو تعيين مواصفات العدسة
+يحصل أو يعيّن مواصفات العدسة.
 
 ```csharp
 public TiffRational[] LensSpecification { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مواصفات العدسة .
+مواصفات العدسة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

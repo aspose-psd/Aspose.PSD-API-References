@@ -1,44 +1,45 @@
 ---
-title: GradientColorPoint.GradientColorPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientColorPoint البناء. يقوم بتهيئة مثيل جديد لملفGradientColorPoint فئة .
+title: "GradientColorPoint.GradientColorPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GradientColorPoint. يهيئ مثيلًا جديدًا من الفئة GradientColorPoint"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GradientColorPoint`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`GradientColorPoint`](../).
 
 ```csharp
 public GradientColorPoint()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientColorPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GradientColorPoint`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`GradientColorPoint`](../).
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | Color | نقطة اللون على التدرج. |
-| location | Int32 | موقع نقطة اللون على التدرج. |
-| medianPointLocation | Int32 | موقع نقطة الانحدار الوسيط. |
+| لون | لون | نقطة اللون على التدرج. |
+| الموقع | Int32 | موقع نقطة اللون على التدرج. |
+| medianPointLocation | Int32 | موقع نقطة التدرج المتوسطة. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية إنشاء / تحرير كائن تأثير GradientOverlayEffect في الطبقة.
+يوضح المثال التالي كيفية إنشاء/تحرير كائن تأثير GradientOverlayEffect في الطبقة.
 
 ```csharp
 [C#]
@@ -46,13 +47,13 @@ public GradientColorPoint(Color color, int location, int medianPointLocation)
 string sourceFilePath = "psdnet256.psd";
 string outputFilePath = "psdnet256.psd_output.psd";
 
-// ينشئ / يحصل ويحرر تأثير تراكب التدرج في الطبقة.
+// ينشئ/يحصل ويحرر تأثير التراكب المتدرج في طبقة.
 using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() { LoadEffectsResource = true }))
 {
     BlendingOptions layerBlendOptions = psdImage.Layers[1].BlendingOptions;
     GradientOverlayEffect gradientOverlayEffect = null;
 
-    // بحث GradientOverlayEffect في طبقة.
+    // ابحث عن GradientOverlayEffect في طبقة.
     foreach (ILayerEffect effect in layerBlendOptions.Effects)
     {
         gradientOverlayEffect = effect as GradientOverlayEffect;
@@ -68,44 +69,45 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
         gradientOverlayEffect = layerBlendOptions.AddGradientOverlay();
     }
 
-    // أضف القليل من الشفافية للتأثير.
+    // أضف قليلًا من الشفافية إلى التأثير.
     gradientOverlayEffect.Opacity = 200;
 
-    // تغيير وضع المزج لتأثير التدرج.
+    // غيّر وضع المزج لتأثير التدرج.
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
-    // Gets GradientFillSettings لتكوين إعدادات تراكب التدرج.
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    // يحصل على كائن GradientFillSettings لتكوين إعدادات التراكب المتدرج.
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
     // إعداد تدرج جديد بلونين.
-    settings.ColorPoints = new IGradientColorPoint[]
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
     };
 
-    // يعين ميل التدرج بزاوية 80 درجة.
+    // يضبط ميل التدرج بزاوية 80 درجة.
     settings.Angle = 80;
 
-    // تأثير التدرج اللوني يصل إلى 150٪.
+    // قُم بتكبير تأثير التدرج حتى 150٪.
     settings.Scale = 150;
 
-    // يعين نوع التدرج.
+    // يضبط نوع التدرج.
     settings.GradientType = GradientType.Linear;
 
-    // اجعل التدرج معتمًا عن طريق ضبط التعتيم على 100٪ عند كل نقطة شفافية.
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    // اجعل التدرج غير شفاف عن طريق ضبط الشفافية إلى 100٪ في كل نقطة شفافية.
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

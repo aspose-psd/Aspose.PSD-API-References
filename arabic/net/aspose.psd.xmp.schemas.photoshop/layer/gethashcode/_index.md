@@ -1,14 +1,15 @@
 ---
-title: Layer.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "Layer.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Layer. تُرجع رمز تجزئة لهذا المثيل"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/layer/gethashcode/
 ---
+{{< psd/tize >}}
 ## Layer.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة لهذه المثيلة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

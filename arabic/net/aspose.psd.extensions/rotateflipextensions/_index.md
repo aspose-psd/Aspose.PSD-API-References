@@ -1,28 +1,29 @@
 ---
-title: Class RotateFlipExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.RotateFlipExtensions فصل. يحتوي على طرق تمديد لتحويل ملفRotateFlipType و الRotateFlipType الطبقات .
+title: "الفئة RotateFlipExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Extensions.RotateFlipExtensions. تحتوي على أساليب امتداد لتحويل RotateFlipType وفئات RotateFlipType"
 type: docs
-weight: 1180
+weight: 1190
 url: /ar/net/aspose.psd.extensions/rotateflipextensions/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions class
 
-يحتوي على طرق تمديد لتحويل ملفRotateFlipType و ال[`RotateFlipType`](../../aspose.psd/rotatefliptype/) الطبقات .
+تحتوي على أساليب امتداد لتحويل RotateFlipType و [`RotateFlipType`](../../aspose.psd/rotatefliptype/) الفئات.
 
 ```csharp
 public static class RotateFlipExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | تحويل Aspose.PSD.RotateFlipType إلى System.Drawing.RotateFlipType. |
+| static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | يحوّل Aspose.PSD.RotateFlipType إلى System.Drawing.RotateFlipType. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

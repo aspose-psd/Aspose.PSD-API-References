@@ -1,44 +1,45 @@
 ---
-title: Dimensions.Dimensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Dimensions البناء. يقوم بتهيئة مثيل جديد لملفDimensions فئة .
+title: "Dimensions.Dimensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Dimensions. يهيئ نسخة جديدة من الفئة Dimensions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Dimensions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Dimensions`](../).
 
 ```csharp
 public Dimensions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dimensions](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dimensions(float, float) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Dimensions`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Dimensions`](../).
 
 ```csharp
 public Dimensions(float width, float height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Single | العرض. |
-| height | Single | الإرتفاع. |
+| العرض | Single | العرض. |
+| الارتفاع | Single | الارتفاع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dimensions](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ProjectLink.Type
-second_title: Aspose.PSD لمرجع .NET API
-description: ProjectLink ملكية. الحصول على نوع الملف أو تعيينه.
+title: "ProjectLink.Type"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ProjectLink. تحصل أو تعيين نوع الملف"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Type property
 
-الحصول على نوع الملف أو تعيينه.
+يحصل أو يعيّن نوع الملف.
 
 ```csharp
 public ProjectType Type { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

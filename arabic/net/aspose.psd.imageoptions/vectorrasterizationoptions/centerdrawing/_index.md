@@ -1,23 +1,24 @@
 ---
-title: VectorRasterizationOptions.CenterDrawing
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorRasterizationOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان الرسم المركزي .
+title: "VectorRasterizationOptions.CenterDrawing"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorRasterizationOptions. يحصل أو يضبط قيمة تشير إلى ما إذا كان الرسم مركزيًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imageoptions/vectorrasterizationoptions/centerdrawing/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CenterDrawing property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان الرسم المركزي .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان الرسم مركزيًا.
 
 ```csharp
 public bool CenterDrawing { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorRasterizationOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

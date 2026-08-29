@@ -1,32 +1,33 @@
 ---
-title: ColorBlendExtensions.ToGdiColorBlend
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorBlendExtensions طريقة. يحول ملفColorBlend لColorBlend .
+title: "ColorBlendExtensions.ToGdiColorBlend"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorBlendExtensions. يحول ColorBlend إلى ColorBlend"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions.ToGdiColorBlend method
 
-يحول ملف[`ColorBlend`](../../../aspose.psd/colorblend/) لColorBlend .
+يحول [`ColorBlend`](../../../aspose.psd/colorblend/) إلى ColorBlend.
 
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| colorBlend | ColorBlend | مزيج الألوان. |
+| colorBlend | ColorBlend | دمج اللون. |
 
 ### قيمة الإرجاع
 
-المحولةColorBlend.
+ColorBlend المحول.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* مساحة الاسم [Aspose.PSD.Extensions](../../colorblendextensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

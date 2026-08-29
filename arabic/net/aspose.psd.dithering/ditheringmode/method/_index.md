@@ -1,24 +1,25 @@
 ---
-title: DitheringMode.Method
-second_title: Aspose.PSD لمرجع .NET API
-description: DitheringMode ملكية. تحديد خوارزمية التردد .
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DitheringMode. اختيار خوارزمية التنقيط"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
-تحديد خوارزمية التردد .
+اختيار خوارزمية التخفيض.
 
 ```csharp
 public DitheringMethod Method { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* مساحة الاسم [Aspose.PSD.Dithering](../../ditheringmode/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.Resources
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على موارد الطبقة أو تعيينها.
+title: "Layer.Resources"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل أو تعين موارد الطبقة"
 type: docs
-weight: 280
+weight: 290
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/resources/
 ---
+{{< psd/tize >}}
 ## Layer.Resources property
 
-الحصول على موارد الطبقة أو تعيينها.
+يحصل أو يضبط موارد الطبقة.
 
 ```csharp
 public LayerResource[] Resources { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موارد الطبقة .
+موارد الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../../layerresource/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

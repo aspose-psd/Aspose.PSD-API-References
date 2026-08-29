@@ -1,38 +1,39 @@
 ---
-title: Class ImageResizeSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageResizeSettings فصل. إعدادات تغيير حجم الصورة class
+title: "الصنف ImageResizeSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الصنف Aspose.PSD.ImageResizeSettings. صنف إعدادات تغيير حجم الصورة."
 type: docs
-weight: 5000
+weight: 5490
 url: /ar/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-إعدادات تغيير حجم الصورة class
+فئة إعدادات تغيير حجم الصورة
 
 ```csharp
 public class ImageResizeSettings
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageResizeSettings](imageresizesettings/)() | Default_Constructor |
+| [ImageResizeSettings](imageresizesettings/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | الحصول على طريقة مقارنة الألوان أو تعيينها. |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | الحصول على أو تحديد طريقة تكميم اللون. |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | الحصول على أو تعيين عدد الإدخالات |
-| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | الحصول على أو تحديد نوع عامل التصفية. |
-| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | الحصول على أو تحديد وضع الاستيفاء. |
+| [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | يحصل أو يضبط طريقة مقارنة اللون. |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | يحصل أو يضبط طريقة تكميم اللون. |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | يحصل أو يضبط عدد الإدخالات. |
+| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | يحصل أو يضبط نوع الفلتر. |
+| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | يحصل أو يضبط وضع الاستيفاء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

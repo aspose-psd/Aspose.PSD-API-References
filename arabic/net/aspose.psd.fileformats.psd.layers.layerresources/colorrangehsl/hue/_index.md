@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Hue
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl ملكية. الحصول على الصبغة أو تعيينها .
+title: "ColorRangeHsl.Hue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorRangeHsl. تحصل أو تعين درجة اللون"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Hue property
 
-الحصول على الصبغة أو تعيينها .
+يحصل أو يعيّن درجة اللون.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الصبغة .
+الدرجة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

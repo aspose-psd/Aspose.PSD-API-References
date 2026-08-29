@@ -1,45 +1,46 @@
 ---
-title: Class CmykMixerChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel فصل. CmykChannel. إنه غلاف لقناة البيانات الخام. تستخدم في MixrResource
+title: "فئة CmykMixerChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel class. CmykChannel. الغلاف الخاص به لبيانات القناة الخام. يستخدم في MixrResource"
 type: docs
-weight: 1710
+weight: 1760
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel class
 
-CmykChannel. إنه غلاف لقناة البيانات الخام. تستخدم في MixrResource
+CmykChannel. إنها غلاف لبيانات القناة الخام. تُستخدم في MixrResource
 
 ```csharp
 public class CmykMixerChannel : MixerChannel
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | يقوم بتهيئة مثيل جديد لملف`CmykMixerChannel` فئة . |
+| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | ينشئ مثيلاً جديداً من الفئة `CmykMixerChannel`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/) { get; set; } | الحصول على اللون الأسود أو تعيينه. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | الحصول على أو تعيين ثابت القناة. |
-| [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/) { get; set; } | الحصول على السماوي أو تعيينه. |
-| [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/) { get; set; } | الحصول على اللون الأرجواني أو تعيينه . |
-| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/) { get; set; } | الحصول على اللون الأصفر أو تعيينه. |
+| [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/) { get; set; } | يحصل أو يضبط اللون الأسود. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | يحصل أو يضبط الثابت الخاص بالقناة. |
+| [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/) { get; set; } | يحصل أو يضبط اللون السيان. |
+| [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/) { get; set; } | يحصل أو يضبط اللون الأرجواني. |
+| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/) { get; set; } | يحصل أو يضبط اللون الأصفر. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | يحصل على البيانات الأولية . |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | يحصل على البيانات الخام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixerChannel](../mixerchannel/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

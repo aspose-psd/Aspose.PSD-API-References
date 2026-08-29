@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.RealFlags
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskDataFull ملكية. الحصول على أو تعيين إشارات قناع الطبقة المستخدمة لقناع المستخدم / قناع البيانات النقطية. بالنسبة لقناع المتجه  يتم استخدام خاصية الإشارات.
+title: "LayerMaskDataFull.RealFlags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskDataFull. تحصل أو تعين أعلام قناع الطبقة المستخدمة لقناع المستخدم / القناع النقطي. لقناع المتجه تُستَخدم خاصية Flags"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.RealFlags property
 
-الحصول على أو تعيين إشارات قناع الطبقة المستخدمة لقناع المستخدم / قناع البيانات النقطية. بالنسبة لقناع المتجه ، يتم استخدام خاصية الإشارات.
+يحصل أو يضبط أعلام قناع الطبقة المستخدمة للقناع المستخدم / النقطي. بالنسبة لقناع المتجه تُستخدم خاصية Flags.
 
 ```csharp
 public LayerMaskFlags RealFlags { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أعلام قناع الطبقة الحقيقية .
+أعلام قناع الطبقة الفعلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskDataFull](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

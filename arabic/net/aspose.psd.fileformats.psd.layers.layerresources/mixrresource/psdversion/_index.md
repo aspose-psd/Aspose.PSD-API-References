@@ -1,23 +1,24 @@
 ---
-title: MixrResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: MixrResource ملكية. يحصل على نسخة مديرية الأمن العام .
+title: "MixrResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MixrResource. تحصل على إصدار psd"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/psdversion/
 ---
+{{< psd/tize >}}
 ## MixrResource.PsdVersion property
 
-يحصل على نسخة مديرية الأمن العام .
+يحصل على إصدار psd.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

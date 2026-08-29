@@ -1,26 +1,27 @@
 ---
-title: FXidResource.FXidResource
-second_title: Aspose.PSD لمرجع .NET API
-description: FXidResource البناء. يقوم بتهيئة مثيل جديد لملفFXidResource فئة .
+title: "FXidResource.FXidResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ FXidResource. يهيئ مثيلاً جديداً من فئة FXidResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`FXidResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`FXidResource`](../).
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | Int32 | مفتاح المورد. |
-| version | Int32 | النسخة. |
-| filterEffectMasks | FilterEffectMaskData[] | أقنعة تأثير المرشح. |
+| المفتاح | Int32 | مفتاح المورد. |
+| version | Int32 | الإصدار. |
+| filterEffectMasks | FilterEffectMaskData[] | أقنعة تأثير الفلتر. |
 
-### أمثلة
+## أمثلة
 
 يوضح هذا المثال كيفية الحصول على خصائص مورد FXidResource وتعيينها.
 
@@ -31,7 +32,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -67,11 +68,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

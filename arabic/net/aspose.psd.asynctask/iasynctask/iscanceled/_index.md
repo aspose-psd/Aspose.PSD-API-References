@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsCanceled
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask ملكية. يحصل على قيمة تشير إلى ما إذا كان قد تم إلغاء هذه المهمة.
+title: "IAsyncTask.IsCanceled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "IAsyncTask property. تحصل على قيمة تُشير إلى ما إذا تم إلغاء هذه المهمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.asynctask/iasynctask/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsCanceled property
 
-يحصل على قيمة تشير إلى ما إذا كان قد تم إلغاء هذه المهمة.
+يحصل على قيمة تشير إلى ما إذا كانت هذه المهمة قد أُلغيت.
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم إلغاء هذه المهمة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم إلغاء هذه المهمة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

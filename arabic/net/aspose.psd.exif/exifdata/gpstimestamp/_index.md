@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTimestamp
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على وقت GPS أو تعيينه على أنه UTC التوقيت العالمي المنسق .
+title: "ExifData.GPSTimestamp"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط وقت GPS كـ UTC الوقت العالمي المنسق"
 type: docs
 weight: 640
 url: /ar/net/aspose.psd.exif/exifdata/gpstimestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTimestamp property
 
-الحصول على وقت GPS أو تعيينه على أنه UTC (التوقيت العالمي المنسق) .
+الحصول أو تعيين وقت GPS كـ UTC (التوقيت العالمي المنسق).
 
 ```csharp
 public TiffRational[] GPSTimestamp { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وقت GPS كـ UTC (التوقيت العالمي المنسق) .
+وقت GPS كـ UTC (الوقت العالمي المنسق).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

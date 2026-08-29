@@ -1,14 +1,15 @@
 ---
-title: XmpTrailerPi.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpTrailerPi طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "XmpTrailerPi.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpTrailerPi. تُرجع رمز تجزئة لهذا المثيل"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp/xmptrailerpi/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة لهذه المثيلة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTrailerPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

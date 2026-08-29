@@ -1,14 +1,15 @@
 ---
-title: ColorMatrix.GetMatrix
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix طريقة. يحصل على قيم المصفوفة .
+title: "ColorMatrix.GetMatrix"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorMatrix. تحصل على قيم المصفوفة"
 type: docs
 weight: 280
 url: /ar/net/aspose.psd/colormatrix/getmatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.GetMatrix method
 
-يحصل على قيم المصفوفة .
+يسترجع قيم المصفوفة.
 
 ```csharp
 public float[][] GetMatrix()
@@ -18,10 +19,10 @@ public float[][] GetMatrix()
 
 مصفوفة قيم المصفوفة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

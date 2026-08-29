@@ -1,27 +1,28 @@
 ---
-title: PhflResource.Density
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResource ملكية. الحصول على الكثافة أو تحديدها .
+title: "PhflResource.Density"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PhflResource. تحصل أو تعين الكثافة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
-الحصول على الكثافة أو تحديدها .
+يحصل أو يضبط الكثافة.
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الكثافة .
+الكثافة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

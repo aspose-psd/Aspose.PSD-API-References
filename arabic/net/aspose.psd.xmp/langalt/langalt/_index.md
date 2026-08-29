@@ -1,43 +1,44 @@
 ---
-title: LangAlt.LangAlt
-second_title: Aspose.PSD لمرجع .NET API
-description: LangAlt البناء. يقوم بتهيئة مثيل جديد لملفLangAlt فئة .
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LangAlt. يهيئ نسخة جديدة من الفئة LangAlt"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LangAlt`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`LangAlt`](../).
 
 ```csharp
 public LangAlt(string defaultValue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | defaultValue | String | القيمة الافتراضية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LangAlt](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../langalt/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LangAlt`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`LangAlt`](../).
 
 ```csharp
 public LangAlt()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LangAlt](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../langalt/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

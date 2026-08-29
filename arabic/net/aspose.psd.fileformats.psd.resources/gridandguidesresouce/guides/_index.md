@@ -1,28 +1,29 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: Aspose.PSD لمرجع .NET API
-description: GridAndGuidesResouce ملكية. الحصول على الأدلة أو تعيينها .
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GridAndGuidesResouce. تحصل أو تعيّن الإرشادات"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
-الحصول على الأدلة أو تعيينها .
+الحصول أو تعيين الأدلة.
 
 ```csharp
 public GuideResource[] Guides { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المرشدين.
+الإرشادات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.ContainsKey
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage طريقة. لتحديد ما إذا كان المفتاح المحدد يحتوي على مفتاح.
+title: "XmpPackage.ContainsKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackage. تحدد ما إذا كان المفتاح المحدد موجودًا"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp/xmppackage/containskey/
 ---
+{{< psd/tize >}}
 ## XmpPackage.ContainsKey method
 
-لتحديد ما إذا كان المفتاح المحدد يحتوي على مفتاح.
+يحدد ما إذا كان المفتاح المحدد يحتوي على المفتاح.
 
 ```csharp
 public virtual bool ContainsKey(string key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح المراد فحصه. |
+| المفتاح | String | المفتاح الذي سيتم فحصه. |
 
 ### قيمة الإرجاع
 
-يعود صحيحًا إذا كان المفتاح المحدد يحتوي على مفتاح.
+يرجع true إذا كان المفتاح المحدد يحتوي على المفتاح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

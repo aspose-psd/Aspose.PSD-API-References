@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Packages
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper ملكية. يحصل على مجموعة منXmpPackage داخل XMP.
+title: "XmpPacketWrapper.Packages"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPacketWrapper. تحصل على مصفوفة XmpPackage داخل XMP"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Packages property
 
-يحصل على مجموعة من[`XmpPackage`](../../xmppackage/) داخل XMP.
+تحصل على مصفوفة من [`XmpPackage`](../../xmppackage/) داخل XMP.
 
 ```csharp
 public XmpPackage[] Packages { get; }
 ```
 
-### Property_Value
+### Property Value
 
-صفيف[`XmpPackage`](../../xmppackage/) داخل XMP.
+مصفوفة [`XmpPackage`](../../xmppackage/) داخل XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

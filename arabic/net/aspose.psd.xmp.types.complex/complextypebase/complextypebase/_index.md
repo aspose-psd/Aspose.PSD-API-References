@@ -1,34 +1,35 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Aspose.PSD لمرجع .NET API
-description: ComplexTypeBase البناء. يقوم بتهيئة مثيل جديد لملفComplexTypeBase فئة .
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ComplexTypeBase. يهيئ مثالًا جديدًا من الفئة ComplexTypeBase"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ComplexTypeBase`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`ComplexTypeBase`](../).
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| prefix | String | البادئة. |
-| namespaceUri | String | مساحة الاسم URI. |
+| بادئة | String | البادئة. |
+| namespaceUri | String | معرف URI مساحة الاسم. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | البادئة null or namepaceUri هي null |
+| ArgumentNullException | القيمة prefix هي null أو namespaceUri هي null |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

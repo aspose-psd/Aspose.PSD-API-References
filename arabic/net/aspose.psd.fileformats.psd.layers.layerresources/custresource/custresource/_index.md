@@ -1,43 +1,44 @@
 ---
-title: CustResource.CustResource
-second_title: Aspose.PSD لمرجع .NET API
-description: CustResource البناء. يقوم بتهيئة مثيل جديد لملفCustResource فئة .
+title: "CustResource.CustResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ CustResource. يهيئ نسخة جديدة من الفئة CustResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CustResource`](../) فئة .
+يُنشئ مثيلاً جديدًا للفئة [`CustResource`](../).
 
 ```csharp
 public CustResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CustResource`](../) فئة .
+يُنشئ مثيلاً جديدًا للفئة [`CustResource`](../).
 
 ```csharp
 public CustResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات المورد. |
+| البيانات | Byte[] | البيانات الخاصة بالمورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: StrokeEffect.FillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: StrokeEffect ملكية. الحصول على أو تعيين إعدادات التعبئة.
+title: "StrokeEffect.FillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StrokeEffect. يحصل على أو يضبط إعدادات التعبئة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.FillSettings property
 
-الحصول على أو تعيين إعدادات التعبئة.
+يحصل أو يضبط إعدادات التعبئة.
 
 ```csharp
 public BaseFillSettings FillSettings { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إعدادات التعبئة .
+إعدادات التعبئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BaseFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/)
 * class [StrokeEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BezierShape.EndPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierShape ملكية. الحصول على نقطة شكل النهاية .
+title: "BezierShape.EndPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierShape. يحصل على نقطة النهاية للشكل"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.shapes/beziershape/endpoint/
 ---
+{{< psd/tize >}}
 ## BezierShape.EndPoint property
 
-الحصول على نقطة شكل النهاية .
+يحصل على نقطة النهاية للشكل.
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة شكل النهاية.
+نقطة النهاية للشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../beziershape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

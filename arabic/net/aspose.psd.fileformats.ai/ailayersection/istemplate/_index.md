@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة عبارة عن طبقة قالب.
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين قيمة تشير إلى ما إذا كانت هذه الطبقة طبقة قالب"
 type: docs
-weight: 100
+weight: 120
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة عبارة عن طبقة قالب.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة طبقة قالب.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت هذه الطبقة عبارة عن قالب ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الطبقة قالبًا؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

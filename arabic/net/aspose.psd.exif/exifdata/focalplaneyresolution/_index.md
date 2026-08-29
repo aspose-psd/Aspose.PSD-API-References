@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneYResolution
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين دقة المستوى البؤري y .
+title: "ExifData.FocalPlaneYResolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExifData خاصية. يحصل أو يضبط دقة المستوى البؤري y"
 type: docs
 weight: 330
 url: /ar/net/aspose.psd.exif/exifdata/focalplaneyresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneYResolution property
 
-الحصول على أو تعيين دقة المستوى البؤري y .
+يحصل أو يضبط دقة المستوى البؤري Y.
 
 ```csharp
 public TiffRational FocalPlaneYResolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-دقة المستوى البؤري y .
+دقة المستوى البؤري y.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

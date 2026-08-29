@@ -1,22 +1,23 @@
 ---
-title: MlstResource.Items
-second_title: Aspose.PSD لمرجع .NET API
-description: MlstResource ملكية. الحصول على الهياكل أو تعيينها.
+title: "MlstResource.Items"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MlstResource. يحصل على أو يضبط الهياكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/
 ---
+{{< psd/tize >}}
 ## MlstResource.Items property
 
-الحصول على الهياكل أو تعيينها.
+يحصل أو يضبط البُنى.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-توضح التعليمة البرمجية التالية دعم مورد MlstResource الذي يوفر آلية منخفضة المستوى لمعالجة حالات الطبقة.
+الكود التالي يوضح دعم مورد MlstResource الذي يوفر آلية منخفضة المستوى للتعامل مع حالات الطبقة.
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [MlstResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

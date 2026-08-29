@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: Aspose.PSD لمرجع .NET API
-description: PrintFlagsResource ملكية. الحصول على عرض تجاوز الهوامش أو تحديده.
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PrintFlagsResource. تحصل أو تعين عرض الحافة الزائدة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-الحصول على عرض تجاوز الهوامش أو تحديده.
+يحصل أو يضبط عرض النزف.
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض تجاوز الهوامش .
+عرض الحافة الزائدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrintFlagsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

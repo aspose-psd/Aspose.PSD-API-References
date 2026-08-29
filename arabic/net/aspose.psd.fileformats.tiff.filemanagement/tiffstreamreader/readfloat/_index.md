@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadFloat
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. قراءة قيمة تعويم واحدة من التدفق .
+title: "TiffStreamReader.ReadFloat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. قراءة قيمة عائمة واحدة من الدفق"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloat method
 
-قراءة قيمة تعويم واحدة من التدفق .
+اقرأ قيمة عائمة واحدة من الدفق.
 
 ```csharp
 public float ReadFloat(long position)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
+| الموضع | Int64 | الموضع للقراءة منه. |
 
 ### قيمة الإرجاع
 
-قيمة الطفو الفردي .
+القيمة العائمة الواحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

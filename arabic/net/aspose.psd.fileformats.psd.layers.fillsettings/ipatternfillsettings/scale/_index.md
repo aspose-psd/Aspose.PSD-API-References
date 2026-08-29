@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Scale
-second_title: Aspose.PSD لمرجع .NET API
-description: IPatternFillSettings ملكية. الحصول على المقياس أو تعيينه.
+title: "IPatternFillSettings.Scale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPatternFillSettings. يحصل أو يضبط المقياس"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Scale property
 
-الحصول على المقياس أو تعيينه.
+يحصل أو يضبط المقياس.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المقياس .
+المقياس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

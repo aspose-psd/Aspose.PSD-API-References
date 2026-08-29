@@ -1,28 +1,29 @@
 ---
-title: RasterImage.SetResolution
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يضبط الدقة لهذا الغرضRasterImage .
+title: "RasterImage.SetResolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تعيين الدقة لهذا RasterImage"
 type: docs
-weight: 570
+weight: 590
 url: /ar/net/aspose.psd/rasterimage/setresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetResolution method
 
-يضبط الدقة لهذا الغرض[`RasterImage`](../) .
+تعيين الدقة لهذا [`RasterImage`](../).
 
 ```csharp
 public virtual void SetResolution(double dpiX, double dpiY)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dpiX | Double | الدقة الأفقية ، بالنقاط في البوصة ، من[`RasterImage`](../). |
-| dpiY | Double | الدقة الرأسية ، بالنقاط في البوصة ، من[`RasterImage`](../). |
+| dpiX | Double | الدقة الأفقية، بوحدات النقاط لكل بوصة، لـ [`RasterImage`](../). |
+| dpiY | Double | الدقة العمودية، بوحدات النقاط لكل بوصة، لـ [`RasterImage`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,65 +1,66 @@
 ---
-title: SmartResourceCreator.SmartResourceCreator
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartResourceCreator البناء. يقوم بتهيئة مثيل جديد لملفSmartResourceCreator فئة .
+title: "SmartResourceCreator.SmartResourceCreator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ SmartResourceCreator. يهيئ مثيلاً جديداً من الفئة SmartResourceCreator"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SmartResourceCreator`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartResourceCreator](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`SmartResourceCreator`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| isCustom | Boolean | إذا تم التعيين على`حقيقي` [هو العرف]. |
-| hasCompInfo | Boolean | إذا تم التعيين على`حقيقي` [لديها معلومات شركات]. |
+| isCustom | Boolean | إذا تم تعيينه إلى `true` [مخصص]. |
+| hasCompInfo | Boolean | إذا تم تعيينه إلى `true` [يحتوي على معلومات التركيب]. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartResourceCreator](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SmartResourceCreator`](../) class بالقالب المحدد .
+يهيئ مثيلاً جديداً من الفئة [`SmartResourceCreator`](../) باستخدام القالب المعطى.
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | template | PlacedResource | قالب مورد الكائن الذكي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

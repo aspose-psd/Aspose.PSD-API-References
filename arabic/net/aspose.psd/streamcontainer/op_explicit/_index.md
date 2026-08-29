@@ -1,31 +1,32 @@
 ---
-title: StreamContainer.op_Explicit
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer طريقة. يقوم بإجراء تحويل صريح منStreamContainer لStream .
+title: "StreamContainer.op_Explicit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StreamContainer. تقوم بإجراء تحويل صريح من StreamContainer إلى Stream"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd/streamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## StreamContainer Explicit operator
 
-يقوم بإجراء تحويل صريح من[`StreamContainer`](../) لStream .
+يقوم بإجراء تحويل صريح من [`StreamContainer`](../) إلى Stream.
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 
 ### قيمة الإرجاع
 
 نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

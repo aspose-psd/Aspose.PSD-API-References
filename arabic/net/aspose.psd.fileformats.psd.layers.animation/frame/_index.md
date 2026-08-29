@@ -1,37 +1,38 @@
 ---
-title: Class Frame
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame فصل. خيارات عنصر الإطار الزمني .
+title: "الفئة Frame"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame. خيارات عنصر إطار خط الزمن"
 type: docs
-weight: 1840
+weight: 1940
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/frame/
 ---
+{{< psd/tize >}}
 ## Frame class
 
-خيارات عنصر الإطار الزمني .
+خيارات عنصر إطار الخط الزمني.
 
 ```csharp
 public sealed class Frame
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Frame](frame/)(TimeLine) | يقوم بتهيئة مثيل جديد لملف`Frame` فئة . |
+| [Frame](frame/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Delay](../../aspose.psd.fileformats.psd.layers.animation/frame/delay/) { get; set; } | الحصول على أو تعيين قيمة تأخير الإطار في centa-seconds. على سبيل المثال ، تحتوي 1 ثانية على 100 سنتا-ثانية. |
-| [DisposalMethod](../../aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/) { get; set; } | الحصول على أو تحديد طريقة التخلص من الإطار. |
-| [Id](../../aspose.psd.fileformats.psd.layers.animation/frame/id/) { get; set; } | الحصول على معرف الإطار أو تعيينه . |
-| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; } | يحصل بعد ذلك على حالات طبقة الإطار. |
+| [Delay](../../aspose.psd.fileformats.psd.layers.animation/frame/delay/) { get; set; } | يحصل أو يضبط قيمة تأخير الإطار بوحدات السنتا-ثانية. على سبيل المثال، يحتوي 1 ثانية على 100 سنتا-ثانية. |
+| [DisposalMethod](../../aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/) { get; set; } | يحصل أو يضبط طريقة التخلص من الإطار. |
+| [Id](../../aspose.psd.fileformats.psd.layers.animation/frame/id/) { get; set; } | يحصل أو يضبط معرف الإطار. |
+| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; set; } | يحصل أو يضبط حالات الطبقة للإطار. |
 
-### أمثلة
+## أمثلة
 
-توفر فئة TimeLine قدرة عالية المستوى على معالجة الجدول الزمني لـ PsdImage ، مثل تغيير تأخير الإطار أو تحرير حالة الطبقة في إطار معين.
+تمنح الفئة Timeline قدرة عالية المستوى على تعديل المخطط الزمني لـ PsdImage، مثل تغيير تأخير الإطار أو تحرير حالة الطبقة في إطار محدد.
 
 ```csharp
 [C#]
@@ -41,40 +42,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
     // تغيير طريقة التخلص من الإطار 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
     // تغيير تأخير الإطار 2
-    timeLine.Frames[1].Delay = 15;
+    timeline.Frames[1].Delay = 15;
 
-    // تغيير عتامة "الطبقة 1" في الإطار 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // تغيير شفافية 'Layer 1' في الإطار 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // انقل "Layer 1" إلى الزاوية اليسرى السفلية في الإطار 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // نقل 'Layer 1' إلى الزاوية اليسرى السفلية في الإطار 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // يضيف إطارًا جديدًا
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // تغيير blendMode لـ 'Layer 1' في الإطار 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // تغيير blendMode للـ'Layer 1' في الإطار 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // تطبيق التغييرات مرة أخرى على مثيل PsdImage
-    timeLine.ApplyTo(psdImage);
+    // تطبيق التغييرات مرة أخرى على كائن PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

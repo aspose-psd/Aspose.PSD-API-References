@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillLayers
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على Fill Layers
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillLayers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على طبقات التعبئة"
 type: docs
-weight: 240
+weight: 260
 url: /ar/net/aspose.psd.fileformats.psd.layers.filllayers/
 ---
-تحتوي مساحة الاسم على Fill Layers
+{{< psd/tize >}}
+تحتوي مساحة الاسم على طبقات التعبئة
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [FillLayer](./filllayer/) | طبقة التعبئة. لون تعبئة ، تعبئة متدرجة أو طبقة تعبئة نمط تختلف حسب[`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
+| [FillLayer](./filllayer/) | طبقة تعبئة. تعبئة اللون، تعبئة التدرج أو تعبئة النمط التي تختلف حسب [`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/). |
 
 

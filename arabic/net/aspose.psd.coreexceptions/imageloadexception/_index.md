@@ -1,11 +1,12 @@
 ---
-title: Class ImageLoadException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageLoadException فصل. استثناء تحميل الصورة. يحدث أثناء تحميل الصورة.
+title: "فئة ImageLoadException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CoreExceptions.ImageLoadException فئة. استثناء تحميل الصورة. يحدث أثناء تحميل الصورة"
 type: docs
 weight: 620
 url: /ar/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
 استثناء تحميل الصورة. يحدث أثناء تحميل الصورة.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd.coreexceptions/imageloadexception/
 public class ImageLoadException : ImageException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`ImageLoadException` فئة . |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`ImageLoadException` فئة . |
+| [ImageLoadException](imageloadexception/#constructor)(string) | ينشئ مثيلاً جديدًا من فئة `ImageLoadException`. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | ينشئ مثيلاً جديدًا من فئة `ImageLoadException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../imageexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

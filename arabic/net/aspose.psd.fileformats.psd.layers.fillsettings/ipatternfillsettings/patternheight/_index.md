@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternHeight
-second_title: Aspose.PSD لمرجع .NET API
-description: IPatternFillSettings ملكية. الحصول على ارتفاع النمط أو تحديده .
+title: "IPatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPatternFillSettings. يحصل أو يضبط ارتفاع النمط"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternHeight property
 
-الحصول على ارتفاع النمط أو تحديده .
+يحصل أو يعيّن ارتفاع النمط.
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع النمط .
+ارتفاع النمط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

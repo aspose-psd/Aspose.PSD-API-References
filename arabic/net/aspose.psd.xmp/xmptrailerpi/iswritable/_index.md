@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.IsWritable
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpTrailerPi ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل قابلًا للكتابة أم لا.
+title: "XmpTrailerPi.IsWritable"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpTrailerPi. تحصل أو تعيين قيمة تشير إلى ما إذا كان هذا الكائن قابلًا للكتابة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.IsWritable property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل قابلًا للكتابة أم لا.
+يحصل أو يعيّن قيمة تُشير إلى ما إذا كان هذا المثيل قابلًا للكتابة.
 
 ```csharp
 public bool IsWritable { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت هذه الحالة قابلة للكتابة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن قابلًا للكتابة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTrailerPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

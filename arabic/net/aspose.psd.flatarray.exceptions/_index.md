@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FlatArray.Exceptions
-second_title: Aspose.PSD لمرجع .NET API
-description: يعالج مساحة الاسم معالجة تنسيق ملف Psd.
+title: "Aspose.PSD.FlatArray.Exceptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تتعامل مع معالجة تنسيق ملف PSD"
 type: docs
-weight: 400
+weight: 440
 url: /ar/net/aspose.psd.flatarray.exceptions/
 ---
-يعالج مساحة الاسم معالجة تنسيق ملف Psd.
+{{< psd/tize >}}
+تتعامل مساحة الاسم مع معالجة تنسيق ملف PSD.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [FlatArrayException](./flatarrayexception/) | استثناء خاص لـFlatArray فئة . |
+| [FlatArrayException](./flatarrayexception/) | استثناء خاص لفئة FlatArray. |
 
 

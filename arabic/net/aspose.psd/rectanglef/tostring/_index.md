@@ -1,14 +1,15 @@
 ---
-title: RectangleF.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. تحويل سمات هذاRectangleF لسلسلة يمكن للبشر قراءتها.
+title: "RectangleF.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تحول خصائص هذا RectangleF إلى سلسلة قابلة للقراءة."
 type: docs
 weight: 250
 url: /ar/net/aspose.psd/rectanglef/tostring/
 ---
+{{< psd/tize >}}
 ## RectangleF.ToString method
 
-تحويل سمات هذا[`RectangleF`](../) لسلسلة يمكن للبشر قراءتها.
+تحول خصائص هذا [`RectangleF`](../) إلى سلسلة قابلة للقراءة.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تحتوي على موضع وعرض وارتفاع هذا[`RectangleF`](../) بناء.
+سلسلة تحتوي على الموضع والعرض والارتفاع لهذا الهيكل [`RectangleF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

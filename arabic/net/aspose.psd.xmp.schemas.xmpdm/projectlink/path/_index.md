@@ -1,27 +1,28 @@
 ---
-title: ProjectLink.Path
-second_title: Aspose.PSD لمرجع .NET API
-description: ProjectLink ملكية. الحصول على أو تعيين المسار الكامل للمشروع .
+title: "ProjectLink.Path"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ProjectLink خاصية. يحصل أو يضبط المسار الكامل للمشروع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Path property
 
-الحصول على أو تعيين المسار الكامل للمشروع .
+يحصل أو يعيّن المسار الكامل للمشروع.
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المسار الكامل للمشروع .
+المسار الكامل للمشروع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectLink](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Interface IOSTypeStructureLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader واجهه المستخدم. ملفOSTypeStructure محمل الموارد.
+title: "الواجهة IOSTypeStructureLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader. محمل مورد OSTypeStructure"
 type: docs
-weight: 2520
+weight: 2790
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader interface
 
-ملف[`OSTypeStructure`](../ostypestructure/) محمل الموارد.
+محمل مورد [`OSTypeStructure`](../ostypestructure/).
 
 ```csharp
 public interface IOSTypeStructureLoader
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | تحديد ما إذا كان[`OSTypeStructure`](../ostypestructure/) يمكن تحميل المورد من المحدد[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | تحميل ملف[`OSTypeStructure`](../ostypestructure/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | يحدد ما إذا كان يمكن تحميل مورد [`OSTypeStructure`](../ostypestructure/) من الـ [`StreamContainer`](../../aspose.psd/streamcontainer/) المحدد. |
+| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | يقوم بتحميل [`OSTypeStructure`](../ostypestructure/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

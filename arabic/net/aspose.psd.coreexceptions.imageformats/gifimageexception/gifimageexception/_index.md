@@ -1,48 +1,49 @@
 ---
-title: GifImageException.GifImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: GifImageException البناء. يقوم بتهيئة مثيل جديد لملفGifImageException فئة .
+title: "GifImageException.GifImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GifImageException. يهيئ نسخة جديدة من الفئة GifImageException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/gifimageexception/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GifImageException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`GifImageException`](../).
 
 ```csharp
 public GifImageException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifImageException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GifImageException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`GifImageException`](../).
 
 ```csharp
 public GifImageException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

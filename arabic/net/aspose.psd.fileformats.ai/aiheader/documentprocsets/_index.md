@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على أو تعيين مجموعات معالجة المستند.
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. تحصل أو تعين مجموعات عمليات المستند."
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-الحصول على أو تعيين مجموعات معالجة المستند.
+يحصل أو يضبط مجموعات proc للمستند.
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تعيينات معالجة المستند.
+مجموعات عمليات المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD لمرجع .NET API
-description: Shape ملكية. يحصل على مركز الشكل.
+title: "Shape.Center"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Shape. تحصل على مركز الشكل"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
 يحصل على مركز الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd/shape/center/
 public abstract PointF Center { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مركز الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* مساحة الاسم [Aspose.PSD](../../shape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

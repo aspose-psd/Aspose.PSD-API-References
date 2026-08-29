@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddInnerShadow
-second_title: Aspose.PSD لمرجع .NET API
-description: BlendingOptions طريقة. يضيف تأثير الظل الداخلي .
+title: "BlendingOptions.AddInnerShadow"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة BlendingOptions. تضيف تأثير الظل الداخلي"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddInnerShadow method
 
-يضيف تأثير الظل الداخلي .
+يضيف تأثير الظل الداخلي.
 
 ```csharp
 public InnerShadowEffect AddInnerShadow()
@@ -16,13 +17,13 @@ public InnerShadowEffect AddInnerShadow()
 
 ### قيمة الإرجاع
 
-تم إنشاؤه[`InnerShadowEffect`](../../innershadoweffect/) كائن
+تم إنشاء كائن [`InnerShadowEffect`](../../innershadoweffect/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InnerShadowEffect](../../innershadoweffect/)
 * class [BlendingOptions](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

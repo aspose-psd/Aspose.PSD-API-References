@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Comp
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectResource ملكية. الحصول على أو تعيين قيمة comp لبيانات طبقة الكائن الذكي في ملف PSD.تراكبات الطبقة في الكائنات الذكية
+title: "SmartObjectResource.Comp"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "SmartObjectResource property. يحصل أو يعيّن قيمة الـ comp لبيانات طبقة الكائن الذكي في ملف PSD. Layer comps in Smart Objects"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Comp property
 
-الحصول على أو تعيين قيمة comp لبيانات طبقة الكائن الذكي في ملف PSD.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+يحصل أو يضبط قيمة الـ comp لبيانات طبقة الكائن الذكي في ملف PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة comp ، هي -1 في حالة عدم وجودها.
+قيمة الـ comp، وهي -1 إذا لم يكن هناك أي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

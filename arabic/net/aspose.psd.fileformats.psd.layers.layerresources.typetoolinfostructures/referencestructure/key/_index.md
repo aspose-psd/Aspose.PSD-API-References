@@ -1,23 +1,24 @@
 ---
-title: ReferenceStructure.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: ReferenceStructure ملكية. يحصل على مفتاح الهيكل .
+title: "ReferenceStructure.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ReferenceStructure. تحصل على مفتاح البنية"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Key property
 
-يحصل على مفتاح الهيكل .
+يحصل على مفتاح البنية.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ReferenceStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

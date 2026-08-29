@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.WriteByte
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer طريقة. يكتب بايت إلى الموضع الحالي في الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد.
+title: "StreamContainer.WriteByte"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StreamContainer. تكتب بايتًا إلى الموضع الحالي في التدفق وتقدم الموضع داخل التدفق بايتًا واحدًا"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/streamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.WriteByte method
 
-يكتب بايت إلى الموضع الحالي في الدفق ويقدم الموضع داخل الدفق بمقدار بايت واحد.
+يكتب بايتًا إلى الموقع الحالي في التدفق ويتقدم بالموقع داخل التدفق بايتًا واحدًا.
 
 ```csharp
 public virtual void WriteByte(byte value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Byte | البايت المراد كتابته في الدفق. |
+| قيمة | بايت | البايت الذي سيتم كتابته إلى الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

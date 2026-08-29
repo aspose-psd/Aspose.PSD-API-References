@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: Aspose.PSD لمرجع .NET API
-description: FixedPointDecimal ملكية. الحصول على أو تحديد العدد الصحيح .
+title: "FixedPointDecimal.Integer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FixedPointDecimal. يحصل أو يضبط العدد الصحيح"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
-الحصول على أو تحديد العدد الصحيح .
+يحصل أو يضبط العدد الصحيح.
 
 ```csharp
 public int Integer { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العدد الصحيح .
+العدد الصحيح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FixedPointDecimal](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

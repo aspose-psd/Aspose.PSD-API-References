@@ -1,11 +1,12 @@
 ---
-title: RasterImage.AdjustContrast
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تباين الصورة
+title: "RasterImage.AdjustContrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تباين الصورة"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd/rasterimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustContrast method
 
 تباين الصورة
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd/rasterimage/adjustcontrast/
 public virtual void AdjustContrast(float contrast)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| contrast | Single | قيمة التباين (في النطاق [-100 ؛ 100]) |
+| التباين | Single | قيمة التباين (في النطاق [-100; 100]) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

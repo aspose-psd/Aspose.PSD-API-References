@@ -1,48 +1,49 @@
 ---
-title: RasterCachedImage.BinarizeBradley
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterCachedImage طريقة. ثنائية الصورة باستخدام خوارزمية العتبة التكيفية لبرادلي باستخدام عتبة الصورة المتكاملة
+title: "RasterCachedImage.BinarizeBradley"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterCachedImage. تحويل الصورة إلى ثنائية باستخدام خوارزمية عتبة برادلي التكيفية باستخدام عتبة الصورة المتكاملة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/rastercachedimage/binarizebradley/
 ---
+{{< psd/tize >}}
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
-ثنائية الصورة باستخدام خوارزمية العتبة التكيفية لبرادلي باستخدام عتبة الصورة المتكاملة
+تحويل الصورة إلى ثنائية باستخدام خوارزمية العتبة التكيفية لبرايدلي باستخدام عتبة الصورة المتكاملة
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference, int windowSize)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brightnessDifference | Double | فرق السطوع بين البكسل ومتوسط نافذة sxs للبكسل تتمحور حول هذا البكسل. |
-| windowSize | Int32 | حجم نافذة sxs للبكسل المتمركز حول هذا البكسل |
+| brightnessDifference | Double | فرق السطوع بين البكسل ومتوسط نافذة s × s من البكسلات المتمركزة حول هذا البكسل. |
+| windowSize | Int32 | حجم نافذة s × s من البكسلات المتمركزة حول هذا البكسل |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BinarizeBradley(double) {#binarizebradley}
 
-ثنائية الصورة باستخدام خوارزمية العتبة التكيفية لبرادلي باستخدام عتبة الصورة المتكاملة
+تحويل الصورة إلى ثنائية باستخدام خوارزمية العتبة التكيفية لبرايدلي باستخدام عتبة الصورة المتكاملة
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brightnessDifference | Double | فرق السطوع بين البكسل ومتوسط نافذة sxs للبكسل تتمحور حول هذا البكسل. |
+| brightnessDifference | Double | فرق السطوع بين البكسل ومتوسط نافذة s × s من البكسلات المتمركزة حول هذا البكسل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

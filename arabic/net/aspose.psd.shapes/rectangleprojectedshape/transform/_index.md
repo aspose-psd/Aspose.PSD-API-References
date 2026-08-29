@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Transform
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleProjectedShape طريقة. يطبق التحويل المحدد على الشكل.
+title: "RectangleProjectedShape.Transform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleProjectedShape. تُطبق التحويل المحدد على الشكل"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/transform/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Transform method
 
 يطبق التحويل المحدد على الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/transform/
 public override void Transform(Matrix transform)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | التحول للتطبيق. |
+| transform | Matrix | التحويل الذي سيتم تطبيقه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

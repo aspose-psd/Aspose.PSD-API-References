@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostLeftBorder
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl ملكية. الحصول على أو تعيين الحد الأقصى الأيسر .
+title: "ColorRangeHsl.MostLeftBorder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorRangeHsl. تحصل أو تعين الحد الأيسر الأكثر"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostLeftBorder property
 
-الحصول على أو تعيين الحد الأقصى الأيسر .
+يحصل أو يضبط الحد الأيسر الأقصى.
 
 ```csharp
 public short MostLeftBorder { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأقصى الأيسر .
+الحد الأيسر الأكثر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

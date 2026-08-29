@@ -1,30 +1,31 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تحميل وحدات البكسل جزئيًا بالحزم .
+title: "RasterImage.LoadPartialPixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تقوم بتحميل البكسلات جزئياً على شكل حزم"
 type: docs
-weight: 390
+weight: 400
 url: /ar/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
-تحميل وحدات البكسل جزئيًا بالحزم .
+يقوم بتحميل البكسلات جزئياً عن طريق الحزم.
 
 ```csharp
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | desiredRectangle | Rectangle | المستطيل المطلوب. |
-| pixelLoader | IPartialPixelLoader | محمل البكسل. |
+| pixelLoader | IPartialPixelLoader | محمل البكسلات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

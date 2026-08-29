@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تعيين حشو الطبقة.
+title: "Layer.Filler"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط ملء الطبقة"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-الحصول على أو تعيين حشو الطبقة.
+يحصل أو يعيّن ملء الطبقة.
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-حشو الطبقة .
+ملء الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

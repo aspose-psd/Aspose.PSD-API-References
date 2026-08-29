@@ -1,24 +1,25 @@
 ---
-title: PattResource.Patterns
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResource ملكية. الحصول على بيانات الأنماط أو تعيينها 
+title: "PattResource.Patterns"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PattResource. تسترجع أو تعين بيانات الأنماط"
 type: docs
-weight: 40
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
+{{< psd/tize >}}
 ## PattResource.Patterns property
 
-الحصول على بيانات الأنماط أو تعيينها ؛
+يحصل أو يضبط بيانات الأنماط؛
 
 ```csharp
 public PattResourceData[] Patterns { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUShort
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب قيمة قصيرة واحدة غير موقعة للتيار.
+title: "TiffStreamWriter.WriteUShort"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب قيمة قصيرة غير موقعة واحدة إلى الدفق"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShort method
 
-يكتب قيمة قصيرة واحدة غير موقعة للتيار.
+يكتب قيمة قصيرة غير موقّعة واحدة إلى الدفق.
 
 ```csharp
 public void WriteUShort(ushort data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | UInt16 | قيمة الكتابة. |
+| البيانات | UInt16 | القيمة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

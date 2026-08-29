@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: VstkResource ملكية. الحصول على إصدار نمط ضربة الفرشاة أو تعيينه .
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VstkResource. تحصل أو تعين نسخة نمط الخط"
 type: docs
-weight: 220
+weight: 200
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
-الحصول على إصدار نمط ضربة الفرشاة أو تعيينه .
+يحصل أو يعيّن نسخة نمط الخط.
 
 ```csharp
 public int StrokeStyleVersion { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VstkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

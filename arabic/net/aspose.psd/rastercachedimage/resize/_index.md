@@ -1,28 +1,29 @@
 ---
-title: RasterCachedImage.Resize
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterCachedImage طريقة. تغيير حجم الصورة .
+title: "RasterCachedImage.Resize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterCachedImage. تغيير حجم الصورة"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-تغيير حجم الصورة .
+يعيد تحجيم الصورة.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
 | newHeight | Int32 | الارتفاع الجديد. |
 | resizeType | ResizeType | نوع تغيير الحجم. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تغيير حجم صورة باستخدام نوع تغيير حجم SinC جديد.
+الكود التالي يوضح كيفية تغيير حجم صورة باستخدام نوع تغيير حجم جديد SinC.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-يوضح الكود التالي كيفية تغيير حجم الصورة باستخدام نوع Bell جديد لتغيير الحجم.
+الكود التالي يوضح كيفية تغيير حجم صورة باستخدام نوع تغيير حجم جديد Bell.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-يوضح الكود التالي كيفية تغيير حجم الصورة بنوع Mitchell الجديد لتغيير الحجم.
+الكود التالي يوضح كيفية تغيير حجم صورة باستخدام نوع تغيير حجم جديد Mitchell.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-يوضح الكود التالي كيفية تغيير حجم الصورة بنوع تغيير حجم CatmullRom الجديد.
+الكود التالي يوضح كيفية تغيير حجم صورة باستخدام نوع تغيير حجم جديد CatmullRom.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-يوضح الكود التالي كيفية تغيير حجم صورة بنوع جديد لتغيير حجم خط CubicBS.
+الكود التالي يوضح كيفية تغيير حجم صورة باستخدام نوع تغيير حجم جديد CubicBSpline.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-يوضح الكود التالي كيفية تغيير حجم صورة بنوع جديد لتغيير حجم CubicConvolution.
+الكود التالي يوضح كيفية تغيير حجم صورة باستخدام نوع تغيير حجم جديد CubicConvolution.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -118,34 +119,34 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-تغيير حجم الصورة .
+يعيد تحجيم الصورة.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
 | newHeight | Int32 | الارتفاع الجديد. |
-| settings | ImageResizeSettings | إعدادات تغيير الحجم. |
+| الإعدادات | ImageResizeSettings | إعدادات تغيير الحجم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

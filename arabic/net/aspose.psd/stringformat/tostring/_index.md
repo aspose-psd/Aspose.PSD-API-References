@@ -1,14 +1,15 @@
 ---
-title: StringFormat.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat طريقة. يحول هذاStringFormat كائن لسلسلة يمكن للبشر قراءتها .
+title: "StringFormat.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StringFormat. يحول هذا الكائن StringFormat إلى سلسلة قابلة للقراءة من قبل الإنسان"
 type: docs
-weight: 150
+weight: 180
 url: /ar/net/aspose.psd/stringformat/tostring/
 ---
+{{< psd/tize >}}
 ## StringFormat.ToString method
 
-يحول هذا[`StringFormat`](../) كائن لسلسلة يمكن للبشر قراءتها .
+يحول هذا الكائن [`StringFormat`](../) إلى سلسلة قابلة للقراءة من قبل الإنسان.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تمثيل لهذا[`StringFormat`](../) الكائن .
+تمثيل نصي لهذا الكائن [`StringFormat`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,60 +1,61 @@
 ---
-title: LnsrResource.LnsrResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LnsrResource البناء. يقوم بتهيئة مثيل جديد لملفLnsrResource فئة .
+title: "LnsrResource.LnsrResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LnsrResource. يهيئ نسخة جديدة من فئة LnsrResource."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LnsrResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`LnsrResource`](../).
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| lnsrResourceType | LnsrResourceType | نوع LNSR. |
+| lnsrResourceType | LnsrResourceType | نوع الـ LNSR. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | لا يمكنك إنشاء lnsr بقيمة نوع غير معروف |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | لا يمكنك إنشاء lnsr بنوع قيمة Unknown. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LnsrResource`](../) class. بقيمة مخصصة أو غير معروفة
+يُنشئ مثلاً جديداً من الفئة [`LnsrResource`](../). بقيمة مخصصة أو غير معروفة
 
 ```csharp
 public LnsrResource(byte[] bytes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bytes | Byte[] | البايت. |
+| بايت | Byte[] | البايتات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| Exception | قيمة مورد lnsr غير صالحة |
+| استثناء | قيمة مورد lnsr غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LnsrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

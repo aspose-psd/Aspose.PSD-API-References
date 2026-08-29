@@ -1,48 +1,49 @@
 ---
-title: PsdImageException.PsdImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImageException البناء. يقوم بتهيئة مثيل جديد لملفPsdImageException فئة .
+title: "PsdImageException.PsdImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PsdImageException. يهيئ مثيلاً جديداً من فئة PsdImageException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImageException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`PsdImageException`](../).
 
 ```csharp
 public PsdImageException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImageException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`PsdImageException`](../).
 
 ```csharp
 public PsdImageException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImageException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

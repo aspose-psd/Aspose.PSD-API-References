@@ -1,69 +1,70 @@
 ---
-title: Point.Point
-second_title: Aspose.PSD لمرجع .NET API
-description: Point البناء. يقوم بتهيئة مثيل جديد لملفPoint هيكل مع الإحداثيات المحددة.
+title: "Point.Point"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Point. يهيئ نسخة جديدة من بنية Point بالإحداثيات المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/point/point/
 ---
+{{< psd/tize >}}
 ## Point(int, int) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) هيكل مع الإحداثيات المحددة.
+يهيئ نسخة جديدة من بنية [`Point`](../) بالإحداثيات المحددة.
 
 ```csharp
 public Point(int x, int y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Int32 | الوضع الأفقي للنقطة. |
-| y | Int32 | الوضع الرأسي للنقطة. |
+| x | Int32 | الموضع الأفقي للنقطة. |
+| y | Int32 | الموضع الرأسي للنقطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(Size) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) هيكل من[`Size`](../../size/)هيكل .
+يهيئ نسخة جديدة من بنية [`Point`](../) من بنية [`Size`](../../size/).
 
 ```csharp
 public Point(Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Size | يحتوي على إحداثيات النقطة الجديدة. |
+| الحجم | الحجم | يحتوي على إحداثيات النقطة الجديدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) هيكل باستخدام الإحداثيات المحددة بواسطة قيمة عدد صحيح.
+يهيئ نسخة جديدة من بنية [`Point`](../) باستخدام إحداثيات محددة بقيمة عدد صحيح.
 
 ```csharp
 public Point(int dw)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dw | Int32 | عدد صحيح 32 بت يحدد إحداثيات النقطة الجديدة. |
+| dw | Int32 | عدد صحيح 32‑بت يحدد الإحداثيات للنقطة الجديدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

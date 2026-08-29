@@ -1,23 +1,24 @@
 ---
-title: LspfResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: LspfResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "LspfResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LspfResource. تحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length/
 ---
+{{< psd/tize >}}
 ## LspfResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LspfResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

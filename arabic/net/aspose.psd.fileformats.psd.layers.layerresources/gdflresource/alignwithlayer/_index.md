@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. الحصول على أو تعيين قيمة تشير إلى محاذاة مع الطبقة .
+title: "GdFlResource.AlignWithLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. تحصل أو تعين قيمة تشير إلى ما إذا كان يتم المحاذاة مع الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-الحصول على أو تعيين قيمة تشير إلى [محاذاة مع الطبقة] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [محاذاة مع الطبقة] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [align with layer]; وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم تحميل مورد GdFlResource.
+المثال التالي يوضح دعم تحميل موارد GdFlResource.
 
 ```csharp
 [C#]
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // التحرير
+                    // تحرير
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,36 +1,37 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يرسم الصورة المحددة دون تغيير الحجم ويقطعها  إذا لزم الأمر  لتلائم المستطيل المحدد.
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم الصورة المحددة دون تكبير أو تصغير وتقصها إذا لزم الأمر لتناسب المستطيل المحدد."
 type: docs
-weight: 240
+weight: 250
 url: /ar/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-يرسم الصورة المحددة دون تغيير الحجم ويقطعها ، إذا لزم الأمر ، لتلائم المستطيل المحدد.
+يرسم الصورة المحددة دون تحجيم ويقصها، إذا لزم الأمر، لتناسب المستطيل المحدد.
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rect | Rectangle | ال[`Rectangle`](../../rectangle/) التي ترسم فيها الصورة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rect | Rectangle | ال[`Rectangle`](../../rectangle/) الذي تُرسم فيه الصورة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

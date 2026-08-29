@@ -1,31 +1,32 @@
 ---
-title: Blend.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: Blend طريقة. تختبر ما إذا كان الكائن المحدد ملفBlend فئة وما يعادل هذاBlend فئة .
+title: "Blend.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Blend. تختبر ما إذا كان الكائن المحدد من فئة Blend ومكافئ لهذه الفئة Blend."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/blend/equals/
 ---
+{{< psd/tize >}}
 ## Blend.Equals method
 
-تختبر ما إذا كان الكائن المحدد ملف[`Blend`](../) فئة وما يعادل هذا[`Blend`](../) فئة .
+تختبر ما إذا كان الكائن المحدد من فئة [`Blend`](../) ومكافئ لهذه الفئة [`Blend`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الهدف المراد اختباره. |
+| obj | Object | الكائن المراد اختباره. |
 
 ### قيمة الإرجاع
 
-صحيح إذا*obj* هو[`Blend`](../) فئة تعادل هذا[`Blend`](../) فصل؛ خلاف ذلك ، خطأ.
+صحيح إذا كان *obj* من فئة [`Blend`](../) مكافئ لهذه الفئة [`Blend`](../)؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Blend](../)
-* مساحة الاسم [Aspose.PSD](../../blend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

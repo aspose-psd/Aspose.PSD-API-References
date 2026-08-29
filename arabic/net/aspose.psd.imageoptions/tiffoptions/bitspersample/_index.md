@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين وحدات البت لكل عينة.
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. يحصل أو يضبط عدد البتات لكل عينة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-الحصول على أو تعيين وحدات البت لكل عينة.
+يحصل أو يضبط عدد البتات لكل عينة.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وحدات البت لكل قيمة نموذجية .
+قيمة عدد البتات لكل عينة.
 
-### ملاحظات
+## ملاحظات
 
-عند تعيين هذه القيمة ، ضع في اعتبارك أنها ستعمل أيضًا على تعيين قيمة SamplesPerPixel على طول الصفيف. هاتان الخاصيتان متقاربتان بإحكام شديد لذا يمكن ضبطهما معًا فقط.
+عند ضبط هذه القيمة ضع في اعتبارك أنها ستضبط أيضًا قيمة SamplesPerPixel إلى طول المصفوفة. هاتان الخاصيتان مرتبطتان ارتباطًا وثيقًا جدًا لذا قد يتم ضبطهما معًا فقط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

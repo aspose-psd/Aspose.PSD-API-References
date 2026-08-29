@@ -1,23 +1,24 @@
 ---
-title: ExpaResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: ExpaResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "ExpaResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ExpaResource خاصية. يحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

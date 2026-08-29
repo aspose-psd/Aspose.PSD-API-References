@@ -1,31 +1,32 @@
 ---
-title: RasterImage.ReadArgb32ScanLine
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يقرأ خط المسح بالكامل بواسطة فهرس خط المسح المحدد.
+title: "RasterImage.ReadArgb32ScanLine"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تقرأ كامل سطر المسح وفقًا لمؤشر سطر المسح المحدد"
 type: docs
-weight: 430
+weight: 440
 url: /ar/net/aspose.psd/rasterimage/readargb32scanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadArgb32ScanLine method
 
-يقرأ خط المسح بالكامل بواسطة فهرس خط المسح المحدد.
+يقرأ كامل سطر المسح وفق فهرس سطر المسح المحدد.
 
 ```csharp
 public int[] ReadArgb32ScanLine(int scanLineIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| scanLineIndex | Int32 | فهرس خط المسح على أساس الصفر. |
+| scanLineIndex | Int32 | فهرس يبدأ من الصفر لخط المسح. |
 
 ### قيمة الإرجاع
 
-صفيف قيم ألوان ARGB 32 بت لخط المسح.
+مصفوفة قيم ألوان ARGB 32‑بت لسطر المسح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

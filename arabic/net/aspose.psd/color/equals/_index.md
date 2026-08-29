@@ -1,31 +1,32 @@
 ---
-title: Color.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: Color طريقة. تختبر ما إذا كان الكائن المحدد ملفColor هيكل وهو ما يعادل هذاColorهيكل .
+title: "Color.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Color. تختبر ما إذا كان الكائن المحدد هو بنية Color ومكافئ لهذه البنية Color"
 type: docs
 weight: 1540
 url: /ar/net/aspose.psd/color/equals/
 ---
+{{< psd/tize >}}
 ## Color.Equals method
 
-تختبر ما إذا كان الكائن المحدد ملف[`Color`](../) هيكل وهو ما يعادل هذا[`Color`](../)هيكل .
+تختبر ما إذا كان الكائن المحدد هو بنية [`Color`](../) ومكافئ لهذه البنية [`Color`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الهدف المراد اختباره. |
+| obj | Object | الكائن المراد اختباره. |
 
 ### قيمة الإرجاع
 
-صحيح إذا*obj* هو[`Color`](../) هيكل مكافئ لهذا[`Color`](../) بناء؛ خلاف ذلك ، خطأ.
+صحيح إذا كان *obj* بنية [`Color`](../) مكافئة لهذه البنية [`Color`](../); وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: FileStreamContainer.op_Explicit
-second_title: Aspose.PSD لمرجع .NET API
-description: FileStreamContainer طريقة. يقوم بإجراء تحويل صريح منFileStreamContainer لStream .
+title: "FileStreamContainer.op_Explicit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FileStreamContainer. تقوم بإجراء تحويل صريح من FileStreamContainer إلى Stream"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/filestreamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## explicit operator {#op_explicit_1}
 
-يقوم بإجراء تحويل صريح من[`FileStreamContainer`](../) لStream .
+يقوم بإجراء تحويل صريح من [`FileStreamContainer`](../) إلى Stream.
 
 ```csharp
 public static explicit operator Stream(FileStreamContainer fileStreamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| fileStreamContainer | FileStreamContainer | حاوية دفق الملف. |
+| fileStreamContainer | FileStreamContainer | حاوية تدفق الملف. |
 
 ### قيمة الإرجاع
 
 نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../filestreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## explicit operator {#op_explicit}
 
-يقوم بإجراء تحويل صريح من[`FileStreamContainer`](../) لFileStream .
+يقوم بإجراء تحويل صريح من [`FileStreamContainer`](../) إلى FileStream.
 
 ```csharp
 public static explicit operator FileStream(FileStreamContainer fileStreamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| fileStreamContainer | FileStreamContainer | حاوية دفق الملف. |
+| fileStreamContainer | FileStreamContainer | حاوية تدفق الملف. |
 
 ### قيمة الإرجاع
 
 نتيجة التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../filestreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

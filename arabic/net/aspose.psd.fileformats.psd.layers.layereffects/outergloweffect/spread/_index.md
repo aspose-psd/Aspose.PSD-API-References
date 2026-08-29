@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Spread
-second_title: Aspose.PSD لمرجع .NET API
-description: OuterGlowEffect ملكية. الحصول على الكثافة أو تحديدها كنسبة مئوية .
+title: "OuterGlowEffect.Spread"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OuterGlowEffect. يحصل على أو يضبط الشدة كنسبة مئوية"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Spread property
 
-الحصول على الكثافة أو تحديدها كنسبة مئوية .
+يحصل أو يضبط الشدة كنسبة مئوية.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-السبريد .
+الانتشار.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم OuterGlowEffect.
+يوضح الشيفرة التالية دعم OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OuterGlowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

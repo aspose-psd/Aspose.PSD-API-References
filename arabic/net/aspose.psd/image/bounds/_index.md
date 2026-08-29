@@ -1,28 +1,29 @@
 ---
-title: Image.Bounds
-second_title: Aspose.PSD لمرجع .NET API
-description: Image ملكية. يحصل على حدود الصورة .
+title: "Image.Bounds"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Image. تحصل على حدود الصورة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
-يحصل على حدود الصورة .
+يحصل على حدود الصورة.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حدود الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

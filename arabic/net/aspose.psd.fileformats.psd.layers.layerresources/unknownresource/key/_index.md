@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "UnknownResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnknownResource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/ke
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnknownResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

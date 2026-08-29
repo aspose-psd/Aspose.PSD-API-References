@@ -1,29 +1,30 @@
 ---
-title: XmpPackage.SetValue
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage طريقة. يضبط القيمة .
+title: "XmpPackage.SetValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackage. تضبط القيمة"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.xmp/xmppackage/setvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetValue method
 
-يضبط القيمة .
+يضبط القيمة.
 
 ```csharp
 public virtual void SetValue(string key, IXmlValue value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | تمثيل السلسلة للمفتاح الذي تم تحديده بالقيمة المضافة. |
-| value | IXmlValue | القيمة التي يجب إضافتها إليها. |
+| المفتاح | String | التمثيل النصي للمفتاح الذي يتم التعرف عليه مع القيمة المضافة. |
+| قيمة | IXmlValue | القيمة للإضافة إليها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

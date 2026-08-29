@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. الحصول على أو تعيين قيمة التواء للطبقة الموضوعة في صورة PSD.
+title: "PlacedResource.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل أو يضبط قيمة التشويه للطبقة الموضوعة في صورة PSD"
 type: docs
-weight: 200
+weight: 190
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Value property
 
-الحصول على أو تعيين قيمة التواء للطبقة الموضوعة في صورة PSD.
+يحصل أو يضبط قيمة الالتواء للطبقة الموضوعة في صورة PSD.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة الالتواء للطبقة الموضوعة .
+قيمة التشويه للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

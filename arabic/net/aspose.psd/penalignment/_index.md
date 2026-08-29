@@ -1,32 +1,33 @@
 ---
-title: Enum PenAlignment
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.PenAlignment تعداد. يحدد محاذاة ملفPen الكائن بالنسبة إلى الخط النظري ذي العرض الصفري.
+title: "التعداد PenAlignment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.PenAlignment. يحدد محاذاة كائن Pen بالنسبة للخط النظري صفر العرض."
 type: docs
-weight: 5210
+weight: 5700
 url: /ar/net/aspose.psd/penalignment/
 ---
+{{< psd/tize >}}
 ## PenAlignment enumeration
 
-يحدد محاذاة ملف[`Pen`](../pen/) الكائن بالنسبة إلى الخط النظري ذي العرض الصفري.
+يحدد محاذاة كائن [`Pen`](../pen/) بالنسبة للخط النظري، صفر العرض.
 
 ```csharp
 public enum PenAlignment
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Center | `0` | تحديد أن ملف[`Pen`](../pen/) يتم توسيط الكائن فوق الخط النظري. |
-| Inset | `1` | تحديد أن ملف[`Pen`](../pen/) يتم وضعه داخل الخط النظري. |
-| Outset | `2` | يحدد ملف[`Pen`](../pen/)يتم وضعه على السطح الخارجي للخط النظري. |
-| Left | `3` | يحدد ملف[`Pen`](../pen/) يتم وضعه على يسار الخط النظري. |
-| Right | `4` | يحدد ملف[`Pen`](../pen/) يتم وضعه على يمين الخط النظري. |
+| Center | `0` | يحدد أن كائن [`Pen`](../pen/) مركّز فوق الخط النظري. |
+| Inset | `1` | يحدد أن [`Pen`](../pen/) موضعه داخل الخط النظري. |
+| Outset | `2` | يحدد أن [`Pen`](../pen/) موضعه خارج الخط النظري. |
+| Left | `3` | يحدد أن [`Pen`](../pen/) موضعه إلى يسار الخط النظري. |
+| Right | `4` | يحدد أن [`Pen`](../pen/) موضعه إلى يمين الخط النظري. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: PsdImage.Layers
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على طبقات PSD أو تعيينها.
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل أو تعين طبقات PSD"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
-الحصول على طبقات PSD أو تعيينها.
+يحصل أو يضبط طبقات PSD.
 
 ```csharp
 public Layer[] Layers { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طبقات PSD .
+طبقات PSD.
 
-### ملاحظات
+## ملاحظات
 
-لاحظ أنه في حالة عدم وجود طبقات ، فلن يتم الاحتفاظ بالمعلومات الأخرى ذات الصلة داخل قسم معلومات الطبقة والقناع (أقنعة الطبقة والموارد وما إلى ذلك).
+لاحظ أنه إذا لم تكن هناك طبقات، فإن المعلومات الأخرى ذات الصلة داخل قسم معلومات الطبقة والقناع لن يتم حفظها (أقنعة الطبقة، الموارد، إلخ).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorTransferFunctionsResource ملكية. الحصول على بيانات نقل اللون أو تعيينها.
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorTransferFunctionsResource. يحصل أو يحدد بيانات نقل اللون"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
-الحصول على بيانات نقل اللون أو تعيينها.
+يحصل أو يضبط بيانات تحويل اللون.
 
 ```csharp
 public byte[] ColorTransferData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات نقل اللون .
+بيانات نقل اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorTransferFunctionsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

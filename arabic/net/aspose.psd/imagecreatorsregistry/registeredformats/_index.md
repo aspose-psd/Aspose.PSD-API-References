@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredFormats
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageCreatorsRegistry ملكية. الحصول على تنسيقات إنشاء الصور المسجلة.
+title: "ImageCreatorsRegistry.RegisteredFormats"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageCreatorsRegistry. تحصل على صيغ إنشاء الصور المسجلة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/imagecreatorsregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredFormats property
 
-الحصول على تنسيقات إنشاء الصور المسجلة.
+يحصل على صيغ إنشاء الصور المسجلة.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيقات إنشاء الصور المسجلة.
+صيغ إنشاء الصور المسجلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageCreatorsRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imagecreatorsregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

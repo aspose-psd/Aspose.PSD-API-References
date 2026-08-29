@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.BlueMask
-second_title: Aspose.PSD لمرجع .NET API
-description: GlobalLayerMaskInfo ملكية. الحصول على القناع الأزرق أو تعيينه.
+title: "GlobalLayerMaskInfo.BlueMask"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GlobalLayerMaskInfo. تحصل أو تعيّن القناع الأزرق"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.BlueMask property
 
-الحصول على القناع الأزرق أو تعيينه.
+يسترجع أو يعيّن القناع الأزرق.
 
 ```csharp
 public short BlueMask { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القناع الأزرق .
+القناع الأزرق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalLayerMaskInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

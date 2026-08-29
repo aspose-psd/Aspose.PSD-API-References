@@ -1,39 +1,40 @@
 ---
-title: Class StreamReadException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.StreamReadException فصل. استثناء قراءة الدفق. يحدث عند فشل قراءة الدفق بسبب الإزاحة غير الصحيحة وطلب حساب البايت.
+title: "الفئة StreamReadException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.StreamReadException. استثناء قراءة التدفق. يحدث عندما تفشل قراءة التدفق بسبب إزاحة غير صحيحة وطلب عدد البايتات."
 type: docs
 weight: 680
 url: /ar/net/aspose.psd.coreexceptions/streamreadexception/
 ---
+{{< psd/tize >}}
 ## StreamReadException class
 
-استثناء قراءة الدفق. يحدث عند فشل قراءة الدفق بسبب الإزاحة غير الصحيحة وطلب حساب البايت.
+استثناء قراءة التدفق. يحدث عندما تفشل قراءة التدفق بسبب إزاحة غير صحيحة وطلب عدد بايتات غير صحيح.
 
 ```csharp
 public class StreamReadException : FrameworkException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [StreamReadException](streamreadexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`StreamReadException` فئة . |
-| [StreamReadException](streamreadexception/#constructor_2)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`StreamReadException` فئة . |
-| [StreamReadException](streamreadexception/#constructor_1)(string, int, int) | يقوم بتهيئة مثيل جديد لملف`StreamReadException` فئة . |
-| [StreamReadException](streamreadexception/#constructor_3)(string, Exception, int, int) | يقوم بتهيئة مثيل جديد لملف`StreamReadException` فئة . |
+| [StreamReadException](streamreadexception/#constructor)(string) | ينشئ مثالا جديدا من الفئة `StreamReadException`. |
+| [StreamReadException](streamreadexception/#constructor_2)(string, Exception) | ينشئ مثالا جديدا من الفئة `StreamReadException`. |
+| [StreamReadException](streamreadexception/#constructor_1)(string, int, int) | ينشئ مثالا جديدا من الفئة `StreamReadException`. |
+| [StreamReadException](streamreadexception/#constructor_3)(string, Exception, int, int) | ينشئ مثالا جديدا من الفئة `StreamReadException`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ActualReadCount](../../aspose.psd.coreexceptions/streamreadexception/actualreadcount/) { get; } | الحصول على عدد وحدات بايت القراءة الفعلية . |
-| [ExpectedReadCount](../../aspose.psd.coreexceptions/streamreadexception/expectedreadcount/) { get; } | الحصول على عدد وحدات بايت القراءة المتوقعة . |
+| [ActualReadCount](../../aspose.psd.coreexceptions/streamreadexception/actualreadcount/) { get; } | يحصل على عدد البايتات المقروءة الفعلية. |
+| [ExpectedReadCount](../../aspose.psd.coreexceptions/streamreadexception/expectedreadcount/) { get; } | يحصل على عدد البايتات المقروءة المتوقعة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FrameworkException](../frameworkexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

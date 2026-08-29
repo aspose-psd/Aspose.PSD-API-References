@@ -1,30 +1,31 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType تعداد. نوع غطاء الخط .
+title: "تعداد LineCapType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. نوع طرف الخط"
 type: docs
-weight: 3040
+weight: 3400
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-نوع غطاء الخط .
+نوع نهاية الخط.
 
 ```csharp
 public enum LineCapType : short
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| RoundCap | `0` | نوع الغطاء المستدير . |
-| SquareCap | `1` | نوع الغطاء المربع . |
-| ButtCap | `2` | نوع غطاء المؤخرة . |
+| RoundCap | `0` | نوع الطرف المستدير. |
+| SquareCap | `1` | نوع الطرف المربع. |
+| ButtCap | `2` | نوع الطرف المسطح. |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد VstkResource.
+الكود التالي يوضح دعم مورد VstkResource.
 
 ```csharp
 [C#]
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PieShape.StartAngle
-second_title: Aspose.PSD لمرجع .NET API
-description: PieShape ملكية. الحصول على أو تحديد زاوية البداية .
+title: "PieShape.StartAngle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PieShape. يحصل على أو يضبط زاوية البدء"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.shapes/pieshape/startangle/
 ---
+{{< psd/tize >}}
 ## PieShape.StartAngle property
 
-الحصول على أو تحديد زاوية البداية .
+يحصل أو يضبط زاوية البداية.
 
 ```csharp
 public float StartAngle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-زاوية البداية.
+زاوية البدء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PieShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../pieshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

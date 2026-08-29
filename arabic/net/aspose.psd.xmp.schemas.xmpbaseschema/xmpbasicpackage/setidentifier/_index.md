@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetIdentifier
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage طريقة. يحدد المعرف.
+title: "XmpBasicPackage.SetIdentifier"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpBasicPackage. تعيّن المعرف"
 type: docs
-weight: 50
+weight: 70
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetIdentifier method
 
-يحدد المعرف.
+يضبط المعرف.
 
 ```csharp
 public void SetIdentifier(string[] idenfifier)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| idenfifier | String[] | المعرّف. |
+| المعرف | String[] | المعرف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

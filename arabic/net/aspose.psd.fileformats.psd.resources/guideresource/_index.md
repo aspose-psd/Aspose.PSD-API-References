@@ -1,41 +1,42 @@
 ---
-title: Class GuideResource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource فصل. كتلة مورد الدليل .
+title: "الفئة GuideResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource class. كتلة مورد الدليل"
 type: docs
-weight: 3750
+weight: 4220
 url: /ar/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-كتلة مورد الدليل .
+كتلة مورد الإرشاد.
 
 ```csharp
 public sealed class GuideResource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GuideResource](guideresource/)() | Default_Constructor |
+| [GuideResource](guideresource/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | الحصول على أو تحديد اتجاه الدليل. |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | الحصول على أو تحديد موقع الدليل في إحداثيات المستند. |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | يحصل أو يضبط اتجاه الدليل. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | يحصل أو يضبط موقع الدليل في إحداثيات المستند. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | حجم كتلة مورد الدليل . |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | حجم كتلة مورد الدليل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

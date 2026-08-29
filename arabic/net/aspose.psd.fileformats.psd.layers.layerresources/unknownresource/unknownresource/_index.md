@@ -1,28 +1,29 @@
 ---
-title: UnknownResource.UnknownResource
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownResource البناء. يقوم بتهيئة مثيل جديد لملفUnknownResource فئة .
+title: "UnknownResource.UnknownResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ UnknownResource. يهيئ مثيلاً جديداً من الفئة UnknownResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`UnknownResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`UnknownResource`](../).
 
 ```csharp
 public UnknownResource(int signature, int key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| signature | Int32 | التوقيع. |
-| key | Int32 | مفتاح المورد. |
+| التوقيع | Int32 | التوقيع. |
+| المفتاح | Int32 | مفتاح المورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnknownResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

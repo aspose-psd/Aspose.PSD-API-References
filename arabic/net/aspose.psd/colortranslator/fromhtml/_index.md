@@ -1,20 +1,21 @@
 ---
-title: ColorTranslator.FromHtml
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorTranslator طريقة. يأخذ اللون من لون HTML .
+title: "ColorTranslator.FromHtml"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorTranslator. تأخذ اللون من لون HTML"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/colortranslator/fromhtml/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.FromHtml method
 
-يأخذ اللون من لون HTML .
+يأخذ اللون من لون HTML.
 
 ```csharp
 public static Color FromHtml(string htmlColor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | htmlColor | String | لون HTML. |
 
@@ -22,11 +23,11 @@ public static Color FromHtml(string htmlColor)
 
 اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* مساحة الاسم [Aspose.PSD](../../colortranslator/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

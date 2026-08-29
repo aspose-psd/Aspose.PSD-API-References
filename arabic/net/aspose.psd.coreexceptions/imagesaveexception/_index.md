@@ -1,11 +1,12 @@
 ---
-title: Class ImageSaveException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageSaveException فصل. استثناء حفظ الصورة. يحدث أثناء حفظ الصورة.
+title: "الفئة ImageSaveException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.ImageSaveException. استثناء حفظ الصورة. يحدث أثناء حفظ الصورة."
 type: docs
 weight: 630
 url: /ar/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
 استثناء حفظ الصورة. يحدث أثناء حفظ الصورة.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd.coreexceptions/imagesaveexception/
 public class ImageSaveException : ImageException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`ImageSaveException` فئة . |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`ImageSaveException` فئة . |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | ينشئ مثالا جديدا من الفئة `ImageSaveException`. |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | ينشئ مثالا جديدا من الفئة `ImageSaveException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../imageexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

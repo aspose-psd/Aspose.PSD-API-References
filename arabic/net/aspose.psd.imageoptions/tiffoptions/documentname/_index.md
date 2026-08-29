@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.DocumentName
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تحديد اسم المستند.
+title: "TiffOptions.DocumentName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين اسم المستند"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/documentname/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DocumentName property
 
-الحصول على أو تحديد اسم المستند.
+يحصل أو يعيّن اسم المستند.
 
 ```csharp
 public string DocumentName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم المستند .
+اسم المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

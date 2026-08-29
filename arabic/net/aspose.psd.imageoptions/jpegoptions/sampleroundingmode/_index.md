@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.SampleRoundingMode
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions ملكية. الحصول على أو تعيين نموذج التقريب ليناسب قيمة 8 بت إلى قيمة n بت.BitsPerChannel
+title: "JpegOptions.SampleRoundingMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegOptions. تحصل أو تعين وضع تقريب العينة لتلائم قيمة 8 بت إلى قيمة n بت. BitsPerChannel"
 type: docs
-weight: 180
+weight: 190
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.SampleRoundingMode property
 
-الحصول على أو تعيين نموذج التقريب ليناسب قيمة 8 بت إلى قيمة n بت.BitsPerChannel
+يحصل أو يضبط وضع تقريب العينة لتلائم قيمة 8‑بت إلى قيمة n‑بت. BitsPerChannel
 
 ```csharp
 public SampleRoundingMode SampleRoundingMode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SampleRoundingMode](../../../aspose.psd.fileformats.jpeg/sampleroundingmode/)
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

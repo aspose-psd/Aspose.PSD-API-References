@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerSectionResource مجال. مفتاح معلومات أداة النوع.
+title: "LayerSectionResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل LayerSectionResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 100
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresour
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerSectionResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

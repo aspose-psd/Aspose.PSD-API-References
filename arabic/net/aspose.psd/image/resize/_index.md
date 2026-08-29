@@ -1,50 +1,51 @@
 ---
-title: Image.Resize
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. تغيير حجم الصورة .
+title: "Image.Resize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تعيد تحجيم الصورة"
 type: docs
-weight: 190
+weight: 200
 url: /ar/net/aspose.psd/image/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-تغيير حجم الصورة .
+يعيد تحجيم الصورة.
 
 ```csharp
 public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newWidth | Int32 | العرض الجديد . |
-| newHeight | Int32 | الارتفاع الجديد . |
-| resizeType | ResizeType | نوع تغيير الحجم . |
+| newWidth | Int32 | العرض الجديد. |
+| newHeight | Int32 | الارتفاع الجديد. |
+| resizeType | ResizeType | نوع تغيير الحجم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int) {#resize}
 
-يغير حجم الصورة. الافتراضيLeftTopToLeftTopيستخدم .
+يعيد تحجيم الصورة. يتم استخدام NearestNeighbourResample الافتراضي.
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newWidth | Int32 | العرض الجديد . |
-| newHeight | Int32 | الارتفاع الجديد . |
+| newWidth | Int32 | العرض الجديد. |
+| newHeight | Int32 | الارتفاع الجديد. |
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تغيير حجم صورة PSD والنتيجة التي نحصل عليها بواسطة Aspose.PSD
+يوضح المثال التالي كيفية تحجيم صورة PSD والنتيجة التي نحصل عليها باستخدام Aspose.PSD
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -61,33 +62,33 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-تغيير حجم الصورة .
+يعيد تحجيم الصورة.
 
 ```csharp
 public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
 | newHeight | Int32 | الارتفاع الجديد. |
-| settings | ImageResizeSettings | إعدادات تغيير الحجم. |
+| الإعدادات | ImageResizeSettings | إعدادات تغيير الحجم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

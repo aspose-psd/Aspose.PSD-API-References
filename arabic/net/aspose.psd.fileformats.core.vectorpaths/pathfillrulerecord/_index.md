@@ -1,36 +1,37 @@
 ---
-title: Class PathFillRuleRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord فصل. فئة تسجيل قاعدة ملء المسار
+title: "الفئة PathFillRuleRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord class. فئة سجل قاعدة تعبئة المسار"
 type: docs
-weight: 1380
+weight: 1390
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
-فئة تسجيل قاعدة ملء المسار
+فئة سجل قاعدة تعبئة المسار
 
 ```csharp
 public class PathFillRuleRecord : VectorPathRecord
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | يقوم بتهيئة مثيل جديد لملف`PathFillRuleRecord` فئة . |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`PathFillRuleRecord` فئة . |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | ينشئ مثيلاً جديداً من الفئة `PathFillRuleRecord`. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | ينشئ مثيلاً جديداً من الفئة `PathFillRuleRecord`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | يحصل على النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ClassStructure.ClassID
-second_title: Aspose.PSD لمرجع .NET API
-description: ClassStructure ملكية. الحصول على معرف الفئة أو تعيينه .
+title: "ClassStructure.ClassID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ClassStructure. تحصل أو تعين معرف الفئة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classid/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassID property
 
-الحصول على معرف الفئة أو تعيينه .
+يحصل أو يضبط معرف الفئة.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف الفئة .
+معرّف الفئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ClassStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

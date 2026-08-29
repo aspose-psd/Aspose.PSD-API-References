@@ -1,58 +1,59 @@
 ---
-title: IImageExporter.Export
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageExporter طريقة. يقوم بتصدير بيانات الصورة المحددة إلى تنسيق بيانات محدد.
+title: "IImageExporter.Export"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IImageExporter. تصدر بيانات الصورة المحددة إلى تنسيق البيانات المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
-يقوم بتصدير بيانات الصورة المحددة إلى تنسيق بيانات محدد.
+يصدّر بيانات الصورة المحددة إلى تنسيق البيانات المحدد.
 
 ```csharp
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | بيانات الصورة المراد تصديرها. |
-| stream | Stream | الدفق المراد تصدير البيانات إليه. |
-| optionsBase | ImageOptionsBase | خيارات لتصدير الصور |
+| صورة | صورة | بيانات الصورة لتصديرها. |
+| stream | Stream | المجرى لتصدير البيانات إليه. |
+| optionsBase | ImageOptionsBase | خيارات تصدير الصورة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* مساحة الاسم [Aspose.PSD](../../iimageexporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Export(Image, Stream, ImageOptionsBase, Rectangle) {#export_1}
 
-يقوم بتصدير بيانات الصورة المحددة إلى تنسيق بيانات محدد.
+يصدّر بيانات الصورة المحددة إلى تنسيق البيانات المحدد.
 
 ```csharp
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase, 
     Rectangle boundsRectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | بيانات الصورة المراد تصديرها. |
-| stream | Stream | الدفق المراد تصدير البيانات إليه. |
-| optionsBase | ImageOptionsBase | خيارات لتصدير الصور |
+| صورة | صورة | بيانات الصورة لتصديرها. |
+| stream | Stream | المجرى لتصدير البيانات إليه. |
+| optionsBase | ImageOptionsBase | خيارات تصدير الصورة |
 | boundsRectangle | Rectangle | مستطيل الحدود. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* مساحة الاسم [Aspose.PSD](../../iimageexporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: LclrResource.LclrResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LclrResource البناء. يقوم بتهيئة مثيل جديد لملفLclrResource فئة .
+title: "LclrResource.LclrResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LclrResource. يهيئ نسخة جديدة من فئة LclrResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LclrResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`LclrResource`](../).
 
 ```csharp
 public LclrResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LclrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LclrResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`LclrResource`](../).
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| color | SheetColorHighlightEnum | اللون. |
+| لون | SheetColorHighlightEnum | اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(byte[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`LclrResource`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`LclrResource`](../).
 
 ```csharp
 public LclrResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات الموارد. |
+| البيانات | Byte[] | بيانات المورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | قيمة مورد Lclr غير صالحة |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | قيمة Lclr Resource غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LclrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

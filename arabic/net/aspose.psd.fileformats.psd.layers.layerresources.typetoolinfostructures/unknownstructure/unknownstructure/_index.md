@@ -1,29 +1,30 @@
 ---
-title: UnknownStructure.UnknownStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownStructure البناء. يقوم بتهيئة مثيل جديد لملفUnknownStructure فئة .
+title: "UnknownStructure.UnknownStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ UnknownStructure. يهيئ نسخة جديدة من الفئة UnknownStructure"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
+{{< psd/tize >}}
 ## UnknownStructure constructor
 
-يقوم بتهيئة مثيل جديد لملف[`UnknownStructure`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`UnknownStructure`](../).
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | ClassID | اسم المفتاح. |
-| key | Int32 | مفتاح الهيكل. |
+| المفتاح | Int32 | مفتاح البنية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnknownStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

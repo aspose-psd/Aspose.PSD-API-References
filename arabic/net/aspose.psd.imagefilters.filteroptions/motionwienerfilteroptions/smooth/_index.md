@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Smooth
-second_title: Aspose.PSD لمرجع .NET API
-description: MotionWienerFilterOptions ملكية. الحصول على سلس أو تعيينه.
+title: "MotionWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية MotionWienerFilterOptions. تحصل أو تعين التنعيم"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Smooth property
 
-الحصول على سلس أو تعيينه.
+يحصل أو يعيّن السمة smooth.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-السلس .
+التنعيم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MotionWienerFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

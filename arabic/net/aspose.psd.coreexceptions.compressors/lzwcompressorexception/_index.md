@@ -1,30 +1,31 @@
 ---
-title: Class LzwCompressorException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException فصل. استثناء ضاغط lzw .
+title: "الفئة LzwCompressorException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException class. استثناء ضغط lzw"
 type: docs
 weight: 450
 url: /ar/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException class
 
-استثناء ضاغط lzw .
+استثناء ضاغط lzw.
 
 ```csharp
 public class LzwCompressorException : CompressorException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`LzwCompressorException` فئة . |
-| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`LzwCompressorException` فئة . |
+| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | يقوم بتهيئة نسخة جديدة من الفئة `LzwCompressorException`. |
+| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | يقوم بتهيئة نسخة جديدة من الفئة `LzwCompressorException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Aspose.PSD لمرجع .NET API
-description: Image ملكية. يحصل على ملفImage حاوية .
+title: "Image.Container"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Image. تحصل على حاوية Image"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-يحصل على ملف[`Image`](../) حاوية .
+تحصل على حاوية [`Image`](../).
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`Image`](../) حاوية .
+حاوية [`Image`](../).
 
-### ملاحظات
+## ملاحظات
 
-إذا لم تكن هذه الخاصية خالية ، فهذا يشير إلى أن الصورة موجودة في صورة أخرى.
+إذا لم تكن هذه الخاصية فارغة، فإن ذلك يشير إلى أن الصورة مضمَّنة داخل صورة أخرى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

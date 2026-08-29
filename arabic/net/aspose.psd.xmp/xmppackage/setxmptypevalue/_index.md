@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetXmpTypeValue
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage طريقة. يضبط قيمة نوع XMP.
+title: "XmpPackage.SetXmpTypeValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackage. تضبط قيمة نوع XMP"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetXmpTypeValue method
 
 يضبط قيمة نوع XMP.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | تمثيل السلسلة للمفتاح الذي تم تحديده بقيمة محددة. |
-| value | XmpTypeBase | القيمة المراد التعيين عليها. |
+| المفتاح | String | تمثيل النص للمفتاح الذي تم التعرف عليه مع القيمة المعينة. |
+| قيمة | XmpTypeBase | القيمة التي سيتم تعيينها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

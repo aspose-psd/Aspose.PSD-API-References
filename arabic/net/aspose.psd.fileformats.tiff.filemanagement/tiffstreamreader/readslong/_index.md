@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSLong
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. اقرأ قيمة العدد الصحيح المُشار إليه من الدفق.
+title: "TiffStreamReader.ReadSLong"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. قراءة قيمة عدد صحيح موقعة من الدفق"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSLong method
 
-اقرأ قيمة العدد الصحيح المُشار إليه من الدفق.
+اقرأ قيمة عدد صحيح موقّع من الدفق.
 
 ```csharp
 public int ReadSLong(long position)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
+| الموضع | Int64 | الموضع للقراءة منه. |
 
 ### قيمة الإرجاع
 
-قيمة عدد صحيح بعلامة .
+قيمة عدد صحيح موقعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. الحصول على أو تعيين الطريقة التي سيتم استخدامها لاستبدال الأرقام.
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تُرجع أو تُعيّن الطريقة التي تُستخدم لاستبدال الأرقام"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
-الحصول على أو تعيين الطريقة التي سيتم استخدامها لاستبدال الأرقام.
+يحصل أو يضبط الطريقة المستخدمة لاستبدال الأرقام.
 
 ```csharp
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`StringDigitSubstitute`](../../stringdigitsubstitute/) قيمة التعداد التي تحدد كيفية استبدال الأحرف في سلسلة لا يمكن عرضها لأنها غير مدعومة من قبل الخط الحالي.
+قيمة تعداد [`StringDigitSubstitute`](../../stringdigitsubstitute/) تحدد كيفية استبدال الأحرف في سلسلة لا يمكن عرضها لأنها غير مدعومة من الخط الحالي.
 
-### ملاحظات
+## ملاحظات
 
-تم تقديم الواضع للأسلوب المتقادم SetDigitSubstitution.
+تم تقديم المُعيّن للطريقة القديمة SetDigitSubstitution.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

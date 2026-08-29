@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetFontsFolders
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. يحصل على نسخة من المصفوفة التي تحتوي على قائمة المجلدات حيث يبحث Aspose.Words عن خطوط TrueType .
+title: "FontSettings.GetFontsFolders"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. يحصل على نسخة من المصفوفة التي تحتوي على قائمة المجلدات التي يبحث فيها Aspose.Words عن خطوط TrueType"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd/fontsettings/getfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontsFolders method
 
-يحصل على نسخة من المصفوفة التي تحتوي على قائمة المجلدات حيث يبحث Aspose.Words عن خطوط TrueType .
+يحصل على نسخة من المصفوفة التي تحتوي على قائمة المجلدات التي يبحث فيها Aspose.Words عن خطوط TrueType.
 
 ```csharp
 public static string[] GetFontsFolders()
@@ -18,14 +19,14 @@ public static string[] GetFontsFolders()
 
 نسخة من مواقع الخطوط الحالية.
 
-### ملاحظات
+## ملاحظات
 
-القيمة التي تم إرجاعها هي نسخة من البيانات التي يستخدمها Aspose.Words. إذا قمت بتغيير الإدخالات في المصفوفة التي تم إرجاعها ، فلن يكون لها أي تأثير على عرض المستند. لتحديد مواقع خطوط جديدة ، استخدم ملحق[`SetFontsFolders`](../setfontsfolders/) طريقة.
+القيمة المرجعة هي نسخة من البيانات التي يستخدمها Aspose.Words. إذا قمت بتغيير العناصر في المصفوفة المرجعة، فلن يكون لها أي تأثير على عرض المستند. لتحديد مواقع خطوط جديدة استخدم طريقة [`SetFontsFolders`](../setfontsfolders/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: VersionInfoResource.VersionInfoResource
-second_title: Aspose.PSD لمرجع .NET API
-description: VersionInfoResource البناء. Default_Constructor
+title: "VersionInfoResource.VersionInfoResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ VersionInfoResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/versioninforesource/versioninforesource/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public VersionInfoResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VersionInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

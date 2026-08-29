@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يحدد موضع المؤلفين.
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhotoshopPackage. تحدد موضع المؤلفين"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
-يحدد موضع المؤلفين.
+يضبط موضع المؤلف.
 
 ```csharp
 public void SetAuthorsPosition(string authorsPosition)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| authorsPosition | String | موقف المؤلفين. |
+| authorsPosition | String | موضع المؤلفين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

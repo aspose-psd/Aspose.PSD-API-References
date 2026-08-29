@@ -1,28 +1,29 @@
 ---
-title: ExifData.GainControl
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد درجة الضبط الكلي لكسب الصورة .
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط درجة تعديل الكسب الكلي للصورة"
 type: docs
 weight: 340
 url: /ar/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-الحصول على أو تحديد درجة الضبط الكلي لكسب الصورة .
+يحصل أو يضبط درجة تعديل كسب الصورة الكلية.
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-درجة الضبط الكلي لكسب الصورة .
+درجة تعديل الكسب الكلي للصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

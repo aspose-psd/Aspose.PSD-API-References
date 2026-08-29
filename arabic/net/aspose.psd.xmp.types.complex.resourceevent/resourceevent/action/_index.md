@@ -1,31 +1,32 @@
 ---
-title: ResourceEvent.Action
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceEvent ملكية. يحصل أو يحدد الإجراء .
+title: "ResourceEvent.Action"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceEvent. يحصل أو يعيّن الإجراء"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
-يحصل أو يحدد الإجراء .
+يحصل أو يضبط الإجراء.
 
 ```csharp
 public string Action { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإجراء .
+الإجراء.
 
-### أمثلة
+## أمثلة
 
-القيم المحددة هي: محوَّلة ، ونسخ ، ومُنشأة ، ومُحَوَّلة ، ومُحَوَّلة ، ومُنسَّقة ، وإصدار_ محدَّث ، وطباعة ، ونشر ، ومُدارة ، ومنتجة ، وتغيير حجمها ، وحفظها. يجب أن تكون القيم الجديدة أفعالًا في زمن الماضي.
+القيم المعرفة هي: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. يجب أن تكون القيم الجديدة أفعالاً في صيغة الماضي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceEvent](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

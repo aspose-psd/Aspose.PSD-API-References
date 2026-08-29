@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageResizeSettings ملكية. الحصول على أو تحديد وضع الاستيفاء.
+title: "ImageResizeSettings.Mode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageResizeSettings. تحصل أو تعين وضع الاستيفاء"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/imageresizesettings/mode/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.Mode property
 
-الحصول على أو تحديد وضع الاستيفاء.
+يحصل أو يضبط وضع الاستيفاء.
 
 ```csharp
 public ResizeType Mode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الوضع .
+الوضع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* مساحة الاسم [Aspose.PSD](../../imageresizesettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

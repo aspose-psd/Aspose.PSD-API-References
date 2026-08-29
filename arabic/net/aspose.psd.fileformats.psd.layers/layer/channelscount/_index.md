@@ -1,27 +1,28 @@
 ---
-title: Layer.ChannelsCount
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على عدد قنوات الطبقة .
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل على عدد قنوات الطبقة"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
-الحصول على عدد قنوات الطبقة .
+يحصل على عدد قنوات الطبقة.
 
 ```csharp
 public ushort ChannelsCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد قنوات الطبقة .
+عدد قنوات الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

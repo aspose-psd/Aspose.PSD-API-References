@@ -1,23 +1,24 @@
 ---
-title: XmpChoise1.XmpChoise
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpChoise البناء. Default_Constructor
+title: "XmpChoise1.XmpChoise"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpChoise. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.derived/xmpchoise-1/xmpchoise/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public XmpChoise()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpChoise&lt;T&gt;](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

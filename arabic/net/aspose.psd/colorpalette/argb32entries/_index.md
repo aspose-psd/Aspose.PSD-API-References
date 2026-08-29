@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.Argb32Entries
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPalette ملكية. الحصول على مجموعة من هياكل ARGB 32 بت.
+title: "ColorPalette.Argb32Entries"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorPalette. تحصل على مصفوفة من هياكل ARGB 32-بت."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/colorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Argb32Entries property
 
-الحصول على مجموعة من هياكل ARGB 32 بت.
+يحصل على مصفوفة من هياكل ARGB 32‑بت.
 
 ```csharp
 public int[] Argb32Entries { get; }
@@ -16,16 +17,16 @@ public int[] Argb32Entries { get; }
 
 ### قيمة الإرجاع
 
-مصفوفة بنية ARGB 32 بت التي تتكون منها[`ColorPalette`](../) .
+المصفوفة من هياكل ARGB 32-بت التي تشكل هذه [`ColorPalette`](../).
 
-### Property_Value
+### Property Value
 
 الإدخالات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

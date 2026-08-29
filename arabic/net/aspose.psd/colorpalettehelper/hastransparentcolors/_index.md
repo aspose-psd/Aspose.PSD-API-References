@@ -1,38 +1,39 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPaletteHelper طريقة. لتحديد ما إذا كانت اللوحة المحددة تحتوي على ألوان شفافة.
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorPaletteHelper. تحدد ما إذا كانت لوحة الألوان المحددة تحتوي على ألوان شفافة."
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
-لتحديد ما إذا كانت اللوحة المحددة تحتوي على ألوان شفافة.
+يحدد ما إذا كانت اللوحة المحددة تحتوي على ألوان شفافة.
 
 ```csharp
 public static bool HasTransparentColors(IColorPalette palette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| palette | IColorPalette | اللوحة. |
+| لوحة ألوان | IColorPalette | لوحة الألوان. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كانت اللوحة المحددة لها ألوان شفافة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت لوحة الألوان المحددة تحتوي على ألوان شفافة؛ وإلا `false`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *palette* باطل. |
+| ArgumentNullException | *palette* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalettehelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

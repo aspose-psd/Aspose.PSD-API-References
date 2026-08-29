@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Aspose.PSD لمرجع .NET API
-description: BlendingOptions طريقة. يضيف تراكب التدرج .
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة BlendingOptions. تضيف تراكب التدرج"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
-يضيف تراكب التدرج .
+يضيف تغطية التدرج.
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
@@ -16,13 +17,13 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### قيمة الإرجاع
 
-تم إنشاؤه[`GradientOverlayEffect`](../../gradientoverlayeffect/) كائن
+تم إنشاء كائن [`GradientOverlayEffect`](../../gradientoverlayeffect/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

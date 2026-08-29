@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: VibAResource ملكية. الحصول على طول مورد الطبقة بالبايت.
+title: "VibAResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VibAResource. تحصل على طول مورد الطبقة بالبايت"
 type: docs
-weight: 30
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/
 ---
+{{< psd/tize >}}
 ## VibAResource.Length property
 
-الحصول على طول مورد الطبقة بالبايت.
+يحصل على طول مورد الطبقة بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم مورد VibAResource.
+يوضح مثال الشيفرة التالي دعم مورد VibAResource.
 
 ```csharp
 [C#]
 
-// مثال على دعم قراءة وكتابة مورد الاهتزاز في وقت التشغيل.
+// مثال على دعم قراءة وكتابة مورد الاهتزاز أثناء التشغيل.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VibAResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

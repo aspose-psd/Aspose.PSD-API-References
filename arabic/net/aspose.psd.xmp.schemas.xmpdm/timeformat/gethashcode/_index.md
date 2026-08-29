@@ -1,14 +1,15 @@
 ---
-title: TimeFormat.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeFormat طريقة. إرجاع رمز تجزئة لهذا المثال.
+title: "TimeFormat.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TimeFormat طريقة. يرجع رمز تجزئة لهذا الكائن"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/timeformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## TimeFormat.GetHashCode method
 
-إرجاع رمز تجزئة لهذا المثال.
+يرجع رمز تجزئة لهذه المثيلة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة لهذا المثال ، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
+رمز تجزئة لهذه المثيلة، مناسب للاستخدام في خوارزميات التجزئة وهياكل البيانات مثل جدول التجزئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeFormat](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

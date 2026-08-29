@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddColorOverlay
-second_title: Aspose.PSD لمرجع .NET API
-description: BlendingOptions طريقة. يضيف تراكب اللون .
+title: "BlendingOptions.AddColorOverlay"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة BlendingOptions. تضيف تراكب اللون"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddColorOverlay method
 
-يضيف تراكب اللون .
+يضيف تغطية اللون.
 
 ```csharp
 public ColorOverlayEffect AddColorOverlay()
@@ -16,13 +17,13 @@ public ColorOverlayEffect AddColorOverlay()
 
 ### قيمة الإرجاع
 
-تم إنشاؤه[`ColorOverlayEffect`](../../coloroverlayeffect/) كائن
+تم إنشاء كائن [`ColorOverlayEffect`](../../coloroverlayeffect/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

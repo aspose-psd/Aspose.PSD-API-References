@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerModel
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تحديد طراز الماسح .
+title: "TiffOptions.ScannerModel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين نموذج الماسح"
 type: docs
-weight: 420
+weight: 430
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/scannermodel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerModel property
 
-الحصول على أو تحديد طراز الماسح .
+يحصل أو يعيّن طراز المسح الضوئي.
 
 ```csharp
 public string ScannerModel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نموذج الماسح .
+نموذج الماسح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Class RegionExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.RegionExtensions فصل. يحتوي على طرق امتداد لملفRegion فئة .
+title: "فئة RegionExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.Extensions.RegionExtensions. تحتوي على طرق امتداد لفئة Region"
 type: docs
-weight: 1170
+weight: 1180
 url: /ar/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-يحتوي على طرق امتداد لملف[`Region`](../../aspose.psd/region/) فئة .
+تحتوي على طرق امتداد لفئة [`Region`](../../aspose.psd/region/).
 
 ```csharp
 public static class RegionExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | يحول ملف[`Region`](../../aspose.psd/region/) الىRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | يحوّل [`Region`](../../aspose.psd/region/) إلى Region. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

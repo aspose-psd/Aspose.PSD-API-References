@@ -1,36 +1,37 @@
 ---
-title: Class DitheringMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Dithering.DitheringMode فصل. إعدادات ثبات الألوان ليتم تطبيقها على الصورة عند الحفظ.
+title: "الفئة DitheringMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Dithering.DitheringMode. إعدادات التدرج التي تُطبق على الصورة عند الحفظ"
 type: docs
-weight: 760
+weight: 770
 url: /ar/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-إعدادات ثبات الألوان ليتم تطبيقها على الصورة عند الحفظ.
+إعدادات التمويه التي تُطبق على الصورة عند الحفظ.
 
 ```csharp
 public class DitheringMode
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DitheringMode](ditheringmode/)() | Default_Constructor |
+| [DitheringMode](ditheringmode/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | عامل أخذ العينات للصورة المبعثرة . |
-| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | لوحة الألوان المخصصة لثبات الألوان . |
-| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | تحديد خوارزمية التردد . |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | عامل العينة للصورة المموجة. |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | لوحة الألوان المخصصة للتخفيض. |
+| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | اختيار خوارزمية التخفيض. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

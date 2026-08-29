@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.YellowChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykChannelMixerLayer ملكية. يحصل على القناة الصفراء .
+title: "CmykChannelMixerLayer.YellowChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CmykChannelMixerLayer. تحصل على قناة الأصفر"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/yellowchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.YellowChannel property
 
-يحصل على القناة الصفراء .
+يحصل على قناة الأصفر.
 
 ```csharp
 public CmykMixerChannel YellowChannel { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القناة الصفراء .
+قناة الأصفر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,51 +1,52 @@
 ---
-title: PsdImage.ResizeHeightProportionally
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يغير حجم الارتفاع بشكل متناسب .
+title: "PsdImage.ResizeHeightProportionally"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تُعيد تحجيم الارتفاع بشكل نسبي."
 type: docs
-weight: 590
+weight: 650
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
-## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
-
-يغير حجم الارتفاع بشكل متناسب .
-
-```csharp
-public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| newHeight | Int32 | الارتفاع الجديد. |
-| settings | ImageResizeSettings | إعدادات تغيير حجم الصورة. |
-
-### أنظر أيضا
-
-* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
-* class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-يغير حجم الارتفاع بشكل متناسب .
+يعيد تحجيم الارتفاع بنسبية.
 
 ```csharp
 public override void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newHeight | Int32 | الارتفاع الجديد. |
-| resizeType | ResizeType | نوع تغيير الحجم. |
+| resizeType | ResizeType | نوع التحجيم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
+
+يعيد تحجيم الارتفاع بنسبية.
+
+```csharp
+public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| newHeight | Int32 | الارتفاع الجديد. |
+| الإعدادات | ImageResizeSettings | إعدادات تحجيم الصورة. |
+
+### انظر أيضًا
+
+* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

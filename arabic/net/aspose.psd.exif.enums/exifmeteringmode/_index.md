@@ -1,35 +1,36 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode تعداد. تعداد وضع قياس exif .
+title: "Enum ExifMeteringMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode تعداد. إكسيف وضع القياس تعداد"
 type: docs
-weight: 900
+weight: 910
 url: /ar/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
-تعداد وضع قياس exif .
+exif تعداد وضع القياس.
 
 ```csharp
 public enum ExifMeteringMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Unknown | `0` | الوضع غير المحدد |
-| Average | `1` | متوسط القياس |
-| Centerweightedaverage | `2` | متوسط مرجح للمركز . |
-| Spot | `3` | قياس موضعي |
-| MultiSpot | `4` | قياس متعدد النقاط |
-| MultiSegment | `5` | قياس متعدد المقاطع . |
-| Partial | `6` | قياس جزئي . |
-| Other | `255` | للأوضاع الأخرى. |
+| Unknown | `0` | وضع غير معرف |
+| Average | `1` | القياس المتوسط |
+| Centerweightedaverage | `2` | متوسط مرجّح مركزي. |
+| Spot | `3` | القياس النقطي |
+| MultiSpot | `4` | القياس المتعدد النقط |
+| MultiSegment | `5` | قياس متعدد القطاعات. |
+| Partial | `6` | قياس جزئي. |
+| Other | `255` | للأنماط الأخرى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

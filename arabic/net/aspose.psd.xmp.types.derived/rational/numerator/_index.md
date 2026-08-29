@@ -1,27 +1,28 @@
 ---
-title: Rational.Numerator
-second_title: Aspose.PSD لمرجع .NET API
-description: Rational ملكية. يحصل على البسط .
+title: "Rational.Numerator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rational. يحصل على البسط"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.derived/rational/numerator/
 ---
+{{< psd/tize >}}
 ## Rational.Numerator property
 
-يحصل على البسط .
+يحصل على البسط.
 
 ```csharp
 public int Numerator { get; }
 ```
 
-### Property_Value
+### Property Value
 
-البسط .
+البسط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rational](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

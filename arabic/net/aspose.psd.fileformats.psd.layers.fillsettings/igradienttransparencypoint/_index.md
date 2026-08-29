@@ -1,11 +1,12 @@
 ---
-title: Interface IGradientTransparencyPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint واجهه المستخدم. الواجهة الأساسية لإعدادات التعبئة
+title: "الواجهة IGradientTransparencyPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint. الواجهة الأساسية لإعدادات التعبئة"
 type: docs
-weight: 2020
+weight: 2140
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint interface
 
 الواجهة الأساسية لإعدادات التعبئة
@@ -16,15 +17,15 @@ public interface IGradientTransparencyPoint
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | الحصول على الموقع أو تحديده . |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | الحصول على أو تحديد موقع النقطة الوسيط. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | الحصول على التعتيم أو تعيينه . |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | يحصل أو يعيّن الموقع. نطاق القيمة 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | يحصل أو يعيّن موقع نقطة الوسط. نطاق القيمة 0-4096. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | يحصل أو يعيّن الشفافية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

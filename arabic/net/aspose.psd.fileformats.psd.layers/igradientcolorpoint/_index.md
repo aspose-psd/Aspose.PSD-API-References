@@ -1,11 +1,12 @@
 ---
-title: Interface IGradientColorPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint واجهه المستخدم. الواجهة الأساسية لإعدادات التعبئة
+title: "الواجهة IGradientColorPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint. الواجهة الأساسية لإعدادات التعبئة."
 type: docs
-weight: 2060
+weight: 2240
 url: /ar/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint interface
 
 الواجهة الأساسية لإعدادات التعبئة
@@ -16,15 +17,15 @@ public interface IGradientColorPoint
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | الحصول على الموقع أو تحديده . |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | الحصول على أو تحديد موقع النقطة الوسيط. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | الحصول على لون الخام أو تحديده. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | يحصل أو يعيّن الموقع. نطاق القيمة 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | يحصل أو يعيّن موقع نقطة الوسط. نطاق القيمة 0-4096. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | يحصل أو يضبط لون الخام. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

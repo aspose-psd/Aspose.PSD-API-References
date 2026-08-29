@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Inequality
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF طريقة. اختبار ما إذا كان اثنانSizeF الهياكل مختلفة.
+title: "SizeF.op_Inequality"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SizeF. تختبر ما إذا كان هيكلا SizeF مختلفين"
 type: docs
 weight: 160
 url: /ar/net/aspose.psd/sizef/op_inequality/
 ---
+{{< psd/tize >}}
 ## SizeF Inequality operator
 
-اختبار ما إذا كان اثنان[`SizeF`](../) الهياكل مختلفة.
+تختبر ما إذا كان هيكلا [`SizeF`](../) مختلفين.
 
 ```csharp
 public static bool operator !=(SizeF size1, SizeF size2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size1 | SizeF | ال[`SizeF`](../) هيكل على يسار عامل عدم المساواة. |
-| size2 | SizeF | ال[`SizeF`](../) هيكل على حق عامل عدم المساواة. |
+| size1 | SizeF | الهيكل [`SizeF`](../) على يسار عامل عدم المساواة. |
+| size2 | SizeF | الهيكل [`SizeF`](../) على يمين عامل عدم المساواة. |
 
 ### قيمة الإرجاع
 
-هذا العامل يعود صحيحا إذا*size1* و*size2* تختلف إما في العرض أو الارتفاع ؛ خطأ إذا*size1* و*size2* متساوية.
+يعيد هذا العامل القيمة true إذا كان *size1* و *size2* يختلفان إما في العرض أو الارتفاع؛ false إذا كان *size1* و *size2* متساويين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

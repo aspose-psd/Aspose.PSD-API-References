@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.DataSize
-second_title: Aspose.PSD لمرجع .NET API
-description: UrlListResource ملكية. الحصول على حجم بيانات المورد بالبايت.
+title: "UrlListResource.DataSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UrlListResource. يحصل على حجم بيانات المورد بالبايت"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/urllistresource/datasize/
 ---
+{{< psd/tize >}}
 ## UrlListResource.DataSize property
 
-الحصول على حجم بيانات المورد بالبايت.
+يحصل على حجم بيانات المورد بالبايت.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم بيانات المورد .
+حجم بيانات المورد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UrlListResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

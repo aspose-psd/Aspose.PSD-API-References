@@ -1,14 +1,15 @@
 ---
-title: LayerResource.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResource طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "LayerResource.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LayerResource. تُعيد سلسلة تمثل هذه الحالة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresource/tostring/
 ---
+{{< psd/tize >}}
 ## LayerResource.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+إرجاع String تمثل هذا المثيل.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذا الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

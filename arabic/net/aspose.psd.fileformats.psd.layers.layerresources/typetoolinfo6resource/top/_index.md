@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Top
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfo6Resource ملكية. الحصول على الموقع العلوي أو تحديده .
+title: "TypeToolInfo6Resource.Top"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TypeToolInfo6Resource خاصية. يسترجع أو يضبط الموقع العلوي"
 type: docs
-weight: 140
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Top property
 
-الحصول على الموقع العلوي أو تحديده .
+يحصل أو يضبط موقع الأعلى.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أعلى موقع .
+الموقع العلوي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfo6Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

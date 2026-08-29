@@ -1,34 +1,35 @@
 ---
-title: Enum ColorAdjustType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ColorAdjustType تعداد. تحديد الكائنات التي تستخدم معلومات ضبط اللون.
+title: "التعداد ColorAdjustType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.ColorAdjustType. يحدد الكائنات التي تستخدم معلومات تعديل اللون."
 type: docs
 weight: 300
 url: /ar/net/aspose.psd/coloradjusttype/
 ---
+{{< psd/tize >}}
 ## ColorAdjustType enumeration
 
-تحديد الكائنات التي تستخدم معلومات ضبط اللون.
+يحدد أي الكائنات تستخدم معلومات تعديل اللون.
 
 ```csharp
 public enum ColorAdjustType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Default | `0` | معلومات ضبط اللون المستخدمة بواسطة كافة كائنات GDI + التي لا تحتوي على معلومات ضبط الألوان الخاصة بها . |
-| Bitmap | `1` | معلومات ضبط اللون لكائنات الصور النقطية. |
-| Brush | `2` | معلومات ضبط اللون لكائنات الفرشاة. |
-| Pen | `3` | معلومات ضبط اللون لكائنات القلم . |
-| Text | `4` | معلومات ضبط اللون للنص. |
-| Count | `5` | عدد الأنواع المحدد . |
-| Any | `6` | عدد الأنواع المحدد . |
+| Default | `0` | معلومات تعديل اللون التي تُستخدم من قبل جميع كائنات GDI+ التي لا تملك معلومات تعديل اللون الخاصة بها. |
+| Bitmap | `1` | معلومات تعديل اللون لكائنات Bitmap. |
+| Brush | `2` | معلومات تعديل اللون لكائنات Brush. |
+| Pen | `3` | معلومات تعديل اللون لكائنات Pen. |
+| Text | `4` | معلومات تعديل اللون للنص. |
+| Count | `5` | عدد الأنواع المحددة. |
+| Any | `6` | عدد الأنواع المحددة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

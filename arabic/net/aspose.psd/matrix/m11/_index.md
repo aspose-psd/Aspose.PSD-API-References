@@ -1,23 +1,24 @@
 ---
-title: Matrix.M11
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix ملكية. يحصل على عنصر المصفوفة في العمود الأول للصف الأول. يمثل المقياس على طول المحور X.
+title: "Matrix.M11"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Matrix. تحصل على عنصر المصفوفة في الصف الأول والعمود الأول. يمثل المقياس على المحور X."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/matrix/m11/
 ---
+{{< psd/tize >}}
 ## Matrix.M11 property
 
-يحصل على عنصر المصفوفة في العمود الأول للصف الأول. يمثل المقياس على طول المحور X.
+يحصل على عنصر المصفوفة في الصف الأول والعمود الأول. يمثل المقياس على المحور X.
 
 ```csharp
 public float M11 { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

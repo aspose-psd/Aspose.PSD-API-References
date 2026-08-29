@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Blue
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantRgb ملكية. الحصول على أو تعيين قيمة المكون الأزرق.
+title: "ColorantRgb.Blue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantRgb. تحصل أو تعين قيمة المكوّن الأزرق"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Blue property
 
-الحصول على أو تعيين قيمة المكون الأزرق.
+يحصل أو يعيّن قيمة المكوّن الأزرق.
 
 ```csharp
 public byte Blue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون الأزرق .
+قيمة المكوّن الأزرق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantRgb](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

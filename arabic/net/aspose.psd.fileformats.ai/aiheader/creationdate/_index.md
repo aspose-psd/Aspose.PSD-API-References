@@ -1,27 +1,28 @@
 ---
-title: AiHeader.CreationDate
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على تاريخ الإنشاء أو تحديده.
+title: "AiHeader.CreationDate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. يحصل أو يضبط تاريخ الإنشاء"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/creationdate/
 ---
+{{< psd/tize >}}
 ## AiHeader.CreationDate property
 
-الحصول على تاريخ الإنشاء أو تحديده.
+يحصل أو يضبط تاريخ الإنشاء.
 
 ```csharp
 public string CreationDate { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تاريخ الإنشاء .
+تاريخ الإنشاء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

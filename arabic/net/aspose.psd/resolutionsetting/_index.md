@@ -1,36 +1,37 @@
 ---
-title: Class ResolutionSetting
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ResolutionSetting فصل. إعداد الدقة لخيارات حفظ الصورة .
+title: "الفئة ResolutionSetting"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ResolutionSetting. إعداد الدقة لخيارات حفظ الصورة"
 type: docs
-weight: 5380
+weight: 5880
 url: /ar/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
-إعداد الدقة لخيارات حفظ الصورة .
+إعداد الدقة لخيارات حفظ الصورة.
 
 ```csharp
 public class ResolutionSetting
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ResolutionSetting` فئة . |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | يقوم بتهيئة مثيل جديد لملف`ResolutionSetting` فئة . |
+| [ResolutionSetting](resolutionsetting/#constructor)() | يُنشئ مثيلاً جديدًا للفئة `ResolutionSetting`. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | يُنشئ مثيلاً جديدًا للفئة `ResolutionSetting`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | الحصول على الدقة الأفقية أو تعيينها . |
-| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | الحصول على الدقة الرأسية أو تعيينها . |
+| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | يحصل أو يضبط الدقة الأفقية. |
+| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | يحصل أو يضبط الدقة العمودية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

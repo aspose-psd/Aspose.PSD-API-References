@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: IGradientTransparencyPoint ملكية. الحصول على التعتيم أو تعيينه .
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IGradientTransparencyPoint. تحصل أو تضبط الشفافية"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
-الحصول على التعتيم أو تعيينه .
+يحصل أو يعيّن الشفافية.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التعتيم .
+الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientTransparencyPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Ids
-second_title: Aspose.PSD لمرجع .NET API
-description: UrlListResource ملكية. الحصول على المعرفات أو تعيينها.
+title: "UrlListResource.Ids"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UrlListResource. يحصل أو يضبط المعرفات"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
-الحصول على المعرفات أو تعيينها.
+يحصل أو يعيّن المعرفات.
 
 ```csharp
 public int[] Ids { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرفات .
+المعرفات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UrlListResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

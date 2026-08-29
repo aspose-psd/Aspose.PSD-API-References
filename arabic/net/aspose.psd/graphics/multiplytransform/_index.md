@@ -1,51 +1,52 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يضاعفMatrix التي تمثل التحويل الهندسي المحلي لهذاGraphics حسب المحددMatrix عن طريق إضافة الملف المحدد مسبقًاMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. تضرب الـMatrix التي تمثل التحويل الهندسي المحلي لهذا Graphics بالمصفوفة المحددة عن طريق إلحاق الـMatrix المحدد."
 type: docs
-weight: 420
+weight: 430
 url: /ar/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-يضاعف[`Matrix`](../../matrix/) التي تمثل التحويل الهندسي المحلي لهذا[`Graphics`](../) حسب المحدد[`Matrix`](../../matrix/) عن طريق إضافة الملف المحدد مسبقًا[`Matrix`](../../matrix/) .
+تضرب الـ[`Matrix`](../../matrix/) التي تمثل التحويل الهندسي المحلي لهذا [`Graphics`](../) بالـ[`Matrix`](../../matrix/) المحدد عن طريق إلحاق الـ[`Matrix`](../../matrix/) المحدد.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | ال[`Matrix`](../../matrix/) بمضاعفة التحويل الهندسي. |
+| matrix | Matrix | الـ[`Matrix`](../../matrix/) التي سيتم ضرب التحويل الهندسي بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-يضاعف[`Matrix`](../../matrix/) التي تمثل التحويل الهندسي المحلي لهذا[`Graphics`](../) حسب المحدد[`Matrix`](../../matrix/) بالترتيب المحدد.
+تضرب الـ[`Matrix`](../../matrix/) التي تمثل التحويل الهندسي المحلي لهذا [`Graphics`](../) بالـ[`Matrix`](../../matrix/) المحدد وفقًا للترتيب المحدد.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | ال[`Matrix`](../../matrix/) بمضاعفة التحويل الهندسي. |
-| order | MatrixOrder | أ[`MatrixOrder`](../../matrixorder/) التي تحدد ترتيب ضرب المصفوفتين. |
+| matrix | Matrix | الـ[`Matrix`](../../matrix/) التي سيتم ضرب التحويل الهندسي بها. |
+| order | MatrixOrder | `[`MatrixOrder`](../../matrixorder/)` الذي يحدد الترتيب الذي تُضرب فيه المصفوفتان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

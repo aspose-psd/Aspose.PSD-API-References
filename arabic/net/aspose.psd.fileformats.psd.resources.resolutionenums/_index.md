@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Aspose.PSD لمرجع .NET API
-description: يعالج مساحة الاسم وحدات تحليل موارد Psd
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تتعامل مساحة الاسم مع وحدات دقة موارد PSD"
 type: docs
-weight: 360
+weight: 400
 url: /ar/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-يعالج مساحة الاسم وحدات تحليل موارد Psd
+{{< psd/tize >}}
+تتعامل مساحة الاسم مع وحدات دقة موارد PSD
 
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | تعداد وحدة المعلومات المادية resoulution |
-| [ResolutionUnit](./resolutionunit/) | وحدة دقة معلومات الدقة |
+| [PhysicalUnit](./physicalunit/) | تعداد وحدة القياس الفيزيائية لـ resoulutionInfo |
+| [ResolutionUnit](./resolutionunit/) | وحدة الدقة لمعلومات resolution |
 
 

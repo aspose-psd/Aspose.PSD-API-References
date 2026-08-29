@@ -1,28 +1,29 @@
 ---
-title: Interface IImageLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IImageLoader واجهه المستخدم. محمل الصور .
+title: "واجهة IImageLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.IImageLoader واجهة. محمل الصورة"
 type: docs
-weight: 4450
+weight: 4920
 url: /ar/net/aspose.psd/iimageloader/
 ---
+{{< psd/tize >}}
 ## IImageLoader interface
 
-محمل الصور .
+محمل image loader.
 
 ```csharp
 public interface IImageLoader
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | يفتح صورة جديدة بامتداد*loadOptions* . |
+| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | يفتح صورة جديدة باستخدام *loadOptions*. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.TransferFunction
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تعيين وظيفة النقل.
+title: "JpegExifData.TransferFunction"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين دالة النقل"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd.exif/jpegexifdata/transferfunction/
 ---
+{{< psd/tize >}}
 ## JpegExifData.TransferFunction property
 
-الحصول على أو تعيين وظيفة النقل.
+يحصل أو يضبط دالة النقل.
 
 ```csharp
 public ushort[] TransferFunction { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وظيفة النقل .
+دالة النقل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

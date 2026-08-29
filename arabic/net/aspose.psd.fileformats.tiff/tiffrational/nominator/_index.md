@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Nominator
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffRational ملكية. يحصل على المرشح .
+title: "TiffRational.Nominator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffRational. تحصل على البسط"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.tiff/tiffrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Nominator property
 
-يحصل على المرشح .
+يحصل على البسط.
 
 ```csharp
 public uint Nominator { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المرشح .
+البسط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

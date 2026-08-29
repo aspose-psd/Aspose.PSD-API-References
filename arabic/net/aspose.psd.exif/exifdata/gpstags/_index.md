@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTags
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين العلامات التي تنتمي إلى قسم GPS فقط.
+title: "ExifData.GPSTags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين العلامات التي تنتمي إلى قسم GPS فقط"
 type: docs
 weight: 630
 url: /ar/net/aspose.psd.exif/exifdata/gpstags/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTags property
 
-الحصول على أو تعيين العلامات التي تنتمي إلى قسم GPS فقط.
+الحصول أو تعيين العلامات التي تخص قسم GPS فقط.
 
 ```csharp
 public TiffDataType[] GPSTags { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-علامات GPS .
+علامات GPS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

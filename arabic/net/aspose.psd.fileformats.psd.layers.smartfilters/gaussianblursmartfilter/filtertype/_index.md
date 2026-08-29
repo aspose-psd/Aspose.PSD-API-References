@@ -1,23 +1,24 @@
 ---
-title: GaussianBlurSmartFilter.FilterType
-second_title: Aspose.PSD لمرجع .NET API
-description: GaussianBlurSmartFilter مجال. معرّف المرشح الذكي الحالي.
+title: "GaussianBlurSmartFilter.FilterType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل GaussianBlurSmartFilter. معرف الفلتر الذكي الحالي"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.FilterType field
 
-معرّف المرشح الذكي الحالي.
+معرف الفلتر الذكي الحالي.
 
 ```csharp
 public const int FilterType;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussianBlurSmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

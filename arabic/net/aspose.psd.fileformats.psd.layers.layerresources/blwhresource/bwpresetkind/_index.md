@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.BwPresetKind
-second_title: Aspose.PSD لمرجع .NET API
-description: BlwhResource ملكية. الحصول على أو تعيين قيمة نوع الإعداد المسبق بالأبيض والأسود.
+title: "BlwhResource.BwPresetKind"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlwhResource. تحصل أو تعين قيمة نوع الإعداد المسبق للأبيض والأسود"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BwPresetKind property
 
-الحصول على أو تعيين قيمة نوع الإعداد المسبق بالأبيض والأسود.
+يحصل أو يضبط قيمة نوع الإعداد المسبق للونين الأسود والأبيض.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة نوع الإعداد المسبق بالأبيض والأسود.
+قيمة black and white preset kind.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تحرير BlwhResource.
+المثال التالي يوضح كيفية تحرير BlwhResource.
 
 ```csharp
 [C#]
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlwhResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

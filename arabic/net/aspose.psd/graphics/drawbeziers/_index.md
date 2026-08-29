@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawBeziers
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. رسم سلسلة من شرائح بيزيير من مصفوفةPoint الهياكل .
+title: "Graphics.DrawBeziers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم سلسلة من منحنيات بيزيه من مصفوفة من بنى Point."
 type: docs
-weight: 180
+weight: 190
 url: /ar/net/aspose.psd/graphics/drawbeziers/
 ---
+{{< psd/tize >}}
 ## DrawBeziers(Pen, Point[]) {#drawbeziers_1}
 
-رسم سلسلة من شرائح بيزيير من مصفوفة[`Point`](../../point/) الهياكل .
+ترسم سلسلة من منحنيات بيزيه من مصفوفة من بنى [`Point`](../../point/).
 
 ```csharp
 public void DrawBeziers(Pen pen, Point[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وأسلوب المنحنى. |
-| points | Point[] | مصفوفة من[`Point`](../../point/)الهياكل التي تمثل النقاط التي تحدد المنحنى. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للمنحنى. |
+| points | Point[] | مصفوفة من بنى [`Point`](../../point/) التي تمثل النقاط التي تحدد المنحنى. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawBeziers(Pen, PointF[]) {#drawbeziers}
 
-رسم سلسلة من شرائح بيزيير من مصفوفة[`PointF`](../../pointf/) الهياكل .
+ترسم سلسلة من منحنيات بيزيه من مصفوفة من بنى [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawBeziers(Pen pen, PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وأسلوب المنحنى. |
-| points | PointF[] | مصفوفة من[`PointF`](../../pointf/)الهياكل التي تمثل النقاط التي تحدد المنحنى. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للمنحنى. |
+| points | PointF[] | مصفوفة من بنى [`PointF`](../../pointf/) التي تمثل النقاط التي تحدد المنحنى. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

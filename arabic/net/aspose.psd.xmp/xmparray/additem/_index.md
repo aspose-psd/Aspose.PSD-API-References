@@ -1,27 +1,28 @@
 ---
-title: XmpArray.AddItem
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpArray طريقة. إضافة عنصر جديد .
+title: "XmpArray.AddItem"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpArray. تُضيف عنصرًا جديدًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp/xmparray/additem/
 ---
+{{< psd/tize >}}
 ## XmpArray.AddItem method
 
-إضافة عنصر جديد .
+يضيف عنصرًا جديدًا.
 
 ```csharp
 public void AddItem(string item)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| item | String | العنصر المراد إضافته إلى قائمة العناصر. |
+| عنصر | String | العنصر الذي سيُضاف إلى قائمة العناصر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpArray](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmparray/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

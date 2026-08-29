@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingLeft
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskDataFull ملكية. الحصول على أو تعيين موضع القناع النقطي الأيسر المتضمن في طبقة ملف PSD.
+title: "LayerMaskDataFull.EnclosingLeft"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskDataFull. تحصل أو تعين موضع القناع النقطي الأيسر المحيط في طبقة ملف PSD"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingLeft property
 
-الحصول على أو تعيين موضع القناع النقطي الأيسر المتضمن في طبقة ملف PSD.
+يحصل أو يضبط موضع القناع النقطي الأيسر المحيط في طبقة ملف PSD.
 
 ```csharp
 public int EnclosingLeft { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع قناع الطبقة الأيسر .
+موضع قناع الطبقة الأيسر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskDataFull](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

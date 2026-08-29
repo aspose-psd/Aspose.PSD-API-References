@@ -1,23 +1,24 @@
 ---
-title: LinkResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkResource ملكية. الحصول على طول مورد الارتباط العام لـ PSD بالبايت.
+title: "LinkResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkResource. يحصل على طول مورد الارتباط العالمي في PSD بالبايت"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/
 ---
+{{< psd/tize >}}
 ## LinkResource.Length property
 
-الحصول على طول مورد الارتباط العام لـ PSD بالبايت.
+يحصل على طول مورد الرابط العام لملف PSD بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

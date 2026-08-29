@@ -1,27 +1,28 @@
 ---
-title: StreamSource.Stream
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamSource ملكية. يحصل على الدفق .
+title: "StreamSource.Stream"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StreamSource. تحصّل على الدفق"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
-يحصل على الدفق .
+يحصل على التدفق.
 
 ```csharp
 public Stream Stream { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تيار المصدر .
+دفق المصدر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../streamsource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

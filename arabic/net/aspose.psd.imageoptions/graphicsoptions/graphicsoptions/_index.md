@@ -1,23 +1,24 @@
 ---
-title: GraphicsOptions.GraphicsOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsOptions البناء. Default_Constructor
+title: "GraphicsOptions.GraphicsOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GraphicsOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public GraphicsOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تعيين وحدة الدقة .
+title: "JpegExifData.ResolutionUnit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعيين وحدة الدقة"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ResolutionUnit property
 
-الحصول على أو تعيين وحدة الدقة .
+يحصل أو يضبط وحدة الدقة.
 
 ```csharp
 public ExifUnit ResolutionUnit { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وحدة الدقة .
+وحدة الدقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

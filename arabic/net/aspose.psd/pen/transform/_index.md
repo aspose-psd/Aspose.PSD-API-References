@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على نسخة من التحويل الهندسي لهذا الغرض أو تعيينهاPen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيين نسخة من التحويل الهندسي لهذا Pen."
 type: docs
 weight: 170
 url: /ar/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-الحصول على نسخة من التحويل الهندسي لهذا الغرض أو تعيينها[`Pen`](../) .
+تحصل أو تعيين نسخة من التحويل الهندسي لهذا [`Pen`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نسخة من[`Matrix`](../../matrix/) الذي يمثل التحول الهندسي لهذا[`Pen`](../).
+نسخة من [`Matrix`](../../matrix/) التي تمثل التحويل الهندسي لهذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`Transform` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `Transform` يتم تعيينها على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

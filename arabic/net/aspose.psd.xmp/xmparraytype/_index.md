@@ -1,30 +1,31 @@
 ---
-title: Enum XmpArrayType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.XmpArrayType تعداد. يمثل نوع المصفوفة بتنسيقXmpArray .
+title: "التعداد XmpArrayType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.Xmp.XmpArrayType. تمثّل نوع المصفوفة في XmpArray."
 type: docs
-weight: 6230
+weight: 6730
 url: /ar/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-يمثل نوع المصفوفة بتنسيق[`XmpArray`](../xmparray/) .
+تمثّل نوع المصفوفة في [`XmpArray`](../xmparray/).
 
 ```csharp
 public enum XmpArrayType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| UNORDERED | `0` | المصفوفة غير المرتبة . |
-| ORDERED | `1` | المصفوفة المطلوبة . |
-| ALTERNATIVE | `2` | المصفوفة البديلة . |
+| UNORDERED | `0` | المصفوفة غير المرتبة. |
+| ORDERED | `1` | المصفوفة المرتبة. |
+| ALTERNATIVE | `2` | المصفوفة البديلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

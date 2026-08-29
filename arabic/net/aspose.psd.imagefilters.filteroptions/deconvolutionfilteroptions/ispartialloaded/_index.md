@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: Aspose.PSD لمرجع .NET API
-description: DeconvolutionFilterOptions ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل محملًا جزئيًا.
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DeconvolutionFilterOptions. يحصل على قيمة تشير إلى ما إذا كانت هذه الحالة محملة جزئياً"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل محملًا جزئيًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا المثيل محملاً جزئيًا.
 
 ```csharp
 public bool IsPartialLoaded { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تحميل هذا المثيل جزئيًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الحالة محملة جزئياً؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DeconvolutionFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

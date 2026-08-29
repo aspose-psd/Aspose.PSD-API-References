@@ -1,48 +1,49 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer البناء. يقوم بتهيئة مثيل جديد لملفStreamContainer فئة .
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ StreamContainer. يهيئ مثيلاً جديداً من فئة StreamContainer"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamContainer`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| stream | Stream | التدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`StreamContainer`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | دفق البيانات. |
-| disposeStream | Boolean | إذا تم التعيين على`حقيقي` سيتم التخلص من التيار عند التخلص من الحاوية. |
+| disposeStream | Boolean | إذا تم تعيينه إلى `true` فسيتم التخلص من التدفق عندما يتم التخلص من الحاوية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

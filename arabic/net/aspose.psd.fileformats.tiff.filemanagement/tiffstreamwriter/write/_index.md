@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Write
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب البيانات المحددة.
+title: "TiffStreamWriter.Write"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. تكتب البيانات المحددة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[], int, int) {#write_1}
 
 يكتب البيانات المحددة.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 public void Write(byte[] data, int offset, int dataLength)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | البيانات المراد كتابتها. |
+| البيانات | Byte[] | البيانات للكتابة. |
 | offset | Int32 | إزاحة البيانات. |
-| dataLength | Int32 | طول البيانات للكاتب. |
+| dataLength | Int32 | طول البيانات للكتابة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void Write(byte[] data, int offset, int dataLength)
 public void Write(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | البيانات المراد كتابتها. |
+| البيانات | Byte[] | البيانات للكتابة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

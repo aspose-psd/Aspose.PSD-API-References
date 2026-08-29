@@ -1,27 +1,28 @@
 ---
-title: Layer.Name
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد اسم الطبقة.
+title: "Layer.Name"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط اسم الطبقة"
 type: docs
-weight: 260
+weight: 270
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
-الحصول على أو تحديد اسم الطبقة.
+يحصل أو يضبط اسم الطبقة.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم الطبقة .
+اسم الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

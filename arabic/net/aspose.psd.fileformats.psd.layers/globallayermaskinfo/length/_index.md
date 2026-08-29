@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: GlobalLayerMaskInfo ملكية. الحصول على طول قسم قناع الطبقة العام بالبايت.
+title: "GlobalLayerMaskInfo.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GlobalLayerMaskInfo. تحصل على طول قسم قناع الطبقة العامة بالبايت"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Length property
 
-الحصول على طول قسم قناع الطبقة العام بالبايت.
+يسترجع طول قسم قناع الطبقة العامة بالبايت.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalLayerMaskInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

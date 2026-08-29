@@ -1,36 +1,37 @@
 ---
-title: Class LayerHashCalculator
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator فصل. حاسبة التجزئة لطبقات PSD. يمكن استخدامه لإيجاد طبقات متساوية أو مختلفة في ملفات PSD مختلفة
+title: "فئة LayerHashCalculator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator. حاسبة التجزئة لطبقات PSD. يمكن استخدامها للعثور على طبقات متساوية أو مختلفة في ملفات PSD مختلفة."
 type: docs
-weight: 2230
+weight: 2430
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-حاسبة التجزئة لطبقات PSD. يمكن استخدامه لإيجاد طبقات متساوية أو مختلفة في ملفات PSD مختلفة
+حاسبة التجزئة لطبقات PSD. يمكن استخدامها للعثور على طبقات متساوية أو مختلفة في ملفات PSD مختلفة.
 
 ```csharp
 public class LayerHashCalculator
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | يقوم بتهيئة مثيل جديد لملف`LayerHashCalculator` فئة . |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | ينشئ مثيلًا جديدًا من فئة `LayerHashCalculator`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | يحصل على تجزئة المزج . |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | يحصل على تجزئة القنوات . |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | يحصل على تجزئة المحتوى . |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | يحصل على تجزئة الدمج. |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | يحصل على تجزئة القنوات. |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | يحصل على تجزئة المحتوى. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي API للحصول على التجزئة الفريدة لطبقات مماثلة في ملفات مختلفة.
+الكود التالي يوضح واجهة برمجة التطبيقات للحصول على التجزئة الفريدة للطبقات المتشابهة في ملفات مختلفة.
 
 ```csharp
 [C#]
@@ -38,9 +39,9 @@ public class LayerHashCalculator
 /// <summary>
 /// يحصل على اسم الطبقة بواسطة.
 /// </summary>
-/// < typeparam name = "T" > < / typeparam >
-/// < param name = "image" > الصورة. < / param >
-/// < param name = "name" > الاسم. < / param >
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"image\">الصورة.</param>
+/// <param name=\"name\">الاسم.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -57,12 +58,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// آريس لا يساوي.
+/// Ares غير متساوي.
 /// </summary>
-/// < typeparam name = "T" > < / typeparam >
-/// < param name = "متوقع" > المتوقع. < / param >
-/// < param name = "فعلي" > الفعلي. < / param >
-/// < استثناء cref = "System.Exception" > يجب ألا تكون الوسائط متساوية < / استثناء >
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"expected\">المتوقع.</param>
+/// <param name=\"actual\">الفعلية.</param>
+/// <exception cref=\"System.Exception\">يجب ألا تكون الوسائط متساوية</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -72,12 +73,12 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Ares يساوي.
+/// Ares متساوي.
 /// </summary>
-/// < typeparam name = "T" > < / typeparam >
-/// < param name = "متوقع" > المتوقع. < / param >
-/// < param name = "فعلي" > الفعلي. < / param >
-/// < استثناء cref = "System.Exception" > يجب أن تكون الوسائط متساوية < / استثناء >
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"expected\">المتوقع.</param>
+/// <param name=\"actual\">الفعلية.</param>
+/// <exception cref=\"System.Exception\">يجب أن تكون الوسائط متساوية</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
     if (expected != null && !expected.Equals(actual))
@@ -87,9 +88,9 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// ينظم اختبار تجزئة محتوى الطبقة.
+/// Regulars اختبار تجزئة محتوى الطبقة.
 /// </summary>
-/// < param name = "fileName" > اسم الملف. < / param >
+/// <param name=\"fileName\">اسم الملف.</param>
 public static void RegularLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -109,12 +110,12 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // تجزئة هذه الطبقات متساوية
+        // تجزئات هذه الطبقات متساوية
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // تحقق من تجزئة وضع المزج 
+        // تحقق من تجزئة وضع الدمج 
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
@@ -127,9 +128,9 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// يملأ اختبار تجزئة محتوى الطبقة.
+/// Fills اختبار تجزئة محتوى الطبقة.
 /// </summary>
-/// < param name = "fileName" > اسم الملف. < / param >
+/// <param name=\"fileName\">اسم الملف.</param>
 public static void FillLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -153,7 +154,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // توجد طبقات متشابهة دائمًا في الفهرس الواحد
+            // الطبقات المتشابهة دائمًا في الفهرس الواحد
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -162,9 +163,9 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// ذكي اختبار تجزئة محتوى طبقة الكائن.
+/// Smarts اختبار تجزئة محتوى طبقة الكائن.
 /// </summary>
-/// < param name = "fileName" > اسم الملف. < / param >
+/// <param name=\"fileName\">اسم الملف.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // بيانات القناة تساوي الطبقة وإنشاء كائنات ذكية منها.
+        // بيانات القناة متساوية للطبقة والكائنات الذكية التي تم إنشاؤها منها.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // يعد Content Hash مختلفًا ، لأن Smart Object يستخدم بيانات أخرى كمحتوى
+        // تجزئة المحتوى مختلفة، لأن الكائن الذكي يستخدم بيانات أخرى كمحتوى
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // لكن مزج التجزئة مشابه. كلتا الطبقتين - الذكية والعادية لهما وضع المزج العادي والعتامة 255
+        // لكن تجزئة الدمج متشابهة. كلا الطبقتين - الذكية والعادية لديهما وضع الدمج العادي وشفافية 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // بيانات القناة تساوي الطبقة وإنشاء كائنات ذكية منها.
+        // بيانات القناة متساوية للطبقة والكائنات الذكية التي تم إنشاؤها منها.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // يعد Content Hash مختلفًا ، لأن Smart Object يستخدم بيانات أخرى كمحتوى
+        // تجزئة المحتوى مختلفة، لأن الكائن الذكي يستخدم بيانات أخرى كمحتوى
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // لكن مزج التجزئة مشابه. كلتا الطبقتين - الذكية والعادية لهما وضع المزج العادي والعتامة 255
+        // لكن تجزئة الدمج متشابهة. كلا الطبقتين - الذكية والعادية لديهما وضع الدمج العادي وشفافية 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,9 +215,9 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// يضبط اختبار تجزئة محتوى الطبقات.
+/// تعديل اختبار تجزئة محتوى الطبقات.
 /// </summary>
-/// < param name = "fileName" > اسم الملف. < / param >
+/// <param name=\"fileName\">اسم الملف.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -260,7 +261,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 /// <summary>
 /// نصوص اختبار تجزئة محتوى الطبقات.
 /// </summary>
-/// < param name = "fileName" > اسم الملف. < / param >
+/// <param name=\"fileName\">اسم الملف.</param>
 public static void TextLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -302,12 +303,12 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // لا يتم استخدام مصفوفة التحويل في حساب التجزئة. يجب عليك التحقق من ذلك بالإضافة إلى ذلك
+        // مصفوفة التحويل لا تُستخدم في حساب التجزئة. يجب عليك التحقق منها إضافيًا.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
         // في هذه الحالة لدينا دوران في المصفوفة
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // في هذه الحالة لدينا ترجمة فقط (تم تغيير طبقة النص أدناه)
+        // في هذه الحالة لدينا ترجمة فقط (طبقة النص مُزاحة أدناه)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
@@ -315,7 +316,7 @@ public static void TextLayersContentHashTest(string fileName)
 /// <summary>
 /// مجموعات اختبار تجزئة محتوى الطبقة.
 /// </summary>
-/// < param name = "fileName" > اسم الملف. < / param >
+/// <param name=\"fileName\">اسم الملف.</param>
 public static void GroupLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -333,16 +334,16 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // يتم حساب تجزئة طبقة المجموعة من الطبقات الموجودة بداخلها
+        // يتم حساب تجزئة مجموعة الطبقة من الطبقات الموجودة داخلها
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// ينظم محتوى الطبقة من اختبار تجزئة الملفات المختلفة.
+/// عاديون اختبار تجزئة محتوى الطبقة من ملفات مختلفة.
 /// </summary>
-/// < param name = "fileName" > اسم الملف. < / param >
+/// <param name=\"fileName\">اسم الملف.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
 {
     using (var im = (PsdImage) Image.Load(fileName, new PsdLoadOptions() { ReadOnlyMode = true }))
@@ -361,7 +362,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 var hashCalc = new LayerHashCalculator(layer);
                 var hashCalc_copied = new LayerHashCalculator(layer_copied);
 
-                // تحتوي الطبقات على مؤشرات مختلفة
+                // الطبقات لديها مؤشرات مختلفة
                 AreNotEqual(layer, layer_copied);
 
                 // لكن تجزئة الطبقات متساوية
@@ -375,9 +376,9 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

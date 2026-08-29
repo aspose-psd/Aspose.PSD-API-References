@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MaxQ
-second_title: Aspose.PSD لمرجع .NET API
-description: RdOptimizerSettings ملكية. الحصول على أو تحديد أقصى قيمة تكمية.
+title: "RdOptimizerSettings.MaxQ"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RdOptimizerSettings. يحصل على أو يضبط القيمة القصوى للتكميم"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.imageoptions/rdoptimizersettings/maxq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxQ property
 
-الحصول على أو تحديد أقصى قيمة تكمية.
+يحصل أو يعيّن القيمة القصوى للتكميم.
 
 ```csharp
 public int MaxQ { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أقصى قيمة تكمية .
+القيمة القصوى للتكميم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RdOptimizerSettings](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Right
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF ملكية. الحصول على أو تحديد الإحداثي x الذي يمثل مجموعX وWidth من هذاRectangleFهيكل .
+title: "RectangleF.Right"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleF. تحصل أو تعيّن الإحداثي x الذي هو مجموع X و Width لهذا الهيكل RectangleF."
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-الحصول على أو تحديد الإحداثي x الذي يمثل مجموع[`X`](../x/) و[`Width`](../width/) من هذا[`RectangleF`](../)هيكل .
+تحصل أو تعيّن الإحداثي x الذي هو مجموع [`X`](../x/) و [`Width`](../width/) لهذا الهيكل [`RectangleF`](../).
 
 ```csharp
 public float Right { get; set; }
@@ -16,12 +17,12 @@ public float Right { get; set; }
 
 ### قيمة الإرجاع
 
-الإحداثي x هو مجموع[`X`](../x/) و[`Width`](../width/) من هذا[`RectangleF`](../) بناء.
+الإحداثي x الذي هو مجموع [`X`](../x/) و [`Width`](../width/) لهذا الهيكل [`RectangleF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

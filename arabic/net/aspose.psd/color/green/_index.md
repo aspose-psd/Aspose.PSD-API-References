@@ -1,27 +1,28 @@
 ---
-title: Color.Green
-second_title: Aspose.PSD لمرجع .NET API
-description: Color ملكية. الحصول على لون محدد من قبل النظام .
+title: "Color.Green"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Color property. تُرجع لونًا معرفًا من النظام"
 type: docs
 weight: 530
 url: /ar/net/aspose.psd/color/green/
 ---
+{{< psd/tize >}}
 ## Color.Green property
 
-الحصول على لون محدد من قبل النظام .
+يحصل على لون معرف من النظام.
 
 ```csharp
 public static Color Green { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`Color`](../) يمثل لونًا محددًا من قبل النظام.
+A [`Color`](../) تمثّل لونًا معرفًا من النظام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../)
-* مساحة الاسم [Aspose.PSD](../../color/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

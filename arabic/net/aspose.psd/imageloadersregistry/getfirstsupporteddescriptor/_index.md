@@ -1,39 +1,40 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry طريقة. الحصول على القبضة التي تم العثور عليها واصفًا مدعومًا مناسبًا لما هو محددstream واختيارياloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageLoadersRegistry. يحصل على أول وصف مدعوم تم العثور عليه مناسب للمجرى المحدد واختياريًا loadOptions"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-الحصول على القبضة التي تم العثور عليها واصفًا مدعومًا مناسبًا لما هو محدد*stream* واختياريا*loadOptions* .
+يحصل على أول وصف مدعوم يتم العثور عليه المناسب لـ *stream* المحدد وبشكل اختياري *loadOptions*.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
     LoadOptions loadOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق. |
+| stream | Stream | التدفق. |
 | loadOptions | LoadOptions | خيارات التحميل. |
 
 ### قيمة الإرجاع
 
-واصف المحمل الذي يدعم المحدد*stream* و*loadOptions* أو لاغٍ إذا لم يتم العثور على هذا الواصف.
+وصف التحميل الذي يدعم *stream* و*loadOptions* المحددين أو null إذا لم يتم العثور على مثل هذا الوصف.
 
-### ملاحظات
+## ملاحظات
 
-سيكون واصف المحمل الأول هو آخر مرة تم تسجيلها.
+وصف التحميل الأول سيكون في الواقع الأخير المسجل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

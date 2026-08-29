@@ -1,93 +1,94 @@
 ---
-title: JpegLoadException.JpegLoadException
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegLoadException البناء. يقوم بتهيئة مثيل جديد لملفJpegLoadException فئة .
+title: "JpegLoadException.JpegLoadException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ JpegLoadException. يهيئ مثيلاً جديداً من فئة JpegLoadException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegLoadException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegLoadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegLoadException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegLoadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, ErrorReason) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegLoadException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, ErrorReason reason)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| reason | ErrorReason | سبب الخطأ. |
+| السبب | ErrorReason | سبب الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception, ErrorReason) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`JpegLoadException`](../) فئة .
+تهيئ مثيلاً جديداً من الفئة [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, Exception innerException, ErrorReason reason)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
-| reason | ErrorReason | سبب الخطأ. |
+| innerException | استثناء | الاستثناء الداخلي. |
+| السبب | ErrorReason | سبب الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

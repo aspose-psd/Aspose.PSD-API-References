@@ -1,23 +1,24 @@
 ---
-title: CmykColor.Empty
-second_title: Aspose.PSD لمرجع .NET API
-description: CmykColor ملكية. يحصل على فارغة .
+title: "CmykColor.Empty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CmykColor. يحصل على القيمة الفارغة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
-يحصل على فارغة .
+يحصل على الفارغ.
 
 ```csharp
 public static CmykColor Empty { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [CmykColor](../)
-* مساحة الاسم [Aspose.PSD](../../cmykcolor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على الزاوية.
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على الزاوية"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
 يحصل على الزاوية.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 public double Angle { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الزاوية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

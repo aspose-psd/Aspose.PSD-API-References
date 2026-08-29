@@ -1,32 +1,33 @@
 ---
-title: IImageCreatorDescriptor.CanCreate
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageCreatorDescriptor طريقة. لتحديد ما إذا كان بإمكان منشئ الصور إنشاء صورة جديدة باستخدام امتدادimageOptions .
+title: "IImageCreatorDescriptor.CanCreate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IImageCreatorDescriptor. تحدد ما إذا كان منشئ الصورة يمكنه إنشاء صورة جديدة باستخدام imageOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/iimagecreatordescriptor/cancreate/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CanCreate method
 
-لتحديد ما إذا كان بإمكان منشئ الصور إنشاء صورة جديدة باستخدام امتداد*imageOptions* .
+يحدد ما إذا كان منشئ الصورة يمكنه إنشاء صورة جديدة باستخدام *imageOptions*.
 
 ```csharp
 public bool CanCreate(ImageOptionsBase imageOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | خيارات الصورة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان منشئ الصورة الذي تم إنشاؤه بواسطة هذا الواصف يمكنه إنشاء بيانات الصورة باستخدام المحدد*imageOptions* ؛ خلاف ذلك،`خطأ شنيع` .
+`True` إذا كان منشئ الصورة الذي أنشأه هذا الوصف يمكنه إنشاء بيانات الصورة باستخدام *imageOptions* المحددة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreatorDescriptor](../)
-* مساحة الاسم [Aspose.PSD](../../iimagecreatordescriptor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

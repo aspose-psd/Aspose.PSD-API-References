@@ -1,28 +1,29 @@
 ---
-title: FilterEffectMaskData.SaveData
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData طريقة. يحفظ المورد في حاوية التدفق المحددة.
+title: "FilterEffectMaskData.SaveData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FilterEffectMaskData. يحفظ المورد إلى حاوية الدفق المحددة"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SaveData method
 
-يحفظ المورد في حاوية التدفق المحددة.
+يحفظ المورد في حاوية الدفق المحددة.
 
 ```csharp
 public void SaveData(StreamContainer streamContainer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

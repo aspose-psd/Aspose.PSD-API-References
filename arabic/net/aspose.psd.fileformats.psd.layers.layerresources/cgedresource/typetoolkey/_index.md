@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: CgEdResource مجال. مفتاح معلومات أداة النوع.
+title: "CgEdResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل CgEdResource. مفتاح معلومات أداة النوع"
 type: docs
-weight: 130
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CgEdResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CgEdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

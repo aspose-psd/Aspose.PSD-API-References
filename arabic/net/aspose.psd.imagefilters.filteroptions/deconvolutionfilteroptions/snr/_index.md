@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Snr
-second_title: Aspose.PSD لمرجع .NET API
-description: DeconvolutionFilterOptions ملكية. الحصول على أو تعيين SNR نسبة الإشارة إلى الضوضاء النطاق الموصى به 0.002  0.009  القيمة الافتراضية  0.007
+title: "DeconvolutionFilterOptions.Snr"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DeconvolutionFilterOptions. يحصل أو يضبط نسبة SNR (signal-to-noise) الموصى بها 0.002  0.009 القيمة الافتراضية  0.007"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Snr property
 
-الحصول على أو تعيين SNR (نسبة الإشارة إلى الضوضاء) النطاق الموصى به 0.002 - 0.009 ، القيمة الافتراضية = 0.007
+يحصل أو يعيّن نسبة الإشارة إلى الضوضاء (SNR) النطاق الموصى به 0.002 - 0.009، القيمة الافتراضية = 0.007
 
 ```csharp
 public double Snr { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-SNR.
+نسبة SNR.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DeconvolutionFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

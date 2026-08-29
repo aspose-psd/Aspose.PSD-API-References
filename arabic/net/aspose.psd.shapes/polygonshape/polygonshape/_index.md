@@ -1,66 +1,67 @@
 ---
-title: PolygonShape.PolygonShape
-second_title: Aspose.PSD لمرجع .NET API
-description: PolygonShape البناء. يقوم بتهيئة مثيل جديد لملفPolygonShape فئة .
+title: "PolygonShape.PolygonShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PolygonShape. يهيئ نسخة جديدة من فئة PolygonShape."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
+{{< psd/tize >}}
 ## PolygonShape() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PolygonShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PolygonShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
+| نقاط | PointF[] | مصفوفة النقاط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`PolygonShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| points | PointF[] | مجموعة النقاط. |
-| isClosed | Boolean | إذا تم التعيين على`حقيقي` المضلع مغلق. |
+| نقاط | PointF[] | مصفوفة النقاط. |
+| isClosed | Boolean | إذا تم تعيينه إلى `true` يكون المضلع مغلقًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ListStructure.Types
-second_title: Aspose.PSD لمرجع .NET API
-description: ListStructure ملكية. الحصول على نسخة من مصفوفة الهياكل أو تعيينها.
+title: "ListStructure.Types"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ListStructure. يحصل أو يضبط نسخة من مصفوفة من البنى"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/
 ---
+{{< psd/tize >}}
 ## ListStructure.Types property
 
-الحصول على نسخة من مصفوفة الهياكل أو تعيينها.
+يحصل أو يعيّن نسخة من مصفوفة البُنى.
 
 ```csharp
 public OSTypeStructure[] Types { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الأنواع .
+الأنواع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ListStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

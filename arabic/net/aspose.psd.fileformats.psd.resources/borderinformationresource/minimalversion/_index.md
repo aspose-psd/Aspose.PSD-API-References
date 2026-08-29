@@ -1,26 +1,27 @@
 ---
-title: BorderInformationResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: BorderInformationResource ملكية. يحصل على الحد الأدنى من إصدار PSD المطلوب.
+title: "BorderInformationResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BorderInformationResource. يحصل على النسخة المطلوبة الأدنى من PSD"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/borderinformationresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار PSD المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى من إصدار PSD .
+إصدار PSD الأدنى.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم مورد BorderInformationResource.
+المثال التالي يوضح دعم مورد BorderInformationResource.
 
 ```csharp
 [C#]
@@ -49,10 +50,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BorderInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

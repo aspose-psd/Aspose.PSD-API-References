@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraLabel
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. لتعيين تسمية الكاميرا .
+title: "XmpDynamicMediaPackage.SetCameraLabel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. يضبط تسمية الكاميرا"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameralabel/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraLabel method
 
-لتعيين تسمية الكاميرا .
+يضبط تسمية الكاميرا.
 
 ```csharp
 public void SetCameraLabel(string cameraLabel)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | cameraLabel | String | تسمية الكاميرا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

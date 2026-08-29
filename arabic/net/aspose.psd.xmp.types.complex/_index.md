@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات تمثل قيم الأنواع المعقدة لخصائص XMP.
+title: "Aspose.PSD.Xmp.Types.Complex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الأسماء على الفئات التي تمثل قيم النوع المعقد لخصائص XMP"
 type: docs
-weight: 620
+weight: 660
 url: /ar/net/aspose.psd.xmp.types.complex/
 ---
-تحتوي مساحة الاسم على فئات تمثل قيم الأنواع المعقدة لخصائص XMP.
+{{< psd/tize >}}
+النطاق يحتوي على فئات تمثل قيم الأنواع المعقدة لخصائص XMP.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [ComplexTypeBase](./complextypebase/) | يمثل التجريد الأساسي لنوع القيمة المعقدة لـ XMP. |
+| [ComplexTypeBase](./complextypebase/) | يمثل التجريد الأساسي لنوع القيمة المعقدة في XMP. |
 
 

@@ -1,22 +1,23 @@
 ---
-title: SmartObjectLayer.SmartFilters
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectLayer ملكية. الحصول على المرشحات الذكية.
+title: "SmartObjectLayer.SmartFilters"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartObjectLayer. تحصل على الفلاتر الذكية"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartFilters property
 
-الحصول على المرشحات الذكية.
+يحصل على الفلاتر الذكية.
 
 ```csharp
 public SmartFilters SmartFilters { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال دعم واجهة المرشحات الذكية.
+يوضح هذا المثال دعم واجهة الفلاتر الذكية.
 
 ```csharp
 [C#]
@@ -36,16 +37,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // تحرير المرشحات الذكية
+    // تحرير الفلاتر الذكية
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // تحقق من قيم التصفية
+    // تحقق من قيم الفلتر
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // تحديث قيم عامل التصفية
+    // تحديث قيم الفلتر
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -53,7 +54,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // إضافة عناصر تصفية جديدة
+    // إضافة عناصر فلتر جديدة
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
@@ -62,7 +63,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // تطبيق التغييرات
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // تطبيق المرشحات
+    // تطبيق الفلاتر
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -75,7 +76,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // تحقق من قيم التصفية
+    // تحقق من قيم الفلتر
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

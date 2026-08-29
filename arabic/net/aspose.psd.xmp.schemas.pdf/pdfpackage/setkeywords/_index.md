@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfPackage طريقة. يحدد الكلمات الأساسية .
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PdfPackage. تحدد الكلمات المفتاحية"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
-يحدد الكلمات الأساسية .
+يضبط الكلمات المفتاحية.
 
 ```csharp
 public void SetKeywords(string keywords)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| keywords | String | الكلمات الرئيسية. |
+| الكلمات المفتاحية | String | الكلمات المفتاحية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.ContextualAlternates
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. البدائل السياقية المستخدمة لربط الأحرف معًا.
+title: "ITextStyle.ContextualAlternates"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. البدائل السياقية المستخدمة لربط الحروف معًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
+{{< psd/tize >}}
 ## ITextStyle.ContextualAlternates property
 
 البدائل السياقية المستخدمة لربط الأحرف معًا.
@@ -14,9 +15,9 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalterna
 public bool ContextualAlternates { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TemplateBox
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على مربع النموذج أو تعيينه.
+title: "AiHeader.TemplateBox"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. يحصل أو يضبط صندوق القالب"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
-الحصول على مربع النموذج أو تعيينه.
+يحصل أو يضبط صندوق القالب.
 
 ```csharp
 public RectangleF TemplateBox { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مربع النموذج .
+صندوق القالب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

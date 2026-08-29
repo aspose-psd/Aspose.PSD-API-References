@@ -1,27 +1,28 @@
 ---
-title: XmpText.XmpText
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpText البناء. يقوم بتهيئة مثيل جديد لملفXmpText فئة .
+title: "XmpText.XmpText"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpText. يهيئ نسخة جديدة من فئة XmpText"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-يقوم بتهيئة مثيل جديد لملف[`XmpText`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpText`](../).
 
 ```csharp
 public XmpText(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpText](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

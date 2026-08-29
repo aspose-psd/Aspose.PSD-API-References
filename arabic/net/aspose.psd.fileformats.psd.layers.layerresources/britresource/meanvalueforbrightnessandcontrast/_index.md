@@ -1,27 +1,28 @@
 ---
-title: BritResource.MeanValueForBrightnessAndContrast
-second_title: Aspose.PSD لمرجع .NET API
-description: BritResource ملكية. الحصول على القيمة المتوسطة للسطوع والتباين أو تعيينها.
+title: "BritResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BritResource. تحصل أو تعين القيمة المتوسطة للسطوع والتباين"
 type: docs
-weight: 70
+weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## BritResource.MeanValueForBrightnessAndContrast property
 
-الحصول على القيمة المتوسطة للسطوع والتباين أو تعيينها.
+يحصل أو يضبط القيمة المتوسطة للسطوع والتباين.
 
 ```csharp
 public short MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-متوسط قيمة السطوع والتباين .
+القيمة المتوسطة للسطوع والتباين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

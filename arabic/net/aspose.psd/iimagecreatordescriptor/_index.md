@@ -1,30 +1,31 @@
 ---
-title: Interface IImageCreatorDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IImageCreatorDescriptor واجهه المستخدم. واصف منشئ الصورة الذي يحدد خصائص المنشئ. يتم استخدام واصف المنشئ للتغلب على ضرورة احتواء كل مثيل منشئ الصورة في الذاكرة ومشكلات تعدد مؤشرات الترابط.
+title: "الواجهة IImageCreatorDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IImageCreatorDescriptor. موصّف منشئ الصورة الذي يحدد خصائص المنشئ. يُستخدم موصّف المنشئ لتجاوز الحاجة إلى احتواء كل مثال من منشئ الصورة في الذاكرة ومشكلات تعدد الخيوط."
 type: docs
-weight: 4410
+weight: 4880
 url: /ar/net/aspose.psd/iimagecreatordescriptor/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor interface
 
-واصف منشئ الصورة الذي يحدد خصائص المنشئ. يتم استخدام واصف المنشئ للتغلب على ضرورة احتواء كل مثيل منشئ الصورة في الذاكرة ومشكلات تعدد مؤشرات الترابط.
+وصف image creator descriptor الذي يحدد خصائص المنشئ. يُستخدم creator descriptor لتجاوز الحاجة إلى احتواء كل مثال من منشئ الصورة في الذاكرة ومشكلات تعدد الخيوط.
 
 ```csharp
 public interface IImageCreatorDescriptor : IImageDescriptor
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | لتحديد ما إذا كان بإمكان منشئ الصور إنشاء صورة جديدة باستخدام امتداد*imageOptions* . |
-| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | لإنشاء مثيل جديد لمنشئ المحتوى . |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | يحدد ما إذا كان منشئ الصورة يمكنه إنشاء صورة جديدة باستخدام *imageOptions*. |
+| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | ينشئ مثالًا جديدًا للمنشئ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

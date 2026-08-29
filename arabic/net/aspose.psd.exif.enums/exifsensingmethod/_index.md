@@ -1,34 +1,35 @@
 ---
-title: Enum ExifSensingMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifSensingMethod تعداد. تعداد طريقة الاستشعار exif .
+title: "Enum ExifSensingMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifSensingMethod تعداد. إكسيف طريقة الاستشعار تعداد"
 type: docs
-weight: 940
+weight: 950
 url: /ar/net/aspose.psd.exif.enums/exifsensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifSensingMethod enumeration
 
-تعداد طريقة الاستشعار exif .
+exif تعداد طريقة الاستشعار.
 
 ```csharp
 public enum ExifSensingMethod
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Notdefined | `1` | غير معرّف . |
-| OneChipColorArea | `2` | منطقة لون رقاقة واحدة . |
-| TwoChipColorArea | `3` | منطقتان لألوان الرقاقة . |
-| ThreeChipColorArea | `4` | ثلاث مناطق ألوان للرقائق . |
-| Colorsequentialarea | `5` | منطقة تسلسل اللون . |
-| Trilinearsensor | `7` | مستشعر ثلاثي الخطوط. |
+| Notdefined | `1` | غير معرف. |
+| OneChipColorArea | `2` | منطقة لون شريحة واحدة. |
+| TwoChipColorArea | `3` | منطقة لون شريحتين. |
+| ThreeChipColorArea | `4` | منطقة لون ثلاث شرائح. |
+| Colorsequentialarea | `5` | منطقة اللون المتسلسل. |
+| Trilinearsensor | `7` | مستشعر ثلاثي الخطية. |
 | Colorsequentiallinear | `8` | مستشعر خطي متسلسل اللون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

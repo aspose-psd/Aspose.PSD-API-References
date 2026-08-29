@@ -1,27 +1,28 @@
 ---
-title: LinkDataSource.HasFileOpenDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkDataSource ملكية. الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان مصدر بيانات الارتباط هذا يحتوي على واصف فتح الملف CompId و OriginalCompId.
+title: "LinkDataSource.HasFileOpenDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkDataSource. يحصل أو يضبط قيمة تشير إلى ما إذا كان مصدر البيانات الرابط هذا يحتوي على موصِّف فتح الملف CompId و OriginalCompId"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.HasFileOpenDescriptor property
 
-الحصول على قيمة أو تعيينها للإشارة إلى ما إذا كان مصدر بيانات الارتباط هذا يحتوي على واصف فتح الملف: CompId و OriginalCompId.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان مصدر بيانات الارتباط هذا يحتوي على واصف فتح الملف: CompId و OriginalCompId.
 
 ```csharp
 public bool HasFileOpenDescriptor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال يحتوي على ملف واصف مفتوح ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن يحتوي على موصِّف فتح الملف؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

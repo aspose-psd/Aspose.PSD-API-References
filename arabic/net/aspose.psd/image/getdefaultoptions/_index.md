@@ -1,11 +1,12 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Image طريقة. يحصل على الخيارات الافتراضية.
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Image. تحصل على الخيارات الافتراضية"
 type: docs
-weight: 170
+weight: 180
 url: /ar/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
 يحصل على الخيارات الافتراضية.
@@ -14,19 +15,19 @@ url: /ar/net/aspose.psd/image/getdefaultoptions/
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| args | Object[] | الحجج. |
+| args | Object[] | الوسائط. |
 
 ### قيمة الإرجاع
 
 الخيارات الافتراضية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* مساحة الاسم [Aspose.PSD](../../image/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

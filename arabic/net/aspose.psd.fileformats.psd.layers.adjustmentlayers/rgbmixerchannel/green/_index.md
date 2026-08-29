@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Green
-second_title: Aspose.PSD لمرجع .NET API
-description: RgbMixerChannel ملكية. الحصول على اللون الأخضر أو تعيينه .
+title: "RgbMixerChannel.Green"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RgbMixerChannel. تحصل أو تعين اللون الأخضر"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Green property
 
-الحصول على اللون الأخضر أو تعيينه .
+يحصل أو يضبط اللون الأخضر.
 
 ```csharp
 public short Green { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الأخضر .
+الأخضر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RgbMixerChannel](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

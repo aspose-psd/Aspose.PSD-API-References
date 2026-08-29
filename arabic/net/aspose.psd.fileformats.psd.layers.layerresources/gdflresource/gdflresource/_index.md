@@ -1,23 +1,24 @@
 ---
-title: GdFlResource.GdFlResource
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource البناء. Default_Constructor
+title: "GdFlResource.GdFlResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GdFlResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public GdFlResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

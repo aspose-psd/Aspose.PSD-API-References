@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MinL
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantLab مجال. الحد الأدنى لقيمة المكون L
+title: "ColorantLab.MinL"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ColorantLab. الحد الأدنى لقيمة المكوّن L"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minl/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinL field
 
-الحد الأدنى لقيمة المكون L
+القيمة الدنيا للمكوّن L
 
 ```csharp
 public const float MinL;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantLab](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

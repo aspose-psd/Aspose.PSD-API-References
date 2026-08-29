@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.ValueD
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffSRational ملكية. يحصل على القيمة المزدوجة .
+title: "TiffSRational.ValueD"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffSRational. يحصل على القيمة المزدوجة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.tiff/tiffsrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffSRational.ValueD property
 
-يحصل على القيمة المزدوجة .
+يحصل على القيمة المزدوجة.
 
 ```csharp
 public double ValueD { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة المزدوجة .
+القيمة المزدوجة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TiffOptionsUtils.TiffOptionsUtils
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptionsUtils البناء. Default_Constructor
+title: "TiffOptionsUtils.TiffOptionsUtils"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TiffOptionsUtils. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imageoptions/tiffoptionsutils/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public TiffOptionsUtils()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptionsUtils](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

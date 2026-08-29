@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: PtFlResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "PtFlResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PtFlResource. الحصول على مفتاح مورد الطبقة"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PtFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: Point.Offset
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. يترجم هذاPoint حسب المحددPoint .
+title: "Point.Offset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تُترجم هذه Point بالنقطة المحددة Point."
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-يترجم هذا[`Point`](../) حسب المحدد[`Point`](../) .
+يُترجم هذه [`Point`](../) بالنقطة المحددة [`Point`](../).
 
 ```csharp
 public void Offset(Point point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | Point | ال[`Point`](../) تستخدم لتعويض هذا[`Point`](../). |
+| point | Point | الـ [`Point`](../) المستخدمة لإزاحة هذه [`Point`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-يترجم هذا[`Point`](../)بالمبلغ المحدد.
+يُترجم هذه [`Point`](../) بالمقدار المحدد.
 
 ```csharp
 public void Offset(int dx, int dy)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Int32 | مقدار تعويض إحداثيات x. |
-| dy | Int32 | المقدار المراد إزاحة إحداثي ص. |
+| dx | Int32 | المقدار لإزاحة إحداثي x. |
+| dy | Int32 | المقدار لإزاحة إحداثي y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

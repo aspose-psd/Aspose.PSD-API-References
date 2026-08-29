@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsSynchronized
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary ملكية. يحصل على قيمة تشير إلى ما إذا كان الوصول إلى ICollection متزامن مؤشر ترابط آمن .
+title: "NonGenericDictionary.IsSynchronized"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية NonGenericDictionary. تحصل على قيمة تشير إلى ما إذا كان الوصول إلى ICollection متزامنًا وآمنًا للخطوط المتعددة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/nongenericdictionary/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsSynchronized property
 
-يحصل على قيمة تشير إلى ما إذا كان الوصول إلى ICollection متزامن (مؤشر ترابط آمن) .
+يحصل على قيمة تشير إلى ما إذا كان الوصول إلى ICollection متزامنًا (آمن للخطوط).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,12 +17,12 @@ public bool IsSynchronized { get; }
 
 ### قيمة الإرجاع
 
-صحيح إذا كان الوصول إلىICollectionمتزامن (موضوع آمن) ؛ خلاف ذلك ، خطأ.
+صحيح إذا كان الوصول إلى ICollection متزامنًا (آمنًا للخطوط المتعددة)؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

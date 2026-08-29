@@ -1,27 +1,28 @@
 ---
-title: BezierShape.HasSegments
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierShape ملكية. الحصول على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع.
+title: "BezierShape.HasSegments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierShape. يحصل على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.shapes/beziershape/hassegments/
 ---
+{{< psd/tize >}}
 ## BezierShape.HasSegments property
 
-الحصول على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع.
+يحصل على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان الشكل يحتوي على شرائح ؛ خلاف ذلك،`خطأ شنيع`.
+`True` إذا كان الشكل يحتوي على مقاطع؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BezierShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../beziershape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

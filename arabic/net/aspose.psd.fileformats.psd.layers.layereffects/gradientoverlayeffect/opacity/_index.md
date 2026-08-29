@@ -1,27 +1,28 @@
 ---
-title: GradientOverlayEffect.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientOverlayEffect ملكية. الحصول على التعتيم أو تعيينه .
+title: "GradientOverlayEffect.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientOverlayEffect. يحصل على أو يضبط الشفافية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Opacity property
 
-الحصول على التعتيم أو تعيينه .
+يحصل أو يعيّن الشفافية.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التعتيم .
+الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientOverlayEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

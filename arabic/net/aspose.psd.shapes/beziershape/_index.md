@@ -1,53 +1,54 @@
 ---
-title: Class BezierShape
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Shapes.BezierShape فصل. يمثل شريحة بيزير .
+title: "الفئة BezierShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Shapes.BezierShape. تمثل منحنى بيزيير"
 type: docs
-weight: 5470
+weight: 5970
 url: /ar/net/aspose.psd.shapes/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape class
 
-يمثل شريحة بيزير .
+يمثل منحنى بيزيير.
 
 ```csharp
 public sealed class BezierShape : PolygonShape
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BezierShape](beziershape/#constructor)() | يقوم بتهيئة مثيل جديد لملف`BezierShape` فئة . |
-| [BezierShape](beziershape/#constructor_1)(PointF[]) | يقوم بتهيئة مثيل جديد لملف`BezierShape` فئة . |
-| [BezierShape](beziershape/#constructor_2)(PointF[], bool) | يقوم بتهيئة مثيل جديد لملف`BezierShape` فئة . |
+| [BezierShape](beziershape/#constructor)() | يقوم بتهيئة نسخة جديدة من الفئة `BezierShape`. |
+| [BezierShape](beziershape/#constructor_1)(PointF[]) | يقوم بتهيئة نسخة جديدة من الفئة `BezierShape`. |
+| [BezierShape](beziershape/#constructor_2)(PointF[], bool) | يقوم بتهيئة نسخة جديدة من الفئة `BezierShape`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/beziershape/bounds/) { get; } | يحصل على حدود الكائن . |
+| override [Bounds](../../aspose.psd.shapes/beziershape/bounds/) { get; } | يحصل على حدود الكائن. |
 | override [Center](../../aspose.psd.shapes/beziershape/center/) { get; } | يحصل على مركز الشكل. |
-| override [EndPoint](../../aspose.psd.shapes/beziershape/endpoint/) { get; } | الحصول على نقطة شكل النهاية . |
-| override [HasSegments](../../aspose.psd.shapes/beziershape/hassegments/) { get; } | الحصول على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع. |
-| [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل مغلقًا. |
-| [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | الحصول على نقاط المنحنى أو تعيينها . |
-| override [Segments](../../aspose.psd.shapes/beziershape/segments/) { get; } | الحصول على شرائح الشكل . |
-| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | يحصل على نقطة شكل البداية . |
+| override [EndPoint](../../aspose.psd.shapes/beziershape/endpoint/) { get; } | يحصل على نقطة النهاية للشكل. |
+| override [HasSegments](../../aspose.psd.shapes/beziershape/hassegments/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الشكل يحتوي على مقاطع. |
+| [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان الشكل مغلقاً. |
+| [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | يحصل أو يعيّن نقاط المنحنى. |
+| override [Segments](../../aspose.psd.shapes/beziershape/segments/) { get; } | يحصل على مقاطع الشكل. |
+| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | يحصل على نقطة بداية الشكل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/beziershape/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن . |
-| override [GetBounds](../../aspose.psd.shapes/beziershape/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن . |
-| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | عكس ترتيب النقاط لهذا الشكل. |
+| override [GetBounds](../../aspose.psd.shapes/beziershape/getbounds/#getbounds)(Matrix) | يحصل على حدود الكائن. |
+| override [GetBounds](../../aspose.psd.shapes/beziershape/getbounds/#getbounds_1)(Matrix, Pen) | يحصل على حدود الكائن. |
+| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | يعكس ترتيب النقاط لهذا الشكل. |
 | override [Transform](../../aspose.psd.shapes/polygonshape/transform/)(Matrix) | يطبق التحويل المحدد على الشكل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonShape](../polygonshape/)
-* مساحة الاسم [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

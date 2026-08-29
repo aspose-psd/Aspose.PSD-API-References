@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. الحصول على تقنين الأحرف التلقائي أو تعيينه .
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. تحصل أو تعين التباعد التلقائي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
-الحصول على تقنين الأحرف التلقائي أو تعيينه .
+يحصل أو يعيّن التباعد التلقائي.
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تقنين الأحرف التلقائي بين حرفين .
+التباعد التلقائي بين حرفين.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

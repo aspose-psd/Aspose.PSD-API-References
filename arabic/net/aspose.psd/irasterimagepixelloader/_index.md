@@ -1,29 +1,30 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IRasterImagePixelLoader واجهه المستخدم. محمل بكسل الصورة النقطية.
+title: "الواجهة IRasterImagePixelLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IRasterImagePixelLoader. محمل بكسلات الصورة النقطية"
 type: docs
-weight: 4570
+weight: 5040
 url: /ar/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
-محمل بكسل الصورة النقطية.
+محمل بكسل raster image.
 
 ```csharp
 public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | تحميل وحدات البكسل جزئيًا (بالكتل) . |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | يحمّل البكسلات جزئيًا (حسب الكتل). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: IImageLoader.Load
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageLoader طريقة. يفتح صورة جديدة بامتدادloadOptions .
+title: "IImageLoader.Load"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IImageLoader. تفتح صورة جديدة باستخدام *loadOptions*"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/iimageloader/load/
 ---
+{{< psd/tize >}}
 ## IImageLoader.Load method
 
-يفتح صورة جديدة بامتداد*loadOptions* .
+يفتح صورة جديدة باستخدام *loadOptions*.
 
 ```csharp
 public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 | loadOptions | LoadOptions | خيارات التحميل. |
 
 ### قيمة الإرجاع
 
-مثيل صورة تم فتحه حديثًا.
+مثال صورة تم فتحه حديثًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* مساحة الاسم [Aspose.PSD](../../iimageloader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

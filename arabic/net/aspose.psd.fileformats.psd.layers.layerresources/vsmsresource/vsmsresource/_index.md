@@ -1,48 +1,49 @@
 ---
-title: VsmsResource.VsmsResource
-second_title: Aspose.PSD لمرجع .NET API
-description: VsmsResource البناء. يقوم بتهيئة مثيل جديد لملفVsmsResource فئة .
+title: "VsmsResource.VsmsResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ VsmsResource. يهيئ مثيلًا جديدًا من فئة VsmsResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/vsmsresource/
 ---
+{{< psd/tize >}}
 ## VsmsResource(byte[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`VsmsResource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`VsmsResource`](../).
 
 ```csharp
 public VsmsResource(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات الموارد. |
+| البيانات | Byte[] | بيانات المورد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | قيمة مورد Vsms غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VsmsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## VsmsResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`VsmsResource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`VsmsResource`](../).
 
 ```csharp
 public VsmsResource()
 ```
 
-### أمثلة
+## أمثلة
 
-يوفر مثال الكود التالي فئات للتعامل مع كائنات مسار المتجه ويوضح كيفية استخدام هذه الفئات.
+مثال الشيفرة التالي يوفر الفئات للتعامل مع كائنات مسار المتجه ويظهر كيفية استخدام تلك الفئات.
 
 ```csharp
 [C#]
@@ -70,15 +71,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// الفئة التي توفر العمل بين < راجع cref = "Layer" / > و < راجع cref = "VectorPath" / > ;.
+/// الفئة التي توفر العمل بين <see cref="Layer"/> و <see cref="VectorPath"/>.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// ينشئ < راجع cref = "VectorPath" / > المثيل على أساس الموارد من طبقة الإدخال.
+    /// ينشئ مثيل <see cref="VectorPath"/> بناءً على الموارد من الطبقة المدخلة.
     /// </summary>
-    /// < param name = "psdLayer" > طبقة psd. < / param >
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name="psdLayer">طبقة psd.</param>
+    /// <returns>مثيل <see cref="VectorPath"/> بناءً على الموارد من الطبقة المدخلة.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -97,11 +98,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يحدّث موارد طبقة الإدخال من < راجع cref = "VectorPath" / > المثال ، أو استبداله بمورد وتحديثات مسار جديد.
+    /// يحدّث موارد الطبقة المدخلة من مثيل <see cref="VectorPath"/>، أو يستبدل بموارد مسار جديدة ويحدّث.
     /// </summary>
-    /// < param name = "psdLayer" > طبقة psd. < / param >
-    /// < param name = "vectorPath" > مسار المتجه. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
+    /// <param name="psdLayer">طبقة psd.</param>
+    /// <param name="vectorPath">مسار المتجه.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -117,9 +118,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يزيل بيانات مسار المتجه من طبقة الإدخال.
+    /// يزيل بيانات مسار المتجه من الطبقة المدخلة.
     /// </summary>
-    /// < param name = "psdLayer" > طبقة psd. < / param >
+    /// <param name="psdLayer">طبقة psd.</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -142,13 +143,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يقوم بتحديث بيانات الموارد من < راجع cref = "VectorPath" / > مثال.
+    /// يحدّث بيانات الموارد من مثيل <see cref="VectorPath"/>.
     /// </summary>
-    /// < param name = "pathResource" > مورد المسار. < / param >
-    /// < param name = "vogkResource" > مصدر بيانات إنشاء المتجه. < / param >
-    /// < param name = "socoResource" > مورد الألوان الصلبة. < / param >
-    /// < param name = "vectorPath" > مسار المتجه. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
+    /// <param name="pathResource">المورد المسار.</param>
+    /// <param name="vogkResource">مورد بيانات أصل المتجه.</param>
+    /// <param name="socoResource">مورد اللون الصلب.</param>
+    /// <param name="vectorPath">مسار المتجه.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -175,12 +176,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يستبدل الموارد في الطبقة بمصادر محدثة أو جديدة.
+    /// يستبدل الموارد في الطبقة بالموارد المحدثة أو الجديدة.
     /// </summary>
-    /// < param name = "psdLayer" > طبقة psd. < / param >
-    /// < param name = "pathResource" > مورد المسار. < / param >
-    /// < param name = "vogkResource" > مصدر بيانات إنشاء المتجه. < / param >
-    /// < param name = "socoResource" > مورد الألوان الصلبة. < / param >
+    /// <param name="psdLayer">طبقة psd.</param>
+    /// <param name="pathResource">المورد المسار.</param>
+    /// <param name="vogkResource">مورد بيانات أصل المتجه.</param>
+    /// <param name="socoResource">مورد اللون الصلب.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -227,11 +228,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يبحث عن < راجع cref = "VectorPathDataResource" / > الموارد في موارد طبقة الإدخال.
+    /// يجد المورد <see cref="VectorPathDataResource"/> في موارد الطبقة المدخلة.
     /// </summary>
-    /// < param name = "psdLayer" > طبقة psd. < / param >
-    /// < param name = "createIfNotExist" > إذا لم يكن المورد موجودًا ، فعندئذٍ لـ < راجع cref = "true" / > ينشئ موردًا جديدًا ، وإلا ارجع < see cref = "null" / >. < / param >
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name="psdLayer">طبقة psd.</param>
+    /// <param name="createIfNotExist">إذا لم يكن المورد موجوداً، فإن <see cref="true"/> ينشئ مورداً جديداً، وإلا يرجع <see cref="null"/>.</param>
+    /// <returns>المورد <see cref="VectorPathDataResource"/>.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -253,11 +254,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يبحث عن < راجع cref = "VogkResource" / > الموارد في موارد طبقة الإدخال.
+    /// يجد المورد <see cref="VogkResource"/> في موارد الطبقة المدخلة.
     /// </summary>
-    /// < param name = "psdLayer" > طبقة psd. < / param >
-    /// < param name = "createIfNotExist" > إذا لم يكن المورد موجودًا ، فعندئذٍ لـ < راجع cref = "true" / > ينشئ موردًا جديدًا ، وإلا ارجع < see cref = "null" / >. < / param >
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name="psdLayer">طبقة psd.</param>
+    /// <param name="createIfNotExist">إذا لم يكن المورد موجوداً، فإن <see cref="true"/> ينشئ مورداً جديداً، وإلا يرجع <see cref="null"/>.</param>
+    /// <returns>المورد <see cref="VogkResource"/>.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -279,11 +280,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يبحث عن < راجع cref = "SoCoResource" / > الموارد في موارد طبقة الإدخال.
+    /// يجد المورد <see cref="SoCoResource"/> في موارد الطبقة المدخلة.
     /// </summary>
-    /// < param name = "psdLayer" > طبقة psd. < / param >
-    /// < param name = "createIfNotExist" > إذا لم يكن المورد موجودًا ، فعندئذٍ لـ < راجع cref = "true" / > ينشئ موردًا جديدًا ، وإلا ارجع < see cref = "null" / >. < / param >
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name="psdLayer">طبقة psd.</param>
+    /// <param name="createIfNotExist">إذا لم يكن المورد موجوداً، فإن <see cref="true"/> ينشئ مورداً جديداً، وإلا يرجع <see cref="null"/>.</param>
+    /// <returns>المورد <see cref="SoCoResource"/>.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -305,10 +306,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// يتحقق من صحة الطبقة للعمل مع < راجع cref = "VectorDataProvider" / > فصل.
+    /// يتحقق من صحة الطبقة للعمل مع الفئة <see cref="VectorDataProvider"/>.
     /// </summary>
-    /// < param name = "layer" > < / param >
-    /// < استثناء cref = "ArgumentNullException" > < / استثناء >
+    /// <param name=\"layer\"></param>
+    /// <exception cref=\"ArgumentNullException\"></exception>
     private static void ValidateLayer(Layer layer)
     {
         if (layer == null)
@@ -324,22 +325,22 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// عقدة منحنى بيزير ، تحتوي على نقطة ربط واحدة ونقطتي تحكم.
+/// العقدة في منحنى بيزييه، تحتوي على نقطة ارتكاز واحدة ونقطتي تحكم.
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// صورة إلى نسبة نقطة المسار.
+    /// نسبة الصورة إلى نقطة المسار.
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// تهيئة مثيل جديد لـ < see cref = "BezierKnot" / > فصل.
+    /// ينشئ مثيلاً جديدًا للفئة <see cref=\"BezierKnot\" />.
     /// </summary>
-    /// < param name = "AnchorPoint" > نقطة الارتساء. < / param >
-    /// < param name = "controlPoint1" > أول نقطة تحكم. < / param >
-    /// < param name = "controlPoint2" > نقطة التحكم الثانية. < / param >
-    /// < param name = "isLinked" > القيمة التي تشير إلى ما إذا كانت هذه العقدة مرتبطة. < / param >
+    /// <param name=\"anchorPoint\">نقطة الارتكاز.</param>
+    /// <param name=\"controlPoint1\">نقطة التحكم الأولى.</param>
+    /// <param name=\"controlPoint2\">نقطة التحكم الثانية.</param>
+    /// <param name=\"isLinked\">القيمة التي تشير إلى ما إذا كانت هذه العقدة مرتبطة.</param>
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -349,10 +350,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// تهيئة مثيل جديد لـ < see cref = "BezierKnot" / > فئة على أساس < راجع cref = "BezierKnotRecord" / >.
+    /// ينشئ مثيلاً جديدًا للفئة <see cref=\"BezierKnot\" /> بناءً على <see cref=\"BezierKnotRecord\"/>.
     /// </summary>
-    /// < param name = "bezierKnotRecord" > < راجع cref = "BezierKnotRecord" / >. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
+    /// <param name=\"bezierKnotRecord\">الـ <see cref=\"BezierKnotRecord\"/>.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -362,41 +363,41 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// تهيئة مثيل جديد لـ < see cref = "BezierKnot" / > فصل.
+    /// ينشئ مثيلاً جديدًا للفئة <see cref=\"BezierKnot\" />.
     /// </summary>
-    /// < param name = "anchorPoint" > النقطة المراد ربطها ونقاط التحكم. < / param >
-    /// < param name = "isLinked" > القيمة التي تشير إلى ما إذا كانت هذه العقدة مرتبطة. < / param >
+    /// <param name=\"anchorPoint\">النقطة التي تكون نقطة ارتكاز ونقاط تحكم.</param>
+    /// <param name=\"isLinked\">القيمة التي تشير إلى ما إذا كانت هذه العقدة مرتبطة.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
     }
 
     /// <summary>
-    /// الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرتبطًا أم لا.
+    /// يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل مرتبطًا.
     /// </summary>
     public bool IsLinked { get; set; }
 
     /// <summary>
-    /// الحصول على نقطة التحكم الأولى أو تعيينها.
+    /// يحصل أو يعيّن نقطة التحكم الأولى.
     /// </summary>
     public PointF ControlPoint1 { get; set; }
 
     /// <summary>
-    /// الحصول على نقطة الربط أو تحديدها.
+    /// يحصل أو يعيّن نقطة الارتكاز.
     /// </summary>
     public PointF AnchorPoint { get; set; }
 
     /// <summary>
-    /// الحصول على أو تحديد نقطة التحكم الثانية.
+    /// يحصل أو يعيّن نقطة التحكم الثانية.
     /// </summary>
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// ينشئ مثيل < راجع cref = "BezierKnotRecord" / > بناء على هذه الحالة.
+    /// ينشئ المثيل من <see cref=\"BezierKnotRecord\"/> بناءً على هذا المثيل.
     /// </summary>
-    /// < param name = "مغلق" > للإشارة إلى ما إذا كانت هذه العقدة في شكل مغلق. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name=\"isClosed\">يشير إلى ما إذا كانت هذه العقدة في شكل مغلق.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
+    /// <returns>المثيل من <see cref=\"BezierKnotRecord\"/> بناءً على هذا المثيل.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -413,10 +414,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// ينقل نقاط العقدة هذه بقيم الإدخال.
+    /// ينقل نقاط هذه العقدة بالقيم المدخلة.
     /// </summary>
-    /// < param name = "xOffset" > إزاحة x. < / param >
-    /// < param name = "yOffset" > إزاحة y. < / param >
+    /// <param name=\"xOffset\">الإزاحة الأفقية.</param>
+    /// <param name=\"yOffset\">الإزاحة العمودية.</param>
     public void Shift(float xOffset, float yOffset)
     {
         this.ControlPoint1 = new PointF(this.ControlPoint1.X + xOffset, this.ControlPoint1.Y + yOffset);
@@ -425,22 +426,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// يحول قيم النقاط من مصدر إلى عادي.
+    /// يحوّل قيم النقاط من المورد إلى العادية.
     /// </summary>
-    /// < param name = "point" > النقطة التي تحتوي على قيم من المورد. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
-    /// <returns>The converted to normal point.</returns>
+    /// <param name=\"point\">النقطة ذات القيم من المورد.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
+    /// <returns>النقطة المحوّلة إلى العادية.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
     }
 
     /// <summary>
-    /// يحول قيم النقطة العادية إلى نقطة مورد.
+    /// يحول قيم النقاط العادية إلى نقطة المورد.
     /// </summary>
-    /// < param name = "point" > النقطة. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
-    /// <returns>The point with values for resource.</returns>
+    /// <param name=\"point\">النقطة.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
+    /// <returns>النقطة مع القيم للمورد.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -448,12 +449,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// الشكل المأخوذ من عقدة منحنى بيزيير.
+/// الشكل من عقد منحنى بيزييه.
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// تهيئة مثيل جديد لـ < راجع cref = "PathShape" / > فصل.
+    /// ينشئ مثيلاً جديدًا من الفئة <see cref=\"PathShape\" />.
     /// </summary>
     public PathShape()
     {
@@ -462,11 +463,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// تهيئة مثيل جديد لـ < راجع cref = "PathShape" / > فئة تستند إلى < راجع cref = "VectorPathRecord" / >
+    /// ينشئ مثيلاً جديدًا من الفئة <see cref=\"PathShape\" /> بناءً على <see cref=\"VectorPathRecord\"/>'.
     /// </summary>
-    /// < param name = "lengthRecord" > سجل الطول. < / param >
-    /// < param name = "bezierKnotRecords" > سجلات عقدة بيزير. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
+    /// <param name=\"lengthRecord\">سجل الطول.</param>
+    /// <param name=\"bezierKnotRecords\">سجلات عقد بيزييه.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -477,33 +478,33 @@ public class PathShape
     }
 
     /// <summary>
-    /// الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مغلقًا.
+    /// يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا المثيل مغلقًا.
     /// </summary>
-    /// العلامة < قيمة > ;
-    /// < c > صحيح < / c > إذا تم إغلاق هذا المثال ; بخلاف ذلك ، < c > false < / c >.
-    /// العلامة < / القيمة > ;
+    /// <value>
+    ///   <c>true</c> إذا كان هذا المثيل مغلقًا؛ وإلا، <c>false</c>.
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// الحصول على أو تعيين عمليات المسار (العمليات المنطقية).
+    /// يحصل أو يضبط عمليات المسار (عمليات منطقية).
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// الحصول على أو تحديد فهرس شكل المسار الحالي في الطبقة.
+    /// يحصل أو يضبط فهرس شكل المسار الحالي في الطبقة.
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
     /// <summary>
-    /// يحصل على نقاط منحنى بيزير.
+    /// يحصل على نقاط منحنى بيزييه.
     /// </summary>
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// ينشئ < راجع cref = "VectorPathRecord" / > السجلات على أساس هذه الحالة.
+    /// ينشئ سجلات <see cref=\"VectorPathRecord\"/> بناءً على هذا المثيل.
     /// </summary>
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
+    /// <returns>يرجع سجل <see cref=\"LengthRecord\"/> واحد و<see cref=\"BezierKnotRecord\"/> لكل نقطة في هذا المثيل.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -524,10 +525,10 @@ public class PathShape
     }
 
     /// <summary>
-    /// يقوم بتهيئة القيم بناءً على سجلات الإدخال.
+    /// ينشئ قيمًا بناءً على السجلات المدخلة.
     /// </summary>
-    /// < param name = "bezierKnotRecords" > سجلات عقدة بيزير. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
+    /// <param name=\"bezierKnotRecords\">سجلات عقد بيزييه.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -542,75 +543,75 @@ public class PathShape
 }
 
 /// <summary>
-/// الفئة التي تحتوي على مسارات متجهية.
+/// الفئة التي تحتوي على مسارات المتجهات.
 /// </summary>
 public class VectorPath
 {
     /// <summary>
-    /// تهيئة مثيل جديد لـ < راجع cref = "VectorPath" / > فئة تستند إلى < راجع cref = "VectorPathDataResource" / >.
+    /// ينشئ مثيلاً جديدًا من الفئة <see cref=\"VectorPath\" /> بناءً على <see cref=\"VectorPathDataResource\"/>.
     /// </summary>
-    /// < param name = "vectorPathDataResource" > مورد بيانات مسار المتجه. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
+    /// <param name=\"vectorPathDataResource\">مورد بيانات مسار المتجه.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// الحصول على أو تعيين قيمة تشير إلى ما إذا كان التعبئة تبدأ بكل وحدات البكسل.
+    /// يحصل أو يضبط قيمة تشير إلى ما إذا كانت التعبئة تبدأ بجميع البكسلات.
     /// </summary>
-    /// العلامة < قيمة > ;
-    /// يبدأ التعبئة بكل وحدات البكسل.
-    /// العلامة < / القيمة > ;
+    /// <value>
+    /// التعبئة تبدأ بجميع البكسلات.
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
-    /// يحصل على الأشكال المتجهة.
+    /// يحصل على أشكال المتجه.
     /// </summary>
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// الحصول على لون تعبئة مسار المتجه أو تعيينه.
+    /// يحصل أو يضبط لون تعبئة مسار المتجه.
     /// </summary>
     public Color FillColor { get; set; }
 
     /// <summary>
-    /// الحصول على الإصدار أو تحديده.
+    /// يحصل على أو يضبط الإصدار.
     /// </summary>
-    /// العلامة < قيمة > ;
-    /// النسخة.
-    /// العلامة < / القيمة > ;
+    /// <value>
+    /// الإصدار.
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
-    /// الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
+    /// يحصل على أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن معطلاً.
     /// </summary>
-    /// العلامة < قيمة > ;
-    /// < c > صحيح < / c > إذا تم تعطيل هذه الحالة ; بخلاف ذلك ، < c > false < / c >.
-    /// العلامة < / القيمة > ;
+    /// <value>
+    ///   <c>true</c> إذا كان هذا الكائن معطلاً؛ وإلا، <c>false</c>.
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
-    /// الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل غير مرتبط أم لا.
+    /// يحصل على أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن غير مرتبط.
     /// </summary>
-    /// العلامة < قيمة > ;
-    /// < c > صحيح < / c > إذا لم يتم ربط هذا المثيل ; بخلاف ذلك ، < c > false < / c >.
-    /// العلامة < / القيمة > ;
+    /// <value>
+    ///   <c>true</c> إذا كان هذا الكائن غير مرتبط؛ وإلا، <c>false</c>.
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
-    /// الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معكوسًا أم لا.
+    /// يحصل على أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن مقلوبًا.
     /// </summary>
-    /// العلامة < قيمة > ;
-    /// < c > صحيح < / c > إذا تم عكس هذا المثال ; بخلاف ذلك ، < c > false < / c >.
-    /// العلامة < / القيمة > ;
+    /// <value>
+    ///   <c>true</c> إذا كان هذا الكائن مقلوبًا؛ وإلا، <c>false</c>.
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// يقوم بتهيئة القيم بناءً على الإدخال < راجع cref = "VectorPathDataResource" / >; الموارد.
+    /// يهيئ القيم بناءً على مورد <see cref="VectorPathDataResource"/> المدخل.
     /// </summary>
-    /// < param name = "Resource" > مورد بيانات مسار المتجه. < / param >
-    /// < param name = "imageSize" > حجم الصورة لتصحيح إحداثيات نقطة التحويل. < / param >
+    /// <param name="resource">مورد بيانات مسار المتجه.</param>
+    /// <param name="imageSize">حجم الصورة لتصحيح تحويل إحداثيات النقاط.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -661,10 +662,10 @@ public class VectorPath
 #endregion
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VsmsResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

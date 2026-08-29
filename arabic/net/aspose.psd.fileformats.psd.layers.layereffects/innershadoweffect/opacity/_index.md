@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Opacity
-second_title: Aspose.PSD لمرجع .NET API
-description: InnerShadowEffect ملكية. الحصول على التعتيم أو تعيينه .
+title: "InnerShadowEffect.Opacity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InnerShadowEffect. يحصل أو يضبط الشفافية"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Opacity property
 
-الحصول على التعتيم أو تعيينه .
+يحصل أو يعيّن الشفافية.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التعتيم .
+الشفافية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InnerShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

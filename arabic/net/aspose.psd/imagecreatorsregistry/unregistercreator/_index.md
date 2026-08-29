@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageCreatorsRegistry طريقة. إلغاء تسجيل المنشئ.
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageCreatorsRegistry. تلغي تسجيل المنشئ"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-إلغاء تسجيل المنشئ.
+يلغي تسجيل المنشئ.
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | واصف المنشئ. |
+| creatorDescriptor | IImageCreatorDescriptor | وصف المنشئ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imagecreatorsregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

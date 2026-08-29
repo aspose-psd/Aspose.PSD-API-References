@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يحدد العنوان.
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "PhotoshopPackage طريقة. يحدد العنوان"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
-يحدد العنوان.
+يضبط العنوان الرئيسي.
 
 ```csharp
 public void SetHeadline(string headline)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| headline | String | العنوان الرئيسي. |
+| العنوان | String | العنوان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

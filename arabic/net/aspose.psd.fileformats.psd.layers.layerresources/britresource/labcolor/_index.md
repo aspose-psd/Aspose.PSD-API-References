@@ -1,27 +1,28 @@
 ---
-title: BritResource.LabColor
-second_title: Aspose.PSD لمرجع .NET API
-description: BritResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان لون معمل .
+title: "BritResource.LabColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BritResource. يحصل أو يضبط قيمة تشير إلى ما إذا كان اللون المختبري"
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
+{{< psd/tize >}}
 ## BritResource.LabColor property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [لون معمل] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [lab color].
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [لون المختبر] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [lab color]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: InterruptMonitor.Interrupt
-second_title: Aspose.PSD لمرجع .NET API
-description: InterruptMonitor طريقة. يرسل طلبًا بمقاطعة العمليات.
+title: "InterruptMonitor.Interrupt"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة InterruptMonitor. يرسل طلبًا لمقاطعة العمليات"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.multithreading/interruptmonitor/interrupt/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.Interrupt method
 
-يرسل طلبًا بمقاطعة العمليات.
+يرسل طلبًا لمقاطعة العمليات.
 
 ```csharp
 public void Interrupt()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InterruptMonitor](../)
-* مساحة الاسم [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

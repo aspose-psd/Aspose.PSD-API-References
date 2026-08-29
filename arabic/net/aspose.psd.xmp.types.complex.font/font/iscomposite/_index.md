@@ -1,27 +1,28 @@
 ---
-title: Font.IsComposite
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا الخط مركبًا.
+title: "Font.IsComposite"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل أو تضبط قيمة تشير إلى ما إذا كان هذا الخط مركبًا"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا الخط مركبًا.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا الخط مركّبًا.
 
 ```csharp
 public bool IsComposite { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا الخط مركبًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الخط مركبًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

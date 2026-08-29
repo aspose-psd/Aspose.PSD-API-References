@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsFaulted
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه المهمة معيبة.
+title: "IAsyncTask.IsFaulted"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IAsyncTask. تسترجع قيمة تشير إلى ما إذا كانت هذه المهمة معطوبة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.asynctask/iasynctask/isfaulted/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsFaulted property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه المهمة معيبة.
+يحصل على قيمة تشير إلى ما إذا كانت هذه المهمة قد حدث فيها خطأ.
 
 ```csharp
 public bool IsFaulted { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا أخطأت هذه المهمة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه المهمة معطوبة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearGamma
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. تعطيل تصحيح جاما للفئة الافتراضية.
+title: "ImageAttributes.ClearGamma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تعطل تصحيح جاما للفئة الافتراضية"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/imageattributes/cleargamma/
 ---
+{{< psd/tize >}}
 ## ClearGamma() {#cleargamma}
 
-تعطيل تصحيح جاما للفئة الافتراضية.
+يعطل تصحيح الجاما للفئة الافتراضية.
 
 ```csharp
 public void ClearGamma()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearGamma(ColorAdjustType) {#cleargamma_1}
 
-تعطيل تصحيح جاما لفئة محددة.
+يعطل تصحيح الجاما لفئة محددة.
 
 ```csharp
 public void ClearGamma(ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي تم تعطيل تصحيح جاما لها. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي تم تعطيل تصحيح جاما لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

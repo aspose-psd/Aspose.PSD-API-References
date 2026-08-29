@@ -1,28 +1,29 @@
 ---
-title: PsdImage.XmpData
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على بيانات تعريف XMP أو تعيينها.
+title: "PsdImage.XmpData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل أو تعيّن بيانات XMP الوصفية"
 type: docs
-weight: 280
+weight: 290
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdImage.XmpData property
 
-الحصول على بيانات تعريف XMP أو تعيينها.
+يحصل أو يضبط بيانات التعريف XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات تعريف XMP .
+بيانات XMP الوصفية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

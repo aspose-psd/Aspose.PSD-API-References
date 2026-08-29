@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Aspose.PSD لمرجع .NET API
-description: GlobalLayerMaskInfo ملكية. الحصول على مساحة لون التراكب أو تعيينها قيمة غير موثقة.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GlobalLayerMaskInfo. تحصل أو تعيين قيمة مساحة اللون المتراكبة غير موثقة"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-الحصول على مساحة لون التراكب أو تعيينها (قيمة غير موثقة).
+يسترجع أو يعيّن مساحة لون التراكب (قيمة غير موثقة).
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مساحة لون التراكب .
+مساحة اللون المتراكبة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalLayerMaskInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

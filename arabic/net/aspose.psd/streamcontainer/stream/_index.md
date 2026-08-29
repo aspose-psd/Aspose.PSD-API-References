@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Stream
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer ملكية. يحصل على دفق البيانات.
+title: "StreamContainer.Stream"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StreamContainer. تحصل على دفق البيانات"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/streamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Stream property
 
-يحصل على دفق البيانات.
+يحصل على تدفق البيانات.
 
 ```csharp
 public virtual Stream Stream { get; }
 ```
 
-### Property_Value
+### Property Value
 
 دفق البيانات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

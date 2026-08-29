@@ -1,44 +1,45 @@
 ---
-title: RectangleProjectedShape.RectangleProjectedShape
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleProjectedShape البناء. يقوم بتهيئة مثيل جديد لملفRectangleProjectedShape فئة .
+title: "RectangleProjectedShape.RectangleProjectedShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ RectangleProjectedShape. يهيئ مثيلة جديدة من فئة RectangleProjectedShape"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`RectangleProjectedShape`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`RectangleProjectedShape`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | RectangleF | المستطيل المطلوب التهيئة منه. |
+| مستطيل | RectangleF | المستطيل للتهيئة منه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

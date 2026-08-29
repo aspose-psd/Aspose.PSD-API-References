@@ -1,23 +1,24 @@
 ---
-title: PsdImage.Grayscale
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. تحويل الصورة إلى تمثيلها بالتدرج الرمادي
+title: "PsdImage.Grayscale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تحويل الصورة إلى تمثيلها بالدرجات الرمادية"
 type: docs
-weight: 550
+weight: 610
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
+{{< psd/tize >}}
 ## PsdImage.Grayscale method
 
-تحويل الصورة إلى تمثيلها بالتدرج الرمادي
+تحويل الصورة إلى تمثيلها بتدرج الرمادي
 
 ```csharp
 public override void Grayscale()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

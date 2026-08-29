@@ -1,23 +1,24 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. تسطيح جميع الطبقات .
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يفرد جميع الطبقات"
 type: docs
-weight: 540
+weight: 600
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-تسطيح جميع الطبقات .
+يقوم بتسوية جميع الطبقات.
 
 ```csharp
 public void FlattenImage()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

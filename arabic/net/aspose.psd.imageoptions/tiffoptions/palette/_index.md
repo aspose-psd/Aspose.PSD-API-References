@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Palette
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على لوحة الألوان أو تعيينها .
+title: "TiffOptions.Palette"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين لوحة الألوان"
 type: docs
-weight: 310
+weight: 320
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/palette/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Palette property
 
-الحصول على لوحة الألوان أو تعيينها .
+يحصل أو يعيّن لوحة الألوان.
 
 ```csharp
 public override IColorPalette Palette { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-لوحة الألوان .
+لوحة الألوان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

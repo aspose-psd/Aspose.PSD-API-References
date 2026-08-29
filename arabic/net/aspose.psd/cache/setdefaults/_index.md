@@ -1,23 +1,24 @@
 ---
-title: Cache.SetDefaults
-second_title: Aspose.PSD لمرجع .NET API
-description: Cache طريقة. يعين ملفCache الإعدادات الافتراضية .
+title: "Cache.SetDefaults"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Cache طريقة. يضبط إعدادات التخزين المؤقت إلى القيم الافتراضية"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/cache/setdefaults/
 ---
+{{< psd/tize >}}
 ## Cache.SetDefaults method
 
-يعين ملف[`Cache`](../) الإعدادات الافتراضية .
+يضبط إعدادات [`Cache`](../) إلى القيم الافتراضية.
 
 ```csharp
 public static void SetDefaults()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Cache](../)
-* مساحة الاسم [Aspose.PSD](../../cache/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

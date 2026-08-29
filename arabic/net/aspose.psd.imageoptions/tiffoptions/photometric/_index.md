@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Photometric
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على القياس الضوئي أو تعيينه.
+title: "TiffOptions.Photometric"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين الـ photometric"
 type: docs
-weight: 320
+weight: 330
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
-الحصول على القياس الضوئي أو تعيينه.
+يحصل أو يعيّن الخصائص الضوئية.
 
 ```csharp
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القياس الضوئي .
+الـ photometric.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات متعددة مؤشرات الترابط.
+title: "Aspose.PSD.Multithreading"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المجال يحتوي على فئات متعددة الخيوط"
 type: docs
-weight: 460
+weight: 500
 url: /ar/net/aspose.psd.multithreading/
 ---
-تحتوي مساحة الاسم على فئات متعددة مؤشرات الترابط.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على فئات متعددة الخيوط.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [InterruptMonitor](./interruptmonitor/) | يمثل معلومات حول الانقطاع . |
+| [InterruptMonitor](./interruptmonitor/) | يمثل معلومات حول الانقطاع. |
 
 

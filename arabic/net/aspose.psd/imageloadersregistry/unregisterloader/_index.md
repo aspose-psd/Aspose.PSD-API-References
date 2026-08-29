@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageLoadersRegistry طريقة. إلغاء تسجيل المحمل.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageLoadersRegistry. تلغي تسجيل المحمل"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
-إلغاء تسجيل المحمل.
+يلغي تسجيل المحمل.
 
 ```csharp
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | واصف أداة التحميل لإلغاء التسجيل. |
+| loaderDescriptor | IImageLoaderDescriptor | وصف التحميل لإلغاء تسجيله. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imageloadersregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

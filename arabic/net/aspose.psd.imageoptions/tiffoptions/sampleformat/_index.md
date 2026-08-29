@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على تنسيق العينة أو تعيينه.
+title: "TiffOptions.SampleFormat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يحدد تنسيق العينة"
 type: docs
-weight: 390
+weight: 400
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SampleFormat property
 
-الحصول على تنسيق العينة أو تعيينه.
+يحصل أو يعيّن تنسيق العينة.
 
 ```csharp
 public TiffSampleFormats[] SampleFormat { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تنسيق العينة .
+تنسيق العينة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | قيمة |
-| ArgumentOutOfRangeException | القيمة ؛ يجب أن يتوافق طول الصفيف مع العينات لكل عدد بكسل. |
+| ArgumentOutOfRangeException | value;يجب أن يتطابق طول المصفوفة مع عدد العينات لكل بكسل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

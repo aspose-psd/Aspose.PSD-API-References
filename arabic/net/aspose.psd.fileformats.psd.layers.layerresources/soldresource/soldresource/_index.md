@@ -1,33 +1,34 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: Aspose.PSD لمرجع .NET API
-description: SoLdResource البناء. يقوم بتهيئة مثيل جديد لملفSoLdResource class. من الضروري تعيين خاصية العناصر أو استدعاء InitializeItems  للحصول على مثيل جاهز . تم تصميم هذا المُنشئ للاستخدام بواسطةSmartResourceCreator وفي اختبارات الوحدة . استخدمSmartResourceCreator لإنشاء فئات SoLdResource.
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ SoLdResource. يهيئ مثلاً جديداً من فئة SoLdResource. من الضروري تعيين خاصية Items أو استدعاء InitializeItems للحصول على مثيل جاهز. تم تصميم هذا المنشئ للاستخدام بواسطة SmartResourceCreator وفي اختبارات الوحدة. استخدم SmartResourceCreator لإنشاء فئات SoLdResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SoLdResource`](../) class. من الضروري تعيين خاصية العناصر أو استدعاء InitializeItems () للحصول على مثيل جاهز . تم تصميم هذا المُنشئ للاستخدام بواسطة[`SmartResourceCreator`](../../smartresourcecreator/) وفي اختبارات الوحدة . استخدم[`SmartResourceCreator`](../../smartresourcecreator/) لإنشاء فئات SoLdResource.
+يهيئ مثلاً جديداً من الفئة [`SoLdResource`](../). من الضروري تعيين خاصية Items أو استدعاء InitializeItems() للحصول على مثيل جاهز. تم تصميم هذا المنشئ للاستخدام بواسطة [`SmartResourceCreator`](../../smartresourcecreator/) وفي اختبارات الوحدة. استخدم [`SmartResourceCreator`](../../smartresourcecreator/) لإنشاء فئات SoLdResource.
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| uniqueId | Guid | المعرف الفريد لبيانات طبقة الكائن الذكي[`SoLdResource`](../). |
-| isCustom | Boolean | إذا تم التعيين على`حقيقي` [هو العرف]. |
-| hasCompInfo | Boolean | إذا تم التعيين على`حقيقي` [لديها معلومات شركات]. |
+| uniqueId | Guid | المعرّف الفريد لبيانات طبقة الكائن الذكي [`SoLdResource`](../). |
+| isCustom | Boolean | إذا تم تعيينه إلى `true` [مخصص]. |
+| hasCompInfo | Boolean | إذا تم تعيينه إلى `true` [يحتوي على معلومات التركيب]. |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد SoLdResource.
+الكود التالي يوضح دعم مورد SoLdResource.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال كيفية الحصول على أو تعيين خصائص بيانات طبقة الكائن الذكية لملف PSD.
+// يوضح هذا المثال كيفية الحصول على خصائص بيانات طبقة الكائن الذكي أو تعيينها في ملف PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضًا
-                // ويجب أن يكون بعضها متوافقًا مع الكائن الذكي الذي تحته خط في LinkDataSource
+                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضاً.
+                // ويجب أن تكون بعضها متوافقة مع الكائن الذكي الأساسي في LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,19 +308,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // يجب تغيير هذا المعرف الفريد في المراجع إن وجدت
+                // يجب تغيير هذا المعرف الفريد في المراجع إذا وجدت.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // كن حذرًا مع بعض المعلمات: قد تصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-                ////resource.UOrder = 6 ;
-                ////resource.VOrder = 9 ;
+                // احذر من بعض المعلمات: قد يصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-                // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+                // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-                ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+                // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -331,26 +334,26 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SoLdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SoLdResource`](../) class. تم تصميم المُنشئ الافتراضي هذا للاستخدام بواسطةSoLdResourceLoader . استخدم[`SmartResourceCreator`](../../smartresourcecreator/) لإنشاء فئات SoLdResource.
+يهيئ مثلاً جديداً من الفئة [`SoLdResource`](../). تم تصميم هذا المنشئ الافتراضي للاستخدام بواسطة SoLdResourceLoader. استخدم [`SmartResourceCreator`](../../smartresourcecreator/) لإنشاء فئات SoLdResource.
 
 ```csharp
 public SoLdResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SoLdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

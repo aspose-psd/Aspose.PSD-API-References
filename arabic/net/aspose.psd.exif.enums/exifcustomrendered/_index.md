@@ -1,29 +1,30 @@
 ---
-title: Enum ExifCustomRendered
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered تعداد. التعداد المخصص المقدم من exif .
+title: "عدد ExifCustomRendered"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered عدد. exif مخصص معروض عدد"
 type: docs
-weight: 820
+weight: 830
 url: /ar/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
-التعداد المخصص المقدم من exif .
+exif تعداد مخصص مُعالج.
 
 ```csharp
 public enum ExifCustomRendered
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| NormalProcess | `0` | عملية تصيير عادية . |
-| CustomProcess | `1` | عملية تصيير مخصصة . |
+| NormalProcess | `0` | عملية عرض طبيعية. |
+| CustomProcess | `1` | عملية عرض مخصصة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

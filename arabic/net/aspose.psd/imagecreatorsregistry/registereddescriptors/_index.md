@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageCreatorsRegistry ملكية. يحصل على الواصفات المسجلة .
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageCreatorsRegistry. يحصل على الوصف المسجل"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
-يحصل على الواصفات المسجلة .
+يحصل على المُوَصِّفات المسجلة.
 
 ```csharp
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الواصفات المسجلة.
+الوصفات المسجلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imagecreatorsregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

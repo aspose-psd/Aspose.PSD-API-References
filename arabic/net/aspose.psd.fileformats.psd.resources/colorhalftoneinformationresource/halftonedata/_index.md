@@ -1,27 +1,28 @@
 ---
-title: ColorHalftoneInformationResource.HalftoneData
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorHalftoneInformationResource ملكية. الحصول على بيانات الألوان النصفية أو تعيينها.
+title: "ColorHalftoneInformationResource.HalftoneData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorHalftoneInformationResource. يحصل أو يضبط بيانات النصف لون"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.HalftoneData property
 
-الحصول على بيانات الألوان النصفية أو تعيينها.
+يحصل أو يعيّن بيانات التهليل.
 
 ```csharp
 public byte[] HalftoneData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-بيانات الألوان النصفية .
+بيانات النصف لون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorHalftoneInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

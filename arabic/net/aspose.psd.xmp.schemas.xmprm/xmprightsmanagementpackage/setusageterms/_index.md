@@ -1,34 +1,35 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpRightsManagementPackage طريقة. يحدد شروط الاستخدام .
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpRightsManagementPackage. تعيين شروط الاستخدام"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
-يحدد شروط الاستخدام .
+يضبط شروط الاستخدام.
 
 ```csharp
 public void SetUsageTerms(LangAlt usageTerms)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | usageTerms | LangAlt | شروط الاستخدام. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الاستخدام |
+| ArgumentNullException | usageTerms |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

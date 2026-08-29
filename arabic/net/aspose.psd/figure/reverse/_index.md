@@ -1,23 +1,24 @@
 ---
-title: Figure.Reverse
-second_title: Aspose.PSD لمرجع .NET API
-description: Figure طريقة. عكس ترتيب أشكال الشكل وترتيب نقاط الأشكال.
+title: "Figure.Reverse"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Figure طريقة. يعكس ترتيب الأشكال في هذا الشكل وترتيب نقاط الأشكال"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-عكس ترتيب أشكال الشكل وترتيب نقاط الأشكال.
+يعكس ترتيب الأشكال في هذا الشكل وترتيب نقاط الأشكال.
 
 ```csharp
 public void Reverse()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Figure](../)
-* مساحة الاسم [Aspose.PSD](../../figure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CurvesManager.CurvesManager
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesManager البناء. يقوم بتهيئة مثيل جديد لملفCurvesManager فئة .
+title: "CurvesManager.CurvesManager"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ CurvesManager. يهيئ نسخة جديدة من الفئة CurvesManager"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager constructor
 
-يقوم بتهيئة مثيل جديد لملف[`CurvesManager`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`CurvesManager`](../).
 
 ```csharp
 public CurvesManager(int maxChannelCount)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| maxChannelCount | Int32 | الحد الأقصى لعدد القنوات. |
+| maxChannelCount | Int32 | العدد الأقصى للقنوات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontFamily
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolFontInfo ملكية. الحصول على عائلة الخط أو تعيينها.
+title: "TypeToolFontInfo.FontFamily"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolFontInfo. يحصل أو يضبط عائلة الخط"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontFamily property
 
-الحصول على عائلة الخط أو تعيينها.
+يحصل أو يضبط عائلة الخط.
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عائلة الخط .
+عائلة الخط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Layer.BlendSignature
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer مجال. يمثل توقيع وضع المزج.
+title: "Layer.BlendSignature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Layer. يمثل توقيع وضع المزج"
 type: docs
-weight: 390
+weight: 410
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-يمثل توقيع وضع المزج.
+يمثل توقيع وضع الدمج.
 
 ```csharp
 public const int BlendSignature;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

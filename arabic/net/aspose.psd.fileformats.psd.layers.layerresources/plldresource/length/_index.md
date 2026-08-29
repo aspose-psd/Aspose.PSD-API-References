@@ -1,23 +1,24 @@
 ---
-title: PlLdResource.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: PlLdResource ملكية. الحصول على طول مورد PlLd بالبايت.
+title: "PlLdResource.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlLdResource. يحصل على طول مورد PlLd بالبايت"
 type: docs
-weight: 20
+weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Length property
 
-الحصول على طول مورد PlLd بالبايت.
+يحصل على طول مورد PlLd بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlLdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: TiffOptions.ResolutionSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على إعدادات الدقة أو تعيينها .
+title: "TiffOptions.ResolutionSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين إعدادات الدقة"
 type: docs
-weight: 360
+weight: 370
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionSettings property
 
-الحصول على إعدادات الدقة أو تعيينها .
+يحصل أو يعيّن إعدادات الدقة.
 
 ```csharp
 public override ResolutionSetting ResolutionSettings { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

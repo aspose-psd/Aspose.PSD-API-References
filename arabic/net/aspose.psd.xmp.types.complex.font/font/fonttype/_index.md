@@ -1,31 +1,32 @@
 ---
-title: Font.FontType
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. الحصول على نوع الخط أو تحديده.
+title: "Font.FontType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل أو تعين نوع الخط"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
-الحصول على نوع الخط أو تحديده.
+يحصل أو يعيّن نوع الخط.
 
 ```csharp
 public string FontType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع الخط.
 
-### أمثلة
+## أمثلة
 
-TrueType والنوع 1 و Open Type وما إلى ذلك.
+TrueType، Type 1، Open Type، وما إلى ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

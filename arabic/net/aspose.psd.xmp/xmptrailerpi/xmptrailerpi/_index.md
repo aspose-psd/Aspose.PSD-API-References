@@ -1,43 +1,44 @@
 ---
-title: XmpTrailerPi.XmpTrailerPi
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpTrailerPi البناء. يقوم بتهيئة مثيل جديد لملفXmpTrailerPi فئة .
+title: "XmpTrailerPi.XmpTrailerPi"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpTrailerPi. يهيئ كائنًا جديدًا من فئة XmpTrailerPi"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi(bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpTrailerPi`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| isWritable | Boolean | يستنتج ما إذا كانت المقطورة قابلة للكتابة. |
+| isWritable | Boolean | يشير إلى ما إذا كان المقطوعة قابلًا للكتابة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTrailerPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpTrailerPi() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpTrailerPi`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTrailerPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

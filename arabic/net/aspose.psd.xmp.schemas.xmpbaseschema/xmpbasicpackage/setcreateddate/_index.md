@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage طريقة. يضيف تاريخ إنشاء المورد .
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpBasicPackage. يضيف تاريخ إنشاء المورد"
 type: docs
-weight: 30
+weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
-يضيف تاريخ إنشاء المورد .
+يضيف تاريخ إنشاء المورد.
 
 ```csharp
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | createdDate | DateTime | تاريخ الإنشاء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetCreatedDate(string) {#setcreateddate_1}
 
-يضيف تاريخ إنشاء المورد .
+يضيف تاريخ إنشاء المورد.
 
 ```csharp
 public void SetCreatedDate(string createdDate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | createdDate | String | تاريخ الإنشاء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ClipboardRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord فصل. فئة سجل الحافظة
+title: "الفئة ClipboardRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord class. فئة سجل الحافظة"
 type: docs
-weight: 1340
+weight: 1350
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord class
 
 فئة سجل الحافظة
@@ -14,25 +15,25 @@ url: /ar/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 public class ClipboardRecord : VectorPathRecord
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ClipboardRecord](clipboardrecord/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ClipboardRecord` فئة . |
-| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | يقوم بتهيئة مثيل جديد لملف`ClipboardRecord` فئة . |
+| [ClipboardRecord](clipboardrecord/#constructor)() | ينشئ مثيلاً جديداً من الفئة `ClipboardRecord`. |
+| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | ينشئ مثيلاً جديداً من الفئة `ClipboardRecord`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | الحصول على أو تعيين المستقيم المحيط. |
-| [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | الحصول على الدقة أو تعيينها . |
+| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | يحصل أو يضبط المستطيل المحيط. |
+| [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | يحصل أو يضبط الدقة. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/) { get; } | يحصل على النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

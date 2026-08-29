@@ -1,30 +1,31 @@
 ---
-title: Enum SeekOrigin
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.SeekOrigin تعداد. يوفر الحقول التي تمثل النقاط المرجعية بتنسيقStreamContainer للبحث .
+title: "تعداد SeekOrigin"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.SeekOrigin. يوفر الحقول التي تمثل نقاط مرجعية في StreamContainer للتنقل."
 type: docs
-weight: 5410
+weight: 5910
 url: /ar/net/aspose.psd/seekorigin/
 ---
+{{< psd/tize >}}
 ## SeekOrigin enumeration
 
-يوفر الحقول التي تمثل النقاط المرجعية بتنسيق[`StreamContainer`](../streamcontainer/) للبحث .
+يوفر الحقول التي تمثل نقاط مرجعية في [`StreamContainer`](../streamcontainer/) للتنقل.
 
 ```csharp
 public enum SeekOrigin
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Begin | `0` | يحدد بداية التدفق . |
-| Current | `1` | يحدد الموقع الحالي ضمن تيار . |
-| End | `2` | يحدد نهاية الدفق . |
+| Begin | `0` | يحدد بداية التدفق. |
+| Current | `1` | يحدد الموقع الحالي داخل التدفق. |
+| End | `2` | يحدد نهاية التدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

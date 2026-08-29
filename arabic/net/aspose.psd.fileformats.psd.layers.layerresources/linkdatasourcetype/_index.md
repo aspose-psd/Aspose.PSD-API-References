@@ -1,31 +1,32 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType تعداد. يحدد تعداد LinkDataSourceType لمصادر البيانات في مورد ارتباط PSD.
+title: "تعداد LinkDataSourceType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType. يعرّف تعداد LinkDataSourceType لمصادر البيانات في مورد ارتباط PSD"
 type: docs
-weight: 2700
+weight: 3000
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-يحدد تعداد LinkDataSourceType لمصادر البيانات في مورد ارتباط PSD.
+يحدد تعداد LinkDataSourceType لمصادر البيانات في مورد رابط PSD.
 
 ```csharp
 public enum LinkDataSourceType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | مورد الارتباط الفارغ . |
-| liFD | `1` | بيانات الملف المرتبط المضمنة |
+| None | `0` | مورد الارتباط الفارغ. |
+| liFD | `1` | بيانات الملف المرتبط المدمج |
 | liFE | `2` | بيانات الملف المرتبط الخارجي |
 | liFA | `3` | بيانات الاسم المستعار للملف المرتبط |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية دعم مورد LnkeResource.
+يوضح الكود التالي دعم مورد LnkeResource.
 
 ```csharp
 [C#]
@@ -220,7 +221,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png ";
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

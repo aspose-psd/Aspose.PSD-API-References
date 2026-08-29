@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: IShadowEffect ملكية. الحصول على أو تعيين قيمة التمويه بالبكسل.
+title: "IShadowEffect.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IShadowEffect. يحصل أو يضبط قيمة الضبابية بالبكسل"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Size property
 
-الحصول على أو تعيين قيمة التمويه بالبكسل.
+يحصل أو يضبط قيمة الضبابية بالبكسل.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحجم .
+الحجم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IShadowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

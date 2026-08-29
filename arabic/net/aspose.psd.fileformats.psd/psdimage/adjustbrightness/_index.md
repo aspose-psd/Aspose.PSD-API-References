@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. ضبط سطوع الصورة .
+title: "PsdImage.AdjustBrightness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تعديل السطوع للصورة"
 type: docs
-weight: 440
+weight: 500
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-ضبط سطوع الصورة .
+ضبط السطوع للصورة.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brightness | Int32 | قيمة السطوع. |
+| السطوع | Int32 | قيمة السطوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

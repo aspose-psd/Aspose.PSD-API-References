@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.MaximumSampleValue
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegLsPresetCodingParameters ملكية. الحصول على أو تعيين أقصى قيمة ممكنة لأي عينة صورة في المسح. يجب أن يكون هذا أكبر من أو يساوي القيمة القصوى الفعلية للمكونات في عملية المسح .
+title: "JpegLsPresetCodingParameters.MaximumSampleValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegLsPresetCodingParameters. يحصل أو يضبط الحد الأقصى الممكن لأي عينة صورة في عملية مسح. يجب أن يكون هذا أكبر من أو يساوي القيمة القصوى الفعلية للمكونات في عملية المسح"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.MaximumSampleValue property
 
-الحصول على أو تعيين أقصى قيمة ممكنة لأي عينة صورة في المسح. يجب أن يكون هذا أكبر من أو يساوي القيمة القصوى الفعلية للمكونات في عملية المسح .
+يحصل أو يضبط القيمة القصوى الممكنة لأي عينة صورة في مسح. يجب أن تكون هذه القيمة أكبر من أو تساوي القيمة القصوى الفعلية للمكونات في المسح.
 
 ```csharp
 public int MaximumSampleValue { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegLsPresetCodingParameters](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

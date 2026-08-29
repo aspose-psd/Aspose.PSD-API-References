@@ -1,23 +1,24 @@
 ---
-title: DitheringMode.Bits
-second_title: Aspose.PSD لمرجع .NET API
-description: DitheringMode ملكية. عامل أخذ العينات للصورة المبعثرة .
+title: "DitheringMode.Bits"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DitheringMode. عامل العينة للصورة المنقطة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.dithering/ditheringmode/bits/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Bits property
 
-عامل أخذ العينات للصورة المبعثرة .
+عامل العينة للصورة المموجة.
 
 ```csharp
 public int Bits { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DitheringMode](../)
-* مساحة الاسم [Aspose.PSD.Dithering](../../ditheringmode/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpMimeType.XmpMimeType
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMimeType البناء. يقوم بتهيئة مثيل جديد لملفXmpMimeType فئة .
+title: "XmpMimeType.XmpMimeType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpMimeType. يهيئ مثيلاً جديداً من الفئة XmpMimeType"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.derived/xmpmimetype/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType constructor
 
-يقوم بتهيئة مثيل جديد لملف[`XmpMimeType`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`XmpMimeType`](../).
 
 ```csharp
 public XmpMimeType(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMimeType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmpmimetype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

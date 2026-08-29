@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectResource ملكية. الحصول على العرض أو تحديده .
+title: "SmartObjectResource.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartObjectResource. يحصل أو يضبط العرض"
 type: docs
-weight: 250
+weight: 230
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Width property
 
-الحصول على العرض أو تحديده .
+يحصل أو يعيّن العرض.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العرض .
+العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

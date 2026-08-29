@@ -1,28 +1,29 @@
 ---
-title: ReferenceStructure.ReferenceStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: ReferenceStructure البناء. يقوم بتهيئة مثيل جديد لملفReferenceStructure فئة .
+title: "ReferenceStructure.ReferenceStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ReferenceStructure. يهيئ نسخة جديدة من الفئة ReferenceStructure"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure constructor
 
-يقوم بتهيئة مثيل جديد لملف[`ReferenceStructure`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`ReferenceStructure`](../).
 
 ```csharp
 public ReferenceStructure(ClassID keyName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | ClassID | اسم المفتاح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ReferenceStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: IObjectWithBounds ملكية. الحصول على عرض الكائن .
+title: "IObjectWithBounds.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IObjectWithBounds. يحصل على عرض الكائن"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
-الحصول على عرض الكائن .
+يحصل على عرض الكائن.
 
 ```csharp
 public int Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
 عرض الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IObjectWithBounds](../)
-* مساحة الاسم [Aspose.PSD](../../iobjectwithbounds/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

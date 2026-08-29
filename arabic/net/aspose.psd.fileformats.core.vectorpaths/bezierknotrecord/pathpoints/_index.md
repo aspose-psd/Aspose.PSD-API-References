@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.PathPoints
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierKnotRecord ملكية. الحصول على نقاط المسار أو تعيينها .
+title: "BezierKnotRecord.PathPoints"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierKnotRecord. يحصل أو يعيّن نقاط المسار"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.PathPoints property
 
-الحصول على نقاط المسار أو تعيينها .
+يحصل أو يعيّن نقاط المسار.
 
 ```csharp
 public PointF[] PathPoints { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نقاط المسار .
+نقاط المسار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierKnotRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

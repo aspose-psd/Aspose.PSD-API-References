@@ -1,31 +1,32 @@
 ---
-title: Font.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: Font طريقة. يشير إلى ما إذا كان الكائن المحددFont ولها نفس قيم الخصائص مثل هذاFont .
+title: "Font.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Font. تشير إلى ما إذا كان الكائن المحدد هو خط ويملك نفس قيم الخصائص مثل هذا الخط."
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/font/equals/
 ---
+{{< psd/tize >}}
 ## Font.Equals method
 
-يشير إلى ما إذا كان الكائن المحدد[`Font`](../) ولها نفس قيم الخصائص مثل هذا[`Font`](../) .
+تشير إلى ما إذا كان الكائن المحدد هو [`Font`](../) ويملك نفس قيم الخصائص مثل هذا [`Font`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الهدف المراد اختباره. |
+| obj | Object | الكائن المراد اختباره. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان*obj* المعلمة هي[`Font`](../) ولها نفس قيم الخصائص مثل هذا[`Font`](../)؛ خلاف ذلك ، خطأ.
+صحيح إذا كان معامل *obj* هو [`Font`](../) وله نفس قيم الخصائص مثل هذا [`Font`](../)؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

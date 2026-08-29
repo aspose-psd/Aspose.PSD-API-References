@@ -1,28 +1,29 @@
 ---
-title: AiHeader.BoundingBox
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على أو تحديد المربع المحيط.
+title: "AiHeader.BoundingBox"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. تحصل أو تعين مربع الإحاطة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 ---
+{{< psd/tize >}}
 ## AiHeader.BoundingBox property
 
-الحصول على أو تحديد المربع المحيط.
+يحصل أو يضبط صندوق الحدود.
 
 ```csharp
 public Rectangle BoundingBox { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المربع المحيط.
+مربع الإحاطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

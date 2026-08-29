@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.PSD لمرجع .NET API
-description: DisposableObject طريقة. التخلص من المثيل الحالي.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DisposableObject. تحرير المثيل الحالي"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-التخلص من المثيل الحالي.
+يتخلص من المثيل الحالي.
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DisposableObject](../)
-* مساحة الاسم [Aspose.PSD](../../disposableobject/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

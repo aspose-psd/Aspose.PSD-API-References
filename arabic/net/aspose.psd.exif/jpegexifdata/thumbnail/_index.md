@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على الصورة المصغرة أو تعيينها.
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين صورة المصغرة"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
-الحصول على الصورة المصغرة أو تعيينها.
+يحصل أو يضبط صورة المصغرة.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الصورة المصغرة .
+الصورة المصغرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternWidth
-second_title: Aspose.PSD لمرجع .NET API
-description: PatternFillSettings ملكية. الحصول على عرض النمط أو تحديده .
+title: "PatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PatternFillSettings. يحصل أو يضبط عرض النمط"
 type: docs
-weight: 100
+weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternWidth property
 
-الحصول على عرض النمط أو تحديده .
+يحصل أو يعيّن عرض النمط.
 
 ```csharp
 public int PatternWidth { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عرض النمط .
+عرض النمط.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تحرير نمط طبقة التعبئة.
+يوضح الشيفرة التالية دعم تحرير نمط طبقة التعبئة.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // التحرير 
+            // تحرير 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

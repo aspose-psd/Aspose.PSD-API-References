@@ -1,14 +1,15 @@
 ---
-title: Class OSTypeStructuresRegistry
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry فصل. يمثل ملفOSTypeStructure سجل الموارد.
+title: "الفئة OSTypeStructuresRegistry"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry فئة. يمثل سجل موارد OSTypeStructure"
 type: docs
-weight: 2860
+weight: 3200
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry class
 
-يمثل ملف[`OSTypeStructure`](../ostypestructure/) سجل الموارد.
+يمثل سجل موارد [`OSTypeStructure`](../ostypestructure/).
 
 ```csharp
 public static class OSTypeStructuresRegistry
@@ -16,23 +17,23 @@ public static class OSTypeStructuresRegistry
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/) { get; } | يحصل على الواصفات المسجلة . |
+| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/) { get; } | يحصل على المُوَصِّفات المسجلة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/)(Stream) | يحصل على أول واصف افتتاحية مدعوم. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | يحصل على أول واصف مدعوم حسب نوعه. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | الأحمال[`OSTypeStructure`](../ostypestructure/) باستخدام أول فتاحة تم العثور عليها مناسبة لملف*stream* . |
-| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/)(IOSTypeStructureLoader) | تسجيل الفتح. |
-| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/)(IOSTypeStructureLoader) | إلغاء تسجيل الفتاحة. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/)(Stream) | يحصل على أول مُوَصِّف للفتح المدعوم. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | يحصل على أول مُوَصِّف مدعوم حسب اسم النوع الخاص به. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | يقوم بتحميل [`OSTypeStructure`](../ostypestructure/) باستخدام أول مُفتاح تم العثور عليه مناسب للدفق *المحدد*. |
+| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/)(IOSTypeStructureLoader) | يسجل المفتاح. |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/)(IOSTypeStructureLoader) | يلغي تسجيل المفتاح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.Underline
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. يحصل على قيمة تشير إلى ما إذا كان هذاFont مسطر .
+title: "Font.Underline"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل على قيمة تشير إلى ما إذا كان هذا Font تحته خط"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/font/underline/
 ---
+{{< psd/tize >}}
 ## Font.Underline property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا[`Font`](../) مسطر .
+يحصل على قيمة تشير إلى ما إذا كان هذا [`Font`](../) مُسطَّرًا.
 
 ```csharp
 public bool Underline { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إذا كان هذا صحيحًا[`Font`](../) مسطر خلاف ذلك ، خطأ.
+صحيح إذا كان هذا [`Font`](../) مُسطَّرًا؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

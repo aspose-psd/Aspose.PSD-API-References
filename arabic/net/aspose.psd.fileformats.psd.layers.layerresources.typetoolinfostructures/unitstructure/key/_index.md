@@ -1,23 +1,24 @@
 ---
-title: UnitStructure.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitStructure ملكية. يحصل على مفتاح الهيكل .
+title: "UnitStructure.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnitStructure. يحصل على مفتاح البنية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Key property
 
-يحصل على مفتاح الهيكل .
+يحصل على مفتاح البنية.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

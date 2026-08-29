@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearOutputChannelColorProfile
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يمسح إعداد ملف تعريف لون قناة الإخراج للفئة الافتراضية.
+title: "ImageAttributes.ClearOutputChannelColorProfile"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تمسح إعداد ملف تعريف لون قناة الإخراج للفئة الافتراضية."
 type: docs
 weight: 80
 url: /ar/net/aspose.psd/imageattributes/clearoutputchannelcolorprofile/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannelColorProfile() {#clearoutputchannelcolorprofile}
 
 يمسح إعداد ملف تعريف لون قناة الإخراج للفئة الافتراضية.
@@ -14,11 +15,11 @@ url: /ar/net/aspose.psd/imageattributes/clearoutputchannelcolorprofile/
 public void ClearOutputChannelColorProfile()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ public void ClearOutputChannelColorProfile()
 public void ClearOutputChannelColorProfile(ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي تم مسح إعداد ملف تعريف قناة الإخراج لها. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم مسح إعداد ملف تعريف قناة الإخراج لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

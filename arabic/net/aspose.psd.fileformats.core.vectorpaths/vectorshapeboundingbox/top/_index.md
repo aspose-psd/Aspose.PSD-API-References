@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Top
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeBoundingBox ملكية. الحصول على القمة أو تحديدها .
+title: "VectorShapeBoundingBox.Top"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeBoundingBox. يحصل أو يضبط القيمة العليا"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Top property
 
-الحصول على القمة أو تحديدها .
+يحصل أو يعيّن الخاصية العلوية.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القمة .
+القيمة العليا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeBoundingBox](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

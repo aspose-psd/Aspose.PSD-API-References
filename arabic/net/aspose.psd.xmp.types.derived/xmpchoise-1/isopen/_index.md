@@ -1,27 +1,28 @@
 ---
-title: XmpChoise1.IsOpen
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpChoise ملكية. الحصول على أو تعيين قيمة تشير إلى إمكانية تمديد القيم المفضلة.
+title: "XmpChoise1.IsOpen"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpChoise. تحصل أو تعين قيمة تشير إلى ما إذا كان يمكن توسيع القيم المفضلة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.derived/xmpchoise-1/isopen/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.IsOpen property
 
-الحصول على أو تعيين قيمة تشير إلى إمكانية تمديد القيم المفضلة.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان يمكن توسيع القيم المفضلة.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان من الممكن تمديد القيم المفضلة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يمكن توسيع القيم المفضلة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpChoise&lt;T&gt;](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

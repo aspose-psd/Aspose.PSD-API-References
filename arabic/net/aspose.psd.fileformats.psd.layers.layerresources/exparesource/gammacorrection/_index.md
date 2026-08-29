@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.GammaCorrection
-second_title: Aspose.PSD لمرجع .NET API
-description: ExpaResource ملكية. الحصول على جاما أو تعيينها .
+title: "ExpaResource.GammaCorrection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExpaResource. يحصل أو يضبط الجاما"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExpaResource.GammaCorrection property
 
-الحصول على جاما أو تعيينها .
+يحصل أو يضبط قيمة الجاما.
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-جاما .
+الجاما.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExpaResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

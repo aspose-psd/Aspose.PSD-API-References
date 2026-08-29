@@ -1,26 +1,27 @@
 ---
-title: ColorBalanceAdjustmentLayer.PreserveLuminosity
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorBalanceAdjustmentLayer ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاBlncResource يحافظ على اللمعان.
+title: "ColorBalanceAdjustmentLayer.PreserveLuminosity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorBalanceAdjustmentLayer. يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا BlncResource يحافظ على الإضاءة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) يحافظ على اللمعان.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا [`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) يحافظ على الإضاءة.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان يحافظ على اللمعان ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان يحافظ على الإضاءة؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم ColorBalanceAdjustmentLayer.
+الكود التالي يوضح دعم طبقة ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -51,10 +52,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorBalanceAdjustmentLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

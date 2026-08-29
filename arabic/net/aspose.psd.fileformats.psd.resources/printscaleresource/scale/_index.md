@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Aspose.PSD لمرجع .NET API
-description: PrintScaleResource ملكية. الحصول على المقياس أو تعيينه.
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PrintScaleResource. تحصل أو تعين المقياس"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
-الحصول على المقياس أو تعيينه.
+يحصل أو يضبط المقياس.
 
 ```csharp
 public float Scale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المقياس .
+المقياس.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrintScaleResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

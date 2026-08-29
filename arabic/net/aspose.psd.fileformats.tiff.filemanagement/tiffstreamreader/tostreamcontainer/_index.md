@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ToStreamContainer
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. تحويل البيانات الأساسية إلى حاوية التدفق.
+title: "TiffStreamReader.ToStreamContainer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. تحويل البيانات الأساسية إلى حاوية الدفق"
 type: docs
 weight: 230
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ToStreamContainer method
 
-تحويل البيانات الأساسية إلى حاوية التدفق.
+يحوّل البيانات الأساسية إلى حاوية الدفق.
 
 ```csharp
 public StreamContainer ToStreamContainer(long startPosition)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| startPosition | Int64 | موضع البدء لبدء التحويل منه. |
+| startPosition | Int64 | موضع البدء للبدء بالتحويل منه. |
 
 ### قيمة الإرجاع
 
-ال[`StreamContainer`](../../../aspose.psd/streamcontainer/) مع البيانات المحولة.
+الـ [`StreamContainer`](../../../aspose.psd/streamcontainer/) مع البيانات المحوّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

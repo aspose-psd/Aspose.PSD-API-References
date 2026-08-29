@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Interfaces
-second_title: Aspose.PSD لمرجع .NET API
-description: تعالج مساحة الاسم معالجة تنسيق ملف Tiff.
+title: "Aspose.PSD.Interfaces"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المجال الاسمي يتعامل مع معالجة تنسيق ملف Tiff"
 type: docs
-weight: 440
+weight: 480
 url: /ar/net/aspose.psd.interfaces/
 ---
-تعالج مساحة الاسم معالجة تنسيق ملف Tiff.
+{{< psd/tize >}}
+تتعامل مساحة الاسم مع معالجة تنسيق ملف TIFF.
 
-## واجهات
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
-| [IObjectWithSizeF](./iobjectwithsizef/) | يمثل الكائن بالحجم الذي يتم التعبير عنه بأرقام حقيقية (بالبوصة). |
+| [IObjectWithSizeF](./iobjectwithsizef/) | يمثّل كائنًا مع Size يتم التعبير عنه بأعداد حقيقية (بالبوصة). |
 
 

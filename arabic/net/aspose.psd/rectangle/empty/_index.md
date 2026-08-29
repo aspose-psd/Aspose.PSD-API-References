@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Empty
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. يحصل على مثيل جديد لملفRectangle هيكل لديهX وY وWidth وHeight تم ضبط القيم على الصفر.
+title: "Rectangle.Empty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل على نسخة جديدة من بنية Rectangle التي تكون قيم X و Y والعرض والارتفاع فيها صفرًا."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/rectangle/empty/
 ---
+{{< psd/tize >}}
 ## Rectangle.Empty property
 
-يحصل على مثيل جديد لملف[`Rectangle`](../) هيكل لديه[`X`](../x/) و[`Y`](../y/) و[`Width`](../width/) و[`Height`](../height/) تم ضبط القيم على الصفر.
+تحصل على نسخة جديدة من بنية [`Rectangle`](../) التي تكون قيم [`X`](../x/)، [`Y`](../y/)، [`Width`](../width/) و [`Height`](../height/) فيها صفرًا.
 
 ```csharp
 public static Rectangle Empty { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

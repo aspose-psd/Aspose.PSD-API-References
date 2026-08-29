@@ -1,11 +1,12 @@
 ---
-title: LinkResource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkResource طريقة. يحفظ بيانات كتلة المورد.
+title: "LinkResource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LinkResource. تحفظ بيانات كتلة المورد"
 type: docs
-weight: 70
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/
 ---
+{{< psd/tize >}}
 ## LinkResource.Save method
 
 يحفظ بيانات كتلة المورد.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LinkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

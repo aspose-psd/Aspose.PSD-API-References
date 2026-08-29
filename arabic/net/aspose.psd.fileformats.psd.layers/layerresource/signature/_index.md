@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerResource ملكية. يحصل على توقيع مورد الطبقة.
+title: "LayerResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerResource. يحصل على التوقيع"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/layerresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerResource.Signature property
 
-يحصل على توقيع مورد الطبقة.
+يحصل على التوقيع.
 
 ```csharp
-public abstract int Signature { get; }
+public virtual int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

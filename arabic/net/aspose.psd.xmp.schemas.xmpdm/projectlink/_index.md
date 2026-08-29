@@ -1,42 +1,43 @@
 ---
-title: Class ProjectLink
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink فصل. يمثل مسار المشروع .
+title: "الفئة ProjectLink"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink الفئة. يمثل مسار المشروع."
 type: docs
-weight: 5860
+weight: 6360
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink class
 
-يمثل مسار المشروع .
+يمثل مسار المشروع.
 
 ```csharp
 public sealed class ProjectLink : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ProjectLink](projectlink/)() | Default_Constructor |
+| [ProjectLink](projectlink/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | الحصول على أو تعيين المسار الكامل للمشروع . |
-| [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | الحصول على نوع الملف أو تعيينه. |
+| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | يحصل أو يعيّن المسار الكامل للمشروع. |
+| [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | يحصل أو يعيّن نوع الملف. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | سلسلة إرجاع القيمة المضمنة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | يعيد القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

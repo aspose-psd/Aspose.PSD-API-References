@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageResizeSettings ملكية. الحصول على أو تحديد نوع عامل التصفية.
+title: "ImageResizeSettings.FilterType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ImageResizeSettings. تحصل أو تعين نوع الفلتر"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/imageresizesettings/filtertype/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.FilterType property
 
-الحصول على أو تحديد نوع عامل التصفية.
+يحصل أو يضبط نوع الفلتر.
 
 ```csharp
 public ImageFilterType FilterType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع المرشح .
+نوع الفلتر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* مساحة الاسم [Aspose.PSD](../../imageresizesettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

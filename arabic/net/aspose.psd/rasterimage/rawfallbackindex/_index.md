@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawFallbackIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage ملكية. الحصول على الفهرس الاحتياطي أو تعيينه لاستخدامه عندما يكون فهرس اللوحة خارج الحدود
+title: "RasterImage.RawFallbackIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RasterImage. يحصل أو يضبط فهرس الاحتياطي لاستخدامه عندما يكون فهرس لوحة الألوان خارج النطاق"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/rasterimage/rawfallbackindex/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawFallbackIndex property
 
-الحصول على الفهرس الاحتياطي أو تعيينه لاستخدامه عندما يكون فهرس اللوحة خارج الحدود
+يحصل أو يضبط فهرس الاحتياطي للاستخدام عندما يكون فهرس لوحة الألوان خارج النطاق
 
 ```csharp
 public int RawFallbackIndex { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الفهرس الاحتياطي الذي سيتم استخدامه عندما يكون فهرس اللوحة خارج الحدود
+فهرس الاحتياطي لاستخدامه عندما يكون فهرس لوحة الألوان خارج النطاق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

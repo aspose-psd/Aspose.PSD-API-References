@@ -1,27 +1,28 @@
 ---
-title: VibAResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: VibAResource ملكية. يحصل على نسخة مديرية الأمن العام .
+title: "VibAResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "VibAResource خاصية. يحصل على نسخة الـ psd"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VibAResource.PsdVersion property
 
-يحصل على نسخة مديرية الأمن العام .
+يحصل على إصدار psd.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي من التعليمات البرمجية دعم مورد VibAResource.
+يوضح مثال الشيفرة التالي دعم مورد VibAResource.
 
 ```csharp
 [C#]
 
-// مثال على دعم قراءة وكتابة مورد الاهتزاز في وقت التشغيل.
+// مثال على دعم قراءة وكتابة مورد الاهتزاز أثناء التشغيل.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VibAResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

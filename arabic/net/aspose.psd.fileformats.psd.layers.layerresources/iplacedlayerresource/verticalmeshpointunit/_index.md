@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.VerticalMeshPointUnit
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. الحصول على أو تحديد وحدة قياس نقاط الشبكة العمودية.
+title: "IPlacedLayerResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل أو يضبط وحدة قياس نقاط الشبكة العمودية"
 type: docs
 weight: 220
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VerticalMeshPointUnit property
 
-الحصول على أو تحديد وحدة قياس نقاط الشبكة العمودية.
+يحصل أو يضبط وحدة القياس لنقاط الشبكة العمودية.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وحدة قياس نقاط الشبكة العمودية .
+وحدة القياس لنقاط الشبكة العمودية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

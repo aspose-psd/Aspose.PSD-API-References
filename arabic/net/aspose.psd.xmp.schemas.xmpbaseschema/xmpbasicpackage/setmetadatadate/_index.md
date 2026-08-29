@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage طريقة. إضافة البيانات الوصفية تاريخ آخر تغيير.
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpBasicPackage. يضيف تاريخ آخر تعديل للبيانات الوصفية"
 type: docs
-weight: 70
+weight: 90
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
-إضافة البيانات الوصفية تاريخ آخر تغيير.
+يضيف تاريخ آخر تعديل للبيانات الوصفية.
 
 ```csharp
 public void SetMetadataDate(DateTime metadataDate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | metadataDate | DateTime | تاريخ البيانات الوصفية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetMetadataDate(string) {#setmetadatadate_1}
 
-إضافة البيانات الوصفية تاريخ آخر تغيير.
+يضيف تاريخ آخر تعديل للبيانات الوصفية.
 
 ```csharp
 public void SetMetadataDate(string metadataDate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | metadataDate | String | تاريخ البيانات الوصفية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

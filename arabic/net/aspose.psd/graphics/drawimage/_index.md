@@ -1,457 +1,458 @@
 ---
-title: Graphics.DrawImage
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. رسم ملفImage  باستخدام حجمه الفعلي الأصلي  في الموقع المحدد.
+title: "Graphics.DrawImage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم الصورة المحددة باستخدام حجمها الفعلي الأصلي في الموقع المحدد."
 type: docs
-weight: 220
+weight: 230
 url: /ar/net/aspose.psd/graphics/drawimage/
 ---
+{{< psd/tize >}}
 ## DrawImage(Image, PointF) {#drawimage_1}
 
-رسم ملف[`Image`](../image/) ، باستخدام حجمه الفعلي الأصلي ، في الموقع المحدد.
+ترسم [`Image`](../image/) المحددة، باستخدام حجمها الفعلي الأصلي، في الموقع المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, PointF point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| point | PointF | [`PointF`](../../pointf/) الهيكل الذي يمثل الزاوية العلوية اليسرى من الصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| point | PointF | هيكل [`PointF`](../../pointf/) الذي يمثل الزاوية العليا اليسرى للصورة المرسومة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float) {#drawimage_22}
 
-رسم ملف[`Image`](../image/) ، باستخدام حجمه الفعلي الأصلي ، في الموقع المحدد.
+ترسم [`Image`](../image/) المحددة، باستخدام حجمها الفعلي الأصلي، في الموقع المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| x | Single | إحداثي x للركن الأيسر العلوي للصورة المرسومة. |
-| y | Single | إحداثي ص للركن الأيسر العلوي للصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| x | Single | `الإحداثي السيني للزاوية العليا اليسرى للصورة المرسومة.` |
+| y | Single | `الإحداثي الصادي للزاوية العليا اليسرى للصورة المرسومة.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF) {#drawimage_15}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) الهيكل الذي يحدد موقع وحجم الصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rect | RectangleF | هيكل [`RectangleF`](../../rectanglef/) الذي يحدد موقع وحجم الصورة المرسومة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit) {#drawimage_11}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
 | rectDestination | Rectangle | مستطيل الوجهة. |
-| graphicsUnit | GraphicsUnit | وحدة الرسوميات. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit) {#drawimage_16}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
 | rectDestination | RectangleF | مستطيل الوجهة. |
-| graphicsUnit | GraphicsUnit | وحدة الرسوميات. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_12}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
 | rectDestination | Rectangle | مستطيل الوجهة. |
-| graphicsUnit | GraphicsUnit | وحدة الرسوميات. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات. |
 | imageAttributes | ImageAttributes | سمات الصورة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_17}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rectDestination | RectangleF | مستطيل الوجهة المراد رسمه. |
-| graphicsUnit | GraphicsUnit | وحدة الرسوميات. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rectDestination | RectangleF | المستطيل الوجهة للرسم فيه. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات. |
 | imageAttributes | ImageAttributes | سمات الصورة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit) {#drawimage_13}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
     GraphicsUnit graphicsUnit)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rectSource | Rectangle | المصدر المستقيم. |
-| rectDestination | Rectangle | الوجهة المستقيمة. |
-| graphicsUnit | GraphicsUnit | وحدة الرسوميات. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rectSource | Rectangle | المستطيل المصدر. |
+| rectDestination | Rectangle | المستطيل الوجهة. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit) {#drawimage_18}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
     GraphicsUnit graphicsUnit)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rectSource | RectangleF | المصدر المستقيم. |
-| rectDestination | RectangleF | الوجهة المستقيمة. |
-| graphicsUnit | GraphicsUnit | وحدة الرسوميات. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rectSource | RectangleF | المستطيل المصدر. |
+| rectDestination | RectangleF | المستطيل الوجهة. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_14}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
     GraphicsUnit graphicsUnit, ImageAttributes imageAttributes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rectSource | Rectangle | المصدر المستقيم. |
-| rectDestination | Rectangle | الوجهة المستقيمة. |
-| graphicsUnit | GraphicsUnit | وحدة الرسوميات. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rectSource | Rectangle | المستطيل المصدر. |
+| rectDestination | Rectangle | المستطيل الوجهة. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات. |
 | imageAttributes | ImageAttributes | سمات الصورة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_19}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
     GraphicsUnit graphicsUnit, ImageAttributes imageAttributes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
 | rectSource | RectangleF | مستطيل المصدر. |
 | rectDestination | RectangleF | مستطيل الوجهة. |
-| graphicsUnit | GraphicsUnit | وحدة الرسومات المراد استخدامها. |
-| imageAttributes | ImageAttributes | سمات الصورة المراد استخدامها. |
+| graphicsUnit | GraphicsUnit | وحدة الرسومات المستخدمة. |
+| imageAttributes | ImageAttributes | سمات الصورة المستخدمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[]) {#drawimage_6}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | Point[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | Point[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle) {#drawimage_7}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | Point[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | Point[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 | srcRect | Rectangle | مستطيل المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit) {#drawimage_8}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | Point[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | Point[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 | srcRect | Rectangle | مستطيل المصدر. |
 | srcUnit | GraphicsUnit | وحدات القياس. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_9}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | Point[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | Point[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 | srcRect | Rectangle | مستطيل المصدر. |
 | srcUnit | GraphicsUnit | وحدات القياس. |
 | imageAttributes | ImageAttributes | سمات الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
@@ -459,110 +460,110 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[]) {#drawimage_2}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | PointF[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | PointF[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | صورة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF) {#drawimage_3}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | PointF[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | PointF[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 | srcRect | RectangleF | مستطيل المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit) {#drawimage_4}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | PointF[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | PointF[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 | srcRect | RectangleF | مستطيل المصدر. |
 | srcUnit | GraphicsUnit | وحدات القياس. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_5}
 
-رسم الجزء المحدد من*image* في الموقع المحدد وبالحجم المحدد.
+يرسم الجزء المحدد من *الصورة* المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit, 
     ImageAttributes imageAttributes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| image | Image | الصورة المراد رسمها. |
-| destPoints | PointF[] | صفيف من ثلاث هياكل PointF تحدد متوازي الأضلاع. |
+| صورة | صورة | الصورة المراد رسمها. |
+| destPoints | PointF[] | مصفوفة من ثلاث هياكل PointF تُعرّف متوازي أضلاع. |
 | srcRect | RectangleF | مستطيل المصدر. |
 | srcUnit | GraphicsUnit | وحدات القياس. |
 | imageAttributes | ImageAttributes | سمات الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
@@ -570,156 +571,156 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float, float, float) {#drawimage_23}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y, float width, float height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| x | Single | إحداثي x للركن الأيسر العلوي للصورة المرسومة. |
-| y | Single | إحداثي ص للركن الأيسر العلوي للصورة المرسومة. |
-| width | Single | عرض الصورة المرسومة. |
-| height | Single | ارتفاع الصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| x | Single | `الإحداثي السيني للزاوية العليا اليسرى للصورة المرسومة.` |
+| y | Single | `الإحداثي الصادي للزاوية العليا اليسرى للصورة المرسومة.` |
+| العرض | Single | عرض الصورة المرسومة. |
+| الارتفاع | Single | ارتفاع الصورة المرسومة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point) {#drawimage}
 
-رسم ملف[`Image`](../image/) ، باستخدام حجمه الفعلي الأصلي ، في الموقع المحدد.
+ترسم [`Image`](../image/) المحددة، باستخدام حجمها الفعلي الأصلي، في الموقع المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, Point point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| point | Point | [`Point`](../../point/) الهيكل الذي يمثل موقع الزاوية العلوية اليسرى للصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| point | Point | [`Point`](../../point/) هيكل يمثل موقع الزاوية العلوية اليسرى للصورة المرسومة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int) {#drawimage_20}
 
-يرسم الصورة المحددة ، باستخدام حجمها المادي الأصلي ، في الموقع المحدد بواسطة زوج إحداثيات .
+يرسم الصورة المحددة، باستخدام حجمها الفيزيائي الأصلي، في الموقع المحدد بزوج من الإحداثيات.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للصورة المرسومة. |
-| y | Int32 | إحداثي ص للركن الأيسر العلوي للصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| x | Int32 | `الإحداثي السيني للزاوية العليا اليسرى للصورة المرسومة.` |
+| y | Int32 | `الإحداثي الصادي للزاوية العليا اليسرى للصورة المرسومة.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle) {#drawimage_10}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) الهيكل الذي يحدد موقع وحجم الصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) هيكل يحدد موقع وحجم الصورة المرسومة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int, int, int) {#drawimage_21}
 
-رسم ملف[`Image`](../image/) في الموقع المحدد وبالحجم المحدد.
+ترسم [`Image`](../image/) المحددة في الموقع المحدد وبالحجم المحدد.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y, int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للصورة المرسومة. |
-| y | Int32 | إحداثي ص للركن الأيسر العلوي للصورة المرسومة. |
-| width | Int32 | عرض الصورة المرسومة. |
-| height | Int32 | ارتفاع الصورة المرسومة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| x | Int32 | `الإحداثي السيني للزاوية العليا اليسرى للصورة المرسومة.` |
+| y | Int32 | `الإحداثي الصادي للزاوية العليا اليسرى للصورة المرسومة.` |
+| العرض | Int32 | عرض الصورة المرسومة. |
+| الارتفاع | Int32 | ارتفاع الصورة المرسومة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

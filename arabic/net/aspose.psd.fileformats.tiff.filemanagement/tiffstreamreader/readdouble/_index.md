@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. اقرأ قيمة مزدوجة مفردة من التدفق .
+title: "TiffStreamReader.ReadDouble"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. قراءة قيمة مزدوجة واحدة من الدفق."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDouble method
 
-اقرأ قيمة مزدوجة مفردة من التدفق .
+اقرأ قيمة مزدوجة واحدة من الدفق.
 
 ```csharp
 public double ReadDouble(long position)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
+| الموضع | Int64 | الموضع للقراءة منه. |
 
 ### قيمة الإرجاع
 
-القيمة المزدوجة المفردة .
+القيمة المزدوجة الواحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: PlacedResource ملكية. يحصل على نسخة الطبقة الموضوعة في ملف PSD  عادة 3.
+title: "PlacedResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PlacedResource. يحصل على إصدار الطبقة الموضوعة في ملف PSD عادةً 3"
 type: docs
-weight: 210
+weight: 200
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
-يحصل على نسخة الطبقة الموضوعة في ملف PSD ، عادة 3.
+يحصل على إصدار الطبقة الموضوعة في ملف PSD، عادةً 3.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إصدار الطبقة الموضوعة .
+إصدار الطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PlacedResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

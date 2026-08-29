@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. يحصل على توقيع مورد الطبقة.
+title: "GdFlResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. يسترجع توقيع مورد الطبقة"
 type: docs
-weight: 160
+weight: 230
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Signature property
 
 يحصل على توقيع مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

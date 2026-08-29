@@ -1,23 +1,24 @@
 ---
-title: SoLeResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: SoLeResource مجال. مفتاح معلومات أداة النوع SoLE .
+title: "SoLeResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل SoLeResource. مفتاح معلومات أداة النوع SoLE"
 type: docs
-weight: 30
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoLeResource.TypeToolKey field
 
-مفتاح معلومات أداة النوع: "SoLE" .
+مفتاح معلومات أداة النوع: 'SoLE'.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SoLeResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

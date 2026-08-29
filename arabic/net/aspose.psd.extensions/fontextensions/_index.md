@@ -1,29 +1,30 @@
 ---
-title: Class FontExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.FontExtensions فصل. يحتوي على طرق امتداد لملفFont فئة .
+title: "الفئة FontExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Extensions.FontExtensions. يحتوي على أساليب امتداد لفئة Font."
 type: docs
-weight: 1090
+weight: 1100
 url: /ar/net/aspose.psd.extensions/fontextensions/
 ---
+{{< psd/tize >}}
 ## FontExtensions class
 
-يحتوي على طرق امتداد لملف[`Font`](../../aspose.psd/font/) فئة .
+يحتوي على أساليب امتداد لفئة [`Font`](../../aspose.psd/font/).
 
 ```csharp
 public static class FontExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont)(Font) | يحول ملف[`Font`](../../aspose.psd/font/) الىFont . |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont_1)(Font, GraphicsUnit) | يحول ملف[`Font`](../../aspose.psd/font/) الىFont . |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont)(Font) | يحوّل الـ [`Font`](../../aspose.psd/font/) إلى Font. |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont_1)(Font, GraphicsUnit) | يحوّل الـ [`Font`](../../aspose.psd/font/) إلى Font. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

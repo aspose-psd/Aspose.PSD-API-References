@@ -1,31 +1,32 @@
 ---
-title: Enum ExifFileSource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifFileSource تعداد. تعداد مصدر ملف exif .
+title: "عدد ExifFileSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifFileSource عدد. exif مصدر الملف عدد"
 type: docs
-weight: 850
+weight: 860
 url: /ar/net/aspose.psd.exif.enums/exiffilesource/
 ---
+{{< psd/tize >}}
 ## ExifFileSource enumeration
 
-تعداد مصدر ملف exif .
+exif تعداد مصدر الملف.
 
 ```csharp
 public enum ExifFileSource : byte
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Others | `0` | الآخرون . |
-| FilmScanner | `1` | ماسح ضوئي للأفلام . |
-| ReflexionPrintScanner | `2` | الماسح الضوئي للطباعة الانعكاسية . |
-| DigitalStillCamera | `3` | كاميرا رقمية. |
+| Others | `0` | الآخرون. |
+| FilmScanner | `1` | ماسح الفيلم. |
+| ReflexionPrintScanner | `2` | ماسح طباعة الانعكاس. |
+| DigitalStillCamera | `3` | كاميرا ثابتة رقمية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

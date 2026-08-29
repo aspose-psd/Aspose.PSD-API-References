@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.AlignWithLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PatternFillSettings ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان link with layer .
+title: "PatternFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PatternFillSettings. يحصل أو يضبط قيمة تشير إلى ما إذا كان هناك ربط مع الطبقة"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.AlignWithLayer property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [link with layer] .
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان [link with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [رابط مع طبقة] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان [link with layer]؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تحرير نمط طبقة التعبئة.
+يوضح الشيفرة التالية دعم تحرير نمط طبقة التعبئة.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // التحرير 
+            // تحرير 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

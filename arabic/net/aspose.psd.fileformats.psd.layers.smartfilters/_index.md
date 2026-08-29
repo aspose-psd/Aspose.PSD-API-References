@@ -1,26 +1,28 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على كيانات تنسيق ملف PSD المضمنة في الطبقات.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على كيانات تنسيق ملف PSD الموجودة في الطبقات"
 type: docs
-weight: 310
+weight: 330
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
-تحتوي مساحة الاسم على كيانات تنسيق ملف PSD المضمنة في الطبقات.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على كيانات تنسيق ملف PSD الموجودة في الطبقات.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [AddNoiseSmartFilter](./addnoisesmartfilter/) | عامل التصفية الذكي AddNoise . |
-| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | المرشح الذكي GaussianBlur . |
-| [SmartFilter](./smartfilter/) | فئة معالجة المنطق الأساسي للفلاتر الذكية. |
-| [SmartFilters](./smartfilters/) | المرشحات الذكية لـ[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) . |
-| [UnknownSmartFilter](./unknownsmartfilter/) | فئة الاحتفاظ ببيانات عامل التصفية الذكية غير المعروفة. |
+| [AddNoiseSmartFilter](./addnoisesmartfilter/) | مرشح AddNoise الذكي. |
+| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | مرشح GaussianBlur الذكي. |
+| [SharpenSmartFilter](./sharpensmartfilter/) | مرشح Sharpen الذكي. |
+| [SmartFilter](./smartfilter/) | الفئة لمعالجة المنطق الأساسي للمرشحات الذكية. |
+| [SmartFilters](./smartfilters/) | المرشحات الذكية لـ [`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/). |
+| [UnknownSmartFilter](./unknownsmartfilter/) | الفئة لتخزين بيانات مرشح ذكي غير معروف. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [NoiseDistribution](./noisedistribution/) | توزيع مرشح الضوضاء . |
+| [NoiseDistribution](./noisedistribution/) | توزيع مرشح الضوضاء. |
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpRightsManagementPackage طريقة. مجموعات الملاك .
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpRightsManagementPackage. تعيين المالكين"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
-مجموعات الملاك .
+يضبط المالكين.
 
 ```csharp
 public void SetOwners(string[] owners)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| owners | String[] | المالكون. |
+| المالكين | String[] | المالكين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpRightsManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

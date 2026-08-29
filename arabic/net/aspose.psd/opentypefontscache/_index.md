@@ -1,11 +1,12 @@
 ---
-title: Class OpenTypeFontsCache
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.OpenTypeFontsCache فصل. ذاكرة تخزين مؤقت لخطوط OpenType المثبتة في النظام.
+title: "الفئة OpenTypeFontsCache"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.OpenTypeFontsCache فئة. ذاكرة تخزين مؤقت لخطوط OpenType المثبتة في النظام"
 type: docs
-weight: 5170
+weight: 5660
 url: /ar/net/aspose.psd/opentypefontscache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache class
 
 ذاكرة تخزين مؤقت لخطوط OpenType المثبتة في النظام.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd/opentypefontscache/
 public static class OpenTypeFontsCache
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache/)() |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

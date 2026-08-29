@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.QuadVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeBoundingBox ملكية. الحصول على أو تحديد إصدار رباعي لقيمة الوحدة.
+title: "VectorShapeBoundingBox.QuadVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeBoundingBox. يحصل أو يضبط الإصدار الرباعي لقيمة الوحدة"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.QuadVersion property
 
-الحصول على أو تحديد إصدار رباعي لقيمة الوحدة.
+يحصل أو يعيّن نسخة رباعية لقيمة الوحدة.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار الرباعي .
+النسخة الرباعية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeBoundingBox](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

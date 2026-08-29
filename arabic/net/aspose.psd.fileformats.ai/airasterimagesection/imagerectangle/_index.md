@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على مستطيل الصورة.
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على مستطيل الصورة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
 يحصل على مستطيل الصورة.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 public Rectangle ImageRectangle { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مستطيل الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

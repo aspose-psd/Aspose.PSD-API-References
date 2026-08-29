@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorRangeHsl ملكية. الحصول على أو تعيين الحد الأيسر .
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorRangeHsl. تحصل أو تعيّن الحد الأيسر"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
-الحصول على أو تعيين الحد الأيسر .
+يحصل أو يضبط الحد الأيسر.
 
 ```csharp
 public short LeftBorder { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأيسر .
+الحد الأيسر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorRangeHsl](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

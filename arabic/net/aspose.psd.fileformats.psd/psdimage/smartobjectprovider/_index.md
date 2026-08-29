@@ -1,11 +1,12 @@
 ---
-title: PsdImage.SmartObjectProvider
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. يحصل على موفر الكائن الذكي.
+title: "PsdImage.SmartObjectProvider"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. تحصل على موفر الكائن الذكي."
 type: docs
 weight: 240
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## PsdImage.SmartObjectProvider property
 
 يحصل على موفر الكائن الذكي.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### Property_Value
+### Property Value
 
-موفر الكائن الذكي.
+مزود الكائن الذكي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectProvider](../../smartobjectprovider/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

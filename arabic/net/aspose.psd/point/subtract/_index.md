@@ -1,33 +1,34 @@
 ---
-title: Point.Subtract
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. إرجاع نتيجة الطرح المحددةSize من المحددPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تُرجِع نتيجة طرح Size المحدد من Point المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-إرجاع نتيجة الطرح المحددة[`Size`](../../size/) من المحدد[`Point`](../) .
+تُرجِع نتيجة طرح [`Size`](../../size/) المحدد من [`Point`](../) المحدد.
 
 ```csharp
 public static Point Subtract(Point point, Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | Point | ال[`Point`](../) تطرح من. |
-| size | Size | ال[`Size`](../../size/) لطرح من*point*. |
+| point | Point | ال[`Point`](../) الذي سيُطرح منه. |
+| size | Size | ال[`Size`](../../size/) المراد طرحه من *point*. |
 
 ### قيمة الإرجاع
 
-ال[`Point`](../) هذا هو نتيجة عملية الطرح.
+ال[`Point`](../) هو نتيجة عملية الطرح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

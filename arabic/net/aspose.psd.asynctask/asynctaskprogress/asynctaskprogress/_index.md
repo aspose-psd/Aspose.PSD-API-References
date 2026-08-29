@@ -1,28 +1,29 @@
 ---
-title: AsyncTaskProgress.AsyncTaskProgress
-second_title: Aspose.PSD لمرجع .NET API
-description: AsyncTaskProgress البناء. يقوم بتهيئة مثيل جديد لملفAsyncTaskProgress فئة .
+title: "AsyncTaskProgress.AsyncTaskProgress"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ AsyncTaskProgress. يهيئ مثيلاً جديداً لفئة AsyncTaskProgress"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress constructor
 
-يقوم بتهيئة مثيل جديد لملف[`AsyncTaskProgress`](../) فئة .
+يهيئ مثيلاً جديداً لفئة [`AsyncTaskProgress`](../).
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | progressPercentage | Int32 | نسبة التقدم. |
-| duration | TimeSpan | المدة. |
+| المدة | TimeSpan | المدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AsyncTaskProgress](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

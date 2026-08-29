@@ -1,47 +1,48 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMediaManagementPackage طريقة. يحدد معرف المستند.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpMediaManagementPackage. تعيين معرف المستند"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
-يحدد معرف المستند.
+يضبط معرف المستند.
 
 ```csharp
 public void SetDocumentId(Guid guid)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| guid | Guid | المعرف الفريد. |
+| guid | Guid | المعرّف الفريد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMediaManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetDocumentId(string) {#setdocumentid_1}
 
-يحدد معرف المستند.
+يضبط معرف المستند.
 
 ```csharp
 public void SetDocumentId(string guid)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| guid | String | المعرف الفريد. |
+| guid | String | المعرّف الفريد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMediaManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: FillLayer ملكية. يحصل على إعدادات التعبئة .
+title: "FillLayer.FillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية FillLayer. يحصل أو يضبط إعدادات التعبئة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-يحصل على إعدادات التعبئة .
+يحصل أو يضبط إعدادات التعبئة.
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إعدادات التعبئة .
+إعدادات التعبئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

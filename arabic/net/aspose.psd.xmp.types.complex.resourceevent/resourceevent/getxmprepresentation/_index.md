@@ -1,14 +1,15 @@
 ---
-title: ResourceEvent.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceEvent طريقة. الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+title: "ResourceEvent.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ResourceEvent. تحصل على القيمة النصية المحتواة بصيغة XMP"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.GetXmpRepresentation method
 
-الحصول على القيمة المضمنة في السلسلة بتنسيق XMP.
+يحصل على القيمة النصية المحتواة بتنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-تُرجع قيمة السلسلة المضمنة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceEvent](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

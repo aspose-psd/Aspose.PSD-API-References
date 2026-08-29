@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.AddNoiseSmartFilter
-second_title: Aspose.PSD لمرجع .NET API
-description: AddNoiseSmartFilter البناء. يقوم بتهيئة مثيل جديد لملفAddNoiseSmartFilter فئة .
+title: "AddNoiseSmartFilter.AddNoiseSmartFilter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ AddNoiseSmartFilter. يهيئ نسخة جديدة من فئة AddNoiseSmartFilter"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter constructor
 
-يقوم بتهيئة مثيل جديد لملف[`AddNoiseSmartFilter`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`AddNoiseSmartFilter`](../).
 
 ```csharp
 public AddNoiseSmartFilter()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AddNoiseSmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

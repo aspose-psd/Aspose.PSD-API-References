@@ -1,30 +1,31 @@
 ---
-title: Class CompressorException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.CompressorException فصل. استثناء الضاغط .
+title: "الفئة CompressorException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CoreExceptions.CompressorException فئة. استثناء الضاغط"
 type: docs
 weight: 430
 url: /ar/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
-استثناء الضاغط .
+استثناء الضاغط.
 
 ```csharp
 public class CompressorException : FrameworkException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`CompressorException` فئة . |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`CompressorException` فئة . |
+| [CompressorException](compressorexception/#constructor)(string) | ينشئ مثيلاً جديدًا من فئة `CompressorException`. |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | ينشئ مثيلاً جديدًا من فئة `CompressorException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FrameworkException](../frameworkexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

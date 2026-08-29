@@ -1,23 +1,24 @@
 ---
-title: VogkResource.VogkResource
-second_title: Aspose.PSD لمرجع .NET API
-description: VogkResource البناء. يقوم بتهيئة مثيل جديد لملفVogkResource فئة .
+title: "VogkResource.VogkResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ VogkResource. يهيئ مثلاً جديدًا من الفئة VogkResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/vogkresource/
 ---
+{{< psd/tize >}}
 ## VogkResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`VogkResource`](../) فئة .
+يهيئ مثلاً جديدًا من الفئة [`VogkResource`](../).
 
 ```csharp
 public VogkResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VogkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

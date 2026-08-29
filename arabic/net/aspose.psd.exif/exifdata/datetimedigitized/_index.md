@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد رقمنة التاريخ والوقت.
+title: "ExifData.DateTimeDigitized"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين تاريخ ووقت الرقمنة"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-الحصول على أو تحديد رقمنة التاريخ والوقت.
+يحصل أو يضبط تاريخ ووقت الرقمنة.
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تاريخ ووقت رقمي .
+تاريخ ووقت الرقمنة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

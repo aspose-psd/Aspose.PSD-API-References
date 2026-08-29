@@ -1,32 +1,33 @@
 ---
-title: RasterCachedImage.Dither
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterCachedImage طريقة. يقوم بالتردد على الصورة الحالية.
+title: "RasterCachedImage.Dither"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterCachedImage. تنفذ تمويهًا على الصورة الحالية"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/rastercachedimage/dither/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Dither method
 
-يقوم بالتردد على الصورة الحالية.
+يقوم بتطبيق التدرج النقطي على الصورة الحالية.
 
 ```csharp
 public override void Dither(DitheringMethod ditheringMethod, int bitsCount, 
     IColorPalette customPalette)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | طريقة التردد. |
-| bitsCount | Int32 | البتات النهائية تحسب للتردد. |
-| customPalette | IColorPalette | اللوحة المخصصة لثبات الألوان. |
+| ditheringMethod | DitheringMethod | طريقة التمويه. |
+| bitsCount | Int32 | عدد البتات النهائي للتمويه. |
+| customPalette | IColorPalette | لوحة الألوان المخصصة للتخفيض. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

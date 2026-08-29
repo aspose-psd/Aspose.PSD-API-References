@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.RedMask
-second_title: Aspose.PSD لمرجع .NET API
-description: GlobalLayerMaskInfo ملكية. الحصول على أو تعيين القناع الأحمر .
+title: "GlobalLayerMaskInfo.RedMask"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GlobalLayerMaskInfo. تحصل أو تعيّن القناع الأحمر"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.RedMask property
 
-الحصول على أو تعيين القناع الأحمر .
+يسترجع أو يعيّن القناع الأحمر.
 
 ```csharp
 public short RedMask { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القناع الأحمر .
+القناع الأحمر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalLayerMaskInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

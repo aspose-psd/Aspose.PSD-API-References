@@ -1,33 +1,34 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats تعداد. نموذج تنسيق enum
+title: "Enum TiffSampleFormats"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. تعداد تنسيق العينة"
 type: docs
-weight: 4160
+weight: 4630
 url: /ar/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-نموذج تنسيق enum
+تعداد تنسيق العينة
 
 ```csharp
 public enum TiffSampleFormats
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Uint | `1` | بيانات عدد صحيح بدون إشارة |
-| Int | `2` | بيانات عدد صحيح موقعة |
-| IeeeFp | `3` | بيانات النقطة العائمة IEEE |
-| Void | `4` | بيانات غير مطبوعة |
-| ComplexInt | `5` | توقيع مجمع int |
-| ComplexIeeeFp | `6` | مجمع ieee floating |
+| Uint | `1` | بيانات عدد صحيح غير موقع |
+| Int | `2` | بيانات عدد صحيح موقع |
+| IeeeFp | `3` | بيانات نقطة عائمة IEEE |
+| Void | `4` | بيانات غير مُصنَّفة |
+| ComplexInt | `5` | عدد صحيح مركب موقع |
+| ComplexIeeeFp | `6` | عدد عائم IEEE مركب |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

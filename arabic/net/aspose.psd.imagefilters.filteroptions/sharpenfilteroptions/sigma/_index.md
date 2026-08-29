@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Aspose.PSD لمرجع .NET API
-description: SharpenFilterOptions ملكية. الحصول على أو تعيين سيجما .
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SharpenFilterOptions. تحصل أو تعين sigma"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-الحصول على أو تعيين سيجما .
+يحصل أو يعيّن سيغما.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-سيجما .
+سيغما.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SharpenFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

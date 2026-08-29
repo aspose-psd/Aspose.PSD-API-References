@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpReal البناء. يقوم بتهيئة مثيل جديد لملفXmpReal فئة .
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpReal. يهيئ نسخة جديدة من فئة XmpReal"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpReal`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpReal`](../).
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Single | قيمة تعويم. |
+| قيمة | Single | قيمة عائمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpReal](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpReal`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpReal`](../).
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | القيمة خالية. |
-| ArgumentException | قيمة غير صالحة. يجب أن تطفو. |
+| ArgumentNullException | القيمة فارغة. |
+| ArgumentException | قيمة غير صالحة. يجب أن تكون عائمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpReal](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

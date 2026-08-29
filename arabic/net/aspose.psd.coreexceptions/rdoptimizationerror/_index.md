@@ -1,28 +1,29 @@
 ---
-title: Class RdOptimizationError
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.RdOptimizationError فصل. استثناء خطأ تحسين RD class
+title: "فئة RdOptimizationError"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError فئة. فئة استثناء خطأ تحسين RD"
 type: docs
 weight: 670
 url: /ar/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-استثناء خطأ تحسين RD class
+فئة استثناء خطأ تحسين RD
 
 ```csharp
 public class RdOptimizationError : Exception
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | يقوم بتهيئة مثيل جديد لملف`RdOptimizationError` فئة . |
+| [RdOptimizationError](rdoptimizationerror/)(string) | ينشئ مثيلاً جديدًا من فئة `RdOptimizationError`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Alignment
-second_title: Aspose.PSD لمرجع .NET API
-description: StringFormat ملكية. الحصول على معلومات محاذاة النص على المستوى العمودي أو تعيينها.
+title: "StringFormat.Alignment"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية StringFormat. تُرجع أو تُعيّن معلومات محاذاة النص على المستوى العمودي"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/stringformat/alignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.Alignment property
 
-الحصول على معلومات محاذاة النص على المستوى العمودي أو تعيينها.
+يحصل أو يضبط معلومات محاذاة النص على المستوى العمودي.
 
 ```csharp
 public StringAlignment Alignment { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`StringAlignment`](../../stringalignment/) التعداد الذي يحدد معلومات محاذاة النص.
+تعداد [`StringAlignment`](../../stringalignment/) يحدد معلومات محاذاة النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* مساحة الاسم [Aspose.PSD](../../stringformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

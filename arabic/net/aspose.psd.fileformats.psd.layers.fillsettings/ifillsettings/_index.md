@@ -1,11 +1,12 @@
 ---
-title: Interface IFillSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings واجهه المستخدم. الواجهة الأساسية لإعدادات التعبئة
+title: "الواجهة IFillSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الواجهة Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings. الواجهة الأساسية لإعدادات التعبئة"
 type: docs
-weight: 2000
+weight: 2120
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
+{{< psd/tize >}}
 ## IFillSettings interface
 
 الواجهة الأساسية لإعدادات التعبئة
@@ -16,13 +17,13 @@ public interface IFillSettings
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | يحصل على نوع التعبئة . |
+| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | يحصل على نوع التعبئة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

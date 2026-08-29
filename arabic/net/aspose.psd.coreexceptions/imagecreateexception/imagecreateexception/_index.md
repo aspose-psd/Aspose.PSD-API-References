@@ -1,48 +1,49 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageCreateException البناء. يقوم بتهيئة مثيل جديد لملفImageCreateException فئة .
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ImageCreateException. يقوم بإنشاء نسخة جديدة من الفئة ImageCreateException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageCreateException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageCreateException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageCreateException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageCreateException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

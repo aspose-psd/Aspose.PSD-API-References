@@ -1,27 +1,28 @@
 ---
-title: Time.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: Time ملكية. الحصول على أو تعيين قيمة الوقت في المقياس المحدد.
+title: "Time.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Time. يحصل أو يضبط قيمة الوقت في المقياس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/time/value/
 ---
+{{< psd/tize >}}
 ## Time.Value property
 
-الحصول على أو تعيين قيمة الوقت في المقياس المحدد.
+يحصل أو يضبط قيمة الوقت بالمقياس المحدد.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة الزمنية في المقياس المحدد .
+قيمة الوقت في المقياس المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Time](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum CompressionMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.CompressionMethod تعداد. يحدد طريقة الضغط المستخدمة لبيانات الصورة.
+title: "التعداد CompressionMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Psd.CompressionMethod. يُعرّف طريقة الضغط المستخدمة لبيانات الصورة."
 type: docs
-weight: 1620
+weight: 1630
 url: /ar/net/aspose.psd.fileformats.psd/compressionmethod/
 ---
+{{< psd/tize >}}
 ## CompressionMethod enumeration
 
 يحدد طريقة الضغط المستخدمة لبيانات الصورة.
@@ -14,18 +15,18 @@ url: /ar/net/aspose.psd.fileformats.psd/compressionmethod/
 public enum CompressionMethod : short
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Raw | `0` | بدون ضغط. بيانات الصورة المخزنة على هيئة بايتات أولية بترتيب RGBA المستوي. |
-| RLE | `1` | RLE المضغوطة تبدأ بيانات الصورة بأعداد البايت لجميع خطوط المسح (الصفوف * القنوات) ، مع تخزين كل عدد كقيمة ثنائية البايت. تتبع البيانات المضغوطة RLE ، مع ضغط كل سطر مسح على حدة. |
-| ZipWithoutPrediction | `2` | ZIP بدون تنبؤ. |
-| ZipWithPrediction | `3` | ZIP مع التنبؤ. |
+| Raw | `0` | بدون ضغط. تُخزن بيانات الصورة كبايتات خام بترتيب RGBA مسطّح. وهذا يعني أنه يتم كتابة جميع بيانات R أولاً، ثم جميع بيانات G، ثم جميع بيانات B وأخيرًا جميع بيانات A. |
+| RLE | `1` | بيانات الصورة المضغوطة بتقنية RLE تبدأ بعدد البايتات لكل خطوط المسح (الصفوف × القنوات)، حيث يُخزن كل عدد كقيمة من بايتين. يتبع ذلك البيانات المضغوطة بتقنية RLE، حيث يتم ضغط كل خط مسح على حدة. ضغط RLE هو نفس خوارزمية الضغط المستخدمة في روتين PackBits في ROM ماكintosh ومعيار TIFF. |
+| ZipWithoutPrediction | `2` | ZIP بدون توقع. |
+| ZipWithPrediction | `3` | ZIP مع توقع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

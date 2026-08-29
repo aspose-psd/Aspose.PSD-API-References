@@ -1,49 +1,50 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تصحيح جاما لصورة .
+title: "RasterImage.AdjustGamma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تصحيح غاما للصورة."
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-تصحيح جاما لصورة .
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| gammaRed | Single | معامل جاما للقناة الحمراء |
-| gammaGreen | Single | معامل جاما للقناة الخضراء |
-| gammaBlue | Single | معامل جاما للقناة الزرقاء |
-
-### أنظر أيضا
-
-* class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-تصحيح جاما لصورة .
+تصحيح غاما للصورة.
 
 ```csharp
 public virtual void AdjustGamma(float gamma)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gamma | Single | جاما لمعامل القنوات الأحمر والأخضر والأزرق |
+| جاما | Single | معامل جاما لقنوات الأحمر والأخضر والأزرق |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+تصحيح غاما للصورة.
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| gammaRed | Single | معامل جاما لقناة الأحمر |
+| gammaGreen | Single | معامل جاما لقناة الأخضر |
+| gammaBlue | Single | معامل جاما لقناة الأزرق |
+
+### انظر أيضًا
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

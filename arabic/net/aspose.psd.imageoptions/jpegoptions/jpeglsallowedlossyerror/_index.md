@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.JpegLsAllowedLossyError
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions ملكية. الحصول على أو تعيين اختلاف JPEGLS المرتبط بالتشفير شبه المفقود معلمة NEAR من مواصفات JPEGLS.
+title: "JpegOptions.JpegLsAllowedLossyError"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegOptions. تحصل أو تعين حد الفرق JPEGLS لتشفير nearlossless معلمة NEAR من مواصفة JPEGLS"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsAllowedLossyError property
 
-الحصول على أو تعيين اختلاف JPEG-LS المرتبط بالتشفير شبه المفقود (معلمة NEAR من مواصفات JPEG-LS).
+يحصل أو يضبط حد الفرق في JPEG-LS للترميز شبه غير فقدان (معامل NEAR من مواصفة JPEG-LS).
 
 ```csharp
 public int JpegLsAllowedLossyError { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

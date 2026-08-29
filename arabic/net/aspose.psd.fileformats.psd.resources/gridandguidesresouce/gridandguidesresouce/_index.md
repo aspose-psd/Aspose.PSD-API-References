@@ -1,23 +1,24 @@
 ---
-title: GridAndGuidesResouce.GridAndGuidesResouce
-second_title: Aspose.PSD لمرجع .NET API
-description: GridAndGuidesResouce البناء. Default_Constructor
+title: "GridAndGuidesResouce.GridAndGuidesResouce"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GridAndGuidesResouce. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridandguidesresouce/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public GridAndGuidesResouce()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GridAndGuidesResouce](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

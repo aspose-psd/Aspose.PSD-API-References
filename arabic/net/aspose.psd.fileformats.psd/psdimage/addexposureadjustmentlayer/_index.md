@@ -1,35 +1,36 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط التعريض .
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يضيف طبقة تعديل التعرض"
 type: docs
-weight: 340
+weight: 350
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-يضيف طبقة ضبط التعريض .
+يضيف طبقة تعديل التعرض.
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
     float gammaCorrection = 1)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| exposure | Single | التعرض. |
+| التعريض | Single | التعريض. |
 | offset | Single | الإزاحة. |
-| gammaCorrection | Single | تصحيح جاما. |
+| gammaCorrection | Single | تصحيح الجاما. |
 
 ### قيمة الإرجاع
 
-تم إنشاء طبقة ضبط التعرض
+تم إنشاء طبقة تعديل التعرض
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

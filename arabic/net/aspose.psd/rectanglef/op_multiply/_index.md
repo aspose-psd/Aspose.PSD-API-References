@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Multiply
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. تنفيذ عامل التشغيل  .
+title: "RectangleF.op_Multiply"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تنفذ المشغل"
 type: docs
 weight: 300
 url: /ar/net/aspose.psd/rectanglef/op_multiply/
 ---
+{{< psd/tize >}}
 ## RectangleF Multiply operator
 
-تنفيذ عامل التشغيل * .
+ينفّذ العملية *.
 
 ```csharp
 public static RectangleF operator *(RectangleF rectangle, float multiplier)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | RectangleF | المستطيل. |
-| multiplier | Single | المضاعف. |
+| مستطيل | RectangleF | المستطيل. |
+| المضاعف | Single | المضاعف. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

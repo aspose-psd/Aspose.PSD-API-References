@@ -1,14 +1,15 @@
 ---
-title: Class DataStreamSupporter
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.DataStreamSupporter فصل. حاوية دفق البيانات .
+title: "الفئة DataStreamSupporter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.DataStreamSupporter. حاوية تدفق البيانات"
 type: docs
-weight: 740
+weight: 750
 url: /ar/net/aspose.psd/datastreamsupporter/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter class
 
-حاوية دفق البيانات .
+حاوية تدفق البيانات.
 
 ```csharp
 public abstract class DataStreamSupporter : DisposableObject
@@ -16,27 +17,27 @@ public abstract class DataStreamSupporter : DisposableObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | يحصل على دفق بيانات الكائن. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل قد تم التخلص منه. |
-| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت بيانات الكائن مخزنة مؤقتًا حاليًا ولا يلزم قراءة البيانات. |
+| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | يحصل على تدفق بيانات الكائن. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن قد تم التخلص منه. |
+| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت بيانات الكائن مخزنة مؤقتاً حالياً ولا يلزم قراءة البيانات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | يخزن البيانات ويضمن عدم إجراء أي تحميل إضافي للبيانات من الأساس[`DataStreamContainer`](./datastreamcontainer/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | التخلص من المثيل الحالي. |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | يحفظ بيانات الكائن في الوضع الحالي`DataStreamSupporter` . |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_1)(Stream) | يحفظ بيانات الكائن في الدفق المحدد. |
-| [Save](../../aspose.psd/datastreamsupporter/save/#save_2)(string) | يحفظ بيانات الكائن في موقع الملف المحدد. |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_3)(string, bool) | يحفظ بيانات الكائن في موقع الملف المحدد. |
+| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | يقوم بتخزين البيانات مؤقتًا ويضمن عدم تحميل بيانات إضافية من الـ [`DataStreamContainer`](./datastreamcontainer/) الأساسي. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | يتخلص من المثيل الحالي. |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | يحفظ بيانات الكائن إلى `DataStreamSupporter` الحالي. |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_1)(Stream) | يحفظ بيانات الكائن إلى الدفق المحدد. |
+| [Save](../../aspose.psd/datastreamsupporter/save/#save_2)(string) | يحفظ بيانات الكائن إلى موقع الملف المحدد. |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_3)(string, bool) | يحفظ بيانات الكائن إلى موقع الملف المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DisposableObject](../disposableobject/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

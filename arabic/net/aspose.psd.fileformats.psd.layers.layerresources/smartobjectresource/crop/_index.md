@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectResource ملكية. الحصول على أو تعيين اقتصاص بيانات طبقة الكائن الذكي في صورة PSD.
+title: "SmartObjectResource.Crop"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartObjectResource. يحصل أو يضبط القص لبيانات طبقة الكائن الذكي في صورة PSD"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-الحصول على أو تعيين اقتصاص بيانات طبقة الكائن الذكي في صورة PSD.
+يحصل أو يضبط قص بيانات طبقة الكائن الذكي في صورة PSD.
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة اقتصاص معلومات الطبقة الموضوعة .
+قيمة القص لمعلومات الطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

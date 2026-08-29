@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.CustomColorConverter
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataSettings ملكية. الحصول على أو تعيين محول الألوان المخصص
+title: "RawDataSettings.CustomColorConverter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RawDataSettings. الحصول على أو تعيين محول اللون المخصص."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/rawdatasettings/customcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.CustomColorConverter property
 
-الحصول على أو تعيين محول الألوان المخصص
+يحصل أو يضبط محول اللون المخصص
 
 ```csharp
 public IColorConverter CustomColorConverter { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 محول اللون المخصص
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* مساحة الاسم [Aspose.PSD](../../rawdatasettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

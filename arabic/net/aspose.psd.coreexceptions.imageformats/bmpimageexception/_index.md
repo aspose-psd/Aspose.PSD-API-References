@@ -1,30 +1,31 @@
 ---
-title: Class BmpImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.BmpImageException فصل. استثناء صورة bmp .
+title: "الفئة BmpImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.ImageFormats.BmpImageException. استثناء صورة bmp"
 type: docs
 weight: 510
 url: /ar/net/aspose.psd.coreexceptions.imageformats/bmpimageexception/
 ---
+{{< psd/tize >}}
 ## BmpImageException class
 
-استثناء صورة bmp .
+استثناء صورة bmp.
 
 ```csharp
 public class BmpImageException : ImageException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BmpImageException](bmpimageexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`BmpImageException` فئة . |
-| [BmpImageException](bmpimageexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`BmpImageException` فئة . |
+| [BmpImageException](bmpimageexception/#constructor)(string) | يُهيئ مثيلًا جديدًا من الفئة `BmpImageException`. |
+| [BmpImageException](bmpimageexception/#constructor_1)(string, Exception) | يُهيئ مثيلًا جديدًا من الفئة `BmpImageException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

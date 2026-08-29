@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillPath
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يملأ الجزء الداخلي من أGraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. تملأ داخل GraphicsPath"
 type: docs
-weight: 360
+weight: 370
 url: /ar/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-يملأ الجزء الداخلي من أ[`GraphicsPath`](../../graphicspath/) .
+يملأ داخل [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)التي تحدد خصائص التعبئة. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) التي تمثل مسار الملء. |
+| brush | Brush | [`Brush`](../../brush/) الذي يحدد خصائص التعبئة. |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) التي تمثل المسار الذي سيتم ملؤه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *path* باطل. |
+| ArgumentNullException | *brush* قيمتها null. -أو- *path* قيمتها null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Aspose.PSD لمرجع .NET API
-description: Font ملكية. يحصل على قيمة تشير إلى ما إذا كان هذاFontمائل .
+title: "Font.Italic"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Font. تحصل على قيمة تشير إلى ما إذا كان هذا Font مائلًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا[`Font`](../)مائل .
+تحصل على قيمة تشير إلى ما إذا كان هذا [`Font`](../) مائلًا.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Property_Value
+### Property Value
 
-إذا كان هذا صحيحًا[`Font`](../) مائل خلاف ذلك ، خطأ.
+صحيح إذا كان هذا [`Font`](../) مائلًا؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

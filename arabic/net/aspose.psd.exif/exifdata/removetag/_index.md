@@ -1,11 +1,12 @@
 ---
-title: ExifData.RemoveTag
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData طريقة. إزالة العلامة من الحاوية
+title: "ExifData.RemoveTag"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ExifData. إزالة العلامة من الحاوية"
 type: docs
 weight: 1090
 url: /ar/net/aspose.psd.exif/exifdata/removetag/
 ---
+{{< psd/tize >}}
 ## RemoveTag(ExifProperties) {#removetag}
 
 إزالة العلامة من الحاوية
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd.exif/exifdata/removetag/
 public void RemoveTag(ExifProperties tag)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tag | ExifProperties | العلامة المراد إزالتها |
+| علامة | ExifProperties | العلامة المراد إزالتها |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifProperties](../../exifproperties/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,14 +36,14 @@ public void RemoveTag(ExifProperties tag)
 public void RemoveTag(ushort tagId)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tagId | UInt16 | معرّف العلامة المراد إزالته. |
+| tagId | UInt16 | معرف العلامة المراد إزالتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

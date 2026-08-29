@@ -1,98 +1,99 @@
 ---
-title: Class Pen
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Pen فصل. يحدد كائنًا يستخدم لرسم الخطوط والمنحنيات والأشكال .
+title: "الفئة Pen"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Pen. تُعرّف كائنًا يُستخدم لرسم الخطوط والمنحنيات والأشكال."
 type: docs
-weight: 5200
+weight: 5690
 url: /ar/net/aspose.psd/pen/
 ---
+{{< psd/tize >}}
 ## Pen class
 
-يحدد كائنًا يستخدم لرسم الخطوط والمنحنيات والأشكال .
+يحدد كائنًا يُستخدم لرسم الخطوط والمنحنيات والأشكال.
 
 ```csharp
 public class Pen : TransparencySupporter
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Pen](pen/#constructor)(Brush) | يقوم بتهيئة مثيل جديد لملف`Pen` فئة مع المحدد[`Brush`](./brush/) . |
-| [Pen](pen/#constructor_2)(Color) | يقوم بتهيئة مثيل جديد لملف`Pen` فئة باللون المحدد. |
-| [Pen](pen/#constructor_1)(Brush, float) | يقوم بتهيئة مثيل جديد لملف`Pen` فئة مع المحدد[`Brush`](./brush/) و[`Width`](./width/) . |
-| [Pen](pen/#constructor_3)(Color, float) | يقوم بتهيئة مثيل جديد لملف`Pen` فئة مع المحدد[`Color`](./color/) و[`Width`](./width/) الخصائص . |
+| [Pen](pen/#constructor)(Brush) | يُنشئ مثيلًا جديدًا من الفئة `Pen` باستخدام الـ[`Brush`](./brush/). |
+| [Pen](pen/#constructor_2)(Color) | يُنشئ مثيلًا جديدًا من الفئة `Pen` باللون المحدد. |
+| [Pen](pen/#constructor_1)(Brush, float) | يُنشئ مثيلًا جديدًا من الفئة `Pen` باستخدام الـ[`Brush`](./brush/) و[`Width`](./width/) المحددين. |
+| [Pen](pen/#constructor_3)(Color, float) | يُنشئ مثيلًا جديدًا من الفئة `Pen` بالخصائص المحددة [`Color`](./color/) و[`Width`](./width/). |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Alignment](../../aspose.psd/pen/alignment/) { get; set; } | الحصول على أو تعيين المحاذاة لهذا الغرض`Pen` . |
-| [Brush](../../aspose.psd/pen/brush/) { get; set; } | يحصل أو يحدد ملف[`Brush`](./brush/) التي تحدد سمات هذا`Pen` . |
-| [Color](../../aspose.psd/pen/color/) { get; set; } | الحصول على اللون أو تحديده`Pen` . |
-| [CompoundArray](../../aspose.psd/pen/compoundarray/) { get; set; } | الحصول على أو تعيين مصفوفة من القيم التي تحدد قلمًا مركبًا. قلم مركب يرسم خطًا مركبًا مكونًا من خطوط ومسافات متوازية. |
-| [CustomEndCap](../../aspose.psd/pen/customendcap/) { get; set; } | الحصول على أو تعيين حد أقصى مخصص لاستخدامه في نهاية السطور المرسومة بهذا`Pen` . |
-| [CustomStartCap](../../aspose.psd/pen/customstartcap/) { get; set; } | الحصول على غطاء مخصص أو تعيينه لاستخدامه في بداية السطور المرسومة بهذا`Pen` . |
-| [DashCap](../../aspose.psd/pen/dashcap/) { get; set; } | الحصول على أو تعيين نمط الغطاء المستخدم في نهاية الشرطات التي تشكل الخطوط المتقطعة المرسومة بهذا`Pen` . |
-| [DashOffset](../../aspose.psd/pen/dashoffset/) { get; set; } | الحصول على المسافة من بداية السطر إلى بداية نمط الشرطة أو تحديدها . |
-| [DashPattern](../../aspose.psd/pen/dashpattern/) { get; set; } | الحصول على أو تعيين مصفوفة من الشرطات والمسافات المخصصة. |
-| [DashStyle](../../aspose.psd/pen/dashstyle/) { get; set; } | الحصول على أو تحديد النمط المستخدم للخطوط المتقطعة المرسومة بهذا`Pen` . |
-| [EndCap](../../aspose.psd/pen/endcap/) { get; set; } | الحصول على أو تحديد نمط الغطاء المستخدم في نهاية السطور المرسومة بهذا`Pen` . |
-| [LineJoin](../../aspose.psd/pen/linejoin/) { get; set; } | الحصول على أو تحديد نمط الصلة لنهايات سطرين متتاليين مرسومين بهذا`Pen` . |
-| [MiterLimit](../../aspose.psd/pen/miterlimit/) { get; set; } | الحصول على أو تعيين حد سماكة الوصلة في الزاوية الميتة . |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | الحصول على عتامة الكائن أو تعيينها. يجب أن تكون القيمة بين 0 و 1. تعني القيمة 0 أن الكائن مرئي بالكامل ، بينما تعني القيمة 1 أن الكائن معتم بالكامل. |
-| [PenType](../../aspose.psd/pen/pentype/) { get; } | الحصول على نمط الخطوط المرسومة بهذا`Pen` . |
-| [StartCap](../../aspose.psd/pen/startcap/) { get; set; } | الحصول على أو تحديد نمط الغطاء المستخدم في بداية الخطوط المرسومة بهذا`Pen` . |
-| [Transform](../../aspose.psd/pen/transform/) { get; set; } | الحصول على نسخة من التحويل الهندسي لهذا الغرض أو تعيينها`Pen` . |
-| [Width](../../aspose.psd/pen/width/) { get; set; } | الحصول على أو تحديد عرض هذا`Pen` ، بوحدات كائن الرسومات المستخدمة للرسم . |
+| [Alignment](../../aspose.psd/pen/alignment/) { get; set; } | يحصل أو يعيّن المحاذاة لهذا `Pen`. |
+| [Brush](../../aspose.psd/pen/brush/) { get; set; } | يحصل أو يعيّن الـ[`Brush`](./brush/) الذي يحدد سمات هذا `Pen`. |
+| [Color](../../aspose.psd/pen/color/) { get; set; } | يحصل أو يعيّن لون هذا `Pen`. |
+| [CompoundArray](../../aspose.psd/pen/compoundarray/) { get; set; } | يحصل أو يعيّن مصفوفة القيم التي تحدد قلمًا مركبًا. القلم المركب يرسم خطًا مركبًا مكوّنًا من خطوط متوازية وفراغات. |
+| [CustomEndCap](../../aspose.psd/pen/customendcap/) { get; set; } | يحصل أو يعيّن غطاءً مخصصًا لاستخدامه في نهاية الخطوط المرسومة بهذا `Pen`. |
+| [CustomStartCap](../../aspose.psd/pen/customstartcap/) { get; set; } | يحصل أو يضبط غطاءً مخصصًا لاستخدامه في بداية الخطوط المرسومة بهذا `Pen`. |
+| [DashCap](../../aspose.psd/pen/dashcap/) { get; set; } | يحصل أو يضبط نمط الغطاء المستخدم في نهاية الشرطات التي تشكل الخطوط المتقطعة المرسومة بهذا `Pen`. |
+| [DashOffset](../../aspose.psd/pen/dashoffset/) { get; set; } | يحصل أو يضبط المسافة من بداية الخط إلى بداية نمط الشرط. |
+| [DashPattern](../../aspose.psd/pen/dashpattern/) { get; set; } | يحصل أو يضبط مصفوفة من الشرطات والمسافات المخصصة. |
+| [DashStyle](../../aspose.psd/pen/dashstyle/) { get; set; } | يحصل أو يضبط النمط المستخدم للخطوط المتقطعة المرسومة بهذا `Pen`. |
+| [EndCap](../../aspose.psd/pen/endcap/) { get; set; } | يحصل أو يضبط نمط الغطاء المستخدم في نهاية الخطوط المرسومة بهذا `Pen`. |
+| [LineJoin](../../aspose.psd/pen/linejoin/) { get; set; } | يحصل أو يضبط نمط الوصل لنهايات خطين متتاليين مرسومين بهذا `Pen`. |
+| [MiterLimit](../../aspose.psd/pen/miterlimit/) { get; set; } | يحصل أو يضبط حد سمك الوصل عند زاوية ميتير. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | يحصل أو يضبط شفافية الكائن. يجب أن تكون القيمة بين 0 و 1. القيمة 0 تعني أن الكائن مرئي بالكامل، والقيمة 1 تعني أن الكائن غير شفاف تماماً. |
+| [PenType](../../aspose.psd/pen/pentype/) { get; } | يحصل على نمط الخطوط المرسومة بهذا `Pen`. |
+| [StartCap](../../aspose.psd/pen/startcap/) { get; set; } | يحصل أو يضبط نمط الغطاء المستخدم في بداية الخطوط المرسومة بهذا `Pen`. |
+| [Transform](../../aspose.psd/pen/transform/) { get; set; } | يحصل أو يضبط نسخة من التحويل الهندسي لهذا `Pen`. |
+| [Width](../../aspose.psd/pen/width/) { get; set; } | يحصل أو يضبط عرض هذا `Pen`، بوحدات كائن Graphics المستخدم للرسم. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MultiplyTransform](../../aspose.psd/pen/multiplytransform/#multiplytransform)(Matrix) | تضرب مصفوفة التحويل لهذا الغرض`Pen` حسب المحدد[`Matrix`](../matrix/) . |
-| [MultiplyTransform](../../aspose.psd/pen/multiplytransform/#multiplytransform_1)(Matrix, MatrixOrder) | تضرب مصفوفة التحويل لهذا الغرض`Pen` حسب المحدد[`Matrix`](../matrix/) بالترتيب المحدد. |
-| [ResetTransform](../../aspose.psd/pen/resettransform/)() | يعيد تعيين مصفوفة التحويل الهندسي لهذا الغرض`Pen` للهوية . |
-| [RotateTransform](../../aspose.psd/pen/rotatetransform/#rotatetransform)(float) | يدير التحويل الهندسي المحلي بالزاوية المحددة. تعمل هذه الطريقة على تمهيد الدوران للتحويل. |
-| [RotateTransform](../../aspose.psd/pen/rotatetransform/#rotatetransform_1)(float, MatrixOrder) | يقوم بتدوير التحويل الهندسي المحلي بالزاوية المحددة بالترتيب المحدد. |
-| [ScaleTransform](../../aspose.psd/pen/scaletransform/#scaletransform)(float, float) | مقياس التحويل الهندسي المحلي بالعوامل المحددة. تضيف هذه الطريقة مصفوفة القياس إلى التحويل. |
-| [ScaleTransform](../../aspose.psd/pen/scaletransform/#scaletransform_1)(float, float, MatrixOrder) | مقياس التحويل الهندسي المحلي بواسطة العوامل المحددة بالترتيب المحدد. |
-| [SetLineCap](../../aspose.psd/pen/setlinecap/)(LineCap, LineCap, DashCap) | يضبط القيم التي تحدد نمط الغطاء المستخدم لإنهاء الخطوط المرسومة بواسطة هذا`Pen` . |
-| [TranslateTransform](../../aspose.psd/pen/translatetransform/#translatetransform)(float, float) | يترجم التحويل الهندسي المحلي بالأبعاد المحددة. تضيف هذه الطريقة الترجمة إلى التحويل. |
-| [TranslateTransform](../../aspose.psd/pen/translatetransform/#translatetransform_1)(float, float, MatrixOrder) | يترجم التحويل الهندسي المحلي بالأبعاد المحددة بالترتيب المحدد. |
+| [MultiplyTransform](../../aspose.psd/pen/multiplytransform/#multiplytransform)(Matrix) | يضرب مصفوفة التحويل لهذا `Pen` بالمصفوفة المحددة [`Matrix`](../matrix/). |
+| [MultiplyTransform](../../aspose.psd/pen/multiplytransform/#multiplytransform_1)(Matrix, MatrixOrder) | يضرب مصفوفة التحويل لهذا `Pen` بالمصفوفة المحددة [`Matrix`](../matrix/) بالترتيب المحدد. |
+| [ResetTransform](../../aspose.psd/pen/resettransform/)() | يعيد تعيين مصفوفة التحويل الهندسي لهذا `Pen` إلى هوية. |
+| [RotateTransform](../../aspose.psd/pen/rotatetransform/#rotatetransform)(float) | يدور التحويل الهندسي المحلي بالزاوية المحددة. تُضيف هذه الطريقة الدوران إلى بداية التحويل. |
+| [RotateTransform](../../aspose.psd/pen/rotatetransform/#rotatetransform_1)(float, MatrixOrder) | يدور التحويل الهندسي المحلي بالزاوية المحددة بالترتيب المحدد. |
+| [ScaleTransform](../../aspose.psd/pen/scaletransform/#scaletransform)(float, float) | يقوم بتكبير التحويل الهندسي المحلي بالعوامل المحددة. تُضيف هذه الطريقة مصفوفة التكبير إلى بداية التحويل. |
+| [ScaleTransform](../../aspose.psd/pen/scaletransform/#scaletransform_1)(float, float, MatrixOrder) | يقوم بتكبير التحويل الهندسي المحلي بالعوامل المحددة بالترتيب المحدد. |
+| [SetLineCap](../../aspose.psd/pen/setlinecap/)(LineCap, LineCap, DashCap) | يضبط القيم التي تحدد نمط الغطاء المستخدم لإنهاء الخطوط المرسومة بهذا `Pen`. |
+| [TranslateTransform](../../aspose.psd/pen/translatetransform/#translatetransform)(float, float) | ينقل التحويل الهندسي المحلي بالأبعاد المحددة. تُضيف هذه الطريقة الإزاحة إلى بداية التحويل. |
+| [TranslateTransform](../../aspose.psd/pen/translatetransform/#translatetransform_1)(float, float, MatrixOrder) | ينقل التحويل الهندسي المحلي بالأبعاد المحددة بالترتيب المحدد. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال إنشاء كائنات القلم واستخدامها. ينشئ المثال صورة جديدة ويرسم مستطيلات على سطح الصورة.
+هذا المثال يوضح إنشاء واستخدام كائنات Pen. المثال ينشئ صورة جديدة ويرسم مستطيلات على سطح الصورة.
 
 ```csharp
 [C#]
 
-// إنشاء مثيل للصورة
+//إنشاء مثال من Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // إنشاء مثيل للرسومات وتهيئته باستخدام كائن صورة
+    //إنشاء مثيل من Graphics وتهيئته باستخدام كائن Image
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // مسح واجهة الرسومات باللون الأبيض
+    //مسح سطح Graphics باللون الأبيض
     graphics.Clear(Aspose.PSD.Color.White);
 
-    // قم بإنشاء مثيل من القلم باللون الأحمر والعرض 5
+    //إنشاء مثيل من Pen باللون الأحمر وعرض 5
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
-    // قم بإنشاء مثيل لـ HatchBrush وعيّن خصائصه
+    //إنشاء مثيل من HatchBrush وتعيين خصائصه
     Aspose.PSD.Brushes.HatchBrush brush = new Aspose.PSD.Brushes.HatchBrush();
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
-    // إنشاء مثيل من Pen
-    // قم بتهيئته باستخدام كائن وعرض HatchBrush
+    //إنشاء مثيل من Pen
+    //تهيئته باستخدام كائن HatchBrush والعرض
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    // رسم مستطيلات عن طريق تحديد كائن القلم
+    //رسم مستطيلات عن طريق تحديد كائن Pen
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    // رسم مستطيلات عن طريق تحديد كائن القلم
+    //رسم مستطيلات عن طريق تحديد كائن Pen
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
     // إنشاء خيارات التصدير وتهيئتها.
@@ -103,10 +104,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransparencySupporter](../transparencysupporter/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

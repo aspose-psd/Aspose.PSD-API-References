@@ -1,11 +1,12 @@
 ---
-title: CustResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: CustResource ملكية. يحصل على التوقيع.
+title: "CustResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CustResource. يحصل على التوقيع"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/
 ---
+{{< psd/tize >}}
 ## CustResource.Signature property
 
 يحصل على التوقيع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

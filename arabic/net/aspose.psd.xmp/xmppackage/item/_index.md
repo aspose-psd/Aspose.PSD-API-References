@@ -1,35 +1,36 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackage ملكية. يحصل أو يحدد ملفObject بالمفتاح المحدد.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPackage. تحصل أو تعين الكائن بالمفتاح المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-يحصل أو يحدد ملفObject بالمفتاح المحدد.
+يحصل أو يضبط الكائن بالمفتاح المحدد.
 
 ```csharp
 public virtual object this[string key] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| key | المفتاح الذي يحدد القيمة. |
+| المفتاح | المفتاح الذي يحدد القيمة. |
 
 ### قيمة الإرجاع
 
-ترجع الObject بالمفتاح المحدد.
+يرجع الكائن بالمفتاح المحدد.
 
-### Property_Value
+### Property Value
 
-ملفObject .
+الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

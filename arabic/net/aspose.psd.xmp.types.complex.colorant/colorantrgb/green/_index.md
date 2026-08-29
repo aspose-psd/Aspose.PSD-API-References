@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Green
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantRgb ملكية. الحصول على أو تحديد قيمة المكون الأخضر.
+title: "ColorantRgb.Green"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantRgb. يحصل أو يعيّن قيمة المكوّن الأخضر"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/green/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Green property
 
-الحصول على أو تحديد قيمة المكون الأخضر.
+يحصل أو يعيّن قيمة المكوّن الأخضر.
 
 ```csharp
 public byte Green { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون الأخضر .
+قيمة المكوّن الأخضر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantRgb](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

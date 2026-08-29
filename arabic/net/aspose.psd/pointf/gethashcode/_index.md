@@ -1,14 +1,15 @@
 ---
-title: PointF.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF طريقة. إرجاع رمز تجزئة لهذا الغرضPointFهيكل .
+title: "PointF.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PointF. تُعيد قيمة تجزئة (hash code) لهذه البنية PointF."
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/pointf/gethashcode/
 ---
+{{< psd/tize >}}
 ## PointF.GetHashCode method
 
-إرجاع رمز تجزئة لهذا الغرض[`PointF`](../)هيكل .
+تُعيد قيمة تجزئة لهذه بنية [`PointF`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-قيمة عدد صحيح تحدد قيمة تجزئة لهذا الغرض[`PointF`](../) بناء.
+قيمة عددية صحيحة تحدد قيمة تجزئة لهذه بنية [`PointF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PSD لمرجع .NET API
-description: Metered طريقة. يحصل على ائتمان الاستهلاك
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Metered. تحصل على رصيد الاستهلاك"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd/metered/getconsumptioncredit/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionCredit method
 
-يحصل على ائتمان الاستهلاك
+يحصل على رصيد الاستهلاك
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -18,10 +19,10 @@ public static decimal GetConsumptionCredit()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.PSD](../../metered/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

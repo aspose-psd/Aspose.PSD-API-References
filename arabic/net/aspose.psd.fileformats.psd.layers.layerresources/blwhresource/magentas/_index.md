@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Magentas
-second_title: Aspose.PSD لمرجع .NET API
-description: BlwhResource ملكية. الحصول على أو تحديد قيمة اللون الأرجواني.
+title: "BlwhResource.Magentas"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlwhResource. يحصل على أو يضبط قيمة الماجنتا"
 type: docs
-weight: 90
+weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Magentas property
 
-الحصول على أو تحديد قيمة اللون الأرجواني.
+يحصل أو يضبط قيمة اللون الأرجواني.
 
 ```csharp
 public int Magentas { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة اللون الأرجواني .
+قيمة الماجنتا.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تحرير BlwhResource.
+المثال التالي يوضح كيفية تحرير BlwhResource.
 
 ```csharp
 [C#]
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlwhResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

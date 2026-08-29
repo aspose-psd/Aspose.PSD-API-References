@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Left
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF ملكية. الحصول على أو تحديد إحداثيات x للحافة اليسرى لهذاRectangleFهيكل .
+title: "RectangleF.Left"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleF. يحصل على أو يضبط إحداثي x للحافة اليسرى لهذا الهيكل RectangleF"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/rectanglef/left/
 ---
+{{< psd/tize >}}
 ## RectangleF.Left property
 
-الحصول على أو تحديد إحداثيات x للحافة اليسرى لهذا[`RectangleF`](../)هيكل .
+يحصل على أو يضبط إحداثي x للحافة اليسرى لهذا الهيكل [`RectangleF`](../).
 
 ```csharp
 public float Left { get; set; }
@@ -16,12 +17,12 @@ public float Left { get; set; }
 
 ### قيمة الإرجاع
 
-الإحداثي x للحافة اليسرى لهذا[`RectangleF`](../) بناء.
+إحداثي x للحافة اليسرى لهذا الهيكل [`RectangleF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

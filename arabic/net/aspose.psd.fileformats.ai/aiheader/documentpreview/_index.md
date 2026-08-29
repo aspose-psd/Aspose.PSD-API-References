@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على أو تعيين معاينة المستند.
+title: "AiHeader.DocumentPreview"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. يحصل أو يضبط معاينة المستند"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
-الحصول على أو تعيين معاينة المستند.
+يحصل أو يضبط معاينة المستند.
 
 ```csharp
 public string DocumentPreview { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معاينة المستند .
+معاينة المستند.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

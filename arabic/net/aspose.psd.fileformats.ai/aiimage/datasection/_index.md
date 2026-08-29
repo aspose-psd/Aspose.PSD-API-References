@@ -1,28 +1,29 @@
 ---
-title: AiImage.DataSection
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. يحصل على قسم البيانات .
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. يحصل على قسم البيانات"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
-يحصل على قسم البيانات .
+يحصل على قسم البيانات.
 
 ```csharp
 public AiDataSection DataSection { get; }
 ```
 
-### Property_Value
+### Property Value
 
 قسم البيانات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

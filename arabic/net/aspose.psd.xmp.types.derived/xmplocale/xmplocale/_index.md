@@ -1,27 +1,28 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpLocale البناء. يقوم بتهيئة مثيل جديد لملفXmpLocale فئة .
+title: "XmpLocale.XmpLocale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpLocale. يهيئ مثيلاً جديداً من الفئة XmpLocale"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-يقوم بتهيئة مثيل جديد لملف[`XmpLocale`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`XmpLocale`](../).
 
 ```csharp
 public XmpLocale(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpLocale](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerState البناء. يقوم بتهيئة مثيل جديد لملفLayerState فئة .
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LayerState. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-يقوم بتهيئة مثيل جديد لملف[`LayerState`](../) فئة .
+الباني الافتراضي.
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
 
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| layerId | Int32 | المعرف لتحديد حالة الطبقة ذات الصلة. |
-
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerState](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BackgroundColorResource.DataSize
-second_title: Aspose.PSD لمرجع .NET API
-description: BackgroundColorResource ملكية. الحصول على حجم بيانات المورد بالبايت.
+title: "BackgroundColorResource.DataSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BackgroundColorResource. يحصل على حجم بيانات المورد بالبايت"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.DataSize property
 
-الحصول على حجم بيانات المورد بالبايت.
+يحصل على حجم بيانات المورد بالبايت.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم بيانات المورد .
+حجم بيانات المورد.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم مورد BackgroundColorResource.
+المثال التالي يوضح دعم المورد BackgroundColorResource.
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BackgroundColorResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

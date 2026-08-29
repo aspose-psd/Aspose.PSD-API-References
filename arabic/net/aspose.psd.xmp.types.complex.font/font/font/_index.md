@@ -1,43 +1,44 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD لمرجع .NET API
-description: Font البناء. يقوم بتهيئة مثيل جديد لملفFont فئة .
+title: "Font.Font"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Font. يهيئ نسخة جديدة من الفئة Font"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Font`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Font`](../).
 
 ```csharp
 public Font()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Font`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Font`](../).
 
 ```csharp
 public Font(string fontFamily)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| fontFamily | String | خط العائلة. |
+| fontFamily | String | عائلة الخط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

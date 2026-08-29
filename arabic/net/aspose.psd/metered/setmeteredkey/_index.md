@@ -1,28 +1,29 @@
 ---
-title: Metered.SetMeteredKey
-second_title: Aspose.PSD لمرجع .NET API
-description: Metered طريقة. مجموعات المفاتيح العامة والخاصة التي تم قياسها
+title: "Metered.SetMeteredKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Metered. تُعيّن المفتاح العام والخاص لـ Metered. إذا قمت بشراء ترخيص Metered عند بدء التطبيق يجب استدعاء هذه الـ API عادةً وهذا يكفي. ومع ذلك إذا فشل دائمًا تحميل بيانات الاستهلاك وتجاوز 24 ساعة سيتم تعيين الترخيص إلى حالة التقييم لتجنب هذه الحالة يجب عليك فحص حالة الترخيص بانتظام؛ إذا كانت في حالة التقييم استدعِ هذه الـ API مرة أخرى"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd/metered/setmeteredkey/
 ---
+{{< psd/tize >}}
 ## Metered.SetMeteredKey method
 
-مجموعات المفاتيح العامة والخاصة التي تم قياسها
+يضبط المفتاح العام والخاص المتعقب. إذا قمت بشراء ترخيص متعقب، عند بدء التطبيق يجب استدعاء هذه API، عادةً يكون ذلك كافيًا. ومع ذلك، إذا فشل دائمًا تحميل بيانات الاستهلاك وتجاوز 24 ساعة، سيتم تعيين الترخيص إلى حالة تقييم. لتجنب هذه الحالة، يجب عليك فحص حالة الترخيص بانتظام، إذا كانت في حالة تقييم، استدعِ هذه API مرة أخرى.
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| publicKey | String | المفتاح العمومي |
-| privateKey | String | مفتاح سري |
+| publicKey | String | المفتاح العام |
+| privateKey | String | المفتاح الخاص |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.PSD](../../metered/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

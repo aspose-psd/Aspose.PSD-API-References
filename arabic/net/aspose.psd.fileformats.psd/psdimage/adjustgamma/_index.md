@@ -1,49 +1,50 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. تصحيح جاما لصورة .
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تصحيح غاما للصورة"
 type: docs
-weight: 460
+weight: 520
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-تصحيح جاما لصورة .
+تصحيح غاما للصورة.
 
 ```csharp
 public override void AdjustGamma(float gamma)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gamma | Single | جاما لمعامل القنوات الأحمر والأخضر والأزرق |
+| جاما | Single | معامل جاما لقنوات الأحمر والأخضر والأزرق |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AdjustGamma(float, float, float) {#adjustgamma_1}
 
-تصحيح جاما لصورة .
+تصحيح غاما للصورة.
 
 ```csharp
 public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gammaRed | Single | معامل جاما للقناة الحمراء |
-| gammaGreen | Single | معامل جاما للقناة الخضراء |
-| gammaBlue | Single | معامل جاما للقناة الزرقاء |
+| gammaRed | Single | معامل جاما لقناة الأحمر |
+| gammaGreen | Single | معامل جاما لقناة الأخضر |
+| gammaBlue | Single | معامل جاما لقناة الأزرق |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: RgbChannelMixerLayer.GreenChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: RgbChannelMixerLayer ملكية. يحصل على القناة الخضراء .
+title: "RgbChannelMixerLayer.GreenChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RgbChannelMixerLayer. تحصل على القناة الخضراء"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/greenchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GreenChannel property
 
-يحصل على القناة الخضراء .
+الحصول على قناة الأخضر.
 
 ```csharp
 public RgbMixerChannel GreenChannel { get; }
 ```
 
-### Property_Value
+### Property Value
 
-القناة الخضراء .
+القناة الخضراء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

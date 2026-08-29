@@ -1,87 +1,88 @@
 ---
-title: Graphics.DrawString
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. رسم السلسلة النصية المحددة بالموقع المحددBrush وFont الكائنات .
+title: "Graphics.DrawString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "`طريقة Graphics. ترسم سلسلة النص المحددة في الموقع المحدد باستخدام كائنات Brush و Font المحددة`"
 type: docs
-weight: 320
+weight: 330
 url: /ar/net/aspose.psd/graphics/drawstring/
 ---
+{{< psd/tize >}}
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-رسم السلسلة النصية المحددة بالموقع المحدد[`Brush`](../../brush/) و[`Font`](../../font/) الكائنات .
+`ترسم سلسلة النص المحددة في الموقع المحدد باستخدام كائنات [`Brush`](../../brush/) و [`Font`](../../font/) المحددة.`
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| s | String | سلسلة للرسم. |
-| font | Font | [`Font`](../../font/) التي تحدد تنسيق نص السلسلة. |
-| brush | Brush | [`Brush`](../../brush/) التي تحدد لون وملمس النص المرسوم. |
-| x | Single | إحداثي x للركن الأيسر العلوي للنص المرسوم. |
-| y | Single | إحداثي ص للركن الأيسر العلوي للنص المرسوم. |
+| s | String | `السلسلة المراد رسمها.` |
+| font | Font | `[`Font`](../../font/) الذي يحدد تنسيق النص للسلسلة.` |
+| brush | Brush | `[`Brush`](../../brush/) الذي يحدد اللون والملمس للنص المرسوم.` |
+| x | Single | `الإحداثي x للزاوية العليا اليسرى للنص المرسوم.` |
+| y | Single | `الإحداثي y للزاوية العليا اليسرى للنص المرسوم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *s* باطل. |
+| ArgumentNullException | `*brush* فارغ. -أو- *s* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-رسم السلسلة النصية المحددة بالموقع المحدد[`Brush`](../../brush/) و[`Font`](../../font/) الكائنات .
+`ترسم سلسلة النص المحددة في الموقع المحدد باستخدام كائنات [`Brush`](../../brush/) و [`Font`](../../font/) المحددة.`
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| s | String | سلسلة للرسم. |
-| font | Font | [`Font`](../../font/) التي تحدد تنسيق نص السلسلة. |
-| brush | Brush | [`Brush`](../../brush/) التي تحدد لون وملمس النص المرسوم. |
-| point | PointF | [`PointF`](../../pointf/) هيكل يحدد الزاوية العلوية اليسرى للنص المرسوم. |
+| s | String | `السلسلة المراد رسمها.` |
+| font | Font | `[`Font`](../../font/) الذي يحدد تنسيق النص للسلسلة.` |
+| brush | Brush | `[`Brush`](../../brush/) الذي يحدد اللون والملمس للنص المرسوم.` |
+| point | PointF | `[`PointF`](../../pointf/) بنية تحدد الزاوية العليا اليسرى للنص المرسوم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *s* باطل. |
+| ArgumentNullException | `*brush* فارغ. -أو- *s* فارغ.` |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال استخدام فئة Font و SolidBrush لرسم سلاسل على سطح الصورة. يقوم المثال بإنشاء صورة جديدة ورسم الأشكال باستخدام Figures و GraphicsPath
+يوضح هذا المثال استخدام فئة Font وفئة SolidBrush لرسم سلاسل نصية على سطح Image. ينشئ المثال صورة جديدة ويرسم أشكالاً باستخدام Figures و GraphicsPath.
 
 ```csharp
 [C#]
 
-// ينشئ مثيلاً للصورة
+//ينشئ مثيلاً من Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // يقوم بإنشاء وتهيئة مثيل لفئة الرسومات
+    //ينشئ ويُهيئ مثيلاً من الفئة Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // مسح سطح الرسومات
+    //يمسح سطح Graphics
     graphics.Clear(Color.Wheat);
 
-    // ينشئ مثيلاً للخط
+    //ينشئ مثيلاً من Font
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    // أنشئ مثيلاً من SolidBrush باللون الأحمر
+    //أنشئ مثيلاً من SolidBrush بلون أحمر
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    // ارسم سلسلة
+    //ارسم سلسلة نصية
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
     // إنشاء خيارات التصدير.
@@ -92,148 +93,148 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-رسم السلسلة النصية المحددة بالموقع المحدد[`Brush`](../../brush/) و[`Font`](../../font/) كائنات باستخدام سمات التنسيق المحددة[`StringFormat`](../../stringformat/) .
+`ترسم سلسلة النص المحددة في الموقع المحدد باستخدام كائنات [`Brush`](../../brush/) و [`Font`](../../font/) مع خصائص التنسيق المحددة في [`StringFormat`](../../stringformat/).`
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| s | String | سلسلة للرسم. |
-| font | Font | [`Font`](../../font/) التي تحدد تنسيق نص السلسلة. |
-| brush | Brush | [`Brush`](../../brush/) التي تحدد لون وملمس النص المرسوم. |
-| x | Single | إحداثي x للركن الأيسر العلوي للنص المرسوم. |
-| y | Single | إحداثي ص للركن الأيسر العلوي للنص المرسوم. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) يحدد سمات التنسيق ، مثل تباعد الأسطر والمحاذاة ، التي يتم تطبيقها على النص المرسوم. |
+| s | String | `السلسلة المراد رسمها.` |
+| font | Font | `[`Font`](../../font/) الذي يحدد تنسيق النص للسلسلة.` |
+| brush | Brush | `[`Brush`](../../brush/) الذي يحدد اللون والملمس للنص المرسوم.` |
+| x | Single | `الإحداثي x للزاوية العليا اليسرى للنص المرسوم.` |
+| y | Single | `الإحداثي y للزاوية العليا اليسرى للنص المرسوم.` |
+| format | StringFormat | `[`StringFormat`](../../stringformat/) الذي يحدد خصائص التنسيق، مثل تباعد الأسطر والمحاذاة، التي تُطبق على النص المرسوم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *s* باطل. |
+| ArgumentNullException | `*brush* فارغ. -أو- *s* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-رسم السلسلة النصية المحددة بالموقع المحدد[`Brush`](../../brush/) و[`Font`](../../font/) كائنات باستخدام سمات التنسيق المحددة[`StringFormat`](../../stringformat/) .
+`ترسم سلسلة النص المحددة في الموقع المحدد باستخدام كائنات [`Brush`](../../brush/) و [`Font`](../../font/) مع خصائص التنسيق المحددة في [`StringFormat`](../../stringformat/).`
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| s | String | سلسلة للرسم. |
-| font | Font | [`Font`](../../font/) التي تحدد تنسيق نص السلسلة. |
-| brush | Brush | [`Brush`](../../brush/) التي تحدد لون وملمس النص المرسوم. |
-| point | PointF | [`PointF`](../../pointf/) هيكل يحدد الزاوية العلوية اليسرى للنص المرسوم. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) يحدد سمات التنسيق ، مثل تباعد الأسطر والمحاذاة ، التي يتم تطبيقها على النص المرسوم. |
+| s | String | `السلسلة المراد رسمها.` |
+| font | Font | `[`Font`](../../font/) الذي يحدد تنسيق النص للسلسلة.` |
+| brush | Brush | `[`Brush`](../../brush/) الذي يحدد اللون والملمس للنص المرسوم.` |
+| point | PointF | `[`PointF`](../../pointf/) بنية تحدد الزاوية العليا اليسرى للنص المرسوم.` |
+| format | StringFormat | `[`StringFormat`](../../stringformat/) الذي يحدد خصائص التنسيق، مثل تباعد الأسطر والمحاذاة، التي تُطبق على النص المرسوم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *s* باطل. |
+| ArgumentNullException | `*brush* فارغ. -أو- *s* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-رسم السلسلة النصية المحددة في المستطيل المحدد بالقيمة المحددة[`Brush`](../../brush/) و[`Font`](../../font/) الكائنات .
+`ترسم سلسلة النص المحددة داخل المستطيل المحدد باستخدام كائنات [`Brush`](../../brush/) و [`Font`](../../font/).`
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| s | String | سلسلة للرسم. |
-| font | Font | [`Font`](../../font/) التي تحدد تنسيق نص السلسلة. |
-| brush | Brush | [`Brush`](../../brush/) التي تحدد لون وملمس النص المرسوم. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) الهيكل الذي يحدد موقع النص المرسوم. |
+| s | String | `السلسلة المراد رسمها.` |
+| font | Font | `[`Font`](../../font/) الذي يحدد تنسيق النص للسلسلة.` |
+| brush | Brush | `[`Brush`](../../brush/) الذي يحدد اللون والملمس للنص المرسوم.` |
+| layoutRectangle | RectangleF | `[`RectangleF`](../../rectanglef/) بنية تحدد موقع النص المرسوم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *s* باطل. |
+| ArgumentNullException | `*brush* فارغ. -أو- *s* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-رسم السلسلة النصية المحددة في المستطيل المحدد بالقيمة المحددة[`Brush`](../../brush/) و[`Font`](../../font/) كائنات باستخدام سمات التنسيق المحددة[`StringFormat`](../../stringformat/) .
+`ترسم سلسلة النص المحددة داخل المستطيل المحدد باستخدام كائنات [`Brush`](../../brush/) و [`Font`](../../font/) مع خصائص التنسيق المحددة في [`StringFormat`](../../stringformat/).`
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
     StringFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| s | String | سلسلة للرسم. |
-| font | Font | [`Font`](../../font/) التي تحدد تنسيق نص السلسلة. |
-| brush | Brush | [`Brush`](../../brush/) التي تحدد لون وملمس النص المرسوم. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) الهيكل الذي يحدد موقع النص المرسوم. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) يحدد سمات التنسيق ، مثل تباعد الأسطر والمحاذاة ، التي يتم تطبيقها على النص المرسوم. |
+| s | String | `السلسلة المراد رسمها.` |
+| font | Font | `[`Font`](../../font/) الذي يحدد تنسيق النص للسلسلة.` |
+| brush | Brush | `[`Brush`](../../brush/) الذي يحدد اللون والملمس للنص المرسوم.` |
+| layoutRectangle | RectangleF | `[`RectangleF`](../../rectanglef/) بنية تحدد موقع النص المرسوم.` |
+| format | StringFormat | `[`StringFormat`](../../stringformat/) الذي يحدد خصائص التنسيق، مثل تباعد الأسطر والمحاذاة، التي تُطبق على النص المرسوم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *brush* فارغ. -أو *s* فارغ. -أو *brush* باطل. |
+| ArgumentNullException | `*brush* فارغ. -أو- *s* فارغ. -أو- *brush* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IntRange.Range
-second_title: Aspose.PSD لمرجع .NET API
-description: IntRange ملكية. الحصول على النطاق أو تحديده.
+title: "IntRange.Range"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IntRange. تحصل أو تعيين النطاق"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
-الحصول على النطاق أو تحديده.
+يحصل أو يعيّن النطاق.
 
 ```csharp
 public int[] Range { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-النطاق .
+النطاق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntRange](../)
-* مساحة الاسم [Aspose.PSD](../../intrange/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

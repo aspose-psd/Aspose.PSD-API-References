@@ -1,28 +1,29 @@
 ---
-title: Enum ColorCompareMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ColorCompareMethod تعداد. طريقة مقارنة الألوان للتكيف مع أقرب جار
+title: "التعداد ColorCompareMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.ColorCompareMethod تعداد. طريقة مقارنة الألوان لضبط إلى أقرب جار"
 type: docs
 weight: 330
 url: /ar/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
-طريقة مقارنة الألوان للتكيف مع أقرب جار
+طريقة مقارنة اللون لضبط إلى أقرب جار
 
 ```csharp
 public enum ColorCompareMethod
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Euclidian | `0` | الطريقة الإقليدية |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

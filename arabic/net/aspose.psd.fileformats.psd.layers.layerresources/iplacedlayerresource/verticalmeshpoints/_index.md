@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.VerticalMeshPoints
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD.
+title: "IPlacedLayerResource.VerticalMeshPoints"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VerticalMeshPoints property
 
-الحصول على أو تعيين نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD.
+يحصل أو يضبط نقاط الشبكة الأفقية للطبقة الموضوعة في ملف PSD.
 
 ```csharp
 public double[] VerticalMeshPoints { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نقاط الشبكة الأفقية للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

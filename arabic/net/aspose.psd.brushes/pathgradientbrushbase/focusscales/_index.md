@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.FocusScales
-second_title: Aspose.PSD لمرجع .NET API
-description: PathGradientBrushBase ملكية. الحصول على أو تعيين نقطة التركيز لانخفاض التدرج اللوني.
+title: "PathGradientBrushBase.FocusScales"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PathGradientBrushBase. تحصل أو تعين نقطة التركيز لتلاشي التدرج."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.brushes/pathgradientbrushbase/focusscales/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.FocusScales property
 
-الحصول على أو تعيين نقطة التركيز لانخفاض التدرج اللوني.
+يحصل أو يضبط نقطة التركيز لتلاشي التدرج.
 
 ```csharp
 public PointF FocusScales { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`PointF`](../../../aspose.psd/pointf/) التي تمثل نقطة التركيز لانخفاض التدرج.
+كائن [`PointF`](../../../aspose.psd/pointf/) يمثل نقطة التركيز لتلاشي التدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

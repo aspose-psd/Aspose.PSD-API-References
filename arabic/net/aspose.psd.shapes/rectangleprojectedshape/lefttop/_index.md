@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftTop
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleProjectedShape ملكية. يحصل على نقطة المستطيل العلوية اليسرى .
+title: "RectangleProjectedShape.LeftTop"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleProjectedShape. تُرجع نقطة الزاوية اليسرى العليا للمستطيل"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.shapes/rectangleprojectedshape/lefttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftTop property
 
-يحصل على نقطة المستطيل العلوية اليسرى .
+يحصل على نقطة الزاوية اليسرى العليا للمستطيل.
 
 ```csharp
 public PointF LeftTop { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نقطة المستطيل العلوية اليسرى.
+نقطة الزاوية اليسرى العليا للمستطيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

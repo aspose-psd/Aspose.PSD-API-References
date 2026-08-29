@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadRational
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamReader طريقة. قراءة قيمة رقم منطقي واحدة من التدفق .
+title: "TiffStreamReader.ReadRational"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamReader. تقرأ قيمة عدد نسبي واحد من الدفق"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadRational method
 
-قراءة قيمة رقم منطقي واحدة من التدفق .
+اقرأ قيمة عدد كسرية واحدة من الدفق.
 
 ```csharp
 public TiffRational ReadRational(long position)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف للقراءة منه. |
+| الموضع | Int64 | الموضع للقراءة منه. |
 
 ### قيمة الإرجاع
 
-الرقم المنطقي .
+العدد النسبي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamReader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

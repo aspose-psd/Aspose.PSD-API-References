@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Xposition
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على موضع x أو تحديده .
+title: "TiffOptions.Xposition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين موضع x"
 type: docs
-weight: 620
+weight: 630
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/xposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xposition property
 
-الحصول على موضع x أو تحديده .
+يحصل أو يعيّن موضع x.
 
 ```csharp
 public TiffRational Xposition { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموضع x.
+موضع x.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

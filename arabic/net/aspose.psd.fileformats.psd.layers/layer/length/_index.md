@@ -1,23 +1,24 @@
 ---
-title: Layer.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على الطول الكلي للطبقة بالبايت.
+title: "Layer.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. تحصل على إجمالي طول الطبقة بالبايت"
 type: docs
-weight: 250
+weight: 260
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/length/
 ---
+{{< psd/tize >}}
 ## Layer.Length property
 
-الحصول على الطول الكلي للطبقة بالبايت.
+يحصل على الطول الكلي للطبقة بالبايت.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

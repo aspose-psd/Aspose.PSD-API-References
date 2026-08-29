@@ -1,27 +1,28 @@
 ---
-title: MedianFilterOptions.MedianFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: MedianFilterOptions البناء. يقوم بتهيئة مثيل جديد لملفMedianFilterOptions فئة .
+title: "MedianFilterOptions.MedianFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ MedianFilterOptions. يهيئ مثيلاً جديداً من الفئة MedianFilterOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions constructor
 
-يقوم بتهيئة مثيل جديد لملف[`MedianFilterOptions`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`MedianFilterOptions`](../).
 
 ```csharp
 public MedianFilterOptions(int size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Int32 | حجم مستطيل المرشح. |
+| الحجم | Int32 | حجم مستطيل الفلتر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MedianFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

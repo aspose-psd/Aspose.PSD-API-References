@@ -1,28 +1,29 @@
 ---
-title: ExifData.SensingMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. يحصل أو يحدد طريقة الاستشعار .
+title: "ExifData.SensingMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط طريقة الاستشعار"
 type: docs
 weight: 920
 url: /ar/net/aspose.psd.exif/exifdata/sensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.SensingMethod property
 
-يحصل أو يحدد طريقة الاستشعار .
+الحصول أو تعيين طريقة الاستشعار.
 
 ```csharp
 public ExifSensingMethod SensingMethod { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-طريقة الاستشعار .
+طريقة الاستشعار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifSensingMethod](../../../aspose.psd.exif.enums/exifsensingmethod/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

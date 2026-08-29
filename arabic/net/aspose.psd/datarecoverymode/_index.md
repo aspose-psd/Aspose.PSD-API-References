@@ -1,11 +1,12 @@
 ---
-title: Enum DataRecoveryMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.DataRecoveryMode تعداد. وضع استعادة البيانات.
+title: "التعداد DataRecoveryMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.DataRecoveryMode. وضع استعادة البيانات"
 type: docs
-weight: 730
+weight: 740
 url: /ar/net/aspose.psd/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## DataRecoveryMode enumeration
 
 وضع استعادة البيانات.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd/datarecoverymode/
 public enum DataRecoveryMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لم يتم تضمين استعادة البيانات. عندما يحتوي تنسيق الملف على بعض البيانات التالفة ، يتم طرح الاستثناء المناسب. |
-| ConsistentRecover | `1` | يحاول وضع الاسترداد المتسق استرداد جميع البيانات طالما أن الفساد لا يكسر تنسيق الملف ويسمح بمزيد من المعالجة الصحيحة. |
-| MaximalRecover | `2` | يستعيد وضع الاسترداد الأقصى جميع البيانات حتى إذا كان تنسيق الملف به بنية تالفة وقد تؤدي المعالجة الإضافية إلى تأثيرات غير مراقبة. |
+| None | `0` | لا يُفترض استعادة البيانات. كلما كان تنسيق الملف يحتوي على بعض البيانات التالفة يتم رمي الاستثناء المناسب. |
+| ConsistentRecover | `1` | وضع الاستعادة المتسق يحاول استعادة جميع البيانات طالما أن الفساد لا يكسر تنسيق الملف ويسمح بالمعالجة اللاحقة الصحيحة. |
+| MaximalRecover | `2` | وضع الاستعادة القصوى يستعيد جميع البيانات حتى إذا كان تنسيق الملف يحتوي على بنية تالفة وقد تؤدي المعالجة اللاحقة إلى تأثيرات غير مقصودة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

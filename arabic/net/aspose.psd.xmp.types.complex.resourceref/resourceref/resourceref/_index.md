@@ -1,23 +1,24 @@
 ---
-title: ResourceRef.ResourceRef
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceRef البناء. Default_Constructor
+title: "ResourceRef.ResourceRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ResourceRef. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.complex.resourceref/resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public ResourceRef()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceRef](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: LayerGroup.Layers
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerGroup ملكية. الحصول على الطبقات في مجموعة الطبقة
+title: "LayerGroup.Layers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerGroup. يحصل على الطبقات في مجموعة الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/layergroup/layers/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Layers property
 
-الحصول على الطبقات في مجموعة الطبقة
+يحصل على الطبقات في مجموعة الطبقة.
 
 ```csharp
 public Layer[] Layers { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

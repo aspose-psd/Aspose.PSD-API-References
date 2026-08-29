@@ -1,125 +1,126 @@
 ---
-title: Graphics.DrawImageUnscaled
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. رسم صورة محددة باستخدام حجمها الفعلي الأصلي في مكان محدد.
+title: "Graphics.DrawImageUnscaled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "`طريقة Graphics. ترسم صورة محددة باستخدام حجمها الفيزيائي الأصلي في موقع محدد`"
 type: docs
-weight: 230
+weight: 240
 url: /ar/net/aspose.psd/graphics/drawimageunscaled/
 ---
-## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
-
-رسم صورة محددة باستخدام حجمها الفعلي الأصلي في مكان محدد.
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, Point point)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| point | Point | [`Point`](../../point/) الهيكل الذي يحدد الزاوية العلوية اليسرى للصورة المرسومة. |
-
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
-
-### أنظر أيضا
-
-* class [Image](../../image/)
-* struct [Point](../../point/)
-* class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
-
----
-
-## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
-
-يرسم الصورة المحددة باستخدام حجمها المادي الأصلي في الموقع المحدد بواسطة زوج إحداثيات .
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, int x, int y)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للصورة المرسومة. |
-| y | Int32 | إحداثي ص للركن الأيسر العلوي للصورة المرسومة. |
-
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
-
-### أنظر أيضا
-
-* class [Image](../../image/)
-* class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## DrawImageUnscaled(Image, Rectangle) {#drawimageunscaled_1}
 
-رسم صورة محددة باستخدام حجمها الفعلي الأصلي في مكان محدد.
+يرسم صورة محددة باستخدام حجمها الفيزيائي الأصلي في موقع محدد.
 
 ```csharp
 public void DrawImageUnscaled(Image sourceImage, Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) يحدد الزاوية العلوية اليسرى للصورة المرسومة. تحدد خصائص المستطيل X و Y الزاوية اليسرى العليا. يتم تجاهل خصائص العرض والارتفاع. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| rect | Rectangle | `[`Rectangle`](../../rectangle/) التي تحدد الزاوية العليا اليسرى للصورة المرسومة. خصائص X و Y للمستطيل تحدد الزاوية العليا اليسرى. خصائص العرض والارتفاع يتم تجاهلها.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImageUnscaled(Image, int, int, int, int) {#drawimageunscaled_3}
 
-رسم صورة محددة باستخدام حجمها الفعلي الأصلي في مكان محدد.
+يرسم صورة محددة باستخدام حجمها الفيزيائي الأصلي في موقع محدد.
 
 ```csharp
 public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceImage | Image | الصورة المراد رسمها. |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للصورة المرسومة. |
-| y | Int32 | إحداثي ص للركن الأيسر العلوي للصورة المرسومة. |
-| width | Int32 | لا يتم استخدام المعلمة. |
-| height | Int32 | لا يتم استخدام المعلمة. |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| x | Int32 | `الإحداثي السيني للزاوية العليا اليسرى للصورة المرسومة.` |
+| y | Int32 | `الإحداثي الصادي للزاوية العليا اليسرى للصورة المرسومة.` |
+| العرض | Int32 | `المعامل غير مستخدم.` |
+| الارتفاع | Int32 | `المعامل غير مستخدم.` |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *sourceImage* باطل. |
+| ArgumentNullException | `*sourceImage* فارغ.` |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
+
+يرسم صورة محددة باستخدام حجمها الفيزيائي الأصلي في موقع محدد.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, Point point)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| point | Point | بنية [`Point`](../../point/) التي تحدد الزاوية العليا اليسرى للصورة المرسومة. |
+
+### استثناءات
+
+| استثناء | شرط |
+| --- | --- |
+| ArgumentNullException | `*sourceImage* فارغ.` |
+
+### انظر أيضًا
+
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
+
+يرسم الصورة المحددة باستخدام حجمها الفيزيائي الأصلي في الموقع المحدد بزوج من الإحداثيات.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, int x, int y)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| sourceImage | صورة | `الصورة التي سيتم الرسم بها.` |
+| x | Int32 | `الإحداثي السيني للزاوية العليا اليسرى للصورة المرسومة.` |
+| y | Int32 | `الإحداثي الصادي للزاوية العليا اليسرى للصورة المرسومة.` |
+
+### استثناءات
+
+| استثناء | شرط |
+| --- | --- |
+| ArgumentNullException | `*sourceImage* فارغ.` |
+
+### انظر أيضًا
+
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

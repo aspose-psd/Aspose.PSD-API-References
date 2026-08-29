@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD لمرجع .NET API
-description: LinearGradientBrush طريقة. ينشئ تدرجًا خطيًا بلون مركزي وانحدار خطي إلى لون واحد على كلا الطرفين.
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة LinearGradientBrush. تنشئ تدرجًا خطيًا بلون مركزي وانخفاضًا خطيًا إلى لون واحد في كلا الطرفين."
 type: docs
-weight: 50
+weight: 70
 url: /ar/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-ينشئ تدرجًا خطيًا بلون مركزي وانحدار خطي إلى لون واحد على كلا الطرفين.
+ينشئ تدرجًا خطيًا بلون مركزي وتلاشيًا خطيًا إلى لون واحد في كلا الطرفين.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| focus | Single | قيمة من 0 إلى 1 تحدد مركز التدرج اللوني (النقطة التي يتكون فيها التدرج من لون النهاية فقط). |
+| التركيز | Single | قيمة تتراوح بين 0 و 1 تحدد مركز التدرج (النقطة التي يتكون فيها التدرج من اللون النهائي فقط). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-ينشئ تدرجًا خطيًا بلون مركزي وانحدار خطي إلى لون واحد على كلا الطرفين.
+ينشئ تدرجًا خطيًا بلون مركزي وتلاشيًا خطيًا إلى لون واحد في كلا الطرفين.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| focus | Single | قيمة من 0 إلى 1 تحدد مركز التدرج اللوني (النقطة التي يتكون فيها التدرج من لون النهاية فقط). |
-| scale | Single | قيمة من 0 إلى 1 تحدد مدى سرعة سقوط الألوان من لون البداية إلى*focus*(لون النهاية) |
+| التركيز | Single | قيمة تتراوح بين 0 و 1 تحدد مركز التدرج (النقطة التي يتكون فيها التدرج من اللون النهائي فقط). |
+| scale | Single | قيمة تتراوح بين 0 و 1 تحدد مدى سرعة انخفاض الألوان من اللون الابتدائي إلى *التركيز* (اللون النهائي) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

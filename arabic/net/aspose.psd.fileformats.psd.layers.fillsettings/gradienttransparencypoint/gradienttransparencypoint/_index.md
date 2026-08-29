@@ -1,23 +1,24 @@
 ---
-title: GradientTransparencyPoint.GradientTransparencyPoint
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientTransparencyPoint البناء. يقوم بتهيئة مثيل جديد لملفGradientTransparencyPoint فئة .
+title: "GradientTransparencyPoint.GradientTransparencyPoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "GradientTransparencyPoint مُنشئ. يهيئ مثالًا جديدًا من فئة GradientTransparencyPoint"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint constructor
 
-يقوم بتهيئة مثيل جديد لملف[`GradientTransparencyPoint`](../) فئة .
+يهيئ مثالًا جديدًا من الفئة [`GradientTransparencyPoint`](../)
 
 ```csharp
 public GradientTransparencyPoint()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientTransparencyPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

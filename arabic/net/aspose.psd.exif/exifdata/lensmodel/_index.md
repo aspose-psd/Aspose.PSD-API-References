@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensModel
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على نموذج العدسة أو تحديده .
+title: "ExifData.LensModel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط نموذج العدسة"
 type: docs
 weight: 740
 url: /ar/net/aspose.psd.exif/exifdata/lensmodel/
 ---
+{{< psd/tize >}}
 ## ExifData.LensModel property
 
-الحصول على نموذج العدسة أو تحديده .
+يحصل أو يعيّن طراز العدسة.
 
 ```csharp
 public string LensModel { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نموذج العدسة .
+نموذج العدسة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Aspose.PSD لمرجع .NET API
-description: GradientFillSettings ملكية. الحصول على المقياس أو تعيينه.
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GradientFillSettings. يحصل أو يضبط مقياس التدرج المُعَدّل بالنسبة المئوية"
 type: docs
-weight: 120
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-الحصول على المقياس أو تعيينه.
+يحصل أو يعيّن مقياس التدرج **المُعَدَّل** (بالنسبة المئوية)
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المقياس .
+المقياس.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يتراوح المقياس من 1 إلى 1000. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون المقياس في النطاق من 1 إلى 1000. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

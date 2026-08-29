@@ -1,28 +1,29 @@
 ---
-title: Interface IImageCreator
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IImageCreator واجهه المستخدم. مُنشئ الصورة .
+title: "الواجهة IImageCreator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IImageCreator. منشئ الصورة."
 type: docs
-weight: 4400
+weight: 4870
 url: /ar/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
-مُنشئ الصورة .
+منشئ الصورة.
 
 ```csharp
 public interface IImageCreator
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | لإنشاء مثيل صورة جديد بامتداد*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | ينشئ مثيلًا جديدًا للصورة باستخدام *imageOptions*. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

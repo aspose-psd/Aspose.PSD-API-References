@@ -1,28 +1,29 @@
 ---
-title: Class FileFormatExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.FileFormatExtensions فصل. يحتوي علىFileFormat طرق التمديد .
+title: "الفئة FileFormatExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Extensions.FileFormatExtensions. تحتوي على طرق امتداد FileFormat"
 type: docs
-weight: 1080
+weight: 1090
 url: /ar/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-يحتوي على[`FileFormat`](../../aspose.psd/fileformat/) طرق التمديد .
+تحتوي على طرق امتداد [`FileFormat`](../../aspose.psd/fileformat/).
 
 ```csharp
 public static class FileFormatExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | لتحديد ما إذا كان تنسيق الملف الفردي محددًا أم لا. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | يحدد ما إذا كان تنسيق ملف واحد معرفاً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

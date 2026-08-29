@@ -1,35 +1,36 @@
 ---
-title: Class BlendRange
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange فصل. نطاق المزج .
+title: "فئة BlendRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange فئة. نطاق الدمج"
 type: docs
-weight: 1890
+weight: 2000
 url: /ar/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
-نطاق المزج .
+نطاق الدمج.
 
 ```csharp
 public sealed class BlendRange
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlendRange](blendrange/)() | Default_Constructor |
+| [BlendRange](blendrange/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | الحصول على أو تحديد نطاق المزج الوجهة. |
-| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | الحصول على أو تحديد نطاق مزيج المصدر. |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | يحصل أو يضبط نطاق الدمج الوجهة. |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | يحصل أو يضبط نطاق الدمج المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

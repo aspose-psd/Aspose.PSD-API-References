@@ -1,11 +1,12 @@
 ---
-title: Class ImageExportersRegistry
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageExportersRegistry فصل. يمثل سجل مصدري الصور.
+title: "الفئة ImageExportersRegistry"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageExportersRegistry. تمثل سجل مُصدِّري الصور"
 type: docs
-weight: 4630
+weight: 5100
 url: /ar/net/aspose.psd/imageexportersregistry/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry class
 
 يمثل سجل مصدري الصور.
@@ -16,24 +17,24 @@ public static class ImageExportersRegistry
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | يحصل على واصفات المُصدِّر المُسجَّلة . |
-| static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats/) { get; } | الحصول على تنسيقات التصدير المسجلة. |
+| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | يحصل على أوصاف المُصدِّرين المسجلين. |
+| static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats/) { get; } | يحصل على صيغ التصدير المسجلة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | إنشاء أول مصدر تم العثور عليه مناسبًا لخيارات الحفظ والصورة المحددة. |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/)(Image, ImageOptionsBase) | الحصول على القبضة التي تم العثور عليها في الموصف المدعوم المناسب لخيارات الحفظ المحددة والصورة. |
-| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | يسجل واصف مصدر الصورة المحدد. |
-| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter/)(IImageExporterDescriptor) | تسجيل المُصدر . |
-| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | إلغاء تسجيل المُصدر. |
+| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | ينشئ أول مُصدِّر يتم العثور عليه مناسب لخيارات الحفظ المحددة والصورة. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/)(Image, ImageOptionsBase) | يحصل على أول وصف مدعوم يتم العثور عليه مناسب لخيارات الحفظ المحددة والصورة. |
+| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | يسجِّل وصف مُصدِّر الصورة المحدد. |
+| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter/)(IImageExporterDescriptor) | يسجِّل المُصدِّر. |
+| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | يلغي تسجيل المُصدِّر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

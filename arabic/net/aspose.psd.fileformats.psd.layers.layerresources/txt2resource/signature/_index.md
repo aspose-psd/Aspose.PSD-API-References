@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: Txt2Resource ملكية. يحصل على توقيع مورد الطبقة.
+title: "Txt2Resource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Txt2Resource. تحصل على توقيع مورد الطبقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signature/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Signature property
 
 يحصل على توقيع مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/signa
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Txt2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

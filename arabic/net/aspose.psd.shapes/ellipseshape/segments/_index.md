@@ -1,28 +1,29 @@
 ---
-title: EllipseShape.Segments
-second_title: Aspose.PSD لمرجع .NET API
-description: EllipseShape ملكية. الحصول على شرائح الشكل .
+title: "EllipseShape.Segments"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية EllipseShape. يحصل على مقاطع الشكل"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.shapes/ellipseshape/segments/
 ---
+{{< psd/tize >}}
 ## EllipseShape.Segments property
 
-الحصول على شرائح الشكل .
+يحصل على مقاطع الشكل.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مقاطع الشكل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [EllipseShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../ellipseshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

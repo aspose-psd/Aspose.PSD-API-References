@@ -1,32 +1,33 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackageBaseCollection طريقة. يحصلXmpPackage من خلال مساحة الاسم
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackageBaseCollection. تُرجع XmpPackage حسب namespaceURI الخاص به"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-يحصل[`XmpPackage`](../../xmppackage/) من خلال مساحة الاسم
+يُرجع [`XmpPackage`](../../xmppackage/) حسب namespaceURI الخاص به.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| namespaceUri | String | مساحة الاسم URI المطلوب الحصول على الحزمة لها. |
+| namespaceUri | String | URI مساحة الاسم للحصول على الحزمة. |
 
 ### قيمة الإرجاع
 
-إرجاع حزمة XMP لمساحة الاسم المحددة Uri.
+يرجع حزمة XMP لمساحة الاسم المحددة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

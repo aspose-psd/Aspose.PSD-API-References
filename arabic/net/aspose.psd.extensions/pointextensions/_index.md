@@ -1,30 +1,31 @@
 ---
-title: Class PointExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.PointExtensions فصل. يحتوي على طرق تمديد لـPoint وPointF الهياكل .
+title: "فئة PointExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.Extensions.PointExtensions. تحتوي على طرق امتداد لهياكل Point و PointF"
 type: docs
-weight: 1150
+weight: 1160
 url: /ar/net/aspose.psd.extensions/pointextensions/
 ---
+{{< psd/tize >}}
 ## PointExtensions class
 
-يحتوي على طرق تمديد لـ[`Point`](../../aspose.psd/point/) و[`PointF`](../../aspose.psd/pointf/) الهياكل .
+تحتوي على طرق امتداد لهياكل [`Point`](../../aspose.psd/point/) و [`PointF`](../../aspose.psd/pointf/).
 
 ```csharp
 public static class PointExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | يحول ملف[`PointF`](../../aspose.psd/pointf/) لPointF . |
-| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | يحول ملف[`PointF`](../../aspose.psd/pointf/) مجموعة لPointF مجموعة . |
-| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | يحول ملف[`Point`](../../aspose.psd/point/) مجموعة ل[`PointF`](../../aspose.psd/pointf/) مجموعة . |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | يحوّل [`PointF`](../../aspose.psd/pointf/) إلى PointF. |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | يحوّل مصفوفة [`PointF`](../../aspose.psd/pointf/) إلى مصفوفة PointF. |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | يحوّل مصفوفة [`Point`](../../aspose.psd/point/) إلى مصفوفة [`PointF`](../../aspose.psd/pointf/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

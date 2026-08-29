@@ -1,53 +1,54 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle البناء. يقوم بتهيئة مثيل جديد لملفRectangle هيكل بالموقع والحجم المحددين.
+title: "Rectangle.Rectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Rectangle. يهيئ نسخة جديدة من هيكل Rectangle بالموقع والحجم المحددين."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/rectangle/rectangle/
 ---
+{{< psd/tize >}}
 ## Rectangle(int, int, int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Rectangle`](../) هيكل بالموقع والحجم المحددين.
+يهيئ نسخة جديدة من الهيكل [`Rectangle`](../) بالموقع والحجم المحددين.
 
 ```csharp
 public Rectangle(int x, int y, int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للمستطيل. |
-| y | Int32 | إحداثي ص للركن الأيسر العلوي للمستطيل. |
-| width | Int32 | عرض المستطيل. |
-| height | Int32 | ارتفاع المستطيل. |
+| x | Int32 | الإحداثي x للزاوية العليا اليسرى للمستطيل. |
+| y | Int32 | الإحداثي y للزاوية العليا اليسرى للمستطيل. |
+| العرض | Int32 | عرض المستطيل. |
+| الارتفاع | Int32 | ارتفاع المستطيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rectangle(Point, Size) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Rectangle`](../) هيكل بالموقع والحجم المحددين.
+يهيئ نسخة جديدة من الهيكل [`Rectangle`](../) بالموقع والحجم المحددين.
 
 ```csharp
 public Rectangle(Point location, Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| location | Point | أ[`Point`](../../point/) التي تمثل الزاوية العلوية اليسرى للمنطقة المستطيلة. |
-| size | Size | أ[`Size`](../../size/) التي تمثل عرض وارتفاع المنطقة المستطيلة. |
+| location | Point | `[`Point`](../../point/)` الذي يمثل الزاوية العليا اليسرى للمنطقة المستطيلة. |
+| size | Size | `[`Size`](../../size/)` الذي يمثل العرض والارتفاع للمنطقة المستطيلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../point/)
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

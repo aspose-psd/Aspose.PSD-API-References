@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.CopyTo
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorRasterizationOptions طريقة. نُسخ إلى .
+title: "VectorRasterizationOptions.CopyTo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة VectorRasterizationOptions. ينسخ إلى"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.imageoptions/vectorrasterizationoptions/copyto/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CopyTo method
 
-نُسخ إلى .
+ينسخ إلى.
 
 ```csharp
 public void CopyTo(VectorRasterizationOptions vectorRasterizationOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| vectorRasterizationOptions | VectorRasterizationOptions | خيارات التحويل النقطي للمتجه. |
+| vectorRasterizationOptions | VectorRasterizationOptions | خيارات تمثيل المتجهات النقطية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorRasterizationOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

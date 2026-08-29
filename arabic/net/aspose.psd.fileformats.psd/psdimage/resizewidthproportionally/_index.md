@@ -1,51 +1,52 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يغير حجم العرض بشكل متناسب .
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. يعيد تحجيم العرض بشكل متناسب"
 type: docs
-weight: 600
+weight: 660
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-يغير حجم العرض بشكل متناسب .
+يعيد تحجيم العرض بنسبية.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
-| settings | ImageResizeSettings | إعدادات تغيير حجم الصورة. |
+| الإعدادات | ImageResizeSettings | إعدادات تحجيم الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-يغير حجم العرض بشكل متناسب .
+يعيد تحجيم العرض بنسبية.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newWidth | Int32 | العرض الجديد. |
-| resizeType | ResizeType | نوع تغيير الحجم. |
+| resizeType | ResizeType | نوع التحجيم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

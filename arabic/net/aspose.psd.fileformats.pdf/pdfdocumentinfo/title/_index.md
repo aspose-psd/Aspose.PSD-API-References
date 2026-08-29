@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfDocumentInfo ملكية. الحصول على عنوان المستند أو تعيينه.
+title: "PdfDocumentInfo.Title"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PdfDocumentInfo. يحصل أو يحدد عنوان المستند"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Title property
 
-الحصول على عنوان المستند أو تعيينه.
+يحصل أو يضبط عنوان المستند
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

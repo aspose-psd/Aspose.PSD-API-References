@@ -1,28 +1,29 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.PSD لمرجع .NET API
-description: DataStreamSupporter ملكية. يحصل على دفق بيانات الكائن.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية DataStreamSupporter. تحصل على تدفق بيانات الكائن"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
-يحصل على دفق بيانات الكائن.
+يحصل على تدفق بيانات الكائن.
 
 ```csharp
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Property_Value
+### Property Value
 
-دفق بيانات الكائن.
+تدفق بيانات الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* مساحة الاسم [Aspose.PSD](../../datastreamsupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

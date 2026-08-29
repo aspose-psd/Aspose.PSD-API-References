@@ -1,23 +1,24 @@
 ---
-title: UnitArrayStructure.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitArrayStructure ملكية. يحصل على ملفOSTypeStructure الطول بالبايت.
+title: "UnitArrayStructure.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnitArrayStructure. يحصل على طول OSTypeStructure بالبايت"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Length property
 
-يحصل على ملف[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) الطول بالبايت.
+تحصل على طول [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) بالبايت.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

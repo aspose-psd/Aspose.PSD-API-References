@@ -1,28 +1,29 @@
 ---
-title: ImageAttributes.SetBrushRemapTable
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يضبط جدول إعادة رسم خريطة الألوان لفئة الفرشاة.
+title: "ImageAttributes.SetBrushRemapTable"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. يضبط جدول إعادة تعيين اللون لفئة الفرشاة"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/imageattributes/setbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.SetBrushRemapTable method
 
-يضبط جدول إعادة رسم خريطة الألوان لفئة الفرشاة.
+يضبط جدول إعادة تعيين الألوان لفئة الفرشاة.
 
 ```csharp
 public void SetBrushRemapTable(ColorMap[] map)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| map | ColorMap[] | مجموعة من[`ColorMap`](../../colormap/) أشياء. |
+| map | ColorMap[] | مصفوفة من كائنات [`ColorMap`](../../colormap/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

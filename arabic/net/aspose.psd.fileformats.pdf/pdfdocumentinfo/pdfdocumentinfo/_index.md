@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.PdfDocumentInfo
-second_title: Aspose.PSD لمرجع .NET API
-description: PdfDocumentInfo البناء. Default_Constructor
+title: "PdfDocumentInfo.PdfDocumentInfo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PdfDocumentInfo. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public PdfDocumentInfo()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PdfDocumentInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

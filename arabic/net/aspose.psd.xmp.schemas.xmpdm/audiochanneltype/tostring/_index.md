@@ -1,14 +1,15 @@
 ---
-title: AudioChannelType.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioChannelType طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "AudioChannelType.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AudioChannelType. تُرجع سلسلة تمثل هذا المثيل"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+إرجاع String تمثل هذا المثيل.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذا الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioChannelType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

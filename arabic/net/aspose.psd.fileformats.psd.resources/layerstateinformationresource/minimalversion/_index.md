@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerStateInformationResource ملكية. يحصل على الحد الأدنى من إصدار PSD المطلوب.
+title: "LayerStateInformationResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerStateInformationResource. يحصل على الحد الأدنى للإصدار المطلوب من PSD"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار PSD المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى من إصدار PSD .
+إصدار PSD الأدنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerStateInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

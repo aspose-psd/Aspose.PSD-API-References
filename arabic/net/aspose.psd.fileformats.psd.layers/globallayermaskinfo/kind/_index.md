@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.Kind
-second_title: Aspose.PSD لمرجع .NET API
-description: GlobalLayerMaskInfo ملكية. الحصول على النوع أو تحديده. 0  تحديد اللون  أي معكوس  1  حماية اللون  128  قيمة الاستخدام المخزنة لكل طبقة. هذه القيمة مفضلة. يتم استخدام القيم الأخرى للتوافق مع الإصدارات السابقة مع إصدارات بيتا.
+title: "GlobalLayerMaskInfo.Kind"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GlobalLayerMaskInfo. تحصل أو تعيّن النوع. 0 اللون المحدد أي مقلوب 1 اللون المحمي 128 استخدم القيمة المخزنة لكل طبقة. هذه القيمة مفضلة. القيم الأخرى للتوافق العكسي مع إصدارات بيتا"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/kind/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Kind property
 
-الحصول على النوع أو تحديده. 0 = تحديد اللون - أي معكوس ؛ 1 = حماية اللون ؛ 128 = قيمة الاستخدام المخزنة لكل طبقة. هذه القيمة مفضلة. يتم استخدام القيم الأخرى للتوافق مع الإصدارات السابقة مع إصدارات بيتا.
+يسترجع أو يعيّن النوع. 0 = اللون المحدد--أي معكوس؛ 1 = اللون محمي؛ 128 = استخدم القيمة المخزنة لكل طبقة. هذه القيمة مفضلة. القيم الأخرى للتوافق العكسي مع إصدارات بيتا.
 
 ```csharp
 public byte Kind { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-النوع .
+النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GlobalLayerMaskInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

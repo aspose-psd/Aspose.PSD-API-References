@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.Script
-second_title: Aspose.PSD لمرجع .NET API
-description: TextFontInfo ملكية. يحصل على البرنامج النصي .
+title: "TextFontInfo.Script"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TextFontInfo خاصية. يحصل على النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/script/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Script property
 
-يحصل على البرنامج النصي .
+يحصل على السكريبت.
 
 ```csharp
 public int Script { get; }
 ```
 
-### Property_Value
+### Property Value
 
-البرنامج النصي .
+النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

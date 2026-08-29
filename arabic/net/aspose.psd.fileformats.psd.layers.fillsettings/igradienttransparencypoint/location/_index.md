@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Location
-second_title: Aspose.PSD لمرجع .NET API
-description: IGradientTransparencyPoint ملكية. الحصول على الموقع أو تحديده .
+title: "IGradientTransparencyPoint.Location"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IGradientTransparencyPoint. تحصل أو تضبط الموقع. نطاق القيمة 04096"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Location property
 
-الحصول على الموقع أو تحديده .
+يحصل أو يعيّن الموقع. نطاق القيمة 0-4096.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 الموقع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientTransparencyPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

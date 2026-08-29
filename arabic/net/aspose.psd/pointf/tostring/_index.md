@@ -1,14 +1,15 @@
 ---
-title: PointF.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: PointF طريقة. يحول هذاPointF لسلسلة يمكن للبشر قراءتها.
+title: "PointF.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PointF. يحول هذا PointF إلى سلسلة قابلة للقراءة البشرية"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/pointf/tostring/
 ---
+{{< psd/tize >}}
 ## PointF.ToString method
 
-يحول هذا[`PointF`](../) لسلسلة يمكن للبشر قراءتها.
+يحول هذا [`PointF`](../) إلى سلسلة قابلة للقراءة البشرية.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تمثل هذا[`PointF`](../).
+سلسلة تمثّل هذا [`PointF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../)
-* مساحة الاسم [Aspose.PSD](../../pointf/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

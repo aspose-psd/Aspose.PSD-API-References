@@ -1,37 +1,38 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: Txt2Resource طريقة. إضافة سجل النص إلى المورد وإرجاع معرف السجل النصي.
+title: "Txt2Resource.AddTextRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Txt2Resource. تضيف سجل النص إلى Resource وتعيد معرف سجل النص"
 type: docs
-weight: 70
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
-إضافة سجل النص إلى المورد وإرجاع معرف السجل النصي.
+يضيف سجل النص إلى المورد ويعيد معرف سجل النص.
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| text | String | نص السجل. |
-| bounds | RectangleF | الحدود. |
+| نص | String | نص السجل. |
+| الحدود | RectangleF | الحدود. |
 
 ### قيمة الإرجاع
 
-إرجاع معرف سجل النص لـ Resource
+يعيد معرف سجل النص للمورد
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | إصدار مورد Txt2 غير معروف. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | إصدار Txt2 Resource غير معروف. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -83,11 +84,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

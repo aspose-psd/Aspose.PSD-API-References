@@ -1,23 +1,24 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يمسح جدول إعادة رسم خريطة لون الفرشاة لهذاImageAttributes الكائن .
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تُزيل جدول إعادة تعيين لون الفرشاة لهذا الكائن ImageAttributes."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-يمسح جدول إعادة رسم خريطة لون الفرشاة لهذا[`ImageAttributes`](../) الكائن .
+تُزيل جدول إعادة تعيين لون الفرشاة لهذا الكائن [`ImageAttributes`](../).
 
 ```csharp
 public void ClearBrushRemapTable()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

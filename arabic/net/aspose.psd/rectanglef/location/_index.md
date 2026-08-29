@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Location
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF ملكية. الحصول على إحداثيات الزاوية اليسرى العلوية أو تحديدهاRectangleFهيكل .
+title: "RectangleF.Location"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleF. تحصل أو تعين إحداثيات الزاوية العليا اليسرى لهذا الهيكل RectangleF"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/rectanglef/location/
 ---
+{{< psd/tize >}}
 ## RectangleF.Location property
 
-الحصول على إحداثيات الزاوية اليسرى العلوية أو تحديدها[`RectangleF`](../)هيكل .
+تحصل أو تعين إحداثيات الزاوية العليا اليسرى لهذا الهيكل [`RectangleF`](../).
 
 ```csharp
 public PointF Location { get; set; }
@@ -16,13 +17,13 @@ public PointF Location { get; set; }
 
 ### قيمة الإرجاع
 
-أ[`PointF`](../../pointf/) التي تمثل الزاوية العلوية اليسرى من هذا[`RectangleF`](../) بناء.
+كائن [`PointF`](../../pointf/) يمثل الزاوية العليا اليسرى لهذا الهيكل [`RectangleF`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

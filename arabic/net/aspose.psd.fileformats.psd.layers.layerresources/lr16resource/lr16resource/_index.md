@@ -1,23 +1,24 @@
 ---
-title: Lr16Resource.Lr16Resource
-second_title: Aspose.PSD لمرجع .NET API
-description: Lr16Resource البناء. Default_Constructor
+title: "Lr16Resource.Lr16Resource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Lr16Resource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/lr16resource/
 ---
+{{< psd/tize >}}
 ## Lr16Resource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public Lr16Resource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Lr16Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

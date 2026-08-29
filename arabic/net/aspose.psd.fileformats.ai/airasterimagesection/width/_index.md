@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على العرض.
+title: "AiRasterImageSection.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على العرض"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Width property
 
 يحصل على العرض.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 public double Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
 العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: CurvesContinuousManager.AddCurvePoint
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesContinuousManager طريقة. يضيف نقطة المنحنى .
+title: "CurvesContinuousManager.AddCurvePoint"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvesContinuousManager. يضيف نقطة المنحنى"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.AddCurvePoint method
 
-يضيف نقطة المنحنى .
+يضيف نقطة المنحنى.
 
 ```csharp
 public void AddCurvePoint(int channelIndex, byte x, byte y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
-| x | Byte | موقع x. |
-| y | Byte | الموقع ذ. |
+| x | بايت | الموقع السيني. |
+| y | بايت | موقع y. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | النقطة التي تحاول إضافتها موجودة بالفعل |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesContinuousManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

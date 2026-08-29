@@ -1,34 +1,35 @@
 ---
-title: SmartObjectProvider.NewSmartObjectViaCopy
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectProvider طريقة. ينشئ طبقة كائن ذكية جديدة عن طريق التعامل مع المصدر.
+title: "SmartObjectProvider.NewSmartObjectViaCopy"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartObjectProvider. ينشئ طبقة كائن ذكي جديدة بنسخ الطبقة المصدر"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.NewSmartObjectViaCopy method
 
-ينشئ طبقة كائن ذكية جديدة عن طريق التعامل مع المصدر.
+ينشئ طبقة كائن ذكي جديدة عن طريق نسخ الطبقة المصدر.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | sourceLayer | SmartObjectLayer | طبقة المصدر. |
 
 ### قيمة الإرجاع
 
-المستنسخة[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) المثال.
+الكائن المستنسخ من [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | يمكنك فقط استبدال كائن ذكي مضمن. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | يمكنك فقط استبدال كائن ذكي مضمّن. |
 
-### أمثلة
+## أمثلة
 
 توضح هذه الأمثلة كيفية نسخ طبقات الكائنات الذكية في صورة PSD.
 
@@ -46,7 +47,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // رقم الطبقة المراد نسخها
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -67,17 +68,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // دعنا نعكس صورة الكائن الذكي المضمنة (بالنسبة لصورة PSD الداخلية ، فإننا نعكس الطبقة الأولى فقط)
+            // لنقلب صورة الكائن الذكي المدمج (بالنسبة لصورة PSD الداخلية نقلب طبقتها الأولى فقط).
             InvertImage(innerImage);
 
-            // لنستبدل صورة الكائن الذكي المضمنة في طبقة PSD
+            // لنستبدل صورة الكائن الذكي المدمج في طبقة PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // تشارك الطبقة المكررة صورتها المضمنة مع الكائن الذكي الأصلي
-        // ويجب تحديثه بشكل صريح وإلا ستظل ذاكرة التخزين المؤقت للعرض دون تغيير.
+        // الطبقة المستنسخة تشارك صورتها المدمجة مع الكائن الذكي الأصلي.
+        // ويجب تحديثها صراحةً وإلا سيبقى مخزن العرض الخاص بها دون تغيير.
         // نقوم بتحديث كل كائن ذكي للتأكد من أن الطبقة الجديدة التي تم إنشاؤها بواسطة NewSmartObjectViaCopy
-        // لا تشارك الصورة المضمنة مع الآخرين.
+        // لا تشارك الصورة المدمجة مع الآخرين.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -85,7 +86,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// يعكس الصورة النقطية بما في ذلك صورة PSD.
+// يقلب الصورة النقطية بما في ذلك صورة PSD.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -99,7 +100,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// يعكس الصورة النقطية.
+// يعكس صورة النقطية.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -122,11 +123,11 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

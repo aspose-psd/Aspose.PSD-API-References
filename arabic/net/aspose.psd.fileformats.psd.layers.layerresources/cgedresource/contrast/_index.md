@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Contrast
-second_title: Aspose.PSD لمرجع .NET API
-description: CgEdResource ملكية. الحصول على التباين أو تعيينه .
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CgEdResource. يحصل أو يعيّن التباين"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
-الحصول على التباين أو تعيينه .
+يحصل أو يضبط التباين.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التباين .
+التباين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CgEdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

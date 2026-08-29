@@ -1,35 +1,36 @@
 ---
-title: Enum TiffOrientations
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations تعداد. اتجاه الصورة. القيم المحتملة لعلامة ORIENTATION .
+title: "تعداد TiffOrientations"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations enum. توجيه الصورة. القيم المحتملة لعلامة ORIENTATION."
 type: docs
-weight: 4110
+weight: 4580
 url: /ar/net/aspose.psd.fileformats.tiff.enums/tifforientations/
 ---
+{{< psd/tize >}}
 ## TiffOrientations enumeration
 
-اتجاه الصورة. القيم المحتملة لعلامة ORIENTATION .
+اتجاه الصورة. القيم المحتملة للوسم ORIENTATION.
 
 ```csharp
 public enum TiffOrientations : ushort
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| TopLeft | `1` | الصف 0 العلوي والعمود 0 lhs. |
-| TopRight | `2` | الصف 0 العلوي والعمود 0 rhs. |
-| BottomRight | `3` | الصف 0 السفلي ، والعمود 0 rhs. |
-| BottomLeft | `4` | الصف 0 السفلي ، والعمود 0 lhs. |
-| LeftTop | `5` | الصف 0 lhs ، العمود 0 العلوي . |
-| RightTop | `6` | الصف 0 rhs ، العمود 0 العلوي . |
-| RightBottom | `7` | الصف 0 rhs ، العمود 0 السفلي . |
-| LeftBottom | `8` | الصف 0 lhs ، العمود 0 السفلي . |
+| TopLeft | `1` | الصف 0 أعلى، العمود 0 يسار. |
+| TopRight | `2` | الصف 0 أعلى، العمود 0 يمين. |
+| BottomRight | `3` | الصف 0 أسفل، العمود 0 يمين. |
+| BottomLeft | `4` | الصف 0 أسفل، العمود 0 يسار. |
+| LeftTop | `5` | الصف 0 يسار، العمود 0 أعلى. |
+| RightTop | `6` | الصف 0 يمين، العمود 0 أعلى. |
+| RightBottom | `7` | الصف 0 يمين، العمود 0 أسفل. |
+| LeftBottom | `8` | الصف 0 يسار، العمود 0 أسفل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

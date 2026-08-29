@@ -1,27 +1,28 @@
 ---
-title: VectorImage.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorImage ملكية. الحصول على ارتفاع الصورة .
+title: "VectorImage.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorImage. يحصل على ارتفاع الصورة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/vectorimage/height/
 ---
+{{< psd/tize >}}
 ## VectorImage.Height property
 
-الحصول على ارتفاع الصورة .
+يحصل على ارتفاع الصورة.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع الصورة .
+ارتفاع الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorImage](../)
-* مساحة الاسم [Aspose.PSD](../../vectorimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

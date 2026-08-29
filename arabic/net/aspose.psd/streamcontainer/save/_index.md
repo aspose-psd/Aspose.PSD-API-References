@@ -1,133 +1,134 @@
 ---
-title: StreamContainer.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer طريقة. يحفظ ينسخ بيانات الدفق إلى الدفق المحدد.
+title: "StreamContainer.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StreamContainer. تحفظ نسخ بيانات الدفق إلى الدفق المحدد"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/streamcontainer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream, int, long) {#save_2}
 
-يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد.
+يحفظ (ينسخ) بيانات التدفق إلى التدفق المحدد.
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| destinationStream | Stream | الدفق لحفظ البيانات فيه. |
-| bufferSize | Int32 | حجم المخزن المؤقت. بشكل افتراضي[`ReadWriteBytesCount`](../readwritebytescount/) القيمة المستخدمة. |
-| length | Int64 | طول تدفق البيانات المراد نسخها. بشكل افتراضي ، يتم تعيين الطول على[`Length`](../length/) قيمة. |
+| destinationStream | Stream | الدفق لحفظ البيانات إليه. |
+| bufferSize | Int32 | حجم المخزن المؤقت. بشكل افتراضي يتم استخدام قيمة [`ReadWriteBytesCount`](../readwritebytescount/). |
+| length | Int64 | طول بيانات الدفق للنسخ. بشكل افتراضي يتم تعيين الطول إلى القيمة [`Length`](../length/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. يستخدم حجم المخزن المؤقت الافتراضي[`ReadWriteBytesCount`](../readwritebytescount/) والدفق[`Length`](../length/) القيمة .
+تحفظ (تنسخ) بيانات الدفق إلى الدفق المحدد. تستخدم حجم المخزن المؤقت الافتراضي [`ReadWriteBytesCount`](../readwritebytescount/) وقيمة الدفق [`Length`](../length/).
 
 ```csharp
 public virtual void Save(Stream destinationStream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| destinationStream | Stream | الدفق لحفظ البيانات فيه. |
+| destinationStream | Stream | الدفق لحفظ البيانات إليه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-يحفظ (ينسخ) جميع بيانات الدفق إلى الدفق المحدد. يستخدم تيار[`Length`](../length/) القيمة .
+تحفظ (تنسخ) جميع بيانات الدفق إلى الدفق المحدد. تستخدم قيمة الدفق [`Length`](../length/).
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| destinationStream | Stream | الدفق لحفظ البيانات فيه. |
-| bufferSize | Int32 | العازلة. |
+| destinationStream | Stream | الدفق لحفظ البيانات إليه. |
+| bufferSize | Int32 | المخزن المؤقت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. يستخدم حجم المخزن المؤقت الافتراضي[`ReadWriteBytesCount`](../readwritebytescount/) والدفق[`Length`](../length/) القيمة .
+تحفظ (تنسخ) بيانات الدفق إلى الدفق المحدد. تستخدم حجم المخزن المؤقت الافتراضي [`ReadWriteBytesCount`](../readwritebytescount/) وقيمة الدفق [`Length`](../length/).
 
 ```csharp
 public virtual void Save(string filePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف المراد حفظ دفق البيانات فيه. |
+| filePath | String | مسار الملف لحفظ بيانات الدفق فيه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد. يستخدم تيار[`Length`](../length/) القيمة .
+تحفظ (تنسخ) بيانات الدفق إلى الدفق المحدد. تستخدم قيمة الدفق [`Length`](../length/).
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف المراد حفظ دفق البيانات فيه. |
-| bufferSize | Int32 | حجم المخزن المؤقت. بشكل افتراضي[`ReadWriteBytesCount`](../readwritebytescount/) القيمة المستخدمة. |
+| filePath | String | مسار الملف لحفظ بيانات الدفق فيه. |
+| bufferSize | Int32 | حجم المخزن المؤقت. بشكل افتراضي يتم استخدام قيمة [`ReadWriteBytesCount`](../readwritebytescount/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int, long) {#save_5}
 
-يحفظ (ينسخ) بيانات الدفق إلى الدفق المحدد.
+يحفظ (ينسخ) بيانات التدفق إلى التدفق المحدد.
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize, long length)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف المراد حفظ دفق البيانات فيه. |
-| bufferSize | Int32 | حجم المخزن المؤقت. بشكل افتراضي[`ReadWriteBytesCount`](../readwritebytescount/) القيمة المستخدمة. |
-| length | Int64 | طول تدفق البيانات المراد نسخها. بشكل افتراضي ، يتم تعيين الطول على[`Length`](../length/) قيمة. |
+| filePath | String | مسار الملف لحفظ بيانات الدفق فيه. |
+| bufferSize | Int32 | حجم المخزن المؤقت. بشكل افتراضي يتم استخدام قيمة [`ReadWriteBytesCount`](../readwritebytescount/). |
+| length | Int64 | طول بيانات الدفق للنسخ. بشكل افتراضي يتم تعيين الطول إلى القيمة [`Length`](../length/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

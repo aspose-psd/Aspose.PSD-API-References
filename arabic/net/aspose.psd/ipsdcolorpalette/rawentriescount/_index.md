@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntriesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: IPsdColorPalette ملكية. الحصول على عدد إدخالات لوحة الألوان الأولية .
+title: "IPsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPsdColorPalette. تُحصل على عدد مدخلات لوحة الألوان الخام"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/ipsdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntriesCount property
 
-الحصول على عدد إدخالات لوحة الألوان الأولية .
+يحصل على عدد إدخالات لوحة الألوان الخام.
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد إدخالات لوحة الألوان الخام.
+عدد مدخلات لوحة الألوان الخام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../ipsdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

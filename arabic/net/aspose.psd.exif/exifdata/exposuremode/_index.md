@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureMode
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو ضبط وضع التعريض .
+title: "ExifData.ExposureMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين وضع التعرض"
 type: docs
 weight: 210
 url: /ar/net/aspose.psd.exif/exifdata/exposuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureMode property
 
-الحصول على أو ضبط وضع التعريض .
+يحصل أو يضبط وضع التعرض.
 
 ```csharp
 public ExifExposureMode ExposureMode { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وضع التعريض الضوئي .
+وضع التعرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifExposureMode](../../../aspose.psd.exif.enums/exifexposuremode/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

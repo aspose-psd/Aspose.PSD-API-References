@@ -1,27 +1,28 @@
 ---
-title: OffsetStructure.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: OffsetStructure ملكية. الحصول على أو تحديد قيمة العدد الصحيح.
+title: "OffsetStructure.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OffsetStructure. تسترجع أو تعيين القيمة الصحيحة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.Value property
 
-الحصول على أو تحديد قيمة العدد الصحيح.
+يحصل أو يعيّن القيمة الصحيحة.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة العدد الصحيح .
+القيمة الصحيحة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OffsetStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

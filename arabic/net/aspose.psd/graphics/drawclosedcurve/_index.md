@@ -1,125 +1,126 @@
 ---
-title: Graphics.DrawClosedCurve
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يرسم شريحة أساسية مغلقة محددة بمجموعة منPointF الهياكل. تستخدم هذه الطريقة توترًا افتراضيًا قدره 0.5 وAlternate وضع الملء .
+title: "Graphics.DrawClosedCurve"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم منحنى كاردينال مغلق يُعرّف بمصفوفة من هياكل PointF. تستخدم هذه الطريقة توترًا افتراضيًا قدره 0.5 ووضع تعبئة بديل."
 type: docs
-weight: 190
+weight: 200
 url: /ar/net/aspose.psd/graphics/drawclosedcurve/
 ---
+{{< psd/tize >}}
 ## DrawClosedCurve(Pen, PointF[]) {#drawclosedcurve}
 
-يرسم شريحة أساسية مغلقة محددة بمجموعة من[`PointF`](../../pointf/) الهياكل. تستخدم هذه الطريقة توترًا افتراضيًا قدره 0.5 وAlternate وضع الملء .
+ترسم منحنى كاردينال مغلق يُعرّف بمصفوفة من هياكل [`PointF`](../../pointf/). تستخدم هذه الطريقة توترًا افتراضيًا قدره 0.5 ووضع تعبئة بديل.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وارتفاع المنحنى. |
-| points | PointF[] | مصفوفة من[`PointF`](../../pointf/) الهياكل التي تحدد الشريحة. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والارتفاع للمنحنى. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../pointf/) التي تحدد المنحنى. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, PointF[], float) {#drawclosedcurve_1}
 
-يرسم شريحة أساسية مغلقة محددة بمجموعة من[`PointF`](../../pointf/) الهياكل التي تستخدم توترًا محددًا. تستخدم هذه الطريقة افتراضيًاAlternate وضع الملء .
+ترسم منحنى كاردينال مغلق يُعرّف بمصفوفة من هياكل [`PointF`](../../pointf/) باستخدام توتر محدد. تستخدم هذه الطريقة وضع تعبئة بديل افتراضي.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وارتفاع المنحنى. |
-| points | PointF[] | مصفوفة من[`PointF`](../../pointf/) الهياكل التي تحدد الشريحة. |
-| tension | Single | القيمة أكبر من أو تساوي 0.0F التي تحدد شد المنحنى. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والارتفاع للمنحنى. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../pointf/) التي تحدد المنحنى. |
+| الشد | Single | قيمة أكبر من أو تساوي 0.0F تحدد توتر المنحنى. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[]) {#drawclosedcurve_2}
 
-يرسم شريحة أساسية مغلقة محددة بمجموعة من[`Point`](../../point/) الهياكل. تستخدم هذه الطريقة توترًا افتراضيًا قدره 0.5 وAlternate وضع الملء .
+ترسم منحنى كاردينال مغلق يُعرّف بمصفوفة من هياكل [`Point`](../../point/). تستخدم هذه الطريقة توترًا افتراضيًا قدره 0.5 ووضع تعبئة بديل.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وارتفاع المنحنى. |
-| points | Point[] | مصفوفة من[`Point`](../../point/) الهياكل التي تحدد الشريحة. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والارتفاع للمنحنى. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../point/) التي تحدد المنحنى. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[], float) {#drawclosedcurve_3}
 
-يرسم شريحة أساسية مغلقة محددة بمجموعة من[`Point`](../../point/) الهياكل التي تستخدم توترًا محددًا. تستخدم هذه الطريقة افتراضيًاAlternate وضع الملء .
+ترسم منحنى كاردينال مغلق يُعرّف بمصفوفة من هياكل [`Point`](../../point/) باستخدام توتر محدد. تستخدم هذه الطريقة وضع تعبئة بديل افتراضي.
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points, float tension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وارتفاع المنحنى. |
-| points | Point[] | مصفوفة من[`Point`](../../point/) الهياكل التي تحدد الشريحة. |
-| tension | Single | القيمة أكبر من أو تساوي 0.0F التي تحدد شد المنحنى. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والارتفاع للمنحنى. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../point/) التي تحدد المنحنى. |
+| الشد | Single | قيمة أكبر من أو تساوي 0.0F تحدد توتر المنحنى. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

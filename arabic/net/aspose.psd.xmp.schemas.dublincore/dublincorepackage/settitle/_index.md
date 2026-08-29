@@ -1,48 +1,49 @@
 ---
-title: DublinCorePackage.SetTitle
-second_title: Aspose.PSD لمرجع .NET API
-description: DublinCorePackage طريقة. يضيف عنوان Dublin Core .
+title: "DublinCorePackage.SetTitle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DublinCorePackage. تضيف عنوان Dublin Core"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/
 ---
+{{< psd/tize >}}
 ## SetTitle(string) {#settitle_1}
 
-يضيف عنوان Dublin Core .
+يضيف عنوان Dublin Core.
 
 ```csharp
 public void SetTitle(string title)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| title | String | العنوان. |
+| العنوان | String | العنوان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetTitle(LangAlt) {#settitle}
 
-يضيف عنوان Dublin Core للغات مختلفة.
+يضيف عنوان Dublin Core للغات المختلفة.
 
 ```csharp
 public void SetTitle(LangAlt title)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| title | LangAlt | حالة[`LangAlt`](../../../aspose.psd.xmp/langalt/). |
+| title | LangAlt | مثال على [`LangAlt`](../../../aspose.psd.xmp/langalt/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

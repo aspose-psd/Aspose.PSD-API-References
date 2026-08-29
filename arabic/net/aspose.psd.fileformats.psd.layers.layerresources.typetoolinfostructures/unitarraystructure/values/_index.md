@@ -1,32 +1,33 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitArrayStructure ملكية. الحصول على أو تعيين قيم بنية مصفوفة الوحدة.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnitArrayStructure. تحصل أو تعيّن قيم بنية مصفوفة الوحدة"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-الحصول على أو تعيين قيم بنية مصفوفة الوحدة.
+يحصل أو يعيّن قيم بنية مصفوفة الوحدة.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيم هيكل مصفوفة الوحدة .
+قيم بنية مصفوفة الوحدة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | يجب ألا تكون خاصية القيم فارغة. |
+| ArgumentNullException | يجب ألا تكون خاصية Values فارغة. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnitArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

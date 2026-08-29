@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types.Basic
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات تمثل قيم النوع الأساسية لخصائص XMP.
+title: "Aspose.PSD.Xmp.Types.Basic"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على الفئات التي تمثل قيم الأنواع الأساسية لخصائص XMP"
 type: docs
-weight: 610
+weight: 650
 url: /ar/net/aspose.psd.xmp.types.basic/
 ---
-تحتوي مساحة الاسم على فئات تمثل قيم النوع الأساسية لخصائص XMP.
+{{< psd/tize >}}
+النطاق يحتوي على فئات تمثل قيم الأنواع الأساسية لخصائص XMP.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [XmpBoolean](./xmpboolean/) | يمثل النوع الأساسي المنطقي XMP . |
+| [XmpBoolean](./xmpboolean/) | يمثل النوع الأساسي Boolean في XMP. |
 | [XmpDate](./xmpdate/) | يمثل التاريخ في حزمة XMP. |
-| [XmpInteger](./xmpinteger/) | يمثل النوع الأساسي لـ XMP Integer . |
+| [XmpInteger](./xmpinteger/) | يمثل نوع XMP Integer الأساسي. |
 | [XmpReal](./xmpreal/) | يمثل XMP Real. |
-| [XmpText](./xmptext/) | يمثل النوع الأساسي لنص XMP . |
+| [XmpText](./xmptext/) | يمثل نوع XMP Text الأساسي. |
 
 

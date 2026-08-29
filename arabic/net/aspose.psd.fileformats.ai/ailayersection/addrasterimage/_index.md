@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.AddRasterImage
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection طريقة. يضيف الصورة النقطية.
+title: "AiLayerSection.AddRasterImage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة AiLayerSection. تضيف صورة نقطية"
 type: docs
-weight: 140
+weight: 160
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.AddRasterImage method
 
 يضيف الصورة النقطية.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 public void AddRasterImage(AiRasterImageSection rasterImage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rasterImage | AiRasterImageSection | الصورة النقطية. |
+| rasterImage | AiRasterImageSection | صورة نقطية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

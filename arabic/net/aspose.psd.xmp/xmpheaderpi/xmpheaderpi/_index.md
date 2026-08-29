@@ -1,43 +1,44 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpHeaderPi البناء. يقوم بتهيئة مثيل جديد لملفXmpHeaderPi فئة .
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpHeaderPi. يهيئ نسخة جديدة من فئة XmpHeaderPi."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpHeaderPi`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpHeaderPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpHeaderPi`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi(string guid)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| guid | String | المعرف الفريد. |
+| guid | String | المعرّف الفريد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpHeaderPi](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

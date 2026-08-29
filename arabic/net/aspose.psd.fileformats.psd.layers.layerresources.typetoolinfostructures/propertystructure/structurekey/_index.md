@@ -1,23 +1,24 @@
 ---
-title: PropertyStructure.StructureKey
-second_title: Aspose.PSD لمرجع .NET API
-description: PropertyStructure مجال. يحدد مفتاح الهيكل .
+title: "PropertyStructure.StructureKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل PropertyStructure. يحدد مفتاح البنية"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.StructureKey field
 
-يحدد مفتاح الهيكل .
+يحدد مفتاح البنية.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PropertyStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

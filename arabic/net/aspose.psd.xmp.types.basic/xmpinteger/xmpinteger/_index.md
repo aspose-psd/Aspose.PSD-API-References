@@ -1,74 +1,75 @@
 ---
-title: XmpInteger.XmpInteger
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpInteger البناء. يقوم بتهيئة مثيل جديد لملفXmpInteger فئة .
+title: "XmpInteger.XmpInteger"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpInteger. يهيئ نسخة جديدة من فئة XmpInteger"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.basic/xmpinteger/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger(long) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpInteger`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(long value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Int64 | القيمة. |
+| قيمة | Int64 | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpInteger](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(int) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpInteger`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(int value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Int32 | القيمة. |
+| قيمة | Int32 | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpInteger](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpInteger`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | القيمة خالية. |
-| ArgumentException | قيمة سلسلة غير صالحة ؛ قيمة |
+| ArgumentNullException | القيمة فارغة. |
+| ArgumentException | قيمة سلسلة غير صالحة;value |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpInteger](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

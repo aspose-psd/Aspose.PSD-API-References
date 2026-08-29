@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginShapeBox
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeOriginSettings ملكية. الحصول على المربع المحيط بالشكل الأصلي أو تعيينه.
+title: "VectorShapeOriginSettings.OriginShapeBox"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeOriginSettings. يحصل أو يضبط صندوق حدود شكل الأصل"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginShapeBox property
 
-الحصول على المربع المحيط بالشكل الأصلي أو تعيينه.
+يحصل أو يضبط صندوق حدود شكل الأصل.
 
 ```csharp
 public VectorShapeBoundingBox OriginShapeBox { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مربع الشكل الأصلي.
+صندوق شكل الأصل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeBoundingBox](../../vectorshapeboundingbox/)
 * class [VectorShapeOriginSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

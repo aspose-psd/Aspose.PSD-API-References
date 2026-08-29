@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD لمرجع .NET API
-description: AiImage ملكية. يحصل على أقسام الطبقة .
+title: "AiImage.Layers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiImage. يحصل على أقسام الطبقة"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-يحصل على أقسام الطبقة .
+يحصل على أقسام الطبقة.
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أقسام الطبقة .
+أقسام الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

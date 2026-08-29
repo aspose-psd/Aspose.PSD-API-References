@@ -1,24 +1,25 @@
 ---
-title: GraphicsOptions.SmoothingMode
-second_title: Aspose.PSD لمرجع .NET API
-description: GraphicsOptions ملكية. الحصول على أو تحديد وضع التجانس .
+title: "GraphicsOptions.SmoothingMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GraphicsOptions. تحصل أو تعين وضع التنعيم"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imageoptions/graphicsoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.SmoothingMode property
 
-الحصول على أو تحديد وضع التجانس .
+يحصل أو يضبط وضع التنعيم.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [GraphicsOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

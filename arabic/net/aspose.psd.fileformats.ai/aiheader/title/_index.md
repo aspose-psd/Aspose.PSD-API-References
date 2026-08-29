@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Title
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على العنوان أو تعيينه.
+title: "AiHeader.Title"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. يحصل أو يضبط العنوان"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
-الحصول على العنوان أو تعيينه.
+يحصل أو يضبط العنوان.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العنوان .
+العنوان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

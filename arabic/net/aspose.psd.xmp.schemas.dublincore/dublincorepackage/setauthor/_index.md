@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Aspose.PSD لمرجع .NET API
-description: DublinCorePackage طريقة. يضيف المؤلف .
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DublinCorePackage. يضيف المؤلف"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
-يضيف المؤلف .
+يضيف المؤلف.
 
 ```csharp
 public void SetAuthor(string author)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| author | String | المؤلف. |
+| المؤلف | String | المؤلف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetAuthor(string[]) {#setauthor_1}
 
-يضيف المؤلف .
+يضيف المؤلف.
 
 ```csharp
 public void SetAuthor(string[] author)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| author | String[] | المؤلف. |
+| المؤلف | String[] | المؤلف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DublinCorePackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

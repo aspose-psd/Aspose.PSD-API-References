@@ -1,31 +1,32 @@
 ---
-title: GifOptions.ColorResolution
-second_title: Aspose.PSD لمرجع .NET API
-description: GifOptions ملكية. الحصول على دقة ألوان GIF أو تعيينها.
+title: "GifOptions.ColorResolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GifOptions. تحصل أو تعين دقة ألوان GIF"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.imageoptions/gifoptions/colorresolution/
 ---
+{{< psd/tize >}}
 ## GifOptions.ColorResolution property
 
-الحصول على دقة ألوان GIF أو تعيينها.
+يحصل أو يضبط دقة ألوان GIF.
 
 ```csharp
 public byte ColorResolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-دقة اللون .
+دقة الألوان.
 
-### ملاحظات
+## ملاحظات
 
-دقة اللون - عدد وحدات البت لكل لون أساسي متوفر للصورة الأصلية ، ناقص 1. تمثل هذه القيمة حجم اللوحة الكاملة التي تم تحديد الألوان في الرسم منها ، وليس عدد الألوان المستخدمة بالفعل في الرسم . على سبيل المثال ، إذا كانت القيمة في هذا الحقل هي 3 ، فإن لوحة الصورة الأصلية بها 4 بتات لكل لون أساسي متاح لإنشاء الصورة. يجب تعيين هذه القيمة للإشارة إلى ثراء اللوحة الأصلية ، حتى لو لم يكن كل لون من لوحة الألوان الكاملة متاحًا على الجهاز المصدر.
+دقة اللون - عدد البتات لكل لون أساسي متاح في الصورة الأصلية، ناقص 1. تمثل هذه القيمة حجم اللوحة الكاملة التي تم اختيار الألوان منها في الرسمة، وليس عدد الألوان المستخدمة فعليًا في الرسمة. على سبيل المثال، إذا كانت القيمة في هذا الحقل 3، فإن لوحة الصورة الأصلية كانت تحتوي على 4 بتات لكل لون أساسي متاح لإنشاء الصورة. يجب ضبط هذه القيمة للدلالة على غنى اللوحة الأصلية، حتى وإن لم يتوفر كل لون من اللوحة الكاملة على الجهاز المصدر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GifOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../gifoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

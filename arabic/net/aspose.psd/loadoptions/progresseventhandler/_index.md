@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.ProgressEventHandler
-second_title: Aspose.PSD لمرجع .NET API
-description: LoadOptions ملكية. الحصول على معالج حدث التقدم أو تعيينه.
+title: "LoadOptions.ProgressEventHandler"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LoadOptions. تحصل أو تعين معالج حدث التقدم."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/loadoptions/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## LoadOptions.ProgressEventHandler property
 
-الحصول على معالج حدث التقدم أو تعيينه.
+يحصل أو يعيّن معالج حدث التقدم.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معالج حدث التقدم .
+معالج حدث التقدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [LoadOptions](../)
-* مساحة الاسم [Aspose.PSD](../../loadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

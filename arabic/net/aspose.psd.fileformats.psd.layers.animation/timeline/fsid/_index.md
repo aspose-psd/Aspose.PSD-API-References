@@ -1,23 +1,24 @@
 ---
-title: TimeLine.FsID
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeLine ملكية. الحصول على أو تعيين قيمة FsID .
+title: "Timeline.FsID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Timeline. يحصل أو يضبط قيمة FsID"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/timeline/fsid/
 ---
-## TimeLine.FsID property
+{{< psd/tize >}}
+## Timeline.FsID property
 
-الحصول على أو تعيين قيمة FsID .
+يحصل على أو يضبط قيمة FsID.
 
 ```csharp
 public int FsID { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TimeLine](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* المجسم [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

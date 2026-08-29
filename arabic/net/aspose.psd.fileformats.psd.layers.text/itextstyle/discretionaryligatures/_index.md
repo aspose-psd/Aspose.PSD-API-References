@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. الحروف المركبة التقديرية المستخدمة لربط الحروف  خاصة في خطوط البرنامج النصي.
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. الأحرف المتصلة الاختيارية المستخدمة لربط الحروف خاصة في الخطوط الزخرفية"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-الحروف المركبة التقديرية المستخدمة لربط الحروف ، خاصة في خطوط البرنامج النصي.
+الروابط الاختيارية المستخدمة لربط الأحرف، خاصةً في الخطوط المكتوبة.
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم دعم خصائص ITextStyle الجديدة.
+الكود التالي يوضح دعم خصائص ITextStyle الجديدة.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

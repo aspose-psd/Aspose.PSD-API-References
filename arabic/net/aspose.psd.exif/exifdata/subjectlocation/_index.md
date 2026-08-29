@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectLocation
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد موقع الموضوع.
+title: "ExifData.SubjectLocation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعين موقع العنصر"
 type: docs
 weight: 1020
 url: /ar/net/aspose.psd.exif/exifdata/subjectlocation/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectLocation property
 
-الحصول على أو تحديد موقع الموضوع.
+الحصول أو تعيين موقع الموضوع.
 
 ```csharp
 public ushort[] SubjectLocation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موقع الموضوع .
+موقع العنصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

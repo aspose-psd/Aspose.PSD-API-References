@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloat
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffStreamWriter طريقة. يكتب قيمة تعويم واحدة للتيار.
+title: "TiffStreamWriter.WriteFloat"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffStreamWriter. يكتب قيمة عائمة واحدة إلى الدفق"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloat method
 
-يكتب قيمة تعويم واحدة للتيار.
+يكتب قيمة عائمة واحدة إلى التدفق.
 
 ```csharp
 public void WriteFloat(float data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Single | قيمة الكتابة. |
+| البيانات | Single | القيمة المراد كتابتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffStreamWriter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

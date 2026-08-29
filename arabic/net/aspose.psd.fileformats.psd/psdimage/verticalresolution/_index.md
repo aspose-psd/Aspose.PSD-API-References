@@ -1,37 +1,38 @@
 ---
-title: PsdImage.VerticalResolution
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage ملكية. الحصول على أو تحديد الدقة الرأسية  بالبكسل في البوصة  لهذاPsdImage .
+title: "PsdImage.VerticalResolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdImage. الحصول على أو تعيين الدقة العمودية بوحدة بكسل لكل بوصة لهذا PsdImage"
 type: docs
-weight: 260
+weight: 270
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/verticalresolution/
 ---
+{{< psd/tize >}}
 ## PsdImage.VerticalResolution property
 
-الحصول على أو تحديد الدقة الرأسية ، بالبكسل في البوصة ، لهذا[`PsdImage`](../) .
+الحصول على أو تعيين الدقة العمودية، بوحدة بكسل لكل بوصة، لهذا [`PsdImage`](../).
 
 ```csharp
 public override double VerticalResolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الدقة الرأسية .
+الدقة العمودية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لم يتم العثور على مورد ResolutionInfo ولا يمكن تعيين الدقة المناسبة |
 
-### ملاحظات
+## ملاحظات
 
-القيمة الافتراضية لـ PSD هي 72 ، لذلك إذا[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) لم يتم العثور على هذه القيمة تم إرجاعها.
+القيمة الافتراضية لـ PSD هي 72، لذا إذا لم يتم العثور على [`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/)، يتم إرجاع هذه القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

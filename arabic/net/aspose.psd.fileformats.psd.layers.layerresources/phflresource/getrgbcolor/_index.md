@@ -1,14 +1,15 @@
 ---
-title: PhflResource.GetRgbColor
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResource طريقة. يحصل على لون RGB .
+title: "PhflResource.GetRgbColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhflResource. تحصل على لون RGB"
 type: docs
-weight: 60
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.GetRgbColor method
 
-يحصل على لون RGB .
+يحصل على لون RGB.
 
 ```csharp
 public abstract Color GetRgbColor()
@@ -18,11 +19,11 @@ public abstract Color GetRgbColor()
 
 لون RGB
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

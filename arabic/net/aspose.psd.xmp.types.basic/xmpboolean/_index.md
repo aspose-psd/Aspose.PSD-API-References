@@ -1,43 +1,44 @@
 ---
-title: Class XmpBoolean
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpBoolean فصل. يمثل النوع الأساسي المنطقي XMP .
+title: "الفئة XmpBoolean"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Types.Basic.XmpBoolean. تمثّل نوع Boolean الأساسي في XMP"
 type: docs
-weight: 5940
+weight: 6440
 url: /ar/net/aspose.psd.xmp.types.basic/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean class
 
-يمثل النوع الأساسي المنطقي XMP .
+يمثل النوع الأساسي Boolean في XMP.
 
 ```csharp
 public sealed class XmpBoolean : XmpTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpBoolean](xmpboolean/#constructor)() | يقوم بتهيئة مثيل جديد لملف`XmpBoolean` فئة ذات قيمة افتراضية. |
-| [XmpBoolean](xmpboolean/#constructor_1)(bool) | يقوم بتهيئة مثيل جديد لملف`XmpBoolean` فئة على أساس القيمة المنطقية. |
-| [XmpBoolean](xmpboolean/#constructor_2)(string) | يقوم بتهيئة مثيل جديد لملف`XmpBoolean` فئة . |
+| [XmpBoolean](xmpboolean/#constructor)() | يُهيئ مثيلًا جديدًا من الفئة `XmpBoolean` بالقيمة الافتراضية. |
+| [XmpBoolean](xmpboolean/#constructor_1)(bool) | يُهيئ مثيلًا جديدًا من الفئة `XmpBoolean` بناءً على قيمة منطقية. |
+| [XmpBoolean](xmpboolean/#constructor_2)(string) | يُهيئ مثيلًا جديدًا من الفئة `XmpBoolean`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا`XmpBoolean` هي قيمة . |
+| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | يحصل أو يعيّن قيمة تُشير إلى ما إذا كان هذا `XmpBoolean` قيمة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | سلسلة إرجاع القيمة المضمنة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | يعيد القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

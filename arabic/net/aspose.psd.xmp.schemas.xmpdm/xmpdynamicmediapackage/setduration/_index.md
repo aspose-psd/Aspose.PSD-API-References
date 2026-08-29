@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetDuration
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يحدد المدة .
+title: "XmpDynamicMediaPackage.SetDuration"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. يضبط المدة"
 type: docs
 weight: 190
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setduration/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDuration method
 
-يحدد المدة .
+يضبط المدة.
 
 ```csharp
 public void SetDuration(Time duration)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| duration | Time | المدة. |
+| المدة | الوقت | المدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

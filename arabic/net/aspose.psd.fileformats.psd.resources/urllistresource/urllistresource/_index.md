@@ -1,23 +1,24 @@
 ---
-title: UrlListResource.UrlListResource
-second_title: Aspose.PSD لمرجع .NET API
-description: UrlListResource البناء. Default_Constructor
+title: "UrlListResource.UrlListResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ UrlListResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/urllistresource/urllistresource/
 ---
+{{< psd/tize >}}
 ## UrlListResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public UrlListResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UrlListResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

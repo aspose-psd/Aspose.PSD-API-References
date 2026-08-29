@@ -1,51 +1,52 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix طريقة. يطبق متجه الترجمة المحدد على هذه المصفوفة بالترتيب المحدد.
+title: "Matrix.Translate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Matrix. تُطبق متجه الترجمة المحدد على هذه المصفوفة بالترتيب المحدد."
 type: docs
 weight: 190
 url: /ar/net/aspose.psd/matrix/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
-يطبق متجه الترجمة المحدد على هذه المصفوفة بالترتيب المحدد.
+يطبق متجه الإزاحة المحدد على هذه Matrix بالترتيب المحدد.
 
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder order)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | offsetX | Single | الإزاحة X. |
 | offsetY | Single | الإزاحة Y. |
-| order | MatrixOrder | الأمر - الطلب. |
+| الترتيب | MatrixOrder | الترتيب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(float, float) {#translate}
 
-يطبق متجه الترجمة المحدد على ذلك[`Matrix`](../) باستخدام (افتراضي) أمر الإيداع المسبق.
+تُطبق متجه الترجمة المحدد على هذه [`Matrix`](../) باستخدام ترتيب Prepend (الافتراضي).
 
 ```csharp
 public void Translate(float tx, float ty)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tx | Single | ملف tx. ملف tx. ملف tx. |
-| ty | Single | تاي. تاي. تاي. |
+| tx | Single | الـ tx. الـ tx. الـ tx. |
+| ty | Single | الـ ty. الـ ty. الـ ty. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

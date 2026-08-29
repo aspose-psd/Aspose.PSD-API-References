@@ -1,29 +1,30 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning تعداد. تعداد تحديد المواقع exif y cb cr .
+title: "تعداد ExifYCbCrPositioning"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.Exif.Enums.ExifYCbCrPositioning. تعداد تموضع exif y cb cr"
 type: docs
-weight: 980
+weight: 990
 url: /ar/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-تعداد تحديد المواقع exif y cb cr .
+exif تعداد تموضع Y Cb Cr.
 
 ```csharp
 public enum ExifYCbCrPositioning
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Centered | `1` | مركز YCbCr |
-| CoSited | `2` | موقع مشترك |
+| Centered | `1` | YCbCr مركّز |
+| CoSited | `2` | الموضع المشترك |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

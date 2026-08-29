@@ -1,32 +1,33 @@
 ---
-title: Size.op_Explicit
-second_title: Aspose.PSD لمرجع .NET API
-description: Size طريقة. تحويل المحددSize إلى أPoint .
+title: "Size.op_Explicit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Size. تحول الـ Size المحدد إلى Point."
 type: docs
 weight: 160
 url: /ar/net/aspose.psd/size/op_explicit/
 ---
+{{< psd/tize >}}
 ## Size Explicit operator
 
-تحويل المحدد[`Size`](../) إلى أ[`Point`](../../point/) .
+يحوّل الـ [`Size`](../) المحدد إلى الـ [`Point`](../../point/).
 
 ```csharp
 public static explicit operator Point(Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | Size | ال[`Size`](../) لتحويل. |
+| size | Size | الـ [`Size`](../) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`Point`](../../point/) الهيكل الذي يتحول إليه هذا المشغل.
+هيكل الـ [`Point`](../../point/) الذي يحول إليه هذا العامل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

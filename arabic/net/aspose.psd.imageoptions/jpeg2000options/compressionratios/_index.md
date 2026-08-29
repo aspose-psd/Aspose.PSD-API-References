@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.CompressionRatios
-second_title: Aspose.PSD لمرجع .NET API
-description: Jpeg2000Options ملكية. الحصول على مصفوفة نسبة الضغط أو تعيينها . نسب ضغط مختلفة للطبقات المتتالية . المعدل المحدد لكل مستوى جودة هو عامل الضغط المطلوب . النسب المتناقصة المطلوبة.
+title: "Jpeg2000Options.CompressionRatios"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Jpeg2000Options. تحصل أو تعيين مصفوفة نسب الضغط. نسب ضغط مختلفة للطبقات المتتالية. المعدل المحدد لكل مستوى جودة هو عامل الضغط المطلوب. النسب المتناقصة مطلوبة."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.imageoptions/jpeg2000options/compressionratios/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.CompressionRatios property
 
-الحصول على مصفوفة نسبة الضغط أو تعيينها . نسب ضغط مختلفة للطبقات المتتالية . المعدل المحدد لكل مستوى جودة هو عامل الضغط المطلوب . النسب المتناقصة المطلوبة.
+يحصل أو يعيّن مصفوفة نسب الضغط. نسب ضغط مختلفة للطبقات المتتالية. المعدل المحدد لكل مستوى جودة هو عامل الضغط المطلوب. النسب المتناقصة مطلوبة.
 
 ```csharp
 public int[] CompressionRatios { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نسب الضغط .
+نسب الضغط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Jpeg2000Options](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

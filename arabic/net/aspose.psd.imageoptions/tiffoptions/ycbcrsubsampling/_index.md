@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين عوامل أخذ العينات الفرعية لمقاييس الضوء YCbCr .
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين عوامل التقسيم الفرعي للصور الفوتومترية YCbCr"
 type: docs
-weight: 670
+weight: 680
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-الحصول على أو تعيين عوامل أخذ العينات الفرعية لمقاييس الضوء YCbCr .
+يحصل أو يضبط عوامل أخذ العينات الفرعية للـ YCbCr الفوتومتري.
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-عوامل أخذ العينات الفرعية لمقياس الضوء YCbCr .
+عوامل التقسيم الفرعي للصور الفوتومترية YCbCr.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | طول الحقل غير صالح. يجب أن يحتوي حقل YCbCrSubsampling على قيمتين. |
 | ArgumentNullException | قيمة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

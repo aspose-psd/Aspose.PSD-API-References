@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.OffsetY
-second_title: Aspose.PSD لمرجع .NET API
-description: AiRasterImageSection ملكية. يحصل على الإزاحة Y.
+title: "AiRasterImageSection.OffsetY"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiRasterImageSection. تحصل على الإزاحة Y"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetY property
 
 يحصل على الإزاحة Y.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 public double OffsetY { get; }
 ```
 
-### Property_Value
+### Property Value
 
 الإزاحة Y.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiRasterImageSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

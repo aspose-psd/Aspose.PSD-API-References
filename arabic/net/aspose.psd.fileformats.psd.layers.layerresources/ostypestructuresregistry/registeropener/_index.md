@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisterOpener
-second_title: Aspose.PSD لمرجع .NET API
-description: OSTypeStructuresRegistry طريقة. تسجيل الفتح.
+title: "OSTypeStructuresRegistry.RegisterOpener"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة OSTypeStructuresRegistry. تُسجّل الفاتح"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisterOpener method
 
-تسجيل الفتح.
+يسجل المفتاح.
 
 ```csharp
 public static void RegisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | واصف الافتتاح للتسجيل. |
+| openerDescriptor | IOSTypeStructureLoader | وصف المفتاح للتسجيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

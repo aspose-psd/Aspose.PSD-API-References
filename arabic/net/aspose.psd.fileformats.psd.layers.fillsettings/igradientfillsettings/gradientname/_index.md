@@ -1,27 +1,28 @@
 ---
-title: IGradientFillSettings.GradientName
-second_title: Aspose.PSD لمرجع .NET API
-description: IGradientFillSettings ملكية. الحصول على أو تحديد اسم التدرج اللوني .
+title: "IGradientFillSettings.GradientName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IGradientFillSettings. يحصل أو يعيّن اسم التدرج"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientName property
 
-الحصول على أو تحديد اسم التدرج اللوني .
+يحصل أو يعيّن اسم التدرج.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم التدرج اللوني .
+اسم التدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

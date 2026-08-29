@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsCyanRedBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: BlncResource ملكية. الحصول على أو تعيين توازن الظلال الأحمر السماوي .
+title: "BlncResource.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "BlncResource خاصية. يحصل أو يضبط توازن الظلال سماوي أحمر"
 type: docs
-weight: 120
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsCyanRedBalance property
 
-الحصول على أو تعيين توازن الظلال الأحمر السماوي .
+يحصل أو يضبط توازن الظلال للسيان الأحمر.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-توازن الظلال السماوي الأحمر.
+توازن الظلال السيان الأحمر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlncResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

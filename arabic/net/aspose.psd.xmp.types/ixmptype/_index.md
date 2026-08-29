@@ -1,28 +1,29 @@
 ---
-title: Interface IXmpType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.IXmpType واجهه المستخدم. الواجهة الأساسية لنوع XMP .
+title: "واجهة IXmpType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.IXmpType interface. الواجهة الأساسية لنوع XMP"
 type: docs
-weight: 6190
+weight: 6690
 url: /ar/net/aspose.psd.xmp.types/ixmptype/
 ---
+{{< psd/tize >}}
 ## IXmpType interface
 
-الواجهة الأساسية لنوع XMP .
+الواجهة الأساسية لنوع XMP.
 
 ```csharp
 public interface IXmpType
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

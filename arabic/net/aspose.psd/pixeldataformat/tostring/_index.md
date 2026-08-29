@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "PixelDataFormat.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. تُرجع سلسلة تمثل هذه الحالة."
 type: docs
 weight: 370
 url: /ar/net/aspose.psd/pixeldataformat/tostring/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+إرجاع String تمثل هذا المثيل.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذا الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

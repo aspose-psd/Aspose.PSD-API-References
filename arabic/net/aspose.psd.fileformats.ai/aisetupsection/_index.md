@@ -1,11 +1,12 @@
 ---
-title: Class AiSetupSection
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Ai.AiSetupSection فصل. قسم إعداد تنسيق Ai
+title: "الفئة AiSetupSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.FileFormats.Ai.AiSetupSection. قسم إعداد تنسيق Ai"
 type: docs
-weight: 1300
+weight: 1310
 url: /ar/net/aspose.psd.fileformats.ai/aisetupsection/
 ---
+{{< psd/tize >}}
 ## AiSetupSection class
 
 قسم إعداد تنسيق Ai
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd.fileformats.ai/aisetupsection/
 public sealed class AiSetupSection : AiSection
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | يحصل على بيانات السلسلة . |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | يحصل على بيانات السلسلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiSection](../aisection/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

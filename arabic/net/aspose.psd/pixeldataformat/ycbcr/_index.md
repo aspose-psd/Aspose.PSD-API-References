@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.YCbCr
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat ملكية. يحصل على ملفPixelDataFormat معرّف لـ 24 بت لكل بكسل مع 8 بت لكل من مكونات اللمعان والفرق الأزرق والصفاء ذو الفروق الحمراء.
+title: "PixelDataFormat.YCbCr"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PixelDataFormat. يحصل على PixelDataFormat المعرفة بـ 24 بت لكل بكسل مع 8 بت لكل من مكوّنات اللّوما، الفرق الأزرق، والفرق الأحمر للكرومات."
 type: docs
 weight: 160
 url: /ar/net/aspose.psd/pixeldataformat/ycbcr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.YCbCr property
 
-يحصل على ملف[`PixelDataFormat`](../) معرّف لـ 24 بت لكل بكسل مع 8 بت لكل من مكونات اللمعان والفرق الأزرق والصفاء ذو الفروق الحمراء.
+يحصل على [`PixelDataFormat`](../) المعرفة بـ 24 بت لكل بكسل مع 8 بت لكل من مكوّنات اللّوما، الفرق الأزرق، والفرق الأحمر للكرومات.
 
 ```csharp
 public static PixelDataFormat YCbCr { get; }
 ```
 
-### Property_Value
+### Property Value
 
-ملف[`PixelDataFormat`](../) معرّف لـ 24 بت لكل بكسل مع 8 بت لكل من مكونات اللمعان والفرق الأزرق والصفاء ذو الفروق الحمراء.
+الـ [`PixelDataFormat`](../) المعرفة بـ 24 بت لكل بكسل مع 8 بت لكل من مكوّنات اللّوما، الفرق الأزرق، والفرق الأحمر للكرومات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

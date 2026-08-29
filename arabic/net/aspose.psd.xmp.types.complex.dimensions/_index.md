@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Dimensions
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات تمثل البنية التي تحتوي على أبعاد لكائن مرسوم.
+title: "Aspose.PSD.Xmp.Types.Complex.Dimensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Namespace يحتوي على فئات تمثل البنية التي تحتوي على أبعاد لكائن مرسوم."
 type: docs
-weight: 640
+weight: 680
 url: /ar/net/aspose.psd.xmp.types.complex.dimensions/
 ---
-تحتوي مساحة الاسم على فئات تمثل البنية التي تحتوي على أبعاد لكائن مرسوم.
+{{< psd/tize >}}
+النطاق يحتوي على فئات تمثل الهيكل الذي يحتوي على أبعاد كائن مرسوم.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [Dimensions](./dimensions/) | تحتوي على أبعاد لكائن مرسوم . |
+| [Dimensions](./dimensions/) | يحتوي على أبعاد لكائن مرسوم. |
 
 

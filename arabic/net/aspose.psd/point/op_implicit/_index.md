@@ -1,32 +1,33 @@
 ---
-title: Point.op_Implicit
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. تحويل المحددPoint هيكل لPointFهيكل .
+title: "Point.op_Implicit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. تُحوّل بنية Point المحددة إلى بنية PointF."
 type: docs
 weight: 180
 url: /ar/net/aspose.psd/point/op_implicit/
 ---
+{{< psd/tize >}}
 ## Point Implicit operator
 
-تحويل المحدد[`Point`](../) هيكل ل[`PointF`](../../pointf/)هيكل .
+تُحوّل بنية الـ[`Point`](../) المحددة إلى بنية الـ[`PointF`](../../pointf/).
 
 ```csharp
 public static implicit operator PointF(Point point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | Point | ال[`Point`](../) ليتم تحويلها. |
+| point | Point | الـ[`Point`](../) للتحويل. |
 
 ### قيمة الإرجاع
 
-ال[`PointF`](../../pointf/) التي تنتج عن التحويل.
+الـ[`PointF`](../../pointf/) الناتج عن التحويل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

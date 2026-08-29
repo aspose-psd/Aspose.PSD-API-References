@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تعيين حد أقصى مخصص لاستخدامه في نهاية السطور المرسومة بهذاPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Pen خاصية. يحصل أو يضبط غطاءً مخصصًا لاستخدامه في نهاية الخطوط المرسومة بهذه Pen"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-الحصول على أو تعيين حد أقصى مخصص لاستخدامه في نهاية السطور المرسومة بهذا[`Pen`](../) .
+يحصل أو يضبط غطاءً مخصصًا لاستخدامه في نهاية الخطوط المرسومة بهذه [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`CustomLineCap`](../../customlinecap/) التي تمثل الغطاء المستخدم في نهاية السطور المرسومة بهذا[`Pen`](../).
+[`CustomLineCap`](../../customlinecap/) الذي يمثل الغطاء المستخدم في نهاية الخطوط المرسومة بهذه [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`CustomEndCap` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `CustomEndCap` يتم تعيينها على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

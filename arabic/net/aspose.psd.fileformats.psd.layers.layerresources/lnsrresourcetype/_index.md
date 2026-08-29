@@ -1,32 +1,33 @@
 ---
-title: Enum LnsrResourceType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType تعداد. أنواع موارد Lnsr المحتملة المكتشفة
+title: "التعداد LnsrResourceType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType. تم اكتشاف أنواع موارد Lnsr المحتملة."
 type: docs
-weight: 2760
+weight: 3070
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
-أنواع موارد Lnsr المحتملة المكتشفة
+اكتُشفت أنواع موارد Lnsr المحتملة
 
 ```csharp
 public enum LnsrResourceType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Rend | `0` | عرض لـ text |
-| Cont | `1` | تابع طبقة التعبئة على سبيل المثال |
-| Bgnd | `2` | Bgnd لخلفية layer |
-| Layr | `3` | طبقة طبقة الصورة العادية |
-| Unknown | `4` | المجهول هو للموقف عندما لم نصف enum |
+| Rend | `0` | العنصر rend للنص |
+| Cont | `1` | العنصر cont لطبقة التعبئة على سبيل المثال |
+| Bgnd | `2` | العنصر Bgnd لطبقة الخلفية |
+| Layr | `3` | العنصر layr لطبقة الصورة العادية |
+| Unknown | `4` | القيمة Unknown مخصصة للحالة التي لم نصف فيها التعداد |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

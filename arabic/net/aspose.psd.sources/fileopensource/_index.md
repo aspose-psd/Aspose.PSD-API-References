@@ -1,42 +1,43 @@
 ---
-title: Class FileOpenSource
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Sources.FileOpenSource فصل. يمثل مصدر ملف للفتح.
+title: "الفئة FileOpenSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Sources.FileOpenSource. تمثل مصدر ملف للفتح"
 type: docs
-weight: 5600
+weight: 6100
 url: /ar/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-يمثل مصدر ملف للفتح.
+يمثّل مصدر ملف للفتح.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | يقوم بتهيئة مثيل جديد لملف`FileOpenSource` فئة . |
+| [FileOpenSource](fileopensource/)(string) | ينشئ مثيلاً جديداً للفئة `FileOpenSource`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | يحصل على مسار الملف للفتح . |
-| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الملف سيكون مؤقتًا. |
+| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | يحصل على مسار الملف للفتح. |
+| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | يحصل على قيمة تشير إلى ما إذا كان الملف سيكون مؤقتاً. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | يحصل على حاوية التدفق . |
+| override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | يحصل على حاوية الدفق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileSource](../filesource/)
-* مساحة الاسم [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

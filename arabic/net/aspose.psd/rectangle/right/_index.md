@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Right
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على أو تحديد الإحداثي x الذي يمثل مجموعX وWidth قيم خاصية هذاRectangleهيكل .
+title: "Rectangle.Right"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل أو تعين إحداثي x الذي هو مجموع قيم خاصيتي X و Width لهذا الهيكل Rectangle."
 type: docs
 weight: 160
 url: /ar/net/aspose.psd/rectangle/right/
 ---
+{{< psd/tize >}}
 ## Rectangle.Right property
 
-الحصول على أو تحديد الإحداثي x الذي يمثل مجموع[`X`](../x/) و[`Width`](../width/) قيم خاصية هذا[`Rectangle`](../)هيكل .
+تحصل أو تعين إحداثي x الذي هو مجموع قيم خاصيتي [`X`](../x/) و [`Width`](../width/) لهذا الهيكل [`Rectangle`](../).
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-إحداثي x هو مجموع[`X`](../x/) و[`Width`](../width/) من هذا[`Rectangle`](../) .
+إحداثي x الذي هو مجموع [`X`](../x/) و [`Width`](../width/) لهذا [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

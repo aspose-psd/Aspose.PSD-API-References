@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على إجراءات إدارة الذاكرة.
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المساحة الاسمية تحتوي على روتينات إدارة الذاكرة."
 type: docs
-weight: 450
+weight: 490
 url: /ar/net/aspose.psd.memorymanagement/
 ---
-تحتوي مساحة الاسم على إجراءات إدارة الذاكرة.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على روتينات إدارة الذاكرة.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [Configuration](./configuration/) | التكوين العام لإدارة الذاكرة |
+| [Configuration](./configuration/) | التكوين العالمي لإدارة الذاكرة |
 
 

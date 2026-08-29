@@ -1,84 +1,85 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: DataStreamSupporter طريقة. يحفظ بيانات الكائن في الوضع الحاليDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة DataStreamSupporter. تُحفظ بيانات الكائن إلى الـ DataStreamSupporter الحالي."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-يحفظ بيانات الكائن في الوضع الحالي[`DataStreamSupporter`](../) .
+تحفظ بيانات الكائن إلى الـ [`DataStreamSupporter`](../) الحالي.
 
 ```csharp
 public virtual void Save()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DataStreamSupporter](../)
-* مساحة الاسم [Aspose.PSD](../../datastreamsupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-يحفظ بيانات الكائن في الدفق المحدد.
+يحفظ بيانات الكائن إلى الدفق المحدد.
 
 ```csharp
 public virtual void Save(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق الذي سيتم حفظ بيانات الكائن فيه. |
+| stream | Stream | الدفق لحفظ بيانات الكائن إليه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DataStreamSupporter](../)
-* مساحة الاسم [Aspose.PSD](../../datastreamsupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_2}
 
-يحفظ بيانات الكائن في موقع الملف المحدد.
+يحفظ بيانات الكائن إلى موقع الملف المحدد.
 
 ```csharp
 public void Save(string filePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف الذي سيتم حفظ بيانات الكائن فيه. |
+| filePath | String | مسار الملف لحفظ بيانات الكائن إليه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DataStreamSupporter](../)
-* مساحة الاسم [Aspose.PSD](../../datastreamsupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, bool) {#save_3}
 
-يحفظ بيانات الكائن في موقع الملف المحدد.
+يحفظ بيانات الكائن إلى موقع الملف المحدد.
 
 ```csharp
 public virtual void Save(string filePath, bool overWrite)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف الذي سيتم حفظ بيانات الكائن فيه. |
-| overWrite | Boolean | إذا تم التعيين على`حقيقي` عبر كتابة محتويات الملف ، وإلا سيحدث الإلحاق. |
+| filePath | String | مسار الملف لحفظ بيانات الكائن إليه. |
+| overWrite | Boolean | إذا تم تعيينه إلى `true` فستتم كتابة محتويات الملف من جديد، وإلا سيحدث الإلحاق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DataStreamSupporter](../)
-* مساحة الاسم [Aspose.PSD](../../datastreamsupporter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

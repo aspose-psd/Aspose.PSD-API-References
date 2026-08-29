@@ -1,27 +1,28 @@
 ---
-title: InitialFillRuleRecord.IsFillStartsWithAllPixels
-second_title: Aspose.PSD لمرجع .NET API
-description: InitialFillRuleRecord ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان التعبئة يبدأ بكل وحدات البكسل.
+title: "InitialFillRuleRecord.IsFillStartsWithAllPixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية InitialFillRuleRecord. تحصل أو تعيين قيمة تشير إلى ما إذا كانت التعبئة تبدأ بجميع البكسلات"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord.IsFillStartsWithAllPixels property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان التعبئة يبدأ بكل وحدات البكسل.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان التعبئة تبدأ بجميع البكسلات.
 
 ```csharp
 public bool IsFillStartsWithAllPixels { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-يبدأ التعبئة بكل وحدات البكسل .
+التعبئة تبدأ بجميع البكسلات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InitialFillRuleRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

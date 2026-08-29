@@ -1,205 +1,206 @@
 ---
-title: PsdImage.PsdImage
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage البناء. يقوم بتهيئة مثيل جديد لملفPsdImage فئة من مسار محدد من صورة نقطية وليس صورة psd في المسار. يستخدم لتهيئة صورة psd بالمعلمات الافتراضية  وضع اللون  RGB  4 قنوات  8 بت لكل قناة  الضغط  Raw .
+title: "PsdImage.PsdImage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PsdImage. يهيئ مثيلًا جديدًا من فئة PsdImage من المسار المحدد لصورة نقطية وليس صورة PSD في المسار. يُستخدم لتهيئة صورة PSD بالمعلمات الافتراضية  وضع اللون  rgb 4 قنوات 8 بت لكل قناة  الضغط  Raw"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/psdimage/
 ---
+{{< psd/tize >}}
 ## PsdImage(string) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../) فئة من مسار محدد من صورة نقطية (وليس صورة psd في المسار). يستخدم لتهيئة صورة psd بالمعلمات الافتراضية - وضع اللون - RGB ، 4 قنوات ، 8 بت لكل قناة ، الضغط - Raw .
+يهيئ مثيلًا جديدًا من الفئة [`PsdImage`](../) من المسار المحدد لصورة نقطية (ليس صورة PSD في المسار). يُستخدم لتهيئة صورة PSD بالمعلمات الافتراضية - وضع اللون - rgb، 4 قنوات، 8 بت لكل قناة، الضغط - Raw.
 
 ```csharp
 public PsdImage(string path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار تحميل بيانات البكسل واللوحة منه والتهيئة به. |
+| المسار | String | المسار لتحميل بيانات البكسل واللوحة منه والتهيئة به. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(string, ColorModes, short, short, int, CompressionMethod) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../) فئة من مسار محدد من صورة نقطية (وليس صورة psd في المسار) مع معلمات المُنشئ.
+يهيئ مثيلًا جديدًا من الفئة [`PsdImage`](../) من المسار المحدد لصورة نقطية (ليس صورة PSD في المسار) باستخدام معلمات المنشئ.
 
 ```csharp
 public PsdImage(string path, ColorModes colorMode, short channelBitDepth, short channels, 
     int psdVersion, CompressionMethod compression)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار تحميل بيانات البكسل واللوحة منه والتهيئة به. |
+| المسار | String | المسار لتحميل بيانات البكسل واللوحة منه والتهيئة به. |
 | colorMode | ColorModes | وضع اللون. |
-| channelBitDepth | Int16 | عمق بت PSD لكل قناة. |
-| channels | Int16 | تحسب قنوات PSD. |
+| channelBitDepth | Int16 | عمق البت في PSD لكل قناة. |
+| channels | Int16 | عدد قنوات PSD. |
 | psdVersion | Int32 | إصدار PSD. |
-| compression | CompressionMethod | ضغط الاستخدام. |
+| compression | CompressionMethod | ضغط المراد استخدامه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../) فئة من مسار محدد من صورة نقطية (وليس صورة psd في الدفق). يستخدم لتهيئة صورة psd بالمعلمات الافتراضية - وضع اللون - RGB ، 4 قنوات ، 8 بت لكل قناة ، الضغط - Raw .
+ينشئ مثيلًا جديدًا لفئة [`PsdImage`](../) من المسار المحدد من صورة نقطية (ليس صورة PSD في الدفق). يُستخدم لتهيئة صورة PSD بالمعلمات الافتراضية - وضع اللون - rgb، 4 قنوات، 8 بت لكل قناة، الضغط - Raw.
 
 ```csharp
 public PsdImage(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق لتحميل بيانات البكسل واللوحة منه والتهيئة معه. |
+| stream | Stream | الدفق لتحميل بيانات البكسل واللوحة اللونية منه والتهيئة به. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(Stream, ColorModes, short, short, int, CompressionMethod) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../) فئة من مسار محدد من صورة نقطية (وليس صورة psd في الدفق) مع معلمات المُنشئ.
+ينشئ مثيلًا جديدًا لفئة [`PsdImage`](../) من المسار المحدد من صورة نقطية (ليس صورة PSD في الدفق) باستخدام معلمات المُنشئ.
 
 ```csharp
 public PsdImage(Stream stream, ColorModes colorMode, short channelBitDepth, short channels, 
     int psdVersion, CompressionMethod compression)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق لتحميل بيانات البكسل واللوحة منه والتهيئة معه. |
+| stream | Stream | الدفق لتحميل بيانات البكسل واللوحة اللونية منه والتهيئة به. |
 | colorMode | ColorModes | وضع اللون. |
-| channelBitDepth | Int16 | عمق بت PSD لكل قناة. |
-| channels | Int16 | تحسب قنوات PSD. |
+| channelBitDepth | Int16 | عمق البت في PSD لكل قناة. |
+| channels | Int16 | عدد قنوات PSD. |
 | psdVersion | Int32 | إصدار PSD. |
-| compression | CompressionMethod | ضغط الاستخدام. |
+| compression | CompressionMethod | ضغط المراد استخدامه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../)فئة من الصورة النقطية الموجودة (وليس صورة psd) مع وضع ألوان RGB مع 4 قنوات 8 بت / قناة وبدون ضغط.
+ينشئ مثيلًا جديدًا لفئة [`PsdImage`](../) من صورة نقطية موجودة (ليس صورة PSD) بوضع اللون RGB مع 4 قنوات 8 بت/قناة وبدون ضغط.
 
 ```csharp
 public PsdImage(RasterImage rasterImage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rasterImage | RasterImage | الصورة المراد تحميل بيانات البكسل واللوحة منها والتهيئة معها. |
+| rasterImage | RasterImage | الصورة لتحميل بيانات البكسل واللوحة اللونية منها والتهيئة بها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(RasterImage, ColorModes, short, short, int, CompressionMethod) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../) فئة من الصورة النقطية الموجودة (وليس صورة psd) مع معلمات المُنشئ.
+ينشئ مثيلًا جديدًا لفئة [`PsdImage`](../) من صورة نقطية موجودة (ليس صورة PSD) باستخدام معلمات المُنشئ.
 
 ```csharp
 public PsdImage(RasterImage rasterImage, ColorModes colorMode, short channelBitDepth, 
     short channels, int psdVersion, CompressionMethod compression)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rasterImage | RasterImage | الصورة المراد تحميل بيانات البكسل واللوحة منها والتهيئة معها. |
+| rasterImage | RasterImage | الصورة لتحميل بيانات البكسل واللوحة اللونية منها والتهيئة بها. |
 | colorMode | ColorModes | وضع اللون. |
-| channelBitDepth | Int16 | عمق بت PSD لكل قناة. |
-| channels | Int16 | تحسب قنوات PSD. |
+| channelBitDepth | Int16 | عمق البت في PSD لكل قناة. |
+| channels | Int16 | عدد قنوات PSD. |
 | psdVersion | Int32 | إصدار PSD. |
-| compression | CompressionMethod | ضغط الاستخدام. |
+| compression | CompressionMethod | ضغط المراد استخدامه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../) فئة مع عرض وارتفاع محددين. تستخدم لتهيئة صورة psd فارغة.
+ينشئ مثيلًا جديدًا لفئة [`PsdImage`](../) بالعرض والارتفاع المحددين. يُستخدم لتهيئة صورة PSD فارغة.
 
 ```csharp
 public PsdImage(int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة. |
-| height | Int32 | ارتفاع الصورة. |
+| العرض | Int32 | عرض الصورة. |
+| الارتفاع | Int32 | ارتفاع الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImage(int, int, IColorPalette, ColorModes, short, short, int, CompressionMethod) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImage`](../) فئة مع عرض محدد ، ارتفاع ، لوحة ، وضع اللون ، عدد القنوات وقنوات طول البت ومعلمات وضع الضغط المحددة. تستخدم لتهيئة صورة psd فارغة.
+ينشئ مثيلًا جديدًا لفئة [`PsdImage`](../) بالعرض والارتفاع واللوحة اللونية ووضع اللون وعدد القنوات وطول البت لكل قناة ومعلمات وضع الضغط المحددة. يُستخدم لتهيئة صورة PSD فارغة.
 
 ```csharp
 public PsdImage(int width, int height, IColorPalette colorPalette, ColorModes colorMode, 
     short channelBitDepth, short channels, int psdVersion, CompressionMethod compression)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة. |
-| height | Int32 | ارتفاع الصورة. |
+| العرض | Int32 | عرض الصورة. |
+| الارتفاع | Int32 | ارتفاع الصورة. |
 | colorPalette | IColorPalette | لوحة الألوان. |
 | colorMode | ColorModes | وضع اللون. |
-| channelBitDepth | Int16 | عمق بت PSD لكل قناة. |
-| channels | Int16 | تحسب قنوات PSD. |
+| channelBitDepth | Int16 | عمق البت في PSD لكل قناة. |
+| channels | Int16 | عدد قنوات PSD. |
 | psdVersion | Int32 | إصدار PSD. |
-| compression | CompressionMethod | ضغط الاستخدام. |
+| compression | CompressionMethod | ضغط المراد استخدامه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * enum [ColorModes](../../colormodes/)
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

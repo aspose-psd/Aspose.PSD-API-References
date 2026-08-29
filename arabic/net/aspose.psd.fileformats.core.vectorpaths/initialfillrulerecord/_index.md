@@ -1,11 +1,12 @@
 ---
-title: Class InitialFillRuleRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord فصل. فئة سجل قاعدة التعبئة الأولية
+title: "الفئة InitialFillRuleRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord. فئة سجل قاعدة التعبئة الأولية"
 type: docs
-weight: 1360
+weight: 1370
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord class
 
 فئة سجل قاعدة التعبئة الأولية
@@ -14,25 +15,25 @@ url: /ar/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 public class InitialFillRuleRecord : VectorPathRecord
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | يقوم بتهيئة مثيل جديد لملف`InitialFillRuleRecord` فئة . |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | يقوم بتهيئة مثيل جديد لملف`InitialFillRuleRecord` فئة . |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | يقوم بتهيئة مثيل جديد لملف`InitialFillRuleRecord` فئة . |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | ينشئ مثيلاً جديداً للفئة `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | ينشئ مثيلاً جديداً للفئة `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | ينشئ مثيلاً جديداً للفئة `InitialFillRuleRecord`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان التعبئة يبدأ بكل وحدات البكسل. |
+| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان التعبئة تبدأ بجميع البكسلات. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/) { get; } | يحصل على النوع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

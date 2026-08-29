@@ -1,11 +1,12 @@
 ---
-title: Figure.RemoveShapes
-second_title: Aspose.PSD لمرجع .NET API
-description: Figure طريقة. يزيل مجموعة من الأشكال من الشكل.
+title: "Figure.RemoveShapes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Figure. تزيل مجموعة من الأشكال من الشكل"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/figure/removeshapes/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShapes method
 
 يزيل مجموعة من الأشكال من الشكل.
@@ -14,15 +15,15 @@ url: /ar/net/aspose.psd/figure/removeshapes/
 public void RemoveShapes(Shape[] shapes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| shapes | Shape[] | نطاق الأشكال لإزالتها. |
+| الأشكال | Shape[] | نطاق الأشكال المراد إزالتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* مساحة الاسم [Aspose.PSD](../../figure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

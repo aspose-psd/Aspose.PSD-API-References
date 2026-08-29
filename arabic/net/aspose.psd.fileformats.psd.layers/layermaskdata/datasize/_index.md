@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.DataSize
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskData ملكية. يحصل على حجم بيانات قناع الطبقة.
+title: "LayerMaskData.DataSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskData. يحصل على حجم بيانات قناع الطبقة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DataSize property
 
 يحصل على حجم بيانات قناع الطبقة.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 public int DataSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حجم بيانات قناع الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

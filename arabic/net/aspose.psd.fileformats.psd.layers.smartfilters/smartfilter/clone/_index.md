@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.Clone
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilter طريقة. يجعل استنساخ العضو للمثيل الحالي من النوع.
+title: "SmartFilter.Clone"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartFilter. ينشئ نسخة عضو للنسخة الحالية من النوع"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Clone method
 
-يجعل استنساخ العضو للمثيل الحالي من النوع.
+ينشئ نسخة مستنسخة عضوًا بعضًا من النسخة الحالية لهذا النوع.
 
 ```csharp
 public SmartFilter Clone()
@@ -16,12 +17,12 @@ public SmartFilter Clone()
 
 ### قيمة الإرجاع
 
-تُرجع النسخة المقلدة للمثيل الحالي من النوع.
+يرجع نسخة عضو للنسخة الحالية من النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

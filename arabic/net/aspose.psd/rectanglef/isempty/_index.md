@@ -1,14 +1,15 @@
 ---
-title: RectangleF.IsEmpty
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF ملكية. يحصل على قيمة تشير إلى ما إذا كان ملفWidth أوHeight ممتلكات هذاRectangleF بقيمة صفر .
+title: "RectangleF.IsEmpty"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RectangleF. يحصل على قيمة تشير إلى ما إذا كانت خاصية العرض أو الارتفاع لهذا RectangleF لها قيمة صفر."
 type: docs
 weight: 100
 url: /ar/net/aspose.psd/rectanglef/isempty/
 ---
+{{< psd/tize >}}
 ## RectangleF.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان ملف[`Width`](../width/) أو[`Height`](../height/) ممتلكات هذا[`RectangleF`](../) بقيمة صفر .
+يحصل على قيمة تشير إلى ما إذا كانت خاصية [`Width`](../width/) أو [`Height`](../height/) لهذا [`RectangleF`](../) لها قيمة صفر.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### قيمة الإرجاع
 
-تعود هذه الخاصية صحيحًا إذا كان[`Width`](../width/) أو[`Height`](../height/) ممتلكات هذا[`RectangleF`](../) له قيمة صفرية ؛ خلاف ذلك ، خطأ.
+تُعيد هذه الخاصية true إذا كانت خاصية [`Width`](../width/) أو [`Height`](../height/) لهذا [`RectangleF`](../) لها قيمة صفر؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

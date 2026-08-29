@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.ProgressManagement
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات معالج التقدم
+title: "Aspose.PSD.ProgressManagement"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "النطاق يحتوي على فئات معالج التقدم"
 type: docs
-weight: 480
+weight: 520
 url: /ar/net/aspose.psd.progressmanagement/
 ---
-تحتوي مساحة الاسم على فئات معالج التقدم
+{{< psd/tize >}}
+النطاق يحتوي على فئات معالج التقدم
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | تمثل هذه الفئة معلومات حول تقدم عمليات تحميل / حفظ / تصدير الصور ، التي يمكن استخدامها في تطبيق خارجي لإظهار تقدم التحويل إلى user |
+| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | هذه الفئة تمثل معلومات حول تقدم عمليات تحميل/حفظ/تصدير الصورة، والتي يمكن استخدامها في تطبيق خارجي لعرض تقدم التحويل للمستخدم النهائي |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [EventType](./eventtype/) | يصف هذا التعداد أنواع أحداث التقدم المحتملة التي يمكن أن تحدث أثناء عمليات معالجة الصور |
+| [EventType](./eventtype/) | يصف هذا التعداد أنواع أحداث التقدم الممكنة التي يمكن أن تحدث أثناء عمليات معالجة الصورة |
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpText.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpText ملكية. الحصول على القيمة النصية أو تعيينها.
+title: "XmpText.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpText. يحصل أو يضبط قيمة النص"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
-الحصول على القيمة النصية أو تعيينها.
+يحصل أو يعيّن قيمة النص.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة النص .
+قيمة النص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpText](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

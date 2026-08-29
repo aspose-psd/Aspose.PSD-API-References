@@ -1,44 +1,45 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LnkeResource البناء. يقوم بتهيئة مثيل جديد لملفLnkeResource فئة .
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LnkeResource. يهيئ مثلاً جديداً لفئة LnkeResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LnkeResource`](../) فئة .
+يهيئ مثلاً جديداً لفئة [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LnkeResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LnkeResource`](../) فئة .
+يهيئ مثلاً جديداً لفئة [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | dataSources | LinkDataSource[] | مصادر البيانات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpArray.ToString
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpArray طريقة. إرجاع أString الذي يمثل هذا المثال.
+title: "XmpArray.ToString"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpArray. تُرجِع String تمثل هذا المثال"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp/xmparray/tostring/
 ---
+{{< psd/tize >}}
 ## XmpArray.ToString method
 
-إرجاع أString الذي يمثل هذا المثال.
+إرجاع String تمثل هذا المثيل.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-أString الذي يمثل هذا المثال.
+String تمثل هذا الكائن.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpArray](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmparray/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

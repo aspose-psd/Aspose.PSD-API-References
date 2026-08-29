@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: Aspose.PSD لمرجع .NET API
-description: BrightnessContrastLayer ملكية. الحصول على التباين أو تحديده. يتراوح نطاق التباين لـ PS من 50 إلى 100. لكننا نتجاهل هذا.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BrightnessContrastLayer. يحصل أو يضبط التباين. النطاق في PS للتباين هو من 50 إلى 100. لكننا نتجاهل هذا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-الحصول على التباين أو تحديده. يتراوح نطاق التباين لـ PS من -50 إلى +100. لكننا نتجاهل هذا.
+الحصول أو تعيين التباين. النطاق في PS للتباين هو من -50 إلى +100. لكننا نتجاهل ذلك.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التباين .
+التباين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BrightnessContrastLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

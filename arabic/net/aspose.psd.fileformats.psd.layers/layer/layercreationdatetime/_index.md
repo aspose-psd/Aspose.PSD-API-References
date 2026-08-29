@@ -1,27 +1,28 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تحديد وقت تاريخ إنشاء الطبقة.
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط تاريخ ووقت إنشاء الطبقة"
 type: docs
-weight: 200
+weight: 210
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
-الحصول على أو تحديد وقت تاريخ إنشاء الطبقة.
+يحصل أو يضبط تاريخ ووقت إنشاء الطبقة.
 
 ```csharp
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وقت تاريخ إنشاء الطبقة. إذا لم تكن هناك بيانات حول تاريخ الإنشاء ثم يتم إرجاع Unix Time أولاً epoch
+تاريخ ووقت إنشاء الطبقة. إذا لم توجد بيانات حول تاريخ ووقت الإنشاء DateTime فستُرجع وقت يونيكس من أول حقبة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

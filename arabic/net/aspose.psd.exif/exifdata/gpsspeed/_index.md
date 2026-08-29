@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSSpeed
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد سرعة حركة مستقبل GPS.
+title: "ExifData.GPSSpeed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعيين سرعة حركة جهاز استقبال GPS"
 type: docs
 weight: 600
 url: /ar/net/aspose.psd.exif/exifdata/gpsspeed/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeed property
 
-الحصول على أو تحديد سرعة حركة مستقبل GPS.
+الحصول أو تعيين سرعة حركة مستقبل GPS.
 
 ```csharp
 public TiffRational GPSSpeed { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-سرعة حركة مستقبل GPS .
+سرعة حركة جهاز استقبال GPS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: LclrResource.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: LclrResource ملكية. الحصول على لون الطبقة أو تحديده .
+title: "LclrResource.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LclrResource. الحصول أو تعيين لون الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/
 ---
+{{< psd/tize >}}
 ## LclrResource.Color property
 
-الحصول على لون الطبقة أو تحديده .
+يحصل أو يضبط لون الطبقة.
 
 ```csharp
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اللون .
+اللون.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيف يمكنك تغيير تمييز لون الورقة في Aspose.PSD (إعداد لون الورقة)
+المثال التالي يوضح كيف يمكنك تغيير تمييز لون الورقة في Aspose.PSD (إعداد لون الورقة)
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public SheetColorHighlightEnum Color { get; set; }
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// في ملف ألوان تمييز الطبقات بالترتيب
+// في الملف، ألوان تمييز الطبقات بهذا الترتيب
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -40,8 +41,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// لون ورقة الطبقة يُستخدم لتمييز الطبقات بصريًا. 
-// على سبيل المثال ، يمكنك تحديث بعض الطبقات في PSD ثم تمييز الطبقة التي تريد جذب الانتباه إليها من خلال تلوينها.
+// يُستخدم لون ورقة الطبقة لتمييز الطبقات بصريًا.
+// على سبيل المثال يمكنك تحديث بعض الطبقات في PSD ثم تمييز باللون الطبقة التي تريد جذب الانتباه إليها.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -64,7 +65,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // يعرض مورد lcrl دائمًا في قائمة موارد ملف psd.
+            // المورد lcrl يظهر دائمًا في قائمة موارد ملف PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,11 +83,11 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

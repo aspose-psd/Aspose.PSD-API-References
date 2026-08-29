@@ -1,102 +1,103 @@
 ---
-title: Region.Exclude
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يقوم بتحديث هذاRegion لتحتوي فقط على جزء من الجزء الداخلي لا يتقاطع مع المحددRectangleFهيكل .
+title: "Region.Exclude"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُحدّث هذا Region ليحتوي فقط على الجزء الداخلي الذي لا يتقاطع مع بنية RectangleF المحددة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-يقوم بتحديث هذا[`Region`](../) لتحتوي فقط على جزء من الجزء الداخلي لا يتقاطع مع المحدد[`RectangleF`](../../rectanglef/)هيكل .
+يُحدّث هذا [`Region`](../) ليحتوي فقط على الجزء الداخلي الذي لا يتقاطع مع البنية المحددة [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Exclude(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | ال[`RectangleF`](../../rectanglef/) هيكل لاستبعاده من هذا[`Region`](../). |
+| rect | RectangleF | البنية [`RectangleF`](../../rectanglef/) لاستبعادها من هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-يقوم بتحديث هذا[`Region`](../) لتحتوي فقط على جزء من الجزء الداخلي لا يتقاطع مع المحدد[`Rectangle`](../../rectangle/)هيكل .
+يُحدّث هذا [`Region`](../) ليحتوي فقط على الجزء الداخلي الذي لا يتقاطع مع البنية المحددة [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Exclude(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../../rectangle/) هيكل لاستبعاده من هذا[`Region`](../). |
+| rect | Rectangle | البنية [`Rectangle`](../../rectangle/) لاستبعادها من هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-يقوم بتحديث هذا[`Region`](../) لتحتوي فقط على جزء من الجزء الداخلي لا يتقاطع مع المحدد[`GraphicsPath`](../../graphicspath/) .
+يُحدّث هذا [`Region`](../) ليحتوي فقط على الجزء الداخلي الذي لا يتقاطع مع [`GraphicsPath`](../../graphicspath/) المحدد.
 
 ```csharp
 public void Exclude(GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | GraphicsPath | ال[`GraphicsPath`](../../graphicspath/) لاستبعاد من هذا[`Region`](../). |
+| path | GraphicsPath | الكائن [`GraphicsPath`](../../graphicspath/) لاستبعادها من هذا [`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *path* فارغ . |
+| ArgumentNullException | *path* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-يقوم بتحديث هذا[`Region`](../) لتحتوي فقط على جزء من الجزء الداخلي لا يتقاطع مع المحدد[`Region`](../) .
+يقوم بتحديث هذا [`Region`](../) ليحتوي فقط على الجزء الداخلي منه الذي لا يتقاطع مع الـ[`Region`](../) المحدد.
 
 ```csharp
 public void Exclude(Region region)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| region | Region | ال[`Region`](../) لاستبعاد من هذا[`Region`](../). |
+| region | Region | الـ[`Region`](../) لاستبعاده من هذا الـ[`Region`](../). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *region* فارغ . |
+| ArgumentNullException | *region* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

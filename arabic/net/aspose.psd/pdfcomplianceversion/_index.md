@@ -1,11 +1,12 @@
 ---
-title: Enum PdfComplianceVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.PdfComplianceVersion تعداد. يحدد مستوى توافق PDF لملف الإخراج.
+title: "التعداد PdfComplianceVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.PdfComplianceVersion. يحدد مستوى توافق PDF لملف الإخراج."
 type: docs
-weight: 5190
+weight: 5680
 url: /ar/net/aspose.psd/pdfcomplianceversion/
 ---
+{{< psd/tize >}}
 ## PdfComplianceVersion enumeration
 
 يحدد مستوى توافق PDF لملف الإخراج.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd/pdfcomplianceversion/
 public enum PdfComplianceVersion
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Pdf15 | `0` | سيكون الملف الناتج متوافقًا مع PDF 1.5 . |
-| PdfA1a | `1` | سيكون ملف الإخراج متوافقًا مع PDF / A-1a. |
-| PdfA1b | `2` | سيكون ملف الإخراج متوافقًا مع PDF / A-1b. |
+| Pdf15 | `0` | ملف الإخراج سيتوافق مع PDF 1.5. |
+| PdfA1a | `1` | ملف الإخراج سيتوافق مع PDF/A-1a. |
+| PdfA1b | `2` | ملف الإخراج سيتوافق مع PDF/A-1b. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

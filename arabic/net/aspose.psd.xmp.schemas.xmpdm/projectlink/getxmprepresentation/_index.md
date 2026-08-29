@@ -1,14 +1,15 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: Aspose.PSD لمرجع .NET API
-description: ProjectLink طريقة. سلسلة إرجاع القيمة المضمنة بتنسيق XMP.
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "ProjectLink طريقة. يرجع قيمة السلسلة المحتواة بصيغة XMP"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
-سلسلة إرجاع القيمة المضمنة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,18 +17,18 @@ public override string GetXmpRepresentation()
 
 ### قيمة الإرجاع
 
-سلسلة إرجاع القيمة المضمنة بتنسيق XMP.
+يعيد القيمة النصية المحتواة بتنسيق XMP.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | NotImplementedException |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectLink](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Left
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeBoundingBox ملكية. الحصول على اليسار أو تعيينه.
+title: "VectorShapeBoundingBox.Left"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeBoundingBox. يحصل أو يضبط القيمة اليسرى"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Left property
 
-الحصول على اليسار أو تعيينه.
+يحصل أو يعيّن الخاصية اليسرى.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اليسار.
+القيمة اليسرى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeBoundingBox](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

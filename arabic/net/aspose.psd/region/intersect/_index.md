@@ -1,90 +1,91 @@
 ---
-title: Region.Intersect
-second_title: Aspose.PSD لمرجع .NET API
-description: Region طريقة. يقوم بتحديث هذاRegion إلى تقاطع نفسه مع المحددRectangleFهيكل .
+title: "Region.Intersect"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Region. تُحدّث هذا Region إلى تقاطع نفسه مع بنية RectangleF المحددة"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-يقوم بتحديث هذا[`Region`](../) إلى تقاطع نفسه مع المحدد[`RectangleF`](../../rectanglef/)هيكل .
+يُحدّث هذا [`Region`](../) إلى تقاطع نفسه مع البنية المحددة [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RectangleF | ال[`RectangleF`](../../rectanglef/) هيكل يتقاطع مع هذا[`Region`](../). |
+| rect | RectangleF | البنية [`RectangleF`](../../rectanglef/) للتقاطع مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-يقوم بتحديث هذا[`Region`](../) إلى تقاطع نفسه مع المحدد[`Rectangle`](../../rectangle/)هيكل .
+يُحدّث هذا [`Region`](../) إلى تقاطع نفسه مع البنية المحددة [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | ال[`Rectangle`](../../rectangle/) هيكل يتقاطع مع هذا[`Region`](../). |
+| rect | Rectangle | البنية [`Rectangle`](../../rectangle/) للتقاطع مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-يقوم بتحديث هذا[`Region`](../) إلى تقاطع نفسه مع المحدد[`GraphicsPath`](../../graphicspath/) .
+يُحدّث هذا [`Region`](../) إلى تقاطع نفسه مع [`GraphicsPath`](../../graphicspath/) المحدد.
 
 ```csharp
 public void Intersect(GraphicsPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | GraphicsPath | ال[`GraphicsPath`](../../graphicspath/) لتتقاطع مع هذا[`Region`](../). |
+| path | GraphicsPath | الكائن [`GraphicsPath`](../../graphicspath/) للتقاطع مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-يقوم بتحديث هذا[`Region`](../) إلى تقاطع نفسه مع المحدد[`Region`](../) .
+يُحدّث هذا [`Region`](../) إلى تقاطع نفسه مع الـ[`Region`](../) المحدد.
 
 ```csharp
 public void Intersect(Region region)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| region | Region | ال[`Region`](../) لتتقاطع مع هذا[`Region`](../). |
+| region | Region | الكائن [`Region`](../) للتقاطع مع هذا [`Region`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Region](../)
-* مساحة الاسم [Aspose.PSD](../../region/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

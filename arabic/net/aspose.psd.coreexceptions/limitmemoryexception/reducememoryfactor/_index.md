@@ -1,27 +1,28 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Aspose.PSD لمرجع .NET API
-description: LimitMemoryException ملكية. الحصول على أو تعيين عامل تقليل الذاكرة .
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LimitMemoryException. تحصل أو تعين عامل تقليل الذاكرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
-الحصول على أو تعيين عامل تقليل الذاكرة .
+يحصل أو يضبط معامل تقليل الذاكرة.
 
 ```csharp
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تقليل عامل الذاكرة .
+عامل تقليل الذاكرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LimitMemoryException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

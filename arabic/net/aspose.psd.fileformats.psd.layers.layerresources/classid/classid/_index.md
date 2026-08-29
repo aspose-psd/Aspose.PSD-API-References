@@ -1,119 +1,120 @@
 ---
-title: ClassID.ClassID
-second_title: Aspose.PSD لمرجع .NET API
-description: ClassID البناء. يقوم بتهيئة مثيل جديد لملفClassID فئة .
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ ClassID. يُنشئ مثلاً جديدًا من فئة ClassID"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ClassID`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| classID | Byte[] | معرف الفئة كسلسلة من البايت. |
+| classID | Byte[] | معرف الفئة كسلسلة من البايتات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ClassID`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| classID | Byte[] | معرف الفئة كسلسلة من البايت. |
-| isZeroLength | Boolean | إذا تم التعيين على`حقيقي` [طول صفري] . طول السلسلة المسجلة صفر ولكن الفعلي أربعة . |
+| classID | Byte[] | معرف الفئة كسلسلة من البايتات. |
+| isZeroLength | Boolean | إذا تم تعيينه إلى `true` [is zero length]. طول السلسلة المسجلة هو صفر لكن الفعلي هو أربعة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | classID خالية. |
+| ArgumentNullException | classID فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`ClassID`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`ClassID`](../).
 
 ```csharp
 public ClassID(int classID)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| classID | Int32 | معرف الفصل. |
+| classID | Int32 | معرّف الفئة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`ClassID`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`ClassID`](../).
 
 ```csharp
 public ClassID(uint classID)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| classID | UInt32 | معرف الفصل. |
+| classID | UInt32 | معرّف الفئة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`ClassID`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| classID | String | معرف الفئة في ترميز ASCII. |
-| isZeroLength | Boolean | إذا تم التعيين على`حقيقي` [طوله صفر]. |
+| classID | String | معرف الفئة بتشفير ASCII. |
+| isZeroLength | Boolean | إذا تم تعيينه إلى `true` [is zero length]. |
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال أن الطبقة ، المستوردة من صورة ، يتم تحويلها إلى طبقة كائن ذكي وأن ملف PSD المحفوظ صحيح.
+هذا المثال يوضح أن الطبقة المستوردة من صورة يتم تحويلها إلى طبقة كائن ذكي وأن ملف PSD المحفوظ صحيح.
 
 ```csharp
 [C#]
 
-// تختبر أن الطبقة ، المستوردة من صورة ، يتم تحويلها إلى طبقة كائن ذكي وأن ملف PSD المحفوظ صحيح.
+// يختبر أن الطبقة المستوردة من صورة يتم تحويلها إلى طبقة كائن ذكي وأن ملف PSD المحفوظ صحيح.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -152,30 +153,30 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`ClassID`](../) فئة .
+يُنشئ مثلاً جديدًا من الفئة [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| classID | String | معرف الفئة في ترميز ASCII. |
+| classID | String | معرف الفئة بتشفير ASCII. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

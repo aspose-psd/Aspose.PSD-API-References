@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.ThumbnailData
-second_title: Aspose.PSD لمرجع .NET API
-description: ThumbnailResource ملكية. الحصول على بيانات الصورة المصغرة أو تعيينها.
+title: "ThumbnailResource.ThumbnailData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ThumbnailResource. تحصل أو تعين بيانات الصورة المصغرة"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailData property
 
-الحصول على بيانات الصورة المصغرة أو تعيينها.
+يحصل أو يضبط بيانات الصورة المصغرة.
 
 ```csharp
 public Color[] ThumbnailData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-البيانات المصغرة.
+بيانات الصورة المصغرة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ThumbnailResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

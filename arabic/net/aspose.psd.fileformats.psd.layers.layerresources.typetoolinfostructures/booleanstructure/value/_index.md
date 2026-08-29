@@ -1,27 +1,28 @@
 ---
-title: BooleanStructure.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: BooleanStructure ملكية. الحصول على قيمة منطقية أو تعيينها.
+title: "BooleanStructure.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BooleanStructure. تحصل أو تعين قيمة منطقية."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value/
 ---
+{{< psd/tize >}}
 ## BooleanStructure.Value property
 
-الحصول على قيمة منطقية أو تعيينها.
+يحصل أو يعيّن قيمة منطقية.
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة منطقية .
+قيمة منطقية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BooleanStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

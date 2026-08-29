@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Aspose.PSD لمرجع .NET API
-description: PolygonShape ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل مغلقًا.
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PolygonShape. يحصل أو يحدد قيمة تشير إلى ما إذا كان الشكل مغلقًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان الشكل مغلقًا.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان الشكل مغلقاً.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان الشكل مغلقًا ؛ خلاف ذلك،`خطأ شنيع`.
+`true` إذا كان الشكل مغلقًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../polygonshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

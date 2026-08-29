@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetModifyDate
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBasicPackage طريقة. إضافة تاريخ آخر تعديل للمورد.
+title: "XmpBasicPackage.SetModifyDate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpBasicPackage. يضيف تاريخ آخر تعديل للمورد"
 type: docs
-weight: 80
+weight: 100
 url: /ar/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
+{{< psd/tize >}}
 ## SetModifyDate(DateTime) {#setmodifydate}
 
-إضافة تاريخ آخر تعديل للمورد.
+يضيف تاريخ آخر تعديل للمورد.
 
 ```csharp
 public void SetModifyDate(DateTime modifiedDate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| modifiedDate | DateTime | اخر تحديث. |
+| modifiedDate | DateTime | تاريخ آخر تعديل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetModifyDate(string) {#setmodifydate_1}
 
-إضافة تاريخ آخر تعديل للمورد.
+يضيف تاريخ آخر تعديل للمورد.
 
 ```csharp
 public void SetModifyDate(string modifiedDate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| modifiedDate | String | اخر تحديث. |
+| modifiedDate | String | تاريخ آخر تعديل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBasicPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

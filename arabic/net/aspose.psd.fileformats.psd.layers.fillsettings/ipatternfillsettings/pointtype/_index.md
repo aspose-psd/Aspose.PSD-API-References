@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PointType
-second_title: Aspose.PSD لمرجع .NET API
-description: IPatternFillSettings ملكية. الحصول على نوع النقطة أو تحديده .
+title: "IPatternFillSettings.PointType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPatternFillSettings. يحصل أو يضبط نوع النقطة"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PointType property
 
-الحصول على نوع النقطة أو تحديده .
+يحصل أو يعيّن نوع النقطة.
 
 ```csharp
 public string PointType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع النقطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

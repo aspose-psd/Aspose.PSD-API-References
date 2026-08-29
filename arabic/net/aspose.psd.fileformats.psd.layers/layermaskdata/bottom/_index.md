@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Bottom
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskData ملكية. الحصول على أو تحديد موضع قناع الطبقة السفلية.
+title: "LayerMaskData.Bottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskData. يحصل أو يضبط موضع القناع السفلي للطبقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdata/bottom/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Bottom property
 
-الحصول على أو تحديد موضع قناع الطبقة السفلية.
+يحصل أو يضبط موضع قناع الطبقة السفلي.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موضع قناع الطبقة السفلية .
+موضع القناع السفلي للطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: Class XmpArray
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.XmpArray فصل. يمثل صفيف Xmp بتنسيقXmpPackage . TODO قد تحتوي المصفوفة على بيانات معقدة.
+title: "الفئة XmpArray"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.XmpArray. تمثّل Xmp Array في XmpPackage. TODO قد يحتوي Array على بيانات معقدة"
 type: docs
-weight: 6210
+weight: 6710
 url: /ar/net/aspose.psd.xmp/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray class
 
-يمثل صفيف Xmp بتنسيق[`XmpPackage`](../xmppackage/) . TODO: قد تحتوي المصفوفة على بيانات معقدة.
+تمثّل Xmp Array في [`XmpPackage`](../xmppackage/). TODO: قد يحتوي Array على بيانات معقدة.
 
 ```csharp
 public class XmpArray : IXmlValue
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpArray](xmparray/#constructor)(XmpArrayType) | يقوم بتهيئة مثيل جديد لملف`XmpArray` فئة . |
-| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | يقوم بتهيئة مثيل جديد لملف`XmpArray` فئة . |
+| [XmpArray](xmparray/#constructor)(XmpArrayType) | يُنشئ مثيلًا جديدًا للفئة `XmpArray`. |
+| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | يُنشئ مثيلًا جديدًا للفئة `XmpArray`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | الحصول على مجموعة من القيم بالداخل`XmpArray` . |
+| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | يحصل على مصفوفة القيم داخل `XmpArray`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddItem](../../aspose.psd.xmp/xmparray/additem/)(string) | إضافة عنصر جديد . |
-| [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | تحويل قيمة XMP إلى تمثيل XML. |
-| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| [AddItem](../../aspose.psd.xmp/xmparray/additem/)(string) | يضيف عنصرًا جديدًا. |
+| [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | يحوّل قيمة XMP إلى تمثيل XML. |
+| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXmlValue](../ixmlvalue/)
-* مساحة الاسم [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

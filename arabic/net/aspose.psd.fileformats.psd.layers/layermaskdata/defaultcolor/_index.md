@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.DefaultColor
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskData ملكية. الحصول على اللون الافتراضي أو تعيينه.
+title: "LayerMaskData.DefaultColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskData. يحصل على أو يضبط اللون الافتراضي"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DefaultColor property
 
-الحصول على اللون الافتراضي أو تعيينه.
+يحصل أو يضبط اللون الافتراضي.
 
 ```csharp
 public byte DefaultColor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اللون الافتراضي .
+اللون الافتراضي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

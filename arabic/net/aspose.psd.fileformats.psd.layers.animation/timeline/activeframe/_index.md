@@ -1,23 +1,24 @@
 ---
-title: TimeLine.ActiveFrame
-second_title: Aspose.PSD لمرجع .NET API
-description: TimeLine ملكية. الحصول على أو تحديد فهرس الإطار النشط.
+title: "TimeLine.ActiveFrame"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TimeLine. يحصل أو يضبط فهرس الإطار النشط"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/
 ---
+{{< psd/tize >}}
 ## TimeLine.ActiveFrame property
 
-الحصول على أو تحديد فهرس الإطار النشط.
+يحصل أو يضبط فهرس الإطار النشط.
 
 ```csharp
 public int ActiveFrame { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TimeLine](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

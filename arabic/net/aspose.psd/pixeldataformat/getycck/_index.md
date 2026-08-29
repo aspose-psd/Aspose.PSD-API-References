@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetYcck
-second_title: Aspose.PSD لمرجع .NET API
-description: PixelDataFormat طريقة. الحصول على لون YCCK بعدد محدد من وحدات البت لكل عينة.
+title: "PixelDataFormat.GetYcck"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PixelDataFormat. تحصل على لون YCCK بعدد محدد من البتات لكل عينة."
 type: docs
 weight: 290
 url: /ar/net/aspose.psd/pixeldataformat/getycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetYcck method
 
-الحصول على لون YCCK بعدد محدد من وحدات البت لكل عينة.
+يحصل على لون YCCK بعدد محدد من البتات لكل عينة.
 
 ```csharp
 public static PixelDataFormat GetYcck(int bitsPerSample)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | bitsPerSample | Int32 | عدد البتات لكل عينة. |
 
@@ -22,10 +23,10 @@ public static PixelDataFormat GetYcck(int bitsPerSample)
 
 لون YCCK.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PixelDataFormat](../)
-* مساحة الاسم [Aspose.PSD](../../pixeldataformat/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

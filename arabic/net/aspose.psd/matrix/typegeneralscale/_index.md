@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeGeneralScale
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix مجال. يضاعف المقياس العام طول المتجهات بمبالغ مختلفة في الاتجاهين x و y بدون تغيير الزاوية بين المتجهات العمودية.
+title: "Matrix.TypeGeneralScale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Matrix. المقياس العام يضاعف طول المتجهات بمقادير مختلفة في اتجاهي x و y دون تغيير الزاوية بين المتجهات المتعامدة. هذه العلامة متعارضة مع علامة TypeUniformScale."
 type: docs
 weight: 220
 url: /ar/net/aspose.psd/matrix/typegeneralscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeGeneralScale field
 
-يضاعف المقياس العام طول المتجهات بمبالغ مختلفة في الاتجاهين x و y بدون تغيير الزاوية بين المتجهات العمودية.
+يقوم مقياس عام بضرب طول المتجهات بمقادير مختلفة في اتجاهي x و y دون تغيير الزاوية بين المتجهات المتعامدة. هذه flag bit لا يمكن أن تتواجد مع علم TypeUniformScale.
 
 ```csharp
 public const int TypeGeneralScale;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

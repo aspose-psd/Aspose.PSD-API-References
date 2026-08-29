@@ -1,33 +1,34 @@
 ---
-title: Point.Add
-second_title: Aspose.PSD لمرجع .NET API
-description: Point طريقة. إضافة المحددSize إلى المحددPoint .
+title: "Point.Add"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Point. يضيف الـSize المحدد إلى الـPoint المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-إضافة المحدد[`Size`](../../size/) إلى المحدد[`Point`](../) .
+يضيف الـ[`Size`](../../size/) المحدد إلى الـ[`Point`](../) المحدد.
 
 ```csharp
 public static Point Add(Point point, Size size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | Point | ال[`Point`](../) إضافة إلى. |
-| size | Size | ال[`Size`](../../size/) للإضافة إلى*point*. |
+| point | Point | الـ[`Point`](../) للإضافة إليه |
+| size | Size | الـ[`Size`](../../size/) لإضافتها إلى *النقطة*. |
 
 ### قيمة الإرجاع
 
-ال[`Point`](../) هذا هو نتيجة عملية الإضافة.
+الـ[`Point`](../) الذي هو نتيجة عملية الجمع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* مساحة الاسم [Aspose.PSD](../../point/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

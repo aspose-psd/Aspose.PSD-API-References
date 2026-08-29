@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList طريقة. ينسخ عناصر ملفICollection إلىArray  بدءًا من نقطة معينةArray الفهرس .
+title: "NonGenericList.CopyTo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericList. ينسخ عناصر ICollection إلى Array بدءًا من فهرس Array معين."
 type: docs
 weight: 110
 url: /ar/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-ينسخ عناصر ملفICollection إلىArray ، بدءًا من نقطة معينةArray الفهرس .
+ينسخ عناصر ICollection إلى مصفوفة Array، بدءًا من فهرس Array معين.
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| array | Array | أحادي البعدArray هذه هي وجهة العناصر المنسوخة منICollection . الArray يجب أن يكون الفهرسة الصفرية. |
-| index | Int32 | المؤشر الصفري في*array* عنده يبدأ النسخ. |
+| المصفوفة | Array | المصفوفة أحادية البعد التي هي وجهة العناصر المنسوخة من ICollection. يجب أن تكون الـ Array ذات فهرسة تبدأ من الصفر. |
+| فهرس | Int32 | الفهرس الذي يبدأ من الصفر في *array* حيث يبدأ النسخ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

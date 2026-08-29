@@ -1,23 +1,24 @@
 ---
-title: ReferenceStructure.StructureKey
-second_title: Aspose.PSD لمرجع .NET API
-description: ReferenceStructure مجال. يحدد مفتاح الهيكل .
+title: "ReferenceStructure.StructureKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل ReferenceStructure. يحدد مفتاح البنية"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.StructureKey field
 
-يحدد مفتاح الهيكل .
+يحدد مفتاح البنية.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ReferenceStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,47 +1,48 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMediaManagementPackage طريقة. يعين معرف المثيل.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpMediaManagementPackage. تعيين معرف النسخة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
-يعين معرف المثيل.
+يضبط معرف المثيل.
 
 ```csharp
 public void SetInstanceId(Guid guid)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| guid | Guid | المعرف الفريد. |
+| guid | Guid | المعرّف الفريد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMediaManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetInstanceId(string) {#setinstanceid_1}
 
-يعين معرف المثيل.
+يضبط معرف المثيل.
 
 ```csharp
 public void SetInstanceId(string guid)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| guid | String | المعرف الفريد. |
+| guid | String | المعرّف الفريد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMediaManagementPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceRef ملكية. الحصول على أو تحديد عنوان URL لمسار الملف .
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceRef. تحصل أو تعين عنوان URI لمسار الملف"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
-الحصول على أو تحديد عنوان URL لمسار الملف .
+يحصل أو يضبط URI مسار الملف.
 
 ```csharp
 public string FilePathUri { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مسار الملف URI.
+عنوان URI لمسار الملف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceRef](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

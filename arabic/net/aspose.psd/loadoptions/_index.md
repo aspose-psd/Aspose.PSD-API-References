@@ -1,11 +1,12 @@
 ---
-title: Class LoadOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.LoadOptions فصل. يمثل خيارات التحميل.
+title: "الفئة LoadOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.LoadOptions. تمثل خيارات التحميل"
 type: docs
-weight: 5080
+weight: 5570
 url: /ar/net/aspose.psd/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions class
 
 يمثل خيارات التحميل.
@@ -14,25 +15,25 @@ url: /ar/net/aspose.psd/loadoptions/
 public class LoadOptions
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LoadOptions](loadoptions/)() | Default_Constructor |
+| [LoadOptions](loadoptions/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | الحصول على أو تعيين تلميح حجم المخزن المؤقت الذي تم تحديده بالحجم الأقصى المسموح به لجميع المخازن المؤقتة الداخلية. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | يحصل أو يحدد ملف[`Image`](../image/) خلفية[`Color`](../color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | الحصول على أو تعيين وضع استعادة البيانات. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | الحصول على معالج حدث التقدم أو تعيينه. |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان يجب تطبيق تحويل ملف تعريف ICC . |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | يحصل أو يعيّن تلميح حجم المخزن المؤقت الذي يُعرف كأقصى حجم مسموح به لجميع المخازن المؤقتة الداخلية. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | يحصل أو يعيّن لون خلفية الـ[`Image`](../image/) الـ[`Color`](../color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | يحصل أو يعيّن وضع استعادة البيانات. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | يحصل أو يعيّن معالج حدث التقدم. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب تطبيق تحويل ملف تعريف ICC. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

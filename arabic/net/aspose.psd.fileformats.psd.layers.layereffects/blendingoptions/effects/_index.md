@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.Effects
-second_title: Aspose.PSD لمرجع .NET API
-description: BlendingOptions ملكية. يحصل على التأثيرات .
+title: "BlendingOptions.Effects"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlendingOptions. تحصل على التأثيرات"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.Effects property
 
-يحصل على التأثيرات .
+يحصل على التأثيرات.
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التأثيرات .
+التأثيرات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

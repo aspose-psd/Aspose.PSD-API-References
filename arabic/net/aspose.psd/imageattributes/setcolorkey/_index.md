@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetColorKey
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageAttributes طريقة. يضبط مفتاح اللون للفئة الافتراضية.
+title: "ImageAttributes.SetColorKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageAttributes. تُعيّن مفتاح اللون للفئة الافتراضية."
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/imageattributes/setcolorkey/
 ---
+{{< psd/tize >}}
 ## SetColorKey(Color, Color) {#setcolorkey}
 
 يضبط مفتاح اللون للفئة الافتراضية.
@@ -14,17 +15,17 @@ url: /ar/net/aspose.psd/imageattributes/setcolorkey/
 public void SetColorKey(Color colorLow, Color colorHigh)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| colorLow | Color | انخفاض قيمة مفتاح اللون. |
-| colorHigh | Color | القيمة العالية لمفتاح اللون. |
+| colorLow | لون | قيمة مفتاح اللون المنخفض. |
+| colorHigh | لون | قيمة مفتاح اللون العالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,18 +37,18 @@ public void SetColorKey(Color colorLow, Color colorHigh)
 public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| colorLow | Color | انخفاض قيمة مفتاح اللون. |
-| colorHigh | Color | القيمة العالية لمفتاح اللون. |
-| type | ColorAdjustType | عنصر[`ColorAdjustType`](../../coloradjusttype/) التي تحدد الفئة التي تم تعيين مفتاح اللون لها. |
+| colorLow | لون | قيمة مفتاح اللون المنخفض. |
+| colorHigh | لون | قيمة مفتاح اللون العالي. |
+| type | ColorAdjustType | عنصر من [`ColorAdjustType`](../../coloradjusttype/) يحدد الفئة التي يتم تعيين مفتاح اللون لها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* مساحة الاسم [Aspose.PSD](../../imageattributes/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

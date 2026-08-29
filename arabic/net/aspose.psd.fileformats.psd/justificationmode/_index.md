@@ -1,30 +1,31 @@
 ---
-title: Enum JustificationMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.JustificationMode تعداد. وضع محاذاة النص .
+title: "تعداد JustificationMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.JustificationMode enum. وضع محاذاة النص"
 type: docs
-weight: 1650
+weight: 1690
 url: /ar/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
-وضع محاذاة النص .
+وضع محاذاة النص.
 
 ```csharp
 public enum JustificationMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Left | `0` | نص محاذاة لليسار . |
-| Right | `1` | نص محاذاة اليمين . |
-| Center | `2` | نص المركز . |
+| Left | `0` | محاذاة النص إلى اليسار. في وضع من اليسار إلى اليمين، الموضع Left هو Left. في وضع من اليمين إلى اليسار، الموضع Left هو Right. |
+| Right | `1` | محاذاة النص إلى اليمين. في وضع من اليسار إلى اليمين، الموضع Right هو Right. في وضع من اليمين إلى اليسار، الموضع Right هو Left. |
+| Center | `2` | نص مركزي. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تعداد JustificationMode لتعيين محاذاة النص لأجزاء النص.
+الكود التالي يوضح دعم تعداد JustificationMode لتعيين محاذاة النص لأجزاء النص.
 
 ```csharp
 [C#]
@@ -55,9 +56,9 @@ using (var image = (PsdImage) Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

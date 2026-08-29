@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.LabColor
-second_title: Aspose.PSD لمرجع .NET API
-description: CgEdResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان لون معمل مستخدمًا.
+title: "CgEdResource.LabColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CgEdResource. تسترجع أو تعين قيمة تشير إلى ما إذا كان لون lab مستخدمًا"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/
 ---
+{{< psd/tize >}}
 ## CgEdResource.LabColor property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان [لون معمل] مستخدمًا.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان [lab color] مستخدمًا.
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي`إذا تم استخدامها [لون المختبر] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا تم استخدام [lab color]؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CgEdResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

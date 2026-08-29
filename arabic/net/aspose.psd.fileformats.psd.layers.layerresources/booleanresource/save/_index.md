@@ -1,29 +1,30 @@
 ---
-title: BooleanResource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: BooleanResource طريقة. يحفظ حاوية التدفق المحددة.
+title: "BooleanResource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة BooleanResource. تحفظ حاوية الدفق المحددة"
 type: docs
-weight: 40
+weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Save method
 
-يحفظ حاوية التدفق المحددة.
+يحفظ حاوية الدفق المحددة.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق. |
+| streamContainer | StreamContainer | حاوية الدفق. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [BooleanResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

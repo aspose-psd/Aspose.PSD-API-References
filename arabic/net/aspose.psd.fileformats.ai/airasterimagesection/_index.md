@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection فصل. قسم الصور النقطية بالذكاء الاصطناعي
+title: "الفئة AiRasterImageSection"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection class. قسم صورة AI النقطية."
 type: docs
-weight: 1280
+weight: 1290
 url: /ar/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-قسم الصور النقطية بالذكاء الاصطناعي
+قسم صورة الراستر AI
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -16,21 +17,21 @@ public sealed class AiRasterImageSection
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | يحصل على الزاوية. |
 | [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | يحصل على الارتفاع. |
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | يحصل على مستطيل الصورة. |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | يحصل على التحول السفلي الأيسر. |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | يحصل على إزاحة اليسار السفلي. |
 | [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | يحصل على اسم الصورة النقطية. |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | يحصل على تعويض X. |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | يحصل على الإزاحة X. |
 | [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | يحصل على الإزاحة Y. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | يحصل على مجموعة وحدات البكسل الملونة. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | يحصل على مصفوفة بكسلات اللون من نوع int. |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | يحصل على العرض. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تحميل إعدادات الصور النقطية في ملفات تنسيق AI.
+الكود التالي يوضح كيفية تحميل إعدادات الصور النقطية في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

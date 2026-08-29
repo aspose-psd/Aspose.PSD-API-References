@@ -1,27 +1,28 @@
 ---
-title: UnicodeAlphaNamesResource.AlphaNames
-second_title: Aspose.PSD لمرجع .NET API
-description: UnicodeAlphaNamesResource ملكية. الحصول على أو تحديد أسماء ألفا .
+title: "UnicodeAlphaNamesResource.AlphaNames"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnicodeAlphaNamesResource. تحصل أو تعيين أسماء ألفا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.AlphaNames property
 
-الحصول على أو تحديد أسماء ألفا .
+يحصل أو يضبط أسماء ألفا.
 
 ```csharp
 public string AlphaNames { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أسماء ألفا .
+أسماء ألفا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnicodeAlphaNamesResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

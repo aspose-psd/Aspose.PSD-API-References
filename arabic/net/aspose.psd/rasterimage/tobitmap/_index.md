@@ -1,14 +1,15 @@
 ---
-title: RasterImage.ToBitmap
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. تحويل الصورة النقطية إلى الصورة النقطية.
+title: "RasterImage.ToBitmap"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. يحول الصورة النقطية إلى الـ bitmap"
 type: docs
-weight: 580
+weight: 600
 url: /ar/net/aspose.psd/rasterimage/tobitmap/
 ---
+{{< psd/tize >}}
 ## RasterImage.ToBitmap method
 
-تحويل الصورة النقطية إلى الصورة النقطية.
+يحوّل الصورة النقطية إلى الـ bitmap.
 
 ```csharp
 public virtual Bitmap ToBitmap()
@@ -16,12 +17,12 @@ public virtual Bitmap ToBitmap()
 
 ### قيمة الإرجاع
 
-الصورة النقطية
+الـ bitmap
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

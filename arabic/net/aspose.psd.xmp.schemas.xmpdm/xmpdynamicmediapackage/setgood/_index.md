@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetGood
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDynamicMediaPackage طريقة. يحدد الصالح .
+title: "XmpDynamicMediaPackage.SetGood"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpDynamicMediaPackage. يضبط الجيد"
 type: docs
 weight: 230
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGood method
 
-يحدد الصالح .
+يضبط الجيد.
 
 ```csharp
 public void SetGood(bool good)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| good | Boolean | إذا تم التعيين على`حقيقي` التسديدة هي الحارس. |
+| جيد | Boolean | إذا تم تعيينه إلى `true` فإن اللقطة تكون محفوظة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDynamicMediaPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeOriginSettings ملكية. الحصول على أو تعيين مستطيل نصف قطر الأصل.
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeOriginSettings. يحصل أو يضبط مستطيل نصف القطر الأصلي"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
-الحصول على أو تعيين مستطيل نصف قطر الأصل.
+يحصل أو يضبط مستطيل أقطار الأصل.
 
 ```csharp
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 مستطيل نصف القطر الأصلي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

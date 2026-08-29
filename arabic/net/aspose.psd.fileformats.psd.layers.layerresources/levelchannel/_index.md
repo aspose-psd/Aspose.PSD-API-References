@@ -1,14 +1,15 @@
 ---
-title: Class LevelChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel فصل. فئة للعمل مع القنوات في طبقة ضبط المستويات
+title: "الفئة LevelChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel. فئة للعمل مع القنوات في طبقة تعديل المستويات"
 type: docs
-weight: 2630
+weight: 2940
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
+{{< psd/tize >}}
 ## LevelChannel class
 
-فئة للعمل مع القنوات في طبقة ضبط المستويات
+فئة للعمل مع القنوات في طبقة تعديل المستويات
 
 ```csharp
 public class LevelChannel
@@ -16,17 +17,17 @@ public class LevelChannel
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | الحصول على أو تحديد مستوى تمييز الإدخال. |
-| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | الحصول على أو تعيين تعويم مستوى الدرجة اللونية للإدخال. |
-| [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/) { get; set; } | الحصول على أو تحديد مستوى ظل الإدخال. |
-| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | الحصول على أو تحديد مستوى تمييز الإخراج. |
-| [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | الحصول على أو تحديد مستوى ظل الإخراج. |
+| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | يحصل أو يضبط مستوى الإضاءة للمدخل. |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | يحصل أو يضبط قيمة عائمة لمستوى النغمة المتوسطة للمدخل. |
+| [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/) { get; set; } | يحصل أو يضبط مستوى الظل للمدخل. |
+| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | يحصل أو يضبط مستوى الإضاءة للمخرج. |
+| [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | يحصل أو يضبط مستوى الظل للمخرج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

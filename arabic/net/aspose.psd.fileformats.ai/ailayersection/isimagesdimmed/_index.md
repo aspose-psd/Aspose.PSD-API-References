@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة باهتة. يقلل من شدة الصور المرتبطة والصور النقطية الموجودة في الطبقة.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين قيمة تشير إلى ما إذا كانت هذه الطبقة مخففة. يقلل من شدة الصور المرتبطة وصور البت ماب الموجودة في الطبقة"
 type: docs
-weight: 50
+weight: 70
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كانت هذه الطبقة باهتة. يقلل من شدة الصور المرتبطة والصور النقطية الموجودة في الطبقة.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت هذه الطبقة مخفّضة. يقلل شدة الصور المرتبطة وصور البت ماب الموجودة في الطبقة.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت هذه الطبقة باهتة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه الطبقة مخففة؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

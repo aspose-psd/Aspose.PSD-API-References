@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.BitsPerChannel
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegOptions ملكية. الحصول على أو تعيين وحدات بت لكل قناة لصورة jpeg بدون فقدان. نحن ندعم الآن من 2 إلى 8 بت لكل قناة.
+title: "JpegOptions.BitsPerChannel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegOptions. تحصل أو تعين عدد البتات لكل قناة لصورة jpeg غير مضغوطة. الآن ندعم من 2 إلى 8 بتات لكل قناة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imageoptions/jpegoptions/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## JpegOptions.BitsPerChannel property
 
-الحصول على أو تعيين وحدات بت لكل قناة لصورة jpeg بدون فقدان. نحن ندعم الآن من 2 إلى 8 بت لكل قناة.
+يحصل أو يضبط عدد البتات لكل قناة في صورة jpeg غير مضغوطة. الآن ندعم من 2 إلى 8 بتات لكل قناة.
 
 ```csharp
 public byte BitsPerChannel { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

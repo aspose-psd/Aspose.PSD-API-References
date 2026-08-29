@@ -1,28 +1,29 @@
 ---
-title: TextLayer.Resize
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer طريقة. يغير حجم الصورة. الافتراضيLeftTopToLeftTopيستخدم .
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TextLayer. تغير حجم الصورة. يتم استخدام الافتراضي LeftTopToLeftTop"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-يغير حجم الصورة. الافتراضيLeftTopToLeftTopيستخدم .
+يغيّر حجم الصورة. يتم استخدام الافتراضي LeftTopToLeftTop.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| newWidth | Int32 | العرض الجديد . |
-| newHeight | Int32 | الارتفاع الجديد . |
-| resizeType | ResizeType | نوع تحويل تغيير الحجم[`ResizeType`](../../../aspose.psd/resizetype/) |
+| newWidth | Int32 | العرض الجديد. |
+| newHeight | Int32 | الارتفاع الجديد. |
+| resizeType | ResizeType | نوع تحويل التحجيم [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دالة TextLayer.Resize مع المعلمة لاختيار آلية تغيير الحجم.
+الكود التالي يوضح وظيفة TextLayer.Resize مع المعامل لاختيار آلية التحجيم.
 
 ```csharp
 [C#]
@@ -34,15 +35,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 {
     TextLayer textLayer = (TextLayer)image.Layers[1];
 
-    // يضع حجمًا جديدًا لطبقة النص
+    // يضبط الحجم الجديد لطبقة النص
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // يحدد آلية كيفية قيام وظيفة تغيير الحجم بتغيير حجم الطبقة (القيمة الافتراضية)
+    // يضبط الآلية التي ستستخدمها وظيفة التحجيم لتغيير حجم الطبقة (القيمة الافتراضية)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // آلية جديدة لتغيير حجم طبقة النص باستخدام هنا
-    // لن يتم تغيير الطبقة فحسب ، بل سيتم تغيير مصفوفة التحويل لطبقة النص أيضًا
+    // آلية جديدة للتحجيم لطبقة النص تُستخدم هنا
+    // ليس فقط الطبقة بل أيضاً مصفوفة التحويل لطبقة النص ستتغير
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -52,7 +53,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 {
     TextLayer txtLayer = (TextLayer)image.Layers[1];
 
-    // سبب دلتا هو خط افتراضي مختلف
+    // سبب الفرق هو خط افتراضي مختلف
     if (txtLayer.TransformMatrix[4] >= 65 
         && txtLayer.TransformMatrix[4] <= 67
         && txtLayer.TransformMatrix[5] >= 234
@@ -67,11 +68,11 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

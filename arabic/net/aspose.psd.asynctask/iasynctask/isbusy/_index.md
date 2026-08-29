@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.IsBusy
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask ملكية. يحصل على قيمة تشير إلى ما إذا كانت هذه المهمة قيد التشغيل حاليًا.
+title: "IAsyncTask.IsBusy"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "IAsyncTask property. تحصل على قيمة تُشير إلى ما إذا كانت هذه المهمة تعمل حاليًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.asynctask/iasynctask/isbusy/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsBusy property
 
 يحصل على قيمة تشير إلى ما إذا كانت هذه المهمة قيد التشغيل حاليًا.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.asynctask/iasynctask/isbusy/
 public bool IsBusy { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت هذه المهمة قيد التشغيل حاليًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه المهمة تعمل حاليًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

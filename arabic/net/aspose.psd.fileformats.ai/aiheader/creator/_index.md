@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Creator
-second_title: Aspose.PSD لمرجع .NET API
-description: AiHeader ملكية. الحصول على أو تعيين المنشئ.
+title: "AiHeader.Creator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiHeader. تحصل أو تعين المنشئ."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.ai/aiheader/creator/
 ---
+{{< psd/tize >}}
 ## AiHeader.Creator property
 
-الحصول على أو تعيين المنشئ.
+يحصل أو يضبط المنشئ.
 
 ```csharp
 public string Creator { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 المنشئ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiHeader](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

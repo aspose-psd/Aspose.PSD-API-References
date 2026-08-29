@@ -1,31 +1,32 @@
 ---
-title: TiffRational.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffRational طريقة. تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+title: "TiffRational.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffRational. تحدد ما إذا كان Object المحدد يساوي هذه الحالة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.tiff/tiffrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffRational.Equals method
 
-تحديد ما إذا كان الملف المحددObject يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذه المثيلة.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

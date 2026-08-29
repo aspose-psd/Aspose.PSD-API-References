@@ -1,27 +1,28 @@
 ---
-title: ExifData.SensitivityType
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على نوع الحساسية أو تحديده .
+title: "ExifData.SensitivityType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يسترجع أو يعيّن نوع الحساسية"
 type: docs
 weight: 930
 url: /ar/net/aspose.psd.exif/exifdata/sensitivitytype/
 ---
+{{< psd/tize >}}
 ## ExifData.SensitivityType property
 
-الحصول على نوع الحساسية أو تحديده .
+الحصول أو تعيين نوع الحساسية.
 
 ```csharp
 public ushort SensitivityType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الحساسية .
+نوع الحساسية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

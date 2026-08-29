@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsCyanRedBalance
-second_title: Aspose.PSD لمرجع .NET API
-description: BlncResource ملكية. الحصول على أو تعيين توازن اللون الأحمر السماوي المميز .
+title: "BlncResource.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BlncResource. يحصل على أو يضبط توازن السيان الأحمر للإبرازات"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsCyanRedBalance property
 
-الحصول على أو تعيين توازن اللون الأحمر السماوي المميز .
+يحصل أو يضبط توازن الإضاءات للسيان الأحمر.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-يبرز توازن اللون الأحمر السماوي.
+توازن السطوع السيان الأحمر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlncResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

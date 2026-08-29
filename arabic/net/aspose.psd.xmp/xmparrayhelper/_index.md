@@ -1,28 +1,29 @@
 ---
-title: Class XmpArrayHelper
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.XmpArrayHelper فصل. الفئة المساعدة لمعالجة منطق RDF
+title: "الفئة XmpArrayHelper"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.Xmp.XmpArrayHelper. الفئة المساعدة لمعالجة منطق RDF"
 type: docs
-weight: 6220
+weight: 6720
 url: /ar/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-الفئة المساعدة لمعالجة منطق RDF
+فئة المساعدة لمعالجة منطق RDF.
 
 ```csharp
 public static class XmpArrayHelper
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | يحصل على كود RDF لملف محدد[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | يحصل على رمز RDF للنوع المحدد [`XmpArrayType`](../xmparraytype/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

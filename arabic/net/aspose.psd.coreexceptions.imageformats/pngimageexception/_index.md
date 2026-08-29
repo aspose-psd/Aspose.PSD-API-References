@@ -1,29 +1,30 @@
 ---
-title: Class PngImageException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.PngImageException فصل. استثناء صورة png .
+title: "الفئة PngImageException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.CoreExceptions.ImageFormats.PngImageException. استثناء صورة png"
 type: docs
 weight: 570
 url: /ar/net/aspose.psd.coreexceptions.imageformats/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException class
 
-استثناء صورة png .
+استثناء صورة png.
 
 ```csharp
 public class PngImageException : Exception
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PngImageException](pngimageexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`PngImageException` فئة . |
-| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`PngImageException` فئة . |
+| [PngImageException](pngimageexception/#constructor)(string) | يقوم بإنشاء نسخة جديدة من الفئة `PngImageException`. |
+| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | يقوم بإنشاء نسخة جديدة من الفئة `PngImageException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

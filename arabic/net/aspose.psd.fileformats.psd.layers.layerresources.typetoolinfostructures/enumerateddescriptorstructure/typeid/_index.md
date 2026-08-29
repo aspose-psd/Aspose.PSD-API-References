@@ -1,28 +1,29 @@
 ---
-title: EnumeratedDescriptorStructure.TypeID
-second_title: Aspose.PSD لمرجع .NET API
-description: EnumeratedDescriptorStructure ملكية. الحصول على أو تحديد نوع معرف .
+title: "EnumeratedDescriptorStructure.TypeID"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية EnumeratedDescriptorStructure. تحصل أو تعين معرف النوع."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.TypeID property
 
-الحصول على أو تحديد نوع معرف .
+الحصول أو تعيين معرف النوع.
 
 ```csharp
 public ClassID TypeID { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-معرف النوع .
+معرف النوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

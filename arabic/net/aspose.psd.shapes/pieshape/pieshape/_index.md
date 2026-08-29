@@ -1,46 +1,47 @@
 ---
-title: PieShape.PieShape
-second_title: Aspose.PSD لمرجع .NET API
-description: PieShape البناء. يقوم بتهيئة مثيل جديد لملفPieShape فئة .
+title: "PieShape.PieShape"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PieShape. يهيئ نسخة جديدة من الفئة PieShape"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.shapes/pieshape/pieshape/
 ---
+{{< psd/tize >}}
 ## PieShape() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PieShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PieShape`](../).
 
 ```csharp
 public PieShape()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PieShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../pieshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PieShape`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PieShape`](../).
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | RectangleF | المستطيل. |
-| startAngle | Single | زاوية البداية. |
-| sweepAngle | Single | زاوية الاجتياح. |
+| مستطيل | RectangleF | المستطيل. |
+| startAngle | Single | زاوية البدء. |
+| sweepAngle | Single | زاوية المسح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../pieshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

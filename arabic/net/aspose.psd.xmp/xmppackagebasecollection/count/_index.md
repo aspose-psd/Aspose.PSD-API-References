@@ -1,27 +1,28 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackageBaseCollection ملكية. الحصول على عدد العناصر في المجموعة.
+title: "XmpPackageBaseCollection.Count"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPackageBaseCollection. تُرجع عدد العناصر في المجموعة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
-الحصول على عدد العناصر في المجموعة.
+يحصل على عدد العناصر في المجموعة.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد العناصر في المجموعة .
+عدد العناصر في المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackageBaseCollection](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

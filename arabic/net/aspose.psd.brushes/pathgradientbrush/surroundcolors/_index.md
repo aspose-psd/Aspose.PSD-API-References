@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.SurroundColors
-second_title: Aspose.PSD لمرجع .NET API
-description: PathGradientBrush ملكية. الحصول على أو تعيين مصفوفة من الألوان التي تتوافق مع النقاط الموجودة في المسار هذاPathGradientBrush يملأ .
+title: "PathGradientBrush.SurroundColors"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PathGradientBrush. يحصل أو يضبط مصفوفة من الألوان التي تتطابق مع النقاط في المسار الذي يملأه هذا PathGradientBrush"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.SurroundColors property
 
-الحصول على أو تعيين مصفوفة من الألوان التي تتوافق مع النقاط الموجودة في المسار هذا[`PathGradientBrush`](../) يملأ .
+يحصل أو يضبط مصفوفة من الألوان التي تتطابق مع النقاط في المسار الذي يملأه هذا [`PathGradientBrush`](../).
 
 ```csharp
 public Color[] SurroundColors { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مجموعة من[`Color`](../../../aspose.psd/color/) الهياكل التي تمثل الألوان المرتبطة بكل نقطة في المسار هذا[`PathGradientBrush`](../) يملأ.
+مصفوفة من هياكل [`Color`](../../../aspose.psd/color/) التي تمثل الألوان المرتبطة بكل نقطة في المسار الذي يملأه هذا [`PathGradientBrush`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

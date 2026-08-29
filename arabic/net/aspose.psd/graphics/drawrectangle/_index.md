@@ -1,127 +1,128 @@
 ---
-title: Graphics.DrawRectangle
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يرسم مستطيلاً محدداً بRectangleFهيكل .
+title: "Graphics.DrawRectangle"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم مستطيلًا محددًا بواسطة هيكل RectangleF"
 type: docs
-weight: 300
+weight: 310
 url: /ar/net/aspose.psd/graphics/drawrectangle/
 ---
+{{< psd/tize >}}
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-يرسم مستطيلاً محدداً ب[`RectangleF`](../../rectanglef/)هيكل .
+يرسم مستطيلًا محددًا بواسطة هيكل [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | أ[`Pen`](../../pen/) التي تحدد لون وعرض ونمط المستطيل. |
-| rect | RectangleF | أ[`RectangleF`](../../rectanglef/) الهيكل الذي يمثل المستطيل المراد رسمه. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للمستطيل. |
+| rect | RectangleF | هيكل [`RectangleF`](../../rectanglef/) الذي يمثل المستطيل المراد رسمه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-يرسم مستطيلاً محدداً ب[`Rectangle`](../../rectangle/)هيكل .
+يرسم مستطيلًا محددًا بواسطة هيكل [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | أ[`Pen`](../../pen/) التي تحدد لون وعرض ونمط المستطيل. |
-| rect | Rectangle | أ[`Rectangle`](../../rectangle/) الهيكل الذي يمثل المستطيل المراد رسمه. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للمستطيل. |
+| rect | Rectangle | هيكل [`Rectangle`](../../rectangle/) الذي يمثل المستطيل المراد رسمه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, float, float, float, float) {#drawrectangle_3}
 
-رسم مستطيل محدد بواسطة زوج إحداثيات وعرض وارتفاع.
+يرسم مستطيلًا محددًا بأزواج الإحداثيات، العرض، والارتفاع.
 
 ```csharp
 public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | أ[`Pen`](../../pen/) التي تحدد لون وعرض ونمط المستطيل. |
-| x | Single | إحداثي x للركن الأيسر العلوي للمستطيل المراد رسمه. |
-| y | Single | إحداثيات y للركن الأيسر العلوي للمستطيل المراد رسمه. |
-| width | Single | عرض المستطيل المراد رسمه. |
-| height | Single | ارتفاع المستطيل المراد رسمه. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للمستطيل. |
+| x | Single | الإحداثي x للزاوية العلوية اليسرى للمستطيل المراد رسمه. |
+| y | Single | الإحداثي y للزاوية العلوية اليسرى للمستطيل المراد رسمه. |
+| العرض | Single | عرض المستطيل المراد رسمه. |
+| الارتفاع | Single | ارتفاع المستطيل المراد رسمه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, int, int, int, int) {#drawrectangle_2}
 
-رسم مستطيل محدد بواسطة زوج إحداثيات وعرض وارتفاع.
+يرسم مستطيلًا محددًا بأزواج الإحداثيات، العرض، والارتفاع.
 
 ```csharp
 public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض ونمط المستطيل. |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للمستطيل المراد رسمه. |
-| y | Int32 | إحداثيات y للركن الأيسر العلوي للمستطيل المراد رسمه. |
-| width | Int32 | عرض المستطيل المراد رسمه. |
-| height | Int32 | ارتفاع المستطيل المراد رسمه. |
+| pen | Pen | [`Pen`](../../pen/) التي تحدد اللون والعرض والنمط للمستطيل. |
+| x | Int32 | الإحداثي x للزاوية العلوية اليسرى للمستطيل المراد رسمه. |
+| y | Int32 | الإحداثي y للزاوية العلوية اليسرى للمستطيل المراد رسمه. |
+| العرض | Int32 | عرض المستطيل المراد رسمه. |
+| الارتفاع | Int32 | ارتفاع المستطيل المراد رسمه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.LayerSectionResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerSectionResource البناء. يقوم بتهيئة مثيل جديد لملفLayerSectionResource فئة .
+title: "LayerSectionResource.LayerSectionResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LayerSectionResource. يهيئ مثيلًا جديدًا من فئة LayerSectionResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`LayerSectionResource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`LayerSectionResource`](../).
 
 ```csharp
 public LayerSectionResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerSectionResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

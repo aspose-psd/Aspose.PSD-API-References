@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Aspose.PSD لمرجع .NET API
-description: BlendingOptions طريقة. يضيف تأثير التوهج الخارجي.
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة BlendingOptions. يضيف تأثير التوهج الخارجي"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
 يضيف تأثير التوهج الخارجي.
@@ -16,11 +17,11 @@ public OuterGlowEffect AddOuterGlow()
 
 ### قيمة الإرجاع
 
-تم إنشاؤه[`OuterGlowEffect`](../../outergloweffect/) كائن
+تم إنشاء كائن [`OuterGlowEffect`](../../outergloweffect/)
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم OuterGlowEffect.
+يوضح الشيفرة التالية دعم OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

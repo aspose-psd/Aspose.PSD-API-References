@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على القيمة الدنيا للعينة أو تعيينها. تحتوي القيمة على نوع حقل يتطابق بشكل أفضل مع بيانات العينة نوع بايت أو قصير أو طويل.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين قيمة العينة الدنيا. القيمة لها نوع حقل يتطابق بأفضل شكل مع بيانات العينة من نوع Byte Short أو Long."
 type: docs
-weight: 440
+weight: 450
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-الحصول على القيمة الدنيا للعينة أو تعيينها. تحتوي القيمة على نوع حقل يتطابق بشكل أفضل مع بيانات العينة (نوع بايت أو قصير أو طويل).
+يحصل أو يعيّن القيمة الدنيا للعينة. القيمة لها نوع حقل يتطابق بأفضل شكل مع بيانات العينة (نوع Byte أو Short أو Long).
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أدنى قيمة للعينة .
+قيمة العينة الدنيا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

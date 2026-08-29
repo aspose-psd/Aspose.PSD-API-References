@@ -1,52 +1,53 @@
 ---
-title: PsdImageResourceException.PsdImageResourceException
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImageResourceException البناء. يقوم بتهيئة مثيل جديد لملفPsdImageResourceException فئة .
+title: "PsdImageResourceException.PsdImageResourceException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PsdImageResourceException. يهيئ نسخة جديدة من الفئة PsdImageResourceException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException(string, ResourceBlock) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImageResourceException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PsdImageResourceException`](../).
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| resource | ResourceBlock | المورد. |
+| مورد | ResourceBlock | المورد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PsdImageResourceException`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`PsdImageResourceException`](../).
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | رسالة الاستثناء. |
-| resource | ResourceBlock | المورد. |
-| innerException | Exception | الاستثناء الداخلي. |
+| مورد | ResourceBlock | المورد. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

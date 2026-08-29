@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Saturation
-second_title: Aspose.PSD لمرجع .NET API
-description: HueSaturationLayer ملكية. الحصول على أو تعيين التشبع.
+title: "HueSaturationLayer.Saturation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية HueSaturationLayer. يحصل أو يضبط التشبع."
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/saturation/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Saturation property
 
-الحصول على أو تعيين التشبع.
+الحصول أو تعيين التشبع.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 التشبع.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن يتراوح التشبع من -100 إلى +100 |
+| ArgumentOutOfRangeException | يجب أن يكون التشبع في النطاق من -100 إلى +100 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [HueSaturationLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

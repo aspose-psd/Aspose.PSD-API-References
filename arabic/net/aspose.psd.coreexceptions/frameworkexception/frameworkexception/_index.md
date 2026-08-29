@@ -1,48 +1,49 @@
 ---
-title: FrameworkException.FrameworkException
-second_title: Aspose.PSD لمرجع .NET API
-description: FrameworkException البناء. يقوم بتهيئة مثيل جديد لملفFrameworkException فئة .
+title: "FrameworkException.FrameworkException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ FrameworkException. يقوم بإنشاء نسخة جديدة من الفئة FrameworkException"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.coreexceptions/frameworkexception/frameworkexception/
 ---
+{{< psd/tize >}}
 ## FrameworkException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FrameworkException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`FrameworkException`](../).
 
 ```csharp
 public FrameworkException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FrameworkException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FrameworkException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FrameworkException`](../) فئة .
+يقوم بإنشاء نسخة جديدة من الفئة [`FrameworkException`](../).
 
 ```csharp
 public FrameworkException(string message, Exception innerException)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة. |
-| innerException | Exception | الاستثناء الداخلي. |
+| innerException | استثناء | الاستثناء الداخلي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FrameworkException](../)
-* مساحة الاسم [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

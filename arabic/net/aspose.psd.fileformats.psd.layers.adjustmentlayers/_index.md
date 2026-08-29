@@ -1,34 +1,45 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على طبقات ضبط PSD.
+title: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تحتوي مساحة الاسم على طبقات ضبط PSD"
 type: docs
-weight: 220
+weight: 240
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/
 ---
-تحتوي مساحة الاسم على طبقات ضبط PSD.
+{{< psd/tize >}}
+تحتوي مساحة الاسم على طبقات تعديل PSD.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [AdjustmentLayer](./adjustmentlayer/) | طبقة الضبط. على سبيل المثال السطوع / التباين |
-| [BlackWhiteAdjustmentLayer](./blackwhiteadjustmentlayer/) | فئة طبقة الضبط بالأبيض والأسود . |
-| [BrightnessContrastLayer](./brightnesscontrastlayer/) | طبقة السطوع / التباين. |
-| [ChannelMixerLayer](./channelmixerlayer/) | طبقة ضبط مازج القنوات. |
-| [CmykChannelMixerLayer](./cmykchannelmixerlayer/) | طبقة تعديل Cmyk Channel Mixer. |
-| [CmykMixerChannel](./cmykmixerchannel/) | CmykChannel. إنه غلاف لقناة البيانات الخام. تستخدم في MixrResource |
-| [ColorBalanceAdjustmentLayer](./colorbalanceadjustmentlayer/) | فئة طبقة ضبط توازن اللون. |
+| [AdjustmentLayer](./adjustmentlayer/) | طبقة ضبط. على سبيل المثال السطوع/التباين |
+| [BlackWhiteAdjustmentLayer](./blackwhiteadjustmentlayer/) | فئة طبقة الضبط بالأبيض والأسود. |
+| [BrightnessContrastLayer](./brightnesscontrastlayer/) | طبقة السطوع/التباين. |
+| [ChannelMixerLayer](./channelmixerlayer/) | طبقة ضبط خالط القنوات. |
+| [CmykChannelMixerLayer](./cmykchannelmixerlayer/) | طبقة ضبط خالط القنوات CMYK. |
+| [CmykCorrection](./cmykcorrection/) | تصحيح الألوان في طبقة ضبط اللون الانتقائي. |
+| [CmykMixerChannel](./cmykmixerchannel/) | CmykChannel. إنها غلاف لبيانات القناة الخام. تُستخدم في MixrResource |
+| [ColorBalanceAdjustmentLayer](./colorbalanceadjustmentlayer/) | فئة طبقة ضبط توازن الألوان. |
 | [CurvesLayer](./curveslayer/) | طبقة ضبط المنحنيات |
 | [ExposureLayer](./exposurelayer/) | طبقة ضبط التعرض. |
-| [HueSaturationLayer](./huesaturationlayer/) | طبقة ضبط HueSaturation . |
-| [InvertAdjustmentLayer](./invertadjustmentlayer/) | فئة طبقة الضبط العكسي . |
-| [LevelsLayer](./levelslayer/) | طبقة تعديل المستويات |
-| [MixerChannel](./mixerchannel/) | MixerChannel. إنه غلاف لقناة البيانات الخام. تستخدم في MixrResource |
-| [PhotoFilterLayer](./photofilterlayer/) | طبقة ضبط مرشح الصورة . |
-| [PosterizeLayer](./posterizelayer/) | طبقة تتالي. يعالج عرض الملصق باستخدام البيانات من PostResource . |
-| [RgbChannelMixerLayer](./rgbchannelmixerlayer/) | طبقة ضبط خلاط قناة RGB. |
-| [RgbMixerChannel](./rgbmixerchannel/) | قناة RgbChannel. إنه غلاف لقناة البيانات الخام. تستخدم في MixrResource |
-| [VibranceLayer](./vibrancelayer/) | تحقيق طبقة ضبط Vibrance |
+| [GradientMapLayer](./gradientmaplayer/) | طبقة خريطة التدرج. تتعامل مع عرض خريطة التدرج باستخدام البيانات من GrdmResource. |
+| [HueSaturationLayer](./huesaturationlayer/) | طبقة ضبط HueSaturation. |
+| [InvertAdjustmentLayer](./invertadjustmentlayer/) | فئة طبقة ضبط العكس. |
+| [LevelsLayer](./levelslayer/) | طبقة ضبط المستويات |
+| [MixerChannel](./mixerchannel/) | MixerChannel. إنها غلاف لبيانات القناة الخام. تُستخدم في MixrResource |
+| [PhotoFilterLayer](./photofilterlayer/) | طبقة ضبط مرشح الصورة. |
+| [PosterizeLayer](./posterizelayer/) | طبقة بوستريزي. تتعامل مع عرض بوستريزي باستخدام البيانات من PostResource. |
+| [RgbChannelMixerLayer](./rgbchannelmixerlayer/) | طبقة تعديل خلط قناة Rgb. |
+| [RgbMixerChannel](./rgbmixerchannel/) | RgbChannel. إنها غلاف لبيانات القناة الخام. تُستخدم في MixrResource |
+| [SelectiveColorLayer](./selectivecolorlayer/) | طبقة تعديل اللون الانتقائي. |
+| [ThresholdLayer](./thresholdlayer/) | طبقة تعديل العتبة. |
+| [VibranceLayer](./vibrancelayer/) | تحقيق طبقة تعديل Vibrance |
+## تعداد
+
+| تعداد | الوصف |
+| --- | --- |
+| [CorrectionMethodTypes](./correctionmethodtypes/) | طريقة التصحيح في طبقة تعديل اللون الانتقائي. |
+| [SelectiveColorsTypes](./selectivecolorstypes/) | أنواع الألوان في طبقة تعديل اللون الانتقائي. |
 
 

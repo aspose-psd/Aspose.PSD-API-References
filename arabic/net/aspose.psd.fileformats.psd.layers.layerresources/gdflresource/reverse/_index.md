@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Reverse
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاGdFlResource عكس .
+title: "GdFlResource.Reverse"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. تحصل أو تعين قيمة تشير إلى ما إذا كان هذا GdFlResource عكسيًا"
 type: docs
-weight: 140
+weight: 170
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Reverse property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`GdFlResource`](../) عكس .
+تحصل أو تعين قيمة تشير إلى ما إذا كان هذا [`GdFlResource`](../) عكسيًا.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا عكس خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان عكسيًا؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم تحميل مورد GdFlResource.
+المثال التالي يوضح دعم تحميل موارد GdFlResource.
 
 ```csharp
 [C#]
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // التحرير
+                    // تحرير
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

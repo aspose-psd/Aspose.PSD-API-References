@@ -1,23 +1,24 @@
 ---
-title: SmartObjectProvider.EmbedAllLinked
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectProvider طريقة. يدمج كافة الكائنات الذكية المرتبطة في الصورة.
+title: "SmartObjectProvider.EmbedAllLinked"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SmartObjectProvider. يضمّن جميع الكائنات الذكية المرتبطة في الصورة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.EmbedAllLinked method
 
-يدمج كافة الكائنات الذكية المرتبطة في الصورة.
+يدمج جميع الكائنات الذكية المرتبطة في الصورة.
 
 ```csharp
 public void EmbedAllLinked()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectProvider](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

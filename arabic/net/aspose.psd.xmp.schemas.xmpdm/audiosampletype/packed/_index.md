@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Packed
-second_title: Aspose.PSD لمرجع .NET API
-description: AudioSampleType ملكية. يمثل عينة صوتية مجمعة.
+title: "AudioSampleType.Packed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AudioSampleType. يمثل عينة صوتية معبأة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Packed property
 
-يمثل عينة صوتية مجمعة.
+يمثل عينة صوتية محزمة.
 
 ```csharp
 public static AudioSampleType Packed { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AudioSampleType](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

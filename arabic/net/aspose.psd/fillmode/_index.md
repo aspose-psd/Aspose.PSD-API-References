@@ -1,29 +1,30 @@
 ---
-title: Enum FillMode
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FillMode تعداد. يحدد كيفية تعبئة الجزء الداخلي من المسار المغلق.
+title: "تعداد FillMode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FillMode. يحدد كيفية ملء داخل مسار مغلق."
 type: docs
-weight: 4260
+weight: 4730
 url: /ar/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
-يحدد كيفية تعبئة الجزء الداخلي من المسار المغلق.
+يحدد كيفية تعبئة داخل مسار مغلق.
 
 ```csharp
 public enum FillMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Alternate | `0` | يحدد وضع التعبئة البديل. |
-| Winding | `1` | يحدد وضع التعبئة المتعرجة. |
+| Winding | `1` | يحدد وضع التعبئة المتدوّر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

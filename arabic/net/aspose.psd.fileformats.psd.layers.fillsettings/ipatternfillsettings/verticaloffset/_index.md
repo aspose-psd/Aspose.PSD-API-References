@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.VerticalOffset
-second_title: Aspose.PSD لمرجع .NET API
-description: IPatternFillSettings ملكية. الحصول على أو تعيين الإزاحة الرأسية .
+title: "IPatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPatternFillSettings. يحصل أو يضبط الإزاحة العمودية"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.VerticalOffset property
 
-الحصول على أو تعيين الإزاحة الرأسية .
+يحصل أو يعيّن الإزاحة العمودية.
 
 ```csharp
 public int VerticalOffset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإزاحة الرأسية .
+الإزاحة العمودية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPatternFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Aspose.PSD لمرجع .NET API
-description: LinearGradientBrush ملكية. الحصول على أو تعيين لون تدرج البداية.
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinearGradientBrush. يحصل أو يضبط لون التدرج الابتدائي"
 type: docs
-weight: 40
+weight: 60
 url: /ar/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-الحصول على أو تعيين لون تدرج البداية.
+يحصل أو يضبط لون التدرج الابتدائي.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-لون البداية المتدرجة.
+لون التدرج الابتدائي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* مساحة الاسم [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

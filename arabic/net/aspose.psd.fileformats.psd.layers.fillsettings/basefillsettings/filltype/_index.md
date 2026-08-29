@@ -1,28 +1,29 @@
 ---
-title: BaseFillSettings.FillType
-second_title: Aspose.PSD لمرجع .NET API
-description: BaseFillSettings ملكية. يحصل على نوع التعبئة .
+title: "BaseFillSettings.FillType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BaseFillSettings. تحصل على نوع التعبئة"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings.FillType property
 
-يحصل على نوع التعبئة .
+يحصل على نوع التعبئة.
 
 ```csharp
 public abstract FillType FillType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع التعبئة .
+نوع التعبئة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FillType](../../filltype/)
 * class [BaseFillSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../basefillsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

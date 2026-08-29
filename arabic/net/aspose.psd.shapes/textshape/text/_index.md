@@ -1,27 +1,28 @@
 ---
-title: TextShape.Text
-second_title: Aspose.PSD لمرجع .NET API
-description: TextShape ملكية. الحصول على النص المرسوم أو تعيينه.
+title: "TextShape.Text"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextShape. تحصل أو تعين النص المرسوم"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
-الحصول على النص المرسوم أو تعيينه.
+يحصل أو يضبط النص المرسوم.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 النص المرسوم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextShape](../)
-* مساحة الاسم [Aspose.PSD.Shapes](../../textshape/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

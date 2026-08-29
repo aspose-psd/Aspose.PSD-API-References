@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.Kerning
-second_title: Aspose.PSD لمرجع .NET API
-description: ITextStyle ملكية. الحصول على تقنين الأحرف أو تعيينه .
+title: "ITextStyle.Kerning"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ITextStyle. تحصل أو تعين التباعد بين الحروف"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Kerning property
 
-الحصول على تقنين الأحرف أو تعيينه .
+يحصل أو يعيّن التباعد بين الحروف.
 
 ```csharp
 public int Kerning { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المسافة بين حرفين .
+التباعد بين حرفين.
 
-### أمثلة
+## أمثلة
 
-يوضح مثال الكود التالي تحرير أجزاء النص ونمط نصها.
+يوضح المثال البرمجي التالي تحرير أجزاء النص وأساليبها.
 
 ```csharp
 [C#]
@@ -43,7 +44,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // فحص النص من كل جزء
+            // التحقق من نص كل جزء
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -53,7 +54,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات الفقرات
-            // الفقرات لها مبررات مختلفة
+            // الفقرات لها محاذاة مختلفة
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -87,7 +88,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -103,7 +104,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // التحقق من بيانات النمط
-            // الأنماط لها ألوان مختلفة وحجم الخط
+            // الأنماط لها ألوان مختلفة وحجم خط مختلف
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -143,7 +144,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // مثال على إضافة جزء نصي جديد
+            // مثال على إضافة جزء نص جديد
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -151,17 +152,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // مثال على تحرير الفقرة والنمط للأجزاء
-            // ضبط التبرير الصحيح
+            // ضبط المحاذاة إلى اليمين
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // ألوان مختلفة لكل نمط. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // ألوان مختلفة لكل نمط. سيتم تغييرها، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // خط مختلف. سيتم تغيير ، ولكن التقديم غير مدعوم بشكل كامل
+            // خط مختلف. سيتم تغييره، لكن العرض غير مدعوم بالكامل
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -176,10 +177,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ITextStyle](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

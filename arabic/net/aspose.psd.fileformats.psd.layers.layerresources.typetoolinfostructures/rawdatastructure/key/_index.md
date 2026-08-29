@@ -1,23 +1,24 @@
 ---
-title: RawDataStructure.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: RawDataStructure ملكية. يحصل على المفتاح .
+title: "RawDataStructure.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RawDataStructure. يحصل على المفتاح"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/key/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Key property
 
-يحصل على المفتاح .
+يحصل على المفتاح.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RawDataStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

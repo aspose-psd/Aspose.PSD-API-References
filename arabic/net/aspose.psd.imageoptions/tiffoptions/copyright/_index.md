@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Copyright
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على حقوق النشر أو تعيينها.
+title: "TiffOptions.Copyright"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يحدد حقوق النشر"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/copyright/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Copyright property
 
-الحصول على حقوق النشر أو تعيينها.
+يحصل أو يعيّن حقوق النشر.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 حقوق النشر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

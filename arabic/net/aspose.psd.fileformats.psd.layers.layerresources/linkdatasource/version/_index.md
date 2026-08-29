@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: LinkDataSource ملكية. يحصل على نسخة مصدر البيانات في مصدر PSD LnkE / Lnk2.
+title: "LinkDataSource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LinkDataSource. يحصل على إصدار مصدر البيانات في مورد PSD LnkE / Lnk2"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Version property
 
-يحصل على نسخة مصدر البيانات في مصدر PSD LnkE / Lnk2.
+يحصل على إصدار مصدر البيانات في مورد PSD LnkE / Lnk2.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Property_Value
+### Property Value
 
-رقم إصدار مصدر بيانات ارتباط LiFE / LiFD.
+رقم إصدار مصدر البيانات LiTE / LiFD.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى خاصية الإصدار. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | لا يمكنك الوصول إلى خاصية Version. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinkDataSource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

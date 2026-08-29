@@ -1,37 +1,38 @@
 ---
-title: PsdColorPalette.GetArgb32Color
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdColorPalette طريقة. الحصول على لوحة ألوان ARGB 32 بت حسب الفهرس.
+title: "PsdColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdColorPalette. تحصل على لون لوحة ARGB 32‑بت حسب الفهرس"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.fileformats.psd/psdcolorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetArgb32Color method
 
-الحصول على لوحة ألوان ARGB 32 بت حسب الفهرس.
+يحصل على لون لوحة ARGB 32‑بت حسب الفهرس.
 
 ```csharp
 public int GetArgb32Color(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر ألوان لوحة ARGB 32 بت. |
+| فهرس | Int32 | فهرس لون لوحة ARGB 32-بت. |
 
 ### قيمة الإرجاع
 
-إدخال لوحة الألوان المحدد بواسطة*index*.
+إدخال لوحة الألوان المحدد بواسطة *الفهرس*.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | إذا لوح الألوان*index* المحدد خارج نطاق إدخالات اللوحة. |
+| ArgumentOutOfRangeException | إذا كان *فهرس* لوحة الألوان المحدد خارج نطاق إدخالات اللوحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdColorPalette](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

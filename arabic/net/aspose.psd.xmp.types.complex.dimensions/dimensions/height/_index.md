@@ -1,33 +1,34 @@
 ---
-title: Dimensions.Height
-second_title: Aspose.PSD لمرجع .NET API
-description: Dimensions ملكية. الحصول على الارتفاع أو تحديده .
+title: "Dimensions.Height"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Dimensions. يحصل أو يضبط الارتفاع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
-الحصول على الارتفاع أو تحديده .
+يحصل أو يعيّن الارتفاع.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الارتفاع .
+الارتفاع.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | القيمة ؛ لا يمكن أن يكون الارتفاع أقل من صفر |
+| ArgumentOutOfRangeException | القيمة؛ Height لا يمكن أن يكون أقل من الصفر |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dimensions](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

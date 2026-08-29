@@ -1,23 +1,24 @@
 ---
-title: IntegerStructure.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: IntegerStructure ملكية. يحصل على المفتاح .
+title: "IntegerStructure.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IntegerStructure. تحصل على المفتاح"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Key property
 
-يحصل على المفتاح .
+يحصل على المفتاح.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntegerStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BritResource.Brightness
-second_title: Aspose.PSD لمرجع .NET API
-description: BritResource ملكية. الحصول على أو ضبط السطوع .
+title: "BritResource.Brightness"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BritResource. يحصل أو يضبط السطوع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness/
 ---
+{{< psd/tize >}}
 ## BritResource.Brightness property
 
-الحصول على أو ضبط السطوع .
+يحصل أو يضبط السطوع.
 
 ```csharp
 public short Brightness { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-السطوع .
+السطوع.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

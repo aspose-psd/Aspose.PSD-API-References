@@ -1,28 +1,29 @@
 ---
-title: Class AsyncTaskException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.AsyncTask.AsyncTaskException فصل. استثناء للمهمة غير المتزامنة.
+title: "الفئة AsyncTaskException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.AsyncTask.AsyncTaskException. الاستثناء للمهمة غير المتزامنة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.asynctask/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException class
 
-استثناء للمهمة غير المتزامنة.
+الاستثناء للمهمة غير المتزامنة.
 
 ```csharp
 public class AsyncTaskException : Exception
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AsyncTaskException](asynctaskexception/)(string) | يقوم بتهيئة مثيل جديد لملف`AsyncTaskException` فئة . |
+| [AsyncTaskException](asynctaskexception/)(string) | يُنشئ مثيلاً جديدًا للفئة `AsyncTaskException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

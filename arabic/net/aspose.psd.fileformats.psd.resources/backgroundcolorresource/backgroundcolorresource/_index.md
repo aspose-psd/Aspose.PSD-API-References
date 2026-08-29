@@ -1,23 +1,24 @@
 ---
-title: BackgroundColorResource.BackgroundColorResource
-second_title: Aspose.PSD لمرجع .NET API
-description: BackgroundColorResource البناء. Default_Constructor
+title: "BackgroundColorResource.BackgroundColorResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ BackgroundColorResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/backgroundcolorresource/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public BackgroundColorResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BackgroundColorResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

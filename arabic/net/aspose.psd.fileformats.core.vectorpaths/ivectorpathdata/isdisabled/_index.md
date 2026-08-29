@@ -1,31 +1,32 @@
 ---
-title: IVectorPathData.IsDisabled
-second_title: Aspose.PSD لمرجع .NET API
-description: IVectorPathData ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
+title: "IVectorPathData.IsDisabled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IVectorPathData. يحصل على أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن معطلاً"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.IsDisabled property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا المثيل معطلاً.
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا تم تعطيل هذه الحالة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان هذا الكائن معطلاً؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح هذا المثال دعم مورد "WorkingPathResource" في PsdImage.ImageResources للعمل الصحيح لعملية Crop.
+يوضح هذا المثال دعم مورد 'WorkingPathResource' في PsdImage.ImageResources للعمل الصحيح لعملية القص.
 
 ```csharp
 [C#]
 
-// صورة المحاصيل وحفظها.
+// قص الصورة واحفظها.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // اقتصاص وحفظ.
+    // قص واحفظ.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// قم بتحميل الصورة المحفوظة وتحقق من التغييرات.
+// حمّل الصورة المحفوظة وتحقق من التغييرات.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // ابحث عن مورد WorkingPathResource.
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IVectorPathData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

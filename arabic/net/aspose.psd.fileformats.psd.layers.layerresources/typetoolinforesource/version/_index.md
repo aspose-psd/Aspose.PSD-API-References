@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.Version
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على الإصدار أو تحديده.
+title: "TypeToolInfoResource.Version"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط الإصدار"
 type: docs
-weight: 250
+weight: 220
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Version property
 
-الحصول على الإصدار أو تحديده.
+يحصل أو يضبط الإصدار.
 
 ```csharp
 public short Version { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإصدار .
+الإصدار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

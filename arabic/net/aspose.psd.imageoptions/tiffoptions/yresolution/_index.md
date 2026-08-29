@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على دقة y أو تعيينها .
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين دقة y"
 type: docs
-weight: 690
+weight: 700
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
-الحصول على دقة y أو تعيينها .
+يحصل أو يضبط دقة y.
 
 ```csharp
 public TiffRational Yresolution { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 دقة y.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

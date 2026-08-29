@@ -1,24 +1,25 @@
 ---
-title: TiffOptions.ByteOrder
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ترتيب tiff بايت.
+title: "TiffOptions.ByteOrder"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين قيمة تشير إلى ترتيب بايتات TIFF"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ByteOrder property
 
-الحصول على أو تعيين قيمة تشير إلى ترتيب tiff بايت.
+يحصل أو يضبط قيمة تشير إلى ترتيب بايتات tiff.
 
 ```csharp
 public TiffByteOrder ByteOrder { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdLoadOptions ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم تجاهل العرض الثابت لطبقة نص PSD عند تنفيذ عملية UpdateText.
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PsdLoadOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان سيتم تجاهل عرض طبقة النص الثابت في PSD عند تنفيذ عملية UpdateText"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان سيتم تجاهل العرض الثابت لطبقة نص PSD عند تنفيذ عملية UpdateText.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان سيتم تجاهل عرض النص الثابت لطبقة النص PSD عند تنفيذ عملية UpdateText.
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا [تجاهل عرض طبقة النص] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [تجاهل عرض طبقة النص]; وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdLoadOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

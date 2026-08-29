@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: Rectangle ملكية. الحصول على أو تحديد حجم هذاRectangle .
+title: "Rectangle.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Rectangle. تحصل أو تعين حجم هذا Rectangle"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd/rectangle/size/
 ---
+{{< psd/tize >}}
 ## Rectangle.Size property
 
-الحصول على أو تحديد حجم هذا[`Rectangle`](../) .
+تحصل أو تعين حجم هذا [`Rectangle`](../).
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ[`Size`](../../size/) التي تمثل عرض وارتفاع هذا[`Rectangle`](../) بناء.
+`[`Size`](../../size/)` التي تمثل العرض والارتفاع لهذا الهيكل [`Rectangle`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* مساحة الاسم [Aspose.PSD](../../rectangle/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

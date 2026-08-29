@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على أو تعيين الصفوف لكل شريط .
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يحدد الصفوف لكل شريط"
 type: docs
-weight: 380
+weight: 390
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
-الحصول على أو تعيين الصفوف لكل شريط .
+يحصل أو يعيّن عدد الصفوف لكل شريط.
 
 ```csharp
 public uint RowsPerStrip { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الصفوف في كل قطاع .
+الصفوف لكل شريط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

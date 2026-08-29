@@ -1,54 +1,55 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpGuid البناء. يقوم بتهيئة مثيل جديد لملفXmpGuid فئة .
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ XmpGuid. يهيئ مثيلاً جديدًا من الفئة XmpGuid"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpGuid`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة. |
+| قيمة | String | القيمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | القيمة خالية. |
-| ArgumentException | قيمة GU غير صالحة ؛ قيمة |
+| ArgumentNullException | القيمة فارغة. |
+| ArgumentException | قيمة guid غير صالحة;value |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpGuid](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XmpGuid`](../) فئة .
+يهيئ مثيلاً جديدًا من الفئة [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(Guid guid)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| guid | Guid | المعرف الفريد. |
+| guid | Guid | المعرّف الفريد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpGuid](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

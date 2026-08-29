@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.OriginalCompId
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectResource ملكية. يحصل على المعرف الأصلي لـ Comp المحدد حاليًا للمستند الفرعي  والذي سيكون 1 إذا لم يتم تحديد أي منها . تحصل هذه الخاصية على معرف تحديد Comp للطبقة الأصلية لطبقة الكائن الذكي في ملف PSD.تراكبات الطبقة في الكائنات الذكية
+title: "SmartObjectResource.OriginalCompId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "SmartObjectResource property. يحصل على المعرف الأصلي للـ Comp المحدد حاليًا للمستند الفرعي، والذي سيكون 1 إذا لم يتم اختيار أيٍّ. هذه الخاصية تحصل على معرف اختيار الـ Comp الأصلي لطبقة الكائن الذكي في ملف PSD. Layer comps in Smart Objects"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.OriginalCompId property
 
-يحصل على المعرف الأصلي لـ Comp المحدد حاليًا للمستند الفرعي ، والذي سيكون -1 إذا لم يتم تحديد أي منها . تحصل هذه الخاصية على معرف تحديد Comp للطبقة الأصلية لطبقة الكائن الذكي في ملف PSD.[تراكبات الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+يحصل على المعرف الأصلي للمكوّن المحدد حاليًا للمستند الفرعي، والذي سيكون -1 إذا لم يتم اختيار أي شيء. هذه الخاصية تحصل على معرف اختيار المكوّن الأصلي للطبقة للكائن الذكي في ملف PSD. [مقاطع الطبقة في الكائنات الذكية](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### Property_Value
+### Property Value
 
-المعرف الأصلي للمركب المحدد حاليًا للمستند الفرعي في صورة PSD ، والذي سيكون -1 إذا لم يتم تحديد أي شيء.
+المعرف الأصلي للـ comp المحدد حاليًا للمستند الفرعي في صورة PSD، والذي سيكون -1 إذا لم يتم اختيار أيٍّ.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم موارد SoLEResource و SmartObjectResource و PlacedResource.
+الكود التالي يوضح دعم موارد SoLEResource و SmartObjectResource و PlacedResource.
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // هذه القيم لا نغيرها في الموارد
+    // هذه القيم لا نقوم بتغييرها في المورد.
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,35 +115,35 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضًا
-    // ويجب أن يكون بعضها متوافقًا مع الكائن الذكي الذي تحته خط في LinkDataSource
-    resource.PageNumber = (int)newValues[2]; // 2 ;
-    resource.TotalPages = (int)newValues[3]; // 3 ;
-    resource.AntiAliasPolicy = (int)newValues[4]; // 0 ;
+    // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضاً.
+    // ويجب أن تكون بعضها متوافقة مع الكائن الذكي الأساسي في LinkDataSource.
+    resource.PageNumber = (int)newValues[2]; // 2;
+    resource.TotalPages = (int)newValues[3]; // 3;
+    resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
-    resource.Value = (double)newValues[7]; // 1.23456789 ;
-    resource.Perspective = (double)newValues[8]; // 0.123456789 ;
-    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321 ;
-    resource.Top = (double)newValues[10]; // -126 ;
-    resource.Left = (double)newValues[11]; // -215 ;
-    resource.Bottom = (double)newValues[12]; // 248 ;
-    resource.Right = (double)newValues[13]; // 145 ;
-    resource.Crop = (int)newValues[16]; // 5 ;
-    resource.FrameStepNumerator = (int)newValues[17]; // 1 ;
-    resource.FrameStepDenominator = (int)newValues[18]; // 601 ;
-    resource.DurationNumerator = (int)newValues[19]; // 2 ;
-    resource.DurationDenominator = (int)newValues[20]; // 602 ;
-    resource.FrameCount = (int)newValues[21]; // 11 ;
-    resource.Width = (double)newValues[22]; // 541 ;
-    resource.Height = (double)newValues[23]; // 249 ;
-    resource.Resolution = (double)newValues[24]; // 144 ;
+    resource.Value = (double)newValues[7]; // 1.23456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
+    resource.Top = (double)newValues[10]; // -126;
+    resource.Left = (double)newValues[11]; // -215;
+    resource.Bottom = (double)newValues[12]; // 248;
+    resource.Right = (double)newValues[13]; // 145;
+    resource.Crop = (int)newValues[16]; // 5;
+    resource.FrameStepNumerator = (int)newValues[17]; // 1;
+    resource.FrameStepDenominator = (int)newValues[18]; // 601;
+    resource.DurationNumerator = (int)newValues[19]; // 2;
+    resource.DurationDenominator = (int)newValues[20]; // 602;
+    resource.FrameCount = (int)newValues[21]; // 11;
+    resource.Width = (double)newValues[22]; // 541;
+    resource.Height = (double)newValues[23]; // 249;
+    resource.Resolution = (double)newValues[24]; // 144;
     resource.ResolutionUnit = (UnitTypes)newValues[25];
-    resource.Comp = (int)newValues[26]; // 21 ;
-    resource.CompId = (int)newValues[27]; // 22 ;
+    resource.Comp = (int)newValues[26]; // 21;
+    resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // يجب تغيير هذا المعرف الفريد في المراجع إن وجدت
-    resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98") ;
+    // يجب تغيير هذا المعرف الفريد في المراجع إذا وجدت.
+    resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
         resource.HorizontalMeshPointUnit = (UnitTypes)newValues[31];
@@ -151,16 +152,18 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // كن حذرًا مع بعض المعلمات: قد تصبح الصورة المحفوظة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-    ////resource.UOrder = 6 ;
-    ////resource.VOrder = 9 ;
+    // احذر من بعض المعلمات: قد يصبح الصورة المحفوظة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-    // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-    ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+    // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+    // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-    ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+    // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -323,12 +326,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-يوضح التعليمة البرمجية التالية دعم مورد SoLdResource.
+الكود التالي يوضح دعم مورد SoLdResource.
 
 ```csharp
 [C#]
 
-// يوضح هذا المثال كيفية الحصول على أو تعيين خصائص بيانات طبقة الكائن الذكية لملف PSD.
+// يوضح هذا المثال كيفية الحصول على خصائص بيانات طبقة الكائن الذكي أو تعيينها في ملف PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +565,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضًا
-                // ويجب أن يكون بعضها متوافقًا مع الكائن الذكي الذي تحته خط في LinkDataSource
+                // يجب تغيير هذه القيم في PlLdResource (مع UniqueId المحدد) أيضاً.
+                // ويجب أن تكون بعضها متوافقة مع الكائن الذكي الأساسي في LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,19 +611,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // يجب تغيير هذا المعرف الفريد في المراجع إن وجدت
+                // يجب تغيير هذا المعرف الفريد في المراجع إذا وجدت.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // كن حذرًا مع بعض المعلمات: قد تصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
-                ////resource.UOrder = 6 ;
-                ////resource.VOrder = 9 ;
+                // احذر من بعض المعلمات: قد يصبح الصورة غير قابلة للقراءة بواسطة Adobe® Photoshop®
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // لا تقم بتغيير هذا وإلا فلن تتمكن من استخدام التحويل المجاني
-                // أو قم بتغيير الكائن الذكي الذي تحته خط إلى نوع المتجه
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // لا تقم بتغيير هذا وإلا 
+ لن تتمكن من استخدام التحويل الحر.
+                // أو 
+ غيّر الكائن الذكي الأساسي إلى النوع المتجه.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // يجب أن يكون هناك PlLdResource صالحًا بهذا المعرف الفريد
-                ////resource.UniqueId = دليل جديد ("98765432-10fe-cba0-1234-56789abcdef0") ;
+                // يجب أن يكون هناك PlLdResource صالح بهذا المعرف الفريد.
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -632,10 +637,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

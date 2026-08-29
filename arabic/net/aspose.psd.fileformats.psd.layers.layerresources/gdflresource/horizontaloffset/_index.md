@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.HorizontalOffset
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. الحصول على أو تعيين الإزاحة الأفقية.
+title: "GdFlResource.HorizontalOffset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. يحصل أو يضبط الإزاحة الأفقية"
 type: docs
-weight: 100
+weight: 120
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.HorizontalOffset property
 
-الحصول على أو تعيين الإزاحة الأفقية.
+يحصل أو يعيّن الإزاحة الأفقية.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الإزاحة الأفقية .
+الإزاحة الأفقية.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم تحميل مورد GdFlResource.
+المثال التالي يوضح دعم تحميل موارد GdFlResource.
 
 ```csharp
 [C#]
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // التحرير
+                    // تحرير
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

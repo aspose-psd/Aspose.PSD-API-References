@@ -1,11 +1,12 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PSD لمرجع .NET API
-description: Metered طريقة. يحصل على حجم ملف الاستهلاك
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Metered. تحصل على حجم ملف الاستهلاك"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.psd/metered/getconsumptionquantity/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionQuantity method
 
 يحصل على حجم ملف الاستهلاك
@@ -18,10 +19,10 @@ public static decimal GetConsumptionQuantity()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.PSD](../../metered/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

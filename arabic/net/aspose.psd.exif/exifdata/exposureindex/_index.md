@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تحديد مؤشر التعرض .
+title: "ExifData.ExposureIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. تحصل أو تعين مؤشر التعرض"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd.exif/exifdata/exposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureIndex property
 
-الحصول على أو تحديد مؤشر التعرض .
+يحصل أو يضبط مؤشر التعرض.
 
 ```csharp
 public TiffRational ExposureIndex { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مؤشر التعرض .
+مؤشر التعرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

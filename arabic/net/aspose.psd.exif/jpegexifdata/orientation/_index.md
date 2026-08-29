@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Orientation
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على الاتجاه أو تحديده.
+title: "JpegExifData.Orientation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين الاتجاه"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd.exif/jpegexifdata/orientation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Orientation property
 
-الحصول على الاتجاه أو تحديده.
+يحصل أو يعيّن الاتجاه.
 
 ```csharp
 public ExifOrientation Orientation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الاتجاه .
+الاتجاه.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifOrientation](../../../aspose.psd.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

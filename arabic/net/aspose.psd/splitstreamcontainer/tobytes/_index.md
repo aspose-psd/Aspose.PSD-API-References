@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.ToBytes
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer طريقة. يحول بيانات الدفق إلى ملفByte مجموعة .
+title: "SplitStreamContainer.ToBytes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة SplitStreamContainer. تحول بيانات الدفق إلى مصفوفة Byte"
 type: docs
 weight: 160
 url: /ar/net/aspose.psd/splitstreamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-يحول بيانات الدفق إلى ملفByte مجموعة .
+يحوّل بيانات التدفق إلى مصفوفة Byte.
 
 ```csharp
 public override byte[] ToBytes()
@@ -16,37 +17,37 @@ public override byte[] ToBytes()
 
 ### قيمة الإرجاع
 
-تحويل البيانات إلى ملفByte مجموعة .
+بيانات الدفق المحوّلة إلى مصفوفة Byte.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-يحول بيانات الدفق إلى ملفByte مجموعة .
+يحوّل بيانات التدفق إلى مصفوفة Byte.
 
 ```csharp
 public override byte[] ToBytes(long position, long bytesCount)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| position | Int64 | الموقف لبدء القراءة من البايت. |
+| الموضع | Int64 | الموضع لبدء قراءة البايتات منه. |
 | bytesCount | Int64 | عدد البايتات للقراءة. |
 
 ### قيمة الإرجاع
 
-تحويل البيانات إلى ملفByte مجموعة .
+بيانات الدفق المحوّلة إلى مصفوفة Byte.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Interface IImageExporterDescriptor
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IImageExporterDescriptor واجهه المستخدم. يمثل واصف أداة تصدير الصور. يتم استخدام واصف المصدر للتغلب على ضرورة احتواء كل مثيل مصدر في الذاكرة ومشكلات تعدد مؤشرات الترابط.
+title: "الواجهة IImageExporterDescriptor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IImageExporterDescriptor. تمثل وصف مُصدّر الصورة. يُستخدم وصف المُصدّر لتجاوز الحاجة إلى احتواء كل نسخة مُصدّر في الذاكرة ومشكلات تعدد الخيوط"
 type: docs
-weight: 4440
+weight: 4910
 url: /ar/net/aspose.psd/iimageexporterdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor interface
 
-يمثل واصف أداة تصدير الصور. يتم استخدام واصف المصدر للتغلب على ضرورة احتواء كل مثيل مصدر في الذاكرة ومشكلات تعدد مؤشرات الترابط.
+يمثل image exporter descriptor. يُستخدم exporter descriptor لتجاوز الحاجة إلى احتواء كل مثال من المصدّر في الذاكرة ومشكلات تعدد الخيوط.
 
 ```csharp
 public interface IImageExporterDescriptor : IImageDescriptor
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | يحدد ما إذا كان يمكن لمصدر الصور تصدير الصورة المحددة إلى تنسيق الصورة المحدد المحدد بواسطة خيارات الحفظ. |
-| [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | إنشاء مثيل مصدر جديد . |
+| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | يحدد ما إذا كان مُصدّر الصورة يمكنه تصدير الصورة المحددة إلى تنسيق الصورة المحدد وفقًا لخيارات الحفظ. |
+| [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | ينشئ نسخة مُصدّر جديدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

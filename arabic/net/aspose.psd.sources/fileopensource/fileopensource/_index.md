@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Aspose.PSD لمرجع .NET API
-description: FileOpenSource البناء. يقوم بتهيئة مثيل جديد لملفFileOpenSource فئة .
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ FileOpenSource. يهيئ مثيلًا جديدًا من الفئة FileOpenSource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-يقوم بتهيئة مثيل جديد لملف[`FileOpenSource`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`FileOpenSource`](../) .
 
 ```csharp
 public FileOpenSource(string filePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف المراد فتحه. |
+| filePath | String | مسار الملف للفتح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileOpenSource](../)
-* مساحة الاسم [Aspose.PSD.Sources](../../fileopensource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

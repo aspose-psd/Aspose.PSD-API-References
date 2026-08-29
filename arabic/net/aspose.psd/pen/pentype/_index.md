@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على نمط الخطوط المرسومة بهذاPen .
+title: "Pen.PenType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل على نمط الخطوط المرسومة بهذا Pen"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-الحصول على نمط الخطوط المرسومة بهذا[`Pen`](../) .
+تحصل على نمط الخطوط المرسومة بهذا [`Pen`](../).
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-أ`PenType` التعداد الذي يحدد نمط الخطوط المرسومة بهذا[`Pen`](../).
+تعداد `PenType` يحدد نمط الخطوط المرسومة بهذا [`Pen`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

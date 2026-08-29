@@ -1,32 +1,33 @@
 ---
-title: RasterImage.ReadScanLine
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يقرأ خط المسح بالكامل بواسطة فهرس خط المسح المحدد.
+title: "RasterImage.ReadScanLine"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تقرأ كامل سطر المسح وفقًا لمؤشر سطر المسح المحدد"
 type: docs
-weight: 440
+weight: 450
 url: /ar/net/aspose.psd/rasterimage/readscanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadScanLine method
 
-يقرأ خط المسح بالكامل بواسطة فهرس خط المسح المحدد.
+يقرأ كامل سطر المسح وفق فهرس سطر المسح المحدد.
 
 ```csharp
 public Color[] ReadScanLine(int scanLineIndex)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| scanLineIndex | Int32 | فهرس خط المسح على أساس الصفر. |
+| scanLineIndex | Int32 | فهرس يبدأ من الصفر لخط المسح. |
 
 ### قيمة الإرجاع
 
-صفيف قيم لون البكسل لخط المسح.
+مصفوفة قيم ألوان بكسل سطر المسح.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

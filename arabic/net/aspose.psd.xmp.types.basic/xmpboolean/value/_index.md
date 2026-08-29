@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpBoolean ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذاXmpBoolean هي قيمة .
+title: "XmpBoolean.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpBoolean. يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا XmpBoolean هو قيمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.Value property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا[`XmpBoolean`](../) هي قيمة .
+يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا [`XmpBoolean`](../) هو قيمة.
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كانت القيمة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت القيمة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpBoolean](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

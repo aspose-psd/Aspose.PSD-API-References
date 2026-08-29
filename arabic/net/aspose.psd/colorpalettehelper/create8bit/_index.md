@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.Create8Bit
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPaletteHelper طريقة. إنشاء لوحة ألوان 8 بت .
+title: "ColorPaletteHelper.Create8Bit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorPaletteHelper. تنشئ لوحة ألوان 8 بت."
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/colorpalettehelper/create8bit/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8Bit method
 
-إنشاء لوحة ألوان 8 بت .
+ينشئ لوحة ألوان 8 بت.
 
 ```csharp
 public static IColorPalette Create8Bit()
@@ -18,11 +19,11 @@ public static IColorPalette Create8Bit()
 
 لوحة الألوان 8 بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalettehelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

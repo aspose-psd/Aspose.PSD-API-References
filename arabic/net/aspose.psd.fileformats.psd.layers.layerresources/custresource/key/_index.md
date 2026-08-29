@@ -1,11 +1,12 @@
 ---
-title: CustResource.Key
-second_title: Aspose.PSD لمرجع .NET API
-description: CustResource ملكية. يحصل على مفتاح مورد الطبقة.
+title: "CustResource.Key"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية CustResource. يحصل على مفتاح مورد الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/key/
 ---
+{{< psd/tize >}}
 ## CustResource.Key property
 
 يحصل على مفتاح مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/key/
 public override int Key { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CustResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IIndexedColorConverter واجهه المستخدم. محول الألوان لتنسيقات الصور المفهرسة.
+title: "الواجهة IIndexedColorConverter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IIndexedColorConverter. محول الألوان لتنسيقات الصور المفهرسة."
 type: docs
-weight: 4470
+weight: 4940
 url: /ar/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
-محول الألوان لتنسيقات الصور المفهرسة.
+color converter لتنسيقات الصورة المفهرسة.
 
 ```csharp
 public interface IIndexedColorConverter
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | يملأ خريطة تحويل الصور المفهرسة. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | يملأ خريطة تحويل الصورة المفهرسة إلى مفهرسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

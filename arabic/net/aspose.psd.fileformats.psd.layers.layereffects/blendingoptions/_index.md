@@ -1,14 +1,15 @@
 ---
-title: Class BlendingOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions فصل. BlendingOptions. إنه غلاف لـ Lfx2Resource الذي يوفر واجهة برمجة تطبيقات لتأثيرات الطبقة
+title: "الفئة BlendingOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions فئة. BlendingOptions. إنه غلاف لـ BaseFxResource الذي يوفر واجهة برمجة تطبيقات لتأثيرات الطبقة"
 type: docs
-weight: 2100
+weight: 2290
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-BlendingOptions. إنه غلاف لـ Lfx2Resource الذي يوفر واجهة برمجة تطبيقات لتأثيرات الطبقة
+BlendingOptions. إنها غلاف لـ BaseFxResource الذي يوفر API لتأثيرات الطبقة.
 
 ```csharp
 public class BlendingOptions
@@ -16,25 +17,26 @@ public class BlendingOptions
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | يحصل على التأثيرات . |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | يحصل أو يضبط رؤية جميع تأثيرات الطبقة. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | يحصل على التأثيرات. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | يضيف تراكب اللون . |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | يضيف تأثير الظل المسقط . |
-| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | يضيف تراكب التدرج . |
-| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | يضيف تأثير الظل الداخلي . |
+| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | يضيف تغطية اللون. |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | يضيف تأثير الظل المنسدل. |
+| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | يضيف تغطية التدرج. |
+| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | يضيف تأثير الظل الداخلي. |
 | [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | يضيف تأثير التوهج الخارجي. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | يضيف تراكب النقش . |
-| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | يضيف تأثير ضربة الفرشاة . |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | يضيف تغطية النمط. |
+| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | يضيف تأثير الحد. |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي كيفية تغيير إعدادات Inner Shadow Layer Effect.
+الكود التالي يوضح كيفية تغيير إعدادات تأثير طبقة الظل الداخلي.
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ public class BlendingOptions
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -63,9 +65,9 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

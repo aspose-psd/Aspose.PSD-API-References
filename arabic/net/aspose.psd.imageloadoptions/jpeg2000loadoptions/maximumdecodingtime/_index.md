@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000LoadOptions.MaximumDecodingTime
-second_title: Aspose.PSD لمرجع .NET API
-description: Jpeg2000LoadOptions ملكية. الحصول على أو تعيين الحد الأقصى لوقت فك التشفير بالثواني يمكن استخدام هذا الخيار على أجهزة الذاكرة البطيئة جدًا لمنع تعليق العملية على الصور الكبيرة جدًا  دقة أكثر من 5500  6500 بكسل .
+title: "Jpeg2000LoadOptions.MaximumDecodingTime"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Jpeg2000LoadOptions. يحصل أو يعيّن أقصى وقت فك الترميز بالثواني؛ يمكن استخدام هذا الخيار على الأجهزة البطيئة جدًا في الذاكرة لمنع التوقف أثناء معالجة الصور الكبيرة بدقة أكثر من 5500x6500 بكسل"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime/
 ---
+{{< psd/tize >}}
 ## Jpeg2000LoadOptions.MaximumDecodingTime property
 
-الحصول على أو تعيين الحد الأقصى لوقت فك التشفير بالثواني (يمكن استخدام هذا الخيار على أجهزة الذاكرة البطيئة جدًا لمنع تعليق العملية على الصور الكبيرة جدًا - دقة أكثر من 5500 × 6500 بكسل) .
+يحصل أو يعيّن الحد الأقصى لوقت فك الترميز بالثواني (يمكن استخدام هذا الخيار على الأجهزة البطيئة جداً أو ذات الذاكرة المحدودة لمنع التوقف أثناء معالجة الصور الكبيرة - الدقة أكثر من 5500x6500 بكسل).
 
 ```csharp
 public int MaximumDecodingTime { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أقصى وقت فك.
+أقصى وقت فك الترميز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Jpeg2000LoadOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageLoadOptions](../../jpeg2000loadoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

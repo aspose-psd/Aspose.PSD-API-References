@@ -1,51 +1,52 @@
 ---
-title: Class Font
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Font.Font فصل. يمثل خط XMP .
+title: "فئة Font"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Xmp.Types.Complex.Font.Font class. يمثل خط XMP"
 type: docs
-weight: 6070
+weight: 6570
 url: /ar/net/aspose.psd.xmp.types.complex.font/font/
 ---
+{{< psd/tize >}}
 ## Font class
 
-يمثل خط XMP .
+يمثل خط XMP.
 
 ```csharp
 public sealed class Font : ComplexTypeBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Font](font/#constructor)() | يقوم بتهيئة مثيل جديد لملف`Font` فئة . |
-| [Font](font/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`Font` فئة . |
+| [Font](font/#constructor)() | ينشئ مثيلاً جديدًا من الفئة `Font`. |
+| [Font](font/#constructor_1)(string) | ينشئ مثيلاً جديدًا من الفئة `Font`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles/) { get; set; } | الحصول على أو تعيين مجموعة أسماء الملفات للخطوط التي تشكل خطًا مركبًا. |
-| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | الحصول على أو تحديد واجهة الخط . |
-| [FontFamily](../../aspose.psd.xmp.types.complex.font/font/fontfamily/) { get; set; } | الحصول على عائلة الخط أو تعيينها. |
-| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | الحصول على أو تحديد اسم ملف الخط بدون المسار الكامل. |
-| [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname/) { get; set; } | الحصول على اسم خط PostScript أو تعيينه. |
-| [FontType](../../aspose.psd.xmp.types.complex.font/font/fonttype/) { get; set; } | الحصول على نوع الخط أو تحديده. |
-| [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite/) { get; set; } | الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا الخط مركبًا. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على مساحة الاسم الافتراضية URI. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة . |
-| [Version](../../aspose.psd.xmp.types.complex.font/font/version/) { get; set; } | الحصول على إصدار الخط أو تحديده. |
+| [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles/) { get; set; } | يحصل أو يضبط مصفوفة أسماء الملفات للخطوط التي تشكل خطًا مركبًا. |
+| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | يحصل أو يضبط وجه الخط. |
+| [FontFamily](../../aspose.psd.xmp.types.complex.font/font/fontfamily/) { get; set; } | يحصل أو يضبط عائلة الخط. |
+| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | يحصل أو يضبط اسم ملف الخط دون المسار الكامل. |
+| [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname/) { get; set; } | يحصل أو يعيّن اسم خط PostScript. |
+| [FontType](../../aspose.psd.xmp.types.complex.font/font/fonttype/) { get; set; } | يحصل أو يعيّن نوع الخط. |
+| [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا الخط مركّبًا. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | يحصل على URI مساحة الاسم الافتراضية. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | يحصل على البادئة. |
+| [Version](../../aspose.psd.xmp.types.complex.font/font/version/) { get; set; } | يحصل أو يضبط إصدار الخط. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | الحصول على القيمة المضمنة في السلسلة بتنسيق XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | يحصل على القيمة النصية المحتواة بتنسيق XMP. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../)
 
 

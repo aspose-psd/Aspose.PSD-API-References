@@ -1,35 +1,30 @@
 ---
-title: PtFlResource.Save
-second_title: Aspose.PSD لمرجع .NET API
-description: PtFlResource طريقة. يحفظ المورد في حاوية التدفق المحددة.
+title: "PtFlResource.Save"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PtFlResource. تحفظ المورد إلى حاوية الدفق المحددة"
 type: docs
-weight: 120
+weight: 100
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Save method
 
-يحفظ المورد في حاوية التدفق المحددة.
+يحفظ المورد في حاوية الدفق المحددة.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| streamContainer | StreamContainer | حاوية التدفق للحفظ فيها. |
+| streamContainer | StreamContainer | حاوية الدفق التي سيتم الحفظ فيها. |
 | psdVersion | Int32 | إصدار PSD. |
 
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| NotImplementedException |  |
-
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PtFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

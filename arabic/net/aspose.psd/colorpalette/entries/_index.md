@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.Entries
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPalette ملكية. يحصل على مجموعة منColor الهياكل .
+title: "ColorPalette.Entries"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorPalette. تحصل على مصفوفة من هياكل Color"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/colorpalette/entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Entries property
 
-يحصل على مجموعة من[`Color`](../../color/) الهياكل .
+تحصل على مصفوفة من هياكل [`Color`](../../color/).
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,17 +17,17 @@ public Color[] Entries { get; }
 
 ### قيمة الإرجاع
 
-صفيف[`Color`](../../color/) الهيكل الذي يتكون منه[`ColorPalette`](../) .
+مصفوفة من هياكل [`Color`](../../color/) التي تشكل هذه [`ColorPalette`](../).
 
-### Property_Value
+### Property Value
 
 الإدخالات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalette/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

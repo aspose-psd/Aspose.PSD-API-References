@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Size
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceBlock ملكية. الحصول على حجم كتلة المورد بالبايت بما في ذلك البيانات الخاصة به.
+title: "ResourceBlock.Size"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceBlock. تحصل على حجم كتلة المورد بالبايت بما في ذلك بياناتها"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.psd/resourceblock/size/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Size property
 
-الحصول على حجم كتلة المورد بالبايت بما في ذلك البيانات الخاصة به.
+يحصل على حجم كتلة المورد بالبايت بما في ذلك بياناتها.
 
 ```csharp
 public int Size { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حجم كتلة الموارد.
+حجم كتلة المورد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceBlock](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

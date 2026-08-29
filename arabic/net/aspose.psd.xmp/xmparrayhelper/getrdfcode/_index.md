@@ -1,38 +1,39 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpArrayHelper طريقة. يحصل على كود RDF لملف محددXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpArrayHelper. يحصل على رمز RDF لنوع XmpArrayType المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-يحصل على كود RDF لملف محدد[`XmpArrayType`](../../xmparraytype/) .
+يحصل على رمز RDF لنوع [`XmpArrayType`](../../xmparraytype/).
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| xmpArrayType | XmpArrayType | نوع صفيف XMP. |
+| xmpArrayType | XmpArrayType | نوع مصفوفة XMP. |
 
 ### قيمة الإرجاع
 
-ترجع رمز RDF لملف[`XmpArrayType`](../../xmparraytype/).
+إرجاع رمز RDF لنوع [`XmpArrayType`](../../xmparraytype/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | استثناء وسيطة التعداد غير صالح |
+| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | استثناء حجة تعداد غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

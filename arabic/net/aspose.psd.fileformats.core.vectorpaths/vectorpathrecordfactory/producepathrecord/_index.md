@@ -1,38 +1,33 @@
 ---
-title: VectorPathRecordFactory.ProducePathRecord
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorPathRecordFactory طريقة. ينتج عنه سجل المسار .
+title: "VectorPathRecordFactory.ProducePathRecord"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة VectorPathRecordFactory. تنتج سجل المسار"
 type: docs
-weight: 20
+weight: 10
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory.ProducePathRecord method
 
-ينتج عنه سجل المسار .
+ينتج سجل المسار.
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| data | Byte[] | بيانات السجل. |
+| البيانات | Byte[] | بيانات السجل. |
 
 ### قيمة الإرجاع
 
-مخلوق[`VectorPathRecord`](../../vectorpathrecord/)
+تم إنشاء [`VectorPathRecord`](../../vectorpathrecord/).
 
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
-
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

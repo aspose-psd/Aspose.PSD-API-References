@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. الحصول على الخطوط أو تعيينها .
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل أو يضبط السطور"
 type: docs
-weight: 140
+weight: 130
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
-الحصول على الخطوط أو تعيينها .
+يحصل أو يضبط الأسطر.
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الخطوط .
+السطور.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

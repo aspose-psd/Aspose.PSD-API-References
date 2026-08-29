@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Convert
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. تحويل تنسيق الصورة هذا إلى التنسيق المحدد في الخيارات.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تحول تنسيق هذه الصورة إلى التنسيق المحدد في الخيارات."
 type: docs
-weight: 500
+weight: 560
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-تحويل تنسيق الصورة هذا إلى التنسيق المحدد في الخيارات.
+يحوّل تنسيق هذه الصورة إلى التنسيق المحدد في الخيارات.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | newOptions | PsdOptions | الخيارات الجديدة. |
 
-### أمثلة
+## أمثلة
 
-توضح هذه الأمثلة تحويل تنسيق صورة PSD إلى أوضاع ألوان أخرى / عمق البت.
+توضح هذه الأمثلة تحويل تنسيق صورة PSD إلى أوضاع لون/عمق بت أخرى.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public void Convert(PsdOptions newOptions)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// توضح هذه الأمثلة تحويل تنسيق صورة PSD إلى أوضاع ألوان أخرى / عمق البت.
+// توضح هذه الأمثلة تحويل تنسيق صورة PSD إلى أوضاع لون/عمق بت أخرى.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// يحفظ في PSD ثم يقوم بتحميل الملف المحفوظ وحفظه في PNG.
+// يحفظ إلى PSD ثم يحمل الملف المحفوظ ويحفظه إلى PNG.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -112,11 +113,11 @@ void SaveToPsdThenLoadAndSaveToPng(
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Make
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تعيين الشركة المصنعة لجهاز التسجيل.
+title: "JpegExifData.Make"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين صانع جهاز التسجيل"
 type: docs
 weight: 100
 url: /ar/net/aspose.psd.exif/jpegexifdata/make/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Make property
 
-الحصول على أو تعيين الشركة المصنعة لجهاز التسجيل.
+الحصول أو تعيين الشركة المصنعة لمعدات التسجيل.
 
 ```csharp
 public string Make { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الشركة المصنعة لجهاز التسجيل .
+صانع جهاز التسجيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

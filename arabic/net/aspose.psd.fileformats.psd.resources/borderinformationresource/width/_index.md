@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: BorderInformationResource ملكية. الحصول على عرض الحد أو تحديده .
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BorderInformationResource. يحصل أو يضبط عرض الحد"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
-الحصول على عرض الحد أو تحديده .
+يحصل أو يضبط عرض الحدود.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم مورد BorderInformationResource.
+المثال التالي يوضح دعم مورد BorderInformationResource.
 
 ```csharp
 [C#]
@@ -45,10 +46,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BorderInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

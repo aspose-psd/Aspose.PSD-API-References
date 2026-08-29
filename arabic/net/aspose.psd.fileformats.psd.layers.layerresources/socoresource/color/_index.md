@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Color
-second_title: Aspose.PSD لمرجع .NET API
-description: SoCoResource ملكية. يحصل على لون RGB .
+title: "SoCoResource.Color"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "SoCoResource خاصية. يحصل على اللون RGB"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
-يحصل على لون RGB .
+يحصل على لون RGB.
 
 ```csharp
 public Color Color { get; set; }
@@ -18,9 +19,9 @@ public Color Color { get; set; }
 
 لون RGB
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي كيفية تحرير SoCoResource (Layer Resource for Color Fill Layer)
+المثال التالي يوضح كيفية تحرير SoCoResource (مورد الطبقة لطبقة تعبئة اللون)
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public Color Color { get; set; }
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// تحميل صورة موجودة في مثيل لفئة PsdImage
+// حمّل صورة موجودة إلى مثال من فئة PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
@@ -55,7 +56,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // تعيين خاصية SoCoResource Color
+                    // تعيين خاصية اللون في SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -67,11 +68,11 @@ using (im)
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

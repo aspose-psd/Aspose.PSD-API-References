@@ -1,27 +1,28 @@
 ---
-title: BritResource.Contrast
-second_title: Aspose.PSD لمرجع .NET API
-description: BritResource ملكية. الحصول على التباين أو تعيينه .
+title: "BritResource.Contrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BritResource. تحصل أو تعين التباين"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/
 ---
+{{< psd/tize >}}
 ## BritResource.Contrast property
 
-الحصول على التباين أو تعيينه .
+يحصل أو يضبط التباين.
 
 ```csharp
 public short Contrast { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التباين .
+التباين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BritResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

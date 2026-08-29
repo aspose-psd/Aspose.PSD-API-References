@@ -1,34 +1,35 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Aspose.PSD لمرجع .NET API
-description: PhotoshopPackage طريقة. يضيف خاصية السلسلة .
+title: "PhotoshopPackage.AddValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PhotoshopPackage. يضيف خاصية نصية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
-يضيف خاصية السلسلة .
+يضيف خاصية نصية.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| key | String | تمثيل السلسلة للمفتاح الذي تم تحديده بالقيمة المضافة. |
-| value | String | قيمة السلسلة. |
+| المفتاح | String | التمثيل النصي للمفتاح الذي يتم التعرف عليه مع القيمة المضافة. |
+| قيمة | String | القيمة النصية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | مفتاح ؛ لا يمكن أن تكون خاصية Photoshop خالية |
+| ArgumentNullException | key;خاصية Photoshop لا يمكن أن تكون null |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhotoshopPackage](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

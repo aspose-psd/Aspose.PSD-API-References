@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Tags
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على العلامات أو تعيينها.
+title: "TiffOptions.Tags"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعين العلامات."
 type: docs
-weight: 490
+weight: 500
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
-الحصول على العلامات أو تعيينها.
+يحصل أو يعيّن العلامات.
 
 ```csharp
 public TiffDataType[] Tags { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-العلامات .
+العلامات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

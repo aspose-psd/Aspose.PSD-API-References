@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Bias
-second_title: Aspose.PSD لمرجع .NET API
-description: ConvolutionFilterOptions ملكية. الحصول على التحيز أو تعيينه .
+title: "ConvolutionFilterOptions.Bias"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ConvolutionFilterOptions. تحصل أو تعيين التحيز"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Bias property
 
-الحصول على التحيز أو تعيينه .
+يحصل أو يعيّن الانحياز.
 
 ```csharp
 public int Bias { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التحيز .
+التحيز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ConvolutionFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

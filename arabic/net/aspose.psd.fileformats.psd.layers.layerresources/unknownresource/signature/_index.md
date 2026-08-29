@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: UnknownResource ملكية. يحصل على توقيع مورد الطبقة.
+title: "UnknownResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية UnknownResource. يحصل على توقيع مورد الطبقة"
 type: docs
-weight: 60
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Signature property
 
 يحصل على توقيع مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/si
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [UnknownResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

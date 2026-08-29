@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على الفئات والطرق المساعدة ذات الصلة بـ EXIF.
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "المجال يحتوي على فئات ومناهج مساعدة متعلقة بـ EXIF"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.psd.exif/
 ---
-تحتوي مساحة الاسم على الفئات والطرق المساعدة ذات الصلة بـ EXIF.
+{{< psd/tize >}}
+مساحة الاسم تحتوي على فئات مساعدة وطرق متعلقة بـ EXIF.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [ExifData](./exifdata/) | حاوية بيانات EXIF . |
-| [JpegExifData](./jpegexifdata/) | حاوية بيانات EXIF لملفات jpeg . |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | يمثل فئة عامة للعمل مع أنواع بيانات tiff. |
+| [ExifData](./exifdata/) | حاوية بيانات EXIF. |
+| [JpegExifData](./jpegexifdata/) | حاوية بيانات EXIF لملفات JPEG. |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | يمثل فئة عامة للعمل مع أنواع بيانات TIFF. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [ExifProperties](./exifproperties/) | قائمة علامات Exif |
+| [ExifProperties](./exifproperties/) | قائمة وسوم Exif |
 
 

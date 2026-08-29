@@ -1,14 +1,15 @@
 ---
-title: IImageLoaderDescriptor.CreateInstance
-second_title: Aspose.PSD لمرجع .NET API
-description: IImageLoaderDescriptor طريقة. إنشاء مثيل مُحمل جديد.
+title: "IImageLoaderDescriptor.CreateInstance"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IImageLoaderDescriptor. تنشئ مثيل محمل جديد"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/iimageloaderdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CreateInstance method
 
-إنشاء مثيل مُحمل جديد.
+ينشئ مثيلًا جديدًا للمحمِّل.
 
 ```csharp
 public IImageLoader CreateInstance()
@@ -18,11 +19,11 @@ public IImageLoader CreateInstance()
 
 مثيل محمل جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* مساحة الاسم [Aspose.PSD](../../iimageloaderdescriptor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

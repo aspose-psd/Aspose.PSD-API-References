@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Description
-second_title: Aspose.PSD لمرجع .NET API
-description: ProgressEventHandlerInfo ملكية. يحصل على وصف الحدث
+title: "ProgressEventHandlerInfo.Description"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ProgressEventHandlerInfo. يحصل على وصف الحدث"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Description property
 
 يحصل على وصف الحدث
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 public string Description { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الوصف .
+الوصف.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProgressEventHandlerInfo](../)
-* مساحة الاسم [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

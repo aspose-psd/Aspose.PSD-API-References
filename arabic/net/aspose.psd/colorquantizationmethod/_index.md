@@ -1,11 +1,12 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ColorQuantizationMethod تعداد. طرق تكميم الألوان
+title: "تعداد ColorQuantizationMethod"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.ColorQuantizationMethod. طرق تقليل ألوان"
 type: docs
 weight: 390
 url: /ar/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
 طرق تكميم الألوان
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd/colorquantizationmethod/
 public enum ColorQuantizationMethod
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا شيء يتم استخدام طريقة تكميم اللون |
+| None | `0` | لم يتم استخدام طريقة تقليل ألوان Nothing |
 | Popularity | `1` | طريقة الشعبية |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum ExifContrast
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Exif.Enums.ExifContrast تعداد. exif ترقيم صلب ناعم عادي.
+title: "عدد ExifContrast"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.Exif.Enums.ExifContrast عدد. exif طبيعي ناعم صعب عدد"
 type: docs
-weight: 810
+weight: 820
 url: /ar/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
-exif ترقيم صلب ناعم عادي.
+تعداد عادي ناعم صلب exif.
 
 ```csharp
 public enum ExifContrast
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Normal | `0` | تباين عادي . |
-| Low | `1` | تباين منخفض . |
-| High | `2` | تباين عالي . |
+| Normal | `0` | تباين طبيعي. |
+| Low | `1` | تباين منخفض. |
+| High | `2` | تباين عالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

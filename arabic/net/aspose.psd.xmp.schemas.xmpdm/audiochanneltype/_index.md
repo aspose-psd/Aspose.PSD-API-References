@@ -1,14 +1,15 @@
 ---
-title: Class AudioChannelType
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType فصل. يمثل نوع القناة الصوتية.
+title: "الفئة AudioChannelType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType. تمثل نوع قناة الصوت"
 type: docs
-weight: 5840
+weight: 6340
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
+{{< psd/tize >}}
 ## AudioChannelType class
 
-يمثل نوع القناة الصوتية.
+يمثل نوع قناة الصوت.
 
 ```csharp
 public sealed class AudioChannelType
@@ -16,24 +17,24 @@ public sealed class AudioChannelType
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | يحصل على 16 قناة صوتية . |
-| static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | يحصل على القناة الصوتية 5.1 . |
-| static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | يحصل على القناة الصوتية 7.1 . |
-| static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/) { get; } | يحصل على قناة الصوت الأحادي . |
-| static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | يحصل على القناة الأخرى . |
-| static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | يحصل على قناة صوت الاستريو . |
+| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | يحصل على قناة الصوت 16. |
+| static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | يحصل على قناة الصوت 5.1. |
+| static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | يحصل على قناة الصوت 7.1. |
+| static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/) { get; } | يحصل على قناة الصوت أحادية. |
+| static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | يحصل على القناة الأخرى. |
+| static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | يحصل على قناة الصوت ستيريو. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

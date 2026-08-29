@@ -1,28 +1,29 @@
 ---
-title: Class PenExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.PenExtensions فصل. يحتوي على طرق تمديد لـPen وPen .
+title: "الفئة PenExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Extensions.PenExtensions. تحتوي على أساليب امتداد للقلم و Pen"
 type: docs
-weight: 1140
+weight: 1150
 url: /ar/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-يحتوي على طرق تمديد لـ[`Pen`](../../aspose.psd/pen/) وPen .
+تحتوي على أساليب امتداد لـ [`Pen`](../../aspose.psd/pen/) و Pen.
 
 ```csharp
 public static class PenExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | يحول ملف[`Pen`](../../aspose.psd/pen/) الىPen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | يحوّل [`Pen`](../../aspose.psd/pen/) إلى Pen. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.IsMonochromatic
-second_title: Aspose.PSD لمرجع .NET API
-description: AddNoiseSmartFilter ملكية. الحصول على أو تحديد قيمة أحادية اللون.
+title: "AddNoiseSmartFilter.IsMonochromatic"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AddNoiseSmartFilter. يحصل على أو يضبط قيمة أحادية اللون"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.IsMonochromatic property
 
-الحصول على أو تحديد قيمة أحادية اللون.
+يحصل أو يضبط قيمة أحادية اللون.
 
 ```csharp
 public bool IsMonochromatic { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AddNoiseSmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

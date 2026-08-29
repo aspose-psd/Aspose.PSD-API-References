@@ -1,27 +1,28 @@
 ---
-title: IGradientColorPoint.MedianPointLocation
-second_title: Aspose.PSD لمرجع .NET API
-description: IGradientColorPoint ملكية. الحصول على أو تحديد موقع النقطة الوسيط.
+title: "IGradientColorPoint.MedianPointLocation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IGradientColorPoint. يحصل أو يعيّن موقع النقطة المتوسطة. نطاق القيمة 04096"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint.MedianPointLocation property
 
-الحصول على أو تحديد موقع النقطة الوسيط.
+يحصل أو يعيّن موقع نقطة الوسط. نطاق القيمة 0-4096.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-موقع النقطة الوسيط .
+موقع النقطة المتوسطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGradientColorPoint](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../igradientcolorpoint/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

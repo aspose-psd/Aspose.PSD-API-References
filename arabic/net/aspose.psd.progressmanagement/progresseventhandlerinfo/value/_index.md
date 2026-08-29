@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: ProgressEventHandlerInfo ملكية. يحصل على قيمة التقدم الحالية .
+title: "ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ProgressEventHandlerInfo. يحصل على قيمة التقدم الحالية"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Value property
 
-يحصل على قيمة التقدم الحالية .
+يحصل على قيمة التقدم الحالية.
 
 ```csharp
 public int Value { get; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة التقدم .
+قيمة التقدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProgressEventHandlerInfo](../)
-* مساحة الاسم [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

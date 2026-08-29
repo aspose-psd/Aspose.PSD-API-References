@@ -1,35 +1,36 @@
 ---
-title: PattResourceData.SetPattern
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResourceData طريقة. يحدد النمط .
+title: "PattResourceData.SetPattern"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PattResourceData. تعيين مخزن بكسل النمط وحجم الهدف، وتحديث Width / Height، وتخزين البيانات للحفظ باستخدام وضع الضغط الافتراضي 0"
 type: docs
 weight: 110
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/
 ---
+{{< psd/tize >}}
 ## PattResourceData.SetPattern method
 
-يحدد النمط .
+يقوم بتعيين مخزن بكسل النمط وحجم الهدف، ويحدّث [`Width`](../width/) / [`Height`](../height/)، ويخزن البيانات للحفظ باستخدام وضع الضغط الافتراضي (0).
 
 ```csharp
 public void SetPattern(int[] pixels, Rectangle bounds)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixels | Int32[] | البكسل. |
-| bounds | Rectangle | الحدود. |
+| بكسلات | Int32[] | بكسلات 32‑بت بتنسيق `0xAARRGGBB`. |
+| الحدود | Rectangle | حدود البكسل للنمط. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون طول مصفوفة البكسل مساويًا لمنطقة الحدود |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون طول مصفوفة البكسلات مساويًا لمساحة الحدود. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PattResourceData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

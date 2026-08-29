@@ -1,30 +1,31 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits تعداد. وحدة دقة Tiff Enum
+title: "Enum TiffResolutionUnits"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. تعداد وحدة دقة Tiff"
 type: docs
-weight: 4150
+weight: 4620
 url: /ar/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-وحدة دقة Tiff Enum
+تعداد وحدة دقة Tiff
 
 ```csharp
 public enum TiffResolutionUnits : ushort
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `1` | لا توجد وحدات ذات معنى . |
-| Inch | `2` | نظام اللغة الإنجليزية. |
-| Centimeter | `3` | النظام المتري . |
+| None | `1` | لا توجد وحدات ذات معنى. |
+| Inch | `2` | النظام الإنجليزي. |
+| Centimeter | `3` | النظام المتري. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

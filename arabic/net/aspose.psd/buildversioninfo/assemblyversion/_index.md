@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: BuildVersionInfo مجال. إصدار التجميع.
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل BuildVersionInfo. إصدار التجميع"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/buildversioninfo/assemblyversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.AssemblyVersion field
 
 إصدار التجميع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd/buildversioninfo/assemblyversion/
 public static readonly string AssemblyVersion;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BuildVersionInfo](../)
-* مساحة الاسم [Aspose.PSD](../../buildversioninfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

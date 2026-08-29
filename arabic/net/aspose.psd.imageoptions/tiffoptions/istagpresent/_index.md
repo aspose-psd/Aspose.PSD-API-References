@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions طريقة. لتحديد ما إذا كانت العلامة موجودة في الخيارات أم لا.
+title: "TiffOptions.IsTagPresent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة TiffOptions. تحدد ما إذا كان الوسم موجودًا في الخيارات أم لا"
 type: docs
-weight: 730
+weight: 740
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTagPresent method
 
-لتحديد ما إذا كانت العلامة موجودة في الخيارات أم لا.
+يحدد ما إذا كانت العلامة موجودة في الخيارات أم لا.
 
 ```csharp
 public bool IsTagPresent(TiffTags tag)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tag | TiffTags | معرف العلامة للتحقق. |
+| علامة | TiffTags | معرف الوسم للتحقق منه. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كانت العلامة موجودة ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الوسم موجودًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

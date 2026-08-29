@@ -1,32 +1,33 @@
 ---
-title: IPartialArgb64PixelLoader.Process64
-second_title: Aspose.PSD لمرجع .NET API
-description: IPartialArgb64PixelLoader طريقة. يعالج وحدات البكسل المحملة .
+title: "IPartialArgb64PixelLoader.Process64"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IPartialArgb64PixelLoader. تعالج البكسلات المحمّلة."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/ipartialargb64pixelloader/process64/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader.Process64 method
 
-يعالج وحدات البكسل المحملة .
+يعالج البكسلات المحمّلة.
 
 ```csharp
 public void Process64(Rectangle pixelsRectangle, long[] pixels, Point start, Point end)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pixelsRectangle | Rectangle | مستطيل البكسل. |
-| pixels | Int64[] | 64 بت ARGB بكسل. |
-| start | Point | نقطة البداية بكسل. إذا لم يكن يساوي (يسار ، أعلى) مما يعني أنه ليس مستطيلًا كاملاً لدينا. |
-| end | Point | نقطة بكسل النهاية. إذا لم يكن يساوي (يمينًا ، أسفل) مما يعني أنه ليس مستطيلًا كاملاً لدينا. |
+| pixelsRectangle | Rectangle | مستطيل البكسلات. |
+| بكسلات | Int64[] | بيكسلات ARGB 64-بت. |
+| البداية | نقطة | نقطة بداية البكسلات. إذا لم تكن مساوية لـ (left,top) فهذا يعني أنها ليست المستطيل الكامل المتاح. |
+| النهاية | نقطة | نقطة نهاية البكسلات. إذا لم تكن مساوية لـ (right,bottom) فهذا يعني أنها ليست المستطيل الكامل المتاح. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb64PixelLoader](../)
-* مساحة الاسم [Aspose.PSD](../../ipartialargb64pixelloader/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

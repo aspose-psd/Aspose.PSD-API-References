@@ -1,23 +1,24 @@
 ---
-title: XmpMeta.AdobeXmpToolkit
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpMeta ملكية. الحصول على إصدار مجموعة أدوات Adobe Xmp أو تعيينه.
+title: "XmpMeta.AdobeXmpToolkit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpMeta. تحصل أو تعين إصدار مجموعة أدوات Adobe Xmp"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp/xmpmeta/adobexmptoolkit/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AdobeXmpToolkit property
 
-الحصول على إصدار مجموعة أدوات Adobe Xmp أو تعيينه.
+يحصل أو يضبط إصدار مجموعة أدوات Adobe Xmp.
 
 ```csharp
 public string AdobeXmpToolkit { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpMeta](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmpmeta/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

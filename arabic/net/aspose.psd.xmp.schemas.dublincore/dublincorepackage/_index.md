@@ -1,66 +1,67 @@
 ---
-title: Class DublinCorePackage
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage فصل. يمثل مخطط النواة العامة .
+title: "الفئة DublinCorePackage"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage. تمثل مخطط Dublin Core"
 type: docs
-weight: 5780
+weight: 6280
 url: /ar/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage class
 
-يمثل مخطط النواة العامة .
+يمثل مخطط Dublic Core.
 
 ```csharp
 public sealed class DublinCorePackage : XmpPackage
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DublinCorePackage](dublincorepackage/)() | Default_Constructor |
+| [DublinCorePackage](dublincorepackage/)() | الباني الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | يحصل أو يحدد ملفObject بالمفتاح المحدد. |
-| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | الحصول على المفاتيح في حزمة XMP . |
-| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | يحصل على مساحة الاسم URI. |
-| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | يحصل على البادئة . |
-| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | الحصول على مساحة اسم XML . |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | يحصل أو يضبط الكائن بالمفتاح المحدد. |
+| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | يحصل على المفاتيح في حزمة XMP. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | يحصل على URI مساحة الاسم. |
+| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | يحصل على البادئة. |
+| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | يحصل على مساحة اسم XML. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/)(string, string) | يضيف خاصية السلسلة . |
-| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | مسح هذا المثال. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | لتحديد ما إذا كان المفتاح المحدد يحتوي على مفتاح. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | إرجاع عداد يتكرر خلال المجموعة. |
-| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | تحويل قيمة XMP إلى تمثيل XML. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | قم بإزالة القيمة بالمفتاح المحدد. |
-| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor)(string) | يضيف المؤلف . |
-| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor_1)(string[]) | يضيف المؤلف . |
-| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription)(LangAlt) | إضافة الوصف . |
-| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription_1)(string) | إضافة الوصف . |
-| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/#setpublisher)(string) | إضافة الناشر. |
-| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/#setpublisher_1)(string[]) | إضافة الناشر. |
-| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject)(string) | يضيف الموضوع . |
-| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject_1)(string[]) | يضيف الموضوع . |
-| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle)(LangAlt) | يضيف عنوان Dublin Core للغات مختلفة. |
-| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle_1)(string) | يضيف عنوان Dublin Core . |
-| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | يضبط القيمة . |
+| override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/)(string, string) | يضيف خاصية نصية. |
+| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | يمسح هذا الكائن. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | يحدد ما إذا كان المفتاح المحدد يحتوي على المفتاح. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | يعيد عدّادًا يتنقل عبر المجموعة. |
+| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | يحوّل قيمة XMP إلى تمثيل XML. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | إزالة القيمة بالمفتاح المحدد. |
+| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor)(string) | يضيف المؤلف. |
+| [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor_1)(string[]) | يضيف المؤلف. |
+| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription)(LangAlt) | يضيف الوصف. |
+| [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription_1)(string) | يضيف الوصف. |
+| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/#setpublisher)(string) | يضيف الناشر. |
+| [SetPublisher](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/#setpublisher_1)(string[]) | يضيف الناشر. |
+| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject)(string) | يضيف الموضوع. |
+| [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject_1)(string[]) | يضيف الموضوع. |
+| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle)(LangAlt) | يضيف عنوان Dublin Core للغات المختلفة. |
+| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle_1)(string) | يضيف عنوان Dublin Core. |
+| virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | يضبط القيمة. |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | يضبط قيمة نوع XMP. |
 
-### ملاحظات
+## ملاحظات
 
 لمزيد من المعلومات راجع: http://dublincore.org/documents/usageguide/elements.shtml.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../)
 
 

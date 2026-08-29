@@ -1,23 +1,24 @@
 ---
-title: SmartFilter.IsEnabled
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilter ملكية. الحصول على أو تعيين حالة تمكين عامل التصفية الذكي.
+title: "SmartFilter.IsEnabled"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartFilter. يحصل أو يضبط حالة التمكين للفلتر الذكي"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilter.IsEnabled property
 
-الحصول على أو تعيين حالة تمكين عامل التصفية الذكي.
+يحصل أو يضبط حالة التمكين للفلتر الذكي.
 
 ```csharp
 public bool IsEnabled { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilter](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

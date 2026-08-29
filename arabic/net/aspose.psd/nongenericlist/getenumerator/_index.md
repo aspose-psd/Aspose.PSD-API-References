@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.GetEnumerator
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericList طريقة. إرجاع عداد يتكرر خلال مجموعة.
+title: "NonGenericList.GetEnumerator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericList. تُرجع كائن enumerator يتنقل عبر مجموعة"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/nongenericlist/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericList.GetEnumerator method
 
-إرجاع عداد يتكرر خلال مجموعة.
+يرجع مُعدِّدًا يتنقل عبر مجموعة.
 
 ```csharp
 public IEnumerator GetEnumerator()
@@ -16,12 +17,12 @@ public IEnumerator GetEnumerator()
 
 ### قيمة الإرجاع
 
-أنIEnumerator الكائن الذي يمكن استخدامه للتكرار من خلال المجموعة.
+كائن IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericList](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericlist/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

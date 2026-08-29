@@ -1,28 +1,29 @@
 ---
-title: ExifData.ShutterSpeedValue
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين قيمة سرعة الغالق.
+title: "ExifData.ShutterSpeedValue"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط قيمة سرعة الغالق"
 type: docs
 weight: 950
 url: /ar/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ShutterSpeedValue property
 
-الحصول على أو تعيين قيمة سرعة الغالق.
+الحصول أو تعيين قيمة سرعة الغالق.
 
 ```csharp
 public TiffSRational ShutterSpeedValue { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة سرعة الغالق .
+قيمة سرعة الغالق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

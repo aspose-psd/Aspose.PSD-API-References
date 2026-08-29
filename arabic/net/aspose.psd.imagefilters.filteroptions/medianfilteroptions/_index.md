@@ -1,35 +1,36 @@
 ---
-title: Class MedianFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions فصل. مرشح متوسط
+title: "الفئة MedianFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions. مرشح متوسط"
 type: docs
-weight: 4720
+weight: 5190
 url: /ar/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
-مرشح متوسط
+فلتر المتوسط
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | يقوم بتهيئة مثيل جديد لملف`MedianFilterOptions` فئة . |
+| [MedianFilterOptions](medianfilteroptions/)(int) | يُنشئ نسخة جديدة من الفئة `MedianFilterOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | الحصول على الحجم أو تحديده. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | يحصل أو يضبط الحجم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

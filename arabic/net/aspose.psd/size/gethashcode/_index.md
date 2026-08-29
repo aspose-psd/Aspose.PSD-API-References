@@ -1,14 +1,15 @@
 ---
-title: Size.GetHashCode
-second_title: Aspose.PSD لمرجع .NET API
-description: Size طريقة. إرجاع رمز تجزئة لهذا الغرضSizeهيكل .
+title: "Size.GetHashCode"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Size. تُعيد رمز تجزئة لهذه بنية Size"
 type: docs
 weight: 120
 url: /ar/net/aspose.psd/size/gethashcode/
 ---
+{{< psd/tize >}}
 ## Size.GetHashCode method
 
-إرجاع رمز تجزئة لهذا الغرض[`Size`](../)هيكل .
+تُعيد رمز تجزئة لهذه بنية [`Size`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-قيمة عدد صحيح تحدد قيمة تجزئة لهذا الغرض[`Size`](../) بناء.
+قيمة عددية صحيحة تحدد قيمة تجزئة لهذا الهيكل [`Size`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Size](../)
-* مساحة الاسم [Aspose.PSD](../../size/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.FilterEffectMaskData
-second_title: Aspose.PSD لمرجع .NET API
-description: FilterEffectMaskData البناء. يقوم بتهيئة مثيل جديد لملفFilterEffectMaskData فئة .
+title: "FilterEffectMaskData.FilterEffectMaskData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ FilterEffectMaskData. يهيئ مثيلاً جديداً من الفئة FilterEffectMaskData"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData constructor
 
-يقوم بتهيئة مثيل جديد لملف[`FilterEffectMaskData`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`FilterEffectMaskData`](../).
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -16,18 +17,18 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
     ChannelInformation sheetMask)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| guid | String | دليل الموارد. |
-| rectangle | Rectangle | مستطيل القنوات. |
-| pixelsDepth | Int32 | عمق البكسل. |
-| maxChannels | Int32 | أقصى قيمة للقنوات. |
+| guid | String | معرف المورد guid. |
+| مستطيل | Rectangle | مستطيل القنوات. |
+| pixelsDepth | Int32 | عمق البكسلات. |
+| maxChannels | Int32 | قيمة الحد الأقصى للقنوات. |
 | channels | ChannelInformation[] | القنوات. |
 | userMask | ChannelInformation | قناع المستخدم. |
 | maskRectangle | Rectangle | مستطيل قناع الورقة. |
 | sheetMask | ChannelInformation | قناع الورقة. |
 
-### أمثلة
+## أمثلة
 
 يوضح هذا المثال كيفية الحصول على خصائص مورد FXidResource وتعيينها.
 
@@ -38,7 +39,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -74,12 +75,12 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

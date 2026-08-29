@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.ComponentL
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion2 ملكية. الحصول على أو تعيين المكون L من color
+title: "PhflResourceVersion2.ComponentL"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PhflResourceVersion2. الحصول أو تعيين المكوّن L للون"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentL property
 
-الحصول على أو تعيين المكون L من color
+يحصل أو يعيّن المكوّن L للون
 
 ```csharp
 public short ComponentL { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المكون L .
+المكوّن L.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يتراوح لون L من 0 إلى 10000 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | يجب أن يكون لون L في النطاق من 0 إلى 10000 |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion2](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

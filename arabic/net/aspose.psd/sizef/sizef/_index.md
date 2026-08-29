@@ -1,69 +1,70 @@
 ---
-title: SizeF.SizeF
-second_title: Aspose.PSD لمرجع .NET API
-description: SizeF البناء. يقوم بتهيئة مثيل جديد لملفSizeF هيكل من المحددSizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ SizeF. يهيئ نسخة جديدة من هيكل SizeF من الـ SizeF المحدد."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SizeF`](../) هيكل من المحدد[`SizeF`](../) .
+يهيئ نسخة جديدة من هيكل [`SizeF`](../) من الـ [`SizeF`](../) المحدد.
 
 ```csharp
 public SizeF(SizeF size)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| size | SizeF | ال[`SizeF`](../) التي يتم إنشاء الجديد منها[`SizeF`](../). |
+| size | SizeF | الـ [`SizeF`](../) الذي يُنشأ منه الـ [`SizeF`](../) الجديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SizeF`](../) هيكل من المحدد[`PointF`](../../pointf/) .
+يهيئ نسخة جديدة من هيكل [`SizeF`](../) من الـ [`PointF`](../../pointf/) المحدد.
 
 ```csharp
 public SizeF(PointF point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | PointF | ال[`PointF`](../../pointf/) من خلالها لتهيئة هذا[`SizeF`](../). |
+| point | PointF | الـ [`PointF`](../../pointf/) الذي يُهيئ منه هذا الـ [`SizeF`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`SizeF`](../) هيكل من الأبعاد المحددة.
+يهيئ نسخة جديدة من هيكل [`SizeF`](../) من الأبعاد المحددة.
 
 ```csharp
 public SizeF(float width, float height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Single | مكون العرض الجديد[`SizeF`](../). |
-| height | Single | مكون الارتفاع الجديد[`SizeF`](../). |
+| width | Single | مكوّن العرض للـ [`SizeF`](../) الجديد. |
+| height | Single | مكوّن الارتفاع للـ [`SizeF`](../) الجديد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [SizeF](../)
-* مساحة الاسم [Aspose.PSD](../../sizef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

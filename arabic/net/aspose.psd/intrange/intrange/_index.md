@@ -1,70 +1,71 @@
 ---
-title: IntRange.IntRange
-second_title: Aspose.PSD لمرجع .NET API
-description: IntRange البناء. يقوم بتهيئة مثيل جديد لملفIntRange فئة .
+title: "IntRange.IntRange"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ IntRange. يهيئ نسخة جديدة من الفئة IntRange"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/intrange/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange(int, int) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`IntRange`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`IntRange`](../).
 
 ```csharp
 public IntRange(int start, int count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | البداية. |
-| count | Int32 | العد. |
+| البداية | Int32 | البداية. |
+| العدد | Int32 | العدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntRange](../)
-* مساحة الاسم [Aspose.PSD](../../intrange/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int, int, int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`IntRange`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`IntRange`](../).
 
 ```csharp
 public IntRange(int start, int count, int delta)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | البداية. |
-| count | Int32 | العد. |
-| delta | Int32 | دلتا. |
+| البداية | Int32 | البداية. |
+| العدد | Int32 | العدد. |
+| دلتا | Int32 | دلتا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntRange](../)
-* مساحة الاسم [Aspose.PSD](../../intrange/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int[]) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`IntRange`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`IntRange`](../).
 
 ```csharp
 public IntRange(int[] range)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| range | Int32[] | النطاق. |
+| النطاق | Int32[] | النطاق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IntRange](../)
-* مساحة الاسم [Aspose.PSD](../../intrange/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

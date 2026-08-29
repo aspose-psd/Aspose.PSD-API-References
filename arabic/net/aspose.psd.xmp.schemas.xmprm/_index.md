@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpRm
-second_title: Aspose.PSD لمرجع .NET API
-description: تحتوي مساحة الاسم على فئات وثوابت وطرق مساعدة إدارة الحقوق.
+title: "Aspose.PSD.Xmp.Schemas.XmpRm"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Namespace يحتوي على فئات مساعدة مرتبطة بإدارة الحقوق، بالإضافة إلى الثوابت والطرق. تحدد هذه الخصائص المعلومات المتعلقة بالقيود القانونية المرتبطة بالمورد."
 type: docs
-weight: 590
+weight: 630
 url: /ar/net/aspose.psd.xmp.schemas.xmprm/
 ---
-تحتوي مساحة الاسم على فئات وثوابت وطرق مساعدة إدارة الحقوق.
+{{< psd/tize >}}
+النطاق يحتوي على فئات وثوابت ومناهج مساعدة متعلقة بإدارة الحقوق. تحدد هذه الخصائص المعلومات المتعلقة بالقيود القانونية المرتبطة بالمورد.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [XmpRightsManagementPackage](./xmprightsmanagementpackage/) | يمثل مساحة الاسم لإدارة حقوق XMP. |
+| [XmpRightsManagementPackage](./xmprightsmanagementpackage/) | يمثّل مساحة اسم XMP Rights Management. |
 
 

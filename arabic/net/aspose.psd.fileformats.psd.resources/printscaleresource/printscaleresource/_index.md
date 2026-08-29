@@ -1,23 +1,24 @@
 ---
-title: PrintScaleResource.PrintScaleResource
-second_title: Aspose.PSD لمرجع .NET API
-description: PrintScaleResource البناء. Default_Constructor
+title: "PrintScaleResource.PrintScaleResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ PrintScaleResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/printscaleresource/printscaleresource/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public PrintScaleResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrintScaleResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

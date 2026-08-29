@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: Aspose.PSD لمرجع .NET API
-description: TextFontInfo ملكية. الحصول على اسم عائلة الخط
+title: "TextFontInfo.FamilyName"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TextFontInfo خاصية. يحصل على اسم عائلة الخط"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
-الحصول على اسم عائلة الخط
+يحصل على اسم عائلة الخط
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### Property_Value
+### Property Value
 
 اسم عائلة الخط
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TextFontInfo](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

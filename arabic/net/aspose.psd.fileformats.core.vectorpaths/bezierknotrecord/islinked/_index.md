@@ -1,27 +1,28 @@
 ---
-title: BezierKnotRecord.IsLinked
-second_title: Aspose.PSD لمرجع .NET API
-description: BezierKnotRecord ملكية. الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرتبطًا أم لا.
+title: "BezierKnotRecord.IsLinked"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية BezierKnotRecord. يحصل أو يضبط قيمة تشير إلى ما إذا كانت هذه المثيلة مرتبطة"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsLinked property
 
-الحصول على أو تعيين قيمة تشير إلى ما إذا كان هذا المثيل مرتبطًا أم لا.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان هذا المثيل مرتبطًا.
 
 ```csharp
 public bool IsLinked { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان هذا المثال مرتبطًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه المثيلة مرتبطة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BezierKnotRecord](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

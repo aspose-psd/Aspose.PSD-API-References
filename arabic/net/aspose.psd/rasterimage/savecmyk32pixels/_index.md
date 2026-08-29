@@ -1,29 +1,30 @@
 ---
-title: RasterImage.SaveCmyk32Pixels
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage طريقة. يحفظ البكسل .
+title: "RasterImage.SaveCmyk32Pixels"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterImage. تحفظ البكسلات."
 type: docs
-weight: 510
+weight: 520
 url: /ar/net/aspose.psd/rasterimage/savecmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveCmyk32Pixels method
 
-يحفظ البكسل .
+يحفظ البكسلات.
 
 ```csharp
 public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل الذي سيتم حفظ البكسل فيه. |
-| pixels | Int32[] | يتم تقديم وحدات البكسل CMYK كقيم عدد صحيح 32 بت. |
+| مستطيل | Rectangle | المستطيل لحفظ البكسلات إليه. |
+| بكسلات | Int32[] | بيكسلات CMYK المعروضة كقيم صحيحة 32‑بت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

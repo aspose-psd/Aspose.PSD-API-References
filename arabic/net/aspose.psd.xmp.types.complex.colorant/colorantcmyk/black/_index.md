@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Black
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorantCmyk ملكية. الحصول على أو تعيين قيمة المكون الأسود.
+title: "ColorantCmyk.Black"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorantCmyk. تحصل أو تعين قيمة المكوّن الأسود"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Black property
 
-الحصول على أو تعيين قيمة المكون الأسود.
+يحصل أو يعيّن قيمة المكوّن الأسود.
 
 ```csharp
 public float Black { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة المكون الأسود .
+قيمة المكوّن الأسود.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorantCmyk](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

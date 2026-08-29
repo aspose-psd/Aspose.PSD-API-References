@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Signature
-second_title: Aspose.PSD لمرجع .NET API
-description: TypeToolInfoResource ملكية. يحصل على توقيع مورد الطبقة.
+title: "TypeToolInfoResource.Signature"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TypeToolInfoResource. يحصل على توقيع مورد الطبقة"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/signature/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Signature property
 
 يحصل على توقيع مورد الطبقة.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public override int Signature { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TypeToolInfoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

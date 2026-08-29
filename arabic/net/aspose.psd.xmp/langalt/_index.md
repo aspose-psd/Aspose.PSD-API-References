@@ -1,38 +1,39 @@
 ---
-title: Class LangAlt
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Xmp.LangAlt فصل. يمثل لغة XMP البديلة .
+title: "فئة LangAlt"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "فئة Aspose.PSD.Xmp.LangAlt. تمثل بديل لغة XMP"
 type: docs
-weight: 5760
+weight: 6260
 url: /ar/net/aspose.psd.xmp/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt class
 
-يمثل لغة XMP البديلة .
+يمثل بديل لغة XMP.
 
 ```csharp
 public class LangAlt : IXmlValue
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LangAlt](langalt/#constructor)() | يقوم بتهيئة مثيل جديد لملف`LangAlt` فئة . |
-| [LangAlt](langalt/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`LangAlt` فئة . |
+| [LangAlt](langalt/#constructor)() | يُهيئ مثيلاً جديداً للفئة `LangAlt`. |
+| [LangAlt](langalt/#constructor_1)(string) | يُهيئ مثيلاً جديداً للفئة `LangAlt`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage/)(string, string) | يضيف اللغة . |
-| [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | تحويل قيمة XMP إلى تمثيل XML. |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage/)(string, string) | يضيف اللغة. |
+| [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | يحوّل قيمة XMP إلى تمثيل XML. |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | إرجاع String تمثل هذا المثيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IXmlValue](../ixmlvalue/)
-* مساحة الاسم [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Aspose.PSD لمرجع .NET API
-description: VogkResource ملكية. الحصول على أو تعيين إعدادات أصل الشكل.
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VogkResource. تحصل أو تعين إعدادات أصل الشكل"
 type: docs
-weight: 50
+weight: 30
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
-الحصول على أو تعيين إعدادات أصل الشكل.
+يحصل أو يضبط إعدادات أصل الشكل.
 
 ```csharp
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### أمثلة
+## أمثلة
 
 يوضح المثال التالي دعم مورد VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // التحرير
+    // تحرير
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,11 +71,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

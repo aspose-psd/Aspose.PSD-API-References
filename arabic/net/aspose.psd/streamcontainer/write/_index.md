@@ -1,49 +1,50 @@
 ---
-title: StreamContainer.Write
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer طريقة. يكتب كل وحدات البايت المحددة في الدفق.
+title: "StreamContainer.Write"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة StreamContainer. تكتب جميع البايتات المحددة إلى التدفق"
 type: docs
 weight: 170
 url: /ar/net/aspose.psd/streamcontainer/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[]) {#write}
 
-يكتب كل وحدات البايت المحددة في الدفق.
+يكتب جميع البايتات المحددة إلى التدفق.
 
 ```csharp
 public virtual void Write(byte[] bytes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bytes | Byte[] | بايت للكتابة. |
+| بايت | Byte[] | البايتات للكتابة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[], int, int) {#write_1}
 
-يكتب تسلسلًا من البايتات إلى الدفق الحالي ويقدم الموضع الحالي ضمن هذا الدفق بعدد البايتات المكتوبة.
+يكتب تسلسلًا من البايتات إلى التدفق الحالي ويتقدم بالموقع الحالي داخل هذا التدفق بعدد البايتات المكتوبة.
 
 ```csharp
 public virtual void Write(byte[] buffer, int offset, int count)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| buffer | Byte[] | مصفوفة من البايت. هذه الطريقة تنسخ*count* بايت من*buffer* للتيار الحالي. |
-| offset | Int32 | إزاحة البايت الصفري في*buffer*لبدء نسخ البايت إلى الدفق الحالي. |
-| count | Int32 | عدد البايتات المراد كتابتها في الدفق الحالي. |
+| المخزن المؤقت | Byte[] | مصفوفة من البايتات. تنسخ هذه الطريقة *count* بايت من *buffer* إلى التدفق الحالي. |
+| offset | Int32 | الإزاحة الصفرية للبايت في *buffer* التي يبدأ عندها نسخ البايتات إلى التدفق الحالي. |
+| العدد | Int32 | عدد البايتات التي ستُكتب إلى التدفق الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

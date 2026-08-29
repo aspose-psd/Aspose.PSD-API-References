@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginTypePresent
-second_title: Aspose.PSD لمرجع .NET API
-description: VectorShapeOriginSettings ملكية. الحصول على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على خاصية نوع الأصل.
+title: "VectorShapeOriginSettings.IsOriginTypePresent"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية VectorShapeOriginSettings. يحصل على قيمة تشير إلى ما إذا كانت هذه النسخة تحتوي على خاصية نوع الأصل"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginTypePresent property
 
-الحصول على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على خاصية نوع الأصل.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمتلك خاصية نوع الأصل.
 
 ```csharp
 public bool IsOriginTypePresent { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان لهذا المثال خاصية نوع الأصل ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كانت هذه النسخة تحتوي على خاصية نوع الأصل؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorShapeOriginSettings](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

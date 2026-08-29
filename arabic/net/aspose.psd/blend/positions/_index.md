@@ -1,27 +1,28 @@
 ---
-title: Blend.Positions
-second_title: Aspose.PSD لمرجع .NET API
-description: Blend ملكية. الحصول على أو تعيين مجموعة مواضع المزج للتدرج اللوني.
+title: "Blend.Positions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Blend خاصية. يحصل أو يحدد مصفوفة مواضع الدمج للتدرج"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd/blend/positions/
 ---
+{{< psd/tize >}}
 ## Blend.Positions property
 
-الحصول على أو تعيين مجموعة مواضع المزج للتدرج اللوني.
+يحصل أو يعيّن مصفوفة مواضع المزج للتدرج.
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-مصفوفة مواضع المزج التي تحدد النسب المئوية للمسافة على طول خط التدرج.
+مصفوفة مواضع الدمج التي تحدد نسب المسافة على طول خط التدرج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Blend](../)
-* مساحة الاسم [Aspose.PSD](../../blend/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

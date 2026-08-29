@@ -1,23 +1,24 @@
 ---
-title: JFIFData.YDensity
-second_title: Aspose.PSD لمرجع .NET API
-description: JFIFData ملكية. الحصول على أو تحديد كثافة y .
+title: "JFIFData.YDensity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JFIFData. تحصل أو تعين كثافة y"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.fileformats.jpeg/jfifdata/ydensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.YDensity property
 
-الحصول على أو تحديد كثافة y .
+يحصل أو يضبط كثافة y.
 
 ```csharp
 public short YDensity { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JFIFData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

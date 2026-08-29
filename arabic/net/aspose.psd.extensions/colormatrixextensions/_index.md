@@ -1,28 +1,29 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.Extensions.ColorMatrixExtensions فصل. ملفColorMatrix طرق التمديد .
+title: "الفئة ColorMatrixExtensions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.Extensions.ColorMatrixExtensions. طرق امتداد ColorMatrix"
 type: docs
-weight: 1070
+weight: 1080
 url: /ar/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-ملف[`ColorMatrix`](../../aspose.psd/colormatrix/) طرق التمديد .
+طرق امتداد [`ColorMatrix`](../../aspose.psd/colormatrix/)
 
 ```csharp
 public static class ColorMatrixExtensions
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | يحول ملف[`ColorMatrix`](../../aspose.psd/colormatrix/) الىColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | يقوم بتحويل الـ [`ColorMatrix`](../../aspose.psd/colormatrix/) إلى الـ ColorMatrix. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

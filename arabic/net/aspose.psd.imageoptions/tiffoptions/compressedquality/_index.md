@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.CompressedQuality
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على جودة الصورة المضغوطة أو تعيينها. يستخدم مع ضغط Jpeg .
+title: "TiffOptions.CompressedQuality"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "TiffOptions خاصية. يحصل أو يحدد جودة الصورة المضغوطة. يُستخدم مع ضغط Jpeg"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/compressedquality/
 ---
+{{< psd/tize >}}
 ## TiffOptions.CompressedQuality property
 
-الحصول على جودة الصورة المضغوطة أو تعيينها. يستخدم مع ضغط Jpeg .
+يحصل أو يعيّن جودة الصورة المضغوطة. يُستخدم مع ضغط Jpeg.
 
 ```csharp
 public int CompressedQuality { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

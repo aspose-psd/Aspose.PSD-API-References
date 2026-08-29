@@ -1,34 +1,35 @@
 ---
-title: Pen.LineJoin
-second_title: Aspose.PSD لمرجع .NET API
-description: Pen ملكية. الحصول على أو تحديد نمط الصلة لنهايات سطرين متتاليين مرسومين بهذاPen .
+title: "Pen.LineJoin"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Pen. تحصل أو تعيّن نمط الوصل لنهايات خطين متتاليين مرسومين بهذا Pen"
 type: docs
 weight: 130
 url: /ar/net/aspose.psd/pen/linejoin/
 ---
+{{< psd/tize >}}
 ## Pen.LineJoin property
 
-الحصول على أو تحديد نمط الصلة لنهايات سطرين متتاليين مرسومين بهذا[`Pen`](../) .
+تحصل أو تعيّن نمط الوصل لنهايات خطين متتاليين مرسومين بهذا [`Pen`](../).
 
 ```csharp
 public LineJoin LineJoin { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-أ`LineJoin` الذي يمثل نمط الصلة لنهايات سطرين متتاليين مرسومين بهذا[`Pen`](../).
+`LineJoin` يمثل نمط الوصل لنهايات خطين متتاليين مرسومين بهذا [`Pen`](../).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | ال`LineJoin` تم تعيين الخاصية على ثابت[`Pen`](../) ، مثل تلك التي تم إرجاعها بواسطة[`Pen`](../) فصل. |
+| ArgumentException | خاصية `LineJoin` تُعيّن على [`Pen`](../) غير قابل للتغيير، مثل تلك التي تُرجعها فئة [`Pen`](../). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* مساحة الاسم [Aspose.PSD](../../pen/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

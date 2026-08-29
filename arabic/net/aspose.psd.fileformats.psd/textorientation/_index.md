@@ -1,29 +1,30 @@
 ---
-title: Enum TextOrientation
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.TextOrientation تعداد. تعداد وضع اتجاه النص.
+title: "التعداد TextOrientation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "التعداد Aspose.PSD.FileFormats.Psd.TextOrientation. تعداد وضعية توجيه النص"
 type: docs
-weight: 4010
+weight: 4480
 url: /ar/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-تعداد وضع اتجاه النص.
+تعداد لوضع توجيه النص.
 
 ```csharp
 public enum TextOrientation
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Horizontal | `0` | اتجاه النص الأفقي . |
-| Vertical | `2` | اتجاه النص العمودي . |
+| Horizontal | `0` | توجيه النص الأفقي. |
+| Vertical | `2` | توجيه النص العمودي. |
 
-### أمثلة
+## أمثلة
 
-يوضح التعليمة البرمجية التالية القدرة على تحرير خاصية TextOrientation الجديدة. لا يؤثر هذا على العرض في الوقت الحالي ، ولكنه يسمح لك فقط بتحرير قيمة الخاصية.
+الكود التالي يوضح القدرة على تعديل خاصية TextOrientation الجديدة. هذا لا يؤثر على العرض في الوقت الحالي، بل يسمح فقط بتعديل قيمة الخاصية.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Vertical)
     {
-        // القراءة الصحيحة
+        // قراءة صحيحة
     }
     else
     {
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Horizontal)
     {
-        // القراءة الصحيحة
+        // قراءة صحيحة
     }
     else
     {
@@ -63,9 +64,9 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

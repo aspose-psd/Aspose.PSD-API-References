@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على ارتفاع GPS المستخدم كارتفاع مرجعي أو تعيينه.
+title: "ExifData.GPSAltitudeRef"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط ارتفاع GPS المستخدم كارتفاع مرجعي"
 type: docs
 weight: 370
 url: /ar/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
-الحصول على ارتفاع GPS المستخدم كارتفاع مرجعي أو تعيينه.
+يحصل أو يضبط ارتفاع GPS المستخدم كارتفاع مرجعي.
 
 ```csharp
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-ارتفاع نظام تحديد المواقع العالمي (GPS) المستخدم كارتفاع مرجعي.
+ارتفاع GPS المستخدم كارتفاع مرجعي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.Add
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackageBaseCollection طريقة. إضافة مثيل جديد لـXmpPackage .
+title: "XmpPackageBaseCollection.Add"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackageBaseCollection. تُضيف نسخة جديدة من XmpPackage"
 type: docs
 weight: 30
 url: /ar/net/aspose.psd.xmp/xmppackagebasecollection/add/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Add method
 
-إضافة مثيل جديد لـ[`XmpPackage`](../../xmppackage/) .
+يضيف نسخة جديدة من [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public void Add(XmpPackage package)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| package | XmpPackage | حزمة XMP المراد إضافتها. |
+| حزمة | XmpPackage | حزمة XMP المراد إضافتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

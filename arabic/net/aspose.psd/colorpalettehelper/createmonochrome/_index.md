@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.CreateMonochrome
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPaletteHelper طريقة. ينشئ لوح ألوان أحادي اللون يحتوي على لونين فقط.
+title: "ColorPaletteHelper.CreateMonochrome"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorPaletteHelper. تنشئ لوحة ألوان أحادية اللون تحتوي على لونين فقط."
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/colorpalettehelper/createmonochrome/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.CreateMonochrome method
 
-ينشئ لوح ألوان أحادي اللون يحتوي على لونين فقط.
+ينشئ لوحة ألوان أحادية اللون تحتوي على لونين فقط.
 
 ```csharp
 public static IColorPalette CreateMonochrome()
@@ -18,11 +19,11 @@ public static IColorPalette CreateMonochrome()
 
 لوحة ألوان للصور أحادية اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalettehelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

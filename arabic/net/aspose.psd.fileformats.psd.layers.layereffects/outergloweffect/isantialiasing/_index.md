@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsAntiAliasing
-second_title: Aspose.PSD لمرجع .NET API
-description: OuterGlowEffect ملكية. الحصول على أو تعيين تأثير AntiAliasing الممكّن
+title: "OuterGlowEffect.IsAntiAliasing"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية OuterGlowEffect. يحصل على أو يضبط تأثير مكافحة التعرج الممكّن"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsAntiAliasing property
 
-الحصول على أو تعيين تأثير AntiAliasing الممكّن
+يحصل أو يعيّن تأثير AntiAliasing الممكّن
 
 ```csharp
 public bool IsAntiAliasing { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-المسافة .
+المسافة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OuterGlowEffect](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

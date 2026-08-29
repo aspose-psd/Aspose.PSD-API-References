@@ -1,11 +1,12 @@
 ---
-title: RectangleF.Offset
-second_title: Aspose.PSD لمرجع .NET API
-description: RectangleF طريقة. يضبط موقع هذا المستطيل بالمقدار المحدد.
+title: "RectangleF.Offset"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RectangleF. تُعدِّل موقع هذا المستطيل بالمقدار المحدد."
 type: docs
 weight: 240
 url: /ar/net/aspose.psd/rectanglef/offset/
 ---
+{{< psd/tize >}}
 ## Offset(PointF) {#offset}
 
 يضبط موقع هذا المستطيل بالمقدار المحدد.
@@ -14,16 +15,16 @@ url: /ar/net/aspose.psd/rectanglef/offset/
 public void Offset(PointF pos)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pos | PointF | المبلغ لتعويض الموقع. |
+| pos | PointF | المقدار لإزاحة الموقع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,15 +36,15 @@ public void Offset(PointF pos)
 public void Offset(float x, float y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Single | مقدار تعويض الموقع أفقيًا. |
-| y | Single | مقدار إزاحة الموقع عموديًا. |
+| x | Single | المقدار لإزاحة الموقع أفقياً. |
+| y | Single | المقدار لإزاحة الموقع عمودياً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RectangleF](../)
-* مساحة الاسم [Aspose.PSD](../../rectanglef/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

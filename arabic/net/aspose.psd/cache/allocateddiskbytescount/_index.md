@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: Cache ملكية. الحصول على عدد بايتات القرص المخصصة .
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Cache. تحصل على عدد البايتات المخصصة على القرص"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
-الحصول على عدد بايتات القرص المخصصة .
+يحصل على عدد البايتات المخصصة للقرص.
 
 ```csharp
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد بايتات القرص المخصصة .
+عدد البايتات المخصصة على القرص.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Cache](../)
-* مساحة الاسم [Aspose.PSD](../../cache/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

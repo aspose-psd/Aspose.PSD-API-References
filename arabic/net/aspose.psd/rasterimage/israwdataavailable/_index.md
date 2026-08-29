@@ -1,27 +1,28 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterImage ملكية. يحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الأولية متاحًا.
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية RasterImage. تحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الخام متاحًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
-يحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الأولية متاحًا.
+يحصل على قيمة تشير إلى ما إذا كان تحميل البيانات الخام متاحًا.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان تحميل البيانات الخام هذا متاحًا ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان تحميل البيانات الخام متاحًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImage](../)
-* مساحة الاسم [Aspose.PSD](../../rasterimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

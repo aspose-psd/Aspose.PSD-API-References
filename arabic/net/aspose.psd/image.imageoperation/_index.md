@@ -1,11 +1,12 @@
 ---
-title: Enum Image.ImageOperation
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageImageOperation تعداد. عمليات الصورة
+title: "تعداد Image.ImageOperation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.ImageImageOperation تعداد. عمليات الصورة"
 type: docs
-weight: 4600
+weight: 5070
 url: /ar/net/aspose.psd/image.imageoperation/
 ---
+{{< psd/tize >}}
 ## Image.ImageOperation enumeration
 
 عمليات الصورة
@@ -14,31 +15,31 @@ url: /ar/net/aspose.psd/image.imageoperation/
 protected enum ImageOperation
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Resize | `0` | تغيير حجم العملية |
-| ResizeWidthProportionally | `1` | تغيير حجم العرض نسبيًا |
-| ResizeHeightProportionally | `2` | تغيير حجم الارتفاع نسبيًا |
-| Filter | `3` | عملية التصفية |
-| LoadPixels | `4` | تحميل عملية البكسل |
-| SavePixels | `5` | عملية حفظ البكسل |
-| Crop | `6` | عملية المحاصيل |
-| BinarizeFixed | `7` | عملية ثابتة ثنائية الحجم |
-| BinarizeOtsu | `8` | عملية otsu ثنائية الحجم |
-| BinarizeBradley | `9` | عملية برادلي ثنائية الحجم |
-| Grayscale | `10` | عملية التدرج الرمادي |
-| AdjustBrightness | `11` | ضبط عملية السطوع |
-| AdjustContrast | `12` | ضبط عملية التباين |
-| AdjustGamma | `13` | ضبط عملية جاما |
-| Rotate | `14` | تدوير العملية |
-| RotateFlip | `15` | تدوير الوجه |
+| Resize | `0` | عملية تغيير الحجم |
+| ResizeWidthProportionally | `1` | عملية تغيير عرض الصورة بالتناسب |
+| ResizeHeightProportionally | `2` | عملية تغيير ارتفاع الصورة بالتناسب |
+| Filter | `3` | عملية الفلتر |
+| LoadPixels | `4` | عملية تحميل البكسلات |
+| SavePixels | `5` | عملية حفظ البكسلات |
+| Crop | `6` | عملية القص |
+| BinarizeFixed | `7` | عملية تحويل ثنائي ثابت |
+| BinarizeOtsu | `8` | عملية تحويل ثنائي أوتسو |
+| BinarizeBradley | `9` | عملية تحويل ثنائي برادلي |
+| Grayscale | `10` | عملية تحويل إلى تدرج الرمادي |
+| AdjustBrightness | `11` | عملية تعديل السطوع |
+| AdjustContrast | `12` | عملية تعديل التباين |
+| AdjustGamma | `13` | عملية تعديل جاما |
+| Rotate | `14` | عملية الدوران |
+| RotateFlip | `15` | عملية تدوير وعكس |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Image](../image/)
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

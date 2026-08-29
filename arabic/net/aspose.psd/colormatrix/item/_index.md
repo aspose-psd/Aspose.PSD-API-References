@@ -1,32 +1,33 @@
 ---
-title: ColorMatrix.Item
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorMatrix ملكية. الحصول على أو تعيين العنصر في الصف والعمود المحددين في ملفColorMatrix .
+title: "ColorMatrix.Item"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ColorMatrix. يحصل أو يعيّن العنصر في الصف والعمود المحددين في ColorMatrix"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/colormatrix/item/
 ---
+{{< psd/tize >}}
 ## ColorMatrix indexer
 
-الحصول على أو تعيين العنصر في الصف والعمود المحددين في ملف[`ColorMatrix`](../) .
+يحصل أو يعيّن العنصر في الصف والعمود المحددين في [`ColorMatrix`](../).
 
 ```csharp
 public float this[int row, int column] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| row | رقم الصف. |
-| column | رقم العمود. |
+| صف | رقم الصف. |
+| عمود | رقم العمود. |
 
 ### قيمة الإرجاع
 
-العنصر الموجود في الصف والعمود المحددين.
+العنصر في الصف والعمود المحددين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ColorMatrix](../)
-* مساحة الاسم [Aspose.PSD](../../colormatrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpInteger.Value
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpInteger ملكية. الحصول على القيمة أو تعيينها.
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpInteger. يحصل أو يضبط القيمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
-الحصول على القيمة أو تعيينها.
+يحصل أو يعيّن القيمة.
 
 ```csharp
 public long Value { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القيمة .
+القيمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpInteger](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

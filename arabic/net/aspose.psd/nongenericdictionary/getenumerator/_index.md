@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.PSD لمرجع .NET API
-description: NonGenericDictionary طريقة. يحصل على العداد .
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة NonGenericDictionary. تحصل على المُعدِّد"
 type: docs
 weight: 140
 url: /ar/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
-يحصل على العداد .
+يحصل على المُعدِّد.
 
 ```csharp
 public IDictionaryEnumerator GetEnumerator()
@@ -16,12 +17,12 @@ public IDictionaryEnumerator GetEnumerator()
 
 ### قيمة الإرجاع
 
-العداد القاموس
+مُعدِّد القاموس
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NonGenericDictionary](../)
-* مساحة الاسم [Aspose.PSD](../../nongenericdictionary/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

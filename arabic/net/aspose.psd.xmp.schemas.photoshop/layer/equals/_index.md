@@ -1,55 +1,56 @@
 ---
-title: Layer.Equals
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer طريقة. تحديد ما إذا كان الملف المحددObject  يساوي هذا المثال.
+title: "Layer.Equals"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Layer. تحدد ما إذا كان Object المحدد يساوي هذه المثيلة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/layer/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object) {#equals_1}
 
-تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال.
+يحدد ما إذا كان الكائن المحدد يساوي هذا المثيل.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الObject للمقارنة مع هذه الحالة. |
+| obj | Object | ال Object للمقارنة مع هذه المثيلة. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا كان المحددObject يساوي هذا المثال ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا كان الكائن المحدد يساوي هذه المثيلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(Layer) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(Layer other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | Layer | كائن للمقارنة مع هذا الكائن. |
+| other | طبقة | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي*other* معامل؛ وإلا ، خطأ .
+صحيح إذا كان الكائن الحالي مساويًا للمعامل *other*؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

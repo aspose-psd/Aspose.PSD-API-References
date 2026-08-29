@@ -1,11 +1,12 @@
 ---
-title: Namespaces.Xml
-second_title: Aspose.PSD لمرجع .NET API
-description: Namespaces مجال. مساحة الاسم Xml.
+title: "Namespaces.Xml"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Namespaces. مساحة اسم Xml"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp/namespaces/xml/
 ---
+{{< psd/tize >}}
 ## Namespaces.Xml field
 
 مساحة الاسم Xml.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.xmp/namespaces/xml/
 public const string Xml;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Namespaces](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../namespaces/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

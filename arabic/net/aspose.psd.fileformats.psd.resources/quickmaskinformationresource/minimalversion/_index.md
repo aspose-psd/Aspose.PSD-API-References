@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.MinimalVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: QuickMaskInformationResource ملكية. يحصل على الحد الأدنى من إصدار PSD المطلوب.
+title: "QuickMaskInformationResource.MinimalVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية QuickMaskInformationResource. يحصل على الحد الأدنى لإصدار PSD المطلوب"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.MinimalVersion property
 
-يحصل على الحد الأدنى من إصدار PSD المطلوب.
+يحصل على الحد الأدنى لإصدار PSD المطلوب.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Property_Value
+### Property Value
 
-الحد الأدنى من إصدار PSD .
+إصدار PSD الأدنى.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [QuickMaskInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

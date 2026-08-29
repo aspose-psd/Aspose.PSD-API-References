@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.DataSize
-second_title: Aspose.PSD لمرجع .NET API
-description: TransparencyIndexResource ملكية. الحصول على حجم بيانات المورد بالبايت.
+title: "TransparencyIndexResource.DataSize"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TransparencyIndexResource. يحصل على حجم بيانات المورد بالبايت"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/datasize/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.DataSize property
 
-الحصول على حجم بيانات المورد بالبايت.
+يحصل على حجم بيانات المورد بالبايت.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Property_Value
+### Property Value
 
 حجم بيانات المورد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransparencyIndexResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

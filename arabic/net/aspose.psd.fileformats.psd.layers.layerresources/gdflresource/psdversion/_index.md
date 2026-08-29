@@ -1,23 +1,24 @@
 ---
-title: GdFlResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: GdFlResource ملكية. يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الطبقة. 0 يشير إلى عدم وجود قيود.
+title: "GdFlResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية GdFlResource. يحصل على الحد الأدنى لإصدار psd المطلوب لمورد الطبقة. 0 يعني لا توجد قيود"
 type: docs
-weight: 130
+weight: 170
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/
 ---
+{{< psd/tize >}}
 ## GdFlResource.PsdVersion property
 
-يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الطبقة. 0 يشير إلى عدم وجود قيود.
+يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الطبقة. 0 يعني عدم وجود قيود.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdFlResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

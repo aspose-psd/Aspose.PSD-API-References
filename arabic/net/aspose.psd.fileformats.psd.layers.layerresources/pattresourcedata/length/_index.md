@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Length
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResourceData ملكية. الحصول على طول النمط .
+title: "PattResourceData.Length"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PattResourceData. تحصل على طول النمط"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Length property
 
-الحصول على طول النمط .
+يحصل على طول النمط.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Property_Value
+### Property Value
 
 طول النمط.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResourceData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

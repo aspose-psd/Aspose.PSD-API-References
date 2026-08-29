@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.UserMaskData
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerMaskDataFull ملكية. الحصول على أو تعيين بيانات قناع المستخدم النقطية لطبقة في ملف PSD. يوجد قناع متجه مقيم في الخاصية MaskData .
+title: "LayerMaskDataFull.UserMaskData"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية LayerMaskDataFull. تحصل أو تعين بيانات القناع النقطي للمستخدم لطبقة في ملف PSD. هناك قناع متجه مُرصّص في خاصية MaskData"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskdata/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.UserMaskData property
 
-الحصول على أو تعيين بيانات قناع المستخدم (النقطية) لطبقة في ملف PSD. (يوجد قناع متجه مقيم في الخاصية MaskData) .
+يحصل أو يضبط بيانات القناع المستخدم (النقطي) لطبقة في ملف PSD. (هناك قناع متجه مرسوم في خاصية MaskData).
 
 ```csharp
 public byte[] UserMaskData { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 بيانات صورة الطبقة في صورة PSD.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerMaskDataFull](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Class BigRectangularFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions فصل. خيارات مرشح مستطيل كبير
+title: "الفئة BigRectangularFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions. خيارات مرشح مستطيل كبير"
 type: docs
-weight: 4650
+weight: 5120
 url: /ar/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions class
 
-خيارات مرشح مستطيل كبير
+خيارات الفلتر المستطيلة الكبيرة
 
 ```csharp
 public class BigRectangularFilterOptions : FilterOptionsBase
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | Default_Constructor |
+| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | الباني الافتراضي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

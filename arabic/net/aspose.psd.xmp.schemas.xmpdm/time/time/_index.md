@@ -1,29 +1,30 @@
 ---
-title: Time.Time
-second_title: Aspose.PSD لمرجع .NET API
-description: Time البناء. يقوم بتهيئة مثيل جديد لملفTime فئة .
+title: "Time.Time"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Time. ينشئ مثيلاً جديداً من الفئة Time"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-يقوم بتهيئة مثيل جديد لملف[`Time`](../) فئة .
+ينشئ مثيلاً جديداً من الفئة [`Time`](../).
 
 ```csharp
 public Time(Rational scale, int value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | scale | Rational | المقياس. |
-| value | Int32 | القيمة. |
+| قيمة | Int32 | القيمة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

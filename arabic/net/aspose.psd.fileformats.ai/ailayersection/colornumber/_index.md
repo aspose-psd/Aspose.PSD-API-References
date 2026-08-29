@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD لمرجع .NET API
-description: AiLayerSection ملكية. الحصول على رقم اللون أو تحديده. 1 هي قيمة اللون المخصصة من خصائص الأحمر والأخضر والأزرق . يحدد إعداد لون الطبقة.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية AiLayerSection. تحصل أو تعين رقم اللون. 1 هو قيمة اللون المخصصة من خصائص الأحمر الأخضر الأزرق. يحدد إعداد لون الطبقة"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-الحصول على رقم اللون أو تحديده. -1 هي قيمة اللون المخصصة من خصائص الأحمر والأخضر والأزرق . يحدد إعداد لون الطبقة.
+يحصل أو يعيّن رقم اللون. القيمة -1 هي قيمة اللون المخصصة من خصائص الأحمر والأخضر والأزرق. يحدد إعداد لون الطبقة.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-رقم اللون .
+رقم اللون.
 
-### أمثلة
+## أمثلة
 
-يوضح المثال التالي دعم الطبقات في ملفات تنسيق AI.
+المثال التالي يوضح دعم الطبقات في ملفات تنسيق AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AiLayerSection](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

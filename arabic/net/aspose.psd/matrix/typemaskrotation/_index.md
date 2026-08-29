@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix مجال. هذا الثابت هو قناع بت لأي من بتات علم الدوران.
+title: "Matrix.TypeMaskRotation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل Matrix. هذا الثابت هو قناع بت لأي من بتات علامة الدوران"
 type: docs
 weight: 250
 url: /ar/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
-هذا الثابت هو قناع بت لأي من بتات علم الدوران.
+هذه الثابت هي قناع بت لأي من بتات flag الدوران.
 
 ```csharp
 public const int TypeMaskRotation;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: CurvesDiscreteManager.SetToDefaultValueInPosition
-second_title: Aspose.PSD لمرجع .NET API
-description: CurvesDiscreteManager طريقة. تعيين القيمة الافتراضية في الموضع.
+title: "CurvesDiscreteManager.SetToDefaultValueInPosition"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة CurvesDiscreteManager. تعيّن إلى القيمة الافتراضية في الموضع"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetToDefaultValueInPosition method
 
-تعيين القيمة الافتراضية في الموضع.
+يضبط إلى القيمة الافتراضية في الموضع.
 
 ```csharp
 public void SetToDefaultValueInPosition(int channelIndex, byte position)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | channelIndex | Int32 | فهرس القناة. |
-| position | Byte | الموقع. |
+| الموضع | بايت | الموضع. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesDiscreteManager](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.BlendingOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. يحصل على خيارات المزج .
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل على خيارات الدمج"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
-يحصل على خيارات المزج .
+يحصل على خيارات الدمج.
 
 ```csharp
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### Property_Value
+### Property Value
 
-خيارات المزج .
+خيارات الدمج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

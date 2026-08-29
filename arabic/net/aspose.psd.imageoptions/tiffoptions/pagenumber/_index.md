@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. الحصول على علامة رقم الصفحة أو تعيينها.
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين وسم رقم الصفحة"
 type: docs
-weight: 300
+weight: 310
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
-الحصول على علامة رقم الصفحة أو تعيينها.
+يحصل أو يعيّن علامة رقم الصفحة.
 
 ```csharp
 public ushort[] PageNumber { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-علامة رقم الصفحة .
+وسم رقم الصفحة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | قيمة |
-| ArgumentOutOfRangeException | value ؛ قيمتان متوقعتان في المصفوفة: PageNumber [0] هو رقم الصفحة ورقم الصفحة [1] هو العدد الإجمالي للصفحات في المستند. |
+| ArgumentOutOfRangeException | القيمة؛ المتوقع وجود قيمتين في المصفوفة: PageNumber[0] هو رقم الصفحة و PageNumber[1] هو إجمالي عدد الصفحات في المستند. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

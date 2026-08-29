@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.Register
-second_title: Aspose.PSD لمرجع .NET API
-description: ImageCreatorsRegistry طريقة. يسجل واصف منشئ الصورة المحدد.
+title: "ImageCreatorsRegistry.Register"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ImageCreatorsRegistry. تسجل وصف منشئ الصورة المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd/imagecreatorsregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.Register method
 
-يسجل واصف منشئ الصورة المحدد.
+يسجّل موصّف منشئ الصورة المحدد.
 
 ```csharp
 public static void Register(IImageCreatorDescriptor imageCreatorDescriptor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| imageCreatorDescriptor | IImageCreatorDescriptor | واصف منشئ الصورة. |
+| imageCreatorDescriptor | IImageCreatorDescriptor | وصف منشئ الصورة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* مساحة الاسم [Aspose.PSD](../../imagecreatorsregistry/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

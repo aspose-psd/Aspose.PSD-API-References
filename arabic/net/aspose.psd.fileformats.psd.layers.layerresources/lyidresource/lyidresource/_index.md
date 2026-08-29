@@ -1,53 +1,54 @@
 ---
-title: LyidResource.LyidResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LyidResource البناء. يقوم بتهيئة مثيل جديد لملفLyidResource فئة .
+title: "LyidResource.LyidResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LyidResource. يهيئ مثيلاً جديداً من فئة LyidResource"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource(int) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LyidResource`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`LyidResource`](../).
 
 ```csharp
 public LyidResource(int id)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| id | Int32 | معرّف الطبقة. |
+| المعرّف | Int32 | معرّف الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LyidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LyidResource(byte[]) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LyidResource`](../) class. بقيمة مخصصة أو غير معروفة
+يهيئ مثيلاً جديداً من الفئة [`LyidResource`](../) بقيمة مخصصة أو غير معروفة.
 
 ```csharp
 public LyidResource(byte[] bytes)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bytes | Byte[] | البايت. |
+| بايت | Byte[] | البايتات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | قيمة مورد lyid غير صالحة |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | قيمة lyid Resource غير صالحة |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LyidResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

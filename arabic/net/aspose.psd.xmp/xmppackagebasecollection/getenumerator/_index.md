@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetEnumerator
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPackageBaseCollection طريقة. إرجاع عداد يتكرر خلال مجموعة.
+title: "XmpPackageBaseCollection.GetEnumerator"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة XmpPackageBaseCollection. إرجاع كائن تعداد يتكرر عبر مجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp/xmppackagebasecollection/getenumerator/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetEnumerator method
 
-إرجاع عداد يتكرر خلال مجموعة.
+يرجع مُعدِّدًا يتنقل عبر مجموعة.
 
 ```csharp
 public IEnumerator GetEnumerator()
@@ -16,12 +17,12 @@ public IEnumerator GetEnumerator()
 
 ### قيمة الإرجاع
 
-أنIEnumerator الكائن الذي يمكن استخدامه للتكرار من خلال المجموعة.
+كائن IEnumerator يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpPackageBaseCollection](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

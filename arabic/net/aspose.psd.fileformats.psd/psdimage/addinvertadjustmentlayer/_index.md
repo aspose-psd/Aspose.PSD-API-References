@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط انعكاس .
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تضيف طبقة تعديل عكسية"
 type: docs
-weight: 360
+weight: 380
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
-يضيف طبقة ضبط انعكاس .
+يضيف طبقة تعديل عكس.
 
 ```csharp
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
@@ -16,11 +17,11 @@ public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 
 ### قيمة الإرجاع
 
-الطبقة المقلوبة التي تم إنشاؤها
+الطبقة العكسية التي تم إنشاؤها
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم InvertAdjustmentLayer وكيفية إضافة InvertAdjustmentLayer.
+الكود التالي يوضح دعم InvertAdjustmentLayer وكيفية إضافة InvertAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -34,11 +35,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

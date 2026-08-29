@@ -1,44 +1,45 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer البناء. يقوم بتهيئة مثيل جديد لملفLayer فئة .
+title: "Layer.Layer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ Layer. يهيئ نسخة جديدة من فئة Layer"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.xmp.schemas.photoshop/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer(string, string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Layer`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Layer`](../).
 
 ```csharp
 public Layer(string layerName, string layerText)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | layerName | String | اسم الطبقة. |
 | layerText | String | نص الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Layer`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`Layer`](../).
 
 ```csharp
 public Layer()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

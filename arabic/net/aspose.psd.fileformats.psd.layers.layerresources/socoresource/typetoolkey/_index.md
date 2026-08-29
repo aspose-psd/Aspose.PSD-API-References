@@ -1,11 +1,12 @@
 ---
-title: SoCoResource.TypeToolKey
-second_title: Aspose.PSD لمرجع .NET API
-description: SoCoResource مجال. مفتاح معلومات أداة النوع.
+title: "SoCoResource.TypeToolKey"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "SoCoResource حقل. مفتاح معلومات أداة النوع"
 type: docs
-weight: 80
+weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoCoResource.TypeToolKey field
 
 مفتاح معلومات أداة النوع.
@@ -14,10 +15,10 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/typet
 public const int TypeToolKey;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SoCoResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

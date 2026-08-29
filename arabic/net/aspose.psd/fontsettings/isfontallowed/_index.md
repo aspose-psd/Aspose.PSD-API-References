@@ -1,30 +1,31 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Aspose.PSD لمرجع .NET API
-description: FontSettings طريقة. تحديد ما إذا كان الخط مسموحًا به اسم الخط المحدد .
+title: "FontSettings.IsFontAllowed"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة FontSettings. تحدد ما إذا كان الخط مسموحًا به لاسم الخط المحدد"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-تحديد ما إذا كان [الخط مسموحًا به] [اسم الخط المحدد] .
+يحدد ما إذا كان [is font allowed] [اسم الخط المحدد].
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا [كان الخط مسموحًا به] [اسم الخط المحدد] ؛ خلاف ذلك،`خطأ شنيع` .
+`true` إذا [is font allowed] [the specified font name]؛ وإلا `false`.
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي القدرة على تقييد الخطوط برمجيًا باستخدام.
+الكود التالي يوضح القدرة على تقييد الخطوط برمجياً باستخدام.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FontSettings](../)
-* مساحة الاسم [Aspose.PSD](../../fontsettings/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: GaussianBlurFilterOptions.GaussianBlurFilterOptions
-second_title: Aspose.PSD لمرجع .NET API
-description: GaussianBlurFilterOptions البناء. يقوم بتهيئة مثيل جديد لملفGaussianBlurFilterOptions فئة .
+title: "GaussianBlurFilterOptions.GaussianBlurFilterOptions"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ GaussianBlurFilterOptions. يهيئ مثلاً جديدًا من فئة GaussianBlurFilterOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions(int, double) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GaussianBlurFilterOptions`](../) فئة .
+يهيئ مثلاً جديدًا من فئة [`GaussianBlurFilterOptions`](../).
 
 ```csharp
 public GaussianBlurFilterOptions(int radius, double sigma)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| radius | Int32 | نصف القطر. |
-| sigma | Double | سيجما. |
+| نصف القطر | Int32 | نصف القطر. |
+| سيغما | Double | سيغما. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussianBlurFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GaussianBlurFilterOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GaussianBlurFilterOptions`](../) class. بالإعدادات الافتراضية .
+يهيئ مثلاً جديدًا من فئة [`GaussianBlurFilterOptions`](../). بإعدادات افتراضية.
 
 ```csharp
 public GaussianBlurFilterOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GaussianBlurFilterOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

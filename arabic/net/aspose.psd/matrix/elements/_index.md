@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PSD لمرجع .NET API
-description: Matrix ملكية. يحصل على مصفوفة من قيم الفاصلة العائمة التي تمثل عناصر هذاMatrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Matrix. تحصل على مصفوفة من القيم العشرية التي تمثل عناصر هذا Matrix."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-يحصل على مصفوفة من قيم الفاصلة العائمة التي تمثل عناصر هذا[`Matrix`](../) .
+تحصل على مصفوفة من القيم العشرية التي تمثل عناصر هذا [`Matrix`](../).
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مصفوفة من قيم الفاصلة العائمة تمثل عناصر هذا[`Matrix`](../).
+مصفوفة من القيم العشرية التي تمثل عناصر هذا [`Matrix`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Matrix](../)
-* مساحة الاسم [Aspose.PSD](../../matrix/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

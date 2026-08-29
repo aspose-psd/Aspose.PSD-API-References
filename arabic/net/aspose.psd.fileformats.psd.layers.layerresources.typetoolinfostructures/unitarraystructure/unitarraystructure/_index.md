@@ -1,20 +1,21 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: Aspose.PSD لمرجع .NET API
-description: UnitArrayStructure البناء. يقوم بتهيئة مثيل جديد لملفUnitArrayStructure فئة .
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ UnitArrayStructure. يهيئ مثيلاً جديداً من الفئة UnitArrayStructure"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-يقوم بتهيئة مثيل جديد لملف[`UnitArrayStructure`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`UnitArrayStructure`](../).
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | keyName | ClassID | اسم المفتاح. |
 | unitType | UnitTypes | نوع الوحدة. |
@@ -22,13 +23,13 @@ public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | يجب ألا تكون القيم خالية |
+| ArgumentNullException | يجب ألا تكون القيم فارغة |
 
-### أمثلة
+## أمثلة
 
-يوضح الكود التالي دعم تواقيع ObAr و UnFl.
+الكود التالي يوضح دعم توقيعات ObAr و UnFl.
 
 ```csharp
 [C#]
@@ -80,12 +81,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

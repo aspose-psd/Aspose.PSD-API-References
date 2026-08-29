@@ -1,67 +1,68 @@
 ---
-title: Graphics.DrawLines
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. يرسم سلسلة من مقاطع الخطوط التي تربط صفيفًا من ملفاتPoint الهياكل .
+title: "Graphics.DrawLines"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم سلسلة من مقاطع الخط التي تربط مصفوفة من هياكل Point"
 type: docs
-weight: 260
+weight: 270
 url: /ar/net/aspose.psd/graphics/drawlines/
 ---
+{{< psd/tize >}}
 ## DrawLines(Pen, Point[]) {#drawlines_1}
 
-يرسم سلسلة من مقاطع الخطوط التي تربط صفيفًا من ملفات[`Point`](../../point/) الهياكل .
+يرسم سلسلة من مقاطع الخط التي تربط مصفوفة من هياكل [`Point`](../../point/).
 
 ```csharp
 public void DrawLines(Pen pen, Point[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون مقاطع الخط وعرضها ونمطها. |
-| points | Point[] | مصفوفة من[`Point`](../../point/) الهياكل التي تمثل نقاط الاتصال. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط لمقاطع الخط. |
+| points | Point[] | مصفوفة من هياكل [`Point`](../../point/) التي تمثل النقاط المراد ربطها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
-| ArgumentException | ال*points* مجموعة تحتوي على أقل من 2 نقطة. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
+| ArgumentException | مصفوفة *points* تحتوي على أقل من نقطتين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLines(Pen, PointF[]) {#drawlines}
 
-يرسم سلسلة من مقاطع الخطوط التي تربط صفيفًا من ملفات[`PointF`](../../pointf/) الهياكل .
+يرسم سلسلة من مقاطع الخط التي تربط مصفوفة من هياكل [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawLines(Pen pen, PointF[] points)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون مقاطع الخط وعرضها ونمطها. |
-| points | PointF[] | مصفوفة من[`PointF`](../../pointf/) الهياكل التي تمثل نقاط الاتصال. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط لمقاطع الخط. |
+| points | PointF[] | مصفوفة من هياكل [`PointF`](../../pointf/) التي تمثل النقاط المراد ربطها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* فارغ. -أو *points* باطل. |
-| ArgumentException | ال*points* مجموعة تحتوي على أقل من 2 نقطة. |
+| ArgumentNullException | *pen* هو null. -or- *points* هو null. |
+| ArgumentException | مصفوفة *points* تحتوي على أقل من نقطتين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

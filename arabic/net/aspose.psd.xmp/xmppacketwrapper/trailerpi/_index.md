@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.TrailerPi
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpPacketWrapper ملكية. يحصل على تعليمات معالجة المقطورة.
+title: "XmpPacketWrapper.TrailerPi"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpPacketWrapper. تحصل على تعليمات المعالجة للملحق"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp/xmppacketwrapper/trailerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.TrailerPi property
 
-يحصل على تعليمات معالجة المقطورة.
+يحصل على تعليمات معالجة الذيل.
 
 ```csharp
 public XmpTrailerPi TrailerPi { get; }
 ```
 
-### Property_Value
+### Property Value
 
-تعليمات معالجة المقطورة .
+تعليمات المعالجة للملحق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* مساحة الاسم [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

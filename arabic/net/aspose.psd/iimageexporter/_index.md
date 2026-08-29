@@ -1,29 +1,30 @@
 ---
-title: Interface IImageExporter
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.IImageExporter واجهه المستخدم. مصدر الصورة. يمكن تصدير البيانات من تنسيق Aspose.PSD الداخلي إلى تنسيق بيانات محدد.
+title: "الواجهة IImageExporter"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "واجهة Aspose.PSD.IImageExporter. مُصدِّر الصور. يمكنه تصدير البيانات من تنسيق Aspose.PSD الداخلي إلى تنسيق بيانات محدد."
 type: docs
-weight: 4430
+weight: 4900
 url: /ar/net/aspose.psd/iimageexporter/
 ---
+{{< psd/tize >}}
 ## IImageExporter interface
 
-مصدر الصورة. يمكن تصدير البيانات من تنسيق Aspose.PSD الداخلي إلى تنسيق بيانات محدد.
+مصدّر image exporter. يمكنه تصدير البيانات من تنسيق Aspose.PSD الداخلي إلى تنسيق بيانات محدد.
 
 ```csharp
 public interface IImageExporter
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | يقوم بتصدير بيانات الصورة المحددة إلى تنسيق بيانات محدد. |
-| [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | يقوم بتصدير بيانات الصورة المحددة إلى تنسيق بيانات محدد. |
+| [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | يصدّر بيانات الصورة المحددة إلى تنسيق البيانات المحدد. |
+| [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | يصدّر بيانات الصورة المحددة إلى تنسيق البيانات المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD](../../aspose.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

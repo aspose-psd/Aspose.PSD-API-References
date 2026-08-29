@@ -1,34 +1,35 @@
 ---
-title: TextLayer.TextColor
-second_title: Aspose.PSD لمرجع .NET API
-description: TextLayer ملكية. يحصل على لون النص.
+title: "TextLayer.TextColor"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TextLayer. يحصل على لون النص"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextColor property
 
-يحصل على لون النص.
+يسترجع لون النص.
 
 ```csharp
 public Color TextColor { get; }
 ```
 
-### Property_Value
+### Property Value
 
-لون النص .
+لون النص.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | خطأ في تحليل بيانات مكون اللون |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | خطأ في تحليل بيانات مكوّن اللون |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

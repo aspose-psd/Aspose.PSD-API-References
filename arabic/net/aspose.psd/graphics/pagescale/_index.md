@@ -1,27 +1,28 @@
 ---
-title: Graphics.PageScale
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics ملكية. الحصول على أو تعيين القياس بين وحدات العالم ووحدات الصفحة لهذا الغرض. PSD.Graphics.
+title: "Graphics.PageScale"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "`خاصية Graphics. تحصل أو تعيّن المقياس بين وحدات العالم ووحدات الصفحة لهذا Aspose.PSD.Graphics`"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd/graphics/pagescale/
 ---
+{{< psd/tize >}}
 ## Graphics.PageScale property
 
-الحصول على أو تعيين القياس بين وحدات العالم ووحدات الصفحة لهذا الغرض. PSD.Graphics.
+يحصل أو يضبط المقياس بين وحدات العالم ووحدات الصفحة لهذا Aspose.PSD.Graphics.
 
 ```csharp
 public float PageScale { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-القياس بين وحدات العالم ووحدات الصفحة لهذا الغرض. PSD.Graphics.
+`المقياس بين وحدات العالم ووحدات الصفحة لهذا Aspose.PSD.Graphics.`
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

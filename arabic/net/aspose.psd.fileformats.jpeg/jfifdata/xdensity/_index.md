@@ -1,23 +1,24 @@
 ---
-title: JFIFData.XDensity
-second_title: Aspose.PSD لمرجع .NET API
-description: JFIFData ملكية. الحصول على أو تحديد كثافة x.
+title: "JFIFData.XDensity"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JFIFData. تحصل أو تعين كثافة x"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.jpeg/jfifdata/xdensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.XDensity property
 
-الحصول على أو تحديد كثافة x.
+يحصل أو يضبط كثافة x.
 
 ```csharp
 public short XDensity { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JFIFData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

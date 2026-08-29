@@ -1,23 +1,24 @@
 ---
-title: LayerGroupInformationResource.LayerGroupInformationResource
-second_title: Aspose.PSD لمرجع .NET API
-description: LayerGroupInformationResource البناء. Default_Constructor
+title: "LayerGroupInformationResource.LayerGroupInformationResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ LayerGroupInformationResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/layergroupinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public LayerGroupInformationResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayerGroupInformationResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

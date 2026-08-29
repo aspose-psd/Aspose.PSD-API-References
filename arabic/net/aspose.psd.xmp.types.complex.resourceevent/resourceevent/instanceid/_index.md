@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.InstanceId
-second_title: Aspose.PSD لمرجع .NET API
-description: ResourceEvent ملكية. الحصول على أو تعيين قيمة xmpMM InstanceId.
+title: "ResourceEvent.InstanceId"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ResourceEvent. يحصل أو يعيّن قيمة xmpMMInstanceId"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.InstanceId property
 
-الحصول على أو تعيين قيمة xmpMM: InstanceId.
+يحصل أو يضبط قيمة xmpMM:InstanceId.
 
 ```csharp
 public Guid InstanceId { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-قيمة xmpMM: InstanceId.
+قيمة xmpMM:InstanceId.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ResourceEvent](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

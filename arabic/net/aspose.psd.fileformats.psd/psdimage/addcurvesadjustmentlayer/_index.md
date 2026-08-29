@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Aspose.PSD لمرجع .NET API
-description: PsdImage طريقة. يضيف طبقة ضبط المنحنيات.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة PsdImage. تُضيف طبقة تعديل المنحنيات."
 type: docs
-weight: 330
+weight: 340
 url: /ar/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
-يضيف طبقة ضبط المنحنيات.
+يضيف طبقة تعديل المنحنيات.
 
 ```csharp
 public CurvesLayer AddCurvesAdjustmentLayer()
@@ -16,13 +17,13 @@ public CurvesLayer AddCurvesAdjustmentLayer()
 
 ### قيمة الإرجاع
 
-مخلوق[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) طبقة
+تم إنشاء طبقة [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

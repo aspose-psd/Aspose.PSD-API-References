@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Core.Blending
-second_title: Aspose.PSD لمرجع .NET API
-description: يعالج مساحة الاسم أنواع المزج والفئات والأدوات المساعدة الأخرى. Aspose.PSD يدعم جميع أوضاع مزج PSD.
+title: "Aspose.PSD.FileFormats.Core.Blending"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تتعامل مساحة الاسم مع فئات أنواع الدمج وغيرها من الأدوات المساعدة. يدعم Aspose.PSD جميع أوضاع دمج PSD"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.psd.fileformats.core.blending/
 ---
-يعالج مساحة الاسم أنواع المزج والفئات والأدوات المساعدة الأخرى. Aspose.PSD يدعم جميع أوضاع مزج PSD.
+{{< psd/tize >}}
+مساحة الاسم تتعامل مع أنواع الدمج، الفئات، وغيرها من الأدوات المساعدة. يدعم Aspose.PSD جميع أوضاع دمج PSD.
 
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [BlendMode](./blendmode/) | وضع مزج الطبقة . |
+| [BlendMode](./blendmode/) | وضع دمج الطبقة. |
 
 

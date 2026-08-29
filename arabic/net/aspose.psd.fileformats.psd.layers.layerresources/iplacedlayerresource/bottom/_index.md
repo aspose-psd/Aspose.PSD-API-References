@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Bottom
-second_title: Aspose.PSD لمرجع .NET API
-description: IPlacedLayerResource ملكية. الحصول على أو تحديد الموقع السفلي للطبقة الموضوعة في صورة PSD.
+title: "IPlacedLayerResource.Bottom"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية IPlacedLayerResource. يحصل أو يضبط موقع القاع للطبقة الموضوعة في صورة PSD"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Bottom property
 
-الحصول على أو تحديد الموقع السفلي للطبقة الموضوعة في صورة PSD.
+يحصل أو يضبط موقع الأسفل للطبقة الموضوعة في صورة PSD.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الموقع السفلي للطبقة الموضوعة .
+الموقع السفلي للطبقة الموضوعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPlacedLayerResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

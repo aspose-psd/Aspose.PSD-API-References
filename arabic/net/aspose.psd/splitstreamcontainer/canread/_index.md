@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanRead
-second_title: Aspose.PSD لمرجع .NET API
-description: SplitStreamContainer ملكية. يحصل على قيمة تشير إلى ما إذا كان الدفق يدعم القراءة.
+title: "SplitStreamContainer.CanRead"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SplitStreamContainer. تُرجع قيمة تُشير إلى ما إذا كان التدفق يدعم القراءة."
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/splitstreamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanRead property
 
-يحصل على قيمة تشير إلى ما إذا كان الدفق يدعم القراءة.
+يحصل على قيمة تشير إلى ما إذا كان التدفق يدعم القراءة.
 
 ```csharp
 public override bool CanRead { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`حقيقي` إذا كان التيار يدعم القراءة ؛ خلاف ذلك،`خطأ شنيع`.
+`true` إذا كان التدفق يدعم القراءة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SplitStreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../splitstreamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

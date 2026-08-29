@@ -1,23 +1,24 @@
 ---
-title: IAsyncTask.Cancel
-second_title: Aspose.PSD لمرجع .NET API
-description: IAsyncTask طريقة. إلغاء هذه المهمة. تكتمل المهمة بأمان من خلال الإيقاف المتحكم فيه للخوارزمية .
+title: "IAsyncTask.Cancel"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "IAsyncTask method. تلغي هذه المهمة. تُكتمل المهمة بأمان عن طريق إيقاف الخوارزمية بشكل متحكم فيه"
 type: docs
 weight: 80
 url: /ar/net/aspose.psd.asynctask/iasynctask/cancel/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Cancel method
 
-إلغاء هذه المهمة. تكتمل المهمة بأمان من خلال الإيقاف المتحكم فيه للخوارزمية .
+يلغي هذه المهمة. تُكتمل المهمة بأمان عن طريق إيقاف الخوارزمية بشكل مُتحكم.
 
 ```csharp
 public void Cancel()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IAsyncTask](../)
-* مساحة الاسم [Aspose.PSD.AsyncTask](../../iasynctask/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

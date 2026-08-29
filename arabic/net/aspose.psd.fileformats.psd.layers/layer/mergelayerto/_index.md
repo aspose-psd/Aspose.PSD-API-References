@@ -1,27 +1,28 @@
 ---
-title: Layer.MergeLayerTo
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer طريقة. يدمج الطبقة في layer
+title: "Layer.MergeLayerTo"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Layer. يدمج الطبقة إلى الطبقة المحددة"
 type: docs
-weight: 360
+weight: 380
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
-يدمج الطبقة في layer
+يدمج الطبقة إلى الطبقة المحددة
 
 ```csharp
 public virtual void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| layerToMergeInto | Layer | الطبقة المراد الدمج فيها. |
+| layerToMergeInto | طبقة | الطبقة التي سيتم الدمج فيها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

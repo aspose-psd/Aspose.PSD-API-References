@@ -1,23 +1,24 @@
 ---
-title: StreamContainer.ReadWriteBytesCount
-second_title: Aspose.PSD لمرجع .NET API
-description: StreamContainer مجال. تحديد عدد وحدات البايت للقراءة والكتابة عند القراءة بالتسلسل.
+title: "StreamContainer.ReadWriteBytesCount"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "حقل StreamContainer. يحدد عدد البايتات المقروءة والمكتوبة عند القراءة المتسلسلة"
 type: docs
 weight: 200
 url: /ar/net/aspose.psd/streamcontainer/readwritebytescount/
 ---
+{{< psd/tize >}}
 ## StreamContainer.ReadWriteBytesCount field
 
-تحديد عدد وحدات البايت للقراءة والكتابة عند القراءة بالتسلسل.
+يحدد عدد البايتات للقراءة والكتابة عند القراءة المتسلسلة.
 
 ```csharp
 public const int ReadWriteBytesCount;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StreamContainer](../)
-* مساحة الاسم [Aspose.PSD](../../streamcontainer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

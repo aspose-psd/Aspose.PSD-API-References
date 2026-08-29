@@ -1,49 +1,50 @@
 ---
-title: RasterCachedImage.AdjustGamma
-second_title: Aspose.PSD لمرجع .NET API
-description: RasterCachedImage طريقة. تصحيح جاما لصورة .
+title: "RasterCachedImage.AdjustGamma"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة RasterCachedImage. تصحيح غاما للصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.psd/rastercachedimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-تصحيح جاما لصورة .
-
-```csharp
-public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| gammaRed | Single | معامل جاما للقناة الحمراء |
-| gammaGreen | Single | معامل جاما للقناة الخضراء |
-| gammaBlue | Single | معامل جاما للقناة الزرقاء |
-
-### أنظر أيضا
-
-* class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-تصحيح جاما لصورة .
+تصحيح غاما للصورة.
 
 ```csharp
 public override void AdjustGamma(float gamma)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| gamma | Single | جاما لمعامل القنوات الأحمر والأخضر والأزرق |
+| جاما | Single | معامل جاما لقنوات الأحمر والأخضر والأزرق |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCachedImage](../)
-* مساحة الاسم [Aspose.PSD](../../rastercachedimage/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+تصحيح غاما للصورة.
+
+```csharp
+public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| gammaRed | Single | معامل جاما لقناة الأحمر |
+| gammaGreen | Single | معامل جاما لقناة الأخضر |
+| gammaBlue | Single | معامل جاما لقناة الأزرق |
+
+### انظر أيضًا
+
+* class [RasterCachedImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

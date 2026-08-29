@@ -1,28 +1,29 @@
 ---
-title: IBufferProcessor.ProcessBuffer
-second_title: Aspose.PSD لمرجع .NET API
-description: IBufferProcessor طريقة. يعالج المخزن المؤقت .
+title: "IBufferProcessor.ProcessBuffer"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة IBufferProcessor. تعالج المخزن المؤقت"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/ibufferprocessor/processbuffer/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor.ProcessBuffer method
 
-يعالج المخزن المؤقت .
+يعالج الذاكرة المؤقتة.
 
 ```csharp
 public void ProcessBuffer(byte[] buffer, int bufferLength)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| buffer | Byte[] | المخزن المؤقت للمعالجة. |
-| bufferLength | Int32 | طول المخزن المؤقت المطلوب معالجته. |
+| المخزن المؤقت | Byte[] | المخزن المؤقت للمعالجة. |
+| bufferLength | Int32 | طول المخزن المؤقت للمعالجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IBufferProcessor](../)
-* مساحة الاسم [Aspose.PSD](../../ibufferprocessor/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

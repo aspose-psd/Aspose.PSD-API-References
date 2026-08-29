@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Width
-second_title: Aspose.PSD لمرجع .NET API
-description: PattResourceData ملكية. الحصول على العرض .
+title: "PattResourceData.Width"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PattResourceData. يحصل على العرض"
 type: docs
 weight: 90
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Width property
 
-الحصول على العرض .
+يحصل على العرض.
 
 ```csharp
 public short Width { get; }
 ```
 
-### Property_Value
+### Property Value
 
 العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PattResourceData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

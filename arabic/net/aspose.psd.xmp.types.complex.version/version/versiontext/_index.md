@@ -1,27 +1,28 @@
 ---
-title: Version.VersionText
-second_title: Aspose.PSD لمرجع .NET API
-description: Version ملكية. الحصول على نص الإصدار أو تعيينه.
+title: "Version.VersionText"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Version. تحصل أو تعين نص الإصدار"
 type: docs
 weight: 60
 url: /ar/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 ---
+{{< psd/tize >}}
 ## Version.VersionText property
 
-الحصول على نص الإصدار أو تعيينه.
+يحصل أو يعيّن نص النسخة.
 
 ```csharp
 public string VersionText { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نص الإصدار .
+نص الإصدار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Version](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

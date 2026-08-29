@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Aspose.PSD لمرجع .NET API
-description: TiffOptions ملكية. يحصل أو يحدد نوع البرنامج.
+title: "TiffOptions.SoftwareType"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية TiffOptions. تحصل أو تعيين نوع البرنامج"
 type: docs
-weight: 450
+weight: 460
 url: /ar/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SoftwareType property
 
-يحصل أو يحدد نوع البرنامج.
+يحصل أو يعيّن نوع البرنامج.
 
 ```csharp
 public string SoftwareType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
 نوع البرنامج.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TiffOptions](../)
-* مساحة الاسم [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

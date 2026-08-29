@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskLinked
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartFilters ملكية. يحصل على حالة ارتباط القناع للمرشح الذكي.
+title: "SmartFilters.IsMaskLinked"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartFilters. يحصل على حالة ربط القناع للمرشح الذكي"
 type: docs
 weight: 50
 url: /ar/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskLinked property
 
-يحصل على حالة ارتباط القناع للمرشح الذكي.
+يحصل على حالة ربط القناع للفلتر الذكي.
 
 ```csharp
 public bool IsMaskLinked { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartFilters](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

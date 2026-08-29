@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.Create4Bit
-second_title: Aspose.PSD لمرجع .NET API
-description: ColorPaletteHelper طريقة. إنشاء لوحة ألوان 4 بت .
+title: "ColorPaletteHelper.Create4Bit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ColorPaletteHelper. تنشئ لوحة ألوان 4 بت."
 type: docs
 weight: 10
 url: /ar/net/aspose.psd/colorpalettehelper/create4bit/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create4Bit method
 
-إنشاء لوحة ألوان 4 بت .
+ينشئ لوحة ألوان 4 بت.
 
 ```csharp
 public static IColorPalette Create4Bit()
@@ -18,11 +19,11 @@ public static IColorPalette Create4Bit()
 
 لوحة الألوان 4 بت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* مساحة الاسم [Aspose.PSD](../../colorpalettehelper/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

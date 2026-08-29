@@ -1,24 +1,25 @@
 ---
-title: JFIFData.DensityUnits
-second_title: Aspose.PSD لمرجع .NET API
-description: JFIFData ملكية. الحصول على وحدات الكثافة أو تعيينها.
+title: "JFIFData.DensityUnits"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JFIFData. تحصل أو تعين وحدات الكثافة"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.jpeg/jfifdata/densityunits/
 ---
+{{< psd/tize >}}
 ## JFIFData.DensityUnits property
 
-الحصول على وحدات الكثافة أو تعيينها.
+يحصل أو يضبط وحدات الكثافة.
 
 ```csharp
 public JfifDensityUnits DensityUnits { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [JfifDensityUnits](../../jfifdensityunits/)
 * class [JFIFData](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

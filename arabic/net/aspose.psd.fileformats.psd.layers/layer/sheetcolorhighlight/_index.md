@@ -1,28 +1,29 @@
 ---
-title: Layer.SheetColorHighlight
-second_title: Aspose.PSD لمرجع .NET API
-description: Layer ملكية. الحصول على أو تعيين تمييز لون الورقة الزخرفية في قائمة الطبقات
+title: "Layer.SheetColorHighlight"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Layer. يحصل أو يضبط تمييز لون الورقة الزخرفية في قائمة الطبقات"
 type: docs
-weight: 300
+weight: 310
 url: /ar/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
+{{< psd/tize >}}
 ## Layer.SheetColorHighlight property
 
-الحصول على أو تعيين تمييز لون الورقة الزخرفية في قائمة الطبقات
+يحصل أو يضبط تمييز لون الورقة الزخرفية في قائمة الطبقات
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-تمييز لون الورقة .
+تمييز لون الورقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TransparencyIndexResource.TransparencyIndexResource
-second_title: Aspose.PSD لمرجع .NET API
-description: TransparencyIndexResource البناء. Default_Constructor
+title: "TransparencyIndexResource.TransparencyIndexResource"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "منشئ TransparencyIndexResource. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindexresource/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource constructor
 
-Default_Constructor
+الباني الافتراضي.
 
 ```csharp
 public TransparencyIndexResource()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransparencyIndexResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

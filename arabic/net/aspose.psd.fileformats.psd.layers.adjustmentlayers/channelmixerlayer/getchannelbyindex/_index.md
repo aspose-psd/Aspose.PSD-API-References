@@ -1,32 +1,33 @@
 ---
-title: ChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD لمرجع .NET API
-description: ChannelMixerLayer طريقة. يحصل على فهرس القناة بواسطة. يمكن إرجاع RgbMixerChannel أو CmykMixerChannel
+title: "ChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة ChannelMixerLayer. يحصل على فهرس القناة. يمكن أن تُعيد RgbMixerChannel أو CmykMixerChannel"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.GetChannelByIndex method
 
-يحصل على فهرس القناة بواسطة. يمكن إرجاع RgbMixerChannel أو CmykMixerChannel
+يحصل على فهرس القناة. يمكن أن يرجع RgbMixerChannel أو CmykMixerChannel.
 
 ```csharp
 public abstract MixerChannel GetChannelByIndex(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر. |
+| فهرس | Int32 | الفهرس. |
 
 ### قيمة الإرجاع
 
 [`MixerChannel`](../../mixerchannel/)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixerChannel](../../mixerchannel/)
 * class [ChannelMixerLayer](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Saturation
-second_title: Aspose.PSD لمرجع .NET API
-description: Hue2Resource ملكية. الحصول على أو تعيين التشبع الرئيسي .
+title: "Hue2Resource.Saturation"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية Hue2Resource. تحصل أو تعين تشبع الماستر"
 type: docs
-weight: 90
+weight: 70
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
-الحصول على أو تعيين التشبع الرئيسي .
+يحصل أو يعيّن الإشباع الأساسي.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التشبع الرئيسي .
+تشبع الرئيسي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Hue2Resource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

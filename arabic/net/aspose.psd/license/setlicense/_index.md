@@ -1,42 +1,43 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PSD لمرجع .NET API
-description: License طريقة. تراخيص المكون .
+title: "License.SetLicense"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة License. تُرخص المكوّن"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd/license/setlicense/
 ---
+{{< psd/tize >}}
 ## SetLicense(string) {#setlicense_1}
 
-تراخيص المكون .
+يرخص المكوّن.
 
 ```csharp
 public void SetLicense(string licenseName)
 ```
 
-### ملاحظات
+## ملاحظات
 
 يحاول العثور على الترخيص في المواقع التالية:
 
 1. مسار صريح.
 
-2. المجلد الذي يحتوي على تجميع مكون Aspose.
+2. المجلد الذي يحتوي على تجميع مكوّن Aspose.
 
 3. المجلد الذي يحتوي على تجميع استدعاء العميل.
 
-4. المجلد الذي يحتوي على دخول (بدء التشغيل) التجمع.
+4. المجلد الذي يحتوي على تجميع الدخول (بدء التشغيل).
 
-5. مورد مضمن في تجميع استدعاء العميل.
+5. مورد مدمج في تجميع استدعاء العميل.
 
-**ملحوظة:**في .NET Compact Framework ، يحاول العثور على الترخيص في هذه المواقع فقط:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. مسار صريح.
 
-2. مورد مضمن في تجميع استدعاء العميل.
+2. مورد مدمج في تجميع استدعاء العميل.
 
-### أمثلة
+## أمثلة
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص يسمى MyLicense.lic في المجلد الذي يحتوي على المكون ، في المجلد الذي يحتوي على التجميع الاستدعاء ، في مجلد تجميع الإدخال ثم في الموارد المضمنة للتجميع المتصل.يمكن أن يكون اسم ملف كامل أو قصير أو اسم مورد مضمن. استخدم سلسلة فارغة للتبديل إلى وضع التقييم.
+في هذا المثال، سيتم محاولة العثور على ملف ترخيص باسم MyLicense.lic في المجلد الذي يحتوي على المكوّن، وفي المجلد الذي يحتوي على التجميع المستدعي، وفي مجلد تجميع الدخول، ثم في الموارد المدمجة للتجميع المستدعي.
 
 ```csharp
 [C#]
@@ -51,31 +52,33 @@ Dim license As License = New License
 license.SetLicense("MyLicense.lic")
 ```
 
-### أنظر أيضا
+يمكن أن يكون اسم ملف كامل أو قصير أو اسم مورد مدمج. استخدم سلسلة فارغة للتبديل إلى وضع التقييم.
+
+### انظر أيضًا
 
 * class [License](../)
-* مساحة الاسم [Aspose.PSD](../../license/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetLicense(Stream) {#setlicense}
 
-تراخيص المكون .
+يرخص المكوّن.
 
 ```csharp
 public void SetLicense(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | دفق يحتوي على الترخيص. |
 
-### ملاحظات
+## ملاحظات
 
-استخدم هذه الطريقة لتحميل ترخيص من دفق.
+استخدم هذه الطريقة لتحميل ترخيص من تدفق.
 
-### أمثلة
+## أمثلة
 
 ```csharp
 [C#]
@@ -90,10 +93,10 @@ Dim license as License = new License
 license.SetLicense(myStream)
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [License](../)
-* مساحة الاسم [Aspose.PSD](../../license/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.PsdVersion
-second_title: Aspose.PSD لمرجع .NET API
-description: SmartObjectResource ملكية. يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الكائن الذكي. 0 يشير إلى عدم وجود قيود.
+title: "SmartObjectResource.PsdVersion"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية SmartObjectResource. يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الكائن الذكي. 0 يدل على عدم وجود قيود"
 type: docs
 weight: 180
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PsdVersion property
 
-يحصل على الحد الأدنى من إصدار psd المطلوب لمورد الكائن الذكي. 0 يشير إلى عدم وجود قيود.
+يحصل على الحد الأدنى لإصدار PSD المطلوب لمورد الكائن الذكي. 0 يدل على عدم وجود قيود.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SmartObjectResource](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Class DeflateCompressorException
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.CoreExceptions.Compressors.DeflateCompressorException فصل. استثناء ضاغط انكماش .
+title: "الفئة DeflateCompressorException"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "الفئة Aspose.PSD.CoreExceptions.Compressors.DeflateCompressorException. استثناء ضغط Deflate"
 type: docs
 weight: 440
 url: /ar/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException class
 
-استثناء ضاغط "انكماش" .
+استثناء ضاغط Deflate.
 
 ```csharp
 public class DeflateCompressorException : CompressorException
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DeflateCompressorException](deflatecompressorexception/#constructor)(string) | يقوم بتهيئة مثيل جديد لملف`DeflateCompressorException` فئة . |
-| [DeflateCompressorException](deflatecompressorexception/#constructor_1)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`DeflateCompressorException` فئة . |
+| [DeflateCompressorException](deflatecompressorexception/#constructor)(string) | يُنشئ نسخة جديدة من الفئة `DeflateCompressorException`. |
+| [DeflateCompressorException](deflatecompressorexception/#constructor_1)(string, Exception) | يُنشئ نسخة جديدة من الفئة `DeflateCompressorException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* مساحة الاسم [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

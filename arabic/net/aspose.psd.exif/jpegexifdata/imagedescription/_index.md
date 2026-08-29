@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.ImageDescription
-second_title: Aspose.PSD لمرجع .NET API
-description: JpegExifData ملكية. الحصول على أو تحديد وصف الصورة.
+title: "JpegExifData.ImageDescription"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية JpegExifData. تحصل أو تعين وصف الصورة"
 type: docs
 weight: 70
 url: /ar/net/aspose.psd.exif/jpegexifdata/imagedescription/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageDescription property
 
-الحصول على أو تحديد وصف الصورة.
+يحصل أو يعيّن وصف الصورة.
 
 ```csharp
 public string ImageDescription { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وصف الصورة .
+وصف الصورة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JpegExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../jpegexifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

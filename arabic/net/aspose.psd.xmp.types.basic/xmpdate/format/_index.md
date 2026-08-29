@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD لمرجع .NET API
-description: XmpDate ملكية. يحصل على سلسلة التنسيق للقيمة الحالية.
+title: "XmpDate.Format"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية XmpDate. تحصل على سلسلة التنسيق للقيمة الحالية"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 يحصل على سلسلة التنسيق للقيمة الحالية.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.xmp.types.basic/xmpdate/format/
 public string Format { get; }
 ```
 
-### Property_Value
+### Property Value
 
 سلسلة التنسيق للقيمة الحالية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XmpDate](../)
-* مساحة الاسم [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

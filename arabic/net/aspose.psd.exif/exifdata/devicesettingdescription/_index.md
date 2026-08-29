@@ -1,27 +1,28 @@
 ---
-title: ExifData.DeviceSettingDescription
-second_title: Aspose.PSD لمرجع .NET API
-description: ExifData ملكية. الحصول على أو تعيين وصف إعدادات الجهاز
+title: "ExifData.DeviceSettingDescription"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية ExifData. يحصل أو يضبط وصف إعدادات الجهاز"
 type: docs
 weight: 150
 url: /ar/net/aspose.psd.exif/exifdata/devicesettingdescription/
 ---
+{{< psd/tize >}}
 ## ExifData.DeviceSettingDescription property
 
-الحصول على أو تعيين وصف إعدادات الجهاز
+يحصل أو يضبط وصف إعدادات الجهاز
 
 ```csharp
 public byte[] DeviceSettingDescription { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-وصف إعداد الجهاز .
+وصف إعداد الجهاز.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ExifData](../)
-* مساحة الاسم [Aspose.PSD.Exif](../../exifdata/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

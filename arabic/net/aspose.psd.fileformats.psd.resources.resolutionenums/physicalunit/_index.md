@@ -1,32 +1,33 @@
 ---
-title: Enum PhysicalUnit
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit تعداد. تعداد وحدة المعلومات المادية resoulution
+title: "تعداد PhysicalUnit"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. تعداد وحدة الفيزيائية في معلومات الدقة"
 type: docs
-weight: 3860
+weight: 4330
 url: /ar/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-تعداد وحدة المعلومات المادية resoulution
+تعداد وحدة القياس الفيزيائية لـ resoulutionInfo
 
 ```csharp
 public enum PhysicalUnit
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Inches | `1` | البوصات |
-| Centimeters | `2` | السنتيمتر |
+| Centimeters | `2` | السنتيمترات |
 | Points | `3` | النقاط |
 | Picas | `4` | وحدة البيكا |
 | Columns | `5` | الأعمدة |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

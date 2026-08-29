@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorSpace
-second_title: Aspose.PSD لمرجع .NET API
-description: PhflResourceVersion3 ملكية. يحصل على مساحة اللون.
+title: "PhflResourceVersion3.ColorSpace"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "خاصية PhflResourceVersion3. يحصل على نظام الألوان"
 type: docs
 weight: 20
 url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorSpace property
 
 يحصل على مساحة اللون.
@@ -14,14 +15,14 @@ url: /ar/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversio
 public short ColorSpace { get; }
 ```
 
-### Property_Value
+### Property Value
 
-مساحة اللون .
+مساحة اللون.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PhflResourceVersion3](../)
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

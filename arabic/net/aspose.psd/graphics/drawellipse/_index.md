@@ -1,127 +1,128 @@
 ---
-title: Graphics.DrawEllipse
-second_title: Aspose.PSD لمرجع .NET API
-description: Graphics طريقة. رسم قطع ناقص معرّف بحدودRectangleF .
+title: "Graphics.DrawEllipse"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "طريقة Graphics. ترسم إهليلجًا معرفًا بواسطة مستطيل RectangleF محيط."
 type: docs
-weight: 210
+weight: 220
 url: /ar/net/aspose.psd/graphics/drawellipse/
 ---
+{{< psd/tize >}}
 ## DrawEllipse(Pen, RectangleF) {#drawellipse_1}
 
-رسم قطع ناقص معرّف بحدود[`RectangleF`](../../rectanglef/) .
+ترسم إهليلجًا معرفًا بواسطة [`RectangleF`](../../rectanglef/) محيط.
 
 ```csharp
 public void DrawEllipse(Pen pen, RectangleF rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وأسلوب القطع الناقص. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) الهيكل الذي يحدد حدود القطع الناقص. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للإهليلج. |
+| rect | RectangleF | بنية [`RectangleF`](../../rectanglef/) التي تحدد حدود الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, float, float, float, float) {#drawellipse_3}
 
-رسم شكل بيضاوي محدد بواسطة مستطيل محيط محدد بواسطة زوج من الإحداثيات وارتفاع وعرض .
+يرسم إهليلجًا معرفًا بمستطيل حدودي محدد بزوج من الإحداثيات، ارتفاع، وعرض.
 
 ```csharp
 public void DrawEllipse(Pen pen, float x, float y, float width, float height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وأسلوب القطع الناقص. |
-| x | Single | إحداثي x للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| y | Single | إحداثي y للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| width | Single | عرض المستطيل المحيط الذي يحدد القطع الناقص. |
-| height | Single | ارتفاع المستطيل المحيط الذي يحدد القطع الناقص. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للإهليلج. |
+| x | Single | الإحداثي السيني للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| y | Single | الإحداثي الصادي للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| العرض | Single | عرض المستطيل المحيط الذي يحدد الإهليلج. |
+| الارتفاع | Single | ارتفاع المستطيل المحيط الذي يحدد الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, Rectangle) {#drawellipse}
 
-رسم قطع ناقص محدد بإحاطة[`Rectangle`](../../rectangle/)هيكل .
+ترسم إهليلجًا محددًا بواسطة بنية [`Rectangle`](../../rectangle/) محيطة.
 
 ```csharp
 public void DrawEllipse(Pen pen, Rectangle rect)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وأسلوب القطع الناقص. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) الهيكل الذي يحدد حدود القطع الناقص. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للإهليلج. |
+| rect | Rectangle | بنية [`Rectangle`](../../rectangle/) التي تحدد حدود الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawEllipse(Pen, int, int, int, int) {#drawellipse_2}
 
-رسم شكل بيضاوي محدد بواسطة مستطيل محيط محدد بواسطة زوج من الإحداثيات وارتفاع وعرض .
+يرسم إهليلجًا معرفًا بمستطيل حدودي محدد بزوج من الإحداثيات، ارتفاع، وعرض.
 
 ```csharp
 public void DrawEllipse(Pen pen, int x, int y, int width, int height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) التي تحدد لون وعرض وأسلوب القطع الناقص. |
-| x | Int32 | إحداثي x للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| y | Int32 | إحداثي y للركن الأيسر العلوي للمستطيل المحيط الذي يحدد القطع الناقص. |
-| width | Int32 | عرض المستطيل المحيط الذي يحدد القطع الناقص. |
-| height | Int32 | ارتفاع المستطيل المحيط الذي يحدد القطع الناقص. |
+| pen | Pen | [`Pen`](../../pen/) الذي يحدد اللون والعرض والنمط للإهليلج. |
+| x | Int32 | الإحداثي السيني للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| y | Int32 | الإحداثي الصادي للزاوية العليا اليسرى للمستطيل المحيط الذي يحدد الإهليلج. |
+| العرض | Int32 | عرض المستطيل المحيط الذي يحدد الإهليلج. |
+| الارتفاع | Int32 | ارتفاع المستطيل المحيط الذي يحدد الإهليلج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *pen* باطل. |
+| ArgumentNullException | *pen* فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* مساحة الاسم [Aspose.PSD](../../graphics/)
-* المجسم [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

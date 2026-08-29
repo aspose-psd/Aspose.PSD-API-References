@@ -1,35 +1,36 @@
 ---
-title: Enum ColorModes
-second_title: Aspose.PSD لمرجع .NET API
-description: Aspose.PSD.FileFormats.Psd.ColorModes تعداد. يمثل أوضاع ألوان تنسيق ملف psd.
+title: "تعداد ColorModes"
+second_title: "Aspose.PSD لـ .NET مرجع API"
+description: "تعداد Aspose.PSD.FileFormats.Psd.ColorModes. يمثل أوضاع ألوان تنسيق ملف psd"
 type: docs
-weight: 1610
+weight: 1620
 url: /ar/net/aspose.psd.fileformats.psd/colormodes/
 ---
+{{< psd/tize >}}
 ## ColorModes enumeration
 
-يمثل أوضاع ألوان تنسيق ملف psd.
+يمثل أوضاع ألوان تنسيق ملف PSD.
 
 ```csharp
 public enum ColorModes : short
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Bitmap | `0` | وضع ألوان الصورة النقطية . |
-| Grayscale | `1` | وضع التدرج الرمادي . |
-| Indexed | `2` | وضع الألوان المفهرسة . |
-| Rgb | `3` | وضع ألوان RGB . |
-| Cmyk | `4` | وضع ألوان CMYK . |
-| Multichannel | `7` | وضع الألوان متعدد القنوات . |
-| Duotone | `8` | وضع اللون الثنائي . |
-| Lab | `9` | وضع ألوان المختبر . |
+| Bitmap | `0` | وضع لون البت ماب. |
+| Grayscale | `1` | وضع التدرج الرمادي. |
+| Indexed | `2` | وضع اللون المفهرس. |
+| Rgb | `3` | وضع اللون RGB. |
+| Cmyk | `4` | وضع اللون CMYK. |
+| Multichannel | `7` | وضع اللون متعدد القنوات. |
+| Duotone | `8` | وضع اللون الثنائي النغمة. |
+| Lab | `9` | وضع اللون Lab. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* المجسم [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 
