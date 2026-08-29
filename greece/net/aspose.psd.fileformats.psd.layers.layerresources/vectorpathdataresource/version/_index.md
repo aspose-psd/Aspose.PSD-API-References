@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorPathDataResource ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση.
+title: "VectorPathDataResource.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorPathDataResource. Λαμβάνει ή ορίζει την έκδοση"
 type: docs
-weight: 80
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Version property
 
 Λαμβάνει ή ορίζει την έκδοση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdatareso
 public int Version { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση.
 
 ### Δείτε επίσης
 
 * class [VectorPathDataResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

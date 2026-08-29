@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPTitle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει πληροφορίες σχετικά με την εικόνα που χρησιμοποιείται από την Εξερεύνηση των Windows.
+title: "TiffOptions.XPTitle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει πληροφορίες σχετικά με την εικόνα που χρησιμοποιείται από το Windows Explorer"
 type: docs
-weight: 640
+weight: 650
 url: /el/net/aspose.psd.imageoptions/tiffoptions/xptitle/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPTitle property
 
-Λαμβάνει ή ορίζει πληροφορίες σχετικά με την εικόνα που χρησιμοποιείται από την Εξερεύνηση των Windows.
+Λαμβάνει ή ορίζει πληροφορίες σχετικά με την image, η οποία χρησιμοποιείται από το Windows Explorer.
 
 ```csharp
 public string XPTitle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Πληροφορίες σχετικά με την εικόνα, που χρησιμοποιούνται από την Εξερεύνηση των Windows. Το`XPTitle` αγνοείται από την Εξερεύνηση των Windows εάν το[`ImageDescription`](../imagedescription/) η ετικέτα υπάρχει.
+Πληροφορίες σχετικά με την εικόνα, που χρησιμοποιούνται από τον Windows Explorer. Το `XPTitle` αγνοείται από τον Windows Explorer εάν υπάρχει η ετικέτα [`ImageDescription`](../imagedescription/).
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

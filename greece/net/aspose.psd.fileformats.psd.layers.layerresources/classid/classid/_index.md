@@ -1,14 +1,15 @@
 ---
-title: ClassID.ClassID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ClassID κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουClassID τάξη.
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ClassID. Αρχικοποιεί μια νέα παρουσία της κλάσης ClassID"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClassID`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID)
@@ -21,14 +22,14 @@ public ClassID(byte[] classID)
 ### Δείτε επίσης
 
 * class [ClassID](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClassID`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClassID`](../).
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
@@ -37,25 +38,25 @@ public ClassID(byte[] classID, bool isZeroLength)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | classID | Byte[] | Το αναγνωριστικό κλάσης ως σειρά byte. |
-| isZeroLength | Boolean | εάν έχει οριστεί σε`αληθής` [είναι μηδέν μήκος]. Το καταγεγραμμένο μήκος συμβολοσειράς είναι μηδέν αλλά το πραγματικό είναι τέσσερα. |
+| isZeroLength | Boolean | αν οριστεί σε `true` [είναι μηδενικού μήκους]. Το καταγεγραμμένο μήκος της συμβολοσειράς είναι μηδέν αλλά το πραγματικό είναι τέσσερα. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | classID είναι μηδενικό. |
+| ArgumentNullException | Το classID είναι null. |
 
 ### Δείτε επίσης
 
 * class [ClassID](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClassID`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClassID`](../).
 
 ```csharp
 public ClassID(int classID)
@@ -63,19 +64,19 @@ public ClassID(int classID)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| classID | Int32 | Η ταυτότητα της τάξης. |
+| classID | Int32 | Το ID της κλάσης. |
 
 ### Δείτε επίσης
 
 * class [ClassID](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClassID`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClassID`](../).
 
 ```csharp
 public ClassID(uint classID)
@@ -83,19 +84,19 @@ public ClassID(uint classID)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| classID | UInt32 | Η ταυτότητα της τάξης. |
+| classID | UInt32 | Το ID της κλάσης. |
 
 ### Δείτε επίσης
 
 * class [ClassID](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClassID`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
@@ -103,17 +104,17 @@ public ClassID(string classID, bool isZeroLength)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| classID | String | Το αναγνωριστικό κλάσης στην κωδικοποίηση ASCII. |
-| isZeroLength | Boolean | εάν έχει οριστεί σε`αληθής` [είναι μηδενικό μήκος]. |
+| classID | String | Το αναγνωριστικό κλάσης σε κωδικοποίηση ASCII. |
+| isZeroLength | Boolean | αν οριστεί σε `true` [είναι μηδενικού μήκους]. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει ότι το επίπεδο, που εισάγεται από μια εικόνα, μετατρέπεται σε επίπεδο έξυπνου αντικειμένου και το αποθηκευμένο αρχείο PSD είναι σωστό.
+Αυτό το παράδειγμα δείχνει ότι η στρώση, εισήχθη από μια εικόνα, μετατρέπεται σε στρώση έξυπνου αντικειμένου και το αποθηκευμένο αρχείο PSD είναι σωστό.
 
 ```csharp
 [C#]
 
-// Ελέγχει ότι το επίπεδο, που εισάγεται από μια εικόνα, μετατρέπεται σε επίπεδο έξυπνου αντικειμένου και ότι το αποθηκευμένο αρχείο PSD είναι σωστό.
+// Δοκιμάζει ότι η στρώση, εισήχθη από μια εικόνα, μετατρέπεται σε στρώση έξυπνου αντικειμένου και το αποθηκευμένο αρχείο PSD είναι σωστό.
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -155,14 +156,14 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 ### Δείτε επίσης
 
 * class [ClassID](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClassID`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClassID`](../).
 
 ```csharp
 public ClassID(string classID)
@@ -170,12 +171,12 @@ public ClassID(string classID)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| classID | String | Το αναγνωριστικό κλάσης στην κωδικοποίηση ASCII. |
+| classID | String | Το αναγνωριστικό κλάσης σε κωδικοποίηση ASCII. |
 
 ### Δείτε επίσης
 
 * class [ClassID](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

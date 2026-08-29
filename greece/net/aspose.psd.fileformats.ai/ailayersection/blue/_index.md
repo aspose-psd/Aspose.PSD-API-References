@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο μπλε χρώματος.
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει το μπλε συστατικό χρώματος"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-Λαμβάνει ή ορίζει το στοιχείο μπλε χρώματος.
+Λαμβάνει ή ορίζει το μπλε συστατικό χρώματος.
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο μπλε χρώματος.
+Το μπλε συστατικό χρώματος.
 
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

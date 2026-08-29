@@ -1,27 +1,28 @@
 ---
-title: Rational.Numerator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rational ιδιοκτησία. Παίρνει τον αριθμητή.
+title: "Rational.Numerator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Rational. Λαμβάνει τον αριθμητή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.derived/rational/numerator/
 ---
+{{< psd/tize >}}
 ## Rational.Numerator property
 
-Παίρνει τον αριθμητή.
+Λαμβάνει τον αριθμητή.
 
 ```csharp
 public int Numerator { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο αριθμητής.
 
 ### Δείτε επίσης
 
 * class [Rational](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

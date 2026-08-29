@@ -1,38 +1,33 @@
 ---
-title: VectorPathRecordFactory.ProducePathRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorPathRecordFactory μέθοδος. Παράγει την εγγραφή διαδρομής.
+title: "VectorPathRecordFactory.ProducePathRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorPathRecordFactory μέθοδος. Παράγει την εγγραφή διαδρομής"
 type: docs
-weight: 20
+weight: 10
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory.ProducePathRecord method
 
 Παράγει την εγγραφή διαδρομής.
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα εγγραφής. |
+| δεδομένα | Byte[] | Τα δεδομένα της εγγραφής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`VectorPathRecord`](../../vectorpathrecord/)
-
-### Εξαιρέσεις
-
-| εξαίρεση | κατάσταση |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
+Δημιουργήθηκε [`VectorPathRecord`](../../vectorpathrecord/).
 
 ### Δείτε επίσης
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PtFlResource.PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PtFlResource ιδιοκτησία. Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς.
+title: "PtFlResource.PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PtFlResource. Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του στρώματος. 0 υποδεικνύει χωρίς περιορισμούς"
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PsdVersion property
 
-Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς.
+Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Δείτε επίσης
 
 * class [PtFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

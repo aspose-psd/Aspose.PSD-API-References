@@ -1,20 +1,21 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AddNoiseSmartFilter ιδιοκτησία. Λαμβάνει ή ορίζει το ποσό της τιμής θορύβου.
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AddNoiseSmartFilter ιδιότητα. Λαμβάνει ή ορίζει την ποσότητα της τιμής θορύβου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-Λαμβάνει ή ορίζει το ποσό της τιμής θορύβου.
+Λαμβάνει ή ορίζει την ποσότητα της τιμής θορύβου.
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
 Αυτό το παράδειγμα δείχνει την υποστήριξη της διεπαφής έξυπνων φίλτρων.
 
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // Επεξεργασία έξυπνων φίλτρων
+    // επεξεργασία έξυπνων φίλτρων
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // έλεγχος τιμών φίλτρου
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Δείτε επίσης
 
 * class [AddNoiseSmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

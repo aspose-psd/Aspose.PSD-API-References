@@ -1,14 +1,15 @@
 ---
-title: Point.Round
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Μετατρέπει το καθορισμένοPointF σε αPoint αντικείμενο με στρογγυλοποίηση τουPoint τιμές στον πλησιέστερο ακέραιο.
+title: "Point.Round"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Μετατρέπει το καθορισμένο PointF σε αντικείμενο Point στρογγυλοποιώντας τις τιμές του Point στον πλησιέστερο ακέραιο."
 type: docs
 weight: 50
 url: /el/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-Μετατρέπει το καθορισμένο[`PointF`](../../pointf/) σε α[`Point`](../) αντικείμενο με στρογγυλοποίηση του[`Point`](../) τιμές στον πλησιέστερο ακέραιο.
+Μετατρέπει το καθορισμένο [`PointF`](../../pointf/) σε αντικείμενο [`Point`](../) στρογγυλοποιώντας τις τιμές του [`Point`](../) στον πλησιέστερο ακέραιο.
 
 ```csharp
 public static Point Round(PointF point)
@@ -16,17 +17,17 @@ public static Point Round(PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../../pointf/) μετατρέπω. |
+| point | PointF | Το [`PointF`](../../pointf/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Point`](../) αυτή η μέθοδος μετατρέπεται σε.
+Το [`Point`](../) στο οποίο αυτή η μέθοδος μετατρέπει.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

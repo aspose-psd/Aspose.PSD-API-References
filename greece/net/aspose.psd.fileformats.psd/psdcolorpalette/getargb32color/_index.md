@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.GetArgb32Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdColorPalette μέθοδος. Λαμβάνει το χρώμα της παλέτας ARGB 32 bit κατά ευρετήριο.
+title: "PsdColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdColorPalette μέθοδος. Λαμβάνει το χρώμα παλέτας 32-bit ARGB με βάση το ευρετήριο"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.fileformats.psd/psdcolorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetArgb32Color method
 
-Λαμβάνει το χρώμα της παλέτας ARGB 32 bit κατά ευρετήριο.
+Λαμβάνει το χρώμα παλέτας 32-bit ARGB κατά δείκτη.
 
 ```csharp
 public int GetArgb32Color(int index)
@@ -16,22 +17,22 @@ public int GetArgb32Color(int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | Int32 | Ο χρωματικός δείκτης παλέτας ARGB 32 bit. |
+| δείκτης | Int32 | Ο δείκτης χρώματος παλέτας 32-bit ARGB. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η καταχώρηση της παλέτας χρωμάτων που καθορίζεται από το*index*.
+Η καταχώρηση της παλέτας χρωμάτων που καθορίζεται από το *index*.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | εάν η χρωματική παλέτα*index* που καθορίζεται είναι εκτός του εύρους καταχωρήσεων παλέτας. |
+| ArgumentOutOfRangeException | εάν το *index* της παλέτας χρωμάτων που καθορίζεται είναι εκτός του εύρους των καταχωρήσεων της παλέτας. |
 
 ### Δείτε επίσης
 
 * class [PsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

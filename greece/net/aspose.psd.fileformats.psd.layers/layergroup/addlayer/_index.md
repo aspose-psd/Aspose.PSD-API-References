@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerGroup μέθοδος. Προσθέτει το επίπεδο στην ομάδα επιπέδων.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LayerGroup. Προσθέτει τη στρώση στην ομάδα στρώσεων"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
 Προσθέτει το επίπεδο στην ομάδα επιπέδων.
@@ -16,11 +17,11 @@ public void AddLayer(Layer layer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| layer | Layer | Το στρώμα. |
+| στρώση | Στρώση | Το στρώμα. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να προσθέσετε εικόνες Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif ως επίπεδα στο PsdImage
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να προσθέσετε εικόνες Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif ως στρώσεις στο PsdImage
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var image = new PsdImage(200, 200))
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorTranslator.FromWin32
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorTranslator μέθοδος. Παίρνει χρώμα από το χρώμα HTML.
+title: "ColorTranslator.FromWin32"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorTranslator. Παίρνει το χρώμα από το χρώμα HTML"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/colortranslator/fromwin32/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.FromWin32 method
 
-Παίρνει χρώμα από το χρώμα HTML.
+Λαμβάνει χρώμα από το χρώμα HTML.
 
 ```csharp
 public static Color FromWin32(int win32Color)
@@ -18,7 +19,7 @@ public static Color FromWin32(int win32Color)
 | --- | --- | --- |
 | win32Color | Int32 | Χρώμα Win32. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα.
 
@@ -26,7 +27,7 @@ public static Color FromWin32(int win32Color)
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* χώρος ονομάτων [Aspose.PSD](../../colortranslator/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

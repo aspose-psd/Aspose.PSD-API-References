@@ -1,27 +1,28 @@
 ---
-title: TiffRational.ValueD
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffRational ιδιοκτησία. Παίρνει τη διπλή τιμή.
+title: "TiffRational.ValueD"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffRational. Επιστρέφει την τιμή double"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.tiff/tiffrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffRational.ValueD property
 
-Παίρνει τη διπλή τιμή.
+Λαμβάνει την τιμή double.
 
 ```csharp
 public double ValueD { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διπλή τιμή.
+Η τιμή double.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

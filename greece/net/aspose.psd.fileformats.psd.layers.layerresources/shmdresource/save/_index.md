@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShmdResource μέθοδος. Αποθηκεύει το καθορισμένο κοντέινερ ροής.
+title: "ShmdResource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ShmdResource. Αποθηκεύει το καθορισμένο κοντέινερ ροής"
 type: docs
-weight: 80
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/
 ---
+{{< psd/tize >}}
 ## ShmdResource.Save method
 
 Αποθηκεύει το καθορισμένο κοντέινερ ροής.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το δοχείο του ρέματος. |
+| streamContainer | StreamContainer | Το container ροής. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ShmdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

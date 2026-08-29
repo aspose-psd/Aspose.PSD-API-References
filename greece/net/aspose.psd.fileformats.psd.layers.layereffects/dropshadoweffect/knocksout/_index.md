@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.KnocksOut
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DropShadowEffect ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν knocks out.
+title: "DropShadowEffect.KnocksOut"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DropShadowEffect ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν κάνει knock‑out"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.KnocksOut property
 
 Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [knocks out].
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/kno
 public bool KnocksOut { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής`αν [νοκ άουτ]? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν [knocks out]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [DropShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

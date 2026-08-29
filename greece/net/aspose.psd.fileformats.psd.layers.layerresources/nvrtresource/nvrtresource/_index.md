@@ -1,14 +1,15 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NvrtResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουNvrtResource τάξη.
+title: "NvrtResource.NvrtResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής NvrtResource. Αρχικοποιεί μια νέα παρουσία της κλάσης NvrtResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`NvrtResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource()
@@ -17,14 +18,14 @@ public NvrtResource()
 ### Δείτε επίσης
 
 * class [NvrtResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`NvrtResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`NvrtResource`](../).
 
 ```csharp
 public NvrtResource(byte[] data)
@@ -32,18 +33,18 @@ public NvrtResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα του πόρου. |
+| δεδομένα | Byte[] | Τα δεδομένα του πόρου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρα δεδομένα NvrtResource. |
 
 ### Δείτε επίσης
 
 * class [NvrtResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

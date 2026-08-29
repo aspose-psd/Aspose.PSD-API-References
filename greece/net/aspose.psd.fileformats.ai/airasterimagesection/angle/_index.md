@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Παίρνει τη γωνία.
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει τη γωνία"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
-Παίρνει τη γωνία.
+Λαμβάνει τη γωνία.
 
 ```csharp
 public double Angle { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η γωνία.
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl μέθοδος. Καθορίζει εάν η απόχρωση είναι σε μεγάλο εύρος.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorRangeHsl. Καθορίζει εάν η απόχρωση είναι σε μεγάλο εύρος"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-Καθορίζει εάν η απόχρωση είναι σε μεγάλο εύρος.
+Καθορίζει εάν η απόχρωση είναι σε μεγάλη περιοχή.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
@@ -16,16 +17,16 @@ public bool IsHueInBigRange(double hue)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| hue | Double | Η τιμή της απόχρωσης. |
+| απόχρωση | Double | Η τιμή της απόχρωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν απόχρωση σε μεγάλο εύρος? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν η απόχρωση είναι σε μεγάλο εύρος· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

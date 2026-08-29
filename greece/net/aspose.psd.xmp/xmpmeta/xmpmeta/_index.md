@@ -1,14 +1,15 @@
 ---
-title: XmpMeta.XmpMeta
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMeta κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpMeta τάξη.
+title: "XmpMeta.XmpMeta"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpMeta. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης XmpMeta"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmpmeta/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpMeta`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta(string toolkitVersion)
@@ -16,19 +17,19 @@ public XmpMeta(string toolkitVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| toolkitVersion | String | Έκδοση εργαλειοθήκης Adobe XMP. |
+| toolkitVersion | String | Έκδοση εργαλείου Adobe XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpMeta](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpmeta/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpMeta() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpMeta`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta()
@@ -37,7 +38,7 @@ public XmpMeta()
 ### Δείτε επίσης
 
 * class [XmpMeta](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpmeta/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

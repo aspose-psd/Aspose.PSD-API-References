@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.EntriesCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorPalette ιδιοκτησία. Λαμβάνει τον αριθμό των καταχωρήσεων.
+title: "ColorPalette.EntriesCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorPalette. Λαμβάνει τον αριθμό των καταχωρήσεων"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/colorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## ColorPalette.EntriesCount property
 
 Λαμβάνει τον αριθμό των καταχωρήσεων.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/colorpalette/entriescount/
 public int EntriesCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι συμμετοχές μετράνε.
+Ο αριθμός των καταχωρήσεων.
 
 ### Δείτε επίσης
 
 * class [ColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

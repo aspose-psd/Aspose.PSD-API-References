@@ -1,14 +1,15 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.ColorMatrixExtensions τάξη. ΤοColorMatrix μέθοδοι επέκτασης.
+title: "Κλάση ColorMatrixExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.ColorMatrixExtensions κλάση. Οι μέθοδοι επέκτασης ColorMatrix."
 type: docs
-weight: 1070
+weight: 1080
 url: /el/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-Το[`ColorMatrix`](../../aspose.psd/colormatrix/) μέθοδοι επέκτασης.
+Οι μέθοδοι επέκτασης [`ColorMatrix`](../../aspose.psd/colormatrix/).
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -16,13 +17,13 @@ public static class ColorMatrixExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Μετατρέπει το[`ColorMatrix`](../../aspose.psd/colormatrix/) στοColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | Μετατρέπει το [`ColorMatrix`](../../aspose.psd/colormatrix/) σε ColorMatrix. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

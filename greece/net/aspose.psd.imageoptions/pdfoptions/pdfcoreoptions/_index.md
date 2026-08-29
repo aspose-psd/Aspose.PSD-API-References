@@ -1,14 +1,15 @@
 ---
-title: PdfOptions.PdfCoreOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PdfOptions ιδιοκτησία. Οι επιλογές του πυρήνα PDF
+title: "PdfOptions.PdfCoreOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PdfOptions ιδιότητα. Οι βασικές επιλογές PDF"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfCoreOptions property
 
-Οι επιλογές του πυρήνα PDF
+Οι βασικές επιλογές PDF.
 
 ```csharp
 public PdfCoreOptions PdfCoreOptions { get; set; }
@@ -18,7 +19,7 @@ public PdfCoreOptions PdfCoreOptions { get; set; }
 
 * class [PdfCoreOptions](../../../aspose.psd.fileformats.pdf/pdfcoreoptions/)
 * class [PdfOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

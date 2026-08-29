@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.UnitType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnitStructure ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο μονάδας.
+title: "UnitStructure.UnitType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα UnitStructure. Λαμβάνει ή ορίζει τον τύπο μονάδας"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitStructure.UnitType property
 
 Λαμβάνει ή ορίζει τον τύπο μονάδας.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public UnitTypes UnitType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος μονάδας.
 
@@ -22,7 +23,7 @@ public UnitTypes UnitType { get; set; }
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

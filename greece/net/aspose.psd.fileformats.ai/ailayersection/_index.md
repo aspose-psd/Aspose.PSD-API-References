@@ -1,14 +1,15 @@
 ---
-title: Class AiLayerSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Ai.AiLayerSection τάξη. Τομέας επιπέδου με μορφή Ai
+title: "Κλάση AiLayerSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Ai.AiLayerSection κλάση. Η ενότητα στρώματος μορφής Ai"
 type: docs
-weight: 1270
+weight: 1280
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
-Τομέας επιπέδου με μορφή Ai
+Η ενότητα στρώματος του μορφότυπου Ai
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
@@ -16,34 +17,36 @@ public sealed class AiLayerSection : AiDataSection
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Λαμβάνει ή ορίζει το στοιχείο μπλε χρώματος. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό χρώματος. -1 είναι η προσαρμοσμένη τιμή χρώματος από τις ιδιότητες Κόκκινο, Πράσινο, Μπλε. Καθορίζει τη ρύθμιση χρώματος του επιπέδου. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή dim ως ποσοστό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των εικόνων bitmap που περιέχονται στο επίπεδο στο καθορισμένο ποσοστό. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει διατεθεί. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Λαμβάνει ή ορίζει το στοιχείο πράσινου χρώματος. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι σκοτεινό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των εικόνων bitmap που περιέχονται στο επίπεδο. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι κλειδωμένο. Αποτρέπει αλλαγές στο στοιχείο. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι προεπισκόπηση. Εμφανίζει το έργο τέχνης που περιέχεται στο επίπεδο με χρώμα αντί για περιγράμματα. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο έχει εκτυπωθεί. Κάνει το έργο τέχνης που περιέχεται στο επίπεδο εκτυπώσιμο εάν είναι αληθές. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο εμφανίζεται. Εμφανίζει όλα τα έργα τέχνης που περιέχονται στο επίπεδο στον πίνακα γραφικών, εάν είναι true. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι επίπεδο προτύπου. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του επιπέδου. Καθορίζει το όνομα του στοιχείου όπως εμφανίζεται στον πίνακα "Επίπεδα". |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Λαμβάνει τις εικόνες ράστερ. |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Λαμβάνει ή ορίζει το στοιχείο κόκκινου χρώματος. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Λαμβάνει ή ορίζει το μπλε συστατικό χρώματος. |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | Λαμβάνει ή ορίζει τον δείκτη του χρώματος. Αυτό το όρισμα μπορεί να πάρει τιμές μεταξύ –1 και 26. Κάθε ακέραιος αντιπροσωπεύει ένα χρώμα που μπορεί να ανατεθεί στο στρώμα για σκοπούς ταυτοποίησης χρήστη. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό χρώματος. Το -1 είναι η προσαρμοσμένη τιμή χρώματος από τις ιδιότητες Red, Green, Blue. Καθορίζει τη ρύθμιση χρώματος του στρώματος. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή σκίασης ως ποσοστό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των bitmap εικόνων που περιέχονται στο στρώμα στο καθορισμένο ποσοστό. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει απελευθερωθεί. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Λαμβάνει ή ορίζει το πράσινο συστατικό χρώματος. |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει μάσκες πολλαπλών στρωμάτων. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι σκιασμένο. Μειώνει την ένταση των συνδεδεμένων εικόνων και των bitmap εικόνων που περιέχονται στο στρώμα. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι κλειδωμένο. Αποτρέπει τις αλλαγές στο αντικείμενο. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι προεπισκόπηση. Εμφανίζει το έργο τέχνης που περιέχεται στο στρώμα σε χρώμα αντί για περιγράμματα. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα εκτυπώνεται. Καθιστά το έργο τέχνης που περιέχεται στο στρώμα εκτυπώσιμο αν είναι αληθές. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα εμφανίζεται. Εμφανίζει όλο το έργο τέχνης που περιέχεται στο στρώμα στον πίνακα σχεδίασης αν είναι αληθές. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι στρώμα προτύπου. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του στρώματος. Καθορίζει το όνομα του αντικειμένου όπως εμφανίζεται στον πίνακα Layers. |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Λαμβάνει τις raster εικόνες. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Λαμβάνει ή ορίζει το κόκκινο συστατικό χρώματος. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Προσθέτει την εικόνα ράστερ. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Διαθέτει την τρέχουσα παρουσία. |
+| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Προσθέτει την ραστερ εικόνα. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Αποδεσμεύει την τρέχουσα παρουσία. |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Λαμβάνει τα δεδομένα συμβολοσειράς. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τον τρόπο φόρτωσης των ρυθμίσεων των εικόνων ράστερ σε αρχεία μορφής AI.
+Ο παρακάτω κώδικας δείχνει πώς να φορτώσετε τις ρυθμίσεις των Raster Images σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -89,7 +92,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 ### Δείτε επίσης
 
 * class [AiDataSection](../aidatasection/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

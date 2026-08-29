@@ -1,14 +1,15 @@
 ---
-title: Region.Intersect
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region μέθοδος. Ενημερώνει αυτόRegion στη διασταύρωση του εαυτού του με το καθορισμένοRectangleFδομή.
+title: "Region.Intersect"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Region. Ενημερώνει αυτό το Region στην τομή του με τη συγκεκριμένη δομή RectangleF"
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-Ενημερώνει αυτό[`Region`](../) στη διασταύρωση του εαυτού του με το καθορισμένο[`RectangleF`](../../rectanglef/)δομή.
+Ενημερώνει αυτό το [`Region`](../) στην τομή του με τη συγκεκριμένη δομή [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Intersect(RectangleF rect)
@@ -16,20 +17,20 @@ public void Intersect(RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ο[`RectangleF`](../../rectanglef/) δομή για να διασταυρωθεί με αυτό[`Region`](../). |
+| rect | RectangleF | Η δομή [`RectangleF`](../../rectanglef/) για τομή με αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-Ενημερώνει αυτό[`Region`](../) στη διασταύρωση του εαυτού του με το καθορισμένο[`Rectangle`](../../rectangle/)δομή.
+Ενημερώνει αυτό το [`Region`](../) στην τομή του με τη συγκεκριμένη δομή [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Intersect(Rectangle rect)
@@ -37,20 +38,20 @@ public void Intersect(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../../rectangle/) δομή για να διασταυρωθεί με αυτό[`Region`](../). |
+| rect | Rectangle | Η δομή [`Rectangle`](../../rectangle/) για τομή με αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-Ενημερώνει αυτό[`Region`](../) στη διασταύρωση του εαυτού του με το καθορισμένο[`GraphicsPath`](../../graphicspath/) .
+Ενημερώνει αυτό το [`Region`](../) στην τομή του με τη συγκεκριμένη [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Intersect(GraphicsPath path)
@@ -58,20 +59,20 @@ public void Intersect(GraphicsPath path)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| path | GraphicsPath | ο[`GraphicsPath`](../../graphicspath/) να διασταυρωθεί με αυτό[`Region`](../). |
+| path | GraphicsPath | Η [`GraphicsPath`](../../graphicspath/) για τομή με αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-Ενημερώνει αυτό[`Region`](../) στη διασταύρωση του εαυτού του με το καθορισμένο[`Region`](../) .
+Ενημερώνει αυτό το [`Region`](../) στην τομή του με το συγκεκριμένο [`Region`](../).
 
 ```csharp
 public void Intersect(Region region)
@@ -79,12 +80,12 @@ public void Intersect(Region region)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| region | Region | ο[`Region`](../) να διασταυρωθεί με αυτό[`Region`](../). |
+| region | Region | Το [`Region`](../) για τομή με αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: FilterEffectMaskData.Rectangle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FilterEffectMaskData ιδιοκτησία. Παίρνει το ορθογώνιο των καναλιών.
+title: "FilterEffectMaskData.Rectangle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FilterEffectMaskData. Λαμβάνει το ορθογώνιο των καναλιών"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/rectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Rectangle property
 
-Παίρνει το ορθογώνιο των καναλιών.
+Λαμβάνει το ορθογώνιο των καναλιών.
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου FXidResource.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου FXidResource.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -48,7 +49,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// έλεγχος μετά την αποθήκευση
+// ελέγξτε μετά την αποθήκευση
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

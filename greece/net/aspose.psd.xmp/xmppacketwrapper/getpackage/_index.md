@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPacketWrapper μέθοδος. Λήψη πακέτου ανά χώρο ονομάτων URI.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpPacketWrapper. Λαμβάνει το πακέτο με βάση το URI του namespace"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-Λήψη πακέτου ανά χώρο ονομάτων URI.
+Αποκτά το πακέτο με το URI του namespace.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
@@ -16,15 +17,15 @@ public XmpPackage GetPackage(string namespaceUri)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceUri | String | Το σχήμα πακέτου URI. |
+| namespaceUri | String | Το URI του σχήματος του πακέτου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει το πακέτο XMP για καθορισμένο URI χώρου ονομάτων.
+Επιστρέφει το πακέτο XMP για το καθορισμένο URI του namespace.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | ArgumentNullException | namespaceUri |
 
@@ -32,7 +33,7 @@ public XmpPackage GetPackage(string namespaceUri)
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

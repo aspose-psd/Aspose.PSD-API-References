@@ -1,11 +1,12 @@
 ---
-title: Font.IsComposite
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η γραμματοσειρά είναι σύνθετη.
+title: "Font.IsComposite"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η γραμματοσειρά είναι σύνθετη"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
 Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η γραμματοσειρά είναι σύνθετη.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 public bool IsComposite { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η γραμματοσειρά είναι σύνθετη. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η γραμματοσειρά είναι σύνθετη· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

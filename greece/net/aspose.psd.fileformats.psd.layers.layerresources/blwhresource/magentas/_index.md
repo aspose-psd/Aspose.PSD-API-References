@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Magentas
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlwhResource ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή magentas.
+title: "BlwhResource.Magentas"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlwhResource. Λαμβάνει ή ορίζει την τιμή των ματζέντα"
 type: docs
-weight: 90
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Magentas property
 
-Λαμβάνει ή ορίζει την τιμή magentas.
+Λαμβάνει ή ορίζει την τιμή των ματζέντα.
 
 ```csharp
 public int Magentas { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή magentas.
+Η τιμή των ματζέντα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
+Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Δείτε επίσης
 
 * class [BlwhResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

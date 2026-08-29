@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DublinCorePackage μέθοδος. Προσθέτει τον εκδότη.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DublinCorePackage μέθοδος. Προσθέτει τον εκδότη"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
 Προσθέτει τον εκδότη.
@@ -16,13 +17,13 @@ public void SetPublisher(string publisher)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| publisher | String | Ο εκδότης. |
+| εκδότης | String | Ο εκδότης. |
 
 ### Δείτε επίσης
 
 * class [DublinCorePackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,18 +37,18 @@ public void SetPublisher(string[] publisher)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| publisher | String[] | Ο εκδότης. |
+| εκδότης | String[] | Ο εκδότης. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | ArgumentNullException | εκδότης |
 
 ### Δείτε επίσης
 
 * class [DublinCorePackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.ExportArea
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MultiPageOptions ιδιοκτησία. Λαμβάνει ή ορίζει την περιοχή εξαγωγής.
+title: "MultiPageOptions.ExportArea"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα MultiPageOptions. Λαμβάνει ή ορίζει την περιοχή εξαγωγής"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.ExportArea property
 
 Λαμβάνει ή ορίζει την περιοχή εξαγωγής.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 public Rectangle ExportArea { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η περιοχή εξαγωγής.
 
@@ -22,7 +23,7 @@ public Rectangle ExportArea { get; set; }
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

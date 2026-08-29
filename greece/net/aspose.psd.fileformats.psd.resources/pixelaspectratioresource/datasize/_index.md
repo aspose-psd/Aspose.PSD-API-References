@@ -1,27 +1,28 @@
 ---
-title: PixelAspectRatioResource.DataSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelAspectRatioResource ιδιοκτησία. Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+title: "PixelAspectRatioResource.DataSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PixelAspectRatioResource property. Λαμβάνει το μέγεθος δεδομένων του πόρου σε bytes"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/datasize/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.DataSize property
 
-Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+Λαμβάνει το μέγεθος δεδομένων του πόρου σε byte.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μέγεθος δεδομένων πόρων.
+Το μέγεθος δεδομένων του πόρου.
 
 ### Δείτε επίσης
 
 * class [PixelAspectRatioResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

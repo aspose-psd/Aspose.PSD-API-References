@@ -1,14 +1,15 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffImageException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTiffImageException τάξη.
+title: "TiffImageException.TiffImageException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffImageException κατασκευαστής. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης TiffImageException."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffImageException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message)
@@ -16,19 +17,19 @@ public TiffImageException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 
 ### Δείτε επίσης
 
 * class [TiffImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffImageException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
@@ -42,14 +43,14 @@ public TiffImageException(string message, Exception innerException)
 ### Δείτε επίσης
 
 * class [TiffImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffImageException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
@@ -58,20 +59,20 @@ public TiffImageException(string message, TiffOptionsError error)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | message | String | Το μήνυμα. |
-| error | TiffOptionsError | Το λάθος. |
+| σφάλμα | TiffOptionsError | Το σφάλμα. |
 
 ### Δείτε επίσης
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffImageException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`TiffImageException`](../).
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
@@ -79,13 +80,13 @@ public TiffImageException(TiffOptionsError error)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| error | TiffOptionsError | Το λάθος. |
+| σφάλμα | TiffOptionsError | Το σφάλμα. |
 
 ### Δείτε επίσης
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

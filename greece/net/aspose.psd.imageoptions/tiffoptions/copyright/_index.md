@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Copyright
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Αποκτά ή ορίζει τα πνευματικά δικαιώματα.
+title: "TiffOptions.Copyright"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffOptions ιδιότητα. Λαμβάνει ή ορίζει το δικαίωμα πνευματικής ιδιοκτησίας"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.imageoptions/tiffoptions/copyright/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Copyright property
 
-Αποκτά ή ορίζει τα πνευματικά δικαιώματα.
+Λαμβάνει ή ορίζει το δικαίωμα πνευματικής ιδιοκτησίας.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα πνευματικά δικαιώματα.
+Το δικαίωμα πνευματικής ιδιοκτησίας.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

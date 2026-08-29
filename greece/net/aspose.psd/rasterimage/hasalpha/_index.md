@@ -1,11 +1,12 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει άλφα.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage property. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει άλφα"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
 Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει άλφα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/rasterimage/hasalpha/
 public virtual bool HasAlpha { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν αυτή η περίπτωση έχει άλφα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία έχει άλφα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα σειρών ανάμειξης επιπέδων.
+title: "Layer.LayerBlendingRangesData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει ή ορίζει τα δεδομένα περιοχών ανάμειξης του layer"
 type: docs
-weight: 190
+weight: 200
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
-Λαμβάνει ή ορίζει τα δεδομένα σειρών ανάμειξης επιπέδων.
+Λαμβάνει ή ορίζει τα δεδομένα περιοχών ανάμειξης του στρώματος.
 
 ```csharp
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Δεδομένα σειρών ανάμειξης επιπέδων.
+Τα δεδομένα περιοχών ανάμειξης στρώσης.
 
 ### Δείτε επίσης
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

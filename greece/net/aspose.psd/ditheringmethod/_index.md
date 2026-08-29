@@ -1,29 +1,30 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.DitheringMethod αρίθμηση. Μέθοδος διήθησης.
+title: "Απαρίθμηση DitheringMethod"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.DitheringMethod απαρίθμηση. Μέθοδος διαστίλβωσης"
 type: docs
-weight: 770
+weight: 780
 url: /el/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
-Μέθοδος διήθησης.
+Μέθοδος τριχοτόμησης.
 
 ```csharp
 public enum DitheringMethod
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| ThresholdDithering | `0` | Διαταραχή κατωφλίου. Ο απλούστερος και ταχύτερος αλγόριθμος παραμόρφωσης. |
-| FloydSteinbergDithering | `1` | Οι Φλόιντ-Στάινμπεργκ αναστατώνονται. Ένας πιο σύνθετος αλγόριθμος παραμόρφωσης, χρησιμοποιεί τιμές έντασης πλησιέστερων γειτόνων. |
+| ThresholdDithering | `0` | Διαστίλβωση κατωφλίου. Ο πιο απλός και γρήγορος αλγόριθμος διαστίλβωσης. |
+| FloydSteinbergDithering | `1` | Η διαστίλβωση Floyd-Steinberg. Ένας πιο σύνθετος αλγόριθμος διαστίλβωσης, χρησιμοποιεί τιμές έντασης των κοντινότερων γειτόνων. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum WarpMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.WarpMode αρίθμηση. Καθορίζει τον τύπο του μετασχηματισμού στημόνι που εφαρμόζεται.
+title: "Απαρίθμηση WarpMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.WarpMode enum. Καθορίζει τον τύπο της παραμόρφωσης που εφαρμόζεται."
 type: docs
-weight: 5730
+weight: 6230
 url: /el/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
-Καθορίζει τον τύπο του μετασχηματισμού στημόνι που εφαρμόζεται.
+Καθορίζει τον τύπο παραμόρφωσης μετασχηματισμού που εφαρμόζεται.
 
 ```csharp
 public enum WarpMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Perspective | `0` | Καθορίζει ένα στρέβλωμα προοπτικής. |
-| Bilinear | `1` | Καθορίζει ένα διγραμμικό στημόνι. |
+| Perspective | `0` | Καθορίζει μια προοπτική παραμόρφωση. |
+| Bilinear | `1` | Καθορίζει μια διγραμμική παραμόρφωση. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

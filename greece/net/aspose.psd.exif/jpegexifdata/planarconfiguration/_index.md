@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.PlanarConfiguration
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει την επίπεδη διαμόρφωση.
+title: "JpegExifData.PlanarConfiguration"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει τη διαμόρφωση επιπέδου."
 type: docs
 weight: 140
 url: /el/net/aspose.psd.exif/jpegexifdata/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PlanarConfiguration property
 
-Λαμβάνει ή ορίζει την επίπεδη διαμόρφωση.
+Λαμβάνει ή ορίζει τη διαμόρφωση επιπέδου.
 
 ```csharp
 public ushort PlanarConfiguration { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η επίπεδη διαμόρφωση.
+Η διαμόρφωση επίπεδου.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

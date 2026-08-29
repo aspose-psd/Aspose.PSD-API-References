@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange αρίθμηση. exif εύρος απόστασης θέματος αριθ.
+title: "Απαρίθμηση ExifSubjectDistanceRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange απαρίθμηση. exif subject distance range απαρίθμηση"
 type: docs
-weight: 950
+weight: 960
 url: /el/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-exif εύρος απόστασης θέματος αριθ.
+exif εύρος απόστασης θέματος enum.
 
 ```csharp
 public enum ExifSubjectDistanceRange
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Unknown | `0` | Άγνωστο εύρος απόστασης θέματος |
-| Macro | `1` | Εύρος μακροεντολών |
-| CloseView | `2` | Κλείσιμο προβολής. |
-| DistantView | `3` | Απόμακρη άποψη. |
+| Unknown | `0` | Άγνωστη εμβέλεια απόστασης θέματος |
+| Macro | `1` | Μακροεμβέλεια |
+| CloseView | `2` | Κοντινή άποψη. |
+| DistantView | `3` | Απομακρυσμένη άποψη. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

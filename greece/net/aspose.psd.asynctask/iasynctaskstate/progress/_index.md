@@ -1,11 +1,12 @@
 ---
-title: IAsyncTaskState.Progress
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAsyncTaskState ιδιοκτησία. Λαμβάνει την πρόοδο της ασύγχρονης εργασίας.
+title: "IAsyncTaskState.Progress"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IAsyncTaskState ιδιότητα. Λαμβάνει την πρόοδο της ασύγχρονης εργασίας"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.asynctask/iasynctaskstate/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.Progress property
 
 Λαμβάνει την πρόοδο της ασύγχρονης εργασίας.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.asynctask/iasynctaskstate/progress/
 public AsyncTaskProgress Progress { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η πρόοδος της ασύγχρονης εργασίας.
 
@@ -22,7 +23,7 @@ public AsyncTaskProgress Progress { get; }
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTaskState](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

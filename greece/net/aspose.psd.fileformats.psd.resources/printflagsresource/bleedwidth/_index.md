@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PrintFlagsResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει το πλάτος της αιμορραγίας.
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PrintFlagsResource ιδιότητα. Λαμβάνει ή ορίζει το πλάτος του bleed"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-Λαμβάνει ή ρυθμίζει το πλάτος της αιμορραγίας.
+Λαμβάνει ή ορίζει το πλάτος της υπερέκτασης.
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλάτος της αιμορραγίας.
+Το πλάτος του bleed.
 
 ### Δείτε επίσης
 
 * class [PrintFlagsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

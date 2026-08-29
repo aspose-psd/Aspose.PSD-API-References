@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Η μετατόπιση της γραμμής βάσης.
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ITextStyle. Η μετατόπιση βάσης"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
-Η μετατόπιση της γραμμής βάσης.
+Η μετατόπιση γραμμής βάσης.
 
 ```csharp
 public double BaselineShift { get; set; }
@@ -17,7 +18,7 @@ public double BaselineShift { get; set; }
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer ιδιοκτησία. Λαμβάνει ή ορίζει το πλαίσιο δεσμευμένου κειμένου.
+title: "TextLayer.TextBoundBox"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextLayer. Λαμβάνει ή ορίζει το πλαίσιο οριοθέτησης του κειμένου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-Λαμβάνει ή ορίζει το πλαίσιο δεσμευμένου κειμένου.
+Λαμβάνει ή ορίζει το πλαίσιο οριοθέτησης του κειμένου.
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλαίσιο δεσμευμένου κειμένου.
+Το πλαίσιο οριοθέτησης του κειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

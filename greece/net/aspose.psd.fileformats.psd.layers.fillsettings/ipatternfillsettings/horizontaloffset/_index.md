@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.HorizontalOffset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει την οριζόντια μετατόπιση.
+title: "IPatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει την οριζόντια μετατόπιση"
 type: docs
-weight: 10
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.HorizontalOffset property
 
 Λαμβάνει ή ορίζει την οριζόντια μετατόπιση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public int HorizontalOffset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η οριζόντια μετατόπιση.
 
 ### Δείτε επίσης
 
 * interface [IPatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

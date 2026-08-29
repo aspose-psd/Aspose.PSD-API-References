@@ -1,11 +1,12 @@
 ---
-title: VectorImage.HeightF
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorImage ιδιοκτησία. Λαμβάνει το ύψος του αντικειμένου σε ίντσες.
+title: "VectorImage.HeightF"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorImage. Λαμβάνει το ύψος του αντικειμένου σε ίντσες"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
 Λαμβάνει το ύψος του αντικειμένου, σε ίντσες.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/vectorimage/heightf/
 public virtual float HeightF { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος του αντικειμένου, σε ίντσες.
 
 ### Δείτε επίσης
 
 * class [VectorImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../vectorimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

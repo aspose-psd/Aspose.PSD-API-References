@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.Seek
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamContainer μέθοδος. Ορίζει τη θέση εντός της τρέχουσας ροής.
+title: "StreamContainer.Seek"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "StreamContainer μέθοδος. Ορίζει τη θέση εντός του τρέχοντος ρεύματος"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/streamcontainer/seek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Seek method
 
-Ορίζει τη θέση εντός της τρέχουσας ροής.
+Ορίζει τη θέση μέσα στην τρέχουσα ροή.
 
 ```csharp
 public virtual long Seek(long offset, SeekOrigin origin)
@@ -16,18 +17,18 @@ public virtual long Seek(long offset, SeekOrigin origin)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| offset | Int64 | Μετατόπιση byte σε σχέση με το*origin* παράμετρος. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer. |
-| origin | SeekOrigin | Μια τιμή τύπουSeekOrigin υποδεικνύοντας το σημείο αναφοράς που χρησιμοποιήθηκε για την απόκτηση της νέας θέσης. |
+| offset | Int64 | Μία μετατόπιση byte σε σχέση με την παράμετρο *origin*. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης του ρεύματος που δόθηκε στον κατασκευαστή StreamContainer. |
+| origin | SeekOrigin | Μια τιμή τύπου SeekOrigin που υποδεικνύει το σημείο αναφοράς που χρησιμοποιείται για την απόκτηση της νέας θέσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η νέα θέση στην τρέχουσα ροή.
+Η νέα θέση εντός του τρέχοντος ρεύματος.
 
 ### Δείτε επίσης
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [StreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../streamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

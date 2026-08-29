@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ορίζει το πληρωτικό στρώμα.
+title: "Layer.Filler"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει ή ορίζει το γέμισμα του στρώματος"
 type: docs
-weight: 120
+weight: 130
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-Λαμβάνει ή ορίζει το πληρωτικό στρώμα.
+Λαμβάνει ή ορίζει το γέμισμα του επιπέδου.
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πληρωτικό στρώμα.
+Το γέμισμα του στρώματος.
 
 ### Δείτε επίσης
 
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

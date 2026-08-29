@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.XmpPackageBaseCollection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackageBaseCollection κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "XmpPackageBaseCollection.XmpPackageBaseCollection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackageBaseCollection constructor. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmppackagebasecollection/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public XmpPackageBaseCollection()
 ### Δείτε επίσης
 
 * class [XmpPackageBaseCollection](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

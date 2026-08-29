@@ -1,14 +1,15 @@
 ---
-title: SizeF.Empty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SizeF ιδιοκτησία. Παίρνει μια νέα παρουσία τουSizeF δομή που έχειWidth καιHeight τιμές ορίστηκαν στο μηδέν.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SizeF. Λαμβάνει μια νέα παρουσία της δομής SizeF που έχει τιμές Width και Height ορισμένες στο μηδέν."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-Παίρνει μια νέα παρουσία του[`SizeF`](../) δομή που έχει[`Width`](../width/) και[`Height`](../height/) τιμές ορίστηκαν στο μηδέν.
+Λαμβάνει μια νέα παρουσία της δομής [`SizeF`](../) που έχει τιμές [`Width`](../width/) και [`Height`](../height/) ορισμένες στο μηδέν.
 
 ```csharp
 public static SizeF Empty { get; }
@@ -17,7 +18,7 @@ public static SizeF Empty { get; }
 ### Δείτε επίσης
 
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

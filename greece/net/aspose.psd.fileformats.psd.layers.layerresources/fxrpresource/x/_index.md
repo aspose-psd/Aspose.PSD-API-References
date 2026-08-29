@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.X
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FxrpResource ιδιοκτησία. Λαμβάνει ή ορίζει το x του σημείου αναφοράς
+title: "FxrpResource.X"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FxrpResource ιδιότητα. Λαμβάνει ή ορίζει το x του σημείου αναφοράς"
 type: docs
-weight: 60
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
+{{< psd/tize >}}
 ## FxrpResource.X property
 
-Λαμβάνει ή ορίζει το x του σημείου αναφοράς
+Αποκτά ή ορίζει το x του σημείου αναφοράς
 
 ```csharp
 public double X { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το x του σημείου αναφοράς
 
 ### Δείτε επίσης
 
 * class [FxrpResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

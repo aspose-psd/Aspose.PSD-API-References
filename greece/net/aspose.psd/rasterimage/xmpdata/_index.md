@@ -1,20 +1,21 @@
 ---
-title: RasterImage.XmpData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει ή ορίζει τα μεταδεδομένα XMP.
+title: "RasterImage.XmpData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterImage. Λαμβάνει ή ορίζει τα μεταδεδομένα XMP"
 type: docs
 weight: 170
 url: /el/net/aspose.psd/rasterimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.XmpData property
 
-Λαμβάνει ή ορίζει τα μεταδεδομένα XMP.
+Ανακτά ή ορίζει τα μεταδεδομένα XMP.
 
 ```csharp
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα μεταδεδομένα XMP.
 
@@ -22,7 +23,7 @@ public virtual XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

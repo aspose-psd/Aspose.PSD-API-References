@@ -1,14 +1,15 @@
 ---
-title: LinkedLayersManager.GetLinkGroupId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinkedLayersManager μέθοδος. Λαμβάνει το αναγνωριστικό ομάδας συνδέσμων που σχετίζεται με το επίπεδο.
+title: "LinkedLayersManager.GetLinkGroupId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LinkedLayersManager. Λαμβάνει το ID της ομάδας συνδέσμων που σχετίζεται με το επίπεδο"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.GetLinkGroupId method
 
-Λαμβάνει το αναγνωριστικό ομάδας συνδέσμων που σχετίζεται με το επίπεδο.
+Λαμβάνει το αναγνωριστικό ομάδας σύνδεσης που σχετίζεται με το στρώμα.
 
 ```csharp
 public short GetLinkGroupId(Layer layer)
@@ -16,15 +17,15 @@ public short GetLinkGroupId(Layer layer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| layer | Layer | Το στρώμα. |
+| στρώση | Στρώση | Το στρώμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αναγνωριστικό της ομάδας συνδέσμων.
+Το αναγνωριστικό ομάδας σύνδεσης.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χειριστείτε συνδεδεμένα επίπεδα στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να χειριστείτε τα συνδεδεμένα στρώματα στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -32,31 +33,31 @@ public short GetLinkGroupId(Layer layer)
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // συνδέστε όλα τα επίπεδα σε μια συνδεδεμένη ομάδα
+    // συνδέστε όλα τα στρώματα σε μία συνδεδεμένη ομάδα
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // παίρνει αναγνωριστικό για ένα επίπεδο
+    // λαμβάνει το αναγνωριστικό για ένα στρώμα
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // λαμβάνει όλα τα συνδεδεμένα επίπεδα ανά αναγνωριστικό ομάδας συνδέσμων.
+    // λαμβάνει όλα τα συνδεδεμένα στρώματα με βάση το αναγνωριστικό ομάδας σύνδεσης.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // αποσυνδέστε κάθε επίπεδο από την ομάδα
+    // αποσυνδέστε κάθε στρώμα από την ομάδα
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // ανακτά το NULL για ένα αναγνωριστικό ομάδας συνδέσμων που δεν έχει επίπεδα στην ομάδα.
+    // επιστρέφει NULL για ένα αναγνωριστικό ομάδας σύνδεσης που δεν έχει στρώματα στην ομάδα.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -70,7 +71,7 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

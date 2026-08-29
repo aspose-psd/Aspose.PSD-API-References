@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.InkNames
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τα ονόματα μελανιών.
+title: "TiffOptions.InkNames"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τα ονόματα μελανιών."
 type: docs
-weight: 220
+weight: 230
 url: /el/net/aspose.psd.imageoptions/tiffoptions/inknames/
 ---
+{{< psd/tize >}}
 ## TiffOptions.InkNames property
 
-Λαμβάνει ή ορίζει τα ονόματα μελανιών.
+Λαμβάνει ή ορίζει τα ονόματα μελανιού.
 
 ```csharp
 public string InkNames { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα ονόματα μελανιού.
+Τα ονόματα μελανιών.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

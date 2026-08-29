@@ -1,14 +1,15 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectArrayStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουObjectArrayStructure τάξη.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ObjectArrayStructure constructor. Δημιουργεί μια νέα παρουσία της κλάσης ObjectArrayStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ObjectArrayStructure`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
@@ -18,9 +19,9 @@ public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[
 | --- | --- | --- |
 | keyName | String | Όνομα του κλειδιού. |
 | classIdName | String | Όνομα του αναγνωριστικού κλάσης. |
-| structures | OSTypeStructure[] | Οι δομές. |
+| δομές | OSTypeStructure[] | Οι δομές. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -78,14 +79,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ObjectArrayStructure`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`ObjectArrayStructure`](../).
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
@@ -94,19 +95,19 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | Int32 | Το ακέραιο κλειδί. |
+| κλειδί | Int32 | Το ακέραιο κλειδί. |
 | keyName | ClassID | Το όνομα κλειδιού. |
-| classID | ClassID | Το αναγνωριστικό κλάσης. |
-| className | String | Όνομα της τάξης. |
-| structures | OSTypeStructure[] | Οι δομές. |
+| classID | ClassID | Το αναγνωριστικό της κλάσης. |
+| className | String | Όνομα της κλάσης. |
+| δομές | OSTypeStructure[] | Οι δομές. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | classID είναι μηδενικό |
+| ArgumentNullException | Το classID είναι null |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -165,7 +166,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Reset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath μέθοδος. Αδειάζει τη διαδρομή γραφικών και ορίζει τοFillMode προς τηνAlternate .
+title: "GraphicsPath.Reset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος GraphicsPath. Αδειάζει τη διαδρομή γραφικών και ορίζει το FillMode σε Alternate."
 type: docs
 weight: 150
 url: /el/net/aspose.psd/graphicspath/reset/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reset method
 
-Αδειάζει τη διαδρομή γραφικών και ορίζει το[`FillMode`](../../fillmode/) προς τηνAlternate .
+Αδειάζει τη διαδρομή γραφικών και ορίζει το [`FillMode`](../../fillmode/) σε Alternate.
 
 ```csharp
 public void Reset()
@@ -17,7 +18,7 @@ public void Reset()
 ### Δείτε επίσης
 
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

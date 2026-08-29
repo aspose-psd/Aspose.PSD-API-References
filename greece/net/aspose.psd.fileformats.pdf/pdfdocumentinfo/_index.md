@@ -1,14 +1,15 @@
 ---
-title: Class PdfDocumentInfo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo τάξη. Αυτή η κλάση αντιπροσωπεύει σύνολο μεταδεδομένων για περιγραφή εγγράφου.
+title: "Class PdfDocumentInfo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo class. Αυτή η κλάση αντιπροσωπεύει ένα σύνολο μεταδεδομένων για την περιγραφή του εγγράφου"
 type: docs
-weight: 1570
+weight: 1580
 url: /el/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo class
 
-Αυτή η κλάση αντιπροσωπεύει σύνολο μεταδεδομένων για περιγραφή εγγράφου.
+Αυτή η κλάση αναπαριστά ένα σύνολο μεταδεδομένων για την περιγραφή του εγγράφου.
 
 ```csharp
 public class PdfDocumentInfo
@@ -16,22 +17,22 @@ public class PdfDocumentInfo
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [PdfDocumentInfo](pdfdocumentinfo/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | Λαμβάνει ή ορίζει τον συγγραφέα του εγγράφου. |
-| [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | Λαμβάνει ή ορίζει λέξεις-κλειδιά του εγγράφου. |
-| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | Λαμβάνει ή ορίζει θέμα του εγγράφου. |
+| [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | Λαμβάνει ή ορίζει τις λέξεις-κλειδιά του εγγράφου. |
+| [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | Λαμβάνει ή ορίζει το θέμα του εγγράφου. |
 | [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | Λαμβάνει ή ορίζει τον τίτλο του εγγράφου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

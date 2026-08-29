@@ -1,11 +1,12 @@
 ---
-title: FXidResource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FXidResource μέθοδος. Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
+title: "FXidResource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FXidResource μέθοδος. Αποθηκεύει τον πόρο στον καθορισμένο υποδοχέα ροής"
 type: docs
-weight: 80
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save/
 ---
+{{< psd/tize >}}
 ## FXidResource.Save method
 
 Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FXidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

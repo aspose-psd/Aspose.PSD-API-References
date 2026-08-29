@@ -1,14 +1,15 @@
 ---
-title: Class ImageLoadException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.ImageLoadException τάξη. Η εξαίρεση φόρτωσης εικόνας. Εμφανίζεται κατά τη φόρτωση εικόνας.
+title: "Κλάση ImageLoadException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CoreExceptions.ImageLoadException κλάση. Η εξαίρεση φόρτωσης εικόνας. Συμβαίνει κατά τη φόρτωση της εικόνας"
 type: docs
 weight: 620
 url: /el/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
-Η εξαίρεση φόρτωσης εικόνας. Εμφανίζεται κατά τη φόρτωση εικόνας.
+Η εξαίρεση φόρτωσης εικόνας. Συμβαίνει κατά τη φόρτωση της εικόνας.
 
 ```csharp
 public class ImageLoadException : ImageException
@@ -16,15 +17,15 @@ public class ImageLoadException : ImageException
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία του`ImageLoadException` τάξη. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία του`ImageLoadException` τάξη. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ImageLoadException`. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ImageLoadException`. |
 
 ### Δείτε επίσης
 
 * class [ImageException](../imageexception/)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

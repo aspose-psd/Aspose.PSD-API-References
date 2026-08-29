@@ -1,14 +1,15 @@
 ---
-title: IAdvancedBufferProcessor.FinishRows
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAdvancedBufferProcessor μέθοδος. Ολοκληρώνει τις σειρές.
+title: "IAdvancedBufferProcessor.FinishRows"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IAdvancedBufferProcessor. Ολοκληρώνει τις γραμμές"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/iadvancedbufferprocessor/finishrows/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor.FinishRows method
 
-Ολοκληρώνει τις σειρές.
+Ολοκληρώνει τις γραμμές.
 
 ```csharp
 public void FinishRows(int rowsCount)
@@ -16,12 +17,12 @@ public void FinishRows(int rowsCount)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rowsCount | Int32 | Οι σειρές μετράνε. |
+| rowsCount | Int32 | Ο αριθμός των γραμμών. |
 
 ### Δείτε επίσης
 
 * interface [IAdvancedBufferProcessor](../)
-* χώρος ονομάτων [Aspose.PSD](../../iadvancedbufferprocessor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

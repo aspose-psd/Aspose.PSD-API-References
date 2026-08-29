@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Brightness
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη φωτεινότητα.
+title: "CgEdResource.Brightness"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource property. Λαμβάνει ή ορίζει τη φωτεινότητα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Brightness property
 
-Λαμβάνει ή ρυθμίζει τη φωτεινότητα.
+Λαμβάνει ή ορίζει τη φωτεινότητα.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η φωτεινότητα.
 
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

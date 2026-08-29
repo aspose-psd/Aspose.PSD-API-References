@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PointType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο του σημείου.
+title: "PatternFillSettings.PointType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PatternFillSettings. Λαμβάνει ή ορίζει τον τύπο του σημείου"
 type: docs
-weight: 110
+weight: 130
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PointType property
 
 Λαμβάνει ή ορίζει τον τύπο του σημείου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public string PointType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το είδος του σημείου.
+Ο τύπος του σημείου.
 
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

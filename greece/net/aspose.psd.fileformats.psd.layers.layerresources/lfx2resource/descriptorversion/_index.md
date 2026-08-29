@@ -1,27 +1,28 @@
 ---
-title: Lfx2Resource.DescriptorVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Lfx2Resource ιδιοκτησία. Λαμβάνει την έκδοση περιγραφής.
+title: "Lfx2Resource.DescriptorVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Lfx2Resource. Επιστρέφει την έκδοση περιγραφέα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.DescriptorVersion property
 
-Λαμβάνει την έκδοση περιγραφής.
+Λαμβάνει την έκδοση του περιγραφέα.
 
 ```csharp
 public int DescriptorVersion { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η έκδοση περιγραφής.
+Η έκδοση περιγραφέα.
 
 ### Δείτε επίσης
 
 * class [Lfx2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

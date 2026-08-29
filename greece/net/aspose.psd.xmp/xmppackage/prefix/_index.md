@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Prefix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage ιδιοκτησία. Παίρνει το πρόθεμα.
+title: "XmpPackage.Prefix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackage ιδιότητα. Λαμβάνει το πρόθεμα."
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
-Παίρνει το πρόθεμα.
+Λαμβάνει το πρόθεμα.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πρόθεμα.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ExifData.RemoveTag
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData μέθοδος. Κατάργηση ετικέτας από το container
+title: "ExifData.RemoveTag"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData μέθοδος. Αφαίρεση ετικέτας από το δοχείο"
 type: docs
 weight: 1090
 url: /el/net/aspose.psd.exif/exifdata/removetag/
 ---
+{{< psd/tize >}}
 ## RemoveTag(ExifProperties) {#removetag}
 
-Κατάργηση ετικέτας από το container
+Αφαίρεση ετικέτας από το δοχείο
 
 ```csharp
 public void RemoveTag(ExifProperties tag)
@@ -16,20 +17,20 @@ public void RemoveTag(ExifProperties tag)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tag | ExifProperties | Η ετικέτα προς κατάργηση |
+| ετικέτα | ExifProperties | Η ετικέτα προς αφαίρεση |
 
 ### Δείτε επίσης
 
 * enum [ExifProperties](../../exifproperties/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RemoveTag(ushort) {#removetag_1}
 
-Κατάργηση ετικέτας από το container
+Αφαίρεση ετικέτας από το δοχείο
 
 ```csharp
 public void RemoveTag(ushort tagId)
@@ -37,12 +38,12 @@ public void RemoveTag(ushort tagId)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tagId | UInt16 | Το αναγνωριστικό ετικέτας προς κατάργηση. |
+| tagId | UInt16 | Το αναγνωριστικό ετικέτας προς αφαίρεση. |
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

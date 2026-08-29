@@ -1,14 +1,15 @@
 ---
-title: ResourceBlock.ValidateValues
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceBlock μέθοδος. Επικυρώνει τις τιμές των πόρων.
+title: "ResourceBlock.ValidateValues"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ResourceBlock. Επικυρώνει τις τιμές του πόρου"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd/resourceblock/validatevalues/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ValidateValues method
 
-Επικυρώνει τις τιμές των πόρων.
+Επικυρώνει τις τιμές του πόρου.
 
 ```csharp
 public virtual void ValidateValues()
@@ -17,7 +18,7 @@ public virtual void ValidateValues()
 ### Δείτε επίσης
 
 * class [ResourceBlock](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

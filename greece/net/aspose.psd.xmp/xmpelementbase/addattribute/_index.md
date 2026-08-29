@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpElementBase μέθοδος. Προσθέτει το χαρακτηριστικό.
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpElementBase. Προσθέτει το χαρακτηριστικό"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
 Προσθέτει το χαρακτηριστικό.
@@ -16,13 +17,13 @@ public virtual void AddAttribute(string attribute, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| attribute | String | Η ιδιότητα. |
-| value | String | Η αξία. |
+| χαρακτηριστικό | String | Το χαρακτηριστικό. |
+| τιμή | String | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpElementBase](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpelementbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

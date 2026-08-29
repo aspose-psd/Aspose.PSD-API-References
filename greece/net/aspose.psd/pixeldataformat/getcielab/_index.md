@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetCieLab
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Λαμβάνει χρώμα CIE Lab με καθορισμένο αριθμό bit ανά δείγμα.
+title: "PixelDataFormat.GetCieLab"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PixelDataFormat μέθοδος. Λαμβάνει το χρώμα CIE Lab με καθορισμένο αριθμό bits ανά δείγμα"
 type: docs
 weight: 200
 url: /el/net/aspose.psd/pixeldataformat/getcielab/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCieLab method
 
 Λαμβάνει χρώμα CIE Lab με καθορισμένο αριθμό bit ανά δείγμα.
@@ -16,18 +17,18 @@ public static PixelDataFormat GetCieLab(int bitsPerL, int bitsPerA, int bitsPerB
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bitsPerL | Int32 | Ο αριθμός των bit ανά κανάλι L. |
-| bitsPerA | Int32 | Ο αριθμός των bit ανά κανάλι Α. |
-| bitsPerB | Int32 | Ο αριθμός των bit ανά κανάλι B. |
+| bitsPerL | Int32 | Ο αριθμός των bits ανά κανάλι L. |
+| bitsPerA | Int32 | Ο αριθμός των bits ανά κανάλι A. |
+| bitsPerB | Int32 | Ο αριθμός των bits ανά κανάλι B. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα CIE Lab.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

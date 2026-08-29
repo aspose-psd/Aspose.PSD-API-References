@@ -1,11 +1,12 @@
 ---
-title: PatternOverlayEffect.Settings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternOverlayEffect ιδιοκτησία. Λαμβάνει ή ορίζει τις ρυθμίσεις.
+title: "PatternOverlayEffect.Settings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternOverlayEffect ιδιότητα. Λαμβάνει ή ορίζει τις ρυθμίσεις"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.Settings property
 
 Λαμβάνει ή ορίζει τις ρυθμίσεις.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect
 public PatternFillSettings Settings { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι ρυθμίσεις.
 
@@ -22,7 +23,7 @@ public PatternFillSettings Settings { get; set; }
 
 * class [PatternFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/)
 * class [PatternOverlayEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

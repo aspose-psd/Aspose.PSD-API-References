@@ -1,11 +1,12 @@
 ---
-title: Class XmpGuid
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpGuid τάξη. Αντιπροσωπεύει το παγκόσμιο μοναδικό αναγνωριστικό XMP.
+title: "Κλάση XmpGuid"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Xmp.Types.Derived.XmpGuid. Αντιπροσωπεύει το παγκόσμιο μοναδικό αναγνωριστικό XMP"
 type: docs
-weight: 6160
+weight: 6660
 url: /el/net/aspose.psd.xmp.types.derived/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid class
 
 Αντιπροσωπεύει το παγκόσμιο μοναδικό αναγνωριστικό XMP.
@@ -16,28 +17,28 @@ public sealed class XmpGuid : XmpTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpGuid](xmpguid/#constructor)(Guid) | Αρχικοποιεί μια νέα παρουσία του`XmpGuid` τάξη. |
-| [XmpGuid](xmpguid/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpGuid` τάξη. |
+| [XmpGuid](xmpguid/#constructor)(Guid) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `XmpGuid`. |
+| [XmpGuid](xmpguid/#constructor_1)(string) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `XmpGuid`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | Παίρνει ή ορίζει το πρόθεμα όπως uuid. |
+| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | Λαμβάνει ή ορίζει το πρόθεμα όπως το uuid. |
 | [Value](../../aspose.psd.xmp.types.derived/xmpguid/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

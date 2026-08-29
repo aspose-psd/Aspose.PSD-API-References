@@ -1,14 +1,15 @@
 ---
-title: LiFdDataSource.LiFdDataSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LiFdDataSource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLiFdDataSource τάξη.
+title: "LiFdDataSource.LiFdDataSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής LiFdDataSource. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης LiFdDataSource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/lifddatasource/
 ---
+{{< psd/tize >}}
 ## LiFdDataSource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LiFdDataSource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`LiFdDataSource`](../).
 
 ```csharp
 public LiFdDataSource()
@@ -17,14 +18,14 @@ public LiFdDataSource()
 ### Δείτε επίσης
 
 * class [LiFdDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifddatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LiFdDataSource(int, Guid, string, string, string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LiFdDataSource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`LiFdDataSource`](../).
 
 ```csharp
 public LiFdDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 
@@ -33,16 +34,16 @@ public LiFdDataSource(int version, Guid uniqueId, string originalFileName, strin
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| version | Int32 | Η έκδοση. |
+| έκδοση | Int32 | Η έκδοση. |
 | uniqueId | Guid | Το μοναδικό αναγνωριστικό. |
 | originalFileName | String | Όνομα του αρχικού αρχείου. |
-| fileType | String | Τύπος αρχείου. |
-| fileCreator | String | Ο δημιουργός αρχείων. |
+| fileType | String | Τύπος του αρχείου. |
+| fileCreator | String | Ο δημιουργός του αρχείου. |
 
 ### Δείτε επίσης
 
 * class [LiFdDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifddatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

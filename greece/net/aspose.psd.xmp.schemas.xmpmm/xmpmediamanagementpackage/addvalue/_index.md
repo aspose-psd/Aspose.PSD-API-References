@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.AddValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMediaManagementPackage μέθοδος. Προσθέτει την ιδιότητα συμβολοσειράς.
+title: "XmpMediaManagementPackage.AddValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpMediaManagementPackage μέθοδος. Προσθέτει ιδιότητα τύπου string"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.AddValue method
 
-Προσθέτει την ιδιότητα συμβολοσειράς.
+Προσθέτει ιδιότητα συμβολοσειράς.
 
 ```csharp
 public override void AddValue(string key, string value)
@@ -16,13 +17,13 @@ public override void AddValue(string key, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Η αναπαράσταση συμβολοσειράς του κλειδιού που προσδιορίζεται με προστιθέμενη αξία. |
-| value | String | Η τιμή της συμβολοσειράς. |
+| κλειδί | String | Η αναπαράσταση τύπου string του κλειδιού που ταυτοποιείται με την προστιθέμενη τιμή. |
+| τιμή | String | Η τιμή string. |
 
 ### Δείτε επίσης
 
 * class [XmpMediaManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

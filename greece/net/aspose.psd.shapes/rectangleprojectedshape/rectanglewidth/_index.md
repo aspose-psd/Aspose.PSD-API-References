@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleProjectedShape ιδιοκτησία. Λαμβάνει το πλάτος του ορθογωνίου.
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RectangleProjectedShape. Λαμβάνει το πλάτος του ορθογωνίου."
 type: docs
 weight: 80
 url: /el/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
 Λαμβάνει το πλάτος του ορθογωνίου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 public double RectangleWidth { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος του ορθογωνίου.
 
 ### Δείτε επίσης
 
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

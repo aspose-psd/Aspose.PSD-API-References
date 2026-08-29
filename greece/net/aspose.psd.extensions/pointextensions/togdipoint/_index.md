@@ -1,14 +1,15 @@
 ---
-title: PointExtensions.ToGdiPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointExtensions μέθοδος. Μετατρέπει τοPointF προς τηνPointF .
+title: "PointExtensions.ToGdiPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PointExtensions. Μετατρέπει το PointF στο PointF."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/pointextensions/togdipoint/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoint method
 
-Μετατρέπει το[`PointF`](../../../aspose.psd/pointf/) προς τηνPointF .
+Μετατρέπει το [`PointF`](../../../aspose.psd/pointf/) στο PointF.
 
 ```csharp
 public static PointF ToGdiPoint(PointF point)
@@ -16,17 +17,17 @@ public static PointF ToGdiPoint(PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../../../aspose.psd/pointf/) μετατρέπω. |
+| point | PointF | Το [`PointF`](../../../aspose.psd/pointf/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιPointF.
+Το μετατρεπόμενο PointF.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../pointextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PngOptions.ColorType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PngOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο του χρώματος.
+title: "PngOptions.ColorType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PngOptions. Λαμβάνει ή ορίζει τον τύπο του χρώματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/pngoptions/colortype/
 ---
+{{< psd/tize >}}
 ## PngOptions.ColorType property
 
 Λαμβάνει ή ορίζει τον τύπο του χρώματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/pngoptions/colortype/
 public PngColorType ColorType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του χρώματος.
 
@@ -22,7 +23,7 @@ public PngColorType ColorType { get; set; }
 
 * enum [PngColorType](../../../aspose.psd.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../pngoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

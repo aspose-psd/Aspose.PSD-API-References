@@ -1,11 +1,12 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IccProfileResource ιδιοκτησία. Λαμβάνει ή ορίζει το προφίλ ICC.
+title: "IccProfileResource.IccProfile"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IccProfileResource property. Λαμβάνει ή ορίζει το προφίλ ICC"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
 Λαμβάνει ή ορίζει το προφίλ ICC.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το προφίλ ICC.
 
 ### Δείτε επίσης
 
 * class [IccProfileResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

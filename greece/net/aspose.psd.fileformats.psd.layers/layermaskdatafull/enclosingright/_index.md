@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingRight
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskDataFull ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση που περικλείει τη δεξιά μάσκα ράστερ στο επίπεδο αρχείου PSD.
+title: "LayerMaskDataFull.EnclosingRight"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerMaskDataFull ιδιότητα. Λαμβάνει ή ορίζει τη θέση του δεξιού περιβάλλοντος raster mask στο στρώμα αρχείου PSD"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingRight property
 
-Λαμβάνει ή ορίζει τη θέση που περικλείει τη δεξιά μάσκα ράστερ στο επίπεδο αρχείου PSD.
+Λαμβάνει ή ορίζει τη θέση της δεξιάς raster μάσκας που περιβάλλει τη στρώση του αρχείου PSD.
 
 ```csharp
 public int EnclosingRight { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η σωστή θέση μάσκας στρώσης.
+Η θέση της δεξιάς μάσκας στρώσης.
 
 ### Δείτε επίσης
 
 * class [LayerMaskDataFull](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

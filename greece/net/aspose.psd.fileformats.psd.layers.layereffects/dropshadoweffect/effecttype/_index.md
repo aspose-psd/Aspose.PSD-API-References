@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.EffectType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DropShadowEffect ιδιοκτησία. Λαμβάνει έναν τύπο εφέ
+title: "DropShadowEffect.EffectType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DropShadowEffect ιδιότητα. Λαμβάνει έναν τύπο εφέ"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.EffectType property
 
 Λαμβάνει έναν τύπο εφέ
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/eff
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει τη χρήση της ιδιότητας Opacity του DropShadowEffect.
 
@@ -33,17 +34,17 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Παράδειγμα με Αδιαφάνεια = 20
+    // Παράδειγμα με Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Παράδειγμα με Αδιαφάνεια = 200
+    // Παράδειγμα με Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της ιδιότητας ILayerEffect.EffectType.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της ιδιότητας ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // έπιασε
+            // το συνέλαβε
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -76,9 +77,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Δείτε επίσης
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [DropShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

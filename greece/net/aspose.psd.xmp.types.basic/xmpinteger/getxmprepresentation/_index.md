@@ -1,27 +1,28 @@
 ---
-title: XmpInteger.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpInteger μέθοδος. Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "XmpInteger.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpInteger. Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpInteger.GetXmpRepresentation method
 
-Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [XmpInteger](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

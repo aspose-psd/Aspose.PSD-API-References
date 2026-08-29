@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος αυτούPen  σε μονάδες του αντικειμένου Graphics που χρησιμοποιείται για το σχέδιο.
+title: "Pen.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει το πλάτος αυτού του Pen σε μονάδες του αντικειμένου Graphics που χρησιμοποιείται για τη σχεδίαση."
 type: docs
 weight: 180
 url: /el/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-Λαμβάνει ή ορίζει το πλάτος αυτού[`Pen`](../) , σε μονάδες του αντικειμένου Graphics που χρησιμοποιείται για το σχέδιο.
+Λαμβάνει ή ορίζει το πλάτος αυτού του [`Pen`](../), σε μονάδες του αντικειμένου Graphics που χρησιμοποιείται για τη σχεδίαση.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλάτος αυτού[`Pen`](../).
+Το πλάτος αυτού του [`Pen`](../).
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | ο`Width` η ιδιοκτησία έχει οριστεί σε αμετάβλητο[`Pen`](../) , όπως αυτά που επιστράφηκαν από το[`Pen`](../) τάξη. |
+| ArgumentException | Η ιδιότητα `Width` ορίζεται σε ένα αμετάβλητο [`Pen`](../), όπως αυτά που επιστρέφει η κλάση [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

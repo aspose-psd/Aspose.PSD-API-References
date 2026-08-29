@@ -1,14 +1,15 @@
 ---
-title: Point.Truncate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Μετατρέπει το καθορισμένοPointF σε αPoint περικόπτοντας τις τιμές τουPoint .
+title: "Point.Truncate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Μετατρέπει το καθορισμένο PointF σε Point περικόπτοντας τις τιμές του Point."
 type: docs
 weight: 70
 url: /el/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-Μετατρέπει το καθορισμένο[`PointF`](../../pointf/) σε α[`Point`](../) περικόπτοντας τις τιμές του[`Point`](../) .
+Μετατρέπει το καθορισμένο [`PointF`](../../pointf/) σε [`Point`](../) περικόπτοντας τις τιμές του [`Point`](../).
 
 ```csharp
 public static Point Truncate(PointF point)
@@ -16,17 +17,17 @@ public static Point Truncate(PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../../pointf/) μετατρέπω. |
+| point | PointF | Το [`PointF`](../../pointf/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Point`](../) αυτή η μέθοδος μετατρέπεται σε.
+Το [`Point`](../) στο οποίο αυτή η μέθοδος μετατρέπει.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

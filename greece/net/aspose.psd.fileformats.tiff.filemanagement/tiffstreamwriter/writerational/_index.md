@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteRational
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει μια ενιαία τιμή ρητού αριθμού στη ροή.
+title: "TiffStreamWriter.WriteRational"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει μια μοναδική τιμή rational αριθμού στο ρεύμα"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRational method
 
-Γράφει μια ενιαία τιμή ρητού αριθμού στη ροή.
+Γράφει μια μοναδική τιμή ρητού αριθμού στη ροή.
 
 ```csharp
 public void WriteRational(TiffRational data)
@@ -16,13 +17,13 @@ public void WriteRational(TiffRational data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | TiffRational | Η αξία να γραφτεί. |
+| δεδομένα | TiffRational | Η τιμή για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

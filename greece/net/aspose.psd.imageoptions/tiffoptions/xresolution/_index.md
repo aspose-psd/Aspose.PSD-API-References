@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Xresolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την ανάλυση x.
+title: "TiffOptions.Xresolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την ανάλυση x"
 type: docs
-weight: 650
+weight: 660
 url: /el/net/aspose.psd.imageoptions/tiffoptions/xresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xresolution property
 
 Λαμβάνει ή ορίζει την ανάλυση x.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/xresolution/
 public TiffRational Xresolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ανάλυση x.
 
@@ -22,7 +23,7 @@ public TiffRational Xresolution { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DataStreamSupporter μέθοδος. Αποθηκεύει τα δεδομένα του αντικειμένου στο ρεύμαDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος DataStreamSupporter. Αποθηκεύει τα δεδομένα του αντικειμένου στον τρέχον DataStreamSupporter."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Αποθηκεύει τα δεδομένα του αντικειμένου στο ρεύμα[`DataStreamSupporter`](../) .
+Αποθηκεύει τα δεδομένα του αντικειμένου στον τρέχον [`DataStreamSupporter`](../).
 
 ```csharp
 public virtual void Save()
@@ -17,14 +18,14 @@ public virtual void Save()
 ### Δείτε επίσης
 
 * class [DataStreamSupporter](../)
-* χώρος ονομάτων [Aspose.PSD](../../datastreamsupporter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-Αποθηκεύει τα δεδομένα του αντικειμένου στην καθορισμένη ροή.
+Αποθηκεύει τα δεδομένα του αντικειμένου στο καθορισμένο ρεύμα.
 
 ```csharp
 public virtual void Save(Stream stream)
@@ -32,13 +33,13 @@ public virtual void Save(Stream stream)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Η ροή στην οποία αποθηκεύονται τα δεδομένα του αντικειμένου. |
+| stream | Stream | Η ροή στην οποία θα αποθηκευτούν τα δεδομένα του αντικειμένου. |
 
 ### Δείτε επίσης
 
 * class [DataStreamSupporter](../)
-* χώρος ονομάτων [Aspose.PSD](../../datastreamsupporter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -52,13 +53,13 @@ public void Save(string filePath)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| filePath | String | Η διαδρομή αρχείου στην οποία αποθηκεύονται τα δεδομένα του αντικειμένου. |
+| filePath | String | Η διαδρομή αρχείου για την αποθήκευση των δεδομένων του αντικειμένου. |
 
 ### Δείτε επίσης
 
 * class [DataStreamSupporter](../)
-* χώρος ονομάτων [Aspose.PSD](../../datastreamsupporter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -72,13 +73,13 @@ public virtual void Save(string filePath, bool overWrite)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| filePath | String | Η διαδρομή αρχείου στην οποία αποθηκεύονται τα δεδομένα του αντικειμένου. |
-| overWrite | Boolean | εάν έχει οριστεί σε`αληθής` πάνω γράψτε τα περιεχόμενα του αρχείου, διαφορετικά θα προκύψει προσθήκη. |
+| filePath | String | Η διαδρομή αρχείου για την αποθήκευση των δεδομένων του αντικειμένου. |
+| overWrite | Boolean | αν οριστεί σε `true` θα αντικαταστήσει το περιεχόμενο του αρχείου, διαφορετικά θα προστεθεί. |
 
 ### Δείτε επίσης
 
 * class [DataStreamSupporter](../)
-* χώρος ονομάτων [Aspose.PSD](../../datastreamsupporter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

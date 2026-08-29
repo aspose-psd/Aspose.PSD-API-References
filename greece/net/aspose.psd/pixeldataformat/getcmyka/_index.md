@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetCmyka
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Παίρνει χρώμα CMYKA με καθορισμένο αριθμό bit ανά δείγμα.
+title: "PixelDataFormat.GetCmyka"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PixelDataFormat. Λαμβάνει το χρώμα CMYKA με καθορισμένο αριθμό bits ανά δείγμα"
 type: docs
 weight: 220
 url: /el/net/aspose.psd/pixeldataformat/getcmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCmyka method
 
-Παίρνει χρώμα CMYKA με καθορισμένο αριθμό bit ανά δείγμα.
+Λαμβάνει χρώμα CMYKA με καθορισμένο αριθμό bit ανά δείγμα.
 
 ```csharp
 public static PixelDataFormat GetCmyka(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
@@ -17,20 +18,20 @@ public static PixelDataFormat GetCmyka(int bitsPerCyanChannel, int bitsPerMagent
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bitsPerCyanChannel | Int32 | Ο αριθμός των bit ανά κυανό κανάλι. |
-| bitsPerMagentaChannel | Int32 | Ο αριθμός των bit ανά κανάλι Magenta. |
-| bitsPerYellowChannel | Int32 | Ο αριθμός των bit ανά κίτρινο κανάλι. |
-| bitsPerKeyChannel | Int32 | Ο αριθμός των bit ανά κανάλι κλειδιού. |
-| bitsPerAlphaChannel | Int32 | Ο αριθμός των bit ανά κανάλι Alpha. |
+| bitsPerCyanChannel | Int32 | Ο αριθμός των bits ανά κανάλι Κυανό. |
+| bitsPerMagentaChannel | Int32 | Ο αριθμός των bits ανά κανάλι Ματζέντα. |
+| bitsPerYellowChannel | Int32 | Ο αριθμός των bits ανά κανάλι Κίτρινο. |
+| bitsPerKeyChannel | Int32 | Ο αριθμός των bits ανά κανάλι Μαύρο. |
+| bitsPerAlphaChannel | Int32 | Ο αριθμός των bits ανά κανάλι Άλφα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα CMYK.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

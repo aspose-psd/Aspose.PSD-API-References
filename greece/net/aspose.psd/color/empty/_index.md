@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color ιδιοκτησία. Παίρνει ένα κενόColor .
+title: "Color.Empty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Color. Λαμβάνει ένα κενό Color"
 type: docs
 weight: 430
 url: /el/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-Παίρνει ένα κενό[`Color`](../) .
+Λαμβάνει ένα κενό [`Color`](../).
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το άδειο[`Color`](../).
+Το κενό [`Color`](../).
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

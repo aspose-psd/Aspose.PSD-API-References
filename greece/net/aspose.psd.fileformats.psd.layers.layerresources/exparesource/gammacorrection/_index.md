@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.GammaCorrection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExpaResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει το γάμμα.
+title: "ExpaResource.GammaCorrection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExpaResource. Λαμβάνει ή ορίζει το γάμμα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExpaResource.GammaCorrection property
 
-Λαμβάνει ή ρυθμίζει το γάμμα.
+Λαμβάνει ή ορίζει το γάμμα.
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το γάμμα.
 
 ### Δείτε επίσης
 
 * class [ExpaResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

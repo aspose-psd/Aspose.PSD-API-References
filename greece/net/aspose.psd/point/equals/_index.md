@@ -1,14 +1,15 @@
 ---
-title: Point.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Καθορίζει εάν αυτόPoint περιέχει τις ίδιες συντεταγμένες με τις καθορισμένεςObject .
+title: "Point.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Καθορίζει εάν αυτό το Point περιέχει τις ίδιες συντεταγμένες με το καθορισμένο Object."
 type: docs
 weight: 110
 url: /el/net/aspose.psd/point/equals/
 ---
+{{< psd/tize >}}
 ## Point.Equals method
 
-Καθορίζει εάν αυτό[`Point`](../) περιέχει τις ίδιες συντεταγμένες με τις καθορισμένεςObject .
+Καθορίζει εάν αυτό το [`Point`](../) περιέχει τις ίδιες συντεταγμένες με το καθορισμένο Object.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject να δοκιμάσω. |
+| obj | Object | Το Object για δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν*obj* είναι ένα[`Point`](../) και έχει τις ίδιες συντεταγμένες με αυτό[`Point`](../).
+Αληθές εάν το *obj* είναι ένα [`Point`](../) και έχει τις ίδιες συντεταγμένες με αυτό το [`Point`](../).
 
 ### Δείτε επίσης
 
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBalanceAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει την ισορροπία κίτρινου μπλε χρώματος.
+title: "ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorBalanceAdjustmentLayer. Λαμβάνει ή ορίζει το Highlights Yellow Blue Balance"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance property
 
-Λαμβάνει ή ορίζει την ισορροπία κίτρινου μπλε χρώματος.
+Λαμβάνει ή ορίζει το Highlights Yellow Blue Balance.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Highlights Yellow Blue Balance.
+Το Highlights Yellow Blue Balance.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Χαρακτηριστικά Κίτρινο Μπλε Η ισορροπία πρέπει να κυμαίνεται από -100 έως +100. |
+| ArgumentOutOfRangeException | Το Highlights Yellow Blue Balance πρέπει να είναι στο εύρος από -100 έως +100. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει υποστήριξη για το ColorBalanceAdjustmentLayer.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη για το ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Δείτε επίσης
 
 * class [ColorBalanceAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

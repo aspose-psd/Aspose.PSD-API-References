@@ -1,22 +1,23 @@
 ---
-title: StrokeEffect.Position
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StrokeEffect ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση του εφέ διαδρομής για να ελέγξει την ευθυγράμμιση της διαδρομής σας στο περιεχόμενο του επιπέδου PSD. Η τιμή μπορεί να είναιInside για να σχεδιάσετε μια διαδρομή μέσα στο περιεχόμενο του επιπέδου PSD ήOutside για να σχεδιάσετε μια διαδρομή γύρω από το περιεχόμενο του επιπέδου PSD καιCenter να σχεδιάζω εγκεφαλικό επεισόδιο τόσο μέσα όσο και έξω.
+title: "StrokeEffect.Position"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "StrokeEffect ιδιότητα. Λαμβάνει ή ορίζει τη θέση του εφέ περιγράμματος για να ελέγχει την ευθυγράμμιση του περιγράμματος με το περιεχόμενο του στρώματος PSD. Η τιμή μπορεί να είναι Inside για να σχεδιάζει το περίγραμμα μέσα στο περιεχόμενο του στρώματος PSD ή Outside για να σχεδιάζει το περίγραμμα γύρω από το περιεχόμενο του στρώματος PSD και Center για να σχεδιάζει το περίγραμμα τόσο μέσα όσο και έξω"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Position property
 
-Λαμβάνει ή ορίζει τη θέση του εφέ διαδρομής για να ελέγξει την ευθυγράμμιση της διαδρομής σας στο περιεχόμενο του επιπέδου PSD. Η τιμή μπορεί να είναιInside για να σχεδιάσετε μια διαδρομή μέσα στο περιεχόμενο του επιπέδου PSD, ήOutside για να σχεδιάσετε μια διαδρομή γύρω από το περιεχόμενο του επιπέδου PSD, καιCenter να σχεδιάζω εγκεφαλικό επεισόδιο τόσο μέσα όσο και έξω.
+Λαμβάνει ή ορίζει τη θέση του εφέ στίγματος για να ελέγχει την ευθυγράμμιση του στίγματος σας με το περιεχόμενο του στρώματος PSD. Η τιμή μπορεί να είναι Inside για να σχεδιάζει το στίγμα μέσα στο περιεχόμενο του στρώματος PSD, ή Outside για να σχεδιάζει το στίγμα γύρω από το περιεχόμενο του στρώματος PSD, και Center για να σχεδιάζει το στίγμα τόσο μέσα όσο και έξω.
 
 ```csharp
 public StrokePosition Position { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει τη δυνατότητα προσθήκης του stroke εφέ με διαφορετικούς τύπους γεμίσματος όπως Χρώμα, Διαβάθμιση ή Μοτίβο.
+Αυτό το παράδειγμα δείχνει τη δυνατότητα προσθήκης του εφέ περιγράμματος με διαφορετικούς τύπους γεμίσματος όπως Χρώμα, Διαβάθμιση ή Μοτίβο.
 
 ```csharp
 [C#]
@@ -28,28 +29,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Προσθέτει Color fill, στη θέση Inside
+    // 1. Προσθέτει γέμισμα Χρώματος, στη θέση Εσωτερική
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Προσθέτει Color fill, στη θέση Outside
+    // 2. Προσθέτει γέμισμα Χρώματος, στη θέση Εξωτερική
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Προσθέτει Color fill, στη θέση Center
+    // 3. Προσθέτει γέμισμα Χρώματος, στη θέση Κέντρο
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Προσθέτει γέμισμα κλίσης, στη θέση Inside
+    // 4. Προσθέτει γέμισμα Διαβάθμισης, στη θέση Εσωτερική
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -57,7 +58,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Προσθέτει γέμισμα κλίσης, στη θέση Έξω
+    // 5. Προσθέτει γέμισμα Διαβάθμισης, στη θέση Εξωτερική
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Προσθέτει γέμισμα κλίσης, στη θέση Κέντρο
+    // 6. Προσθέτει γέμισμα Διαβάθμισης, στη θέση Κέντρο
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -73,21 +74,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Προσθέτει γέμισμα μοτίβου, στη θέση Inside
+    // 7. Προσθέτει γέμισμα Μοτίβου, στη θέση Εσωτερική
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Προσθέτει γέμισμα μοτίβου, στη θέση Outside
+    // 8. Προσθέτει γέμισμα Μοτίβου, στη θέση Εξωτερική
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Προσθέτει γέμισμα μοτίβου, στη θέση Κέντρο
+    // 9. Προσθέτει γέμισμα Μοτίβου, στη θέση Κέντρο
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -102,7 +103,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 
 * enum [StrokePosition](../../strokeposition/)
 * class [StrokeEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

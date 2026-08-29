@@ -1,22 +1,24 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει οντότητες μορφής αρχείου PSD που περιέχονται σε επίπεδα.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει οντότητες μορφής αρχείου PSD που περιέχονται σε στρώσεις"
 type: docs
-weight: 310
+weight: 330
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
-Ο χώρος ονομάτων περιέχει οντότητες μορφής αρχείου PSD που περιέχονται σε επίπεδα.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει οντότητες μορφής αρχείου PSD που περιέχονται σε στρώματα.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [AddNoiseSmartFilter](./addnoisesmartfilter/) | Το έξυπνο φίλτρο AddNoise. |
 | [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | Το έξυπνο φίλτρο GaussianBlur. |
-| [SmartFilter](./smartfilter/) | Η τάξη για την επεξεργασία μιας βασικής λογικής έξυπνων φίλτρων. |
-| [SmartFilters](./smartfilters/) | Τα έξυπνα φίλτρα του[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) . |
-| [UnknownSmartFilter](./unknownsmartfilter/) | Η κλάση για τη διατήρηση άγνωστων δεδομένων έξυπνου φίλτρου. |
+| [SharpenSmartFilter](./sharpensmartfilter/) | Το έξυπνο φίλτρο Sharpen. |
+| [SmartFilter](./smartfilter/) | Η κλάση για την επεξεργασία της βασικής λογικής των έξυπνων φίλτρων. |
+| [SmartFilters](./smartfilters/) | Τα έξυπνα φίλτρα του [`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/). |
+| [UnknownSmartFilter](./unknownsmartfilter/) | Η κλάση για την αποθήκευση άγνωστων δεδομένων έξυπνων φίλτρων. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |

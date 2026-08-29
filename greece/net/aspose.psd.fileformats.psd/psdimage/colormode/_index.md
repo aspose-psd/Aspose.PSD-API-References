@@ -1,20 +1,21 @@
 ---
-title: PsdImage.ColorMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία χρώματος.
+title: "PsdImage.ColorMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει ή ορίζει τη λειτουργία χρώματος"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd/psdimage/colormode/
 ---
+{{< psd/tize >}}
 ## PsdImage.ColorMode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία χρώματος.
+Λαμβάνει ή ορίζει τη λειτουργία χρώματος.
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία χρώματος.
 
@@ -22,7 +23,7 @@ public ColorModes ColorMode { get; set; }
 
 * enum [ColorModes](../../colormodes/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

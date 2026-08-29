@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.ImageResizeSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageResizeSettings κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "ImageResizeSettings.ImageResizeSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ImageResizeSettings. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/imageresizesettings/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public ImageResizeSettings()
 ### Δείτε επίσης
 
 * class [ImageResizeSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageresizesettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

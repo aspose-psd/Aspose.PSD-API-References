@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.Item
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LnkeResource ιδιοκτησία. Λαμβάνει τοLiFeDataSource στον καθορισμένο δείκτη.
+title: "LnkeResource.Item"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LnkeResource. Επιστρέφει το LiFeDataSource στο καθορισμένο δείκτη."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-Λαμβάνει το[`LiFeDataSource`](../../lifedatasource/) στον καθορισμένο δείκτη.
+Επιστρέφει το [`LiFeDataSource`](../../lifedatasource/) στο καθορισμένο δείκτη.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
@@ -16,21 +17,21 @@ public LiFeDataSource this[int index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Ο δείκτης. |
+| δείκτης | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`LiFeDataSource`](../../lifedatasource/) παράδειγμα.
+Η παρουσία του [`LiFeDataSource`](../../lifedatasource/).
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`LiFeDataSource`](../../lifedatasource/) .
+Το [`LiFeDataSource`](../../lifedatasource/).
 
 ### Δείτε επίσης
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

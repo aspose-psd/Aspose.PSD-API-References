@@ -1,14 +1,15 @@
 ---
-title: IImageLoader.Load
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IImageLoader μέθοδος. Ανοίγει μια νέα εικόνα μεloadOptions .
+title: "IImageLoader.Load"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IImageLoader μέθοδος. Ανοίγει μια νέα εικόνα με loadOptions"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/iimageloader/load/
 ---
+{{< psd/tize >}}
 ## IImageLoader.Load method
 
-Ανοίγει μια νέα εικόνα με*loadOptions* .
+Ανοίγει μια νέα εικόνα με *loadOptions*.
 
 ```csharp
 public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
@@ -16,12 +17,12 @@ public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το δοχείο του ρέματος. |
+| streamContainer | StreamContainer | Το container ροής. |
 | loadOptions | LoadOptions | Οι επιλογές φόρτωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα παράδειγμα εικόνας που άνοιξε πρόσφατα.
+Μια νεόανοιχτη παρουσία εικόνας.
 
 ### Δείτε επίσης
 
@@ -29,7 +30,7 @@ public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* χώρος ονομάτων [Aspose.PSD](../../iimageloader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

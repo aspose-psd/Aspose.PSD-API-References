@@ -1,14 +1,15 @@
 ---
-title: InitialFillRuleRecord.InitialFillRuleRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: InitialFillRuleRecord κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουInitialFillRuleRecord τάξη.
+title: "InitialFillRuleRecord.InitialFillRuleRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής InitialFillRuleRecord. Δημιουργεί ένα νέο αντικείμενο της κλάσης InitialFillRuleRecord"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`InitialFillRuleRecord`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`InitialFillRuleRecord`](../).
 
 ```csharp
 public InitialFillRuleRecord()
@@ -17,14 +18,14 @@ public InitialFillRuleRecord()
 ### Δείτε επίσης
 
 * class [InitialFillRuleRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`InitialFillRuleRecord`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`InitialFillRuleRecord`](../).
 
 ```csharp
 public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
@@ -32,11 +33,11 @@ public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| isFillStartsWithAllPixels | Boolean | Το γέμισμα ξεκινά με όλα τα pixel. |
+| isFillStartsWithAllPixels | Boolean | Η γεμιστική αρχίζει με όλα τα pixel. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα παρέχει κλάσεις για τον χειρισμό των αντικειμένων διανυσματικής διαδρομής και δείχνει πώς να χρησιμοποιήσετε αυτές τις κλάσεις.
+Το παρακάτω παράδειγμα κώδικα παρέχει κλάσεις για τη διαχείριση των αντικειμένων διαδρομής διανύσματος και δείχνει πώς να χρησιμοποιήσετε αυτές τις κλάσεις.
 
 ```csharp
 [C#]
@@ -64,15 +65,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// Η κλάση που παρέχει εργασία μεταξύ <δείτε cref="Layer"/> και <δείτε cref="VectorPath"/>.
+/// Η κλάση που παρέχει λειτουργία μεταξύ <see cref="Layer"/> και <see cref="VectorPath"/>.
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// Δημιουργεί το <δείτε cref="VectorPath"/> παράδειγμα που βασίζεται σε πόρους από το επίπεδο εισόδου.
+    /// Δημιουργεί την παρουσία <see cref="VectorPath"/> με βάση τους πόρους από το στρώμα εισόδου.
     /// </summary>
-    /// <param name="psdLayer">Το επίπεδο psd.</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name="psdLayer">Το στρώμα psd.</param>
+    /// <returns>την <see cref="VectorPath"/> παρουσία με βάση τους πόρους από το στρώμα εισόδου.</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -91,11 +92,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Ενημερώνει τους πόρους του επιπέδου εισόδου από το <δείτε cref="VectorPath"/> παράδειγμα, ή αντικαταστήστε με νέο πόρο διαδρομής και ενημερώσεις.
+    /// Ενημερώνει τους πόρους του στρώματος εισόδου από την παρουσία <see cref="VectorPath"/>, ή αντικαθιστά με νέο πόρο διαδρομής και ενημερώνει.
     /// </summary>
-    /// <param name="psdLayer">Το επίπεδο psd.</param>
-    /// <param name="vectorPath">Η διανυσματική διαδρομή.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
+    /// <param name="psdLayer">Το στρώμα psd.</param>
+    /// <param name="vectorPath">Η διαδρομή διανύσματος.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -111,9 +112,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Αφαιρεί τα δεδομένα διανυσματικής διαδρομής από το επίπεδο εισόδου.
+    /// Αφαιρεί τα δεδομένα διαδρομής διανύσματος από το στρώμα εισόδου.
     /// </summary>
-    /// <param name="psdLayer">Το επίπεδο psd.</param>
+    /// <param name="psdLayer">Το στρώμα psd.</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -136,13 +137,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Ενημερώνει δεδομένα πόρων από <δείτε cref="VectorPath"/> παράδειγμα.
+    /// Ενημερώνει τα δεδομένα πόρων από την παρουσία <see cref="VectorPath"/>.
     /// </summary>
-    /// <param name="pathResource">Ο πόρος της διαδρομής.</param>
-    /// <param name="vogkResource">Ο διανυσματικός πόρος δεδομένων προέλευσης.</param>
-    /// <param name="socoResource">Ο πόρος συμπαγούς χρώματος.</param>
-    /// <param name="vectorPath">Η διανυσματική διαδρομή.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
+    /// <param name="pathResource">Ο πόρος διαδρομής.</param>
+    /// <param name="vogkResource">Ο πόρος δεδομένων προέλευσης διανύσματος.</param>
+    /// <param name="socoResource">Ο πόρος στερεού χρώματος.</param>
+    /// <param name="vectorPath">Η διαδρομή διανύσματος.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -169,12 +170,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Αντικαθιστά πόρους σε επίπεδο με ενημερωμένους ή νέους.
+    /// Αντικαθιστά τους πόρους στο στρώμα με ενημερωμένους ή νέους.
     /// </summary>
-    /// <param name="psdLayer">Το επίπεδο psd.</param>
-    /// <param name="pathResource">Ο πόρος της διαδρομής.</param>
-    /// <param name="vogkResource">Ο διανυσματικός πόρος δεδομένων προέλευσης.</param>
-    /// <param name="socoResource">Ο πόρος συμπαγούς χρώματος.</param>
+    /// <param name="psdLayer">Το στρώμα psd.</param>
+    /// <param name="pathResource">Ο πόρος διαδρομής.</param>
+    /// <param name="vogkResource">Ο πόρος δεδομένων προέλευσης διανύσματος.</param>
+    /// <param name="socoResource">Ο πόρος στερεού χρώματος.</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -221,11 +222,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Βρίσκει το <δείτε cref="VectorPathDataResource"/> πόρος στους πόρους του επιπέδου εισόδου.
+    /// Βρίσκει τον πόρο <see cref="VectorPathDataResource"/> στα πόρους του στρώματος εισόδου.
     /// </summary>
-    /// <param name="psdLayer">Το επίπεδο psd.</param>
-    /// <param name="createIfNotExist">Εάν δεν υπάρχει πόρος, τότε για <δείτε cref="true"/> δημιουργεί έναν νέο πόρο, διαφορετικά επιστρέψτε <δείτε cref="null"/>.</param>
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name="psdLayer">Το στρώμα psd.</param>
+    /// <param name="createIfNotExist">Εάν ο πόρος δεν υπάρχει, τότε για <see cref="true"/> δημιουργεί νέο πόρο, διαφορετικά επιστρέφει <see cref="null"/>.</param>
+    /// <returns>Τον πόρο <see cref="VectorPathDataResource"/>.</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -247,11 +248,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Βρίσκει το <δείτε cref="VogkResource"/> πόρος στους πόρους του επιπέδου εισόδου.
+    /// Βρίσκει τον πόρο <see cref="VogkResource"/> στα πόρους του στρώματος εισόδου.
     /// </summary>
-    /// <param name="psdLayer">Το επίπεδο psd.</param>
-    /// <param name="createIfNotExist">Εάν δεν υπάρχει πόρος, τότε για <δείτε cref="true"/> δημιουργεί έναν νέο πόρο, διαφορετικά επιστρέψτε <δείτε cref="null"/>.</param>
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name="psdLayer">Το στρώμα psd.</param>
+    /// <param name="createIfNotExist">Εάν ο πόρος δεν υπάρχει, τότε για <see cref="true"/> δημιουργεί νέο πόρο, διαφορετικά επιστρέφει <see cref="null"/>.</param>
+    /// <returns>Τον πόρο <see cref="VogkResource"/>.</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -273,11 +274,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Βρίσκει το <δείτε cref="SoCoResource"/> πόρος στους πόρους του επιπέδου εισόδου.
+    /// Βρίσκει τον πόρο <see cref="SoCoResource"/> στα πόρους του στρώματος εισόδου.
     /// </summary>
-    /// <param name="psdLayer">Το επίπεδο psd.</param>
-    /// <param name="createIfNotExist">Εάν δεν υπάρχει πόρος, τότε για <δείτε cref="true"/> δημιουργεί έναν νέο πόρο, διαφορετικά επιστρέψτε <δείτε cref="null"/>.</param>
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name="psdLayer">Το στρώμα psd.</param>
+    /// <param name="createIfNotExist">Εάν ο πόρος δεν υπάρχει, τότε για <see cref="true"/> δημιουργεί νέο πόρο, διαφορετικά επιστρέφει <see cref="null"/>.</param>
+    /// <returns>Τον πόρο <see cref="SoCoResource"/>.</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -299,7 +300,7 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// Επικυρώνει το επίπεδο για εργασία με <δείτε cref="VectorDataProvider"/> τάξη.
+    /// Επικυρώνει το στρώμα για εργασία με την κλάση <see cref="VectorDataProvider"/>.
     /// </summary>
     /// <param name="layer"></param>
     /// <exception cref="ArgumentNullException"></exception>
@@ -328,12 +329,12 @@ public class BezierKnot
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// Αρχικοποιεί μια νέα παρουσία του <δείτε cref="BezierKnot" /> τάξη.
+    /// Αρχικοποιεί μια νέα παρουσία της κλάσης <see cref="BezierKnot" /> βασισμένη στην <see cref="BezierKnotRecord"/>.
     /// </summary>
     /// <param name="anchorPoint">Το σημείο αγκύρωσης.</param>
     /// <param name="controlPoint1">Το πρώτο σημείο ελέγχου.</param>
     /// <param name="controlPoint2">Το δεύτερο σημείο ελέγχου.</param>
-    /// <param name="isLinked">Η τιμή που υποδεικνύει εάν αυτός ο κόμπος είναι συνδεδεμένος.</param>
+    /// <param name="isLinked">Η τιμή που υποδεικνύει αν αυτός ο κόμβος είναι συνδεδεμένος.</param>
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -343,10 +344,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Αρχικοποιεί μια νέα παρουσία του <δείτε cref="BezierKnot" /> τάξη βασισμένη στο <δείτε cref="BezierKnotRecord"/>.
+    /// Αρχικοποιεί μια νέα παρουσία της κλάσης <see cref="BezierKnot" /> βασισμένη στην <see cref="BezierKnotRecord"/>.
     /// </summary>
-    /// <param name="bezierKnotRecord">Το <δείτε cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
+    /// <param name="bezierKnotRecord">Το <see cref="BezierKnotRecord"/>.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -356,17 +357,17 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Αρχικοποιεί μια νέα παρουσία του <δείτε cref="BezierKnot" /> τάξη.
+    /// Αρχικοποιεί μια νέα παρουσία της κλάσης <see cref="BezierKnot" /> βασισμένη στην <see cref="BezierKnotRecord"/>.
     /// </summary>
-    /// <param name="anchorPoint">Το σημείο που πρέπει να είναι σημεία αγκύρωσης και ελέγχου.</param>
-    /// <param name="isLinked">Η τιμή που υποδεικνύει εάν αυτός ο κόμπος είναι συνδεδεμένος.</param>
+    /// <param name="anchorPoint">Το σημείο που θα είναι αγκύρωση και σημεία ελέγχου.</param>
+    /// <param name="isLinked">Η τιμή που υποδεικνύει αν αυτός ο κόμβος είναι συνδεδεμένος.</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
     }
 
     /// <summary>
-    /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι συνδεδεμένη.
+    /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτή η παρουσία είναι συνδεδεμένη.
     /// </summary>
     public bool IsLinked { get; set; }
 
@@ -386,11 +387,11 @@ public class BezierKnot
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// Δημιουργεί την παρουσία του <δείτε cref="BezierKnotRecord"/> με βάση αυτή την περίπτωση.
+    /// Δημιουργεί την παρουσία της <see cref="BezierKnotRecord"/> βασισμένη σε αυτήν την παρουσία.
     /// </summary>
-    /// <param name="isClosed">Δείχνει εάν αυτός ο κόμπος έχει κλειστό σχήμα.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name="isClosed">Υποδεικνύει αν αυτός ο κόμβος βρίσκεται σε κλειστό σχήμα.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
+    /// <returns>Η παρουσία της <see cref="BezierKnotRecord"/> βασισμένη σε αυτήν την παρουσία.</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -407,7 +408,7 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Μετατοπίζει τα σημεία αυτού του κόμβου κατά τιμές εισόδου.
+    /// Μετατοπίζει τα σημεία αυτού του κόμβου κατά τις εισαγόμενες τιμές.
     /// </summary>
     /// <param name="xOffset">Η μετατόπιση x.</param>
     /// <param name="yOffset">Η μετατόπιση y.</param>
@@ -419,22 +420,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// Μετατρέπει τις τιμές των σημείων από πόρο σε κανονικό.
+    /// Μετατρέπει τις τιμές σημείων από πόρο σε κανονικές.
     /// </summary>
-    /// <param name="point">Το σημείο με τιμές από τον πόρο.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name="point">Το σημείο με τιμές από πόρο.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
+    /// <returns>Το μετατρεπόμενο σε κανονικό σημείο.</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
     }
 
     /// <summary>
-    /// Μετατρέπει τις κανονικές τιμές σημείων σε σημείο πόρων.
+    /// Μετατρέπει τις κανονικές τιμές σημείου σε σημείο πόρου.
     /// </summary>
-    /// <param name="point">Το σημείο.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name=\"point\">Το σημείο.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
+    /// <returns>Το σημείο με τιμές για τον πόρο.</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -442,12 +443,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// Το σχήμα από τους κόμβους της καμπύλης Bezier.
+/// Η μορφή από τους κόμβους της καμπύλης Bezier.
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// Αρχικοποιεί μια νέα παρουσία του <δείτε cref="PathShape" /> τάξη.
+    /// Αρχικοποιεί μια νέα παρουσία της κλάσης <see cref=\"PathShape\" />.
     /// </summary>
     public PathShape()
     {
@@ -456,11 +457,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// Αρχικοποιεί μια νέα παρουσία του <δείτε cref="PathShape" /> τάξη βασισμένη σε <δείτε cref="VectorPathRecord"/>'s.
+    /// Αρχικοποιεί μια νέα παρουσία της κλάσης <see cref=\"PathShape\" /> βασισμένη στα στοιχεία του <see cref=\"VectorPathRecord\"/>.
     /// </summary>
-    /// <param name="lengthRecord">Η εγγραφή μήκους.</param>
-    /// <param name="bezierKnotRecords">Η εγγραφή του κόμβου bezier.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
+    /// <param name=\"lengthRecord\">Η εγγραφή μήκους.</param>
+    /// <param name=\"bezierKnotRecords\">Οι εγγραφές κόμβων Bezier.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -473,18 +474,18 @@ public class PathShape
     /// <summary>
     /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι κλειστή.
     /// </summary>
-    /// <τιμή>
-    /// <c>true</c> εάν αυτή η περίπτωση είναι κλειστή. διαφορετικά, <c>false</c>.
+    /// <value>
+    ///   <c>true</c> εάν αυτή η παρουσία είναι κλειστή· διαφορετικά, <c>false</c>.
     /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// Λαμβάνει ή ορίζει τις λειτουργίες διαδρομής (Λειτουργίες Boolean).
+    /// Λαμβάνει ή ορίζει τις λειτουργίες διαδρομής (Λογικές λειτουργίες).
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// Λαμβάνει ή ορίζει το δείκτη του τρέχοντος σχήματος διαδρομής σε επίπεδο.
+    /// Λαμβάνει ή ορίζει το δείκτη του τρέχοντος σχήματος διαδρομής στο επίπεδο.
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
@@ -494,10 +495,10 @@ public class PathShape
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// Δημιουργεί το <δείτε cref="VectorPathRecord"/> εγγραφές που βασίζονται σε αυτήν την περίπτωση.
+    /// Δημιουργεί τις εγγραφές <see cref=\"VectorPathRecord\"/> βασισμένες σε αυτήν την παρουσία.
     /// </summary>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
+    /// <returns>Επιστρέφει ένα <see cref=\"LengthRecord\"/> και ένα <see cref=\"BezierKnotRecord\"/> για κάθε σημείο σε αυτήν την παρουσία.</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -518,10 +519,10 @@ public class PathShape
     }
 
     /// <summary>
-    /// Αρχικοποιεί τιμές που βασίζονται σε εγγραφές εισόδου.
+    /// Αρχικοποιεί τιμές βασισμένες στις εισερχόμενες εγγραφές.
     /// </summary>
-    /// <param name="bezierKnotRecords">Η εγγραφή του κόμβου bezier.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
+    /// <param name=\"bezierKnotRecords\">Οι εγγραφές κόμβων Bezier.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -536,42 +537,42 @@ public class PathShape
 }
 
 /// <summary>
-/// Η κλάση που περιέχει διανυσματικά μονοπάτια.
+/// Η κλάση που περιέχει διανυσματικές διαδρομές.
 /// </summary>
 public class VectorPath
 {
     /// <summary>
-    /// Αρχικοποιεί μια νέα παρουσία του <δείτε cref="VectorPath" /> τάξη βασισμένη στο <δείτε cref="VectorPathDataResource"/>.
+    /// Αρχικοποιεί μια νέα παρουσία της κλάσης <see cref=\"VectorPath\" /> βασισμένη στο <see cref=\"VectorPathDataResource\"/>.
     /// </summary>
-    /// <param name="vectorPathDataResource">Ο πόρος δεδομένων διανυσματικής διαδρομής.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
+    /// <param name=\"vectorPathDataResource\">Ο πόρος δεδομένων διανυσματικής διαδρομής.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το γέμισμα ξεκινά με όλα τα pixel.
+    /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η γέμιση ξεκινά με όλα τα pixel.
     /// </summary>
-    /// <τιμή>
-    /// Το is fill ξεκινά με όλα τα pixel.
+    /// <value>
+    /// Η γέμιση ξεκινά με όλα τα pixel.
     /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
-    /// Παίρνει τα διανυσματικά σχήματα.
+    /// Λαμβάνει τα διανυσματικά σχήματα.
     /// </summary>
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// Λαμβάνει ή ορίζει το χρώμα πλήρωσης της διανυσματικής διαδρομής.
+    /// Λαμβάνει ή ορίζει το χρώμα γεμίσματος της διανυσματικής διαδρομής.
     /// </summary>
     public Color FillColor { get; set; }
 
     /// <summary>
     /// Λαμβάνει ή ορίζει την έκδοση.
     /// </summary>
-    /// <τιμή>
+    /// <value>
     /// Η έκδοση.
     /// </value>
     public int Version { get; set; }
@@ -579,32 +580,32 @@ public class VectorPath
     /// <summary>
     /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι απενεργοποιημένη.
     /// </summary>
-    /// <τιμή>
-    /// <c>true</c> εάν αυτή η περίπτωση είναι απενεργοποιημένη. διαφορετικά, <c>false</c>.
+    /// <value>
+    ///   <c>true</c> εάν αυτή η παρουσία είναι απενεργοποιημένη· διαφορετικά, <c>false</c>.
     /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
     /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία δεν είναι συνδεδεμένη.
     /// </summary>
-    /// <τιμή>
-    /// <c>true</c> εάν αυτή η περίπτωση δεν είναι συνδεδεμένη. διαφορετικά, <c>false</c>.
+    /// <value>
+    ///   <c>true</c> εάν αυτή η παρουσία δεν είναι συνδεδεμένη· διαφορετικά, <c>false</c>.
     /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
     /// Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ανεστραμμένη.
     /// </summary>
-    /// <τιμή>
-    /// <c>true</c> αν αυτή η περίπτωση είναι ανεστραμμένη. διαφορετικά, <c>false</c>.
+    /// <value>
+    ///   <c>true</c> εάν αυτή η παρουσία είναι ανεστραμμένη· διαφορετικά, <c>false</c>.
     /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// Αρχικοποιεί τιμές με βάση την είσοδο <δείτε cref="VectorPathDataResource"/> πόρος.
+    /// Αρχικοποιεί τιμές βάσει του εισερχόμενου πόρου <see cref=\"VectorPathDataResource\"/>.
     /// </summary>
-    /// <param name="resource">Ο πόρος δεδομένων διανυσματικής διαδρομής.</param>
-    /// <param name="imageSize">Το μέγεθος της εικόνας για τη διόρθωση των συντεταγμένων του σημείου μετατροπής.</param>
+    /// <param name=\"resource\">Ο πόρος δεδομένων διανυσματικής διαδρομής.</param>
+    /// <param name="imageSize">Το μέγεθος εικόνας για τη διόρθωση μετατροπής συντεταγμένων σημείων.</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -658,14 +659,14 @@ public class VectorPath
 ### Δείτε επίσης
 
 * class [InitialFillRuleRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(byte[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`InitialFillRuleRecord`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`InitialFillRuleRecord`](../).
 
 ```csharp
 public InitialFillRuleRecord(byte[] data)
@@ -673,12 +674,12 @@ public InitialFillRuleRecord(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα εγγραφής. |
+| δεδομένα | Byte[] | Τα δεδομένα της εγγραφής. |
 
 ### Δείτε επίσης
 
 * class [InitialFillRuleRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

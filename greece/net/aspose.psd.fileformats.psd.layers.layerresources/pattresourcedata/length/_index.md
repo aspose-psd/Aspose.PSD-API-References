@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResourceData ιδιοκτησία. Παίρνει το μήκος του μοτίβου.
+title: "PattResourceData.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PattResourceData. Λαμβάνει το μήκος του μοτίβου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Length property
 
-Παίρνει το μήκος του μοτίβου.
+Ανακτά το μήκος του μοτίβου.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μήκος του μοτίβου.
 
 ### Δείτε επίσης
 
 * class [PattResourceData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

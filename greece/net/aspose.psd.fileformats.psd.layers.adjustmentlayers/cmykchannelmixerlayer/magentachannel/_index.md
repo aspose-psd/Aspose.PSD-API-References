@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.MagentaChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykChannelMixerLayer ιδιοκτησία. Παίρνει το ματζέντα κανάλι.
+title: "CmykChannelMixerLayer.MagentaChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmykChannelMixerLayer. Λαμβάνει το κανάλι ματζέντα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/magentachannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.MagentaChannel property
 
-Παίρνει το ματζέντα κανάλι.
+Λαμβάνει το ματζέντα κανάλι.
 
 ```csharp
 public CmykMixerChannel MagentaChannel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ματζέντα κανάλι.
+Το κανάλι ματζέντα.
 
 ### Δείτε επίσης
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

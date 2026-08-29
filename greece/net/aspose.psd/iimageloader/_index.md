@@ -1,14 +1,15 @@
 ---
-title: Interface IImageLoader
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IImageLoader διεπαφή. Το πρόγραμμα φόρτωσης εικόνας.
+title: "Διεπαφή IImageLoader"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.IImageLoader διεπαφή. Ο φορτωτής εικόνας"
 type: docs
-weight: 4450
+weight: 4920
 url: /el/net/aspose.psd/iimageloader/
 ---
+{{< psd/tize >}}
 ## IImageLoader interface
 
-Το πρόγραμμα φόρτωσης εικόνας.
+Ο φορτωτής εικόνας.
 
 ```csharp
 public interface IImageLoader
@@ -16,13 +17,13 @@ public interface IImageLoader
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | Ανοίγει μια νέα εικόνα με*loadOptions* . |
+| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | Ανοίγει μια νέα εικόνα με *loadOptions*. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

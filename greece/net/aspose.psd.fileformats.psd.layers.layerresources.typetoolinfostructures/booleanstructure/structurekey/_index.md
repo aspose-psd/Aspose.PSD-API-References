@@ -1,14 +1,15 @@
 ---
-title: BooleanStructure.StructureKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BooleanStructure πεδίο. Προσδιορίζει το κλειδί δομής.
+title: "BooleanStructure.StructureKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο BooleanStructure. Αναγνωρίζει το κλειδί της δομής"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## BooleanStructure.StructureKey field
 
-Προσδιορίζει το κλειδί δομής.
+Αναγνωρίζει το κλειδί της δομής.
 
 ```csharp
 public const int StructureKey;
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Δείτε επίσης
 
 * class [BooleanStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

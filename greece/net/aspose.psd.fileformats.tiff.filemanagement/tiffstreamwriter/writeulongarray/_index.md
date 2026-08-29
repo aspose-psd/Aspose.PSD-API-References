@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει έναν πίνακα από ανυπόγραφες ακέραιες τιμές στη ροή.
+title: "TiffStreamWriter.WriteULongArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει έναν πίνακα μη υπογεγραμμένων ακέραιων τιμών στη ροή"
 type: docs
 weight: 210
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULongArray method
 
-Γράφει έναν πίνακα από ανυπόγραφες ακέραιες τιμές στη ροή.
+Γράφει έναν πίνακα τιμών μη υπογεγραμμένων ακεραίων στο ρεύμα.
 
 ```csharp
 public void WriteULongArray(uint[] data)
@@ -16,12 +17,12 @@ public void WriteULongArray(uint[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | UInt32[] | Ο πίνακας για να γράψετε. |
+| δεδομένα | UInt32[] | Ο πίνακας για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

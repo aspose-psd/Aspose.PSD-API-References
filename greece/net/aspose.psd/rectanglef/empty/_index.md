@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Empty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF ιδιοκτησία. Παίρνει μια νέα παρουσία τουRectangleF δομή που έχειX Y Width καιHeight τιμές ορίστηκαν στο μηδέν.
+title: "RectangleF.Empty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RectangleF. Λαμβάνει ένα νέο αντικείμενο της δομής RectangleF που έχει τις τιμές X, Y, Width και Height ορισμένες στο μηδέν"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/rectanglef/empty/
 ---
+{{< psd/tize >}}
 ## RectangleF.Empty property
 
-Παίρνει μια νέα παρουσία του[`RectangleF`](../) δομή που έχει[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) και[`Height`](../height/) τιμές ορίστηκαν στο μηδέν.
+Λαμβάνει ένα νέο αντικείμενο της δομής [`RectangleF`](../) που έχει τις τιμές [`X`](../x/), [`Y`](../y/), [`Width`](../width/) και [`Height`](../height/) ορισμένες στο μηδέν
 
 ```csharp
 public static RectangleF Empty { get; }
@@ -17,7 +18,7 @@ public static RectangleF Empty { get; }
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

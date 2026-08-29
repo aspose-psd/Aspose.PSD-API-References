@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.ColorQuantizationMethod
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageResizeSettings ιδιοκτησία. Λαμβάνει ή ορίζει τη μέθοδο κβαντισμού χρώματος.
+title: "ImageResizeSettings.ColorQuantizationMethod"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ImageResizeSettings. Λαμβάνει ή ορίζει τη μέθοδο ποσοτικοποίησης χρώματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/imageresizesettings/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorQuantizationMethod property
 
-Λαμβάνει ή ορίζει τη μέθοδο κβαντισμού χρώματος.
+Λαμβάνει ή ορίζει τη μέθοδο ποσοτικοποίησης χρωμάτων.
 
 ```csharp
 public ColorQuantizationMethod ColorQuantizationMethod { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μέθοδος κβαντισμού χρώματος.
+Η μέθοδος ποσοτικοποίησης χρώματος.
 
 ### Δείτε επίσης
 
 * enum [ColorQuantizationMethod](../../colorquantizationmethod/)
 * class [ImageResizeSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageresizesettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

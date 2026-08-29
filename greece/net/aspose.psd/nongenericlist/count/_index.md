@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Count
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericList ιδιοκτησία. Παίρνει τον αριθμό των στοιχείων που περιέχονται στοICollection .
+title: "NonGenericList.Count"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα NonGenericList. Λαμβάνει τον αριθμό των στοιχείων που περιέχονται στο ICollection"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/nongenericlist/count/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Count property
 
-Παίρνει τον αριθμό των στοιχείων που περιέχονται στοICollection .
+Λαμβάνει τον αριθμό των στοιχείων που περιέχονται στο ICollection.
 
 ```csharp
 public int Count { get; }
@@ -17,7 +18,7 @@ public int Count { get; }
 ### Δείτε επίσης
 
 * class [NonGenericList](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericlist/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Enum RenderErrorCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.RenderErrorCode αρίθμηση. Αντιπροσωπεύει πιθανές ενότητες που λείπουν στο αρχείο CAD
+title: "Απαρίθμηση RenderErrorCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageOptions.RenderErrorCode απαρίθμηση. Αντιπροσωπεύει πιθανές ελλιπείς ενότητες σε αρχείο CAD"
 type: docs
-weight: 4920
+weight: 5410
 url: /el/net/aspose.psd.imageoptions/rendererrorcode/
 ---
+{{< psd/tize >}}
 ## RenderErrorCode enumeration
 
-Αντιπροσωπεύει πιθανές ενότητες που λείπουν στο αρχείο CAD
+Αντιπροσωπεύει πιθανές ελλιπείς ενότητες σε αρχείο CAD
 
 ```csharp
 public enum RenderErrorCode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| MissingHeader | `0` | Λείπει η κεφαλίδα |
-| MissingLayouts | `1` | Λείπουν οι πληροφορίες διάταξης |
-| MissingBlocks | `2` | Λείπουν πληροφορίες αποκλεισμού |
-| MissingDimensionStyles | `3` | Λείπουν οι πληροφορίες στυλ ιδιοτήτων |
-| MissingStyles | `4` | Λείπουν οι πληροφορίες στυλ |
+| MissingHeader | `0` | Το Header λείπει |
+| MissingLayouts | `1` | Οι πληροφορίες Layouts λείπουν |
+| MissingBlocks | `2` | Οι πληροφορίες Block λείπουν |
+| MissingDimensionStyles | `3` | Οι πληροφορίες Dimension styles λείπουν |
+| MissingStyles | `4` | Οι πληροφορίες Styles λείπουν |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

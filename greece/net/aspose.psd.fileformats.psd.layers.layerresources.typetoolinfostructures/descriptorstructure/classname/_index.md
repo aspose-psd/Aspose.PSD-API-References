@@ -1,27 +1,28 @@
 ---
-title: DescriptorStructure.ClassName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DescriptorStructure ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα της τάξης.
+title: "DescriptorStructure.ClassName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα DescriptorStructure. Λαμβάνει ή ορίζει το όνομα της κλάσης"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classname/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.ClassName property
 
-Λαμβάνει ή ορίζει το όνομα της τάξης.
+Λαμβάνει ή ορίζει το όνομα της κλάσης.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα της τάξης.
+Το όνομα της κλάσης.
 
 ### Δείτε επίσης
 
 * class [DescriptorStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

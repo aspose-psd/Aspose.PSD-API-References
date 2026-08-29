@@ -1,14 +1,15 @@
 ---
-title: Class BlendingOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions τάξη. BlendingOptions. Είναι ένα περιτύλιγμα για το Lfx2Resource που παρέχει api για εφέ επιπέδου
+title: "Κλάση BlendingOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions κλάση. BlendingOptions. Είναι ένας περιτύλιγμα για το BaseFxResource που παρέχει API για εφέ στρώσης"
 type: docs
-weight: 2100
+weight: 2290
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-BlendingOptions. Είναι ένα περιτύλιγμα για το Lfx2Resource που παρέχει api για εφέ επιπέδου
+BlendingOptions. Είναι ένας περιτύλιγμα για το BaseFxResource που παρέχει api για εφέ στρώσης
 
 ```csharp
 public class BlendingOptions
@@ -16,25 +17,26 @@ public class BlendingOptions
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | Λαμβάνει τα εφέ. |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | Λαμβάνει ή ορίζει την ορατότητα όλων των εφέ στρώσης. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | Λαμβάνει τα εφέ. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Προσθέτει την επικάλυψη χρώματος. |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Προσθέτει το εφέ drop shadow. |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Προσθέτει το εφέ σκιάς απόρριψης. |
 | [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Προσθέτει την επικάλυψη Gradient. |
-| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Προσθέτει το εφέ εσωτερικής σκιάς. |
-| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Προσθέτει το εφέ εξωτερικής λάμψης. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Προσθέτει την επικάλυψη Μοτίβου. |
-| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Προσθέτει το εφέ stroke. |
+| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Προσθέτει το εσωτερικό εφέ σκιάς. |
+| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Προσθέτει το εξωτερικό εφέ λάμψης. |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Προσθέτει την επικάλυψη Pattern. |
+| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Προσθέτει το εφέ γραμμής. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει πώς μπορείτε να αλλάξετε τις ρυθμίσεις του εφέ εσωτερικού στρώματος σκιάς.
+Ο παρακάτω κώδικας δείχνει πώς να αλλάξετε τις ρυθμίσεις του εφέ εσωτερικής σκιάς στρώσης.
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ public class BlendingOptions
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -65,7 +67,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSByteArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει μια σειρά από υπογεγραμμένες τιμές byte στη ροή.
+title: "TiffStreamWriter.WriteSByteArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει έναν πίνακα τιμών υπογεγραμμένων byte στο ρεύμα"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByteArray method
 
-Γράφει μια σειρά από υπογεγραμμένες τιμές byte στη ροή.
+Γράφει έναν πίνακα υπογεγραμμένων τιμών byte στη ροή.
 
 ```csharp
 public void WriteSByteArray(sbyte[] data)
@@ -16,12 +17,12 @@ public void WriteSByteArray(sbyte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | SByte[] | Ο πίνακας για να γράψετε. |
+| δεδομένα | SByte[] | Ο πίνακας για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpText
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Basic.XmpText τάξη. Αντιπροσωπεύει τον βασικό τύπο κειμένου XMP.
+title: "Κλάση XmpText"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Xmp.Types.Basic.XmpText. Αντιπροσωπεύει τον βασικό τύπο κειμένου XMP"
 type: docs
-weight: 5980
+weight: 6480
 url: /el/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
-Αντιπροσωπεύει τον βασικό τύπο κειμένου XMP.
+Αντιπροσωπεύει τον βασικό τύπο XMP Text.
 
 ```csharp
 public class XmpText : XmpTypeBase
@@ -16,26 +17,26 @@ public class XmpText : XmpTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpText](xmptext/)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpText` τάξη. |
+| [XmpText](xmptext/)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpText`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή κειμένου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

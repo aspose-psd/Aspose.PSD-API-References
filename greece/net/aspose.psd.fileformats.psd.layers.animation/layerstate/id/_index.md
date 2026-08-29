@@ -1,14 +1,15 @@
 ---
-title: LayerState.Id
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerState ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό.
+title: "LayerState.Id"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerState ιδιότητα. Αποκτά ή ορίζει το αναγνωριστικό στρώσης"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/layerstate/id/
 ---
+{{< psd/tize >}}
 ## LayerState.Id property
 
-Λαμβάνει ή ορίζει το αναγνωριστικό.
+Λαμβάνει ή ορίζει το αναγνωριστικό του στρώματος.
 
 ```csharp
 public int Id { get; set; }
@@ -17,7 +18,7 @@ public int Id { get; set; }
 ### Δείτε επίσης
 
 * class [LayerState](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

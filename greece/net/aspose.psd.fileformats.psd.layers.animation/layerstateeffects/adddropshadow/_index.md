@@ -1,26 +1,27 @@
 ---
-title: LayerStateEffects.AddDropShadow
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerStateEffects μέθοδος. Προσθέτει το εφέ drop shadow.
+title: "LayerStateEffects.AddDropShadow"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LayerStateEffects. Προσθέτει το εφέ σκιάς"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/adddropshadow/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddDropShadow method
 
-Προσθέτει το εφέ drop shadow.
+Προσθέτει το εφέ σκιάς απόρριψης.
 
 ```csharp
 public DropShadowEffect AddDropShadow()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το νέο παράδειγμα του[`DropShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/) τάξη.
+Η νέα παρουσία της κλάσης [`DropShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/).
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη των εφέ σε πλαίσια Timeline.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη εφέ στα πλαίσια Timeline.
 
 ```csharp
 [C#]
@@ -30,19 +31,16 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
@@ -52,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [DropShadowEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/)
 * class [LayerStateEffects](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

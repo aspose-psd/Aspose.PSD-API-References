@@ -1,14 +1,15 @@
 ---
-title: StringFormat.StringFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat κατασκευαστής. Αρχικοποιεί ένα νέοStringFormat αντικείμενο.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής StringFormat. Αρχικοποιεί ένα νέο αντικείμενο StringFormat"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-Αρχικοποιεί ένα νέο[`StringFormat`](../) αντικείμενο.
+Αρχικοποιεί ένα νέο αντικείμενο [`StringFormat`](../).
 
 ```csharp
 public StringFormat()
@@ -17,14 +18,14 @@ public StringFormat()
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-Αρχικοποιεί ένα νέο[`StringFormat`](../) αντικείμενο με το καθορισμένο[`StringFormatFlags`](../../stringformatflags/) απαρίθμηση και γλώσσα.
+Αρχικοποιεί ένα νέο αντικείμενο [`StringFormat`](../) με την καθορισμένη απαρίθμηση [`StringFormatFlags`](../../stringformatflags/) και γλώσσα.
 
 ```csharp
 public StringFormat(StringFormatFlags options)
@@ -32,20 +33,20 @@ public StringFormat(StringFormatFlags options)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| options | StringFormatFlags | ο[`StringFormatFlags`](../../stringformatflags/) απαρίθμηση για το νέο[`StringFormat`](../) αντικείμενο. |
+| options | StringFormatFlags | Η απαρίθμηση [`StringFormatFlags`](../../stringformatflags/) για το νέο αντικείμενο [`StringFormat`](../). |
 
 ### Δείτε επίσης
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-Αρχικοποιεί ένα νέο[`StringFormat`](../) αντικείμενο από το καθορισμένο υπάρχον[`StringFormat`](../) αντικείμενο.
+Αρχικοποιεί ένα νέο αντικείμενο [`StringFormat`](../) από το καθορισμένο υπάρχον αντικείμενο [`StringFormat`](../).
 
 ```csharp
 public StringFormat(StringFormat format)
@@ -53,18 +54,18 @@ public StringFormat(StringFormat format)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| format | StringFormat | ο[`StringFormat`](../) αντικείμενο από το οποίο θα αρχικοποιηθεί το νέο[`StringFormat`](../) αντικείμενο. |
+| format | StringFormat | Το αντικείμενο [`StringFormat`](../) από το οποίο θα αρχικοποιηθεί το νέο αντικείμενο [`StringFormat`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *format* είναι μηδενικό. |
+| ArgumentNullException | *format* είναι null. |
 
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

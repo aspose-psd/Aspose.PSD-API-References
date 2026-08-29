@@ -1,14 +1,15 @@
 ---
-title: RasterImage.LoadPartialArgb32Pixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Φορτώνει pixel ARGB 32bit μερικώς ανά πακέτα.
+title: "RasterImage.LoadPartialArgb32Pixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Φορτώνει μερικά 32-bit ARGB pixel με πακέτα"
 type: docs
-weight: 380
+weight: 390
 url: /el/net/aspose.psd/rasterimage/loadpartialargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialArgb32Pixels method
 
-Φορτώνει pixel ARGB 32-bit μερικώς ανά πακέτα.
+Φορτώνει εικονοστοιχεία 32-bit ARGB μερικώς ανά πακέτα.
 
 ```csharp
 public void LoadPartialArgb32Pixels(Rectangle rectangle, 
@@ -17,15 +18,15 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το επιθυμητό ορθογώνιο. |
-| partialPixelLoader | IPartialArgb32PixelLoader | Ο φορτωτής pixel ARGB 32-bit. |
+| ορθογώνιο | Rectangle | Το επιθυμητό ορθογώνιο. |
+| partialPixelLoader | IPartialArgb32PixelLoader | Ο φορτωτής 32-bit ARGB pixel. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

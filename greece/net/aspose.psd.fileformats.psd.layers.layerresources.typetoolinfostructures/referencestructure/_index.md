@@ -1,11 +1,12 @@
 ---
-title: Class ReferenceStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ReferenceStructure τάξη. Η δομή αναφοράς.
+title: "Κλάση ReferenceStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ReferenceStructure class. Η δομή αναφοράς"
 type: docs
-weight: 3250
+weight: 3640
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure class
 
 Η δομή αναφοράς.
@@ -16,22 +17,22 @@ public sealed class ReferenceStructure : OSTypeStructure
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ReferenceStructure](referencestructure/)(ClassID) | Αρχικοποιεί μια νέα παρουσία του`ReferenceStructure` τάξη. |
+| [ReferenceStructure](referencestructure/)(ClassID) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ReferenceStructure`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/) { get; set; } | Λαμβάνει ή ορίζει ένα αντίγραφο μιας σειράς δομών. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key/) { get; } | Λαμβάνει το κλειδί δομής. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/) { get; set; } | Λαμβάνει ή ορίζει ένα αντίγραφο ενός πίνακα δομών. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key/) { get; } | Λαμβάνει το κλειδί της δομής. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length/) { get; } | Λαμβάνει το[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length/) { get; } | Λαμβάνει το μήκος του [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -39,14 +40,14 @@ public sealed class ReferenceStructure : OSTypeStructure
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/structurekey/) | Προσδιορίζει το κλειδί δομής. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/structurekey/) | Αναγνωρίζει το κλειδί της δομής. |
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

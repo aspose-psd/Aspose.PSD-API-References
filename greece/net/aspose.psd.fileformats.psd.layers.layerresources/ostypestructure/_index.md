@@ -1,11 +1,12 @@
 ---
-title: Class OSTypeStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure τάξη. Αντιπροσωπεύει τη δομή τύπου OS.
+title: "Κλάση OSTypeStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure κλάση. Αντιπροσωπεύει τη δομή τύπου OS"
 type: docs
-weight: 2850
+weight: 3190
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure class
 
 Αντιπροσωπεύει τη δομή τύπου OS.
@@ -16,21 +17,21 @@ public abstract class OSTypeStructure
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [OSTypeStructure](ostypestructure/)(ClassID) | Αρχικοποιεί μια νέα παρουσία του`OSTypeStructure` τάξη. |
+| [OSTypeStructure](ostypestructure/)(ClassID) | Αρχικοποιεί μια νέα παρουσία της κλάσης `OSTypeStructure`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Λαμβάνει το κλειδί δομής. |
+| abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Λαμβάνει το κλειδί της δομής. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Λαμβάνει το`OSTypeStructure` μήκος σε byte. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Λαμβάνει το μήκος σε bytes του `OSTypeStructure`. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -38,7 +39,7 @@ public abstract class OSTypeStructure
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

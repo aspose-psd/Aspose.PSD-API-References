@@ -1,14 +1,15 @@
 ---
-title: Thumbnail.Thumbnail
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Thumbnail κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουThumbnail τάξη.
+title: "Thumbnail.Thumbnail"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Thumbnail. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης Thumbnail"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Thumbnail`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail()
@@ -17,14 +18,14 @@ public Thumbnail()
 ### Δείτε επίσης
 
 * class [Thumbnail](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Thumbnail(int, int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Thumbnail`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Thumbnail`](../).
 
 ```csharp
 public Thumbnail(int width, int height)
@@ -32,13 +33,13 @@ public Thumbnail(int width, int height)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| width | Int32 | Το πλάτος. |
-| height | Int32 | Το ύψος. |
+| πλάτος | Int32 | Το πλάτος. |
+| ύψος | Int32 | Το ύψος. |
 
 ### Δείτε επίσης
 
 * class [Thumbnail](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

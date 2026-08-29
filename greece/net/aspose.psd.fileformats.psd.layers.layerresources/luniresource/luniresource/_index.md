@@ -1,14 +1,15 @@
 ---
-title: LuniResource.LuniResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LuniResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLuniResource τάξη.
+title: "LuniResource.LuniResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής LuniResource. Αρχικοποιεί μια νέα παρουσία της κλάσης LuniResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`LuniResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LuniResource`](../).
 
 ```csharp
 public LuniResource()
@@ -17,7 +18,7 @@ public LuniResource()
 ### Δείτε επίσης
 
 * class [LuniResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

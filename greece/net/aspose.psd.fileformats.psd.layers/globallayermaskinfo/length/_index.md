@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GlobalLayerMaskInfo ιδιοκτησία. Λαμβάνει το μήκος ενότητας μάσκας καθολικής στρώσης σε byte.
+title: "GlobalLayerMaskInfo.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GlobalLayerMaskInfo. Αποκτά το μήκος της ενότητας μάσκας παγκόσμιας στρώσης σε bytes"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Length property
 
-Λαμβάνει το μήκος ενότητας μάσκας καθολικής στρώσης σε byte.
+Λαμβάνει το μήκος της ενότητας μάσκας παγκόσμιου στρώματος σε bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### Δείτε επίσης
 
 * class [GlobalLayerMaskInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

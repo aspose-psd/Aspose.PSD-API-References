@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BilateralSmoothingFilterOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον παράγοντα χρώματος.
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BilateralSmoothingFilterOptions ιδιότητα. Λαμβάνει ή ορίζει τον παράγοντα χρώματος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
 Λαμβάνει ή ορίζει τον παράγοντα χρώματος.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptio
 public double ColorFactor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο συντελεστής χρώματος.
+Ο παράγοντας χρώματος.
 
 ### Δείτε επίσης
 
 * class [BilateralSmoothingFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

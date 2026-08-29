@@ -1,11 +1,12 @@
 ---
-title: MedianFilterOptions.Size
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MedianFilterOptions ιδιοκτησία. Λαμβάνει ή ορίζει το μέγεθος.
+title: "MedianFilterOptions.Size"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MedianFilterOptions ιδιότητα. Λαμβάνει ή ορίζει το μέγεθος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
 Λαμβάνει ή ορίζει το μέγεθος.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 public int Size { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος του ορθογωνίου φίλτρου.
 
 ### Δείτε επίσης
 
 * class [MedianFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

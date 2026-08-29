@@ -1,14 +1,15 @@
 ---
-title: MixrResource.GetChannelInfo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MixrResource μέθοδος. Λαμβάνει τις πληροφορίες του καναλιού μη επεξεργασμένα δεδομένα
+title: "MixrResource.GetChannelInfo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MixrResource μέθοδος. Λαμβάνει τα ακατέργαστα δεδομένα πληροφοριών καναλιού"
 type: docs
-weight: 70
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.GetChannelInfo method
 
-Λαμβάνει τις πληροφορίες του καναλιού μη επεξεργασμένα δεδομένα
+Λαμβάνει τα ακατέργαστα δεδομένα πληροφοριών καναλιού
 
 ```csharp
 public byte[] GetChannelInfo(int channelIndex)
@@ -16,22 +17,22 @@ public byte[] GetChannelInfo(int channelIndex)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| channelIndex | Int32 | Ευρετήριο του καναλιού. |
+| channelIndex | Int32 | Δείκτης του καναλιού. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Συστοιχία ακατέργαστων byte πληροφοριών καναλιού.
+Ακατέργαστος πίνακας byte των πληροφοριών καναλιού.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | Ο πόρος Mixr δεν έχει περισσότερα από 4 κανάλια. Ο δείκτης του πρώτου καναλιού είναι 0 |
+| ArgumentException | Πόρος Mixr δεν έχει περισσότερα από 4 κανάλια. Ο δείκτης του πρώτου καναλιού είναι 0 |
 
 ### Δείτε επίσης
 
 * class [MixrResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

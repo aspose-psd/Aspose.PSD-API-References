@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.AddValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Προσθέτει την ιδιότητα συμβολοσειράς.
+title: "XmpDynamicMediaPackage.AddValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Προσθέτει ιδιότητα συμβολοσειράς"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.AddValue method
 
-Προσθέτει την ιδιότητα συμβολοσειράς.
+Προσθέτει ιδιότητα συμβολοσειράς.
 
 ```csharp
 public override void AddValue(string key, string value)
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Η αναπαράσταση συμβολοσειράς του κλειδιού που προσδιορίζεται με προστιθέμενη αξία. |
-| value | String | Η τιμή της συμβολοσειράς. |
+| κλειδί | String | Η αναπαράσταση τύπου string του κλειδιού που ταυτοποιείται με την προστιθέμενη τιμή. |
+| τιμή | String | Η τιμή string. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | κλειδί;Η ιδιότητα DynamicMedia δεν μπορούσε να είναι μηδενική |
+| ArgumentNullException | key;Η ιδιότητα DynamicMedia δεν μπορεί να είναι κενή |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

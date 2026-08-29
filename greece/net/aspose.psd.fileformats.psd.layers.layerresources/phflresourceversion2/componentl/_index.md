@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.ComponentL
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion2 ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο L του color
+title: "PhflResourceVersion2.ComponentL"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhflResourceVersion2 ιδιότητα. Λαμβάνει ή ορίζει το L συστατικό του χρώματος"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentL property
 
-Λαμβάνει ή ορίζει το στοιχείο L του color
+Λαμβάνει ή ορίζει το στοιχείο L του χρώματος
 
 ```csharp
 public short ComponentL { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το συστατικό L.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L Το χρώμα πρέπει να κυμαίνεται από 0 έως 10000 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L Color πρέπει να είναι στο εύρος από 0 έως 10000 |
 
 ### Δείτε επίσης
 
 * class [PhflResourceVersion2](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

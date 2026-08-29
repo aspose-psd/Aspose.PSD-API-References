@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Denominator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffSRational ιδιοκτησία. Παίρνει τον παρονομαστή.
+title: "TiffSRational.Denominator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffSRational. Λαμβάνει τον παρονομαστή"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.tiff/tiffsrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Denominator property
 
-Παίρνει τον παρονομαστή.
+Λαμβάνει τον παρονομαστή.
 
 ```csharp
 public int Denominator { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο παρονομαστής.
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

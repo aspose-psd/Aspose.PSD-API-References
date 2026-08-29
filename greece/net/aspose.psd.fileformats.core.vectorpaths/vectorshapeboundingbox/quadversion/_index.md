@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.QuadVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeBoundingBox ιδιοκτησία. Λαμβάνει ή ορίζει την τετραπλή έκδοση της τιμής μονάδας.
+title: "VectorShapeBoundingBox.QuadVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorShapeBoundingBox ιδιότητα. Λαμβάνει ή ορίζει την τετραγωνική έκδοση της τιμής μονάδας"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.QuadVersion property
 
-Λαμβάνει ή ορίζει την τετραπλή έκδοση της τιμής μονάδας.
+Λαμβάνει ή ορίζει την τετραγωνική έκδοση της μονάδας τιμής.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τετραπλή έκδοση.
+Η έκδοση quad.
 
 ### Δείτε επίσης
 
 * class [VectorShapeBoundingBox](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

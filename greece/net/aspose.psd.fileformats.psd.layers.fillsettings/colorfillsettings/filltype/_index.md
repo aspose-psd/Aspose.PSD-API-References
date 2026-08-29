@@ -1,14 +1,15 @@
 ---
-title: ColorFillSettings.FillType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorFillSettings ιδιοκτησία. Ο τύπος πλήρωσης
+title: "ColorFillSettings.FillType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorFillSettings. Ο τύπος γεμίσματος"
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings.FillType property
 
-Ο τύπος πλήρωσης
+Ο τύπος γεμίσματος
 
 ```csharp
 public override FillType FillType { get; }
@@ -18,7 +19,7 @@ public override FillType FillType { get; }
 
 * enum [FillType](../../filltype/)
 * class [ColorFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../colorfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

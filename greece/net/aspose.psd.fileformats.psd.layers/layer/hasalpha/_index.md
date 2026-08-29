@@ -1,11 +1,12 @@
 ---
-title: Layer.HasAlpha
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει άλφα.
+title: "Layer.HasAlpha"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει άλφα"
 type: docs
-weight: 150
+weight: 160
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
+{{< psd/tize >}}
 ## Layer.HasAlpha property
 
 Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει άλφα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 public override bool HasAlpha { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν αυτή η περίπτωση έχει άλφα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία έχει άλφα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

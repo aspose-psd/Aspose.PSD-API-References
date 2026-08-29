@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει κλάσεις Multithreading.
+title: "Aspose.PSD.Multithreading"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει κλάσεις πολυνηματικότητας."
 type: docs
-weight: 460
+weight: 500
 url: /el/net/aspose.psd.multithreading/
 ---
-Ο χώρος ονομάτων περιέχει κλάσεις Multithreading.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει κλάσεις πολυνηματισμού.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [InterruptMonitor](./interruptmonitor/) | Αντιπροσωπεύει πληροφορίες σχετικά με τη διακοπή. |
 

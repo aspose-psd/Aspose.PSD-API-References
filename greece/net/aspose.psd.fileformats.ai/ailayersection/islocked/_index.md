@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι κλειδωμένο. Αποτρέπει αλλαγές στο στοιχείο.
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η στρώση είναι κλειδωμένη. Αποτρέπει αλλαγές στο αντικείμενο."
 type: docs
-weight: 60
+weight: 80
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι κλειδωμένο. Αποτρέπει αλλαγές στο στοιχείο.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι κλειδωμένο. Αποτρέπει τις αλλαγές στο αντικείμενο.
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το στρώμα είναι κλειδωμένο. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η στρώση είναι κλειδωμένη· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

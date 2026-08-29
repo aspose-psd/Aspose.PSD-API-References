@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ChannelInformation ιδιοκτησία. Λαμβάνει το μήκος του καναλιού σε byte.
+title: "ChannelInformation.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ChannelInformation. Λαμβάνει το μήκος του καναλιού σε byte"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.Length property
 
-Λαμβάνει το μήκος του καναλιού σε byte.
+Λαμβάνει το μήκος του καναλιού σε bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μήκος.
 
 ### Δείτε επίσης
 
 * class [ChannelInformation](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

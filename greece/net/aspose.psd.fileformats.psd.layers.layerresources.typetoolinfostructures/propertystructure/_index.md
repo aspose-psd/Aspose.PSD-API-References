@@ -1,14 +1,15 @@
 ---
-title: Class PropertyStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PropertyStructure τάξη. Η δομή της ιδιοκτησίας.
+title: "Κλάση PropertyStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PropertyStructure κλάση. Η δομή ιδιότητας"
 type: docs
-weight: 3230
+weight: 3620
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/
 ---
+{{< psd/tize >}}
 ## PropertyStructure class
 
-Η δομή της ιδιοκτησίας.
+Η δομή property.
 
 ```csharp
 public sealed class PropertyStructure : OSTypeStructure
@@ -16,24 +17,24 @@ public sealed class PropertyStructure : OSTypeStructure
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [PropertyStructure](propertystructure/)(ClassID, ClassID, ClassID) | Αρχικοποιεί μια νέα παρουσία του`PropertyStructure` τάξη. |
+| [PropertyStructure](propertystructure/)(ClassID, ClassID, ClassID) | Αρχικοποιεί μια νέα παρουσία της κλάσης `PropertyStructure`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό κλάσης. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της τάξης. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/key/) { get; } | Λαμβάνει το κλειδί δομής. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό της κλάσης. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της κλάσης. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/key/) { get; } | Λαμβάνει το κλειδί της δομής. |
 | [KeyID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό κλειδιού. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length/) { get; } | Λαμβάνει το[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length/) { get; } | Λαμβάνει το μήκος του [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -41,14 +42,14 @@ public sealed class PropertyStructure : OSTypeStructure
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/) | Προσδιορίζει το κλειδί δομής. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/) | Αναγνωρίζει το κλειδί της δομής. |
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

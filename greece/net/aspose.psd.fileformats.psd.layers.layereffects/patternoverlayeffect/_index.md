@@ -1,14 +1,15 @@
 ---
-title: Class PatternOverlayEffect
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect τάξη. Εφέ επιπέδου μοτίβου
+title: "Κλάση PatternOverlayEffect"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect κλάση. Εφέ στρώσης Pattern."
 type: docs
-weight: 2180
+weight: 2380
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-Εφέ επιπέδου μοτίβου
+Εφέ στρώσης Σχεδίου
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
@@ -16,17 +17,23 @@ public class PatternOverlayEffect : ILayerEffect
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Λαμβάνει έναν τύπο εφέ type |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Λαμβάνει έναν τύπο εφέ. |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ορατή. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Λαμβάνει ή ορίζει τις ρυθμίσεις. |
 
-### Παραδείγματα
+## Μέθοδοι
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη του εφέ επικάλυψης μοτίβου.
+| Όνομα | Περιγραφή |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | Υπολογίζει και λαμβάνει τα όρια των εικονοστοιχείων εφέ βάσει των ορίων των εικονοστοιχείων εισόδου της στρώσης. |
+
+## Παραδείγματα
+
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του εφέ επικάλυψης pattern.
 
 ```csharp
 [C#]
@@ -97,7 +104,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - settings.HorizontalOffset) < 0.001, "Horizontal offset is incorrect");
     AssertIsTrue(Math.Abs(0 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
 
-    // Δοκιμαστική επεξεργασία
+    // Δοκιμή επεξεργασίας
     settings.Color = Color.Green;
 
     patternOverlay.Opacity = 193;
@@ -114,7 +121,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Δοκιμή αρχείου μετά την επεξεργασία
+// Αρχείο δοκιμής μετά την επεξεργασία
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternOverlay = (PatternOverlayEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -152,7 +159,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### Δείτε επίσης
 
 * interface [ILayerEffect](../ilayereffect/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

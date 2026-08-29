@@ -1,14 +1,15 @@
 ---
-title: Time.Time
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Time κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTime τάξη.
+title: "Time.Time"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Time. Δημιουργεί ένα νέο αντικείμενο της κλάσης Time"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`Time`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`Time`](../).
 
 ```csharp
 public Time(Rational scale, int value)
@@ -16,14 +17,14 @@ public Time(Rational scale, int value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| scale | Rational | Η κλίμακα. |
-| value | Int32 | Η αξία. |
+| scale | Αριθμητικός | Η κλίμακα. |
+| τιμή | Int32 | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

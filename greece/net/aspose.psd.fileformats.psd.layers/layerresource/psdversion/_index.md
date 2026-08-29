@@ -1,23 +1,24 @@
 ---
-title: LayerResource.PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResource ιδιοκτησία. Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς.
+title: "LayerResource.PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerResource. Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LayerResource.PsdVersion property
 
-Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς.
+Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί.
 
 ```csharp
-public abstract int PsdVersion { get; }
+public virtual int PsdVersion { get; }
 ```
 
 ### Δείτε επίσης
 
 * class [LayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

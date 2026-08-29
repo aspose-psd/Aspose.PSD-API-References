@@ -1,22 +1,23 @@
 ---
-title: Enum ExifSaturation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifSaturation αρίθμηση. exif saturation enum.
+title: "Απαρίθμηση ExifSaturation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation enum. κορεσμός exif enum"
 type: docs
-weight: 920
+weight: 930
 url: /el/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-exif saturation enum.
+exif κορεσμός enum.
 
 ```csharp
 public enum ExifSaturation
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Normal | `0` | Κανονικός κορεσμός. |
 | Low | `1` | Χαμηλός κορεσμός. |
@@ -24,7 +25,7 @@ public enum ExifSaturation
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

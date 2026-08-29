@@ -1,11 +1,12 @@
 ---
-title: PsdImage.DefaultVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage πεδίο. Η προεπιλεγμένη έκδοση PSD.
+title: "PsdImage.DefaultVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdImage πεδίο. Η προεπιλεγμένη έκδοση PSD"
 type: docs
-weight: 620
+weight: 690
 url: /el/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
+{{< psd/tize >}}
 ## PsdImage.DefaultVersion field
 
 Η προεπιλεγμένη έκδοση PSD.
@@ -17,7 +18,7 @@ public const int DefaultVersion;
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

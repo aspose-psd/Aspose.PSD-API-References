@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει το πλάτος της εικόνας.
+title: "PsdImage.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει το πλάτος της εικόνας"
 type: docs
-weight: 270
+weight: 280
 url: /el/net/aspose.psd.fileformats.psd/psdimage/width/
 ---
+{{< psd/tize >}}
 ## PsdImage.Width property
 
 Λαμβάνει το πλάτος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd/psdimage/width/
 public override int Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

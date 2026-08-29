@@ -1,14 +1,15 @@
 ---
-title: Size.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size ιδιοκτησία. Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτούSize .
+title: "Size.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Size. Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτού του Size"
 type: docs
 weight: 100
 url: /el/net/aspose.psd/size/width/
 ---
+{{< psd/tize >}}
 ## Size.Width property
 
-Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτού[`Size`](../) .
+Αποκτά ή ορίζει το οριζόντιο στοιχείο αυτής της [`Size`](../).
 
 ```csharp
 public int Width { get; set; }
@@ -17,7 +18,7 @@ public int Width { get; set; }
 ### Δείτε επίσης
 
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

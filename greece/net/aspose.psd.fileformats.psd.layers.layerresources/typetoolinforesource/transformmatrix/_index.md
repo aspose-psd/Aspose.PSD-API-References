@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.TransformMatrix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού.
+title: "TypeToolInfoResource.TransformMatrix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfoResource property. Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού"
 type: docs
-weight: 230
+weight: 200
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TransformMatrix property
 
 Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public double[] TransformMatrix { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο πίνακας μετασχηματισμού.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

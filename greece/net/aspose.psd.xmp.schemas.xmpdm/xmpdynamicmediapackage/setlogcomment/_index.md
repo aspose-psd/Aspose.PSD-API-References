@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ορίζει το σχόλιο του αρχείου καταγραφής του χρήστη.
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει το σχόλιο καταγραφής του χρήστη"
 type: docs
 weight: 270
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
-Ορίζει το σχόλιο του αρχείου καταγραφής του χρήστη.
+Ορίζει το σχόλιο καταγραφής του χρήστη.
 
 ```csharp
 public void SetLogComment(string comment)
@@ -16,12 +17,12 @@ public void SetLogComment(string comment)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| comment | String | Το σχόλιο. |
+| σχόλιο | String | Το σχόλιο. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

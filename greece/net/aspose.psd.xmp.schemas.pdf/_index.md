@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Pdf
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει σχετικές βοηθητικές κλάσεις σταθερές και μεθόδους που χρησιμοποιούνται με έγγραφα Adobe PDF.
+title: "Aspose.PSD.Xmp.Schemas.Pdf"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Το namespace περιέχει σχετικές βοηθητικές κλάσεις, σταθερές και μεθόδους που χρησιμοποιούνται με έγγραφα Adobe PDF"
 type: docs
-weight: 540
+weight: 580
 url: /el/net/aspose.psd.xmp.schemas.pdf/
 ---
+{{< psd/tize >}}
 Ο χώρος ονομάτων περιέχει σχετικές βοηθητικές κλάσεις, σταθερές και μεθόδους που χρησιμοποιούνται με έγγραφα Adobe PDF.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [PdfPackage](./pdfpackage/) | Αντιπροσωπεύει τον χώρο ονομάτων Adobe Pdf. |
+| [PdfPackage](./pdfpackage/) | Αντιπροσωπεύει το namespace Adobe Pdf. |
 
 

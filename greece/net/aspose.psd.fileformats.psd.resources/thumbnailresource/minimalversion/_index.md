@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.MinimalVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει την ελάχιστη απαιτούμενη έκδοση psd.
+title: "ThumbnailResource.MinimalVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ThumbnailResource ιδιότητα. Επιστρέφει την ελάχιστη απαιτούμενη έκδοση psd"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.MinimalVersion property
 
 Λαμβάνει την ελάχιστη απαιτούμενη έκδοση psd.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/minimalversi
 public override int MinimalVersion { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η minimal έκδοση psd.
+Η ελάχιστη έκδοση psd.
 
 ### Δείτε επίσης
 
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

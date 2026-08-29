@@ -1,14 +1,15 @@
 ---
-title: FontSettings.UpdateFonts
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Ενημερώνει την προσωρινή μνήμη γραμματοσειρών για αρχεία PSD που περιέχουν επίπεδα κειμένου. Αυτή η μέθοδος εγγυάται ότι οι γραμματοσειρές από το φάκελο fontsFolder using μέθοδος FontSettings.SetFontsFolderfontsFolder ή μετά την επαναφορά γραμματοσειρών χρησιμοποιώντας το FontSettings.Reset θα ληφθούν υπόψη κατά την επεξεργασία αρχείων PSD. Χρησιμοποιήστε αυτήν τη μέθοδο κάθε φορά όταν FontSettings.SetFontsFolderfontsFolder ή FontSettings.Reset καλούσε για εικόνες PSD. Χωρίς να καλέσετε αυτήν τη Μέθοδο δεν υπάρχει καμία εγγύηση ότι οι γραμματοσειρές θα ενημερωθούν.
+title: "FontSettings.UpdateFonts"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Ενημερώνει την κρυφή μνήμη γραμματοσειρών για αρχεία PSD που περιέχουν στρώματα κειμένου. Αυτή η μέθοδος εγγυάται ότι οι γραμματοσειρές από το φάκελο fontsFolder χρησιμοποιώντας τη μέθοδο FontSettings.SetFontsFolderfontsFolder ή μετά την επαναφορά γραμματοσειρών με τη FontSettings.Reset θα ληφθούν υπόψη κατά την επεξεργασία αρχείων PSD. Παρακαλώ χρησιμοποιήστε αυτή τη μέθοδο κάθε φορά που καλείται η FontSettings.SetFontsFolderfontsFolder ή η FontSettings.Reset για εικόνες PSD. Χωρίς την κλήση αυτής της μεθόδου δεν υπάρχει εγγύηση ότι οι γραμματοσειρές θα ενημερωθούν."
 type: docs
-weight: 140
+weight: 160
 url: /el/net/aspose.psd/fontsettings/updatefonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.UpdateFonts method
 
-Ενημερώνει την προσωρινή μνήμη γραμματοσειρών για αρχεία PSD που περιέχουν επίπεδα κειμένου. Αυτή η μέθοδος εγγυάται ότι οι γραμματοσειρές από το φάκελο fontsFolder using μέθοδος FontSettings.SetFontsFolder(fontsFolder) ή μετά την επαναφορά γραμματοσειρών χρησιμοποιώντας το FontSettings.Reset() θα ληφθούν υπόψη κατά την επεξεργασία αρχείων PSD. Χρησιμοποιήστε αυτήν τη μέθοδο κάθε φορά όταν FontSettings.SetFontsFolder(fontsFolder) ή FontSettings.Reset() καλούσε για εικόνες PSD. Χωρίς να καλέσετε αυτήν τη Μέθοδο, δεν υπάρχει καμία εγγύηση ότι οι γραμματοσειρές θα ενημερωθούν.
+Ενημερώνει την προσωρινή μνήμη γραμματοσειρών για αρχεία PSD που περιέχουν στρώματα κειμένου. Αυτή η μέθοδος εγγυάται ότι οι γραμματοσειρές από το φάκελο fontsFolder χρησιμοποιώντας τη μέθοδο FontSettings.SetFontsFolder(fontsFolder) ή μετά την επαναφορά γραμματοσειρών με FontSettings.Reset() θα ληφθούν υπόψη κατά την επεξεργασία αρχείων PSD. Παρακαλώ χρησιμοποιήστε αυτή τη μέθοδο κάθε φορά που καλείται FontSettings.SetFontsFolder(fontsFolder) ή FontSettings.Reset() για εικόνες PSD. Χωρίς την κλήση αυτής της Μεθόδου δεν υπάρχει εγγύηση ότι οι γραμματοσειρές θα ενημερωθούν.
 
 ```csharp
 public static void UpdateFonts()
@@ -17,7 +18,7 @@ public static void UpdateFonts()
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types.Derived
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις παραγόμενες τιμές τύπων των ιδιοτήτων XMP.
+title: "Aspose.PSD.Xmp.Types.Derived"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις τιμές τύπων που προέρχονται από τις ιδιότητες XMP."
 type: docs
-weight: 700
+weight: 740
 url: /el/net/aspose.psd.xmp.types.derived/
 ---
-Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις παραγόμενες τιμές τύπων των ιδιοτήτων XMP.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις τιμές των παράγωγων τύπων των ιδιοτήτων XMP.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [Rational](./rational/) | Αντιπροσωπεύει το XMP Rational. |
-| [RenditionClass](./renditionclass/) | Αντιπροσωπεύει την απόδοση XMP. |
-| [XmpAgentName](./xmpagentname/) | Αντιπροσωπεύει όνομα πράκτορα, οργάνωση λογισμικού κ.λπ. |
-| [XmpChoise&lt;T&gt;](./xmpchoise-1/) | Αντιπροσωπεύει μια τιμή από το λεξιλόγιο των τιμών. |
+| [RenditionClass](./renditionclass/) | Αντιπροσωπεύει το XMP Rendition. |
+| [XmpAgentName](./xmpagentname/) | Αντιπροσωπεύει το όνομα του πράκτορα, την οργάνωση λογισμικού κ.λπ. |
+| [XmpChoise&lt;T&gt;](./xmpchoise-1/) | Αντιπροσωπεύει μια τιμή από το λεξικό τιμών. |
 | [XmpGuid](./xmpguid/) | Αντιπροσωπεύει το παγκόσμιο μοναδικό αναγνωριστικό XMP. |
 | [XmpLocale](./xmplocale/) | Αντιπροσωπεύει τον κωδικό γλώσσας. |
 | [XmpMimeType](./xmpmimetype/) | Αντιπροσωπεύει τον τύπο MIME. |

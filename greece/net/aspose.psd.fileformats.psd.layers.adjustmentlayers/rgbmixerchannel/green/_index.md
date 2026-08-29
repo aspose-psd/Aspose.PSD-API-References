@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Green
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RgbMixerChannel ιδιοκτησία. Παίρνει ή ρυθμίζει το πράσινο.
+title: "RgbMixerChannel.Green"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RgbMixerChannel. Λαμβάνει ή ορίζει το πράσινο"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Green property
 
-Παίρνει ή ρυθμίζει το πράσινο.
+Λαμβάνει ή ορίζει το πράσινο.
 
 ```csharp
 public short Green { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πράσινο.
 
 ### Δείτε επίσης
 
 * class [RgbMixerChannel](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

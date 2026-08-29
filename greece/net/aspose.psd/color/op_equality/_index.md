@@ -1,14 +1,15 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color μέθοδος. Ελέγχει εάν έχουν καθοριστεί δύοColorοι δομές είναι ισοδύναμες.
+title: "Color.op_Equality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Color. Ελέγχει εάν δύο καθορισμένες δομές Color είναι ισοδύναμες"
 type: docs
-weight: 1620
+weight: 1640
 url: /el/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-Ελέγχει εάν έχουν καθοριστεί δύο[`Color`](../)οι δομές είναι ισοδύναμες.
+Ελέγχει εάν δύο καθορισμένες δομές [`Color`](../) είναι ισοδύναμες.
 
 ```csharp
 public static bool operator ==(Color left, Color right)
@@ -16,17 +17,17 @@ public static bool operator ==(Color left, Color right)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | Color | ο[`Color`](../) δηλαδή στα αριστερά του τελεστή ισότητας. |
-| right | Color | ο[`Color`](../) δηλαδή στα δεξιά του τελεστή ισότητας. |
+| left | Color | Το [`Color`](../) που βρίσκεται στα αριστερά του τελεστή ισότητας. |
+| right | Color | Το [`Color`](../) που βρίσκεται στα δεξιά του τελεστή ισότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν τα δύο[`Color`](../) οι δομές είναι ίσες. διαφορετικά, ψευδής.
+Αληθές εάν οι δύο δομές [`Color`](../) είναι ίσες· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

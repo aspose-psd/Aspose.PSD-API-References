@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.TransferFunction
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη συνάρτηση μεταφοράς.
+title: "JpegExifData.TransferFunction"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "JpegExifData ιδιότητα. Λαμβάνει ή ορίζει τη λειτουργία μεταφοράς"
 type: docs
 weight: 210
 url: /el/net/aspose.psd.exif/jpegexifdata/transferfunction/
 ---
+{{< psd/tize >}}
 ## JpegExifData.TransferFunction property
 
 Λαμβάνει ή ορίζει τη συνάρτηση μεταφοράς.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.exif/jpegexifdata/transferfunction/
 public ushort[] TransferFunction { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συνάρτηση μεταφοράς.
+Η λειτουργία μεταφοράς.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

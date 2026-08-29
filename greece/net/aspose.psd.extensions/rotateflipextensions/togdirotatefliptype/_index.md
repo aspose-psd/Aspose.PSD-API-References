@@ -1,11 +1,12 @@
 ---
-title: RotateFlipExtensions.ToGdiRotateFlipType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RotateFlipExtensions μέθοδος. Μετατρέπει το Aspose.PSD.RotateFlipType σε System.Drawing.RotateFlipType.
+title: "RotateFlipExtensions.ToGdiRotateFlipType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RotateFlipExtensions μέθοδος. Μετατρέπει το Aspose.PSD.RotateFlipType σε System.Drawing.RotateFlipType"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions.ToGdiRotateFlipType method
 
 Μετατρέπει το Aspose.PSD.RotateFlipType σε System.Drawing.RotateFlipType.
@@ -16,9 +17,9 @@ public static RotateFlipType ToGdiRotateFlipType(RotateFlipType rotateFlipType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Τύπος περιστροφής. |
+| rotateFlipType | RotateFlipType | Τύπος της περιστροφής/αναστροφής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το gdi RotateFlipType
 
@@ -26,7 +27,7 @@ public static RotateFlipType ToGdiRotateFlipType(RotateFlipType rotateFlipType)
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [RotateFlipExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../rotateflipextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

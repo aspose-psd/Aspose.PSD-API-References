@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει τη θέση του συντάκτη.
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage μέθοδος. Ορίζει τη θέση των συγγραφέων"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
-Ορίζει τη θέση του συντάκτη.
+Ορίζει τη θέση του συγγραφέα.
 
 ```csharp
 public void SetAuthorsPosition(string authorsPosition)
@@ -21,7 +22,7 @@ public void SetAuthorsPosition(string authorsPosition)
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

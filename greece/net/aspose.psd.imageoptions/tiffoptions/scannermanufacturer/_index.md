@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λήψη ή ρύθμιση του κατασκευαστή του σαρωτή.
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τον κατασκευαστή του σαρωτή"
 type: docs
-weight: 410
+weight: 420
 url: /el/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
-Λήψη ή ρύθμιση του κατασκευαστή του σαρωτή.
+Λαμβάνει ή ορίζει τον κατασκευαστή του σαρωτή.
 
 ```csharp
 public string ScannerManufacturer { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο κατασκευαστής του σαρωτή.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

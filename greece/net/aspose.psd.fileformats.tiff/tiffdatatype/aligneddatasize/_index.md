@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.AlignedDataSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffDataType ιδιοκτησία. Λαμβάνει το πρόσθετο μέγεθος δεδομένων σε byte σε περίπτωση που τα 12 byte δεν είναι αρκετά για να χωρέσουν τα δεδομένα της ετικέτας.
+title: "TiffDataType.AlignedDataSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffDataType property. Λαμβάνει το πρόσθετο μέγεθος δεδομένων σε bytes σε περίπτωση που τα 12 bytes δεν είναι αρκετά για να χωρέσουν τα δεδομένα της ετικέτας"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.tiff/tiffdatatype/aligneddatasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.AlignedDataSize property
 
-Λαμβάνει το πρόσθετο μέγεθος δεδομένων σε byte (σε περίπτωση που τα 12 byte δεν είναι αρκετά για να χωρέσουν τα δεδομένα της ετικέτας).
+Λαμβάνει το πρόσθετο μέγεθος δεδομένων σε bytes (σε περίπτωση που τα 12 bytes δεν είναι αρκετά για να χωρέσουν τα δεδομένα της ετικέτας).
 
 ```csharp
 public uint AlignedDataSize { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πρόσθετο μέγεθος δεδομένων σε byte.
+Το πρόσθετο μέγεθος δεδομένων σε bytes.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Αυτό είναι το πλήθος των byte δεδομένων που ευθυγραμμίζονται με το όριο λέξης.
+Αυτή είναι η καταμέτρηση των bytes δεδομένων ευθυγραμμισμένη στο όριο λέξης.
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

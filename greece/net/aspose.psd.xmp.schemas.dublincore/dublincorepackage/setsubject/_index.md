@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DublinCorePackage μέθοδος. Προσθέτει το θέμα.
+title: "DublinCorePackage.SetSubject"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DublinCorePackage μέθοδος. Προσθέτει το θέμα"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
 Προσθέτει το θέμα.
@@ -16,13 +17,13 @@ public void SetSubject(string subject)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| subject | String | Το θέμα. |
+| θέμα | String | Το θέμα. |
 
 ### Δείτε επίσης
 
 * class [DublinCorePackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,12 +37,12 @@ public void SetSubject(string[] subject)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| subject | String[] | Το θέμα. |
+| θέμα | String[] | Το θέμα. |
 
 ### Δείτε επίσης
 
 * class [DublinCorePackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

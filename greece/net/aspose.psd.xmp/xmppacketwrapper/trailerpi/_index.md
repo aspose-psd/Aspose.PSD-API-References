@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.TrailerPi
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPacketWrapper ιδιοκτησία. Λαμβάνει την οδηγία επεξεργασίας του τρέιλερ.
+title: "XmpPacketWrapper.TrailerPi"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpPacketWrapper. Λαμβάνει την εντολή επεξεργασίας trailer"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp/xmppacketwrapper/trailerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.TrailerPi property
 
-Λαμβάνει την οδηγία επεξεργασίας του τρέιλερ.
+Αποκτά την οδηγία επεξεργασίας τερματικού.
 
 ```csharp
 public XmpTrailerPi TrailerPi { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οδηγίες επεξεργασίας τρέιλερ.
+Εντολή επεξεργασίας trailer.
 
 ### Δείτε επίσης
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

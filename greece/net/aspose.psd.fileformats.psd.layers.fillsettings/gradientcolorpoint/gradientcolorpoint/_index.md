@@ -1,14 +1,15 @@
 ---
-title: GradientColorPoint.GradientColorPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientColorPoint κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουGradientColorPoint τάξη.
+title: "GradientColorPoint.GradientColorPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GradientColorPoint κατασκευαστής. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης GradientColorPoint"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`GradientColorPoint`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`GradientColorPoint`](../).
 
 ```csharp
 public GradientColorPoint()
@@ -17,14 +18,14 @@ public GradientColorPoint()
 ### Δείτε επίσης
 
 * class [GradientColorPoint](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`GradientColorPoint`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`GradientColorPoint`](../).
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
@@ -32,13 +33,13 @@ public GradientColorPoint(Color color, int location, int medianPointLocation)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| color | Color | Σημείο χρώματος στην κλίση. |
-| location | Int32 | Η θέση του σημείου χρώματος στη διαβάθμιση. |
-| medianPointLocation | Int32 | Η μέση θέση σημείου κλίσης. |
+| χρώμα | Χρώμα | Σημείο χρώματος στη διαβάθμιση. |
+| τοποθεσία | Int32 | Η τοποθεσία του σημείου χρώματος στη διαβάθμιση. |
+| medianPointLocation | Int32 | Η τοποθεσία του μεσαίου σημείου διαβάθμισης. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς να δημιουργήσετε/επεξεργαστείτε το αντικείμενο εφέ GradientOverlayEffect σε επίπεδο.
+Το παρακάτω παράδειγμα δείχνει πώς να δημιουργήσετε/επεξεργαστείτε το αντικείμενο εφέ GradientOverlayEffect σε ένα επίπεδο.
 
 ```csharp
 [C#]
@@ -46,13 +47,13 @@ public GradientColorPoint(Color color, int location, int medianPointLocation)
 string sourceFilePath = "psdnet256.psd";
 string outputFilePath = "psdnet256.psd_output.psd";
 
-// Δημιουργεί/Λάβει και επεξεργάζεται το εφέ επικάλυψης διαβάθμισης σε ένα επίπεδο.
+// Δημιουργεί/Αποκτά και επεξεργάζεται το εφέ επικάλυψης διαβάθμισης σε ένα επίπεδο.
 using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() { LoadEffectsResource = true }))
 {
     BlendingOptions layerBlendOptions = psdImage.Layers[1].BlendingOptions;
     GradientOverlayEffect gradientOverlayEffect = null;
 
-    // Αναζήτηση GradientOverlayEffect σε ένα επίπεδο.
+    // Αναζητήστε GradientOverlayEffect σε ένα επίπεδο.
     foreach (ILayerEffect effect in layerBlendOptions.Effects)
     {
         gradientOverlayEffect = effect as GradientOverlayEffect;
@@ -68,34 +69,35 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
         gradientOverlayEffect = layerBlendOptions.AddGradientOverlay();
     }
 
-    // Προσθέστε λίγη διαφάνεια στο εφέ.
+    // Προσθέστε λίγο διαφάνεια στο εφέ.
     gradientOverlayEffect.Opacity = 200;
 
-    // Αλλαγή του συνδυασμού του εφέ ντεγκραντέ.
+    // Αλλάξτε τη λειτουργία ανάμειξης του εφέ διαβάθμισης.
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
-    // Λαμβάνει το αντικείμενο GradientFillSettings για να διαμορφώσει τις ρυθμίσεις επικάλυψης κλίσης.
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    // Λαμβάνει το αντικείμενο GradientFillSettings για να διαμορφώσει τις ρυθμίσεις επικάλυψης διαβάθμισης.
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
-    // Ορισμός νέας διαβάθμισης με δύο χρώματα.
-    settings.ColorPoints = new IGradientColorPoint[]
+    // Ορίζοντας μια νέα διαβάθμιση με δύο χρώματα.
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
     };
 
-    // Ορίζει μια κλίση της κλίσης σε γωνία 80 μοιρών.
+    // Ορίζει κλίση της διαβάθμισης σε γωνία 80 μοιρών.
     settings.Angle = 80;
 
-    // Κλίμακα εφέ κλίσης έως και 150%.
+    // Κλιμακώνει το εφέ διαβάθμισης έως 150%.
     settings.Scale = 150;
 
-    // Ορίζει τον τύπο της κλίσης.
+    // Ορίζει τύπο διαβάθμισης.
     settings.GradientType = GradientType.Linear;
 
-    // Κάντε την κλίση αδιαφανή ορίζοντας την αδιαφάνεια στο 100% σε κάθε σημείο διαφάνειας.
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    // Κάντε τη διαβάθμιση αδιαφανή ορίζοντας την αδιαφάνεια στο 100% σε κάθε σημείο διαφάνειας.
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }
@@ -105,7 +107,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

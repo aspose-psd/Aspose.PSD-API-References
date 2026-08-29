@@ -1,11 +1,12 @@
 ---
-title: Namespaces.DublinCore
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. Χώρος ονομάτων Dublic Core.
+title: "Namespaces.DublinCore"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. Χώρος ονομάτων Dublin Core"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/namespaces/dublincore/
 ---
+{{< psd/tize >}}
 ## Namespaces.DublinCore field
 
 Χώρος ονομάτων Dublic Core.
@@ -17,7 +18,7 @@ public const string DublinCore;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

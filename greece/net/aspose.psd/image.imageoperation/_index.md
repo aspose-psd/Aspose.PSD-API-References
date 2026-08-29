@@ -1,11 +1,12 @@
 ---
-title: Enum Image.ImageOperation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageImageOperation αρίθμηση. Λειτουργίες εικόνας
+title: "Απαρίθμηση Image.ImageOperation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageImageOperation απαρίθμηση. Λειτουργίες εικόνας"
 type: docs
-weight: 4600
+weight: 5070
 url: /el/net/aspose.psd/image.imageoperation/
 ---
+{{< psd/tize >}}
 ## Image.ImageOperation enumeration
 
 Λειτουργίες εικόνας
@@ -14,31 +15,31 @@ url: /el/net/aspose.psd/image.imageoperation/
 protected enum ImageOperation
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Resize | `0` | Λειτουργία αλλαγής μεγέθους |
-| ResizeWidthProportionally | `1` | Αλλαγή μεγέθους πλάτους αναλογικά λειτουργία |
-| ResizeHeightProportionally | `2` | Αλλαγή μεγέθους ύψους αναλογικά λειτουργία |
+| ResizeWidthProportionally | `1` | Λειτουργία αναλογικής αλλαγής πλάτους |
+| ResizeHeightProportionally | `2` | Λειτουργία αναλογικής αλλαγής ύψους |
 | Filter | `3` | Λειτουργία φίλτρου |
-| LoadPixels | `4` | Λειτουργία φόρτωσης pixel |
+| LoadPixels | `4` | Λειτουργία φόρτωσης εικονοστοιχείων |
 | SavePixels | `5` | Η λειτουργία αποθήκευσης εικονοστοιχείων |
 | Crop | `6` | Λειτουργία περικοπής |
-| BinarizeFixed | `7` | Δυαδοποίηση σταθερής λειτουργίας |
-| BinarizeOtsu | `8` | Binarize otsu operation |
-| BinarizeBradley | `9` | Δυαδική λειτουργία bradley |
+| BinarizeFixed | `7` | Λειτουργία σταθερής δυαδικοποίησης |
+| BinarizeOtsu | `8` | Λειτουργία δυαδικοποίησης Otsu |
+| BinarizeBradley | `9` | Λειτουργία δυαδικοποίησης Bradley |
 | Grayscale | `10` | Λειτουργία σε κλίμακα του γκρι |
-| AdjustBrightness | `11` | Προσαρμογή λειτουργίας φωτεινότητας |
-| AdjustContrast | `12` | Προσαρμογή της λειτουργίας αντίθεσης |
-| AdjustGamma | `13` | Προσαρμογή λειτουργίας γάμμα |
+| AdjustBrightness | `11` | Λειτουργία ρύθμισης φωτεινότητας |
+| AdjustContrast | `12` | Λειτουργία ρύθμισης αντίθεσης |
+| AdjustGamma | `13` | Λειτουργία ρύθμισης γάμμα |
 | Rotate | `14` | Λειτουργία περιστροφής |
-| RotateFlip | `15` | Λειτουργία περιστροφής |
+| RotateFlip | `15` | Λειτουργία περιστροφής και αναστροφής |
 
 ### Δείτε επίσης
 
 * class [Image](../image/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorExtensions.ToGdiColors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorExtensions μέθοδος. Μετατρέπει τοColor συστοιχία στοColor συστοιχία.
+title: "ColorExtensions.ToGdiColors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorExtensions μέθοδος. Μετατρέπει τον πίνακα Color σε πίνακα Color"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColors method
 
-Μετατρέπει το[`Color`](../../../aspose.psd/color/) συστοιχία στοColor συστοιχία.
+Μετατρέπει τον πίνακα [`Color`](../../../aspose.psd/color/) σε πίνακα Color.
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
@@ -16,17 +17,17 @@ public static Color[] ToGdiColors(Color[] colors)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| colors | Color[] | ο[`Color`](../../../aspose.psd/color/) πίνακα για μετατροπή. |
+| colors | Color[] | Ο[`Color`](../../../aspose.psd/color/) πίνακα προς μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιColor πίνακας.
+Ο μετατρεπόμενος Color πίνακας.
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../colorextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

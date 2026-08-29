@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.IsCustom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιλ παραμόρφωσης της παρουσίας είναι προσαρμοσμένο. Εάν είναι αληθές περιέχει σημεία πλέγματος. Εάν οριστεί σε false διαγράφει σημεία πλέγματος.
+title: "PlacedResource.IsCustom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το στυλ παραμόρφωσης αυτής της παρουσίας είναι προσαρμοσμένο. Εάν είναι true, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει τα σημεία πλέγματος"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.IsCustom property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιλ παραμόρφωσης της παρουσίας είναι προσαρμοσμένο. Εάν είναι αληθές, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει σημεία πλέγματος.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το στυλ παραμόρφωσης αυτής της παρουσίας είναι προσαρμοσμένο. Εάν είναι true, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει τα σημεία πλέγματος.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν το τοποθετημένο επίπεδο έχει προσαρμοσμένο στυλ. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το τοποθετημένο στρώμα έχει προσαρμοσμένο στυλ· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

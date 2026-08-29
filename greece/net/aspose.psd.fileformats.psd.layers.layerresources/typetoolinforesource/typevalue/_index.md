@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.TypeValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή τύπου.
+title: "TypeToolInfoResource.TypeValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfoResource property. Λαμβάνει ή ορίζει την τιμή τύπου"
 type: docs
-weight: 240
+weight: 210
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TypeValue property
 
 Λαμβάνει ή ορίζει την τιμή τύπου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short TypeValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή τύπου.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

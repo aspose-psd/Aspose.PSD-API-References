@@ -1,14 +1,15 @@
 ---
-title: GraphicsPathExtensions.ToGdiGraphicsPath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPathExtensions μέθοδος. Μετατρέπει τοGraphicsPath στοGraphicsPath .
+title: "GraphicsPathExtensions.ToGdiGraphicsPath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GraphicsPathExtensions μέθοδος. Μετατρέπει το GraphicsPath σε GraphicsPath"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
-Μετατρέπει το[`GraphicsPath`](../../../aspose.psd/graphicspath/) στοGraphicsPath .
+Μετατρέπει το [`GraphicsPath`](../../../aspose.psd/graphicspath/) σε GraphicsPath.
 
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
@@ -16,17 +17,17 @@ public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| graphicsPath | GraphicsPath | Η διαδρομή γραφικών για μετατροπή. |
+| graphicsPath | GraphicsPath | Το γραφικό μονοπάτι για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιGraphicsPath.
+Το μετατρεπόμενο GraphicsPath.
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [GraphicsPathExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../graphicspathextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

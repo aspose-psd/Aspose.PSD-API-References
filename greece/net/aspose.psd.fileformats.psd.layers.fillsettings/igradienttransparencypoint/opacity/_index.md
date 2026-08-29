@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IGradientTransparencyPoint ιδιοκτησία. Λαμβάνει ή ορίζει την αδιαφάνεια.
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IGradientTransparencyPoint. Λαμβάνει ή ορίζει τη διαφάνεια"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
-Λαμβάνει ή ορίζει την αδιαφάνεια.
+Λαμβάνει ή ορίζει τη διαφάνεια.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αδιαφάνεια.
+Η διαφάνεια.
 
 ### Δείτε επίσης
 
 * interface [IGradientTransparencyPoint](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

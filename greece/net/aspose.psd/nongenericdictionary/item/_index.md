@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο με το καθορισμένο κλειδί.
+title: "NonGenericDictionary.Item"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα NonGenericDictionary. Λαμβάνει ή ορίζει το στοιχείο με το καθορισμένο κλειδί"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
 Λαμβάνει ή ορίζει το στοιχείο με το καθορισμένο κλειδί.
@@ -16,16 +17,16 @@ public object this[object key] { get; set; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| key | Το κλειδί στοιχείου. |
+| κλειδί | Το κλειδί του στοιχείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το στοιχείο με το καθορισμένο κλειδί.
 
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

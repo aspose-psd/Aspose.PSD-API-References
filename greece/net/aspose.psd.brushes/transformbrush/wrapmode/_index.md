@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.WrapMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TransformBrush ιδιοκτησία. Λαμβάνει ή ορίζει αWrapMode απαρίθμηση που υποδεικνύει τη λειτουργία αναδίπλωσης για αυτόTransformBrush .
+title: "TransformBrush.WrapMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TransformBrush. Λαμβάνει ή ορίζει μια απαρίθμηση WrapMode που υποδεικνύει τη λειτουργία περιτύλιξης για αυτό το TransformBrush"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
+{{< psd/tize >}}
 ## TransformBrush.WrapMode property
 
-Λαμβάνει ή ορίζει α[`WrapMode`](../../../aspose.psd/wrapmode/) απαρίθμηση που υποδεικνύει τη λειτουργία αναδίπλωσης για αυτό[`TransformBrush`](../) .
+Λαμβάνει ή ορίζει μια απαρίθμηση [`WrapMode`](../../../aspose.psd/wrapmode/) που υποδεικνύει τη λειτουργία περιτύλιξης για αυτό το [`TransformBrush`](../).
 
 ```csharp
 public WrapMode WrapMode { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΕΝΑ[`WrapMode`](../../../aspose.psd/wrapmode/) που καθορίζει πώς σχεδιάζονται τα γεμίσματα με αυτό[`TransformBrush`](../) είναι πλακάκια.
+Μια [`WrapMode`](../../../aspose.psd/wrapmode/) που καθορίζει πώς τα γέμισματα που σχεδιάζονται με αυτό το [`TransformBrush`](../) τοποθετούνται σε πλακίδια.
 
 ### Δείτε επίσης
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../transformbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

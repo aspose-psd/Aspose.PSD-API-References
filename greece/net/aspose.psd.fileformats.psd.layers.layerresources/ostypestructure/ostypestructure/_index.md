@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.OSTypeStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουOSTypeStructure τάξη.
+title: "OSTypeStructure.OSTypeStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής OSTypeStructure. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης OSTypeStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`OSTypeStructure`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`OSTypeStructure`](../).
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public OSTypeStructure(ClassID keyName)
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

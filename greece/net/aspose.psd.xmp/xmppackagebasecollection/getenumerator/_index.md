@@ -1,27 +1,28 @@
 ---
-title: XmpPackageBaseCollection.GetEnumerator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackageBaseCollection μέθοδος. Επιστρέφει έναν απαριθμητή που επαναλαμβάνεται μέσω μιας συλλογής.
+title: "XmpPackageBaseCollection.GetEnumerator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackageBaseCollection μέθοδος. Επιστρέφει έναν επαναλήπτη που διασχίζει μια συλλογή."
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp/xmppackagebasecollection/getenumerator/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetEnumerator method
 
-Επιστρέφει έναν απαριθμητή που επαναλαμβάνεται μέσω μιας συλλογής.
+Επιστρέφει έναν επαναλήπτη που διασχίζει μια συλλογή.
 
 ```csharp
 public IEnumerator GetEnumerator()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑνIEnumerator αντικείμενο που μπορεί να χρησιμοποιηθεί για επανάληψη μέσω της συλλογής.
+Ένα αντικείμενο IEnumerator που μπορεί να χρησιμοποιηθεί για την επανάληψη στη συλλογή.
 
 ### Δείτε επίσης
 
 * class [XmpPackageBaseCollection](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

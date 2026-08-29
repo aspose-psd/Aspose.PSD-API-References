@@ -1,14 +1,15 @@
 ---
-title: Figure.Reverse
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Figure μέθοδος. Αντιστρέφει αυτό το σχήμα που διαμορφώνει τη σειρά και διαμορφώνει τη σημειακή σειρά.
+title: "Figure.Reverse"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Figure. Αντιστρέφει τη σειρά των σχημάτων αυτού του Figure και τη σειρά των σημείων των σχημάτων"
 type: docs
 weight: 110
 url: /el/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-Αντιστρέφει αυτό το σχήμα που διαμορφώνει τη σειρά και διαμορφώνει τη σημειακή σειρά.
+Αντιστρέφει τη σειρά των σχημάτων αυτού του σχήματος και τη σειρά των σημείων των σχημάτων.
 
 ```csharp
 public void Reverse()
@@ -17,7 +18,7 @@ public void Reverse()
 ### Δείτε επίσης
 
 * class [Figure](../)
-* χώρος ονομάτων [Aspose.PSD](../../figure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

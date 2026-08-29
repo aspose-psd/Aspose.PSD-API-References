@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.SizeAfterCompression
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει ή ορίζει το μέγεθος μετά τη συμπίεση. Χρησιμοποιείται για έλεγχο συνέπειας.
+title: "ThumbnailResource.SizeAfterCompression"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ThumbnailResource ιδιότητα. Λαμβάνει ή ορίζει το μέγεθος μετά τη συμπίεση. Χρησιμοποιείται για έλεγχο συνέπειας"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.SizeAfterCompression property
 
 Λαμβάνει ή ορίζει το μέγεθος μετά τη συμπίεση. Χρησιμοποιείται για έλεγχο συνέπειας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercom
 public int SizeAfterCompression { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος μετά τη συμπίεση.
 
 ### Δείτε επίσης
 
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

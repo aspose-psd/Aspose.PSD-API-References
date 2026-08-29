@@ -1,11 +1,12 @@
 ---
-title: XmpRdfRoot.XmpRdfRoot
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpRdfRoot κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "XmpRdfRoot.XmpRdfRoot"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpRdfRoot. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmprdfroot/xmprdfroot/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public XmpRdfRoot()
 ### Δείτε επίσης
 
 * class [XmpRdfRoot](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmprdfroot/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

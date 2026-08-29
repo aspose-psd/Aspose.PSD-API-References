@@ -1,29 +1,30 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.MatrixOrder αρίθμηση. Καθορίζει τη σειρά για τις πράξεις μετασχηματισμού πίνακα.
+title: "Απαρίθμηση MatrixOrder"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.MatrixOrder απαρίθμηση. Καθορίζει τη σειρά για τις λειτουργίες μετασχηματισμού πίνακα."
 type: docs
-weight: 5100
+weight: 5590
 url: /el/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
-Καθορίζει τη σειρά για τις πράξεις μετασχηματισμού πίνακα.
+Καθορίζει τη σειρά για τις λειτουργίες μετασχηματισμού πίνακα.
 
 ```csharp
 public enum MatrixOrder
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Prepend | `0` | Η νέα λειτουργία εφαρμόζεται πριν από την παλιά λειτουργία. |
 | Append | `1` | Η νέα λειτουργία εφαρμόζεται μετά την παλιά λειτουργία. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

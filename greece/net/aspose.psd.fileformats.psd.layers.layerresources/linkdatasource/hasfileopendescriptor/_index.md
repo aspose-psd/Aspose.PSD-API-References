@@ -1,27 +1,28 @@
 ---
-title: LinkDataSource.HasFileOpenDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinkDataSource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων συνδέσμου έχει τον ανοιχτό περιγραφέα αρχείου CompId και OriginalCompId.
+title: "LinkDataSource.HasFileOpenDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LinkDataSource. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων συνδέσμου έχει τον περιγραφέα ανοίγματος αρχείου CompId και OriginalCompId"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.HasFileOpenDescriptor property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων συνδέσμου έχει τον ανοιχτό περιγραφέα αρχείου: CompId και OriginalCompId.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων σύνδεσης έχει τον περιγραφέα ανοικτού αρχείου: CompId και OriginalCompId.
 
 ```csharp
 public bool HasFileOpenDescriptor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η παρουσία έχει ανοιχτή περιγραφή αρχείου. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία έχει περιγραφέα ανοίγματος αρχείου· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [LinkDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: Figure.Segments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Figure ιδιοκτησία. Λαμβάνει ολόκληρα τμήματα του σχήματος.
+title: "Figure.Segments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Figure. Λαμβάνει όλα τα τμήματα του σχήματος"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
-Λαμβάνει ολόκληρα τμήματα του σχήματος.
+Λαμβάνει τα ολόκληρα τμήματα του σχήματος.
 
 ```csharp
 public ShapeSegment[] Segments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα τμήματα του σχήματος.
 
@@ -22,7 +23,7 @@ public ShapeSegment[] Segments { get; }
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* χώρος ονομάτων [Aspose.PSD](../../figure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

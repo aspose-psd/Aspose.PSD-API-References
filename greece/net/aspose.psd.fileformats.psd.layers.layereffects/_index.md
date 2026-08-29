@@ -1,35 +1,37 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει εφέ επιπέδου wrappers
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει περιτυλίγματα εφέ στρώματος"
 type: docs
-weight: 260
+weight: 290
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/
 ---
-Ο χώρος ονομάτων περιέχει εφέ επιπέδου wrappers
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει περιτυλίγματα εφέ στρώματος
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [BlendingOptions](./blendingoptions/) | BlendingOptions. Είναι ένα περιτύλιγμα για το Lfx2Resource που παρέχει api για εφέ επιπέδου |
-| [ColorOverlayEffect](./coloroverlayeffect/) | Εφέ στρώματος επικάλυψης χρώματος |
-| [DropShadowEffect](./dropshadoweffect/) | Drop Shadow Layer effect |
-| [GradientOverlayEffect](./gradientoverlayeffect/) | Εφέ επιπέδου κλίσης |
-| [InnerShadowEffect](./innershadoweffect/) | Εφέ εσωτερικού στρώματος σκιάς |
-| [OuterGlowEffect](./outergloweffect/) | Εφέ εξωτερικού στρώματος λάμψης |
-| [PatternOverlayEffect](./patternoverlayeffect/) | Εφέ επιπέδου μοτίβου |
-| [StrokeEffect](./strokeeffect/) | Το εφέ διαδρομής Adobe® Photoshop® για το επίπεδο PSD. |
+| [BlendingOptions](./blendingoptions/) | BlendingOptions. Είναι ένας περιτύλιγμα για το BaseFxResource που παρέχει api για εφέ στρώσης |
+| [ColorOverlayEffect](./coloroverlayeffect/) | Εφέ στρώσης Επικάλυψη Χρώματος |
+| [DropShadowEffect](./dropshadoweffect/) | Εφέ στρώσης Πτώση Σκιάς |
+| [GradientOverlayEffect](./gradientoverlayeffect/) | Εφέ στρώσης Διαβάθμισης |
+| [InnerShadowEffect](./innershadoweffect/) | Εφέ στρώσης Εσωτερικής Σκιάς |
+| [OuterGlowEffect](./outergloweffect/) | Εφέ στρώσης Εξωτερικής Λάμψης |
+| [PatternOverlayEffect](./patternoverlayeffect/) | Εφέ στρώσης Σχεδίου |
+| [StrokeEffect](./strokeeffect/) | Το εφέ γραμμής Adobe® Photoshop® για τη στρώση PSD. |
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |
 | --- | --- |
-| [ILayerEffect](./ilayereffect/) | Διεπαφή για εφέ επιπέδου |
-| [IShadowEffect](./ishadoweffect/) | Διεπαφή για εφέ επιπέδου σκιάς |
+| [ILayerEffect](./ilayereffect/) | Διεπαφή για Εφέ Στρώσης |
+| [IShadowEffect](./ishadoweffect/) | Διεπαφή για Εφέ Σκιάς Στρώσης |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [StrokePosition](./strokeposition/) | Η ρύθμιση θέσης ελέγχει την ευθυγράμμιση της διαδρομής σας στο επίπεδο στο οποίο εφαρμόζεται στο[`StrokeEffect`](../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/) . |
+| [LayerEffectsTypes](./layereffectstypes/) | Εφέ ανάμειξης στρώσεων. |
+| [StrokePosition](./strokeposition/) | Η ρύθμιση θέσης ελέγχει την ευθυγράμμιση της γραμμής σας με τη στρώση στην οποία εφαρμόζεται στο [`StrokeEffect`](../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/). |
 
 

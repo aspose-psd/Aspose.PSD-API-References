@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FontBaseline
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Η βασική γραμμή γραμματοσειράς.
+title: "ITextStyle.FontBaseline"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ITextStyle. Η βάση γραμματοσειράς"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontBaseline property
 
-Η βασική γραμμή γραμματοσειράς.
+Η γραμμή βάσης της γραμματοσειράς.
 
 ```csharp
 public FontBaseline FontBaseline { get; set; }
@@ -18,7 +19,7 @@ public FontBaseline FontBaseline { get; set; }
 
 * enum [FontBaseline](../../../aspose.psd.fileformats.psd/fontbaseline/)
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

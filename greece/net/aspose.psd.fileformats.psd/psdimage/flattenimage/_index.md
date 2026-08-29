@@ -1,14 +1,15 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Ισιώνει όλα τα στρώματα.
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Ισοπεδώνει όλες τις στρώσεις"
 type: docs
-weight: 540
+weight: 600
 url: /el/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-Ισιώνει όλα τα στρώματα.
+Ισοπεδώνει όλα τα επίπεδα.
 
 ```csharp
 public void FlattenImage()
@@ -17,7 +18,7 @@ public void FlattenImage()
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

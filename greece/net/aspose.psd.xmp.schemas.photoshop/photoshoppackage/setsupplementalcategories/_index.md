@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSupplementalCategories
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει συμπληρωματικές κατηγορίες.
+title: "PhotoshopPackage.SetSupplementalCategories"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PhotoshopPackage. Ορίζει συμπληρωματικές κατηγορίες"
 type: docs
 weight: 180
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSupplementalCategories method
 
 Ορίζει συμπληρωματικές κατηγορίες.
@@ -21,7 +22,7 @@ public void SetSupplementalCategories(string[] supplementalCategories)
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

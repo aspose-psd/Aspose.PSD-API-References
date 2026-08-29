@@ -1,14 +1,15 @@
 ---
-title: VectorRasterizationOptions.BackgroundColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorRasterizationOptions ιδιοκτησία. Παίρνει ή ορίζει ένα χρώμα φόντου.
+title: "VectorRasterizationOptions.BackgroundColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorRasterizationOptions ιδιότητα. Λαμβάνει ή ορίζει ένα χρώμα φόντου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/vectorrasterizationoptions/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BackgroundColor property
 
-Παίρνει ή ορίζει ένα χρώμα φόντου.
+Λαμβάνει ή ορίζει ένα χρώμα φόντου.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -18,7 +19,7 @@ public Color BackgroundColor { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

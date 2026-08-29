@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή dim ως ποσοστό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των εικόνων bitmap που περιέχονται στο επίπεδο στο καθορισμένο ποσοστό.
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει την τιμή σμίκρυνσης ως ποσοστό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των bitmap εικόνων που περιέχονται στο στρώμα στο καθορισμένο ποσοστό"
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-Λαμβάνει ή ορίζει την τιμή dim ως ποσοστό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των εικόνων bitmap που περιέχονται στο επίπεδο στο καθορισμένο ποσοστό.
+Λαμβάνει ή ορίζει την τιμή σκίασης ως ποσοστό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των bitmap εικόνων που περιέχονται στο στρώμα στο καθορισμένο ποσοστό.
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αμυδρή τιμή ως ποσοστό.
+Η τιμή σμίκρυνσης ως ποσοστό.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

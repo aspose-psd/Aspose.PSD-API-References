@@ -1,14 +1,15 @@
 ---
-title: LuniResource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LuniResource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "LuniResource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LuniResource. Λαμβάνει το μήκος του πόρου στρώματος σε byte"
 type: docs
-weight: 30
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/
 ---
+{{< psd/tize >}}
 ## LuniResource.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [LuniResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

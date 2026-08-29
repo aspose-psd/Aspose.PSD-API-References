@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiHeader ιδιοκτησία. Λαμβάνει ή ορίζει τα σύνολα proc εγγράφου.
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiHeader ιδιότητα. Λαμβάνει ή ορίζει τα σύνολα διαδικασιών εγγράφου"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-Λαμβάνει ή ορίζει τα σύνολα proc εγγράφου.
+Λαμβάνει ή ορίζει τις ρυθμίσεις διαδικασίας του εγγράφου.
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το έγγραφο proc θέτει.
+Τα σύνολα διαδικασιών εγγράφου.
 
 ### Δείτε επίσης
 
 * class [AiHeader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

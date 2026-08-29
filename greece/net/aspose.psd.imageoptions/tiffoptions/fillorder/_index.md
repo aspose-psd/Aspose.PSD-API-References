@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FillOrder
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τη σειρά πλήρωσης των bit byte.
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τη σειρά γεμίσματος των byte bits"
 type: docs
-weight: 160
+weight: 170
 url: /el/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
-Λαμβάνει ή ορίζει τη σειρά πλήρωσης των bit byte.
+Λαμβάνει ή ορίζει τη σειρά γεμίσματος των bit του byte.
 
 ```csharp
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα bit byte γεμίζουν σειρά.
+Η σειρά γεμίσματος των byte bits.
 
 ### Δείτε επίσης
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

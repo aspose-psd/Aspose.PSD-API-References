@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.EventType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ProgressEventHandlerInfo ιδιοκτησία. Λαμβάνει τον τύπο του συμβάντος.
+title: "ProgressEventHandlerInfo.EventType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ProgressEventHandlerInfo. Λαμβάνει τον τύπο του συμβάντος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.EventType property
 
 Λαμβάνει τον τύπο του συμβάντος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 public EventType EventType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του συμβάντος.
 
@@ -22,7 +23,7 @@ public EventType EventType { get; }
 
 * enum [EventType](../../eventtype/)
 * class [ProgressEventHandlerInfo](../)
-* χώρος ονομάτων [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

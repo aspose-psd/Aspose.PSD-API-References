@@ -1,11 +1,12 @@
 ---
-title: AiDataSection.GetData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiDataSection μέθοδος. Λαμβάνει τα δεδομένα συμβολοσειράς.
+title: "AiDataSection.GetData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος AiDataSection. Λαμβάνει τα δεδομένα της συμβολοσειράς"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.ai/aidatasection/getdata/
 ---
+{{< psd/tize >}}
 ## AiDataSection.GetData method
 
 Λαμβάνει τα δεδομένα συμβολοσειράς.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.ai/aidatasection/getdata/
 public string GetData()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα δεδομένα συμβολοσειράς της ενότητας
+Τα δεδομένα συμβολοσειράς του τμήματος
 
 ### Δείτε επίσης
 
 * class [AiDataSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aidatasection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

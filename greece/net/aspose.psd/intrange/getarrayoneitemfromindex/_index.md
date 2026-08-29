@@ -1,14 +1,15 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IntRange μέθοδος. Επιστρέφει έναν πίνακα στοιχείων από καθορισμένο index
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IntRange. Επιστρέφει έναν πίνακα με ένα στοιχείο από το καθορισμένο δείκτη"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-Επιστρέφει έναν πίνακα στοιχείων από καθορισμένο index
+Επιστρέφει έναν πίνακα με ένα στοιχείο από το καθορισμένο δείκτη
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
@@ -16,22 +17,22 @@ public int[] GetArrayOneItemFromIndex(int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | Int32 | Ο δείκτης εύρους. |
+| δείκτης | Int32 | Ο δείκτης του διαστήματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η συστοιχία τωνInt32
+Ο πίνακας των Int32
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | Ο δείκτης είναι εκτός εύρους |
+| ArgumentException | Ο δείκτης είναι εκτός διαστήματος |
 
 ### Δείτε επίσης
 
 * class [IntRange](../)
-* χώρος ονομάτων [Aspose.PSD](../../intrange/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.GraphicsOptions τάξη. Αντιπροσωπεύει επιλογές γραφικών για ενσωματωμένο bitmap.
+title: "Κλάση GraphicsOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Η κλάση Aspose.PSD.ImageOptions.GraphicsOptions. Αντιπροσωπεύει τις επιλογές γραφικών για ενσωματωμένο bitmap."
 type: docs
-weight: 4820
+weight: 5310
 url: /el/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
-Αντιπροσωπεύει επιλογές γραφικών για ενσωματωμένο bitmap.
+Αναπαριστά τις επιλογές γραφικών για ενσωματωμένο bitmap.
 
 ```csharp
 public class GraphicsOptions
@@ -16,21 +17,21 @@ public class GraphicsOptions
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [GraphicsOptions](graphicsoptions/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Λήψη ή ορίζει τη λειτουργία παρεμβολής. |
-| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία εξομάλυνσης. |
-| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Λαμβάνει ή ορίζει υπόδειξη απόδοσης κειμένου. |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία παρεμβολής. |
+| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία εξομάλυνσης. |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Λαμβάνει ή ορίζει τη συμβουλή απόδοσης κειμένου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.SensingMethod
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη μέθοδο ανίχνευσης.
+title: "ExifData.SensingMethod"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει τη μέθοδο ανίχνευσης"
 type: docs
 weight: 920
 url: /el/net/aspose.psd.exif/exifdata/sensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.SensingMethod property
 
 Λαμβάνει ή ορίζει τη μέθοδο ανίχνευσης.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.exif/exifdata/sensingmethod/
 public ExifSensingMethod SensingMethod { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μέθοδος ανίχνευσης.
 
@@ -22,7 +23,7 @@ public ExifSensingMethod SensingMethod { get; set; }
 
 * enum [ExifSensingMethod](../../../aspose.psd.exif.enums/exifsensingmethod/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

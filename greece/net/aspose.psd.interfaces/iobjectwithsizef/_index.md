@@ -1,14 +1,15 @@
 ---
-title: Interface IObjectWithSizeF
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Interfaces.IObjectWithSizeF διεπαφή. Αντιπροσωπεύει αντικείμενο με Μέγεθος που εκφράζεται σε πραγματικούς αριθμούς σε ίντσες.
+title: "Διεπαφή IObjectWithSizeF"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.Interfaces.IObjectWithSizeF. Αντιπροσωπεύει αντικείμενο με μέγεθος που εκφράζεται σε πραγματικούς αριθμούς σε ίντσες"
 type: docs
-weight: 5020
+weight: 5510
 url: /el/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF interface
 
-Αντιπροσωπεύει αντικείμενο με Μέγεθος που εκφράζεται σε πραγματικούς αριθμούς (σε ίντσες).
+Αναπαριστά αντικείμενο με Size που εκφράζεται σε πραγματικούς αριθμούς (σε ίντσες).
 
 ```csharp
 public interface IObjectWithSizeF
@@ -16,7 +17,7 @@ public interface IObjectWithSizeF
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | Λαμβάνει το ύψος του αντικειμένου, σε ίντσες. |
 | [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | Λαμβάνει το μέγεθος του αντικειμένου, σε ίντσες. |
@@ -24,7 +25,7 @@ public interface IObjectWithSizeF
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../)
 
 

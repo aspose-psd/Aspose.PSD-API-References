@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TotalPages
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει τις συνολικές σελίδες.
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει τις συνολικές σελίδες"
 type: docs
-weight: 560
+weight: 570
 url: /el/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
 Λαμβάνει τις συνολικές σελίδες.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 public ushort TotalPages { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το σύνολο των σελίδων.
+Οι συνολικές σελίδες.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

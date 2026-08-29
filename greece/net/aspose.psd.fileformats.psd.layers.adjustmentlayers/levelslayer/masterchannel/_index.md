@@ -1,20 +1,21 @@
 ---
-title: LevelsLayer.MasterChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LevelsLayer ιδιοκτησία. Παίρνει το κύριο κανάλι.
+title: "LevelsLayer.MasterChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LevelsLayer ιδιότητα. Λαμβάνει το κύριο κανάλι"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/masterchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.MasterChannel property
 
-Παίρνει το κύριο κανάλι.
+Λαμβάνει το κύριο κανάλι.
 
 ```csharp
 public LevelChannel MasterChannel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κύριο κανάλι.
 
@@ -22,7 +23,7 @@ public LevelChannel MasterChannel { get; }
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

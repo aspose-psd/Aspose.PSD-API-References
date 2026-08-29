@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει μια μεμονωμένη ακέραια τιμή στη ροή.
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffStreamWriter method. Γράφει μια μονή τιμή ακέραιου στο ρεύμα"
 type: docs
 weight: 130
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
-Γράφει μια μεμονωμένη ακέραια τιμή στη ροή.
+Γράφει μια μοναδική τιμή ακέραιου στη ροή.
 
 ```csharp
 public void WriteSlong(int data)
@@ -16,12 +17,12 @@ public void WriteSlong(int data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Int32 | Η αξία να γραφτεί. |
+| δεδομένα | Int32 | Η τιμή για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

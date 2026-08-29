@@ -1,22 +1,23 @@
 ---
-title: Frame.LayerStates
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Frame ιδιοκτησία. Λαμβάνει ot ορίζει τις καταστάσεις στρώματος του πλαισίου.
+title: "Frame.LayerStates"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Frame ιδιότητα. Αποκτά ή ορίζει τις καταστάσεις στρώσης του πλαισίου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/frame/layerstates/
 ---
+{{< psd/tize >}}
 ## Frame.LayerStates property
 
-Λαμβάνει ot ορίζει τις καταστάσεις στρώματος του πλαισίου.
+Λαμβάνει ή ορίζει τις καταστάσεις των στρωμάτων του πλαισίου.
 
 ```csharp
-public Dictionary<int, LayerState> LayerStates { get; }
+public LayerState[] LayerStates { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Η κλάση TimeLine παρέχει μια υψηλού επιπέδου ικανότητα χειρισμού της γραμμής χρόνου του PsdImage, όπως η αλλαγή της καθυστέρησης καρέ ή η επεξεργασία της κατάστασης του επιπέδου σε ένα συγκεκριμένο πλαίσιο.
+Η κλάση Timeline παρέχει μια υψηλού επιπέδου δυνατότητα να χειρίζεται τη χρονογραμμή του PsdImage, όπως η αλλαγή καθυστέρησης πλαισίου ή η επεξεργασία της κατάστασης στρώσης σε συγκεκριμένο πλαίσιο.
 
 ```csharp
 [C#]
@@ -26,33 +27,32 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Αλλαγή της μεθόδου διάθεσης του πλαισίου 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Αλλαγή μεθόδου αποδέσμευσης του πλαισίου 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Αλλαγή καθυστέρησης καρέ 2
-    timeLine.Frames[1].Delay = 15;
+    // Αλλαγή καθυστέρησης του πλαισίου 2
+    timeline.Frames[1].Delay = 15;
 
-    // Αλλαγή της αδιαφάνειας του 'Layer 1' στο πλαίσιο 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Αλλαγή αδιαφάνειας του 'Layer 1' στο πλαίσιο 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // μετακινήστε το 'Layer 1' στην κάτω αριστερή γωνία στο πλαίσιο 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // μετακίνηση του 'Layer 1' στην αριστερή-κάτω γωνία στο πλαίσιο 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // Προσθέτει νέο πλαίσιο
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Αλλαγή blendMode του 'Layer 1' στο πλαίσιο 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Αλλάξτε το blendMode του 'Layer 1' στο καρέ 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Εφαρμογή αλλαγών πίσω στην παρουσία PsdImage
-    timeLine.ApplyTo(psdImage);
+    // Εφαρμόστε τις αλλαγές πίσω στο αντικείμενο PsdImage
     psdImage.Save(outputPsd);
 }
 ```
@@ -61,7 +61,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [LayerState](../../layerstate/)
 * class [Frame](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ResolutionUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions ιδιοκτησία. Λαμβάνει ή ορίζει τη μονάδα ανάλυσης.
+title: "JpegOptions.ResolutionUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegOptions. Λαμβάνει ή ορίζει τη μονάδα ανάλυσης"
 type: docs
-weight: 160
+weight: 170
 url: /el/net/aspose.psd.imageoptions/jpegoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ResolutionUnit property
 
 Λαμβάνει ή ορίζει τη μονάδα ανάλυσης.
@@ -18,7 +19,7 @@ public ResolutionUnit ResolutionUnit { get; set; }
 
 * enum [ResolutionUnit](../../../aspose.psd/resolutionunit/)
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

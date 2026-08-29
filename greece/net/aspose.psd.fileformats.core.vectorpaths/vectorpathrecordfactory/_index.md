@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory τάξη. Vector Path Record Factory Class
+title: "Κλάση VectorPathRecordFactory"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory κλάση. Κλάση καταγραφής διαδρομής διανύσματος"
 type: docs
-weight: 1410
+weight: 1420
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-Vector Path Record Factory Class
+Κλάση Vector Path Record Factory.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
-
-## Κατασκευαστές
-
-| Ονομα | Περιγραφή |
-| --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Παράγει την εγγραφή διαδρομής. |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | Παράγει την εγγραφή διαδρομής. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

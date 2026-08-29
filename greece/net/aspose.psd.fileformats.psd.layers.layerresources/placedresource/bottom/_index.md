@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Bottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει την κάτω θέση του τοποθετημένου στρώματος στην εικόνα PSD.
+title: "PlacedResource.Bottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει τη θέση βάσης του τοποθετημένου στρώματος στην εικόνα PSD"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bottom property
 
-Λαμβάνει ή ορίζει την κάτω θέση του τοποθετημένου στρώματος στην εικόνα PSD.
+Λαμβάνει ή ορίζει τη θέση κάτω του τοποθετημένου στρώματος στην εικόνα PSD.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κάτω θέση του τοποθετημένου στρώματος.
+Η θέση βάσης του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

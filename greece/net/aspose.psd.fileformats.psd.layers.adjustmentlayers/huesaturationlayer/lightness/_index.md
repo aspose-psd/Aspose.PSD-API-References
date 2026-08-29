@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: Aspose.PSD για Αναφορά API .NET
-description: HueSaturationLayer ιδιοκτησία. Παίρνει ή ρυθμίζει την ελαφρότητα.
+title: "HueSaturationLayer.Lightness"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα HueSaturationLayer. Λαμβάνει ή ορίζει τη φωτεινότητα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
-Παίρνει ή ρυθμίζει την ελαφρότητα.
+Λαμβάνει ή ορίζει τη φωτεινότητα.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ελαφρότητα.
+Η φωτεινότητα.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Η ελαφρότητα πρέπει να κυμαίνεται από -100 έως +100 |
+| ArgumentOutOfRangeException | Η φωτεινότητα πρέπει να βρίσκεται στο εύρος από -100 έως +100 |
 
 ### Δείτε επίσης
 
 * class [HueSaturationLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

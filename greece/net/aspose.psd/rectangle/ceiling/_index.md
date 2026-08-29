@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Ceiling
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Μετατρέπει το καθορισμένοRectangleF δομή σε αRectangle δομή με στρογγυλοποίηση τουRectangleF τιμές στις επόμενες υψηλότερες ακέραιες τιμές.
+title: "Rectangle.Ceiling"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Rectangle method. Μετατρέπει τη καθορισμένη δομή RectangleF σε δομή Rectangle στρογγυλοποιώντας τις τιμές RectangleF προς τα πάνω στον επόμενο ακέραιο"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/rectangle/ceiling/
 ---
+{{< psd/tize >}}
 ## Rectangle.Ceiling method
 
-Μετατρέπει το καθορισμένο[`RectangleF`](../../rectanglef/) δομή σε α[`Rectangle`](../) δομή με στρογγυλοποίηση του[`RectangleF`](../../rectanglef/) τιμές στις επόμενες υψηλότερες ακέραιες τιμές.
+Μετατρέπει τη καθορισμένη δομή [`RectangleF`](../../rectanglef/) σε δομή [`Rectangle`](../) στρογγυλοποιώντας τις τιμές [`RectangleF`](../../rectanglef/) προς τα πάνω στον επόμενο ακέραιο.
 
 ```csharp
 public static Rectangle Ceiling(RectangleF value)
@@ -16,17 +17,17 @@ public static Rectangle Ceiling(RectangleF value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | RectangleF | ο[`RectangleF`](../../rectanglef/) δομή που θα μετατραπεί. |
+| value | RectangleF | Η δομή [`RectangleF`](../../rectanglef/) που θα μετατραπεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Rectangle`](../).
+Επιστρέφει ένα [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Επιστρέφει ένα τρίτοRectangle δομή που αντιπροσωπεύει τη διασταύρωση δύο άλλωνRectangle δομές. Εάν δεν υπάρχει διασταύρωση άδειοRectangle επιστρέφεται.
+title: "Rectangle.Intersect"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Επιστρέφει μια τρίτη δομή Rectangle που αντιπροσωπεύει την τομή δύο άλλων δομών Rectangle. Εάν δεν υπάρχει τομή, επιστρέφεται ένα κενό Rectangle."
 type: docs
 weight: 70
 url: /el/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-Επιστρέφει ένα τρίτο[`Rectangle`](../) δομή που αντιπροσωπεύει τη διασταύρωση δύο άλλων[`Rectangle`](../) δομές. Εάν δεν υπάρχει διασταύρωση, άδειο[`Rectangle`](../) επιστρέφεται.
+Επιστρέφει μια τρίτη δομή [`Rectangle`](../) που αντιπροσωπεύει την τομή δύο άλλων δομών [`Rectangle`](../). Εάν δεν υπάρχει τομή, επιστρέφεται ένα κενό [`Rectangle`](../).
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
@@ -16,24 +17,24 @@ public static Rectangle Intersect(Rectangle a, Rectangle b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Rectangle | Ένα πρώτο ορθογώνιο που τέμνεται. |
-| b | Rectangle | Ένα δεύτερο παραλληλόγραμμο να τέμνεται. |
+| α | Rectangle | Το πρώτο ορθογώνιο για διατομή. |
+| β | Rectangle | Το δεύτερο ορθογώνιο για διατομή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΕΝΑ[`Rectangle`](../) που αντιπροσωπεύει τη διασταύρωση του*a* και*b*.
+Ένα [`Rectangle`](../) που αντιπροσωπεύει την τομή του *a* και του *b*.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-Αντικαθιστά αυτό[`Rectangle`](../) με τη διασταύρωση του εαυτού του και του καθορισμένου[`Rectangle`](../) .
+Αντικαθιστά αυτό το [`Rectangle`](../) με την τομή του με τον καθορισμένο [`Rectangle`](../).
 
 ```csharp
 public void Intersect(Rectangle rect)
@@ -41,12 +42,12 @@ public void Intersect(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../) με το οποίο να διασταυρωθούν. |
+| rect | Rectangle | Το [`Rectangle`](../) με το οποίο θα γίνει η τομή. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

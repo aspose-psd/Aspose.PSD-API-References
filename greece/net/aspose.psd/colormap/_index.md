@@ -1,14 +1,15 @@
 ---
-title: Class ColorMap
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ColorMap τάξη. Καθορίζει έναν χάρτη για τη μετατροπή χρωμάτων. Αρκετές μέθοδοι τουImageAttributes η κλάση προσαρμόζει τα χρώματα της εικόνας χρησιμοποιώντας έναν πίνακα χρωματικής αντιστοίχισης ο οποίος είναι ένας πίνακαςColorMap δομές. Δεν κληρονομείται.
+title: "Κλάση ColorMap"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ColorMap κλάση. Ορίζει έναν χάρτη για τη μετατροπή χρωμάτων. Πολλές μέθοδοι της κλάσης ImageAttributes ρυθμίζουν τα χρώματα της εικόνας χρησιμοποιώντας έναν πίνακα επαναχρωματισμού που είναι ένας πίνακας δομών ColorMap. Δεν είναι κληρονομήσιμη"
 type: docs
 weight: 340
 url: /el/net/aspose.psd/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap class
 
-Καθορίζει έναν χάρτη για τη μετατροπή χρωμάτων. Αρκετές μέθοδοι του[`ImageAttributes`](../imageattributes/) η κλάση προσαρμόζει τα χρώματα της εικόνας χρησιμοποιώντας έναν πίνακα χρωματικής αντιστοίχισης, ο οποίος είναι ένας πίνακας`ColorMap` δομές. Δεν κληρονομείται.
+Ορίζει έναν χάρτη για τη μετατροπή χρωμάτων. Πολλές μέθοδοι της κλάσης [`ImageAttributes`](../imageattributes/) ρυθμίζουν τα χρώματα της εικόνας χρησιμοποιώντας έναν πίνακα επαναχρωματισμού, ο οποίος είναι ένας πίνακας δομών `ColorMap`. Δεν είναι κληρονομήσιμη.
 
 ```csharp
 public sealed class ColorMap
@@ -16,20 +17,20 @@ public sealed class ColorMap
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [ColorMap](colormap/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Λαμβάνει ή ορίζει το νέο[`Color`](../color/) δομή στην οποία θα μετατραπεί. |
-| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Λαμβάνει ή ορίζει το υπάρχον[`Color`](../color/) δομή προς μετατροπή. |
+| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Λαμβάνει ή ορίζει τη νέα δομή [`Color`](../color/) στην οποία θα μετατραπεί. |
+| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Λαμβάνει ή ορίζει την υπάρχουσα δομή [`Color`](../color/) που θα μετατραπεί. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

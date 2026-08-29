@@ -1,28 +1,29 @@
 ---
-title: ExifData.CommonTags
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει ετικέτες οι οποίες ανήκουν σε κοινή ενότητα. Αυτό ισχύει μόνο για εικόνες jpeg σε μορφή tiff χρησιμοποιούνται αντί αυτού οι επιλογές tiff
+title: "ExifData.CommonTags"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει ετικέτες που ανήκουν στην κοινή ενότητα. Αυτό ισχύει μόνο για εικόνες jpeg σε μορφή tiff, αντί για tiffOptions που χρησιμοποιούνται."
 type: docs
 weight: 80
 url: /el/net/aspose.psd.exif/exifdata/commontags/
 ---
+{{< psd/tize >}}
 ## ExifData.CommonTags property
 
-Λαμβάνει ή ορίζει ετικέτες, οι οποίες ανήκουν σε κοινή ενότητα. Αυτό ισχύει μόνο για εικόνες jpeg, σε μορφή tiff χρησιμοποιούνται αντί αυτού οι επιλογές tiff
+Λαμβάνει ή ορίζει ετικέτες που ανήκουν στην κοινή ενότητα. Αυτό ισχύει μόνο για εικόνες jpeg, ενώ για μορφή tiff χρησιμοποιούνται οι tiffOptions.
 
 ```csharp
 public TiffDataType[] CommonTags { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι κοινές ετικέτες ενότητας.
+Οι ετικέτες της κοινής ενότητας.
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

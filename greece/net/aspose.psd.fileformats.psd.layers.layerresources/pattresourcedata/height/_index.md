@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResourceData ιδιοκτησία. Παίρνει το ύψος.
+title: "PattResourceData.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PattResourceData. Λαμβάνει το ύψος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Height property
 
-Παίρνει το ύψος.
+Λαμβάνει το ύψος.
 
 ```csharp
 public short Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος.
 
 ### Δείτε επίσης
 
 * class [PattResourceData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: MultiPageOptions.Mode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MultiPageOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία.
+title: "MultiPageOptions.Mode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα MultiPageOptions. Λαμβάνει ή ορίζει τη λειτουργία"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.imageoptions/multipageoptions/mode/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Mode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία.
+Λαμβάνει ή ορίζει τη λειτουργία.
 
 ```csharp
 public MultiPageMode Mode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία.
 
@@ -22,7 +23,7 @@ public MultiPageMode Mode { get; set; }
 
 * enum [MultiPageMode](../../multipagemode/)
 * class [MultiPageOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

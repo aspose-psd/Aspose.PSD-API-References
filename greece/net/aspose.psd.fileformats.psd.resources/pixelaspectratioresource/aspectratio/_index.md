@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.AspectRatio
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelAspectRatioResource ιδιοκτησία. Λαμβάνει ή ορίζει την αναλογία διαστάσεων.
+title: "PixelAspectRatioResource.AspectRatio"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelAspectRatioResource. Λαμβάνει ή ορίζει την αναλογία διαστάσεων"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.AspectRatio property
 
 Λαμβάνει ή ορίζει την αναλογία διαστάσεων.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspec
 public double AspectRatio { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο λόγος διαστάσεων.
+Η αναλογία διαστάσεων.
 
 ### Δείτε επίσης
 
 * class [PixelAspectRatioResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

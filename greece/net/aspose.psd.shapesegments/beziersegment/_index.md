@@ -1,14 +1,15 @@
 ---
-title: Class BezierSegment
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ShapeSegments.BezierSegment τάξη. Το τμήμα bezier πηγαίνει από το ένα σημείο στο επόμενο σημείο και χρησιμοποιεί δύο σημεία ελέγχου.
+title: "Κλάση BezierSegment"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.ShapeSegments.BezierSegment. Το τμήμα bezier που πηγαίνει από ένα σημείο στο επόμενο σημείο και χρησιμοποιεί δύο σημεία ελέγχου"
 type: docs
-weight: 5440
+weight: 5940
 url: /el/net/aspose.psd.shapesegments/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment class
 
-Το τμήμα bezier πηγαίνει από το ένα σημείο στο επόμενο σημείο και χρησιμοποιεί δύο σημεία ελέγχου.
+Το τμήμα bezier που πηγαίνει από ένα σημείο στο επόμενο σημείο και χρησιμοποιεί δύο σημεία ελέγχου.
 
 ```csharp
 public sealed class BezierSegment : LineSegment
@@ -16,23 +17,23 @@ public sealed class BezierSegment : LineSegment
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | Αρχικοποιεί μια νέα παρουσία του`BezierSegment` τάξη. |
+| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | Αρχικοποιεί μια νέα παρουσία της κλάσης `BezierSegment`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Λαμβάνει το σημείο λήξης. |
-| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | Λαμβάνει το πρώτο σημείο ελέγχου ενός bezier spline. |
-| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | Λαμβάνει το δεύτερο σημείο ελέγχου ενός bezier spline. |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Παίρνει το σημείο εκκίνησης. |
+| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | Λαμβάνει το πρώτο σημείο ελέγχου μιας καμπύλης bezier. |
+| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | Λαμβάνει το δεύτερο σημείο ελέγχου μιας καμπύλης bezier. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Λαμβάνει το σημείο εκκίνησης. |
 
 ### Δείτε επίσης
 
 * class [LineSegment](../linesegment/)
-* χώρος ονομάτων [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

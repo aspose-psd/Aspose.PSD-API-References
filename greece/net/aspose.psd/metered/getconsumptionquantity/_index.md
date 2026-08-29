@@ -1,27 +1,28 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Metered μέθοδος. Λαμβάνει μέγεθος αρχείου κατανάλωσης
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Metered. Λαμβάνει το μέγεθος αρχείου κατανάλωσης"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd/metered/getconsumptionquantity/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionQuantity method
 
-Λαμβάνει μέγεθος αρχείου κατανάλωσης
+Λαμβάνει το μέγεθος αρχείου κατανάλωσης
 
 ```csharp
 public static decimal GetConsumptionQuantity()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 ποσότητα κατανάλωσης
 
 ### Δείτε επίσης
 
 * class [Metered](../)
-* χώρος ονομάτων [Aspose.PSD](../../metered/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

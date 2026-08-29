@@ -1,14 +1,15 @@
 ---
-title: RasterImage.ReplaceNonTransparentColors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Αντικαθιστά όλα τα αδιαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων. Σημείωση εάν το χρησιμοποιείτε σε εικόνες χωρίς διαφάνεια όλα τα χρώματα θα αντικατασταθούν με ένα.
+title: "RasterImage.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Αντικαθιστά όλα τα μη διαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για να διατηρήσει ομαλές άκρες. Σημειώστε ότι εάν το χρησιμοποιήσετε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα ενιαίο."
 type: docs
-weight: 460
+weight: 470
 url: /el/net/aspose.psd/rasterimage/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## ReplaceNonTransparentColors(Color) {#replacenontransparentcolors}
 
-Αντικαθιστά όλα τα αδιαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιείτε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα.
+Αντικαθιστά όλα τα μη διαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για τη διατήρηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιήσετε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα ενιαίο.
 
 ```csharp
 public void ReplaceNonTransparentColors(Color newColor)
@@ -16,20 +17,20 @@ public void ReplaceNonTransparentColors(Color newColor)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| newColor | Color | Νέο χρώμα για αντικατάσταση των μη διαφανών χρωμάτων. |
+| newColor | Χρώμα | Νέο χρώμα για την αντικατάσταση των μη διαφανών χρωμάτων. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceNonTransparentColors(int) {#replacenontransparentcolors_1}
 
-Αντικαθιστά όλα τα αδιαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιείτε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα.
+Αντικαθιστά όλα τα μη διαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για τη διατήρηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιήσετε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα ενιαίο.
 
 ```csharp
 public virtual void ReplaceNonTransparentColors(int newColorArgb)
@@ -37,12 +38,12 @@ public virtual void ReplaceNonTransparentColors(int newColorArgb)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| newColorArgb | Int32 | Νέα τιμή χρώματος ARGB για αντικατάσταση των μη διαφανών χρωμάτων. |
+| newColorArgb | Int32 | Νέα τιμή ARGB χρώματος για αντικατάσταση μη διαφανών χρωμάτων. |
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

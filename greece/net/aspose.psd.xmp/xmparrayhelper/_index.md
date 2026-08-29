@@ -1,14 +1,15 @@
 ---
-title: Class XmpArrayHelper
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.XmpArrayHelper τάξη. Η βοηθητική κλάση για την επεξεργασία RDF logic
+title: "Κλάση XmpArrayHelper"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.XmpArrayHelper κλάση. Η βοηθητική κλάση για την επεξεργασία της λογικής RDF"
 type: docs
-weight: 6220
+weight: 6720
 url: /el/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-Η βοηθητική κλάση για την επεξεργασία RDF logic
+Η βοηθητική κλάση για την επεξεργασία λογικής RDF
 
 ```csharp
 public static class XmpArrayHelper
@@ -16,13 +17,13 @@ public static class XmpArrayHelper
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Λαμβάνει τον κωδικό RDF για συγκεκριμένα[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Λαμβάνει τον κώδικα RDF για συγκεκριμένο [`XmpArrayType`](../xmparraytype/). |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα δεδομένα EXIF ροής που δημιουργούνται από είναι μεγάλα endian.
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα δεδομένα EXIF της ροής από την οποία δημιουργήθηκε είναι big endian"
 type: docs
 weight: 690
 url: /el/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα δεδομένα EXIF ροής που δημιουργούνται από είναι μεγάλα endian.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα δεδομένα EXIF της ροής που δημιουργήθηκαν είναι big endian.
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν η ροή δεδομένων EXIF που δημιουργήθηκε από είναι μεγάλο endian. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν τα δεδομένα EXIF της ροής από την οποία δημιουργήθηκε είναι big endian· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

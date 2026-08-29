@@ -1,27 +1,28 @@
 ---
-title: ColorTransferFunctionsResource.MinimalVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorTransferFunctionsResource ιδιοκτησία. Αποκτά την ελάχιστη απαιτούμενη έκδοση PSD.
+title: "ColorTransferFunctionsResource.MinimalVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorTransferFunctionsResource ιδιότητα. Λαμβάνει την ελάχιστη απαιτούμενη έκδοση PSD"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.MinimalVersion property
 
-Αποκτά την ελάχιστη απαιτούμενη έκδοση PSD.
+Λαμβάνει την ελάχιστη απαιτούμενη έκδοση PSD.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η minimal έκδοση PSD.
+Η ελάχιστη έκδοση PSD.
 
 ### Δείτε επίσης
 
 * class [ColorTransferFunctionsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

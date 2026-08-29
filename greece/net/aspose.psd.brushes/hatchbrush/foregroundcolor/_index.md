@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.ForegroundColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: HatchBrush ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα των γραμμών καταπακτής.
+title: "HatchBrush.ForegroundColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα HatchBrush. Λαμβάνει ή ορίζει το χρώμα των γραμμών hatch"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.brushes/hatchbrush/foregroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.ForegroundColor property
 
-Παίρνει ή ρυθμίζει το χρώμα των γραμμών καταπακτής.
+Ανακτά ή ορίζει το χρώμα των γραμμών διαγράμμισης.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χρώμα των γραμμών καταπακτής.
+Το χρώμα των γραμμών hatch.
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../hatchbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

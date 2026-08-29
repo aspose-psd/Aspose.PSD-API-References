@@ -1,20 +1,21 @@
 ---
-title: PsdImage.XmpData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει ή ορίζει τα μεταδεδομένα XMP.
+title: "PsdImage.XmpData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει ή ορίζει τα μεταδεδομένα XMP"
 type: docs
-weight: 280
+weight: 290
 url: /el/net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdImage.XmpData property
 
-Λαμβάνει ή ορίζει τα μεταδεδομένα XMP.
+Ανακτά ή ορίζει τα μεταδεδομένα XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα μεταδεδομένα XMP.
 
@@ -22,7 +23,7 @@ public override XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

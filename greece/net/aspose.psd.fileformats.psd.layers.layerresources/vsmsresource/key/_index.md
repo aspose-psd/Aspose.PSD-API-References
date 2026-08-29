@@ -1,14 +1,15 @@
 ---
-title: VsmsResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VsmsResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "VsmsResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VsmsResource ιδιότητα. Λαμβάνει το κλειδί πόρου στρώσης"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/
 ---
+{{< psd/tize >}}
 ## VsmsResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [VsmsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

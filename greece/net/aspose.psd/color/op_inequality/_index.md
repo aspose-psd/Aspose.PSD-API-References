@@ -1,14 +1,15 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color μέθοδος. Ελέγχει εάν έχουν καθοριστεί δύοColor οι δομές είναι διαφορετικές.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Color μέθοδος. Ελέγχει εάν δύο καθορισμένες δομές Color είναι διαφορετικές"
 type: docs
-weight: 1630
+weight: 1650
 url: /el/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-Ελέγχει εάν έχουν καθοριστεί δύο[`Color`](../) οι δομές είναι διαφορετικές.
+Ελέγχει εάν δύο καθορισμένες δομές [`Color`](../) είναι διαφορετικές.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
@@ -16,17 +17,17 @@ public static bool operator !=(Color left, Color right)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | Color | ο[`Color`](../) δηλαδή στα αριστερά του τελεστή της ανισότητας. |
-| right | Color | ο[`Color`](../) δηλαδή στα δεξιά του τελεστή ανισότητας. |
+| left | Color | Το [`Color`](../) που βρίσκεται στα αριστερά του τελεστή ανισότητας. |
+| right | Color | Το [`Color`](../) που βρίσκεται στα δεξιά του τελεστή ανισότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν τα δύο[`Color`](../) Οι δομές είναι διαφορετικές. διαφορετικά, ψευδής.
+Αληθές εάν οι δύο δομές [`Color`](../) είναι διαφορετικές· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

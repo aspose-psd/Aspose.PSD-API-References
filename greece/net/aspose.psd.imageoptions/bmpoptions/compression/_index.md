@@ -1,20 +1,21 @@
 ---
-title: BmpOptions.Compression
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BmpOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη συμπίεση.
+title: "BmpOptions.Compression"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BmpOptions. Λαμβάνει ή ορίζει τη συμπίεση"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/bmpoptions/compression/
 ---
+{{< psd/tize >}}
 ## BmpOptions.Compression property
 
-Λαμβάνει ή ρυθμίζει τη συμπίεση.
+Λαμβάνει ή ορίζει τη συμπίεση.
 
 ```csharp
 public BitmapCompression Compression { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η συμπίεση.
 
@@ -22,7 +23,7 @@ public BitmapCompression Compression { get; set; }
 
 * enum [BitmapCompression](../../../aspose.psd.fileformats.bmp/bitmapcompression/)
 * class [BmpOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

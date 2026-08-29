@@ -1,14 +1,15 @@
 ---
-title: Size.op_Implicit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size μέθοδος. Μετατρέπει το καθορισμένοSize σε αSizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Size. Μετατρέπει το καθορισμένο Size σε SizeF"
 type: docs
 weight: 170
 url: /el/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-Μετατρέπει το καθορισμένο[`Size`](../) σε α[`SizeF`](../../sizef/) .
+Μετατρέπει το καθορισμένο [`Size`](../) σε ένα [`SizeF`](../../sizef/).
 
 ```csharp
 public static implicit operator SizeF(Size size)
@@ -16,17 +17,17 @@ public static implicit operator SizeF(Size size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | Size | ο[`Size`](../) μετατρέπω. |
+| size | Size | Το [`Size`](../) προς μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`SizeF`](../../sizef/) δομή στην οποία μετατρέπεται αυτός ο τελεστής.
+Η δομή [`SizeF`](../../sizef/) στην οποία αυτός ο τελεστής μετατρέπει.
 
 ### Δείτε επίσης
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

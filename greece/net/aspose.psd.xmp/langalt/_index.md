@@ -1,14 +1,15 @@
 ---
-title: Class LangAlt
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.LangAlt τάξη. Αντιπροσωπεύει την εναλλακτική γλώσσας XMP.
+title: "Κλάση LangAlt"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.LangAlt κλάση. Αντιπροσωπεύει το XMP Language Alternative"
 type: docs
-weight: 5760
+weight: 6260
 url: /el/net/aspose.psd.xmp/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt class
 
-Αντιπροσωπεύει την εναλλακτική γλώσσας XMP.
+Αναπαριστά το XMP Language Alternative.
 
 ```csharp
 public class LangAlt : IXmlValue
@@ -16,23 +17,23 @@ public class LangAlt : IXmlValue
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LangAlt](langalt/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`LangAlt` τάξη. |
-| [LangAlt](langalt/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία του`LangAlt` τάξη. |
+| [LangAlt](langalt/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `LangAlt`. |
+| [LangAlt](langalt/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `LangAlt`. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage/)(string, string) | Προσθέτει τη γλώσσα. |
 | [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | Μετατρέπει την τιμή XMP στην αναπαράσταση XML. |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ### Δείτε επίσης
 
 * interface [IXmlValue](../ixmlvalue/)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

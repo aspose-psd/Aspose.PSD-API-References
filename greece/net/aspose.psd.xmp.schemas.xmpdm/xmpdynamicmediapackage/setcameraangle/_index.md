@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraAngle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ρυθμίζει τη γωνία της κάμερας.
+title: "XmpDynamicMediaPackage.SetCameraAngle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει τη γωνία της κάμερας"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameraangle/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraAngle method
 
-Ρυθμίζει τη γωνία της κάμερας.
+Ορίζει τη γωνία κάμερας.
 
 ```csharp
 public void SetCameraAngle(string cameraAngle)
@@ -21,7 +22,7 @@ public void SetCameraAngle(string cameraAngle)
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

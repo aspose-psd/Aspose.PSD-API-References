@@ -1,11 +1,12 @@
 ---
-title: IPsdColorPalette.HasTransparentColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPsdColorPalette ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν υπάρχει διαφανές χρώμα.
+title: "IPsdColorPalette.HasTransparentColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IPsdColorPalette. Λαμβάνει μια τιμή που υποδεικνύει αν υπάρχει διαφανές χρώμα"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/ipsdcolorpalette/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.HasTransparentColor property
 
 Λαμβάνει μια τιμή που υποδεικνύει εάν υπάρχει διαφανές χρώμα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/ipsdcolorpalette/hastransparentcolor/
 public bool HasTransparentColor { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν υπάρχει διαφανές χρώμα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` αν υπάρχει διαφανές χρώμα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * interface [IPsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD](../../ipsdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

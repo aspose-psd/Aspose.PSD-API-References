@@ -1,30 +1,31 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType αρίθμηση. Τύπος καπακιού γραμμής.
+title: "Enum LineCapType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. Τύπος άκρου γραμμής"
 type: docs
-weight: 3040
+weight: 3400
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-Τύπος καπακιού γραμμής.
+Τύπος άκρου γραμμής.
 
 ```csharp
 public enum LineCapType : short
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| RoundCap | `0` | Τύπος στρογγυλού καπακιού. |
-| SquareCap | `1` | Τύπος τετράγωνου καπακιού. |
-| ButtCap | `2` | Τύπος καπέλου γλουτών. |
+| RoundCap | `0` | Τύπος στρογγυλού άκρου. |
+| SquareCap | `1` | Τύπος τετράγωνου άκρου. |
+| ButtCap | `2` | Τύπος άκρου butt. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructuresRegistry.UnregisterOpener
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructuresRegistry μέθοδος. Καταργεί την εγγραφή του ανοίγματος.
+title: "OSTypeStructuresRegistry.UnregisterOpener"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος OSTypeStructuresRegistry. Καταργεί την εγγραφή του ανοίγματος"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.UnregisterOpener method
 
-Καταργεί την εγγραφή του ανοίγματος.
+Καταργεί την καταχώρηση του ανοικτήρα.
 
 ```csharp
 public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
@@ -16,13 +17,13 @@ public static void UnregisterOpener(IOSTypeStructureLoader openerDescriptor)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | Ο περιγραφέας ανοίγματος για κατάργηση εγγραφής. |
+| openerDescriptor | IOSTypeStructureLoader | Ο περιγραφέας ανοίγματος προς απεγγραφή. |
 
 ### Δείτε επίσης
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

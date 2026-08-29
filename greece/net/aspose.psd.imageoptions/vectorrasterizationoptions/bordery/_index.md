@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderY
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorRasterizationOptions ιδιοκτησία. Λαμβάνει ή ορίζει το περίγραμμα Y.
+title: "VectorRasterizationOptions.BorderY"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorRasterizationOptions ιδιότητα. Λαμβάνει ή ορίζει το όριο Y"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/vectorrasterizationoptions/bordery/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderY property
 
-Λαμβάνει ή ορίζει το περίγραμμα Y.
+Λαμβάνει ή ορίζει το όριο Y.
 
 ```csharp
 public float BorderY { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το περίγραμμα Y.
+Το όριο Y.
 
 ### Δείτε επίσης
 
 * class [VectorRasterizationOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

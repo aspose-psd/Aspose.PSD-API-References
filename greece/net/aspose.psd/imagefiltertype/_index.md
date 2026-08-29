@@ -1,11 +1,12 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageFilterType αρίθμηση. Φίλτρα εικόνας προς χρήση
+title: "Απαρίθμηση ImageFilterType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageFilterType απαρίθμηση. Φίλτρα εικόνας προς χρήση"
 type: docs
-weight: 4640
+weight: 5110
 url: /el/net/aspose.psd/imagefiltertype/
 ---
+{{< psd/tize >}}
 ## ImageFilterType enumeration
 
 Φίλτρα εικόνας προς χρήση
@@ -14,17 +15,17 @@ url: /el/net/aspose.psd/imagefiltertype/
 public enum ImageFilterType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `0` | Δεν χρησιμοποιείται τίποτα φίλτρο |
+| None | `0` | Δεν χρησιμοποιείται φίλτρο |
 | BigRectangular | `1` | Το μεγάλο ορθογώνιο φίλτρο |
 | SmallRectangular | `2` | Το μικρό ορθογώνιο φίλτρο |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

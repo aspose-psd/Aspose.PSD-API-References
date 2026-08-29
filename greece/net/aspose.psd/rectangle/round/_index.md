@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Round
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Μετατρέπει το καθορισμένοRectangleF σε αRectangle με στρογγυλοποίηση τουRectangleF τιμές στις πλησιέστερες ακέραιες τιμές.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Μετατρέπει το καθορισμένο RectangleF σε Rectangle στρογγυλοποιώντας τις τιμές του RectangleF στα πλησιέστερα ακέραια."
 type: docs
 weight: 80
 url: /el/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-Μετατρέπει το καθορισμένο[`RectangleF`](../../rectanglef/) σε α[`Rectangle`](../) με στρογγυλοποίηση του[`RectangleF`](../../rectanglef/) τιμές στις πλησιέστερες ακέραιες τιμές.
+Μετατρέπει το καθορισμένο [`RectangleF`](../../rectanglef/) σε ένα [`Rectangle`](../) στρογγυλοποιώντας τις τιμές του [`RectangleF`](../../rectanglef/) στα πλησιέστερα ακέραια.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
@@ -16,17 +17,17 @@ public static Rectangle Round(RectangleF value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | RectangleF | ο[`RectangleF`](../../rectanglef/) να μετατραπεί. |
+| value | RectangleF | Το [`RectangleF`](../../rectanglef/) που θα μετατραπεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ενα νέο[`Rectangle`](../).
+Ένα νέο [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

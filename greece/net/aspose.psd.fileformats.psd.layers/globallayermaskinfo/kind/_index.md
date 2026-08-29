@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.Kind
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GlobalLayerMaskInfo ιδιοκτησία. Λαμβάνει ή ορίζει το είδος. 0  Επιλεγμένο χρώμαδηλαδή ανεστραμμένο 1  Προστασία χρώματος 128  τιμή χρήσης που αποθηκεύεται ανά επίπεδο. Αυτή η τιμή προτιμάται. Οι άλλες προορίζονται για συμβατότητα με εκδόσεις beta.
+title: "GlobalLayerMaskInfo.Kind"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GlobalLayerMaskInfo. Αποκτά ή ορίζει τον τύπο. 0  Color selected (π.χ. inverted) 1  Color protected 128  χρήση τιμής αποθηκευμένης ανά στρώση. Αυτή η τιμή προτιμάται. Οι άλλες είναι για συμβατότητα με εκδόσεις beta."
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/kind/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Kind property
 
-Λαμβάνει ή ορίζει το είδος. 0 = Επιλεγμένο χρώμα--δηλαδή ανεστραμμένο; 1 = Προστασία χρώματος; 128 = τιμή χρήσης που αποθηκεύεται ανά επίπεδο. Αυτή η τιμή προτιμάται. Οι άλλες προορίζονται για συμβατότητα με εκδόσεις beta.
+Λαμβάνει ή ορίζει τον τύπο. 0 = Επιλεγμένο χρώμα--δηλαδή αντιστροφή· 1 = Προστατευμένο χρώμα· 128 = χρήση τιμής αποθηκευμένης ανά στρώση. Αυτή η τιμή είναι προτιμώμενη. Οι άλλες είναι για συμβατότητα με παλαιότερες βήτα εκδόσεις.
 
 ```csharp
 public byte Kind { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το είδος.
+Ο τύπος.
 
 ### Δείτε επίσης
 
 * class [GlobalLayerMaskInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FxrpResource ιδιοκτησία. Λαμβάνει την έκδοση psd.
+title: "FxrpResource.PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FxrpResource. Λαμβάνει την έκδοση psd"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/
 ---
+{{< psd/tize >}}
 ## FxrpResource.PsdVersion property
 
 Λαμβάνει την έκδοση psd.
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Δείτε επίσης
 
 * class [FxrpResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

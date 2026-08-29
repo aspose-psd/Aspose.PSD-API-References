@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDestLatitude
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το γεωγραφικό πλάτος GPS του σημείου προορισμού.
+title: "ExifData.GPSDestLatitude"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει το γεωγραφικό πλάτος GPS του σημείου προορισμού"
 type: docs
 weight: 440
 url: /el/net/aspose.psd.exif/exifdata/gpsdestlatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitude property
 
 Λαμβάνει ή ορίζει το γεωγραφικό πλάτος GPS του σημείου προορισμού.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.exif/exifdata/gpsdestlatitude/
 public TiffRational[] GPSDestLatitude { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το γεωγραφικό πλάτος GPS του σημείου προορισμού.
 
@@ -22,7 +23,7 @@ public TiffRational[] GPSDestLatitude { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

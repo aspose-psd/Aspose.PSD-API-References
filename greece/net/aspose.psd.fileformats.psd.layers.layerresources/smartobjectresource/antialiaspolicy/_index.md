@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.AntiAliasPolicy
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει την πολιτική κατά του ψευδωνύμου των δεδομένων επιπέδου έξυπνου αντικειμένου στην εικόνα PSD.
+title: "SmartObjectResource.AntiAliasPolicy"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει την πολιτική anti alias των δεδομένων του επιπέδου έξυπνου αντικειμένου στην εικόνα PSD"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.AntiAliasPolicy property
 
-Λαμβάνει ή ορίζει την πολιτική κατά του ψευδωνύμου των δεδομένων επιπέδου έξυπνου αντικειμένου στην εικόνα PSD.
+Ανακτά ή ορίζει την πολιτική anti-alias των δεδομένων στρώματος έξυπνου αντικειμένου στην εικόνα PSD.
 
 ```csharp
 public override int AntiAliasPolicy { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η πολιτική κατά του ψευδωνύμου των δεδομένων επιπέδου έξυπνου αντικειμένου.
+Η πολιτική anti alias των δεδομένων του επιπέδου έξυπνου αντικειμένου.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

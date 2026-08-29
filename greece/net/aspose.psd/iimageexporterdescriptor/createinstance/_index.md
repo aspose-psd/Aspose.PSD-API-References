@@ -1,11 +1,12 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IImageExporterDescriptor μέθοδος. Δημιουργεί μια νέα παρουσία εξαγωγέα.
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IImageExporterDescriptor. Δημιουργεί ένα νέο παράδειγμα εξαγωγέα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
 Δημιουργεί μια νέα παρουσία εξαγωγέα.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/iimageexporterdescriptor/createinstance/
 public IImageExporter CreateInstance()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα νέο παράδειγμα εξαγωγέα.
 
@@ -22,7 +23,7 @@ public IImageExporter CreateInstance()
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* χώρος ονομάτων [Aspose.PSD](../../iimageexporterdescriptor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

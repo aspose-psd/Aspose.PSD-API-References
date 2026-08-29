@@ -1,11 +1,12 @@
 ---
-title: TextShape.Text
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextShape ιδιοκτησία. Λαμβάνει ή ορίζει το σχεδιασμένο κείμενο.
+title: "TextShape.Text"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextShape. Λαμβάνει ή ορίζει το σχεδιασμένο κείμενο"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
 Λαμβάνει ή ορίζει το σχεδιασμένο κείμενο.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.shapes/textshape/text/
 public string Text { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ζωγραφισμένο κείμενο.
+Το σχεδιασμένο κείμενο.
 
 ### Δείτε επίσης
 
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

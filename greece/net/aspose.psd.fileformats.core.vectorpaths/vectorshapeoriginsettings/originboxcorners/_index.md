@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.OriginBoxCorners
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeOriginSettings ιδιοκτησία. Λαμβάνει ή ορίζει τις γωνίες του πλαισίου προέλευσης.
+title: "VectorShapeOriginSettings.OriginBoxCorners"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorShapeOriginSettings property. Λαμβάνει ή ορίζει τις γωνίες του πλαισίου προέλευσης"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginBoxCorners property
 
 Λαμβάνει ή ορίζει τις γωνίες του πλαισίου προέλευσης.
@@ -14,35 +15,35 @@ url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/o
 public double[] OriginBoxCorners { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι γωνίες του κιβωτίου προέλευσης.
+Οι γωνίες του πλαισίου προέλευσης.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς μπορείτε να λάβετε και να ορίσετε νέες ιδιότητες Transform και OriginBoxCorners των ShapeOriginSettings στον πόρο Vogk του FillLayer στο αρχείο PSD.
+Αυτό το παράδειγμα δείχνει πώς να λάβετε και να ορίσετε νέες ιδιότητες Transform και OriginBoxCorners του ShapeOriginSettings στον πόρο Vogt του FillLayer στο αρχείο PSD.
 
 ```csharp
 [C#]
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε νέες ιδιότητες Transform και OriginBoxCorners
-// των ShapeOriginSettings στον πόρο Vogk του FillLayer στο αρχείο PSD
+// Αυτό το παράδειγμα δείχνει πώς να λάβετε και να ορίσετε νέες ιδιότητες Transform και OriginBoxCorners.
+// του ShapeOriginSettings στον πόρο Vogk του FillLayer στο αρχείο PSD
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
 
 VectorShapeOriginSettings originalSetting;
 const int layerIndex = 0;
 
-// Φόρτωση της αρχικής εικόνας
+// Φορτώστε την αρχική εικόνα
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Υποβολή μετά την ανάγνωση
+    // Επιβεβαιώστε μετά την ανάγνωση
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -55,7 +56,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // Επιβεβαίωση νέων ιδιοτήτων
+    // Επιβεβαιώστε τις νέες ιδιότητες
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(2.9000000000000004d, setting.OriginBoxCorners[6]);
     AssertAreEqual(22.400000000000002d, setting.OriginBoxCorners[7]);
 
-    // Ορισμός νέων ιδιοτήτων
+    // Ορίστε τις νέες ιδιότητες
     originalSetting = resource.ShapeOriginSettings[0];
     originalSetting.Transform.Tx = 0.2d;
     originalSetting.Transform.Ty = 0.3d;
@@ -83,19 +84,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // Αποθηκεύστε αυτήν την εικόνα PSD με αλλαγμένες ιδιότητες.
+    // Αποθηκεύστε αυτήν την εικόνα PSD με τις αλλαγμένες ιδιότητες.
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// Φορτώστε την αποθηκευμένη εικόνα PSD με αλλαγμένες ιδιότητες.
+// Φορτώστε την αποθηκευμένη εικόνα PSD με τις αλλαγμένες ιδιότητες.
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Βεβαιωθείτε ότι οι ιδιότητες αποθηκεύονται και φορτώνονται σωστά 
+    // Επιβεβαιώστε ότι οι ιδιότητες αποθηκεύονται και φορτώνονται σωστά
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -122,7 +123,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -168,7 +169,7 @@ void AssertAreEqual(object actual, object expected)
 ### Δείτε επίσης
 
 * class [VectorShapeOriginSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

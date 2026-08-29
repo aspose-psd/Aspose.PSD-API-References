@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YCbCrPositioning
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση των στοιχείων χρωματισμού σε σχέση με το στοιχείο φωτεινότητας.
+title: "JpegExifData.YCbCrPositioning"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει τη θέση των συνιστωσών χρωματικότητας σε σχέση με τη συνιστώσα φωτεινότητας"
 type: docs
 weight: 240
 url: /el/net/aspose.psd.exif/jpegexifdata/ycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrPositioning property
 
-Λαμβάνει ή ορίζει τη θέση των στοιχείων χρωματισμού σε σχέση με το στοιχείο φωτεινότητας.
+Λαμβάνει ή ορίζει τη θέση των συνιστωσών χρωματικότητας σε σχέση με τη συνιστώσα φωτεινότητας.
 
 ```csharp
 public ExifYCbCrPositioning YCbCrPositioning { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση των στοιχείων χρωματισμού σε σχέση με το στοιχείο φωτεινότητας.
+Η θέση των συνιστωσών χρωματικότητας σε σχέση με τη συνιστώσα φωτεινότητας.
 
 ### Δείτε επίσης
 
 * enum [ExifYCbCrPositioning](../../../aspose.psd.exif.enums/exifycbcrpositioning/)
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

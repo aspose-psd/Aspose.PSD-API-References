@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMediaManagementPackage μέθοδος. Ορίζει το αναγνωριστικό εγγράφου.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpMediaManagementPackage μέθοδος. Ορίζει το αναγνωριστικό του εγγράφου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 Ορίζει το αναγνωριστικό εγγράφου.
@@ -21,8 +22,8 @@ public void SetDocumentId(Guid guid)
 ### Δείτε επίσης
 
 * class [XmpMediaManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,7 +42,7 @@ public void SetDocumentId(string guid)
 ### Δείτε επίσης
 
 * class [XmpMediaManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsFaulted
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAsyncTask ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η εργασία ήταν σφάλμα.
+title: "IAsyncTask.IsFaulted"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IAsyncTask ιδιότητα. Λαμβάνει μια τιμή που υποδεικνύει αν αυτή η εργασία είχε σφάλμα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.asynctask/iasynctask/isfaulted/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsFaulted property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η εργασία ήταν σφάλμα.
+Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η εργασία παρουσίασε σφάλμα.
 
 ```csharp
 public bool IsFaulted { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η εργασία ήταν ελαττωματική? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η εργασία είχε σφάλμα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * interface [IAsyncTask](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctask/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

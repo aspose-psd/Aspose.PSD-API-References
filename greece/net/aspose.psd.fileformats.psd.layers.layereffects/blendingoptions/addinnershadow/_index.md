@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddInnerShadow
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlendingOptions μέθοδος. Προσθέτει το εφέ εσωτερικής σκιάς.
+title: "BlendingOptions.AddInnerShadow"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος BlendingOptions. Προσθέτει το εφέ εσωτερικής σκιάς"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddInnerShadow method
 
-Προσθέτει το εφέ εσωτερικής σκιάς.
+Προσθέτει το εσωτερικό εφέ σκιάς.
 
 ```csharp
 public InnerShadowEffect AddInnerShadow()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`InnerShadowEffect`](../../innershadoweffect/) αντικείμενο
+Δημιουργήθηκε αντικείμενο [`InnerShadowEffect`](../../innershadoweffect/)
 
 ### Δείτε επίσης
 
 * class [InnerShadowEffect](../../innershadoweffect/)
 * class [BlendingOptions](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

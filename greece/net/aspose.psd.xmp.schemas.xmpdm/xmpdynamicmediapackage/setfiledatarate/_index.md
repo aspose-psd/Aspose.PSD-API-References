@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetFileDataRate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ορίζει τον ρυθμό δεδομένων του αρχείου.
+title: "XmpDynamicMediaPackage.SetFileDataRate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpDynamicMediaPackage. Ορίζει το ρυθμό δεδομένων αρχείου"
 type: docs
 weight: 210
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setfiledatarate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetFileDataRate method
 
-Ορίζει τον ρυθμό δεδομένων του αρχείου.
+Ορίζει το ρυθμό δεδομένων του αρχείου.
 
 ```csharp
 public void SetFileDataRate(Rational rate)
@@ -16,13 +17,13 @@ public void SetFileDataRate(Rational rate)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rate | Rational | Ο ρυθμός δεδομένων αρχείου σε megabyte ανά δευτερόλεπτο. |
+| ρυθμός | Αριθμητικός | Ο ρυθμός δεδομένων αρχείου σε megabytes ανά δευτερόλεπτο. |
 
 ### Δείτε επίσης
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

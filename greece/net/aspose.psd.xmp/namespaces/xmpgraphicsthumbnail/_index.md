@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpGraphicsThumbnail
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. Χώρος ονομάτων γραφικών XMP.
+title: "Namespaces.XmpGraphicsThumbnail"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. Χώρος ονομάτων γραφικών XMP"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpGraphicsThumbnail field
 
-Χώρος ονομάτων γραφικών XMP.
+Χώρος ονομάτων XMP graphics.
 
 ```csharp
 public const string XmpGraphicsThumbnail;
@@ -17,7 +18,7 @@ public const string XmpGraphicsThumbnail;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

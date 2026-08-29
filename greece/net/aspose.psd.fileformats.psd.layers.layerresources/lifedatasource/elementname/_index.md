@@ -1,32 +1,33 @@
 ---
-title: LiFeDataSource.ElementName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LiFeDataSource ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα του στοιχείου της βιβλιοθήκης γραφικών για τις βιβλιοθήκες Adobe Photoshop CC.
+title: "LiFeDataSource.ElementName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LiFeDataSource. Λαμβάνει ή ορίζει το όνομα στοιχείου της βιβλιοθήκης γραφικών για τις βιβλιοθήκες Adobe Photoshop CC."
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.ElementName property
 
-Λαμβάνει ή ορίζει το όνομα του στοιχείου της βιβλιοθήκης γραφικών, για τις βιβλιοθήκες Adobe® Photoshop® CC.
+Λαμβάνει ή ορίζει το όνομα του στοιχείου της βιβλιοθήκης γραφικών, για Adobe® Photoshop® CC Libraries.
 
 ```csharp
 public string ElementName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα του στοιχείου της βιβλιοθήκης γραφικών.
+Το όνομα στοιχείου της βιβλιοθήκης γραφικών.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Δεν μπορείτε να αποκτήσετε πρόσβαση στην ιδιότητα ElementName, είναι διαθέσιμη μόνο για πηγή δεδομένων liFE όταν το IsLibrary είναι true |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Δεν μπορείτε να προσπελάσετε την ιδιότητα ElementName· είναι διαθέσιμη μόνο για την πηγή δεδομένων liFE όταν το IsLibrary είναι true. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου Psd LnkE.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkE.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου Psd LnkE που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο αρχείο.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkE που περιέχει πληροφορίες για ένα εξωτερικό συνδεδεμένο αρχείο.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του Psd LnkeResource που περιέχει πληροφορίες σχετικά με το εξωτερικό συνδεδεμένο αρχείο JPEG.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkeResource που περιέχει πληροφορίες για εξωτερικό συνδεδεμένο αρχείο JPEG.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο αρχείο PNG.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου PSD LnkeResource που περιέχει πληροφορίες για εξωτερικό συνδεδεμένο αρχείο PNG.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες σχετικά με δύο εξωτερικά συνδεδεμένα αρχεία PNG και PSD.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες για δύο εξωτερικά συνδεδεμένα αρχεία PNG και PSD.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του Photoshop Psd LnkeResource που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο στοιχείο CC Libraries.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του Photoshop Psd LnkeResource που περιέχει πληροφορίες για ένα εξωτερικά συνδεδεμένο αντικείμενο CC Libraries.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,7 +195,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
 
 ```csharp
 [C#]
@@ -419,7 +420,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### Δείτε επίσης
 
 * class [LiFeDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource διεπαφή. Καθορίζει τη διεπαφή IPlacedLayerResource που περιέχει πληροφορίες σχετικά με ένα τοποθετημένο επίπεδο στο αρχείο PSD. Is είναι μια διεπαφή σήμανσης που χρησιμοποιείται για τον προσδιορισμό πόρων PlLd Sold και Sole στις εικόνες του Adobe Photoshop. Is χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων σε οι εικόνες Adobe Photoshop.
+title: "Διεπαφή IPlacedLayerResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource διεπαφή. Ορίζει τη διεπαφή IPlacedLayerResource που περιέχει πληροφορίες σχετικά με ένα τοποθετημένο στρώμα στο αρχείο PSD. Είναι μια διεπαφή σήμανσης που χρησιμοποιείται για τον καθορισμό πόρων PlLd Sold και Sole στις εικόνες Adobe Photoshop. Χρησιμοποιείται για την υποστήριξη στρωμάτων έξυπνων αντικειμένων στις εικόνες Adobe Photoshop."
 type: docs
-weight: 2530
+weight: 2820
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-Καθορίζει τη διεπαφή IPlacedLayerResource που περιέχει πληροφορίες σχετικά με ένα τοποθετημένο επίπεδο στο αρχείο PSD. Is είναι μια διεπαφή σήμανσης που χρησιμοποιείται για τον προσδιορισμό πόρων PlLd, Sold και Sole στις εικόνες του Adobe® Photoshop®. Is χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων σε οι εικόνες Adobe® Photoshop®.
+Ορίζει τη διεπαφή IPlacedLayerResource που περιέχει πληροφορίες σχετικά με ένα τοποθετημένο επίπεδο σε αρχείο PSD. Είναι μια διεπαφή σήμανσης που χρησιμοποιείται για τον καθορισμό πόρων PlLd, Sold και Sole στις εικόνες Adobe® Photoshop®. Χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες Adobe® Photoshop®.
 
 ```csharp
 public interface IPlacedLayerResource
@@ -16,40 +17,40 @@ public interface IPlacedLayerResource
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Λαμβάνει ή ορίζει την πολιτική κατά του ψευδωνύμου του τοποθετημένου επιπέδου στην εικόνα PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Λαμβάνει ή ορίζει την κάτω θέση του τοποθετημένου στρώματος στην εικόνα PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του τοποθετημένου επιπέδου στο αρχείο PSD. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Λαμβάνει ή ορίζει την πολιτική anti-alias του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Λαμβάνει ή ορίζει τη θέση κάτω του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του τοποθετημένου στρώματος στο αρχείο PSD. |
 | [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Λαμβάνει ή ορίζει τα οριζόντια σημεία πλέγματος του τοποθετημένου στρώματος στο αρχείο PSD. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης των οριζόντιων σημείων πλέγματος. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιλ παραμόρφωσης της παρουσίας είναι προσαρμοσμένο. Εάν είναι αληθές, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει σημεία πλέγματος. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Λαμβάνει ή ορίζει τα στοιχεία στημόνι. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Λαμβάνει ή ορίζει την αριστερή θέση του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό σελίδας του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Λαμβάνει ή ορίζει την προοπτική τιμή του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου επιπέδου στο αρχείο PSD. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το στυλ παραμόρφωσης αυτής της παρουσίας είναι προσαρμοσμένο. Εάν είναι true, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει τα σημεία πλέγματος. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Λαμβάνει ή ορίζει τα στοιχεία παραμόρφωσης. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Λαμβάνει ή ορίζει τη θέση αριστερά του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό σελίδας του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Λαμβάνει ή ορίζει την τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD. |
 | [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο του τοποθετημένου στρώματος στο αρχείο PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Λαμβάνει ή ορίζει τη σωστή θέση του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Λαμβάνει ή ορίζει την επάνω θέση του τοποθετημένου στρώματος στην εικόνα PSD. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Λαμβάνει ή ορίζει τις συνολικές σελίδες του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Λαμβάνει ή ορίζει το καθολικό μοναδικό αναγνωριστικό του επιπέδου ή του έξυπνου αντικειμένου που τοποθετείται στην εικόνα PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Λαμβάνει ή ορίζει την τιμή σειράς U του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή στημόνι του τοποθετημένου στρώματος στην εικόνα PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Λαμβάνει την έκδοση του τοποθετημένου επιπέδου στο αρχείο PSD, συνήθως 3-5. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Λαμβάνει ή ορίζει τη θέση δεξιά του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Ανακτά ή ορίζει τη θέση κορυφής του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Ανακτά ή ορίζει τις συνολικές σελίδες του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Ανακτά ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Λαμβάνει ή ορίζει το παγκόσμιο μοναδικό αναγνωριστικό του ή του τοποθετημένου στρώματος έξυπνου αντικειμένου στην εικόνα PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Ανακτά ή ορίζει την τιμή σειράς U του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Ανακτά ή ορίζει την τιμή παραμόρφωσης του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Λαμβάνει την έκδοση του τοποθετημένου στρώματος στο αρχείο PSD, συνήθως 3-5. |
 | [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Λαμβάνει ή ορίζει τα οριζόντια σημεία πλέγματος του τοποθετημένου στρώματος στο αρχείο PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης των κατακόρυφων σημείων πλέγματος. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Λαμβάνει ή ορίζει την τιμή τάξης V του τοποθετημένου επιπέδου στο αρχείο PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Ανακτά ή ορίζει τη μονάδα μέτρησης των κάθετων σημείων πλέγματος. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Ανακτά ή ορίζει την τιμή σειράς V του τοποθετημένου στρώματος στο αρχείο PSD. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου SoLdResource.
 
 ```csharp
 [C#]
 
-// Αυτό το παράδειγμα δείχνει πώς να λάβετε ή να ορίσετε τις ιδιότητες δεδομένων επιπέδου έξυπνου αντικειμένου του αρχείου PSD.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε ή να ορίσετε τις ιδιότητες των δεδομένων επιπέδου έξυπνου αντικειμένου του αρχείου PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Αυτές οι τιμές πρέπει να αλλάξουν και στο PlLdResource (με το καθορισμένο UniqueId)
-                // και μερικά από αυτά πρέπει να είναι σε συμφωνία με το υπογραμμιζόμενο έξυπνο αντικείμενο στο LinkDataSource
+                // Αυτές οι τιμές πρέπει επίσης να αλλάξουν στο PlLdResource (με το καθορισμένο UniqueId)
+                // και μερικές από αυτές πρέπει να είναι σύμφωνες με το υποκείμενο έξυπνο αντικείμενο στο LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,19 +330,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Αυτό το μοναδικό αναγνωριστικό θα πρέπει να αλλάξει σε αναφορές εάν υπάρχουν
+                // Αυτό το μοναδικό Id πρέπει να αλλάξει στις αναφορές, εάν υπάρχουν
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-                // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+                // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+                // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-                ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+                // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -355,7 +356,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

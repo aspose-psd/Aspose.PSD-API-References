@@ -1,14 +1,15 @@
 ---
-title: Layer.DrawImage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer μέθοδος. Σχεδιάζει την εικόνα σε επίπεδο.
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Layer. Σχεδιάζει την εικόνα στο στρώμα"
 type: docs
-weight: 340
+weight: 360
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
-Σχεδιάζει την εικόνα σε επίπεδο.
+Σχεδιάζει την εικόνα στο layer.
 
 ```csharp
 public void DrawImage(Point location, RasterImage image)
@@ -16,21 +17,21 @@ public void DrawImage(Point location, RasterImage image)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| location | Point | Η τοποθεσία. |
-| image | RasterImage | Η εικόνα. |
+| τοποθεσία | Σημείο | Η θέση. |
+| εικόνα | RasterImage | Η εικόνα. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Η τοποθεσία δεν πρέπει να είναι αρνητική |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Η θέση πρέπει να είναι μη αρνητική |
 
 ### Δείτε επίσης
 
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

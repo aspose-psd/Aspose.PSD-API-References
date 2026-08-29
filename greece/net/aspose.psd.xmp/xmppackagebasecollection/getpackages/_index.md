@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackageBaseCollection μέθοδος. Λήψη πίνακαXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackageBaseCollection μέθοδος. Λάβετε έναν πίνακα των XmpPackage"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-Λήψη πίνακα[`XmpPackage`](../../xmppackage/) .
+Λάβετε έναν πίνακα του [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public XmpPackage[] GetPackages()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει μια σειρά πακέτων XMP.
+Επιστρέφει έναν πίνακα πακέτων XMP.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

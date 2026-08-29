@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τοPixelDataFormat ορίζεται για 32 bit ανά pixel με 8 bit για καθένα από τα κυανό ματζέντα κίτρινο και μαύρο.
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Λαμβάνει το PixelDataFormat που ορίζεται για 32 bits ανά pixel με 8 bits για το κυανό, ματζέντα, κίτρινο και μαύρο"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-Λαμβάνει το[`PixelDataFormat`](../) ορίζεται για 32 bit ανά pixel με 8 bit για καθένα από τα κυανό, ματζέντα, κίτρινο και μαύρο.
+Λαμβάνει το [`PixelDataFormat`](../) που ορίζεται για 32 bits ανά pixel με 8 bits για το κυανό, ματζέντα, κίτρινο και μαύρο.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`PixelDataFormat`](../) ορίζεται για 32 bit ανά pixel με 8 bit για καθένα από τα κυανό, ματζέντα, κίτρινο και μαύρο.
+Το [`PixelDataFormat`](../) που ορίζεται για 32 bits ανά pixel με 8 bits για το κυανό, ματζέντα, κίτρινο και μαύρο.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

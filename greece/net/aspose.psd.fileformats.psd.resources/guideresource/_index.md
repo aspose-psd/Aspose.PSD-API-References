@@ -1,14 +1,15 @@
 ---
-title: Class GuideResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource τάξη. Το μπλοκ πόρων οδηγών.
+title: "Κλάση GuideResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource class. Το μπλοκ πόρου οδηγού"
 type: docs
-weight: 3750
+weight: 4220
 url: /el/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-Το μπλοκ πόρων οδηγών.
+Το μπλοκ πόρου οδηγού.
 
 ```csharp
 public sealed class GuideResource
@@ -16,26 +17,26 @@ public sealed class GuideResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [GuideResource](guideresource/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Λαμβάνει ή ορίζει την κατεύθυνση του οδηγού. |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του οδηγού στις συντεταγμένες του εγγράφου. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του οδηγού σε συντεταγμένες εγγράφου. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | Το μέγεθος του μπλοκ πόρων οδηγού. |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | Το μέγεθος του μπλοκ πόρου οδηγού. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.ChannelBits
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τον αριθμό των bit για κάθε κανάλι.
+title: "PixelDataFormat.ChannelBits"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PixelDataFormat ιδιότητα. Αποκτά τον αριθμό των bit για κάθε κανάλι"
 type: docs
 weight: 320
 url: /el/net/aspose.psd/pixeldataformat/channelbits/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelBits property
 
 Λαμβάνει τον αριθμό των bit για κάθε κανάλι.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/pixeldataformat/channelbits/
 public int[] ChannelBits { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα μπιτ του καναλιού.
+Τα bits του καναλιού.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

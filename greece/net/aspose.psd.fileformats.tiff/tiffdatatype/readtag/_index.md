@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.ReadTag
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffDataType μέθοδος. Διαβάζει τα δεδομένα της ετικέτας.
+title: "TiffDataType.ReadTag"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffDataType μέθοδος. Διαβάζει τα δεδομένα της ετικέτας"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.tiff/tiffdatatype/readtag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ReadTag method
 
-Διαβάζει τα δεδομένα της ετικέτας.
+Αναγνώνει τα δεδομένα της ετικέτας.
 
 ```csharp
 public static TiffDataType ReadTag(TiffStreamReader dataStream, long position)
@@ -17,23 +18,23 @@ public static TiffDataType ReadTag(TiffStreamReader dataStream, long position)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | dataStream | TiffStreamReader | Η ροή δεδομένων. |
-| position | Int64 | Η θέση της ετικέτας. |
+| θέση | Int64 | Η θέση της ετικέτας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η ετικέτα ανάγνωσης.
+Η αναγνωσμένη ετικέτα.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | ροή δεδομένων |
+| ArgumentNullException | dataStream |
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/)
 * class [TiffDataType](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

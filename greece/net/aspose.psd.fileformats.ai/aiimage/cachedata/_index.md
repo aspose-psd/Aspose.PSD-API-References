@@ -1,14 +1,15 @@
 ---
-title: AiImage.CacheData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage μέθοδος. Αποθηκεύει προσωρινά τα δεδομένα και διασφαλίζει ότι δεν θα πραγματοποιηθεί πρόσθετη φόρτωση δεδομένων από το υποκείμενοDataStreamContainer .
+title: "AiImage.CacheData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος AiImage. Αποθηκεύει στην κρυφή μνήμη τα δεδομένα και εξασφαλίζει ότι δεν θα γίνει πρόσθετη φόρτωση δεδομένων από το υποκείμενο DataStreamContainer"
 type: docs
-weight: 140
+weight: 170
 url: /el/net/aspose.psd.fileformats.ai/aiimage/cachedata/
 ---
+{{< psd/tize >}}
 ## AiImage.CacheData method
 
-Αποθηκεύει προσωρινά τα δεδομένα και διασφαλίζει ότι δεν θα πραγματοποιηθεί πρόσθετη φόρτωση δεδομένων από το υποκείμενο[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) .
+Αποθηκεύει τα δεδομένα στην κρυφή μνήμη και εξασφαλίζει ότι δεν θα γίνει πρόσθετη φόρτωση δεδομένων από το υποκείμενο [`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/).
 
 ```csharp
 public override void CacheData()
@@ -16,14 +17,14 @@ public override void CacheData()
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| NotImplementedException | Δεν εφαρμόζεται |
+| NotImplementedException | Δεν έχει υλοποιηθεί |
 
 ### Δείτε επίσης
 
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

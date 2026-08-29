@@ -1,14 +1,15 @@
 ---
-title: Class OperationInterruptedException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException τάξη. Εμφανίζεται όταν μια λειτουργία διακόπτεται.
+title: "Κλάση OperationInterruptedException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CoreExceptions.OperationInterruptedException κλάση. Συμβαίνει όταν μια λειτουργία διακόπτεται"
 type: docs
 weight: 660
 url: /el/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
-Εμφανίζεται όταν μια λειτουργία διακόπτεται.
+Συμβαίνει όταν μια λειτουργία διακόπτεται.
 
 ```csharp
 public class OperationInterruptedException : FrameworkException
@@ -16,15 +17,15 @@ public class OperationInterruptedException : FrameworkException
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία του`OperationInterruptedException` τάξη. |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία του`OperationInterruptedException` τάξη. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `OperationInterruptedException`. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία της κλάσης `OperationInterruptedException`. |
 
 ### Δείτε επίσης
 
 * class [FrameworkException](../frameworkexception/)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

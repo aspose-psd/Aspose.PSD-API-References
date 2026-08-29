@@ -1,14 +1,15 @@
 ---
-title: BezierShape.BezierShape
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BezierShape κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουBezierShape τάξη.
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BezierShape κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης BezierShape"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`BezierShape`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`BezierShape`](../).
 
 ```csharp
 public BezierShape()
@@ -17,14 +18,14 @@ public BezierShape()
 ### Δείτε επίσης
 
 * class [BezierShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../beziershape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`BezierShape`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points)
@@ -32,20 +33,20 @@ public BezierShape(PointF[] points)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| points | PointF[] | Ο πίνακας σημείων. |
+| σημεία | PointF[] | Ο πίνακας σημείων. |
 
 ### Δείτε επίσης
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../beziershape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`BezierShape`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`BezierShape`](../).
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
@@ -53,14 +54,14 @@ public BezierShape(PointF[] points, bool isClosed)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| points | PointF[] | Ο πίνακας σημείων. |
-| isClosed | Boolean | Εάν έχει οριστεί σε`αληθής` η σφήνα bezier είναι κλειστή. |
+| σημεία | PointF[] | Ο πίνακας σημείων. |
+| isClosed | Boolean | Εάν οριστεί σε `true` η καμπύλη Bezier είναι κλειστή. |
 
 ### Δείτε επίσης
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../beziershape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

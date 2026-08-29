@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.Subtype
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerSectionResource ιδιοκτησία. Λαμβάνει ή ορίζει τον δευτερεύοντα τύπο.
+title: "LayerSectionResource.Subtype"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerSectionResource ιδιότητα. Λαμβάνει ή ορίζει τον υποτύπο"
 type: docs
-weight: 80
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Subtype property
 
-Λαμβάνει ή ορίζει τον δευτερεύοντα τύπο.
+Λαμβάνει ή ορίζει τον υποτύπο.
 
 ```csharp
 public LayerSectionSubtype Subtype { get; set; }
@@ -18,7 +19,7 @@ public LayerSectionSubtype Subtype { get; set; }
 
 * enum [LayerSectionSubtype](../../layersectionsubtype/)
 * class [LayerSectionResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

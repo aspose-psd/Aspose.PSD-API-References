@@ -1,27 +1,28 @@
 ---
-title: CmykColor.C
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColor ιδιοκτησία. Λαμβάνει την τιμή κυανού στοιχείου αυτούColorδομή.
+title: "CmykColor.C"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmykColor. Λαμβάνει την τιμή του κυανίου συστατικού αυτής της δομής Color"
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd/cmykcolor/c/
 ---
+{{< psd/tize >}}
 ## CmykColor.C property
 
-Λαμβάνει την τιμή κυανού στοιχείου αυτού[`Color`](../../color/)δομή.
+Λαμβάνει την τιμή του κυανίου συστατικού αυτής της δομής [`Color`](../../color/).
 
 ```csharp
 public byte C { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του κυανού στοιχείου αυτού[`Color`](../../color/) .
+Η τιμή του κυανίου συστατικού αυτής της [`Color`](../../color/).
 
 ### Δείτε επίσης
 
 * struct [CmykColor](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

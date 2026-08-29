@@ -1,14 +1,15 @@
 ---
-title: LayerMaskDataShort.LayerMaskDataShort
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskDataShort κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "LayerMaskDataShort.LayerMaskDataShort"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerMaskDataShort κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης LayerMaskDataShort"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashort/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort constructor
 
-Ο προεπιλεγμένος κατασκευαστής.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LayerMaskDataShort`](../).
 
 ```csharp
 public LayerMaskDataShort()
@@ -17,7 +18,7 @@ public LayerMaskDataShort()
 ### Δείτε επίσης
 
 * class [LayerMaskDataShort](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

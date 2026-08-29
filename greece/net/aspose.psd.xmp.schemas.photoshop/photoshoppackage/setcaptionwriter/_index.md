@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetCaptionWriter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει τη λεζάντα εγγραφής.
+title: "PhotoshopPackage.SetCaptionWriter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage μέθοδος. Ορίζει τον συγγραφέα λεζάντας"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCaptionWriter method
 
-Ορίζει τη λεζάντα εγγραφής.
+Ορίζει τον συγγραφέα της λεζάντας.
 
 ```csharp
 public void SetCaptionWriter(string captionWriter)
@@ -16,12 +17,12 @@ public void SetCaptionWriter(string captionWriter)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| captionWriter | String | Ο συγγραφέας της λεζάντας. |
+| captionWriter | String | Ο συγγραφέας λεζάντας. |
 
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: IRasterImagePixelLoader.LoadPartialPixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IRasterImagePixelLoader μέθοδος. Φορτώνει μερικώς pixel κατά μπλοκ.
+title: "IRasterImagePixelLoader.LoadPartialPixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IRasterImagePixelLoader. Φορτώνει εικονοστοιχεία μερικώς ανά μπλοκ"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/irasterimagepixelloader/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader.LoadPartialPixels method
 
-Φορτώνει μερικώς pixel (κατά μπλοκ).
+Φορτώνει εικονοστοιχεία μερικώς (ανά μπλοκ).
 
 ```csharp
 public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPixelLoader)
@@ -16,15 +17,15 @@ public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPi
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο από το οποίο φορτώνονται τα εικονοστοιχεία. |
-| partialPixelLoader | IPartialPixelLoader | Ο μερικός φορτωτής pixel. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο από το οποίο θα φορτωθούν τα εικονοστοιχεία. |
+| partialPixelLoader | IPartialPixelLoader | Ο μερικός φορτωτής εικονοστοιχείων. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * interface [IRasterImagePixelLoader](../)
-* χώρος ονομάτων [Aspose.PSD](../../irasterimagepixelloader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

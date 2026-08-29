@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage μέθοδος. Περιστρέφει αναστρέφει ή περιστρέφει και αναστρέφει την εικόνα.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterCachedImage. Περιστρέφει, αναστρέφει ή περιστρέφει και αναστρέφει την εικόνα"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
 Περιστρέφει, αναστρέφει ή περιστρέφει και αναστρέφει την εικόνα.
@@ -16,9 +17,9 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Ο τύπος περιστροφής αναστροφής. |
+| rotateFlipType | RotateFlipType | Ο τύπος περιστροφής/αναστροφής. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει πώς να περιστρέψετε την εικόνα.
 
@@ -44,7 +45,7 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

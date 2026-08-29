@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: Aspose.PSD για Αναφορά API .NET
-description: KnkoResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν blend interior element.
+title: "KnkoResource.Knockout"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "KnkoResource ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν γίνεται ανάμειξη εσωτερικών στοιχείων"
 type: docs
-weight: 30
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [blend interior element].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν [blend interior elements].
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν [αναμείξτε εσωτερικά στοιχεία]; σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν [συνδυασμός εσωτερικών στοιχείων]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [KnkoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

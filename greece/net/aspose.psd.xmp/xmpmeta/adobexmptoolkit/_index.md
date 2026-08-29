@@ -1,14 +1,15 @@
 ---
-title: XmpMeta.AdobeXmpToolkit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMeta ιδιοκτησία. Λήψη ή ρύθμιση της έκδοσης του Adobe Xmp toolkit.
+title: "XmpMeta.AdobeXmpToolkit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpMeta. Λαμβάνει ή ορίζει την έκδοση του Adobe Xmp toolkit"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp/xmpmeta/adobexmptoolkit/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AdobeXmpToolkit property
 
-Λήψη ή ρύθμιση της έκδοσης του Adobe Xmp toolkit.
+Λαμβάνει ή ορίζει την έκδοση του Adobe Xmp toolkit.
 
 ```csharp
 public string AdobeXmpToolkit { get; set; }
@@ -17,7 +18,7 @@ public string AdobeXmpToolkit { get; set; }
 ### Δείτε επίσης
 
 * class [XmpMeta](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpmeta/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

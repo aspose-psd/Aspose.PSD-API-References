@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.TrackingValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolStyleInfo ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή παρακολούθησης.
+title: "TypeToolStyleInfo.TrackingValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolStyleInfo. Λαμβάνει ή ορίζει την τιμή του tracking"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.TrackingValue property
 
 Λαμβάνει ή ορίζει την τιμή παρακολούθησης.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 public int TrackingValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή παρακολούθησης.
+Η τιμή του tracking.
 
 ### Δείτε επίσης
 
 * class [TypeToolStyleInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColor ιδιοκτησία. Λαμβάνει την τιμή του ματζέντα στοιχείου αυτούColorδομή.
+title: "CmykColor.M"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmykColor. Λαμβάνει την τιμή του ματζέντα συστατικού αυτής της δομής Color"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-Λαμβάνει την τιμή του ματζέντα στοιχείου αυτού[`Color`](../../color/)δομή.
+Λαμβάνει την τιμή του ματζέντα συστατικού αυτής της δομής [`Color`](../../color/).
 
 ```csharp
 public byte M { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του ματζέντα συστατικού αυτού[`Color`](../../color/) .
+Η τιμή του ματζέντα συστατικού αυτής της [`Color`](../../color/).
 
 ### Δείτε επίσης
 
 * struct [CmykColor](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

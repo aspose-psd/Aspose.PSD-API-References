@@ -1,24 +1,25 @@
 ---
-title: DropShadowEffect.Opacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DropShadowEffect ιδιοκτησία. Λαμβάνει ή ορίζει την αδιαφάνεια.
+title: "DropShadowEffect.Opacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα DropShadowEffect. Λαμβάνει ή ορίζει τη διαφάνεια"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Opacity property
 
-Λαμβάνει ή ορίζει την αδιαφάνεια.
+Λαμβάνει ή ορίζει τη διαφάνεια.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αδιαφάνεια.
+Η διαφάνεια.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει τη χρήση της ιδιότητας Opacity του DropShadowEffect.
 
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Παράδειγμα με Αδιαφάνεια = 20
+    // Παράδειγμα με Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Παράδειγμα με Αδιαφάνεια = 200
+    // Παράδειγμα με Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -50,7 +51,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### Δείτε επίσης
 
 * class [DropShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.Lfx2Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Lfx2Resource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "Lfx2Resource.Lfx2Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Lfx2Resource. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/lfx2resource/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public Lfx2Resource()
 ### Δείτε επίσης
 
 * class [Lfx2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

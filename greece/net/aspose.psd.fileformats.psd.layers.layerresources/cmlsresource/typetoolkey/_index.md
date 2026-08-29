@@ -1,14 +1,15 @@
 ---
-title: CmlsResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmlsResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "CmlsResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο CmlsResource. Το κλειδί πληροφοριών εργαλείου τύπου"
 type: docs
-weight: 70
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CmlsResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [CmlsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

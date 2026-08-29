@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OuterGlowEffect ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν knocks out.
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OuterGlowEffect ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν γίνεται αποκοπή"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
 Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [knocks out].
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isso
 public bool IsSoftBlend { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής`αν [νοκ άουτ]? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν [knocks out]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [OuterGlowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

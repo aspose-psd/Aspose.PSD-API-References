@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SamplesPerPixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει τα δείγματα ανά pixel. Για να αλλάξετε αυτήν την τιμή ιδιότητας χρησιμοποιήστε τοBitsPerSample ρυθμιστής ιδιοτήτων.
+title: "TiffOptions.SamplesPerPixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει τα δείγματα ανά pixel. Για να αλλάξετε αυτήν την τιμή ιδιότητας, χρησιμοποιήστε το setter της ιδιότητας BitsPerSample"
 type: docs
-weight: 400
+weight: 410
 url: /el/net/aspose.psd.imageoptions/tiffoptions/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SamplesPerPixel property
 
-Λαμβάνει τα δείγματα ανά pixel. Για να αλλάξετε αυτήν την τιμή ιδιότητας χρησιμοποιήστε το[`BitsPerSample`](../bitspersample/) ρυθμιστής ιδιοτήτων.
+Λαμβάνει τα δείγματα ανά pixel. Για να αλλάξετε αυτήν την τιμή ιδιότητας, χρησιμοποιήστε το setter της ιδιότητας [`BitsPerSample`](../bitspersample/).
 
 ```csharp
 public ushort SamplesPerPixel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δείγματα ανά pixel.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

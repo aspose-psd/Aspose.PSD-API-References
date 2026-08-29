@@ -1,11 +1,12 @@
 ---
-title: CmlsResource.PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmlsResource ιδιοκτησία. Λαμβάνει την έκδοση psd.
+title: "CmlsResource.PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmlsResource. Επιστρέφει την έκδοση psd"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion/
 ---
+{{< psd/tize >}}
 ## CmlsResource.PsdVersion property
 
 Λαμβάνει την έκδοση psd.
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Δείτε επίσης
 
 * class [CmlsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptionsUtils.TiffOptionsUtils
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptionsUtils κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "TiffOptionsUtils.TiffOptionsUtils"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TiffOptionsUtils. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/tiffoptionsutils/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public TiffOptionsUtils()
 ### Δείτε επίσης
 
 * class [TiffOptionsUtils](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

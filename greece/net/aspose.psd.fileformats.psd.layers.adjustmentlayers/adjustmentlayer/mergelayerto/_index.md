@@ -1,14 +1,15 @@
 ---
-title: AdjustmentLayer.MergeLayerTo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AdjustmentLayer μέθοδος. Συγχωνεύει το επίπεδο με το καθορισμένο layer
+title: "AdjustmentLayer.MergeLayerTo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος AdjustmentLayer. Συγχωνεύει τη στρώση με την καθορισμένη στρώση"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayer.MergeLayerTo method
 
-Συγχωνεύει το επίπεδο με το καθορισμένο layer
+Συγχωνεύει το επίπεδο με το καθορισμένο επίπεδο
 
 ```csharp
 public override void MergeLayerTo(Layer layerToMergeInto)
@@ -16,13 +17,13 @@ public override void MergeLayerTo(Layer layerToMergeInto)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| layerToMergeInto | Layer | Το επίπεδο στο οποίο θα συγχωνευτεί. |
+| layerToMergeInto | Στρώση | Το layer για συγχώνευση. |
 
 ### Δείτε επίσης
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [AdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../adjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι επίπεδο προτύπου.
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι στρώμα προτύπου"
 type: docs
-weight: 100
+weight: 120
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι επίπεδο προτύπου.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι στρώμα προτύπου.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το επίπεδο είναι πρότυπο. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτό το στρώμα είναι πρότυπο· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

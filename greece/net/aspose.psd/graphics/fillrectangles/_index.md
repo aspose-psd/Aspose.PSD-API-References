@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillRectangles
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Γεμίζει το εσωτερικό μιας σειράς ορθογωνίων που καθορίζονται απόRectangle δομές.
+title: "Graphics.FillRectangles"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Graphics. Συμπληρώνει τα εσωτερικά μιας σειράς ορθογωνίων που καθορίζονται από δομές Rectangle"
 type: docs
-weight: 400
+weight: 410
 url: /el/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-Γεμίζει το εσωτερικό μιας σειράς ορθογωνίων που καθορίζονται από[`Rectangle`](../../rectangle/) δομές.
+Συμπληρώνει τα εσωτερικά μιας σειράς ορθογωνίων που καθορίζονται από δομές [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
@@ -16,28 +17,28 @@ public void FillRectangles(Brush brush, Rectangle[] rects)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| rects | Rectangle[] | Συστοιχία από[`Rectangle`](../../rectangle/) δομές που αντιπροσωπεύουν τα ορθογώνια προς συμπλήρωση. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| rects | Rectangle[] | Πίνακας δομών [`Rectangle`](../../rectangle/) που αντιπροσωπεύουν τα ορθογώνια προς συμπλήρωση. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό ή*rects* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null ή *rects* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-Γεμίζει το εσωτερικό μιας σειράς ορθογωνίων που καθορίζονται από[`RectangleF`](../../rectanglef/) δομές.
+Συμπληρώνει τα εσωτερικά μιας σειράς ορθογωνίων που καθορίζονται από δομές [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
@@ -45,21 +46,21 @@ public void FillRectangles(Brush brush, RectangleF[] rects)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| rects | RectangleF[] | Συστοιχία από[`Rectangle`](../../rectangle/) δομές που αντιπροσωπεύουν τα ορθογώνια προς συμπλήρωση. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| rects | RectangleF[] | Πίνακας δομών [`Rectangle`](../../rectangle/) που αντιπροσωπεύουν τα ορθογώνια προς συμπλήρωση. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό ή*rects* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null ή *rects* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

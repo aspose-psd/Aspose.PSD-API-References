@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Παίρνει ή ρυθμίζει το ύψος.
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει το ύψος"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
-Παίρνει ή ρυθμίζει το ύψος.
+Λαμβάνει ή ορίζει το ύψος.
 
 ```csharp
 public double Height { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.Blend
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinearGradientBrush ιδιοκτησία. Λαμβάνει ή ορίζει αBlend που καθορίζει θέσεις και παράγοντες που καθορίζουν μια προσαρμοσμένη πτώση για την κλίση.
+title: "LinearGradientBrush.Blend"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LinearGradientBrush. Λαμβάνει ή ορίζει ένα Blend που καθορίζει θέσεις και παράγοντες που ορίζουν μια προσαρμοσμένη απόπτωση για τη διαβάθμιση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.brushes/lineargradientbrush/blend/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.Blend property
 
-Λαμβάνει ή ορίζει α[`Blend`](../../../aspose.psd/blend/) που καθορίζει θέσεις και παράγοντες που καθορίζουν μια προσαρμοσμένη πτώση για την κλίση.
+Λαμβάνει ή ορίζει ένα [`Blend`](../../../aspose.psd/blend/) που καθορίζει θέσεις και παράγοντες που ορίζουν μια προσαρμοσμένη απόπτωση για τη διαβάθμιση.
 
 ```csharp
 public Blend Blend { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`Blend`](../../../aspose.psd/blend/) που αντιπροσωπεύει μια προσαρμοσμένη πτώση για την κλίση.
+Ένα [`Blend`](../../../aspose.psd/blend/) που αντιπροσωπεύει μια προσαρμοσμένη απόπτωση για τη διαβάθμιση.
 
 ### Δείτε επίσης
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [LinearGradientBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

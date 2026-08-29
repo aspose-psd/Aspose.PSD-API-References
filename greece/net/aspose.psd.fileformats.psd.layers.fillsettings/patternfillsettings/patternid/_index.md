@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό μοτίβου.
+title: "PatternFillSettings.PatternId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PatternFillSettings. Λαμβάνει ή ορίζει το αναγνωριστικό του μοτίβου"
 type: docs
-weight: 80
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternId property
 
-Λαμβάνει ή ορίζει το αναγνωριστικό μοτίβου.
+Λαμβάνει ή ορίζει το αναγνωριστικό του μοτίβου.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αναγνωριστικό μοτίβου.
+Το αναγνωριστικό του μοτίβου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώματος γεμίσματος.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώσης γεμίσματος.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

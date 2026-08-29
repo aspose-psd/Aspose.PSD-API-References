@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο κόκκινου χρώματος.
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει το κόκκινο συστατικό χρώματος"
 type: docs
-weight: 130
+weight: 150
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
-Λαμβάνει ή ορίζει το στοιχείο κόκκινου χρώματος.
+Λαμβάνει ή ορίζει το κόκκινο συστατικό χρώματος.
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο κόκκινου χρώματος.
+Το κόκκινο συστατικό χρώματος.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

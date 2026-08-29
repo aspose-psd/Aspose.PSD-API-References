@@ -1,14 +1,15 @@
 ---
-title: AnimatedDataSectionStructure.StructureKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AnimatedDataSectionStructure πεδίο. Προσδιορίζει το κλειδί δομής των AnD.
+title: "AnimatedDataSectionStructure.StructureKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο AnimatedDataSectionStructure. Αναγνωρίζει το κλειδί δομής του AnDs"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.StructureKey field
 
-Προσδιορίζει το κλειδί δομής των AnD.
+Αναγνωρίζει το κλειδί δομής του AnDs.
 
 ```csharp
 public const int StructureKey;
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Δείτε επίσης
 
 * class [AnimatedDataSectionStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

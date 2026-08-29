@@ -1,11 +1,12 @@
 ---
-title: Version.Comments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Version ιδιοκτησία. Λαμβάνει ή ορίζει τα σχόλια.
+title: "Version.Comments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Version ιδιότητα. Λαμβάνει ή ορίζει τα σχόλια"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.version/version/comments/
 ---
+{{< psd/tize >}}
 ## Version.Comments property
 
 Λαμβάνει ή ορίζει τα σχόλια.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.version/version/comments/
 public string Comments { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα σχόλια.
 
 ### Δείτε επίσης
 
 * class [Version](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

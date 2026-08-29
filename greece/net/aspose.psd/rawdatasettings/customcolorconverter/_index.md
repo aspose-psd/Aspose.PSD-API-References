@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.CustomColorConverter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RawDataSettings ιδιοκτησία. Λαμβάνει ή ορίζει τον προσαρμοσμένο μετατροπέα χρωμάτων
+title: "RawDataSettings.CustomColorConverter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RawDataSettings ιδιότητα. Λαμβάνει ή ορίζει τον προσαρμοσμένο μετατροπέα χρώματος."
 type: docs
 weight: 30
 url: /el/net/aspose.psd/rawdatasettings/customcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.CustomColorConverter property
 
 Λαμβάνει ή ορίζει τον προσαρμοσμένο μετατροπέα χρωμάτων
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd/rawdatasettings/customcolorconverter/
 public IColorConverter CustomColorConverter { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο προσαρμοσμένος μετατροπέας χρωμάτων
+Ο προσαρμοσμένος μετατροπέας χρώματος
 
 ### Δείτε επίσης
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../rawdatasettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

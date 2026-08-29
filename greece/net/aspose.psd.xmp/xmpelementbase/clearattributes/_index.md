@@ -1,14 +1,15 @@
 ---
-title: XmpElementBase.ClearAttributes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpElementBase μέθοδος. Καταργεί όλα τα χαρακτηριστικά.
+title: "XmpElementBase.ClearAttributes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpElementBase. Αφαιρεί όλα τα χαρακτηριστικά"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp/xmpelementbase/clearattributes/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.ClearAttributes method
 
-Καταργεί όλα τα χαρακτηριστικά.
+Αφαιρεί όλα τα χαρακτηριστικά.
 
 ```csharp
 public virtual void ClearAttributes()
@@ -17,7 +18,7 @@ public virtual void ClearAttributes()
 ### Δείτε επίσης
 
 * class [XmpElementBase](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpelementbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

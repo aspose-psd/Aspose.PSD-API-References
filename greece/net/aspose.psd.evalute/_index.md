@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Επεξεργασία κεφαλίδας χώρου ονομάτων DIB.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων επεξεργασίας κεφαλίδας DIB"
 type: docs
-weight: 80
+weight: 90
 url: /el/net/aspose.psd.evalute/
 ---
-Επεξεργασία κεφαλίδας χώρου ονομάτων DIB.
+{{< psd/tize >}}
+Ο χώρος ονομάτων επεξεργασία κεφαλίδας DIB.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [EvalException](./evalexception/) | Προσαρμοσμένη εξαίρεση για σφάλματα αξιολόγησης |
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ResolutionSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τις ρυθμίσεις ανάλυσης.
+title: "TiffOptions.ResolutionSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τις ρυθμίσεις ανάλυσης."
 type: docs
-weight: 360
+weight: 370
 url: /el/net/aspose.psd.imageoptions/tiffoptions/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionSettings property
 
 Λαμβάνει ή ορίζει τις ρυθμίσεις ανάλυσης.
@@ -18,7 +19,7 @@ public override ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

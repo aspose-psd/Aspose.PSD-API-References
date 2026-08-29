@@ -1,14 +1,15 @@
 ---
-title: XmpRightsManagementPackage.SetMarkedAsRightManagement
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpRightsManagementPackage μέθοδος. Επισημαίνει ως σωστό περιεχόμενο διαχείρισης
+title: "XmpRightsManagementPackage.SetMarkedAsRightManagement"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpRightsManagementPackage. Σημαδεύει ως περιεχόμενο διαχείρισης δικαιωμάτων"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetMarkedAsRightManagement method
 
-Επισημαίνει ως σωστό περιεχόμενο διαχείρισης
+Σημειώνει ως περιεχόμενο διαχείρισης δικαιωμάτων
 
 ```csharp
 public void SetMarkedAsRightManagement(bool value)
@@ -16,12 +17,12 @@ public void SetMarkedAsRightManagement(bool value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Boolean | εάν έχει οριστεί σε`αληθής`ότι αυτός είναι ένας πόρος που διαχειρίζεται δικαιώματα. |
+| τιμή | Boolean | αν οριστεί σε `true` ότι αυτό είναι πόρος με διαχείριση δικαιωμάτων. |
 
 ### Δείτε επίσης
 
 * class [XmpRightsManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

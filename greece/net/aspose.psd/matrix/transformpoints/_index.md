@@ -1,14 +1,15 @@
 ---
-title: Matrix.TransformPoints
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix μέθοδος. Εφαρμόζει τον γεωμετρικό μετασχηματισμό που αντιπροσωπεύεται από αυτόMatrix σε μια καθορισμένη σειρά σημείων.
+title: "Matrix.TransformPoints"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Matrix. Εφαρμόζει τον γεωμετρικό μετασχηματισμό που αντιπροσωπεύεται από αυτό το Matrix σε έναν καθορισμένο πίνακα σημείων"
 type: docs
 weight: 180
 url: /el/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-Εφαρμόζει τον γεωμετρικό μετασχηματισμό που αντιπροσωπεύεται από αυτό[`Matrix`](../) σε μια καθορισμένη σειρά σημείων.
+Εφαρμόζει τον γεωμετρικό μετασχηματισμό που αντιπροσωπεύεται από αυτό το [`Matrix`](../) σε έναν καθορισμένο πίνακα σημείων.
 
 ```csharp
 public void TransformPoints(PointF[] points)
@@ -16,13 +17,13 @@ public void TransformPoints(PointF[] points)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| points | PointF[] | Τα σημεία. |
+| σημεία | PointF[] | Τα σημεία. |
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

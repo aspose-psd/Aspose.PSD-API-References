@@ -1,27 +1,28 @@
 ---
-title: Pen.DashOffset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Λαμβάνει ή ορίζει την απόσταση από την αρχή μιας γραμμής έως την αρχή ενός μοτίβου παύλας.
+title: "Pen.DashOffset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει την απόσταση από την αρχή μιας γραμμής μέχρι την αρχή του μοτίβου παύλας"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/pen/dashoffset/
 ---
+{{< psd/tize >}}
 ## Pen.DashOffset property
 
-Λαμβάνει ή ορίζει την απόσταση από την αρχή μιας γραμμής έως την αρχή ενός μοτίβου παύλας.
+Λαμβάνει ή ορίζει την απόσταση από την αρχή μιας γραμμής μέχρι την αρχή του προτύπου παύλας.
 
 ```csharp
 public float DashOffset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η απόσταση από την αρχή μιας γραμμής έως την αρχή ενός σχεδίου παύλας.
+Η απόσταση από την αρχή μιας γραμμής μέχρι την αρχή του μοτίβου παύλας.
 
 ### Δείτε επίσης
 
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

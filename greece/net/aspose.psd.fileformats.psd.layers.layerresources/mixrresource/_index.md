@@ -1,14 +1,15 @@
 ---
-title: Class MixrResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MixrResource τάξη. Κατηγορία MixrResource. Πηγή του μίκτη καναλιών Adjustment Layer
+title: "Κλάση MixrResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MixrResource. Κλάση MixrResource. Πόρος του στρώματος Προσαρμογής Μίκτη Καναλιών"
 type: docs
-weight: 2820
+weight: 3160
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/
 ---
+{{< psd/tize >}}
 ## MixrResource class
 
-Κατηγορία MixrResource. Πηγή του μίκτη καναλιών Adjustment Layer
+Κλάση MixrResource. Πόρος της Channel Mixer Adjustment Layer
 
 ```csharp
 public sealed class MixrResource : AdjustmentLayerResource
@@ -16,42 +17,42 @@ public sealed class MixrResource : AdjustmentLayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [MixrResource](mixrresource/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`MixrResource` class. Η προδιαγραφή μορφής PSD περιέχει την ακόλουθη περιγραφή: 2 Έκδοση ( = 1) 2 Monochrome 20 χρώμα RGB ή CMYK συν σταθερά για τις ρυθμίσεις του μίκτη. 4 * 2 byte χρώματος με 2 byte σταθερά. |
-| [MixrResource](mixrresource/#constructor_1)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`MixrResource` class. Η προδιαγραφή μορφής PSD περιέχει την ακόλουθη περιγραφή: 2 Έκδοση ( = 1) 2 Monochrome 20 χρώμα RGB ή CMYK συν σταθερά για τις ρυθμίσεις του μίκτη. 4 * 2 byte χρώματος με 2 byte σταθερά. |
+| [MixrResource](mixrresource/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `MixrResource`. Η προδιαγραφή μορφής PSD περιέχει την ακόλουθη περιγραφή: 2 Έκδοση (= 1) 2 Μονόχρωμο 20 χρώμα RGB ή CMYK συν σταθερά για τις ρυθμίσεις του μίκτη. 4 * 2 bytes χρώματος με 2 bytes σταθερά. |
+| [MixrResource](mixrresource/#constructor_1)(byte[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `MixrResource`. Η προδιαγραφή μορφής PSD περιέχει την ακόλουθη περιγραφή: 2 Έκδοση (= 1) 2 Μονόχρωμο 20 χρώμα RGB ή CMYK συν σταθερά για τις ρυθμίσεις του μίκτη. 4 * 2 bytes χρώματος με 2 bytes σταθερά. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| [Monochrome](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`MixrResource` είναι μονόχρωμη. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Παίρνει την υπογραφή. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| [Monochrome](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `MixrResource` είναι μονόχρωμο. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/) { get; set; } | Λαμβάνει ή ορίζει την έκδοση. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/)(int) | Λαμβάνει τις πληροφορίες του καναλιού μη επεξεργασμένα δεδομένα |
+| [GetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/)(int) | Λαμβάνει τα ακατέργαστα δεδομένα πληροφοριών καναλιού |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
 | [SetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo/)(int, byte[]) | Ορίζει τις πληροφορίες καναλιού. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

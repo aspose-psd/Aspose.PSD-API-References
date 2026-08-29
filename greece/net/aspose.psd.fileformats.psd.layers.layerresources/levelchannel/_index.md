@@ -1,14 +1,15 @@
 ---
-title: Class LevelChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel τάξη. Κατηγορία για εργασία με κανάλια στο Επίπεδο Προσαρμογής Επιπέδων
+title: "Κλάση LevelChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel κλάση. Κλάση για εργασία με κανάλια σε επίπεδο προσαρμογής επιπέδων"
 type: docs
-weight: 2630
+weight: 2940
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
+{{< psd/tize >}}
 ## LevelChannel class
 
-Κατηγορία για εργασία με κανάλια στο Επίπεδο Προσαρμογής Επιπέδων
+Κλάση για εργασία με κανάλια στο στρώμα ρύθμισης επιπέδων
 
 ```csharp
 public class LevelChannel
@@ -16,17 +17,17 @@ public class LevelChannel
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | Λαμβάνει ή ορίζει το επίπεδο επισήμανσης εισόδου. |
-| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | Λαμβάνει ή ρυθμίζει τη στάθμη μεσαίου τόνου εισόδου. |
+| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | Λαμβάνει ή ορίζει το επίπεδο ανάγλυφου εισόδου. |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | Λαμβάνει ή ορίζει την τιμή κινητής υποδιαστολής του επιπέδου μεσαίων τόνων εισόδου. |
 | [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/) { get; set; } | Λαμβάνει ή ορίζει το επίπεδο σκιάς εισόδου. |
-| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | Λαμβάνει ή ρυθμίζει το επίπεδο επισήμανσης εξόδου. |
+| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | Λαμβάνει ή ορίζει το επίπεδο ανάγλυφου εξόδου. |
 | [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | Λαμβάνει ή ορίζει το επίπεδο σκιάς εξόδου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.XmpPacketWrapper
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPacketWrapper κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpPacketWrapper τάξη.
+title: "XmpPacketWrapper.XmpPacketWrapper"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpPacketWrapper. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpPacketWrapper"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper(XmpHeaderPi, XmpTrailerPi, XmpMeta) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpPacketWrapper`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpPacketWrapper`](../).
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMeta)
@@ -16,8 +17,8 @@ public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMet
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| header | XmpHeaderPi | Η κεφαλίδα XMP της εντολής επεξεργασίας. |
-| trailer | XmpTrailerPi | Το τρέιλερ XMP των οδηγιών επεξεργασίας. |
+| κεφαλίδα | XmpHeaderPi | Η κεφαλίδα XMP της εντολής επεξεργασίας. |
+| τράιλερ | XmpTrailerPi | Ο τράιλερ XMP της εντολής επεξεργασίας. |
 | xmpMeta | XmpMeta | Τα μεταδεδομένα XMP. |
 
 ### Δείτε επίσης
@@ -26,14 +27,14 @@ public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMet
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpPacketWrapper() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpPacketWrapper`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpPacketWrapper`](../).
 
 ```csharp
 public XmpPacketWrapper()
@@ -42,7 +43,7 @@ public XmpPacketWrapper()
 ### Δείτε επίσης
 
 * class [XmpPacketWrapper](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Union
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Παίρνει έναRectangle δομή που περιέχει την ένωση δύοRectangle δομές.
+title: "Rectangle.Union"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Λαμβάνει μια δομή Rectangle που περιέχει την ένωση δύο δομών Rectangle."
 type: docs
 weight: 100
 url: /el/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-Παίρνει ένα[`Rectangle`](../) δομή που περιέχει την ένωση δύο[`Rectangle`](../) δομές.
+Λαμβάνει μια δομή [`Rectangle`](../) που περιέχει την ένωση δύο δομών [`Rectangle`](../).
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
@@ -16,17 +17,17 @@ public static Rectangle Union(Rectangle a, Rectangle b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Rectangle | Ένα πρώτο ορθογώνιο προς ένωση. |
-| b | Rectangle | Ένα δεύτερο ορθογώνιο προς ένωση. |
+| α | Rectangle | Το πρώτο ορθογώνιο για ένωση. |
+| β | Rectangle | Το δεύτερο ορθογώνιο για ένωση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΕΝΑ[`Rectangle`](../) δομή που οριοθετεί την ένωση των δύο[`Rectangle`](../) δομές.
+Μια δομή [`Rectangle`](../) που περιορίζει την ένωση των δύο δομών [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

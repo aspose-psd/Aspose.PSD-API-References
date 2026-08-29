@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο προσαρμογής έκθεσης.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει τη στρώση ρύθμισης έκθεσης"
 type: docs
-weight: 340
+weight: 350
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
 Προσθέτει το επίπεδο προσαρμογής έκθεσης.
@@ -17,19 +18,19 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| exposure | Single | Η έκθεση. |
-| offset | Single | Το offset. |
-| gammaCorrection | Single | Η διόρθωση γάμμα. |
+| έκθεση | Single | Η έκθεση. |
+| offset | Single | Η μετατόπιση. |
+| gammaCorrection | Single | Η διόρθωση gamma. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε Επίπεδο Προσαρμογής Έκθεσης
+Δημιουργήθηκε η στρώση ρύθμισης έκθεσης
 
 ### Δείτε επίσης
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

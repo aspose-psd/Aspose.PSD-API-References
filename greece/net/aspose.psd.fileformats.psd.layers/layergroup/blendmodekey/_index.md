@@ -1,28 +1,29 @@
 ---
-title: LayerGroup.BlendModeKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerGroup ιδιοκτησία. Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης.
+title: "LayerGroup.BlendModeKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerGroup ιδιότητα. Λαμβάνει ή ορίζει το κλειδί λειτουργίας ανάμειξης"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerGroup.BlendModeKey property
 
-Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης.
+Λαμβάνει ή ορίζει το κλειδί της λειτουργίας ανάμειξης.
 
 ```csharp
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλήκτρο blend mode.
+Το κλειδί λειτουργίας ανάμειξης.
 
 ### Δείτε επίσης
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerGroup](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

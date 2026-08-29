@@ -1,27 +1,28 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color μέθοδος. Λαμβάνει την τιμή κορεσμού huesaturationbrightness HSB για αυτόColorδομή.
+title: "Color.GetSaturation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Color. Λαμβάνει την τιμή κορεσμού hue-saturation-brightness (HSB) για αυτή τη δομή Color"
 type: docs
 weight: 1580
 url: /el/net/aspose.psd/color/getsaturation/
 ---
+{{< psd/tize >}}
 ## Color.GetSaturation method
 
-Λαμβάνει την τιμή κορεσμού hue-saturation-brightness (HSB) για αυτό[`Color`](../)δομή.
+Λαμβάνει την τιμή κορεσμού hue-saturation-brightness (HSB) για αυτή τη δομή [`Color`](../).
 
 ```csharp
 public float GetSaturation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο κορεσμός αυτού[`Color`](../). Ο κορεσμός κυμαίνεται από 0,0 έως 1,0, όπου το 0,0 είναι η κλίμακα του γκρι και το 1,0 είναι το πιο κορεσμένο.
+Ο κορεσμός αυτού του [`Color`](../). Ο κορεσμός κυμαίνεται από 0.0 έως 1.0, όπου το 0.0 είναι σε αποχρώσεις του γκρι και το 1.0 είναι ο μέγιστος κορεσμός.
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

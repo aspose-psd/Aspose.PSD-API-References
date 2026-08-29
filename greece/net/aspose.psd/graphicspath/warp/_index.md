@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Warp
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath μέθοδος. Εφαρμόζει έναν μετασχηματισμό στημόνι που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο σε αυτόGraphicsPath .
+title: "GraphicsPath.Warp"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος GraphicsPath. Εφαρμόζει μια παραμόρφωση που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο σε αυτό το GraphicsPath"
 type: docs
 weight: 180
 url: /el/net/aspose.psd/graphicspath/warp/
 ---
+{{< psd/tize >}}
 ## Warp(PointF[], RectangleF) {#warp}
 
-Εφαρμόζει έναν μετασχηματισμό στημόνι, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό[`GraphicsPath`](../) .
+Εφαρμόζει μια παραμόρφωση, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect)
@@ -16,22 +17,22 @@ public void Warp(PointF[] destPoints, RectangleF srcRect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| destPoints | PointF[] | Μια σειρά από[`PointF`](../../pointf/) δομές που ορίζουν ένα παραλληλόγραμμο στο οποίο το ορθογώνιο ορίζεται από*srcRect*μεταμορφώνεται. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω δεξιά γωνία του παραλληλογράμμου υπονοείται από τα τρία πρώτα σημεία. |
-| srcRect | RectangleF | ΕΝΑ[`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετατρέπεται στο παραλληλόγραμμο που ορίζεται από*destPoints*. |
+| destPoints | PointF[] | Ένας πίνακας από δομές [`PointF`](../../pointf/) που ορίζουν ένα παραλληλόγραμμο στο οποίο μετασχηματίζεται το ορθογώνιο που ορίζεται από *srcRect*. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω-δεξιά γωνία του παραλληλογράμμου υπονοείται από τα πρώτα τρία σημεία. |
+| srcRect | RectangleF | Ένα [`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετασχηματίζεται στο παραλληλόγραμμο που ορίζεται από *destPoints*. |
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix) {#warp_1}
 
-Εφαρμόζει έναν μετασχηματισμό στημόνι, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό[`GraphicsPath`](../) .
+Εφαρμόζει μια παραμόρφωση, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
@@ -39,9 +40,9 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| destPoints | PointF[] | Μια σειρά από[`PointF`](../../pointf/) δομές που ορίζουν ένα παραλληλόγραμμο στο οποίο το ορθογώνιο ορίζεται από*srcRect*μεταμορφώνεται. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω δεξιά γωνία του παραλληλογράμμου υπονοείται από τα τρία πρώτα σημεία. |
-| srcRect | RectangleF | ΕΝΑ[`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετατρέπεται στο παραλληλόγραμμο που ορίζεται από*destPoints*. |
-| matrix | Matrix | ΕΝΑ[`Matrix`](../../matrix/) που καθορίζει έναν γεωμετρικό μετασχηματισμό που θα εφαρμοστεί στη διαδρομή. |
+| destPoints | PointF[] | Ένας πίνακας από δομές [`PointF`](../../pointf/) που ορίζουν ένα παραλληλόγραμμο στο οποίο μετασχηματίζεται το ορθογώνιο που ορίζεται από *srcRect*. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω-δεξιά γωνία του παραλληλογράμμου υπονοείται από τα πρώτα τρία σημεία. |
+| srcRect | RectangleF | Ένα [`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετασχηματίζεται στο παραλληλόγραμμο που ορίζεται από *destPoints*. |
+| matrix | Matrix | Ένα [`Matrix`](../../matrix/) που καθορίζει μια γεωμετρική μεταστροφή για εφαρμογή στο μονοπάτι. |
 
 ### Δείτε επίσης
 
@@ -49,14 +50,14 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix, WarpMode) {#warp_2}
 
-Εφαρμόζει έναν μετασχηματισμό στημόνι, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό[`GraphicsPath`](../) .
+Εφαρμόζει μια παραμόρφωση, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode)
@@ -64,10 +65,10 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| destPoints | PointF[] | Μια σειρά από[`PointF`](../../pointf/) δομές που ορίζει ένα παραλληλόγραμμο στο οποίο το ορθογώνιο ορίζεται από*srcRect*μεταμορφώνεται. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω δεξιά γωνία του παραλληλογράμμου υπονοείται από τα τρία πρώτα σημεία. |
-| srcRect | RectangleF | ΕΝΑ[`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετατρέπεται στο παραλληλόγραμμο που ορίζεται από*destPoints*. |
-| matrix | Matrix | ΕΝΑ[`Matrix`](../../matrix/) που καθορίζει έναν γεωμετρικό μετασχηματισμό που θα εφαρμοστεί στη διαδρομή. |
-| warpMode | WarpMode | ΕΝΑ[`WarpMode`](../../warpmode/) απαρίθμηση που καθορίζει εάν αυτή η λειτουργία παραμόρφωσης χρησιμοποιεί προοπτική ή διγραμμική λειτουργία. |
+| destPoints | PointF[] | Ένας πίνακας από δομές [`PointF`](../../pointf/) που ορίζει ένα παραλληλόγραμμο στο οποίο μετασχηματίζεται το ορθογώνιο που ορίζεται από *srcRect*. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω-δεξιά γωνία του παραλληλογράμμου υπονοείται από τα πρώτα τρία σημεία. |
+| srcRect | RectangleF | Ένα [`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετασχηματίζεται στο παραλληλόγραμμο που ορίζεται από *destPoints*. |
+| matrix | Matrix | Ένα [`Matrix`](../../matrix/) που καθορίζει μια γεωμετρική μεταστροφή για εφαρμογή στο μονοπάτι. |
+| warpMode | WarpMode | Μια απαρίθμηση [`WarpMode`](../../warpmode/) που καθορίζει εάν αυτή η λειτουργία παραμόρφωσης χρησιμοποιεί προοπτική ή διγραμμική λειτουργία. |
 
 ### Δείτε επίσης
 
@@ -76,14 +77,14 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix, WarpMode, float) {#warp_3}
 
-Εφαρμόζει έναν μετασχηματισμό στημόνι, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό[`GraphicsPath`](../) .
+Εφαρμόζει μια παραμόρφωση, που ορίζεται από ένα ορθογώνιο και ένα παραλληλόγραμμο, σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode, 
@@ -92,11 +93,11 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| destPoints | PointF[] | Μια σειρά από[`PointF`](../../pointf/) δομές που ορίζουν ένα παραλληλόγραμμο στο οποίο το ορθογώνιο ορίζεται από*srcRect*μεταμορφώνεται. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω δεξιά γωνία του παραλληλογράμμου υπονοείται από τα τρία πρώτα σημεία. |
-| srcRect | RectangleF | ΕΝΑ[`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετατρέπεται στο παραλληλόγραμμο που ορίζεται από*destPoints*. |
-| matrix | Matrix | ΕΝΑ[`Matrix`](../../matrix/) που καθορίζει έναν γεωμετρικό μετασχηματισμό που θα εφαρμοστεί στη διαδρομή. |
-| warpMode | WarpMode | ΕΝΑ[`WarpMode`](../../warpmode/) απαρίθμηση που καθορίζει εάν αυτή η λειτουργία παραμόρφωσης χρησιμοποιεί προοπτική ή διγραμμική λειτουργία. |
-| flatness | Single | Μια τιμή από το 0 έως το 1 που καθορίζει πόσο επίπεδη είναι η διαδρομή που προκύπτει. Για περισσότερες πληροφορίες, δείτε το[`Flatten`](../flatten/) μεθόδους. |
+| destPoints | PointF[] | Ένας πίνακας από δομές [`PointF`](../../pointf/) που ορίζουν ένα παραλληλόγραμμο στο οποίο μετασχηματίζεται το ορθογώνιο που ορίζεται από *srcRect*. Ο πίνακας μπορεί να περιέχει τρία ή τέσσερα στοιχεία. Εάν ο πίνακας περιέχει τρία στοιχεία, η κάτω-δεξιά γωνία του παραλληλογράμμου υπονοείται από τα πρώτα τρία σημεία. |
+| srcRect | RectangleF | Ένα [`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που μετασχηματίζεται στο παραλληλόγραμμο που ορίζεται από *destPoints*. |
+| matrix | Matrix | Ένα [`Matrix`](../../matrix/) που καθορίζει μια γεωμετρική μεταστροφή για εφαρμογή στο μονοπάτι. |
+| warpMode | WarpMode | Μια απαρίθμηση [`WarpMode`](../../warpmode/) που καθορίζει εάν αυτή η λειτουργία παραμόρφωσης χρησιμοποιεί προοπτική ή διγραμμική λειτουργία. |
+| flatness | Single | Μια τιμή από 0 έως 1 που καθορίζει πόσο επίπεδο είναι το προκύπτον μονοπάτι. Για περισσότερες πληροφορίες, δείτε τις μεθόδους [`Flatten`](../flatten/). |
 
 ### Δείτε επίσης
 
@@ -105,7 +106,7 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

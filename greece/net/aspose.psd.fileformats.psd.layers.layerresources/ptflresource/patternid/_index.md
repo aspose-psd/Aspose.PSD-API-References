@@ -1,27 +1,28 @@
 ---
-title: PtFlResource.PatternId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PtFlResource ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό μοτίβου.
+title: "PtFlResource.PatternId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PtFlResource ιδιότητα. Λαμβάνει ή ορίζει το αναγνωριστικό του μοτίβου"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PatternId property
 
-Λαμβάνει ή ορίζει το αναγνωριστικό μοτίβου.
+Λαμβάνει ή ορίζει το αναγνωριστικό του μοτίβου.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αναγνωριστικό μοτίβου.
+Το αναγνωριστικό του μοτίβου.
 
 ### Δείτε επίσης
 
 * class [PtFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

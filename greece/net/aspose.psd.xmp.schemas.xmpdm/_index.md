@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpDm
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις που σχετίζονται με XMP σταθερές και μεθόδους που χρησιμοποιούνται από την ομάδα δυναμικών μέσων της Adobe.
+title: "Aspose.PSD.Xmp.Schemas.XmpDm"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις, σταθερές και μεθόδους σχετικές με το XMP που χρησιμοποιούνται από την ομάδα Adobe Dynamic Media"
 type: docs
-weight: 570
+weight: 610
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/
 ---
-Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις που σχετίζονται με XMP, σταθερές και μεθόδους που χρησιμοποιούνται από την ομάδα δυναμικών μέσων της Adobe.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις, σταθερές και μεθόδους σχετικές με το XMP που χρησιμοποιούνται από την ομάδα Adobe Dynamic Media.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [AudioChannelType](./audiochanneltype/) | Αντιπροσωπεύει τον τύπο καναλιού ήχου. |
-| [AudioSampleType](./audiosampletype/) | Αντιπροσωπεύει τον τύπο δείγματος ήχου[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [AudioSampleType](./audiosampletype/) | Αντιπροσωπεύει τον τύπο δείγματος ήχου στο [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
 | [ProjectLink](./projectlink/) | Αντιπροσωπεύει τη διαδρομή του έργου. |
-| [Time](./time/) | Αναπαράσταση μιας τιμής χρόνου σε δευτερόλεπτα. |
-| [Timecode](./timecode/) | Αντιπροσωπεύει την τιμή του χρονικού κωδικού στο βίντεο. |
-| [TimeFormat](./timeformat/) | Αντιπροσωπεύει τη μορφή ώρας στο[`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) . |
-| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | Το Αντιπροσωπεύει τον χώρο ονομάτων XMP Dynamic Media. |
+| [Time](./time/) | Αναπαράσταση μιας χρονικής τιμής σε δευτερόλεπτα. |
+| [Timecode](./timecode/) | Αντιπροσωπεύει την τιμή κώδικα χρόνου σε βίντεο. |
+| [TimeFormat](./timeformat/) | Αντιπροσωπεύει τη μορφή χρόνου στο [`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/). |
+| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | Αντιπροσωπεύει το χώρο ονομάτων XMP Dynamic Media. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [ProjectType](./projecttype/) | Αντιπροσωπεύει τον τύπο έργου[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [ProjectType](./projecttype/) | Αντιπροσωπεύει τον τύπο έργου στο [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
 
 

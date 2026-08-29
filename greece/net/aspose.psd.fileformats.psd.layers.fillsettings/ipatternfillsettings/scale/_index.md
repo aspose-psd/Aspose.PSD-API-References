@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Scale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPatternFillSettings ιδιοκτησία. Παίρνει ή ρυθμίζει την κλίμακα.
+title: "IPatternFillSettings.Scale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει την κλίμακα"
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Scale property
 
-Παίρνει ή ρυθμίζει την κλίμακα.
+Λαμβάνει ή ορίζει την κλίμακα.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κλίμακα.
 
 ### Δείτε επίσης
 
 * interface [IPatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

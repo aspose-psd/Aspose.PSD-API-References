@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.NoBreak
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Παίρνει ot ορίζει την τιμή χωρίς διακοπή.
+title: "ITextStyle.NoBreak"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ITextStyle property. Λαμβάνει ή ορίζει την τιμή χωρίς διακοπή"
 type: docs
 weight: 210
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/
 ---
+{{< psd/tize >}}
 ## ITextStyle.NoBreak property
 
-Παίρνει ot ορίζει την τιμή χωρίς διακοπή.
+Λαμβάνει ή ορίζει την τιμή χωρίς διάλειμμα.
 
 ```csharp
 public bool NoBreak { get; set; }
@@ -17,7 +18,7 @@ public bool NoBreak { get; set; }
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

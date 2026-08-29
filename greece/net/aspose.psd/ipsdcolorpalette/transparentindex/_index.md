@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.TransparentIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPsdColorPalette ιδιοκτησία. Παίρνει τον δείκτη του διαφανούς χρώματος.
+title: "IPsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IPsdColorPalette. Λαμβάνει τον δείκτη του διαφανούς χρώματος"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/ipsdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentIndex property
 
-Παίρνει τον δείκτη του διαφανούς χρώματος.
+Λαμβάνει τον δείκτη του διαφανούς χρώματος.
 
 ```csharp
 public short TransparentIndex { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο δείκτης του διαφανούς χρώματος.
 
 ### Δείτε επίσης
 
 * interface [IPsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD](../../ipsdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

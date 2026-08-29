@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει την αναλογία δειγματοληψίας των στοιχείων χρωματισμού σε σχέση με τη συνιστώσα φωτεινότητας.
+title: "JpegExifData.YCbCrSubSampling"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει το λόγο δειγματοληψίας των συνιστωσών χρωματικότητας σε σχέση με τη συνιστώσα φωτεινότητας"
 type: docs
 weight: 250
 url: /el/net/aspose.psd.exif/jpegexifdata/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrSubSampling property
 
-Λαμβάνει ή ορίζει την αναλογία δειγματοληψίας των στοιχείων χρωματισμού σε σχέση με τη συνιστώσα φωτεινότητας.
+Λαμβάνει ή ορίζει το λόγο δειγματοληψίας των συνιστωσών χρωματικότητας σε σχέση με τη συνιστώσα φωτεινότητας.
 
 ```csharp
 public ushort[] YCbCrSubSampling { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αναλογία δειγματοληψίας των στοιχείων χρωματισμού σε σχέση με τη συνιστώσα φωτεινότητας.
+Ο λόγος δειγματοληψίας των στοιχείων χρωματικότητας σε σχέση με το στοιχείο φωτεινότητας.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο εκπρόσωπος μακράς λειτουργίας για την ασύγχρονη εργασία με αποτέλεσμα γενικού τύπου.
+title: "Αντιπρόσωπος AsyncTaskFunc"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο αντιπρόσωπος της μακράς λειτουργίας για την ασύγχρονη εργασία με γενικό τύπο αποτελέσματος"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-Ο εκπρόσωπος μακράς λειτουργίας για την ασύγχρονη εργασία με αποτέλεσμα γενικού τύπου.
+Ο μεγάλος αντιπρόσωπος λειτουργίας για την ασύγχρονη εργασία με γενικό τύπο αποτελέσματος.
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
@@ -18,14 +19,14 @@ public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 | --- | --- | --- |
 | taskState | IAsyncTaskState | Κατάσταση της ασύγχρονης εργασίας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αποτέλεσμα της πολύωρης λειτουργίας.
+Αποτέλεσμα της μακράς λειτουργίας.
 
 ### Δείτε επίσης
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

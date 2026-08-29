@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.FontTypeData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolFontInfo ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα τύπου γραμματοσειράς.
+title: "TypeToolFontInfo.FontTypeData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolFontInfo ιδιότητα. Λαμβάνει ή ορίζει τα δεδομένα τύπου γραμματοσειράς"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontTypeData property
 
 Λαμβάνει ή ορίζει τα δεδομένα τύπου γραμματοσειράς.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/f
 public int FontTypeData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δεδομένα τύπου γραμματοσειράς.
 
 ### Δείτε επίσης
 
 * class [TypeToolFontInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

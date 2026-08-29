@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSLatitude
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το γεωγραφικό πλάτος GPS.
+title: "ExifData.GPSLatitude"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το πλάτος GPS"
 type: docs
 weight: 520
 url: /el/net/aspose.psd.exif/exifdata/gpslatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitude property
 
-Λαμβάνει ή ρυθμίζει το γεωγραφικό πλάτος GPS.
+Λαμβάνει ή ορίζει το γεωγραφικό πλάτος GPS.
 
 ```csharp
 public TiffRational[] GPSLatitude { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το γεωγραφικό πλάτος GPS.
+Το πλάτος GPS.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

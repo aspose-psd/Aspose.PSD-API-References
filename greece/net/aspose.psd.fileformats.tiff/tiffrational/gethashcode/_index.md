@@ -1,27 +1,28 @@
 ---
-title: TiffRational.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffRational μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+title: "TiffRational.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffRational. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.tiff/tiffrational/gethashcode/
 ---
+{{< psd/tize >}}
 ## TiffRational.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

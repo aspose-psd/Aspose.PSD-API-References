@@ -1,14 +1,15 @@
 ---
-title: Matrix.Matrix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης Matrix ως μήτρα ταυτότητας.
+title: "Matrix.Matrix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Matrix. Αρχικοποιεί μια νέα παρουσία της κλάσης Matrix ως πίνακα ταυτότητας."
 type: docs
 weight: 10
 url: /el/net/aspose.psd/matrix/matrix/
 ---
+{{< psd/tize >}}
 ## Matrix() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία της κλάσης Matrix ως μήτρα ταυτότητας.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης Matrix ως τη μοναδιαία μήτρα.
 
 ```csharp
 public Matrix()
@@ -17,14 +18,14 @@ public Matrix()
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-Αρχικοποιεί μια νέα παρουσία του[`Matrix`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Matrix`](../).
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
@@ -33,23 +34,23 @@ public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | m11 | Single | m00 M11 Κλίμακα X |
-| m12 | Single | m10 M12 Διάτμηση Υ |
+| m12 | Single | m10 M12 Διάτμηση Y |
 | m21 | Single | m01 M21 Διάτμηση X |
-| m22 | Single | m11 M22 Κλίμακα Υ |
+| m22 | Single | m11 M22 Κλίμακα Y |
 | m31 | Single | m02 M31 Μετάφραση X |
-| m32 | Single | m12 M32 Μετάφραση Υ |
+| m32 | Single | m12 M32 Μετακίνηση Y |
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`Matrix`](../) κλάση στον γεωμετρικό μετασχηματισμό που ορίζεται από το καθορισμένο ορθογώνιο και τον πίνακα σημείων.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Matrix`](../) για τον γεωμετρικό μετασχηματισμό που ορίζεται από το συγκεκριμένο ορθογώνιο και τον πίνακα σημείων.
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
@@ -57,22 +58,22 @@ public Matrix(RectangleF rect, PointF[] plgpts)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ΕΝΑ[`RectangleF`](../../rectanglef/) δομή που αντιπροσωπεύει το ορθογώνιο που πρόκειται να μετασχηματιστεί. |
-| plgpts | PointF[] | Μια συστοιχία τριών[`PointF`](../../pointf/)δομές που αντιπροσωπεύουν τα σημεία ενός παραλληλογράμμου στα οποία πρόκειται να μετατραπούν οι άνω-αριστερές, πάνω-δεξιά και κάτω-αριστερές γωνίες του ορθογωνίου. Η κάτω δεξιά γωνία του παραλληλογράμμου υπονοείται από τις τρεις πρώτες γωνίες. |
+| rect | RectangleF | Μία δομή [`RectangleF`](../../rectanglef/) που αντιπροσωπεύει το ορθογώνιο που θα μετασχηματιστεί. |
+| plgpts | PointF[] | Ένας πίνακας τριών δομών [`PointF`](../../pointf/) που αντιπροσωπεύει τα σημεία ενός παραλληλογράμμου στο οποίο θα μετασχηματιστούν οι άνω αριστερές, άνω δεξιές και κάτω αριστερές γωνίες του ορθογωνίου. Η κάτω δεξιά γωνία του παραλληλογράμμου υπολογίζεται από τις πρώτες τρεις γωνίες. |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Rectangle, Point[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`Matrix`](../) κλάση στον γεωμετρικό μετασχηματισμό που ορίζεται από το καθορισμένο ορθογώνιο και τον πίνακα σημείων.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Matrix`](../) για τον γεωμετρικό μετασχηματισμό που ορίζεται από το συγκεκριμένο ορθογώνιο και τον πίνακα σημείων.
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
@@ -80,22 +81,22 @@ public Matrix(Rectangle rect, Point[] plgpts)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ΕΝΑ[`Rectangle`](../../rectangle/) δομή που αντιπροσωπεύει το ορθογώνιο που πρόκειται να μετασχηματιστεί. |
-| plgpts | Point[] | Μια συστοιχία τριών[`Point`](../../point/)δομές που αντιπροσωπεύουν τα σημεία ενός παραλληλογράμμου στα οποία πρόκειται να μετατραπούν οι άνω-αριστερές, πάνω-δεξιά και κάτω-αριστερές γωνίες του ορθογωνίου. Η κάτω δεξιά γωνία του παραλληλογράμμου υπονοείται από τις τρεις πρώτες γωνίες. |
+| rect | Rectangle | Μία δομή [`Rectangle`](../../rectangle/) που αντιπροσωπεύει το ορθογώνιο που θα μετασχηματιστεί. |
+| plgpts | Point[] | Ένας πίνακας τριών δομών [`Point`](../../point/) που αντιπροσωπεύει τα σημεία ενός παραλληλογράμμου στο οποίο θα μετασχηματιστούν οι άνω αριστερές, άνω δεξιές και κάτω αριστερές γωνίες του ορθογωνίου. Η κάτω δεξιά γωνία του παραλληλογράμμου υπολογίζεται από τις πρώτες τρεις γωνίες. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-Δημιουργεί ένα αντίγραφο του[`Matrix`](../) τάξη.
+Δημιουργεί ένα αντίγραφο της κλάσης [`Matrix`](../).
 
 ```csharp
 public Matrix(Matrix origin)
@@ -103,12 +104,12 @@ public Matrix(Matrix origin)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| origin | Matrix | Μια βασική μήτρα για την αντιμετώπιση |
+| origin | Matrix | Μια βασική μήτρα για αντιγραφή |
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

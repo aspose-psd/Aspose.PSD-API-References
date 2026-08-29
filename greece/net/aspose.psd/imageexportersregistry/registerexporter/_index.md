@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisterExporter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageExportersRegistry μέθοδος. Καταχωρεί τον εξαγωγέα.
+title: "ImageExportersRegistry.RegisterExporter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageExportersRegistry μέθοδος. Καταχωρεί τον εξαγωγέα"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/imageexportersregistry/registerexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisterExporter method
 
 Καταχωρεί τον εξαγωγέα.
@@ -16,13 +17,13 @@ public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Ο περιγραφέας εξαγωγέα προς εγγραφή. |
+| exporterDescriptor | IImageExporterDescriptor | Ο περιγραφέας εξαγωγέα για καταχώρηση. |
 
 ### Δείτε επίσης
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageexportersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AiImage.AddLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage μέθοδος. Προσθέτει την ενότητα επιπέδου AI.
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiImage μέθοδος. Προσθέτει την ενότητα στρώσης AI"
 type: docs
-weight: 130
+weight: 160
 url: /el/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
-Προσθέτει την ενότητα επιπέδου AI.
+Προσθέτει την ενότητα στρώματος AI.
 
 ```csharp
 public void AddLayer(AiLayerSection layer)
@@ -16,13 +17,13 @@ public void AddLayer(AiLayerSection layer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| layer | AiLayerSection | Το τμήμα του επιπέδου AI. |
+| στρώση | AiLayerSection | Η ενότητα στρώσης AI. |
 
 ### Δείτε επίσης
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

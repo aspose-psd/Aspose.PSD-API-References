@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginShapeBBoxPresent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeOriginSettings ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα ορθογώνιο.
+title: "VectorShapeOriginSettings.IsOriginShapeBBoxPresent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorShapeOriginSettings property. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα ορθογωνίου"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginShapeBBoxPresent property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα ορθογώνιο.
+Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα ορθογωνίου.
 
 ```csharp
 public bool IsOriginShapeBBoxPresent { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το στιγμιότυπο έχει την ιδιότητα ορθογώνιου σχήματος προέλευσης. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία έχει την ιδιότητα ορθογωνίου σχήματος προέλευσης· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [VectorShapeOriginSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

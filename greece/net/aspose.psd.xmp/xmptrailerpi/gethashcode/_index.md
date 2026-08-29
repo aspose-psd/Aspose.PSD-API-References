@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpTrailerPi μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+title: "XmpTrailerPi.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpTrailerPi method. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp/xmptrailerpi/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [XmpTrailerPi](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

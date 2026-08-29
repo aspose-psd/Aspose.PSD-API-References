@@ -1,11 +1,12 @@
 ---
-title: PointF.op_Inequality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointF μέθοδος. Καθορίζει εάν οι συντεταγμένες των καθορισμένων σημείων δεν είναι ίσες.
+title: "PointF.op_Inequality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PointF. Καθορίζει αν οι συντεταγμένες των καθορισμένων σημείων δεν είναι ίσες"
 type: docs
 weight: 130
 url: /el/net/aspose.psd/pointf/op_inequality/
 ---
+{{< psd/tize >}}
 ## PointF Inequality operator
 
 Καθορίζει εάν οι συντεταγμένες των καθορισμένων σημείων δεν είναι ίσες.
@@ -16,17 +17,17 @@ public static bool operator !=(PointF point1, PointF point2)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point1 | PointF | Μια πρωτιά[`PointF`](../) να συγκρίνω. |
-| point2 | PointF | Ενα δεύτερο[`PointF`](../) να συγκρίνω. |
+| point1 | PointF | Ένα πρώτο [`PointF`](../) για σύγκριση. |
+| point2 | PointF | Ένα δεύτερο [`PointF`](../) για σύγκριση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Σωστό για να υποδείξει το[`X`](../x/) και[`Y`](../y/) αξίες του*point1* και*point2* δεν είναι ίσοι. αλλιώς, ψευδής.
+Αληθές για να υποδείξει ότι οι τιμές [`X`](../x/) και [`Y`](../y/) του *point1* και *point2* δεν είναι ίσες· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

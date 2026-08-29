@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.DataSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VersionInfoResource ιδιοκτησία. Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+title: "VersionInfoResource.DataSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VersionInfoResource ιδιότητα. Λαμβάνει το μέγεθος δεδομένων του πόρου σε byte"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/versioninforesource/datasize/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.DataSize property
 
-Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+Λαμβάνει το μέγεθος δεδομένων του πόρου σε byte.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μέγεθος δεδομένων πόρων.
+Το μέγεθος δεδομένων του πόρου.
 
 ### Δείτε επίσης
 
 * class [VersionInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

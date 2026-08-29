@@ -1,29 +1,30 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef αρίθμηση. exif gps altitude ref enum.
+title: "Απαρίθμηση ExifGPSAltitudeRef"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef enum. αναφορά υψομέτρου exif enum"
 type: docs
-weight: 870
+weight: 880
 url: /el/net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifGPSAltitudeRef enumeration
 
-exif gps altitude ref enum.
+exif GPS αναφορά υψομέτρου enum.
 
 ```csharp
 public enum ExifGPSAltitudeRef : byte
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | AboveSeaLevel | `0` | Πάνω από την επιφάνεια της θάλασσας. |
 | BelowSeaLevel | `1` | Κάτω από την επιφάνεια της θάλασσας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

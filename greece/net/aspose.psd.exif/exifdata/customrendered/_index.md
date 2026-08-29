@@ -1,11 +1,12 @@
 ---
-title: ExifData.CustomRendered
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την προσαρμοσμένη απόδοση.
+title: "ExifData.CustomRendered"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την προσαρμοσμένη απόδοση"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
 Λαμβάνει ή ορίζει την προσαρμοσμένη απόδοση.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.exif/exifdata/customrendered/
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η προσαρμοσμένη απόδοση.
 
@@ -22,7 +23,7 @@ public ExifCustomRendered CustomRendered { get; set; }
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

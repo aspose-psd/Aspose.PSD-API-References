@@ -1,14 +1,15 @@
 ---
-title: RenderResult.RenderCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RenderResult ιδιοκτησία. Λαμβάνει ή ορίζει τον κωδικό σφάλματος
+title: "RenderResult.RenderCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RenderResult ιδιότητα. Λαμβάνει ή ορίζει τον κωδικό σφάλματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/renderresult/rendercode/
 ---
+{{< psd/tize >}}
 ## RenderResult.RenderCode property
 
-Λαμβάνει ή ορίζει τον κωδικό σφάλματος
+Λαμβάνει ή ορίζει τον κωδικό του σφάλματος
 
 ```csharp
 public RenderErrorCode RenderCode { get; set; }
@@ -18,7 +19,7 @@ public RenderErrorCode RenderCode { get; set; }
 
 * enum [RenderErrorCode](../../rendererrorcode/)
 * class [RenderResult](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../renderresult/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.RemoveFigure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath μέθοδος. Αφαιρεί μια φιγούρα.
+title: "GraphicsPath.RemoveFigure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος GraphicsPath. Αφαιρεί ένα σχήμα."
 type: docs
 weight: 130
 url: /el/net/aspose.psd/graphicspath/removefigure/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigure method
 
-Αφαιρεί μια φιγούρα.
+Αφαιρεί ένα σχήμα.
 
 ```csharp
 public void RemoveFigure(Figure figure)
@@ -16,13 +17,13 @@ public void RemoveFigure(Figure figure)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| figure | Figure | Το σχήμα που πρέπει να αφαιρεθεί. |
+| σχήμα | Σχήμα | Το σχήμα προς αφαίρεση. |
 
 ### Δείτε επίσης
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

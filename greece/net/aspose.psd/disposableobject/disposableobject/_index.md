@@ -1,11 +1,12 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DisposableObject κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DisposableObject.DisposableObject"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής DisposableObject. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/disposableobject/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public DisposableObject()
 ### Δείτε επίσης
 
 * class [DisposableObject](../)
-* χώρος ονομάτων [Aspose.PSD](../../disposableobject/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

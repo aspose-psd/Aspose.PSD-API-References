@@ -1,20 +1,21 @@
 ---
-title: AiImage.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Αποκτά την έκδοση του Adobe Illustrator format
+title: "AiImage.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiImage property. Λαμβάνει την έκδοση της μορφής Adobe Illustrator"
 type: docs
-weight: 110
+weight: 130
 url: /el/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-Αποκτά την έκδοση του Adobe Illustrator format
+Λαμβάνει την έκδοση της μορφής Adobe Illustrator.
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση.
 
@@ -22,7 +23,7 @@ public AiFormatVersion Version { get; }
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

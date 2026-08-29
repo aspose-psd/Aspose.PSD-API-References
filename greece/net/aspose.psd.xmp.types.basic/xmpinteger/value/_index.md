@@ -1,11 +1,12 @@
 ---
-title: XmpInteger.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpInteger ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή.
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpInteger. Λαμβάνει ή ορίζει την τιμή"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
 Λαμβάνει ή ορίζει την τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 public long Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [XmpInteger](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

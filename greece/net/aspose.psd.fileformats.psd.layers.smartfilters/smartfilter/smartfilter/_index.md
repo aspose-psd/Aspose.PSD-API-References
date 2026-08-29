@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.SmartFilter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartFilter κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSmartFilter τάξη.
+title: "SmartFilter.SmartFilter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής SmartFilter. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης SmartFilter"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`SmartFilter`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`SmartFilter`](../).
 
 ```csharp
 public SmartFilter()
@@ -17,7 +18,7 @@ public SmartFilter()
 ### Δείτε επίσης
 
 * class [SmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

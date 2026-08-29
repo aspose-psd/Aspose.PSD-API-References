@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Density
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResource ιδιοκτησία. Λαμβάνει ή ορίζει την πυκνότητα.
+title: "PhflResource.Density"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PhflResource. Λαμβάνει ή ορίζει την πυκνότητα"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
 Λαμβάνει ή ορίζει την πυκνότητα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/densi
 public int Density { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η πυκνότητα.
 
 ### Δείτε επίσης
 
 * class [PhflResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

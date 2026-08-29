@@ -1,14 +1,15 @@
 ---
-title: CurvesManager.CurvesManager
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CurvesManager κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουCurvesManager τάξη.
+title: "CurvesManager.CurvesManager"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής CurvesManager. Αρχικοποιεί μια νέα παρουσία της κλάσης CurvesManager"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`CurvesManager`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`CurvesManager`](../).
 
 ```csharp
 public CurvesManager(int maxChannelCount)
@@ -21,7 +22,7 @@ public CurvesManager(int maxChannelCount)
 ### Δείτε επίσης
 
 * class [CurvesManager](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

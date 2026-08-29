@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.VOrder
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPlacedLayerResource ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή τάξης V του τοποθετημένου επιπέδου στο αρχείο PSD.
+title: "IPlacedLayerResource.VOrder"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPlacedLayerResource ιδιότητα. Λαμβάνει ή ορίζει την τιμή V order της τοποθετημένης στρώσης στο αρχείο PSD"
 type: docs
 weight: 230
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VOrder property
 
-Λαμβάνει ή ορίζει την τιμή τάξης V του τοποθετημένου επιπέδου στο αρχείο PSD.
+Ανακτά ή ορίζει την τιμή σειράς V του τοποθετημένου στρώματος στο αρχείο PSD.
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή τάξης V του τοποθετημένου στρώματος.
+Η τιμή V order του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * interface [IPlacedLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

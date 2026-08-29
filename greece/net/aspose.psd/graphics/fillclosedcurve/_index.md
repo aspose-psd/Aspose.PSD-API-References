@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillClosedCurve
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Γεμίζει το εσωτερικό μιας κλειστής καμπύλης βασικού spline που ορίζεται από έναν πίνακαPointF δομές. Αυτή η μέθοδος χρησιμοποιεί μια προεπιλεγμένη τάση 05 καιAlternate λειτουργία πλήρωσης.
+title: "Graphics.FillClosedCurve"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Graphics. Γεμίζει το εσωτερικό μιας κλειστής καρδινάλιας καμπύλης spline που ορίζεται από έναν πίνακα δομών PointF. Αυτή η μέθοδος χρησιμοποιεί προεπιλεγμένη τάση 0,5 και εναλλακτικό τρόπο γεμίσματος."
 type: docs
-weight: 340
+weight: 350
 url: /el/net/aspose.psd/graphics/fillclosedcurve/
 ---
+{{< psd/tize >}}
 ## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
 
-Γεμίζει το εσωτερικό μιας κλειστής καμπύλης βασικού spline που ορίζεται από έναν πίνακα[`PointF`](../../pointf/) δομές. Αυτή η μέθοδος χρησιμοποιεί μια προεπιλεγμένη τάση 0,5 καιAlternate λειτουργία πλήρωσης.
+Γεμίζει το εσωτερικό μιας κλειστής καρδινάλιας καμπύλης spline που ορίζεται από έναν πίνακα δομών [`PointF`](../../pointf/). Αυτή η μέθοδος χρησιμοποιεί προεπιλεγμένη τάση 0,5 και εναλλακτικό τρόπο γεμίσματος.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points)
@@ -16,28 +17,28 @@ public void FillClosedCurve(Brush brush, PointF[] points)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | PointF[] | Συστοιχία από[`PointF`](../../pointf/) δομές που ορίζουν το spline. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | PointF[] | Πίνακας δομών [`PointF`](../../pointf/) που ορίζουν την καμπύλη. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode) {#fillclosedcurve_1}
 
-Γεμίζει το εσωτερικό μιας κλειστής καμπύλης βασικού spline που ορίζεται από έναν πίνακα[`PointF`](../../pointf/) δομές που χρησιμοποιούν την καθορισμένη λειτουργία πλήρωσης. Αυτή η μέθοδος χρησιμοποιεί μια προεπιλεγμένη τάση 0,5.
+Γεμίζει το εσωτερικό μιας κλειστής καρδινάλιας καμπύλης spline που ορίζεται από έναν πίνακα δομών [`PointF`](../../pointf/) χρησιμοποιώντας τον καθορισμένο τρόπο γεμίσματος. Αυτή η μέθοδος χρησιμοποιεί προεπιλεγμένη τάση 0,5.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
@@ -45,15 +46,15 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | PointF[] | Συστοιχία από[`PointF`](../../pointf/) δομές που ορίζουν το spline. |
-| fillmode | FillMode | Μέλος του[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει τον τρόπο πλήρωσης της καμπύλης. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | PointF[] | Πίνακας δομών [`PointF`](../../pointf/) που ορίζουν την καμπύλη. |
+| fillmode | FillMode | Μέλος της απαρίθμησης [`FillMode`](../../fillmode/) που καθορίζει πώς γεμίζεται η καμπύλη. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
@@ -61,14 +62,14 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode, float) {#fillclosedcurve_2}
 
-Γεμίζει το εσωτερικό μιας κλειστής καμπύλης βασικού spline που ορίζεται από έναν πίνακα[`PointF`](../../pointf/) δομές που χρησιμοποιούν τον καθορισμένο τρόπο πλήρωσης και τάση.
+Γεμίζει το εσωτερικό μιας κλειστής καρδινάλιας καμπύλης spline που ορίζεται από έναν πίνακα δομών [`PointF`](../../pointf/) χρησιμοποιώντας τον καθορισμένο τρόπο γεμίσματος και τάση.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, float tension)
@@ -76,16 +77,16 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, flo
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | ΕΝΑ[`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | PointF[] | Συστοιχία από[`PointF`](../../pointf/) δομές που ορίζουν το spline. |
-| fillmode | FillMode | Μέλος του[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει τον τρόπο πλήρωσης της καμπύλης. |
-| tension | Single | Τιμή μεγαλύτερη ή ίση με 0,0F που καθορίζει την τάση της καμπύλης. |
+| brush | Brush | Ένα [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
+| points | PointF[] | Πίνακας δομών [`PointF`](../../pointf/) που ορίζουν την καμπύλη. |
+| fillmode | FillMode | Μέλος της απαρίθμησης [`FillMode`](../../fillmode/) που καθορίζει πώς γεμίζεται η καμπύλη. |
+| ένταση | Single | Τιμή μεγαλύτερη ή ίση με 0.0F που καθορίζει την τάση της καμπύλης. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
@@ -93,14 +94,14 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, flo
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[]) {#fillclosedcurve_3}
 
-Γεμίζει το εσωτερικό μιας κλειστής καμπύλης βασικού spline που ορίζεται από έναν πίνακα[`Point`](../../point/) δομές. Αυτή η μέθοδος χρησιμοποιεί μια προεπιλεγμένη τάση 0,5 καιAlternate λειτουργία πλήρωσης.
+Γεμίζει το εσωτερικό μιας κλειστής καρδινάλιας καμπύλης spline που ορίζεται από έναν πίνακα δομών [`Point`](../../point/). Αυτή η μέθοδος χρησιμοποιεί προεπιλεγμένη τάση 0,5 και εναλλακτικό τρόπο γεμίσματος.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points)
@@ -108,28 +109,28 @@ public void FillClosedCurve(Brush brush, Point[] points)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | Point[] | Συστοιχία από[`Point`](../../point/) δομές που ορίζουν το spline. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | Point[] | Πίνακας δομών [`Point`](../../point/) που ορίζουν την καμπύλη. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode) {#fillclosedcurve_4}
 
-Γεμίζει το εσωτερικό μιας κλειστής καμπύλης βασικού spline που ορίζεται από έναν πίνακα[`Point`](../../point/) δομές που χρησιμοποιούν την καθορισμένη λειτουργία πλήρωσης. Αυτή η μέθοδος χρησιμοποιεί μια προεπιλεγμένη τάση 0,5.
+Γεμίζει το εσωτερικό μιας κλειστής καρδινάλιας καμπύλης spline που ορίζεται από έναν πίνακα δομών [`Point`](../../point/) χρησιμοποιώντας τον καθορισμένο τρόπο γεμίσματος. Αυτή η μέθοδος χρησιμοποιεί προεπιλεγμένη τάση 0,5.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
@@ -137,15 +138,15 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | Point[] | Συστοιχία από[`Point`](../../point/) δομές που ορίζουν το spline. |
-| fillmode | FillMode | Μέλος του[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει τον τρόπο πλήρωσης της καμπύλης. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | Point[] | Πίνακας δομών [`Point`](../../point/) που ορίζουν την καμπύλη. |
+| fillmode | FillMode | Μέλος της απαρίθμησης [`FillMode`](../../fillmode/) που καθορίζει πώς γεμίζεται η καμπύλη. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
@@ -153,14 +154,14 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode, float) {#fillclosedcurve_5}
 
-Γεμίζει το εσωτερικό μιας κλειστής καμπύλης βασικού spline που ορίζεται από έναν πίνακα[`Point`](../../point/) δομές που χρησιμοποιούν τον καθορισμένο τρόπο πλήρωσης και τάση.
+Γεμίζει το εσωτερικό μιας κλειστής καρδινάλιας καμπύλης spline που ορίζεται από έναν πίνακα δομών [`Point`](../../point/) χρησιμοποιώντας τον καθορισμένο τρόπο γεμίσματος και τάση.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, float tension)
@@ -168,16 +169,16 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, floa
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | Point[] | Συστοιχία από[`Point`](../../point/) δομές που ορίζουν το spline. |
-| fillmode | FillMode | Μέλος του[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει τον τρόπο πλήρωσης της καμπύλης. |
-| tension | Single | Τιμή μεγαλύτερη ή ίση με 0,0F που καθορίζει την τάση της καμπύλης. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | Point[] | Πίνακας δομών [`Point`](../../point/) που ορίζουν την καμπύλη. |
+| fillmode | FillMode | Μέλος της απαρίθμησης [`FillMode`](../../fillmode/) που καθορίζει πώς γεμίζεται η καμπύλη. |
+| ένταση | Single | Τιμή μεγαλύτερη ή ίση με 0.0F που καθορίζει την τάση της καμπύλης. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
@@ -185,7 +186,7 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, floa
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

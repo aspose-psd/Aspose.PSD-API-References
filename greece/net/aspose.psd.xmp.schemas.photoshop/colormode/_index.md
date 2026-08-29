@@ -1,35 +1,36 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode αρίθμηση. Αντιπροσωπεύει τη λειτουργία χρώματος στοPhotoshopPackage .
+title: "Απαρίθμηση ColorMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode enum. Αναπαριστά τη λειτουργία χρώματος στο PhotoshopPackage"
 type: docs
-weight: 5800
+weight: 6300
 url: /el/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-Αντιπροσωπεύει τη λειτουργία χρώματος στο[`PhotoshopPackage`](../photoshoppackage/) .
+Αναπαριστά τη λειτουργία χρώματος στο [`PhotoshopPackage`](../photoshoppackage/).
 
 ```csharp
 public enum ColorMode : byte
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Bitmap | `0` | λειτουργία χρώματος bitmap. |
-| GrayScale | `1` | Λειτουργία χρώματος κλίμακας του γκρι. |
-| IndexedColor | `2` | Το χρώμα του ευρετηρίου. |
+| Bitmap | `0` | Λειτουργία χρώματος Bitmap. |
+| GrayScale | `1` | Λειτουργία χρώματος σε κλίμακα του γκρι. |
+| IndexedColor | `2` | Το ευρετηριασμένο χρώμα. |
 | Rgb | `3` | Χρώμα RGB. |
-| Cmyk | `4` | λειτουργία χρώματος CMYK. |
-| MultiChannel | `7` | Χρώμα πολλαπλών καναλιών. |
-| Duotone | `8` | Χρώμα διπλού τόνου. |
-| LabColor | `9` | χρώμα LAB. |
+| Cmyk | `4` | Λειτουργία χρώματος CMYK. |
+| MultiChannel | `7` | Πολυκαναλικό χρώμα. |
+| Duotone | `8` | Διτονικό χρώμα. |
+| LabColor | `9` | Χρώμα LAB. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

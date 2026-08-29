@@ -1,11 +1,12 @@
 ---
-title: Version.Modifier
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Version ιδιοκτησία. Λαμβάνει ή ορίζει τον τροποποιητή.
+title: "Version.Modifier"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Version. Λαμβάνει ή ορίζει τον τροποποιητή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
 Λαμβάνει ή ορίζει τον τροποποιητή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.version/version/modifier/
 public string Modifier { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τροποποιητής.
 
 ### Δείτε επίσης
 
 * class [Version](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorMatrix.MatrixTotalElementsCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorMatrix πεδίο. Ο συνολικός αριθμός στοιχείων στον πίνακα.
+title: "ColorMatrix.MatrixTotalElementsCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο ColorMatrix. Ο συνολικός αριθμός των στοιχείων στον πίνακα"
 type: docs
 weight: 310
 url: /el/net/aspose.psd/colormatrix/matrixtotalelementscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixTotalElementsCount field
 
-Ο συνολικός αριθμός στοιχείων στον πίνακα.
+Ο συνολικός αριθμός των στοιχείων στον πίνακα.
 
 ```csharp
 public const int MatrixTotalElementsCount;
@@ -17,7 +18,7 @@ public const int MatrixTotalElementsCount;
 ### Δείτε επίσης
 
 * class [ColorMatrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../colormatrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

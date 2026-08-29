@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση.
+title: "CgEdResource.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource property. Λαμβάνει ή ορίζει την έκδοση"
 type: docs
-weight: 110
+weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Version property
 
 Λαμβάνει ή ορίζει την έκδοση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/versi
 public int Version { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση.
 
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

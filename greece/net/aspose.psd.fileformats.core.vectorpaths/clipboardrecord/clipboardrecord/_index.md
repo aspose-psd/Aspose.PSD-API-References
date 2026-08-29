@@ -1,14 +1,15 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ClipboardRecord κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουClipboardRecord τάξη.
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ClipboardRecord. Δημιουργεί ένα νέο αντικείμενο της κλάσης ClipboardRecord"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClipboardRecord`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord()
@@ -17,14 +18,14 @@ public ClipboardRecord()
 ### Δείτε επίσης
 
 * class [ClipboardRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClipboardRecord`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord(byte[] data)
@@ -32,12 +33,12 @@ public ClipboardRecord(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα εγγραφής. |
+| δεδομένα | Byte[] | Τα δεδομένα της εγγραφής. |
 
 ### Δείτε επίσης
 
 * class [ClipboardRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

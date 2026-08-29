@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.IsOutlineVisible
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath μέθοδος. Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται κάτω από το περίγραμμα αυτούGraphicsPath όταν τραβηχτεί με το καθορισμένοPen .
+title: "GraphicsPath.IsOutlineVisible"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος GraphicsPath. Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του GraphicsPath όταν σχεδιάζεται με το καθορισμένο Pen."
 type: docs
 weight: 110
 url: /el/net/aspose.psd/graphicspath/isoutlinevisible/
 ---
+{{< psd/tize >}}
 ## IsOutlineVisible(float, float, Pen) {#isoutlinevisible_6}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen)
@@ -18,24 +19,24 @@ public bool IsOutlineVisible(float x, float y, Pen pen)
 | --- | --- | --- |
 | x | Single | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Single | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται στο περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen) {#isoutlinevisible_2}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(PointF point, Pen pen)
@@ -43,26 +44,26 @@ public bool IsOutlineVisible(PointF point, Pen pen)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ΕΝΑ[`PointF`](../../pointf/) που καθορίζει την τοποθεσία προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
+| point | PointF | Ένα [`PointF`](../../pointf/) που καθορίζει τη θέση για δοκιμή. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται στο περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(float, float, Pen, Graphics) {#isoutlinevisible_7}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
@@ -72,26 +73,26 @@ public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
 | --- | --- | --- |
 | x | Single | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Single | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται εντός (κάτω από) το περίγραμμα αυτής[`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen, Graphics) {#isoutlinevisible_3}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
@@ -99,13 +100,13 @@ public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pt | PointF | ΕΝΑ[`PointF`](../../pointf/) που καθορίζει την τοποθεσία προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| pt | PointF | Ένα [`PointF`](../../pointf/) που καθορίζει τη θέση για δοκιμή. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται εντός (κάτω από) το περίγραμμα αυτής[`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
@@ -113,14 +114,14 @@ public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen) {#isoutlinevisible_4}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen)
@@ -130,24 +131,24 @@ public bool IsOutlineVisible(int x, int y, Pen pen)
 | --- | --- | --- |
 | x | Int32 | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Int32 | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται στο περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen) {#isoutlinevisible}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(Point point, Pen pen)
@@ -155,26 +156,26 @@ public bool IsOutlineVisible(Point point, Pen pen)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ΕΝΑ[`Point`](../../point/) που καθορίζει την τοποθεσία προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
+| point | Point | Ένα [`Point`](../../point/) που καθορίζει τη θέση για δοκιμή. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται στο περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen, Graphics) {#isoutlinevisible_5}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
@@ -184,26 +185,26 @@ public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
 | --- | --- | --- |
 | x | Int32 | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Int32 | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται στο περίγραμμα αυτού[`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός του περιγράμματος αυτού του [`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen, Graphics) {#isoutlinevisible_1}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται (κάτω από) το περίγραμμα αυτού[`GraphicsPath`](../) όταν τραβηχτεί με το καθορισμένο[`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Υποδεικνύει εάν το καθορισμένο σημείο βρίσκεται εντός (κάτω) του περιγράμματος αυτού του [`GraphicsPath`](../) όταν σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/) και χρησιμοποιώντας το καθορισμένο [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
@@ -211,13 +212,13 @@ public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pt | Point | ΕΝΑ[`Point`](../../point/) που καθορίζει την τοποθεσία προς δοκιμή. |
-| pen | Pen | ο[`Pen`](../../pen/) να δοκιμάσω. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| pt | Point | Ένα [`Point`](../../point/) που καθορίζει τη θέση για δοκιμή. |
+| pen | Pen | Το [`Pen`](../../pen/) για δοκιμή. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται στο περίγραμμα αυτού[`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο[`Pen`](../../pen/) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο βρίσκεται εντός του περιγράμματος αυτού του [`GraphicsPath`](../) όπως σχεδιάζεται με το καθορισμένο [`Pen`](../../pen/); διαφορετικά, false.
 
 ### Δείτε επίσης
 
@@ -225,7 +226,7 @@ public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSAltitude
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το υψόμετρο GPS.
+title: "ExifData.GPSAltitude"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το υψόμετρο GPS"
 type: docs
 weight: 360
 url: /el/net/aspose.psd.exif/exifdata/gpsaltitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitude property
 
-Λαμβάνει ή ρυθμίζει το υψόμετρο GPS.
+Λαμβάνει ή ορίζει το υψόμετρο GPS.
 
 ```csharp
 public TiffRational GPSAltitude { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το υψόμετρο GPS.
 
@@ -22,7 +23,7 @@ public TiffRational GPSAltitude { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

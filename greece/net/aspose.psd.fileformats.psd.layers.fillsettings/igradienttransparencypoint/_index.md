@@ -1,14 +1,15 @@
 ---
-title: Interface IGradientTransparencyPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint διεπαφή. Βασική διεπαφή για ρυθμίσεις πλήρωσης
+title: "Διεπαφή IGradientTransparencyPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint διεπαφή. Βασική διεπαφή για ρυθμίσεις γεμίσματος"
 type: docs
-weight: 2020
+weight: 2140
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint interface
 
-Βασική διεπαφή για ρυθμίσεις πλήρωσης
+Βασική διεπαφή για ρυθμίσεις γεμίσματος
 
 ```csharp
 public interface IGradientTransparencyPoint
@@ -16,15 +17,15 @@ public interface IGradientTransparencyPoint
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Λαμβάνει ή ορίζει την τοποθεσία. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του μέσου σημείου. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια. |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Λαμβάνει ή ορίζει τη θέση. Περιοχή τιμών 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του ενδιάμεσου σημείου. Περιοχή τιμών 0-4096. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

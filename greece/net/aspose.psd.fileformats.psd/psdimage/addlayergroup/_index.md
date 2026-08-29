@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει την ομάδα επιπέδων.
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει την ομάδα στρώσεων"
 type: docs
-weight: 380
+weight: 400
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
 Προσθέτει την ομάδα επιπέδων.
@@ -17,24 +18,24 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | groupName | String | Όνομα της ομάδας. |
-| index | Int32 | Ο δείκτης του στρώματος που θα εισαγάγετε μετά. |
-| startBehaviour | Boolean | εάν έχει οριστεί σε`αληθής` [συμπεριφορά έναρξης] από την ομάδα θα είναι σε ανοιχτή κατάσταση κατά την εκκίνηση, διαφορετικά σε ελαχιστοποιημένη κατάσταση. |
+| δείκτης | Int32 | Ο δείκτης της στρώσης μετά την οποία θα γίνει η εισαγωγή. |
+| startBehaviour | Boolean | εάν οριστεί σε `true` [start behaviour] τότε η ομάδα θα είναι σε ανοιχτή κατάσταση κατά την εκκίνηση, διαφορετικά σε ελαχιστοποιημένη κατάσταση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Άνοιγμα επιπέδου ομάδας
+Άνοιγμα ομάδας στρώσεων
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Ο δείκτης πρέπει να βρίσκεται στα όρια του πλήθους επιπέδων |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Το ευρετήριο πρέπει να είναι εντός των ορίων του αριθμού των στρώσεων |
 
 ### Δείτε επίσης
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

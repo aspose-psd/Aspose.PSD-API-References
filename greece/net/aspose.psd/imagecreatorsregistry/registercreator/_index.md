@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.RegisterCreator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageCreatorsRegistry μέθοδος. Καταχωρεί τον δημιουργό.
+title: "ImageCreatorsRegistry.RegisterCreator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageCreatorsRegistry μέθοδος. Καταχωρεί τον δημιουργό"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/imagecreatorsregistry/registercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisterCreator method
 
 Καταχωρεί τον δημιουργό.
@@ -16,13 +17,13 @@ public static void RegisterCreator(IImageCreatorDescriptor creatorDescriptor)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | Ο περιγραφέας δημιουργού για εγγραφή. |
+| creatorDescriptor | IImageCreatorDescriptor | Ο περιγραφέας δημιουργού για καταχώρηση. |
 
 ### Δείτε επίσης
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imagecreatorsregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

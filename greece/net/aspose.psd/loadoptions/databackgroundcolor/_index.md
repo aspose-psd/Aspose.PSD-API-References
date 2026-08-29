@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LoadOptions ιδιοκτησία. Λαμβάνει ή ορίζει τοImage ΙστορικόColor .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LoadOptions ιδιότητα. Λαμβάνει ή ορίζει το χρώμα φόντου της Image"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-Λαμβάνει ή ορίζει το[`Image`](../../image/) Ιστορικό[`Color`](../../color/) .
+Λαμβάνει ή ορίζει το φόντο του [`Image`](../../image/) και το [`Color`](../../color/).
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα φόντου.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Συνήθως το χρώμα φόντου ορίζεται κάθε φορά που η τιμή του εικονοστοιχείου δεν μπορεί να ανακτηθεί λόγω καταστροφής δεδομένων.
+Συνήθως το χρώμα φόντου ορίζεται όποτε η τιμή του pixel δεν μπορεί να ανακτηθεί λόγω αλλοίωσης δεδομένων.
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* χώρος ονομάτων [Aspose.PSD](../../loadoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: VectorRasterizationOptions.PageHeight
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorRasterizationOptions ιδιοκτησία. Λαμβάνει ή ορίζει το ύψος της σελίδας.
+title: "VectorRasterizationOptions.PageHeight"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorRasterizationOptions ιδιότητα. Λαμβάνει ή ορίζει το ύψος της σελίδας"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.imageoptions/vectorrasterizationoptions/pageheight/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageHeight property
 
-Λαμβάνει ή ορίζει το ύψος της σελίδας.
+Λαμβάνει ή ορίζει το ύψος σελίδας.
 
 ```csharp
 public float PageHeight { get; set; }
@@ -17,7 +18,7 @@ public float PageHeight { get; set; }
 ### Δείτε επίσης
 
 * class [VectorRasterizationOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

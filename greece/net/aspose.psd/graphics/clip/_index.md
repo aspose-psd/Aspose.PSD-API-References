@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clip
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics ιδιοκτησία. Λαμβάνει ή ορίζει την περιοχή του κλιπ.
+title: "Graphics.Clip"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Graphics. Λαμβάνει ή ορίζει την περιοχή αποκοπής"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
-Λαμβάνει ή ορίζει την περιοχή του κλιπ.
+Ανακτά ή ορίζει την περιοχή αποκοπής.
 
 ```csharp
 public Region Clip { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η περιοχή του κλιπ.
+Η περιοχή αποκοπής.
 
 ### Δείτε επίσης
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

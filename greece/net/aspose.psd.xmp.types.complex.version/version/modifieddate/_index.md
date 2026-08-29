@@ -1,11 +1,12 @@
 ---
-title: Version.ModifiedDate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Version ιδιοκτησία. Λαμβάνει ή ορίζει την ημερομηνία τροποποίησης.
+title: "Version.ModifiedDate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Version ιδιότητα. Λαμβάνει ή ορίζει την τροποποιημένη ημερομηνία"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 ---
+{{< psd/tize >}}
 ## Version.ModifiedDate property
 
 Λαμβάνει ή ορίζει την ημερομηνία τροποποίησης.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 public DateTime ModifiedDate { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ημερομηνία τροποποίησης.
+Η τροποποιημένη ημερομηνία.
 
 ### Δείτε επίσης
 
 * class [Version](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RasterImage.LoadPixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Φορτώνει pixel.
+title: "RasterImage.LoadPixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Φορτώνει εικονοστοιχεία"
 type: docs
-weight: 400
+weight: 410
 url: /el/net/aspose.psd/rasterimage/loadpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPixels method
 
-Φορτώνει pixel.
+Φορτώνει εικονοστοιχεία.
 
 ```csharp
 public Color[] LoadPixels(Rectangle rectangle)
@@ -16,55 +17,55 @@ public Color[] LoadPixels(Rectangle rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο από το οποίο φορτώνονται τα εικονοστοιχεία. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο από το οποίο θα φορτωθούν τα εικονοστοιχεία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο φορτωμένος πίνακας pixel.
+Ο πίνακας φορτωμένων εικονοστοιχείων.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς μπορείτε να φορτώσετε πληροφορίες εικονοστοιχείων σε έναν πίνακα τύπου χρώματος, να χειριστείτε τον πίνακα και να τον επαναφέρετε στην εικόνα. Για να εκτελέσετε αυτές τις λειτουργίες, αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο εικόνας (σε μορφή PSD) χρησιμοποιώντας το αντικείμενο MemoryStream.
+Αυτό το παράδειγμα δείχνει πώς να φορτώνει πληροφορίες Pixel σε έναν Πίνακα τύπου Color, να επεξεργάζεται τον πίνακα και να τον επαναφέρει στην εικόνα. Για την εκτέλεση αυτών των λειτουργιών, αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο Image (σε μορφή PSD) χρησιμοποιώντας το αντικείμενο MemoryStream.
 
 ```csharp
 [C#]
 
-//Δημιουργήστε μια παρουσία του MemoryStream
+//Δημιουργήστε ένα στιγμιότυπο του MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Δημιουργήστε μια παρουσία του PsdOptions και ορίστε τις διάφορες ιδιότητές του, συμπεριλαμβανομένης της ιδιότητας Source
+    //Δημιουργήστε ένα στιγμιότυπο του PsdOptions και ορίστε τις διάφορες ιδιότητές του, συμπεριλαμβανομένης της ιδιότητας Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Δημιουργία μιας παρουσίας εικόνας
+    //Δημιουργήστε ένα στιγμιότυπο του Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Λάβετε τα pixel της εικόνας καθορίζοντας την περιοχή ως όριο εικόνας
+        //Αποκτήστε τα pixel της εικόνας καθορίζοντας την περιοχή ως όριο της εικόνας
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //Κάντε βρόχο πάνω από τον πίνακα και ορίζει το χρώμα του εναλλακτικού εικονοστοιχείου με ευρετήριο
+        //Επανάληψη πάνω στον πίνακα και ορίζει το χρώμα του εναλλακτικού ευρετηριασμένου pixel
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Ρυθμίστε το χρώμα του εικονοστοιχείου με ευρετήριο σε κίτρινο
+                //Ορίστε το χρώμα του ευρετηριασμένου pixel σε κίτρινο
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Ρυθμίστε το χρώμα του εικονοστοιχείου με ευρετήριο σε μπλε
+                //Ορίστε το χρώμα του ευρετηριασμένου pixel σε μπλε
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        //Εφαρμογή των αλλαγών pixel στην εικόνα
+        //Εφαρμόστε τις αλλαγές pixel στην εικόνα
         image.SavePixels(image.Bounds, pixels);
 
-        // αποθήκευση όλων των αλλαγών.
+        // αποθηκεύστε όλες τις αλλαγές.
         image.Save();
     }
 
-    //Εγγραφή MemoryStream σε Αρχείο
+    //Γράψτε το MemoryStream σε αρχείο
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
@@ -74,7 +75,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 * struct [Color](../../color/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

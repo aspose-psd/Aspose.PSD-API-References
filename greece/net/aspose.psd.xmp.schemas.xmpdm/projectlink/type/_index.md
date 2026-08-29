@@ -1,11 +1,12 @@
 ---
-title: ProjectLink.Type
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ProjectLink ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο αρχείου.
+title: "ProjectLink.Type"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ProjectLink ιδιότητα. Λαμβάνει ή ορίζει τύπο αρχείου."
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Type property
 
 Λαμβάνει ή ορίζει τον τύπο αρχείου.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 public ProjectType Type { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος αρχείου.
 
@@ -22,7 +23,7 @@ public ProjectType Type { get; set; }
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

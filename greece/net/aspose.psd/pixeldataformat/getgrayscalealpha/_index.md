@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetGrayscaleAlpha
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Λαμβάνει χρώμα GrayscaleAlpha με καθορισμένο αριθμό bit ανά δείγμα.
+title: "PixelDataFormat.GetGrayscaleAlpha"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PixelDataFormat μέθοδος. Λαμβάνει το χρώμα GrayscaleAlpha με καθορισμένο αριθμό bits ανά δείγμα"
 type: docs
 weight: 240
 url: /el/net/aspose.psd/pixeldataformat/getgrayscalealpha/
 ---
+{{< psd/tize >}}
 ## GetGrayscaleAlpha(int) {#getgrayscalealpha}
 
-Λαμβάνει χρώμα GrayscaleAlpha με καθορισμένο αριθμό bit ανά δείγμα.
+Λαμβάνει χρώμα Γκρι κλίμακα με άλφα με καθορισμένο αριθμό bit ανά δείγμα.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample)
@@ -18,21 +19,21 @@ public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample)
 | --- | --- | --- |
 | bitsPerSample | Int32 | Ο αριθμός των bit ανά δείγμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα GrayscaleAlpha.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetGrayscaleAlpha(int, int) {#getgrayscalealpha_1}
 
-Λαμβάνει χρώμα GrayscaleAlpha με καθορισμένο αριθμό bit ανά δείγμα.
+Λαμβάνει χρώμα Γκρι κλίμακα με άλφα με καθορισμένο αριθμό bit ανά δείγμα.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample, int alphaChannelBits)
@@ -41,16 +42,16 @@ public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample, int alphaChan
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Ο αριθμός των bit ανά δείγμα. |
-| alphaChannelBits | Int32 | Ο αριθμός των bit ανά δείγμα στο κανάλι άλφα. |
+| alphaChannelBits | Int32 | Ο αριθμός των bits ανά δείγμα στο κανάλι άλφα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα GrayscaleAlpha.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

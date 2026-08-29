@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.AssetModTime
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinkDataSource ιδιοκτησία. Λαμβάνει ή ρυθμίζει τον χρόνο τροποποίησης του στοιχείου για τα στοιχεία του Adobe Photoshop СС Libraries.
+title: "LinkDataSource.AssetModTime"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LinkDataSource. Λαμβάνει ή ορίζει την ώρα τροποποίησης του στοιχείου για τα περιουσιακά στοιχεία Adobe Photoshop СС Libraries"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.AssetModTime property
 
-Λαμβάνει ή ρυθμίζει τον χρόνο τροποποίησης του στοιχείου, για τα στοιχεία του Adobe® Photoshop® СС Libraries.
+Λαμβάνει ή ορίζει την ώρα τροποποίησης του στοιχείου, για στοιχεία Adobe® Photoshop® СС Libraries.
 
 ```csharp
 public double AssetModTime { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο χρόνος τροποποίησης του στοιχείου.
+Η ώρα τροποποίησης του στοιχείου.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Δεν μπορείτε να αποκτήσετε πρόσβαση στην ιδιότητα AssetModTime, είναι διαθέσιμη μόνο για πηγή δεδομένων liFE ή liFE με έκδοση 6 ή μεταγενέστερη. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Δεν μπορείτε να προσπελάσετε την ιδιότητα AssetModTime, είναι διαθέσιμη μόνο για πηγή δεδομένων liFE ή liFE με έκδοση 6 ή μεγαλύτερη. |
 
 ### Δείτε επίσης
 
 * class [LinkDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

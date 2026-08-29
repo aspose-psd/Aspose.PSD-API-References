@@ -1,27 +1,28 @@
 ---
-title: Point.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Μετατρέπει αυτόPoint σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+title: "Point.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Μετατρέπει αυτό το Point σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/point/tostring/
 ---
+{{< psd/tize >}}
 ## Point.ToString method
 
-Μετατρέπει αυτό[`Point`](../) σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+Μετατρέπει αυτό το [`Point`](../) σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΕΝΑString που αντιπροσωπεύει αυτή την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την περίπτωση.
 
 ### Δείτε επίσης
 
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

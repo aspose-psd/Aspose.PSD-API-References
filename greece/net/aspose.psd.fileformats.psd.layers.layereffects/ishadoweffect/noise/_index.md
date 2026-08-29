@@ -1,33 +1,34 @@
 ---
-title: IShadowEffect.Noise
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IShadowEffect ιδιοκτησία. Λαμβάνει ή ρυθμίζει το θόρυβο.
+title: "IShadowEffect.Noise"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IShadowEffect property. Λαμβάνει ή ορίζει το θόρυβο"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Noise property
 
-Λαμβάνει ή ρυθμίζει το θόρυβο.
+Λαμβάνει ή ορίζει τον θόρυβο.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο θόρυβος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ο θόρυβος πρέπει να προσδιορίζεται ως ποσοστό στην περιοχή από 0 έως 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ο θόρυβος πρέπει να καθορίζεται ως ποσοστό στο εύρος από 0 έως 100 |
 
 ### Δείτε επίσης
 
 * interface [IShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το εύρος απόστασης θέματος.
+title: "ExifData.SubjectDistanceRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το εύρος απόστασης του αντικειμένου"
 type: docs
 weight: 1010
 url: /el/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
-Λαμβάνει ή ορίζει το εύρος απόστασης θέματος.
+Λαμβάνει ή ορίζει το εύρος απόστασης του αντικειμένου.
 
 ```csharp
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το εύρος της απόστασης του θέματος.
+Το εύρος απόστασης του αντικειμένου.
 
 ### Δείτε επίσης
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

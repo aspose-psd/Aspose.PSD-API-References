@@ -1,27 +1,28 @@
 ---
-title: Size.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size μέθοδος. Δημιουργεί μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο που αντιπροσωπεύει αυτόSize .
+title: "Size.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Size. Δημιουργεί μια ανθρώπινα αναγνώσιμη συμβολοσειρά που αντιπροσωπεύει αυτό το Size"
 type: docs
 weight: 130
 url: /el/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-Δημιουργεί μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο που αντιπροσωπεύει αυτό[`Size`](../) .
+Δημιουργεί μια ανθρώπινα αναγνώσιμη συμβολοσειρά που αντιπροσωπεύει αυτό το [`Size`](../).
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια συμβολοσειρά που αντιπροσωπεύει αυτό[`Size`](../).
+Μια συμβολοσειρά που αντιπροσωπεύει αυτό το [`Size`](../).
 
 ### Δείτε επίσης
 
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

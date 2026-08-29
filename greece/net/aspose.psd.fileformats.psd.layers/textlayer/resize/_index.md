@@ -1,14 +1,15 @@
 ---
-title: TextLayer.Resize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer μέθοδος. Αλλάζει το μέγεθος της εικόνας. Η προεπιλεγμένηLeftTopToLeftTopχρησιμοποιείται.
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TextLayer μέθοδος. Αλλάζει το μέγεθος της εικόνας. Χρησιμοποιείται η προεπιλογή LeftTopToLeftTop"
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-Αλλάζει το μέγεθος της εικόνας. Η προεπιλεγμένηLeftTopToLeftTopχρησιμοποιείται.
+Αλλάζει το μέγεθος της εικόνας. Χρησιμοποιείται η προεπιλογή LeftTopToLeftTop.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -18,11 +19,11 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
 | newHeight | Int32 | Το νέο ύψος. |
-| resizeType | ResizeType | Ο τύπος μετασχηματισμού αλλαγής μεγέθους[`ResizeType`](../../../aspose.psd/resizetype/) |
+| resizeType | ResizeType | Ο τύπος της μετασχηματισμού αλλαγής μεγέθους [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη συνάρτηση TextLayer.Resize με την παράμετρο για να επιλέξετε τον μηχανισμό αλλαγής μεγέθους.
+Ο παρακάτω κώδικας δείχνει τη λειτουργία TextLayer.Resize με την παράμετρο για επιλογή του μηχανισμού αλλαγής μεγέθους.
 
 ```csharp
 [C#]
@@ -34,15 +35,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 {
     TextLayer textLayer = (TextLayer)image.Layers[1];
 
-    // Ορίζει νέο μέγεθος του επιπέδου κειμένου
+    // Ορίζει νέο μέγεθος της στρώσης κειμένου
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // Ορίζει τον μηχανισμό για τον τρόπο με τον οποίο η συνάρτηση αλλαγής μεγέθους θα αλλάξει το μέγεθος του επιπέδου (προεπιλεγμένη τιμή)
+    // Ορίζει τον μηχανισμό για το πώς η λειτουργία αλλαγής μεγέθους θα αλλάξει το μέγεθος της στρώσης (προεπιλεγμένη τιμή)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // Νέος μηχανισμός αλλαγής μεγέθους για επίπεδο κειμένου χρησιμοποιώντας εδώ
-    // Όχι μόνο το επίπεδο αλλά και ο πίνακας μετασχηματισμού του επιπέδου κειμένου θα αλλάξει
+    // Νέος μηχανισμός αλλαγής μεγέθους για τη στρώση κειμένου που χρησιμοποιείται εδώ
+    // Δεν θα αλλάξει μόνο η στρώση, αλλά και ο πίνακας μετασχηματισμού της στρώσης κειμένου
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -52,13 +53,13 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 {
     TextLayer txtLayer = (TextLayer)image.Layers[1];
 
-    // Ο λόγος του delta είναι διαφορετική προεπιλεγμένη γραμματοσειρά
+    // Η αιτία του delta είναι διαφορετική προεπιλεγμένη γραμματοσειρά.
     if (txtLayer.TransformMatrix[4] >= 65 
         && txtLayer.TransformMatrix[4] <= 67
         && txtLayer.TransformMatrix[5] >= 234
         && txtLayer.TransformMatrix[5] <= 237)
     {
-        // Ολα είναι εντάξει
+        // Όλα είναι εντάξει
     }
     else
     {
@@ -71,7 +72,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

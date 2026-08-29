@@ -1,27 +1,28 @@
 ---
-title: BmpOptions.BitsPerPixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BmpOptions ιδιοκτησία. Λαμβάνει ή ορίζει τα bits εικόνας ανά πλήθος pixel.
+title: "BmpOptions.BitsPerPixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BmpOptions. Λαμβάνει ή ορίζει τον αριθμό των bits ανά pixel της εικόνας"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imageoptions/bmpoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## BmpOptions.BitsPerPixel property
 
-Λαμβάνει ή ορίζει τα bits εικόνας ανά πλήθος pixel.
+Λαμβάνει ή ορίζει τον αριθμό bit ανά pixel της εικόνας.
 
 ```csharp
 public int BitsPerPixel { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αριθμός bits εικόνας ανά pixel.
+Ο αριθμός των bits ανά pixel της εικόνας.
 
 ### Δείτε επίσης
 
 * class [BmpOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

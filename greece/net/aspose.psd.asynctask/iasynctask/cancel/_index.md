@@ -1,14 +1,15 @@
 ---
-title: IAsyncTask.Cancel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAsyncTask μέθοδος. Ακυρώνει αυτήν την εργασία. Η εργασία ολοκληρώνεται με ασφάλεια με την ελεγχόμενη διακοπή του αλγορίθμου.
+title: "IAsyncTask.Cancel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IAsyncTask μέθοδος. Ακυρώνει αυτή τη διεργασία. Η διεργασία ολοκληρώνεται με ασφάλεια μέσω του ελεγχόμενου τερματισμού του αλγορίθμου"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.asynctask/iasynctask/cancel/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Cancel method
 
-Ακυρώνει αυτήν την εργασία. Η εργασία ολοκληρώνεται με ασφάλεια με την ελεγχόμενη διακοπή του αλγορίθμου.
+Ακυρώνει αυτήν την εργασία. Η εργασία ολοκληρώνεται με ασφάλεια μέσω του ελεγχόμενου τερματισμού του αλγορίθμου.
 
 ```csharp
 public void Cancel()
@@ -17,7 +18,7 @@ public void Cancel()
 ### Δείτε επίσης
 
 * interface [IAsyncTask](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctask/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

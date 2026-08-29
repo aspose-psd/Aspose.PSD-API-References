@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Top
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF ιδιοκτησία. Λαμβάνει ή ορίζει τη συντεταγμένη y του επάνω άκρου αυτούRectangleFδομή.
+title: "RectangleF.Top"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RectangleF. Λαμβάνει ή ορίζει τη συντεταγμένη y του άνω άκρου αυτής της δομής RectangleF"
 type: docs
 weight: 150
 url: /el/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-Λαμβάνει ή ορίζει τη συντεταγμένη y του επάνω άκρου αυτού[`RectangleF`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη y του άνω άκρου αυτής της δομής [`RectangleF`](../).
 
 ```csharp
 public float Top { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η συντεταγμένη y του επάνω άκρου αυτού[`RectangleF`](../) δομή.
+Η συντεταγμένη y του άνω άκρου αυτής της δομής [`RectangleF`](../).
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerResource.ResourceSignature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResource πεδίο. Η υπογραφή κοινού πόρου.
+title: "LayerResource.ResourceSignature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο LayerResource. Η κοινή υπογραφή πόρου"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.ResourceSignature field
 
-Η υπογραφή κοινού πόρου.
+Η κοινή υπογραφή πόρου.
 
 ```csharp
 public const int ResourceSignature;
@@ -17,7 +18,7 @@ public const int ResourceSignature;
 ### Δείτε επίσης
 
 * class [LayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

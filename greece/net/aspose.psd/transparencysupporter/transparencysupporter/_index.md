@@ -1,11 +1,12 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TransparencySupporter κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TransparencySupporter. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public TransparencySupporter()
 ### Δείτε επίσης
 
 * class [TransparencySupporter](../)
-* χώρος ονομάτων [Aspose.PSD](../../transparencysupporter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

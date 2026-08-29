@@ -1,27 +1,28 @@
 ---
-title: PngOptions.Progressive
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PngOptions ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόPngOptions είναι προοδευτική.
+title: "PngOptions.Progressive"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PngOptions. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το PngOptions είναι προοδευτικό"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
+{{< psd/tize >}}
 ## PngOptions.Progressive property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`PngOptions`](../) είναι προοδευτική.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το [`PngOptions`](../) είναι προοδευτικό.
 
 ```csharp
 public bool Progressive { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν προοδευτική? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν είναι προοδευτικό· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [PngOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../pngoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

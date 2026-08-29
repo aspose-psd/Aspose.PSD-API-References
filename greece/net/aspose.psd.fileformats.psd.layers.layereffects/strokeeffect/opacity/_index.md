@@ -1,27 +1,28 @@
 ---
-title: StrokeEffect.Opacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StrokeEffect ιδιοκτησία. Λαμβάνει ή ορίζει την αδιαφάνεια.
+title: "StrokeEffect.Opacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "StrokeEffect ιδιότητα. Λαμβάνει ή ορίζει τη διαφάνεια"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Opacity property
 
-Λαμβάνει ή ορίζει την αδιαφάνεια.
+Λαμβάνει ή ορίζει τη διαφάνεια.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αδιαφάνεια.
+Η διαφάνεια.
 
 ### Δείτε επίσης
 
 * class [StrokeEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

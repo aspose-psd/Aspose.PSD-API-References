@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsSynchronized
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν η πρόσβαση στο ICollection είναι συγχρονισμένο ασφαλές νήμα.
+title: "NonGenericDictionary.IsSynchronized"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "NonGenericDictionary ιδιότητα. Λαμβάνει μια τιμή που υποδεικνύει εάν η πρόσβαση στο ICollection είναι συγχρονισμένη και ασφαλής ως προς το νήμα"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/nongenericdictionary/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsSynchronized property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν η πρόσβαση στο ICollection είναι συγχρονισμένο (ασφαλές νήμα).
+Λαμβάνει μια τιμή που υποδεικνύει εάν η πρόσβαση στο ICollection είναι συγχρονισμένη (ασφαλής για νήματα).
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθεύει εάν η πρόσβαση στοICollectionείναι συγχρονισμένο (ασφαλές νήμα). αλλιώς, ψευδής.
+αληθές εάν η πρόσβαση στο ICollection είναι συγχρονισμένη (ασφαλής ως προς το νήμα); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

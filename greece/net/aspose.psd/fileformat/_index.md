@@ -1,23 +1,24 @@
 ---
-title: Enum FileFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormat αρίθμηση. Μία από τις υποστηριζόμενες μορφές αρχείων PSD.
+title: "Enum FileFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormat enum. Ένα από τα υποστηριζόμενα μορφές αρχείων PSD"
 type: docs
-weight: 1210
+weight: 1220
 url: /el/net/aspose.psd/fileformat/
 ---
+{{< psd/tize >}}
 ## FileFormat enumeration
 
-Μία από τις υποστηριζόμενες μορφές αρχείων PSD.
+Ένα από τα υποστηριζόμενα μορφότυπα αρχείων PSD.
 
 ```csharp
 [Flags]
 public enum FileFormat : ulong
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Undefined | `0` | Μη καθορισμένη μορφή αρχείου. |
 | Custom | `1` | Προσαρμοσμένη μορφή αρχείου. |
@@ -35,19 +36,19 @@ public enum FileFormat : ulong
 | Svg | `4000` | Μορφή αρχείου SVG |
 | Wmf | `8000` | Η μορφή αρχείου Wmf |
 | Dng | `10000` | Η μορφή αρχείου DNG |
-| Odg | `20000` | Η μορφή γραφικού ανοιχτού εγγράφου |
+| Odg | `20000` | Η μορφή γραφικών Open document |
 | Cdr | `80000` | Η μορφή αρχείου CDR |
 | Cmx | `100000` | Η μορφή αρχείου CMX |
 | Otg | `200000` | Η μορφή αρχείου otg |
 | Ai | `400000` | Η μορφή Adobe Illustrator |
-| Html5Canvas | `800000` | Μορφή καμβά Html5 |
+| Html5Canvas | `800000` | Η μορφή Html5 Canvas |
 | Eps | `40000` | Η μορφή Encapsulated PostScript |
-| Apng | `1000000` | Η μορφή αρχείου Png με κίνηση. |
+| Apng | `1000000` | Η μορφή αρχείου PNG κινούμενη. |
 | Tga | `2000000` | Η μορφή αρχείου Truevision TGA. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

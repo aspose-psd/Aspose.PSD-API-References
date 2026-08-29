@@ -1,14 +1,15 @@
 ---
-title: Class VsmsResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource τάξη. Κλάση VsmsResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με το διανυσματικό στρώμα mask
+title: "Κλάση VsmsResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource κλάση. Κλάση VsmsResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με τη μάσκα διανυσματικής στρώσης."
 type: docs
-weight: 3380
+weight: 3780
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
+{{< psd/tize >}}
 ## VsmsResource class
 
-Κλάση VsmsResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με το διανυσματικό στρώμα mask
+Κλάση VsmsResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με τη μάσκα διανυσματικού επιπέδου.
 
 ```csharp
 public class VsmsResource : VectorPathDataResource
@@ -16,41 +17,41 @@ public class VsmsResource : VectorPathDataResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [VsmsResource](vsmsresource/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`VsmsResource` τάξη. |
-| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`VsmsResource` τάξη. |
+| [VsmsResource](vsmsresource/#constructor)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `VsmsResource`. |
+| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `VsmsResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι απενεργοποιημένη. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ανεστραμμένη. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία δεν είναι συνδεδεμένη. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτή η παρουσία είναι απενεργοποιημένη. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτή η παρουσία είναι ανεστραμμένη. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτή η παρουσία δεν είναι συνδεδεμένη. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
 | [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Λαμβάνει ή ορίζει τις εγγραφές διαδρομής. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Παίρνει την υπογραφή. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Λαμβάνει ή ορίζει την έκδοση. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων VsmsResource. Πώς λειτουργεί η επεξεργασία των μονοπατιών.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρου VsmsResource. Πώς λειτουργεί η επεξεργασία διαδρομών.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ public void TestPsdNet140()
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // ΑΝΑΓΝΩΣΗ
+        // Ανάγνωση
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -85,7 +86,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Ο κανόνας πλήρωσης διαδρομής δεν περιέχει πρόσθετες πληροφορίες
+        // Ο κανόνας γεμίσματος διαδρομής δεν περιέχει πρόσθετες πληροφορίες.
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -135,7 +136,7 @@ private VsmsResource GetVsmsResource(PsdImage image)
 
 * class [VectorPathDataResource](../vectorpathdataresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

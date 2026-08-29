@@ -1,27 +1,28 @@
 ---
-title: ExifData.Sharpness
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει την ευκρίνεια.
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει την ευκρίνεια"
 type: docs
 weight: 940
 url: /el/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
-Λαμβάνει ή ρυθμίζει την ευκρίνεια.
+Λαμβάνει ή ορίζει την ευκρίνεια.
 
 ```csharp
 public ushort Sharpness { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ευκρίνεια.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

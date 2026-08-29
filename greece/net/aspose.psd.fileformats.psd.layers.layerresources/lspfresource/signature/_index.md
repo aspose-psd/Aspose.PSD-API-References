@@ -1,14 +1,15 @@
 ---
-title: LspfResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LspfResource ιδιοκτησία. Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+title: "VectorPathDataResource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LspfResource. Λαμβάνει την υπογραφή του πόρου στρώσης"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/signature/
 ---
+{{< psd/tize >}}
 ## LspfResource.Signature property
 
-Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+Λαμβάνει την υπογραφή του πόρου στρώματος.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageCreateException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουImageCreateException τάξη.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ImageCreateException. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης ImageCreateException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageCreateException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message)
@@ -16,19 +17,19 @@ public ImageCreateException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 
 ### Δείτε επίσης
 
 * class [ImageCreateException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ImageCreateException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public ImageCreateException(string message, Exception innerException)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 | innerException | Exception | Η εσωτερική εξαίρεση. |
 
 ### Δείτε επίσης
 
 * class [ImageCreateException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

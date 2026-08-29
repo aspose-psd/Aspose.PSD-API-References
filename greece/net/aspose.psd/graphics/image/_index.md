@@ -1,20 +1,21 @@
 ---
-title: Graphics.Image
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics ιδιοκτησία. Λαμβάνει την εικόνα.
+title: "Graphics.Image"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Graphics ιδιότητα. Λαμβάνει την εικόνα."
 type: docs
 weight: 60
 url: /el/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
-Λαμβάνει την εικόνα.
+Ανακτά την εικόνα.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η εικόνα γραφικών.
 
@@ -22,7 +23,7 @@ public Image Image { get; }
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

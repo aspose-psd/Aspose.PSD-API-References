@@ -1,11 +1,12 @@
 ---
-title: Enum NoiseDistribution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution αρίθμηση. Η κατανομή του φίλτρου θορύβου.
+title: "Απαρίθμηση NoiseDistribution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution enum. Η κατανομή του φίλτρου θορύβου"
 type: docs
-weight: 3440
+weight: 3850
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
 Η κατανομή του φίλτρου θορύβου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 public enum NoiseDistribution
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Uniform | `0` | Η ομοιόμορφη κατανομή θορύβου. |
-| Gaussian | `1` | Η κατανομή θορύβου Gauss. |
+| Gaussian | `1` | Η κατανομή γκαουσιανού θορύβου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Αυτό το παράδειγμα δείχνει την υποστήριξη της διεπαφής έξυπνων φίλτρων.
 
@@ -43,7 +44,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // Επεξεργασία έξυπνων φίλτρων
+    // επεξεργασία έξυπνων φίλτρων
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // έλεγχος τιμών φίλτρου
@@ -95,7 +96,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

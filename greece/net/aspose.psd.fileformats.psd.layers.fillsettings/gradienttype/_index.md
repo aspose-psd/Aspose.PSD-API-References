@@ -1,33 +1,34 @@
 ---
-title: Enum GradientType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType αρίθμηση. Τύπος κλίσης
+title: "Απαρίθμηση Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType. Τύπος διαβάθμισης"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο γραμμικός τύπος διαβάθμισης"
 type: docs
-weight: 1980
+weight: 2100
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## GradientType enumeration
 
-Τύπος κλίσης
+Τύπος διαβάθμισης
 
 ```csharp
 public enum GradientType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Linear | `0` | Η γραμμική κλίση τύπου |
-| Radial | `1` | Η ακτινική κλίση τύπου |
-| Angle | `2` | Τύπος κλίσης γωνίας |
-| Reflected | `3` | Η ανακλώμενη κλίση τύπου |
-| Diamond | `4` | Ο τύπος ντεγκραντέ διαμαντιού |
-| ShapeBurst | `5` | Τύπος κλίσης διάρρηξης σχήματος |
+| Linear | `0` | Ο κυκλικός τύπος διαβάθμισης |
+| Radial | `1` | Ο γωνιακός τύπος διαβάθμισης |
+| Angle | `2` | Ο αντανακλαστικός τύπος διαβάθμισης |
+| Reflected | `3` | Ο διαμαντένιος τύπος διαβάθμισης |
+| Diamond | `4` | Ο τύπος διαβάθμισης σχήματος έκρηξης |
+| ShapeBurst | `5` | Κλάση GradientFillSettings |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

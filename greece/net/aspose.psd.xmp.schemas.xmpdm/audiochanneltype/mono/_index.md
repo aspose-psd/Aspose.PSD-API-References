@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Mono
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AudioChannelType ιδιοκτησία. Λαμβάνει το μονοφωνικό κανάλι ήχου.
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AudioChannelType ιδιότητα. Λαμβάνει το μονοφωνικό κανάλι ήχου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
 Λαμβάνει το μονοφωνικό κανάλι ήχου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 public static AudioChannelType Mono { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μονοφωνικό κανάλι ήχου.
 
 ### Δείτε επίσης
 
 * class [AudioChannelType](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

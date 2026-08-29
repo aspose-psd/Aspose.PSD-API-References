@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageLoadersRegistry μέθοδος. Καταργεί την εγγραφή του φορτωτή.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageLoadersRegistry. Απομακρύνει την καταχώρηση του φορτωτή"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
-Καταργεί την εγγραφή του φορτωτή.
+Καταργεί την καταχώρηση του φορτωτή.
 
 ```csharp
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
@@ -16,13 +17,13 @@ public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | Ο περιγραφέας φόρτωσης για απεγγραφή. |
+| loaderDescriptor | IImageLoaderDescriptor | Ο περιγραφέας φορτωτή για αποεγγραφή. |
 
 ### Δείτε επίσης
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageloadersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

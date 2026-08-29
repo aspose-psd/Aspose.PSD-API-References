@@ -1,14 +1,15 @@
 ---
-title: RasterImage.LoadCmyk32Pixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Φορτώνει pixel σε μορφή CMYK.
+title: "RasterImage.LoadCmyk32Pixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Φορτώνει εικονοστοιχεία σε μορφή CMYK"
 type: docs
 weight: 370
 url: /el/net/aspose.psd/rasterimage/loadcmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadCmyk32Pixels method
 
-Φορτώνει pixel σε μορφή CMYK.
+Φορτώνει εικονοστοιχεία σε μορφή CMYK.
 
 ```csharp
 public int[] LoadCmyk32Pixels(Rectangle rectangle)
@@ -16,17 +17,17 @@ public int[] LoadCmyk32Pixels(Rectangle rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο από το οποίο φορτώνονται τα εικονοστοιχεία. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο από το οποίο θα φορτωθούν τα εικονοστοιχεία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα φορτωμένα εικονοστοιχεία CMYK παρουσιάζονται ως ακέραιες τιμές 32 bit.
+Τα φορτωμένα εικονοστοιχεία CMYK παρουσιάζονται ως 32-bit ακέραιες τιμές.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

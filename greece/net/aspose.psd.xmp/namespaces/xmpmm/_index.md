@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpMm
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. Χώρος ονομάτων διαχείρισης ψηφιακών στοιχείων XMP.
+title: "Namespaces.XmpMm"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. Χώρος ονομάτων XMP διαχείρισης ψηφιακών περιουσιακών στοιχείων"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.xmp/namespaces/xmpmm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpMm field
 
-Χώρος ονομάτων διαχείρισης ψηφιακών στοιχείων XMP.
+Χώρος ονομάτων XMP digital asset management.
 
 ```csharp
 public const string XmpMm;
@@ -17,7 +18,7 @@ public const string XmpMm;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerSectionResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "LayerSectionResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerSectionResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου"
 type: docs
-weight: 100
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [LayerSectionResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

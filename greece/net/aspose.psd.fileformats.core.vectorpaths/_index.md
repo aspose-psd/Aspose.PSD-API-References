@@ -1,38 +1,39 @@
 ---
-title: Aspose.PSD.FileFormats.Core.VectorPaths
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει διανυσματικές διαδρομές PSD.
+title: "Aspose.PSD.FileFormats.Core.VectorPaths"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Το namespace περιέχει PSD Vector Paths"
 type: docs
-weight: 150
+weight: 160
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/
 ---
-Ο χώρος ονομάτων περιέχει διανυσματικές διαδρομές PSD.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει Διανυσματικές Διαδρομές PSD.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord/) | Bezier Knot Record Class |
-| [ClipboardRecord](./clipboardrecord/) | Κλάση εγγραφής στο πρόχειρο |
-| [InitialFillRuleRecord](./initialfillrulerecord/) | Αρχική εγγραφή κανόνα πλήρωσης Class |
-| [LengthRecord](./lengthrecord/) | Κατηγορία εγγραφής μήκους υποδιαδρομής |
-| [PathFillRuleRecord](./pathfillrulerecord/) | Εγγραφή κανόνα συμπλήρωσης διαδρομής Κλάση |
-| [VectorPathRecord](./vectorpathrecord/) | Vector Path Record Class |
-| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vector Path Record Factory Class |
-| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Ορίζει την κλάση πλαισίου οριοθέτησης διανυσματικού σχήματος. |
-| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Ρυθμίσεις προέλευσης διανυσματικού σχήματος. |
-| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Ορίζει διανυσματικές ακτίνες ορθογωνίου σχήματος class |
-| [VectorShapeTransform](./vectorshapetransform/) | Ορίζει διανυσματικό πίνακα μετασχηματισμού σχήματος class |
+| [BezierKnotRecord](./bezierknotrecord/) | Κλάση Bezier Knot Record, που χρησιμοποιείται για ανάγνωση/εγγραφή δεδομένων κόμβων Bezier από τον πόρο. |
+| [ClipboardRecord](./clipboardrecord/) | Κλάση Clipboard Record |
+| [InitialFillRuleRecord](./initialfillrulerecord/) | Κλάση Initial Fill Rule Record |
+| [LengthRecord](./lengthrecord/) | Κλάση Subpath Length Record. |
+| [PathFillRuleRecord](./pathfillrulerecord/) | Κλάση Path Fill Rule Record |
+| [VectorPathRecord](./vectorpathrecord/) | Κλάση Vector Path Record |
+| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Κλάση Vector Path Record Factory. |
+| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Ορίζει την κλάση vector shape bounding box. |
+| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Ρυθμίσεις προέλευσης vector shape. |
+| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Ορίζει την κλάση vector shape radii rectangle |
+| [VectorShapeTransform](./vectorshapetransform/) | Ορίζει την κλάση vector shape transformation matrix |
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |
 | --- | --- |
-| [IVectorPathData](./ivectorpathdata/) | Η διεπαφή για πρόσβαση στα δεδομένα διανυσματικής διαδρομής. |
+| [IVectorPathData](./ivectorpathdata/) | Η διεπαφή για πρόσβαση στα δεδομένα vector path. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [PathOperations](./pathoperations/) | Οι πράξεις για τα σχήματα διαδρομής που συνδυάζονται (πράξεις Boolean). |
-| [VectorPathType](./vectorpathtype/) | Τύπος διανυσματικής διαδρομής σύμφωνα με την προδιαγραφή μορφής PSD |
+| [PathOperations](./pathoperations/) | Οι λειτουργίες για τον συνδυασμό των σχημάτων διαδρομής (Boolean operations). |
+| [VectorPathType](./vectorpathtype/) | Τύπος Vector Path σύμφωνα με την προδιαγραφή μορφής PSD |
 
 

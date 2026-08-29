@@ -1,27 +1,28 @@
 ---
-title: ExifData.DeviceSettingDescription
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λήψη ή ορίζει τις ρυθμίσεις συσκευής description
+title: "ExifData.DeviceSettingDescription"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει την περιγραφή ρυθμίσεων της συσκευής"
 type: docs
 weight: 150
 url: /el/net/aspose.psd.exif/exifdata/devicesettingdescription/
 ---
+{{< psd/tize >}}
 ## ExifData.DeviceSettingDescription property
 
-Λήψη ή ορίζει τις ρυθμίσεις συσκευής description
+Λαμβάνει ή ορίζει την περιγραφή ρυθμίσεων της συσκευής
 
 ```csharp
 public byte[] DeviceSettingDescription { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η περιγραφή της ρύθμισης της συσκευής.
+Η περιγραφή ρυθμίσεων της συσκευής.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

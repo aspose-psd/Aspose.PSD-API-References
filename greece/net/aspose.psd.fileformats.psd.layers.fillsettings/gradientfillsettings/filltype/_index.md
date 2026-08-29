@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.FillType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings ιδιοκτησία. Ο τύπος πλήρωσης
+title: "GradientFillSettings.FillType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GradientFillSettings ιδιότητα. Ο τύπος γεμίσματος"
 type: docs
-weight: 70
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.FillType property
 
-Ο τύπος πλήρωσης
+Λαμβάνει τη λειτουργία για αυτή τη διαβάθμιση. Καθορίζει 'Τύπος Διαβάθμισης' = 'Στερεό/Θόρυβο' (0/1).
 
 ```csharp
 public override FillType FillType { get; }
@@ -18,7 +19,7 @@ public override FillType FillType { get; }
 
 * enum [FillType](../../filltype/)
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

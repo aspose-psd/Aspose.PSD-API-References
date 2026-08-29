@@ -1,27 +1,28 @@
 ---
-title: Layer.Bottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση του κάτω στρώματος.
+title: "Layer.Bottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει ή ορίζει τη θέση του κάτω επιπέδου"
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
+{{< psd/tize >}}
 ## Layer.Bottom property
 
-Λαμβάνει ή ορίζει τη θέση του κάτω στρώματος.
+Λαμβάνει ή ορίζει τη θέση του κάτω επιπέδου.
 
 ```csharp
-public int Bottom { get; set; }
+public virtual int Bottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση του κάτω στρώματος.
+Η θέση του κάτω επιπέδου.
 
 ### Δείτε επίσης
 
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

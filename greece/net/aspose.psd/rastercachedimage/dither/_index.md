@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Dither
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage μέθοδος. Εκτελεί παραμόρφωση στην τρέχουσα εικόνα.
+title: "RasterCachedImage.Dither"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterCachedImage. Εκτελεί δισδιάσμα στην τρέχουσα εικόνα"
 type: docs
 weight: 100
 url: /el/net/aspose.psd/rastercachedimage/dither/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Dither method
 
-Εκτελεί παραμόρφωση στην τρέχουσα εικόνα.
+Εκτελεί dithering στην τρέχουσα εικόνα.
 
 ```csharp
 public override void Dither(DitheringMethod ditheringMethod, int bitsCount, 
@@ -17,16 +18,16 @@ public override void Dither(DitheringMethod ditheringMethod, int bitsCount,
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Η μέθοδος διχασμού. |
-| bitsCount | Int32 | Τα τελικά κομμάτια μετράνε για την ανατροπή. |
-| customPalette | IColorPalette | Η προσαρμοσμένη παλέτα για ταραχή. |
+| ditheringMethod | DitheringMethod | Η μέθοδος δισδιάσματος. |
+| bitsCount | Int32 | Ο τελικός αριθμός bits για το δισδιάσμα. |
+| customPalette | IColorPalette | Η προσαρμοσμένη παλέτα για dithering. |
 
 ### Δείτε επίσης
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpPacketWrapper
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.XmpPacketWrapper τάξη. Περιέχει σειριακό πακέτο xmp που περιλαμβάνει κεφαλίδα και τρέιλερ.
+title: "Κλάση XmpPacketWrapper"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.XmpPacketWrapper κλάση. Περιέχει σειριακό πακέτο xmp που περιλαμβάνει κεφαλίδα και τερματικό"
 type: docs
-weight: 6290
+weight: 6790
 url: /el/net/aspose.psd.xmp/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper class
 
-Περιέχει σειριακό πακέτο xmp που περιλαμβάνει κεφαλίδα και τρέιλερ.
+Περιέχει το σειριοποιημένο πακέτο xmp συμπεριλαμβανομένης της κεφαλίδας και του υποσέλιδου.
 
 ```csharp
 public class XmpPacketWrapper
@@ -16,38 +17,38 @@ public class XmpPacketWrapper
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpPacketWrapper](xmppacketwrapper/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`XmpPacketWrapper` τάξη. |
-| [XmpPacketWrapper](xmppacketwrapper/#constructor_1)(XmpHeaderPi, XmpTrailerPi, XmpMeta) | Αρχικοποιεί μια νέα παρουσία του`XmpPacketWrapper` τάξη. |
+| [XmpPacketWrapper](xmppacketwrapper/#constructor)() | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `XmpPacketWrapper`. |
+| [XmpPacketWrapper](xmppacketwrapper/#constructor_1)(XmpHeaderPi, XmpTrailerPi, XmpMeta) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `XmpPacketWrapper`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [HeaderPi](../../aspose.psd.xmp/xmppacketwrapper/headerpi/) { get; } | Λαμβάνει την οδηγία επεξεργασίας κεφαλίδας. |
-| [Meta](../../aspose.psd.xmp/xmppacketwrapper/meta/) { get; set; } | Λαμβάνει το XMP meta. Προαιρετικό. |
-| [Packages](../../aspose.psd.xmp/xmppacketwrapper/packages/) { get; } | Λαμβάνει πίνακα[`XmpPackage`](../xmppackage/) μέσα στο XMP. |
-| [PackagesCount](../../aspose.psd.xmp/xmppacketwrapper/packagescount/) { get; } | Λαμβάνει τον αριθμό των πακέτων μέσα στη δομή XMP. |
-| [TrailerPi](../../aspose.psd.xmp/xmppacketwrapper/trailerpi/) { get; } | Λαμβάνει την οδηγία επεξεργασίας του τρέιλερ. |
+| [HeaderPi](../../aspose.psd.xmp/xmppacketwrapper/headerpi/) { get; } | Αποκτά την οδηγία επεξεργασίας κεφαλίδας. |
+| [Meta](../../aspose.psd.xmp/xmppacketwrapper/meta/) { get; set; } | Αποκτά τα μεταδεδομένα XMP. Προαιρετικό. |
+| [Packages](../../aspose.psd.xmp/xmppacketwrapper/packages/) { get; } | Αποκτά πίνακα του [`XmpPackage`](../xmppackage/) μέσα στο XMP. |
+| [PackagesCount](../../aspose.psd.xmp/xmppacketwrapper/packagescount/) { get; } | Αποκτά τον αριθμό των πακέτων μέσα στη δομή XMP. |
+| [TrailerPi](../../aspose.psd.xmp/xmppacketwrapper/trailerpi/) { get; } | Αποκτά την οδηγία επεξεργασίας τερματικού. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [AddPackage](../../aspose.psd.xmp/xmppacketwrapper/addpackage/)(XmpPackage) | Προσθέτει το πακέτο. |
-| [ClearPackages](../../aspose.psd.xmp/xmppacketwrapper/clearpackages/)() | Καταργεί όλα[`XmpPackage`](../xmppackage/) μέσα στο XMP. |
-| [ContainsPackage](../../aspose.psd.xmp/xmppacketwrapper/containspackage/)(string) | Καθορίζει εάν το πακέτο υπάρχει σε xmp wrapper. |
-| [GetPackage](../../aspose.psd.xmp/xmppacketwrapper/getpackage/)(string) | Λήψη πακέτου ανά χώρο ονομάτων URI. |
-| [RemovePackage](../../aspose.psd.xmp/xmppacketwrapper/removepackage/)(XmpPackage) | Καταργεί το πακέτο XMP. |
+| [ClearPackages](../../aspose.psd.xmp/xmppacketwrapper/clearpackages/)() | Αφαιρεί όλα τα [`XmpPackage`](../xmppackage/) μέσα στο XMP. |
+| [ContainsPackage](../../aspose.psd.xmp/xmppacketwrapper/containspackage/)(string) | Καθορίζει εάν το πακέτο υπάρχει στο xmp wrapper. |
+| [GetPackage](../../aspose.psd.xmp/xmppacketwrapper/getpackage/)(string) | Αποκτά το πακέτο με το URI του namespace. |
+| [RemovePackage](../../aspose.psd.xmp/xmppacketwrapper/removepackage/)(XmpPackage) | Αφαιρεί το πακέτο XMP. |
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ένα περιτύλιγμα που αποτελείται από ένα ζεύγος οδηγιών επεξεργασίας XML (PIs) μπορεί να τοποθετηθεί γύρω από το στοιχείο rdf:RDF.
+Ένα περιτύλιγμα που αποτελείται από ένα ζεύγος εντολών επεξεργασίας XML (PIs) μπορεί να τοποθετηθεί γύρω από το στοιχείο rdf:RDF.
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

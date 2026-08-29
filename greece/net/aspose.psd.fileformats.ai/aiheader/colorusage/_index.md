@@ -1,11 +1,12 @@
 ---
-title: AiHeader.ColorUsage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiHeader ιδιοκτησία. Λαμβάνει ή ορίζει τη χρήση χρώματος.
+title: "AiHeader.ColorUsage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiHeader ιδιότητα. Λαμβάνει ή ορίζει τη χρήση χρώματος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.ai/aiheader/colorusage/
 ---
+{{< psd/tize >}}
 ## AiHeader.ColorUsage property
 
 Λαμβάνει ή ορίζει τη χρήση χρώματος.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.ai/aiheader/colorusage/
 public string ColorUsage { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η χρήση χρώματος.
 
 ### Δείτε επίσης
 
 * class [AiHeader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

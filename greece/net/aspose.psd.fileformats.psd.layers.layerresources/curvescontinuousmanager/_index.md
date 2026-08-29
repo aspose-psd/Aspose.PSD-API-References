@@ -1,14 +1,15 @@
 ---
-title: Class CurvesContinuousManager
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager τάξη. Manager for Curves Adjustment Layer που χειρίζεται curves
+title: "Κλάση CurvesContinuousManager"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager κλάση. Διαχειριστής για το στρώμα προσαρμογής καμπυλών που χειρίζεται τις καμπύλες"
 type: docs
-weight: 2410
+weight: 2670
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-Manager for Curves Adjustment Layer που χειρίζεται curves
+Διαχειριστής για τη στρώση προσαρμογής Καμπύλες που χειρίζεται τις καμπύλες.
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
@@ -16,30 +17,30 @@ public sealed class CurvesContinuousManager : CurvesManager
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Αρχικοποιεί μια νέα παρουσία του`CurvesContinuousManager` τάξη. |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `CurvesContinuousManager`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Λαμβάνει τον μέγιστο αριθμό καναλιών. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Ανακτά τον μέγιστο αριθμό καναλιών. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | Προσθέτει το σημείο της καμπύλης. |
-| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | Λαμβάνει το σημείο της καμπύλης κατά δείκτη. |
-| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | Λαμβάνει τον αριθμό των σημείων της καμπύλης. |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | Ανακτά το σημείο της καμπύλης κατά δείκτη. |
+| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | Ανακτά τον αριθμό σημείων της καμπύλης. |
 | [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | Αφαιρεί το σημείο της καμπύλης. |
 | [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | Ενημερώνει το σημείο της καμπύλης. |
 
 ### Δείτε επίσης
 
 * class [CurvesManager](../curvesmanager/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerGroup μέθοδος. Προσθέτει την ομάδα επιπέδων.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LayerGroup. Προσθέτει την ομάδα στρώσεων"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
 Προσθέτει την ομάδα επιπέδων.
@@ -17,28 +18,28 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | groupName | String | Όνομα της ομάδας. |
-| index | Int32 | Ο δείκτης του στρώματος που θα εισαγάγετε μετά. |
+| δείκτης | Int32 | Ο δείκτης της στρώσης μετά την οποία θα γίνει η εισαγωγή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Άνοιγμα επιπέδου ομάδας
+Άνοιγμα ομάδας στρώσεων
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την προσθήκη LayerGroup σε μια άλλη LayerGroup.
+Το παρακάτω παράδειγμα δείχνει την προσθήκη του LayerGroup σε άλλη LayerGroup.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// Δημιουργία ιεραρχίας επιπέδων ως εξής:
+// Δημιουργία ιεραρχίας στρώσεων ως εξής:
 // -Ομάδα 1
-// --Επίπεδο 1
-// -- Ομάδα 2
-// ---Επίπεδο 2
-// ---Επίπεδο 3
-// --Επίπεδο 4
+// --Στρώση 1
+// --Ομάδα 2
+// ---Στρώση 2
+// ---Στρώση 3
+// --Στρώση 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 ### Δείτε επίσης
 
 * class [LayerGroup](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

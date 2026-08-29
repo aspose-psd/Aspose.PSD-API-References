@@ -1,27 +1,28 @@
 ---
-title: IKeyedObject.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IKeyedObject ιδιοκτησία. Λαμβάνει το κλειδί αντικειμένου.
+title: "IKeyedObject.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IKeyedObject. Λαμβάνει το κλειδί του αντικειμένου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
-Λαμβάνει το κλειδί αντικειμένου.
+Λαμβάνει το κλειδί του αντικειμένου.
 
 ```csharp
 public string Key { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κλειδί αντικειμένου.
+Το κλειδί του αντικειμένου.
 
 ### Δείτε επίσης
 
 * interface [IKeyedObject](../)
-* χώρος ονομάτων [Aspose.PSD](../../ikeyedobject/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

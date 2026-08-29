@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Contains
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericList μέθοδος. Καθορίζει εάν τοIList περιέχει μια συγκεκριμένη τιμή.
+title: "NonGenericList.Contains"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "NonGenericList μέθοδος. Καθορίζει αν η IList περιέχει μια συγκεκριμένη τιμή"
 type: docs
 weight: 100
 url: /el/net/aspose.psd/nongenericlist/contains/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Contains method
 
-Καθορίζει εάν τοIList περιέχει μια συγκεκριμένη τιμή.
+Καθορίζει εάν το IList περιέχει μια συγκεκριμένη τιμή.
 
 ```csharp
 public bool Contains(object value)
@@ -16,16 +17,16 @@ public bool Contains(object value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Object | οObjectγια να εντοπίσετε στοIList. |
+| τιμή | Object | Το αντικείμενο προς εντοπισμό στη IList. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθές αν τοObject βρίσκεται στοIList ; διαφορετικά, ψευδής.
+αληθές αν το αντικείμενο βρεθεί στη IList· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [NonGenericList](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericlist/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font μέθοδος. Λαμβάνει τον κωδικό κατακερματισμού για αυτόFont .
+title: "Font.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Font. Επιστρέφει τον κωδικό κατακερματισμού για αυτό το Font"
 type: docs
 weight: 130
 url: /el/net/aspose.psd/font/gethashcode/
 ---
+{{< psd/tize >}}
 ## Font.GetHashCode method
 
-Λαμβάνει τον κωδικό κατακερματισμού για αυτό[`Font`](../) .
+Επιστρέφει τον κωδικό κατακερματισμού για αυτό το [`Font`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο κωδικός κατακερματισμού για αυτό[`Font`](../).
+Ο κωδικός κατακερματισμού για αυτό το [`Font`](../).
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

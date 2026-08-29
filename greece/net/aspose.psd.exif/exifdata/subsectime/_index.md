@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTime
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τα κλάσματα δευτερολέπτων για την ετικέτα DateTime.
+title: "ExifData.SubsecTime"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τα κλάσματα του δευτερολέπτου για την ετικέτα DateTime"
 type: docs
 weight: 1030
 url: /el/net/aspose.psd.exif/exifdata/subsectime/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTime property
 
-Λαμβάνει ή ορίζει τα κλάσματα δευτερολέπτων για την ετικέτα DateTime.
+Λαμβάνει ή ορίζει τα κλάσματα του δευτερολέπτου για την ετικέτα DateTime.
 
 ```csharp
 public string SubsecTime { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κλάσματα δευτερολέπτων για την ετικέτα DateTime.
+Τα κλάσματα του δευτερολέπτου για την ετικέτα DateTime.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

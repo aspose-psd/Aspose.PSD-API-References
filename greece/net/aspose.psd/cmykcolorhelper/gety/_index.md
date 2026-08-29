@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.GetY
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColorHelper μέθοδος. Λαμβάνει την κίτρινη τιμή στοιχείου.
+title: "CmykColorHelper.GetY"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος CmykColorHelper. Λαμβάνει την τιμή του συστατικού κίτρινου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/cmykcolorhelper/gety/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetY method
 
-Λαμβάνει την κίτρινη τιμή στοιχείου.
+Λαμβάνει την τιμή του συστατικού κίτρινου.
 
 ```csharp
 public static int GetY(int cmyk)
@@ -16,16 +17,16 @@ public static int GetY(int cmyk)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| cmyk | Int32 | Το χρώμα CMYK παρουσιάζεται ως ακέραια τιμή 32-bit. |
+| cmyk | Int32 | Το χρώμα CMYK που παρουσιάζεται ως τιμή 32-bit ακέραιου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η τιμή του κίτρινου στοιχείου.
+Η τιμή του κίτρινου συστατικού.
 
 ### Δείτε επίσης
 
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

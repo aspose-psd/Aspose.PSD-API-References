@@ -1,27 +1,28 @@
 ---
-title: GifOptions.HasTrailer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GifOptions ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το GIF έχει τρέιλερ.
+title: "GifOptions.HasTrailer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GifOptions. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το GIF έχει trailer"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.imageoptions/gifoptions/hastrailer/
 ---
+{{< psd/tize >}}
 ## GifOptions.HasTrailer property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το GIF έχει τρέιλερ.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το GIF έχει trailer.
 
 ```csharp
 public bool HasTrailer { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν το GIF έχει τρέιλερ? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το GIF έχει trailer· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [GifOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../gifoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

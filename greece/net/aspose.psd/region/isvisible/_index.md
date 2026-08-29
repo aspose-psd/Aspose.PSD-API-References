@@ -1,14 +1,15 @@
 ---
-title: Region.IsVisible
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region μέθοδος. Ελέγχει εάν το καθορισμένο σημείο περιέχεται σε αυτόRegion .
+title: "Region.IsVisible"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Region. Ελέγχει αν το καθορισμένο σημείο περιέχεται σε αυτό το Region."
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd/region/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_11}
 
-Ελέγχει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`Region`](../) .
+Ελέγχει αν το καθορισμένο σημείο περιέχεται σε αυτό το [`Region`](../).
 
 ```csharp
 public bool IsVisible(float x, float y)
@@ -19,21 +20,21 @@ public bool IsVisible(float x, float y)
 | x | Single | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Single | Η συντεταγμένη y του σημείου προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-True όταν το καθορισμένο σημείο περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+Αληθές όταν το καθορισμένο σημείο περιέχεται σε αυτό το [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Ελέγχει εάν το καθορισμένο[`PointF`](../../pointf/) δομή περιέχεται σε αυτό[`Region`](../) .
+Ελέγχει αν η καθορισμένη δομή [`PointF`](../../pointf/) περιέχεται σε αυτό το [`Region`](../).
 
 ```csharp
 public bool IsVisible(PointF point)
@@ -41,24 +42,24 @@ public bool IsVisible(PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../../pointf/) δομή προς δοκιμή. |
+| point | PointF | Η δομή [`PointF`](../../pointf/) προς έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθές όταν*point* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν *point* περιέχεται σε αυτό το [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_12}
 
-Ελέγχει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`Region`](../) όταν σχεδιάζονται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Ελέγχει αν το καθορισμένο σημείο περιέχεται σε αυτό το [`Region`](../) όταν σχεδιάζεται με τη χρήση του καθορισμένου [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics g)
@@ -68,24 +69,24 @@ public bool IsVisible(float x, float y, Graphics g)
 | --- | --- | --- |
 | x | Single | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Single | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-True όταν το καθορισμένο σημείο περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+Αληθές όταν το καθορισμένο σημείο περιέχεται σε αυτό το [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Ελέγχει εάν το καθορισμένο[`PointF`](../../pointf/) δομή περιέχεται σε αυτό[`Region`](../) όταν σχεδιάζονται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Ελέγχει αν η καθορισμένη δομή [`PointF`](../../pointf/) περιέχεται σε αυτό το [`Region`](../) όταν σχεδιάζεται με τη χρήση του καθορισμένου [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(PointF point, Graphics g)
@@ -93,26 +94,26 @@ public bool IsVisible(PointF point, Graphics g)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../../pointf/) δομή προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| point | PointF | Η δομή [`PointF`](../../pointf/) προς έλεγχο. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθές όταν*point* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν *point* περιέχεται σε αυτό το [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float) {#isvisible_13}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) .
+Ελέγχει αν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό το [`Region`](../).
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height)
@@ -120,26 +121,26 @@ public bool IsVisible(float x, float y, float width, float height)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Single | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| y | Single | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| width | Single | Το πλάτος του ορθογωνίου προς δοκιμή. |
-| height | Single | Το ύψος του ορθογωνίου προς δοκιμή. |
+| x | Single | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| y | Single | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| πλάτος | Single | Το πλάτος του ορθογωνίου προς έλεγχο. |
+| ύψος | Single | Το ύψος του ορθογωνίου προς έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) αντικείμενο; διαφορετικά, ψευδής.
+αληθές όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό το αντικείμενο [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF) {#isvisible_6}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου[`RectangleF`](../../rectanglef/) δομή περιέχεται σε αυτό[`Region`](../) .
+Ελέγχει αν οποιοδήποτε τμήμα της καθορισμένης δομής [`RectangleF`](../../rectanglef/) περιέχεται σε αυτό το [`Region`](../).
 
 ```csharp
 public bool IsVisible(RectangleF rect)
@@ -147,24 +148,24 @@ public bool IsVisible(RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ο[`RectangleF`](../../rectanglef/) δομή προς δοκιμή. |
+| rect | RectangleF | Η δομή [`RectangleF`](../../rectanglef/) προς έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true όταν οποιοδήποτε τμήμα του*rect* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν οποιοδήποτε τμήμα του *rect* περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, float, float, Graphics) {#isvisible_14}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) όταν σχεδιάζονται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Δοκιμάζει εάν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτήν την [`Region`](../) όταν σχεδιάζεται με τη χρήση των καθορισμένων [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(float x, float y, float width, float height, Graphics g)
@@ -172,28 +173,28 @@ public bool IsVisible(float x, float y, float width, float height, Graphics g)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Single | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| y | Single | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| width | Single | Το πλάτος του ορθογωνίου προς δοκιμή. |
-| height | Single | Το ύψος του ορθογωνίου προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| x | Single | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| y | Single | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| πλάτος | Single | Το πλάτος του ορθογωνίου προς έλεγχο. |
+| ύψος | Single | Το ύψος του ορθογωνίου προς έλεγχο. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(RectangleF, Graphics) {#isvisible_7}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου[`RectangleF`](../../rectanglef/) δομή περιέχεται σε αυτό[`Region`](../) όταν σχεδιάζονται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Δοκιμάζει εάν οποιοδήποτε τμήμα της καθορισμένης δομής [`RectangleF`](../../rectanglef/) περιέχεται σε αυτήν την [`Region`](../) όταν σχεδιάζεται με τη χρήση των καθορισμένων [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(RectangleF rect, Graphics g)
@@ -201,26 +202,26 @@ public bool IsVisible(RectangleF rect, Graphics g)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ο[`RectangleF`](../../rectanglef/) δομή προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| rect | RectangleF | Η δομή [`RectangleF`](../../rectanglef/) προς έλεγχο. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθές όταν*rect* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν το *rect* περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_8}
 
-Ελέγχει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`Region`](../) αντικείμενο όταν σχεδιάζεται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) αντικείμενο.
+Δοκιμάζει εάν το καθορισμένο σημείο περιέχεται στο αντικείμενο [`Region`](../) όταν σχεδιάζεται με τη χρήση του αντικειμένου [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics g)
@@ -230,24 +231,24 @@ public bool IsVisible(int x, int y, Graphics g)
 | --- | --- | --- |
 | x | Int32 | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Int32 | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true όταν το καθορισμένο σημείο περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν το καθορισμένο σημείο περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Ελέγχει εάν το καθορισμένο[`Point`](../../point/) δομή περιέχεται σε αυτό[`Region`](../) .
+Δοκιμάζει εάν η καθορισμένη δομή [`Point`](../../point/) περιέχεται σε αυτήν την [`Region`](../).
 
 ```csharp
 public bool IsVisible(Point point)
@@ -255,24 +256,24 @@ public bool IsVisible(Point point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../../point/) δομή προς δοκιμή. |
+| point | Point | Η δομή [`Point`](../../point/) προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθές όταν*point* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν *point* περιέχεται σε αυτό το [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Point](../../point/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Ελέγχει εάν το καθορισμένο[`Point`](../../point/) δομή περιέχεται σε αυτό[`Region`](../) όταν σχεδιάζονται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Δοκιμάζει εάν η καθορισμένη δομή [`Point`](../../point/) περιέχεται σε αυτήν την [`Region`](../) όταν σχεδιάζεται με τη χρήση των καθορισμένων [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(Point point, Graphics g)
@@ -280,26 +281,26 @@ public bool IsVisible(Point point, Graphics g)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../../point/) δομή προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| point | Point | Η δομή [`Point`](../../point/) προς δοκιμή. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθές όταν*point* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν *point* περιέχεται σε αυτό το [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int) {#isvisible_9}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) .
+Ελέγχει αν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό το [`Region`](../).
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height)
@@ -307,26 +308,26 @@ public bool IsVisible(int x, int y, int width, int height)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Int32 | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| y | Int32 | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| width | Int32 | Το πλάτος του ορθογωνίου προς δοκιμή. |
-| height | Int32 | Το ύψος του ορθογωνίου προς δοκιμή. |
+| x | Int32 | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| y | Int32 | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| πλάτος | Int32 | Το πλάτος του ορθογωνίου προς έλεγχο. |
+| ύψος | Int32 | Το ύψος του ορθογωνίου προς έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle) {#isvisible_4}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου[`Rectangle`](../../rectangle/) δομή περιέχεται σε αυτό[`Region`](../) .
+Δοκιμάζει εάν οποιοδήποτε τμήμα της καθορισμένης δομής [`Rectangle`](../../rectangle/) περιέχεται σε αυτήν την [`Region`](../).
 
 ```csharp
 public bool IsVisible(Rectangle rect)
@@ -334,24 +335,24 @@ public bool IsVisible(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../../rectangle/) δομή προς δοκιμή. |
+| rect | Rectangle | Η δομή [`Rectangle`](../../rectangle/) προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true όταν οποιοδήποτε τμήμα του*rect* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει αληθές όταν οποιοδήποτε τμήμα του *rect* περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, int, int, Graphics) {#isvisible_10}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) όταν σχεδιάζονται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Δοκιμάζει εάν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτήν την [`Region`](../) όταν σχεδιάζεται με τη χρήση των καθορισμένων [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(int x, int y, int width, int height, Graphics g)
@@ -359,28 +360,28 @@ public bool IsVisible(int x, int y, int width, int height, Graphics g)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Int32 | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| y | Int32 | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς δοκιμή. |
-| width | Int32 | Το πλάτος του ορθογωνίου προς δοκιμή. |
-| height | Int32 | Το ύψος του ορθογωνίου προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| x | Int32 | Η συντεταγμένη x της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| y | Int32 | Η συντεταγμένη y της επάνω αριστερής γωνίας του ορθογωνίου προς έλεγχο. |
+| πλάτος | Int32 | Το πλάτος του ορθογωνίου προς έλεγχο. |
+| ύψος | Int32 | Το ύψος του ορθογωνίου προς έλεγχο. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν οποιοδήποτε τμήμα του καθορισμένου ορθογωνίου περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Rectangle, Graphics) {#isvisible_5}
 
-Ελέγχει εάν κάποιο τμήμα του καθορισμένου[`Rectangle`](../../rectangle/) δομή περιέχεται σε αυτό[`Region`](../) όταν σχεδιάζονται χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Δοκιμάζει εάν οποιοδήποτε τμήμα της καθορισμένης δομής [`Rectangle`](../../rectangle/) περιέχεται σε αυτήν την [`Region`](../) όταν σχεδιάζεται με τη χρήση των καθορισμένων [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(Rectangle rect, Graphics g)
@@ -388,19 +389,19 @@ public bool IsVisible(Rectangle rect, Graphics g)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../../rectangle/) δομή προς δοκιμή. |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
+| rect | Rectangle | Η δομή [`Rectangle`](../../rectangle/) προς δοκιμή. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει ένα πλαίσιο γραφικών. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true όταν οποιοδήποτε τμήμα του*rect* περιέχεται σε αυτό[`Region`](../) ; διαφορετικά, ψευδής.
+αληθές όταν οποιοδήποτε τμήμα του *rect* περιέχεται σε αυτήν την [`Region`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

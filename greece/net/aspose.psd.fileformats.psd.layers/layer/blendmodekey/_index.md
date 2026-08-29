@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει ή ορίζει το κλειδί λειτουργίας ανάμειξης"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης.
+Λαμβάνει ή ορίζει το κλειδί της λειτουργίας ανάμειξης.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλήκτρο blend mode.
+Το κλειδί λειτουργίας ανάμειξης.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χρησιμοποιήσετε τη λειτουργία συνδυασμού επιπέδων PassThrough στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να χρησιμοποιήσετε τη λειτουργία ανάμειξης στρώματος PassThrough στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

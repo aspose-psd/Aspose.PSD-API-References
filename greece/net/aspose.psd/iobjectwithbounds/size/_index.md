@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IObjectWithBounds ιδιοκτησία. Λαμβάνει το μέγεθος του αντικειμένου.
+title: "IObjectWithBounds.Size"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IObjectWithBounds. Λαμβάνει το μέγεθος του αντικειμένου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
 Λαμβάνει το μέγεθος του αντικειμένου.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/iobjectwithbounds/size/
 public Size Size { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος του αντικειμένου.
 
@@ -22,7 +23,7 @@ public Size Size { get; }
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* χώρος ονομάτων [Aspose.PSD](../../iobjectwithbounds/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

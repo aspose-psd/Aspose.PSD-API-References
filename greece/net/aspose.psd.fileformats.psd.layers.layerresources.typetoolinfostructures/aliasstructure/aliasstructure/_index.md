@@ -1,14 +1,15 @@
 ---
-title: AliasStructure.AliasStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AliasStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουAliasStructure τάξη.
+title: "AliasStructure.AliasStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής AliasStructure. Αρχικοποιεί μια νέα παρουσία της κλάσης AliasStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/aliasstructure/
 ---
+{{< psd/tize >}}
 ## AliasStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`AliasStructure`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`AliasStructure`](../).
 
 ```csharp
 public AliasStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public AliasStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [AliasStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

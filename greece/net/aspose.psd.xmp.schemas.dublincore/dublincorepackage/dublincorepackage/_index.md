@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.DublinCorePackage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DublinCorePackage κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DublinCorePackage.DublinCorePackage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DublinCorePackage κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public DublinCorePackage()
 ### Δείτε επίσης
 
 * class [DublinCorePackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

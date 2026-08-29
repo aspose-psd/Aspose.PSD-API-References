@@ -1,14 +1,15 @@
 ---
-title: Region.Complement
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region μέθοδος. Ενημερώνει αυτόRegion να περιέχει το τμήμα του καθορισμένουRectangleF δομή που δεν τέμνεται με αυτόRegion .
+title: "Region.Complement"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Region. Ενημερώνει αυτό το Region ώστε να περιέχει το τμήμα της καθορισμένης δομής RectangleF που δεν τέμνει αυτό το Region."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-Ενημερώνει αυτό[`Region`](../) να περιέχει το τμήμα του καθορισμένου[`RectangleF`](../../rectanglef/) δομή που δεν τέμνεται με αυτό[`Region`](../) .
+Ενημερώνει αυτό το [`Region`](../) ώστε να περιέχει το τμήμα της καθορισμένης δομής [`RectangleF`](../../rectanglef/) που δεν τέμνει αυτό το [`Region`](../).
 
 ```csharp
 public void Complement(RectangleF rect)
@@ -16,20 +17,20 @@ public void Complement(RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ο[`RectangleF`](../../rectanglef/) δομή για να το συμπληρώσει[`Region`](../). |
+| rect | RectangleF | Η δομή [`RectangleF`](../../rectanglef/) που συμπληρώνει αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-Ενημερώνει αυτό[`Region`](../) να περιέχει το τμήμα του καθορισμένου[`Rectangle`](../../rectangle/) δομή που δεν τέμνεται με αυτό[`Region`](../) .
+Ενημερώνει αυτό το [`Region`](../) ώστε να περιέχει το τμήμα της καθορισμένης δομής [`Rectangle`](../../rectangle/) που δεν τέμνει αυτό το [`Region`](../).
 
 ```csharp
 public void Complement(Rectangle rect)
@@ -37,20 +38,20 @@ public void Complement(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../../rectangle/) δομή για να το συμπληρώσει[`Region`](../). |
+| rect | Rectangle | Η δομή [`Rectangle`](../../rectangle/) που συμπληρώνει αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-Ενημερώνει αυτό[`Region`](../) να περιέχει το τμήμα του καθορισμένου[`GraphicsPath`](../../graphicspath/) που δεν διασταυρώνεται με αυτό[`Region`](../) .
+Ενημερώνει αυτό το [`Region`](../) ώστε να περιέχει το τμήμα της καθορισμένης [`GraphicsPath`](../../graphicspath/) που δεν τέμνει αυτό το [`Region`](../).
 
 ```csharp
 public void Complement(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Complement(GraphicsPath path)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| path | GraphicsPath | ο[`GraphicsPath`](../../graphicspath/) για να συμπληρωθεί αυτό[`Region`](../). |
+| path | GraphicsPath | Η [`GraphicsPath`](../../graphicspath/) που συμπληρώνει αυτό το [`Region`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *path*isnull. |
+| ArgumentNullException | *path* είναι null. |
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-Ενημερώνει αυτό[`Region`](../) να περιέχει το τμήμα του καθορισμένου[`Region`](../) που δεν διασταυρώνεται με αυτό[`Region`](../) .
+Ενημερώνει αυτό το [`Region`](../) ώστε να περιέχει το τμήμα του καθορισμένου [`Region`](../) που δεν τέμνει αυτό το [`Region`](../).
 
 ```csharp
 public void Complement(Region region)
@@ -85,18 +86,18 @@ public void Complement(Region region)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| region | Region | ο[`Region`](../) αντίρρηση να συμπληρωθεί αυτό[`Region`](../) αντικείμενο. |
+| region | Region | Το αντικείμενο [`Region`](../) που συμπληρώνει αυτό το αντικείμενο [`Region`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *region*isnull. |
+| ArgumentNullException | *region* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

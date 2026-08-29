@@ -1,20 +1,21 @@
 ---
-title: ExifData.Gamma
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το γάμμα.
+title: "ExifData.Gamma"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το γάμμα"
 type: docs
 weight: 350
 url: /el/net/aspose.psd.exif/exifdata/gamma/
 ---
+{{< psd/tize >}}
 ## ExifData.Gamma property
 
-Λαμβάνει ή ρυθμίζει το γάμμα.
+Λαμβάνει ή ορίζει το γάμμα.
 
 ```csharp
 public TiffRational Gamma { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή γάμμα.
 
@@ -22,7 +23,7 @@ public TiffRational Gamma { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

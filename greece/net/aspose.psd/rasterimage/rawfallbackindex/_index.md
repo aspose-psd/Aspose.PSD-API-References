@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawFallbackIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει ή ορίζει το εφεδρικό ευρετήριο για χρήση όταν το ευρετήριο παλέτας είναι εκτός ορίων
+title: "RasterImage.RawFallbackIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage property. Λαμβάνει ή ορίζει το εφεδρικό δείκτη που χρησιμοποιείται όταν ο δείκτης παλέτας είναι εκτός ορίων"
 type: docs
 weight: 100
 url: /el/net/aspose.psd/rasterimage/rawfallbackindex/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawFallbackIndex property
 
-Λαμβάνει ή ορίζει το εφεδρικό ευρετήριο για χρήση όταν το ευρετήριο παλέτας είναι εκτός ορίων
+Ανακτά ή ορίζει το εφεδρικό δείκτη που θα χρησιμοποιηθεί όταν ο δείκτης παλέτας είναι εκτός ορίων
 
 ```csharp
 public int RawFallbackIndex { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το εφεδρικό ευρετήριο που χρησιμοποιείται όταν το ευρετήριο παλέτας είναι εκτός ορίων
+Ο εφεδρικός δείκτης που χρησιμοποιείται όταν ο δείκτης παλέτας είναι εκτός ορίων.
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

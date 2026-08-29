@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructuresRegistry μέθοδος. ΦορτίαOSTypeStructure χρησιμοποιώντας το πρώτο ανοιχτήρι που βρέθηκε κατάλληλο για το καθορισμένοstream .
+title: "OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος OSTypeStructuresRegistry. Φορτώνει το OSTypeStructure χρησιμοποιώντας το πρώτο βρεθέν ανοίγματος κατάλληλο για τη συγκεκριμένη ροή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Φορτία[`OSTypeStructure`](../../ostypestructure/) χρησιμοποιώντας το πρώτο ανοιχτήρι που βρέθηκε κατάλληλο για το καθορισμένο*stream* .
+Φορτώνει το [`OSTypeStructure`](../../ostypestructure/) χρησιμοποιώντας το πρώτο βρεθέν ανοίγματος κατάλληλο για τη συγκεκριμένη *ροή*.
 
 ```csharp
 public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stream)
@@ -16,21 +17,21 @@ public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stre
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το ρεύμα. |
+| stream | Stream | Η ροή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το φορτωμένο[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) ή μηδενική αν δεν βρεθεί ανοιχτήρι.
+Το φορτωμένο [`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) ή null εάν δεν βρεθεί ανοίγμα.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Το πρώτο άνοιγμα θα είναι στην πραγματικότητα το τελευταίο εγγεγραμμένο.
+Το πρώτο άνοιγμα θα είναι στην πραγματικότητα το τελευταίο καταχωρημένο.
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [OSTypeStructuresRegistry](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

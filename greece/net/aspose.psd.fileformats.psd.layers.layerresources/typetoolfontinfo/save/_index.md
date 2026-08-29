@@ -1,14 +1,15 @@
 ---
-title: TypeToolFontInfo.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolFontInfo μέθοδος. Αποθηκεύει τοTypeToolFontInfo πληροφορίες στο καθορισμένο κοντέινερ ροής.
+title: "TypeToolFontInfo.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolFontInfo μέθοδος. Αποθηκεύει τις πληροφορίες TypeToolFontInfo στο καθορισμένο container ροής"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Save method
 
-Αποθηκεύει το[`TypeToolFontInfo`](../) πληροφορίες στο καθορισμένο κοντέινερ ροής.
+Αποθηκεύει τις πληροφορίες [`TypeToolFontInfo`](../) στο καθορισμένο container ροής.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
@@ -16,13 +17,13 @@ public void Save(StreamContainer streamContainer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolFontInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

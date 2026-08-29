@@ -1,28 +1,29 @@
 ---
-title: BezierShape.Segments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BezierShape ιδιοκτησία. Παίρνει τα τμήματα σχήματος.
+title: "BezierShape.Segments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BezierShape. Λαμβάνει τα τμήματα του σχήματος."
 type: docs
 weight: 60
 url: /el/net/aspose.psd.shapes/beziershape/segments/
 ---
+{{< psd/tize >}}
 ## BezierShape.Segments property
 
-Παίρνει τα τμήματα σχήματος.
+Λαμβάνει τα τμήματα του σχήματος.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα τμήματα σχήματος.
+Τα τμήματα του σχήματος.
 
 ### Δείτε επίσης
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [BezierShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../beziershape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

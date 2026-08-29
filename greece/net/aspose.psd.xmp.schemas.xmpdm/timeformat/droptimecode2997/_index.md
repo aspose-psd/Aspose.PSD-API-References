@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.DropTimecode2997
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TimeFormat ιδιοκτησία. Λαμβάνει τον κωδικό χρόνου απόθεσης2997.
+title: "TimeFormat.DropTimecode2997"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TimeFormat. Λαμβάνει το drop timecode2997"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/timeformat/droptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.DropTimecode2997 property
 
-Λαμβάνει τον κωδικό χρόνου απόθεσης2997.
+Λαμβάνει το drop timecode2997.
 
 ```csharp
 public static TimeFormat DropTimecode2997 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The drop timecode2997.
+Το drop timecode2997.
 
 ### Δείτε επίσης
 
 * class [TimeFormat](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

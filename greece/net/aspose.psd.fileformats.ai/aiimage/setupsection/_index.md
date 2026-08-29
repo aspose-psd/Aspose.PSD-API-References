@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetupSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει την ενότητα ρύθμισης.
+title: "AiImage.SetupSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiImage. Λαμβάνει την ενότητα ρυθμίσεων"
 type: docs
-weight: 100
+weight: 120
 url: /el/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
 Λαμβάνει την ενότητα ρύθμισης.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 public AiSetupSection SetupSection { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το τμήμα εγκατάστασης.
+Η ενότητα ρυθμίσεων.
 
 ### Δείτε επίσης
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

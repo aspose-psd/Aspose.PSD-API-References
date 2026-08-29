@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAlblum
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ρυθμίζει το άλμπουμ.
+title: "XmpDynamicMediaPackage.SetAlblum"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpDynamicMediaPackage. Ορίζει το alblum"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAlblum method
 
-Ρυθμίζει το άλμπουμ.
+Ορίζει το άλμπουμ.
 
 ```csharp
 public void SetAlblum(string album)
@@ -16,12 +17,12 @@ public void SetAlblum(string album)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| album | String | Το άλμπουμ. |
+| άλμπουμ | String | Το άλμπουμ. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class DropShadowEffect
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect τάξη. Drop Shadow Layer effect
+title: "Κλάση DropShadowEffect"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.DropShadowEffect κλάση. Εφέ στρώσης Drop Shadow."
 type: docs
-weight: 2120
+weight: 2310
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect class
 
-Drop Shadow Layer effect
+Εφέ στρώσης Πτώση Σκιάς
 
 ```csharp
 public class DropShadowEffect : IShadowEffect
@@ -16,29 +17,35 @@ public class DropShadowEffect : IShadowEffect
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | Λαμβάνει ή ρυθμίζει τη γωνία σε μοίρες. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Παίρνει ή ρυθμίζει το χρώμα. |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Λαμβάνει ή ορίζει την απόσταση σε pixel. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/) { get; set; } | Λαμβάνει ή ορίζει τη γωνία σε μοίρες. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/blendmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/) { get; set; } | Λαμβάνει ή ορίζει την απόσταση σε εικονοστοιχεία. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/) { get; } | Λαμβάνει έναν τύπο εφέ |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ορατή. |
 | [KnocksOut](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [knocks out]. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Λαμβάνει ή ρυθμίζει το θόρυβο. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Λαμβάνει ή ορίζει την τιμή θαμπώματος σε pixel. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/) { get; set; } | Λαμβάνει ή ορίζει τον θόρυβο. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/) { get; set; } | Λαμβάνει ή ορίζει την τιμή θολώματος σε εικονοστοιχεία. |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/) { get; set; } | Λαμβάνει ή ορίζει την ένταση ως ποσοστό. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [χρησιμοποιήστε αυτήν τη γωνία σε όλα τα εφέ επιπέδου]. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [use this angle in all of the layer effects]. |
 
-### Παραδείγματα
+## Μέθοδοι
 
-Ο ακόλουθος κώδικας δείχνει υποστήριξη για την ιδιότητα PsdImage.GlobalAngle για την αλλαγή της τιμής καθολικής γωνίας.
+| Όνομα | Περιγραφή |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/geteffectbounds/)(Rectangle, int) | Υπολογίζει και λαμβάνει τα όρια των εικονοστοιχείων εφέ βάσει των ορίων των εικονοστοιχείων εισόδου της στρώσης. |
+
+## Παραδείγματα
+
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της ιδιότητας PsdImage.GlobalAngle για την αλλαγή της τιμής της παγκόσμιας γωνίας.
 
 ```csharp
 [C#]
 
-// Όταν η ιδιότητα DropShadowEffect.UseGlobalLight είναι "true", τότε το αντικείμενο DropShadowEffect χρησιμοποιεί την τιμή γωνίας από την ιδιότητα PsdImage.GlobalAngle.
+// Όταν η ιδιότητα DropShadowEffect.UseGlobalLight είναι 'true', τότε το αντικείμενο DropShadowEffect χρησιμοποιεί την τιμή γωνίας από την ιδιότητα PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -64,11 +71,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Παράδειγμα με Αδιαφάνεια = 20
+    // Παράδειγμα με Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Παράδειγμα με Αδιαφάνεια = 200
+    // Παράδειγμα με Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -77,7 +84,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### Δείτε επίσης
 
 * interface [IShadowEffect](../ishadoweffect/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

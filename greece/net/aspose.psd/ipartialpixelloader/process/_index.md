@@ -1,14 +1,15 @@
 ---
-title: IPartialPixelLoader.Process
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPartialPixelLoader μέθοδος. Επεξεργάζεται τα φορτωμένα pixel.
+title: "IPartialPixelLoader.Process"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IPartialPixelLoader. Επεξεργάζεται τα φορτωμένα pixel"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/ipartialpixelloader/process/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader.Process method
 
-Επεξεργάζεται τα φορτωμένα pixel.
+Επεξεργάζεται τα φορτωμένα εικονοστοιχεία.
 
 ```csharp
 public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Point end)
@@ -16,10 +17,10 @@ public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Poin
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pixelsRectangle | Rectangle | Τα εικονοστοιχεία ορθογώνιο. |
-| pixels | Color[] | Τα εικονοστοιχεία. |
-| start | Point | Το σημείο έναρξης των εικονοστοιχείων. Αν δεν είναι ίσο με (αριστερά, πάνω) που σημαίνει ότι δεν είναι πλήρες ορθογώνιο έχουμε. |
-| end | Point | Τα τελικά εικονοστοιχεία δείχνουν. Αν δεν είναι ίσο με (δεξιά,κάτω) που σημαίνει ότι δεν είναι πλήρες ορθογώνιο έχουμε. |
+| pixelsRectangle | Rectangle | Το ορθογώνιο των pixel. |
+| pixel | Color[] | Τα pixel. |
+| αρχή | Σημείο | Το σημείο εκκίνησης των pixel. Εάν δεν είναι ίσο με (left,top) σημαίνει ότι δεν έχουμε πλήρες ορθογώνιο. |
+| τέλος | Σημείο | Το σημείο λήξης των pixel. Εάν δεν είναι ίσο με (right,bottom) σημαίνει ότι δεν έχουμε πλήρες ορθογώνιο. |
 
 ### Δείτε επίσης
 
@@ -27,7 +28,7 @@ public void Process(Rectangle pixelsRectangle, Color[] pixels, Point start, Poin
 * struct [Color](../../color/)
 * struct [Point](../../point/)
 * interface [IPartialPixelLoader](../)
-* χώρος ονομάτων [Aspose.PSD](../../ipartialpixelloader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

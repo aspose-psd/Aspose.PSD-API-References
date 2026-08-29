@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Παίρνει την αριστερή κάτω μετατόπιση.
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει τη μετατόπιση αριστερά-κάτω"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
-Παίρνει την αριστερή κάτω μετατόπιση.
+Λαμβάνει τη μετατόπιση αριστερά-κάτω.
 
 ```csharp
 public double LeftBottomShift { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αριστερά κάτω μετατόπιση.
+Η μετατόπιση αριστερά-κάτω.
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

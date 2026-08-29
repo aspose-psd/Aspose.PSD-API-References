@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsCyanRedBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlncResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει το Shadows Cyan Red Balance.
+title: "BlncResource.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlncResource property. Λαμβάνει ή ορίζει το Ισοζύγιο Σκιών Κυανό Κόκκινο"
 type: docs
-weight: 120
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsCyanRedBalance property
 
-Λαμβάνει ή ρυθμίζει το Shadows Cyan Red Balance.
+Λαμβάνει ή ορίζει το Shadows Cyan Red Balance.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Shadows Cyan Red Balance.
+Το Shadows Cyan Red Balance.
 
 ### Δείτε επίσης
 
 * class [BlncResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

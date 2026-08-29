@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Grayscale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Μεταμόρφωση μιας εικόνας στην αναπαράστασή της σε κλίμακα του γκρι
+title: "PsdImage.Grayscale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Μετατροπή μιας εικόνας στην γκρι κλίμακα"
 type: docs
-weight: 550
+weight: 610
 url: /el/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
+{{< psd/tize >}}
 ## PsdImage.Grayscale method
 
-Μεταμόρφωση μιας εικόνας στην αναπαράστασή της σε κλίμακα του γκρι
+Μετασχηματισμός μιας εικόνας στην γκρι κλίμακα της
 
 ```csharp
 public override void Grayscale()
@@ -17,7 +18,7 @@ public override void Grayscale()
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

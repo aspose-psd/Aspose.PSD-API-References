@@ -1,11 +1,12 @@
 ---
-title: FileOpenSource.FilePath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileOpenSource ιδιοκτησία. Λαμβάνει τη διαδρομή του αρχείου για άνοιγμα.
+title: "FileOpenSource.FilePath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FileOpenSource. Λαμβάνει τη διαδρομή αρχείου προς άνοιγμα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
 Λαμβάνει τη διαδρομή του αρχείου για άνοιγμα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.sources/fileopensource/filepath/
 public string FilePath { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η διαδρομή αρχείου προς άνοιγμα.
 
 ### Δείτε επίσης
 
 * class [FileOpenSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../fileopensource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

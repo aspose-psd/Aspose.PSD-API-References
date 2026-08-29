@@ -1,36 +1,15 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Διόρθωση γάμμα εικόνας.
+title: "RasterImage.AdjustGamma"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Διόρθωση γάμμα μιας εικόνας."
 type: docs
 weight: 200
 url: /el/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-Διόρθωση γάμμα εικόνας.
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| Παράμετρος | Τύπος | Περιγραφή |
-| --- | --- | --- |
-| gammaRed | Single | Συντελεστής γάμα για κόκκινο κανάλι |
-| gammaGreen | Single | Γάμμα για συντελεστή πράσινου καναλιού |
-| gammaBlue | Single | Συντελεστής γάμμα για μπλε κανάλι |
-
-### Δείτε επίσης
-
-* class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-Διόρθωση γάμμα εικόνας.
+Διόρθωση γάμμα μιας εικόνας.
 
 ```csharp
 public virtual void AdjustGamma(float gamma)
@@ -38,12 +17,34 @@ public virtual void AdjustGamma(float gamma)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| gamma | Single | Συντελεστής γάμα για κόκκινα, πράσινα και μπλε κανάλια |
+| γάμμα | Single | Συντελεστής γάμμα για τα κανάλια κόκκινο, πράσινο και μπλε |
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+Διόρθωση γάμμα μιας εικόνας.
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| gammaRed | Single | Συντελεστής γάμμα για το κόκκινο κανάλι |
+| gammaGreen | Single | Συντελεστής γάμμα για το πράσινο κανάλι |
+| gammaBlue | Single | Συντελεστής γάμμα για το μπλε κανάλι |
+
+### Δείτε επίσης
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

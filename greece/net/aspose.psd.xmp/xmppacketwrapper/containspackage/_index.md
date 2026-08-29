@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPacketWrapper μέθοδος. Καθορίζει εάν το πακέτο υπάρχει σε xmp wrapper.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpPacketWrapper. Καθορίζει εάν το πακέτο υπάρχει στο xmp wrapper"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-Καθορίζει εάν το πακέτο υπάρχει σε xmp wrapper.
+Καθορίζει εάν το πακέτο υπάρχει στο xmp wrapper.
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
@@ -18,14 +19,14 @@ public bool ContainsPackage(string namespaceUri)
 | --- | --- | --- |
 | namespaceUri | String | Σχήμα πακέτου uri. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει true εάν το πακέτο με καθορισμένο χώρο ονομάτων Uri υπάρχει στο περιτύλιγμα XMP.
+Επιστρέφει true εάν το πακέτο με το καθορισμένο namespace Uri υπάρχει στο XMP wrapper.
 
 ### Δείτε επίσης
 
 * class [XmpPacketWrapper](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

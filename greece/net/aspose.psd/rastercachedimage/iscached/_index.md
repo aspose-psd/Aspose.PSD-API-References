@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα εικόνας αποθηκεύονται προσωρινά.
+title: "RasterCachedImage.IsCached"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterCachedImage. Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα εικόνας είναι προσωρινά αποθηκευμένα αυτή τη στιγμή"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/rastercachedimage/iscached/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.IsCached property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα εικόνας αποθηκεύονται προσωρινά.
+Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα εικόνας είναι προσωρινά αποθηκευμένα αυτή τη στιγμή.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν τα δεδομένα εικόνας είναι αποθηκευμένα στην κρυφή μνήμη. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν τα δεδομένα εικόνας είναι προσωρινά αποθηκευμένα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

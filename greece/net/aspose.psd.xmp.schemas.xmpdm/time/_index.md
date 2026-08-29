@@ -1,14 +1,15 @@
 ---
-title: Class Time
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.Time τάξη. Αναπαράσταση μιας τιμής χρόνου σε δευτερόλεπτα.
+title: "Κλάση Time"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.Time κλάση. Αναπαράσταση μιας τιμής χρόνου σε δευτερόλεπτα"
 type: docs
-weight: 5880
+weight: 6380
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
+{{< psd/tize >}}
 ## Time class
 
-Αναπαράσταση μιας τιμής χρόνου σε δευτερόλεπτα.
+Αναπαράσταση μιας χρονικής τιμής σε δευτερόλεπτα.
 
 ```csharp
 public sealed class Time : XmpTypeBase
@@ -16,27 +17,27 @@ public sealed class Time : XmpTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Time](time/)(Rational, int) | Αρχικοποιεί μια νέα παρουσία του`Time` τάξη. |
+| [Time](time/)(Rational, int) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `Time`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Λαμβάνει ή ορίζει κλίμακα για την τιμή χρόνου. |
+| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Λαμβάνει ή ορίζει την κλίμακα για την τιμή χρόνου. |
 | [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή χρόνου στην καθορισμένη κλίμακα. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

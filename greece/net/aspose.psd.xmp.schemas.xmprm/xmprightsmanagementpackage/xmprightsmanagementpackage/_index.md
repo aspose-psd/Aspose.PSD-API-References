@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.XmpRightsManagementPackage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpRightsManagementPackage κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "XmpRightsManagementPackage.XmpRightsManagementPackage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpRightsManagementPackage. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/xmprightsmanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public XmpRightsManagementPackage()
 ### Δείτε επίσης
 
 * class [XmpRightsManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

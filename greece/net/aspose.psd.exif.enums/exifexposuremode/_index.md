@@ -1,30 +1,31 @@
 ---
-title: Enum ExifExposureMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifExposureMode αρίθμηση. enum λειτουργίας έκθεσης exif.
+title: "Enum ExifExposureMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifExposureMode enum. enum λειτουργίας έκθεσης exif"
 type: docs
-weight: 830
+weight: 840
 url: /el/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
-enum λειτουργίας έκθεσης exif.
+exif λειτουργία έκθεσης enum.
 
 ```csharp
 public enum ExifExposureMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Auto | `0` | Αυτόματη έκθεση. |
 | Manual | `1` | Χειροκίνητη έκθεση. |
-| AutoBracket | `2` | Αυτόματο στήριγμα. |
+| AutoBracket | `2` | Αυτόματη παρενθέση. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

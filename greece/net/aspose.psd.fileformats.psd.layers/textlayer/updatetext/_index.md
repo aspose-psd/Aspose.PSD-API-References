@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer μέθοδος. Ενημερώνει το κείμενο.
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TextLayer. Ενημερώνει το κείμενο"
 type: docs
-weight: 100
+weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 Ενημερώνει το κείμενο.
@@ -16,13 +17,13 @@ public void UpdateText(string text)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
+| κείμενο | String | Η τιμή του κειμένου. |
 
 ### Δείτε επίσης
 
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void UpdateText(string text, float fontSize)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
-| fontSize | Single | Μέγεθος γραμματοσειράς. |
+| κείμενο | String | Η τιμή του κειμένου. |
+| fontSize | Single | Μέγεθος της γραμματοσειράς. |
 
 ### Δείτε επίσης
 
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -57,15 +58,15 @@ public void UpdateText(string text, Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
-| color | Color | Η τιμή του χρώματος. |
+| κείμενο | String | Η τιμή του κειμένου. |
+| χρώμα | Χρώμα | Η τιμή του χρώματος. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -79,16 +80,16 @@ public void UpdateText(string text, float fontSize, Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
-| fontSize | Single | Μέγεθος γραμματοσειράς. |
-| color | Color | Η τιμή του χρώματος. |
+| κείμενο | String | Η τιμή του κειμένου. |
+| fontSize | Single | Μέγεθος της γραμματοσειράς. |
+| χρώμα | Χρώμα | Η τιμή του χρώματος. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -102,16 +103,16 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
-| leftTopCoordinate | Point | Η επάνω αριστερή συντεταγμένη. |
-| fontSize | Single | Μέγεθος γραμματοσειράς. |
+| κείμενο | String | Η τιμή του κειμένου. |
+| leftTopCoordinate | Σημείο | Η αριστερή άνω συντεταγμένη. |
+| fontSize | Single | Μέγεθος της γραμματοσειράς. |
 
 ### Δείτε επίσης
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -125,17 +126,17 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
-| leftTopCoordinate | Point | Η επάνω αριστερή συντεταγμένη. |
-| color | Color | Η τιμή του χρώματος. |
+| κείμενο | String | Η τιμή του κειμένου. |
+| leftTopCoordinate | Σημείο | Η αριστερή άνω συντεταγμένη. |
+| χρώμα | Χρώμα | Η τιμή του χρώματος. |
 
 ### Δείτε επίσης
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -149,15 +150,15 @@ public void UpdateText(string text, Point leftTopCoordinate)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
-| leftTopCoordinate | Point | Η επάνω αριστερή συντεταγμένη. |
+| κείμενο | String | Η τιμή του κειμένου. |
+| leftTopCoordinate | Σημείο | Η αριστερή άνω συντεταγμένη. |
 
 ### Δείτε επίσης
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -171,17 +172,17 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Col
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Η τιμή του κειμένου. |
-| leftTopCoordinate | Point | Η επάνω αριστερή συντεταγμένη. |
-| fontSize | Single | Μέγεθος γραμματοσειράς. |
-| color | Color | Η τιμή του χρώματος. |
+| κείμενο | String | Η τιμή του κειμένου. |
+| leftTopCoordinate | Σημείο | Η αριστερή άνω συντεταγμένη. |
+| fontSize | Single | Μέγεθος της γραμματοσειράς. |
+| χρώμα | Χρώμα | Η τιμή του χρώματος. |
 
 ### Δείτε επίσης
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

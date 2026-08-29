@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τους συντελεστές YCbCr.
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τα YCbCrCoefficients"
 type: docs
-weight: 660
+weight: 670
 url: /el/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
-Λαμβάνει ή ορίζει τους συντελεστές YCbCr.
+Λαμβάνει ή ορίζει τα YCbCrCoefficients.
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι συντελεστές YCbCr.
+Τα YCbCrCoefficients.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Μη έγκυρο πλήθος τιμών ορθολογικών συντελεστών. Πρέπει να είναι ίσο με 3. |
-| ArgumentNullException | αξία |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Μη έγκυρος αριθμός τιμών λογιστικών συντελεστών. Πρέπει να είναι ίσος με 3. |
+| ArgumentNullException | τιμή |
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

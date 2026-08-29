@@ -1,11 +1,12 @@
 ---
-title: PsdImageResourceException.Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImageResourceException ιδιοκτησία. Λαμβάνει τον πόρο psd που προκάλεσε αυτήν την εξαίρεση.
+title: "PsdImageResourceException.Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImageResourceException. Λαμβάνει τον πόρο psd που προκάλεσε αυτήν την εξαίρεση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException.Resource property
 
 Λαμβάνει τον πόρο psd που προκάλεσε αυτήν την εξαίρεση.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/re
 public ResourceBlock Resource { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο πόρος.
 
@@ -22,7 +23,7 @@ public ResourceBlock Resource { get; }
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

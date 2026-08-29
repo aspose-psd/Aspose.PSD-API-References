@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουNonGenericDictionary τάξη.
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής NonGenericDictionary. Αρχικοποιεί μια νέα παρουσία της κλάσης NonGenericDictionary"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`NonGenericDictionary`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`NonGenericDictionary`](../).
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
@@ -21,7 +22,7 @@ public NonGenericDictionary(IDictionary dictionary)
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

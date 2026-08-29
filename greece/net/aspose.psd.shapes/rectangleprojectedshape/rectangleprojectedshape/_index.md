@@ -1,14 +1,15 @@
 ---
-title: RectangleProjectedShape.RectangleProjectedShape
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleProjectedShape κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουRectangleProjectedShape τάξη.
+title: "RectangleProjectedShape.RectangleProjectedShape"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RectangleProjectedShape κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης RectangleProjectedShape"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`RectangleProjectedShape`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape()
@@ -17,14 +18,14 @@ public RectangleProjectedShape()
 ### Δείτε επίσης
 
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`RectangleProjectedShape`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`RectangleProjectedShape`](../).
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)
@@ -32,13 +33,13 @@ public RectangleProjectedShape(RectangleF rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | RectangleF | Το ορθογώνιο από το οποίο θα αρχικοποιηθεί. |
+| ορθογώνιο | RectangleF | Το ορθογώνιο από το οποίο θα αρχικοποιηθεί. |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

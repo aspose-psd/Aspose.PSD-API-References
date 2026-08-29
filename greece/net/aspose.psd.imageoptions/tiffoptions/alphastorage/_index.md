@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.AlphaStorage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την επιλογή αποθήκευσης alpha. Επιλογές εκτός απόUnspecified Τα χρησιμοποιούνται όταν είναι περισσότερα από 3SamplesPerPixel ορίζεται.
+title: "TiffOptions.AlphaStorage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την επιλογή αποθήκευσης άλφα. Οι επιλογές εκτός του Unspecified χρησιμοποιούνται όταν ορίζονται περισσότερα από 3 SamplesPerPixel."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imageoptions/tiffoptions/alphastorage/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AlphaStorage property
 
-Λαμβάνει ή ορίζει την επιλογή αποθήκευσης alpha. Επιλογές εκτός απόUnspecified Τα χρησιμοποιούνται όταν είναι περισσότερα από 3[`SamplesPerPixel`](../samplesperpixel/) ορίζεται.
+Λαμβάνει ή ορίζει την επιλογή αποθήκευσης άλφα. Οι επιλογές εκτός του Unspecified χρησιμοποιούνται όταν ορίζονται περισσότερα από 3 [`SamplesPerPixel`](../samplesperpixel/).
 
 ```csharp
 public TiffAlphaStorage AlphaStorage { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η επιλογή αποθήκευσης άλφα.
 
@@ -22,7 +23,7 @@ public TiffAlphaStorage AlphaStorage { get; set; }
 
 * enum [TiffAlphaStorage](../../../aspose.psd.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class PsdOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.PsdOptions τάξη. Η μορφή αρχείου psd δημιουργεί επιλογές.
+title: "Κλάση PsdOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.ImageOptions.PsdOptions. Οι επιλογές δημιουργίας μορφής αρχείου psd."
 type: docs
-weight: 4900
+weight: 5390
 url: /el/net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
-Η μορφή αρχείου psd δημιουργεί επιλογές.
+Οι επιλογές δημιουργίας μορφής αρχείου psd.
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
@@ -16,47 +17,49 @@ public class PsdOptions : ImageOptionsBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [PsdOptions](psdoptions/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`PsdOptions` τάξη. |
-| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Αρχικοποιεί μια νέα παρουσία του`PsdOptions` τάξη. |
-| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Αρχικοποιεί μια νέα παρουσία του`PsdOptions` τάξη. |
+| [PsdOptions](psdoptions/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Αρχικοποιεί μια νέα παρουσία της κλάσης `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Αρχικοποιεί μια νέα παρουσία της κλάσης `PsdOptions`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους buffer που ορίζεται ως μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffer. |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό των bit ανά κανάλι χρώματος. |
-| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Λαμβάνει ή ρυθμίζει τον αριθμό των καναλιών χρώματος. |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία χρώματος psd. |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο συμπίεσης psd. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Λαμβάνει ή ορίζει την προεπιλεγμένη γραμματοσειρά αντικατάστασης (γραμματοσειρά που θα χρησιμοποιηθεί για τη σχεδίαση κειμένου κατά την εξαγωγή σε ράστερ, εάν η υπάρχουσα γραμματοσειρά επιπέδου στο αρχείο PSD δεν εμφανίζεται στο σύστημα). Για να λάβετε το σωστό όνομα της προεπιλεγμένης γραμματοσειράς, μπορείτε να χρησιμοποιήσετε το επόμενο απόσπασμα κώδικα : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] οικογένειες = col.Families; stringN defaultFont; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει διατεθεί. |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα του φόντου. Μπορεί να φαίνεται κάτω από διαφανή αντικείμενα. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους του buffer, η οποία ορίζεται ως το μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffers. |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό των δυαδικών ψηφίων ανά κανάλι χρώματος. |
+| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό των καναλιών χρώματος. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία χρώματος του psd. |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο συμπίεσης του psd. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Λαμβάνει ή ορίζει τη προεπιλεγμένη εναλλακτική γραμματοσειρά (η γραμματοσειρά που θα χρησιμοποιηθεί για τη σχεδίαση κειμένου κατά την εξαγωγή σε raster, εάν η υπάρχουσα γραμματοσειρά στρώματος στο αρχείο PSD δεν είναι διαθέσιμη στο σύστημα). Για να ληφθεί το σωστό όνομα της προεπιλεγμένης γραμματοσειράς μπορεί να χρησιμοποιηθεί το παρακάτω απόσπασμα κώδικα: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει απελευθερωθεί. |
 | [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [full frame]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Οι επιλογές πολλών σελίδων |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Οι επιλογές πολλαπλών σελίδων. |
 | virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Λαμβάνει ή ορίζει την παλέτα χρωμάτων. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων προόδου. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος προόδου. |
 | [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Λαμβάνει ή ορίζει την έκδοση μορφής αρχείου. Μπορεί να είναι PSD ή PSB. |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [refresh image preview data] - επιλογή που χρησιμοποιείται για τη μεγιστοποίηση της συμβατότητας με άλλα προγράμματα προβολής εικόνων PSD. Λάβετε υπόψη ότι η σχεδίαση επιπέδων κειμένου στην τελική διάταξη δεν υποστηρίζεται για Compact Framework platform |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν - Κατάργηση του καθολικού πόρου της μηχανής κειμένου - Χρησιμοποιείται για ορισμένα αρχεία psd σε επίπεδο κειμένου, μόνο σε περίπτωση που δεν μπορούν να ανοιχτούν στο Adobe Photoshop μετά την επεξεργασία (κυρίως για απόντα επίπεδα γραμματοσειρών που σχετίζονται με επίπεδα κειμένου). Μετά τη χρήση αυτής της επιλογής, ο χρήστης πρέπει να κάνει το επόμενο που ανοίγει στο αρχείο Photoshop: Μενού "Κείμενο" -&gt; "Επεξεργασία γραμματοσειρών που λείπουν". Μετά από αυτήν τη λειτουργία, όλο το κείμενο θα εμφανιστεί ξανά. Λάβετε υπόψη ότι αυτή η λειτουργία μπορεί να προκαλέσει κάποιες τελικές αλλαγές στη διάταξη. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [refresh image preview data] - επιλογή που χρησιμοποιείται για μεγιστοποίηση της συμβατότητας με άλλους προβολείς εικόνων PSD. Παρακαλώ σημειώστε ότι η σχεδίαση των στρωμάτων κειμένου στην τελική διάταξη δεν υποστηρίζεται για την πλατφόρμα Compact Framework. |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν - Αφαίρεση του παγκόσμιου πόρου μηχανής κειμένου - Χρησιμοποιείται για ορισμένα αρχεία psd με στρώματα κειμένου, μόνο στην περίπτωση που δεν μπορούν να ανοιχτούν στο Adobe Photoshop μετά την επεξεργασία (κυρίως για στρώματα κειμένου με απουσία γραμματοσειρών). Μετά τη χρήση αυτής της επιλογής, ο χρήστης πρέπει να εκτελέσει τα εξής στο αρχείο που άνοιξε στο Photoshop: Μενού "Text" -> "Process absent fonts". Μετά από αυτή τη λειτουργία, όλο το κείμενο θα εμφανιστεί ξανά. Παρακαλώ σημειώστε ότι αυτή η λειτουργία μπορεί να προκαλέσει κάποιες αλλαγές στην τελική διάταξη. |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Λαμβάνει ή ορίζει τις ρυθμίσεις ανάλυσης. |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Λαμβάνει ή ορίζει τους πόρους psd. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Λαμβάνει ή ορίζει την πηγή για τη δημιουργία εικόνας. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Λαμβάνει ή ορίζει τις επιλογές διανυσματικής ραστεροποίησης. |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Λαμβάνει ή ορίζει τους πόρους psd. Εάν η τιμή: NULL - τότε αποθηκεύει τους αρχικούς ImageResources (προεπιλεγμένη συμπεριφορά) Not Empty - τότε αποθηκεύει τους πόρους που περάστηκαν σε αυτή την ιδιότητα + [required resources] Empty - τότε αποθηκεύονται μόνο [required resources]. Απαιτούμενοι πόροι: ResolutionInfoResource, XmpResource |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Λαμβάνει ή ορίζει την πηγή για τη δημιουργία της εικόνας. |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [update metadata]. Εάν η τιμή είναι true, τα μεταδεδομένα θα ενημερωθούν κατά την αποθήκευση μιας εικόνας. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Λαμβάνει ή ορίζει τις επιλογές διανυσματικής rasterization. |
 | [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Λαμβάνει ή ορίζει την έκδοση του αρχείου psd. |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Λήψη ή ρύθμιση XMP data container |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Λάβετε ή ορίστε το δοχείο δεδομένων XMP. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Κλωνοποιεί αυτήν την παρουσία. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Διαθέτει την τρέχουσα παρουσία. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Αποδεσμεύει την τρέχουσα παρουσία. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να εξάγετε αρχείο AI σε μορφή PSD και PNG στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να εξάγετε αρχείο AI σε μορφή PSD και PNG στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,29 +73,29 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο εικόνας σε κάποια θέση δίσκου, όπως καθορίζεται από την ιδιότητα Source της παρουσίας PsdOptions. Ορίζονται πολλές ιδιότητες για την παρουσία PsdOptions πριν από τη δημιουργία της πραγματικής εικόνας. Ειδικά η ιδιότητα Source, που αναφέρεται στην πραγματική θέση του δίσκου σε αυτήν την περίπτωση.
+Αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο Image σε κάποια θέση δίσκου όπως καθορίζεται από την ιδιότητα Source του αντικειμένου PsdOptions. Πολλές ιδιότητες του αντικειμένου PsdOptions ορίζονται πριν δημιουργηθεί η πραγματική εικόνα. Ιδιαίτερα η ιδιότητα Source, που αναφέρεται στην πραγματική θέση δίσκου σε αυτή την περίπτωση.
 
 ```csharp
 [C#]
 
-//Δημιουργήστε μια παρουσία του PsdOptions και ορίστε τις διάφορες ιδιότητές του
+//Δημιουργήστε ένα στιγμιότυπο του PsdOptions και ορίστε τις διάφορες ιδιότητές του
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Δημιουργήστε μια παρουσία του FileCreateSource και αντιστοιχίστε την ως πηγή για την παρουσία του PsdOptions
-//Δεύτερη παράμετρος Boolean καθορίζει εάν το αρχείο που θα δημιουργηθεί είναι Temporal ή όχι
+//Δημιουργήστε ένα στιγμιότυπο του FileCreateSource και αναθέστε το ως Source για το στιγμιότυπο του PsdOptions
+//Η δεύτερη παράμετρος Boolean καθορίζει εάν το αρχείο που θα δημιουργηθεί είναι IsTemporal ή όχι
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Δημιουργήστε μια παρουσία της εικόνας και αρχικοποιήστε την με την παρουσία της PsdOptions καλώντας τη μέθοδο Δημιουργία
+//Δημιουργήστε ένα στιγμιότυπο του Image και αρχικοποιήστε το με το στιγμιότυπο του PsdOptions καλώντας τη μέθοδο Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //Κάνε κάποια επεξεργασία εικόνας
+    //κάντε κάποια επεξεργασία εικόνας
 
-    // αποθήκευση όλων των αλλαγών
+    // αποθηκεύστε όλες τις αλλαγές
     image.Save();
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων PSD 16 bit σε κλίμακα του γκρι στα 16 bit ανά κανάλι RGB λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων Grayscale 16 bit PSD σε 16bit ανά κανάλι RGB λειτουργεί σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -125,7 +128,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων PSD 16 bit της κλίμακας του γκρι σε 8 bit ανά κανάλι Η κλίμακα του γκρι λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων Grayscale 16 bit PSD σε 8 bit ανά κανάλι Grayscale λειτουργεί σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -158,7 +161,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χρησιμοποιήσετε τη λειτουργία συνδυασμού επιπέδων PassThrough στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να χρησιμοποιήσετε τη λειτουργία ανάμειξης στρώματος PassThrough στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -199,7 +202,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η πρόοδος μετατροπής του εγγράφου λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η πρόοδος μετατροπής εγγράφου λειτουργεί σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -243,52 +246,52 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Αυτό το παράδειγμα δείχνει πώς μπορείτε να φορτώσετε πληροφορίες εικονοστοιχείων σε έναν πίνακα τύπου χρώματος, να χειριστείτε τον πίνακα και να τον επαναφέρετε στην εικόνα. Για να εκτελέσετε αυτές τις λειτουργίες, αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο εικόνας (σε μορφή PSD) χρησιμοποιώντας το αντικείμενο MemoryStream.
+Αυτό το παράδειγμα δείχνει πώς να φορτώνει πληροφορίες Pixel σε έναν Πίνακα τύπου Color, να επεξεργάζεται τον πίνακα και να τον επαναφέρει στην εικόνα. Για την εκτέλεση αυτών των λειτουργιών, αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο Image (σε μορφή PSD) χρησιμοποιώντας το αντικείμενο MemoryStream.
 
 ```csharp
 [C#]
 
-//Δημιουργήστε μια παρουσία του MemoryStream
+//Δημιουργήστε ένα στιγμιότυπο του MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Δημιουργήστε μια παρουσία του PsdOptions και ορίστε τις διάφορες ιδιότητές του, συμπεριλαμβανομένης της ιδιότητας Source
+    //Δημιουργήστε ένα στιγμιότυπο του PsdOptions και ορίστε τις διάφορες ιδιότητές του, συμπεριλαμβανομένης της ιδιότητας Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Δημιουργία μιας παρουσίας εικόνας
+    //Δημιουργήστε ένα στιγμιότυπο του Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Λάβετε τα pixel της εικόνας καθορίζοντας την περιοχή ως όριο εικόνας
+        //Αποκτήστε τα pixel της εικόνας καθορίζοντας την περιοχή ως όριο της εικόνας
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //Κάντε βρόχο πάνω από τον πίνακα και ορίζει το χρώμα του εναλλακτικού εικονοστοιχείου με ευρετήριο
+        //Επανάληψη πάνω στον πίνακα και ορίζει το χρώμα του εναλλακτικού ευρετηριασμένου pixel
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Ρυθμίστε το χρώμα του εικονοστοιχείου με ευρετήριο σε κίτρινο
+                //Ορίστε το χρώμα του ευρετηριασμένου pixel σε κίτρινο
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Ρυθμίστε το χρώμα του εικονοστοιχείου με ευρετήριο σε μπλε
+                //Ορίστε το χρώμα του ευρετηριασμένου pixel σε μπλε
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        //Εφαρμογή των αλλαγών pixel στην εικόνα
+        //Εφαρμόστε τις αλλαγές pixel στην εικόνα
         image.SavePixels(image.Bounds, pixels);
 
-        // αποθήκευση όλων των αλλαγών.
+        // αποθηκεύστε όλες τις αλλαγές.
         image.Save();
     }
 
-    //Εγγραφή MemoryStream σε Αρχείο
+    //Γράψτε το MemoryStream σε αρχείο
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων PSD 16 bit της κλίμακας του γκρι λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων Grayscale 16-bit PSD λειτουργούν σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -353,7 +356,7 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 ### Δείτε επίσης
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

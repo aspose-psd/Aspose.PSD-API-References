@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.VerticalOffset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GdFlResource ιδιοκτησία. Λαμβάνει ή ορίζει την κατακόρυφη μετατόπιση.
+title: "GdFlResource.VerticalOffset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GdFlResource. Επιστρέφει ή ορίζει την κατακόρυφη μετατόπιση"
 type: docs
-weight: 180
+weight: 240
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.VerticalOffset property
 
 Λαμβάνει ή ορίζει την κατακόρυφη μετατόπιση.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verti
 public double VerticalOffset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κατακόρυφη μετατόπιση.
+Η κάθετη μετατόπιση.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // ΑΝΑΓΝΩΣΗ
+                    // Ανάγνωση
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [GdFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

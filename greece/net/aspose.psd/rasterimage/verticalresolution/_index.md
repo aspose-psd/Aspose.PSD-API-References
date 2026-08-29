@@ -1,31 +1,32 @@
 ---
-title: RasterImage.VerticalResolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει ή ορίζει την κατακόρυφη ανάλυση σε pixel ανά ίντσα αυτήςRasterImage .
+title: "RasterImage.VerticalResolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterImage. Λαμβάνει ή ορίζει την κάθετη ανάλυση σε εικονοστοιχεία ανά ίντσα για αυτό το RasterImage"
 type: docs
 weight: 160
 url: /el/net/aspose.psd/rasterimage/verticalresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.VerticalResolution property
 
-Λαμβάνει ή ορίζει την κατακόρυφη ανάλυση, σε pixel ανά ίντσα, αυτής[`RasterImage`](../) .
+Λαμβάνει ή ορίζει την κάθετη ανάλυση, σε εικονοστοιχεία ανά ίντσα, του [`RasterImage`](../).
 
 ```csharp
 public virtual double VerticalResolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κατακόρυφη ανάλυση.
+Η κάθετη ανάλυση.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Σημειώστε από προεπιλογή αυτή η τιμή είναι πάντα 96, καθώς διαφορετικές πλατφόρμες δεν μπορούν να επιστρέψουν την ανάλυση οθόνης. Μπορείτε να χρησιμοποιήσετε τη μέθοδο SetResolution για την ενημέρωση και των δύο τιμών ανάλυσης σε μία κλήση.
+Σημείωση: από προεπιλογή αυτή η τιμή είναι πάντα 96, καθώς διαφορετικές πλατφόρμες δεν μπορούν να επιστρέψουν την ανάλυση της οθόνης. Μπορείτε να εξετάσετε τη χρήση της μεθόδου SetResolution για την ενημέρωση και των δύο τιμών ανάλυσης σε μία κλήση.
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

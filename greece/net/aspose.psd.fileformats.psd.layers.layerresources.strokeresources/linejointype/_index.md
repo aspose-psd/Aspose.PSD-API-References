@@ -1,30 +1,31 @@
 ---
-title: Enum LineJoinType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType αρίθμηση. Τύπος σύνδεσης γραμμής.
+title: "Enum LineJoinType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Τύπος ένωσης γραμμής"
 type: docs
-weight: 3050
+weight: 3410
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-Τύπος σύνδεσης γραμμής.
+Τύπος ένωσης γραμμής.
 
 ```csharp
 public enum LineJoinType : short
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| BevelJoin | `0` | Τύπος λοξοτομής σύνδεσης. |
-| RoundJoin | `1` | Στρογγυλός τύπος ένωσης. |
-| MiterJoin | `2` | Τύπος σύνδεσης Miter. |
+| BevelJoin | `0` | Τύπος ένωσης Bevel. |
+| RoundJoin | `1` | Τύπος ένωσης Rounnd. |
+| MiterJoin | `2` | Τύπος ένωσης Miter. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Image.AutoAdjustPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η παλέτα αυτόματης προσαρμογής.
+title: "Image.AutoAdjustPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Image. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν γίνεται αυτόματη προσαρμογή παλέτας"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/image/autoadjustpalette/
 ---
+{{< psd/tize >}}
 ## Image.AutoAdjustPalette property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η παλέτα αυτόματης προσαρμογής.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν γίνεται αυτόματη προσαρμογή παλέτας.
 
 ```csharp
 public bool AutoAdjustPalette { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν ενεργοποιηθεί η αυτόματη προσαρμογή της παλέτας. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν ενεργοποιείται η αυτόματη προσαρμογή παλέτας· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

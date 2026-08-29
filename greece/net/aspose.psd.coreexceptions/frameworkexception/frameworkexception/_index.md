@@ -1,14 +1,15 @@
 ---
-title: FrameworkException.FrameworkException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FrameworkException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFrameworkException τάξη.
+title: "FrameworkException.FrameworkException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής FrameworkException. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης FrameworkException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions/frameworkexception/frameworkexception/
 ---
+{{< psd/tize >}}
 ## FrameworkException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`FrameworkException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`FrameworkException`](../).
 
 ```csharp
 public FrameworkException(string message)
@@ -21,14 +22,14 @@ public FrameworkException(string message)
 ### Δείτε επίσης
 
 * class [FrameworkException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FrameworkException(string, Exception) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`FrameworkException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`FrameworkException`](../).
 
 ```csharp
 public FrameworkException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public FrameworkException(string message, Exception innerException)
 ### Δείτε επίσης
 
 * class [FrameworkException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

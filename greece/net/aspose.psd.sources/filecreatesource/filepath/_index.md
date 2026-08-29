@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileCreateSource ιδιοκτησία. Λαμβάνει τη διαδρομή αρχείου για δημιουργία.
+title: "FileCreateSource.FilePath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FileCreateSource ιδιότητα. Λαμβάνει τη διαδρομή του αρχείου για δημιουργία"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
-Λαμβάνει τη διαδρομή αρχείου για δημιουργία.
+Λαμβάνει τη διαδρομή του αρχείου για δημιουργία.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διαδρομή αρχείου προς δημιουργία.
+Η διαδρομή αρχείου για δημιουργία.
 
 ### Δείτε επίσης
 
 * class [FileCreateSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../filecreatesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

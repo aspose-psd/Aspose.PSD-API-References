@@ -1,27 +1,28 @@
 ---
-title: Enum PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.PsdVersion αρίθμηση. Μορφή αρχείου Έκδοση
+title: "Enum PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion enum. Έκδοση μορφής αρχείου"
 type: docs
-weight: 3600
+weight: 4060
 url: /el/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
-Μορφή αρχείου Έκδοση
+Έκδοση μορφότυπου αρχείου
 
 ```csharp
 public enum PsdVersion : byte
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Psd | `1` | Η προεπιλεγμένη έκδοση PSD. |
 | Psb | `2` | Η έκδοση PSB. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Το παρακάτω παράδειγμα δείχνει τη δυνατότητα μετατροπής αρχείου PSD σε PSB και αντίστροφα.
 
@@ -47,7 +48,7 @@ using (Image img = Image.Load(sourceFilePathPsd))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

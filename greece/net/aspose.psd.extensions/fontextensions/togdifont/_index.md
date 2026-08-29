@@ -1,14 +1,15 @@
 ---
-title: FontExtensions.ToGdiFont
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontExtensions μέθοδος. Μετατρέπει τοFont στοFont .
+title: "FontExtensions.ToGdiFont"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontExtensions. Μετατρέπει το Font σε Font"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/fontextensions/togdifont/
 ---
+{{< psd/tize >}}
 ## ToGdiFont(Font) {#togdifont}
 
-Μετατρέπει το[`Font`](../../../aspose.psd/font/) στοFont .
+Μετατρέπει το [`Font`](../../../aspose.psd/font/) σε Font.
 
 ```csharp
 public static Font ToGdiFont(Font font)
@@ -16,24 +17,24 @@ public static Font ToGdiFont(Font font)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| font | Font | ο[`Font`](../../../aspose.psd/font/) μετατρέπω. |
+| font | Font | Το [`Font`](../../../aspose.psd/font/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιFont.
+Το μετατρεπόμενο Font.
 
 ### Δείτε επίσης
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../fontextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiFont(Font, GraphicsUnit) {#togdifont_1}
 
-Μετατρέπει το[`Font`](../../../aspose.psd/font/) στοFont .
+Μετατρέπει το [`Font`](../../../aspose.psd/font/) σε Font.
 
 ```csharp
 public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
@@ -41,18 +42,18 @@ public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| font | Font | ο[`Font`](../../../aspose.psd/font/) μετατρέπω. |
+| font | Font | Το [`Font`](../../../aspose.psd/font/) για μετατροπή. |
 | fontUnit | GraphicsUnit | Νέα μονάδα γραφικών |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιFont.
+Το μετατρεπόμενο Font.
 
 ### Δείτε επίσης
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../fontextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

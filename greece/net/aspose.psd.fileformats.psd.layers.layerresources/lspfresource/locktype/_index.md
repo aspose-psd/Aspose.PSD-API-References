@@ -1,28 +1,29 @@
 ---
-title: LspfResource.LockType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LspfResource ιδιοκτησία. Παίρνει ή ρυθμίζει τον τύπο της κλειδαριάς.
+title: "LspfResource.LockType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LspfResource. Λαμβάνει ή ορίζει τον τύπο του κλειδώματος"
 type: docs
-weight: 70
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/
 ---
+{{< psd/tize >}}
 ## LspfResource.LockType property
 
-Παίρνει ή ρυθμίζει τον τύπο της κλειδαριάς.
+Λαμβάνει ή ορίζει τον τύπο του κλειδώματος.
 
 ```csharp
 public LayerLockType LockType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο τύπος της κλειδαριάς.
+Ο τύπος του κλειδώματος.
 
 ### Δείτε επίσης
 
 * enum [LayerLockType](../../layerlocktype/)
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

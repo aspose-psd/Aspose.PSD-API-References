@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τη μορφή pixel.
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Λαμβάνει τη μορφή pixel"
 type: docs
 weight: 340
 url: /el/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
 Λαμβάνει τη μορφή pixel.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/pixeldataformat/pixelformat/
 public PixelFormat PixelFormat { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μορφή pixel.
 
@@ -22,7 +23,7 @@ public PixelFormat PixelFormat { get; }
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

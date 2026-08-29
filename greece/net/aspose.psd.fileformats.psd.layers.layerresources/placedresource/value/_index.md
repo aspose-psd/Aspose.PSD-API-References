@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή στημόνι του τοποθετημένου στρώματος στην εικόνα PSD.
+title: "PlacedResource.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει την τιμή παραμόρφωσης του τοποθετημένου στρώματος στην εικόνα PSD"
 type: docs
-weight: 200
+weight: 190
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Value property
 
-Λαμβάνει ή ορίζει την τιμή στημόνι του τοποθετημένου στρώματος στην εικόνα PSD.
+Ανακτά ή ορίζει την τιμή παραμόρφωσης του τοποθετημένου στρώματος στην εικόνα PSD.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή στημόνι του τοποθετημένου στρώματος.
+Η τιμή παραμόρφωσης του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

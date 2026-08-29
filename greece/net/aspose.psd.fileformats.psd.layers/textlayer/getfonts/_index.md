@@ -1,26 +1,27 @@
 ---
-title: TextLayer.GetFonts
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer μέθοδος. Λαμβάνει το σύνολο γραμματοσειρών του επιπέδου κειμένου.
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TextLayer μέθοδος. Λαμβάνει το σύνολο γραμματοσειρών της στρώσης κειμένου"
 type: docs
-weight: 80
+weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
-Λαμβάνει το σύνολο γραμματοσειρών του επιπέδου κειμένου.
+Λαμβάνει το σύνολο γραμματοσειρών του στρώματος κειμένου.
 
 ```csharp
 public TextFontInfo[] GetFonts()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το σύνολο γραμματοσειρών του επιπέδου κειμένου.
+Το σύνολο γραμματοσειρών της στρώσης κειμένου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει πώς το Aspose.PSD λαμβάνει ιδιότητες ενσωματωμένης μορφοποίησης του επιπέδου κειμένου.
+Ο παρακάτω κώδικας δείχνει πώς το Aspose.PSD λαμβάνει τις ιδιότητες της ενσωματωμένης μορφοποίησης του Text Layer.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // λαμβάνει γραμματοσειρές που περιέχει στο επίπεδο κειμένου
+        // λαμβάνει τις γραμματοσειρές που περιέχονται στο text layer
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

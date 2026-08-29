@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.ScriptValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolFontInfo ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του σεναρίου.
+title: "TypeToolFontInfo.ScriptValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolFontInfo ιδιότητα. Λαμβάνει ή ορίζει την τιμή του script"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.ScriptValue property
 
-Λαμβάνει ή ορίζει την τιμή του σεναρίου.
+Λαμβάνει ή ορίζει την τιμή του script.
 
 ```csharp
 public short ScriptValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του σεναρίου.
+Η τιμή του script.
 
 ### Δείτε επίσης
 
 * class [TypeToolFontInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

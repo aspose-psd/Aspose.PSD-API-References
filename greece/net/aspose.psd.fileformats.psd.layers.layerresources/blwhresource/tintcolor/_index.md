@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.TintColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlwhResource ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή Tint Color ARGB.
+title: "BlwhResource.TintColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlwhResource. Λαμβάνει ή ορίζει την τιμή ARGB του χρώματος απόχρωσης"
 type: docs
-weight: 120
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TintColor property
 
-Λαμβάνει ή ορίζει την τιμή Tint Color ARGB.
+Λαμβάνει ή ορίζει την τιμή ARGB του χρώματος Tint.
 
 ```csharp
 public int TintColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή Tint Color ARGB.
+Η τιμή ARGB του χρώματος απόχρωσης.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
+Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Δείτε επίσης
 
 * class [BlwhResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

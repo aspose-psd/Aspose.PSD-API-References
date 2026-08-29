@@ -1,20 +1,21 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BezierSegment ιδιοκτησία. Λαμβάνει το δεύτερο σημείο ελέγχου ενός bezier spline.
+title: "BezierSegment.SecondControlPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BezierSegment. Λαμβάνει το δεύτερο σημείο ελέγχου μιας καμπύλης Bezier."
 type: docs
 weight: 30
 url: /el/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-Λαμβάνει το δεύτερο σημείο ελέγχου ενός bezier spline.
+Λαμβάνει το δεύτερο σημείο ελέγχου μιας καμπύλης bezier.
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το δεύτερο σημείο ελέγχου.
 
@@ -22,7 +23,7 @@ public PointF SecondControlPoint { get; }
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* χώρος ονομάτων [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

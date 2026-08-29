@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.IsValid
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffDataType ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα ετικέτας είναι έγκυρα. Η έγκυρη ετικέτα περιέχει δεδομένα που μπορούν να διατηρηθούν. Δεν είναι δυνατή η αποθήκευση της μη έγκυρης ετικέτας.
+title: "TiffDataType.IsValid"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffDataType property. Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα ετικέτας είναι έγκυρα. Η έγκυρη ετικέτα περιέχει δεδομένα που μπορούν να διατηρηθούν. Η μη έγκυρη ετικέτα δεν μπορεί να αποθηκευτεί"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.tiff/tiffdatatype/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.IsValid property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα ετικέτας είναι έγκυρα. Η έγκυρη ετικέτα περιέχει δεδομένα που μπορούν να διατηρηθούν. Δεν είναι δυνατή η αποθήκευση της μη έγκυρης ετικέτας.
+Λαμβάνει μια τιμή που υποδεικνύει αν τα δεδομένα της ετικέτας είναι έγκυρα. Η έγκυρη ετικέτα περιέχει δεδομένα που μπορούν να διατηρηθούν. Η μη έγκυρη ετικέτα δεν μπορεί να αποθηκευτεί.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν τα δεδομένα ετικέτας είναι έγκυρα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν τα δεδομένα ετικέτας είναι έγκυρα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Λαμβάνει το όνομα της γραμματοσειράς adobe ανά όνομα οικογένειας γραμματοσειράς.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Λαμβάνει το όνομα Adobe γραμματοσειράς με βάση το όνομα οικογένειας γραμματοσειράς."
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Λαμβάνει το όνομα της γραμματοσειράς adobe ανά όνομα οικογένειας γραμματοσειράς.
+Λαμβάνει το όνομα γραμματοσειράς Adobe με βάση το όνομα οικογένειας γραμματοσειράς.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
@@ -16,15 +17,15 @@ public static string GetAdobeFontName(string fontFamilyName)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| fontFamilyName | String | Το όνομα της οικογένειας της γραμματοσειράς. |
+| fontFamilyName | String | Το όνομα οικογένειας γραμματοσειράς. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το όνομα γραμματοσειράς Adobe ανά όνομα οικογένειας γραμματοσειράς.
+Το όνομα Adobe γραμματοσειράς με βάση το όνομα οικογένειας γραμματοσειράς.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει τη δυνατότητα αλλαγής του ονόματος γραμματοσειράς σε στυλ τμήματος.
+Ο παρακάτω κώδικας επιδεικνύει τη δυνατότητα αλλαγής του ονόματος γραμματοσειράς σε στυλ τμήματος.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -80,7 +81,7 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

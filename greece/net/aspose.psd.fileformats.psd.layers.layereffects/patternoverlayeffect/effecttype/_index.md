@@ -1,22 +1,23 @@
 ---
-title: PatternOverlayEffect.EffectType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternOverlayEffect ιδιοκτησία. Λαμβάνει έναν τύπο εφέ type
+title: "PatternOverlayEffect.EffectType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternOverlayEffect ιδιότητα. Λαμβάνει έναν τύπο εφέ"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.EffectType property
 
-Λαμβάνει έναν τύπο εφέ type
+Λαμβάνει έναν τύπο εφέ.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της ιδιότητας ILayerEffect.EffectType.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της ιδιότητας ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // έπιασε
+            // το συνέλαβε
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -49,9 +50,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Δείτε επίσης
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [PatternOverlayEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

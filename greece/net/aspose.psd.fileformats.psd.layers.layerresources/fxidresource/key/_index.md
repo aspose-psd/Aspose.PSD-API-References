@@ -1,14 +1,15 @@
 ---
-title: FXidResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FXidResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "FXidResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FXidResource ιδιότητα. Επιστρέφει το κλειδί του πόρου του επιπέδου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/
 ---
+{{< psd/tize >}}
 ## FXidResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [FXidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

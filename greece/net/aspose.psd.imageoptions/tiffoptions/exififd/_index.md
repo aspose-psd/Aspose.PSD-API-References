@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον δείκτη σε EXIF IFD.
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τον δείκτη προς το EXIF IFD"
 type: docs
-weight: 130
+weight: 140
 url: /el/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-Λαμβάνει ή ορίζει τον δείκτη σε EXIF IFD.
+Λαμβάνει ή ορίζει τον δείκτη στο EXIF IFD.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο δείκτης στο EXIF IFD.
 
@@ -22,7 +23,7 @@ public TiffExifIfd ExifIfd { get; }
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

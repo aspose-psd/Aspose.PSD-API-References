@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν η εικόνα είναι πλακιδίων.
+title: "TiffOptions.IsTiled"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffOptions ιδιότητα. Λαμβάνει μια τιμή που υποδεικνύει εάν η εικόνα είναι σε πλακίδια"
 type: docs
-weight: 240
+weight: 250
 url: /el/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν η εικόνα είναι πλακιδίων.
+Λαμβάνει μια τιμή που υποδεικνύει εάν η εικόνα είναι πλακιδική.
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής`εάν η εικόνα έχει πλακάκια. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν η εικόνα είναι σε πλακίδια· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.StartPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IOrderedShape ιδιοκτησία. Παίρνει το αρχικό σημείο σχήματος.
+title: "IOrderedShape.StartPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IOrderedShape ιδιότητα. Αποκτά το αρχικό σημείο του σχήματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/iorderedshape/startpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.StartPoint property
 
-Παίρνει το αρχικό σημείο σχήματος.
+Λαμβάνει το αρχικό σημείο του σχήματος.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το σημείο εκκίνησης σχήματος.
+Το αρχικό σημείο του σχήματος.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* χώρος ονομάτων [Aspose.PSD](../../iorderedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageCreatorsRegistry μέθοδος. Καταργεί την εγγραφή του δημιουργού.
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageCreatorsRegistry μέθοδος. Καταργεί την καταχώρηση του δημιουργού."
 type: docs
 weight: 70
 url: /el/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-Καταργεί την εγγραφή του δημιουργού.
+Καταργεί την καταχώρηση του δημιουργού.
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
@@ -16,13 +17,13 @@ public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | Ο περιγραφέας του δημιουργού. |
+| creatorDescriptor | IImageCreatorDescriptor | Ο περιγραφέας δημιουργού. |
 
 ### Δείτε επίσης
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imagecreatorsregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

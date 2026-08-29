@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpItems
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfo6Resource ιδιοκτησία. Λαμβάνει ή ορίζει τα στοιχεία στημόνι.
+title: "TypeToolInfo6Resource.WarpItems"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolInfo6Resource. Λαμβάνει ή ορίζει τα στοιχεία παραμόρφωσης"
 type: docs
-weight: 200
+weight: 170
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpItems property
 
-Λαμβάνει ή ορίζει τα στοιχεία στημόνι.
+Λαμβάνει ή ορίζει τα στοιχεία παραμόρφωσης.
 
 ```csharp
 public OSTypeStructure[] WarpItems { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα στοιχεία στημονιού.
+Τα στοιχεία παραμόρφωσης.
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

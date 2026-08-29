@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ορίζει πλάτος γραμμής διαδρομής.
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει το πλάτος γραμμής Stroke"
 type: docs
-weight: 160
+weight: 140
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-Λαμβάνει ή ορίζει πλάτος γραμμής διαδρομής.
+Λαμβάνει ή ορίζει το πλάτος γραμμής του Stroke.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepNumerator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει τον αριθμητή βημάτων πλαισίου.
+title: "SmartObjectResource.FrameStepNumerator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει τον αριθμητή του βήματος καρέ"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepNumerator property
 
-Λαμβάνει ή ορίζει τον αριθμητή βημάτων πλαισίου.
+Λαμβάνει ή ορίζει τον αριθμητή βήματος πλαισίου.
 
 ```csharp
 public int FrameStepNumerator { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο αριθμητής βημάτων πλαισίου.
+Ο αριθμητής του βήματος καρέ.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

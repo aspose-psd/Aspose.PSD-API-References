@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Contrast
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει την αντίθεση.
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource property. Λαμβάνει ή ορίζει την αντίθεση"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
-Λαμβάνει ή ρυθμίζει την αντίθεση.
+Λαμβάνει ή ορίζει την αντίθεση.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η αντίθεση.
 
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DublinCorePackage μέθοδος. Προσθέτει τον συγγραφέα.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DublinCorePackage μέθοδος. Προσθέτει τον συγγραφέα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
 Προσθέτει τον συγγραφέα.
@@ -16,13 +17,13 @@ public void SetAuthor(string author)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| author | String | Ο συγγραφέας. |
+| συγγραφέας | String | Ο συγγραφέας. |
 
 ### Δείτε επίσης
 
 * class [DublinCorePackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,12 +37,12 @@ public void SetAuthor(string[] author)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| author | String[] | Ο συγγραφέας. |
+| συγγραφέας | String[] | Ο συγγραφέας. |
 
 ### Δείτε επίσης
 
 * class [DublinCorePackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LyidResource.LyidResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LyidResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLyidResource τάξη.
+title: "LyidResource.LyidResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής LyidResource. Αρχικοποιεί μια νέα παρουσία της κλάσης LyidResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource(int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LyidResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LyidResource`](../).
 
 ```csharp
 public LyidResource(int id)
@@ -16,19 +17,19 @@ public LyidResource(int id)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| id | Int32 | Το αναγνωριστικό του επιπέδου. |
+| id | Int32 | Το αναγνωριστικό του στρώματος. |
 
 ### Δείτε επίσης
 
 * class [LyidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LyidResource(byte[]) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LyidResource`](../) class. Με προσαρμοσμένη ή άγνωστη τιμή
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LyidResource`](../). Με προσαρμοσμένη ή άγνωστη τιμή
 
 ```csharp
 public LyidResource(byte[] bytes)
@@ -36,18 +37,18 @@ public LyidResource(byte[] bytes)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bytes | Byte[] | Τα byte. |
+| bytes | Byte[] | Τα bytes. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρη τιμή πόρου lyid |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρη τιμή lyid Resource |
 
 ### Δείτε επίσης
 
 * class [LyidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

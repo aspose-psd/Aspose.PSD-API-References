@@ -1,14 +1,15 @@
 ---
-title: RasterImage.WriteScanLine
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Εγγράφει ολόκληρη τη γραμμή σάρωσης στο καθορισμένο ευρετήριο γραμμής σάρωσης.
+title: "RasterImage.WriteScanLine"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Γράφει ολόκληρη τη γραμμή σάρωσης στον καθορισμένο δείκτη γραμμής σάρωσης"
 type: docs
-weight: 600
+weight: 620
 url: /el/net/aspose.psd/rasterimage/writescanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.WriteScanLine method
 
-Εγγράφει ολόκληρη τη γραμμή σάρωσης στο καθορισμένο ευρετήριο γραμμής σάρωσης.
+Γράφει ολόκληρη τη γραμμή σάρωσης στον καθορισμένο δείκτη γραμμής σάρωσης.
 
 ```csharp
 public void WriteScanLine(int scanLineIndex, Color[] pixels)
@@ -16,14 +17,14 @@ public void WriteScanLine(int scanLineIndex, Color[] pixels)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Μηδενικός δείκτης της γραμμής σάρωσης. |
-| pixels | Color[] | Ο πίνακας χρωμάτων εικονοστοιχείων για εγγραφή. |
+| scanLineIndex | Int32 | Δείκτης μηδενικής βάσης της γραμμής σάρωσης. |
+| pixel | Color[] | Ο πίνακας χρωμάτων εικονοστοιχείων για εγγραφή. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

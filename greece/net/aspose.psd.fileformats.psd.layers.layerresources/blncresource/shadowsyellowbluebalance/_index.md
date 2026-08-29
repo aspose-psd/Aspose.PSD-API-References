@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsYellowBlueBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlncResource ιδιοκτησία. Λαμβάνει ή ορίζει το Shadows Yellow Blue Balance.
+title: "BlncResource.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlncResource ιδιότητα. Λαμβάνει ή ορίζει το Shadows Yellow Blue Balance"
 type: docs
-weight: 140
+weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsYellowBlueBalance property
 
-Λαμβάνει ή ορίζει το Shadows Yellow Blue Balance.
+Λαμβάνει ή ορίζει την ισορροπία Σκιές Κίτρινο Μπλε.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Shadows Yellow Blue Balance.
+Το Shadows Yellow Blue Balance.
 
 ### Δείτε επίσης
 
 * class [BlncResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Text
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει API για τον χειρισμό των δεδομένων των επιπέδων κειμένου
+title: "Aspose.PSD.FileFormats.Psd.Layers.Text"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει API για τη διαχείριση δεδομένων στρωμάτων κειμένου"
 type: docs
-weight: 340
+weight: 360
 url: /el/net/aspose.psd.fileformats.psd.layers.text/
 ---
-Ο χώρος ονομάτων περιέχει API για τον χειρισμό των δεδομένων των επιπέδων κειμένου
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει API για τη διαχείριση δεδομένων στρωμάτων κειμένου
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [TextFontInfo](./textfontinfo/) | Αντιπροσωπεύει τις πληροφορίες σχετικά με τη γραμματοσειρά. Αυτή η κλάση δεν μπορεί να κληρονομηθεί. |
+| [TextFontInfo](./textfontinfo/) | Αναπαριστά τις πληροφορίες σχετικά με τη γραμματοσειρά. Αυτή η κλάση δεν μπορεί να κληρονομηθεί. |
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |
 | --- | --- |
 | [IText](./itext/) | Διεπαφή για επεξεργασία κειμένου για επίπεδα κειμένου |
-| [ITextParagraph](./itextparagraph/) | Η διεπαφή για εργασία με την παράγραφο |
+| [ITextParagraph](./itextparagraph/) | Η διεπαφή για εργασία με παράγραφο |
 | [ITextPortion](./itextportion/) | Διεπαφή για χειρισμό τμημάτων κειμένου |
-| [ITextStyle](./itextstyle/) | Διεπαφή για εργασία με Text Style |
+| [ITextStyle](./itextstyle/) | Διεπαφή για εργασία με στυλ κειμένου |
 
 

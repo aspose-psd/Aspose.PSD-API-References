@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions ιδιοκτησία. Λαμβάνει ή ορίζει τις ρυθμίσεις βελτιστοποίησης RD.
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegOptions. Λαμβάνει ή ορίζει τις ρυθμίσεις του βελτιστοποιητή RD"
 type: docs
-weight: 150
+weight: 160
 url: /el/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-Λαμβάνει ή ορίζει τις ρυθμίσεις βελτιστοποίησης RD.
+Λαμβάνει ή ορίζει τις ρυθμίσεις του βελτιστοποιητή RD.
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι ρυθμίσεις του RD optimizer.
+Οι ρυθμίσεις του βελτιστοποιητή RD.
 
 ### Δείτε επίσης
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

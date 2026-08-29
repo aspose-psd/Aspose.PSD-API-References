@@ -1,27 +1,28 @@
 ---
-title: Font.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font μέθοδος. Επιστρέφει μια αναπαράσταση συμβολοσειράς αναγνώσιμη από τον άνθρωποFont .
+title: "Font.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Font. Επιστρέφει μια αναγνώσιμη από άνθρωπο συμβολοσειρά που αντιπροσωπεύει αυτή τη Font."
 type: docs
 weight: 140
 url: /el/net/aspose.psd/font/tostring/
 ---
+{{< psd/tize >}}
 ## Font.ToString method
 
-Επιστρέφει μια αναπαράσταση συμβολοσειράς αναγνώσιμη από τον άνθρωπο[`Font`](../) .
+Επιστρέφει μια ανθρώπινα αναγνώσιμη συμβολοσειρά που αντιπροσωπεύει αυτή τη [`Font`](../).
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια συμβολοσειρά που αντιπροσωπεύει αυτό[`Font`](../).
+Μια συμβολοσειρά που αντιπροσωπεύει αυτή τη [`Font`](../).
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

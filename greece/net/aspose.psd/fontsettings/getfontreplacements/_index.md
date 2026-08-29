@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Λαμβάνει τον πίνακα αντικατάστασης γραμματοσειρών με το όνομα γραμματοσειράς
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Λαμβάνει τον πίνακα αντικαταστάσεων γραμματοσειρών με βάση το όνομα της γραμματοσειράς."
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-Λαμβάνει τον πίνακα αντικατάστασης γραμματοσειρών με το όνομα γραμματοσειράς
+Λαμβάνει τον πίνακα αντικαταστάσεων γραμματοσειράς με βάση το όνομα της γραμματοσειράς.
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
@@ -18,13 +19,13 @@ public static string[] GetFontReplacements(string fontName)
 | --- | --- | --- |
 | fontName | String | Όνομα της γραμματοσειράς. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Σειρά ονομάτων αντικαταστάσεων για τις παρεχόμενες γραμματοσειρές
+Πίνακας ονομάτων αντικαταστάσεων για τις παρεχόμενες γραμματοσειρές
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα προγραμματισμού περιορισμού γραμματοσειρών με χρήση.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα περιορισμού των γραμματοσειρών προγραμματιστικά χρησιμοποιώντας.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

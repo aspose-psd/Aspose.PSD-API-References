@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShmdResource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "ShmdResource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ShmdResource. Λαμβάνει το μήκος του πόρου στρώσης σε bytes"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/
 ---
+{{< psd/tize >}}
 ## ShmdResource.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [ShmdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.TotalSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει το συνολικό μέγεθος δεδομένων.
+title: "ThumbnailResource.TotalSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ThumbnailResource ιδιότητα. Επιστρέφει το συνολικό μέγεθος δεδομένων"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.TotalSize property
 
 Λαμβάνει το συνολικό μέγεθος δεδομένων.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/
 public int TotalSize { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το συνολικό μέγεθος δεδομένων.
 
 ### Δείτε επίσης
 
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

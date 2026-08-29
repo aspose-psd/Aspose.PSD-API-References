@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.VDpi
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResolutionInfoResource ιδιοκτησία. Κατακόρυφο DPI.
+title: "ResolutionInfoResource.VDpi"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ResolutionInfoResource. Κάθετη DPI"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VDpi property
 
-Κατακόρυφο DPI.
+Κάθετο DPI.
 
 ```csharp
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κατακόρυφα dpi.
+Η κάθετη DPI.
 
 ### Δείτε επίσης
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

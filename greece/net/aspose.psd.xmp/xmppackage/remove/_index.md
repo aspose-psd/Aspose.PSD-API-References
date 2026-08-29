@@ -1,14 +1,15 @@
 ---
-title: XmpPackage.Remove
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage μέθοδος. Αφαιρέστε την τιμή με το καθορισμένο κλειδί.
+title: "XmpPackage.Remove"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpPackage. Αφαιρεί την τιμή με το καθορισμένο κλειδί"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
-Αφαιρέστε την τιμή με το καθορισμένο κλειδί.
+Αφαιρεί την τιμή με το καθορισμένο κλειδί.
 
 ```csharp
 public virtual bool Remove(string key)
@@ -16,16 +17,16 @@ public virtual bool Remove(string key)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Η αναπαράσταση συμβολοσειράς του κλειδιού που προσδιορίζεται με την τιμή που έχει αφαιρεθεί. |
+| κλειδί | String | Η συμβολοσειρά που αντιπροσωπεύει το κλειδί που προσδιορίζεται με την αφαιρεθείσα τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Επιστρέφει true εάν η τιμή με το καθορισμένο κλειδί αφαιρέθηκε.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

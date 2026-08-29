@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage πεδίο. Ελάχιστη τιμή αξιολόγησης.
+title: "XmpBasicPackage.RatingMin"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpBasicPackage πεδίο. Ελάχιστη τιμή αξιολόγησης"
 type: docs
-weight: 110
+weight: 140
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
 Ελάχιστη τιμή αξιολόγησης.
@@ -17,7 +18,7 @@ public const int RatingMin;
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

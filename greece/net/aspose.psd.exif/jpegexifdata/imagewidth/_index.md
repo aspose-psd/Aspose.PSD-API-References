@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ImageWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος της εικόνας.
+title: "JpegExifData.ImageWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει το πλάτος της εικόνας."
 type: docs
 weight: 90
 url: /el/net/aspose.psd.exif/jpegexifdata/imagewidth/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageWidth property
 
 Λαμβάνει ή ορίζει το πλάτος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.exif/jpegexifdata/imagewidth/
 public uint ImageWidth { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

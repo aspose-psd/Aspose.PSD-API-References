@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.SurroundColors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathGradientBrush ιδιοκτησία. Λαμβάνει ή ορίζει μια σειρά χρωμάτων που αντιστοιχούν στα σημεία της διαδρομήςPathGradientBrush γεμίζει.
+title: "PathGradientBrush.SurroundColors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PathGradientBrush property. Λαμβάνει ή ορίζει έναν πίνακα χρωμάτων που αντιστοιχούν στα σημεία της διαδρομής που γεμίζει αυτό το PathGradientBrush"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.SurroundColors property
 
-Λαμβάνει ή ορίζει μια σειρά χρωμάτων που αντιστοιχούν στα σημεία της διαδρομής[`PathGradientBrush`](../) γεμίζει.
+Λαμβάνει ή ορίζει έναν πίνακα χρωμάτων που αντιστοιχούν στα σημεία της διαδρομής που γεμίζει αυτό το [`PathGradientBrush`](../).
 
 ```csharp
 public Color[] SurroundColors { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Μια σειρά από[`Color`](../../../aspose.psd/color/) δομές που αντιπροσωπεύουν τα χρώματα που σχετίζονται με κάθε σημείο της διαδρομής[`PathGradientBrush`](../) γεμίζει.
+Μια σειρά από δομές [`Color`](../../../aspose.psd/color/) που αντιπροσωπεύουν τα χρώματα που σχετίζονται με κάθε σημείο στη διαδρομή που γεμίζει αυτό το [`PathGradientBrush`](../).
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Enum PathOperations
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations αρίθμηση. Οι πράξεις για τα σχήματα διαδρομής που συνδυάζονται πράξεις Boolean.
+title: "Απαρίθμηση PathOperations"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations απαρίθμηση. Οι λειτουργίες για τα σχήματα διαδρομής που συνδυάζουν Boolean λειτουργίες"
 type: docs
-weight: 1390
+weight: 1400
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
-Οι πράξεις για τα σχήματα διαδρομής που συνδυάζονται (πράξεις Boolean).
+Οι λειτουργίες για τον συνδυασμό των σχημάτων διαδρομής (Boolean operations).
 
 ```csharp
 public enum PathOperations
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | ExcludeOverlappingShapes | `0` | Εξαίρεση επικαλυπτόμενων σχημάτων (λειτουργία XOR). |
-| CombineShapes | `1` | Συνδυάστε σχήματα (λειτουργία Ή). Αυτή είναι η προεπιλεγμένη τιμή στο Photoshop. |
-| SubtractFrontShape | `2` | Αφαίρεση μπροστινού σχήματος (ΟΧΙ λειτουργία). |
-| IntersectShapeAreas | `3` | Περιοχές τομής σχήματος (ΚΑΙ λειτουργία). |
+| CombineShapes | `1` | Συνδυάστε σχήματα (λειτουργία OR). Αυτή είναι η προεπιλεγμένη τιμή στο Photoshop. |
+| SubtractFrontShape | `2` | Αφαίρεση μπροστινού σχήματος (λειτουργία NOT). |
+| IntersectShapeAreas | `3` | Διατομή περιοχών σχήματος (λειτουργία AND). |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη νέων ιδιοτήτων LengthRecord, PathOperations (λειτουργίες boolean), ShapeIndex και BezierKnotRecordsCount.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη των νέων ιδιοτήτων LengthRecord, PathOperations (λογικές λειτουργίες), ShapeIndex και BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Εδώ αλλάζουμε τον τρόπο για το συνδυασμό μεταξύ σχημάτων.
+    // Εδώ αλλάζουμε τον τρόπο συνδυασμού μεταξύ σχημάτων.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

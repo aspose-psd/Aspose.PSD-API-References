@@ -1,22 +1,23 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum αρίθμηση. Πιθανά χρώματα της ρύθμισης χρώματος φύλλου. Είναι διακοσμητικό χρώμα διεπαφής του στρώματος στη λίστα στρώσεων σε PS
+title: "Απαρίθμηση SheetColorHighlightEnum"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum απαρίθμηση. Πιθανά χρώματα της ρύθμισης χρώματος Sheet. Το διακοσμητικό χρώμα UI του στρώματος στη λίστα στρωμάτων στο PS."
 type: docs
-weight: 2970
+weight: 3320
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-Πιθανά χρώματα της ρύθμισης χρώματος φύλλου. Είναι διακοσμητικό χρώμα διεπαφής του στρώματος στη λίστα στρώσεων σε PS
+Πιθανά χρώματα της ρύθμισης χρώματος Φύλλου. Είναι διακοσμητικό χρώμα UI του στρώματος στη λίστα στρωμάτων στο PS.
 
 ```csharp
 public enum SheetColorHighlightEnum : short
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | NoColor | `0` | Το χρώμα δεν έχει καθοριστεί. |
 | Red | `1` | Το κόκκινο χρώμα. |
@@ -27,9 +28,9 @@ public enum SheetColorHighlightEnum : short
 | Violet | `6` | Το βιολετί χρώμα. |
 | Gray | `7` | Το γκρι χρώμα. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να αλλάξετε την επισήμανση χρώματος φύλλου στο Aspose.PSD (Ρύθμιση χρώματος φύλλου)
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να αλλάξετε το Sheet Color Highlight στο Aspose.PSD (ρύθμιση χρώματος Sheet).
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ public enum SheetColorHighlightEnum : short
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Στο αρχείο τα χρώματα της επισήμανσης των επιπέδων είναι με αυτή τη σειρά
+// Στο αρχείο, τα χρώματα επισήμανσης των στρωμάτων είναι με αυτή τη σειρά.
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Το χρώμα φύλλου επιπέδων χρησιμοποιείται για την οπτική επισήμανση των επιπέδων. 
-// Για παράδειγμα, μπορείτε να ενημερώσετε ορισμένα επίπεδα σε PSD και στη συνέχεια να επισημάνετε με χρώμα το επίπεδο που θέλετε να τραβήξετε την προσοχή.
+// Το Layer Sheet Color χρησιμοποιείται για οπτική επισήμανση των στρωμάτων.
+// Για παράδειγμα, μπορείτε να ενημερώσετε κάποια στρώματα σε PSD και στη συνέχεια να επισημάνετε με χρώμα το στρώμα που θέλετε να τραβήξει την προσοχή.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -59,7 +60,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // Τα χρώματα πρέπει να αντιστραφούν
+    // Τα χρώματα πρέπει να αντιστραφούν.
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Ο πόρος lcrl εμφανίζεται πάντα στη λίστα πόρων αρχείων psd.
+            // Ο πόρος lcrl εμφανίζεται πάντα στη λίστα πόρων του αρχείου PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Αντίστροφη χρωμάτων φύλλου στυλ. Ρύθμιση της επισήμανσης χρώματος επιπέδου.
+                // Αντιστροφή των χρωμάτων του style sheet. Ρύθμιση του Layer color highlight.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -93,7 +94,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

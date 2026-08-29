@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Cyan
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykMixerChannel ιδιοκτησία. Παίρνει ή ρυθμίζει το κυανό.
+title: "CmykMixerChannel.Cyan"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmykMixerChannel. Λαμβάνει ή ορίζει το κυανό."
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Cyan property
 
-Παίρνει ή ρυθμίζει το κυανό.
+Λαμβάνει ή ορίζει το κυανό.
 
 ```csharp
 public short Cyan { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κυανό.
 
 ### Δείτε επίσης
 
 * class [CmykMixerChannel](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

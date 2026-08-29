@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.IsAngleScalable
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinearGradientBrushBase ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάνAngle αλλάζει κατά τη διάρκεια των μετασχηματισμών με αυτόLinearGradientBrushBase .
+title: "LinearGradientBrushBase.IsAngleScalable"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LinearGradientBrushBase property. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το Angle αλλάζει κατά τις μετασχηματισμούς με αυτό το LinearGradientBrushBase"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.brushes/lineargradientbrushbase/isanglescalable/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.IsAngleScalable property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν[`Angle`](../angle/) αλλάζει κατά τη διάρκεια των μετασχηματισμών με αυτό[`LinearGradientBrushBase`](../) .
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το [`Angle`](../angle/) αλλάζει κατά τις μετασχηματισμούς με αυτό το [`LinearGradientBrushBase`](../).
 
 ```csharp
 public bool IsAngleScalable { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν[`Angle`](../angle/) αλλάζει κατά τη διάρκεια των μετασχηματισμών με αυτό[`LinearGradientBrushBase`](../) ; σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το [`Angle`](../angle/) αλλάζει κατά τις μετασχηματισμούς με αυτό το [`LinearGradientBrushBase`](../); διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [LinearGradientBrushBase](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

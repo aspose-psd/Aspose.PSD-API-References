@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Photometric
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει το φωτομετρικό.
+title: "TiffOptions.Photometric"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το photometric."
 type: docs
-weight: 320
+weight: 330
 url: /el/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
-Λαμβάνει ή ρυθμίζει το φωτομετρικό.
+Λαμβάνει ή ορίζει το φωτομετρικό.
 
 ```csharp
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το φωτομετρικό.
+Το photometric.
 
 ### Δείτε επίσης
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

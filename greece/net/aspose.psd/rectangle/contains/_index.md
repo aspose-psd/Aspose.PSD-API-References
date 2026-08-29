@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Contains
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Καθορίζει εάν το καθορισμένο σημείο περιέχεται σε αυτόRectangleδομή.
+title: "Rectangle.Contains"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Καθορίζει αν το καθορισμένο σημείο περιέχεται σε αυτή τη δομή Rectangle."
 type: docs
 weight: 220
 url: /el/net/aspose.psd/rectangle/contains/
 ---
+{{< psd/tize >}}
 ## Contains(int, int) {#contains_2}
 
-Καθορίζει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`Rectangle`](../)δομή.
+Καθορίζει αν το καθορισμένο σημείο περιέχεται σε αυτή τη δομή [`Rectangle`](../).
 
 ```csharp
 public bool Contains(int x, int y)
@@ -19,21 +20,21 @@ public bool Contains(int x, int y)
 | x | Int32 | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Int32 | Η συντεταγμένη y του σημείου προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το σημείο που ορίζεται από*x* και*y* περιέχεται σε αυτό[`Rectangle`](../) δομή; αλλιώς ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το σημείο που ορίζεται από *x* και *y* περιέχεται σε αυτή τη δομή [`Rectangle`](../); διαφορετικά false.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Point) {#contains}
 
-Καθορίζει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`Rectangle`](../)δομή.
+Καθορίζει αν το καθορισμένο σημείο περιέχεται σε αυτή τη δομή [`Rectangle`](../).
 
 ```csharp
 public bool Contains(Point point)
@@ -41,24 +42,24 @@ public bool Contains(Point point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../../point/) να δοκιμάσω. |
+| point | Point | Το [`Point`](../../point/) για δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το σημείο που αντιπροσωπεύεται από*point* περιέχεται σε αυτό[`Rectangle`](../) δομή; αλλιώς ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το σημείο που αντιπροσωπεύεται από *point* περιέχεται σε αυτή τη δομή [`Rectangle`](../); διαφορετικά false.
 
 ### Δείτε επίσης
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Rectangle) {#contains_1}
 
-Καθορίζει εάν η ορθογώνια περιοχή που αντιπροσωπεύεται από*rect* εμπεριέχεται εξ ολοκλήρου σε αυτό[`Rectangle`](../)δομή.
+Καθορίζει αν η ορθογώνια περιοχή που αντιπροσωπεύεται από *rect* περιέχεται πλήρως σε αυτή τη δομή [`Rectangle`](../).
 
 ```csharp
 public bool Contains(Rectangle rect)
@@ -66,16 +67,16 @@ public bool Contains(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../) να δοκιμάσω. |
+| rect | Rectangle | Το [`Rectangle`](../) για δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν η ορθογώνια περιοχή που αντιπροσωπεύεται από*rect* εμπεριέχεται εξ ολοκλήρου σε αυτό[`Rectangle`](../) δομή; αλλιώς ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν η ορθογώνια περιοχή που αντιπροσωπεύεται από *rect* περιέχεται πλήρως σε αυτή τη δομή [`Rectangle`](../); διαφορετικά false.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

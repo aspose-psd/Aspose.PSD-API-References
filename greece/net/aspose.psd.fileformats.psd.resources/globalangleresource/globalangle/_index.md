@@ -1,27 +1,28 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GlobalAngleResource ιδιοκτησία. Λαμβάνει ή ορίζει την καθολική γωνία.
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GlobalAngleResource. Λαμβάνει ή ορίζει τη γενική γωνία"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
-Λαμβάνει ή ορίζει την καθολική γωνία.
+Λαμβάνει ή ορίζει τη παγκόσμια γωνία.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η καθολική γωνία.
+Η γενική γωνία.
 
 ### Δείτε επίσης
 
 * class [GlobalAngleResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

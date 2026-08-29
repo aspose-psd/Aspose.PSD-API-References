@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.PattResourceData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResourceData κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "PattResourceData.PattResourceData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PattResourceData. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public PattResourceData()
 ### Δείτε επίσης
 
 * class [PattResourceData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSatellites
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει τους δορυφόρους GPS που χρησιμοποιούνται για μετρήσεις.
+title: "ExifData.GPSSatellites"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τα δορυφόρους GPS που χρησιμοποιούνται για μετρήσεις"
 type: docs
 weight: 590
 url: /el/net/aspose.psd.exif/exifdata/gpssatellites/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSatellites property
 
-Λαμβάνει ή ρυθμίζει τους δορυφόρους GPS που χρησιμοποιούνται για μετρήσεις.
+Λαμβάνει ή ορίζει τα δορυφόρους GPS που χρησιμοποιούνται για μετρήσεις.
 
 ```csharp
 public string GPSSatellites { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι δορυφόροι GPS που χρησιμοποιούνται για μετρήσεις.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class GradientOverlayEffect
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect τάξη. Εφέ επιπέδου κλίσης
+title: "Κλάση GradientOverlayEffect"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.GradientOverlayEffect κλάση. Εφέ στρώματος διαβάθμισης"
 type: docs
-weight: 2130
+weight: 2320
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect class
 
-Εφέ επιπέδου κλίσης
+Εφέ στρώσης Διαβάθμισης
 
 ```csharp
 public class GradientOverlayEffect : ILayerEffect
@@ -16,17 +17,23 @@ public class GradientOverlayEffect : ILayerEffect
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/effecttype/) { get; } | Λαμβάνει έναν τύπο εφέ |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ορατή. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/) { get; set; } | Λαμβάνει ή ορίζει τις ρυθμίσεις. |
 
-### Παραδείγματα
+## Μέθοδοι
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη του εφέ επικάλυψης κλίσης.
+| Όνομα | Περιγραφή |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/geteffectbounds/)(Rectangle, int) | Υπολογίζει και λαμβάνει τα όρια των εικονοστοιχείων εφέ βάσει των ορίων των εικονοστοιχείων εισόδου της στρώσης. |
+
+## Παραδείγματα
+
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του εφέ gradient overlay.
 
 ```csharp
 [C#]
@@ -62,8 +69,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual((byte)255, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var settings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, settings.Color);
+    var settings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
+    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, settings.FillType);
     AssertAreEqual(true, settings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, settings.GradientType);
@@ -73,8 +81,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(156 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
     AssertAreEqual(false, settings.Reverse);
 
-    // Σημεία χρώματος
-    var colorPoints = settings.ColorPoints;
+    // Σημεία Χρώματος
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(3, colorPoints.Length);
 
     AssertAreEqual(Color.FromArgb(9, 0, 178), colorPoints[0].Color);
@@ -89,8 +97,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(4096, colorPoints[2].Location);
     AssertAreEqual(50, colorPoints[2].MedianPointLocation);
 
-    // Σημεία διαφάνειας
-    var transparencyPoints = settings.TransparencyPoints;
+    // Σημεία Διαφάνειας
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -101,8 +109,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // Δοκιμαστική επεξεργασία
-    settings.Color = Color.Green;
+    // Δοκιμή επεξεργασίας
+    solidGradient.Color = Color.Green;
 
     gradientOverlay.Opacity = 193;
     gradientOverlay.BlendMode = BlendMode.Lighten;
@@ -116,26 +124,26 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     settings.Reverse = true;
 
     // Προσθήκη νέου σημείου χρώματος
-    var colorPoint = settings.AddColorPoint();
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
-    // Αλλαγή θέσης προηγούμενου σημείου
-    settings.ColorPoints[2].Location = 3000;
+    // Αλλαγή θέσης του προηγούμενου σημείου
+    solidGradient.ColorPoints[2].Location = 3000;
 
     // Προσθήκη νέου σημείου διαφάνειας
-    var transparencyPoint = settings.AddTransparencyPoint();
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // Αλλαγή θέσης προηγούμενου σημείου διαφάνειας
-    settings.TransparencyPoints[1].Location = 2315;
+    // Αλλαγή θέσης του προηγούμενου σημείου διαφάνειας
+    solidGradient.TransparencyPoints[1].Location = 2315;
     im.Save(exportPath);
 }
 
-// Δοκιμή αρχείου μετά την επεξεργασία
+// Αρχείο δοκιμής μετά την επεξεργασία
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientOverlay = (GradientOverlayEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -144,47 +152,48 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual((byte)193, gradientOverlay.Opacity);
     AssertAreEqual(true, gradientOverlay.IsVisible);
 
-    var fillSettings = gradientOverlay.Settings;
-    AssertAreEqual(Color.Empty, fillSettings.Color);
+    var fillSettings = (GradientFillSettings)gradientOverlay.Settings;
+    var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
+    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
-    // Ελέγξτε τα σημεία χρώματος
-    AssertAreEqual(4, fillSettings.ColorPoints.Length);
+    // Έλεγχος σημείων χρώματος
+    AssertAreEqual(4, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.FromArgb(9, 0, 178), point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Red, point.Color);
     AssertAreEqual(2048, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.FromArgb(255, 252, 0), point.Color);
     AssertAreEqual(3000, point.Location);
 
-    point = fillSettings.ColorPoints[3];
+    point = solidGradient.ColorPoints[3];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // Ελέγξτε τα διαφανή σημεία
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // Έλεγχος διαφανών σημείων
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.0, transparencyPoint.Opacity);
     AssertAreEqual(2315, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.0, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
@@ -194,7 +203,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### Δείτε επίσης
 
 * interface [ILayerEffect](../ilayereffect/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

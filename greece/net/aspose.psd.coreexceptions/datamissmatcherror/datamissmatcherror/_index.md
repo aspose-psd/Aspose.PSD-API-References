@@ -1,14 +1,15 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DataMissmatchError κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουDataMissmatchError τάξη.
+title: "DataMissmatchError.DataMissmatchError"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DataMissmatchError κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης DataMissmatchError"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`DataMissmatchError`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`DataMissmatchError`](../).
 
 ```csharp
 public DataMissmatchError(string message)
@@ -21,7 +22,7 @@ public DataMissmatchError(string message)
 ### Δείτε επίσης
 
 * class [DataMissmatchError](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

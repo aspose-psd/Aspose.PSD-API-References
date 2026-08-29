@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα του επιπέδου. Καθορίζει το όνομα του στοιχείου όπως εμφανίζεται στον πίνακα Επίπεδα.
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει το όνομα της στρώσης. Καθορίζει το όνομα του αντικειμένου όπως εμφανίζεται στον πίνακα Layers."
 type: docs
-weight: 110
+weight: 130
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-Λαμβάνει ή ορίζει το όνομα του επιπέδου. Καθορίζει το όνομα του στοιχείου όπως εμφανίζεται στον πίνακα "Επίπεδα".
+Λαμβάνει ή ορίζει το όνομα του στρώματος. Καθορίζει το όνομα του αντικειμένου όπως εμφανίζεται στον πίνακα Layers.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα του επιπέδου.
+Το όνομα του στρώματος.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

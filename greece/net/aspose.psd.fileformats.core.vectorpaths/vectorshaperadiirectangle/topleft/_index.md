@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.TopLeft
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeRadiiRectangle ιδιοκτησία. Παίρνει ή ρυθμίζει το επάνω αριστερό μέρος.
+title: "VectorShapeRadiiRectangle.TopLeft"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorShapeRadiiRectangle. Λαμβάνει ή ορίζει το πάνω αριστερό"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.TopLeft property
 
-Παίρνει ή ρυθμίζει το επάνω αριστερό μέρος.
+Λαμβάνει ή ορίζει το πάνω αριστερό.
 
 ```csharp
 public double TopLeft { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Πάνω αριστερά.
+Το πάνω αριστερό.
 
 ### Δείτε επίσης
 
 * class [VectorShapeRadiiRectangle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

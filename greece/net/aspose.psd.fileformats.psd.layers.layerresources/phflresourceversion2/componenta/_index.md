@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.ComponentA
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion2 ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο A του color
+title: "PhflResourceVersion2.ComponentA"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PhflResourceVersion2. Παίρνει ή ορίζει το στοιχείο A του χρώματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentA property
 
-Λαμβάνει ή ορίζει το στοιχείο A του color
+Λαμβάνει ή ορίζει το στοιχείο A του χρώματος
 
 ```csharp
 public short ComponentA { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το συστατικό Α.
+Το συστατικό A.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ένα χρώμα πρέπει να κυμαίνεται από -12800 έως 12700 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Το χρώμα A πρέπει να είναι στο εύρος από -12800 έως 12700 |
 
 ### Δείτε επίσης
 
 * class [PhflResourceVersion2](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

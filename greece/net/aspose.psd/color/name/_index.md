@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color ιδιοκτησία. Παίρνει το όνομα αυτούColor .
+title: "Color.Name"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Color. Λαμβάνει το όνομα αυτού του Color"
 type: docs
 weight: 1520
 url: /el/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-Παίρνει το όνομα αυτού[`Color`](../) .
+Λαμβάνει το όνομα αυτού του [`Color`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα αυτού[`Color`](../).
+Το όνομα αυτού του [`Color`](../).
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

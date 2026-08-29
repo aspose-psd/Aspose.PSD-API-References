@@ -1,14 +1,15 @@
 ---
-title: Image.InterruptMonitor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λήψη ή ρύθμιση της οθόνης διακοπής.
+title: "Image.InterruptMonitor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Image property. Επιστρέφει ή ορίζει το interrupt monitor"
 type: docs
 weight: 120
 url: /el/net/aspose.psd/image/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## Image.InterruptMonitor property
 
-Λήψη ή ρύθμιση της οθόνης διακοπής.
+Λαμβάνει ή ορίζει τον παρακολουθητή διακοπής.
 
 ```csharp
 public InterruptMonitor InterruptMonitor { get; set; }
@@ -18,7 +19,7 @@ public InterruptMonitor InterruptMonitor { get; set; }
 
 * class [InterruptMonitor](../../../aspose.psd.multithreading/interruptmonitor/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

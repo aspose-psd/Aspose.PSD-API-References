@@ -1,14 +1,15 @@
 ---
-title: Size.Truncate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size μέθοδος. Μετατρέπει το καθορισμένοSizeF δομή σε αSize δομή περικόπτοντας τις τιμές τουSizeF δομή στις επόμενες χαμηλότερες ακέραιες τιμές.
+title: "Size.Truncate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Size. Μετατρέπει τη συγκεκριμένη δομή SizeF σε δομή Size περικόπτοντας τις τιμές της δομής SizeF στον επόμενο μικρότερο ακέραιο."
 type: docs
 weight: 70
 url: /el/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-Μετατρέπει το καθορισμένο[`SizeF`](../../sizef/) δομή σε α[`Size`](../) δομή περικόπτοντας τις τιμές του[`SizeF`](../../sizef/) δομή στις επόμενες χαμηλότερες ακέραιες τιμές.
+Μετατρέπει τη συγκεκριμένη δομή [`SizeF`](../../sizef/) σε δομή [`Size`](../) περικόπτοντας τις τιμές της δομής [`SizeF`](../../sizef/) στον επόμενο μικρότερο ακέραιο.
 
 ```csharp
 public static Size Truncate(SizeF size)
@@ -16,17 +17,17 @@ public static Size Truncate(SizeF size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | SizeF | ο[`SizeF`](../../sizef/) δομή για μετατροπή. |
+| size | SizeF | Η δομή [`SizeF`](../../sizef/) προς μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Size`](../) δομή σε αυτή τη μέθοδο μετατρέπεται.
+Η δομή [`Size`](../) στην οποία αυτή η μέθοδος μετατρέπει.
 
 ### Δείτε επίσης
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

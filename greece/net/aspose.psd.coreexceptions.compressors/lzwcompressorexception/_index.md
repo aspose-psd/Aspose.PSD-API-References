@@ -1,11 +1,12 @@
 ---
-title: Class LzwCompressorException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException τάξη. Η εξαίρεση του συμπιεστή lzw.
+title: "Κλάση LzwCompressorException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException class. Η εξαίρεση συμπιεστή lzw"
 type: docs
 weight: 450
 url: /el/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException class
 
 Η εξαίρεση του συμπιεστή lzw.
@@ -16,15 +17,15 @@ public class LzwCompressorException : CompressorException
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία του`LzwCompressorException` τάξη. |
-| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία του`LzwCompressorException` τάξη. |
+| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `LzwCompressorException`. |
+| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία της κλάσης `LzwCompressorException`. |
 
 ### Δείτε επίσης
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

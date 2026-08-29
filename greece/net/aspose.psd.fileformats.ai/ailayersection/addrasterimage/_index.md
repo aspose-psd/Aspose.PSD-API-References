@@ -1,14 +1,15 @@
 ---
-title: AiLayerSection.AddRasterImage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection μέθοδος. Προσθέτει την εικόνα ράστερ.
+title: "AiLayerSection.AddRasterImage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος AiLayerSection. Προσθέτει την raster εικόνα"
 type: docs
-weight: 140
+weight: 160
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.AddRasterImage method
 
-Προσθέτει την εικόνα ράστερ.
+Προσθέτει την ραστερ εικόνα.
 
 ```csharp
 public void AddRasterImage(AiRasterImageSection rasterImage)
@@ -16,13 +17,13 @@ public void AddRasterImage(AiRasterImageSection rasterImage)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rasterImage | AiRasterImageSection | Η εικόνα ράστερ. |
+| rasterImage | AiRasterImageSection | Η raster εικόνα. |
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

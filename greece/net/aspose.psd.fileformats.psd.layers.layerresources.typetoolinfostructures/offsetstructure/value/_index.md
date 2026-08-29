@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OffsetStructure ιδιοκτησία. Λαμβάνει ή ορίζει την ακέραια τιμή.
+title: "OffsetStructure.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OffsetStructure ιδιότητα. Λαμβάνει ή ορίζει την ακέραια τιμή"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.Value property
 
 Λαμβάνει ή ορίζει την ακέραια τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public int Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ακέραια τιμή.
 
 ### Δείτε επίσης
 
 * class [OffsetStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

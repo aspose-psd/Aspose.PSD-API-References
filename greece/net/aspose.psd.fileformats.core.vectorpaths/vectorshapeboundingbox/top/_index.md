@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Top
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeBoundingBox ιδιοκτησία. Παίρνει ή θέτει την κορυφή.
+title: "VectorShapeBoundingBox.Top"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorShapeBoundingBox ιδιότητα. Λαμβάνει ή ορίζει το επάνω"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Top property
 
-Παίρνει ή θέτει την κορυφή.
+Λαμβάνει ή ορίζει το πάνω.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κορυφή.
+Το επάνω.
 
 ### Δείτε επίσης
 
 * class [VectorShapeBoundingBox](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

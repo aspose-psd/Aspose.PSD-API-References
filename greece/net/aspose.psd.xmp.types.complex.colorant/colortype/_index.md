@@ -1,11 +1,12 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType αρίθμηση. Τύπος χρώματος.
+title: "Απαρίθμηση ColorType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType enum. Τύπος χρώματος"
 type: docs
-weight: 6000
+weight: 6500
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
 Τύπος χρώματος.
@@ -14,16 +15,16 @@ url: /el/net/aspose.psd.xmp.types.complex.colorant/colortype/
 public enum ColorType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Process | `1` | Τύπος χρώματος διεργασίας. |
-| Spot | `2` | Τύπος χρώματος κηλίδας. |
+| Process | `1` | Τύπος χρώματος διαδικασίας. |
+| Spot | `2` | Τύπος χρώματος spot. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

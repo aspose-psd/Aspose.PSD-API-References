@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει τις τρέχουσες ρυθμίσεις πρωτογενών δεδομένων. Σημείωση όταν χρησιμοποιείτε αυτές τις ρυθμίσεις τα δεδομένα φορτώνονται χωρίς μετατροπή.
+title: "RasterImage.RawDataSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterImage. Λαμβάνει τις τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων. Σημειώστε ότι όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή."
 type: docs
 weight: 90
 url: /el/net/aspose.psd/rasterimage/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataSettings property
 
-Λαμβάνει τις τρέχουσες ρυθμίσεις πρωτογενών δεδομένων. Σημείωση όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή.
+Λαμβάνει τις τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων. Σημειώστε ότι όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι τρέχουσες ρυθμίσεις πρωτογενών δεδομένων.
+Οι τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων.
 
 ### Δείτε επίσης
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageLoadersRegistry ιδιοκτησία. Λαμβάνει τις καταχωρημένες μορφές φόρτωσης εικόνων.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ImageLoadersRegistry. Παίρνει τις καταχωρημένες μορφές φόρτωσης εικόνας"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
-Λαμβάνει τις καταχωρημένες μορφές φόρτωσης εικόνων.
+Λαμβάνει τις καταχωρημένες μορφές φόρτωσης εικόνας.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι καταχωρημένες μορφές φόρτωσης εικόνων.
+Οι καταχωρημένες μορφές φόρτωσης εικόνας.
 
 ### Δείτε επίσης
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageloadersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

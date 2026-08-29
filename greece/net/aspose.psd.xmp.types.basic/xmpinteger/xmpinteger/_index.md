@@ -1,14 +1,15 @@
 ---
-title: XmpInteger.XmpInteger
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpInteger κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpInteger τάξη.
+title: "XmpInteger.XmpInteger"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpInteger. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpInteger"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.basic/xmpinteger/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger(long) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpInteger`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(long value)
@@ -16,19 +17,19 @@ public XmpInteger(long value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Int64 | Η αξία. |
+| τιμή | Int64 | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpInteger](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(int) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpInteger`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(int value)
@@ -36,19 +37,19 @@ public XmpInteger(int value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Int32 | Η αξία. |
+| τιμή | Int32 | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpInteger](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(string) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpInteger`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(string value)
@@ -56,19 +57,19 @@ public XmpInteger(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | η τιμή είναι μηδενική. |
-| ArgumentException | Μη έγκυρη τιμή συμβολοσειράς, τιμή |
+| ArgumentNullException | Η τιμή είναι null. |
+| ArgumentException | Μη έγκυρη τιμή συμβολοσειράς;value |
 
 ### Δείτε επίσης
 
 * class [XmpInteger](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

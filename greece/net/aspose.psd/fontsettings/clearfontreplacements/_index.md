@@ -1,22 +1,23 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Διαγράφει όλες τις γραμματοσειρές αντικαταστάσεις
+title: "FontSettings.ClearFontReplacements"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Καθαρίζει όλες τις αντικαταστάσεις γραμματοσειρών"
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
-Διαγράφει όλες τις γραμματοσειρές αντικαταστάσεις
+Καθαρίζει όλες τις αντικαταστάσεις γραμματοσειρών.
 
 ```csharp
 public static void ClearFontReplacements()
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα προγραμματισμού περιορισμού γραμματοσειρών με χρήση.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα περιορισμού των γραμματοσειρών προγραμματιστικά χρησιμοποιώντας.
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -54,7 +56,7 @@ finally
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

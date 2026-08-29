@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RawDataSettings ιδιοκτησία. Λαμβάνει ή ορίζει την παλέτα χρωμάτων
+title: "RawDataSettings.ColorPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RawDataSettings. Λαμβάνει ή ορίζει την παλέτα χρωμάτων"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/rawdatasettings/colorpalette/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.ColorPalette property
 
 Λαμβάνει ή ορίζει την παλέτα χρωμάτων
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd/rawdatasettings/colorpalette/
 public IColorPalette ColorPalette { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η χρωματική παλέτα
+Η παλέτα χρωμάτων
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../rawdatasettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

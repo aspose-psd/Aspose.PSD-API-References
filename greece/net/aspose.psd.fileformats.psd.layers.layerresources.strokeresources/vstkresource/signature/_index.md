@@ -1,14 +1,15 @@
 ---
-title: VstkResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Παίρνει την υπογραφή.
+title: "VstkResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει την υπογραφή"
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/
 ---
+{{< psd/tize >}}
 ## VstkResource.Signature property
 
-Παίρνει την υπογραφή.
+Λαμβάνει την υπογραφή.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

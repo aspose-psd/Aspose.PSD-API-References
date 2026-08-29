@@ -1,14 +1,15 @@
 ---
-title: Size.Size
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSize δομή από την καθορισμένηPoint .
+title: "Size.Size"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Size. Αρχικοποιεί ένα νέο στιγμιότυπο της δομής Size από το καθορισμένο Point"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Size`](../) δομή από την καθορισμένη[`Point`](../../point/) .
+Αρχικοποιεί ένα νέο στιγμιότυπο της δομής [`Size`](../) από το καθορισμένο [`Point`](../../point/).
 
 ```csharp
 public Size(Point point)
@@ -16,20 +17,20 @@ public Size(Point point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../../point/) από το οποίο να αρχικοποιηθεί αυτό[`Size`](../). |
+| point | Point | Το [`Point`](../../point/) από το οποίο θα αρχικοποιηθεί αυτό το [`Size`](../). |
 
 ### Δείτε επίσης
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Size`](../) δομή από τις καθορισμένες διαστάσεις.
+Αρχικοποιεί ένα νέο στιγμιότυπο της δομής [`Size`](../) από τις καθορισμένες διαστάσεις.
 
 ```csharp
 public Size(int width, int height)
@@ -37,13 +38,13 @@ public Size(int width, int height)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| width | Int32 | Το στοιχείο πλάτους του νέου[`Size`](../). |
-| height | Int32 | Η συνιστώσα ύψους του νέου[`Size`](../). |
+| width | Int32 | Το στοιχείο πλάτους του νέου [`Size`](../). |
+| height | Int32 | Το στοιχείο ύψους του νέου [`Size`](../). |
 
 ### Δείτε επίσης
 
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

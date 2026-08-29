@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.Add
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackageBaseCollection μέθοδος. Προσθέτει νέα παρουσία τουXmpPackage .
+title: "XmpPackageBaseCollection.Add"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackageBaseCollection method. Προσθέτει νέα παρουσία του XmpPackage"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp/xmppackagebasecollection/add/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Add method
 
-Προσθέτει νέα παρουσία του[`XmpPackage`](../../xmppackage/) .
+Προσθέτει νέα παρουσία του [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public void Add(XmpPackage package)
@@ -16,13 +17,13 @@ public void Add(XmpPackage package)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| package | XmpPackage | Το πακέτο XMP για προσθήκη. |
+| πακέτο | XmpPackage | Το πακέτο XMP προς προσθήκη. |
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

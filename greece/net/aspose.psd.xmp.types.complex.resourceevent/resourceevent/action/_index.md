@@ -1,31 +1,32 @@
 ---
-title: ResourceEvent.Action
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceEvent ιδιοκτησία. Λαμβάνει ή ορίζει ενέργεια.
+title: "ResourceEvent.Action"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ResourceEvent. Λαμβάνει ή ορίζει την ενέργεια"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
-Λαμβάνει ή ορίζει ενέργεια.
+Λαμβάνει ή ορίζει τη δράση.
 
 ```csharp
 public string Action { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η δράση.
+Η ενέργεια.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Οι καθορισμένες τιμές είναι: μετατροπή, αντιγραφή, δημιουργία, περικοπή, επεξεργασία, φιλτράρισμα, μορφοποίηση, έκδοση_ενημέρωση, εκτύπωση, δημοσίευση, διαχείριση, παραγωγή, αλλαγή μεγέθους, αποθήκευση. Οι νέες τιμές πρέπει να είναι ρήματα σε παρελθόντα χρόνο.
+Οι ορισμένες τιμές είναι: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. Οι νέες τιμές πρέπει να είναι ρήματα σε αόριστο χρόνο.
 
 ### Δείτε επίσης
 
 * class [ResourceEvent](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

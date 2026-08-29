@@ -1,27 +1,28 @@
 ---
-title: DataStreamSupporter.IsCached
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DataStreamSupporter ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα του αντικειμένου είναι προσωρινά αποθηκευμένα αυτήν τη στιγμή και δεν απαιτείται ανάγνωση δεδομένων.
+title: "DataStreamSupporter.IsCached"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα DataStreamSupporter. Επιστρέφει μια τιμή που υποδεικνύει εάν τα δεδομένα του αντικειμένου είναι προσωρινά αποθηκευμένα αυτή τη στιγμή και δεν απαιτείται ανάγνωση δεδομένων."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/datastreamsupporter/iscached/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.IsCached property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα του αντικειμένου είναι προσωρινά αποθηκευμένα αυτήν τη στιγμή και δεν απαιτείται ανάγνωση δεδομένων.
+Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα του αντικειμένου είναι προσωρινά αποθηκευμένα αυτή τη στιγμή και δεν απαιτείται ανάγνωση δεδομένων.
 
 ```csharp
 public abstract bool IsCached { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν τα δεδομένα του αντικειμένου είναι αποθηκευμένα στην κρυφή μνήμη. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν τα δεδομένα του αντικειμένου είναι προσωρινά αποθηκευμένα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [DataStreamSupporter](../)
-* χώρος ονομάτων [Aspose.PSD](../../datastreamsupporter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

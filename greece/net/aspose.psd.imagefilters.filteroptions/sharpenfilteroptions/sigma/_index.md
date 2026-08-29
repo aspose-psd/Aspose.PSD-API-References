@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SharpenFilterOptions ιδιοκτησία. Λαμβάνει ή ορίζει το σίγμα.
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SharpenFilterOptions. Λαμβάνει ή ορίζει το sigma"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-Λαμβάνει ή ορίζει το σίγμα.
+Λαμβάνει ή ορίζει το sigma.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σίγμα.
 
 ### Δείτε επίσης
 
 * class [SharpenFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

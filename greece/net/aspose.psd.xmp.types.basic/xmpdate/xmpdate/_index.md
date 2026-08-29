@@ -1,14 +1,15 @@
 ---
-title: XmpDate.XmpDate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDate κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpDate τάξη.
+title: "XmpDate.XmpDate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpDate. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpDate"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpDate`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpDate`](../).
 
 ```csharp
 public XmpDate(DateTime dateTime)
@@ -16,19 +17,19 @@ public XmpDate(DateTime dateTime)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| dateTime | DateTime | Μια τιμή ημερομηνίας-ώρας που αναπαρίσταται χρησιμοποιώντας ένα υποσύνολο μορφοποίησης ISO RFC 8601. |
+| dateTime | DateTime | Μια τιμή ημερομηνίας-ώρας που αναπαρίσταται χρησιμοποιώντας ένα υποσύνολο της μορφοποίησης ISO RFC 8601. |
 
 ### Δείτε επίσης
 
 * class [XmpDate](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpDate`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpDate`](../).
 
 ```csharp
 public XmpDate(string dateString)
@@ -36,18 +37,18 @@ public XmpDate(string dateString)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| dateString | String | Η συμβολοσειρά αναπαράσταση της ημερομηνίας. |
+| dateString | String | Η συμβολοσειρά αναπαράστασης της ημερομηνίας. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | Μη έγκυρη μορφή ημερομηνίας, ημερομηνία |
+| ArgumentException | Μη έγκυρη μορφή ημερομηνίας;date |
 
 ### Δείτε επίσης
 
 * class [XmpDate](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetCmyk
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Λαμβάνει χρώμα CMYK με καθορισμένο αριθμό bit ανά δείγμα.
+title: "PixelDataFormat.GetCmyk"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PixelDataFormat. Παίρνει χρώμα CMYK με καθορισμένο αριθμό bits ανά δείγμα."
 type: docs
 weight: 210
 url: /el/net/aspose.psd/pixeldataformat/getcmyk/
 ---
+{{< psd/tize >}}
 ## GetCmyk(int) {#getcmyk}
 
 Λαμβάνει χρώμα CMYK με καθορισμένο αριθμό bit ανά δείγμα.
@@ -18,15 +19,15 @@ public static PixelDataFormat GetCmyk(int bitsPerSample)
 | --- | --- | --- |
 | bitsPerSample | Int32 | Ο αριθμός των bit ανά δείγμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα CMYK.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,19 +42,19 @@ public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagenta
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bitsPerCyanChannel | Int32 | Ο αριθμός των bit ανά κυανό κανάλι. |
-| bitsPerMagentaChannel | Int32 | Ο αριθμός των bit ανά κανάλι Magenta. |
-| bitsPerYellowChannel | Int32 | Ο αριθμός των bit ανά κίτρινο κανάλι. |
-| bitsPerKeyChannel | Int32 | Ο αριθμός των bit ανά κανάλι κλειδιού. |
+| bitsPerCyanChannel | Int32 | Ο αριθμός των bits ανά κανάλι Κυανό. |
+| bitsPerMagentaChannel | Int32 | Ο αριθμός των bits ανά κανάλι Ματζέντα. |
+| bitsPerYellowChannel | Int32 | Ο αριθμός των bits ανά κανάλι Κίτρινο. |
+| bitsPerKeyChannel | Int32 | Ο αριθμός των bits ανά κανάλι Μαύρο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα CMYK.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

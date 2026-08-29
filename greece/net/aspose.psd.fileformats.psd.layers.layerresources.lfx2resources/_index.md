@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχειLfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/ συνδεδεμένες τάξεις
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει τις συνδεδεμένες κλάσεις Lfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/"
 type: docs
-weight: 280
+weight: 310
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/
 ---
-Ο χώρος ονομάτων περιέχει[`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/) συνδεδεμένες τάξεις
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει τις συνδεδεμένες κλάσεις [`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/)
 
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [LayerEffectsTypes](./layereffectstypes/) | Εφέ ανάμειξης επιπέδων. |
+| [LayerEffectsTypes](./layereffectstypes/) | Εφέ ανάμειξης στρώσεων. |
 
 

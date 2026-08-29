@@ -1,27 +1,28 @@
 ---
-title: PieShape.SweepAngle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PieShape ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη γωνία σάρωσης.
+title: "PieShape.SweepAngle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PieShape. Λαμβάνει ή ορίζει τη γωνία σάρωσης"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
-Λαμβάνει ή ρυθμίζει τη γωνία σάρωσης.
+Λαμβάνει ή ορίζει τη γωνία σάρωσης.
 
 ```csharp
 public float SweepAngle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η γωνία σάρωσης.
 
 ### Δείτε επίσης
 
 * class [PieShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../pieshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

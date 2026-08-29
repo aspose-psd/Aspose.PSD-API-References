@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LnkeResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLnkeResource τάξη.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής LnkeResource. Αρχικοποιεί μια νέα παρουσία της κλάσης LnkeResource."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LnkeResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource()
@@ -17,14 +18,14 @@ public LnkeResource()
 ### Δείτε επίσης
 
 * class [LnkeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LnkeResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
@@ -38,7 +39,7 @@ public LnkeResource(LinkDataSource[] dataSources)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

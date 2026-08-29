@@ -1,11 +1,12 @@
 ---
-title: Interface ITextPortion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion διεπαφή. Διεπαφή για χειρισμό τμημάτων κειμένου
+title: "Διεπαφή ITextPortion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion. Διεπαφή για τη διαχείριση τμημάτων κειμένου"
 type: docs
-weight: 3530
+weight: 3950
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
+{{< psd/tize >}}
 ## ITextPortion interface
 
 Διεπαφή για χειρισμό τμημάτων κειμένου
@@ -16,15 +17,15 @@ public interface ITextPortion
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Paragraph](../../aspose.psd.fileformats.psd.layers.text/itextportion/paragraph/) { get; } | Ορίζει το στυλ. |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style/) { get; } | Παίρνει το στυλ. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style/) { get; } | Λαμβάνει το στυλ. |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text/) { get; set; } | Λαμβάνει ή ορίζει το κείμενο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει ότι η στοίχιση κειμένου μέσω του ITextPortion για γλώσσες από δεξιά προς τα αριστερά λειτουργεί σωστά.
+Το παρακάτω παράδειγμα δείχνει ότι η Στοίχιση Κειμένου μέσω ITextPortion για γλώσσες δεξιά‑προς‑αριστερά λειτουργεί σωστά.
 
 ```csharp
 [C#]
@@ -44,13 +45,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να αποδώσετε διαφορετικά στυλ σε ένα επίπεδο κειμένου στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να αποδώσετε διαφορετικά στυλ σε ένα στρώμα κειμένου στο Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -73,12 +74,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // Επεξεργασία στυλ κειμένου "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // Επεξεργασία στυλ κειμένου "2\r"
-    newPortions[2].Style.FauxBold = true; // Επεξεργασία στυλ κειμένου "Έντονη"
-    newPortions[3].Style.FauxItalic = true; // Επεξεργασία στυλ κειμένου "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // Επεξεργασία στυλ κειμένου "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // Επεξεργασία στυλ κειμένου "Κείμενο με πεζά γράμματα"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -90,12 +91,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Ο ακόλουθος κώδικας δείχνει πώς να λάβετε μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο επίπεδο κειμένου.
+Ο παρακάτω κώδικας δείχνει πώς να λάβετε το μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο στρώμα κειμένου.
 
 ```csharp
 [C#]
 
-// Εξήχθη λάθος μέγεθος γραμματοσειράς 
+// Εξήχθη λανθασμένο μέγεθος γραμματοσειράς 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -103,7 +104,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Παλιό API (Χρησιμοποιώντας τη γραμματοσειρά της πρώτης παραγράφου)
+    // Παλαιό API (Χρήση της γραμματοσειράς της πρώτης παραγράφου)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -115,7 +116,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος πραγματικού μεγέθους γραμματοσειράς
+    // Έλεγχος του πραγματικού μεγέθους γραμματοσειράς
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -126,13 +127,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Έλεγχος του μεγέθους γραμματοσειράς του βασικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της βασικής περιοχής
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος μεγέθους γραμματοσειράς πραγματικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της πραγματικής περιοχής
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -140,7 +141,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει τα τμήματα κειμένου επεξεργασίας και το στυλ κειμένου τους.
+Το παρακάτω παράδειγμα κώδικα δείχνει την επεξεργασία τμημάτων κειμένου και του στυλ κειμένου τους.
 
 ```csharp
 [C#]
@@ -173,7 +174,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Έλεγχος δεδομένων παραγράφων
-            // Οι παράγραφοι έχουν διαφορετική αιτιολόγηση
+            // Οι παράγραφοι έχουν διαφορετική στοίχιση
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -207,7 +208,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -271,12 +272,12 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Παράδειγμα επεξεργασίας παραγράφου και στυλ για τμήματα
-            // Ορισμός σωστής αιτιολόγησης
+            // Ορισμός δεξιάς στοίχισης
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξει, αλλά η απόδοση δεν υποστηρίζεται πλήρως
+            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξουν, αλλά η απόδοση δεν υποστηρίζεται πλήρως
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
@@ -298,7 +299,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

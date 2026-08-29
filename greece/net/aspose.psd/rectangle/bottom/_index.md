@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle ιδιοκτησία. Παίρνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα τουY καιHeight αξίες ιδιοκτησίας αυτούRectangleδομή.
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Rectangle property. Λαμβάνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα των τιμών ιδιοτήτων Y και Height αυτής της δομής Rectangle."
 type: docs
 weight: 110
 url: /el/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-Παίρνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα του[`Y`](../y/) και[`Height`](../height/) αξίες ιδιοκτησίας αυτού[`Rectangle`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα των τιμών ιδιοτήτων [`Y`](../y/) και [`Height`](../height/) αυτής της δομής [`Rectangle`](../).
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συντεταγμένη y που είναι το άθροισμα του[`Y`](../y/) και[`Height`](../height/) από αυτό[`Rectangle`](../) .
+Η συντεταγμένη y που είναι το άθροισμα των [`Y`](../y/) και [`Height`](../height/) αυτής της δομής [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

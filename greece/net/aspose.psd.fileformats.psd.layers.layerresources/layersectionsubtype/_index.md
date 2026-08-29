@@ -1,11 +1,12 @@
 ---
-title: Enum LayerSectionSubtype
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype αρίθμηση. Ο υποτύπος ενότητας
+title: "Απαρίθμηση LayerSectionSubtype"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype. Ο υποτύπος ενότητας"
 type: docs
-weight: 2600
+weight: 2910
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionSubtype enumeration
 
 Ο υποτύπος ενότητας
@@ -14,17 +15,17 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtyp
 public enum LayerSectionSubtype
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | NotUsed | `-1` | Το μη χρησιμοποιημένο |
-| Normal | `0` | Το normal |
-| SceneGroup | `1` | Η ομάδα σκηνών |
+| Normal | `0` | Το κανονικό |
+| SceneGroup | `1` | Η ομάδα σκηνής |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

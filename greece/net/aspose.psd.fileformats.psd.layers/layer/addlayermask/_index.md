@@ -1,14 +1,15 @@
 ---
-title: Layer.AddLayerMask
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer μέθοδος. Προσθέτει τη μάσκα στο τρέχον επίπεδο.
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Layer. Προσθέτει τη μάσκα στο τρέχον στρώμα"
 type: docs
-weight: 330
+weight: 340
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
-Προσθέτει τη μάσκα στο τρέχον επίπεδο.
+Προσθέτει τη μάσκα στην τρέχουσα στρώση.
 
 ```csharp
 public void AddLayerMask(LayerMaskData layerMask)
@@ -20,15 +21,15 @@ public void AddLayerMask(LayerMaskData layerMask)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Η μάσκα πλήρους επιπέδου δεν υποστηρίζεται ακόμη για ρύθμιση, χρησιμοποιήστε το LayerMaskDataShort |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Η πλήρης μάσκα στρώματος δεν υποστηρίζεται ακόμη για ρύθμιση, παρακαλώ χρησιμοποιήστε LayerMaskDataShort |
 
 ### Δείτε επίσης
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

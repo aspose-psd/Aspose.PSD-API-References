@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Brightness
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BrightnessContrastLayer ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη φωτεινότητα. Για PS το εύρος φωτεινότητας είναι από 150 έως 150. Αλλά το αγνοούμε αυτό.
+title: "BrightnessContrastLayer.Brightness"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BrightnessContrastLayer. Λαμβάνει ή ορίζει τη φωτεινότητα. Για το PS το εύρος της φωτεινότητας είναι από 150 έως 150. Αλλά το αγνοούμε αυτό."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/brightness/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Brightness property
 
-Λαμβάνει ή ρυθμίζει τη φωτεινότητα. Για PS το εύρος φωτεινότητας είναι από -150 έως +150. Αλλά το αγνοούμε αυτό.
+Αποκτά ή ορίζει τη φωτεινότητα. Για το PS το εύρος της φωτεινότητας είναι από -150 έως +150. Αλλά το αγνοούμε.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η φωτεινότητα.
 
 ### Δείτε επίσης
 
 * class [BrightnessContrastLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

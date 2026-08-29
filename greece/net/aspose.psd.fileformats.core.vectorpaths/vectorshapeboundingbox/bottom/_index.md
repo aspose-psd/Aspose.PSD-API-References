@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Bottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeBoundingBox ιδιοκτησία. Παίρνει ή θέτει το κάτω μέρος.
+title: "VectorShapeBoundingBox.Bottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorShapeBoundingBox ιδιότητα. Λαμβάνει ή ορίζει το κάτω"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bottom property
 
-Παίρνει ή θέτει το κάτω μέρος.
+Λαμβάνει ή ορίζει το κάτω μέρος.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κάτω μέρος.
 
 ### Δείτε επίσης
 
 * class [VectorShapeBoundingBox](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

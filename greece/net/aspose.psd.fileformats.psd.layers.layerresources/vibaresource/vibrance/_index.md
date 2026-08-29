@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Vibrance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VibAResource ιδιοκτησία. Λαμβάνει ή ορίζει τιμή δόνησης
+title: "VibAResource.Vibrance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VibAResource property. Λαμβάνει ή ορίζει την τιμή της ζωντάνιας"
 type: docs
-weight: 60
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/
 ---
+{{< psd/tize >}}
 ## VibAResource.Vibrance property
 
-Λαμβάνει ή ορίζει τιμή δόνησης
+Λαμβάνει ή ορίζει την τιμή ζωντάνιας
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη του πόρου VibAResource.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη του πόρου VibAResource.
 
 ```csharp
 [C#]
 
-// Παράδειγμα υποστήριξης ανάγνωσης και εγγραφής Vibration Resource κατά τη διάρκεια εκτέλεσης.
+// Παράδειγμα υποστήριξης ανάγνωσης και εγγραφής του πόρου Δόνησης σε χρόνο εκτέλεσης.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [VibAResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

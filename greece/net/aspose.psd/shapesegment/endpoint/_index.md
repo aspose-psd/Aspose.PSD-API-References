@@ -1,11 +1,12 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShapeSegment ιδιοκτησία. Λαμβάνει το σημείο λήξης.
+title: "ShapeSegment.EndPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ShapeSegment. Λαμβάνει το σημείο λήξης"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
 Λαμβάνει το σημείο λήξης.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd/shapesegment/endpoint/
 public abstract PointF EndPoint { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το τελικό σημείο.
+Το σημείο λήξης.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* χώρος ονομάτων [Aspose.PSD](../../shapesegment/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

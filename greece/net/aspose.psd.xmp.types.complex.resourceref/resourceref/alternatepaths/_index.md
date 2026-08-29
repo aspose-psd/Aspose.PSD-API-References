@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceRef ιδιοκτησία. Λαμβάνει ή ορίζει τον πίνακα της εναλλακτικής διαδρομής.
+title: "ResourceRef.AlternatePaths"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ResourceRef ιδιότητα. Λαμβάνει ή ορίζει τον πίνακα εναλλακτικών διαδρομών"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
-Λαμβάνει ή ορίζει τον πίνακα της εναλλακτικής διαδρομής.
+Λαμβάνει ή ορίζει τον πίνακα εναλλακτικών διαδρομών.
 
 ```csharp
 public string[] AlternatePaths { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο πίνακας της εναλλακτικής διαδρομής.
+Ο πίνακας εναλλακτικών διαδρομών.
 
 ### Δείτε επίσης
 
 * class [ResourceRef](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

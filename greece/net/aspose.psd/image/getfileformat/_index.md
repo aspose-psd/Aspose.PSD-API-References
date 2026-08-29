@@ -1,14 +1,15 @@
 ---
-title: Image.GetFileFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image μέθοδος. Λαμβάνει τη μορφή αρχείου.
+title: "Image.GetFileFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Image. Λαμβάνει τη μορφή αρχείου"
 type: docs
-weight: 260
+weight: 270
 url: /el/net/aspose.psd/image/getfileformat/
 ---
+{{< psd/tize >}}
 ## GetFileFormat(string) {#getfileformat_1}
 
-Λαμβάνει τη μορφή αρχείου.
+Λαμβάνει τη μορφή του αρχείου.
 
 ```csharp
 public static FileFormat GetFileFormat(string filePath)
@@ -16,28 +17,28 @@ public static FileFormat GetFileFormat(string filePath)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| filePath | String | Η διαδρομή του αρχείου. |
+| filePath | String | Η διαδρομή αρχείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η καθορισμένη μορφή αρχείου.
+Η προσδιορισμένη μορφή αρχείου.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Η καθορισμένη μορφή αρχείου δεν σημαίνει ότι μπορεί να φορτωθεί η καθορισμένη εικόνα. Χρησιμοποιήστε μία από τις υπερφορτώσεις της μεθόδου CanLoad για να προσδιορίσετε εάν το αρχείο μπορεί να φορτωθεί.
+Η προσδιορισμένη μορφή αρχείου δεν σημαίνει ότι η συγκεκριμένη εικόνα μπορεί να φορτωθεί. Χρησιμοποιήστε μία από τις υπερφορτώσεις της μεθόδου CanLoad για να καθορίσετε εάν το αρχείο μπορεί να φορτωθεί.
 
 ### Δείτε επίσης
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFileFormat(Stream) {#getfileformat}
 
-Λαμβάνει τη μορφή αρχείου.
+Λαμβάνει τη μορφή του αρχείου.
 
 ```csharp
 public static FileFormat GetFileFormat(Stream stream)
@@ -47,19 +48,19 @@ public static FileFormat GetFileFormat(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Η ροή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η καθορισμένη μορφή αρχείου.
+Η προσδιορισμένη μορφή αρχείου.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Η καθορισμένη μορφή αρχείου δεν σημαίνει ότι μπορεί να φορτωθεί η καθορισμένη εικόνα. Χρησιμοποιήστε μία από τις υπερφορτώσεις της μεθόδου CanLoad για να προσδιορίσετε εάν η ροή μπορεί να φορτωθεί.
+Η προσδιορισμένη μορφή αρχείου δεν σημαίνει ότι η συγκεκριμένη εικόνα μπορεί να φορτωθεί. Χρησιμοποιήστε μία από τις υπερφορτώσεις της μεθόδου CanLoad για να καθορίσετε εάν η ροή (stream) μπορεί να φορτωθεί.
 
 ### Δείτε επίσης
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

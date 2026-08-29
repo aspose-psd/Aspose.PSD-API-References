@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MultiPageOptions ιδιοκτησία. Λαμβάνει ή ορίζει τις σελίδες.
+title: "MultiPageOptions.Pages"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MultiPageOptions ιδιότητα. Λαμβάνει ή ορίζει τις σελίδες"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
 Λαμβάνει ή ορίζει τις σελίδες.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/multipageoptions/pages/
 public int[] Pages { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι σελίδες.
 
 ### Δείτε επίσης
 
 * class [MultiPageOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

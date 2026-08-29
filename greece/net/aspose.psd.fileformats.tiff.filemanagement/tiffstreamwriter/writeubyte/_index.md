@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteUByte
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει μια τιμή μόνο byte στη ροή.
+title: "TiffStreamWriter.WriteUByte"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει μια μοναδική τιμή byte στη ροή"
 type: docs
 weight: 190
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUByte method
 
-Γράφει μια τιμή μόνο byte στη ροή.
+Γράφει μια μοναδική τιμή byte στο ρεύμα.
 
 ```csharp
 public void WriteUByte(byte data)
@@ -16,12 +17,12 @@ public void WriteUByte(byte data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte | Η αξία να γραφτεί. |
+| δεδομένα | Byte | Η τιμή για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

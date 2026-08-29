@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDate ιδιοκτησία. Λαμβάνει τη συμβολοσειρά μορφής για την τρέχουσα τιμή.
+title: "XmpDate.Format"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpDate. Λαμβάνει τη συμβολοσειρά μορφής για την τρέχουσα τιμή"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 Λαμβάνει τη συμβολοσειρά μορφής για την τρέχουσα τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.basic/xmpdate/format/
 public string Format { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η συμβολοσειρά μορφής για την τρέχουσα τιμή.
 
 ### Δείτε επίσης
 
 * class [XmpDate](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

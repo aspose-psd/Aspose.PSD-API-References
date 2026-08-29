@@ -1,14 +1,15 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: WorkingPathResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουWorkingPathResource τάξη.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής WorkingPathResource. Αρχικοποιεί μια νέα παρουσία της κλάσης WorkingPathResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`WorkingPathResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`WorkingPathResource`](../).
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
@@ -18,17 +19,17 @@ public WorkingPathResource(byte[] dataBytes)
 | --- | --- | --- |
 | dataBytes | Byte[] | Τα δεδομένα της διανυσματικής διαδρομής. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει την υποστήριξη του πόρου "WorkingPathResource" στο PsdImage.ImageResources για τη σωστή λειτουργία της λειτουργίας Crop.
+Αυτό το παράδειγμα δείχνει την υποστήριξη του πόρου 'WorkingPathResource' στο PsdImage.ImageResources για σωστή λειτουργία της λειτουργίας Κοπής.
 
 ```csharp
 [C#]
 
-// Περικοπή εικόνας και αποθήκευση.
+// Κόψτε την εικόνα και αποθηκεύστε την.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Αναζήτηση πόρου WorkingPathResource.
+    // Αναζητήστε τον πόρο WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -46,7 +47,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // Περικοπή και αποθήκευση.
+    // Κόψτε και αποθηκεύστε.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
@@ -54,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 // Φορτώστε την αποθηκευμένη εικόνα και ελέγξτε τις αλλαγές.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Αναζήτηση πόρου WorkingPathResource.
+    // Αναζητήστε τον πόρο WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### Δείτε επίσης
 
 * class [WorkingPathResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

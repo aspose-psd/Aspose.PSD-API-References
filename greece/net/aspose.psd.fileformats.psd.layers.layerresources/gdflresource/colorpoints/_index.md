@@ -1,20 +1,21 @@
 ---
-title: GdFlResource.ColorPoints
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GdFlResource ιδιοκτησία. Παίρνει τους χρωματικούς πόντους.
+title: "GdFlResource.ColorPoints"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GdFlResource property. Λαμβάνει τα σημεία χρώματος"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.ColorPoints property
 
-Παίρνει τους χρωματικούς πόντους.
+Λαμβάνει τα σημεία χρώματος.
 
 ```csharp
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα σημεία χρώματος.
 
@@ -22,7 +23,7 @@ public IGradientColorPoint[] ColorPoints { get; set; }
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GdFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

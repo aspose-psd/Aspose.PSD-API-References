@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Grayscale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τοPixelDataFormatορίζεται για 8 bit ανά pixel με 8 bit που αντιπροσωπεύουν την ένταση της κλίμακας του γκρι στο διάστημα 0255.
+title: "PixelDataFormat.Grayscale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PixelDataFormat ιδιότητα. Λαμβάνει το PixelDataFormat που ορίζεται για 8 bits ανά pixel με 8 bits που αντιπροσωπεύουν την ένταση του γκρι σε διάστημα 0255"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/pixeldataformat/grayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Grayscale property
 
-Λαμβάνει το[`PixelDataFormat`](../)ορίζεται για 8 bit ανά pixel με 8 bit που αντιπροσωπεύουν την ένταση της κλίμακας του γκρι στο διάστημα 0-255.
+Λαμβάνει το [`PixelDataFormat`](../) που ορίζεται για 8 bits ανά pixel με 8 bits που αντιπροσωπεύουν την ένταση του γκρι σε διάστημα 0-255.
 
 ```csharp
 public static PixelDataFormat Grayscale { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`PixelDataFormat`](../)ορίζεται για 8 bit ανά pixel με 8 bit που αντιπροσωπεύουν την ένταση της κλίμακας του γκρι στο διάστημα 0-255.
+Το [`PixelDataFormat`](../) που ορίζεται για 8 bits ανά pixel με 8 bits που αντιπροσωπεύουν την ένταση του γκρι σε διάστημα 0-255.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

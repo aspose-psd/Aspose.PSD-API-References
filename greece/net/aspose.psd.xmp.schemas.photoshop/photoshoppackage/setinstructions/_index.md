@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetInstructions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει τις οδηγίες.
+title: "PhotoshopPackage.SetInstructions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PhotoshopPackage. Ορίζει τις οδηγίες"
 type: docs
 weight: 150
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetInstructions method
 
 Ορίζει τις οδηγίες.
@@ -16,12 +17,12 @@ public void SetInstructions(string instructions)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| instructions | String | Οι οδηγίες. |
+| οδηγίες | String | Οι οδηγίες. |
 
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

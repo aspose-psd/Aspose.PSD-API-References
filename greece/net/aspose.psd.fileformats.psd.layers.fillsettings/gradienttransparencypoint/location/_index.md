@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.Location
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientTransparencyPoint ιδιοκτησία. Λαμβάνει ή ορίζει την τοποθεσία.
+title: "GradientTransparencyPoint.Location"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GradientTransparencyPoint ιδιότητα. Λαμβάνει ή ορίζει τη θέση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.Location property
 
-Λαμβάνει ή ορίζει την τοποθεσία.
+Λαμβάνει ή ορίζει τη θέση.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τοποθεσία.
+Η θέση.
 
 ### Δείτε επίσης
 
 * class [GradientTransparencyPoint](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

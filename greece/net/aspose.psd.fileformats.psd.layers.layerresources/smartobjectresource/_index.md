@@ -1,14 +1,15 @@
 ---
-title: Class SmartObjectResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource τάξη. Καθορίζει την κλάση SmartObjectResource που περιέχει πληροφορίες σχετικά με ένα επίπεδο έξυπνου αντικειμένου σε ένα αρχείο PSD. Is είναι η βασική κλάση για πόρους Sold και Sole που χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες Adobe Photoshop.
+title: "Κλάση SmartObjectResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource κλάση. Ορίζει την κλάση SmartObjectResource που περιέχει πληροφορίες σχετικά με ένα στρώμα έξυπνου αντικειμένου σε αρχείο PSD. Είναι η βασική κλάση για πόρους Sold και Sole που χρησιμοποιείται για την υποστήριξη στρωμάτων έξυπνων αντικειμένων στις εικόνες Adobe Photoshop."
 type: docs
-weight: 2990
+weight: 3340
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource class
 
-Καθορίζει την κλάση SmartObjectResource που περιέχει πληροφορίες σχετικά με ένα επίπεδο έξυπνου αντικειμένου σε ένα αρχείο PSD. Is είναι η βασική κλάση για πόρους Sold και Sole που χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες Adobe® Photoshop®.
+Ορίζει την κλάση SmartObjectResource που περιέχει πληροφορίες σχετικά με μια στρώση έξυπνου αντικειμένου σε αρχείο PSD. Είναι η βασική κλάση για τους πόρους Sold και Sole που χρησιμοποιείται για την υποστήριξη στρώσεων έξυπνου αντικειμένου σε εικόνες Adobe® Photoshop®.
 
 ```csharp
 public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerResource
@@ -16,59 +17,59 @@ public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerRes
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Λαμβάνει ή ορίζει την πολιτική κατά του ψευδωνύμου των δεδομένων επιπέδου έξυπνου αντικειμένου στην εικόνα PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Λαμβάνει ή ορίζει την κάτω θέση του τοποθετημένου στρώματος στην εικόνα PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Λαμβάνει ή ορίζει την τιμή comp των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. [Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό του τρέχοντος επιλεγμένου comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 εάν δεν επιλεγεί κανένα. Τα Comps είναι συνθέσεις μιας διάταξης σελίδας που μπορούν να δημιουργήσουν οι σχεδιαστές. Χρησιμοποιώντας σύνθετα επίπεδα, μπορείτε να δημιουργήσετε, να διαχειριστείτε και να προβάλετε πολλαπλές εκδόσεις μιας διάταξης σε ένα μόνο αρχείο Adobe® Photoshop®. Ένα επίπεδο comp είναι ένα στιγμιότυπο μιας κατάστασης του πίνακα Layers. Οι comps επιπέδων αποθηκεύουν τρεις τύπους επιλογών επιπέδου, αλλά αυτή η ιδιότητα λαμβάνει το αναγνωριστικό επιλογής Layer Comp για το επίπεδο έξυπνου αντικειμένου στο αρχείο PSD. [Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Λαμβάνει ή ορίζει την περικοπή των δεδομένων επιπέδου έξυπνου αντικειμένου στην εικόνα PSD. |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Λαμβάνει ή ορίζει τον παρονομαστή της διάρκειας. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Ανακτά ή ορίζει την πολιτική anti-alias των δεδομένων στρώματος έξυπνου αντικειμένου στην εικόνα PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Λαμβάνει ή ορίζει τη θέση κάτω του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Ανακτά ή ορίζει την τιμή comp των δεδομένων στρώματος έξυπνου αντικειμένου στο αρχείο PSD. [Στοιχεία επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Ανακτά ή ορίζει το ID του τρέχοντος επιλεγμένου comp για το υπο-έγγραφο, το οποίο θα είναι -1 εάν δεν υπάρχει επιλογή. Τα comps είναι συνθέσεις μιας διάταξης σελίδας που μπορούν να δημιουργήσουν οι σχεδιαστές. Χρησιμοποιώντας τα comps επιπέδων, μπορείτε να δημιουργήσετε, να διαχειριστείτε και να προβάλετε πολλαπλές εκδόσεις μιας διάταξης σε ένα ενιαίο αρχείο Adobe Photoshop. Ένα comp επιπέδου είναι μια στιγμιότυπη εικόνα μιας κατάστασης του πίνακα Layers. Τα comps επιπέδων αποθηκεύουν τρεις τύπους επιλογών στρώματος, αλλά αυτή η ιδιότητα ανακτά το αναγνωριστικό επιλογής Layer Comp για το στρώμα έξυπνου αντικειμένου στο αρχείο PSD. [Στοιχεία επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Ανακτά ή ορίζει την περικοπή των δεδομένων στρώματος έξυπνου αντικειμένου στην εικόνα PSD. |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Ανακτά ή ορίζει τον παρονομαστή της διάρκειας. |
 | [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμητή διάρκειας. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό καρέ των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Λαμβάνει ή ορίζει τον παρονομαστή του βήματος του πλαισίου. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμητή βημάτων πλαισίου. |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Παίρνει ή ρυθμίζει το ύψος. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό πλαισίων των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Λαμβάνει ή ορίζει τον παρονομαστή βήματος πλαισίου. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμητή βήματος πλαισίου. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Λαμβάνει ή ορίζει το ύψος. |
 | [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Λαμβάνει ή ορίζει τα οριζόντια σημεία πλέγματος του τοποθετημένου στρώματος στο αρχείο PSD. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης των οριζόντιων σημείων πλέγματος. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιλ παραμόρφωσης της παρουσίας είναι προσαρμοσμένο. Εάν είναι αληθές, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει σημεία πλέγματος. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Λαμβάνει ή ορίζει τα στοιχεία περιγραφής των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Λαμβάνει ή ορίζει την αριστερή θέση του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Λαμβάνει το μήκος πόρων έξυπνου αντικειμένου σε byte. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Λαμβάνει ή ορίζει τον μη συγγενικό πίνακα μετασχηματισμού των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Λαμβάνει το αρχικό αναγνωριστικό του τρέχοντος επιλεγμένου Comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 εάν δεν επιλεγεί κανένα. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής επιπέδου Comp για το επίπεδο έξυπνου αντικειμένου στο αρχείο PSD. [Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό σελίδας των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Λαμβάνει ή ορίζει την προοπτική τιμή του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό αυτού του επιπέδου δεδομένων έξυπνου αντικειμένου στην εικόνα PSD. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο έξυπνου αντικειμένου. Το 0 δεν υποδηλώνει περιορισμούς. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Λαμβάνει ή ορίζει την ανάλυση των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης ανάλυσης των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Λαμβάνει ή ορίζει τη σωστή θέση του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Αποκτά την υπογραφή πόρων έξυπνου αντικειμένου. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Λαμβάνει ή ορίζει την επάνω θέση του τοποθετημένου στρώματος στην εικόνα PSD. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Λαμβάνει ή ορίζει τον συνολικό αριθμό σελίδων των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Λαμβάνει ή ορίζει τη μήτρα μετασχηματισμού των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Λαμβάνει ή ορίζει το καθολικό μοναδικό αναγνωριστικό των δεδομένων του επιπέδου έξυπνου αντικειμένου`SmartObjectResource` στην εικόνα PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Λαμβάνει ή ορίζει την τιμή σειράς U του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή στημόνι του τοποθετημένου στρώματος στην εικόνα PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Λαμβάνει την έκδοση του τοποθετημένου επιπέδου στο αρχείο PSD, συνήθως 3. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το στυλ παραμόρφωσης αυτής της παρουσίας είναι προσαρμοσμένο. Εάν είναι true, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει τα σημεία πλέγματος. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Λαμβάνει ή ορίζει τα στοιχεία περιγραφέα των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Λαμβάνει ή ορίζει τη θέση αριστερά του τοποθετημένου στρώματος στο αρχείο PSD. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Λαμβάνει το μήκος του πόρου έξυπνου αντικειμένου σε bytes. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Λαμβάνει ή ορίζει τον μη αφινικό πίνακα μετασχηματισμού των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Λαμβάνει το αρχικό ID του τρέχοντος επιλεγμένου Comp για το υποέγγραφο, το οποίο θα είναι -1 εάν δεν υπάρχει επιλογή. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής layer Comp για τη στρώση έξυπνου αντικειμένου στο αρχείο PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό σελίδας των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Λαμβάνει ή ορίζει την τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό αυτών των δεδομένων στρώσης έξυπνου αντικειμένου στην εικόνα PSD. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Λαμβάνει ή ορίζει την ανάλυση των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης της ανάλυσης των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Λαμβάνει ή ορίζει τη θέση δεξιά του τοποθετημένου στρώματος στο αρχείο PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Ανακτά ή ορίζει τη θέση κορυφής του τοποθετημένου στρώματος στην εικόνα PSD. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Λαμβάνει ή ορίζει τον συνολικό αριθμό σελίδων των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Λαμβάνει ή ορίζει το παγκόσμιο μοναδικό αναγνωριστικό των δεδομένων στρώσης έξυπνου αντικειμένου `SmartObjectResource` στην εικόνα PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Ανακτά ή ορίζει την τιμή σειράς U του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Ανακτά ή ορίζει την τιμή παραμόρφωσης του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Ανακτά την έκδοση του τοποθετημένου στρώματος στο αρχείο PSD, συνήθως 3. |
 | [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Λαμβάνει ή ορίζει τα οριζόντια σημεία πλέγματος του τοποθετημένου στρώματος στο αρχείο PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης των κατακόρυφων σημείων πλέγματος. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Λαμβάνει ή ορίζει την τιμή τάξης V του τοποθετημένου επιπέδου στο αρχείο PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Ανακτά ή ορίζει τη μονάδα μέτρησης των κάθετων σημείων πλέγματος. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Ανακτά ή ορίζει την τιμή σειράς V του τοποθετημένου στρώματος στο αρχείο PSD. |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Λαμβάνει ή ορίζει το πλάτος. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο έξυπνου αντικειμένου στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο έξυπνου αντικειμένου στο καθορισμένο container ροής. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των πόρων SoLEResource, SmartObjectResource και PlacedResource.
 
@@ -156,7 +157,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Αυτές οι τιμές δεν αλλάζουμε στον πόρο
+    // Αυτές τις τιμές δεν αλλάζουμε στον πόρο
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -164,15 +165,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Αυτές οι τιμές πρέπει να αλλάξουν και στο PlLdResource (με το καθορισμένο UniqueId)
-    // και μερικά από αυτά πρέπει να είναι σε συμφωνία με το υπογραμμιζόμενο έξυπνο αντικείμενο στο LinkDataSource
+    // Αυτές οι τιμές πρέπει επίσης να αλλάξουν στο PlLdResource (με το καθορισμένο UniqueId)
+    // και μερικές από αυτές πρέπει να είναι σύμφωνες με το υποκείμενο έξυπνο αντικείμενο στο LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -191,7 +192,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Αυτό το μοναδικό αναγνωριστικό θα πρέπει να αλλάξει σε αναφορές εάν υπάρχουν
+    // Αυτό το μοναδικό Id πρέπει να αλλάξει στις αναφορές, εάν υπάρχουν
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -201,16 +202,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η αποθηκευμένη εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+    // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η αποθηκευμένη εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-    // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+    // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+    // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-    ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+    // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -379,7 +380,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [SoLeResource](../soleresource/)
 * class [PlacedResource](../placedresource/)
 * interface [ISmartObjectLayerResource](../ismartobjectlayerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

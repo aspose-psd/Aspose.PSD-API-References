@@ -1,14 +1,15 @@
 ---
-title: Class ColorMapExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.ColorMapExtensions τάξη. ΤοColorMap μέθοδοι επέκτασης.
+title: "Κλάση ColorMapExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.ColorMapExtensions κλάση. Οι μέθοδοι επέκτασης ColorMap."
 type: docs
-weight: 1060
+weight: 1070
 url: /el/net/aspose.psd.extensions/colormapextensions/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions class
 
-Το[`ColorMap`](../../aspose.psd/colormap/) μέθοδοι επέκτασης.
+Οι μέθοδοι επέκτασης [`ColorMap`](../../aspose.psd/colormap/).
 
 ```csharp
 public static class ColorMapExtensions
@@ -16,14 +17,14 @@ public static class ColorMapExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | Μετατρέπει το[`ColorMap`](../../aspose.psd/colormap/) στοColorMap . |
-| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | Μετατρέπει το[`ColorMap`](../../aspose.psd/colormap/) συστοιχία στοColorMap συστοιχία. |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | Μετατρέπει το [`ColorMap`](../../aspose.psd/colormap/) σε ColorMap. |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | Μετατρέπει τον πίνακα [`ColorMap`](../../aspose.psd/colormap/) σε πίνακα ColorMap. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

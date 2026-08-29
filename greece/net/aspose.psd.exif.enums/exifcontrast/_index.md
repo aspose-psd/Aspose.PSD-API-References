@@ -1,22 +1,23 @@
 ---
-title: Enum ExifContrast
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifContrast αρίθμηση. exif normal soft hard enum.
+title: "Enum ExifContrast"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifContrast enum. exif normal soft hard enum"
 type: docs
-weight: 810
+weight: 820
 url: /el/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
-exif normal soft hard enum.
+exif κανονικό μαλακό σκληρό enum.
 
 ```csharp
 public enum ExifContrast
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Normal | `0` | Κανονική αντίθεση. |
 | Low | `1` | Χαμηλή αντίθεση. |
@@ -24,7 +25,7 @@ public enum ExifContrast
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

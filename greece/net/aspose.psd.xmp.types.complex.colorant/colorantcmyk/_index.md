@@ -1,14 +1,15 @@
 ---
-title: Class ColorantCmyk
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk τάξη. Αντιπροσωπεύει το CMYK Colorant.
+title: "Κλάση ColorantCmyk"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantCmyk κλάση. Αντιπροσωπεύει το χρωστικό CMYK"
 type: docs
-weight: 6020
+weight: 6520
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk class
 
-Αντιπροσωπεύει το CMYK Colorant.
+Αναπαριστά χρωστικό CMYK.
 
 ```csharp
 public sealed class ColorantCmyk : ColorantBase
@@ -16,42 +17,42 @@ public sealed class ColorantCmyk : ColorantBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ColorantCmyk](colorantcmyk/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`ColorantCmyk` τάξη. |
-| [ColorantCmyk](colorantcmyk/#constructor_1)(float, float, float, float) | Αρχικοποιεί μια νέα παρουσία του`ColorantCmyk` τάξη. |
+| [ColorantCmyk](colorantcmyk/#constructor)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `ColorantCmyk`. |
+| [ColorantCmyk](colorantcmyk/#constructor_1)(float, float, float, float) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `ColorantCmyk`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Black](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/) { get; set; } | Λαμβάνει ή ορίζει την τιμή μαύρου στοιχείου. |
+| [Black](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του μαύρου στοιχείου. |
 | [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο του χρώματος. |
-| [Cyan](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/) { get; set; } | Λαμβάνει ή ορίζει την τιμή κυανού στοιχείου. |
-| [Magenta](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του ματζέντα στοιχείου. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Παίρνει[`ColorMode`](../colormode/) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Λαμβάνει το προεπιλεγμένο URI χώρου ονομάτων. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Παίρνει το πρόθεμα. |
-| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Παίρνει ή ορίζει το όνομα του δείγματος. |
-| [Yellow](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του κίτρινου στοιχείου. |
+| [Cyan](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του στοιχείου κυανίου. |
+| [Magenta](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του στοιχείου ματζέντας. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Λαμβάνει [`ColorMode`](../colormode/). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Λαμβάνει το προεπιλεγμένο URI του χώρου ονομάτων. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Λαμβάνει το πρόθεμα. |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του δείγματος. |
+| [Yellow](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του στοιχείου κίτρινου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/) | Μέγιστη τιμή χρώματος σε χρωστική CMYK. |
-| const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/) | Ελάχιστη τιμή χρώματος σε χρωστική CMYK. |
+| const [ColorValueMax](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/) | Μέγιστη τιμή χρώματος στο χρωστικό CMYK. |
+| const [ColorValueMin](../../aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/) | Ελάχιστη τιμή χρώματος στο χρωστικό CMYK. |
 
 ### Δείτε επίσης
 
 * class [ColorantBase](../colorantbase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

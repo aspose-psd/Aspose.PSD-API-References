@@ -1,14 +1,15 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: KnkoResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουKnkoResource τάξη.
+title: "KnkoResource.KnkoResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "KnkoResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης KnkoResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`KnkoResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource(bool knockout)
@@ -16,19 +17,19 @@ public KnkoResource(bool knockout)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| knockout | Boolean | εάν έχει οριστεί σε`αληθής` [αναμείξτε εσωτερικά στοιχεία]. |
+| knockout | Boolean | αν οριστεί σε `true` [συνδυασμός εσωτερικών στοιχείων]. |
 
 ### Δείτε επίσης
 
 * class [KnkoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`KnkoResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource()
@@ -37,14 +38,14 @@ public KnkoResource()
 ### Δείτε επίσης
 
 * class [KnkoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`KnkoResource`](../) class. Με προσαρμοσμένη ή άγνωστη τιμή
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`KnkoResource`](../). Με προσαρμοσμένη ή άγνωστη τιμή
 
 ```csharp
 public KnkoResource(byte[] data)
@@ -52,18 +53,18 @@ public KnkoResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα των πόρων. |
+| δεδομένα | Byte[] | Τα δεδομένα πόρου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | Μη έγκυρη τιμή πόρου Knko |
+| ArgumentException | Μη έγκυρη τιμή Knko Resource |
 
 ### Δείτε επίσης
 
 * class [KnkoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

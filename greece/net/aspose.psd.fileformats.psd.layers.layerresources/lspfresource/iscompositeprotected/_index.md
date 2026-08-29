@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsCompositeProtected
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LspfResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιγμιότυπο προστατεύεται από σύνθετο περιεχόμενο.
+title: "LspfResource.IsCompositeProtected"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LspfResource ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι σύνθετα προστατευμένη"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsCompositeProtected property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιγμιότυπο προστατεύεται από σύνθετο περιεχόμενο.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι σύνθετα προστατευμένη.
 
 ```csharp
 public bool IsCompositeProtected { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η περίπτωση είναι σύνθετη προστασία. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι σύνθετα προστατευμένη· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

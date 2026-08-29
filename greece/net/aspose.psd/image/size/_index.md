@@ -1,11 +1,12 @@
 ---
-title: Image.Size
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λαμβάνει το μέγεθος της εικόνας.
+title: "Image.Size"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Image. Λαμβάνει το μέγεθος της εικόνας"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
 Λαμβάνει το μέγεθος της εικόνας.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/image/size/
 public Size Size { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος της εικόνας.
 
@@ -22,7 +23,7 @@ public Size Size { get; }
 
 * struct [Size](../../size/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

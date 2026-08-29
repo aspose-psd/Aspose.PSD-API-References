@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.MedianPointLocation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientTransparencyPoint ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση του μέσου σημείου.
+title: "GradientTransparencyPoint.MedianPointLocation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GradientTransparencyPoint. Λαμβάνει ή ορίζει τη θέση του μεσαίου σημείου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.MedianPointLocation property
 
-Λαμβάνει ή ορίζει τη θέση του μέσου σημείου.
+Λαμβάνει ή ορίζει τη θέση του ενδιάμεσου σημείου.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση του μέσου σημείου.
+Η θέση του μεσαίου σημείου.
 
 ### Δείτε επίσης
 
 * class [GradientTransparencyPoint](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

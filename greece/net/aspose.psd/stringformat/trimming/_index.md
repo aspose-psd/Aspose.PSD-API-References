@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ή ορίζει τοStringTrimming απαρίθμηση για αυτόStringFormat αντικείμενο.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Λαμβάνει ή ορίζει την απαρίθμηση StringTrimming για αυτό το αντικείμενο StringFormat"
 type: docs
-weight: 120
+weight: 130
 url: /el/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-Λαμβάνει ή ορίζει το[`StringTrimming`](../../stringtrimming/) απαρίθμηση για αυτό[`StringFormat`](../) αντικείμενο.
+Λαμβάνει ή ορίζει την απαρίθμηση [`StringTrimming`](../../stringtrimming/) για αυτό το αντικείμενο [`StringFormat`](../).
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`StringTrimming`](../../stringtrimming/) απαρίθμηση που δείχνει πώς σχεδιάζεται το κείμενο με αυτό[`StringFormat`](../) Το αντικείμενο κόβεται όταν υπερβαίνει τις άκρες του ορθογωνίου διάταξης.
+Μία απαρίθμηση [`StringTrimming`](../../stringtrimming/) που υποδεικνύει πώς το κείμενο που σχεδιάζεται με αυτό το αντικείμενο [`StringFormat`](../) περικόπτεται όταν υπερβαίνει τις άκρες του πλαισίου διάταξης.
 
 ### Δείτε επίσης
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

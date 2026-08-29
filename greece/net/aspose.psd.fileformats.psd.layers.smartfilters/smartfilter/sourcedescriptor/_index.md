@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.SourceDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartFilter ιδιοκτησία. Η δομή της περιγραφής πηγής με δεδομένα έξυπνου φίλτρου.
+title: "SmartFilter.SourceDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartFilter. Η δομή περιγραφέα πηγής με δεδομένα έξυπνου φίλτρου"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/
 ---
+{{< psd/tize >}}
 ## SmartFilter.SourceDescriptor property
 
-Η δομή της περιγραφής πηγής με δεδομένα έξυπνου φίλτρου.
+Η δομή περιγραφέα πηγής με δεδομένα έξυπνου φίλτρου.
 
 ```csharp
 public DescriptorStructure SourceDescriptor { get; }
@@ -18,7 +19,7 @@ public DescriptorStructure SourceDescriptor { get; }
 
 * class [DescriptorStructure](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/)
 * class [SmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

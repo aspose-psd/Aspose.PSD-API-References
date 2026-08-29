@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.Fractions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Τα σύμβολα των κλασμάτων μπορούν να αντικατασταθούν με ειδική γλυφή.
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ITextStyle. Τα σύμβολα κλασμάτων μπορούν να αντικατασταθούν με ειδικό γλύφο"
 type: docs
 weight: 140
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
-Τα σύμβολα των κλασμάτων μπορούν να αντικατασταθούν με ειδική γλυφή.
+Τα σύμβολα κλασμάτων μπορούν να αντικατασταθούν με ειδικό γλύφο.
 
 ```csharp
 public bool Fractions { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη της υποστήριξης νέων ιδιοτήτων ITextStyle.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των νέων ιδιοτήτων ITextStyle.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

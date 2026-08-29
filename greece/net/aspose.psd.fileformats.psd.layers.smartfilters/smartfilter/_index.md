@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter τάξη. Η τάξη για την επεξεργασία μιας βασικής λογικής έξυπνων φίλτρων.
+title: "Κλάση SmartFilter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter κλάση. Η κλάση για την επεξεργασία της βασικής λογικής των έξυπνων φίλτρων"
 type: docs
-weight: 3460
+weight: 3880
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter class
 
-Η τάξη για την επεξεργασία μιας βασικής λογικής έξυπνων φίλτρων.
+Η κλάση για την επεξεργασία της βασικής λογικής των έξυπνων φίλτρων.
 
 ```csharp
 public abstract class SmartFilter : ICloneable
@@ -16,30 +17,30 @@ public abstract class SmartFilter : ICloneable
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [SmartFilter](smartfilter/)() | Αρχικοποιεί μια νέα παρουσία του`SmartFilter` τάξη. |
+| [SmartFilter](smartfilter/)() | Αρχικοποιεί μια νέα εμφάνιση της κλάσης `SmartFilter`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης. |
-| abstract [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid/) { get; } | Λαμβάνει το αναγνωριστικό τύπου έξυπνου φίλτρου. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης. |
+| abstract [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid/) { get; } | Λαμβάνει το αναγνωριστικό τύπου του έξυπνου φίλτρου. |
 | [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Λαμβάνει ή ορίζει την κατάσταση ενεργοποίησης του έξυπνου φίλτρου. |
-| abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/) { get; } | Λαμβάνει το όνομα έξυπνου φίλτρου. |
+| abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/) { get; } | Λαμβάνει το όνομα του έξυπνου φίλτρου. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Λαμβάνει ή ορίζει την τιμή αδιαφάνειας του έξυπνου φίλτρου. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Η δομή της περιγραφής πηγής με δεδομένα έξυπνου φίλτρου. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Η δομή περιγραφέα πηγής με δεδομένα έξυπνου φίλτρου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Εφαρμόζει το τρέχον φίλτρο στην είσοδο[`RasterImage`](../../aspose.psd/rasterimage/) εικόνα. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Εφαρμόζει το τρέχον φίλτρο στην είσοδο[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) δεδομένα μάσκας. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Κάνει τον κλώνο κατά μέλος της τρέχουσας παρουσίας του τύπου. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Εφαρμόζει το τρέχον φίλτρο στην είσοδο εικόνας [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Εφαρμόζει το τρέχον φίλτρο στα δεδομένα μάσκας της εισόδου [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/). |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Δημιουργεί το κλώνο μέλους της τρέχουσας εμφάνισης του τύπου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Αυτό το παράδειγμα δείχνει την υποστήριξη της διεπαφής έξυπνων φίλτρων.
 
@@ -61,7 +62,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // Επεξεργασία έξυπνων φίλτρων
+    // επεξεργασία έξυπνων φίλτρων
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // έλεγχος τιμών φίλτρου
@@ -113,7 +114,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

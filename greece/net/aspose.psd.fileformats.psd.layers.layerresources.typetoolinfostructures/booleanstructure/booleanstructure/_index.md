@@ -1,14 +1,15 @@
 ---
-title: BooleanStructure.BooleanStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BooleanStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουBooleanStructure τάξη.
+title: "BooleanStructure.BooleanStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής BooleanStructure. Αρχικοποιεί μια νέα παρουσία της κλάσης BooleanStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/booleanstructure/
 ---
+{{< psd/tize >}}
 ## BooleanStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`BooleanStructure`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`BooleanStructure`](../).
 
 ```csharp
 public BooleanStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public BooleanStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [BooleanStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

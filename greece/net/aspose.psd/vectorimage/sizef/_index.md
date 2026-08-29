@@ -1,11 +1,12 @@
 ---
-title: VectorImage.SizeF
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorImage ιδιοκτησία. Λαμβάνει το μέγεθος του αντικειμένου σε ίντσες.
+title: "VectorImage.SizeF"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorImage. Λαμβάνει το μέγεθος του αντικειμένου σε ίντσες"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
 Λαμβάνει το μέγεθος του αντικειμένου, σε ίντσες.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/vectorimage/sizef/
 public SizeF SizeF { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος του αντικειμένου, σε ίντσες.
 
@@ -22,7 +23,7 @@ public SizeF SizeF { get; }
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../vectorimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

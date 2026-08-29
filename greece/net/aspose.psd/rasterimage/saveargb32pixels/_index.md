@@ -1,14 +1,15 @@
 ---
-title: RasterImage.SaveArgb32Pixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Αποθηκεύει τα εικονοστοιχεία ARGB 32bit.
+title: "RasterImage.SaveArgb32Pixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Αποθηκεύει τα pixel ARGB 32-bit."
 type: docs
-weight: 500
+weight: 510
 url: /el/net/aspose.psd/rasterimage/saveargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveArgb32Pixels method
 
-Αποθηκεύει τα εικονοστοιχεία ARGB 32-bit.
+Αποθηκεύει τα 32-bit ARGB pixel.
 
 ```csharp
 public void SaveArgb32Pixels(Rectangle rectangle, int[] pixels)
@@ -16,14 +17,14 @@ public void SaveArgb32Pixels(Rectangle rectangle, int[] pixels)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο στο οποίο αποθηκεύονται τα pixel. |
-| pixels | Int32[] | Η συστοιχία εικονοστοιχείων ARGB 32-bit. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο στο οποίο θα αποθηκευτούν τα pixel. |
+| pixel | Int32[] | Ο πίνακας των 32-bit pixel ARGB. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

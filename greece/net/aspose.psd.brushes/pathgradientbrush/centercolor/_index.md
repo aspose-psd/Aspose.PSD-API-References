@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathGradientBrush ιδιοκτησία. Λαμβάνει ή ορίζει το χρώμα στο κέντρο της κλίσης της διαδρομής.
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PathGradientBrush. Λαμβάνει ή ορίζει το χρώμα στο κέντρο της διαβάθμισης διαδρομής."
 type: docs
 weight: 30
 url: /el/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
-Λαμβάνει ή ορίζει το χρώμα στο κέντρο της κλίσης της διαδρομής.
+Λαμβάνει ή ορίζει το χρώμα στο κέντρο της διαβάθμισης του μονοπατιού.
 
 ```csharp
 public Color CenterColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`Color`](../../../aspose.psd/color/) που αντιπροσωπεύει το χρώμα στο κέντρο της κλίσης της διαδρομής.
+Ένα [`Color`](../../../aspose.psd/color/) που αντιπροσωπεύει το χρώμα στο κέντρο της διαβάθμισης διαδρομής.
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadUShortArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Διαβάζει έναν πίνακα ανυπόγραφων ακεραίων τιμών από τη ροή.
+title: "TiffStreamReader.ReadUShortArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamReader. Διαβάζει έναν πίνακα μη υπογεγραμμένων ακεραίων τιμών από τη ροή"
 type: docs
 weight: 220
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadUShortArray method
 
-Διαβάζει έναν πίνακα ανυπόγραφων ακεραίων τιμών από τη ροή.
+Διαβάζει έναν πίνακα τιμών μη υπογεγραμμένων ακεραίων από τη ροή.
 
 ```csharp
 public ushort[] ReadUShortArray(long position, long count)
@@ -16,23 +17,23 @@ public ushort[] ReadUShortArray(long position, long count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
-| count | Int64 | Τα στοιχεία μετράνε. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
+| πλήθος | Int64 | Ο αριθμός των στοιχείων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας των ανυπόγραφων ακεραίων τιμών.
+Ο πίνακας των μη υπογεγραμμένων ακεραίων τιμών.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | count; Ο συνολικός αριθμός byte είναι αρνητικός. + count + x2= + totalBytes |
+| ArgumentOutOfRangeException | count;Ο συνολικός αριθμός byte είναι αρνητικός. + count + x2= + totalBytes |
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

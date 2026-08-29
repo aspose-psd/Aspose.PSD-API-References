@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Tiff.
+title: "Aspose.PSD.FileFormats.Tiff"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου Tiff."
 type: docs
-weight: 370
+weight: 410
 url: /el/net/aspose.psd.fileformats.tiff/
 ---
-Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Tiff.
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου TIFF.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [TiffDataType](./tiffdatatype/) | Ο τύπος δεδομένων tiff. |
 | [TiffExifIfd](./tiffexififd/) | Η κλάση καταλόγου αρχείων εικόνας TIFF Exif. |
-| [TiffRational](./tiffrational/) | Ο ορθολογικός τύπος tiff. |
-| [TiffSRational](./tiffsrational/) | Ο ορθολογικός τύπος tiff. |
+| [TiffRational](./tiffrational/) | Ο λογικός τύπος tiff. |
+| [TiffSRational](./tiffsrational/) | Ο λογικός τύπος tiff. |
 
 

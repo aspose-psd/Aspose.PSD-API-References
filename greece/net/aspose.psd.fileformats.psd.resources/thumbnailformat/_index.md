@@ -1,11 +1,12 @@
 ---
-title: Enum ThumbnailFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat αρίθμηση. Καθορίζει τη μορφή δεδομένων μικρογραφίας.
+title: "Απαρίθμηση ThumbnailFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat enum. Καθορίζει τη μορφή δεδομένων μικρογραφίας"
 type: docs
-weight: 3900
+weight: 4370
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
+{{< psd/tize >}}
 ## ThumbnailFormat enumeration
 
 Καθορίζει τη μορφή δεδομένων μικρογραφίας.
@@ -14,16 +15,16 @@ url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 public enum ThumbnailFormat
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | KRawRgb | `0` | Ακατέργαστη μορφή RGB. |
-| KJpegRgb | `1` | Συμπιεσμένη μορφή Jpeg. |
+| KJpegRgb | `1` | Συμπιεσμένη μορφή JPEG. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

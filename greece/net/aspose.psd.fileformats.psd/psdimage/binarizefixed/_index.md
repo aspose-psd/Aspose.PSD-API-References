@@ -1,14 +1,15 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Δυαδοποίηση εικόνας με προκαθορισμένο όριο
+title: "PsdImage.BinarizeFixed"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Δυαδικοποίηση μιας εικόνας με προκαθορισμένο κατώφλι"
 type: docs
-weight: 480
+weight: 540
 url: /el/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
-Δυαδοποίηση εικόνας με προκαθορισμένο όριο
+Δυαδικοποίηση μιας εικόνας με προκαθορισμένο κατώφλι
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
@@ -16,12 +17,12 @@ public override void BinarizeFixed(byte threshold)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| threshold | Byte | Οριακή τιμή. Εάν η αντίστοιχη γκρι τιμή ενός pixel είναι μεγαλύτερη από το όριο, θα του εκχωρηθεί μια τιμή 255, διαφορετικά 0. |
+| κατώφλι | Byte | Τιμή κατωφλίου. Εάν η αντίστοιχη γκρι τιμή ενός pixel είναι μεγαλύτερη από το κατώφλι, θα του ανατεθεί τιμή 255, διαφορετικά 0. |
 
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

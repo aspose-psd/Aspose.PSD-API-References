@@ -1,14 +1,15 @@
 ---
-title: Class XmpTypeBase
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.XmpTypeBase τάξη. Αντιπροσωπεύει βασική κλάση για βασικό τύπο XMP.
+title: "Κλάση XmpTypeBase"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.XmpTypeBase class. Αντιπροσωπεύει τη βασική κλάση για τον βασικό τύπο XMP."
 type: docs
-weight: 6200
+weight: 6700
 url: /el/net/aspose.psd.xmp.types/xmptypebase/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase class
 
-Αντιπροσωπεύει βασική κλάση για βασικό τύπο XMP.
+Αναπαριστά τη βασική κλάση για τον βασικό τύπο XMP.
 
 ```csharp
 public abstract class XmpTypeBase : IXmpType
@@ -16,14 +17,14 @@ public abstract class XmpTypeBase : IXmpType
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * interface [IXmpType](../ixmptype/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

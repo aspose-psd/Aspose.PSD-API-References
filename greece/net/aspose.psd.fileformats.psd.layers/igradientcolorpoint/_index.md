@@ -1,14 +1,15 @@
 ---
-title: Interface IGradientColorPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint διεπαφή. Βασική διεπαφή για ρυθμίσεις πλήρωσης
+title: "Διεπαφή IGradientColorPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint. Βασική διεπαφή για ρυθμίσεις γεμίσματος"
 type: docs
-weight: 2060
+weight: 2240
 url: /el/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint interface
 
-Βασική διεπαφή για ρυθμίσεις πλήρωσης
+Βασική διεπαφή για ρυθμίσεις γεμίσματος
 
 ```csharp
 public interface IGradientColorPoint
@@ -16,15 +17,15 @@ public interface IGradientColorPoint
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Λαμβάνει ή ορίζει την τοποθεσία. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του μέσου σημείου. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Παίρνει ή ορίζει το χρώμα του ακατέργαστου. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Λαμβάνει ή ορίζει τη θέση. Περιοχή τιμών 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του ενδιάμεσου σημείου. Περιοχή τιμών 0-4096. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα του raw. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

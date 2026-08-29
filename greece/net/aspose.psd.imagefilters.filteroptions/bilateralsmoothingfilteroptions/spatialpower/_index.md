@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialPower
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BilateralSmoothingFilterOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη χωρική ισχύ.
+title: "BilateralSmoothingFilterOptions.SpatialPower"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BilateralSmoothingFilterOptions ιδιότητα. Λαμβάνει ή ορίζει τη χωρική δύναμη"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialPower property
 
-Λαμβάνει ή ρυθμίζει τη χωρική ισχύ.
+Λαμβάνει ή ορίζει τη χωρική δύναμη.
 
 ```csharp
 public double SpatialPower { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η χωρική ισχύς.
+Η χωρική δύναμη.
 
 ### Δείτε επίσης
 
 * class [BilateralSmoothingFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

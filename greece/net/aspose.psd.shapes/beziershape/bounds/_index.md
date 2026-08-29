@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Bounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BezierShape ιδιοκτησία. Λαμβάνει τα όρια του αντικειμένου.
+title: "BezierShape.Bounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BezierShape. Λαμβάνει τα όρια του αντικειμένου."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.shapes/beziershape/bounds/
 ---
+{{< psd/tize >}}
 ## BezierShape.Bounds property
 
 Λαμβάνει τα όρια του αντικειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.shapes/beziershape/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-τα όρια του αντικειμένου.
+Τα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [BezierShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../beziershape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

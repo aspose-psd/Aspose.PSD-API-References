@@ -1,11 +1,12 @@
 ---
-title: IImageLoaderDescriptor.CreateInstance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IImageLoaderDescriptor μέθοδος. Δημιουργεί μια νέα παρουσία φορτωτή.
+title: "IImageLoaderDescriptor.CreateInstance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IImageLoaderDescriptor μέθοδος. Δημιουργεί ένα νέο παράδειγμα φορτωτή"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/iimageloaderdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CreateInstance method
 
 Δημιουργεί μια νέα παρουσία φορτωτή.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/iimageloaderdescriptor/createinstance/
 public IImageLoader CreateInstance()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ένα νέο παράδειγμα φορτωτή.
 
@@ -22,7 +23,7 @@ public IImageLoader CreateInstance()
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* χώρος ονομάτων [Aspose.PSD](../../iimageloaderdescriptor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

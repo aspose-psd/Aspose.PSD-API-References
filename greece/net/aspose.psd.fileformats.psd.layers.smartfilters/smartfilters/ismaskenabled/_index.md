@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.IsMaskEnabled
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartFilters ιδιοκτησία. Λαμβάνει την κατάσταση είναι ενεργοποιημένη η μάσκα του έξυπνου φίλτρου.
+title: "SmartFilters.IsMaskEnabled"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartFilters. Λαμβάνει την κατάσταση ενεργοποίησης μάσκας του έξυπνου φίλτρου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskEnabled property
 
-Λαμβάνει την κατάσταση είναι ενεργοποιημένη η μάσκα του έξυπνου φίλτρου.
+Λαμβάνει την κατάσταση ενεργοποίησης της μάσκας του έξυπνου φίλτρου.
 
 ```csharp
 public bool IsMaskEnabled { get; }
@@ -17,7 +18,7 @@ public bool IsMaskEnabled { get; }
 ### Δείτε επίσης
 
 * class [SmartFilters](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

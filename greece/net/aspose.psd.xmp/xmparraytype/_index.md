@@ -1,30 +1,31 @@
 ---
-title: Enum XmpArrayType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.XmpArrayType αρίθμηση. Αντιπροσωπεύει τον τύπο πίνακα μέσαXmpArray .
+title: "Απαρίθμηση XmpArrayType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.Xmp.XmpArrayType. Αντιπροσωπεύει τον τύπο πίνακα στο XmpArray."
 type: docs
-weight: 6230
+weight: 6730
 url: /el/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-Αντιπροσωπεύει τον τύπο πίνακα μέσα[`XmpArray`](../xmparray/) .
+Αντιπροσωπεύει τον τύπο πίνακα στο [`XmpArray`](../xmparray/).
 
 ```csharp
 public enum XmpArrayType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| UNORDERED | `0` | Ο μη ταξινομημένος πίνακας. |
-| ORDERED | `1` | Ο διατεταγμένος πίνακας. |
+| UNORDERED | `0` | Ο αταξινόμητος πίνακας. |
+| ORDERED | `1` | Ο ταξινομημένος πίνακας. |
 | ALTERNATIVE | `2` | Ο εναλλακτικός πίνακας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

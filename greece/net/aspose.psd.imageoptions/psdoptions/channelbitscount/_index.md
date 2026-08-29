@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelBitsCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον αριθμό των bit ανά κανάλι χρώματος.
+title: "PsdOptions.ChannelBitsCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdOptions. Λαμβάνει ή ορίζει τον αριθμό των bit ανά κανάλι χρώματος."
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd.imageoptions/psdoptions/channelbitscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelBitsCount property
 
-Λαμβάνει ή ορίζει τον αριθμό των bit ανά κανάλι χρώματος.
+Λαμβάνει ή ορίζει τον αριθμό των δυαδικών ψηφίων ανά κανάλι χρώματος.
 
 ```csharp
 public short ChannelBitsCount { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα bits μετράνε ανά κανάλι χρώματος.
+Ο αριθμός των bit ανά κανάλι χρώματος.
 
 ### Δείτε επίσης
 
 * class [PsdOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../psdoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

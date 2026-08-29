@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Distance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IShadowEffect ιδιοκτησία. Λαμβάνει ή ορίζει την απόσταση σε pixel.
+title: "IShadowEffect.Distance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IShadowEffect property. Λαμβάνει ή ορίζει την απόσταση σε εικονοστοιχεία"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Distance property
 
-Λαμβάνει ή ορίζει την απόσταση σε pixel.
+Λαμβάνει ή ορίζει την απόσταση σε εικονοστοιχεία.
 
 ```csharp
 public int Distance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η απόσταση.
 
 ### Δείτε επίσης
 
 * interface [IShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

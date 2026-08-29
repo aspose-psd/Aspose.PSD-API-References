@@ -1,14 +1,15 @@
 ---
-title: Class RotateFlipExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.RotateFlipExtensions τάξη. Περιέχει μεθόδους επέκτασης για τη μετατροπή τουRotateFlipType και τοRotateFlipType τάξεις.
+title: "Κλάση RotateFlipExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Extensions.RotateFlipExtensions. Περιέχει μεθόδους επέκτασης για τη μετατροπή των κλάσεων RotateFlipType και RotateFlipType"
 type: docs
-weight: 1180
+weight: 1190
 url: /el/net/aspose.psd.extensions/rotateflipextensions/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions class
 
-Περιέχει μεθόδους επέκτασης για τη μετατροπή τουRotateFlipType και το[`RotateFlipType`](../../aspose.psd/rotatefliptype/) τάξεις.
+Περιέχει μεθόδους επέκτασης για τη μετατροπή των κλάσεων RotateFlipType και του [`RotateFlipType`](../../aspose.psd/rotatefliptype/).
 
 ```csharp
 public static class RotateFlipExtensions
@@ -16,13 +17,13 @@ public static class RotateFlipExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | Μετατρέπει το Aspose.PSD.RotateFlipType σε System.Drawing.RotateFlipType. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

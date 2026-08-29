@@ -1,14 +1,15 @@
 ---
-title: Point.Ceiling
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Μετατρέπει το καθορισμένοPointF σε αPoint στρογγυλοποιώντας τις τιμές τουPointF στις επόμενες υψηλότερες ακέραιες τιμές.
+title: "Point.Ceiling"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Μετατρέπει το συγκεκριμένο PointF σε Point στρογγυλοποιώντας τις τιμές του PointF προς το επόμενο μεγαλύτερο ακέραιο."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/point/ceiling/
 ---
+{{< psd/tize >}}
 ## Point.Ceiling method
 
-Μετατρέπει το καθορισμένο[`PointF`](../../pointf/) σε α[`Point`](../) στρογγυλοποιώντας τις τιμές του[`PointF`](../../pointf/) στις επόμενες υψηλότερες ακέραιες τιμές.
+Μετατρέπει το συγκεκριμένο [`PointF`](../../pointf/) σε [`Point`](../) στρογγυλοποιώντας τις τιμές του [`PointF`](../../pointf/) προς το επόμενο μεγαλύτερο ακέραιο.
 
 ```csharp
 public static Point Ceiling(PointF point)
@@ -16,17 +17,17 @@ public static Point Ceiling(PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../../pointf/) μετατρέπω. |
+| point | PointF | Το [`PointF`](../../pointf/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Point`](../) αυτή η μέθοδος μετατρέπεται σε.
+Το [`Point`](../) στο οποίο αυτή η μέθοδος μετατρέπει.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

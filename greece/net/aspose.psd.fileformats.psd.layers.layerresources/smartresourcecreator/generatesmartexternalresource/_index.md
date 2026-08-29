@@ -1,11 +1,12 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartResourceCreator μέθοδος. Δημιουργεί τον εξωτερικό πόρο έξυπνου αντικειμένου.
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SmartResourceCreator μέθοδος. Δημιουργεί τον εξωτερικό πόρο έξυπνου αντικειμένου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
 Δημιουργεί τον εξωτερικό πόρο έξυπνου αντικειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreat
 public SoLeResource GenerateSmartExternalResource()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το παραγόμενο[`SoLeResource`](../../soleresource/) παράδειγμα.
+Το παραγόμενο [`SoLeResource`](../../soleresource/) αντικείμενο.
 
 ### Δείτε επίσης
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Bottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskData ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη θέση της μάσκας κάτω στρώματος.
+title: "LayerMaskData.Bottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerMaskData. Λαμβάνει ή ορίζει τη θέση της κάτω μάσκας στρώσης."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdata/bottom/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Bottom property
 
-Λαμβάνει ή ρυθμίζει τη θέση της μάσκας κάτω στρώματος.
+Λαμβάνει ή ορίζει τη θέση της κάτω μάσκας στρώσης.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση της μάσκας κάτω στρώματος.
+Η θέση της κάτω μάσκας στρώσης.
 
 ### Δείτε επίσης
 
 * class [LayerMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

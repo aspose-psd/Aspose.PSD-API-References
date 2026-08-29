@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Palette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageOptionsBase ιδιοκτησία. Λαμβάνει ή ορίζει την παλέτα χρωμάτων.
+title: "ImageOptionsBase.Palette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ImageOptionsBase. Λαμβάνει ή ορίζει την παλέτα χρωμάτων"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/imageoptionsbase/palette/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Palette property
 
 Λαμβάνει ή ορίζει την παλέτα χρωμάτων.
@@ -14,15 +15,11 @@ url: /el/net/aspose.psd/imageoptionsbase/palette/
 public virtual IColorPalette Palette { get; set; }
 ```
 
-### Αξία περιουσίας
-
-Η χρωματική παλέτα.
-
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ImageOptionsBase](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageoptionsbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FillLayerResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FillLayerResource ιδιοκτησία. Παίρνει την υπογραφή.
+title: "FillLayerResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FillLayerResource ιδιότητα. Ανακτά την υπογραφή"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/signature/
 ---
+{{< psd/tize >}}
 ## FillLayerResource.Signature property
 
-Παίρνει την υπογραφή.
+Λαμβάνει την υπογραφή.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [FillLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filllayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

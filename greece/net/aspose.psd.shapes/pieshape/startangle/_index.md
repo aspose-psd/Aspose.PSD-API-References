@@ -1,27 +1,28 @@
 ---
-title: PieShape.StartAngle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PieShape ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη γωνία έναρξης.
+title: "PieShape.StartAngle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PieShape. Λαμβάνει ή ορίζει την αρχική γωνία."
 type: docs
 weight: 30
 url: /el/net/aspose.psd.shapes/pieshape/startangle/
 ---
+{{< psd/tize >}}
 ## PieShape.StartAngle property
 
-Λαμβάνει ή ρυθμίζει τη γωνία έναρξης.
+Λαμβάνει ή ορίζει τη γωνία έναρξης.
 
 ```csharp
 public float StartAngle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η γωνία εκκίνησης.
+Η αρχική γωνία.
 
 ### Δείτε επίσης
 
 * class [PieShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../pieshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

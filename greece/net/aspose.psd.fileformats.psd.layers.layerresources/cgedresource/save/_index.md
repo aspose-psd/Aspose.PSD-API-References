@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource μέθοδος. Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
+title: "CgEdResource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource method. Αποθηκεύει τον πόρο στο καθορισμένο υποδοχέα ροής"
 type: docs
-weight: 120
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Save method
 
 Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

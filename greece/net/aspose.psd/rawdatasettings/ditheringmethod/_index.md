@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.DitheringMethod
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RawDataSettings ιδιοκτησία. Λαμβάνει ή ορίζει τη μέθοδο dithering για χρήση για μη επεξεργασμένα δεδομένα conversion
+title: "RawDataSettings.DitheringMethod"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RawDataSettings ιδιότητα. Λαμβάνει ή ορίζει τη μέθοδο τριχοποίησης που χρησιμοποιείται για τη μετατροπή ακατέργαστων δεδομένων."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/rawdatasettings/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.DitheringMethod property
 
-Λαμβάνει ή ορίζει τη μέθοδο dithering για χρήση για μη επεξεργασμένα δεδομένα conversion
+Λαμβάνει ή ορίζει τη μέθοδο τριχοτόμησης που θα χρησιμοποιηθεί για τη μετατροπή ακατέργαστων δεδομένων
 
 ```csharp
 public DitheringMethods DitheringMethod { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μέθοδος dithering που χρησιμοποιείται για τη μετατροπή ακατέργαστων δεδομένων
+Η μέθοδος τριχοποίησης που χρησιμοποιείται για τη μετατροπή ακατέργαστων δεδομένων.
 
 ### Δείτε επίσης
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../rawdatasettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

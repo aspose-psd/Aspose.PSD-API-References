@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage μέθοδος. Προσθέτει την ημερομηνία δημιουργίας του πόρου.
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpBasicPackage. Προσθέτει την ημερομηνία δημιουργίας του πόρου"
 type: docs
-weight: 30
+weight: 50
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
 Προσθέτει την ημερομηνία δημιουργίας του πόρου.
@@ -21,8 +22,8 @@ public void SetCreatedDate(DateTime createdDate)
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,7 +42,7 @@ public void SetCreatedDate(string createdDate)
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

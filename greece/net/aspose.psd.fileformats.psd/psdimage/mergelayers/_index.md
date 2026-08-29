@@ -1,11 +1,12 @@
 ---
-title: PsdImage.MergeLayers
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Συγχωνεύει τα επίπεδα.
+title: "PsdImage.MergeLayers"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Συγχωνεύει τα στρώματα"
 type: docs
-weight: 560
+weight: 620
 url: /el/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
+{{< psd/tize >}}
 ## PsdImage.MergeLayers method
 
 Συγχωνεύει τα επίπεδα.
@@ -16,10 +17,10 @@ public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bottomLayer | Layer | Το κάτω στρώμα. |
-| topLayer | Layer | Το ανώτερο στρώμα. |
+| bottomLayer | Στρώση | Το κάτω στρώμα. |
+| topLayer | Στρώση | Το πάνω στρώμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Κάτω στρώμα μετά τη συγχώνευση
 
@@ -27,7 +28,7 @@ public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

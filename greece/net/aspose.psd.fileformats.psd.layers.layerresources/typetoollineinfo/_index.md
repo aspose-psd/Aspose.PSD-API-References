@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo τάξη. Πληκτρολογήστε πληροφορίες γραμμής εργαλείου.
+title: "Class TypeToolLineInfo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo class. Πληροφορίες γραμμής εργαλείου τύπου"
 type: docs
-weight: 3310
+weight: 3700
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-Πληκτρολογήστε πληροφορίες γραμμής εργαλείου.
+Πληροφορίες γραμμής εργαλείου κειμένου.
 
 ```csharp
 public class TypeToolLineInfo
@@ -16,25 +17,25 @@ public class TypeToolLineInfo
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [TypeToolLineInfo](typetoollineinfo/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Λαμβάνει ή ορίζει τον χαρακτήρα. |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Λαμβάνει ή ορίζει το χαρακτήρα. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Αποθηκεύει το`TypeToolLineInfo` πληροφορίες στο καθορισμένο κοντέινερ ροής. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Αποθηκεύει τις πληροφορίες του `TypeToolLineInfo` στο καθορισμένο κοντέινερ ροής. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

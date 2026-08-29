@@ -1,14 +1,15 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpArrayHelper μέθοδος. Λαμβάνει τον κωδικό RDF για συγκεκριμέναXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpArrayHelper μέθοδος. Λαμβάνει τον κώδικα RDF για συγκεκριμένο XmpArrayType."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-Λαμβάνει τον κωδικό RDF για συγκεκριμένα[`XmpArrayType`](../../xmparraytype/) .
+Λαμβάνει τον κώδικα RDF για συγκεκριμένο [`XmpArrayType`](../../xmparraytype/).
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
@@ -16,15 +17,15 @@ public static string GetRdfCode(XmpArrayType xmpArrayType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| xmpArrayType | XmpArrayType | Τύπος πίνακα XMP. |
+| xmpArrayType | XmpArrayType | Τύπος του πίνακα XMP. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει τον κωδικό RDF για συγκεκριμένα[`XmpArrayType`](../../xmparraytype/).
+Επιστρέφει τον κώδικα RDF για συγκεκριμένο [`XmpArrayType`](../../xmparraytype/).
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Μη έγκυρη εξαίρεση ορίσματος enum |
 
@@ -32,7 +33,7 @@ public static string GetRdfCode(XmpArrayType xmpArrayType)
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

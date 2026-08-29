@@ -1,14 +1,15 @@
 ---
-title: Class NonGenericList
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.NonGenericList τάξη. Μη γενική λίστα αντικειμένων
+title: "Κλάση NonGenericList"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.NonGenericList. Μη γενική λίστα αντικειμένων"
 type: docs
-weight: 5150
+weight: 5640
 url: /el/net/aspose.psd/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList class
 
-Μη γενική λίστα αντικειμένων
+Μη γενική λίστα αντικειμένων.
 
 ```csharp
 public class NonGenericList : IList
@@ -16,38 +17,38 @@ public class NonGenericList : IList
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [NonGenericList](nongenericlist/)(IList) | Αρχικοποιεί μια νέα παρουσία του`NonGenericList` τάξη. |
+| [NonGenericList](nongenericlist/)(IList) | Αρχικοποιεί μια νέα παρουσία της κλάσης `NonGenericList`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Count](../../aspose.psd/nongenericlist/count/) { get; } | Παίρνει τον αριθμό των στοιχείων που περιέχονται στοICollection . |
-| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν τοIList έχει σταθερό μέγεθος. |
-| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν τοIList είναι μόνο για ανάγνωση. |
-| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η πρόσβαση στοICollection είναι συγχρονισμένο (ασφαλές νήμα). |
-| [Item](../../aspose.psd/nongenericlist/item/) { get; set; } | Λαμβάνει ή ορίζει το στοιχείο στο καθορισμένο ευρετήριο. |
-| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | Λαμβάνει ένα αντικείμενο που μπορεί να χρησιμοποιηθεί για τον συγχρονισμό της πρόσβασης στοICollection . |
+| [Count](../../aspose.psd/nongenericlist/count/) { get; } | Λαμβάνει τον αριθμό των στοιχείων που περιέχονται στο ICollection. |
+| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν το IList έχει σταθερό μέγεθος. |
+| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν το IList είναι μόνο για ανάγνωση. |
+| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η πρόσβαση στο ICollection είναι συγχρονισμένη (ασφαλής για νήματα). |
+| [Item](../../aspose.psd/nongenericlist/item/) { get; set; } | Λαμβάνει ή ορίζει το στοιχείο στον καθορισμένο δείκτη. |
+| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | Λαμβάνει ένα αντικείμενο που μπορεί να χρησιμοποιηθεί για το συγχρονισμό της πρόσβασης στο ICollection. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericlist/add/)(object) | Προσθέτει ένα στοιχείο στοIList . |
-| [Clear](../../aspose.psd/nongenericlist/clear/)() | Αφαιρεί όλα τα στοιχεία από τοIList . |
-| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | Καθορίζει εάν τοIList περιέχει μια συγκεκριμένη τιμή. |
-| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | Αντιγράφει τα στοιχεία τουICollection σε έναArray , ξεκινώντας από ένα συγκεκριμένοArray ευρετήριο. |
-| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | Επιστρέφει έναν απαριθμητή που επαναλαμβάνεται μέσω μιας συλλογής. |
-| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | Καθορίζει το ευρετήριο ενός συγκεκριμένου στοιχείου στοIList . |
-| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | Εισάγει ένα στοιχείο στοIList στον καθορισμένο δείκτη. |
-| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | Αφαιρεί την πρώτη εμφάνιση ενός συγκεκριμένου αντικειμένου από τοIList . |
-| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | Αφαιρεί τοIList στοιχείο στο καθορισμένο ευρετήριο. |
+| [Add](../../aspose.psd/nongenericlist/add/)(object) | Προσθέτει ένα στοιχείο στο IList. |
+| [Clear](../../aspose.psd/nongenericlist/clear/)() | Αφαιρεί όλα τα στοιχεία από το IList. |
+| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | Καθορίζει εάν το IList περιέχει μια συγκεκριμένη τιμή. |
+| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | Αντιγράφει τα στοιχεία του ICollection σε έναν Array, ξεκινώντας από έναν συγκεκριμένο δείκτη Array. |
+| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | Επιστρέφει έναν επαναλήπτη που διασχίζει μια συλλογή. |
+| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | Καθορίζει τον δείκτη ενός συγκεκριμένου στοιχείου στο IList. |
+| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | Εισάγει ένα στοιχείο στο IList στον καθορισμένο δείκτη. |
+| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | Αφαιρεί την πρώτη εμφάνιση ενός συγκεκριμένου αντικειμένου από το IList. |
+| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | Αφαιρεί το στοιχείο του IList στον καθορισμένο δείκτη. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

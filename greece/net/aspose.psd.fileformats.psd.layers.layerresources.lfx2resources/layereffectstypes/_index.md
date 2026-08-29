@@ -1,37 +1,38 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes αρίθμηση. Εφέ ανάμειξης επιπέδων.
+title: "Enum LayerEffectsTypes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. Εφέ ανάμειξης στρώματος"
 type: docs
-weight: 2660
+weight: 2900
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
-Εφέ ανάμειξης επιπέδων.
+Εφέ ανάμειξης στρώσεων.
 
 ```csharp
 public enum LayerEffectsTypes
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| DropShadow | `0` | Η σκιά. |
+| DropShadow | `0` | Η σκιά απόρριψης. |
 | OuterGlow | `1` | Η εξωτερική λάμψη. |
 | PatternOverlay | `2` | Η επικάλυψη μοτίβου. |
-| GradientOverlay | `3` | Η επικάλυψη ντεγκραντέ. |
+| GradientOverlay | `3` | Η επικάλυψη διαβάθμισης. |
 | ColorOverlay | `4` | Η επικάλυψη χρώματος. |
 | Satin | `5` | Ο τύπος εφέ σατέν. |
 | InnerGlow | `6` | Η εσωτερική λάμψη. |
 | InnerShadow | `7` | Η εσωτερική σκιά. |
-| Stroke | `8` | Το εγκεφαλικό. |
-| BevelEmboss | `9` | Το λοξότμητο ανάγλυφο. |
+| Stroke | `8` | Η γραμμή. |
+| BevelEmboss | `9` | Η ανάγλυφη κλίση. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της ιδιότητας ILayerEffect.EffectType.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της ιδιότητας ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // έπιασε
+            // το συνέλαβε
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -64,7 +65,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ArcShape.Segments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ArcShape ιδιοκτησία. Παίρνει τα τμήματα σχήματος.
+title: "ArcShape.Segments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ArcShape ιδιότητα. Λαμβάνει τα τμήματα του σχήματος"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.shapes/arcshape/segments/
 ---
+{{< psd/tize >}}
 ## ArcShape.Segments property
 
-Παίρνει τα τμήματα σχήματος.
+Λαμβάνει τα τμήματα του σχήματος.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα τμήματα σχήματος.
+Τα τμήματα του σχήματος.
 
 ### Δείτε επίσης
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [ArcShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../arcshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

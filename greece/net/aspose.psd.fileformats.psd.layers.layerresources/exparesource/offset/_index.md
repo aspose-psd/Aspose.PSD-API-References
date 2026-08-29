@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Offset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExpaResource ιδιοκτησία. Λαμβάνει ή ορίζει τη μετατόπιση.
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExpaResource. Λαμβάνει ή ορίζει τη μετατόπιση"
 type: docs
-weight: 60
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
-Λαμβάνει ή ορίζει τη μετατόπιση.
+Λαμβάνει ή ορίζει την μετατόπιση.
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μετατόπιση.
 
 ### Δείτε επίσης
 
 * class [ExpaResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FillLayer μέθοδος. Δημιουργήστε μια νέα παρουσία τουFillLayer κατηγορία ανά τύπο γεμίσματος.
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FillLayer. Δημιουργήστε μια νέα παρουσία της κλάσης FillLayer με βάση τον τύπο γεμίσματος."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-Δημιουργήστε μια νέα παρουσία του[`FillLayer`](../) κατηγορία ανά τύπο γεμίσματος.
+Δημιουργήστε μια νέα παρουσία της κλάσης [`FillLayer`](../) με βάση τον τύπο γεμίσματος.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
@@ -16,15 +17,15 @@ public static FillLayer CreateInstance(FillType fillType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| fillType | FillType | Ο τύπος του στρώματος πλήρωσης. |
+| fillType | FillType | Ο τύπος της στρώσης γεμίσματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει μια νέα παρουσία του[`FillLayer`](../) κατηγορία ανά τύπο γεμίσματος.
+Επιστρέφει μια νέα παρουσία της κλάσης [`FillLayer`](../) με βάση τον τύπο γεμίσματος.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς να προσθέσετε το επίπεδο τύπου FillLayer κατά το χρόνο εκτέλεσης.
+Το παρακάτω παράδειγμα δείχνει πώς να προσθέσετε τη στρώση τύπου FillLayer κατά την εκτέλεση.
 
 ```csharp
 [C#]
@@ -54,7 +55,7 @@ using (var image = new PsdImage(100, 100))
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykColor.ToValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColor μέθοδος. Η τιμή προς τιμή.
+title: "CmykColor.ToValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος CmykColor. Η τιμή to"
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd/cmykcolor/tovalue/
 ---
+{{< psd/tize >}}
 ## CmykColor.ToValue method
 
-Η τιμή προς τιμή.
+Η τιμή προορισμού.
 
 ```csharp
 public long ToValue()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΤοInt64 .
+Το Int64.
 
 ### Δείτε επίσης
 
 * struct [CmykColor](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

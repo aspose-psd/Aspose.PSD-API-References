@@ -1,27 +1,28 @@
 ---
-title: ExifData.ComponentsConfiguration
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη διαμόρφωση στοιχείων.
+title: "ExifData.ComponentsConfiguration"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData property. Λαμβάνει ή ορίζει τη διαμόρφωση των στοιχείων"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.exif/exifdata/componentsconfiguration/
 ---
+{{< psd/tize >}}
 ## ExifData.ComponentsConfiguration property
 
-Λαμβάνει ή ορίζει τη διαμόρφωση στοιχείων.
+Λαμβάνει ή ορίζει τη διαμόρφωση των στοιχείων.
 
 ```csharp
 public byte[] ComponentsConfiguration { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η διαμόρφωση των στοιχείων.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

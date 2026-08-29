@@ -1,11 +1,12 @@
 ---
-title: Image.Load
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image μέθοδος. Φορτώνει μια νέα εικόνα από το καθορισμένο αρχείο.
+title: "Image.Load"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Image. Φορτώνει μια νέα εικόνα από το καθορισμένο αρχείο."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
 Φορτώνει μια νέα εικόνα από το καθορισμένο αρχείο.
@@ -19,7 +20,7 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 | filePath | String | Η διαδρομή αρχείου από την οποία θα φορτωθεί η εικόνα. |
 | loadOptions | LoadOptions | Οι επιλογές φόρτωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Η φορτωμένη εικόνα.
 
@@ -27,8 +28,8 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,28 +43,28 @@ public static Image Load(string filePath)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| filePath | String | Η διαδρομή αρχείου για τη φόρτωση της εικόνας από. |
+| filePath | String | Η διαδρομή αρχείου από την οποία θα φορτωθεί η εικόνα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Η φορτωμένη εικόνα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει τη φόρτωση ενός υπάρχοντος αρχείου εικόνας σε μια παρουσία του Aspose.PSD.Image χρησιμοποιώντας την καθορισμένη διαδρομή αρχείου
+Αυτό το παράδειγμα δείχνει τη φόρτωση ενός υπάρχοντος αρχείου Image σε μια παρουσία του Aspose.PSD.Image χρησιμοποιώντας την καθορισμένη διαδρομή αρχείου.
 
 ```csharp
 [C#]
 
-//Δημιουργία παρουσίασης εικόνας και αρχικοποίηση με ένα υπάρχον αρχείο εικόνας από τη θέση του δίσκου
+//Δημιουργήστε μια παρουσία Image και αρχικοποιήστε την με ένα υπάρχον αρχείο εικόνας από την τοποθεσία δίσκου.
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    //Κάνε κάποια επεξεργασία εικόνας
+    //κάντε κάποια επεξεργασία εικόνας
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η στοίχιση κειμένου μέσω του ITextPortion για γλώσσες από δεξιά προς τα αριστερά λειτουργεί σωστά.
+Το παρακάτω παράδειγμα δείχνει ότι η Στοίχιση Κειμένου μέσω ITextPortion για γλώσσες δεξιά‑προς‑αριστερά λειτουργεί σωστά.
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων PSD 16 bit σε κλίμακα του γκρι στα 16 bit ανά κανάλι RGB λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων Grayscale 16 bit PSD σε 16bit ανά κανάλι RGB λειτουργεί σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -116,7 +117,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων PSD 16 bit της κλίμακας του γκρι σε 8 bit ανά κανάλι Η κλίμακα του γκρι λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων Grayscale 16 bit PSD σε 8 bit ανά κανάλι Grayscale λειτουργεί σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -149,7 +150,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η πρόοδος μετατροπής του εγγράφου λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η πρόοδος μετατροπής εγγράφου λειτουργεί σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων PSD 16 bit της κλίμακας του γκρι λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η ανάγνωση και η αποθήκευση των αρχείων Grayscale 16-bit PSD λειτουργούν σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -258,14 +259,14 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream, LoadOptions) {#load_1}
 
-Φορτώνει μια νέα εικόνα από την καθορισμένη ροή.
+Φορτώνει μια νέα εικόνα από τη συγκεκριμένη ροή.
 
 ```csharp
 public static Image Load(Stream stream, LoadOptions loadOptions)
@@ -276,7 +277,7 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 | stream | Stream | Η ροή από την οποία θα φορτωθεί η εικόνα. |
 | loadOptions | LoadOptions | Οι επιλογές φόρτωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Η φορτωμένη εικόνα.
 
@@ -284,14 +285,14 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream) {#load}
 
-Φορτώνει μια νέα εικόνα από την καθορισμένη ροή.
+Φορτώνει μια νέα εικόνα από τη συγκεκριμένη ροή.
 
 ```csharp
 public static Image Load(Stream stream)
@@ -301,13 +302,13 @@ public static Image Load(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Η ροή από την οποία θα φορτωθεί η εικόνα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Η φορτωμένη εικόνα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει τη χρήση αντικειμένων System.IO.Stream για τη φόρτωση ενός υπάρχοντος αρχείου εικόνας
+Αυτό το παράδειγμα δείχνει τη χρήση αντικειμένων System.IO.Stream για τη φόρτωση ενός υπάρχοντος αρχείου Image.
 
 ```csharp
 [C#]
@@ -318,7 +319,7 @@ using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.ps
     //Δημιουργήστε μια παρουσία της κλάσης Image και φορτώστε ένα υπάρχον αρχείο μέσω του αντικειμένου FileStream καλώντας τη μέθοδο Load
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        //Κάνε κάποια επεξεργασία εικόνας.
+        //Κάντε κάποια επεξεργασία εικόνας.
     }
 }
 ```
@@ -326,7 +327,7 @@ using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.ps
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

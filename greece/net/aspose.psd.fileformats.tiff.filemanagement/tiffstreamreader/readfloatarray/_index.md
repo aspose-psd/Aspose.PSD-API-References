@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadFloatArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Διαβάζει έναν πίνακα τιμών float από τη ροή.
+title: "TiffStreamReader.ReadFloatArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamReader. Διαβάζει έναν πίνακα τιμών float από τη ροή"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloatArray method
 
-Διαβάζει έναν πίνακα τιμών float από τη ροή.
+Διαβάζει έναν πίνακα τιμών float από το ρεύμα.
 
 ```csharp
 public float[] ReadFloatArray(long position, long count)
@@ -16,23 +17,23 @@ public float[] ReadFloatArray(long position, long count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
-| count | Int64 | Τα στοιχεία μετράνε. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
+| πλήθος | Int64 | Ο αριθμός των στοιχείων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο πίνακας των τιμών float.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | count; Αναμενόταν θετικός αριθμός. |
+| ArgumentOutOfRangeException | count;Αναμενόταν θετικός αριθμός. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

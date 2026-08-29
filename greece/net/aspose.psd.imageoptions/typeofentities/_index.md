@@ -1,11 +1,12 @@
 ---
-title: Enum TypeOfEntities
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.TypeOfEntities αρίθμηση. Αντιπροσωπεύει τύπους οντοτήτων για απόδοση
+title: "Enum TypeOfEntities"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageOptions.TypeOfEntities enum. Αντιπροσωπεύει τύπους οντοτήτων για απόδοση"
 type: docs
-weight: 4970
+weight: 5460
 url: /el/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
 Αντιπροσωπεύει τύπους οντοτήτων για απόδοση
@@ -14,16 +15,16 @@ url: /el/net/aspose.psd.imageoptions/typeofentities/
 public enum TypeOfEntities
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Entities2D | `0` | Απόδοση 2D οντοτήτων |
-| Entities3D | `1` | Απόδοση τρισδιάστατων οντοτήτων |
+| Entities2D | `0` | Απόδοση οντοτήτων 2D |
+| Entities3D | `1` | Απόδοση οντοτήτων 3D |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

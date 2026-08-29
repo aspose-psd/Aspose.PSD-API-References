@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις και μεθόδους που σχετίζονται με το EXIF.
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις και μεθόδους σχετικές με το EXIF."
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd.exif/
 ---
-Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις και μεθόδους που σχετίζονται με το EXIF.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις και μεθόδους σχετικές με EXIF.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [ExifData](./exifdata/) | κοντέινερ δεδομένων EXIF. |
-| [JpegExifData](./jpegexifdata/) | EXIF κοντέινερ δεδομένων για αρχεία jpeg. |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | Αντιπροσωπεύει τη γενική κλάση για εργασία με τύπους δεδομένων tiff. |
+| [ExifData](./exifdata/) | Κοντέινερ δεδομένων EXIF. |
+| [JpegExifData](./jpegexifdata/) | Κοντέινερ δεδομένων EXIF για αρχεία jpeg. |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | Αντιπροσωπεύει γενική κλάση για εργασία με τύπους δεδομένων tiff. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [ExifProperties](./exifproperties/) | Λίστα ετικετών Exif |
+| [ExifProperties](./exifproperties/) | Λίστα ετικετών Exif. |
 
 

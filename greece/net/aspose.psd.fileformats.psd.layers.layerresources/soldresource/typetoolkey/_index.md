@@ -1,14 +1,15 @@
 ---
-title: SoLdResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SoLdResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου SoLd.
+title: "SoLdResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο SoLdResource. Το κλειδί πληροφοριών εργαλείου τύπου SoLd"
 type: docs
-weight: 30
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoLdResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου: 'SoLd'.
+Το κλειδί πληροφοριών του εργαλείου τύπου: 'SoLd'.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [SoLdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

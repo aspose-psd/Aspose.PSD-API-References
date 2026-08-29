@@ -1,27 +1,28 @@
 ---
-title: PointF.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointF μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτόPointFδομή.
+title: "PointF.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PointF μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτή τη δομή PointF"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/pointf/gethashcode/
 ---
+{{< psd/tize >}}
 ## PointF.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτό[`PointF`](../)δομή.
+Επιστρέφει έναν κωδικό κατακερματισμού για αυτή τη δομή [`PointF`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια ακέραια τιμή που καθορίζει μια τιμή κατακερματισμού για αυτό[`PointF`](../) δομή.
+Μια ακέραια τιμή που καθορίζει μια τιμή κατακερματισμού για αυτή τη δομή [`PointF`](../).
 
 ### Δείτε επίσης
 
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleF.op_Inequality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF μέθοδος. Ελέγχει εάν δύοRectangleF οι δομές διαφέρουν ως προς τη θέση ή το μέγεθος.
+title: "RectangleF.op_Inequality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RectangleF μέθοδος. Ελέγχει αν δύο δομές RectangleF διαφέρουν στη θέση ή στο μέγεθος"
 type: docs
 weight: 290
 url: /el/net/aspose.psd/rectanglef/op_inequality/
 ---
+{{< psd/tize >}}
 ## RectangleF Inequality operator
 
-Ελέγχει εάν δύο[`RectangleF`](../) οι δομές διαφέρουν ως προς τη θέση ή το μέγεθος.
+Ελέγχει αν δύο δομές [`RectangleF`](../) διαφέρουν στη θέση ή στο μέγεθος.
 
 ```csharp
 public static bool operator !=(RectangleF left, RectangleF right)
@@ -16,17 +17,17 @@ public static bool operator !=(RectangleF left, RectangleF right)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | RectangleF | ο[`RectangleF`](../) δομή που βρίσκεται στα αριστερά του τελεστή ανισότητας. |
-| right | RectangleF | ο[`RectangleF`](../) δομή που βρίσκεται στα δεξιά του τελεστή ανισότητας. |
+| left | RectangleF | Η δομή [`RectangleF`](../) που βρίσκεται στα αριστερά του τελεστή ανισότητας. |
+| right | RectangleF | Η δομή [`RectangleF`](../) που βρίσκεται στα δεξιά του τελεστή ανισότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτός ο τελεστής επιστρέφει true εάν κάποιο από τα[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , ή[`Height`](../height/) ιδιότητες των δύο[`RectangleF`](../) Οι δομές είναι άνισες. αλλιώς ψευδής.
+Αυτός ο τελεστής επιστρέφει true εάν οποιαδήποτε από τις ιδιότητες [`X`](../x/), [`Y`](../y/), [`Width`](../width/) ή [`Height`](../height/) των δύο δομών [`RectangleF`](../) είναι διαφορετική· διαφορετικά false.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

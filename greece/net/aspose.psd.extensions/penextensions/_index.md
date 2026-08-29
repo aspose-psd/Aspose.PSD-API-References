@@ -1,14 +1,15 @@
 ---
-title: Class PenExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.PenExtensions τάξη. Περιέχει μεθόδους επέκτασης γιαPen καιPen .
+title: "Κλάση PenExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Extensions.PenExtensions. Περιέχει μεθόδους επέκτασης για Pen και Pen"
 type: docs
-weight: 1140
+weight: 1150
 url: /el/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-Περιέχει μεθόδους επέκτασης για[`Pen`](../../aspose.psd/pen/) καιPen .
+Περιέχει μεθόδους επέκτασης για [`Pen`](../../aspose.psd/pen/) και Pen.
 
 ```csharp
 public static class PenExtensions
@@ -16,13 +17,13 @@ public static class PenExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Μετατρέπει το[`Pen`](../../aspose.psd/pen/) στοPen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Μετατρέπει το [`Pen`](../../aspose.psd/pen/) σε Pen. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

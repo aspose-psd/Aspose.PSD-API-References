@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.A
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantLab ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο A.
+title: "ColorantLab.A"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorantLab ιδιότητα. Λαμβάνει ή ορίζει το συστατικό A"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
 Λαμβάνει ή ορίζει το στοιχείο A.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 public int A { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το συστατικό Α.
+Το συστατικό A.
 
 ### Δείτε επίσης
 
 * class [ColorantLab](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

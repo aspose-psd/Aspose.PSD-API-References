@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.SetRating
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage μέθοδος. Βαθμολογία συνόλων.
+title: "XmpBasicPackage.SetRating"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpBasicPackage. Ορίζει την αξιολόγηση"
 type: docs
-weight: 90
+weight: 110
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetRating method
 
-Βαθμολογία συνόλων.
+Ορίζει την αξιολόγηση.
 
 ```csharp
 public void SetRating(int choise)
@@ -16,12 +17,12 @@ public void SetRating(int choise)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| choise | Int32 | Από -1 έως 5 |
+| επιλογή | Int32 | Από -1 έως 5 |
 
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

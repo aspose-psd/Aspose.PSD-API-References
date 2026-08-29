@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Data
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnknownResource ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα.
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα UnknownResource. Λαμβάνει ή ορίζει τα δεδομένα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
 Λαμβάνει ή ορίζει τα δεδομένα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/da
 public byte[] Data { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δεδομένα.
 
 ### Δείτε επίσης
 
 * class [UnknownResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Λαμβάνει ή ορίζει ένα προσαρμοσμένο όριο για χρήση στο τέλος των γραμμών που σχεδιάζονται με αυτόPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει μια προσαρμοσμένη άκρη για χρήση στο τέλος των γραμμών που σχεδιάζονται με αυτό το Pen"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-Λαμβάνει ή ορίζει ένα προσαρμοσμένο όριο για χρήση στο τέλος των γραμμών που σχεδιάζονται με αυτό[`Pen`](../) .
+Λαμβάνει ή ορίζει μια προσαρμοσμένη άκρη για χρήση στο τέλος των γραμμών που σχεδιάζονται με αυτό το [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`CustomLineCap`](../../customlinecap/) που αντιπροσωπεύει το καπάκι που χρησιμοποιείται στο τέλος των γραμμών που σχεδιάζονται με αυτό[`Pen`](../).
+Ένα [`CustomLineCap`](../../customlinecap/) που αντιπροσωπεύει την άκρη που χρησιμοποιείται στο τέλος των γραμμών που σχεδιάζονται με αυτό το [`Pen`](../).
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | ο`CustomEndCap` η ιδιοκτησία έχει οριστεί σε αμετάβλητο[`Pen`](../) , όπως αυτά που επιστράφηκαν από το[`Pen`](../) τάξη. |
+| ArgumentException | Η ιδιότητα `CustomEndCap` ορίζεται σε ένα αμετάβλητο [`Pen`](../), όπως αυτά που επιστρέφονται από την κλάση [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

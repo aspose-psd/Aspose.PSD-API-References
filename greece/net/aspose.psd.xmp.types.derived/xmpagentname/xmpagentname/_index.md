@@ -1,14 +1,15 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpAgentName κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpAgentName τάξη.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpAgentName. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης XmpAgentName"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpAgentName`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpAgentName`](../).
 
 ```csharp
 public XmpAgentName(string value)
@@ -16,12 +17,12 @@ public XmpAgentName(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpAgentName](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

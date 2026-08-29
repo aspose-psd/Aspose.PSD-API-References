@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Yellow
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantCmyk ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του κίτρινου στοιχείου.
+title: "ColorantCmyk.Yellow"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorantCmyk. Λαμβάνει ή ορίζει την τιμή του κίτρινου συστατικού"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Yellow property
 
-Λαμβάνει ή ορίζει την τιμή του κίτρινου στοιχείου.
+Λαμβάνει ή ορίζει την τιμή του στοιχείου κίτρινου.
 
 ```csharp
 public float Yellow { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του κίτρινου στοιχείου.
+Η τιμή του κίτρινου συστατικού.
 
 ### Δείτε επίσης
 
 * class [ColorantCmyk](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

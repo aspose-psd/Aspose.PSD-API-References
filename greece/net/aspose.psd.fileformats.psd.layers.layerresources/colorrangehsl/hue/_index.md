@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Hue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl ιδιοκτησία. Λαμβάνει ή ορίζει την απόχρωση.
+title: "ColorRangeHsl.Hue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorRangeHsl. Λαμβάνει ή ορίζει την απόχρωση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Hue property
 
 Λαμβάνει ή ορίζει την απόχρωση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 public short Hue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η απόχρωση.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το υψόμετρο GPS που χρησιμοποιείται ως υψόμετρο αναφοράς.
+title: "ExifData.GPSAltitudeRef"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει το υψόμετρο GPS που χρησιμοποιείται ως αναφορά υψομέτρου"
 type: docs
 weight: 370
 url: /el/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
-Λαμβάνει ή ορίζει το υψόμετρο GPS που χρησιμοποιείται ως υψόμετρο αναφοράς.
+Λαμβάνει ή ορίζει το υψόμετρο GPS που χρησιμοποιείται ως αναφορά υψομέτρου.
 
 ```csharp
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το υψόμετρο GPS που χρησιμοποιείται ως υψόμετρο αναφοράς.
+Το υψόμετρο GPS που χρησιμοποιείται ως αναφορά υψομέτρου.
 
 ### Δείτε επίσης
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

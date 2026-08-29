@@ -1,14 +1,15 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpGuid κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpGuid τάξη.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpGuid. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpGuid"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpGuid`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(string value)
@@ -16,26 +17,26 @@ public XmpGuid(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | η τιμή είναι μηδενική. |
-| ArgumentException | Μη έγκυρη ενδεικτική τιμή;τιμή |
+| ArgumentNullException | Η τιμή είναι null. |
+| ArgumentException | Μη έγκυρη τιμή guid;value |
 
 ### Δείτε επίσης
 
 * class [XmpGuid](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpGuid`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(Guid guid)
@@ -48,7 +49,7 @@ public XmpGuid(Guid guid)
 ### Δείτε επίσης
 
 * class [XmpGuid](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepDenominator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει τον παρονομαστή του βήματος του πλαισίου.
+title: "SmartObjectResource.FrameStepDenominator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει το παρονομαστή του βήματος καρέ"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepDenominator property
 
-Λαμβάνει ή ορίζει τον παρονομαστή του βήματος του πλαισίου.
+Λαμβάνει ή ορίζει τον παρονομαστή βήματος πλαισίου.
 
 ```csharp
 public int FrameStepDenominator { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο παρονομαστής του βήματος πλαισίου.
+Ο παρονομαστής του βήματος καρέ.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν υπάρχουν τα επιπλέον δείγματα.
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει τιμή που υποδεικνύει εάν τα επιπλέον δείγματα είναι παρόντα."
 type: docs
-weight: 230
+weight: 240
 url: /el/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν υπάρχουν τα επιπλέον δείγματα.
+Λαμβάνει μια τιμή που υποδεικνύει εάν υπάρχουν επιπλέον δείγματα.
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν υπάρχουν επιπλέον δείγματα· σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν τα επιπλέον δείγματα είναι παρόντα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

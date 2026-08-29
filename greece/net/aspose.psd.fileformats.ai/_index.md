@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.FileFormats.Ai
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Adobe Illustrator AI.
+title: "Aspose.PSD.FileFormats.Ai"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία του μορφότυπου αρχείου Adobe Illustrator AI"
 type: docs
-weight: 120
+weight: 130
 url: /el/net/aspose.psd.fileformats.ai/
 ---
-Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Adobe Illustrator (AI).
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου Adobe Illustrator (AI).
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [AiDataSection](./aidatasection/) | Το τμήμα δεδομένων μορφής Ai |
-| [AiFinalizeSection](./aifinalizesection/) | Η μορφή Ai Finalize Section |
-| [AiHeader](./aiheader/) | Το αρχείο Adobe illustrator Header |
-| [AiImage](./aiimage/) | The Adobe Illustrator (AI) Image |
-| [AiLayerSection](./ailayersection/) | Τομέας επιπέδου με μορφή Ai |
-| [AiRasterImageSection](./airasterimagesection/) | Το τμήμα εικόνας ράστερ AI |
-| [AiSection](./aisection/) | Το τμήμα βάσης μορφής Ai |
-| [AiSetupSection](./aisetupsection/) | Ενότητα ρύθμισης μορφής Ai |
+| [AiDataSection](./aidatasection/) | Η ενότητα δεδομένων του μορφότυπου Ai |
+| [AiFinalizeSection](./aifinalizesection/) | Η ενότητα ολοκλήρωσης του μορφότυπου Ai |
+| [AiHeader](./aiheader/) | Η κεφαλίδα αρχείου του Adobe Illustrator |
+| [AiImage](./aiimage/) | Η εικόνα του Adobe Illustrator (AI). |
+| [AiLayerSection](./ailayersection/) | Η ενότητα στρώματος του μορφότυπου Ai |
+| [AiRasterImageSection](./airasterimagesection/) | Η ενότητα raster εικόνας AI |
+| [AiSection](./aisection/) | Η βασική ενότητα του μορφότυπου Ai |
+| [AiSetupSection](./aisetupsection/) | Η ενότητα ρύθμισης του μορφότυπου Ai |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [AiFormatVersion](./aiformatversion/) | Έκδοση Adobe Illustrator |
+| [AiFormatVersion](./aiformatversion/) | Η έκδοση του Adobe Illustrator |
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις τιμές μιγαδικού τύπου των ιδιοτήτων XMP.
+title: "Aspose.PSD.Xmp.Types.Complex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις τιμές τύπου σύνθετου των ιδιοτήτων XMP"
 type: docs
-weight: 620
+weight: 660
 url: /el/net/aspose.psd.xmp.types.complex/
 ---
-Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις τιμές μιγαδικού τύπου των ιδιοτήτων XMP.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις τιμές των σύνθετων τύπων των ιδιοτήτων XMP.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [ComplexTypeBase](./complextypebase/) | Αντιπροσωπεύει την αφαίρεση βάσης για τον τύπο σύνθετης τιμής XMP. |
+| [ComplexTypeBase](./complextypebase/) | Αντιπροσωπεύει τη βασική αφαίρεση για τον τύπο τιμής XMP Complex. |
 
 

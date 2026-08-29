@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.BppMax
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RdOptimizerSettings ιδιοκτησία. Λαμβάνει ή ορίζει τη μέγιστη τιμή R για εξέταση σε bit ανά pixel
+title: "RdOptimizerSettings.BppMax"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RdOptimizerSettings property. Λαμβάνει ή ορίζει τη μέγιστη τιμή R για εξέταση σε bits ανά pixel"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/rdoptimizersettings/bppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppMax property
 
-Λαμβάνει ή ορίζει τη μέγιστη τιμή R για εξέταση σε bit ανά pixel
+Λαμβάνει ή ορίζει τη μέγιστη τιμή R για εξέταση σε bits ανά pixel
 
 ```csharp
 public double BppMax { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μέγιστη τιμή R για εξέταση σε bit ανά pixel.
+Η μέγιστη τιμή R για εξέταση σε bits ανά pixel.
 
 ### Δείτε επίσης
 
 * class [RdOptimizerSettings](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

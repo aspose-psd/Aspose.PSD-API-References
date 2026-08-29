@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.AsyncTask.AsyncTaskException τάξη. Η εξαίρεση για την ασύγχρονη εργασία.
+title: "Κλάση AsyncTaskException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.AsyncTask.AsyncTaskException. Η εξαίρεση για την ασύγχρονη εργασία"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.asynctask/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException class
 
 Η εξαίρεση για την ασύγχρονη εργασία.
@@ -16,13 +17,13 @@ public class AsyncTaskException : Exception
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AsyncTaskException](asynctaskexception/)(string) | Αρχικοποιεί μια νέα παρουσία του`AsyncTaskException` τάξη. |
+| [AsyncTaskException](asynctaskexception/)(string) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `AsyncTaskException`. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

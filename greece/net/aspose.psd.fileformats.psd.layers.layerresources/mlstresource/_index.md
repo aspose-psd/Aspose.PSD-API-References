@@ -1,14 +1,15 @@
 ---
-title: Class MlstResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource τάξη. Ο πόρος mlst. Αυτή η κλάση μεταξύ άλλων περιέχει πληροφορίες σχετικά με τη θέση του επιπέδου στη γραμμή χρόνου.
+title: "Κλάση MlstResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource κλάση. Ο πόρος mlst. Αυτή η κλάση, μεταξύ άλλων, περιέχει πληροφορίες σχετικά με τη θέση του στρώματος στην χρονογραμμή"
 type: docs
-weight: 2830
+weight: 3170
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource class
 
-Ο πόρος mlst. Αυτή η κλάση, μεταξύ άλλων, περιέχει πληροφορίες σχετικά με τη θέση του επιπέδου στη γραμμή χρόνου.
+Ο πόρος mlst. Αυτή η κλάση, μεταξύ άλλων, περιέχει πληροφορίες σχετικά με τη θέση της στρώσης στην χρονογραμμή.
 
 ```csharp
 public class MlstResource : LayerResource
@@ -16,37 +17,37 @@ public class MlstResource : LayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [MlstResource](mlstresource/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | Λαμβάνει ή ορίζει την έκδοση περιγραφής. |
+| [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | Λαμβάνει ή ορίζει την έκδοση του περιγραφέα. |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/) { get; } | Λαμβάνει ή ορίζει τις δομές. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/signature/) { get; } | Παίρνει την υπογραφή. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/)(StreamContainer, int) | Αποθηκεύει το καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου MlstResource που παρέχει έναν μηχανισμό χαμηλού επιπέδου για τον χειρισμό των καταστάσεων του επιπέδου.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου MlstResource που παρέχει έναν χαμηλού επιπέδου μηχανισμό για τη διαχείριση των καταστάσεων του στρώματος.
 
 ```csharp
 [C#]
@@ -64,7 +65,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Απενεργοποιήστε το επίπεδο 1 στο πλαίσιο 1
+    // Απενεργοποίηση του στρώματος 1 στο πλαίσιο 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -74,7 +75,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

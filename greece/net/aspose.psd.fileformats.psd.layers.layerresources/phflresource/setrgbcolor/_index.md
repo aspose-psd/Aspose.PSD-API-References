@@ -1,11 +1,12 @@
 ---
-title: PhflResource.SetRgbColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResource μέθοδος. Ορίζει το χρώμα RGB.
+title: "PhflResource.SetRgbColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PhflResource. Ορίζει το χρώμα RGB"
 type: docs
-weight: 70
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.SetRgbColor method
 
 Ορίζει το χρώμα RGB.
@@ -16,13 +17,13 @@ public abstract void SetRgbColor(Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| color | Color | Το χρώμα RGB. |
+| χρώμα | Χρώμα | Το χρώμα RGB. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

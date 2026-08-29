@@ -1,30 +1,31 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds αρίθμηση. Όριο που χρησιμοποιείται στα δεδομένα.
+title: "Enum TiffThresholds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. Καθορισμός κατωφλίου που χρησιμοποιείται στα δεδομένα"
 type: docs
-weight: 4180
+weight: 4650
 url: /el/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-Όριο που χρησιμοποιείται στα δεδομένα.
+Καθορισμός κατωφλίου που χρησιμοποιείται στα δεδομένα.
 
 ```csharp
 public enum TiffThresholds : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| NoDithering | `1` | Δεν εκτελείται πρόσμειξη. |
-| HalfTone | `2` | Σάρωση με διάσπαση. |
+| NoDithering | `1` | Δεν εκτελείται dithering. |
+| HalfTone | `2` | Σάρωση με dithering. |
 | ErrorDiffuse | `3` | Συνήθως Floyd-Steinberg. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

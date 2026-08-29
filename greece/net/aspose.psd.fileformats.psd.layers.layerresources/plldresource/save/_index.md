@@ -1,11 +1,12 @@
 ---
-title: PlLdResource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlLdResource μέθοδος. Αποθηκεύει τον πόρο PlLD στο καθορισμένο κοντέινερ ροής.
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PlLdResource. Αποθηκεύει τον πόρο PlLD στο καθορισμένο κοντέινερ ροής"
 type: docs
-weight: 50
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
 Αποθηκεύει τον πόρο PlLD στο καθορισμένο κοντέινερ ροής.
@@ -16,12 +17,12 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
 
 ```csharp
 [C#]
@@ -203,16 +204,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-                // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+                // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+                // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-                ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+                // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -228,7 +229,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

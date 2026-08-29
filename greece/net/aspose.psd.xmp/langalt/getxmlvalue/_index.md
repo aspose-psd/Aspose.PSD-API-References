@@ -1,11 +1,12 @@
 ---
-title: LangAlt.GetXmlValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LangAlt μέθοδος. Μετατρέπει την τιμή XMP στην αναπαράσταση XML.
+title: "LangAlt.GetXmlValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LangAlt. Μετατρέπει την τιμή XMP στην αναπαράσταση XML"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp/langalt/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## LangAlt.GetXmlValue method
 
 Μετατρέπει την τιμή XMP στην αναπαράσταση XML.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp/langalt/getxmlvalue/
 public string GetXmlValue()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή XMP που μετατράπηκε στην αναπαράσταση XML.
+Επιστρέφει την τιμή XMP που έχει μετατραπεί στην αναπαράσταση XML.
 
 ### Δείτε επίσης
 
 * class [LangAlt](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../langalt/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

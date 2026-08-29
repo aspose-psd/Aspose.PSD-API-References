@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IPartialArgb64PixelLoader διεπαφή. Ο φορτωτής εικονοστοιχείων ARGB 64bit.
+title: "Διεπαφή IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.IPartialArgb64PixelLoader. Ο φορτωτής εικονοστοιχείων ARGB 64-bit."
 type: docs
-weight: 4520
+weight: 4990
 url: /el/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
-Ο φορτωτής εικονοστοιχείων ARGB 64-bit.
+Ο φορτωτής 64-bit ARGB pixel.
 
 ```csharp
 public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
@@ -16,14 +17,14 @@ public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | Επεξεργάζεται τα φορτωμένα pixel. |
+| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | Επεξεργάζεται τα φορτωμένα εικονοστοιχεία. |
 
 ### Δείτε επίσης
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

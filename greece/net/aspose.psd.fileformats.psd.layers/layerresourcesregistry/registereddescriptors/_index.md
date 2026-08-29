@@ -1,20 +1,21 @@
 ---
-title: LayerResourcesRegistry.RegisteredDescriptors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResourcesRegistry ιδιοκτησία. Λαμβάνει τους καταχωρισμένους περιγραφείς.
+title: "LayerResourcesRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerResourcesRegistry property. Λαμβάνει τους καταχωρημένους περιγραφείς"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisteredDescriptors property
 
-Λαμβάνει τους καταχωρισμένους περιγραφείς.
+Λαμβάνει τους καταχωρημένους περιγραφείς.
 
 ```csharp
 public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι καταχωρημένοι περιγραφείς.
 
@@ -22,7 +23,7 @@ public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

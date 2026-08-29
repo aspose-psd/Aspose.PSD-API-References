@@ -1,14 +1,15 @@
 ---
-title: Class OpenTypeFontsCache
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.OpenTypeFontsCache τάξη. Cache για γραμματοσειρές OpenType που είναι εγκατεστημένες στο σύστημα.
+title: "Κλάση OpenTypeFontsCache"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.OpenTypeFontsCache κλάση. Κρυφή μνήμη για γραμματοσειρές OpenType που είναι εγκατεστημένες στο σύστημα"
 type: docs
-weight: 5170
+weight: 5660
 url: /el/net/aspose.psd/opentypefontscache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache class
 
-Cache για γραμματοσειρές OpenType που είναι εγκατεστημένες στο σύστημα.
+Κρυφή μνήμη για γραμματοσειρές OpenType που είναι εγκατεστημένες στο σύστημα.
 
 ```csharp
 public static class OpenTypeFontsCache
@@ -16,13 +17,13 @@ public static class OpenTypeFontsCache
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache/)() |  |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

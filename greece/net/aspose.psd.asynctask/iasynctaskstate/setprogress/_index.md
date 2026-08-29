@@ -1,11 +1,12 @@
 ---
-title: IAsyncTaskState.SetProgress
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAsyncTaskState μέθοδος. Ορίζει την πρόοδο της ασύγχρονης εργασίας.
+title: "IAsyncTaskState.SetProgress"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IAsyncTaskState μέθοδος. Ορίζει την πρόοδο της ασύγχρονης εργασίας"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.asynctask/iasynctaskstate/setprogress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.SetProgress method
 
 Ορίζει την πρόοδο της ασύγχρονης εργασίας.
@@ -21,7 +22,7 @@ public void SetProgress(int progressPercentage)
 ### Δείτε επίσης
 
 * interface [IAsyncTaskState](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

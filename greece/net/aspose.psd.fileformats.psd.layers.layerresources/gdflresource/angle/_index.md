@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Angle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GdFlResource ιδιοκτησία. Παίρνει ή ρυθμίζει τη γωνία.
+title: "GdFlResource.Angle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GdFlResource. Λαμβάνει ή ορίζει τη γωνία"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Angle property
 
-Παίρνει ή ρυθμίζει τη γωνία.
+Λαμβάνει ή ορίζει τη γωνία.
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η γωνία.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // ΑΝΑΓΝΩΣΗ
+                    // Ανάγνωση
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [GdFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

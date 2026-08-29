@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecordFactory.VectorPathRecordFactory
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorPathRecordFactory κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "VectorPathRecordFactory.VectorPathRecordFactory"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorPathRecordFactory κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public VectorPathRecordFactory()
 ### Δείτε επίσης
 
 * class [VectorPathRecordFactory](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
+* assembly [Aspose.PSD](../../../)
 
 

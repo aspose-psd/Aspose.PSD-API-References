@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectArrayStructure ιδιοκτησία. Λαμβάνει ή ορίζει ένα αντίγραφο μιας σειράς δομών.
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ObjectArrayStructure ιδιότητα. Λαμβάνει ή ορίζει ένα αντίγραφο ενός πίνακα δομών"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
-Λαμβάνει ή ορίζει ένα αντίγραφο μιας σειράς δομών.
+Λαμβάνει ή ορίζει ένα αντίγραφο ενός πίνακα δομών.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι υποδομές στη δομή του πίνακα αντικειμένων.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

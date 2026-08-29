@@ -1,14 +1,15 @@
 ---
-title: RasterImage.SetPixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Ορίζει ένα εικονοστοιχείο εικόνας για την καθορισμένη θέση.
+title: "RasterImage.SetPixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage method. Ορίζει ένα εικονοστοιχείο για τη συγκεκριμένη θέση"
 type: docs
-weight: 560
+weight: 580
 url: /el/net/aspose.psd/rasterimage/setpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPixel method
 
-Ορίζει ένα εικονοστοιχείο εικόνας για την καθορισμένη θέση.
+Ορίζει το pixel της εικόνας για τη συγκεκριμένη θέση.
 
 ```csharp
 public void SetPixel(int x, int y, Color color)
@@ -16,15 +17,15 @@ public void SetPixel(int x, int y, Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Int32 | Η θέση pixel x. |
-| y | Int32 | Η θέση του pixel y. |
-| color | Color | Το χρώμα pixel για την καθορισμένη θέση. |
+| x | Int32 | Η θέση x του εικονοστοιχείου. |
+| y | Int32 | Η θέση y του εικονοστοιχείου. |
+| χρώμα | Χρώμα | Το χρώμα του εικονοστοιχείου για τη συγκεκριμένη θέση. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

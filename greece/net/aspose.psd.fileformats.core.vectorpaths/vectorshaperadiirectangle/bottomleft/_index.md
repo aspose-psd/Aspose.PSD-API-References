@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomLeft
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeRadiiRectangle ιδιοκτησία. Παίρνει ή θέτει το κάτω μέρος.
+title: "VectorShapeRadiiRectangle.BottomLeft"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorShapeRadiiRectangle. Λαμβάνει ή ορίζει το κάτω μέρος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-Παίρνει ή θέτει το κάτω μέρος.
+Λαμβάνει ή ορίζει το κάτω μέρος.
 
 ```csharp
 public double BottomLeft { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κάτω μέρος.
 
 ### Δείτε επίσης
 
 * class [VectorShapeRadiiRectangle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

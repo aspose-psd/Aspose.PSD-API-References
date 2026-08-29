@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffSRational κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTiffSRational τάξη.
+title: "TiffSRational.TiffSRational"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TiffSRational. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης TiffSRational"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.tiff/tiffsrational/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffSRational`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational()
@@ -17,14 +18,14 @@ public TiffSRational()
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffRational`](../../tiffrational/) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`TiffRational`](../../tiffrational/).
 
 ```csharp
 public TiffSRational(int value)
@@ -32,23 +33,23 @@ public TiffSRational(int value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Int32 | Η τιμή του οριστή. |
+| τιμή | Int32 | Η τιμή του αριθμητή. |
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο παρονομαστής θα χρησιμοποιηθεί ως η καθορισμένη τιμή και ο παρονομαστής θα είναι ίσος με 1.
+Ο αριθμητής θα χρησιμοποιηθεί ως η καθορισμένη τιμή και ο παρονομαστής θα είναι ίσος με 1.
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int, int) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffSRational`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational(int nominator, int denominator)
@@ -56,13 +57,13 @@ public TiffSRational(int nominator, int denominator)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| nominator | Int32 | Ο υποψήφιος. |
+| nominator | Int32 | Ο αριθμητής. |
 | denominator | Int32 | Ο παρονομαστής. |
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

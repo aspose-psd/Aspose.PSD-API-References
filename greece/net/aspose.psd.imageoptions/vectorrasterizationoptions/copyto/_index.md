@@ -1,14 +1,15 @@
 ---
-title: VectorRasterizationOptions.CopyTo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorRasterizationOptions μέθοδος. Αντίγραφα σε.
+title: "VectorRasterizationOptions.CopyTo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorRasterizationOptions μέθοδος. Αντιγράφει σε"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.imageoptions/vectorrasterizationoptions/copyto/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CopyTo method
 
-Αντίγραφα σε.
+Αντιγράφει σε.
 
 ```csharp
 public void CopyTo(VectorRasterizationOptions vectorRasterizationOptions)
@@ -16,12 +17,12 @@ public void CopyTo(VectorRasterizationOptions vectorRasterizationOptions)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| vectorRasterizationOptions | VectorRasterizationOptions | Οι επιλογές διανυσματικής ραστεροποίησης. |
+| vectorRasterizationOptions | VectorRasterizationOptions | Οι επιλογές rasterization διανύσματος. |
 
 ### Δείτε επίσης
 
 * class [VectorRasterizationOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneYResolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το εστιακό επίπεδο y ανάλυση.
+title: "ExifData.FocalPlaneYResolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την ανάλυση y του επιπέδου εστίασης"
 type: docs
 weight: 330
 url: /el/net/aspose.psd.exif/exifdata/focalplaneyresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneYResolution property
 
-Λαμβάνει ή ορίζει το εστιακό επίπεδο y ανάλυση.
+Λαμβάνει ή ορίζει την ανάλυση y του εστιακού επιπέδου.
 
 ```csharp
 public TiffRational FocalPlaneYResolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το εστιακό επίπεδο y ανάλυση.
+Η ανάλυση y του επιπέδου εστίασης.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnitArrayStructure ιδιοκτησία. Λαμβάνει ή ορίζει τις τιμές δομής του πίνακα μονάδων.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα UnitArrayStructure. Λαμβάνει ή ορίζει τις τιμές της δομής πίνακα μονάδων"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-Λαμβάνει ή ορίζει τις τιμές δομής του πίνακα μονάδων.
+Λαμβάνει ή ορίζει τις τιμές δομής πίνακα μονάδας.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τιμές δομής πίνακα μονάδων.
+Οι τιμές της δομής πίνακα μονάδων.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | Η ιδιότητα Values δεν πρέπει να είναι μηδενική. |
+| ArgumentNullException | Η ιδιότητα Values δεν πρέπει να είναι null. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -81,7 +82,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [UnitArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

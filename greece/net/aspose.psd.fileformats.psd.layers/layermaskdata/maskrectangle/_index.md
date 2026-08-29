@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskData ιδιοκτησία. Παίρνει ή ρυθμίζει τη μάσκαRectangleτης μάσκας στρώματος στο αρχείο PSD. Παίρνει ιδιότητες αριστερά δεξιά πάνω και κάτω και δημιουργείRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerMaskData. Λαμβάνει ή ορίζει το Rectangle της μάσκας στρώσης στο αρχείο PSD. Παίρνει τις ιδιότητες αριστερά, δεξιά, πάνω και κάτω και δημιουργεί Rectangle."
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-Παίρνει ή ρυθμίζει τη μάσκα[`Rectangle`](../../../aspose.psd/rectangle/)της μάσκας στρώματος στο αρχείο PSD. Παίρνει ιδιότητες αριστερά, δεξιά, πάνω και κάτω και δημιουργεί[`Rectangle`](../../../aspose.psd/rectangle/)
+Λαμβάνει ή ορίζει τη μάσκα [`Rectangle`](../../../aspose.psd/rectangle/) της μάσκας στρώσης στο αρχείο PSD. Παίρνει τις ιδιότητες αριστερά, δεξιά, πάνω και κάτω και δημιουργεί [`Rectangle`](../../../aspose.psd/rectangle/).
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ορθογώνιο της μάσκας.
+Το rectangle της μάσκας.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς μπορείτε να λάβετε, να ενημερώσετε, να αφαιρέσετε και να προσθέσετε μάσκες επιπέδου ράστερ στο αρχείο Adobe® Photoshop® μέσω προγραμματισμού.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε, ενημερώνετε, αφαιρείτε και προσθέτετε raster μάσκες στρώσης στο αρχείο Adobe® Photoshop® προγραμματιστικά.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Μετατρέπει την τιμή int σε σειρά byte big-endian.
+// Λαμβάνει την τιμή int μετατρεπόμενη σε σειρά byte big-endian.
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -45,7 +46,7 @@ byte[] GetBigEndianBytesInt32(int value)
     return bytes;
 }
 
-// Λαμβάνει την τιμή που μετατρέπεται από το μεγάλο endian σε Int32.
+// Λαμβάνει την τιμή μετατρεπόμενη από big-endian σε Int32.
 int FromBigEndianToInt32(byte[] bytes, int index)
 {
     if (bytes == null)
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// Λαμβάνει μια μάσκα ράστερ από το επίπεδο μιας εικόνας PSD και την αποθηκεύει σε ένα αρχείο
+// Λαμβάνει μια raster μάσκα από τη στρώση μιας εικόνας PSD και την αποθηκεύει σε αρχείο.
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Προσθέτει μια μάσκα ράστερ από το αρχείο στο επίπεδο και αποθηκεύει την εικόνα μορφής PSD
+// Προσθέτει μια raster μάσκα από το αρχείο στη στρώση και την αποθηκεύει ως εικόνα μορφής PSD.
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,24 +101,24 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // Η απλή προσθήκη LayerMaskData δεν αρκεί για τη σωστή αποθήκευση επειδή τα κανάλια δεν ενημερώνονται.
-    // layer.LayerMaskData = μάσκα; // Αυτό δεν προσθέτει το κανάλι μάσκας
+    // Η απλή προσθήκη του LayerMaskData δεν είναι αρκετή για σωστή αποθήκευση επειδή τα κανάλια δεν ενημερώνονται;
+    // layer.LayerMaskData = mask; // Αυτό δεν προσθέτει το κανάλι μάσκας
 
     // Προσθήκη (ή ενημέρωση) της μάσκας
-    layer.AddLayerMask(maskData); // Αλλά αυτό προσθέτει / ενημερώνει τόσο τη μάσκα όσο και τα κανάλια!
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// Αυτό το παράδειγμα δείχνει πώς μπορείτε να λάβετε, να ενημερώσετε, να αφαιρέσετε και να προσθέσετε μάσκες επιπέδου ράστερ στο αρχείο Adobe® Photoshop® μέσω προγραμματισμού.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε, ενημερώνετε, αφαιρείτε και προσθέτετε raster μάσκες στρώσης στο αρχείο Adobe® Photoshop® προγραμματιστικά.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // Λάβετε μια μάσκα ράστερ από το επίπεδο και αποθηκεύστε την σε ένα αρχείο
+    // Λάβετε μια raster μάσκα από τη στρώση και αποθηκεύστε την σε αρχείο
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // Αλλάξτε τη μάσκα στρώματος (αντιστροφή) και αποθηκεύστε την εικόνα
+    // Αλλάξτε τη μάσκα στρώσης (αντιστροφή) και αποθηκεύστε την εικόνα
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,22 +126,22 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Αρκεί η αλλαγή του LayerMaskData για να πραγματοποιηθεί η απόδοση
+    // Η απλή αλλαγή του LayerMaskData είναι αρκετή για να επηρεάσει την απόδοση
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Αλλά μόνο η αλλαγή του LayerMaskData δεν αρκεί για σωστή αποθήκευση επειδή τα κανάλια δεν ενημερώνονται.
-    layer.LayerMaskData = mask; // Ούτε αυτό λειτουργεί
-    layer.AddLayerMask(mask); // Αλλά αυτό ενημερώνει τόσο τη μάσκα όσο και τα κανάλια!
+    // Αλλά η απλή αλλαγή του LayerMaskData δεν είναι αρκετή για σωστή αποθήκευση επειδή τα κανάλια δεν ενημερώνονται;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // Αφαιρέστε μια μάσκα ράστερ από το επίπεδο και αποθηκεύστε την εικόνα
-    layer.LayerMaskData = null; // Απλώς η αφαίρεση LayerMaskData αρκεί για να πραγματοποιηθεί η απόδοση, αλλά όχι για αποθήκευση σε μορφή PSD
+    // Αφαιρέστε μια raster μάσκα από τη στρώση και αποθηκεύστε την εικόνα
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // Αλλά αυτό αφαιρεί τόσο τη μάσκα όσο και το κανάλι μάσκας!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // Προσθέστε μια μάσκα ράστερ από το αρχείο στο επίπεδο και αποθηκεύστε την εικόνα
+    // Προσθέστε μια raster μάσκα από το αρχείο στη στρώση και αποθηκεύστε την εικόνα
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
@@ -151,7 +152,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VogkResource ιδιοκτησία. Λαμβάνει ή ορίζει τις ρυθμίσεις προέλευσης σχήματος.
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VogkResource. Λαμβάνει ή ορίζει τις ρυθμίσεις προέλευσης σχήματος."
 type: docs
-weight: 50
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
 Λαμβάνει ή ορίζει τις ρυθμίσεις προέλευσης σχήματος.
@@ -14,9 +15,9 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shape
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // ΑΝΑΓΝΩΣΗ
+    // Ανάγνωση
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -74,7 +75,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

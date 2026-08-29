@@ -1,31 +1,32 @@
 ---
-title: Cache.MaxDiskSpaceForCache
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Cache ιδιοκτησία. Λαμβάνει ή ορίζει το μέγιστο διαθέσιμο χώρο στο δίσκο για την προσωρινή μνήμη. Η τιμή που καθορίστηκε είναι πλήθος megabyte.
+title: "Cache.MaxDiskSpaceForCache"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Cache. Λαμβάνει ή ορίζει το μέγιστο διαθέσιμο χώρο δίσκου για την προσωρινή μνήμη. Η καθορισμένη τιμή είναι ο αριθμός των megabytes"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/cache/maxdiskspaceforcache/
 ---
+{{< psd/tize >}}
 ## Cache.MaxDiskSpaceForCache property
 
-Λαμβάνει ή ορίζει το μέγιστο διαθέσιμο χώρο στο δίσκο για την προσωρινή μνήμη. Η τιμή που καθορίστηκε είναι πλήθος megabyte.
+Λαμβάνει ή ορίζει το μέγιστο διαθέσιμο χώρο δίσκου για την κρυφή μνήμη. Η καθορισμένη τιμή είναι αριθμός megabytes.
 
 ```csharp
 public static int MaxDiskSpaceForCache { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο μέγιστος διαθέσιμος χώρος στο δίσκο για την προσωρινή μνήμη.
+Ο μέγιστος διαθέσιμος χώρος δίσκου για την προσωρινή μνήμη.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Η τιμή 0 θα καταναλώσει όλη τη διαθέσιμη μνήμη και δεν χρησιμεύει ως ανώτατο όριο.
+Η τιμή 0 θα καταναλώνει όλη τη διαθέσιμη μνήμη και λειτουργεί ως χωρίς ανώτερο όριο.
 
 ### Δείτε επίσης
 
 * class [Cache](../)
-* χώρος ονομάτων [Aspose.PSD](../../cache/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

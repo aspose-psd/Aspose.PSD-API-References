@@ -1,11 +1,12 @@
 ---
-title: Font.FontType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο γραμματοσειράς.
+title: "Font.FontType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Λαμβάνει ή ορίζει τον τύπο της γραμματοσειράς"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
 Λαμβάνει ή ορίζει τον τύπο γραμματοσειράς.
@@ -14,18 +15,18 @@ url: /el/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 public string FontType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο τύπος γραμματοσειράς.
+Ο τύπος της γραμματοσειράς.
 
-### Παραδείγματα
+## Παραδείγματα
 
-TrueType, Type 1, Open Type και ούτω καθεξής.
+TrueType, Type 1, Open Type, κ.λπ.
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

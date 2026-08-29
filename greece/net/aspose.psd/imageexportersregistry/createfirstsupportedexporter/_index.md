@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.CreateFirstSupportedExporter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageExportersRegistry μέθοδος. Δημιουργεί τον πρώτο εξαγωγέα που βρέθηκε κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και εικόνα.
+title: "ImageExportersRegistry.CreateFirstSupportedExporter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageExportersRegistry μέθοδος. Δημιουργεί τον πρώτο ευρεθέντα εξαγωγέα που είναι κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και εικόνα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/imageexportersregistry/createfirstsupportedexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.CreateFirstSupportedExporter method
 
-Δημιουργεί τον πρώτο εξαγωγέα που βρέθηκε κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και εικόνα.
+Δημιουργεί τον πρώτο βρεθέντα εξαγωγέα που είναι κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και την εικόνα.
 
 ```csharp
 public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOptionsBase options)
@@ -16,16 +17,16 @@ public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOpti
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| image | Image | Η εικόνα προς εξαγωγή. |
-| options | ImageOptionsBase | Οι επιλογές αποθήκευσης που θα χρησιμοποιηθούν για εξαγωγή. |
+| εικόνα | Εικόνα | Η εικόνα για εξαγωγή. |
+| επιλογές | ImageOptionsBase | Οι επιλογές αποθήκευσης για χρήση στην εξαγωγή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο εξαγωγέας που υποστηρίζει τις καθορισμένες επιλογές εικόνας και αποθήκευσης ή μηδενικός εάν δεν βρεθεί τέτοιος εξαγωγέας.
+Ο εξαγωγέας που υποστηρίζει την καθορισμένη εικόνα και τις επιλογές αποθήκευσης ή null εάν δεν βρεθεί τέτοιος εξαγωγέας.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος εξαγωγέας θα είναι στην πραγματικότητα ο τελευταίος εγγεγραμμένος.
+Ο πρώτος εξαγωγέας θα είναι στην πραγματικότητα ο τελευταίος που έχει καταχωρηθεί.
 
 ### Δείτε επίσης
 
@@ -33,7 +34,7 @@ public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOpti
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageexportersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

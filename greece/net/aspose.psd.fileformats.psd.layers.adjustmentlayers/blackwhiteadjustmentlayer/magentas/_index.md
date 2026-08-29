@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Magentas
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlackWhiteAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή magentas.
+title: "BlackWhiteAdjustmentLayer.Magentas"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlackWhiteAdjustmentLayer. Λαμβάνει ή ορίζει την τιμή των ματζέντα."
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/magentas/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Magentas property
 
-Λαμβάνει ή ορίζει την τιμή magentas.
+Λαμβάνει ή ορίζει την τιμή των ματζέντα.
 
 ```csharp
 public int Magentas { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή magentas.
+Η τιμή των ματζέντα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το στρώμα προσαρμογής μαύρου λευκού κατά το χρόνο εκτέλεσης στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το black white adjustment layer κατά την εκτέλεση στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χειριστείτε τις ιδιότητες του επιπέδου προσαρμογής μαύρου λευκού στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να διαχειριστείτε τις ιδιότητες του στρώματος ρυθμίσεων ασπρόμαυρου στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [BlackWhiteAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectWithBounds ιδιοκτησία. Λαμβάνει τα όρια του αντικειμένου.
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ObjectWithBounds. Επιστρέφει τα όρια του αντικειμένου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
 Λαμβάνει τα όρια του αντικειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd/objectwithbounds/bounds/
 public abstract RectangleF Bounds { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-τα όρια του αντικειμένου.
+Τα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* χώρος ονομάτων [Aspose.PSD](../../objectwithbounds/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.DateTime
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει την ώρα ημερομηνίας.
+title: "JpegExifData.DateTime"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει την ημερομηνία και ώρα."
 type: docs
 weight: 60
 url: /el/net/aspose.psd.exif/jpegexifdata/datetime/
 ---
+{{< psd/tize >}}
 ## JpegExifData.DateTime property
 
-Λαμβάνει ή ορίζει την ώρα ημερομηνίας.
+Λαμβάνει ή ορίζει την ημερομηνία και ώρα.
 
 ```csharp
 public string DateTime { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ώρα ημερομηνίας.
+Η ημερομηνία και ώρα.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

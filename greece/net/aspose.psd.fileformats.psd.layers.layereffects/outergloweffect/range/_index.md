@@ -1,32 +1,33 @@
 ---
-title: OuterGlowEffect.Range
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OuterGlowEffect ιδιοκτησία. Λαμβάνει ή ρυθμίζει το θόρυβο.
+title: "OuterGlowEffect.Range"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OuterGlowEffect ιδιότητα. Λαμβάνει ή ορίζει τον θόρυβο"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Range property
 
-Λαμβάνει ή ρυθμίζει το θόρυβο.
+Λαμβάνει ή ορίζει τον θόρυβο.
 
 ```csharp
 public int Range { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο θόρυβος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ο θόρυβος πρέπει να προσδιορίζεται ως ποσοστό στην περιοχή από 0 έως 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ο θόρυβος πρέπει να καθορίζεται ως ποσοστό στο εύρος από 0 έως 100 |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη OuterGlowEffect.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -50,7 +51,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Δείτε επίσης
 
 * class [OuterGlowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

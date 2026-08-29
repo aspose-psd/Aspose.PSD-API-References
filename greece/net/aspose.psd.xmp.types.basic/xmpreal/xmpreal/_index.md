@@ -1,14 +1,15 @@
 ---
-title: XmpReal.XmpReal
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpReal κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpReal τάξη.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpReal κατασκευαστής. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης XmpReal"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpReal`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpReal`](../).
 
 ```csharp
 public XmpReal(float value)
@@ -16,19 +17,19 @@ public XmpReal(float value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Single | Διακύμανση αξίας. |
+| τιμή | Single | Τιμή float. |
 
 ### Δείτε επίσης
 
 * class [XmpReal](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpReal`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpReal`](../).
 
 ```csharp
 public XmpReal(string value)
@@ -36,19 +37,19 @@ public XmpReal(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | η τιμή είναι μηδενική. |
-| ArgumentException | Μη έγκυρη τιμή. Θα πρέπει να επιπλέει. |
+| ArgumentNullException | Η τιμή είναι null. |
+| ArgumentException | Μη έγκυρη τιμή. Πρέπει να είναι float. |
 
 ### Δείτε επίσης
 
 * class [XmpReal](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

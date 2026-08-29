@@ -1,14 +1,15 @@
 ---
-title: FXidResource.FXidResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FXidResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFXidResource τάξη.
+title: "FXidResource.FXidResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής FXidResource. Αρχικοποιεί μια νέα παρουσία της κλάσης FXidResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`FXidResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FXidResource`](../).
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)
@@ -16,13 +17,13 @@ public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMas
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | Int32 | Το κλειδί πόρων. |
-| version | Int32 | Η έκδοση. |
-| filterEffectMasks | FilterEffectMaskData[] | Οι μάσκες του εφέ φίλτρου. |
+| κλειδί | Int32 | Το κλειδί του πόρου. |
+| έκδοση | Int32 | Η έκδοση. |
+| filterEffectMasks | FilterEffectMaskData[] | Οι μάσκες εφέ φίλτρου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου FXidResource.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου FXidResource.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -54,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// έλεγχος μετά την αποθήκευση
+// ελέγξτε μετά την αποθήκευση
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -71,7 +72,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

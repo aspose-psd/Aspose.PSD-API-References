@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.RealFlags
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskDataFull ιδιοκτησία. Λαμβάνει ή ορίζει τις σημαίες μάσκας επιπέδου που χρησιμοποιούνται για μάσκα χρήστη/ράστερ. Για διανυσματική μάσκα χρησιμοποιείται η ιδιότητα Flags.
+title: "LayerMaskDataFull.RealFlags"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerMaskDataFull ιδιότητα. Λαμβάνει ή ορίζει τις σημαίες mask στρώματος που χρησιμοποιούνται για μάσκα χρήστη / raster. Για vector mask χρησιμοποιείται η ιδιότητα Flags"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.RealFlags property
 
-Λαμβάνει ή ορίζει τις σημαίες μάσκας επιπέδου που χρησιμοποιούνται για μάσκα χρήστη/ράστερ. Για διανυσματική μάσκα χρησιμοποιείται η ιδιότητα Flags.
+Λαμβάνει ή ορίζει τις σημαίες της μάσκας στρώσης που χρησιμοποιούνται για τη μάσκα χρήστη / raster. Για τη vector μάσκα χρησιμοποιείται η ιδιότητα Flags.
 
 ```csharp
 public LayerMaskFlags RealFlags { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι σημαίες μάσκας πραγματικού επιπέδου.
+Οι πραγματικές σημαίες mask στρώματος.
 
 ### Δείτε επίσης
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskDataFull](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

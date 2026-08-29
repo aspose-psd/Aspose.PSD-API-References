@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.ResourceRef
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceRef κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "ResourceRef.ResourceRef"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ResourceRef κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.complex.resourceref/resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public ResourceRef()
 ### Δείτε επίσης
 
 * class [ResourceRef](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

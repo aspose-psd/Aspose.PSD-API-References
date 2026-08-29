@@ -1,28 +1,29 @@
 ---
-title: Font.Style
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει πληροφορίες στυλ για αυτόFont .
+title: "Font.Style"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Επιστρέφει πληροφορίες στυλ για αυτή τη Font."
 type: docs
 weight: 80
 url: /el/net/aspose.psd/font/style/
 ---
+{{< psd/tize >}}
 ## Font.Style property
 
-Λαμβάνει πληροφορίες στυλ για αυτό[`Font`](../) .
+Επιστρέφει πληροφορίες στυλ για αυτή τη [`Font`](../).
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`FontStyle`](../../fontstyle/) απαρίθμηση που περιέχει πληροφορίες στυλ για αυτό[`Font`](../).
+Μια απαρίθμηση [`FontStyle`](../../fontstyle/) που περιέχει πληροφορίες στυλ για αυτή τη [`Font`](../).
 
 ### Δείτε επίσης
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

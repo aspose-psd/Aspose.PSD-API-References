@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Artist
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Παίρνει ή ρυθμίζει τον καλλιτέχνη.
+title: "TiffOptions.Artist"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τον καλλιτέχνη"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
-Παίρνει ή ρυθμίζει τον καλλιτέχνη.
+Λαμβάνει ή ορίζει τον καλλιτέχνη.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο καλλιτέχνης.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image μέθοδος. Παίρνει ορθογώνιο που ταιριάζει στην τρέχουσα εικόνα.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Image. Λαμβάνει το ορθογώνιο που ταιριάζει στην τρέχουσα εικόνα"
 type: docs
-weight: 270
+weight: 280
 url: /el/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-Παίρνει ορθογώνιο που ταιριάζει στην τρέχουσα εικόνα.
+Λαμβάνει το ορθογώνιο που ταιριάζει στην τρέχουσα εικόνα.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
@@ -16,26 +17,26 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int 
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο για το οποίο ταιριάζει το ορθογώνιο. |
-| width | Int32 | Το πλάτος του αντικειμένου. |
-| height | Int32 | Το ύψος του αντικειμένου. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο για το οποίο θα ληφθεί το κατάλληλο ορθογώνιο. |
+| πλάτος | Int32 | Το πλάτος του αντικειμένου. |
+| ύψος | Int32 | Το ύψος του αντικειμένου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το ορθογώνιο προσαρμογής ή η εξαίρεση εάν δεν μπορεί να βρεθεί ορθογώνιο προσαρμογής.
+Το κατάλληλο ορθογώνιο ή εξαίρεση εάν δεν βρεθεί κατάλληλο ορθογώνιο.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-Παίρνει ορθογώνιο που ταιριάζει στην τρέχουσα εικόνα.
+Λαμβάνει το ορθογώνιο που ταιριάζει στην τρέχουσα εικόνα.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
@@ -44,20 +45,20 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, i
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο για το οποίο ταιριάζει το ορθογώνιο. |
-| pixels | Int32[] | Τα εικονοστοιχεία ARGB 32-bit. |
-| width | Int32 | Το πλάτος του αντικειμένου. |
-| height | Int32 | Το ύψος του αντικειμένου. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο για το οποίο θα ληφθεί το κατάλληλο ορθογώνιο. |
+| pixel | Int32[] | Τα 32-bit ARGB pixel. |
+| πλάτος | Int32 | Το πλάτος του αντικειμένου. |
+| ύψος | Int32 | Το ύψος του αντικειμένου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το ορθογώνιο προσαρμογής ή η εξαίρεση εάν δεν μπορεί να βρεθεί ορθογώνιο προσαρμογής.
+Το κατάλληλο ορθογώνιο ή εξαίρεση εάν δεν βρεθεί κατάλληλο ορθογώνιο.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

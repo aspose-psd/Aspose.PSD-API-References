@@ -1,14 +1,15 @@
 ---
-title: IAsyncTask.SetCompleteCallback
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAsyncTask μέθοδος. Ορίζει τον πλήρη εκπρόσωπο επανάκλησης.
+title: "IAsyncTask.SetCompleteCallback"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IAsyncTask μέθοδος. Ορίζει το delegate callback ολοκλήρωσης"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.asynctask/iasynctask/setcompletecallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetCompleteCallback method
 
-Ορίζει τον πλήρη εκπρόσωπο επανάκλησης.
+Ορίζει το delegate κλήσης επιστροφής ολοκλήρωσης.
 
 ```csharp
 public void SetCompleteCallback(CompleteCallback completeCallback)
@@ -16,13 +17,13 @@ public void SetCompleteCallback(CompleteCallback completeCallback)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| completeCallback | CompleteCallback | Η πλήρης επανάκληση. |
+| completeCallback | CompleteCallback | Το callback ολοκλήρωσης. |
 
 ### Δείτε επίσης
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctask/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

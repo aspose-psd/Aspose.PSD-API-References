@@ -1,14 +1,15 @@
 ---
-title: UnknownStructure.UnknownStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnknownStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουUnknownStructure τάξη.
+title: "UnknownStructure.UnknownStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "UnknownStructure constructor. Αρχικοποιεί μια νέα παρουσία της κλάσης UnknownStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
+{{< psd/tize >}}
 ## UnknownStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`UnknownStructure`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`UnknownStructure`](../).
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
@@ -17,13 +18,13 @@ public UnknownStructure(ClassID keyName, int key)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | keyName | ClassID | Το όνομα κλειδιού. |
-| key | Int32 | Το κλειδί της δομής. |
+| κλειδί | Int32 | Το κλειδί της δομής. |
 
 ### Δείτε επίσης
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnknownStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

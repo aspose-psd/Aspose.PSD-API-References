@@ -1,11 +1,12 @@
 ---
-title: AiImage.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει το ύψος της εικόνας.
+title: "AiImage.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiImage. Λαμβάνει το ύψος της εικόνας"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
 Λαμβάνει το ύψος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.ai/aiimage/height/
 public override int Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

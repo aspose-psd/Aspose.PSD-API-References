@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawLine
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Σχεδιάζει μια γραμμή που συνδέει δύοPoint δομές.
+title: "Graphics.DrawLine"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Graphics. Σχεδιάζει μια γραμμή που συνδέει δύο δομές Point."
 type: docs
-weight: 250
+weight: 260
 url: /el/net/aspose.psd/graphics/drawline/
 ---
+{{< psd/tize >}}
 ## DrawLine(Pen, Point, Point) {#drawline}
 
-Σχεδιάζει μια γραμμή που συνδέει δύο[`Point`](../../point/) δομές.
+Σχεδιάζει μια γραμμή που συνδέει δύο δομές [`Point`](../../point/).
 
 ```csharp
 public void DrawLine(Pen pen, Point point1, Point point2)
@@ -17,28 +18,28 @@ public void DrawLine(Pen pen, Point point1, Point point2)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) που καθορίζει το χρώμα, το πλάτος και το στυλ της γραμμής. |
-| point1 | Point | [`Point`](../../point/) δομή που αντιπροσωπεύει το πρώτο σημείο σύνδεσης. |
-| point2 | Point | [`Point`](../../point/) δομή που αντιπροσωπεύει το δεύτερο σημείο σύνδεσης. |
+| point1 | Point | Δομή [`Point`](../../point/) που αντιπροσωπεύει το πρώτο σημείο προς σύνδεση. |
+| point2 | Point | Δομή [`Point`](../../point/) που αντιπροσωπεύει το δεύτερο σημείο προς σύνδεση. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *pen* είναι μηδενικό. |
+| ArgumentNullException | *pen* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLine(Pen, PointF, PointF) {#drawline_1}
 
-Σχεδιάζει μια γραμμή που συνδέει δύο[`PointF`](../../pointf/) δομές.
+Σχεδιάζει μια γραμμή που συνδέει δύο δομές [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawLine(Pen pen, PointF point1, PointF point2)
@@ -47,22 +48,22 @@ public void DrawLine(Pen pen, PointF point1, PointF point2)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) που καθορίζει το χρώμα, το πλάτος και το στυλ της γραμμής. |
-| point1 | PointF | [`PointF`](../../pointf/) δομή που αντιπροσωπεύει το πρώτο σημείο σύνδεσης. |
-| point2 | PointF | [`PointF`](../../pointf/) δομή που αντιπροσωπεύει το δεύτερο σημείο σύνδεσης. |
+| point1 | PointF | Δομή [`PointF`](../../pointf/) που αντιπροσωπεύει το πρώτο σημείο προς σύνδεση. |
+| point2 | PointF | Δομή [`PointF`](../../pointf/) που αντιπροσωπεύει το δεύτερο σημείο προς σύνδεση. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *pen* είναι μηδενικό. |
+| ArgumentNullException | *pen* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -84,16 +85,16 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *pen* είναι μηδενικό. |
+| ArgumentNullException | *pen* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -115,15 +116,15 @@ public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *pen* είναι μηδενικό. |
+| ArgumentNullException | *pen* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

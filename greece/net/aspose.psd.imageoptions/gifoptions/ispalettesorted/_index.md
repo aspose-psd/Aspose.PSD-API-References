@@ -1,27 +1,28 @@
 ---
-title: GifOptions.IsPaletteSorted
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GifOptions ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν οι καταχωρήσεις παλέτας είναι ταξινομημένες.
+title: "GifOptions.IsPaletteSorted"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GifOptions. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν οι καταχωρήσεις παλέτας είναι ταξινομημένες"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.imageoptions/gifoptions/ispalettesorted/
 ---
+{{< psd/tize >}}
 ## GifOptions.IsPaletteSorted property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν οι καταχωρήσεις παλέτας είναι ταξινομημένες.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν οι καταχωρήσεις της παλέτας είναι ταξινομημένες.
 
 ```csharp
 public bool IsPaletteSorted { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν οι καταχωρήσεις παλέτας είναι ταξινομημένες. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν οι καταχωρήσεις παλέτας είναι ταξινομημένες· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [GifOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../gifoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

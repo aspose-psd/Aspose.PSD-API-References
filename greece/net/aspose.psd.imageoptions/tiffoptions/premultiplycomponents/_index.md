@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PremultiplyComponents
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία πρέπει να πολλαπλασιαστούν εκ των προτέρων.
+title: "TiffOptions.PremultiplyComponents"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα συστατικά πρέπει να προπολλαπλασιαστούν"
 type: docs
-weight: 350
+weight: 360
 url: /el/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PremultiplyComponents property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία πρέπει να πολλαπλασιαστούν εκ των προτέρων.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία πρέπει να προπολλαπλασιαστούν.
 
 ```csharp
 public bool PremultiplyComponents { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν τα συστατικά πρέπει να πολλαπλασιαστούν εκ των προτέρων· σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν τα συστατικά πρέπει να προπολλαπλασιαστούν· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

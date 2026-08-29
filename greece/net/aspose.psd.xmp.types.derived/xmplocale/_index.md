@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale τάξη. Αντιπροσωπεύει τον κωδικό γλώσσας.
+title: "Κλάση XmpLocale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale κλάση. Αντιπροσωπεύει τον κωδικό γλώσσας"
 type: docs
-weight: 6170
+weight: 6670
 url: /el/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 Αντιπροσωπεύει τον κωδικό γλώσσας.
@@ -16,30 +17,30 @@ public sealed class XmpLocale : XmpText
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpLocale` τάξη. |
+| [XmpLocale](xmplocale/)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpLocale`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή κειμένου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
-### Παρατηρήσεις
+## Σχόλια
 
-Δείτε IETF RFC 3066.
+Δείτε το IETF RFC 3066.
 
 ### Δείτε επίσης
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: LnsrResource.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LnsrResource ιδιοκτησία. Λαμβάνει την τιμή ως LnsrResourceType εάν περιγράφεται ο αντίστοιχος αριθμός. Διαφορετικά επιστρέψτε Unknown
+title: "LnsrResource.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LnsrResource ιδιότητα. Λαμβάνει την τιμή ως LnsrResourceType εάν περιγράφεται το αντίστοιχο enum. Διαφορετικά επιστρέφει Unknown"
 type: docs
-weight: 70
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Value property
 
-Λαμβάνει την τιμή ως LnsrResourceType, εάν περιγράφεται ο αντίστοιχος αριθμός. Διαφορετικά, επιστρέψτε Unknown
+Λαμβάνει την τιμή ως LnsrResourceType εάν περιγράφεται το αντίστοιχο enum. Διαφορετικά επιστρέφει Unknown
 
 ```csharp
 public LnsrResourceType Value { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή ως LnsrResourceType
 
@@ -22,7 +23,7 @@ public LnsrResourceType Value { get; }
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

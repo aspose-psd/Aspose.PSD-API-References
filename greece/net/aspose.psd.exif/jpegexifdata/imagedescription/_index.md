@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ImageDescription
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει την περιγραφή της εικόνας.
+title: "JpegExifData.ImageDescription"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "JpegExifData ιδιότητα. Λαμβάνει ή ορίζει την περιγραφή της εικόνας"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.exif/jpegexifdata/imagedescription/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageDescription property
 
 Λαμβάνει ή ορίζει την περιγραφή της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.exif/jpegexifdata/imagedescription/
 public string ImageDescription { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η περιγραφή της εικόνας.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

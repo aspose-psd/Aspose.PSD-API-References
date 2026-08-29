@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.GetValidTagsCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions μέθοδος. Λαμβάνει τον έγκυρο αριθμό ετικετών.
+title: "TiffOptions.GetValidTagsCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffOptions. Λαμβάνει τον αριθμό των έγκυρων ετικετών."
 type: docs
-weight: 760
+weight: 770
 url: /el/net/aspose.psd.imageoptions/tiffoptions/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetValidTagsCount method
 
-Λαμβάνει τον έγκυρο αριθμό ετικετών.
+Λαμβάνει τον αριθμό των έγκυρων ετικετών.
 
 ```csharp
 public static int GetValidTagsCount(TiffDataType[] tags)
@@ -16,17 +17,17 @@ public static int GetValidTagsCount(TiffDataType[] tags)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tags | TiffDataType[] | Οι ετικέτες προς επικύρωση. |
+| ετικέτες | TiffDataType[] | Οι ετικέτες για επικύρωση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι έγκυρες ετικέτες μετράνε.
+Ο αριθμός των έγκυρων ετικετών.
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

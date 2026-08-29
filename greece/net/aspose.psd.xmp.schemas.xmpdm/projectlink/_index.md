@@ -1,11 +1,12 @@
 ---
-title: Class ProjectLink
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink τάξη. Αντιπροσωπεύει τη διαδρομή του έργου.
+title: "Κλάση ProjectLink"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink κλάση. Αντιπροσωπεύει τη διαδρομή του έργου."
 type: docs
-weight: 5860
+weight: 6360
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink class
 
 Αντιπροσωπεύει τη διαδρομή του έργου.
@@ -16,27 +17,27 @@ public sealed class ProjectLink : XmpTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [ProjectLink](projectlink/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Λαμβάνει ή ορίζει την πλήρη διαδρομή προς το έργο. |
+| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Λαμβάνει ή ορίζει πλήρη διαδρομή προς το έργο. |
 | [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο αρχείου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

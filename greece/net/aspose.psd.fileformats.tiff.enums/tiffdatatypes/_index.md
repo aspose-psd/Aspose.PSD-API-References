@@ -1,40 +1,41 @@
 ---
-title: Enum TiffDataTypes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes αρίθμηση. Ο τύπος δεδομένων tiff enum.
+title: "Απαρίθμηση TiffDataTypes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffDataTypes enum. Η απαρίθμηση τύπων δεδομένων tiff"
 type: docs
-weight: 4060
+weight: 4530
 url: /el/net/aspose.psd.fileformats.tiff.enums/tiffdatatypes/
 ---
+{{< psd/tize >}}
 ## TiffDataTypes enumeration
 
-Ο τύπος δεδομένων tiff enum.
+Η απαρίθμηση τύπου δεδομένων tiff.
 
 ```csharp
 public enum TiffDataTypes : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Byte | `1` | ακέραιος ανυπόγραφος 8-bit. |
-| Ascii | `2` | byte 8 bit με το τελευταίο byte`μηδενικό` . |
-| Short | `3` | ακέραιος ανυπόγραφος 16-bit. |
-| Long | `4` | ακέραιος ανυπόγραφος 32-bit. |
-| Rational | `5` | 64-bit ανυπόγραφο κλάσμα. |
-| Sbyte | `6` | ακέραιος υπογεγραμμένος 8-bit. |
-| Undefined | `7` | 8-bit μη πληκτρολογημένα δεδομένα. |
-| Sshort | `8` | ακέραιος υπογεγραμμένος 16-bit. |
-| Slong | `9` | ακέραιος υπογεγραμμένος 32-bit. |
-| Srational | `10` | υπογεγραμμένο κλάσμα 64 bit. |
-| Float | `11` | κινητής υποδιαστολής IEEE 32 bit. |
-| Double | `12` | κινητής υποδιαστολής IEEE 64-bit. |
-| Ifd | `13` | Κατάλογος αρχείου εικόνας δείκτη σε Exif (IFD). |
+| Byte | `1` | 8-bit ακέραιος χωρίς πρόσημο. |
+| Ascii | `2` | 8-bit bytes με το τελευταίο byte `null`. |
+| Short | `3` | 16-bit ακέραιος χωρίς πρόσημο. |
+| Long | `4` | 32-bit ακέραιος χωρίς πρόσημο. |
+| Rational | `5` | 64-bit κλάσμα χωρίς πρόσημο. |
+| Sbyte | `6` | 8-bit ακέραιος με πρόσημο. |
+| Undefined | `7` | 8-bit δεδομένα χωρίς τύπο. |
+| Sshort | `8` | 16-bit ακέραιος με πρόσημο. |
+| Slong | `9` | 32-bit ακέραιος με πρόσημο. |
+| Srational | `10` | 64-bit κλάσμα με πρόσημο. |
+| Float | `11` | 32-bit IEEE κινητής υποδιαστολής. |
+| Double | `12` | 64-bit IEEE κινητής υποδιαστολής. |
+| Ifd | `13` | Δείκτης προς τον κατάλογο αρχείων εικόνας Exif (IFD). |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

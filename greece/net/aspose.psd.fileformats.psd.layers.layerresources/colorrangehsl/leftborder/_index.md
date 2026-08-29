@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl ιδιοκτησία. Λαμβάνει ή ορίζει το αριστερό περίγραμμα.
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorRangeHsl ιδιότητα. Λαμβάνει ή ορίζει το αριστερό όριο"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
-Λαμβάνει ή ορίζει το αριστερό περίγραμμα.
+Λαμβάνει ή ορίζει το αριστερό όριο.
 
 ```csharp
 public short LeftBorder { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αριστερό περίγραμμα.
+Το αριστερό όριο.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

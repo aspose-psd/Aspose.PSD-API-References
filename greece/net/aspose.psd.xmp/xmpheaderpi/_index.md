@@ -1,14 +1,15 @@
 ---
-title: Class XmpHeaderPi
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.XmpHeaderPi τάξη. Αντιπροσωπεύει την οδηγία επεξεργασίας κεφαλίδας XMP.
+title: "Κλάση XmpHeaderPi"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.XmpHeaderPi κλάση. Αναπαριστά την οδηγία επεξεργασίας κεφαλίδας XMP"
 type: docs
-weight: 6250
+weight: 6750
 url: /el/net/aspose.psd.xmp/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi class
 
-Αντιπροσωπεύει την οδηγία επεξεργασίας κεφαλίδας XMP.
+Αναπαριστά την οδηγία επεξεργασίας κεφαλίδας XMP.
 
 ```csharp
 public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
@@ -16,30 +17,30 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`XmpHeaderPi` τάξη. |
-| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpHeaderPi` τάξη. |
+| [XmpHeaderPi](xmpheaderpi/#constructor)() | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `XmpHeaderPi`. |
+| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `XmpHeaderPi`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Αντιπροσωπεύει τον οδηγό κεφαλίδας. |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Αναπαριστά το GUID της κεφαλίδας. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση. |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
-| override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση. |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία. |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία. |
 | [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | Μετατρέπει την τιμή XMP στην αναπαράσταση XML. |
 
 ### Δείτε επίσης
 
 * interface [IXmlValue](../ixmlvalue/)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

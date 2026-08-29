@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι σκοτεινό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των εικόνων bitmap που περιέχονται στο επίπεδο.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι μειωμένο. Μειώνει την ένταση των συνδεδεμένων εικόνων και των bitmap εικόνων που περιέχονται στο στρώμα."
 type: docs
-weight: 50
+weight: 70
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο είναι σκοτεινό. Μειώνει την ένταση των συνδεδεμένων εικόνων και των εικόνων bitmap που περιέχονται στο επίπεδο.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι σκιασμένο. Μειώνει την ένταση των συνδεδεμένων εικόνων και των bitmap εικόνων που περιέχονται στο στρώμα.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το στρώμα είναι θαμπό. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτό το στρώμα είναι μειωμένο· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

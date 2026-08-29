@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Thumbnail ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος.
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Thumbnail. Λαμβάνει ή ορίζει το πλάτος"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
 Λαμβάνει ή ορίζει το πλάτος.
@@ -14,20 +15,20 @@ url: /el/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 public int Width { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | τιμή;Το πλάτος δεν θα μπορούσε να είναι μικρότερο από μηδέν |
+| ArgumentOutOfRangeException | value;Το πλάτος δεν μπορεί να είναι μικρότερο του μηδενός |
 
 ### Δείτε επίσης
 
 * class [Thumbnail](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

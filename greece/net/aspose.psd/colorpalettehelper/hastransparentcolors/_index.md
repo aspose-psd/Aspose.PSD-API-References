@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorPaletteHelper μέθοδος. Καθορίζει εάν η καθορισμένη παλέτα έχει διαφανή χρώματα.
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorPaletteHelper. Καθορίζει εάν η καθορισμένη παλέτα έχει διαφανή χρώματα."
 type: docs
 weight: 90
 url: /el/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
-Καθορίζει εάν η καθορισμένη παλέτα έχει διαφανή χρώματα.
+Καθορίζει εάν η καθορισμένη παλέτα περιέχει διαφανή χρώματα.
 
 ```csharp
 public static bool HasTransparentColors(IColorPalette palette)
@@ -16,23 +17,23 @@ public static bool HasTransparentColors(IColorPalette palette)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| palette | IColorPalette | Η παλέτα. |
+| παλέτα | IColorPalette | Η παλέτα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν η καθορισμένη παλέτα έχει διαφανή χρώματα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν η καθορισμένη παλέτα έχει διαφανή χρώματα· διαφορετικά, `false`.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *palette* είναι μηδενικό. |
+| ArgumentNullException | *palette* είναι null. |
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorpalettehelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

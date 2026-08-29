@@ -1,11 +1,12 @@
 ---
-title: MlstResource.MlstResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MlstResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "MlstResource.MlstResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MlstResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public MlstResource()
 ### Δείτε επίσης
 
 * class [MlstResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

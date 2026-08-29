@@ -1,14 +1,15 @@
 ---
-title: NvrtResource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NvrtResource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "NvrtResource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα NvrtResource. Λαμβάνει το μήκος του πόρου στρώσης σε bytes"
 type: docs
-weight: 30
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/
 ---
+{{< psd/tize >}}
 ## NvrtResource.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [NvrtResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

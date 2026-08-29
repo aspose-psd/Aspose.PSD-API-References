@@ -1,33 +1,34 @@
 ---
-title: Dimensions.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Dimensions ιδιοκτησία. Παίρνει ή ρυθμίζει το ύψος.
+title: "Dimensions.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Dimensions. Λαμβάνει ή ορίζει το ύψος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
-Παίρνει ή ρυθμίζει το ύψος.
+Λαμβάνει ή ορίζει το ύψος.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | τιμή;Το ύψος δεν θα μπορούσε να είναι μικρότερο από μηδέν |
+| ArgumentOutOfRangeException | value;Το ύψος δεν μπορεί να είναι μικρότερο του μηδενός |
 
 ### Δείτε επίσης
 
 * class [Dimensions](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

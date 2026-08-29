@@ -1,11 +1,12 @@
 ---
-title: AiImage.DataSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει την ενότητα δεδομένων.
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiImage. Λαμβάνει την ενότητα δεδομένων"
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
 Λαμβάνει την ενότητα δεδομένων.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.ai/aiimage/datasection/
 public AiDataSection DataSection { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ενότητα δεδομένων.
 
@@ -22,7 +23,7 @@ public AiDataSection DataSection { get; }
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

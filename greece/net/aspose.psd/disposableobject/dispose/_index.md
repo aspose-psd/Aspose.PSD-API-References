@@ -1,14 +1,15 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DisposableObject μέθοδος. Διαθέτει την τρέχουσα παρουσία.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος DisposableObject. Αποδεσμεύει την τρέχουσα παρουσία"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-Διαθέτει την τρέχουσα παρουσία.
+Αποδεσμεύει την τρέχουσα παρουσία.
 
 ```csharp
 public void Dispose()
@@ -17,7 +18,7 @@ public void Dispose()
 ### Δείτε επίσης
 
 * class [DisposableObject](../)
-* χώρος ονομάτων [Aspose.PSD](../../disposableobject/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

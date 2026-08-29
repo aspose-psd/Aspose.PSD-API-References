@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OuterGlowEffect ιδιοκτησία. Λαμβάνει την τιμή θαμπώματος σε pixel.
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OuterGlowEffect ιδιότητα. Λαμβάνει την τιμή θολώματος σε εικονοστοιχεία"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
-Λαμβάνει την τιμή θαμπώματος σε pixel.
+Λαμβάνει την τιμή θολώματος σε εικονοστοιχεία.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη OuterGlowEffect.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Δείτε επίσης
 
 * class [OuterGlowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

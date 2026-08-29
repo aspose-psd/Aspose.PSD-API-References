@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.IsWritable
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpTrailerPi ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία μπορεί να εγγραφεί.
+title: "XmpTrailerPi.IsWritable"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpTrailerPi. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι εγγράψιμη"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.IsWritable property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία μπορεί να εγγραφεί.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι εγγράψιμη.
 
 ```csharp
 public bool IsWritable { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η περίπτωση είναι εγγράψιμη. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι εγγράψιμη· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [XmpTrailerPi](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

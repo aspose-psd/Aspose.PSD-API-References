@@ -1,14 +1,15 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Φορτώνει τα pixel μερικώς ανά πακέτα.
+title: "RasterImage.LoadPartialPixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage method. Φορτώνει εικονοστοιχεία μερικώς ανά πακέτα"
 type: docs
-weight: 390
+weight: 400
 url: /el/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
-Φορτώνει τα pixel μερικώς ανά πακέτα.
+Φορτώνει εικονοστοιχεία μερικώς ανά πακέτα.
 
 ```csharp
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
@@ -17,14 +18,14 @@ public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pi
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | desiredRectangle | Rectangle | Το επιθυμητό ορθογώνιο. |
-| pixelLoader | IPartialPixelLoader | Ο φορτωτής pixel. |
+| pixelLoader | IPartialPixelLoader | Ο φορτωτής εικονοστοιχείων. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

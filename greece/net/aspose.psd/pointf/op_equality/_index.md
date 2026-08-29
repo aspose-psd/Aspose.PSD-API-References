@@ -1,14 +1,15 @@
 ---
-title: PointF.op_Equality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointF μέθοδος. Συγκρίνει δύοPointF δομές. Το αποτέλεσμα καθορίζει εάν οι τιμές τουX καιY ιδιότητες των δύοPointF οι δομές είναι ίσες.
+title: "PointF.op_Equality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PointF μέθοδος. Συγκρίνει δύο δομές PointF. Το αποτέλεσμα καθορίζει αν οι τιμές των ιδιοτήτων X και Y των δύο δομών PointF είναι ίσες"
 type: docs
 weight: 120
 url: /el/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-Συγκρίνει δύο[`PointF`](../) δομές. Το αποτέλεσμα καθορίζει εάν οι τιμές του[`X`](../x/) και[`Y`](../y/) ιδιότητες των δύο[`PointF`](../) οι δομές είναι ίσες.
+Συγκρίνει δύο δομές [`PointF`](../). Το αποτέλεσμα καθορίζει αν οι τιμές των ιδιοτήτων [`X`](../x/) και [`Y`](../y/) των δύο δομών [`PointF`](../) είναι ίσες.
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
@@ -16,17 +17,17 @@ public static bool operator ==(PointF point1, PointF point2)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point1 | PointF | Μια πρωτιά[`PointF`](../) να συγκρίνω. |
-| point2 | PointF | Ενα δεύτερο[`PointF`](../) να συγκρίνω. |
+| point1 | PointF | Ένα πρώτο [`PointF`](../) για σύγκριση. |
+| point2 | PointF | Ένα δεύτερο [`PointF`](../) για σύγκριση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν το[`X`](../x/) και[`Y`](../y/) τιμές του πρώτου και του δεύτερου[`PointF`](../) οι δομές είναι ίσες. διαφορετικά, ψευδής.
+Αληθές εάν οι τιμές [`X`](../x/) και [`Y`](../y/) των πρώτων και δεύτερων δομών [`PointF`](../) είναι ίσες· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

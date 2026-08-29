@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Styles
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει τα στυλ γραμματοσειράς.
+title: "TypeToolInfoResource.Styles"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolInfoResource. Λαμβάνει ή ορίζει τα στυλ γραμματοσειράς"
 type: docs
-weight: 210
+weight: 180
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Styles property
 
 Λαμβάνει ή ορίζει τα στυλ γραμματοσειράς.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public TypeToolStyleInfo[] Styles { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα στυλ γραμματοσειράς.
 
@@ -22,7 +23,7 @@ public TypeToolStyleInfo[] Styles { get; set; }
 
 * class [TypeToolStyleInfo](../../typetoolstyleinfo/)
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

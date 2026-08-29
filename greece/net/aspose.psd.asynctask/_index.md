@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.AsyncTask
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται την επεξεργασία AsyncTask.
+title: "Aspose.PSD.AsyncTask"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία AsyncTask"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.asynctask/
 ---
-Ο χώρος ονομάτων χειρίζεται την επεξεργασία AsyncTask.
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία AsyncTask.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [AsyncTask](./asynctask/) | Η στατική εργοστασιακή κλάση για τη δημιουργία των ασύγχρονων εργασιών |
-| [AsyncTaskAction](./asynctaskaction/) | Ο εκπρόσωπος μακράς λειτουργίας για την ασύγχρονη εργασία χωρίς κανένα αποτέλεσμα. |
+| [AsyncTask](./asynctask/) | Η στατική κλάση εργοστασίου για τη δημιουργία των ασύγχρονων εργασιών |
+| [AsyncTaskAction](./asynctaskaction/) | Ο εκχωρητής μακράς λειτουργίας για την ασύγχρονη εργασία χωρίς κανένα αποτέλεσμα. |
 | [AsyncTaskException](./asynctaskexception/) | Η εξαίρεση για την ασύγχρονη εργασία. |
-| [AsyncTaskFunc](./asynctaskfunc/) | Ο εκπρόσωπος μακράς λειτουργίας για την ασύγχρονη εργασία με αποτέλεσμα γενικού τύπου. |
+| [AsyncTaskFunc](./asynctaskfunc/) | Ο μεγάλος αντιπρόσωπος λειτουργίας για την ασύγχρονη εργασία με γενικό τύπο αποτελέσματος. |
 | [AsyncTaskProgress](./asynctaskprogress/) | Παρέχει πληροφορίες προόδου για την ασύγχρονη εργασία. |
-| [CompleteCallback](./completecallback/) | Λειτουργία επανάκλησης για λήψη συμβάντος ολοκλήρωσης εργασίας. |
-| [ProgressCallback](./progresscallback/) | Λειτουργία επανάκλησης για λήψη συμβάντος αλλαγής προόδου εργασίας. |
+| [CompleteCallback](./completecallback/) | Συνάρτηση επανάκλησης για λήψη του γεγονότος ολοκλήρωσης εργασίας. |
+| [ProgressCallback](./progresscallback/) | Συνάρτηση επανάκλησης για λήψη του γεγονότος αλλαγής προόδου εργασίας. |
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |

@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolLineInfo ιδιοκτησία. Λαμβάνει ή ορίζει τον χαρακτήρα.
+title: "TypeToolLineInfo.Char"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolLineInfo. Λαμβάνει ή ορίζει το χαρακτήρα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-Λαμβάνει ή ορίζει τον χαρακτήρα.
+Λαμβάνει ή ορίζει το χαρακτήρα.
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο χαρακ.
+Ο χαρακτήρας.
 
 ### Δείτε επίσης
 
 * class [TypeToolLineInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

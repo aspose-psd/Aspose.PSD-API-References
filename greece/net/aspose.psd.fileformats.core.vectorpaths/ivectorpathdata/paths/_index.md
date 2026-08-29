@@ -1,11 +1,12 @@
 ---
-title: IVectorPathData.Paths
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IVectorPathData ιδιοκτησία. Λαμβάνει ή ορίζει τις εγγραφές διαδρομής.
+title: "IVectorPathData.Paths"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IVectorPathData. Λαμβάνει ή ορίζει τις εγγραφές διαδρομής"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Paths property
 
 Λαμβάνει ή ορίζει τις εγγραφές διαδρομής.
@@ -14,21 +15,21 @@ url: /el/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα μονοπάτια.
+Οι διαδρομές.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει την υποστήριξη του πόρου "WorkingPathResource" στο PsdImage.ImageResources για τη σωστή λειτουργία της λειτουργίας Crop.
+Αυτό το παράδειγμα δείχνει την υποστήριξη του πόρου 'WorkingPathResource' στο PsdImage.ImageResources για σωστή λειτουργία της λειτουργίας Κοπής.
 
 ```csharp
 [C#]
 
-// Περικοπή εικόνας και αποθήκευση.
+// Κόψτε την εικόνα και αποθηκεύστε την.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Αναζήτηση πόρου WorkingPathResource.
+    // Αναζητήστε τον πόρο WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -46,7 +47,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // Περικοπή και αποθήκευση.
+    // Κόψτε και αποθηκεύστε.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
@@ -54,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 // Φορτώστε την αποθηκευμένη εικόνα και ελέγξτε τις αλλαγές.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Αναζήτηση πόρου WorkingPathResource.
+    // Αναζητήστε τον πόρο WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * interface [IVectorPathData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionResource.AnimatedDataSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AnimatedDataSectionResource ιδιοκτησία. Λαμβάνει ή ορίζει τη δομή της ενότητας κινούμενων δεδομένων.
+title: "AnimatedDataSectionResource.AnimatedDataSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AnimatedDataSectionResource ιδιότητα. Λαμβάνει ή ορίζει τη δομή της ενότητας δεδομένων animation"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.AnimatedDataSection property
 
-Λαμβάνει ή ορίζει τη δομή της ενότητας κινούμενων δεδομένων.
+Λαμβάνει ή ορίζει τη δομή της ενότητας δεδομένων κίνησης.
 
 ```csharp
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τον τρόπο ρύθμισης/ενημέρωσης του χρόνου καθυστέρησης στο πλαίσιο της γραμμής χρόνου των κινούμενων δεδομένων.
+Ο παρακάτω κώδικας δείχνει πώς να ορίσετε/ενημερώσετε τον χρόνο καθυστέρησης στο πλαίσιο της χρονογραμμής των κινητών δεδομένων.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Δημιουργεί την εγγραφή καθυστέρησης καρέ με τιμή 100 centi-second που ισούται με 1 δευτερόλεπτο.
+            // Δημιουργεί την εγγραφή καθυστέρησης πλαισίου με τιμή 100 εκατοδευτερόλεπτα, που ισούται με 1 δευτερόλεπτο.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // ορισμός χρόνου σε εκατοστά του δευτερολέπτου.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/)
 * class [AnimatedDataSectionResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

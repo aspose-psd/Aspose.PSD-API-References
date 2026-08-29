@@ -1,14 +1,15 @@
 ---
-title: PointF.PointF
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointF κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPointF δομή με τις καθορισμένες συντεταγμένες.
+title: "PointF.PointF"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PointF. Αρχικοποιεί μια νέα παρουσία της δομής PointF με τις καθορισμένες συντεταγμένες"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`PointF`](../) δομή με τις καθορισμένες συντεταγμένες.
+Αρχικοποιεί μια νέα παρουσία της δομής [`PointF`](../) με τις καθορισμένες συντεταγμένες.
 
 ```csharp
 public PointF(float x, float y)
@@ -17,12 +18,12 @@ public PointF(float x, float y)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | x | Single | Η οριζόντια θέση του σημείου. |
-| y | Single | Η κατακόρυφη θέση του σημείου. |
+| y | Single | Η κάθετη θέση του σημείου. |
 
 ### Δείτε επίσης
 
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

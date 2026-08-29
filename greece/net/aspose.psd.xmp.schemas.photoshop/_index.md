@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Photoshop
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει σχετικές βοηθητικές κλάσεις σταθερές και μεθόδους που χρησιμοποιούνται από το Adobe Photoshop.
+title: "Aspose.PSD.Xmp.Schemas.Photoshop"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει σχετικές βοηθητικές κλάσεις, σταθερές και μεθόδους που χρησιμοποιούνται από το Adobe Photoshop."
 type: docs
-weight: 550
+weight: 590
 url: /el/net/aspose.psd.xmp.schemas.photoshop/
 ---
+{{< psd/tize >}}
 Ο χώρος ονομάτων περιέχει σχετικές βοηθητικές κλάσεις, σταθερές και μεθόδους που χρησιμοποιούνται από το Adobe Photoshop.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [Layer](./layer/) | Αντιπροσωπεύει το επίπεδο κειμένου Photoshop. |
-| [PhotoshopPackage](./photoshoppackage/) | Αντιπροσωπεύει τον χώρο ονομάτων του Adobe Photoshop. |
+| [Layer](./layer/) | Αναπαριστά το επίπεδο κειμένου του Photoshop. |
+| [PhotoshopPackage](./photoshoppackage/) | Αναπαριστά το χώρο ονομάτων του Adobe Photoshop. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [ColorMode](./colormode/) | Αντιπροσωπεύει τη λειτουργία χρώματος στο[`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) . |
+| [ColorMode](./colormode/) | Αναπαριστά τη λειτουργία χρώματος στο [`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/). |
 
 

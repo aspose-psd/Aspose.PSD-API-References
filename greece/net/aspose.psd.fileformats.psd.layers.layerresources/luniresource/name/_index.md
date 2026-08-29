@@ -1,27 +1,28 @@
 ---
-title: LuniResource.Name
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LuniResource ιδιοκτησία. Παίρνει ή ορίζει το όνομα.
+title: "LuniResource.Name"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LuniResource. Λαμβάνει ή ορίζει το όνομα"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/
 ---
+{{< psd/tize >}}
 ## LuniResource.Name property
 
-Παίρνει ή ορίζει το όνομα.
+Λαμβάνει ή ορίζει το όνομα.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα.
 
 ### Δείτε επίσης
 
 * class [LuniResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

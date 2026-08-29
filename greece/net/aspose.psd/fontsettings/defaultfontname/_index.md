@@ -1,11 +1,12 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings ιδιοκτησία. Λαμβάνει ή ορίζει το προεπιλεγμένο όνομα της γραμματοσειράς.
+title: "FontSettings.DefaultFontName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FontSettings. Λαμβάνει ή ορίζει το προεπιλεγμένο όνομα της γραμματοσειράς"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
 Λαμβάνει ή ορίζει το προεπιλεγμένο όνομα της γραμματοσειράς.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/fontsettings/defaultfontname/
 public static string DefaultFontName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το προεπιλεγμένο όνομα της γραμματοσειράς.
 
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

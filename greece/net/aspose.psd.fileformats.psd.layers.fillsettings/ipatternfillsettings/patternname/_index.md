@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα του μοτίβου.
+title: "IPatternFillSettings.PatternName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει το όνομα του μοτίβου"
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternName property
 
 Λαμβάνει ή ορίζει το όνομα του μοτίβου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public string PatternName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του μοτίβου.
 
 ### Δείτε επίσης
 
 * interface [IPatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

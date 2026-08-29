@@ -1,14 +1,15 @@
 ---
-title: Rectangle.FromLeftTopRightBottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Δημιουργεί έναRectangle δομή με τις καθορισμένες θέσεις άκρων.
+title: "Rectangle.FromLeftTopRightBottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Δημιουργεί μια δομή Rectangle με τις καθορισμένες θέσεις των άκρων."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/rectangle/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromLeftTopRightBottom method
 
-Δημιουργεί ένα[`Rectangle`](../) δομή με τις καθορισμένες θέσεις άκρων.
+Δημιουργεί μια δομή [`Rectangle`](../) με τις καθορισμένες θέσεις των άκρων.
 
 ```csharp
 public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int bottom)
@@ -16,19 +17,19 @@ public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | Int32 | Η συντεταγμένη x της επάνω αριστερής γωνίας αυτού[`Rectangle`](../) δομή. |
-| top | Int32 | Η συντεταγμένη y της επάνω αριστερής γωνίας αυτού[`Rectangle`](../) δομή. |
-| right | Int32 | Η συντεταγμένη x της κάτω δεξιάς γωνίας αυτού[`Rectangle`](../) δομή. |
-| bottom | Int32 | Η συντεταγμένη y της κάτω δεξιάς γωνίας αυτού[`Rectangle`](../) δομή. |
+| left | Int32 | Η συντεταγμένη x της επάνω αριστερής γωνίας αυτής της δομής [`Rectangle`](../). |
+| top | Int32 | Η συντεταγμένη y της επάνω αριστερής γωνίας αυτής της δομής [`Rectangle`](../). |
+| right | Int32 | Η συντεταγμένη x της κάτω-δεξιάς γωνίας αυτής της δομής [`Rectangle`](../). |
+| bottom | Int32 | Η συντεταγμένη y της κάτω-δεξιάς γωνίας αυτής της δομής [`Rectangle`](../). |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το νέο[`Rectangle`](../) που δημιουργεί αυτή η μέθοδος.
+Το νέο [`Rectangle`](../) που δημιουργεί αυτή η μέθοδος.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

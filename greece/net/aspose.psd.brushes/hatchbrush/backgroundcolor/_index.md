@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: HatchBrush ιδιοκτησία. Λαμβάνει ή ορίζει το χρώμα των διαστημάτων μεταξύ των γραμμών καταπακτής.
+title: "HatchBrush.BackgroundColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα HatchBrush. Λαμβάνει ή ορίζει το χρώμα των κενών μεταξύ των γραμμών hatch"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-Λαμβάνει ή ορίζει το χρώμα των διαστημάτων μεταξύ των γραμμών καταπακτής.
+Ανακτά ή ορίζει το χρώμα των κενών μεταξύ των γραμμών διαγράμμισης.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το χρώμα των διαστημάτων μεταξύ των γραμμών καταπακτής.
+Το χρώμα των κενών μεταξύ των γραμμών hatch.
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../hatchbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

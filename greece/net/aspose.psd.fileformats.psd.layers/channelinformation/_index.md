@@ -1,11 +1,12 @@
 ---
-title: Class ChannelInformation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation τάξη. Οι πληροφορίες καναλιού.
+title: "Κλάση ChannelInformation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation κλάση. Οι πληροφορίες καναλιού"
 type: docs
-weight: 1900
+weight: 2010
 url: /el/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation class
 
 Οι πληροφορίες καναλιού.
@@ -16,21 +17,21 @@ public class ChannelInformation
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Αρχικοποιεί μια νέα παρουσία του`ChannelInformation` τάξη. |
+| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ChannelInformation`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό καναλιού. |
+| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | Λαμβάνει ή ορίζει το ID του καναλιού. |
 | [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο συμπίεσης. |
-| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | Λαμβάνει το μήκος του καναλιού σε byte. |
+| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | Λαμβάνει το μήκος του καναλιού σε bytes. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: InnerShadowEffect ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη γωνία σε μοίρες.
+title: "InnerShadowEffect.Angle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "InnerShadowEffect ιδιότητα. Λαμβάνει ή ορίζει τη γωνία σε μοίρες"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
-Λαμβάνει ή ρυθμίζει τη γωνία σε μοίρες.
+Λαμβάνει ή ορίζει τη γωνία σε μοίρες.
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η γωνία.
 
 ### Δείτε επίσης
 
 * class [InnerShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

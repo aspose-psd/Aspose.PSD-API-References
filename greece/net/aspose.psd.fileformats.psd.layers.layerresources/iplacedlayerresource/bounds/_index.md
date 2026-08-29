@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.Bounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPlacedLayerResource ιδιοκτησία. Λαμβάνει ή ορίζει τα όρια του τοποθετημένου επιπέδου στο αρχείο PSD.
+title: "IPlacedLayerResource.Bounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPlacedLayerResource ιδιότητα. Λαμβάνει ή ορίζει τα όρια του τοποθετημένου στρώματος στο αρχείο PSD"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Bounds property
 
-Λαμβάνει ή ορίζει τα όρια του τοποθετημένου επιπέδου στο αρχείο PSD.
+Λαμβάνει ή ορίζει τα όρια του τοποθετημένου στρώματος στο αρχείο PSD.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το τοποθετημένο επίπεδο περιορίζει.
+Τα όρια του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * interface [IPlacedLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

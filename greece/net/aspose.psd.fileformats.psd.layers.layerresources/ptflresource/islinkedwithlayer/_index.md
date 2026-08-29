@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.IsLinkedWithLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PtFlResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι συνδεδεμένη με το επίπεδο.
+title: "PtFlResource.IsLinkedWithLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PtFlResource. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η περίπτωση είναι συνδεδεμένη με το στρώμα"
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.IsLinkedWithLayer property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι συνδεδεμένη με το επίπεδο.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το αντικείμενο είναι συνδεδεμένο με τη στρώση.
 
 ```csharp
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το στιγμιότυπο είναι συνδεδεμένο με επίπεδο. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η περίπτωση είναι συνδεδεμένη με το στρώμα· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης και της επεξεργασίας ενός πόρου PtFlResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης και επεξεργασίας ενός πόρου PtFlResource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // ΑΝΑΓΝΩΣΗ
+                    // Ανάγνωση
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -89,7 +90,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PtFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

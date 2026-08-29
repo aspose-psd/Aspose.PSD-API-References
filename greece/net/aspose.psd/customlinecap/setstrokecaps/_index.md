@@ -1,14 +1,15 @@
 ---
-title: CustomLineCap.SetStrokeCaps
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CustomLineCap μέθοδος. Ορίζει τα κεφαλαία που χρησιμοποιούνται για τις γραμμές έναρξης και λήξης που συνθέτουν αυτό το προσαρμοσμένο όριο.
+title: "CustomLineCap.SetStrokeCaps"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CustomLineCap μέθοδος. Ορίζει τα άκρα που χρησιμοποιούνται για την έναρξη και το τέλος των γραμμών που αποτελούν αυτό το προσαρμοσμένο άκρο."
 type: docs
 weight: 90
 url: /el/net/aspose.psd/customlinecap/setstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.SetStrokeCaps method
 
-Ορίζει τα κεφαλαία που χρησιμοποιούνται για τις γραμμές έναρξης και λήξης που συνθέτουν αυτό το προσαρμοσμένο όριο.
+Ορίζει τις άκρες που χρησιμοποιούνται για την έναρξη και το τέλος των γραμμών που αποτελούν αυτήν την προσαρμοσμένη άκρη.
 
 ```csharp
 public void SetStrokeCaps(LineCap startCap, LineCap endCap)
@@ -16,14 +17,14 @@ public void SetStrokeCaps(LineCap startCap, LineCap endCap)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| startCap | LineCap | ο[`LineCap`](../../linecap/) απαρίθμηση που χρησιμοποιείται στην αρχή μιας γραμμής μέσα σε αυτό το όριο. |
-| endCap | LineCap | ο[`LineCap`](../../linecap/) απαρίθμηση που χρησιμοποιείται στο τέλος μιας γραμμής μέσα σε αυτό το καπάκι. |
+| startCap | LineCap | Η απαρίθμηση [`LineCap`](../../linecap/) που χρησιμοποιείται στην αρχή μιας γραμμής μέσα σε αυτό το άκρο. |
+| endCap | LineCap | Η απαρίθμηση [`LineCap`](../../linecap/) που χρησιμοποιείται στο τέλος μιας γραμμής μέσα σε αυτό το άκρο. |
 
 ### Δείτε επίσης
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* χώρος ονομάτων [Aspose.PSD](../../customlinecap/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

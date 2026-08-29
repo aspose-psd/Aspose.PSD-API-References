@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions μέθοδος. Αφαιρεί την ετικέτα.
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffOptions μέθοδος. Αφαιρεί την ετικέτα"
 type: docs
-weight: 740
+weight: 750
 url: /el/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
 Αφαιρεί την ετικέτα.
@@ -16,17 +17,17 @@ public bool RemoveTag(TiffTags tag)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tag | TiffTags | Η ετικέτα προς κατάργηση. |
+| ετικέτα | TiffTags | Η ετικέτα προς αφαίρεση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true εάν αφαιρεθεί επιτυχώς
+αληθές εάν αφαιρεθεί επιτυχώς
 
 ### Δείτε επίσης
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

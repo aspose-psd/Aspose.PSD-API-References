@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrushBase.Rectangle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinearGradientBrushBase ιδιοκτησία. Λαμβάνει ή ορίζει μια ορθογώνια περιοχή που ορίζει τα σημεία έναρξης και τέλους της κλίσης.
+title: "LinearGradientBrushBase.Rectangle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LinearGradientBrushBase property. Λαμβάνει ή ορίζει μια ορθογώνια περιοχή που ορίζει τα αρχικά και τελικά σημεία του gradient"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.brushes/lineargradientbrushbase/rectangle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Rectangle property
 
-Λαμβάνει ή ορίζει μια ορθογώνια περιοχή που ορίζει τα σημεία έναρξης και τέλους της κλίσης.
+Αποκτά ή ορίζει μια ορθογώνια περιοχή που ορίζει τα αρχικά και τελικά σημεία της διαβάθμισης.
 
 ```csharp
 public RectangleF Rectangle { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`RectangleF`](../../../aspose.psd/rectanglef/) δομή που καθορίζει τα σημεία έναρξης και λήξης της κλίσης.
+Μια δομή [`RectangleF`](../../../aspose.psd/rectanglef/) που καθορίζει τα αρχικά και τελικά σημεία του gradient.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearGradientBrushBase](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

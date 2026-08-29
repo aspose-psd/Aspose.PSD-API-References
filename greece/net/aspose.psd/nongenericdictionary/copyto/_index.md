@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.CopyTo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary μέθοδος. Αντιγράφει τα στοιχεία του ICollection σε Array  ξεκινώντας από ένα συγκεκριμένο Array ευρετήριο.
+title: "NonGenericDictionary.CopyTo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος NonGenericDictionary. Αντιγράφει τα στοιχεία του ICollection σε έναν Array που ξεκινά σε συγκεκριμένο δείκτη Array"
 type: docs
 weight: 130
 url: /el/net/aspose.psd/nongenericdictionary/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.CopyTo method
 
-Αντιγράφει τα στοιχεία του ICollection σε Array , ξεκινώντας από ένα συγκεκριμένο Array ευρετήριο.
+Αντιγράφει τα στοιχεία του ICollection σε έναν Array, ξεκινώντας από έναν συγκεκριμένο δείκτη Array.
 
 ```csharp
 public void CopyTo(Array array, int index)
@@ -16,13 +17,13 @@ public void CopyTo(Array array, int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| array | Array | Το μονοδιάστατο Array αυτός είναι ο προορισμός των στοιχείων που αντιγράφηκαν από ICollection . Το Array πρέπει να έχει μηδενική ευρετηρίαση. |
-| index | Int32 | Ο μηδενικός δείκτης σε *array* στην οποία αρχίζει η αντιγραφή. |
+| array | Array | Ο μονοδιάστατος Array που είναι ο προορισμός των στοιχείων που αντιγράφονται από το ICollection. Ο Array πρέπει να έχει μηδενική αρίθμηση. |
+| δείκτης | Int32 | Ο μηδενικός δείκτης στο *array* από όπου ξεκινά η αντιγραφή. |
 
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

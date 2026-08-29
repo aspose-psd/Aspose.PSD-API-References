@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο ρύθμισης φωτεινότητας/αντίθεσης.
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει τη στρώση ρύθμισης φωτεινότητας/αντίθεσης"
 type: docs
-weight: 300
+weight: 310
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-Προσθέτει το επίπεδο ρύθμισης φωτεινότητας/αντίθεσης.
+Προσθέτει το επίπεδο προσαρμογής φωτεινότητας/αντίθεσης.
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
@@ -16,18 +17,18 @@ public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightne
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brightness | Int32 | Η φωτεινότητα. |
-| contrast | Int32 | Η αντίθεση. |
+| φωτεινότητα | Int32 | Η φωτεινότητα. |
+| αντίθεση | Int32 | Η αντίθεση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε επίπεδο φωτεινότητας/αντίθεσης
+Δημιουργήθηκε στρώση φωτεινότητας/αντίθεσης
 
 ### Δείτε επίσης
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

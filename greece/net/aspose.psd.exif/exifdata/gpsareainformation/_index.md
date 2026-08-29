@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSAreaInformation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει τις πληροφορίες της περιοχής GPS.
+title: "ExifData.GPSAreaInformation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τις πληροφορίες περιοχής GPS"
 type: docs
 weight: 380
 url: /el/net/aspose.psd.exif/exifdata/gpsareainformation/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAreaInformation property
 
-Λαμβάνει ή ρυθμίζει τις πληροφορίες της περιοχής GPS.
+Λαμβάνει ή ορίζει τις πληροφορίες περιοχής GPS.
 
 ```csharp
 public byte[] GPSAreaInformation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι πληροφορίες της περιοχής GPS.
+Οι πληροφορίες περιοχής GPS.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

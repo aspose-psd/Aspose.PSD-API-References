@@ -1,32 +1,33 @@
 ---
-title: PsdColorPalette.Entries
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdColorPalette ιδιοκτησία. Λαμβάνει έναν πίνακα απόColor δομές.
+title: "PsdColorPalette.Entries"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdColorPalette ιδιότητα. Λαμβάνει έναν πίνακα δομών Color"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd/psdcolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Entries property
 
-Λαμβάνει έναν πίνακα από[`Color`](../../../aspose.psd/color/) δομές.
+Λαμβάνει έναν πίνακα δομών [`Color`](../../../aspose.psd/color/).
 
 ```csharp
 public Color[] Entries { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας των[`Color`](../../../aspose.psd/color/) δομή που το συνθέτουν[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+Ο πίνακας της δομής [`Color`](../../../aspose.psd/color/) που συνθέτει αυτό το [`ColorPalette`](../../../aspose.psd/colorpalette/).
 
-### Αξία περιουσίας
+### Property Value
 
-Οι συμμετοχές.
+Οι καταχωρήσεις.
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

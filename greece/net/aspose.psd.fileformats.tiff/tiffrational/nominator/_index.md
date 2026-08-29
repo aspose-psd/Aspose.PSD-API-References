@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Nominator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffRational ιδιοκτησία. Παίρνει τον υποψήφιο.
+title: "TiffRational.Nominator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffRational. Επιστρέφει τον αριθμητή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.tiff/tiffrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Nominator property
 
-Παίρνει τον υποψήφιο.
+Λαμβάνει τον αριθμητή.
 
 ```csharp
 public uint Nominator { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο υποψήφιος.
+Ο αριθμητής.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

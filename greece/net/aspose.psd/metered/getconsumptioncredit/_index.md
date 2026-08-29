@@ -1,27 +1,28 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Metered μέθοδος. Λαμβάνει πίστωση κατανάλωσης
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Metered. Λαμβάνει το πιστωτικό ποσό κατανάλωσης"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.psd/metered/getconsumptioncredit/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionCredit method
 
-Λαμβάνει πίστωση κατανάλωσης
+Λαμβάνει την πίστωση κατανάλωσης
 
 ```csharp
 public static decimal GetConsumptionCredit()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 ποσότητα κατανάλωσης
 
 ### Δείτε επίσης
 
 * class [Metered](../)
-* χώρος ονομάτων [Aspose.PSD](../../metered/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

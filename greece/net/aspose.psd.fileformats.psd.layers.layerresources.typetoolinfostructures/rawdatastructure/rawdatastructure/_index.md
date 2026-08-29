@@ -1,14 +1,15 @@
 ---
-title: RawDataStructure.RawDataStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RawDataStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουRawDataStructure τάξη.
+title: "RawDataStructure.RawDataStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής RawDataStructure. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης RawDataStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/rawdatastructure/
 ---
+{{< psd/tize >}}
 ## RawDataStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`RawDataStructure`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`RawDataStructure`](../).
 
 ```csharp
 public RawDataStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public RawDataStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [RawDataStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

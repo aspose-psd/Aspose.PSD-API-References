@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.AddValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PdfPackage μέθοδος. Προσθέτει την ιδιότητα συμβολοσειράς.
+title: "PdfPackage.AddValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PdfPackage. Προσθέτει ιδιότητα τύπου string."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.schemas.pdf/pdfpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PdfPackage.AddValue method
 
-Προσθέτει την ιδιότητα συμβολοσειράς.
+Προσθέτει ιδιότητα συμβολοσειράς.
 
 ```csharp
 public override void AddValue(string key, string value)
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Η αναπαράσταση συμβολοσειράς του κλειδιού που προσδιορίζεται με προστιθέμενη αξία. |
-| value | String | Η τιμή της συμβολοσειράς. |
+| κλειδί | String | Η αναπαράσταση τύπου string του κλειδιού που ταυτοποιείται με την προστιθέμενη τιμή. |
+| τιμή | String | Η τιμή string. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | κλειδί;Η ιδιότητα PDF δεν μπορούσε να είναι μηδενική |
+| ArgumentNullException | key;Η ιδιότητα Pdf δεν μπορεί να είναι null |
 
 ### Δείτε επίσης
 
 * class [PdfPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

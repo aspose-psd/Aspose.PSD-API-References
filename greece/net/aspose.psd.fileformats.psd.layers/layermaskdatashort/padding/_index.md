@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskDataShort ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη μάσκα στρώματος.
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerMaskDataShort. Λαμβάνει ή ορίζει το padding της μάσκας στρώσης"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
-Λαμβάνει ή ρυθμίζει τη μάσκα στρώματος.
+Λαμβάνει ή ορίζει το padding της μάσκας επιπέδου.
 
 ```csharp
 public short Padding { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Επένδυση μάσκας στρώσης.
+Το padding της μάσκας στρώσης.
 
 ### Δείτε επίσης
 
 * class [LayerMaskDataShort](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

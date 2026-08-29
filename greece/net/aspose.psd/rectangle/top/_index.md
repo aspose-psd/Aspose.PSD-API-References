@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Top
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle ιδιοκτησία. Λαμβάνει ή ορίζει τη συντεταγμένη y του επάνω άκρου αυτούRectangleδομή.
+title: "Rectangle.Top"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Rectangle ιδιότητα. Λαμβάνει ή ορίζει τη συντεταγμένη y της άνω άκρης αυτής της δομής Rectangle"
 type: docs
 weight: 180
 url: /el/net/aspose.psd/rectangle/top/
 ---
+{{< psd/tize >}}
 ## Rectangle.Top property
 
-Λαμβάνει ή ορίζει τη συντεταγμένη y του επάνω άκρου αυτού[`Rectangle`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη y της άνω άκρης αυτής της δομής [`Rectangle`](../).
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συντεταγμένη y του επάνω άκρου αυτού[`Rectangle`](../)δομή.
+Η συντεταγμένη y της άνω άκρης αυτής της δομής [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Predictor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον προγνωστικό παράγοντα για συμπίεση LZW.
+title: "TiffOptions.Predictor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τον προβλέπτη για συμπίεση LZW"
 type: docs
-weight: 340
+weight: 350
 url: /el/net/aspose.psd.imageoptions/tiffoptions/predictor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Predictor property
 
-Λαμβάνει ή ορίζει τον προγνωστικό παράγοντα για συμπίεση LZW.
+Λαμβάνει ή ορίζει τον πρόβλεπτη για τη συμπίεση LZW.
 
 ```csharp
 public TiffPredictor Predictor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο τύπος πρόβλεψης.
+Ο τύπος του προβλέπτη.
 
 ### Δείτε επίσης
 
 * enum [TiffPredictor](../../../aspose.psd.fileformats.tiff.enums/tiffpredictor/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

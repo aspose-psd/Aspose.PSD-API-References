@@ -1,20 +1,21 @@
 ---
-title: LinkDataSource.Type
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinkDataSource ιδιοκτησία. Λαμβάνει τον τύπο πηγής δεδομένων καθολικού συνδέσμου Adobe Photoshop που μπορεί να είναι ένας από τους παρακάτω ή κανένας Το ενσωματωμένο συνδεδεμένο αρχείο liFD που αντιστοιχεί στο PSD Lnk2Resource Το εξωτερικό συνδεδεμένο αρχείο liFE που αντιστοιχεί στον σύνδεσμο PSD LnkeResource FAs liFD
+title: "LinkDataSource.Type"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LinkDataSource. Επιστρέφει τον τύπο παγκόσμιας πηγής δεδομένων συνδέσμου Adobe Photoshop, ο οποίος μπορεί να είναι ένας από τους παρακάτω ή κανένας: Το ενσωματωμένο συνδεδεμένο αρχείο liFD που αντιστοιχεί στον πόρο PSD Lnk2Resource, Το εξωτερικό συνδεδεμένο αρχείο liFE που αντιστοιχεί στον πόρο PSD LnkeResource, Το ψευδώνυμο συνδεδεμένου αρχείου liFA"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Type property
 
-Λαμβάνει τον τύπο πηγής δεδομένων καθολικού συνδέσμου Adobe® Photoshop® που μπορεί να είναι ένας από τους παρακάτω ή κανένας: Το ενσωματωμένο συνδεδεμένο αρχείο liFD που αντιστοιχεί στο PSD Lnk2Resource Το εξωτερικό συνδεδεμένο αρχείο liFE που αντιστοιχεί στον σύνδεσμο PSD LnkeResource FAs liFD
+Λαμβάνει τον τύπο της παγκόσμιας πηγής δεδομένων σύνδεσης Adobe® Photoshop® που μπορεί να είναι ένας από τους παρακάτω ή κανένας: Το ενσωματωμένο συνδεδεμένο αρχείο liFD που αντιστοιχεί στον πόρο PSD Lnk2Resource, Το εξωτερικό συνδεδεμένο αρχείο liFE που αντιστοιχεί στον πόρο PSD LnkeResource, Το ψευδώνυμο συνδεδεμένου αρχείου liFA.
 
 ```csharp
 public LinkDataSourceType Type { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος πηγής δεδομένων συνδέσμου PSD.
 
@@ -22,7 +23,7 @@ public LinkDataSourceType Type { get; }
 
 * enum [LinkDataSourceType](../../linkdatasourcetype/)
 * class [LinkDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResourcesRegistry μέθοδος. Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με το όνομα τύπου του.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LayerResourcesRegistry. Λαμβάνει τον πρώτο υποστηριζόμενο descriptor με το όνομα τύπου του"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με το όνομα τύπου του.
+Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με βάση το όνομα τύπου του.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string descriptorTypeName)
@@ -16,21 +17,21 @@ public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string 
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| descriptorTypeName | String | Όνομα τύπου περιγραφέα. |
+| descriptorTypeName | String | Το όνομα τύπου περιγραφέα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Βρέθηκε ο πρώτος περιγραφέας ανοίγματος ή μηδενικός, εάν όχι, αυτός ο περιγραφέας.
+Ο πρώτος βρεθείς περιγραφέας ανοίγματος ή null εάν δεν βρεθεί τέτοιος περιγραφέας.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος περιγραφέας ανοίγματος θα είναι στην πραγματικότητα ο τελευταίος εγγεγραμμένος.
+Ο πρώτος περιγραφέας ανοίγματος θα είναι στην πραγματικότητα ο τελευταίος καταχωρημένος.
 
 ### Δείτε επίσης
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

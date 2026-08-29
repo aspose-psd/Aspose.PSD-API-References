@@ -1,14 +1,15 @@
 ---
-title: SoLeResource.SoLeResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SoLeResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSoLeResource τάξη.
+title: "SoLeResource.SoLeResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής SoLeResource. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης SoLeResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource(Guid, bool, bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`SoLeResource`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `[`SoLeResource`](../)`.
 
 ```csharp
 public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -16,21 +17,21 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| uniqueId | Guid | Το μοναδικό αναγνωριστικό των δεδομένων του τοποθετημένου επιπέδου[`PlLdResource`](../../plldresource/). |
-| isCustom | Boolean | εάν έχει οριστεί σε`αληθής` [είναι έθιμο]. |
-| hasCompInfo | Boolean | εάν έχει οριστεί σε`αληθής` [έχει πληροφορίες comp]. |
+| uniqueId | Guid | Το μοναδικό αναγνωριστικό των δεδομένων τοποθετημένης στρώσης `[`PlLdResource`](../../plldresource/)`. |
+| isCustom | Boolean | αν οριστεί σε `true` [είναι προσαρμοσμένο]. |
+| hasCompInfo | Boolean | αν οριστεί σε `true` [έχει πληροφορίες συνθέσεων]. |
 
 ### Δείτε επίσης
 
 * class [SoLeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLeResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`SoLeResource`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `[`SoLeResource`](../)`.
 
 ```csharp
 public SoLeResource()
@@ -39,7 +40,7 @@ public SoLeResource()
 ### Δείτε επίσης
 
 * class [SoLeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

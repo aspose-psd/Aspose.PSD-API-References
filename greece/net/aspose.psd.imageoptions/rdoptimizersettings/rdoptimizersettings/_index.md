@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.RdOptimizerSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RdOptimizerSettings κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "RdOptimizerSettings.RdOptimizerSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RdOptimizerSettings constructor. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public RdOptimizerSettings()
 ### Δείτε επίσης
 
 * class [RdOptimizerSettings](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

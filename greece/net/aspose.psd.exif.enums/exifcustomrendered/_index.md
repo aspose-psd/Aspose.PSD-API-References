@@ -1,29 +1,30 @@
 ---
-title: Enum ExifCustomRendered
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered αρίθμηση. exif custom rendered enum.
+title: "Enum ExifCustomRendered"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered enum. exif custom rendered enum"
 type: docs
-weight: 820
+weight: 830
 url: /el/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
-exif custom rendered enum.
+exif προσαρμοσμένο αποδομένο enum.
 
 ```csharp
 public enum ExifCustomRendered
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | NormalProcess | `0` | Κανονική διαδικασία απόδοσης. |
 | CustomProcess | `1` | Προσαρμοσμένη διαδικασία απόδοσης. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Delegate CompleteCallback
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Λειτουργία επανάκλησης για λήψη συμβάντος ολοκλήρωσης εργασίας.
+title: "Αντιπρόσωπος CompleteCallback"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Συνάρτηση κλήσης επιστροφής για λήψη του γεγονότος ολοκλήρωσης της εργασίας"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.asynctask/completecallback/
 ---
+{{< psd/tize >}}
 ## CompleteCallback delegate
 
-Λειτουργία επανάκλησης για λήψη συμβάντος ολοκλήρωσης εργασίας.
+Συνάρτηση επανάκλησης για λήψη του γεγονότος ολοκλήρωσης εργασίας.
 
 ```csharp
 public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Exception error);
@@ -17,13 +18,13 @@ public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Except
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | task | IAsyncTask | Η ασύγχρονη εργασία. |
-| wasCancelled | Boolean | εάν έχει οριστεί σε`αληθής` [ακυρώθηκε]. |
-| error | Exception | Το λάθος. |
+| wasCancelled | Boolean | αν οριστεί σε `true` [ακυρώθηκε]. |
+| σφάλμα | Exception | Το σφάλμα. |
 
 ### Δείτε επίσης
 
 * interface [IAsyncTask](../iasynctask/)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

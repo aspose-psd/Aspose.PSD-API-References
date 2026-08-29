@@ -1,28 +1,25 @@
 ---
-title: ImageOptionsBase.VectorRasterizationOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageOptionsBase ιδιοκτησία. Λαμβάνει ή ορίζει τις επιλογές διανυσματικής ραστεροποίησης.
+title: "ImageOptionsBase.VectorRasterizationOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ImageOptionsBase. Λαμβάνει ή ορίζει τις επιλογές διανυσματικής rasterization"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/imageoptionsbase/vectorrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.VectorRasterizationOptions property
 
-Λαμβάνει ή ορίζει τις επιλογές διανυσματικής ραστεροποίησης.
+Λαμβάνει ή ορίζει τις επιλογές διανυσματικής rasterization.
 
 ```csharp
 public VectorRasterizationOptions VectorRasterizationOptions { get; set; }
 ```
 
-### Αξία περιουσίας
-
-Οι επιλογές διανυσματικής ραστεροποίησης.
-
 ### Δείτε επίσης
 
 * class [VectorRasterizationOptions](../../../aspose.psd.imageoptions/vectorrasterizationoptions/)
 * class [ImageOptionsBase](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageoptionsbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShapeSegment ιδιοκτησία. Παίρνει το σημείο εκκίνησης.
+title: "ShapeSegment.StartPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ShapeSegment. Λαμβάνει το σημείο εκκίνησης"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
-Παίρνει το σημείο εκκίνησης.
+Λαμβάνει το σημείο εκκίνησης.
 
 ```csharp
 public abstract PointF StartPoint { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σημείο εκκίνησης.
 
@@ -22,7 +23,7 @@ public abstract PointF StartPoint { get; }
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* χώρος ονομάτων [Aspose.PSD](../../shapesegment/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

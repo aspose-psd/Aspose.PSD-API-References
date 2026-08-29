@@ -1,11 +1,12 @@
 ---
-title: Enum JpegLoadException.ErrorReason
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason αρίθμηση. Αντιπροσωπεύει τους λόγους του σφάλματος.
+title: "Απαρίθμηση JpegLoadException.ErrorReason"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason απαρίθμηση. Αντιπροσωπεύει τους λόγους του σφάλματος"
 type: docs
 weight: 560
 url: /el/net/aspose.psd.coreexceptions.imageformats/jpegloadexception.errorreason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.ErrorReason enumeration
 
 Αντιπροσωπεύει τους λόγους του σφάλματος.
@@ -14,17 +15,17 @@ url: /el/net/aspose.psd.coreexceptions.imageformats/jpegloadexception.errorreaso
 public enum ErrorReason
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | BasicError | `0` | Ο βασικός τύπος σφάλματος. |
-| NotEnoughData | `1` | Τα ανεπαρκή δεδομένα στη ροή. |
+| NotEnoughData | `1` | Η έλλειψη επαρκών δεδομένων στη ροή. |
 
 ### Δείτε επίσης
 
 * class [JpegLoadException](../jpegloadexception/)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

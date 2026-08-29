@@ -1,11 +1,12 @@
 ---
-title: Enum JfifDensityUnits
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits αρίθμηση. Οι μονάδες πυκνότητας jfif.
+title: "Απαρίθμηση JfifDensityUnits"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits. Οι μονάδες πυκνότητας jfif"
 type: docs
-weight: 1480
+weight: 1490
 url: /el/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
+{{< psd/tize >}}
 ## JfifDensityUnits enumeration
 
 Οι μονάδες πυκνότητας jfif.
@@ -14,17 +15,17 @@ url: /el/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 public enum JfifDensityUnits : byte
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| NoUnits | `0` | Δεν υπάρχουν μονάδες. |
+| NoUnits | `0` | Η απουσία μονάδων. |
 | PixelsPerInch | `1` | Τα pixel ανά ίντσα. |
-| PixelsPerCm | `2` | Τα pixel ανά cm. |
+| PixelsPerCm | `2` | Τα pixel ανά εκατοστό. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

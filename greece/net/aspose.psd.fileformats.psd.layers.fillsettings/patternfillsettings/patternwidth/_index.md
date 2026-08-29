@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PatternWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος του μοτίβου.
+title: "PatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει το πλάτος του μοτίβου"
 type: docs
-weight: 100
+weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternWidth property
 
 Λαμβάνει ή ορίζει το πλάτος του μοτίβου.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public int PatternWidth { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλάτος του σχεδίου.
+Το πλάτος του μοτίβου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώματος γεμίσματος.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώσης γεμίσματος.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

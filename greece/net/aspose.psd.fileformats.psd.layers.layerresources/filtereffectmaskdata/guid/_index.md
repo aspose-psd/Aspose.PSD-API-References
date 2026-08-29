@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.GUID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FilterEffectMaskData ιδιοκτησία. Λαμβάνει το GUID.
+title: "FilterEffectMaskData.GUID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FilterEffectMaskData. Λαμβάνει το GUID"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.GUID property
 
 Λαμβάνει το GUID.
@@ -14,9 +15,9 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public string GUID { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου FXidResource.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου FXidResource.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -48,7 +49,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// έλεγχος μετά την αποθήκευση
+// ελέγξτε μετά την αποθήκευση
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -64,7 +65,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 ### Δείτε επίσης
 
 * class [FilterEffectMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

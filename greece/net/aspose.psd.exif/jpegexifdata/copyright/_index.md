@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Copyright
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Αποκτά ή ορίζει τα πνευματικά δικαιώματα.
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει το δικαίωμα πνευματικής ιδιοκτησίας"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
-Αποκτά ή ορίζει τα πνευματικά δικαιώματα.
+Λαμβάνει ή ορίζει το δικαίωμα πνευματικής ιδιοκτησίας.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα πνευματικά δικαιώματα.
+Το δικαίωμα πνευματικής ιδιοκτησίας.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

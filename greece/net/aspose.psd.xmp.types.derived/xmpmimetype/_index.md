@@ -1,11 +1,12 @@
 ---
-title: Class XmpMimeType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpMimeType τάξη. Αντιπροσωπεύει τον τύπο MIME.
+title: "Κλάση XmpMimeType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Xmp.Types.Derived.XmpMimeType. Αντιπροσωπεύει τύπο MIME"
 type: docs
-weight: 6180
+weight: 6680
 url: /el/net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType class
 
 Αντιπροσωπεύει τον τύπο MIME.
@@ -16,30 +17,30 @@ public sealed class XmpMimeType : XmpText
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpMimeType](xmpmimetype/)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpMimeType` τάξη. |
+| [XmpMimeType](xmpmimetype/)(string) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `XmpMimeType`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή κειμένου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
-### Παρατηρήσεις
+## Σχόλια
 
-Τύπος MIME που ορίζεται στο IETF RFC 2046.
+Τύπος MIME ορίζεται στο IETF RFC 2046.
 
 ### Δείτε επίσης
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

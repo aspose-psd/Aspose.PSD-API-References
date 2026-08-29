@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο προσαρμογής Vibrance.
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει τη στρώση ρύθμισης Vibrance"
 type: docs
-weight: 430
+weight: 490
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-Προσθέτει το επίπεδο προσαρμογής Vibrance.
+Προσθέτει το Vibrance adjustment layer.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο επίπεδο Vibrance που δημιουργήθηκε.
+Μια νεοδημιουργημένη στρώση Vibrance.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη του επιπέδου VibranceLayer και τη δυνατότητα επεξεργασίας αυτής της προσαρμογής.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη της στρώσης VibranceLayer και τη δυνατότητα επεξεργασίας αυτής της ρύθμισης.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // Δημιουργία νέου VibranceLayer
+    // Δημιουργία μιας νέας VibranceLayer
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: GradientFillSettings.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα.
+title: "GradientFillSettings.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GradientFillSettings ιδιότητα. Λαμβάνει ή ορίζει το χρώμα"
 type: docs
-weight: 40
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Color property
 
-Παίρνει ή ρυθμίζει το χρώμα.
+Λαμβάνει ή ορίζει το χρώμα.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
@@ -22,7 +23,7 @@ public Color Color { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

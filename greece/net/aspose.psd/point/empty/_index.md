@@ -1,14 +1,15 @@
 ---
-title: Point.Empty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point ιδιοκτησία. Παίρνει μια νέα παρουσία τουPoint δομή που έχειX καιY τιμές ορίστηκαν στο μηδέν.
+title: "Point.Empty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Point. Λαμβάνει ένα νέο αντίτυπο της δομής Point που έχει τιμές X και Y μηδέν."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/point/empty/
 ---
+{{< psd/tize >}}
 ## Point.Empty property
 
-Παίρνει μια νέα παρουσία του[`Point`](../) δομή που έχει[`X`](../x/) και[`Y`](../y/) τιμές ορίστηκαν στο μηδέν.
+Λαμβάνει ένα νέο αντίτυπο της δομής [`Point`](../) που έχει τιμές [`X`](../x/) και [`Y`](../y/) μηδέν.
 
 ```csharp
 public static Point Empty { get; }
@@ -17,7 +18,7 @@ public static Point Empty { get; }
 ### Δείτε επίσης
 
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

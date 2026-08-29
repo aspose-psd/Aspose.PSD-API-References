@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Hue2Resource μέθοδος. Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
+title: "Hue2Resource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Hue2Resource. Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής"
 type: docs
-weight: 110
+weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Save method
 
 Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Hue2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

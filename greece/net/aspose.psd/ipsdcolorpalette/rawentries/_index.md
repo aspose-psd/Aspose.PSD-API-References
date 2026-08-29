@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntries
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPsdColorPalette ιδιοκτησία. Λαμβάνει τα δεδομένα καταχωρήσεων της παλέτας ακατέργαστων χρωμάτων.
+title: "IPsdColorPalette.RawEntries"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPsdColorPalette ιδιότητα. Αποκτά τα δεδομένα των ακατέργαστων καταχωρίσεων της παλέτας χρωμάτων"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/ipsdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntries property
 
-Λαμβάνει τα δεδομένα καταχωρήσεων της παλέτας ακατέργαστων χρωμάτων.
+Λαμβάνει τα ακατέργαστα δεδομένα καταχωρήσεων της παλέτας χρωμάτων.
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η παλέτα ακατέργαστων χρωμάτων εισάγει δεδομένα.
+Τα ακατέργαστα δεδομένα καταχωρήσεων παλέτας χρωμάτων.
 
 ### Δείτε επίσης
 
 * interface [IPsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD](../../ipsdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

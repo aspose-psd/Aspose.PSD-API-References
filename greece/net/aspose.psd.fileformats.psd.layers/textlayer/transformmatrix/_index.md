@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TransformMatrix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer ιδιοκτησία. Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού
+title: "TextLayer.TransformMatrix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TextLayer ιδιότητα. Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TextLayer.TransformMatrix property
 
 Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού
@@ -14,18 +15,18 @@ url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/
 public double[] TransformMatrix { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο πίνακας μετασχηματισμού
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει πώς να λάβετε μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο επίπεδο κειμένου.
+Ο παρακάτω κώδικας δείχνει πώς να λάβετε το μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο στρώμα κειμένου.
 
 ```csharp
 [C#]
 
-// Εξήχθη λάθος μέγεθος γραμματοσειράς 
+// Εξήχθη λανθασμένο μέγεθος γραμματοσειράς 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -33,7 +34,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Παλιό API (Χρησιμοποιώντας τη γραμματοσειρά της πρώτης παραγράφου)
+    // Παλαιό API (Χρήση της γραμματοσειράς της πρώτης παραγράφου)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -45,7 +46,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος πραγματικού μεγέθους γραμματοσειράς
+    // Έλεγχος του πραγματικού μεγέθους γραμματοσειράς
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -56,13 +57,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Έλεγχος του μεγέθους γραμματοσειράς του βασικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της βασικής περιοχής
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος μεγέθους γραμματοσειράς πραγματικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της πραγματικής περιοχής
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -73,7 +74,7 @@ using (var image = Image.Load(filePath))
 ### Δείτε επίσης
 
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

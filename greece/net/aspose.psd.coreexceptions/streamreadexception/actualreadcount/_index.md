@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamReadException ιδιοκτησία. Λαμβάνει τον πραγματικό αριθμό των byte ανάγνωσης.
+title: "StreamReadException.ActualReadCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StreamReadException. Επιστρέφει τον πραγματικό αριθμό διαβασμένων byte"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
-Λαμβάνει τον πραγματικό αριθμό των byte ανάγνωσης.
+Λαμβάνει τον πραγματικό αριθμό διαβασμένων byte.
 
 ```csharp
 public int ActualReadCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πραγματικό byte ανάγνωσης μετράει.
+The πραγματικός αριθμός των διαβασμένων byte.
 
 ### Δείτε επίσης
 
 * class [StreamReadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

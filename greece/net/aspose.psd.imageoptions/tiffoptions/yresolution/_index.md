@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την ανάλυση y.
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την ανάλυση y."
 type: docs
-weight: 690
+weight: 700
 url: /el/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
 Λαμβάνει ή ορίζει την ανάλυση y.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 public TiffRational Yresolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ανάλυση y.
 
@@ -22,7 +23,7 @@ public TiffRational Yresolution { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

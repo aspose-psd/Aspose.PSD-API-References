@@ -1,11 +1,12 @@
 ---
-title: Interface IBufferProcessor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IBufferProcessor διεπαφή. Ο επεξεργαστής buffer.
+title: "Διεπαφή IBufferProcessor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.IBufferProcessor διεπαφή. Ο επεξεργαστής buffer"
 type: docs
-weight: 4370
+weight: 4840
 url: /el/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
 Ο επεξεργαστής buffer.
@@ -16,13 +17,13 @@ public interface IBufferProcessor
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Επεξεργάζεται το buffer. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

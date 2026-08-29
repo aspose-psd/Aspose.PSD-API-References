@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Διαβάζει έναν πίνακα τιμών byte από τη ροή.
+title: "TiffStreamReader.ReadBytes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamReader. Διαβάζει έναν πίνακα τιμών byte από τη ροή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
 ---
+{{< psd/tize >}}
 ## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
-Διαβάζει έναν πίνακα τιμών byte από τη ροή.
+Διαβάζει έναν πίνακα τιμών byte από το ρεύμα.
 
 ```csharp
 public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
@@ -16,26 +17,26 @@ public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| array | Byte[] | Ο πίνακας που θα γεμίσει. |
-| arrayIndex | Int32 | Το ευρετήριο πίνακα για να αρχίσει να βάζει τιμές. |
-| position | Int64 | Η θέση ροής για ανάγνωση. |
-| count | Int64 | Τα στοιχεία μετράνε για ανάγνωση. |
+| array | Byte[] | Ο πίνακας προς γέμισμα. |
+| arrayIndex | Int32 | Ο δείκτης πίνακα από όπου θα αρχίσει η τοποθέτηση τιμών. |
+| θέση | Int64 | Η θέση της ροής από την οποία θα διαβαστεί. |
+| πλήθος | Int64 | Ο αριθμός των στοιχείων προς ανάγνωση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο πίνακας τιμών byte.
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReadBytes(long, long) {#readbytes}
 
-Διαβάζει έναν πίνακα ανυπόγραφων τιμών byte από τη ροή.
+Διαβάζει έναν πίνακα τιμών μη υπογεγραμμένων byte από το ρεύμα.
 
 ```csharp
 public byte[] ReadBytes(long position, long count)
@@ -43,17 +44,17 @@ public byte[] ReadBytes(long position, long count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
-| count | Int64 | Τα στοιχεία μετράνε. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
+| πλήθος | Int64 | Ο αριθμός των στοιχείων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας των ανυπόγραφων τιμών byte.
+Ο πίνακας αμετάβλητων τιμών byte.
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

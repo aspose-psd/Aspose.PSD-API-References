@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BrightnessContrastLayer ιδιοκτησία. Λαμβάνει ή ρυθμίζει την αντίθεση. Για PS το εύρος αντίθεσης είναι από 50 έως 100. Αλλά το αγνοούμε αυτό.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BrightnessContrastLayer. Λαμβάνει ή ορίζει την αντίθεση. Για το PS το εύρος της αντίθεσης είναι από 50 έως 100. Αλλά το αγνοούμε αυτό."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-Λαμβάνει ή ρυθμίζει την αντίθεση. Για PS το εύρος αντίθεσης είναι από -50 έως +100. Αλλά το αγνοούμε αυτό.
+Αποκτά ή ορίζει την αντίθεση. Για το PS το εύρος της αντίθεσης είναι από -50 έως +100. Αλλά το αγνοούμε.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η αντίθεση.
 
 ### Δείτε επίσης
 
 * class [BrightnessContrastLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

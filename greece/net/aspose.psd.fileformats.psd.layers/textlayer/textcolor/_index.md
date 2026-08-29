@@ -1,34 +1,35 @@
 ---
-title: TextLayer.TextColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer ιδιοκτησία. Παίρνει το χρώμα του κειμένου.
+title: "TextLayer.TextColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TextLayer ιδιότητα. Λαμβάνει το χρώμα του κειμένου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextColor property
 
-Παίρνει το χρώμα του κειμένου.
+Λαμβάνει το χρώμα του κειμένου.
 
 ```csharp
 public Color TextColor { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα του κειμένου.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Σφάλμα ανάλυσης των δεδομένων έγχρωμων στοιχείων |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Σφάλμα κατά την ανάλυση των δεδομένων του στοιχείου χρώματος |
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

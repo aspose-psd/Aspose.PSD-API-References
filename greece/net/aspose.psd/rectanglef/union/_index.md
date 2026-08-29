@@ -1,11 +1,12 @@
 ---
-title: RectangleF.Union
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF μέθοδος. Δημιουργεί το μικρότερο δυνατό τρίτο ορθογώνιο που μπορεί να περιέχει και τα δύο ορθογώνια που σχηματίζουν ένωση.
+title: "RectangleF.Union"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleF. Δημιουργεί το μικρότερο δυνατό τρίτο ορθογώνιο που μπορεί να περιέχει και τα δύο ορθογώνια που σχηματίζουν ένωση"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/rectanglef/union/
 ---
+{{< psd/tize >}}
 ## RectangleF.Union method
 
 Δημιουργεί το μικρότερο δυνατό τρίτο ορθογώνιο που μπορεί να περιέχει και τα δύο ορθογώνια που σχηματίζουν ένωση.
@@ -16,17 +17,17 @@ public static RectangleF Union(RectangleF a, RectangleF b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | RectangleF | Ένα πρώτο ορθογώνιο προς ένωση. |
-| b | RectangleF | Ένα δεύτερο ορθογώνιο προς ένωση. |
+| α | RectangleF | Το πρώτο ορθογώνιο για ένωση. |
+| β | RectangleF | Το δεύτερο ορθογώνιο για ένωση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ενα τρίτο[`RectangleF`](../) δομή που περιέχει και τα δύο ορθογώνια που σχηματίζουν την ένωση.
+Τρίτη δομή [`RectangleF`](../) που περιέχει και τα δύο ορθογώνια που σχηματίζουν την ένωση.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

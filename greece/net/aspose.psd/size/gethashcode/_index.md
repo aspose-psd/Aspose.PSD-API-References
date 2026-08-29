@@ -1,27 +1,28 @@
 ---
-title: Size.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτόSizeδομή.
+title: "Size.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Size. Επιστρέφει έναν κωδικό κατακερματισμού για αυτή τη δομή Size."
 type: docs
 weight: 120
 url: /el/net/aspose.psd/size/gethashcode/
 ---
+{{< psd/tize >}}
 ## Size.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτό[`Size`](../)δομή.
+Επιστρέφει έναν κωδικό κατακερματισμού για αυτή τη δομή [`Size`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια ακέραια τιμή που καθορίζει μια τιμή κατακερματισμού για αυτό[`Size`](../) δομή.
+Μια ακέραια τιμή που καθορίζει μια τιμή κατακερματισμού για αυτή τη δομή [`Size`](../).
 
 ### Δείτε επίσης
 
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

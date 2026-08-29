@@ -1,14 +1,15 @@
 ---
-title: Point.op_Inequality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Συγκρίνει δύοPoint αντικείμενα. Το αποτέλεσμα καθορίζει εάν οι τιμές τουX ήY ιδιότητες των δύοPoint τα αντικείμενα είναι άνισα.
+title: "Point.op_Inequality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Συγκρίνει δύο αντικείμενα Point. Το αποτέλεσμα καθορίζει εάν οι τιμές των ιδιοτήτων X ή Y των δύο αντικειμένων Point είναι διαφορετικές."
 type: docs
 weight: 190
 url: /el/net/aspose.psd/point/op_inequality/
 ---
+{{< psd/tize >}}
 ## Point Inequality operator
 
-Συγκρίνει δύο[`Point`](../) αντικείμενα. Το αποτέλεσμα καθορίζει εάν οι τιμές του[`X`](../x/) ή[`Y`](../y/) ιδιότητες των δύο[`Point`](../) τα αντικείμενα είναι άνισα.
+Συγκρίνει δύο αντικείμενα [`Point`](../). Το αποτέλεσμα καθορίζει εάν οι τιμές των ιδιοτήτων [`X`](../x/) ή [`Y`](../y/) των δύο αντικειμένων [`Point`](../) είναι διαφορετικές.
 
 ```csharp
 public static bool operator !=(Point point1, Point point2)
@@ -16,17 +17,17 @@ public static bool operator !=(Point point1, Point point2)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point1 | Point | Μια πρωτιά[`Point`](../) να συγκρίνω. |
-| point2 | Point | Ενα δεύτερο[`Point`](../) να συγκρίνω. |
+| point1 | Point | Ένα πρώτο [`Point`](../) για σύγκριση. |
+| point2 | Point | Ένα δεύτερο [`Point`](../) για σύγκριση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Σωστό αν οι τιμές είτε των[`X`](../x/) ιδιότητες ή το[`Y`](../y/) ιδιότητες του*point1* και*point2* διαφέρω; αλλιώς, ψευδής.
+Αληθές εάν οι τιμές είτε των ιδιοτήτων [`X`](../x/) είτε των ιδιοτήτων [`Y`](../y/) του *point1* και *point2* διαφέρουν· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

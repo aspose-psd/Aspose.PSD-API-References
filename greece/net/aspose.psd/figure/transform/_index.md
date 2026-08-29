@@ -1,11 +1,12 @@
 ---
-title: Figure.Transform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Figure μέθοδος. Εφαρμόζει τον καθορισμένο μετασχηματισμό στο σχήμα.
+title: "Figure.Transform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Figure. Εφαρμόζει τον καθορισμένο μετασχηματισμό στο σχήμα"
 type: docs
 weight: 120
 url: /el/net/aspose.psd/figure/transform/
 ---
+{{< psd/tize >}}
 ## Figure.Transform method
 
 Εφαρμόζει τον καθορισμένο μετασχηματισμό στο σχήμα.
@@ -16,13 +17,13 @@ public override void Transform(Matrix transform)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| transform | Matrix | Ο μετασχηματισμός για εφαρμογή. |
+| transform | Matrix | Ο μετασχηματισμός που θα εφαρμοστεί. |
 
 ### Δείτε επίσης
 
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* χώρος ονομάτων [Aspose.PSD](../../figure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

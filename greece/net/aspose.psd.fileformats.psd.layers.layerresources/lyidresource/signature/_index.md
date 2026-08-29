@@ -1,14 +1,15 @@
 ---
-title: LyidResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LyidResource ιδιοκτησία. Παίρνει την υπογραφή.
+title: "LyidResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LyidResource. Επιστρέφει την υπογραφή"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/
 ---
+{{< psd/tize >}}
 ## LyidResource.Signature property
 
-Παίρνει την υπογραφή.
+Λαμβάνει την υπογραφή.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [LyidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

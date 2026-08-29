@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftBottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleProjectedShape ιδιοκτησία. Λαμβάνει το αριστερό κάτω ορθογώνιο σημείο.
+title: "RectangleProjectedShape.LeftBottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RectangleProjectedShape. Λαμβάνει το αριστερό κάτω σημείο του ορθογωνίου."
 type: docs
 weight: 50
 url: /el/net/aspose.psd.shapes/rectangleprojectedshape/leftbottom/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftBottom property
 
-Λαμβάνει το αριστερό κάτω ορθογώνιο σημείο.
+Λαμβάνει το αριστερό κάτω σημείο του ορθογωνίου.
 
 ```csharp
 public PointF LeftBottom { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αριστερό κάτω ορθογώνιο σημείο.
+Το αριστερό κάτω σημείο του ορθογωνίου.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

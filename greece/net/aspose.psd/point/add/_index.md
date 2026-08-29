@@ -1,14 +1,15 @@
 ---
-title: Point.Add
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Προσθέτει το καθορισμένοSize στο καθορισμένοPoint .
+title: "Point.Add"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Point μέθοδος. Προσθέτει το καθορισμένο Size στο καθορισμένο Point"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-Προσθέτει το καθορισμένο[`Size`](../../size/) στο καθορισμένο[`Point`](../) .
+Προσθέτει το καθορισμένο [`Size`](../../size/) στο καθορισμένο [`Point`](../).
 
 ```csharp
 public static Point Add(Point point, Size size)
@@ -16,18 +17,18 @@ public static Point Add(Point point, Size size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../) για να προσθέσετε σε. |
-| size | Size | ο[`Size`](../../size/) για να προσθέσετε στο*point*. |
+| point | Point | Το [`Point`](../) στο οποίο θα προστεθεί. |
+| size | Size | Το [`Size`](../../size/) για προσθήκη στο *point*. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Point`](../) που είναι το αποτέλεσμα της πράξης πρόσθεσης.
+Το [`Point`](../) που είναι το αποτέλεσμα της λειτουργίας πρόσθεσης.
 
 ### Δείτε επίσης
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

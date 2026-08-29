@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.LineSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RawDataSettings ιδιοκτησία. Λαμβάνει ή ορίζει το μέγεθος της γραμμής των pixel σε byte για την επεξεργασία μη επεξεργασμένων δεδομένων
+title: "RawDataSettings.LineSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RawDataSettings. Λαμβάνει ή ορίζει το μέγεθος γραμμής εικονοστοιχείων σε bytes για την επεξεργασία ακατέργαστων δεδομένων"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/rawdatasettings/linesize/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.LineSize property
 
-Λαμβάνει ή ορίζει το μέγεθος της γραμμής των pixel σε byte για την επεξεργασία μη επεξεργασμένων δεδομένων
+Λαμβάνει ή ορίζει το μέγεθος γραμμής pixel σε byte για την επεξεργασία ακατέργαστων δεδομένων
 
 ```csharp
 public int LineSize { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μέγεθος γραμμής των εικονοστοιχείων σε byte για επεξεργασία ακατέργαστων δεδομένων
+Το μέγεθος γραμμής εικονοστοιχείων σε bytes για την επεξεργασία ακατέργαστων δεδομένων
 
 ### Δείτε επίσης
 
 * class [RawDataSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../rawdatasettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

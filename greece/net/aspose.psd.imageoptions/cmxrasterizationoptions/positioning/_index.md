@@ -1,20 +1,21 @@
 ---
-title: CmxRasterizationOptions.Positioning
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmxRasterizationOptions ιδιοκτησία. Λαμβάνει ή ορίζει την τοποθέτηση.
+title: "CmxRasterizationOptions.Positioning"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CmxRasterizationOptions property. Λαμβάνει ή ορίζει τη τοποθέτηση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions.Positioning property
 
-Λαμβάνει ή ορίζει την τοποθέτηση.
+Λαμβάνει ή ορίζει τη θέση.
 
 ```csharp
 public PositioningTypes Positioning { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τοποθέτηση.
 
@@ -22,7 +23,7 @@ public PositioningTypes Positioning { get; set; }
 
 * enum [PositioningTypes](../../positioningtypes/)
 * class [CmxRasterizationOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

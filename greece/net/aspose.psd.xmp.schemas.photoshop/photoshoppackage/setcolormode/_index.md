@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetColorMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ρυθμίζει τη λειτουργία χρώματος.
+title: "PhotoshopPackage.SetColorMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage μέθοδος. Ορίζει τη λειτουργία χρώματος"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetColorMode method
 
-Ρυθμίζει τη λειτουργία χρώματος.
+Ορίζει τη λειτουργία χρώματος.
 
 ```csharp
 public void SetColorMode(ColorMode colorMode)
@@ -22,7 +23,7 @@ public void SetColorMode(ColorMode colorMode)
 
 * enum [ColorMode](../../colormode/)
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

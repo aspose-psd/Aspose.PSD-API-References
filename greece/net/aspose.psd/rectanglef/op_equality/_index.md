@@ -1,14 +1,15 @@
 ---
-title: RectangleF.op_Equality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF μέθοδος. Ελέγχει εάν δύοRectangleF οι δομές έχουν ίση θέση και μέγεθος.
+title: "RectangleF.op_Equality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleF. Ελέγχει εάν δύο δομές RectangleF έχουν ίση θέση και μέγεθος"
 type: docs
 weight: 270
 url: /el/net/aspose.psd/rectanglef/op_equality/
 ---
+{{< psd/tize >}}
 ## RectangleF Equality operator
 
-Ελέγχει εάν δύο[`RectangleF`](../) οι δομές έχουν ίση θέση και μέγεθος.
+Ελέγχει εάν δύο δομές [`RectangleF`](../) έχουν ίση θέση και μέγεθος.
 
 ```csharp
 public static bool operator ==(RectangleF left, RectangleF right)
@@ -16,17 +17,17 @@ public static bool operator ==(RectangleF left, RectangleF right)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | RectangleF | ο[`RectangleF`](../) δομή που βρίσκεται στα αριστερά του τελεστή ισότητας. |
-| right | RectangleF | ο[`RectangleF`](../)δομή που βρίσκεται στα δεξιά του τελεστή ισότητας. |
+| left | RectangleF | Η δομή [`RectangleF`](../) που βρίσκεται αριστερά του τελεστή ισότητας. |
+| right | RectangleF | Η δομή [`RectangleF`](../) που βρίσκεται δεξιά του τελεστή ισότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτός ο τελεστής επιστρέφει true εάν τα δύο καθορίζονται[`RectangleF`](../) οι δομές έχουν ίσες[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , και[`Height`](../height/) ιδιότητες.
+Αυτός ο τελεστής επιστρέφει true εάν οι δύο καθορισμένες δομές [`RectangleF`](../) έχουν ίσες ιδιότητες [`X`](../x/), [`Y`](../y/), [`Width`](../width/) και [`Height`](../height/).
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

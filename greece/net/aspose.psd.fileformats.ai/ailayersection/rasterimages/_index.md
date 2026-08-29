@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει τις εικόνες ράστερ.
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει τις raster εικόνες"
 type: docs
-weight: 120
+weight: 140
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
-Λαμβάνει τις εικόνες ράστερ.
+Λαμβάνει τις raster εικόνες.
 
 ```csharp
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι εικόνες ράστερ.
+Οι raster εικόνες.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τον τρόπο φόρτωσης των ρυθμίσεων των εικόνων ράστερ σε αρχεία μορφής AI.
+Ο παρακάτω κώδικας δείχνει πώς να φορτώσετε τις ρυθμίσεις των Raster Images σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

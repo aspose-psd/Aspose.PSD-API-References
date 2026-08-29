@@ -1,28 +1,29 @@
 ---
-title: ExifData.DigitalZoomRatio
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει την αναλογία ψηφιακού ζουμ.
+title: "ExifData.DigitalZoomRatio"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει το λόγο ψηφιακού ζουμ"
 type: docs
 weight: 160
 url: /el/net/aspose.psd.exif/exifdata/digitalzoomratio/
 ---
+{{< psd/tize >}}
 ## ExifData.DigitalZoomRatio property
 
-Λαμβάνει ή ρυθμίζει την αναλογία ψηφιακού ζουμ.
+Λαμβάνει ή ορίζει τον λόγο ψηφιακού ζουμ.
 
 ```csharp
 public TiffRational DigitalZoomRatio { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αναλογία ψηφιακού ζουμ.
+Ο λόγος ψηφιακού ζουμ.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

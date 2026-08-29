@@ -1,32 +1,33 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectLayer ιδιοκτησία. Λαμβάνει ή ορίζει τα περιεχόμενα του επιπέδου έξυπνου αντικειμένου. Τα περιεχόμενα του ενσωματωμένου έξυπνου αντικειμένου είναι το ενσωματωμένο αρχείο πρωτογενούς εικόναςData και τις ιδιότητές του. Τα περιεχόμενα συνδεδεμένου έξυπνου αντικειμένου είναι το μη επεξεργασμένο περιεχόμενο του συνδεδεμένου αρχείου εικόνας εάν είναι διαθέσιμο και οι ιδιότητές τουLiFeDataSource . Δεν υποστηρίζεται η φόρτωση από το Adobe Photoshop  Βιβλιοθήκη γραφικών ότανIsLibraryLink είναι αλήθεια. Για κανονικά αρχεία συνδέσμων αρχικά χρησιμοποιούμεRelativePath για να αναζητήσετε το αρχείο relative στη διαδρομή της εικόνας προέλευσηςSourceImagePath  αν δεν είναι διαθέσιμο κοιτάμεFullPath  αν όχι τότε αναζητούμε το αρχείο συνδέσμου στον ίδιο κατάλογο όπου βρίσκεται η εικόνα μαςSourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectLayer. Λαμβάνει ή ορίζει τα περιεχόμενα του επιπέδου έξυπνου αντικειμένου. Το ενσωματωμένο περιεχόμενο έξυπνου αντικειμένου είναι το ενσωματωμένο ακατέργαστο αρχείο εικόνας Data και οι ιδιότητές του. Το συνδεδεμένο περιεχόμενο έξυπνου αντικειμένου είναι το ακατέργαστο περιεχόμενο του συνδεδεμένου αρχείου εικόνας εάν είναι διαθέσιμο και οι ιδιότητές του LiFeDataSource. Δεν υποστηρίζουμε τη φόρτωση από τη βιβλιοθήκη γραφικών Adobe Photoshop όταν το IsLibraryLink είναι true. Για κανονικά αρχεία συνδέσμου, αρχικά χρησιμοποιούμε το RelativePath για να αναζητήσουμε το αρχείο σχετικά με τη διαδρομή της πηγαίας εικόνας SourceImagePath· εάν δεν είναι διαθέσιμο, κοιτάζουμε το FullPath· αν όχι, τότε αναζητούμε το αρχείο συνδέσμου στον ίδιο φάκελο όπου βρίσκεται η εικόνα μας SourceImagePath."
 type: docs
-weight: 10
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-Λαμβάνει ή ορίζει τα περιεχόμενα του επιπέδου έξυπνου αντικειμένου. Τα περιεχόμενα του ενσωματωμένου έξυπνου αντικειμένου είναι το ενσωματωμένο αρχείο πρωτογενούς εικόνας:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) και τις ιδιότητές του. Τα περιεχόμενα συνδεδεμένου έξυπνου αντικειμένου είναι το μη επεξεργασμένο περιεχόμενο του συνδεδεμένου αρχείου εικόνας, εάν είναι διαθέσιμο και οι ιδιότητές του:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Δεν υποστηρίζεται η φόρτωση από το Adobe� Photoshop� �� Βιβλιοθήκη γραφικών όταν[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) είναι αλήθεια. Για κανονικά αρχεία συνδέσμων, αρχικά, χρησιμοποιούμε[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) για να αναζητήσετε το αρχείο relative στη διαδρομή της εικόνας προέλευσηςSourceImagePath , αν δεν είναι διαθέσιμο κοιτάμε[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , αν όχι τότε αναζητούμε το αρχείο συνδέσμου στον ίδιο κατάλογο όπου βρίσκεται η εικόνα μας:SourceImagePath .
+Λαμβάνει ή ορίζει τα περιεχόμενα του επιπέδου έξυπνου αντικειμένου. Το ενσωματωμένο περιεχόμενο έξυπνου αντικειμένου είναι το ενσωματωμένο ακατέργαστο αρχείο εικόνας: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) και οι ιδιότητές του. Το συνδεδεμένο περιεχόμενο έξυπνου αντικειμένου είναι το ακατέργαστο περιεχόμενο του συνδεδεμένου αρχείου εικόνας εάν είναι διαθέσιμο και οι ιδιότητές του: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). Δεν υποστηρίζουμε τη φόρτωση από τη βιβλιοθήκη γραφικών Adobe Photoshop όταν το [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) είναι true. Για κανονικά αρχεία συνδέσμου, αρχικά χρησιμοποιούμε το [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) για να αναζητήσουμε το αρχείο σχετικά με τη διαδρομή της πηγαίας εικόνας SourceImagePath· εάν δεν είναι διαθέσιμο, κοιτάζουμε το [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), αν όχι, τότε αναζητούμε το αρχείο συνδέσμου στον ίδιο φάκελο όπου βρίσκεται η εικόνα μας: SourceImagePath.
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τοbyte[] περιεχόμενα επιπέδου έξυπνου αντικειμένου.
+Τα περιεχόμενα του επιπέδου έξυπνου αντικειμένου byte[].
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| NotSupportedException | Δεν είναι δυνατή η λήψη περιεχομένου από τη βιβλιοθήκη Adobe Photoshop. |
+| NotSupportedException | Δεν είναι δυνατή η λήψη των περιεχομένων από τη βιβλιοθήκη Adobe Photoshop. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη ενσωματωμένων έξυπνων αντικειμένων.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των ενσωματωμένων Smart objects.
 
 ```csharp
 [C#]
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Αυτό το παράδειγμα δείχνει τον τρόπο αλλαγής του επιπέδου έξυπνου αντικειμένου στο αρχείο PSD και εξαγωγής/ενημέρωσης του αρχικού ενσωματωμένου περιεχομένου του έξυπνου αντικειμένου.
+// Αυτό το παράδειγμα δείχνει πώς να αλλάξετε το επίπεδο smart object στο αρχείο PSD και να εξάγετε / ενημερώσετε τα αρχικά ενσωματωμένα περιεχόμενα του smart object.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,10 +69,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Ας εξάγουμε την εικόνα του ενσωματωμένου έξυπνου αντικειμένου από το επίπεδο έξυπνου αντικειμένου PSD
+        // Ας εξάγουμε την ενσωματωμένη εικόνα smart object από το επίπεδο smart object του PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Ας ελέγξουμε αν η αρχική εικόνα έχει αποθηκευτεί σωστά
+        // Ας ελέγξουμε αν η αρχική εικόνα αποθηκεύτηκε σωστά
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -79,7 +80,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Ας αντιστρέψουμε την αρχική εικόνα έξυπνου αντικειμένου
+            // Ας αντιστρέψουμε την αρχική εικόνα smart object
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -90,11 +91,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Ας αντικαταστήσουμε την εικόνα του ενσωματωμένου έξυπνου αντικειμένου στο επίπεδο PSD
+            // Ας αντικαταστήσουμε την ενσωματωμένη εικόνα smart object στο επίπεδο PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Ας ελέγξουμε αν η ενημερωμένη εικόνα έχει αποθηκευτεί σωστά
+        // Ας ελέγξουμε αν η ενημερωμένη εικόνα αποθηκεύτηκε σωστά
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -104,7 +105,7 @@ foreach (FileFormat format in formats)
 ### Δείτε επίσης
 
 * class [SmartObjectLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

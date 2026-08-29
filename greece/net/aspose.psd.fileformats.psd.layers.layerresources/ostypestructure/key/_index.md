@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructure ιδιοκτησία. Λαμβάνει το κλειδί δομής.
+title: "OSTypeStructure.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα OSTypeStructure. Λαμβάνει το κλειδί της δομής"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Key property
 
-Λαμβάνει το κλειδί δομής.
+Λαμβάνει το κλειδί της δομής.
 
 ```csharp
 public abstract int Key { get; }
@@ -17,7 +18,7 @@ public abstract int Key { get; }
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

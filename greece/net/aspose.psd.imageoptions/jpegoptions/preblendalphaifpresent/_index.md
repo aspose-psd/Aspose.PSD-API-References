@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.PreblendAlphaIfPresent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα κόκκινα πράσινα και μπλε στοιχεία πρέπει να αναμειχθούν με χρώμα φόντου εάν υπάρχει κανάλι άλφα.
+title: "JpegOptions.PreblendAlphaIfPresent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegOptions. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα κόκκινα, πράσινα και μπλε συστατικά πρέπει να αναμειχθούν με ένα χρώμα φόντου εάν υπάρχει κανάλι άλφα"
 type: docs
-weight: 130
+weight: 140
 url: /el/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
+{{< psd/tize >}}
 ## JpegOptions.PreblendAlphaIfPresent property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα κόκκινα, πράσινα και μπλε στοιχεία πρέπει να αναμειχθούν με χρώμα φόντου, εάν υπάρχει κανάλι άλφα.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα κόκκινα, πράσινα και μπλε συστατικά πρέπει να αναμειχθούν με ένα χρώμα φόντου, εάν υπάρχει κανάλι άλφα.
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }
@@ -17,7 +18,7 @@ public bool PreblendAlphaIfPresent { get; set; }
 ### Δείτε επίσης
 
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

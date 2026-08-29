@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.ThumbnailResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "ThumbnailResource.ThumbnailResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ThumbnailResource. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailresource/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public ThumbnailResource()
 ### Δείτε επίσης
 
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

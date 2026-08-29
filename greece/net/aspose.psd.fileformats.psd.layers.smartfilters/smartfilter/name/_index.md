@@ -1,20 +1,21 @@
 ---
-title: SmartFilter.Name
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartFilter ιδιοκτησία. Λαμβάνει το όνομα έξυπνου φίλτρου.
+title: "SmartFilter.Name"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartFilter. Λαμβάνει το όνομα του έξυπνου φίλτρου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Name property
 
-Λαμβάνει το όνομα έξυπνου φίλτρου.
+Λαμβάνει το όνομα του έξυπνου φίλτρου.
 
 ```csharp
 public abstract string Name { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
 Αυτό το παράδειγμα δείχνει την υποστήριξη της διεπαφής έξυπνων φίλτρων.
 
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // Επεξεργασία έξυπνων φίλτρων
+    // επεξεργασία έξυπνων φίλτρων
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // έλεγχος τιμών φίλτρου
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Δείτε επίσης
 
 * class [SmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

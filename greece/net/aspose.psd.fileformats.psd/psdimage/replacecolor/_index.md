@@ -1,14 +1,15 @@
 ---
-title: PsdImage.ReplaceColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Αντικαθιστά το ένα χρώμα στο άλλο με την επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων.
+title: "PsdImage.ReplaceColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdImage μέθοδος. Αντικαθιστά ένα χρώμα με άλλο με επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για να διατηρήσει ομαλές άκρες"
 type: docs
-weight: 570
+weight: 630
 url: /el/net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceColor method
 
-Αντικαθιστά το ένα χρώμα στο άλλο με την επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων.
+Αντικαθιστά ένα χρώμα με άλλο με επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για τη διατήρηση ομαλών άκρων.
 
 ```csharp
 public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
@@ -16,14 +17,14 @@ public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newCo
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| oldColorArgb | Int32 | Παλιά τιμή ARGB χρώματος προς αντικατάσταση. |
-| oldColorDiff | Byte | Επιτρέπεται η διαφορά στο παλιό χρώμα για να μπορεί να διευρυνθεί ο αντικατασταμένος χρωματικός τόνος. |
-| newColorArgb | Int32 | Νέα τιμή χρώματος ARGB για αντικατάσταση του παλιού χρώματος. |
+| oldColorArgb | Int32 | Τιμή ARGB του παλιού χρώματος προς αντικατάσταση. |
+| oldColorDiff | Byte | Επιτρεπόμενη διαφορά στο παλιό χρώμα για να μπορέσει να διευρυνθεί ο τόνος του αντικατεστημένου χρώματος. |
+| newColorArgb | Int32 | Νέα τιμή ARGB χρώματος για αντικατάσταση του παλιού χρώματος. |
 
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

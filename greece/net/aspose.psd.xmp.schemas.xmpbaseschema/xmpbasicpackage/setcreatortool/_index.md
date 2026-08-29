@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetCreatorTool
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage μέθοδος. Ορίζει το εργαλείο δημιουργού.
+title: "XmpBasicPackage.SetCreatorTool"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpBasicPackage μέθοδος. Ορίζει το εργαλείο δημιουργού"
 type: docs
-weight: 40
+weight: 60
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetCreatorTool method
 
 Ορίζει το εργαλείο δημιουργού.
@@ -16,12 +17,12 @@ public void SetCreatorTool(string creatorTool)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| creatorTool | String | Όνομα εργαλείου. |
+| creatorTool | String | Όνομα του εργαλείου. |
 
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

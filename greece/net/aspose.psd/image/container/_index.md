@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λαμβάνει τοImage δοχείο.
+title: "Image.Container"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Image. Λαμβάνει το κοντέινερ Image"
 type: docs
 weight: 80
 url: /el/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-Λαμβάνει το[`Image`](../) δοχείο.
+Λαμβάνει το κοντέινερ [`Image`](../).
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`Image`](../) δοχείο.
+Το [`Image`](../) κοντέινερ.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Εάν αυτή η ιδιότητα δεν είναι μηδενική, σημαίνει ότι η εικόνα περιέχεται σε άλλη εικόνα.
+Εάν αυτή η ιδιότητα δεν είναι null, υποδεικνύει ότι η εικόνα περιέχεται μέσα σε άλλη εικόνα.
 
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

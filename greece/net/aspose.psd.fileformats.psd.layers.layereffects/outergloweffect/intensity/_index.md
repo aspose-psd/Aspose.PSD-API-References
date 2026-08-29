@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OuterGlowEffect ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη γωνία σε μοίρες.
+title: "OuterGlowEffect.Intensity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OuterGlowEffect ιδιότητα. Λαμβάνει ή ορίζει τη γωνία σε μοίρες"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
-Λαμβάνει ή ρυθμίζει τη γωνία σε μοίρες.
+Λαμβάνει ή ορίζει τη γωνία σε μοίρες.
 
 ```csharp
 public int Intensity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η γωνία.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη OuterGlowEffect.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Δείτε επίσης
 
 * class [OuterGlowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

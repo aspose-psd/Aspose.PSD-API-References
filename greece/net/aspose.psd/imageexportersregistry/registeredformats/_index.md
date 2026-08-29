@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageExportersRegistry ιδιοκτησία. Λαμβάνει τις καταχωρημένες μορφές εξαγωγής.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageExportersRegistry ιδιότητα. Λαμβάνει τις καταχωρημένες μορφές εξαγωγής"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
 Λαμβάνει τις καταχωρημένες μορφές εξαγωγής.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/imageexportersregistry/registeredformats/
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι καταχωρημένες μορφές εξαγωγής.
 
@@ -22,7 +23,7 @@ public static FileFormat RegisteredFormats { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageexportersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

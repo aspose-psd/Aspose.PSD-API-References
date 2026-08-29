@@ -1,28 +1,29 @@
 ---
-title: PsdImage.RawDataFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει τη μορφή πρωτογενών δεδομένων.
+title: "PsdImage.RawDataFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει τη μορφή ακατέργαστων δεδομένων"
 type: docs
 weight: 220
 url: /el/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.RawDataFormat property
 
-Λαμβάνει τη μορφή πρωτογενών δεδομένων.
+Λαμβάνει τη μορφή ακατέργαστων δεδομένων.
 
 ```csharp
 public override PixelDataFormat RawDataFormat { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μορφή πρωτογενών δεδομένων.
+Η μορφή των ακατέργαστων δεδομένων.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../../../aspose.psd/pixeldataformat/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

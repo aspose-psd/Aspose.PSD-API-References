@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.MinimalVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PrintScaleResource ιδιοκτησία. Αποκτά την ελάχιστη απαιτούμενη έκδοση PSD.
+title: "PrintScaleResource.MinimalVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PrintScaleResource ιδιότητα. Λαμβάνει την ελάχιστη απαιτούμενη έκδοση PSD"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/printscaleresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.MinimalVersion property
 
-Αποκτά την ελάχιστη απαιτούμενη έκδοση PSD.
+Λαμβάνει την ελάχιστη απαιτούμενη έκδοση PSD.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η minimal έκδοση PSD.
+Η ελάχιστη έκδοση PSD.
 
 ### Δείτε επίσης
 
 * class [PrintScaleResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

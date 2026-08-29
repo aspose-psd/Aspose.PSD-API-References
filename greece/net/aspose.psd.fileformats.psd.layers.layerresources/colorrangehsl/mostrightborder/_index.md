@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostRightBorder
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl ιδιοκτησία. Λαμβάνει ή ορίζει το πιο σωστό περίγραμμα.
+title: "ColorRangeHsl.MostRightBorder"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorRangeHsl. Λαμβάνει ή ορίζει το πιο δεξιό όριο"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostRightBorder property
 
-Λαμβάνει ή ορίζει το πιο σωστό περίγραμμα.
+Λαμβάνει ή ορίζει το πιο δεξιό όριο.
 
 ```csharp
 public short MostRightBorder { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πιο σωστό περίγραμμα.
+Το πιο δεξιό όριο.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

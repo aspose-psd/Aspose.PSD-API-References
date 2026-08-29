@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResolutionSetting ιδιοκτησία. Λαμβάνει ή ορίζει την οριζόντια ανάλυση.
+title: "ResolutionSetting.HorizontalResolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ResolutionSetting property. Λαμβάνει ή ορίζει την οριζόντια ανάλυση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/resolutionsetting/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.HorizontalResolution property
 
 Λαμβάνει ή ορίζει την οριζόντια ανάλυση.
@@ -17,7 +18,7 @@ public double HorizontalResolution { get; set; }
 ### Δείτε επίσης
 
 * class [ResolutionSetting](../)
-* χώρος ονομάτων [Aspose.PSD](../../resolutionsetting/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

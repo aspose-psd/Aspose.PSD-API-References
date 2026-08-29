@@ -1,27 +1,28 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "Matrix.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Matrix. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία."
 type: docs
 weight: 170
 url: /el/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την περίπτωση.
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: ShmdResource.SubResources
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShmdResource ιδιοκτησία. Λαμβάνει τους δευτερεύοντες πόρους του πόρου shmd.
+title: "ShmdResource.SubResources"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ShmdResource. Λαμβάνει τους υποπόρους του πόρου shmd"
 type: docs
-weight: 70
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResources property
 
-Λαμβάνει τους δευτερεύοντες πόρους του πόρου shmd.
+Λαμβάνει τους υποπόρους του πόρου shmd.
 
 ```csharp
 public LayerResource[] SubResources { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου MlstResource που παρέχει έναν μηχανισμό χαμηλού επιπέδου για τον χειρισμό των καταστάσεων του επιπέδου.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου MlstResource που παρέχει έναν χαμηλού επιπέδου μηχανισμό για τη διαχείριση των καταστάσεων του στρώματος.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Απενεργοποιήστε το επίπεδο 1 στο πλαίσιο 1
+    // Απενεργοποίηση του στρώματος 1 στο πλαίσιο 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [ShmdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

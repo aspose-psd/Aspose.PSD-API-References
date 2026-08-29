@@ -1,11 +1,12 @@
 ---
-title: LnsrResource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LnsrResource μέθοδος. Αποθηκεύει το καθορισμένο κοντέινερ ροής.
+title: "LnsrResource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LnsrResource. Αποθηκεύει το καθορισμένο κοντέινερ ροής"
 type: docs
-weight: 80
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Save method
 
 Αποθηκεύει το καθορισμένο κοντέινερ ροής.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το δοχείο του ρέματος. |
+| streamContainer | StreamContainer | Το container ροής. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LnsrResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

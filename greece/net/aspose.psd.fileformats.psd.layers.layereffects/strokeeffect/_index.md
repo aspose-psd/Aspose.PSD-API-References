@@ -1,14 +1,15 @@
 ---
-title: Class StrokeEffect
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect τάξη. Το εφέ διαδρομής Adobe Photoshop για το επίπεδο PSD.
+title: "Κλάση StrokeEffect"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect κλάση. Το εφέ γραμμής του Adobe Photoshop για το στρώμα PSD."
 type: docs
-weight: 2190
+weight: 2390
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
+{{< psd/tize >}}
 ## StrokeEffect class
 
-Το εφέ διαδρομής Adobe® Photoshop® για το επίπεδο PSD.
+Το εφέ γραμμής Adobe® Photoshop® για τη στρώση PSD.
 
 ```csharp
 public class StrokeEffect : ILayerEffect
@@ -16,25 +17,31 @@ public class StrokeEffect : ILayerEffect
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης. |
 | [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | Λαμβάνει έναν τύπο εφέ |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | Λαμβάνει ή ορίζει τις ρυθμίσεις πλήρωσης. |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | Λαμβάνει ή ορίζει τις ρυθμίσεις γεμίσματος. |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ορατή. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια. |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`StrokeEffect` θα συνδυάσει το stroke με τα τρέχοντα περιεχόμενα του επιπέδου. |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του εφέ διαδρομής για να ελέγξει την ευθυγράμμιση της διαδρομής σας στο περιεχόμενο του επιπέδου PSD. Η τιμή μπορεί να είναιInside για να σχεδιάσετε μια διαδρομή μέσα στο περιεχόμενο του επιπέδου PSD, ήOutside για να σχεδιάσετε μια διαδρομή γύρω από το περιεχόμενο του επιπέδου PSD, καιCenter να σχεδιάζω εγκεφαλικό επεισόδιο τόσο μέσα όσο και έξω. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | Λαμβάνει ή ρυθμίζει το πλάτος του εφέ διαδρομής. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια. |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `StrokeEffect` θα συγχωνεύει το στίγμα με το τρέχον περιεχόμενο του στρώματος. |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του εφέ στίγματος για να ελέγχει την ευθυγράμμιση του στίγματος σας με το περιεχόμενο του στρώματος PSD. Η τιμή μπορεί να είναι Inside για να σχεδιάζει το στίγμα μέσα στο περιεχόμενο του στρώματος PSD, ή Outside για να σχεδιάζει το στίγμα γύρω από το περιεχόμενο του στρώματος PSD, και Center για να σχεδιάζει το στίγμα τόσο μέσα όσο και έξω. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | Λαμβάνει ή ορίζει το πλάτος του εφέ στίγματος. |
 
-### Παραδείγματα
+## Μέθοδοι
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την απόδοση του εφέ Stroke με το Color Fill.
+| Όνομα | Περιγραφή |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/geteffectbounds/)(Rectangle, int) | Υπολογίζει και λαμβάνει τα όρια των εικονοστοιχείων εφέ βάσει των ορίων των εικονοστοιχείων εισόδου της στρώσης. |
+
+## Παραδείγματα
+
+Το παρακάτω παράδειγμα κώδικα δείχνει την απόδοση του εφέ Stroke με Color Fill.
 
 ```csharp
 [C#]
 
-// Εφαρμογή απόδοσης του εφέ Stroke με Color Fill για εξαγωγή
+// Υλοποίηση απόδοσης του εφέ Stroke με Color Fill για εξαγωγή
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -61,7 +68,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του επιπέδου εφέ stroke με τύπο γεμίσματος - Χρώμα.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του στρώματος εφέ γραμμής με τύπο γεμίσματος - Color.
 
 ```csharp
 [C#]
@@ -101,7 +108,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Δοκιμή αρχείου μετά την επεξεργασία
+// Αρχείο δοκιμής μετά την επεξεργασία
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -116,7 +123,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη του επιπέδου εφέ stroke με τύπο γεμίσματος - Pattern.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της στρώσης εφέ περιγράμματος με τύπο γεμίσματος - Μοτίβο.
 
 ```csharp
 [C#]
@@ -195,7 +202,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Δοκιμή αρχείου μετά την επεξεργασία
+// Αρχείο δοκιμής μετά την επεξεργασία
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -229,7 +236,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη του επιπέδου εφέ stroke με τύπο γεμίσματος - Gradient.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του επιπέδου εφέ γραμμής με τύπο γεμίσματος - Gradient.
 
 ```csharp
 [C#]
@@ -266,7 +273,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -276,8 +282,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - fillSettings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
     AssertAreEqual(false, fillSettings.Reverse);
 
-    // Σημεία χρώματος
-    var colorPoints = fillSettings.ColorPoints;
+    // Σημεία Χρώματος
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
     AssertAreEqual(Color.Black, colorPoints[0].Color);
@@ -288,8 +295,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(4096, colorPoints[1].Location);
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
-    // Σημεία διαφάνειας
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    // Σημεία Διαφάνειας
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -300,9 +307,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // Δοκιμαστική επεξεργασία
-    fillSettings.Color = Color.Green;
-
+    // Δοκιμή επεξεργασίας
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -315,27 +320,27 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.Reverse = true;
 
     // Προσθήκη νέου σημείου χρώματος
-    var colorPoint = fillSettings.AddColorPoint();
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
-    // Αλλαγή θέσης προηγούμενου σημείου
-    fillSettings.ColorPoints[1].Location = 1899;
+    // Αλλαγή θέσης του προηγούμενου σημείου
+    solidGradient.ColorPoints[1].Location = 1899;
 
     // Προσθήκη νέου σημείου διαφάνειας
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // Αλλαγή θέσης προηγούμενου σημείου διαφάνειας
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    // Αλλαγή θέσης του προηγούμενου σημείου διαφάνειας
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
 
-// Δοκιμή αρχείου μετά την επεξεργασία
+// Αρχείο δοκιμής μετά την επεξεργασία
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientStroke = (StrokeEffect)im.Layers[2].BlendingOptions.Effects[0];
@@ -345,41 +350,41 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
-    // Ελέγξτε τα σημεία χρώματος
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    // Έλεγχος σημείων χρώματος
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Black, point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.White, point.Color);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // Ελέγξτε τα διαφανή σημεία
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // Έλεγχος διαφανών σημείων
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
@@ -389,7 +394,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### Δείτε επίσης
 
 * interface [ILayerEffect](../ilayereffect/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

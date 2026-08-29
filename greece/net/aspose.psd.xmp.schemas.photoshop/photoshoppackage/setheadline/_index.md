@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει την επικεφαλίδα.
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage μέθοδος. Ορίζει την επικεφαλίδα"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
 Ορίζει την επικεφαλίδα.
@@ -16,12 +17,12 @@ public void SetHeadline(string headline)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| headline | String | Ο τίτλος. |
+| επικεφαλίδα | String | Η επικεφαλίδα. |
 
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

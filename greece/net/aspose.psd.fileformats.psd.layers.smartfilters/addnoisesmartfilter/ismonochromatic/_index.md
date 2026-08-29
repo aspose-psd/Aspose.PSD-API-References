@@ -1,14 +1,15 @@
 ---
-title: AddNoiseSmartFilter.IsMonochromatic
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AddNoiseSmartFilter ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του monochromatic.
+title: "AddNoiseSmartFilter.IsMonochromatic"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AddNoiseSmartFilter property. Λαμβάνει ή ορίζει την τιμή του μονοχρωματικού"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.IsMonochromatic property
 
-Λαμβάνει ή ορίζει την τιμή του monochromatic.
+Λαμβάνει ή ορίζει την τιμή του μονοχρωματικού.
 
 ```csharp
 public bool IsMonochromatic { get; set; }
@@ -17,7 +18,7 @@ public bool IsMonochromatic { get; set; }
 ### Δείτε επίσης
 
 * class [AddNoiseSmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

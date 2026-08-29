@@ -1,11 +1,12 @@
 ---
-title: GraphicsOptions.GraphicsOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "GraphicsOptions.GraphicsOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής GraphicsOptions. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public GraphicsOptions()
 ### Δείτε επίσης
 
 * class [GraphicsOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

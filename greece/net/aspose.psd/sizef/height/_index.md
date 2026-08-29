@@ -1,27 +1,28 @@
 ---
-title: SizeF.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SizeF ιδιοκτησία. Λαμβάνει ή ορίζει το κατακόρυφο στοιχείο αυτούSizeF .
+title: "SizeF.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SizeF. Λαμβάνει ή ορίζει το κάθετο συστατικό αυτού του SizeF."
 type: docs
 weight: 50
 url: /el/net/aspose.psd/sizef/height/
 ---
+{{< psd/tize >}}
 ## SizeF.Height property
 
-Λαμβάνει ή ορίζει το κατακόρυφο στοιχείο αυτού[`SizeF`](../) .
+Λαμβάνει ή ορίζει το κάθετο συστατικό αυτού του [`SizeF`](../).
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η κάθετη συνιστώσα αυτού[`SizeF`](../), συνήθως μετριέται σε pixel.
+Το κάθετο συστατικό αυτού του [`SizeF`](../), συνήθως μετράται σε εικονοστοιχεία.
 
 ### Δείτε επίσης
 
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

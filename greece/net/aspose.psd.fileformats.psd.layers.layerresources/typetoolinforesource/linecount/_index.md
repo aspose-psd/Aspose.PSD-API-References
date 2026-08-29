@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει τον αριθμό γραμμών.
+title: "TypeToolInfoResource.LineCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolInfoResource. Λαμβάνει τον αριθμό γραμμών"
 type: docs
-weight: 130
+weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
-Λαμβάνει τον αριθμό γραμμών.
+Λαμβάνει τον αριθμό των γραμμών.
 
 ```csharp
 public short LineCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλήθος των γραμμών.
+Ο αριθμός γραμμών.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

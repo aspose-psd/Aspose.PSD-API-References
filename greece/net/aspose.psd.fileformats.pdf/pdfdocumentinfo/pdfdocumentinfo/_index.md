@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.PdfDocumentInfo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PdfDocumentInfo κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "PdfDocumentInfo.PdfDocumentInfo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PdfDocumentInfo. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public PdfDocumentInfo()
 ### Δείτε επίσης
 
 * class [PdfDocumentInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

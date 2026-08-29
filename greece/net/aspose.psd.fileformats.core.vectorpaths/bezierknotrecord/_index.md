@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord τάξη. Bezier Knot Record Class
+title: "Κλάση BezierKnotRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord κλάση. Κλάση εγγραφής κόμβου Bezier που χρησιμοποιείται για ανάγνωση/εγγραφή δεδομένων κόμβων Bezier από πόρο."
 type: docs
-weight: 1330
+weight: 1340
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Bezier Knot Record Class
+Κλάση Bezier Knot Record, που χρησιμοποιείται για ανάγνωση/εγγραφή δεδομένων κόμβων Bezier από τον πόρο.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -16,25 +17,25 @@ public class BezierKnotRecord : VectorPathRecord
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`BezierKnotRecord` τάξη. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`BezierKnotRecord` τάξη. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `BezierKnotRecord`. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `BezierKnotRecord`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι κλειστή. |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτό το αντικείμενο είναι κλειστό. |
 | [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι συνδεδεμένη. |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ανοιχτή. |
-| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Λαμβάνει ή ορίζει τα σημεία διαδρομής. |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Λαμβάνει ή ορίζει τους πόντους. |
-| override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Παίρνει τον τύπο. |
+| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Λαμβάνει ή ορίζει τα σημεία της διαδρομής. |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Λαμβάνει ή ορίζει τα σημεία. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Λαμβάνει τον τύπο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων VmskResource. Πώς λειτουργεί η επεξεργασία των μονοπατιών.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων VmskResource. Πώς λειτουργεί η επεξεργασία των διαδρομών.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ public void TestPsdNet106()
     using (im)
     {
         var resource = GetVmskResource(im);
-        // ΑΝΑΓΝΩΣΗ
+        // Ανάγνωση
         if (resource.IsDisabled != false ||
          resource.IsInverted != false ||
          resource.IsNotLinked != false ||
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // Ο κανόνας πλήρωσης διαδρομής δεν περιέχει πρόσθετες πληροφορίες
+        // Ο κανόνας γεμίσματος διαδρομής δεν περιέχει πρόσθετες πληροφορίες.
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων VsmsResource. Πώς λειτουργεί η επεξεργασία των μονοπατιών.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρου VsmsResource. Πώς λειτουργεί η επεξεργασία διαδρομών.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ public void TestPsdNet140()
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // ΑΝΑΓΝΩΣΗ
+        // Ανάγνωση
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Ο κανόνας πλήρωσης διαδρομής δεν περιέχει πρόσθετες πληροφορίες
+        // Ο κανόνας γεμίσματος διαδρομής δεν περιέχει πρόσθετες πληροφορίες.
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -195,7 +196,7 @@ private VsmsResource GetVsmsResource(PsdImage image)
 ### Δείτε επίσης
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: SmartObjectLayer.DuplicateLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectLayer μέθοδος. Δημιουργεί ένα νέο επίπεδο έξυπνου αντικειμένου αντιμετωπίζοντας αυτό. Παρατηρήστε ότι για τα ενσωματωμένα έξυπνα αντικείμενα η ενσωματωμένη εικόνα είναι κοινόχρηστη. Εάν θέλετε να αντιγράψετε την ενσωματωμένη εικόνα χρησιμοποιήστεNewSmartObjectViaCopy μέθοδος.
+title: "SmartObjectLayer.DuplicateLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SmartObjectLayer μέθοδος. Δημιουργεί ένα νέο επίπεδο έξυπνου αντικειμένου αντιγράφοντας αυτό το τρέχον. Σημειώστε ότι για ενσωματωμένα έξυπνα αντικείμενα η ενσωματωμένη εικόνα μοιράζεται. Εάν θέλετε να αντιγράψετε την ενσωματωμένη εικόνα, χρησιμοποιήστε τη μέθοδο NewSmartObjectViaCopy."
 type: docs
-weight: 80
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.DuplicateLayer method
 
-Δημιουργεί ένα νέο επίπεδο έξυπνου αντικειμένου αντιμετωπίζοντας αυτό. Παρατηρήστε ότι για τα ενσωματωμένα έξυπνα αντικείμενα η ενσωματωμένη εικόνα είναι κοινόχρηστη. Εάν θέλετε να αντιγράψετε την ενσωματωμένη εικόνα χρησιμοποιήστε[`NewSmartObjectViaCopy`](../newsmartobjectviacopy/) μέθοδος.
+Δημιουργεί ένα νέο επίπεδο έξυπνου αντικειμένου αντιγράφοντας αυτό. Σημειώστε ότι για ενσωματωμένα έξυπνα αντικείμενα η ενσωματωμένη εικόνα είναι κοινόχρηστη. Εάν θέλετε να αντιγράψετε την ενσωματωμένη εικόνα, χρησιμοποιήστε τη μέθοδο [`NewSmartObjectViaCopy`](../newsmartobjectviacopy/).
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο κλωνοποιημένος[`SmartObjectLayer`](../) παράδειγμα.
+Το κλωνοποιημένο [`SmartObjectLayer`](../) αντίγραφο.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Αυτά τα παραδείγματα δείχνουν πώς να αντιγράψετε επίπεδα έξυπνων αντικειμένων σε μια εικόνα PSD.
 
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // Ο αριθμός επιπέδου προς αντιγραφή
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,17 +58,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Ας αντιστρέψουμε την εικόνα του ενσωματωμένου έξυπνου αντικειμένου (για μια εσωτερική εικόνα PSD αντιστρέφουμε μόνο το πρώτο επίπεδο)
+            // Ας αντιστρέψουμε την ενσωματωμένη εικόνα έξυπνου αντικειμένου (για μια εσωτερική εικόνα PSD αντιστρέφουμε μόνο το πρώτο της επίπεδο)
             InvertImage(innerImage);
 
-            // Ας αντικαταστήσουμε την εικόνα του ενσωματωμένου έξυπνου αντικειμένου στο επίπεδο PSD
+            // Ας αντικαταστήσουμε την ενσωματωμένη εικόνα smart object στο επίπεδο PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Το διπλό επίπεδο μοιράζεται την ενσωματωμένη εικόνα του με το αρχικό έξυπνο αντικείμενο
-        // και θα πρέπει να ενημερωθεί ρητά διαφορετικά η κρυφή μνήμη απόδοσης παραμένει αμετάβλητη.
-        // Ενημερώνουμε κάθε έξυπνο αντικείμενο για να βεβαιωθούμε ότι το νέο επίπεδο δημιουργήθηκε από το NewSmartObjectViaCopy
-        // δεν μοιράζεται την ενσωματωμένη εικόνα με τους άλλους.
+        // Το αντιγραμμένο επίπεδο μοιράζεται την ενσωματωμένη εικόνα του με το αρχικό έξυπνο αντικείμενο.
+        // και πρέπει να ενημερωθεί ρητά, διαφορετικά η προσωρινή μνήμη απόδοσής του παραμένει αμετάβλητη.
+        // Ενημερώνουμε κάθε έξυπνο αντικείμενο για να διασφαλίσουμε ότι το νέο επίπεδο που δημιουργείται από το NewSmartObjectViaCopy
+        // δεν μοιράζεται την ενσωματωμένη εικόνα με τα άλλα.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -75,7 +76,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// Αντιστρέφει την εικόνα ράστερ συμπεριλαμβανομένης της εικόνας PSD.
+// Αντιστρέφει την ραστερ εικόνα, συμπεριλαμβανομένης της εικόνας PSD.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -89,7 +90,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// Αντιστρέφει την εικόνα ράστερ.
+// Αναστρέφει την raster εικόνα.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -115,7 +116,7 @@ void AssertIsTrue(bool condition)
 ### Δείτε επίσης
 
 * class [SmartObjectLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

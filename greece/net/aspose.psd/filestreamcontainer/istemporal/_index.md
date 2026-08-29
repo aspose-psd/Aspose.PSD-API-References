@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileStreamContainer ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η ροή είναι προσωρινή.
+title: "FileStreamContainer.IsTemporal"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FileStreamContainer. Αποκτά ή ορίζει μια τιμή που υποδεικνύει αν η ροή είναι προσωρινή"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
 Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η ροή είναι προσωρινή.
@@ -14,18 +15,18 @@ url: /el/net/aspose.psd/filestreamcontainer/istemporal/
 public bool IsTemporal { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν η ροή είναι χρονική. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν η ροή είναι προσωρινή· διαφορετικά, `false`.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Μια χρονική ροή θα αφαιρεθεί όταν απορριφθεί. Εάν η ροή βασίζεται στη μνήμη, αυτή η ιδιότητα δεν έχει κανένα αποτέλεσμα. Η ροή μπορεί να επισημανθεί ως προσωρινή ή μόνιμη σε περίπτωση που δημιουργήθηκε ρητά, διαφορετικά γίνεται η κατάλληλη εξαίρεση.
+Μια προσωρινή ροή θα αφαιρεθεί όταν απελευθερωθεί. Εάν η ροή είναι βασισμένη στη μνήμη, αυτή η ιδιότητα δεν έχει καμία επίδραση. Η ροή μπορεί να χαρακτηριστεί ως προσωρινή ή μόνιμη εάν δημιουργήθηκε ρητά· διαφορετικά θα εξαχθεί η κατάλληλη εξαίρεση.
 
 ### Δείτε επίσης
 
 * class [FileStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../filestreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

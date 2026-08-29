@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.HDpi
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResolutionInfoResource ιδιοκτησία. Οριζόντιο DPI.
+title: "ResolutionInfoResource.HDpi"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ResolutionInfoResource. Οριζόντια DPI"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HDpi property
 
 Οριζόντιο DPI.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα οριζόντια dpi.
+Η οριζόντια DPI.
 
 ### Δείτε επίσης
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

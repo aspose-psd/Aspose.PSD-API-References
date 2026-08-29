@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsMagentaGreenBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlncResource ιδιοκτησία. Λαμβάνει ή ορίζει τα Highlights Magenta Green Balance.
+title: "BlncResource.HighlightsMagentaGreenBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlncResource ιδιότητα. Λαμβάνει ή ορίζει το Highlights Magenta Green Balance"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsMagentaGreenBalance property
 
-Λαμβάνει ή ορίζει τα Highlights Magenta Green Balance.
+Λαμβάνει ή ορίζει το Highlights Magenta Green Balance.
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Highlights Magenta Green Balance.
+Το Highlights Magenta Green Balance.
 
 ### Δείτε επίσης
 
 * class [BlncResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

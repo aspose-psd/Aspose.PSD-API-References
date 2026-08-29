@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlackWhiteAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει το ασπρόμαυρο προκαθορισμένο όνομα αρχείου.
+title: "BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlackWhiteAdjustmentLayer. Λαμβάνει ή ορίζει το όνομα του αρχείου προεπιλογής ασπρόμαυρου."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName property
 
-Λαμβάνει ή ορίζει το ασπρόμαυρο προκαθορισμένο όνομα αρχείου.
+Λαμβάνει ή ορίζει το όνομα αρχείου προεπιλογής μαύρο-άσπρου.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ασπρόμαυρο προκαθορισμένο όνομα αρχείου.
+Το όνομα του αρχείου προεπιλογής ασπρόμαυρου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χειριστείτε τις ιδιότητες του επιπέδου προσαρμογής μαύρου λευκού στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να διαχειριστείτε τις ιδιότητες του στρώματος ρυθμίσεων ασπρόμαυρου στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [BlackWhiteAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

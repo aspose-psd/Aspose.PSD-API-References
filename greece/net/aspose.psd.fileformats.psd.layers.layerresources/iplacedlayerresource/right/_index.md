@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Right
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPlacedLayerResource ιδιοκτησία. Λαμβάνει ή ορίζει τη σωστή θέση του τοποθετημένου επιπέδου στο αρχείο PSD.
+title: "IPlacedLayerResource.Right"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPlacedLayerResource ιδιότητα. Λαμβάνει ή ορίζει τη θέση του δεξιού άκρου του τοποθετημένου στρώματος στο αρχείο PSD"
 type: docs
 weight: 130
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Right property
 
-Λαμβάνει ή ορίζει τη σωστή θέση του τοποθετημένου επιπέδου στο αρχείο PSD.
+Λαμβάνει ή ορίζει τη θέση δεξιά του τοποθετημένου στρώματος στο αρχείο PSD.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η σωστή θέση του τοποθετημένου στρώματος.
+Η δεξιά θέση του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * interface [IPlacedLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

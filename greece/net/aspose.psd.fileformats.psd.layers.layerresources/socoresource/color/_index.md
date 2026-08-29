@@ -1,26 +1,27 @@
 ---
-title: SoCoResource.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SoCoResource ιδιοκτησία. Παίρνει το χρώμα RGB .
+title: "SoCoResource.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SoCoResource ιδιότητα. Ανακτά το χρώμα RGB"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
-Παίρνει το χρώμα RGB .
+Λαμβάνει το χρώμα RGB.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα RGB
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε το SoCoResource (Layer Resource for Color Fill Layer)
+Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε το SoCoResource (Πόρος στρώματος για στρώμα γεμίσματος χρώματος)
 
 ```csharp
 [C#]
@@ -28,20 +29,20 @@ public Color Color { get; set; }
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Εύρεση FillLayer
+        // Εύρεση του FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Εύρεση SoCoResource στη λίστα πόρων επιπέδου
+                // Εύρεση του SoCoResource στη λίστα πόρων στρώματος
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -55,7 +56,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Ρύθμιση της ιδιότητας SoCoResource Color
+                    // Ρύθμιση της ιδιότητας Color του SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -71,7 +72,7 @@ using (im)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IFillSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings διεπαφή. Βασική διεπαφή για ρυθμίσεις πλήρωσης
+title: "Διεπαφή IFillSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings διεπαφή. Βασική διεπαφή για ρυθμίσεις γεμίσματος"
 type: docs
-weight: 2000
+weight: 2120
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
+{{< psd/tize >}}
 ## IFillSettings interface
 
-Βασική διεπαφή για ρυθμίσεις πλήρωσης
+Βασική διεπαφή για ρυθμίσεις γεμίσματος
 
 ```csharp
 public interface IFillSettings
@@ -16,13 +17,13 @@ public interface IFillSettings
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | Παίρνει τον τύπο του γεμίσματος. |
+| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | Λαμβάνει τον τύπο του γεμίσματος. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει τον αριθμό των επιπέδων.
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ThumbnailResource. Λαμβάνει ή ορίζει τον αριθμό επιπέδων"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-Λαμβάνει ή ρυθμίζει τον αριθμό των επιπέδων.
+Λαμβάνει ή ορίζει τον αριθμό επιπέδων.
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα επίπεδα μικρογραφιών μετράνε.
+Ο αριθμός επιπέδων μικρογραφίας.
 
 ### Δείτε επίσης
 
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

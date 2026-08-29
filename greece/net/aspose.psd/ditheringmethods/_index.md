@@ -1,30 +1,31 @@
 ---
-title: Enum DitheringMethods
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.DitheringMethods αρίθμηση. Οι μέθοδοι διαίρεσης που χρησιμοποιούνται για τον έλεγχο της μετατροπής χρώματος.
+title: "Απαρίθμηση DitheringMethods"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.DitheringMethods απαρίθμηση. Οι μέθοδοι διαστίγματος που χρησιμοποιούνται για τον έλεγχο της μετατροπής χρώματος"
 type: docs
-weight: 780
+weight: 790
 url: /el/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
-Οι μέθοδοι διαίρεσης που χρησιμοποιούνται για τον έλεγχο της μετατροπής χρώματος.
+Οι μέθοδοι τριχοτόμησης που χρησιμοποιούνται για τον έλεγχο της μετατροπής χρώματος.
 
 ```csharp
 public enum DitheringMethods
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | PaletteIgnore | `0` | Η παλέτα αγνοείται |
-| PaletteConversion | `1` | Η παλέτα δεν αγνοείται και θα πρέπει να εφαρμοστεί σοφή μετατροπή χρώματος. |
+| PaletteConversion | `1` | Η παλέτα δεν αγνοείται και πρέπει να εφαρμοστεί σοφή μετατροπή χρώματος. |
 | CustomConverter | `2` | Ο προσαρμοσμένος μετατροπέας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

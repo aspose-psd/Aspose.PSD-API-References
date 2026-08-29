@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ProgressEventHandlerInfo ιδιοκτησία. Λαμβάνει την τρέχουσα τιμή προόδου.
+title: "ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ProgressEventHandlerInfo. Λαμβάνει την τρέχουσα τιμή προόδου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Value property
 
 Λαμβάνει την τρέχουσα τιμή προόδου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 public int Value { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή προόδου.
 
 ### Δείτε επίσης
 
 * class [ProgressEventHandlerInfo](../)
-* χώρος ονομάτων [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

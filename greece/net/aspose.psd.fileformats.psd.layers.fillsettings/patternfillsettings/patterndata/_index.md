@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα μοτίβου.
+title: "PatternFillSettings.PatternData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει τα δεδομένα του μοτίβου"
 type: docs
-weight: 60
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternData property
 
-Λαμβάνει ή ορίζει τα δεδομένα μοτίβου.
+Λαμβάνει ή ορίζει τα δεδομένα του μοτίβου.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δεδομένα του μοτίβου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώματος γεμίσματος.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώσης γεμίσματος.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

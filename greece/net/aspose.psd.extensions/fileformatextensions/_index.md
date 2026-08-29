@@ -1,14 +1,15 @@
 ---
-title: Class FileFormatExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.FileFormatExtensions τάξη. ΠεριέχειFileFormat μέθοδοι επέκτασης.
+title: "Κλάση FileFormatExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.FileFormatExtensions κλάση. Περιέχει μεθόδους επέκτασης FileFormat."
 type: docs
-weight: 1080
+weight: 1090
 url: /el/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-Περιέχει[`FileFormat`](../../aspose.psd/fileformat/) μέθοδοι επέκτασης.
+Περιέχει μεθόδους επέκτασης [`FileFormat`](../../aspose.psd/fileformat/).
 
 ```csharp
 public static class FileFormatExtensions
@@ -16,13 +17,13 @@ public static class FileFormatExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Καθορίζει εάν έχει οριστεί μία μορφή αρχείου. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Καθορίζει εάν έχει οριστεί ένα μοναδικό μορφό αρχείου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

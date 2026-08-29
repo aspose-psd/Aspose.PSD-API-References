@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.GraphicsPath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathGradientBrushBase ιδιοκτησία. Λαμβάνει τη διαδρομή γραφικών πάνω στην οποία βασίστηκε αυτό το πινέλο.
+title: "PathGradientBrushBase.GraphicsPath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PathGradientBrushBase. Επιστρέφει το γραφικό μονοπάτι πάνω στο οποίο δημιουργήθηκε αυτό το πινέλο."
 type: docs
 weight: 30
 url: /el/net/aspose.psd.brushes/pathgradientbrushbase/graphicspath/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.GraphicsPath property
 
-Λαμβάνει τη διαδρομή γραφικών πάνω στην οποία βασίστηκε αυτό το πινέλο.
+Αποκτά τη γραφική διαδρομή πάνω στην οποία χτίστηκε αυτό το brush.
 
 ```csharp
 public GraphicsPath GraphicsPath { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διαδρομή των γραφικών.
+Το γραφικό μονοπάτι.
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrushBase](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorBlend.ColorBlend
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBlend κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουColorBlend τάξη.
+title: "ColorBlend.ColorBlend"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ColorBlend. Αρχικοποιεί μια νέα παρουσία της κλάσης ColorBlend"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/colorblend/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ColorBlend`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ColorBlend`](../).
 
 ```csharp
 public ColorBlend()
@@ -17,14 +18,14 @@ public ColorBlend()
 ### Δείτε επίσης
 
 * class [ColorBlend](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorblend/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorBlend(int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ColorBlend`](../) τάξη με τον καθορισμένο αριθμό χρωμάτων και θέσεων.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ColorBlend`](../) με τον καθορισμένο αριθμό χρωμάτων και θέσεων.
 
 ```csharp
 public ColorBlend(int count)
@@ -32,12 +33,12 @@ public ColorBlend(int count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| count | Int32 | Ο αριθμός των χρωμάτων και των θέσεων σε αυτό[`ColorBlend`](../). |
+| count | Int32 | Ο αριθμός χρωμάτων και θέσεων σε αυτό το [`ColorBlend`](../). |
 
 ### Δείτε επίσης
 
 * class [ColorBlend](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorblend/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

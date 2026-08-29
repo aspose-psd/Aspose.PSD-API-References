@@ -1,14 +1,15 @@
 ---
-title: IImageLoaderDescriptor.CanLoad
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IImageLoaderDescriptor μέθοδος. Καθορίζει εάν το πρόγραμμα φόρτωσης εικόνας μπορεί να διαβάσει μια νέα εικόνα από την καθορισμένη ροή και προαιρετικά χρησιμοποιώντας τοloadOptions .
+title: "IImageLoaderDescriptor.CanLoad"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IImageLoaderDescriptor μέθοδος. Καθορίζει εάν ο φορτωτής εικόνας μπορεί να διαβάσει μια νέα εικόνα από το καθορισμένο ρεύμα και προαιρετικά χρησιμοποιώντας το *loadOptions*"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/iimageloaderdescriptor/canload/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CanLoad method
 
-Καθορίζει εάν το πρόγραμμα φόρτωσης εικόνας μπορεί να διαβάσει μια νέα εικόνα από την καθορισμένη ροή και προαιρετικά χρησιμοποιώντας το*loadOptions* .
+Καθορίζει εάν ο φορτωτής εικόνας μπορεί να διαβάσει μια νέα εικόνα από τη συγκεκριμένη ροή και προαιρετικά χρησιμοποιώντας το *loadOptions*.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, LoadOptions loadOptions)
@@ -16,19 +17,19 @@ public bool CanLoad(StreamContainer streamContainer, LoadOptions loadOptions)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το δοχείο του ρέματος. |
-| loadOptions | LoadOptions | Οι λεπτομέρειες μορφής αρχείου που καθορίζονται από*loadOptions* . ο*loadOptions* μπορεί να είναι μηδενική. |
+| streamContainer | StreamContainer | Το container ροής. |
+| loadOptions | LoadOptions | Οι λεπτομέρειες μορφής αρχείου που καθορίζονται από το *loadOptions*. Το *loadOptions* μπορεί να είναι null. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν ο φορτωτής εικόνας που δημιουργήθηκε από αυτόν τον περιγραφέα μπορεί να διαβάσει εικόνα από ροή. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν ο φορτωτής εικόνας που δημιουργήθηκε από αυτόν τον περιγραφέα μπορεί να διαβάσει εικόνα από το ρεύμα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoaderDescriptor](../)
-* χώρος ονομάτων [Aspose.PSD](../../iimageloaderdescriptor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

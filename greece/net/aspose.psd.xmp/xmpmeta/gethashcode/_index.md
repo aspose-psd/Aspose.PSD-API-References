@@ -1,27 +1,28 @@
 ---
-title: XmpMeta.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMeta μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+title: "XmpMeta.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpMeta. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την περίπτωση"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp/xmpmeta/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpMeta.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [XmpMeta](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpmeta/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

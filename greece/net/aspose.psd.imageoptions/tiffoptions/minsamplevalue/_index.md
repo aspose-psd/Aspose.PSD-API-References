@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MinSampleValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την ελάχιστη τιμή δείγματος.
+title: "TiffOptions.MinSampleValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την ελάχιστη τιμή δείγματος"
 type: docs
-weight: 270
+weight: 280
 url: /el/net/aspose.psd.imageoptions/tiffoptions/minsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MinSampleValue property
 
-Λαμβάνει ή ορίζει την ελάχιστη τιμή δείγματος.
+Λαμβάνει ή ορίζει τη ελάχιστη τιμή δείγματος.
 
 ```csharp
 public ushort[] MinSampleValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ελάχιστη τιμή δείγματος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | αξία |
-| ArgumentOutOfRangeException | τιμή; Το μήκος του πίνακα πρέπει να αντιστοιχεί στα δείγματα ανά πλήθος εικονοστοιχείων. |
+| ArgumentNullException | τιμή |
+| ArgumentOutOfRangeException | value;Το μήκος του πίνακα πρέπει να αντιστοιχεί στον αριθμό δειγμάτων ανά εικονοστοιχείο. |
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetY
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Λαμβάνει τη μετατόπιση Υ.
+title: "AiRasterImageSection.OffsetY"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει την μετατόπιση Y"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetY property
 
-Λαμβάνει τη μετατόπιση Υ.
+Λαμβάνει την μετατόπιση Y.
 
 ```csharp
 public double OffsetY { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μετατόπιση Υ.
+Η μετατόπιση Y.
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Items
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει τα στοιχεία στημόνι.
+title: "PlacedResource.Items"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει τα στοιχεία παραμόρφωσης"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Items property
 
-Λαμβάνει ή ορίζει τα στοιχεία στημόνι.
+Λαμβάνει ή ορίζει τα στοιχεία παραμόρφωσης.
 
 ```csharp
 public virtual OSTypeStructure[] Items { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα στοιχεία στημονιού.
+Τα στοιχεία παραμόρφωσης.
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

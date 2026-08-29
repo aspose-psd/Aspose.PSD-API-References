@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει τον αριθμό χρώματος. 1 είναι η προσαρμοσμένη τιμή χρώματος από τις ιδιότητες Κόκκινο Πράσινο Μπλε. Καθορίζει τη ρύθμιση χρώματος του επιπέδου.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει τον αριθμό χρώματος. Το 1 είναι η προσαρμοσμένη τιμή χρώματος από τις ιδιότητες Κόκκινο, Πράσινο, Μπλε. Καθορίζει τη ρύθμιση χρώματος του στρώματος."
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-Λαμβάνει ή ορίζει τον αριθμό χρώματος. -1 είναι η προσαρμοσμένη τιμή χρώματος από τις ιδιότητες Κόκκινο, Πράσινο, Μπλε. Καθορίζει τη ρύθμιση χρώματος του επιπέδου.
+Λαμβάνει ή ορίζει τον αριθμό χρώματος. Το -1 είναι η προσαρμοσμένη τιμή χρώματος από τις ιδιότητες Red, Green, Blue. Καθορίζει τη ρύθμιση χρώματος του στρώματος.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο αριθμός χρώματος.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

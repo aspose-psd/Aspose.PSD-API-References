@@ -1,33 +1,34 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats αρίθμηση. Δείγμα μορφής enum
+title: "Απαρίθμηση TiffSampleFormats"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats απαρίθμηση. Απαρίθμηση μορφής δείγματος"
 type: docs
-weight: 4160
+weight: 4630
 url: /el/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-Δείγμα μορφής enum
+Απαρίθμηση μορφής δείγματος
 
 ```csharp
 public enum TiffSampleFormats
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Uint | `1` | Ανυπόγραφα ακέραια δεδομένα |
-| Int | `2` | Υπογεγραμμένα ακέραια δεδομένα |
+| Uint | `1` | Δεδομένα ακεραίου χωρίς πρόσημο |
+| Int | `2` | Δεδομένα ακεραίου με πρόσημο |
 | IeeeFp | `3` | Δεδομένα κινητής υποδιαστολής IEEE |
-| Void | `4` | Μη τυποποιημένα δεδομένα |
-| ComplexInt | `5` | Σύνθετη υπογραφή int |
-| ComplexIeeeFp | `6` | Complex ieee floating |
+| Void | `4` | Δεδομένα χωρίς τύπο |
+| ComplexInt | `5` | Σύνθετος ακεραίος με πρόσημο |
+| ComplexIeeeFp | `6` | Σύνθετος κινητής υποδιαστολής ieee |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdColorPalette μέθοδος. Παίρνει τον δείκτη του πλησιέστερου χρώματος.
+title: "PsdColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdColorPalette μέθοδος. Λαμβάνει το ευρετήριο του πλησιέστερου χρώματος"
 type: docs
 weight: 140
 url: /el/net/aspose.psd.fileformats.psd/psdcolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
-Παίρνει τον δείκτη του πλησιέστερου χρώματος.
+Λαμβάνει το δείκτη του πλησιέστερου χρώματος.
 
 ```csharp
 public int GetNearestColorIndex(int argb32Color)
@@ -16,23 +17,23 @@ public int GetNearestColorIndex(int argb32Color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| argb32Color | Int32 | Το χρώμα ARGB 32 bit. |
+| argb32Color | Int32 | Το χρώμα 32-bit ARGB. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο δείκτης του πλησιέστερου χρώματος.
 
 ### Δείτε επίσης
 
 * class [PsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-Παίρνει τον δείκτη του πλησιέστερου χρώματος.
+Λαμβάνει το δείκτη του πλησιέστερου χρώματος.
 
 ```csharp
 public int GetNearestColorIndex(Color color)
@@ -40,9 +41,9 @@ public int GetNearestColorIndex(Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| color | Color | Το χρώμα. |
+| χρώμα | Χρώμα | Το χρώμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο δείκτης του πλησιέστερου χρώματος.
 
@@ -50,7 +51,7 @@ public int GetNearestColorIndex(Color color)
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

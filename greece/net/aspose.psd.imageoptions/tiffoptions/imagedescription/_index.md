@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την περιγραφή της εικόνας.
+title: "TiffOptions.ImageDescription"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την περιγραφή της εικόνας"
 type: docs
-weight: 190
+weight: 200
 url: /el/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageDescription property
 
 Λαμβάνει ή ορίζει την περιγραφή της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 public string ImageDescription { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η περιγραφή της εικόνας.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

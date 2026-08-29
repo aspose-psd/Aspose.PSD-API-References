@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.Size
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BilateralSmoothingFilterOptions ιδιοκτησία. Λαμβάνει ή ορίζει το μέγεθος του πυρήνα.
+title: "BilateralSmoothingFilterOptions.Size"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BilateralSmoothingFilterOptions ιδιότητα. Λαμβάνει ή ορίζει το μέγεθος του πυρήνα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.Size property
 
 Λαμβάνει ή ορίζει το μέγεθος του πυρήνα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptio
 public int Size { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μέγεθος του πυρήνα.
 
 ### Δείτε επίσης
 
 * class [BilateralSmoothingFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

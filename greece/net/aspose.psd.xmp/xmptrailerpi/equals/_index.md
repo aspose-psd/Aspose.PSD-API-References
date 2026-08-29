@@ -1,14 +1,15 @@
 ---
-title: XmpTrailerPi.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpTrailerPi μέθοδος. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+title: "XmpTrailerPi.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpTrailerPi method. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp/xmptrailerpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpTrailerPi) {#equals}
 
-Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
 
 ```csharp
 public bool Equals(XmpTrailerPi other)
@@ -16,23 +17,23 @@ public bool Equals(XmpTrailerPi other)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| other | XmpTrailerPi | Ένα αντικείμενο προς σύγκριση με αυτό το αντικείμενο. |
+| other | XmpTrailerPi | Ένα αντικείμενο για σύγκριση με αυτό το αντικείμενο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true αν το τρέχον αντικείμενο είναι ίσο με το*other* παράμετρος? διαφορετικά, ψευδής.
+αληθές εάν το τρέχον αντικείμενο είναι ίσο με την παράμετρο *other*· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [XmpTrailerPi](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +41,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Object | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [XmpTrailerPi](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

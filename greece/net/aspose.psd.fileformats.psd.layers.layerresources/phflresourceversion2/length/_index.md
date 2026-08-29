@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion2.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion2 ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "PhflResourceVersion2.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PhflResourceVersion2. Παίρνει το μήκος του πόρου στρώσης σε bytes"
 type: docs
-weight: 70
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/length/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [PhflResourceVersion2](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

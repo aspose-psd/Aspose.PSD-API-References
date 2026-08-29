@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb32Bpp
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τοPixelDataFormat ορίζεται για 32 bit ανά pixel με 8 bit για καθένα από τα άλφα κόκκινο πράσινο και μπλε.
+title: "PixelDataFormat.Rgb32Bpp"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Παίρνει το PixelDataFormat που ορίζεται για 32 bits ανά pixel με 8 bits για καθένα από τα άλφα, κόκκινο, πράσινο και μπλε."
 type: docs
 weight: 90
 url: /el/net/aspose.psd/pixeldataformat/rgb32bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb32Bpp property
 
-Λαμβάνει το[`PixelDataFormat`](../) ορίζεται για 32 bit ανά pixel με 8 bit για καθένα από τα άλφα, κόκκινο, πράσινο και μπλε.
+Παίρνει το [`PixelDataFormat`](../) που ορίζεται για 32 bits ανά pixel με 8 bits για καθένα από τα άλφα, κόκκινο, πράσινο και μπλε.
 
 ```csharp
 public static PixelDataFormat Rgb32Bpp { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`PixelDataFormat`](../) ορίζεται για 32 bit ανά pixel με 8 bit για καθένα από τα άλφα, κόκκινο, πράσινο και μπλε.
+Το [`PixelDataFormat`](../) που ορίζεται για 32 bits ανά pixel με 8 bits για καθένα από τα άλφα, κόκκινο, πράσινο και μπλε.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class BaseFillSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings τάξη. Ρυθμίσεις εφέ γεμίσματος βάσης
+title: "Κλάση BaseFillSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings κλάση. Ρυθμίσεις βασικού εφέ γεμίσματος"
 type: docs
-weight: 1920
+weight: 2030
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-Ρυθμίσεις εφέ γεμίσματος βάσης
+Βασικές ρυθμίσεις εφέ γεμίσματος
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
@@ -16,14 +17,14 @@ public abstract class BaseFillSettings : IFillSettings
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Παίρνει τον τύπο του γεμίσματος. |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | Λαμβάνει τον τύπο του γεμίσματος. |
 
 ### Δείτε επίσης
 
 * interface [IFillSettings](../ifillsettings/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

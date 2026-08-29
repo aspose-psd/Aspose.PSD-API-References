@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileStreamContainer ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή δημιουργήθηκε ρητά.
+title: "FileStreamContainer.IsCreated"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FileStreamContainer. Αποκτά μια τιμή που υποδεικνύει εάν η ροή δημιουργήθηκε ρητά"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/filestreamcontainer/iscreated/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsCreated property
 
 Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή δημιουργήθηκε ρητά.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/filestreamcontainer/iscreated/
 public bool IsCreated { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν η ροή δημιουργήθηκε ρητά. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν η ροή δημιουργήθηκε ρητά· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [FileStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../filestreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.TiffStreamWriter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTiffStreamWriter τάξη.
+title: "TiffStreamWriter.TiffStreamWriter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TiffStreamWriter. Αρχικοποιεί μια νέα παρουσία της κλάσης TiffStreamWriter"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/tiffstreamwriter/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffStreamWriter`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`TiffStreamWriter`](../).
 
 ```csharp
 public TiffStreamWriter(StreamContainer writer)
@@ -16,13 +17,13 @@ public TiffStreamWriter(StreamContainer writer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| writer | StreamContainer | Ο συγγραφέας του ρεύματος. |
+| γράφος | StreamContainer | Ο γραφέας ροής. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

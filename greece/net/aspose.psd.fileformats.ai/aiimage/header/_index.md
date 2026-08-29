@@ -1,11 +1,12 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει την κεφαλίδα.
+title: "AiImage.Header"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiImage. Λαμβάνει την κεφαλίδα"
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
 Λαμβάνει την κεφαλίδα.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.ai/aiimage/header/
 public AiHeader Header { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κεφαλίδα.
 
@@ -22,7 +23,7 @@ public AiHeader Header { get; }
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

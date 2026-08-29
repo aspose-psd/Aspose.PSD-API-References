@@ -1,11 +1,12 @@
 ---
-title: Interface IXmlValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.IXmlValue διεπαφή. Μετατρέπει τις τιμές xmp στην αναπαράσταση συμβολοσειράς XML.
+title: "Διεπαφή IXmlValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.IXmlValue διεπαφή. Μετατρέπει τις τιμές xmp στην αναπαράσταση συμβολοσειράς XML"
 type: docs
-weight: 5750
+weight: 6250
 url: /el/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
 Μετατρέπει τις τιμές xmp στην αναπαράσταση συμβολοσειράς XML.
@@ -16,13 +17,13 @@ public interface IXmlValue
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue/)() | Μετατρέπει την τιμή XMP στην αναπαράσταση XML. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

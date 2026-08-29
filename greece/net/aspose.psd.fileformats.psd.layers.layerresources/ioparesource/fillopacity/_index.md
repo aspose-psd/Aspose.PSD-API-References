@@ -1,27 +1,28 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IopaResource ιδιοκτησία. Λαμβάνει ή ορίζει την αδιαφάνεια πλήρωσης.
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IopaResource. Επιστρέφει ή ορίζει τη διαφάνεια γεμίσματος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
-Λαμβάνει ή ορίζει την αδιαφάνεια πλήρωσης.
+Λαμβάνει ή ορίζει τη διαφάνεια γεμίσματος.
 
 ```csharp
 public byte FillOpacity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αδιαφάνεια πλήρωσης.
+Η διαφάνεια γεμίσματος.
 
 ### Δείτε επίσης
 
 * class [IopaResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

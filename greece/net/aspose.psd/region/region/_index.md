@@ -1,14 +1,15 @@
 ---
-title: Region.Region
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region κατασκευαστής. Αρχικοποιεί ένα νέοRegion .
+title: "Region.Region"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Region. Αρχικοποιεί ένα νέο Region"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/region/region/
 ---
+{{< psd/tize >}}
 ## Region() {#constructor}
 
-Αρχικοποιεί ένα νέο[`Region`](../) .
+Αρχικοποιεί ένα νέο [`Region`](../).
 
 ```csharp
 public Region()
@@ -17,14 +18,14 @@ public Region()
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(RectangleF) {#constructor_3}
 
-Αρχικοποιεί ένα νέο[`Region`](../) από τα καθορισμένα[`RectangleF`](../../rectanglef/)δομή.
+Αρχικοποιεί ένα νέο [`Region`](../) από τη συγκεκριμένη δομή [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public Region(RectangleF rect)
@@ -32,20 +33,20 @@ public Region(RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ΕΝΑ[`RectangleF`](../../rectanglef/) δομή που καθορίζει το εσωτερικό του νέου[`Region`](../). |
+| rect | RectangleF | Μια δομή [`RectangleF`](../../rectanglef/) που ορίζει το εσωτερικό του νέου [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(Rectangle) {#constructor_2}
 
-Αρχικοποιεί ένα νέο[`Region`](../) από τα καθορισμένα[`Rectangle`](../../rectangle/)δομή.
+Αρχικοποιεί ένα νέο [`Region`](../) από τη συγκεκριμένη δομή [`Rectangle`](../../rectangle/).
 
 ```csharp
 public Region(Rectangle rect)
@@ -53,20 +54,20 @@ public Region(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ΕΝΑ[`Rectangle`](../../rectangle/) δομή που καθορίζει το εσωτερικό του νέου[`Region`](../). |
+| rect | Rectangle | Μια δομή [`Rectangle`](../../rectangle/) που ορίζει το εσωτερικό του νέου [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(GraphicsPath) {#constructor_1}
 
-Αρχικοποιεί ένα νέο[`Region`](../) με τα καθορισμένα[`GraphicsPath`](../../graphicspath/) .
+Αρχικοποιεί ένα νέο [`Region`](../) με τη συγκεκριμένη [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public Region(GraphicsPath path)
@@ -74,19 +75,19 @@ public Region(GraphicsPath path)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| path | GraphicsPath | ΕΝΑ[`GraphicsPath`](../../graphicspath/)που ορίζει το νέο[`Region`](../). |
+| path | GraphicsPath | Μια [`GraphicsPath`](../../graphicspath/) που ορίζει το νέο [`Region`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *path* είναι μηδενικό. |
+| ArgumentNullException | *path* είναι null. |
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

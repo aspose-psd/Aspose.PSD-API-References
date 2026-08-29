@@ -1,27 +1,28 @@
 ---
-title: PsdImage.GlobalAngle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει ή ορίζει την καθολική γωνία.
+title: "PsdImage.GlobalAngle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει ή ορίζει τη γωνία."
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd/psdimage/globalangle/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalAngle property
 
-Λαμβάνει ή ορίζει την καθολική γωνία.
+Λαμβάνει ή ορίζει τη παγκόσμια γωνία.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει υποστήριξη για την ιδιότητα PsdImage.GlobalAngle για την αλλαγή της τιμής καθολικής γωνίας.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της ιδιότητας PsdImage.GlobalAngle για την αλλαγή της τιμής της παγκόσμιας γωνίας.
 
 ```csharp
 [C#]
 
-// Όταν η ιδιότητα DropShadowEffect.UseGlobalLight είναι "true", τότε το αντικείμενο DropShadowEffect χρησιμοποιεί την τιμή γωνίας από την ιδιότητα PsdImage.GlobalAngle.
+// Όταν η ιδιότητα DropShadowEffect.UseGlobalLight είναι 'true', τότε το αντικείμενο DropShadowEffect χρησιμοποιεί την τιμή γωνίας από την ιδιότητα PsdImage.GlobalAngle.
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -33,7 +34,7 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

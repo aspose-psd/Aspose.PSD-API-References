@@ -1,11 +1,12 @@
 ---
-title: BlendRange.BlendRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlendRange κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "BlendRange.BlendRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής BlendRange. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/blendrange/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public BlendRange()
 ### Δείτε επίσης
 
 * class [BlendRange](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

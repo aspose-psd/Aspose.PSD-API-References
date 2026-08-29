@@ -1,11 +1,12 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IIndexedColorConverter διεπαφή. Ο μετατροπέας χρώματος για μορφές εικόνας με ευρετήριο.
+title: "Διεπαφή IIndexedColorConverter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.IIndexedColorConverter διεπαφή. Ο μετατροπέας χρώματος για μορφές εικόνας με ευρετήριο"
 type: docs
-weight: 4470
+weight: 4940
 url: /el/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
 Ο μετατροπέας χρώματος για μορφές εικόνας με ευρετήριο.
@@ -16,13 +17,13 @@ public interface IIndexedColorConverter
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Συμπληρώνει τον χάρτη μετατροπής εικόνας με ευρετήριο σε ευρετηριασμένη. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Γεμίζει τον χάρτη μετατροπής εικόνας από ευρετήριο σε ευρετήριο. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: JpegExifData.JpegExifData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουJpegExifData τάξη.
+title: "JpegExifData.JpegExifData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "JpegExifData κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης JpegExifData"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.exif/jpegexifdata/jpegexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegExifData`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`JpegExifData`](../).
 
 ```csharp
 public JpegExifData()
@@ -17,14 +18,14 @@ public JpegExifData()
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegExifData`](../) κλάση με δεδομένα από πίνακα.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`JpegExifData`](../) με δεδομένα από πίνακα.
 
 ```csharp
 public JpegExifData(TiffDataType[] exifdata)
@@ -32,20 +33,20 @@ public JpegExifData(TiffDataType[] exifdata)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | Συστοιχία ετικετών EXIF μαζί με κοινές ετικέτες και ετικέτες GPS. |
+| exifdata | TiffDataType[] | Πίνακας ετικετών EXIF μαζί με κοινές ετικέτες και ετικέτες GPS. |
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegExifData`](../) κλάση με δεδομένα από πίνακα.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`JpegExifData`](../) με δεδομένα από πίνακα.
 
 ```csharp
 public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
@@ -61,7 +62,7 @@ public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffData
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

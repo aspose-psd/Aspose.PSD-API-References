@@ -1,11 +1,12 @@
 ---
-title: Figure.Bounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Figure ιδιοκτησία. Λαμβάνει ή ορίζει τα όρια του αντικειμένου.
+title: "Figure.Bounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Figure. Λαμβάνει ή ορίζει τα όρια του αντικειμένου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
 Λαμβάνει ή ορίζει τα όρια του αντικειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd/figure/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-τα όρια του αντικειμένου.
+Τα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* χώρος ονομάτων [Aspose.PSD](../../figure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

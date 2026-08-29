@@ -1,46 +1,47 @@
 ---
-title: Class TimeLine
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine τάξη. Το μοντέλο επιλογών γραμμής χρόνου.
+title: "Κλάση Timeline"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline κλάση. Το μοντέλο επιλογών χρονογραμμής."
 type: docs
-weight: 1880
+weight: 1980
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
-## TimeLine class
+{{< psd/tize >}}
+## Timeline class
 
-Το μοντέλο επιλογών γραμμής χρόνου.
+Το μοντέλο επιλογών χρονογραμμής.
 
 ```csharp
-public sealed class TimeLine
+public sealed class Timeline
 ```
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [TimeLine](timeline/)() | Ο προεπιλεγμένος κατασκευαστής. |
+| [Timeline](timeline/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/) { get; set; } | Λαμβάνει ή ορίζει το ενεργό ευρετήριο πλαισίου. |
+| [ActiveFrameIndex](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframeindex/) { get; } | Λαμβάνει τον δείκτη του ενεργού πλαισίου. |
 | [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | Λαμβάνει ή ορίζει την τιμή AFSt. |
 | [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | Λαμβάνει τη λίστα των πλαισίων. |
 | [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | Λαμβάνει ή ορίζει την τιμή FsID. |
-| [LayerIds](../../aspose.psd.fileformats.psd.layers.animation/timeline/layerids/) { get; set; } | Λαμβάνει ή ορίζει τον πίνακα αναγνωριστικών επιπέδων. |
-| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό των βρόχων. |
+| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό των επαναλήψεων. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [InitializeFrom](../../aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/)(PsdImage) | Δημιουργεί το νέο στιγμιότυπο του`TimeLine` , αρχικοποιήθηκε από την είσοδο[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
-| [ApplyTo](../../aspose.psd.fileformats.psd.layers.animation/timeline/applyto/)(PsdImage) | Εφαρμόστε τις τρέχουσες τιμές γραμμής χρόνου στην είσοδο[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save)(Stream, ImageOptionsBase) | Αποθηκεύει τα δεδομένα του PsdImage και του Timeline στο καθορισμένο ρεύμα στην καθορισμένη μορφή σύμφωνα με τις επιλογές αποθήκευσης. |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save_1)(string, ImageOptionsBase) | Αποθηκεύει τα δεδομένα του PsdImage και του Timeline στην καθορισμένη τοποθεσία αρχείου στην καθορισμένη μορφή σύμφωνα με τις επιλογές αποθήκευσης. |
+| [SwitchActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/switchactiveframe/)(int) | Αλλάζει το ενεργό πλαίσιο στο στοχευόμενο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Η κλάση TimeLine παρέχει μια υψηλού επιπέδου ικανότητα χειρισμού της γραμμής χρόνου του PsdImage, όπως η αλλαγή της καθυστέρησης καρέ ή η επεξεργασία της κατάστασης του επιπέδου σε ένα συγκεκριμένο πλαίσιο.
+Η κλάση Timeline παρέχει μια υψηλού επιπέδου δυνατότητα να χειρίζεται τη χρονογραμμή του PsdImage, όπως η αλλαγή καθυστέρησης πλαισίου ή η επεξεργασία της κατάστασης στρώσης σε συγκεκριμένο πλαίσιο.
 
 ```csharp
 [C#]
@@ -50,40 +51,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Αλλαγή της μεθόδου διάθεσης του πλαισίου 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Αλλαγή μεθόδου αποδέσμευσης του πλαισίου 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Αλλαγή καθυστέρησης καρέ 2
-    timeLine.Frames[1].Delay = 15;
+    // Αλλαγή καθυστέρησης του πλαισίου 2
+    timeline.Frames[1].Delay = 15;
 
-    // Αλλαγή της αδιαφάνειας του 'Layer 1' στο πλαίσιο 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Αλλαγή αδιαφάνειας του 'Layer 1' στο πλαίσιο 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // μετακινήστε το 'Layer 1' στην κάτω αριστερή γωνία στο πλαίσιο 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // μετακίνηση του 'Layer 1' στην αριστερή-κάτω γωνία στο πλαίσιο 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // Προσθέτει νέο πλαίσιο
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Αλλαγή blendMode του 'Layer 1' στο πλαίσιο 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Αλλάξτε το blendMode του 'Layer 1' στο καρέ 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Εφαρμογή αλλαγών πίσω στην παρουσία PsdImage
-    timeLine.ApplyTo(psdImage);
+    // Εφαρμόστε τις αλλαγές πίσω στο αντικείμενο PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

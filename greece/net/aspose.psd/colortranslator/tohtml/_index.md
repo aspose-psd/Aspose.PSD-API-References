@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.ToHtml
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorTranslator μέθοδος. Δημιουργεί χρώμα HTML από το χρώμα.
+title: "ColorTranslator.ToHtml"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorTranslator. Δημιουργεί χρώμα HTML από το χρώμα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/colortranslator/tohtml/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToHtml method
 
 Δημιουργεί χρώμα HTML από το χρώμα.
@@ -16,9 +17,9 @@ public static string ToHtml(Color c)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| c | Color | Η κατηγορία χρώματος. |
+| c | Χρώμα | Η κλάση χρώματος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα συμβολοσειράς html.
 
@@ -26,7 +27,7 @@ public static string ToHtml(Color c)
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* χώρος ονομάτων [Aspose.PSD](../../colortranslator/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

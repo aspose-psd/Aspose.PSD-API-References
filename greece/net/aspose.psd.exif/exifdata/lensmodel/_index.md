@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensModel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λήψη ή ρύθμιση του μοντέλου φακού.
+title: "ExifData.LensModel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το μοντέλο φακού"
 type: docs
 weight: 740
 url: /el/net/aspose.psd.exif/exifdata/lensmodel/
 ---
+{{< psd/tize >}}
 ## ExifData.LensModel property
 
-Λήψη ή ρύθμιση του μοντέλου φακού.
+Λαμβάνει ή ορίζει το μοντέλο του φακού.
 
 ```csharp
 public string LensModel { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μοντέλο φακού.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

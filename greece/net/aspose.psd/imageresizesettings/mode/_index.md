@@ -1,20 +1,21 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageResizeSettings ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία παρεμβολής.
+title: "ImageResizeSettings.Mode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ImageResizeSettings. Λαμβάνει ή ορίζει τη λειτουργία παρεμβολής"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/imageresizesettings/mode/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.Mode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία παρεμβολής.
+Λαμβάνει ή ορίζει τη λειτουργία παρεμβολής.
 
 ```csharp
 public ResizeType Mode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία.
 
@@ -22,7 +23,7 @@ public ResizeType Mode { get; set; }
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageresizesettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

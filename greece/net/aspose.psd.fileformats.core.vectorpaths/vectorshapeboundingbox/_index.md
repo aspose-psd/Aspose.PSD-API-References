@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox τάξη. Ορίζει την κλάση πλαισίου οριοθέτησης διανυσματικού σχήματος.
+title: "Κλάση VectorShapeBoundingBox"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox κλάση. Ορίζει κλάση περιθωρίου διανυσματικού σχήματος."
 type: docs
-weight: 1430
+weight: 1440
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-Ορίζει την κλάση πλαισίου οριοθέτησης διανυσματικού σχήματος.
+Ορίζει την κλάση vector shape bounding box.
 
 ```csharp
 public sealed class VectorShapeBoundingBox
@@ -16,29 +17,30 @@ public sealed class VectorShapeBoundingBox
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Παίρνει ή θέτει το κάτω μέρος. |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του πλαισίου οριοθέτησης σχήματος. |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Παίρνει ή ορίζει το αριστερό. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Λαμβάνει ή ορίζει την τετραπλή έκδοση της τιμής μονάδας. |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Παίρνει ή ορίζει το σωστό. |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Παίρνει ή θέτει την κορυφή. |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Λαμβάνει ή ορίζει το κάτω μέρος. |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του περιθωρίου σχήματος. |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Λαμβάνει ή ορίζει το αριστερό. |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο μονάδας των σημείων που καθορίζουν τις γωνίες του κουτιού. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Λαμβάνει ή ορίζει την τετραγωνική έκδοση της μονάδας τιμής. |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Λαμβάνει ή ορίζει το δεξιό. |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Λαμβάνει ή ορίζει το πάνω. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει ότι η φόρτωση και η αποθήκευση της εικόνας PSD με επίπεδα σχήματος και διανυσματικές διαδρομές λειτουργεί σωστά.
+Αυτό το παράδειγμα δείχνει ότι η φόρτωση και αποθήκευση της εικόνας PSD με στρώματα σχήματος και διανυσματικές διαδρομές λειτουργούν σωστά.
 
 ```csharp
 [C#]
 
-// Αυτό το παράδειγμα δείχνει ότι η φόρτωση και η αποθήκευση της εικόνας PSD με επίπεδα σχήματος και διανυσματικές διαδρομές λειτουργεί σωστά.
+// Αυτό το παράδειγμα δείχνει ότι η φόρτωση και αποθήκευση της εικόνας PSD με στρώματα σχήματος και διανυσματικές διαδρομές λειτουργούν σωστά.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -165,7 +167,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PattResourceData.SetPattern
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResourceData μέθοδος. Ορίζει το μοτίβο.
+title: "PattResourceData.SetPattern"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PattResourceData. Ορίζει το buffer εικονοστοιχείων του μοτίβου και το μέγεθος στόχου, ενημερώνει το Πλάτος / Ύψος και αποθηκεύει τα δεδομένα για αποθήκευση χρησιμοποιώντας την προεπιλεγμένη λειτουργία συμπίεσης 0"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/
 ---
+{{< psd/tize >}}
 ## PattResourceData.SetPattern method
 
-Ορίζει το μοτίβο.
+Ορίζει το buffer εικονοστοιχείων του μοτίβου και το μέγεθος στόχου, ενημερώνει το [`Width`](../width/) / [`Height`](../height/), και αποθηκεύει τα δεδομένα για αποθήκευση χρησιμοποιώντας την προεπιλεγμένη λειτουργία συμπίεσης (0).
 
 ```csharp
 public void SetPattern(int[] pixels, Rectangle bounds)
@@ -16,20 +17,20 @@ public void SetPattern(int[] pixels, Rectangle bounds)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pixels | Int32[] | Τα εικονοστοιχεία. |
-| bounds | Rectangle | Τα όρια. |
+| pixel | Int32[] | 32-bit pixel σε μορφή `0xAARRGGBB`. |
+| όρια | Rectangle | Όρια pixel του μοτίβου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Το μήκος του πίνακα pixel πρέπει να είναι ίσο με την περιοχή ορίων |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Το μήκος του πίνακα pixel πρέπει να είναι ίσο με την περιοχή των ορίων. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PattResourceData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

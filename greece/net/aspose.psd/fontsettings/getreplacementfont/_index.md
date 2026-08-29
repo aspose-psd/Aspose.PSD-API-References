@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Λαμβάνει την πιο κατάλληλη γραμματοσειρά αντικατάστασης. Εάν δεν επιτρέπονται όλες οι αντικαταστάσεις τότε θα επιστραφεί η πρώτη επιτρεπόμενη και διαθέσιμη γραμματοσειρά. Εάν δεν υπάρχουν διαθέσιμες γραμματοσειρές τότε θα επιστραφεί γραμματοσειρά από το argument
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Λαμβάνει τη πιο κατάλληλη γραμματοσειρά αντικατάστασης. Εάν όλες οι αντικαταστάσεις δεν επιτρέπονται, τότε θα επιστραφεί η πρώτη επιτρεπόμενη και διαθέσιμη γραμματοσειρά. Εάν δεν υπάρχουν διαθέσιμες γραμματοσειρές, τότε θα επιστραφεί η γραμματοσειρά από το όρισμα."
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-Λαμβάνει την πιο κατάλληλη γραμματοσειρά αντικατάστασης. Εάν δεν επιτρέπονται όλες οι αντικαταστάσεις, τότε θα επιστραφεί η πρώτη επιτρεπόμενη και διαθέσιμη γραμματοσειρά. Εάν δεν υπάρχουν διαθέσιμες γραμματοσειρές, τότε θα επιστραφεί γραμματοσειρά από το argument
+Λαμβάνει τη πιο κατάλληλη γραμματοσειρά αντικατάστασης. Εάν όλες οι αντικαταστάσεις δεν επιτρέπονται, θα επιστραφεί η πρώτη επιτρεπόμενη και διαθέσιμη γραμματοσειρά. Εάν δεν υπάρχουν διαθέσιμες γραμματοσειρές, θα επιστραφεί η γραμματοσειρά από το όρισμα.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
@@ -18,13 +19,13 @@ public static string GetReplacementFont(string fontName)
 | --- | --- | --- |
 | fontName | String | Όνομα της γραμματοσειράς. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το όνομα της γραμματοσειράς που αντικαταστάθηκε
+Το όνομα της αντικατεστημένης γραμματοσειράς
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα προγραμματισμού περιορισμού γραμματοσειρών με χρήση.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα περιορισμού των γραμματοσειρών προγραμματιστικά χρησιμοποιώντας.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

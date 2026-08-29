@@ -1,11 +1,12 @@
 ---
-title: Lr16Resource.Lr16Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Lr16Resource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "Lr16Resource.Lr16Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Lr16Resource. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/lr16resource/
 ---
+{{< psd/tize >}}
 ## Lr16Resource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public Lr16Resource()
 ### Δείτε επίσης
 
 * class [Lr16Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

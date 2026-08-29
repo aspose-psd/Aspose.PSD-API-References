@@ -1,11 +1,12 @@
 ---
-title: XmpGuid.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpGuid ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή.
+title: "XmpGuid.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpGuid. Λαμβάνει ή ορίζει την τιμή"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.derived/xmpguid/value/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Value property
 
 Λαμβάνει ή ορίζει την τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.derived/xmpguid/value/
 public Guid Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [XmpGuid](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

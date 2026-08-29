@@ -1,14 +1,15 @@
 ---
-title: Class PlLdResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource τάξη. Καθορίζει την κλάση PlLdResource που περιέχει πληροφορίες σχετικά με ένα τοποθετημένο επίπεδο στο αρχείο PSD. Is χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες του Adobe Photoshop. Αντικαταστάθηκε από το SoLdResource στο Adobe Photoshop CS3
+title: "Class PlLdResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource class. Ορίζει την κλάση PlLdResource που περιέχει πληροφορίες σχετικά με ένα τοποθετημένο στρώμα στο αρχείο PSD. Χρησιμοποιείται για την υποστήριξη στρωμάτων έξυπνων αντικειμένων στις εικόνες Adobe Photoshop. Αντικαταστάθηκε από το SoLdResource στο Adobe Photoshop CS3"
 type: docs
-weight: 2920
+weight: 3270
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
+{{< psd/tize >}}
 ## PlLdResource class
 
-Καθορίζει την κλάση PlLdResource που περιέχει πληροφορίες σχετικά με ένα τοποθετημένο επίπεδο στο αρχείο PSD. Is χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες του Adobe® Photoshop®. Αντικαταστάθηκε από το SoLdResource στο Adobe® Photoshop® CS3
+Ορίζει την κλάση PlLdResource που περιέχει πληροφορίες σχετικά με μια τοποθετημένη στρώση στο αρχείο PSD. Χρησιμοποιείται για την υποστήριξη στρώσεων έξυπνου αντικειμένου σε εικόνες Adobe® Photoshop®. Αντικαταστάθηκε από τη SoLdResource στο Adobe® Photoshop® CS3.
 
 ```csharp
 public class PlLdResource : PlacedResource
@@ -16,52 +17,52 @@ public class PlLdResource : PlacedResource
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Λαμβάνει ή ορίζει την πολιτική κατά του ψευδωνύμου του τοποθετημένου επιπέδου στην εικόνα PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Λαμβάνει ή ορίζει την κάτω θέση του τοποθετημένου στρώματος στην εικόνα PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του τοποθετημένου επιπέδου στο αρχείο PSD. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Λαμβάνει ή ορίζει την πολιτική anti-alias του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Λαμβάνει ή ορίζει τη θέση κάτω του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Λαμβάνει ή ορίζει τα όρια του τοποθετημένου στρώματος στο αρχείο PSD. |
 | [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Λαμβάνει ή ορίζει τα οριζόντια σημεία πλέγματος του τοποθετημένου στρώματος στο αρχείο PSD. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης των οριζόντιων σημείων πλέγματος. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιλ παραμόρφωσης της παρουσίας είναι προσαρμοσμένο. Εάν είναι αληθές, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει σημεία πλέγματος. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Λαμβάνει ή ορίζει τα στοιχεία στημόνι. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | Λαμβάνει το κλειδί πόρων PlLd. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Λαμβάνει ή ορίζει την αριστερή θέση του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | Λαμβάνει το μήκος πόρου PlLd σε byte. |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό σελίδας του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Λαμβάνει ή ορίζει την προοπτική τιμή του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου επιπέδου στο αρχείο PSD. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το στυλ παραμόρφωσης αυτής της παρουσίας είναι προσαρμοσμένο. Εάν είναι true, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει τα σημεία πλέγματος. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Λαμβάνει ή ορίζει τα στοιχεία παραμόρφωσης. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Λαμβάνει ή ορίζει τη θέση αριστερά του τοποθετημένου στρώματος στο αρχείο PSD. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | Λαμβάνει το μήκος του πόρου PlLd σε bytes. |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό σελίδας του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Λαμβάνει ή ορίζει την τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD. |
 | virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο του τοποθετημένου στρώματος στο αρχείο PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο PlLd. Το 0 δεν υποδηλώνει περιορισμούς. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Λαμβάνει ή ορίζει τη σωστή θέση του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | Λαμβάνει την υπογραφή του πόρου PlLd. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Λαμβάνει ή ορίζει την επάνω θέση του τοποθετημένου στρώματος στην εικόνα PSD. |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Λαμβάνει ή ορίζει τις συνολικές σελίδες του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Λαμβάνει ή ορίζει το καθολικό μοναδικό αναγνωριστικό του τοποθετημένου επιπέδου στην εικόνα PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Λαμβάνει ή ορίζει την τιμή σειράς U του τοποθετημένου επιπέδου στο αρχείο PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή στημόνι του τοποθετημένου στρώματος στην εικόνα PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Λαμβάνει την έκδοση του τοποθετημένου επιπέδου στο αρχείο PSD, συνήθως 3. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Λαμβάνει ή ορίζει τη θέση δεξιά του τοποθετημένου στρώματος στο αρχείο PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Ανακτά ή ορίζει τη θέση κορυφής του τοποθετημένου στρώματος στην εικόνα PSD. |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Ανακτά ή ορίζει τις συνολικές σελίδες του τοποθετημένου στρώματος στο αρχείο PSD. |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Ανακτά ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου στρώματος στο αρχείο PSD. |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Ανακτά ή ορίζει το παγκόσμιο μοναδικό αναγνωριστικό του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Ανακτά ή ορίζει την τιμή σειράς U του τοποθετημένου στρώματος στο αρχείο PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Ανακτά ή ορίζει την τιμή παραμόρφωσης του τοποθετημένου στρώματος στην εικόνα PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Ανακτά την έκδοση του τοποθετημένου στρώματος στο αρχείο PSD, συνήθως 3. |
 | [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Λαμβάνει ή ορίζει τα οριζόντια σημεία πλέγματος του τοποθετημένου στρώματος στο αρχείο PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Λαμβάνει ή ορίζει τη μονάδα μέτρησης των κατακόρυφων σημείων πλέγματος. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Λαμβάνει ή ορίζει την τιμή τάξης V του τοποθετημένου επιπέδου στο αρχείο PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Ανακτά ή ορίζει τη μονάδα μέτρησης των κάθετων σημείων πλέγματος. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Ανακτά ή ορίζει την τιμή σειράς V του τοποθετημένου στρώματος στο αρχείο PSD. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο PlLD στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
 
 ```csharp
 [C#]
@@ -243,16 +244,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-                // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+                // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+                // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-                ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+                // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -267,7 +268,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [PlacedResource](../placedresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.ToBitmap
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Μετατρέπει την εικόνα ράστερ στο bitmap.
+title: "RasterImage.ToBitmap"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage μέθοδος. Μετατρέπει την ραστερική εικόνα σε bitmap"
 type: docs
-weight: 580
+weight: 600
 url: /el/net/aspose.psd/rasterimage/tobitmap/
 ---
+{{< psd/tize >}}
 ## RasterImage.ToBitmap method
 
-Μετατρέπει την εικόνα ράστερ στο bitmap.
+Μετατρέπει την raster εικόνα σε bitmap.
 
 ```csharp
 public virtual Bitmap ToBitmap()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το bitmap
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

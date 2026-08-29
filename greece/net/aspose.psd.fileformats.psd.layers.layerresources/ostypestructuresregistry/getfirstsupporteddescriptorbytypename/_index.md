@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructuresRegistry μέθοδος. Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με το όνομα τύπου του.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος OSTypeStructuresRegistry. Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με βάση το όνομα τύπου του"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με το όνομα τύπου του.
+Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με βάση το όνομα τύπου του.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
@@ -17,21 +18,21 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| descriptorTypeName | String | Όνομα τύπου περιγραφέα. |
+| descriptorTypeName | String | Το όνομα τύπου περιγραφέα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Βρέθηκε ο πρώτος περιγραφέας ανοίγματος ή μηδενικός, εάν όχι, αυτός ο περιγραφέας.
+Ο πρώτος βρεθείς περιγραφέας ανοίγματος ή null εάν δεν βρεθεί τέτοιος περιγραφέας.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος περιγραφέας ανοίγματος θα είναι στην πραγματικότητα ο τελευταίος εγγεγραμμένος.
+Ο πρώτος περιγραφέας ανοίγματος θα είναι στην πραγματικότητα ο τελευταίος καταχωρημένος.
 
 ### Δείτε επίσης
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

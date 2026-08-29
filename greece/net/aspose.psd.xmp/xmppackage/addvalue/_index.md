@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.AddValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage μέθοδος. Προσθέτει την τιμή.
+title: "XmpPackage.AddValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackage μέθοδος. Προσθέτει την τιμή."
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp/xmppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.AddValue method
 
 Προσθέτει την τιμή.
@@ -16,19 +17,19 @@ public virtual void AddValue(string key, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Η αναπαράσταση συμβολοσειράς του κλειδιού που προσδιορίζεται με προστιθέμενη αξία. |
-| value | String | Η αξία που πρέπει να προστεθεί. |
+| κλειδί | String | Η αναπαράσταση τύπου string του κλειδιού που ταυτοποιείται με την προστιθέμενη τιμή. |
+| τιμή | String | Η τιμή για προσθήκη. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | το κλειδί είναι μηδενικό. |
+| ArgumentNullException | Το κλειδί είναι null. |
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

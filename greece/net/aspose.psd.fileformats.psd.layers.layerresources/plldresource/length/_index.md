@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlLdResource ιδιοκτησία. Λαμβάνει το μήκος πόρου PlLd σε byte.
+title: "PlLdResource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlLdResource. Λαμβάνει το μήκος του πόρου PlLd σε bytes"
 type: docs
-weight: 20
+weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Length property
 
-Λαμβάνει το μήκος πόρου PlLd σε byte.
+Λαμβάνει το μήκος του πόρου PlLd σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [PlLdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

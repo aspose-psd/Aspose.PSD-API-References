@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShmdResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "ShmdResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο ShmdResource. Το κλειδί πληροφοριών του εργαλείου τύπου"
 type: docs
-weight: 100
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ShmdResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [ShmdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterImage.AdjustContrast
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Αντίθεση εικόνας
+title: "RasterImage.AdjustContrast"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Αντίθεση εικόνας"
 type: docs
 weight: 190
 url: /el/net/aspose.psd/rasterimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustContrast method
 
 Αντίθεση εικόνας
@@ -16,12 +17,12 @@ public virtual void AdjustContrast(float contrast)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| contrast | Single | Τιμή αντίθεσης (στο εύρος [-100; 100]) |
+| αντίθεση | Single | Τιμή αντίθεσης (στην περιοχή [-100; 100]) |
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

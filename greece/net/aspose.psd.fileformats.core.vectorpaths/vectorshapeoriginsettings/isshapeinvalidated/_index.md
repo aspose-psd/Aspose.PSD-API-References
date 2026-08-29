@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidated
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeOriginSettings ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το σχήμα είναι άκυρο.
+title: "VectorShapeOriginSettings.IsShapeInvalidated"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VectorShapeOriginSettings ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το σχήμα είναι ακυρωμένο"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το σχήμα είναι άκυρο.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το σχήμα είναι ακυρωμένο.
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // ΑΝΑΓΝΩΣΗ
+    // Ανάγνωση
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [VectorShapeOriginSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

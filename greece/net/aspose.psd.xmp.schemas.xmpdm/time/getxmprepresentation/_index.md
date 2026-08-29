@@ -1,27 +1,28 @@
 ---
-title: Time.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Time μέθοδος. Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "Time.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Time. Λαμβάνει την τιμή της συμβολοσειράς σε μορφή XMP"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Time.GetXmpRepresentation method
 
-Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [Time](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

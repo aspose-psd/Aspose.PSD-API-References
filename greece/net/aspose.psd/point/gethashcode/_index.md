@@ -1,27 +1,28 @@
 ---
-title: Point.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτόPoint .
+title: "Point.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Επιστρέφει έναν κωδικό κατακερματισμού για αυτό το Point."
 type: docs
 weight: 120
 url: /el/net/aspose.psd/point/gethashcode/
 ---
+{{< psd/tize >}}
 ## Point.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτό[`Point`](../) .
+Επιστρέφει έναν κωδικό κατακερματισμού για αυτό το [`Point`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

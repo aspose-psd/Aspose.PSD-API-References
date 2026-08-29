@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IObjectWithBounds ιδιοκτησία. Λαμβάνει το ύψος του αντικειμένου.
+title: "IObjectWithBounds.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IObjectWithBounds. Λαμβάνει το ύψος του αντικειμένου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/iobjectwithbounds/height/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Height property
 
 Λαμβάνει το ύψος του αντικειμένου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/iobjectwithbounds/height/
 public int Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος του αντικειμένου.
 
 ### Δείτε επίσης
 
 * interface [IObjectWithBounds](../)
-* χώρος ονομάτων [Aspose.PSD](../../iobjectwithbounds/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τις ημίτονο υποδείξεις.
+title: "TiffOptions.HalfToneHints"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τις συμβουλές ημιτόνου"
 type: docs
-weight: 170
+weight: 180
 url: /el/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
-Λαμβάνει ή ορίζει τις ημίτονο υποδείξεις.
+Λαμβάνει ή ορίζει τις υποδείξεις ημιτονοειδούς.
 
 ```csharp
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι ημίτονο υπαινιγμοί.
+Οι συμβουλές ημιτόνου.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | αξία |
-| ArgumentOutOfRangeException | τιμή;Halftone hints το μήκος του πίνακα πρέπει να είναι ίσο με 2. |
+| ArgumentNullException | τιμή |
+| ArgumentOutOfRangeException | value;Το μήκος του πίνακα συμβουλών ημιτόνου πρέπει να είναι ίσο με 2. |
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

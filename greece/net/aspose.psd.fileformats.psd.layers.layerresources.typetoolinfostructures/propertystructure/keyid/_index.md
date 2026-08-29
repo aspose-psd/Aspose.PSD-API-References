@@ -1,11 +1,12 @@
 ---
-title: PropertyStructure.KeyID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PropertyStructure ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό κλειδιού.
+title: "PropertyStructure.KeyID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PropertyStructure ιδιότητα. Λαμβάνει ή ορίζει το ID κλειδιού"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.KeyID property
 
 Λαμβάνει ή ορίζει το αναγνωριστικό κλειδιού.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID KeyID { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αναγνωριστικό κλειδιού.
+Το ID του κλειδιού.
 
 ### Δείτε επίσης
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

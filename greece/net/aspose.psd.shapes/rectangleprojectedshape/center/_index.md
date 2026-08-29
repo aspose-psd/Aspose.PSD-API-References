@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Center
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleProjectedShape ιδιοκτησία. Λαμβάνει το κέντρο του σχήματος.
+title: "RectangleProjectedShape.Center"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RectangleProjectedShape. Λαμβάνει το κέντρο του σχήματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.shapes/rectangleprojectedshape/center/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Center property
 
 Λαμβάνει το κέντρο του σχήματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.shapes/rectangleprojectedshape/center/
 public override PointF Center { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κέντρο του σχήματος.
 
@@ -22,7 +23,7 @@ public override PointF Center { get; }
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

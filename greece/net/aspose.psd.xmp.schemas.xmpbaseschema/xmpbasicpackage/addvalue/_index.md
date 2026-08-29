@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.AddValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage μέθοδος. Προσθέτει την ιδιότητα συμβολοσειράς.
+title: "XmpBasicPackage.AddValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpBasicPackage. Προσθέτει ιδιότητα τύπου string"
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.AddValue method
 
-Προσθέτει την ιδιότητα συμβολοσειράς.
+Προσθέτει ιδιότητα συμβολοσειράς.
 
 ```csharp
 public override void AddValue(string key, string value)
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Η αναπαράσταση συμβολοσειράς του κλειδιού που προσδιορίζεται με προστιθέμενη αξία. |
-| value | String | Η τιμή της συμβολοσειράς. |
+| κλειδί | String | Η αναπαράσταση τύπου string του κλειδιού που ταυτοποιείται με την προστιθέμενη τιμή. |
+| τιμή | String | Η τιμή string. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | κλειδί;Δεν παρέχεται κλειδί μεταδεδομένων |
+| ArgumentNullException | key;Το κλειδί μεταδεδομένων δεν παρέχεται |
 
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

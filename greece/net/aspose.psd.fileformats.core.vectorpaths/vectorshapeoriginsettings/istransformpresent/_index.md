@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeOriginSettings ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα μετασχηματισμού.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorShapeOriginSettings. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα μετασχηματισμού"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
 Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα μετασχηματισμού.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/i
 public bool IsTransformPresent { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν αυτή η περίπτωση έχει την ιδιότητα μετασχηματισμού. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία έχει την ιδιότητα μετασχηματισμού· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει τη δυνατότητα αλλαγής μεγέθους στρωμάτων σχήματος που περιέχει διανυσματικά μονοπάτια.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα αλλαγής μεγέθους ενός στρώματος σχήματος που περιέχει διανυσματικές διαδρομές.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 ### Δείτε επίσης
 
 * class [VectorShapeOriginSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

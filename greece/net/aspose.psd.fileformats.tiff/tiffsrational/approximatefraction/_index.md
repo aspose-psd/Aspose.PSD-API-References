@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffSRational μέθοδος. Προσεγγίζει την παρεχόμενη τιμή σε ένα κλάσμα.
+title: "TiffSRational.ApproximateFraction"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffSRational. Προσεγγίζει την παρεχόμενη τιμή σε κλάσμα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
-Προσεγγίζει την παρεχόμενη τιμή σε ένα κλάσμα.
+Προσεγγίζει την παρεχόμενη τιμή σε κλάσμα.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value, double epsilon)
@@ -16,24 +17,24 @@ public static TiffSRational ApproximateFraction(double value, double epsilon)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
-| epsilon | Double | Το σφάλμα επιτρέπεται. |
+| τιμή | Double | Η τιμή. |
+| epsilon | Double | Το επιτρεπόμενο σφάλμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας ρητός αριθμός με σφάλμα μικρότερο από*epsilon*.
+Ένας ρητός αριθμός με σφάλμα μικρότερο από *epsilon*.
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(double) {#approximatefraction}
 
-Προσεγγίζει την παρεχόμενη τιμή σε ένα κλάσμα.
+Προσεγγίζει την παρεχόμενη τιμή σε κλάσμα.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value)
@@ -41,23 +42,23 @@ public static TiffSRational ApproximateFraction(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας ρητός αριθμός με σφάλμα μικρότερο από[`Epsilon`](../epsilon/) .
+Ένας ρητός αριθμός με σφάλμα μικρότερο από [`Epsilon`](../epsilon/).
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float, double) {#approximatefraction_3}
 
-Προσεγγίζει την παρεχόμενη τιμή σε ένα κλάσμα.
+Προσεγγίζει την παρεχόμενη τιμή σε κλάσμα.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value, double epsilon)
@@ -65,24 +66,24 @@ public static TiffSRational ApproximateFraction(float value, double epsilon)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Single | Η αξία. |
-| epsilon | Double | Το σφάλμα επιτρέπεται. |
+| τιμή | Single | Η τιμή. |
+| epsilon | Double | Το επιτρεπόμενο σφάλμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας ρητός αριθμός με σφάλμα μικρότερο από*epsilon*.
+Ένας ρητός αριθμός με σφάλμα μικρότερο από *epsilon*.
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float) {#approximatefraction_2}
 
-Προσεγγίζει την παρεχόμενη τιμή σε ένα κλάσμα.
+Προσεγγίζει την παρεχόμενη τιμή σε κλάσμα.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value)
@@ -90,16 +91,16 @@ public static TiffSRational ApproximateFraction(float value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Single | Η αξία. |
+| τιμή | Single | Η τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας ρητός αριθμός με σφάλμα μικρότερο από[`Epsilon`](../epsilon/) .
+Ένας ρητός αριθμός με σφάλμα μικρότερο από [`Epsilon`](../epsilon/).
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

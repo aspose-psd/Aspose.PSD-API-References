@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Right
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle ιδιοκτησία. Παίρνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα τουX καιWidth αξίες ιδιοκτησίας αυτούRectangleδομή.
+title: "Rectangle.Right"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Rectangle. Λαμβάνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα των τιμών των ιδιοτήτων X και Width αυτής της δομής Rectangle."
 type: docs
 weight: 160
 url: /el/net/aspose.psd/rectangle/right/
 ---
+{{< psd/tize >}}
 ## Rectangle.Right property
 
-Παίρνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα του[`X`](../x/) και[`Width`](../width/) αξίες ιδιοκτησίας αυτού[`Rectangle`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα των τιμών των ιδιοτήτων [`X`](../x/) και [`Width`](../width/) αυτής της δομής [`Rectangle`](../).
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συντεταγμένη x που είναι το άθροισμα του[`X`](../x/) και[`Width`](../width/) από αυτό[`Rectangle`](../) .
+Η συντεταγμένη x που είναι το άθροισμα των [`X`](../x/) και [`Width`](../width/) αυτής της [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

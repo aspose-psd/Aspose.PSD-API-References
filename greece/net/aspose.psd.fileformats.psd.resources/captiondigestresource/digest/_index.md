@@ -1,27 +1,28 @@
 ---
-title: CaptionDigestResource.Digest
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CaptionDigestResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη σύνοψη.
+title: "CaptionDigestResource.Digest"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CaptionDigestResource property. Λαμβάνει ή ορίζει το digest"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.Digest property
 
-Λαμβάνει ή ρυθμίζει τη σύνοψη.
+Λαμβάνει ή ορίζει τη σύνοψη.
 
 ```csharp
 public byte[] Digest { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η πέψη.
+Η σύνοψη.
 
 ### Δείτε επίσης
 
 * class [CaptionDigestResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

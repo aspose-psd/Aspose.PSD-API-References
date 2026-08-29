@@ -1,11 +1,12 @@
 ---
-title: LspfResource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LspfResource μέθοδος. Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
+title: "LspfResource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LspfResource μέθοδος. Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής"
 type: docs
-weight: 100
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/save/
 ---
+{{< psd/tize >}}
 ## LspfResource.Save method
 
 Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

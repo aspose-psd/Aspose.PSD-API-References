@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SizeF μέθοδος. Μετατρέπει αSizeF σε αSize δομή με περικομμένες τιμές μεγέθους.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος SizeF. Μετατρέπει ένα SizeF σε μια δομή Size με περικομμένες τιμές μεγέθους"
 type: docs
 weight: 110
 url: /el/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-Μετατρέπει α[`SizeF`](../) σε α[`Size`](../../size/) δομή με περικομμένες τιμές μεγέθους.
+Μετατρέπει ένα [`SizeF`](../) σε μια δομή [`Size`](../../size/) με περικομμένες τιμές μεγέθους.
 
 ```csharp
 public Size ToSize()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει α[`Size`](../../size/) δομή.
+Επιστρέφει μια δομή [`Size`](../../size/).
 
 ### Δείτε επίσης
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

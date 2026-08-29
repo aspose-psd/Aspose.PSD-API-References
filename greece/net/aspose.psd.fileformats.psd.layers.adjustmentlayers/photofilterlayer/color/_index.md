@@ -1,20 +1,21 @@
 ---
-title: PhotoFilterLayer.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoFilterLayer ιδιοκτησία. Λαμβάνει ή ορίζει το χρώμα RGB του φίλτρου.
+title: "PhotoFilterLayer.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PhotoFilterLayer. Λαμβάνει ή ορίζει το χρώμα RGB του φίλτρου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/color/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Color property
 
-Λαμβάνει ή ορίζει το χρώμα RGB του φίλτρου.
+Αποκτά ή ορίζει το χρώμα RGB του φίλτρου.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
@@ -22,7 +23,7 @@ public Color Color { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhotoFilterLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

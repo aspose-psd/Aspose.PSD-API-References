@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FilterEffectMaskData ιδιοκτησία. Λαμβάνει το μήκος δεδομένων της μάσκας φίλτρου σε byte.
+title: "FilterEffectMaskData.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FilterEffectMaskData. Επιστρέφει το μήκος των δεδομένων μάσκας φίλτρου σε bytes."
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Length property
 
-Λαμβάνει το μήκος δεδομένων της μάσκας φίλτρου σε byte.
+Λαμβάνει το μήκος των δεδομένων μάσκας φίλτρου σε byte.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### Δείτε επίσης
 
 * class [FilterEffectMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

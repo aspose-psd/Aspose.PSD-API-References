@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τους συντελεστές υποδειγματοληψίας για το φωτομετρικό YCbCr.
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τους παράγοντες υποδειγματοληψίας για το YCbCr photometric"
 type: docs
-weight: 670
+weight: 680
 url: /el/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-Λαμβάνει ή ορίζει τους συντελεστές υποδειγματοληψίας για το φωτομετρικό YCbCr.
+Λαμβάνει ή ορίζει τους παράγοντες υποδειγματοληψίας για το YCbCr photometric.
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι συντελεστές υποδειγματοληψίας για το φωτομετρικό YCbCr.
+Οι παράγοντες υποδειγματοληψίας για το YCbCr photometric.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Μη έγκυρο μήκος πεδίου. Το πεδίο YCbCrSubsampling πρέπει να περιέχει δύο τιμές. |
-| ArgumentNullException | αξία |
+| ArgumentNullException | τιμή |
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

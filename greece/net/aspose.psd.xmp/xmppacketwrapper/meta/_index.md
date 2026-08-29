@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Meta
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPacketWrapper ιδιοκτησία. Λαμβάνει το XMP meta. Προαιρετικό.
+title: "XmpPacketWrapper.Meta"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpPacketWrapper. Λαμβάνει το meta XMP. Προαιρετικό"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp/xmppacketwrapper/meta/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Meta property
 
-Λαμβάνει το XMP meta. Προαιρετικό.
+Αποκτά τα μεταδεδομένα XMP. Προαιρετικό.
 
 ```csharp
 public XmpMeta Meta { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το XMP meta. Προαιρετικό.
+Το meta XMP. Προαιρετικό.
 
 ### Δείτε επίσης
 
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class MatrixExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.MatrixExtensions τάξη. Περιέχει τοMatrix επεκτάσεις τάξης.
+title: "Κλάση MatrixExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.MatrixExtensions κλάση. Περιέχει τις επεκτάσεις της κλάσης Matrix"
 type: docs
-weight: 1130
+weight: 1140
 url: /el/net/aspose.psd.extensions/matrixextensions/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions class
 
-Περιέχει το[`Matrix`](../../aspose.psd/matrix/) επεκτάσεις τάξης.
+Περιέχει τις επεκτάσεις της κλάσης [`Matrix`](../../aspose.psd/matrix/).
 
 ```csharp
 public static class MatrixExtensions
@@ -16,13 +17,13 @@ public static class MatrixExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | Μετατρέπει το[`Matrix`](../../aspose.psd/matrix/) στοMatrix . |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | Μετατρέπει το [`Matrix`](../../aspose.psd/matrix/) σε Matrix. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

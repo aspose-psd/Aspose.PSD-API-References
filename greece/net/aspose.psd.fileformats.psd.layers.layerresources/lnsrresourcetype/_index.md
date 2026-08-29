@@ -1,11 +1,12 @@
 ---
-title: Enum LnsrResourceType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType αρίθμηση. Ανακαλύφθηκαν πιθανοί τύποι πόρων Lnsr
+title: "Απαρίθμηση LnsrResourceType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType απαρίθμηση. Ανακαλύφθηκαν πιθανοί τύποι πόρων Lnsr."
 type: docs
-weight: 2760
+weight: 3070
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
 Ανακαλύφθηκαν πιθανοί τύποι πόρων Lnsr
@@ -14,19 +15,19 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 public enum LnsrResourceType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Rend | `0` | Η απόδοση για text |
-| Cont | `1` | Η συνέχεια για το επίπεδο πλήρωσης για παράδειγμα |
-| Bgnd | `2` | Το επίπεδο Bgnd για φόντο |
-| Layr | `3` | Το στρώμα για κανονικό επίπεδο εικόνας |
-| Unknown | `4` | Το Άγνωστο είναι για την περίπτωση που δεν περιγράψαμε το enum |
+| Rend | `0` | Το rend για κείμενο |
+| Cont | `1` | Το cont για στρώση γεμίσματος, για παράδειγμα |
+| Bgnd | `2` | Το Bgnd για στρώση φόντου |
+| Layr | `3` | Το layr για κανονική στρώση εικόνας |
+| Unknown | `4` | Το Unknown είναι για κατάσταση όταν δεν περιγράψαμε την απαρίθμηση |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

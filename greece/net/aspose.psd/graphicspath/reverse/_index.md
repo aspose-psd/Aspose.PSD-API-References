@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Reverse
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath μέθοδος. Αντιστρέφει τη σειρά των σχημάτων σχημάτων και σημείων σε κάθε σχήμα αυτούGraphicsPath .
+title: "GraphicsPath.Reverse"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος GraphicsPath. Αντιστρέφει τη σειρά των σχημάτων, μορφών και σημείων σε κάθε σχήμα αυτού του GraphicsPath."
 type: docs
 weight: 160
 url: /el/net/aspose.psd/graphicspath/reverse/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reverse method
 
-Αντιστρέφει τη σειρά των σχημάτων, σχημάτων και σημείων σε κάθε σχήμα αυτού[`GraphicsPath`](../) .
+Αντιστρέφει τη σειρά των σχημάτων, μορφών και σημείων σε κάθε σχήμα αυτού του [`GraphicsPath`](../).
 
 ```csharp
 public void Reverse()
@@ -17,7 +18,7 @@ public void Reverse()
 ### Δείτε επίσης
 
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

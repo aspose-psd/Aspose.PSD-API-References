@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.Result
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAsyncTask ιδιοκτησία. Λαμβάνει το αποτέλεσμα αυτής της εργασίας.
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IAsyncTask ιδιότητα. Λαμβάνει το αποτέλεσμα αυτής της διεργασίας."
 type: docs
 weight: 60
 url: /el/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
 Λαμβάνει το αποτέλεσμα αυτής της εργασίας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.asynctask/iasynctask/result/
 public object Result { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αποτέλεσμα αυτής της εργασίας.
+Το αποτέλεσμα αυτής της διεργασίας.
 
 ### Δείτε επίσης
 
 * interface [IAsyncTask](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctask/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class DitheringMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Dithering.DitheringMode τάξη. Ρυθμίσεις διαφοροποίησης που θα εφαρμοστούν στην εικόνα κατά την αποθήκευση.
+title: "Κλάση DitheringMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Dithering.DitheringMode. Ρυθμίσεις τριχοκοπίας που θα εφαρμοστούν στην εικόνα κατά την αποθήκευση"
 type: docs
-weight: 760
+weight: 770
 url: /el/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-Ρυθμίσεις διαφοροποίησης που θα εφαρμοστούν στην εικόνα κατά την αποθήκευση.
+Ρυθμίσεις διασποράς που θα εφαρμοστούν στην εικόνα κατά την αποθήκευση.
 
 ```csharp
 public class DitheringMode
@@ -16,21 +17,21 @@ public class DitheringMode
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [DitheringMode](ditheringmode/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Ο συντελεστής δειγματοληψίας της εικόνας με διάσπαση. |
-| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Η προσαρμοσμένη παλέτα για το dithering. |
-| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Επιλογή αλγορίθμου διένεξης. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Ο παράγοντας δειγματοληψίας της τριχοκοπημένης εικόνας. |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | Η προσαρμοσμένη παλέτα για dithering. |
+| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Επιλογή αλγορίθμου dithering. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

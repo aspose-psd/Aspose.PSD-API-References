@@ -1,27 +1,28 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Μετατρέπει τα χαρακτηριστικά αυτούRectangle σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+title: "Rectangle.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Μετατρέπει τα χαρακτηριστικά αυτού του Rectangle σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά."
 type: docs
 weight: 280
 url: /el/net/aspose.psd/rectangle/tostring/
 ---
+{{< psd/tize >}}
 ## Rectangle.ToString method
 
-Μετατρέπει τα χαρακτηριστικά αυτού[`Rectangle`](../) σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+Μετατρέπει τα χαρακτηριστικά αυτού του [`Rectangle`](../) σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια συμβολοσειρά που περιέχει τη θέση, το πλάτος και το ύψος αυτού[`Rectangle`](../) δομή.
+Μια συμβολοσειρά που περιέχει τη θέση, το πλάτος και το ύψος αυτής της δομής [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

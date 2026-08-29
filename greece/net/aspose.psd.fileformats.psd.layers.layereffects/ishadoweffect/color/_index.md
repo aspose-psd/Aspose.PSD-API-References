@@ -1,20 +1,21 @@
 ---
-title: IShadowEffect.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IShadowEffect ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα.
+title: "IShadowEffect.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IShadowEffect. Λαμβάνει ή ορίζει το χρώμα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
-Παίρνει ή ρυθμίζει το χρώμα.
+Λαμβάνει ή ορίζει το χρώμα.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
@@ -22,7 +23,7 @@ public Color Color { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

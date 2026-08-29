@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSRational
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Διαβάστε μια ενιαία υπογεγραμμένη τιμή ορθολογικού αριθμού από τη ροή.
+title: "TiffStreamReader.ReadSRational"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamReader. Διαβάζει μια τιμή υπογεγραμμένου ρητού αριθμού από τη ροή"
 type: docs
 weight: 150
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRational method
 
-Διαβάστε μια ενιαία υπογεγραμμένη τιμή ορθολογικού αριθμού από τη ροή.
+Διαβάζει μια μοναδική τιμή υπογεγραμμένου ρητού αριθμού από τη ροή.
 
 ```csharp
 public TiffSRational ReadSRational(long position)
@@ -16,9 +17,9 @@ public TiffSRational ReadSRational(long position)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο υπογεγραμμένος ρητός αριθμός.
 
@@ -26,7 +27,7 @@ public TiffSRational ReadSRational(long position)
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

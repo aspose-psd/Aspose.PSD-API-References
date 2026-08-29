@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ορίζει τον ρυθμό δειγματοληψίας ήχου.
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει το ρυθμό δειγματοληψίας ήχου"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
-Ορίζει τον ρυθμό δειγματοληψίας ήχου.
+Ορίζει το ρυθμό δειγματοληψίας ήχου.
 
 ```csharp
 public void SetAudioSampleRate(int rate)
@@ -16,12 +17,12 @@ public void SetAudioSampleRate(int rate)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rate | Int32 | Ο ρυθμός δειγματοληψίας ήχου. |
+| ρυθμός | Int32 | Ο ρυθμός δειγματοληψίας ήχου. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

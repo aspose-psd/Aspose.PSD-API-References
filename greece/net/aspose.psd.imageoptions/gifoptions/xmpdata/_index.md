@@ -1,28 +1,29 @@
 ---
-title: GifOptions.XmpData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GifOptions ιδιοκτησία. Λαμβάνει ή ορίζει το κοντέινερ μεταδεδομένων XMP.
+title: "GifOptions.XmpData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GifOptions. Λαμβάνει ή ορίζει το δοχείο μεταδεδομένων XMP"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.imageoptions/gifoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## GifOptions.XmpData property
 
-Λαμβάνει ή ορίζει το κοντέινερ μεταδεδομένων XMP.
+Λαμβάνει ή ορίζει το δοχείο μεταδεδομένων XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κοντέινερ δεδομένων XMP.
+Το δοχείο δεδομένων XMP.
 
 ### Δείτε επίσης
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [GifOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../gifoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

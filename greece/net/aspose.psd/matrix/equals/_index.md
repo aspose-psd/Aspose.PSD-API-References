@@ -1,14 +1,15 @@
 ---
-title: Matrix.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix μέθοδος. Καθορίζει εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση.
+title: "Matrix.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Matrix. Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία."
 type: docs
 weight: 90
 url: /el/net/aspose.psd/matrix/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object)
 
-Καθορίζει εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,29 +17,29 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Object | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| NullReferenceException | Το*obj* η παράμετρος είναι null. |
+| NullReferenceException | Η παράμετρος *obj* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(Matrix, Matrix)
 
-Καθορίζει εάν δύο πίνακες είναι ίσοι.
+Καθορίζει αν δύο matrixes είναι ίσα.
 
 ```csharp
 public static bool Equals(Matrix a, Matrix b)
@@ -46,17 +47,17 @@ public static bool Equals(Matrix a, Matrix b)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| a | Matrix | Ο πρώτος πίνακας για σύγκριση. |
-| b | Matrix | Ο δεύτερος πίνακας προς σύγκριση. |
+| α | Matrix | Το πρώτο matrix για σύγκριση. |
+| β | Matrix | Το δεύτερο matrix για σύγκριση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Σωστό αν οι πίνακες είναι ίσοι.
+Αληθές εάν τα matrixes είναι ίσα.
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

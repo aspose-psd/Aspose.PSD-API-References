@@ -1,14 +1,15 @@
 ---
-title: Class Lnk3Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource τάξη. Καθορίζει την κλάση που περιέχει πληροφορίες για ένα ενσωματωμένο αρχείο σε μορφή PSD 32 bit ανά εικόνα καναλιού. Ο πόρος σύνδεσης μπορεί να περιέχει πολλάLiFdDataSource στιγμιότυπα στα οποία μπορεί να προσπελαστεί ο δείκτης.
+title: "Κλάση Lnk3Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource κλάση. Ορίζει την κλάση που περιέχει πληροφορίες για ένα ενσωματωμένο αρχείο σε εικόνα μορφής PSD 32 bit ανά κανάλι. Ο πόρος σύνδεσης μπορεί να περιέχει πολλές εμφανίσεις LiFdDataSource που μπορούν να προσπελαστούν μέσω του δείκτη"
 type: docs
-weight: 2730
+weight: 3040
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource class
 
-Καθορίζει την κλάση που περιέχει πληροφορίες για ένα ενσωματωμένο αρχείο σε μορφή PSD 32 bit ανά εικόνα καναλιού. Ο πόρος σύνδεσης μπορεί να περιέχει πολλά[`LiFdDataSource`](../lifddatasource/) στιγμιότυπα στα οποία μπορεί να προσπελαστεί ο δείκτης.
+Ορίζει την κλάση που περιέχει πληροφορίες για ένα ενσωματωμένο αρχείο σε εικόνα μορφής PSD 32 bit ανά κανάλι. Ο πόρος σύνδεσης μπορεί να περιέχει πολλές εμφανίσεις [`LiFdDataSource`](../lifddatasource/) που μπορούν να προσπελαστούν μέσω του δείκτη.
 
 ```csharp
 public class Lnk3Resource : Lnk2Resource
@@ -16,38 +17,38 @@ public class Lnk3Resource : Lnk2Resource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Lnk3Resource](lnk3resource/)() | Αρχικοποιεί μια νέα παρουσία του`Lnk3Resource` τάξη. |
+| [Lnk3Resource](lnk3resource/)() | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `Lnk3Resource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Λαμβάνει τον αριθμό των πηγών δεδομένων συνδέσμων στις οποίες μπορεί να προσπελαστεί ο ευρετηριαστής. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία πόρου συνδέσμου είναι κενή. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Λαμβάνει το[`LiFdDataSource`](../lifddatasource/) στον καθορισμένο δείκτη. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Λαμβάνει το συνολικό μήκος πόρου συνδέσμου PSD σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Λαμβάνει την έκδοση μορφής PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Αποκτά την υπογραφή του παγκόσμιου πόρου συνδέσμου PSD. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Ανακτά τον αριθμό των πηγών δεδομένων σύνδεσης που μπορούν να προσπελαστούν μέσω του δείκτη. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Ανακτά μια τιμή που υποδεικνύει εάν αυτό το στιγμιότυπο πόρου σύνδεσης είναι κενό. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Ανακτά το [`LiFdDataSource`](../lifddatasource/) στο καθορισμένο δείκτη. (2 δείκτες) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Ανακτά το συνολικό μήκος του πόρου σύνδεσης PSD σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Αποθηκεύει τα δεδομένα του μπλοκ πόρων. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Αποθηκεύει τα δεδομένα του μπλοκ πόρου. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες των Lnk2Resource και Lnk3Resource.
+Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του Lnk2Resource και του Lnk3Resource.
 
 ```csharp
 [C#]
@@ -62,84 +63,84 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
@@ -165,7 +166,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Λαμβάνει και ορίζει ιδιότητες του πόρου PSD Lnk2 / Lnk3 και των πηγών δεδομένων του liFD στην εικόνα PSD
+// Ανακτά και ορίζει ιδιότητες του πόρου PSD Lnk2 / Lnk3 και των πηγών δεδομένων liFD του σε εικόνα PSD.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -227,20 +228,20 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Η αποθήκευση 32 bit ανά κανάλι δεν υποστηρίζεται ακόμη
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων του liFD για 8 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων liFD του για 8 bit ανά κανάλι.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk3 και των πηγών δεδομένων του liFD για 32 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk3 και των πηγών δεδομένων liFD του για 32 bit ανά κανάλι.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων του liFD για 16 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων liFD του για 16 bit ανά κανάλι
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
@@ -249,7 +250,7 @@ ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
 * class [Lnk2Resource](../lnk2resource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει ή ορίζει το ενεργό επίπεδο.
+title: "PsdImage.ActiveLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdImage ιδιότητα. Λαμβάνει ή ορίζει το ενεργό στρώμα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
-Λαμβάνει ή ορίζει το ενεργό επίπεδο.
+Λαμβάνει ή ορίζει το ενεργό στρώμα.
 
 ```csharp
 public Layer ActiveLayer { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ενεργό επίπεδο.
+Το ενεργό στρώμα.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Δεν υπάρχει ενεργό επίπεδο και δεν υπάρχουν επίπεδα στην εικόνα. |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Το ενεργό επίπεδο δεν μπορεί να οριστεί καθώς ανήκει σε άλλη εικόνα. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Δεν υπάρχει ενεργό στρώμα και δεν υπάρχουν στρώματα στην εικόνα. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Το ενεργό στρώμα δεν μπορεί να οριστεί επειδή ανήκει σε άλλη εικόνα. |
 
 ### Δείτε επίσης
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

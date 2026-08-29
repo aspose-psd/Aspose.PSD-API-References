@@ -1,27 +1,28 @@
 ---
-title: LyidResource.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LyidResource ιδιοκτησία. Παίρνει την τιμή.
+title: "LyidResource.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LyidResource. Επιστρέφει την τιμή"
 type: docs
-weight: 60
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
-Παίρνει την τιμή.
+Λαμβάνει την τιμή.
 
 ```csharp
 public int Value { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [LyidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

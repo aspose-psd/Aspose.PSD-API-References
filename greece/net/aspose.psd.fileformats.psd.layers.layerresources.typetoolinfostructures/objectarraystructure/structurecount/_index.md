@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.StructureCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectArrayStructure ιδιοκτησία. Λαμβάνει τον αριθμό υποδομής του πίνακα αντικειμένων.
+title: "ObjectArrayStructure.StructureCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ObjectArrayStructure ιδιότητα. Λαμβάνει τον αριθμό των υποδομών του πίνακα αντικειμένων"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureCount property
 
-Λαμβάνει τον αριθμό υποδομής του πίνακα αντικειμένων.
+Λαμβάνει τον αριθμό υποδομών του πίνακα αντικειμένων.
 
 ```csharp
 public int StructureCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλήθος της υποδομής στη δομή του πίνακα αντικειμένων.
+Ο αριθμός των υποδομών στη δομή του πίνακα αντικειμένων.
 
 ### Δείτε επίσης
 
 * class [ObjectArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

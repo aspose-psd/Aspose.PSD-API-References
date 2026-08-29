@@ -1,27 +1,28 @@
 ---
-title: StringFormat.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat μέθοδος. Μετατρέπει αυτόStringFormat αντικείμενο σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+title: "StringFormat.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος StringFormat. Μετατρέπει αυτό το αντικείμενο StringFormat σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά"
 type: docs
-weight: 150
+weight: 180
 url: /el/net/aspose.psd/stringformat/tostring/
 ---
+{{< psd/tize >}}
 ## StringFormat.ToString method
 
-Μετατρέπει αυτό[`StringFormat`](../) αντικείμενο σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+Μετατρέπει αυτό το αντικείμενο [`StringFormat`](../) σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια παράσταση συμβολοσειράς αυτού[`StringFormat`](../) αντικείμενο.
+Μία συμβολοσειρά αναπαράστασης αυτού του αντικειμένου [`StringFormat`](../).
 
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

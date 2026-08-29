@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.GradientFillSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουGradientFillSettings τάξη.
+title: "GradientFillSettings.GradientFillSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GradientFillSettings κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`GradientFillSettings`](../) τάξη.
+Ο προεπιλεγμένος κατασκευαστής.
 
 ```csharp
 public GradientFillSettings()
@@ -17,7 +18,7 @@ public GradientFillSettings()
 ### Δείτε επίσης
 
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

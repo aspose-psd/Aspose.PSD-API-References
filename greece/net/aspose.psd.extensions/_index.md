@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.Extensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει μεθόδους επέκτασης.
+title: "Aspose.PSD.Extensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει μεθόδους επέκτασης"
 type: docs
-weight: 110
+weight: 120
 url: /el/net/aspose.psd.extensions/
 ---
+{{< psd/tize >}}
 Ο χώρος ονομάτων περιέχει μεθόδους επέκτασης.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [BrushExtensions](./brushextensions/) | Περιέχει μεθόδους επέκτασης για[`Brush`](../aspose.psd/brush/) καιBrush . |
-| [ColorBlendExtensions](./colorblendextensions/) | Περιέχει[`ColorBlend`](../aspose.psd/colorblend/) μέθοδοι επέκτασης. |
-| [ColorExtensions](./colorextensions/) | Το[`Color`](../aspose.psd/color/) μέθοδοι επέκτασης. |
-| [ColorMapExtensions](./colormapextensions/) | Το[`ColorMap`](../aspose.psd/colormap/) μέθοδοι επέκτασης. |
-| [ColorMatrixExtensions](./colormatrixextensions/) | Το[`ColorMatrix`](../aspose.psd/colormatrix/) μέθοδοι επέκτασης. |
-| [FileFormatExtensions](./fileformatextensions/) | Περιέχει[`FileFormat`](../aspose.psd/fileformat/) μέθοδοι επέκτασης. |
-| [FontExtensions](./fontextensions/) | Περιέχει μεθόδους επέκτασης για το[`Font`](../aspose.psd/font/) τάξη. |
-| [GraphicsPathExtensions](./graphicspathextensions/) | Περιέχει το[`GraphicsPath`](../aspose.psd/graphicspath/) μέθοδοι επέκτασης. |
-| [ImageAttributesExtensions](./imageattributesextensions/) | Περιέχει μεθόδους επέκτασης για[`ImageAttributes`](../aspose.psd/imageattributes/) καιImageAttributes . |
-| [ImageExtensions](./imageextensions/) | Περιέχει μεθόδους επέκτασης για μετατροπές με βάσηImage και[`Image`](../aspose.psd/image/) . |
-| [MatrixExtensions](./matrixextensions/) | Περιέχει το[`Matrix`](../aspose.psd/matrix/) επεκτάσεις τάξης. |
-| [PenExtensions](./penextensions/) | Περιέχει μεθόδους επέκτασης για[`Pen`](../aspose.psd/pen/) καιPen . |
-| [PointExtensions](./pointextensions/) | Περιέχει μεθόδους επέκτασης για[`Point`](../aspose.psd/point/) και[`PointF`](../aspose.psd/pointf/) δομές. |
-| [RectangleExtensions](./rectangleextensions/) | Περιέχει μεθόδους επέκτασης για[`Rectangle`](../aspose.psd/rectangle/) . |
-| [RegionExtensions](./regionextensions/) | Περιέχει μεθόδους επέκτασης για το[`Region`](../aspose.psd/region/) τάξη. |
-| [RotateFlipExtensions](./rotateflipextensions/) | Περιέχει μεθόδους επέκτασης για τη μετατροπή τουRotateFlipType και το[`RotateFlipType`](../aspose.psd/rotatefliptype/) τάξεις. |
-| [StringFormatExtensions](./stringformatextensions/) | Περιέχει μεθόδους επέκτασης για το[`StringFormat`](../aspose.psd/stringformat/) τάξη. |
+| [BrushExtensions](./brushextensions/) | Περιέχει μεθόδους επέκτασης για [`Brush`](../aspose.psd/brush/) και Brush. |
+| [ColorBlendExtensions](./colorblendextensions/) | Περιέχει μεθόδους επέκτασης για [`ColorBlend`](../aspose.psd/colorblend/). |
+| [ColorExtensions](./colorextensions/) | Οι μεθόδους επέκτασης του [`Color`](../aspose.psd/color/). |
+| [ColorMapExtensions](./colormapextensions/) | Οι μεθόδους επέκτασης του [`ColorMap`](../aspose.psd/colormap/). |
+| [ColorMatrixExtensions](./colormatrixextensions/) | Οι μεθόδους επέκτασης του [`ColorMatrix`](../aspose.psd/colormatrix/). |
+| [FileFormatExtensions](./fileformatextensions/) | Περιέχει μεθόδους επέκτασης για [`FileFormat`](../aspose.psd/fileformat/). |
+| [FontExtensions](./fontextensions/) | Περιέχει μεθόδους επέκτασης για την κλάση [`Font`](../aspose.psd/font/). |
+| [GraphicsPathExtensions](./graphicspathextensions/) | Περιέχει τις μεθόδους επέκτασης του [`GraphicsPath`](../aspose.psd/graphicspath/). |
+| [ImageAttributesExtensions](./imageattributesextensions/) | Περιέχει μεθόδους επέκτασης για [`ImageAttributes`](../aspose.psd/imageattributes/) και ImageAttributes. |
+| [ImageExtensions](./imageextensions/) | Περιέχει μεθόδους επέκτασης για μετατροπές βάσει Image και Image. |
+| [MatrixExtensions](./matrixextensions/) | Περιέχει τις επεκτάσεις της κλάσης [`Matrix`](../aspose.psd/matrix/). |
+| [PenExtensions](./penextensions/) | Περιέχει μεθόδους επέκτασης για [`Pen`](../aspose.psd/pen/) και Pen. |
+| [PointExtensions](./pointextensions/) | Περιέχει μεθόδους επέκτασης για τις δομές [`Point`](../aspose.psd/point/) και [`PointF`](../aspose.psd/pointf/). |
+| [RectangleExtensions](./rectangleextensions/) | Περιέχει μεθόδους επέκτασης για [`Rectangle`](../aspose.psd/rectangle/). |
+| [RegionExtensions](./regionextensions/) | Περιέχει μεθόδους επέκτασης για την κλάση [`Region`](../aspose.psd/region/). |
+| [RotateFlipExtensions](./rotateflipextensions/) | Περιέχει μεθόδους επέκτασης για μετατροπή του RotateFlipType και των κλάσεων [`RotateFlipType`](../aspose.psd/rotatefliptype/). |
+| [StringFormatExtensions](./stringformatextensions/) | Περιέχει μεθόδους επέκτασης για την κλάση [`StringFormat`](../aspose.psd/stringformat/). |
 
 

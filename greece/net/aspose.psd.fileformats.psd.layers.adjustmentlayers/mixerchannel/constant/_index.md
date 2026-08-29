@@ -1,11 +1,12 @@
 ---
-title: MixerChannel.Constant
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MixerChannel ιδιοκτησία. Λαμβάνει ή ορίζει τη σταθερά του καναλιού.
+title: "MixerChannel.Constant"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα MixerChannel. Λαμβάνει ή ορίζει τη σταθερά του καναλιού."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/
 ---
+{{< psd/tize >}}
 ## MixerChannel.Constant property
 
 Λαμβάνει ή ορίζει τη σταθερά του καναλιού.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/con
 public short Constant { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η σταθερά.
 
 ### Δείτε επίσης
 
 * class [MixerChannel](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

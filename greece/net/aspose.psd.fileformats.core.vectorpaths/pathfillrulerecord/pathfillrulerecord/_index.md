@@ -1,14 +1,15 @@
 ---
-title: PathFillRuleRecord.PathFillRuleRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathFillRuleRecord κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPathFillRuleRecord τάξη.
+title: "PathFillRuleRecord.PathFillRuleRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PathFillRuleRecord. Δημιουργεί ένα νέο αντικείμενο της κλάσης PathFillRuleRecord"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PathFillRuleRecord`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord()
@@ -17,14 +18,14 @@ public PathFillRuleRecord()
 ### Δείτε επίσης
 
 * class [PathFillRuleRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathFillRuleRecord(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PathFillRuleRecord`](../) τάξη.
+Δημιουργεί ένα νέο αντικείμενο της κλάσης [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord(byte[] data)
@@ -32,12 +33,12 @@ public PathFillRuleRecord(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα εγγραφής. |
+| δεδομένα | Byte[] | Τα δεδομένα της εγγραφής. |
 
 ### Δείτε επίσης
 
 * class [PathFillRuleRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

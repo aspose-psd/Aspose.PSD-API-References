@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.HorizontalMeshPointUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει τη μονάδα μέτρησης των οριζόντιων σημείων πλέγματος.
+title: "PlacedResource.HorizontalMeshPointUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει τη μονάδα μέτρησης των οριζόντιων σημείων πλέγματος"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.HorizontalMeshPointUnit property
 
 Λαμβάνει ή ορίζει τη μονάδα μέτρησης των οριζόντιων σημείων πλέγματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/hor
 public UnitTypes HorizontalMeshPointUnit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μονάδα μέτρησης των οριζόντιων σημείων πλέγματος.
 
@@ -22,7 +23,7 @@ public UnitTypes HorizontalMeshPointUnit { get; set; }
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

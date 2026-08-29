@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.CenterCropMark
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PrintFlagsResource ιδιοκτησία. Λαμβάνει ή ορίζει το κεντρικό σημάδι περικοπής.
+title: "PrintFlagsResource.CenterCropMark"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PrintFlagsResource ιδιότητα. Λαμβάνει ή ορίζει το κεντρικό σημάδι περικοπής"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.CenterCropMark property
 
 Λαμβάνει ή ορίζει το κεντρικό σημάδι περικοπής.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropm
 public byte CenterCropMark { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κεντρικό σημάδι περικοπής.
 
 ### Δείτε επίσης
 
 * class [PrintFlagsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

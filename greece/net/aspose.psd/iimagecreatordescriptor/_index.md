@@ -1,14 +1,15 @@
 ---
-title: Interface IImageCreatorDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IImageCreatorDescriptor διεπαφή. Ο περιγραφέας του δημιουργού εικόνας που καθορίζει τις ιδιότητες του δημιουργού. Ο περιγραφέας δημιουργού χρησιμοποιείται για να ξεπεραστεί η ανάγκη να περιέχεται κάθε στιγμιότυπο δημιουργού εικόνας στη μνήμη και ζητήματα πολλαπλών νημάτων.
+title: "Διεπαφή IImageCreatorDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.IImageCreatorDescriptor. Ο περιγραφέας δημιουργού εικόνας που καθορίζει τις ιδιότητες του δημιουργού. Ο περιγραφέας δημιουργού χρησιμοποιείται για να ξεπεραστεί η ανάγκη διατήρησης κάθε στιγμιότυπου δημιουργού εικόνας στη μνήμη και τα προβλήματα πολυνηματικότητας."
 type: docs
-weight: 4410
+weight: 4880
 url: /el/net/aspose.psd/iimagecreatordescriptor/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor interface
 
-Ο περιγραφέας του δημιουργού εικόνας που καθορίζει τις ιδιότητες του δημιουργού. Ο περιγραφέας δημιουργού χρησιμοποιείται για να ξεπεραστεί η ανάγκη να περιέχεται κάθε στιγμιότυπο δημιουργού εικόνας στη μνήμη και ζητήματα πολλαπλών νημάτων.
+Ο περιγραφέας δημιουργού εικόνας που καθορίζει τις ιδιότητες του δημιουργού. Ο περιγραφέας δημιουργού χρησιμοποιείται για να ξεπεραστεί η ανάγκη διατήρησης κάθε παρουσίας δημιουργού εικόνας στη μνήμη και τα προβλήματα πολυνηματικότητας.
 
 ```csharp
 public interface IImageCreatorDescriptor : IImageDescriptor
@@ -16,15 +17,15 @@ public interface IImageCreatorDescriptor : IImageDescriptor
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Καθορίζει εάν ο δημιουργός εικόνας μπορεί να δημιουργήσει μια νέα εικόνα χρησιμοποιώντας το*imageOptions* . |
-| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Δημιουργεί μια νέα παρουσία δημιουργού. |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Καθορίζει εάν ο δημιουργός εικόνας μπορεί να δημιουργήσει μια νέα εικόνα χρησιμοποιώντας το *imageOptions*. |
+| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Δημιουργεί ένα νέο στιγμιότυπο δημιουργού. |
 
 ### Δείτε επίσης
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

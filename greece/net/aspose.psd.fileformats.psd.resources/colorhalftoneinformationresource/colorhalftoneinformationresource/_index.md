@@ -1,11 +1,12 @@
 ---
-title: ColorHalftoneInformationResource.ColorHalftoneInformationResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorHalftoneInformationResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "ColorHalftoneInformationResource.ColorHalftoneInformationResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorHalftoneInformationResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/colorhalftoneinformationresource/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public ColorHalftoneInformationResource()
 ### Δείτε επίσης
 
 * class [ColorHalftoneInformationResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

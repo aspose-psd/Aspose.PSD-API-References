@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Rotate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage μέθοδος. Περιστροφή εικόνας γύρω από το κέντρο.
+title: "RasterCachedImage.Rotate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterCachedImage. Περιστροφή της εικόνας γύρω από το κέντρο"
 type: docs
 weight: 130
 url: /el/net/aspose.psd/rastercachedimage/rotate/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Rotate method
 
-Περιστροφή εικόνας γύρω από το κέντρο.
+Περιστρέφει την εικόνα γύρω από το κέντρο.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -16,15 +17,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Η γωνία περιστροφής σε μοίρες. Οι θετικές τιμές θα περιστρέφονται δεξιόστροφα. |
-| resizeProportionally | Boolean | εάν έχει οριστεί σε`αληθής` θα αλλάξετε το μέγεθος της εικόνας σας σύμφωνα με τις προβολές περιστρεφόμενου ορθογωνίου (γωνιακά σημεία) σε άλλη περίπτωση που αφήνει ανέγγιχτες τις διαστάσεις και περιστρέφονται μόνο τα εσωτερικά περιεχόμενα της εικόνας. |
-| backgroundColor | Color | Χρώμα φόντου. |
+| γωνία | Single | Η γωνία περιστροφής σε μοίρες. Οι θετικές τιμές θα περιστρέφουν δεξιόστροφα. |
+| resizeProportionally | Boolean | εάν οριστεί σε `true` το μέγεθος της εικόνας θα αλλάξει σύμφωνα με τις προβολές του περιστρεφόμενου ορθογωνίου (σημεία γωνιών), διαφορετικά οι διαστάσεις θα παραμείνουν αμετάβλητες και μόνο τα εσωτερικά περιεχόμενα της εικόνας θα περιστραφούν. |
+| backgroundColor | Χρώμα | Χρώμα του φόντου. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

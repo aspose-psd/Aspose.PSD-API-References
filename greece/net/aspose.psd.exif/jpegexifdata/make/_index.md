@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Make
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Παίρνει ή ρυθμίζει τον κατασκευαστή της συσκευής εγγραφής.
+title: "JpegExifData.Make"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "JpegExifData ιδιότητα. Λαμβάνει ή ορίζει τον κατασκευαστή του εξοπλισμού καταγραφής"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.exif/jpegexifdata/make/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Make property
 
-Παίρνει ή ρυθμίζει τον κατασκευαστή της συσκευής εγγραφής.
+Λαμβάνει ή ορίζει τον κατασκευαστή του εξοπλισμού καταγραφής.
 
 ```csharp
 public string Make { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο κατασκευαστής της συσκευής ελέγχου.
+Ο κατασκευαστής του εξοπλισμού καταγραφής.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

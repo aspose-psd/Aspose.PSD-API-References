@@ -1,14 +1,15 @@
 ---
-title: Interface IKeyedObject
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IKeyedObject διεπαφή. Αντιπροσωπεύει διεπαφή για αντικείμενα με πλήκτρα.
+title: "Διεπαφή IKeyedObject"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.IKeyedObject διεπαφή. Αντιπροσωπεύει διεπαφή για αντικείμενα με κλειδιά"
 type: docs
-weight: 4480
+weight: 4950
 url: /el/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
-Αντιπροσωπεύει διεπαφή για αντικείμενα με πλήκτρα.
+Αντιπροσωπεύει τη διεπαφή για αντικείμενα με κλειδιά.
 
 ```csharp
 public interface IKeyedObject
@@ -16,13 +17,13 @@ public interface IKeyedObject
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | Λαμβάνει το κλειδί αντικειμένου. |
+| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | Λαμβάνει το κλειδί του αντικειμένου. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

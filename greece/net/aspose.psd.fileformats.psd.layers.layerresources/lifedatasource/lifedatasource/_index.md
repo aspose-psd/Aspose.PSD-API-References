@@ -1,14 +1,15 @@
 ---
-title: LiFeDataSource.LiFeDataSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LiFeDataSource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLiFeDataSource τάξη.
+title: "LiFeDataSource.LiFeDataSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LiFeDataSource κατασκευαστής. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης LiFeDataSource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LiFeDataSource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`LiFeDataSource`](../).
 
 ```csharp
 public LiFeDataSource()
@@ -17,14 +18,14 @@ public LiFeDataSource()
 ### Δείτε επίσης
 
 * class [LiFeDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LiFeDataSource(int, Guid, string, string, string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LiFeDataSource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`LiFeDataSource`](../).
 
 ```csharp
 public LiFeDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 
@@ -33,16 +34,16 @@ public LiFeDataSource(int version, Guid uniqueId, string originalFileName, strin
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| version | Int32 | Η έκδοση. |
+| έκδοση | Int32 | Η έκδοση. |
 | uniqueId | Guid | Το μοναδικό αναγνωριστικό. |
 | originalFileName | String | Όνομα του αρχικού αρχείου. |
-| fileType | String | Τύπος αρχείου. |
-| fileCreator | String | Ο δημιουργός αρχείων. |
+| fileType | String | Τύπος του αρχείου. |
+| fileCreator | String | Ο δημιουργός του αρχείου. |
 
 ### Δείτε επίσης
 
 * class [LiFeDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

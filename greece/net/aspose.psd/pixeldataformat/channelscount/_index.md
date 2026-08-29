@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.ChannelsCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τον αριθμό των καναλιών.
+title: "PixelDataFormat.ChannelsCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Λαμβάνει τον αριθμό των καναλιών"
 type: docs
 weight: 330
 url: /el/net/aspose.psd/pixeldataformat/channelscount/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelsCount property
 
 Λαμβάνει τον αριθμό των καναλιών.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/pixeldataformat/channelscount/
 public int ChannelsCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κανάλια μετράνε.
+Ο αριθμός των καναλιών.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

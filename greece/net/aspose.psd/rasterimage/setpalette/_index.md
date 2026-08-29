@@ -1,14 +1,15 @@
 ---
-title: RasterImage.SetPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Ορίζει την παλέτα εικόνων.
+title: "RasterImage.SetPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage μέθοδος. Ορίζει την παλέτα της εικόνας"
 type: docs
-weight: 550
+weight: 570
 url: /el/net/aspose.psd/rasterimage/setpalette/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPalette method
 
-Ορίζει την παλέτα εικόνων.
+Ορίζει την παλέτα της εικόνας.
 
 ```csharp
 public override void SetPalette(IColorPalette palette, bool updateColors)
@@ -16,14 +17,14 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| palette | IColorPalette | Η παλέτα για να ρυθμίσετε. |
-| updateColors | Boolean | εάν έχει οριστεί σε`αληθής` Τα χρώματα θα ενημερωθούν σύμφωνα με τη νέα παλέτα. Διαφορετικά, οι χρωματικοί δείκτες παραμένουν αμετάβλητοι. Λάβετε υπόψη ότι τα αμετάβλητα ευρετήρια ενδέχεται να καταστρέψουν την εικόνα κατά τη φόρτωση, εάν ορισμένα ευρετήρια δεν έχουν αντίστοιχες εγγραφές παλέτας. |
+| παλέτα | IColorPalette | Η παλέτα για ορισμό. |
+| updateColors | Boolean | εάν οριστεί σε `true` τα χρώματα θα ενημερωθούν σύμφωνα με τη νέα παλέτα· διαφορετικά οι δείκτες χρωμάτων παραμένουν αμετάβλητοι. Σημειώστε ότι οι αμετάβλητοι δείκτες μπορεί να προκαλέσουν σφάλμα στην εικόνα κατά τη φόρτωση εάν κάποιοι δείκτες δεν έχουν αντίστοιχες καταχωρήσεις στην παλέτα. |
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

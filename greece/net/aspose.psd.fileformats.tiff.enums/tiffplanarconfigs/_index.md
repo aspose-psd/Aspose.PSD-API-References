@@ -1,11 +1,12 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs αρίθμηση. Οργάνωση αποθήκευσης. Πιθανές τιμές για την ετικέτα PLANARCONFIG.
+title: "Απαρίθμηση TiffPlanarConfigs"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Οργάνωση αποθήκευσης. Πιθανές τιμές για την ετικέτα PLANARCONFIG."
 type: docs
-weight: 4130
+weight: 4600
 url: /el/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
 Οργάνωση αποθήκευσης. Πιθανές τιμές για την ετικέτα PLANARCONFIG.
@@ -14,16 +15,16 @@ url: /el/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 public enum TiffPlanarConfigs : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Contiguous | `1` | Επίπεδο μεμονωμένης εικόνας. |
+| Contiguous | `1` | Μονό επίπεδο εικόνας. |
 | Separate | `2` | Ξεχωριστά επίπεδα δεδομένων. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

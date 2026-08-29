@@ -1,32 +1,33 @@
 ---
-title: Enum PenType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.PenType αρίθμηση. Καθορίζει τον τύπο πλήρωσης aPen το αντικείμενο χρησιμοποιεί για να γεμίσει γραμμές.
+title: "Απαρίθμηση PenType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.PenType. Καθορίζει τον τύπο γεμίσματος που χρησιμοποιεί ένα αντικείμενο Pen για τη γέμιση των γραμμών"
 type: docs
-weight: 5220
+weight: 5710
 url: /el/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-Καθορίζει τον τύπο πλήρωσης a[`Pen`](../pen/) το αντικείμενο χρησιμοποιεί για να γεμίσει γραμμές.
+Καθορίζει τον τύπο γεμίσματος που χρησιμοποιεί ένα αντικείμενο [`Pen`](../pen/) για τη γέμιση των γραμμών.
 
 ```csharp
 public enum PenType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | SolidColor | `0` | Καθορίζει ένα συμπαγές γέμισμα. |
-| HatchFill | `1` | Καθορίζει ένα γέμισμα καταπακτής. |
+| HatchFill | `1` | Καθορίζει ένα γεωμετρικό γέμισμα. |
 | TextureFill | `2` | Καθορίζει ένα γέμισμα υφής bitmap. |
-| PathGradient | `3` | Καθορίζει ένα γέμισμα κλίσης διαδρομής. |
-| LinearGradient | `4` | Καθορίζει ένα γέμισμα γραμμικής κλίσης. |
+| PathGradient | `3` | Καθορίζει ένα γέμισμα διαβάθμισης διαδρομής. |
+| LinearGradient | `4` | Καθορίζει ένα γραμμικό γέμισμα διαβάθμισης. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται μονάδες ανάλυσης πόρων Psd
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων διαχειρίζεται τις μονάδες ανάλυσης πόρων PSD"
 type: docs
-weight: 360
+weight: 400
 url: /el/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-Ο χώρος ονομάτων χειρίζεται μονάδες ανάλυσης πόρων Psd
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται τις μονάδες ανάλυσης πόρων PSD
 
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | Η φυσική μονάδα resoulutionInfo enum |
-| [ResolutionUnit](./resolutionunit/) | Η μονάδα ανάλυσης πληροφοριών ανάλυσης |
+| [PhysicalUnit](./physicalunit/) | Το enum φυσικής μονάδας του resoulutionInfo |
+| [ResolutionUnit](./resolutionunit/) | Η μονάδα ανάλυσης του resolution info |
 
 

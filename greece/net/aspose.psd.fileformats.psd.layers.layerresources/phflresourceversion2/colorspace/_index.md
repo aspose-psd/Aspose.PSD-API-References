@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion2.ColorSpace
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion2 ιδιοκτησία. Λαμβάνει τον χρωματικό χώρο.
+title: "PhflResourceVersion2.ColorSpace"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PhflResourceVersion2. Παίρνει το χρωματικό χώρο"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ColorSpace property
 
-Λαμβάνει τον χρωματικό χώρο.
+Λαμβάνει το χρωματικό χώρο.
 
 ```csharp
 public short ColorSpace { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο χρωματικός χώρος.
 
 ### Δείτε επίσης
 
 * class [PhflResourceVersion2](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

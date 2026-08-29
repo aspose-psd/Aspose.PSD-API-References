@@ -1,27 +1,28 @@
 ---
-title: ColorBlend.Positions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBlend ιδιοκτησία. Λαμβάνει ή ορίζει τις θέσεις κατά μήκος μιας γραμμής κλίσης.
+title: "ColorBlend.Positions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorBlend. Λαμβάνει ή ορίζει τις θέσεις κατά μήκος μιας γραμμής διαβάθμισης"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/colorblend/positions/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Positions property
 
-Λαμβάνει ή ορίζει τις θέσεις κατά μήκος μιας γραμμής κλίσης.
+Λαμβάνει ή ορίζει τις θέσεις κατά μήκος μιας γραμμής διαβάθμισης.
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας πίνακας τιμών που καθορίζει ποσοστά απόστασης κατά μήκος της γραμμής κλίσης.
+Ένας πίνακας τιμών που καθορίζουν τα ποσοστά απόστασης κατά μήκος της γραμμής διαβάθμισης.
 
 ### Δείτε επίσης
 
 * class [ColorBlend](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorblend/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

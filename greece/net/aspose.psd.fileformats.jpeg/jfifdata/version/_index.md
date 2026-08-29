@@ -1,11 +1,12 @@
 ---
-title: JFIFData.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JFIFData ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση.
+title: "JFIFData.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JFIFData. Λαμβάνει ή ορίζει την έκδοση"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.jpeg/jfifdata/version/
 ---
+{{< psd/tize >}}
 ## JFIFData.Version property
 
 Λαμβάνει ή ορίζει την έκδοση.
@@ -17,7 +18,7 @@ public short Version { get; set; }
 ### Δείτε επίσης
 
 * class [JFIFData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

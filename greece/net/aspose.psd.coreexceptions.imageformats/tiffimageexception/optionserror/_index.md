@@ -1,11 +1,12 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffImageException ιδιοκτησία. Λαμβάνει το σφάλμα επιλογών tiff.
+title: "TiffImageException.OptionsError"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffImageException. Λαμβάνει το σφάλμα επιλογών tiff"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
 Λαμβάνει το σφάλμα επιλογών tiff.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionser
 public TiffOptionsError OptionsError { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σφάλμα επιλογών tiff.
 
@@ -22,7 +23,7 @@ public TiffOptionsError OptionsError { get; }
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

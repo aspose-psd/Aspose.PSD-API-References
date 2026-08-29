@@ -1,30 +1,31 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits αρίθμηση. Μονάδα ανάλυσης Tiff Αριθμός
+title: "Enum TiffResolutionUnits"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Enum μονάδας ανάλυσης Tiff"
 type: docs
-weight: 4150
+weight: 4620
 url: /el/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-Μονάδα ανάλυσης Tiff Αριθμός
+Απαρίθμηση μονάδας ανάλυσης Tiff
 
 ```csharp
 public enum TiffResolutionUnits : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `1` | Χωρίς ουσιαστικές μονάδες. |
+| None | `1` | Καμία ουσιαστική μονάδα. |
 | Inch | `2` | Αγγλικό σύστημα. |
 | Centimeter | `3` | Μετρικό σύστημα. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

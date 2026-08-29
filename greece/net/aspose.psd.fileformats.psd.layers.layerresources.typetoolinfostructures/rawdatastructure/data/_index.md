@@ -1,11 +1,12 @@
 ---
-title: RawDataStructure.Data
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RawDataStructure ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα.
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RawDataStructure. Λαμβάνει ή ορίζει τα δεδομένα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
 Λαμβάνει ή ορίζει τα δεδομένα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public byte[] Data { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δεδομένα.
 
 ### Δείτε επίσης
 
 * class [RawDataStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

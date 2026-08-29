@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.ID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceBlock ιδιοκτησία. Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό για τον πόρο.
+title: "ResourceBlock.ID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ResourceBlock. Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό του πόρου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd/resourceblock/id/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ID property
 
 Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό για τον πόρο.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd/resourceblock/id/
 public short ID { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μοναδικό αναγνωριστικό για τον πόρο.
+Το μοναδικό αναγνωριστικό του πόρου.
 
 ### Δείτε επίσης
 
 * class [ResourceBlock](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

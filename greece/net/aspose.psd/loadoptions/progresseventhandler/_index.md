@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.ProgressEventHandler
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LoadOptions ιδιοκτησία. Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων προόδου.
+title: "LoadOptions.ProgressEventHandler"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LoadOptions ιδιότητα. Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος προόδου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/loadoptions/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## LoadOptions.ProgressEventHandler property
 
-Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων προόδου.
+Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος προόδου.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο χειριστής συμβάντων προόδου.
+Ο χειριστής συμβάντος προόδου.
 
 ### Δείτε επίσης
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [LoadOptions](../)
-* χώρος ονομάτων [Aspose.PSD](../../loadoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

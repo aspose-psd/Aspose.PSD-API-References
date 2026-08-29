@@ -1,14 +1,15 @@
 ---
-title: Class AiSetupSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Ai.AiSetupSection τάξη. Ενότητα ρύθμισης μορφής Ai
+title: "Κλάση AiSetupSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Ai.AiSetupSection κλάση. Η ενότητα ρύθμισης μορφής Ai"
 type: docs
-weight: 1300
+weight: 1310
 url: /el/net/aspose.psd.fileformats.ai/aisetupsection/
 ---
+{{< psd/tize >}}
 ## AiSetupSection class
 
-Ενότητα ρύθμισης μορφής Ai
+Η ενότητα ρύθμισης του μορφότυπου Ai
 
 ```csharp
 public sealed class AiSetupSection : AiSection
@@ -16,14 +17,14 @@ public sealed class AiSetupSection : AiSection
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Λαμβάνει τα δεδομένα συμβολοσειράς. |
 
 ### Δείτε επίσης
 
 * class [AiSection](../aisection/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

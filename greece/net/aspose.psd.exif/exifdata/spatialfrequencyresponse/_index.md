@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει την απόκριση χωρικής συχνότητας.
+title: "ExifData.SpatialFrequencyResponse"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει την απόκριση χωρικής συχνότητας"
 type: docs
 weight: 960
 url: /el/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/
 ---
+{{< psd/tize >}}
 ## ExifData.SpatialFrequencyResponse property
 
-Λαμβάνει ή ρυθμίζει την απόκριση χωρικής συχνότητας.
+Λαμβάνει ή ορίζει την απόκριση χωρικής συχνότητας.
 
 ```csharp
 public byte[] SpatialFrequencyResponse { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η απόκριση χωρικής συχνότητας.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

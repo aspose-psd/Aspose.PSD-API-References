@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ProgressEventHandlerInfo ιδιοκτησία. Λαμβάνει το ανώτερο όριο τιμής προόδου.
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ProgressEventHandlerInfo. Λαμβάνει το ανώτερο όριο τιμής προόδου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
 Λαμβάνει το ανώτερο όριο τιμής προόδου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 public int MaxValue { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ανώτερο όριο τιμής προόδου.
 
 ### Δείτε επίσης
 
 * class [ProgressEventHandlerInfo](../)
-* χώρος ονομάτων [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 
