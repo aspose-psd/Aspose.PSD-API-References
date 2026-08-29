@@ -1,65 +1,80 @@
 ---
-title: GaussianBlurSmartFilter
+title: DisplaceSmartFilter
 second_title: Aspose.PSD for Java API Reference
-description: The GaussianBlur smart filter.
+description: The Displace smart filter.
 type: docs
-weight: 13
-url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/gaussianblursmartfilter/
+weight: 11
+url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/displacesmartfilter/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.fileformats.psd.layers.smartfilters.filters.SmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/smartfilter)
 ```
-public final class GaussianBlurSmartFilter extends SmartFilter
+public final class DisplaceSmartFilter extends SmartFilter
 ```
 
-The GaussianBlur smart filter.
+The Displace smart filter.
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [GaussianBlurSmartFilter()](#GaussianBlurSmartFilter--) | Initializes a new instance of the [GaussianBlurSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/gaussianblursmartfilter) class. |
+| [DisplaceSmartFilter(String displaceMapPath, boolean isDisplacementMapEmbedded)](#DisplaceSmartFilter-java.lang.String-boolean-) | Initializes a new instance of the [DisplaceSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/displacesmartfilter) class. |
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [FilterType](#FilterType) | The identifier of current smart filter. |
+| [FilterType](#FilterType) | The identifier of current smart filter (class ID "Dspl"). |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [apply(RasterImage rasterImage)](#apply-com.aspose.psd.RasterImage-) | Applies the current filter to input  RasterImage  image. |
 | [applyToMask(Layer layerWithMask)](#applyToMask-com.aspose.psd.fileformats.psd.layers.Layer-) | Applies the current filter to input [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) mask data. |
-| [crate_internalized(DescriptorStructure sourceDescriptor)](#crate-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-) |  |
+| [create_internalized(DescriptorStructure sourceDescriptor)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-) |  |
 | [deepClone()](#deepClone--) | Makes the memberwise clone of the current instance of the type. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blending mode. |
 | [getClass()](#getClass--) |  |
+| [getDisplaceMapData()](#getDisplaceMapData--) | Gets or sets the embedded displacement map data (DspD). |
+| [getDisplacementMapPath()](#getDisplacementMapPath--) | Gets the displacement map full path extracted from the DspF structure, or null if not found. |
+| [getDisplacementMethod()](#getDisplacementMethod--) | Gets or sets the displacement method. |
 | [getFilterId()](#getFilterId--) | Gets the smart filter type identifier. |
+| [getHorizontalScale()](#getHorizontalScale--) | Gets or sets the horizontal scale (percent). |
 | [getName()](#getName--) | Gets the smart filter name. |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity value of smart filter. |
-| [getRadius()](#getRadius--) | Gets or sets the radius of gaussian smart filter. |
 | [getSourceDescriptor()](#getSourceDescriptor--) | The source descriptor structure with smart filter data. |
+| [getUndefinedAreas()](#getUndefinedAreas--) | Gets or sets the missing file handling method. |
+| [getVerticalScale()](#getVerticalScale--) | Gets or sets the vertical scale (percent). |
 | [hashCode()](#hashCode--) |  |
+| [isDisplacementMapEmbedded()](#isDisplacementMapEmbedded--) | Gets or sets the embedded flag (EmbF) value. |
 | [isEnabled()](#isEnabled--) | Gets or sets the is enabled status of the smart filter. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [setBlendMode(long value)](#setBlendMode-long-) | Gets or sets the blending mode. |
+| [setDisplacementMethod(int value)](#setDisplacementMethod-int-) | Gets or sets the displacement method. |
 | [setEnabled(boolean value)](#setEnabled-boolean-) | Gets or sets the is enabled status of the smart filter. |
+| [setHorizontalScale(double value)](#setHorizontalScale-double-) | Gets or sets the horizontal scale (percent). |
 | [setOpacity(double value)](#setOpacity-double-) | Gets or sets the opacity value of smart filter. |
-| [setRadius(double value)](#setRadius-double-) | Gets or sets the radius of gaussian smart filter. |
-| [toDescriptorStructure_internalized()](#toDescriptorStructure-internalized--) | Saves the smart filter information to [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) data and return. |
+| [setUndefinedAreas(int value)](#setUndefinedAreas-int-) | Gets or sets the missing file handling method. |
+| [setVerticalScale(double value)](#setVerticalScale-double-) | Gets or sets the vertical scale (percent). |
+| [toDescriptorStructure_internalized()](#toDescriptorStructure-internalized--) | Serialises the filter back to a descriptor structure. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### GaussianBlurSmartFilter() {#GaussianBlurSmartFilter--}
+### DisplaceSmartFilter(String displaceMapPath, boolean isDisplacementMapEmbedded) {#DisplaceSmartFilter-java.lang.String-boolean-}
 ```
-public GaussianBlurSmartFilter()
+public DisplaceSmartFilter(String displaceMapPath, boolean isDisplacementMapEmbedded)
 ```
 
 
-Initializes a new instance of the [GaussianBlurSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/gaussianblursmartfilter) class.
+Initializes a new instance of the [DisplaceSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/displacesmartfilter) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| displaceMapPath | java.lang.String | The displacement map file path. |
+| isDisplacementMapEmbedded | boolean | if set to  true  the displacement map is embedded. |
 
 ### FilterType {#FilterType}
 ```
@@ -67,7 +82,7 @@ public static final int FilterType
 ```
 
 
-The identifier of current smart filter.
+The identifier of current smart filter (class ID "Dspl").
 
 ### apply(RasterImage rasterImage) {#apply-com.aspose.psd.RasterImage-}
 ```
@@ -95,9 +110,9 @@ Applies the current filter to input [Layer](../../com.aspose.psd.fileformats.psd
 | --- | --- | --- |
 | layerWithMask | [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) | The layer with mask data. |
 
-### crate_internalized(DescriptorStructure sourceDescriptor) {#crate-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-}
+### create_internalized(DescriptorStructure sourceDescriptor) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-}
 ```
-public static GaussianBlurSmartFilter crate_internalized(DescriptorStructure sourceDescriptor)
+public static DisplaceSmartFilter create_internalized(DescriptorStructure sourceDescriptor)
 ```
 
 
@@ -109,7 +124,7 @@ public static GaussianBlurSmartFilter crate_internalized(DescriptorStructure sou
 | sourceDescriptor | [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) |  |
 
 **Returns:**
-[GaussianBlurSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/gaussianblursmartfilter)
+[DisplaceSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/displacesmartfilter)
 ### deepClone() {#deepClone--}
 ```
 public final SmartFilter deepClone()
@@ -155,6 +170,36 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getDisplaceMapData() {#getDisplaceMapData--}
+```
+public final byte[] getDisplaceMapData()
+```
+
+
+Gets or sets the embedded displacement map data (DspD).
+
+**Returns:**
+byte[]
+### getDisplacementMapPath() {#getDisplacementMapPath--}
+```
+public final String getDisplacementMapPath()
+```
+
+
+Gets the displacement map full path extracted from the DspF structure, or null if not found.
+
+**Returns:**
+java.lang.String
+### getDisplacementMethod() {#getDisplacementMethod--}
+```
+public final int getDisplacementMethod()
+```
+
+
+Gets or sets the displacement method.
+
+**Returns:**
+int
 ### getFilterId() {#getFilterId--}
 ```
 public int getFilterId()
@@ -165,6 +210,16 @@ Gets the smart filter type identifier.
 
 **Returns:**
 int
+### getHorizontalScale() {#getHorizontalScale--}
+```
+public final double getHorizontalScale()
+```
+
+
+Gets or sets the horizontal scale (percent).
+
+**Returns:**
+double
 ### getName() {#getName--}
 ```
 public String getName()
@@ -185,16 +240,6 @@ Gets or sets the opacity value of smart filter.
 
 **Returns:**
 double
-### getRadius() {#getRadius--}
-```
-public final double getRadius()
-```
-
-
-Gets or sets the radius of gaussian smart filter.
-
-**Returns:**
-double
 ### getSourceDescriptor() {#getSourceDescriptor--}
 ```
 public final DescriptorStructure getSourceDescriptor()
@@ -205,6 +250,26 @@ The source descriptor structure with smart filter data.
 
 **Returns:**
 [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure)
+### getUndefinedAreas() {#getUndefinedAreas--}
+```
+public final int getUndefinedAreas()
+```
+
+
+Gets or sets the missing file handling method.
+
+**Returns:**
+int
+### getVerticalScale() {#getVerticalScale--}
+```
+public final double getVerticalScale()
+```
+
+
+Gets or sets the vertical scale (percent).
+
+**Returns:**
+double
 ### hashCode() {#hashCode--}
 ```
 public native int hashCode()
@@ -215,6 +280,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isDisplacementMapEmbedded() {#isDisplacementMapEmbedded--}
+```
+public final boolean isDisplacementMapEmbedded()
+```
+
+
+Gets or sets the embedded flag (EmbF) value.
+
+**Returns:**
+boolean
 ### isEnabled() {#isEnabled--}
 ```
 public final boolean isEnabled()
@@ -254,6 +329,19 @@ Gets or sets the blending mode.
 | --- | --- | --- |
 | value | long |  |
 
+### setDisplacementMethod(int value) {#setDisplacementMethod-int-}
+```
+public final void setDisplacementMethod(int value)
+```
+
+
+Gets or sets the displacement method.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
 ### setEnabled(boolean value) {#setEnabled-boolean-}
 ```
 public final void setEnabled(boolean value)
@@ -266,6 +354,19 @@ Gets or sets the is enabled status of the smart filter.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setHorizontalScale(double value) {#setHorizontalScale-double-}
+```
+public final void setHorizontalScale(double value)
+```
+
+
+Gets or sets the horizontal scale (percent).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | double |  |
 
 ### setOpacity(double value) {#setOpacity-double-}
 ```
@@ -280,13 +381,26 @@ Gets or sets the opacity value of smart filter.
 | --- | --- | --- |
 | value | double |  |
 
-### setRadius(double value) {#setRadius-double-}
+### setUndefinedAreas(int value) {#setUndefinedAreas-int-}
 ```
-public final void setRadius(double value)
+public final void setUndefinedAreas(int value)
 ```
 
 
-Gets or sets the radius of gaussian smart filter.
+Gets or sets the missing file handling method.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setVerticalScale(double value) {#setVerticalScale-double-}
+```
+public final void setVerticalScale(double value)
+```
+
+
+Gets or sets the vertical scale (percent).
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -299,10 +413,10 @@ public DescriptorStructure toDescriptorStructure_internalized()
 ```
 
 
-Saves the smart filter information to [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) data and return.
+Serialises the filter back to a descriptor structure.
 
 **Returns:**
-[DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) - The [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) with saved smart filter information.
+[DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure)
 ### toString() {#toString--}
 ```
 public String toString()

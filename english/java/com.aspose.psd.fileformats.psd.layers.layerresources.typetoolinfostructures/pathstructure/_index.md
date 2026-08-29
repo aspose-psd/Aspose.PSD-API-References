@@ -19,10 +19,12 @@ The path structure.
 | Constructor | Description |
 | --- | --- |
 | [PathStructure(ClassID keyName)](#PathStructure-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Initializes a new instance of the [PathStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure) class. |
+| [PathStructure(ClassID keyName, String path)](#PathStructure-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-java.lang.String-) | Initializes a new instance of the [PathStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure) class with a path. |
 ## Fields
 
 | Field | Description |
 | --- | --- |
+| [HeaderSize_internalized](#HeaderSize-internalized) | Header size for PathStructure payload (signature + length + character count). |
 | [StructureKey](#StructureKey) | Identifies the structure key. |
 ## Methods
 
@@ -39,15 +41,17 @@ The path structure.
 | [getColorValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getColorValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the color value from structures list by key name. |
 | [getColorValue_internalized(List<OSTypeStructure> itemsList)](#getColorValue-internalized-java.util.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) |  |
 | [getCopy_internalized()](#getCopy-internalized--) | Creates the full copy of this structure. |
+| [getDataLength_internalized()](#getDataLength-internalized--) | Gets the exact data length in bytes. |
 | [getHeaderLength()](#getHeaderLength--) | Gets the header length. |
 | [getInt32Value_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getInt32Value-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the int32 value from structures list by key name. |
 | [getKey()](#getKey--) | Gets the structure key. |
 | [getKeyName()](#getKeyName--) | Gets or sets the key name. |
 | [getLength()](#getLength--) | Gets the [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) length in bytes. |
 | [getListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the list of structures value from other structures list by key name. |
+| [getOriginalPayload_internalized()](#getOriginalPayload-internalized--) | Gets or sets the original binary payload. |
 | [getPath()](#getPath--) | Gets or sets the path. |
 | [getPointDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getPointDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the PointF value from structures list by key name. |
-| [getPrefix()](#getPrefix--) | Gets or sets the path prefix. |
+| [getPrefix()](#getPrefix--) | Gets or sets the legacy path prefix (for TypeTool path format). |
 | [getRectDoubleValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getRectDoubleValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the RectangleF value from structures list by key name. |
 | [getStringValue_internalized(System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#getStringValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Gets the string value from structures list by key name. |
 | [hashCode()](#hashCode--) |  |
@@ -62,9 +66,10 @@ The path structure.
 | [setInt32Value_internalized(int value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setInt32Value-internalized-int-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the int32 value to structures list by key name. |
 | [setKeyName(ClassID value)](#setKeyName-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-) | Gets or sets the key name. |
 | [setListOfStructuresValue_internalized(System.Collections.Generic.List<OSTypeStructure> value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setListOfStructuresValue-internalized-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the list of structures value to other structures list by key name. |
-| [setPath(String value)](#setPath-java.lang.String-) | Gets or sets the path. |
+| [setOriginalPayload_internalized(byte[] value)](#setOriginalPayload-internalized-byte---) | Gets or sets the original binary payload. |
+| [setPath(String value)](#setPath-java.lang.String-) | Gets or sets the path (for TypeTool path format). |
 | [setPointDoubleValue_internalized(PointF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setPointDoubleValue-internalized-com.aspose.psd.PointF-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the PointF value to structures list by key name. |
-| [setPrefix(String value)](#setPrefix-java.lang.String-) | Gets or sets the path prefix. |
+| [setPrefix(String value)](#setPrefix-java.lang.String-) | Gets or sets the legacy path prefix (for TypeTool path format). |
 | [setRectDoubleValue_internalized(RectangleF value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setRectDoubleValue-internalized-com.aspose.psd.RectangleF-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the RectangleF value to structures list by key name. |
 | [setStringValue_internalized(String value, System.Collections.Generic.List<OSTypeStructure> itemsList, String keyName)](#setStringValue-internalized-java.lang.String-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--java.lang.String-) | Sets the string value to structures list by key name. |
 | [setToList_internalized(OSTypeStructure structure, System.Collections.Generic.List<OSTypeStructure> items)](#setToList-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure-com.aspose.ms.System.Collections.Generic.List-com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure--) | Add or update the structure to input items list. |
@@ -84,6 +89,28 @@ Initializes a new instance of the [PathStructure](../../com.aspose.psd.fileforma
 | Parameter | Type | Description |
 | --- | --- | --- |
 | keyName | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) | The key name. |
+
+### PathStructure(ClassID keyName, String path) {#PathStructure-com.aspose.psd.fileformats.psd.layers.layerresources.ClassID-java.lang.String-}
+```
+public PathStructure(ClassID keyName, String path)
+```
+
+
+Initializes a new instance of the [PathStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure) class with a path.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| keyName | [ClassID](../../com.aspose.psd.fileformats.psd.layers.layerresources/classid) | The key name. |
+| path | java.lang.String | The path string. |
+
+### HeaderSize_internalized {#HeaderSize-internalized}
+```
+public static final int HeaderSize_internalized
+```
+
+
+Header size for PathStructure payload (signature + length + character count).
 
 ### StructureKey {#StructureKey}
 ```
@@ -259,6 +286,18 @@ Creates the full copy of this structure.
 
 **Returns:**
 [OSTypeStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources/ostypestructure) - Returns the full copy of this structure.
+### getDataLength_internalized() {#getDataLength-internalized--}
+```
+public final int getDataLength_internalized()
+```
+
+
+Gets the exact data length in bytes.
+
+Value: The data length in bytes.
+
+**Returns:**
+int
 ### getHeaderLength() {#getHeaderLength--}
 ```
 public int getHeaderLength()
@@ -333,6 +372,18 @@ Gets the list of structures value from other structures list by key name.
 
 **Returns:**
 com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> - The ist of structures value from the other structures list if it exists, otherwise the default value.
+### getOriginalPayload_internalized() {#getOriginalPayload-internalized--}
+```
+public final byte[] getOriginalPayload_internalized()
+```
+
+
+Gets or sets the original binary payload.
+
+Value: The binary payload bytes.
+
+**Returns:**
+byte[]
 ### getPath() {#getPath--}
 ```
 public final String getPath()
@@ -367,9 +418,9 @@ public final String getPrefix()
 ```
 
 
-Gets or sets the path prefix.
+Gets or sets the legacy path prefix (for TypeTool path format).
 
-Value: The full path.
+Value: The path prefix.
 
 **Returns:**
 java.lang.String
@@ -560,13 +611,28 @@ Sets the list of structures value to other structures list by key name.
 | itemsList | com.aspose.ms.System.Collections.Generic.List<com.aspose.psd.fileformats.psd.layers.layerresources.OSTypeStructure> | The structures list. |
 | keyName | java.lang.String | The key name. |
 
+### setOriginalPayload_internalized(byte[] value) {#setOriginalPayload-internalized-byte---}
+```
+public final void setOriginalPayload_internalized(byte[] value)
+```
+
+
+Gets or sets the original binary payload.
+
+Value: The binary payload bytes.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | byte[] |  |
+
 ### setPath(String value) {#setPath-java.lang.String-}
 ```
 public final void setPath(String value)
 ```
 
 
-Gets or sets the path.
+Gets or sets the path (for TypeTool path format).
 
 Value: The full path.
 
@@ -596,9 +662,9 @@ public final void setPrefix(String value)
 ```
 
 
-Gets or sets the path prefix.
+Gets or sets the legacy path prefix (for TypeTool path format).
 
-Value: The full path.
+Value: The path prefix.
 
 **Parameters:**
 | Parameter | Type | Description |

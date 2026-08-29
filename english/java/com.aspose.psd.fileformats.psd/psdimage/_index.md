@@ -145,6 +145,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [getGrayColorProfile()](#getGrayColorProfile--) | Gets or sets the GRAY (monochrome) color profile for Grayscale PSD images. |
 | [getHeight()](#getHeight--) | Gets the image height. |
 | [getHorizontalResolution()](#getHorizontalResolution--) | Gets or sets the horizontal resolution, in pixels per inch, of this [PsdImage](../../com.aspose.psd.fileformats.psd/psdimage). |
+| [getImageDataReader_internalized(LoadOptions loadOptions)](#getImageDataReader-internalized-com.aspose.psd.LoadOptions-) | Gets the image data reader. |
 | [getImageLayers_internalized()](#getImageLayers-internalized--) | Gets or sets the PSD layers. |
 | [getImageOpacity()](#getImageOpacity--) | Gets opacity of this image. |
 | [getImageResources()](#getImageResources--) | Gets or sets the PSD image resources. |
@@ -181,7 +182,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [getSmartObjectProvider()](#getSmartObjectProvider--) | Gets the smart object provider. |
 | [getSourceImagePath_internalized()](#getSourceImagePath-internalized--) | Gets the file path of source image if it's exist. |
 | [getSyncExclusiveOperation_internalized()](#getSyncExclusiveOperation-internalized--) |  |
-| [getSyncRoot_internalized()](#getSyncRoot-internalized--) | Gets the synchronize root. |
+| [getSyncRoot_internalized()](#getSyncRoot-internalized--) | Gets the synchronization root. |
 | [getTimeline()](#getTimeline--) | Gets the  Timeline ([.getTimeline](../../null/\#getTimeline)/[.setTimeline(Timeline)](../../null/\#setTimeline-Timeline-)) of this [PsdImage](../../com.aspose.psd.fileformats.psd/psdimage). |
 | [getTransparentColor()](#getTransparentColor--) | Gets the image transparent color. |
 | [getUpdateXmpData()](#getUpdateXmpData--) | Gets or sets a value indicating whether to update the XMP metadata. |
@@ -1861,6 +1862,21 @@ Gets or sets the horizontal resolution, in pixels per inch, of this [PsdImage](.
 
 **Returns:**
 double
+### getImageDataReader_internalized(LoadOptions loadOptions) {#getImageDataReader-internalized-com.aspose.psd.LoadOptions-}
+```
+public final IImageDataReader getImageDataReader_internalized(LoadOptions loadOptions)
+```
+
+
+Gets the image data reader.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| loadOptions | [LoadOptions](../../com.aspose.psd/loadoptions) | The load options. |
+
+**Returns:**
+com.aspose.internal.fileformats.psd.IImageDataReader - The image data reader, or null if image data section is not available.
 ### getImageLayers_internalized() {#getImageLayers-internalized--}
 ```
 public final Layer[] getImageLayers_internalized()
@@ -2292,9 +2308,9 @@ public final Object getSyncRoot_internalized()
 ```
 
 
-Gets the synchronize root.
+Gets the synchronization root.
 
-Value: The synchronize root.
+Value: The synchronization root.
 
 **Returns:**
 java.lang.Object
