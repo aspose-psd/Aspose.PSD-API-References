@@ -3,7 +3,7 @@ title: Interface IPartialRawDataLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IPartialRawDataLoader interface. The partial data loader
 type: docs
-weight: 5040
+weight: 5030
 url: /net/aspose.psd/ipartialrawdataloader/
 ---
 {{< psd/tize >}}

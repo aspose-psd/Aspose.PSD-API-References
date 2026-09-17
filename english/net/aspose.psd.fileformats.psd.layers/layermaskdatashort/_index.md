@@ -1,7 +1,7 @@
 ---
 title: Class LayerMaskDataShort
 second_title: Aspose.PSD for .NET API Reference
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataShort class. Defines the LayerMaskDataShort class which contains information about the mask data in the PSD file layer when the layer has only raster or vector mask but not both. Otherwise a LayerMaskDataFull is used. If the layer has only a raster mask the ImageData contains the raster mask data bytes. If the layer has only a vector mask the ImageData contains the vector mask rasterized cached data bytes. The ImageData bytes length should be equal Width  Height of MaskRectangle properties
+description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataShort class. Defines the LayerMaskDataShort class which contains information about the mask data in the PSD file layer when the layer has only raster or vector mask but not both. Otherwise a LayerMaskDataFull is used. If the layer has only a raster mask the ImageData contains the raster mask data bytes. If the layer has only a vector mask the ImageData contains the vector mask rasterized cached data bytes. The ImageDataLong bytes length should be equal Width  Height of MaskRectangle properties
 type: docs
 weight: 2460
 url: /net/aspose.psd.fileformats.psd.layers/layermaskdatashort/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers/layermaskdatashort/
 {{< psd/tize >}}
 ## LayerMaskDataShort class
 
-Defines the LayerMaskDataShort class which contains information about the mask data in the PSD file layer when the layer has only raster or vector mask but not both. Otherwise, a [`LayerMaskDataFull`](../layermaskdatafull/) is used. If the layer has only a raster mask the ImageData contains the raster mask data bytes. If the layer has only a vector mask the ImageData contains the vector mask rasterized (cached) data bytes. The [`ImageData`](../layermaskdata/imagedata/) bytes length should be equal Width * Height of [`MaskRectangle`](../layermaskdata/maskrectangle/) properties.
+Defines the LayerMaskDataShort class which contains information about the mask data in the PSD file layer when the layer has only raster or vector mask but not both. Otherwise, a [`LayerMaskDataFull`](../layermaskdatafull/) is used. If the layer has only a raster mask the ImageData contains the raster mask data bytes. If the layer has only a vector mask the ImageData contains the vector mask rasterized (cached) data bytes. The ImageDataLong bytes length should be equal Width * Height of [`MaskRectangle`](../layermaskdata/maskrectangle/) properties.
 
 ```csharp
 public sealed class LayerMaskDataShort : LayerMaskData
