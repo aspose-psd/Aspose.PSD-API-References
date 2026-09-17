@@ -3,7 +3,7 @@ title: Interface IPartialArgb32PixelLoader
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.IPartialArgb32PixelLoader interface. Conforms to the 32bit ARGB pixels loaded partially
 type: docs
-weight: 5010
+weight: 5000
 url: /net/aspose.psd/ipartialargb32pixelloader/
 ---
 {{< psd/tize >}}

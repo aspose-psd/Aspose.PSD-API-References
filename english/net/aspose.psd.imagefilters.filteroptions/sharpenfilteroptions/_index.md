@@ -3,7 +3,7 @@ title: Class SharpenFilterOptions
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions class. The Sharpen filter options
 type: docs
-weight: 5240
+weight: 5230
 url: /net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
 {{< psd/tize >}}

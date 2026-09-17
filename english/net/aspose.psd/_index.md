@@ -85,8 +85,6 @@ The namespace is the core for nested namespaces and the most basic objects used 
 
 | Interface | Description |
 | --- | --- |
-| [IAdvancedBufferProcessor](./iadvancedbufferprocessor/) | The advanced buffer processor. |
-| [IBufferProcessor](./ibufferprocessor/) | The buffer processor. |
 | [IColorConverter](./icolorconverter/) | The color converter. |
 | [IColorPalette](./icolorpalette/) | The color palette interface. |
 | [IImageCreator](./iimagecreator/) | The image creator. |

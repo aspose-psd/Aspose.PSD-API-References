@@ -3,7 +3,7 @@ title: Enum ResizeType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ResizeType enum. Specifies the resize type
 type: docs
-weight: 5900
+weight: 5890
 url: /net/aspose.psd/resizetype/
 ---
 {{< psd/tize >}}

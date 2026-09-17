@@ -15,6 +15,7 @@ The namespace contains PSD file format entities contained in layers.
 | --- | --- |
 | [AddNoiseSmartFilter](./addnoisesmartfilter/) | The AddNoise smart filter. |
 | [DisplaceSmartFilter](./displacesmartfilter/) | The Displace smart filter. |
+| [EmbossSmartFilter](./embosssmartfilter/) | The Emboss smart filter. |
 | [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | The GaussianBlur smart filter. |
 | [SharpenSmartFilter](./sharpensmartfilter/) | The Sharpen smart filter. |
 | [SmartFilter](./smartfilter/) | The class to process a base logic of smart filters. |
