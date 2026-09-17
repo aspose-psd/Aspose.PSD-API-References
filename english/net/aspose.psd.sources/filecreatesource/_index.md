@@ -3,7 +3,7 @@ title: Class FileCreateSource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Sources.FileCreateSource class. Represents a file source for creation
 type: docs
-weight: 6120
+weight: 6110
 url: /net/aspose.psd.sources/filecreatesource/
 ---
 {{< psd/tize >}}

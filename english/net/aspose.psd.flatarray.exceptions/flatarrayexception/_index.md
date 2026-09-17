@@ -3,7 +3,7 @@ title: Class FlatArrayException
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FlatArray.Exceptions.FlatArrayException class. Special exception for FlatArray class
 type: docs
-weight: 4770
+weight: 4780
 url: /net/aspose.psd.flatarray.exceptions/flatarrayexception/
 ---
 {{< psd/tize >}}

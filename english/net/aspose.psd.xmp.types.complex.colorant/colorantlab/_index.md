@@ -3,7 +3,7 @@ title: Class ColorantLab
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantLab class. Represents LAB Colorant
 type: docs
-weight: 6560
+weight: 6550
 url: /net/aspose.psd.xmp.types.complex.colorant/colorantlab/
 ---
 {{< psd/tize >}}
