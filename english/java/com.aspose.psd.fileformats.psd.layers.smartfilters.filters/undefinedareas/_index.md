@@ -3,7 +3,7 @@ title: UndefinedAreas
 second_title: Aspose.PSD for Java API Reference
 description: Undefined areas enumeration.
 type: docs
-weight: 16
+weight: 18
 url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/undefinedareas/
 ---
 

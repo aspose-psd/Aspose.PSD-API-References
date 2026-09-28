@@ -3,7 +3,7 @@ title: IImageCreatorDescriptor
 second_title: Aspose.PSD for Java API Reference
 description: The image creator descriptor specifying the creator properties.
 type: docs
-weight: 119
+weight: 117
 url: /java/com.aspose.psd/iimagecreatordescriptor/
 ---
 

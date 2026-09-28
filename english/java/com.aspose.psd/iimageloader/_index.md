@@ -3,7 +3,7 @@ title: IImageLoader
 second_title: Aspose.PSD for Java API Reference
 description: The image loader.
 type: docs
-weight: 123
+weight: 121
 url: /java/com.aspose.psd/iimageloader/
 ---
 ```

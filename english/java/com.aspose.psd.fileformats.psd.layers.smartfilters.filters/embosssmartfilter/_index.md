@@ -1,19 +1,29 @@
 ---
-title: UnknownSmartFilter
+title: EmbossSmartFilter
 second_title: Aspose.PSD for Java API Reference
-description: The class to hold unknown smart filter data.
+description: The Emboss smart filter.
 type: docs
-weight: 19
-url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/unknownsmartfilter/
+weight: 13
+url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/embosssmartfilter/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.fileformats.psd.layers.smartfilters.filters.SmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/smartfilter)
 ```
-public final class UnknownSmartFilter extends SmartFilter
+public final class EmbossSmartFilter extends SmartFilter
 ```
 
-The class to hold unknown smart filter data.
+The Emboss smart filter.
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [EmbossSmartFilter()](#EmbossSmartFilter--) | Initializes a new instance of the [EmbossSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/embosssmartfilter) class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [FilterType](#FilterType) | The identifier of current smart filter. |
 ## Methods
 
 | Method | Description |
@@ -23,9 +33,12 @@ The class to hold unknown smart filter data.
 | [create_internalized(DescriptorStructure sourceDescriptor)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-) |  |
 | [deepClone()](#deepClone--) | Makes the memberwise clone of the current instance of the type. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAmount()](#getAmount--) | Gets or sets the amount of emboss filter (percent). |
+| [getAngle()](#getAngle--) | Gets or sets the angle of emboss filter (degrees, 0-360). |
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blending mode. |
 | [getClass()](#getClass--) |  |
 | [getFilterId()](#getFilterId--) | Gets the smart filter type identifier. |
+| [getHeight()](#getHeight--) | Gets or sets the height of emboss filter (pixels). |
 | [getName()](#getName--) | Gets the smart filter name. |
 | [getOpacity()](#getOpacity--) | Gets or sets the opacity value of smart filter. |
 | [getSourceDescriptor()](#getSourceDescriptor--) | The source descriptor structure with smart filter data. |
@@ -33,14 +46,33 @@ The class to hold unknown smart filter data.
 | [isEnabled()](#isEnabled--) | Gets or sets the is enabled status of the smart filter. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
+| [setAmount(int value)](#setAmount-int-) | Gets or sets the amount of emboss filter (percent). |
+| [setAngle(int value)](#setAngle-int-) | Gets or sets the angle of emboss filter (degrees, 0-360). |
 | [setBlendMode(long value)](#setBlendMode-long-) | Gets or sets the blending mode. |
 | [setEnabled(boolean value)](#setEnabled-boolean-) | Gets or sets the is enabled status of the smart filter. |
+| [setHeight(int value)](#setHeight-int-) | Gets or sets the height of emboss filter (pixels). |
 | [setOpacity(double value)](#setOpacity-double-) | Gets or sets the opacity value of smart filter. |
 | [toDescriptorStructure_internalized()](#toDescriptorStructure-internalized--) | Saves the smart filter information to [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) data and return. |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### EmbossSmartFilter() {#EmbossSmartFilter--}
+```
+public EmbossSmartFilter()
+```
+
+
+Initializes a new instance of the [EmbossSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/embosssmartfilter) class.
+
+### FilterType {#FilterType}
+```
+public static final int FilterType
+```
+
+
+The identifier of current smart filter.
+
 ### apply(RasterImage rasterImage) {#apply-com.aspose.psd.RasterImage-}
 ```
 public final void apply(RasterImage rasterImage)
@@ -69,7 +101,7 @@ Applies the current filter to input [Layer](../../com.aspose.psd.fileformats.psd
 
 ### create_internalized(DescriptorStructure sourceDescriptor) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-}
 ```
-public static UnknownSmartFilter create_internalized(DescriptorStructure sourceDescriptor)
+public static EmbossSmartFilter create_internalized(DescriptorStructure sourceDescriptor)
 ```
 
 
@@ -81,7 +113,7 @@ public static UnknownSmartFilter create_internalized(DescriptorStructure sourceD
 | sourceDescriptor | [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) |  |
 
 **Returns:**
-[UnknownSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/unknownsmartfilter)
+[EmbossSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/embosssmartfilter)
 ### deepClone() {#deepClone--}
 ```
 public final SmartFilter deepClone()
@@ -107,6 +139,26 @@ public boolean equals(Object arg0)
 
 **Returns:**
 boolean
+### getAmount() {#getAmount--}
+```
+public final int getAmount()
+```
+
+
+Gets or sets the amount of emboss filter (percent).
+
+**Returns:**
+int
+### getAngle() {#getAngle--}
+```
+public final int getAngle()
+```
+
+
+Gets or sets the angle of emboss filter (degrees, 0-360).
+
+**Returns:**
+int
 ### getBlendMode() {#getBlendMode--}
 ```
 public final long getBlendMode()
@@ -134,6 +186,16 @@ public int getFilterId()
 
 
 Gets the smart filter type identifier.
+
+**Returns:**
+int
+### getHeight() {#getHeight--}
+```
+public final int getHeight()
+```
+
+
+Gets or sets the height of emboss filter (pixels).
 
 **Returns:**
 int
@@ -203,6 +265,32 @@ public final native void notifyAll()
 
 
 
+### setAmount(int value) {#setAmount-int-}
+```
+public final void setAmount(int value)
+```
+
+
+Gets or sets the amount of emboss filter (percent).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
+### setAngle(int value) {#setAngle-int-}
+```
+public final void setAngle(int value)
+```
+
+
+Gets or sets the angle of emboss filter (degrees, 0-360).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
+
 ### setBlendMode(long value) {#setBlendMode-long-}
 ```
 public final void setBlendMode(long value)
@@ -228,6 +316,19 @@ Gets or sets the is enabled status of the smart filter.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | boolean |  |
+
+### setHeight(int value) {#setHeight-int-}
+```
+public final void setHeight(int value)
+```
+
+
+Gets or sets the height of emboss filter (pixels).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### setOpacity(double value) {#setOpacity-double-}
 ```

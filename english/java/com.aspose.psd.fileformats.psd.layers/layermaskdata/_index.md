@@ -31,6 +31,7 @@ Defines base LayerMaskData class which contains information about the layer mask
 | [getFlags()](#getFlags--) | Gets or sets the layer mask flags. |
 | [getHeight_internalized()](#getHeight-internalized--) | Gets the mask height. |
 | [getImageData()](#getImageData--) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
+| [getImageDataLong_internalized()](#getImageDataLong-internalized--) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
 | [getLeft()](#getLeft--) | Gets or sets the left layer mask position. |
 | [getMaskRectangle()](#getMaskRectangle--) | Gets or sets the mask  Rectangle  of the layer mask in the PSD file. |
 | [getRight()](#getRight--) | Gets or sets the right layer mask position. |
@@ -44,6 +45,7 @@ Defines base LayerMaskData class which contains information about the layer mask
 | [setDefaultColor(byte value)](#setDefaultColor-byte-) | Gets or sets the default color. |
 | [setFlags(byte value)](#setFlags-byte-) | Gets or sets the layer mask flags. |
 | [setImageData(byte[] value)](#setImageData-byte---) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
+| [setImageDataLong_internalized(LongArray value)](#setImageDataLong-internalized-com.aspose.internal.LongArray-) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
 | [setLeft(int value)](#setLeft-int-) | Gets or sets the left layer mask position. |
 | [setMaskRectangle(Rectangle value)](#setMaskRectangle-com.aspose.psd.Rectangle-) | Gets or sets the mask  Rectangle  of the layer mask in the PSD file. |
 | [setRight(int value)](#setRight-int-) | Gets or sets the right layer mask position. |
@@ -170,10 +172,22 @@ public final byte[] getImageData()
 
 Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
 
-Value: The image data.
+Value: The layer mask data in the PSD image.
 
 **Returns:**
 byte[]
+### getImageDataLong_internalized() {#getImageDataLong-internalized--}
+```
+public final LongArray getImageDataLong_internalized()
+```
+
+
+Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
+
+Value: The image data.
+
+**Returns:**
+com.aspose.internal.LongArray
 ### getLeft() {#getLeft--}
 ```
 public final int getLeft()
@@ -326,12 +340,27 @@ public final void setImageData(byte[] value)
 
 Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
 
-Value: The image data.
+Value: The layer mask data in the PSD image.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | byte[] |  |
+
+### setImageDataLong_internalized(LongArray value) {#setImageDataLong-internalized-com.aspose.internal.LongArray-}
+```
+public final void setImageDataLong_internalized(LongArray value)
+```
+
+
+Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
+
+Value: The image data.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.LongArray |  |
 
 ### setLeft(int value) {#setLeft-int-}
 ```
