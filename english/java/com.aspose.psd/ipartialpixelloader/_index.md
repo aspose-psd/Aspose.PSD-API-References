@@ -3,7 +3,7 @@ title: IPartialPixelLoader
 second_title: Aspose.PSD for Java API Reference
 description: Conforms to the pixels loaded partially.
 type: docs
-weight: 132
+weight: 130
 url: /java/com.aspose.psd/ipartialpixelloader/
 ---
 ```

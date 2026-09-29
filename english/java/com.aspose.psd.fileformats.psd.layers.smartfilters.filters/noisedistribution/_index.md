@@ -3,7 +3,7 @@ title: NoiseDistribution
 second_title: Aspose.PSD for Java API Reference
 description: The distribution of noise filter.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/noisedistribution/
 ---
 

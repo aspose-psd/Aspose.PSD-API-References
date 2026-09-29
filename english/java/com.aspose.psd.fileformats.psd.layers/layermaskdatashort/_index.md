@@ -13,7 +13,7 @@ java.lang.Object, [com.aspose.psd.fileformats.psd.layers.LayerMaskData](../../co
 public final class LayerMaskDataShort extends LayerMaskData
 ```
 
-Defines the LayerMaskDataShort class which contains information about the mask data in the PSD file layer when the layer has only raster or vector mask but not both. Otherwise, a [LayerMaskDataFull](../../com.aspose.psd.fileformats.psd.layers/layermaskdatafull) is used. If the layer has only a raster mask the ImageData contains the raster mask data bytes. If the layer has only a vector mask the ImageData contains the vector mask rasterized (cached) data bytes. The  LayerMaskData.ImageData ([LayerMaskData.getImageData](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#getImageData)/[LayerMaskData.setImageData(byte[])](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#setImageData-byte---)) bytes length should be equal Width \* Height of  LayerMaskData.MaskRectangle ([LayerMaskData.getMaskRectangle](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#getMaskRectangle)/[LayerMaskData.setMaskRectangle(Rectangle)](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#setMaskRectangle-Rectangle-)) properties.
+Defines the LayerMaskDataShort class which contains information about the mask data in the PSD file layer when the layer has only raster or vector mask but not both. Otherwise, a [LayerMaskDataFull](../../com.aspose.psd.fileformats.psd.layers/layermaskdatafull) is used. If the layer has only a raster mask the ImageData contains the raster mask data bytes. If the layer has only a vector mask the ImageData contains the vector mask rasterized (cached) data bytes. The  LayerMaskData.ImageDataLong ([LayerMaskData.getImageDataLong\_internalized()](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#getImageDataLong-internalized--)/[LayerMaskData.setImageDataLong\_internalized(LongArray)](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#setImageDataLong-internalized-LongArray-) ()\}) bytes length should be equal Width \* Height of  LayerMaskData.MaskRectangle ([LayerMaskData.getMaskRectangle](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#getMaskRectangle)/[LayerMaskData.setMaskRectangle()](../../com.aspose.psd.fileformats.psd.layers/layermaskdata\#setMaskRectangle--)) properties.
 ## Constructors
 
 | Constructor | Description |
@@ -34,6 +34,7 @@ Defines the LayerMaskDataShort class which contains information about the mask d
 | [getFlags()](#getFlags--) | Gets or sets the layer mask flags. |
 | [getHeight_internalized()](#getHeight-internalized--) | Gets the mask height. |
 | [getImageData()](#getImageData--) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
+| [getImageDataLong_internalized()](#getImageDataLong-internalized--) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
 | [getLeft()](#getLeft--) | Gets or sets the left layer mask position. |
 | [getMaskRectangle()](#getMaskRectangle--) | Gets or sets the mask  Rectangle  of the layer mask in the PSD file. |
 | [getPadding()](#getPadding--) | Gets or sets the layer mask padding. |
@@ -48,6 +49,7 @@ Defines the LayerMaskDataShort class which contains information about the mask d
 | [setDefaultColor(byte value)](#setDefaultColor-byte-) | Gets or sets the default color. |
 | [setFlags(byte value)](#setFlags-byte-) | Gets or sets the layer mask flags. |
 | [setImageData(byte[] value)](#setImageData-byte---) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
+| [setImageDataLong_internalized(LongArray value)](#setImageDataLong-internalized-com.aspose.internal.LongArray-) | Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file. |
 | [setLeft(int value)](#setLeft-int-) | Gets or sets the left layer mask position. |
 | [setMaskRectangle(Rectangle value)](#setMaskRectangle-com.aspose.psd.Rectangle-) | Gets or sets the mask  Rectangle  of the layer mask in the PSD file. |
 | [setPadding(short value)](#setPadding-short-) | Gets or sets the layer mask padding. |
@@ -198,10 +200,22 @@ public final byte[] getImageData()
 
 Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
 
-Value: The image data.
+Value: The layer mask data in the PSD image.
 
 **Returns:**
 byte[]
+### getImageDataLong_internalized() {#getImageDataLong-internalized--}
+```
+public final LongArray getImageDataLong_internalized()
+```
+
+
+Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
+
+Value: The image data.
+
+**Returns:**
+com.aspose.internal.LongArray
 ### getLeft() {#getLeft--}
 ```
 public final int getLeft()
@@ -366,12 +380,27 @@ public final void setImageData(byte[] value)
 
 Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
 
-Value: The image data.
+Value: The layer mask data in the PSD image.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | byte[] |  |
+
+### setImageDataLong_internalized(LongArray value) {#setImageDataLong-internalized-com.aspose.internal.LongArray-}
+```
+public final void setImageDataLong_internalized(LongArray value)
+```
+
+
+Gets or sets the layer mask data (or combined / final mask if there is a vector mask) in the PSD file.
+
+Value: The image data.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | com.aspose.internal.LongArray |  |
 
 ### setLeft(int value) {#setLeft-int-}
 ```

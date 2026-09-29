@@ -125,8 +125,6 @@ The package is the core for nested packages and the most basic objects used for 
 
 | Interface | Description |
 | --- | --- |
-| [IAdvancedBufferProcessor](../com.aspose.psd/iadvancedbufferprocessor) | The advanced buffer processor. |
-| [IBufferProcessor](../com.aspose.psd/ibufferprocessor) | The buffer processor. |
 | [IColorConverter](../com.aspose.psd/icolorconverter) | The color converter. |
 | [IColorPalette](../com.aspose.psd/icolorpalette) | The color palette interface. |
 | [IImageCreator](../com.aspose.psd/iimagecreator) | The image creator. |
