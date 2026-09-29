@@ -1,26 +1,36 @@
 ---
-title: UnknownSmartFilter
+title: SharpenSmartFilter
 second_title: Aspose.PSD for Java API Reference
-description: The class to hold unknown smart filter data.
+description: The Sharpen smart filter.
 type: docs
-weight: 19
-url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/unknownsmartfilter/
+weight: 16
+url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/sharpensmartfilter/
 ---
 
 **Inheritance:**
 java.lang.Object, [com.aspose.psd.fileformats.psd.layers.smartfilters.filters.SmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/smartfilter)
 ```
-public final class UnknownSmartFilter extends SmartFilter
+public final class SharpenSmartFilter extends SmartFilter
 ```
 
-The class to hold unknown smart filter data.
+The Sharpen smart filter.
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [SharpenSmartFilter()](#SharpenSmartFilter--) | Initializes a new instance of the [SharpenSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/sharpensmartfilter) class. |
+| [SharpenSmartFilter(DescriptorStructure sourceDescriptor)](#SharpenSmartFilter-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-) | Initializes a new instance of the [SharpenSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/sharpensmartfilter) class. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [FilterType](#FilterType) | The identifier of current smart filter. |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [apply(RasterImage rasterImage)](#apply-com.aspose.psd.RasterImage-) | Applies the current filter to input  RasterImage  image. |
 | [applyToMask(Layer layerWithMask)](#applyToMask-com.aspose.psd.fileformats.psd.layers.Layer-) | Applies the current filter to input [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) mask data. |
-| [create_internalized(DescriptorStructure sourceDescriptor)](#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-) |  |
 | [deepClone()](#deepClone--) | Makes the memberwise clone of the current instance of the type. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBlendMode()](#getBlendMode--) | Gets or sets the blending mode. |
@@ -41,6 +51,35 @@ The class to hold unknown smart filter data.
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### SharpenSmartFilter() {#SharpenSmartFilter--}
+```
+public SharpenSmartFilter()
+```
+
+
+Initializes a new instance of the [SharpenSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/sharpensmartfilter) class.
+
+### SharpenSmartFilter(DescriptorStructure sourceDescriptor) {#SharpenSmartFilter-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-}
+```
+public SharpenSmartFilter(DescriptorStructure sourceDescriptor)
+```
+
+
+Initializes a new instance of the [SharpenSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/sharpensmartfilter) class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceDescriptor | [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) | The descriptor structure with smart filter info. |
+
+### FilterType {#FilterType}
+```
+public static final int FilterType
+```
+
+
+The identifier of current smart filter.
+
 ### apply(RasterImage rasterImage) {#apply-com.aspose.psd.RasterImage-}
 ```
 public final void apply(RasterImage rasterImage)
@@ -67,21 +106,6 @@ Applies the current filter to input [Layer](../../com.aspose.psd.fileformats.psd
 | --- | --- | --- |
 | layerWithMask | [Layer](../../com.aspose.psd.fileformats.psd.layers/layer) | The layer with mask data. |
 
-### create_internalized(DescriptorStructure sourceDescriptor) {#create-internalized-com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures.DescriptorStructure-}
-```
-public static UnknownSmartFilter create_internalized(DescriptorStructure sourceDescriptor)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceDescriptor | [DescriptorStructure](../../com.aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure) |  |
-
-**Returns:**
-[UnknownSmartFilter](../../com.aspose.psd.fileformats.psd.layers.smartfilters.filters/unknownsmartfilter)
 ### deepClone() {#deepClone--}
 ```
 public final SmartFilter deepClone()

@@ -28,6 +28,7 @@ Helper for file stream processing.
 | [canWrite()](#canWrite--) | Gets a value indicating whether stream supports writing. |
 | [close()](#close--) | Implements the Closable interface and can be used in the try-with-resources statement since JDK 1.7. |
 | [createFileStream(String fileLocation, boolean isTemporal)](#createFileStream-java.lang.String-boolean-) | Creates a new file stream. |
+| [create_internalized(LongArray stream, boolean disposeStream)](#create-internalized-com.aspose.internal.LongArray-boolean-) |  |
 | [create_internalized(System.IO.Stream stream, long startPosition, boolean disposeStream)](#create-internalized-com.aspose.ms.System.IO.Stream-long-boolean-) |  |
 | [dispose()](#dispose--) | Disposes the current instance. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
@@ -51,6 +52,7 @@ Helper for file stream processing.
 | [read(byte[] bytes)](#read-byte---) | Reads bytes to fill the specified bytes buffer. |
 | [read(byte[] buffer, int offset, int count)](#read-byte---int-int-) | Reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read. |
 | [readByte()](#readByte--) | Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream. |
+| [read_internalized(LongArray buffer, long offset, long count)](#read-internalized-com.aspose.internal.LongArray-long-long-) | Reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read. |
 | [save(OutputStream destinationStream)](#save-java.io.OutputStream-) | Saves (copies) the stream's data to the specified stream. |
 | [save(OutputStream destinationStream, int bufferSize)](#save-java.io.OutputStream-int-) | Saves (copies) all the stream's data to the specified stream. |
 | [save(OutputStream destinationStream, int bufferSize, long length)](#save-java.io.OutputStream-int-long-) | Saves (copies) the stream's data to the specified stream. |
@@ -79,6 +81,8 @@ Helper for file stream processing.
 | [writeByte(byte value)](#writeByte-byte-) | Writes a byte to the current position in the stream and advances the position within the stream by one byte. |
 | [writeTo(StreamContainer streamContainer)](#writeTo-com.aspose.psd.StreamContainer-) | Copies the contained data to another  StreamContainer . |
 | [writeTo(StreamContainer streamContainer, long length)](#writeTo-com.aspose.psd.StreamContainer-long-) | Copies the contained data to another  StreamContainer . |
+| [write_internalized(LongArray bytes)](#write-internalized-com.aspose.internal.LongArray-) | Writes all of the specified bytes from LongArray to the stream. |
+| [write_internalized(LongArray buffer, long offset, long count)](#write-internalized-com.aspose.internal.LongArray-long-long-) | Writes a sequence of bytes from LongArray to the current stream and advances the current position within this stream by the number of bytes written. |
 ### READ_WRITE_BYTES_COUNT {#READ-WRITE-BYTES-COUNT}
 ```
 public static final int READ_WRITE_BYTES_COUNT
@@ -147,6 +151,22 @@ Creates a new file stream.
 
 **Returns:**
 [FileStreamContainer](../../com.aspose.psd/filestreamcontainer) - The file stream container.
+### create_internalized(LongArray stream, boolean disposeStream) {#create-internalized-com.aspose.internal.LongArray-boolean-}
+```
+public static StreamContainer create_internalized(LongArray stream, boolean disposeStream)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | com.aspose.internal.LongArray |  |
+| disposeStream | boolean |  |
+
+**Returns:**
+[StreamContainer](../../com.aspose.psd/streamcontainer)
 ### create_internalized(System.IO.Stream stream, long startPosition, boolean disposeStream) {#create-internalized-com.aspose.ms.System.IO.Stream-long-boolean-}
 ```
 public static StreamContainer create_internalized(System.IO.Stream stream, long startPosition, boolean disposeStream)
@@ -424,6 +444,23 @@ Reads a byte from the stream and advances the position within the stream by one 
 
 **Returns:**
 int - The unsigned byte cast to an Int32, or -1 if at the end of the stream.
+### read_internalized(LongArray buffer, long offset, long count) {#read-internalized-com.aspose.internal.LongArray-long-long-}
+```
+public final long read_internalized(LongArray buffer, long offset, long count)
+```
+
+
+Reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read. Implementation for LongArray
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | com.aspose.internal.LongArray | An array of bytes. When this method returns, the buffer contains the specified byte array with the values between  offset  and ( offset  +  count  - 1) replaced by the bytes read from the current source. |
+| offset | long | The zero-based byte offset in  buffer  at which to begin storing the data read from the current stream. |
+| count | long | The maximum number of bytes to be read from the current stream. |
+
+**Returns:**
+long - The total number of bytes read into the buffer. This can be less than the number of bytes requested if that many bytes are not currently available, or zero (0) if the end of the stream has been reached.
 ### save(OutputStream destinationStream) {#save-java.io.OutputStream-}
 ```
 public void save(OutputStream destinationStream)
@@ -809,4 +846,32 @@ Copies the contained data to another  StreamContainer .
 | --- | --- | --- |
 | streamContainer | [StreamContainer](../../com.aspose.psd/streamcontainer) | The stream container to copy to. |
 | length | long | The bytes count to write. |
+
+### write_internalized(LongArray bytes) {#write-internalized-com.aspose.internal.LongArray-}
+```
+public void write_internalized(LongArray bytes)
+```
+
+
+Writes all of the specified bytes from LongArray to the stream.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bytes | com.aspose.internal.LongArray | The bytes to write. |
+
+### write_internalized(LongArray buffer, long offset, long count) {#write-internalized-com.aspose.internal.LongArray-long-long-}
+```
+public void write_internalized(LongArray buffer, long offset, long count)
+```
+
+
+Writes a sequence of bytes from LongArray to the current stream and advances the current position within this stream by the number of bytes written.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | com.aspose.internal.LongArray | An array of bytes. This method copies  count  bytes from  buffer  to the current stream. |
+| offset | long | The zero-based byte offset in  buffer  at which to begin copying bytes to the current stream. |
+| count | long | The number of bytes to be written to the current stream. |
 

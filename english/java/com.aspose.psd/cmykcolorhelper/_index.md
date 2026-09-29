@@ -40,11 +40,13 @@ Helper methods to work with CMYK color presented as a signed 32-bit integer valu
 | [toCmyk(int argbPixel)](#toCmyk-int-) | The conversion from ARGB color to CMYK color. |
 | [toCmyk(int[] argbPixels)](#toCmyk-int---) | The conversion from ARGB colors to CMYK colors. |
 | [toCmykBytes(int[] argbPixels, int startIndex, int length)](#toCmykBytes-int---int-int-) | Converts RGB to CMYK. |
+| [toCmykBytesLong_internalized(int[] argbPixels, long startIndex, long length)](#toCmykBytesLong-internalized-int---long-long-) | Converts RGB to CMYK. |
 | [toCmykIcc(Color pixel)](#toCmykIcc-com.aspose.psd.Color-) | The conversion from ARGB color to CMYK color using Icc conversion with default profiles. |
 | [toCmykIcc(Color pixel, InputStream rgbIccStream, InputStream cmykIccStream)](#toCmykIcc-com.aspose.psd.Color-java.io.InputStream-java.io.InputStream-) | The conversion from ARGB color to CMYK color using Icc conversion with custom profiles. |
 | [toCmykIcc(Color[] pixels)](#toCmykIcc-com.aspose.psd.Color---) | The conversion from ARGB colors to CMYK colors using Icc conversion with default profiles. |
 | [toCmykIcc(Color[] pixels, InputStream rgbIccStream, InputStream cmykIccStream)](#toCmykIcc-com.aspose.psd.Color---java.io.InputStream-java.io.InputStream-) | The conversion from ARGB colors to CMYK colors using Icc conversion with custom profiles. |
 | [toCmykIccBytes(int[] pixels, int startIndex, int length, InputStream rgbIccStream, InputStream cmykIccStream)](#toCmykIccBytes-int---int-int-java.io.InputStream-java.io.InputStream-) | Converts RGB to CMYK using custom ICC profiles. |
+| [toCmykIccBytesLong_internalized(int[] pixels, long startIndex, long length, System.IO.Stream rgbIccStream, System.IO.Stream cmykIccStream)](#toCmykIccBytesLong-internalized-int---long-long-com.aspose.ms.System.IO.Stream-com.aspose.ms.System.IO.Stream-) | Converts RGB to CMYK using custom ICC profiles for Large CMYK Images |
 | [toCmykIccBytes_internalized(int[] pixels, int startIndex, int length, System.IO.Stream rgbIccStream, System.IO.Stream cmykIccStream)](#toCmykIccBytes-internalized-int---int-int-com.aspose.ms.System.IO.Stream-com.aspose.ms.System.IO.Stream-) |  |
 | [toString()](#toString--) |  |
 | [wait()](#wait--) |  |
@@ -365,6 +367,23 @@ Converts RGB to CMYK.
 
 **Returns:**
 byte[] - The CMYK colors presented as a byte array.
+### toCmykBytesLong_internalized(int[] argbPixels, long startIndex, long length) {#toCmykBytesLong-internalized-int---long-long-}
+```
+public static LongArray toCmykBytesLong_internalized(int[] argbPixels, long startIndex, long length)
+```
+
+
+Converts RGB to CMYK.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| argbPixels | int[] | The RGB colors presented as 32-bit integer values. |
+| startIndex | long | The start index of RGB color. |
+| length | long | The number of RGB pixels to convert. |
+
+**Returns:**
+com.aspose.internal.LongArray - The CMYK colors presented as a byte array.
 ### toCmykIcc(Color pixel) {#toCmykIcc-com.aspose.psd.Color-}
 ```
 public static int toCmykIcc(Color pixel)
@@ -448,6 +467,25 @@ Converts RGB to CMYK using custom ICC profiles.
 
 **Returns:**
 byte[] - The CMYK colors presented as a byte array.
+### toCmykIccBytesLong_internalized(int[] pixels, long startIndex, long length, System.IO.Stream rgbIccStream, System.IO.Stream cmykIccStream) {#toCmykIccBytesLong-internalized-int---long-long-com.aspose.ms.System.IO.Stream-com.aspose.ms.System.IO.Stream-}
+```
+public static LongArray toCmykIccBytesLong_internalized(int[] pixels, long startIndex, long length, System.IO.Stream rgbIccStream, System.IO.Stream cmykIccStream)
+```
+
+
+Converts RGB to CMYK using custom ICC profiles for Large CMYK Images
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pixels | int[] | The RGB colors presented as 32-bit integer values. |
+| startIndex | long | The start index of RGB color. |
+| length | long | The number of RGB pixels to convert. |
+| rgbIccStream | com.aspose.ms.System.IO.Stream | The RGB profile stream. |
+| cmykIccStream | com.aspose.ms.System.IO.Stream | The CMYK profile stream. |
+
+**Returns:**
+com.aspose.internal.LongArray - The CMYK colors presented as a byte array.
 ### toCmykIccBytes_internalized(int[] pixels, int startIndex, int length, System.IO.Stream rgbIccStream, System.IO.Stream cmykIccStream) {#toCmykIccBytes-internalized-int---int-int-com.aspose.ms.System.IO.Stream-com.aspose.ms.System.IO.Stream-}
 ```
 public static byte[] toCmykIccBytes_internalized(int[] pixels, int startIndex, int length, System.IO.Stream rgbIccStream, System.IO.Stream cmykIccStream)

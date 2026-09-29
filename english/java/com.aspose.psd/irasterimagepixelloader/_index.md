@@ -3,7 +3,7 @@ title: IRasterImagePixelLoader
 second_title: Aspose.PSD for Java API Reference
 description: The raster image pixel loader.
 type: docs
-weight: 136
+weight: 134
 url: /java/com.aspose.psd/irasterimagepixelloader/
 ---
 

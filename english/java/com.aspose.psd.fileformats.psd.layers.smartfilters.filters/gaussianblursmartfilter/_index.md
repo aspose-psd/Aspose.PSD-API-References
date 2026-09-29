@@ -3,7 +3,7 @@ title: GaussianBlurSmartFilter
 second_title: Aspose.PSD for Java API Reference
 description: The GaussianBlur smart filter.
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/gaussianblursmartfilter/
 ---
 

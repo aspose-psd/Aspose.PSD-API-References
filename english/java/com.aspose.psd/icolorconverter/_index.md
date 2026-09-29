@@ -3,7 +3,7 @@ title: IColorConverter
 second_title: Aspose.PSD for Java API Reference
 description: The color converter.
 type: docs
-weight: 116
+weight: 114
 url: /java/com.aspose.psd/icolorconverter/
 ---
 ```

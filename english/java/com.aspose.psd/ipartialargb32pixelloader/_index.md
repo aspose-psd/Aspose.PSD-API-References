@@ -3,7 +3,7 @@ title: IPartialArgb32PixelLoader
 second_title: Aspose.PSD for Java API Reference
 description: Conforms to the 32-bit ARGB pixels loaded partially.
 type: docs
-weight: 130
+weight: 128
 url: /java/com.aspose.psd/ipartialargb32pixelloader/
 ---
 ```
