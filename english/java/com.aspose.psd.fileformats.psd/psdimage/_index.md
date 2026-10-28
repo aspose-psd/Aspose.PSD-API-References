@@ -323,6 +323,7 @@ Defines the PsdImage class that provides the ability to load, edit, save PSD fil
 | [toBitmap()](#toBitmap--) | Converts raster image to the bitmap. |
 | [toBitmap_internalized()](#toBitmap-internalized--) |  |
 | [toString()](#toString--) |  |
+| [tryGetHasRealMergedData_internalized(ResourceBlock[] resources)](#tryGetHasRealMergedData-internalized-com.aspose.psd.fileformats.psd.ResourceBlock---) | Looks up the Version Info resource (ID 1057) to determine if real merged data exists. |
 | [wait()](#wait--) |  |
 | [wait(long arg0)](#wait-long-) |  |
 | [wait(long arg0, int arg1)](#wait-long-int-) |  |
@@ -4179,6 +4180,21 @@ public String toString()
 
 **Returns:**
 java.lang.String
+### tryGetHasRealMergedData_internalized(ResourceBlock[] resources) {#tryGetHasRealMergedData-internalized-com.aspose.psd.fileformats.psd.ResourceBlock---}
+```
+public static Boolean tryGetHasRealMergedData_internalized(ResourceBlock[] resources)
+```
+
+
+Looks up the Version Info resource (ID 1057) to determine if real merged data exists.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resources | [ResourceBlock\[\]](../../com.aspose.psd.fileformats.psd/resourceblock) | The image resources to search. |
+
+**Returns:**
+java.lang.Boolean - The HasRealMergedData value from Version Info resource, or null if not found.
 ### wait() {#wait--}
 ```
 public final void wait()

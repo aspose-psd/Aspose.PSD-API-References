@@ -3,7 +3,7 @@ title: ILayerEffect
 second_title: Aspose.PSD for Java API Reference
 description: Interface for Layer Effects
 type: docs
-weight: 20
+weight: 21
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
 ```
