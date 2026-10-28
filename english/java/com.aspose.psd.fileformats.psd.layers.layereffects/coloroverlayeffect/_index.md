@@ -3,7 +3,7 @@ title: ColorOverlayEffect
 second_title: Aspose.PSD for Java API Reference
 description: Color Overlay Layer effect
 type: docs
-weight: 11
+weight: 12
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
 

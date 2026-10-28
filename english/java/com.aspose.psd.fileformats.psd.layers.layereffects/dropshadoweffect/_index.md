@@ -3,7 +3,7 @@ title: DropShadowEffect
 second_title: Aspose.PSD for Java API Reference
 description: Drop Shadow Layer effect
 type: docs
-weight: 12
+weight: 13
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/
 ---
 

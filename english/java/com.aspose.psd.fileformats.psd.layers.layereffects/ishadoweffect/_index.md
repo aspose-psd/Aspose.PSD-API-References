@@ -3,7 +3,7 @@ title: IShadowEffect
 second_title: Aspose.PSD for Java API Reference
 description: Interface for Shadow Layer Effects
 type: docs
-weight: 21
+weight: 22
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
 ---
 

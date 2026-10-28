@@ -3,7 +3,7 @@ title: Enum LnsrResourceType
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType enum. Discovered Possible Lnsr Resource Types
 type: docs
-weight: 3070
+weight: 3080
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: StrokePosition
 second_title: Aspose.PSD for Java API Reference
 description: The position setting controls the alignment of your stroke to the layer its applied to in the .
 type: docs
-weight: 18
+weight: 19
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
 

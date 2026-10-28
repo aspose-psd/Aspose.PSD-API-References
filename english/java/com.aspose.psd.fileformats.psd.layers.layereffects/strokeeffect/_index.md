@@ -3,7 +3,7 @@ title: StrokeEffect
 second_title: Aspose.PSD for Java API Reference
 description: The Adobe Photoshop stroke effect for the PSD layer.
 type: docs
-weight: 17
+weight: 18
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
 
