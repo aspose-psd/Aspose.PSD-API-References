@@ -3,7 +3,7 @@ title: Class VersionInfoResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Resources.VersionInfoResource class. Version Info resource
 type: docs
-weight: 4470
+weight: 4480
 url: /net/aspose.psd.fileformats.psd.resources/versioninforesource/
 ---
 {{< psd/tize >}}

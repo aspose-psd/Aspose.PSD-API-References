@@ -3,7 +3,7 @@ title: Enum UndefinedAreas
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UndefinedAreas enum. Undefined areas enumeration
 type: docs
-weight: 3930
+weight: 3940
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/undefinedareas/
 ---
 {{< psd/tize >}}

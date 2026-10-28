@@ -3,7 +3,7 @@ title: Enum TiffNewSubFileTypes
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes enum. The tiff new sub file type enum
 type: docs
-weight: 4610
+weight: 4620
 url: /net/aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/
 ---
 {{< psd/tize >}}

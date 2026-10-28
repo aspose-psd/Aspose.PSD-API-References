@@ -3,7 +3,7 @@ title: Class EmbossSmartFilter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.EmbossSmartFilter class. The Emboss smart filter
 type: docs
-weight: 3860
+weight: 3870
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/embosssmartfilter/
 ---
 {{< psd/tize >}}
@@ -48,6 +48,52 @@ public sealed class EmbossSmartFilter : SmartFilter
 | Name | Description |
 | --- | --- |
 | const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/embosssmartfilter/filtertype/) | The identifier of current smart filter. |
+
+## Examples
+
+The following code demonstrates the support of Emboss smart filter.
+
+```csharp
+[C#]
+
+string srcFileName = "no_filter.psd";
+string sourceFile = srcFileName;
+string outputFile = "out_PSDNET2834.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile))
+{
+    SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
+    var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
+    EmbossSmartFilter emboss = new EmbossSmartFilter();
+    emboss.Angle = 180;
+    emboss.Height = 10;
+    emboss.Amount = 120;
+    filters.Add(emboss);
+    smartObj.SmartFilters.Filters = filters.ToArray();
+    smartObj.SmartFilters.UpdateResourceValues();
+
+    image.Save(outputFile);
+    // Check that output file can be opened by PS.
+}
+
+using (var image = (PsdImage)Image.Load(outputFile))
+{
+    SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
+    EmbossSmartFilter emboss = (EmbossSmartFilter)smartObj.SmartFilters.Filters[0];
+
+    AssertAreEqual(180, emboss.Angle);
+    AssertAreEqual(10, emboss.Height);
+    AssertAreEqual(120, emboss.Amount);
+}
+
+void AssertAreEqual(object expected, object actual, string message = null)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception(message ?? "Objects are not equal.");
+    }
+}
+```
 
 ### See Also
 
