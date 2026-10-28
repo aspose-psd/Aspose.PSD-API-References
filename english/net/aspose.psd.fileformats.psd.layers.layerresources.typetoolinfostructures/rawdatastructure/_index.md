@@ -3,7 +3,7 @@ title: Class RawDataStructure
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.RawDataStructure class. The raw data structure
 type: docs
-weight: 3630
+weight: 3640
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/
 ---
 {{< psd/tize >}}

@@ -13,6 +13,7 @@ The namespace contains Layer Effects wrappers
 
 | Class | Description |
 | --- | --- |
+| [BevelEmbossEffect](./bevelembosseffect/) | Represents the Adobe® Photoshop® bevel and emboss layer effect. |
 | [BlendingOptions](./blendingoptions/) | BlendingOptions. It's a wrapper for BaseFxResource which provides api for layer effects |
 | [ColorOverlayEffect](./coloroverlayeffect/) | Color Overlay Layer effect |
 | [DropShadowEffect](./dropshadoweffect/) | Drop Shadow Layer effect |

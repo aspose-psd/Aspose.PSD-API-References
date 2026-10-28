@@ -3,7 +3,7 @@ title: Class DisplaceSmartFilter
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.DisplaceSmartFilter class. The Displace smart filter
 type: docs
-weight: 3840
+weight: 3850
 url: /net/aspose.psd.fileformats.psd.layers.smartfilters/displacesmartfilter/
 ---
 {{< psd/tize >}}

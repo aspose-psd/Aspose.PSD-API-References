@@ -3,7 +3,7 @@ title: Class NonGenericDictionary
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.NonGenericDictionary class. Represents a non generic dictionary
 type: docs
-weight: 5650
+weight: 5660
 url: /net/aspose.psd/nongenericdictionary/
 ---
 {{< psd/tize >}}

@@ -3,7 +3,7 @@ title: Class LmskResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LmskResource class. The LMsk resource
 type: docs
-weight: 3020
+weight: 3030
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/lmskresource/
 ---
 {{< psd/tize >}}

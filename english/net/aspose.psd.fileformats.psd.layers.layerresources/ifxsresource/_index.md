@@ -3,7 +3,7 @@ title: Class IfxsResource
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IfxsResource class. Ifxs resource group layer effects resource
 type: docs
-weight: 2840
+weight: 2850
 url: /net/aspose.psd.fileformats.psd.layers.layerresources/ifxsresource/
 ---
 {{< psd/tize >}}
