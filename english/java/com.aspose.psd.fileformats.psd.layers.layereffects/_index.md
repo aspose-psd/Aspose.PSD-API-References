@@ -12,6 +12,7 @@ url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/
 
 | Class | Description |
 | --- | --- |
+| [BevelEmbossEffect](../com.aspose.psd.fileformats.psd.layers.layereffects/bevelembosseffect) | Represents the Adobe® Photoshop® bevel and emboss layer effect. |
 | [BlendingOptions](../com.aspose.psd.fileformats.psd.layers.layereffects/blendingoptions) | BlendingOptions. |
 | [ColorOverlayEffect](../com.aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect) | Color Overlay Layer effect |
 | [DropShadowEffect](../com.aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect) | Drop Shadow Layer effect |

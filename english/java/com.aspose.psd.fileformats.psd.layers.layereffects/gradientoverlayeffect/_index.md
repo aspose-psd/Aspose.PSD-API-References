@@ -3,7 +3,7 @@ title: GradientOverlayEffect
 second_title: Aspose.PSD for Java API Reference
 description: Gradient Layer effect
 type: docs
-weight: 13
+weight: 14
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/
 ---
 

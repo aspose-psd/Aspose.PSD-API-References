@@ -3,7 +3,7 @@ title: OuterGlowEffect
 second_title: Aspose.PSD for Java API Reference
 description: Outer Glow Layer effect
 type: docs
-weight: 15
+weight: 16
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
 

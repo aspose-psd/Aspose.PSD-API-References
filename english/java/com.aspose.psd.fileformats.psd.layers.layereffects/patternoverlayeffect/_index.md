@@ -3,7 +3,7 @@ title: PatternOverlayEffect
 second_title: Aspose.PSD for Java API Reference
 description: Pattern Layer effect
 type: docs
-weight: 16
+weight: 17
 url: /java/com.aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
 
